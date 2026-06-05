@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 } from 'recharts';
@@ -130,7 +131,8 @@ const MovieCard = ({ title, count, onClick }: { title: string, count: number, on
 };
 
 export default function Dashboard() {
-  const [data, setData] = useState<VocabItem[]>([]);
+  const router = useRouter();
+  const [manifestData, setManifestData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [selectedYear, setSelectedYear] = useState<string>("all");
   const [selectedMovie, setSelectedMovie] = useState<{title: string, count: number, posterUrl: string | null, episodes: {name: string, count: number}[]} | null>(null);
@@ -145,110 +147,28 @@ export default function Dashboard() {
   });
 
   useEffect(() => {
-    fetch('/data/vocabulario.json')
+    fetch('/data/manifest.json')
       .then(res => res.json())
-      .then((json: VocabItem[]) => {
-        setData(json);
+      .then(json => {
+        setManifestData(json);
         setLoading(false);
       })
-      .catch(err => console.error("Error cargando JSON:", err));
+      .catch(err => console.error("Error cargando manifest:", err));
   }, []);
 
   useEffect(() => {
-    if (data.length > 0) {
-      let filteredData = data;
-      if (selectedYear !== "all") {
-        filteredData = data.filter(item => item.year_processed === selectedYear);
-      }
-      procesarEstadisticas(filteredData, data);
+    if (manifestData) {
+      const yearData = manifestData[selectedYear] || manifestData["all"];
+      setStats({
+        totalWords: yearData.totalWords || 0,
+        uniqueMovies: yearData.uniqueMovies || 0,
+        topWord: yearData.topWord || { word: "N/A", count: 0, translation: "" },
+        yearlyData: manifestData.yearlyData || [],
+        topList: yearData.topList || [],
+        movieList: yearData.movieList || []
+      });
     }
-  }, [data, selectedYear]);
-
-  const procesarEstadisticas = (filteredData: VocabItem[], allData: VocabItem[]) => {
-    const totalWords = filteredData.length;
-
-    // Función de limpieza exhaustiva para agrupar correctamente
-    const cleanMovieTitle = (rawTitle: string) => {
-      let title = rawTitle;
-      title = title.replace(/\(lista.*?\)/ig, "");
-      title = title.replace(/\(S\d+EP.*?\)/ig, "");
-      title = title.replace(/\(Season.*?\)/ig, "");
-      title = title.replace(/parte \d/ig, ""); // "Parte 1", etc.
-      // Correcciones específicas para la API de TMDB
-      if (/^Cars I$/i.test(title.trim())) title = "Cars";
-      if (/^Cars II$/i.test(title.trim())) title = "Cars 2";
-      return title.trim();
-    };
-
-    const moviesMap = new Map<string, { count: number, episodes: Map<string, number> }>();
-    filteredData.forEach(v => {
-      const cleanTitle = cleanMovieTitle(v.source_movie);
-      // Ignoramos archivos que no sean películas reales (por si quedó algún título basura)
-      if (cleanTitle.toLowerCase().includes("unknown words")) return;
-      
-      if (!moviesMap.has(cleanTitle)) {
-        moviesMap.set(cleanTitle, { count: 0, episodes: new Map() });
-      }
-      
-      const group = moviesMap.get(cleanTitle)!;
-      group.count += 1;
-      // El nombre del archivo original
-      const epName = v.source_movie;
-      group.episodes.set(epName, (group.episodes.get(epName) || 0) + 1);
-    });
-    
-    const uniqueMovies = moviesMap.size;
-    const movieList = Array.from(moviesMap.entries())
-      .map(([title, data]) => ({ 
-        title, 
-        count: data.count,
-        episodes: Array.from(data.episodes.entries())
-          .map(([name, count]) => ({ name, count }))
-          .sort((a, b) => b.count - a.count)
-      }))
-      .sort((a, b) => b.count - a.count);
-
-    const wordMap = new Map<string, { word: string, count: number, translation: string }>();
-    filteredData.forEach(item => {
-      const w = item.word.toLowerCase();
-      if (!wordMap.has(w) || item.global_frequency > (wordMap.get(w)?.count || 0)) {
-        wordMap.set(w, {
-          word: item.word,
-          count: item.global_frequency, // Mantenemos freq global o local? Para consistencia mejor usar la local del filtro
-          translation: item.translation
-        });
-      }
-    });
-
-    const topList = Array.from(wordMap.values())
-      .sort((a, b) => b.count - a.count)
-      .slice(0, 10);
-
-    const topWord = topList.length > 0 ? topList[0] : { word: "N/A", count: 0, translation: "" };
-
-    // Gráfica siempre basada en datos globales para ver evolución
-    const yearCount: Record<string, number> = { "2023": 0, "2024": 0, "2025": 0 };
-    allData.forEach(item => {
-      if (yearCount[item.year_processed] !== undefined) {
-        yearCount[item.year_processed]++;
-      } else {
-        yearCount[item.year_processed] = 1;
-      }
-    });
-
-    const yearlyData = Object.keys(yearCount)
-      .map(year => ({ year, words: yearCount[year] }))
-      .sort((a, b) => a.year.localeCompare(b.year));
-
-    setStats({
-      totalWords,
-      uniqueMovies,
-      topWord,
-      yearlyData,
-      topList,
-      movieList
-    });
-  };
+  }, [manifestData, selectedYear]);
 
   if (loading) {
     return (
@@ -403,7 +323,14 @@ export default function Dashboard() {
               key={idx} 
               title={movie.title} 
               count={movie.count} 
-              onClick={(posterUrl) => setSelectedMovie({ ...movie, posterUrl })} 
+              onClick={(posterUrl) => {
+                const specialSeries = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama'];
+                if (specialSeries.includes(movie.title.toLowerCase())) {
+                  router.push(`/series/${encodeURIComponent(movie.title)}`);
+                } else {
+                  setSelectedMovie({ ...movie, posterUrl });
+                }
+              }} 
             />
           ))}
         </div>
@@ -449,7 +376,7 @@ export default function Dashboard() {
                 </div>
               ) : (
                 <div className="space-y-3">
-                  {selectedMovie.episodes.map((ep, i) => (
+                  {selectedMovie.episodes.map((ep: any, i: number) => (
                     <div key={i} className="flex justify-between items-center bg-gray-800/40 p-4 rounded-xl border border-gray-800/80 hover:border-purple-900/50 hover:bg-gray-800 transition">
                       <span className="text-gray-200 font-medium truncate pr-4" title={ep.name}>
                         {ep.name}

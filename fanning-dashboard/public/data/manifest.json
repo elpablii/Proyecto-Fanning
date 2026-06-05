@@ -1,0 +1,3294 @@
+{
+  "all": {
+    "totalWords": 20997,
+    "uniqueMovies": 115,
+    "topWord": {
+      "word": "Rely (verb)",
+      "count": 10,
+      "translation": "confiar, apostar (en algo no tangible)"
+    },
+    "topList": [
+      {
+        "word": "Rely (verb)",
+        "count": 10,
+        "translation": "confiar, apostar (en algo no tangible)"
+      },
+      {
+        "word": "Creepy",
+        "count": 9,
+        "translation": "pervertidor(a)"
+      },
+      {
+        "word": "Come through",
+        "count": 9,
+        "translation": "pasar, venir"
+      },
+      {
+        "word": "Pull up",
+        "count": 8,
+        "translation": "mostrar, levantar, acercar, detener"
+      },
+      {
+        "word": "Come along",
+        "count": 8,
+        "translation": "acompañar"
+      },
+      {
+        "word": "Moan (verb)",
+        "count": 8,
+        "translation": "gemir, gimotear, quejar"
+      },
+      {
+        "word": "Break down",
+        "count": 8,
+        "translation": "acabar con"
+      },
+      {
+        "word": "Hang on",
+        "count": 7,
+        "translation": "espera un momento"
+      },
+      {
+        "word": "Sniff (verb)",
+        "count": 7,
+        "translation": "olfatear"
+      },
+      {
+        "word": "Go over",
+        "count": 7,
+        "translation": "repasar, examinar"
+      }
+    ],
+    "movieList": [
+      {
+        "title": "Kim Possible",
+        "count": 3599,
+        "episodes": [
+          {
+            "name": "S01EP1: Crush",
+            "count": 70
+          },
+          {
+            "name": "S01EP2: Sink or Swim",
+            "count": 80
+          },
+          {
+            "name": "S01EP3: The New Ron",
+            "count": 89
+          },
+          {
+            "name": "S01EP4: Tick-Tick-Tick",
+            "count": 58
+          },
+          {
+            "name": "S01EP5: Downhill",
+            "count": 83
+          },
+          {
+            "name": "S01EP6: Bueno Nacho",
+            "count": 66
+          },
+          {
+            "name": "S01EP7: Number One",
+            "count": 70
+          },
+          {
+            "name": "S01EP8: Mind Games",
+            "count": 57
+          },
+          {
+            "name": "S01EP9: Attack of the Killer Bebes",
+            "count": 52
+          },
+          {
+            "name": "S01EP10: Royal Pain",
+            "count": 64
+          },
+          {
+            "name": "S01EP11: Coach Possible",
+            "count": 61
+          },
+          {
+            "name": "S01EP12: Pain King vs Cleopatra",
+            "count": 55
+          },
+          {
+            "name": "S01EP13: Monkey Fist Strikes",
+            "count": 60
+          },
+          {
+            "name": "S01EP14: October 31st",
+            "count": 46
+          },
+          {
+            "name": "S01EP15: All the News",
+            "count": 67
+          },
+          {
+            "name": "S01EP16: Kimitation Nation",
+            "count": 46
+          },
+          {
+            "name": "S01EP17: The Twin Factor",
+            "count": 54
+          },
+          {
+            "name": "S01EP18: Animal Attraction",
+            "count": 69
+          },
+          {
+            "name": "S01EP19: Monkey Ninjas in Space",
+            "count": 40
+          },
+          {
+            "name": "S01EP20: Ron the Man",
+            "count": 64
+          },
+          {
+            "name": "S01EP21: Low Budget",
+            "count": 63
+          },
+          {
+            "name": "S02EP1: Naked Genius",
+            "count": 38
+          },
+          {
+            "name": "S02EP2: Grudge Match",
+            "count": 36
+          },
+          {
+            "name": "S02EP3: Two to Tutor",
+            "count": 44
+          },
+          {
+            "name": "S02EP4: The Ron Factor",
+            "count": 35
+          },
+          {
+            "name": "S02EP5: Car Trouble",
+            "count": 49
+          },
+          {
+            "name": "S02EP6: Rufus in Show & Adventures in Rufus-sitting",
+            "count": 24
+          },
+          {
+            "name": "S02EP7: Job Unfair",
+            "count": 55
+          },
+          {
+            "name": "S02EP8: The Golden Years",
+            "count": 51
+          },
+          {
+            "name": "S02EP9: Virtu-Ron",
+            "count": 43
+          },
+          {
+            "name": "S02EP10: The Fearless Ferret",
+            "count": 53
+          },
+          {
+            "name": "S02EP11: Exchange",
+            "count": 37
+          },
+          {
+            "name": "S02EP12: Rufus vs Commodore Puddles & Day of the Snowmen",
+            "count": 40
+          },
+          {
+            "name": "S02EP13: A Sitch in Time",
+            "count": 37
+          },
+          {
+            "name": "S02EP14: A Sitch in Time",
+            "count": 30
+          },
+          {
+            "name": "S02EP15: A Sitch in Time",
+            "count": 50
+          },
+          {
+            "name": "S02EP16: A Very Possible Christmas",
+            "count": 44
+          },
+          {
+            "name": "S02EP17: Queen Bebe",
+            "count": 39
+          },
+          {
+            "name": "S02EP18: Hidden Talent",
+            "count": 28
+          },
+          {
+            "name": "S02EP19: Return to Camp Wannaweep",
+            "count": 37
+          },
+          {
+            "name": "S02EP20: Go Team Go",
+            "count": 34
+          },
+          {
+            "name": "S02EP21: The Full Monkey",
+            "count": 43
+          },
+          {
+            "name": "S02EP22: Blush",
+            "count": 53
+          },
+          {
+            "name": "S02EP23: Partners",
+            "count": 47
+          },
+          {
+            "name": "S02EP24: Oh Boyz",
+            "count": 38
+          },
+          {
+            "name": "S02EP25: A Sick Day and The Truth Hurts",
+            "count": 67
+          },
+          {
+            "name": "S02EP26: Mother’s Day",
+            "count": 47
+          },
+          {
+            "name": "S02EP27: Motor Ed",
+            "count": 64
+          },
+          {
+            "name": "S02EP28: Ron Millonaire",
+            "count": 59
+          },
+          {
+            "name": "S02EP29: Triple S",
+            "count": 54
+          },
+          {
+            "name": "S02EP30: Rewriting History",
+            "count": 98
+          },
+          {
+            "name": "S03EP1: Steal Wheels",
+            "count": 41
+          },
+          {
+            "name": "S03EP2: Emotion Sickness",
+            "count": 42
+          },
+          {
+            "name": "S03EP3: Bonding",
+            "count": 57
+          },
+          {
+            "name": "S03EP4: Bad Boy",
+            "count": 51
+          },
+          {
+            "name": "S03EP5: Showdown at the Crooked D",
+            "count": 55
+          },
+          {
+            "name": "S03EP6: Dimension Twist",
+            "count": 48
+          },
+          {
+            "name": "S03EP7: Overdue & Roachie",
+            "count": 54
+          },
+          {
+            "name": "S03EP8: Rappin’ Drakken",
+            "count": 55
+          },
+          {
+            "name": "S03EP9: Team Impossible",
+            "count": 66
+          },
+          {
+            "name": "S03EP10: Gorilla Fist",
+            "count": 41
+          },
+          {
+            "name": "S03EP11: And the Mole Rat Will Be CGI",
+            "count": 59
+          },
+          {
+            "name": "Kim Possible (Película 2019)",
+            "count": 208
+          },
+          {
+            "name": "Kim Possible: So the Drama (Película)",
+            "count": 134
+          }
+        ]
+      },
+      {
+        "title": "The Big Bang Theory",
+        "count": 1806,
+        "episodes": [
+          {
+            "name": "S01EP1-4",
+            "count": 195
+          },
+          {
+            "name": "S01EP11-16",
+            "count": 261
+          },
+          {
+            "name": "S01EP17) & (S02EP1-3",
+            "count": 173
+          },
+          {
+            "name": "S01EP5-7",
+            "count": 125
+          },
+          {
+            "name": "S01EP8-10",
+            "count": 124
+          },
+          {
+            "name": "S02EP14-18) (lista defintiva",
+            "count": 254
+          },
+          {
+            "name": "S02EP19-23",
+            "count": 216
+          },
+          {
+            "name": "S02EP4-5",
+            "count": 104
+          },
+          {
+            "name": "S02EP6-8",
+            "count": 138
+          },
+          {
+            "name": "S02EP9-13",
+            "count": 216
+          }
+        ]
+      },
+      {
+        "title": "Euphoria",
+        "count": 963,
+        "episodes": [
+          {
+            "name": "S01EP1: Pilot",
+            "count": 102
+          },
+          {
+            "name": "S01EP2: Stunting Like My Daddy",
+            "count": 75
+          },
+          {
+            "name": "S01EP3: Made Y ou Look",
+            "count": 60
+          },
+          {
+            "name": "S01EP4: Shook One Part II",
+            "count": 23
+          },
+          {
+            "name": "S01EP5: ‘03 Bonnie and Clyde",
+            "count": 51
+          },
+          {
+            "name": "S01EP6: The Next Episode",
+            "count": 75
+          },
+          {
+            "name": "S01EP7: The Trials and Tribulations of Trying to Pee While Depressed",
+            "count": 57
+          },
+          {
+            "name": "S01EP8: And Salt the Earth Behind Y ou",
+            "count": 60
+          },
+          {
+            "name": "Special 1: Trouble Don’t Last Always",
+            "count": 53
+          },
+          {
+            "name": "Special 2: Fuck Anyone Who’s Not a Sea Blob",
+            "count": 27
+          },
+          {
+            "name": "S02EP1: Trying to Get to Heaven Before They Close the Door",
+            "count": 52
+          },
+          {
+            "name": "S02EP2: Out of Touch",
+            "count": 37
+          },
+          {
+            "name": "S02EP3: Ruminations: Big and Little Bullys",
+            "count": 52
+          },
+          {
+            "name": "S02EP4: Y ou Who Cannot See, Think of Those Who Can",
+            "count": 48
+          },
+          {
+            "name": "S02EP5: Stand Still Like a Hummingbird",
+            "count": 37
+          },
+          {
+            "name": "S02EP6: A Thousand Little Trees of Blood",
+            "count": 60
+          },
+          {
+            "name": "S02EP7: The Theater and It’s Double",
+            "count": 52
+          },
+          {
+            "name": "S02EP8: All My Life, My Heart Has Y earned for a Thing",
+            "count": 42
+          }
+        ]
+      },
+      {
+        "title": "Oppenheimer",
+        "count": 439,
+        "episodes": [
+          {
+            "name": "Oppenheimer",
+            "count": 439
+          }
+        ]
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "count": 426,
+        "episodes": [
+          {
+            "name": "The Wolf of Wall Street",
+            "count": 426
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift The Eras Tour Film",
+        "count": 387,
+        "episodes": [
+          {
+            "name": "Taylor Swift The Eras Tour Film",
+            "count": 387
+          }
+        ]
+      },
+      {
+        "title": "Titanic",
+        "count": 336,
+        "episodes": [
+          {
+            "name": "Titanic",
+            "count": 336
+          }
+        ]
+      },
+      {
+        "title": "Aves de Presa",
+        "count": 298,
+        "episodes": [
+          {
+            "name": "Aves de Presa",
+            "count": 298
+          }
+        ]
+      },
+      {
+        "title": "Gambito de Dama",
+        "count": 311,
+        "episodes": [
+          {
+            "name": "EP 1-3",
+            "count": 131
+          },
+          {
+            "name": "EP 4-7 + Special Episode",
+            "count": 180
+          }
+        ]
+      },
+      {
+        "title": "Terminal",
+        "count": 293,
+        "episodes": [
+          {
+            "name": "Terminal",
+            "count": 293
+          }
+        ]
+      },
+      {
+        "title": "Escuadrón Suicida",
+        "count": 286,
+        "episodes": [
+          {
+            "name": "Escuadrón Suicida",
+            "count": 286
+          }
+        ]
+      },
+      {
+        "title": "Focus",
+        "count": 269,
+        "episodes": [
+          {
+            "name": "Focus",
+            "count": 269
+          }
+        ]
+      },
+      {
+        "title": "El Escuadrón Suicida",
+        "count": 265,
+        "episodes": [
+          {
+            "name": "El Escuadrón Suicida",
+            "count": 265
+          }
+        ]
+      },
+      {
+        "title": "Ámsterdam",
+        "count": 262,
+        "episodes": [
+          {
+            "name": "Ámsterdam",
+            "count": 262
+          }
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Hollywood",
+        "count": 257,
+        "episodes": [
+          {
+            "name": "Once Upon a Time in Hollywood",
+            "count": 257
+          }
+        ]
+      },
+      {
+        "title": "Rango",
+        "count": 247,
+        "episodes": [
+          {
+            "name": "Rango",
+            "count": 247
+          }
+        ]
+      },
+      {
+        "title": "Barbie",
+        "count": 246,
+        "episodes": [
+          {
+            "name": "Barbie",
+            "count": 246
+          }
+        ]
+      },
+      {
+        "title": "Bombshell",
+        "count": 241,
+        "episodes": [
+          {
+            "name": "Bombshell",
+            "count": 241
+          }
+        ]
+      },
+      {
+        "title": "Cars 2",
+        "count": 239,
+        "episodes": [
+          {
+            "name": "Cars II",
+            "count": 239
+          }
+        ]
+      },
+      {
+        "title": "Wonka",
+        "count": 239,
+        "episodes": [
+          {
+            "name": "Wonka",
+            "count": 239
+          }
+        ]
+      },
+      {
+        "title": "Mary Queen of Scots",
+        "count": 227,
+        "episodes": [
+          {
+            "name": "Mary Queen of Scots",
+            "count": 227
+          }
+        ]
+      },
+      {
+        "title": "Los Increibles",
+        "count": 217,
+        "episodes": [
+          {
+            "name": "Los Increibles",
+            "count": 217
+          }
+        ]
+      },
+      {
+        "title": "Babylon",
+        "count": 215,
+        "episodes": [
+          {
+            "name": "Babylon",
+            "count": 215
+          }
+        ]
+      },
+      {
+        "title": "About Time",
+        "count": 213,
+        "episodes": [
+          {
+            "name": "About Time",
+            "count": 213
+          }
+        ]
+      },
+      {
+        "title": "Goodbye Christopher Robin",
+        "count": 212,
+        "episodes": [
+          {
+            "name": "Goodbye Christopher Robin",
+            "count": 212
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Miss Americana",
+        "count": 208,
+        "episodes": [
+          {
+            "name": "Taylor Swift Miss Americana",
+            "count": 208
+          }
+        ]
+      },
+      {
+        "title": "Rocky II",
+        "count": 204,
+        "episodes": [
+          {
+            "name": "Rocky II",
+            "count": 204
+          }
+        ]
+      },
+      {
+        "title": "Emma",
+        "count": 204,
+        "episodes": [
+          {
+            "name": "Emma",
+            "count": 204
+          }
+        ]
+      },
+      {
+        "title": "I-Tonya",
+        "count": 203,
+        "episodes": [
+          {
+            "name": "I-Tonya",
+            "count": 203
+          }
+        ]
+      },
+      {
+        "title": "Rocky I",
+        "count": 195,
+        "episodes": [
+          {
+            "name": "Rocky I",
+            "count": 195
+          }
+        ]
+      },
+      {
+        "title": "Cars",
+        "count": 189,
+        "episodes": [
+          {
+            "name": "Cars I",
+            "count": 189
+          }
+        ]
+      },
+      {
+        "title": "Ratatouille",
+        "count": 184,
+        "episodes": [
+          {
+            "name": "Ratatouille",
+            "count": 184
+          }
+        ]
+      },
+      {
+        "title": "Whiskey Tango Foxtrot",
+        "count": 184,
+        "episodes": [
+          {
+            "name": "Whiskey Tango Foxtrot",
+            "count": 184
+          }
+        ]
+      },
+      {
+        "title": "Slaughterhouse Rulez",
+        "count": 183,
+        "episodes": [
+          {
+            "name": "Slaughterhouse Rulez",
+            "count": 183
+          }
+        ]
+      },
+      {
+        "title": "Scarface",
+        "count": 170,
+        "episodes": [
+          {
+            "name": "Scarface",
+            "count": 170
+          }
+        ]
+      },
+      {
+        "title": "The Menu",
+        "count": 169,
+        "episodes": [
+          {
+            "name": "The Menu",
+            "count": 169
+          }
+        ]
+      },
+      {
+        "title": "Five Nights at Freddy's",
+        "count": 165,
+        "episodes": [
+          {
+            "name": "Five Nights at Freddy's",
+            "count": 165
+          }
+        ]
+      },
+      {
+        "title": "Toy Story 2",
+        "count": 158,
+        "episodes": [
+          {
+            "name": "Toy Story 2",
+            "count": 158
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio I The Phantom Menace",
+        "count": 157,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio I The Phantom Menace",
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "Riesgo Bajo Cero",
+        "count": 157,
+        "episodes": [
+          {
+            "name": "Riesgo Bajo Cero",
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "The Legend of Tarzan",
+        "count": 148,
+        "episodes": [
+          {
+            "name": "The Legend of Tarzan",
+            "count": 148
+          }
+        ]
+      },
+      {
+        "title": "The Naked Gun",
+        "count": 139,
+        "episodes": [
+          {
+            "name": "The Naked Gun",
+            "count": 139
+          }
+        ]
+      },
+      {
+        "title": "Rambo First Blood",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Rambo First Blood",
+            "count": 138
+          }
+        ]
+      },
+      {
+        "title": "Playmobil",
+        "count": 137,
+        "episodes": [
+          {
+            "name": "Playmobil",
+            "count": 137
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
+        "count": 135,
+        "episodes": [
+          {
+            "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
+            "count": 135
+          }
+        ]
+      },
+      {
+        "title": "El Expreso Polar",
+        "count": 130,
+        "episodes": [
+          {
+            "name": "El Expreso Polar",
+            "count": 130
+          }
+        ]
+      },
+      {
+        "title": "Dream Productions",
+        "count": 125,
+        "episodes": [
+          {
+            "name": "Dream Productions",
+            "count": 125
+          }
+        ]
+      },
+      {
+        "title": "Dreamland",
+        "count": 124,
+        "episodes": [
+          {
+            "name": "Dreamland",
+            "count": 124
+          }
+        ]
+      },
+      {
+        "title": "Kim Possible Todo un Drama",
+        "count": 123,
+        "episodes": [
+          {
+            "name": "Kim Possible Todo un Drama",
+            "count": 123
+          }
+        ]
+      },
+      {
+        "title": "Venganza Implacable",
+        "count": 122,
+        "episodes": [
+          {
+            "name": "Venganza Implacable",
+            "count": 122
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio IV A New Hope",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio IV A New Hope",
+            "count": 121
+          }
+        ]
+      },
+      {
+        "title": "Los Fantasmas de Scrooge",
+        "count": 120,
+        "episodes": [
+          {
+            "name": "Los Fantasmas de Scrooge",
+            "count": 120
+          }
+        ]
+      },
+      {
+        "title": "Toy Story",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Toy Story",
+            "count": 119
+          }
+        ]
+      },
+      {
+        "title": "Buscando a Nemo",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Buscando a Nemo",
+            "count": 119
+          }
+        ]
+      },
+      {
+        "title": "Bichos Una Aventura en Miniatura",
+        "count": 116,
+        "episodes": [
+          {
+            "name": "Bichos Una Aventura en Miniatura",
+            "count": 116
+          }
+        ]
+      },
+      {
+        "title": "Toy Story III",
+        "count": 116,
+        "episodes": [
+          {
+            "name": "Toy Story III",
+            "count": 116
+          }
+        ]
+      },
+      {
+        "title": "Top Gun",
+        "count": 115,
+        "episodes": [
+          {
+            "name": "Top Gun",
+            "count": 115
+          }
+        ]
+      },
+      {
+        "title": "Intensamente 2",
+        "count": 114,
+        "episodes": [
+          {
+            "name": "Intensamente 2",
+            "count": 114
+          }
+        ]
+      },
+      {
+        "title": "Now is Good",
+        "count": 114,
+        "episodes": [
+          {
+            "name": "Now is Good",
+            "count": 114
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Reputation Stadium Tour",
+        "count": 113,
+        "episodes": [
+          {
+            "name": "Taylor Swift Reputation Stadium Tour",
+            "count": 113
+          }
+        ]
+      },
+      {
+        "title": "Intensamente",
+        "count": 112,
+        "episodes": [
+          {
+            "name": "Intensamente",
+            "count": 112
+          }
+        ]
+      },
+      {
+        "title": "Monsters Inc",
+        "count": 112,
+        "episodes": [
+          {
+            "name": "Monsters Inc",
+            "count": 112
+          }
+        ]
+      },
+      {
+        "title": "Rocky III",
+        "count": 108,
+        "episodes": [
+          {
+            "name": "Rocky III",
+            "count": 108
+          }
+        ]
+      },
+      {
+        "title": "La Sustancia",
+        "count": 102,
+        "episodes": [
+          {
+            "name": "La Sustancia",
+            "count": 102
+          }
+        ]
+      },
+      {
+        "title": "Suite Francaise",
+        "count": 100,
+        "episodes": [
+          {
+            "name": "Suite Francaise",
+            "count": 100
+          }
+        ]
+      },
+      {
+        "title": "Alvin y las Ardillas",
+        "count": 100,
+        "episodes": [
+          {
+            "name": "Alvin y las Ardillas",
+            "count": 100
+          }
+        ]
+      },
+      {
+        "title": "Coraline",
+        "count": 98,
+        "episodes": [
+          {
+            "name": "Coraline",
+            "count": 98
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio III Revenge of the Sith",
+        "count": 92,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio III Revenge of the Sith",
+            "count": 92
+          }
+        ]
+      },
+      {
+        "title": "Last Night in Soho",
+        "count": 90,
+        "episodes": [
+          {
+            "name": "Last Night in Soho",
+            "count": 90
+          }
+        ]
+      },
+      {
+        "title": "Escape de Sobibor",
+        "count": 89,
+        "episodes": [
+          {
+            "name": "Escape de Sobibor",
+            "count": 89
+          }
+        ]
+      },
+      {
+        "title": "21 Blackjack",
+        "count": 88,
+        "episodes": [
+          {
+            "name": "21 Blackjack",
+            "count": 88
+          }
+        ]
+      },
+      {
+        "title": "The Truman Show",
+        "count": 86,
+        "episodes": [
+          {
+            "name": "The Truman Show",
+            "count": 86
+          }
+        ]
+      },
+      {
+        "title": "Z for Zachariah",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "Z for Zachariah",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "American Pastoral",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "American Pastoral",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio VI Return of the Jedi",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio VI Return of the Jedi",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "Galveston",
+        "count": 84,
+        "episodes": [
+          {
+            "name": "Galveston",
+            "count": 84
+          }
+        ]
+      },
+      {
+        "title": "El Padrino I",
+        "count": 83,
+        "episodes": [
+          {
+            "name": "El Padrino I",
+            "count": 83
+          }
+        ]
+      },
+      {
+        "title": "Teen Spirit",
+        "count": 82,
+        "episodes": [
+          {
+            "name": "Teen Spirit",
+            "count": 82
+          }
+        ]
+      },
+      {
+        "title": "Split",
+        "count": 81,
+        "episodes": [
+          {
+            "name": "Split",
+            "count": 81
+          }
+        ]
+      },
+      {
+        "title": "A Nonsense Christmas with Sabrina Carpenter",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "A Nonsense Christmas with Sabrina Carpenter",
+            "count": 80
+          }
+        ]
+      },
+      {
+        "title": "Non-stop",
+        "count": 79,
+        "episodes": [
+          {
+            "name": "Non-stop",
+            "count": 79
+          }
+        ]
+      },
+      {
+        "title": "Olivia Rodrigo driving home 2 u",
+        "count": 76,
+        "episodes": [
+          {
+            "name": "Olivia Rodrigo driving home 2 u",
+            "count": 76
+          }
+        ]
+      },
+      {
+        "title": "Barbie La Princesa y Estrella de Pop",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Barbie La Princesa y Estrella de Pop",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "title": "Cuckoo",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Cuckoo",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "title": "Olivia Rodrigo Guts World Tour",
+        "count": 74,
+        "episodes": [
+          {
+            "name": "Olivia Rodrigo Guts World Tour",
+            "count": 74
+          }
+        ]
+      },
+      {
+        "title": "The Runaways",
+        "count": 72,
+        "episodes": [
+          {
+            "name": "The Runaways",
+            "count": 72
+          }
+        ]
+      },
+      {
+        "title": "The Watchers",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "The Watchers",
+            "count": 70
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift City of Lover Concert",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Taylor Swift City of Lover Concert",
+            "count": 69
+          }
+        ]
+      },
+      {
+        "title": "Lilo and Stitch I",
+        "count": 68,
+        "episodes": [
+          {
+            "name": "Lilo and Stitch I",
+            "count": 68
+          }
+        ]
+      },
+      {
+        "title": "Rocky IV",
+        "count": 68,
+        "episodes": [
+          {
+            "name": "Rocky IV",
+            "count": 68
+          }
+        ]
+      },
+      {
+        "title": "Super Mario Bros The Movie",
+        "count": 66,
+        "episodes": [
+          {
+            "name": "Super Mario Bros The Movie",
+            "count": 66
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio V The Empire Strikes Back",
+        "count": 65,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio V The Empire Strikes Back",
+            "count": 65
+          }
+        ]
+      },
+      {
+        "title": "Thoroughbreds",
+        "count": 65,
+        "episodes": [
+          {
+            "name": "Thoroughbreds",
+            "count": 65
+          }
+        ]
+      },
+      {
+        "title": "3 Generations",
+        "count": 64,
+        "episodes": [
+          {
+            "name": "3 Generations",
+            "count": 64
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio II Attack of The Clones",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio II Attack of The Clones",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Taken I",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Taken I",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Taken III",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Taken III",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Please Stand By",
+        "count": 51,
+        "episodes": [
+          {
+            "name": "Please Stand By",
+            "count": 51
+          }
+        ]
+      },
+      {
+        "title": "All the Bright Places",
+        "count": 49,
+        "episodes": [
+          {
+            "name": "All the Bright Places",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "title": "Very Good Girls",
+        "count": 49,
+        "episodes": [
+          {
+            "name": "Very Good Girls",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "title": "Harold and The Purple Crayon",
+        "count": 47,
+        "episodes": [
+          {
+            "name": "Harold and The Purple Crayon",
+            "count": 47
+          }
+        ]
+      },
+      {
+        "title": "WALL-E",
+        "count": 46,
+        "episodes": [
+          {
+            "name": "WALL-E",
+            "count": 46
+          }
+        ]
+      },
+      {
+        "title": "Rambo II",
+        "count": 44,
+        "episodes": [
+          {
+            "name": "Rambo II",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "title": "Marrowbone",
+        "count": 41,
+        "episodes": [
+          {
+            "name": "Marrowbone",
+            "count": 41
+          }
+        ]
+      },
+      {
+        "title": "Contrarreloj",
+        "count": 40,
+        "episodes": [
+          {
+            "name": "Contrarreloj",
+            "count": 40
+          }
+        ]
+      },
+      {
+        "title": "The Neon Demon",
+        "count": 40,
+        "episodes": [
+          {
+            "name": "The Neon Demon",
+            "count": 40
+          }
+        ]
+      },
+      {
+        "title": "The New Mutants",
+        "count": 34,
+        "episodes": [
+          {
+            "name": "The New Mutants",
+            "count": 34
+          }
+        ]
+      },
+      {
+        "title": "I Think Were Alone Now",
+        "count": 33,
+        "episodes": [
+          {
+            "name": "I Think Were Alone Now",
+            "count": 33
+          }
+        ]
+      },
+      {
+        "title": "Taken II",
+        "count": 33,
+        "episodes": [
+          {
+            "name": "Taken II",
+            "count": 33
+          }
+        ]
+      },
+      {
+        "title": "Vicious",
+        "count": 29,
+        "episodes": [
+          {
+            "name": "Vicious",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "title": "Rambo IV",
+        "count": 24,
+        "episodes": [
+          {
+            "name": "Rambo IV",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "title": "Viena and the Fantomes",
+        "count": 24,
+        "episodes": [
+          {
+            "name": "Viena and the Fantomes",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "title": "The Roads Not Taken",
+        "count": 23,
+        "episodes": [
+          {
+            "name": "The Roads Not Taken",
+            "count": 23
+          }
+        ]
+      },
+      {
+        "title": "Rambo Last Blood",
+        "count": 22,
+        "episodes": [
+          {
+            "name": "Rambo Last Blood",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "title": "Rambo III",
+        "count": 18,
+        "episodes": [
+          {
+            "name": "Rambo III",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  "2023": {
+    "totalWords": 1094,
+    "uniqueMovies": 5,
+    "topWord": {
+      "word": "Creepy",
+      "count": 9,
+      "translation": "pervertidor(a)"
+    },
+    "topList": [
+      {
+        "word": "Creepy",
+        "count": 9,
+        "translation": "pervertidor(a)"
+      },
+      {
+        "word": "Pull up",
+        "count": 8,
+        "translation": "mostrar, levantar, acercar, detener"
+      },
+      {
+        "word": "Come along",
+        "count": 8,
+        "translation": "acompañar"
+      },
+      {
+        "word": "Hang on",
+        "count": 7,
+        "translation": "espera un momento"
+      },
+      {
+        "word": "Sniff (verb)",
+        "count": 7,
+        "translation": "olfatear"
+      },
+      {
+        "word": "Go over",
+        "count": 7,
+        "translation": "repasar, examinar"
+      },
+      {
+        "word": "Helpless",
+        "count": 6,
+        "translation": "indefenso"
+      },
+      {
+        "word": "Prayer",
+        "count": 6,
+        "translation": "oración, plegaria"
+      },
+      {
+        "word": "Go down",
+        "count": 6,
+        "translation": "bajar, descender"
+      },
+      {
+        "word": "Hang around",
+        "count": 6,
+        "translation": "merodear, andar por ahí, pasar el tiempo"
+      }
+    ],
+    "movieList": [
+      {
+        "title": "Focus",
+        "count": 269,
+        "episodes": [
+          {
+            "name": "Focus",
+            "count": 269
+          }
+        ]
+      },
+      {
+        "title": "Barbie",
+        "count": 246,
+        "episodes": [
+          {
+            "name": "Barbie",
+            "count": 246
+          }
+        ]
+      },
+      {
+        "title": "Bombshell",
+        "count": 241,
+        "episodes": [
+          {
+            "name": "Bombshell",
+            "count": 241
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Miss Americana",
+        "count": 208,
+        "episodes": [
+          {
+            "name": "Taylor Swift Miss Americana",
+            "count": 208
+          }
+        ]
+      },
+      {
+        "title": "El Expreso Polar",
+        "count": 130,
+        "episodes": [
+          {
+            "name": "El Expreso Polar",
+            "count": 130
+          }
+        ]
+      }
+    ]
+  },
+  "2024": {
+    "totalWords": 8904,
+    "uniqueMovies": 48,
+    "topWord": {
+      "word": "Rely (verb)",
+      "count": 10,
+      "translation": "confiar, apostar (en algo no tangible)"
+    },
+    "topList": [
+      {
+        "word": "Rely (verb)",
+        "count": 10,
+        "translation": "confiar, apostar (en algo no tangible)"
+      },
+      {
+        "word": "Come through",
+        "count": 9,
+        "translation": "pasar, venir"
+      },
+      {
+        "word": "Creepy",
+        "count": 9,
+        "translation": "espeluznante, asqueroso (alusivo a alguien)"
+      },
+      {
+        "word": "Moan (verb)",
+        "count": 8,
+        "translation": "gemir, gimotear, quejar"
+      },
+      {
+        "word": "Come along",
+        "count": 8,
+        "translation": "llegar, aparecer, venir"
+      },
+      {
+        "word": "Pull up",
+        "count": 8,
+        "translation": "sacar (en término de dinero)"
+      },
+      {
+        "word": "Break down",
+        "count": 8,
+        "translation": "acabar con"
+      },
+      {
+        "word": "Ditch (verb)",
+        "count": 7,
+        "translation": "deshacer"
+      },
+      {
+        "word": "Growl (verb)",
+        "count": 7,
+        "translation": "gruñir"
+      },
+      {
+        "word": "Whoop (verb)",
+        "count": 7,
+        "translation": "chillar, gritar"
+      }
+    ],
+    "movieList": [
+      {
+        "title": "Kim Possible",
+        "count": 1640,
+        "episodes": [
+          {
+            "name": "S01EP1: Crush",
+            "count": 70
+          },
+          {
+            "name": "S01EP2: Sink or Swim",
+            "count": 80
+          },
+          {
+            "name": "S01EP3: The New Ron",
+            "count": 89
+          },
+          {
+            "name": "S01EP4: Tick-Tick-Tick",
+            "count": 58
+          },
+          {
+            "name": "S01EP5: Downhill",
+            "count": 83
+          },
+          {
+            "name": "S01EP6: Bueno Nacho",
+            "count": 66
+          },
+          {
+            "name": "S01EP7: Number One",
+            "count": 70
+          },
+          {
+            "name": "S01EP8: Mind Games",
+            "count": 57
+          },
+          {
+            "name": "S01EP9: Attack of the Killer Bebes",
+            "count": 52
+          },
+          {
+            "name": "S01EP10: Royal Pain",
+            "count": 64
+          },
+          {
+            "name": "S01EP11: Coach Possible",
+            "count": 61
+          },
+          {
+            "name": "S01EP12: Pain King vs Cleopatra",
+            "count": 55
+          },
+          {
+            "name": "S01EP13: Monkey Fist Strikes",
+            "count": 60
+          },
+          {
+            "name": "S01EP14: October 31st",
+            "count": 46
+          },
+          {
+            "name": "S01EP15: All the News",
+            "count": 67
+          },
+          {
+            "name": "S01EP16: Kimitation Nation",
+            "count": 46
+          },
+          {
+            "name": "S01EP17: The Twin Factor",
+            "count": 54
+          },
+          {
+            "name": "S01EP18: Animal Attraction",
+            "count": 69
+          },
+          {
+            "name": "S01EP19: Monkey Ninjas in Space",
+            "count": 40
+          },
+          {
+            "name": "S01EP20: Ron the Man",
+            "count": 64
+          },
+          {
+            "name": "S01EP21: Low Budget",
+            "count": 63
+          },
+          {
+            "name": "S02EP1: Naked Genius",
+            "count": 38
+          },
+          {
+            "name": "S02EP2: Grudge Match",
+            "count": 36
+          },
+          {
+            "name": "S02EP3: Two to Tutor",
+            "count": 44
+          },
+          {
+            "name": "Kim Possible (Película 2019)",
+            "count": 208
+          }
+        ]
+      },
+      {
+        "title": "Oppenheimer",
+        "count": 439,
+        "episodes": [
+          {
+            "name": "Oppenheimer",
+            "count": 439
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift The Eras Tour Film",
+        "count": 387,
+        "episodes": [
+          {
+            "name": "Taylor Swift The Eras Tour Film",
+            "count": 387
+          }
+        ]
+      },
+      {
+        "title": "Titanic",
+        "count": 336,
+        "episodes": [
+          {
+            "name": "Titanic",
+            "count": 336
+          }
+        ]
+      },
+      {
+        "title": "Aves de Presa",
+        "count": 298,
+        "episodes": [
+          {
+            "name": "Aves de Presa",
+            "count": 298
+          }
+        ]
+      },
+      {
+        "title": "Terminal",
+        "count": 293,
+        "episodes": [
+          {
+            "name": "Terminal",
+            "count": 293
+          }
+        ]
+      },
+      {
+        "title": "Escuadrón Suicida",
+        "count": 286,
+        "episodes": [
+          {
+            "name": "Escuadrón Suicida",
+            "count": 286
+          }
+        ]
+      },
+      {
+        "title": "El Escuadrón Suicida",
+        "count": 265,
+        "episodes": [
+          {
+            "name": "El Escuadrón Suicida",
+            "count": 265
+          }
+        ]
+      },
+      {
+        "title": "Ámsterdam",
+        "count": 262,
+        "episodes": [
+          {
+            "name": "Ámsterdam",
+            "count": 262
+          }
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Hollywood",
+        "count": 257,
+        "episodes": [
+          {
+            "name": "Once Upon a Time in Hollywood",
+            "count": 257
+          }
+        ]
+      },
+      {
+        "title": "Mary Queen of Scots",
+        "count": 227,
+        "episodes": [
+          {
+            "name": "Mary Queen of Scots",
+            "count": 227
+          }
+        ]
+      },
+      {
+        "title": "Los Increibles",
+        "count": 217,
+        "episodes": [
+          {
+            "name": "Los Increibles",
+            "count": 217
+          }
+        ]
+      },
+      {
+        "title": "Babylon",
+        "count": 215,
+        "episodes": [
+          {
+            "name": "Babylon",
+            "count": 215
+          }
+        ]
+      },
+      {
+        "title": "About Time",
+        "count": 213,
+        "episodes": [
+          {
+            "name": "About Time",
+            "count": 213
+          }
+        ]
+      },
+      {
+        "title": "Goodbye Christopher Robin",
+        "count": 212,
+        "episodes": [
+          {
+            "name": "Goodbye Christopher Robin",
+            "count": 212
+          }
+        ]
+      },
+      {
+        "title": "Rocky II",
+        "count": 204,
+        "episodes": [
+          {
+            "name": "Rocky II",
+            "count": 204
+          }
+        ]
+      },
+      {
+        "title": "I-Tonya",
+        "count": 203,
+        "episodes": [
+          {
+            "name": "I-Tonya",
+            "count": 203
+          }
+        ]
+      },
+      {
+        "title": "Rocky I",
+        "count": 195,
+        "episodes": [
+          {
+            "name": "Rocky I",
+            "count": 195
+          }
+        ]
+      },
+      {
+        "title": "Ratatouille",
+        "count": 184,
+        "episodes": [
+          {
+            "name": "Ratatouille",
+            "count": 184
+          }
+        ]
+      },
+      {
+        "title": "Scarface",
+        "count": 170,
+        "episodes": [
+          {
+            "name": "Scarface",
+            "count": 170
+          }
+        ]
+      },
+      {
+        "title": "Five Nights at Freddy's",
+        "count": 165,
+        "episodes": [
+          {
+            "name": "Five Nights at Freddy's",
+            "count": 165
+          }
+        ]
+      },
+      {
+        "title": "Toy Story 2",
+        "count": 158,
+        "episodes": [
+          {
+            "name": "Toy Story 2",
+            "count": 158
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio I The Phantom Menace",
+        "count": 157,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio I The Phantom Menace",
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "The Legend of Tarzan",
+        "count": 148,
+        "episodes": [
+          {
+            "name": "The Legend of Tarzan",
+            "count": 148
+          }
+        ]
+      },
+      {
+        "title": "Rambo First Blood",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Rambo First Blood",
+            "count": 138
+          }
+        ]
+      },
+      {
+        "title": "Dreamland",
+        "count": 124,
+        "episodes": [
+          {
+            "name": "Dreamland",
+            "count": 124
+          }
+        ]
+      },
+      {
+        "title": "Venganza Implacable",
+        "count": 122,
+        "episodes": [
+          {
+            "name": "Venganza Implacable",
+            "count": 122
+          }
+        ]
+      },
+      {
+        "title": "Toy Story",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Toy Story",
+            "count": 119
+          }
+        ]
+      },
+      {
+        "title": "Intensamente 2",
+        "count": 114,
+        "episodes": [
+          {
+            "name": "Intensamente 2",
+            "count": 114
+          }
+        ]
+      },
+      {
+        "title": "Intensamente",
+        "count": 112,
+        "episodes": [
+          {
+            "name": "Intensamente",
+            "count": 112
+          }
+        ]
+      },
+      {
+        "title": "Monsters Inc",
+        "count": 112,
+        "episodes": [
+          {
+            "name": "Monsters Inc",
+            "count": 112
+          }
+        ]
+      },
+      {
+        "title": "Suite Francaise",
+        "count": 100,
+        "episodes": [
+          {
+            "name": "Suite Francaise",
+            "count": 100
+          }
+        ]
+      },
+      {
+        "title": "Coraline",
+        "count": 98,
+        "episodes": [
+          {
+            "name": "Coraline",
+            "count": 98
+          }
+        ]
+      },
+      {
+        "title": "The Truman Show",
+        "count": 86,
+        "episodes": [
+          {
+            "name": "The Truman Show",
+            "count": 86
+          }
+        ]
+      },
+      {
+        "title": "Z for Zachariah",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "Z for Zachariah",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "Olivia Rodrigo driving home 2 u",
+        "count": 76,
+        "episodes": [
+          {
+            "name": "Olivia Rodrigo driving home 2 u",
+            "count": 76
+          }
+        ]
+      },
+      {
+        "title": "Barbie La Princesa y Estrella de Pop",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Barbie La Princesa y Estrella de Pop",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift City of Lover Concert",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Taylor Swift City of Lover Concert",
+            "count": 69
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio II Attack of The Clones",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio II Attack of The Clones",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Harold and The Purple Crayon",
+        "count": 47,
+        "episodes": [
+          {
+            "name": "Harold and The Purple Crayon",
+            "count": 47
+          }
+        ]
+      },
+      {
+        "title": "WALL-E",
+        "count": 46,
+        "episodes": [
+          {
+            "name": "WALL-E",
+            "count": 46
+          }
+        ]
+      },
+      {
+        "title": "Rambo II",
+        "count": 44,
+        "episodes": [
+          {
+            "name": "Rambo II",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "title": "Marrowbone",
+        "count": 41,
+        "episodes": [
+          {
+            "name": "Marrowbone",
+            "count": 41
+          }
+        ]
+      },
+      {
+        "title": "Contrarreloj",
+        "count": 40,
+        "episodes": [
+          {
+            "name": "Contrarreloj",
+            "count": 40
+          }
+        ]
+      },
+      {
+        "title": "The New Mutants",
+        "count": 34,
+        "episodes": [
+          {
+            "name": "The New Mutants",
+            "count": 34
+          }
+        ]
+      },
+      {
+        "title": "Rambo IV",
+        "count": 24,
+        "episodes": [
+          {
+            "name": "Rambo IV",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "title": "Rambo Last Blood",
+        "count": 22,
+        "episodes": [
+          {
+            "name": "Rambo Last Blood",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "title": "Rambo III",
+        "count": 18,
+        "episodes": [
+          {
+            "name": "Rambo III",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  "2025": {
+    "totalWords": 10999,
+    "uniqueMovies": 63,
+    "topWord": {
+      "word": "Rely (verb)",
+      "count": 10,
+      "translation": "confiar, depender"
+    },
+    "topList": [
+      {
+        "word": "Rely (verb)",
+        "count": 10,
+        "translation": "confiar, depender"
+      },
+      {
+        "word": "Creepy",
+        "count": 9,
+        "translation": "espeluznante, escalofriante"
+      },
+      {
+        "word": "Come through",
+        "count": 9,
+        "translation": "pasar, venir"
+      },
+      {
+        "word": "Break down",
+        "count": 8,
+        "translation": "romper"
+      },
+      {
+        "word": "Come along",
+        "count": 8,
+        "translation": "acompañar, venir"
+      },
+      {
+        "word": "Pull up",
+        "count": 8,
+        "translation": "levantar, subir"
+      },
+      {
+        "word": "Moan (verb)",
+        "count": 8,
+        "translation": "gemir, gimotear, quejar"
+      },
+      {
+        "word": "Go over",
+        "count": 7,
+        "translation": "rasarse (de una cantidad definida)"
+      },
+      {
+        "word": "Ditch (verb)",
+        "count": 7,
+        "translation": "tirar, dejar, abandonar"
+      },
+      {
+        "word": "Stand (verb)",
+        "count": 7,
+        "translation": "parar, poner de pie, soportar, tolerar"
+      }
+    ],
+    "movieList": [
+      {
+        "title": "Kim Possible",
+        "count": 1959,
+        "episodes": [
+          {
+            "name": "S02EP4: The Ron Factor",
+            "count": 35
+          },
+          {
+            "name": "S02EP5: Car Trouble",
+            "count": 49
+          },
+          {
+            "name": "S02EP6: Rufus in Show & Adventures in Rufus-sitting",
+            "count": 24
+          },
+          {
+            "name": "S02EP7: Job Unfair",
+            "count": 55
+          },
+          {
+            "name": "S02EP8: The Golden Years",
+            "count": 51
+          },
+          {
+            "name": "S02EP9: Virtu-Ron",
+            "count": 43
+          },
+          {
+            "name": "S02EP10: The Fearless Ferret",
+            "count": 53
+          },
+          {
+            "name": "S02EP11: Exchange",
+            "count": 37
+          },
+          {
+            "name": "S02EP12: Rufus vs Commodore Puddles & Day of the Snowmen",
+            "count": 40
+          },
+          {
+            "name": "S02EP13: A Sitch in Time",
+            "count": 37
+          },
+          {
+            "name": "S02EP14: A Sitch in Time",
+            "count": 30
+          },
+          {
+            "name": "S02EP15: A Sitch in Time",
+            "count": 50
+          },
+          {
+            "name": "S02EP16: A Very Possible Christmas",
+            "count": 44
+          },
+          {
+            "name": "S02EP17: Queen Bebe",
+            "count": 39
+          },
+          {
+            "name": "S02EP18: Hidden Talent",
+            "count": 28
+          },
+          {
+            "name": "S02EP19: Return to Camp Wannaweep",
+            "count": 37
+          },
+          {
+            "name": "S02EP20: Go Team Go",
+            "count": 34
+          },
+          {
+            "name": "S02EP21: The Full Monkey",
+            "count": 43
+          },
+          {
+            "name": "S02EP22: Blush",
+            "count": 53
+          },
+          {
+            "name": "S02EP23: Partners",
+            "count": 47
+          },
+          {
+            "name": "S02EP24: Oh Boyz",
+            "count": 38
+          },
+          {
+            "name": "S02EP25: A Sick Day and The Truth Hurts",
+            "count": 67
+          },
+          {
+            "name": "S02EP26: Mother’s Day",
+            "count": 47
+          },
+          {
+            "name": "S02EP27: Motor Ed",
+            "count": 64
+          },
+          {
+            "name": "S02EP28: Ron Millonaire",
+            "count": 59
+          },
+          {
+            "name": "S02EP29: Triple S",
+            "count": 54
+          },
+          {
+            "name": "S02EP30: Rewriting History",
+            "count": 98
+          },
+          {
+            "name": "S03EP1: Steal Wheels",
+            "count": 41
+          },
+          {
+            "name": "S03EP2: Emotion Sickness",
+            "count": 42
+          },
+          {
+            "name": "S03EP3: Bonding",
+            "count": 57
+          },
+          {
+            "name": "S03EP4: Bad Boy",
+            "count": 51
+          },
+          {
+            "name": "S03EP5: Showdown at the Crooked D",
+            "count": 55
+          },
+          {
+            "name": "S03EP6: Dimension Twist",
+            "count": 48
+          },
+          {
+            "name": "S03EP7: Overdue & Roachie",
+            "count": 54
+          },
+          {
+            "name": "S03EP8: Rappin’ Drakken",
+            "count": 55
+          },
+          {
+            "name": "S03EP9: Team Impossible",
+            "count": 66
+          },
+          {
+            "name": "S03EP10: Gorilla Fist",
+            "count": 41
+          },
+          {
+            "name": "S03EP11: And the Mole Rat Will Be CGI",
+            "count": 59
+          },
+          {
+            "name": "Kim Possible: So the Drama (Película)",
+            "count": 134
+          }
+        ]
+      },
+      {
+        "title": "The Big Bang Theory",
+        "count": 1806,
+        "episodes": [
+          {
+            "name": "S01EP1-4",
+            "count": 195
+          },
+          {
+            "name": "S01EP11-16",
+            "count": 261
+          },
+          {
+            "name": "S01EP17) & (S02EP1-3",
+            "count": 173
+          },
+          {
+            "name": "S01EP5-7",
+            "count": 125
+          },
+          {
+            "name": "S01EP8-10",
+            "count": 124
+          },
+          {
+            "name": "S02EP14-18) (lista defintiva",
+            "count": 254
+          },
+          {
+            "name": "S02EP19-23",
+            "count": 216
+          },
+          {
+            "name": "S02EP4-5",
+            "count": 104
+          },
+          {
+            "name": "S02EP6-8",
+            "count": 138
+          },
+          {
+            "name": "S02EP9-13",
+            "count": 216
+          }
+        ]
+      },
+      {
+        "title": "Euphoria",
+        "count": 963,
+        "episodes": [
+          {
+            "name": "S01EP1: Pilot",
+            "count": 102
+          },
+          {
+            "name": "S01EP2: Stunting Like My Daddy",
+            "count": 75
+          },
+          {
+            "name": "S01EP3: Made Y ou Look",
+            "count": 60
+          },
+          {
+            "name": "S01EP4: Shook One Part II",
+            "count": 23
+          },
+          {
+            "name": "S01EP5: ‘03 Bonnie and Clyde",
+            "count": 51
+          },
+          {
+            "name": "S01EP6: The Next Episode",
+            "count": 75
+          },
+          {
+            "name": "S01EP7: The Trials and Tribulations of Trying to Pee While Depressed",
+            "count": 57
+          },
+          {
+            "name": "S01EP8: And Salt the Earth Behind Y ou",
+            "count": 60
+          },
+          {
+            "name": "Special 1: Trouble Don’t Last Always",
+            "count": 53
+          },
+          {
+            "name": "Special 2: Fuck Anyone Who’s Not a Sea Blob",
+            "count": 27
+          },
+          {
+            "name": "S02EP1: Trying to Get to Heaven Before They Close the Door",
+            "count": 52
+          },
+          {
+            "name": "S02EP2: Out of Touch",
+            "count": 37
+          },
+          {
+            "name": "S02EP3: Ruminations: Big and Little Bullys",
+            "count": 52
+          },
+          {
+            "name": "S02EP4: Y ou Who Cannot See, Think of Those Who Can",
+            "count": 48
+          },
+          {
+            "name": "S02EP5: Stand Still Like a Hummingbird",
+            "count": 37
+          },
+          {
+            "name": "S02EP6: A Thousand Little Trees of Blood",
+            "count": 60
+          },
+          {
+            "name": "S02EP7: The Theater and It’s Double",
+            "count": 52
+          },
+          {
+            "name": "S02EP8: All My Life, My Heart Has Y earned for a Thing",
+            "count": 42
+          }
+        ]
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "count": 426,
+        "episodes": [
+          {
+            "name": "The Wolf of Wall Street",
+            "count": 426
+          }
+        ]
+      },
+      {
+        "title": "Gambito de Dama",
+        "count": 311,
+        "episodes": [
+          {
+            "name": "EP 1-3",
+            "count": 131
+          },
+          {
+            "name": "EP 4-7 + Special Episode",
+            "count": 180
+          }
+        ]
+      },
+      {
+        "title": "Rango",
+        "count": 247,
+        "episodes": [
+          {
+            "name": "Rango",
+            "count": 247
+          }
+        ]
+      },
+      {
+        "title": "Cars 2",
+        "count": 239,
+        "episodes": [
+          {
+            "name": "Cars II",
+            "count": 239
+          }
+        ]
+      },
+      {
+        "title": "Wonka",
+        "count": 239,
+        "episodes": [
+          {
+            "name": "Wonka",
+            "count": 239
+          }
+        ]
+      },
+      {
+        "title": "Emma",
+        "count": 204,
+        "episodes": [
+          {
+            "name": "Emma",
+            "count": 204
+          }
+        ]
+      },
+      {
+        "title": "Cars",
+        "count": 189,
+        "episodes": [
+          {
+            "name": "Cars I",
+            "count": 189
+          }
+        ]
+      },
+      {
+        "title": "Whiskey Tango Foxtrot",
+        "count": 184,
+        "episodes": [
+          {
+            "name": "Whiskey Tango Foxtrot",
+            "count": 184
+          }
+        ]
+      },
+      {
+        "title": "Slaughterhouse Rulez",
+        "count": 183,
+        "episodes": [
+          {
+            "name": "Slaughterhouse Rulez",
+            "count": 183
+          }
+        ]
+      },
+      {
+        "title": "The Menu",
+        "count": 169,
+        "episodes": [
+          {
+            "name": "The Menu",
+            "count": 169
+          }
+        ]
+      },
+      {
+        "title": "Riesgo Bajo Cero",
+        "count": 157,
+        "episodes": [
+          {
+            "name": "Riesgo Bajo Cero",
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "The Naked Gun",
+        "count": 139,
+        "episodes": [
+          {
+            "name": "The Naked Gun",
+            "count": 139
+          }
+        ]
+      },
+      {
+        "title": "Playmobil",
+        "count": 137,
+        "episodes": [
+          {
+            "name": "Playmobil",
+            "count": 137
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
+        "count": 135,
+        "episodes": [
+          {
+            "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
+            "count": 135
+          }
+        ]
+      },
+      {
+        "title": "Dream Productions",
+        "count": 125,
+        "episodes": [
+          {
+            "name": "Dream Productions",
+            "count": 125
+          }
+        ]
+      },
+      {
+        "title": "Kim Possible Todo un Drama",
+        "count": 123,
+        "episodes": [
+          {
+            "name": "Kim Possible Todo un Drama",
+            "count": 123
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio IV A New Hope",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio IV A New Hope",
+            "count": 121
+          }
+        ]
+      },
+      {
+        "title": "Los Fantasmas de Scrooge",
+        "count": 120,
+        "episodes": [
+          {
+            "name": "Los Fantasmas de Scrooge",
+            "count": 120
+          }
+        ]
+      },
+      {
+        "title": "Buscando a Nemo",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Buscando a Nemo",
+            "count": 119
+          }
+        ]
+      },
+      {
+        "title": "Bichos Una Aventura en Miniatura",
+        "count": 116,
+        "episodes": [
+          {
+            "name": "Bichos Una Aventura en Miniatura",
+            "count": 116
+          }
+        ]
+      },
+      {
+        "title": "Toy Story III",
+        "count": 116,
+        "episodes": [
+          {
+            "name": "Toy Story III",
+            "count": 116
+          }
+        ]
+      },
+      {
+        "title": "Top Gun",
+        "count": 115,
+        "episodes": [
+          {
+            "name": "Top Gun",
+            "count": 115
+          }
+        ]
+      },
+      {
+        "title": "Now is Good",
+        "count": 114,
+        "episodes": [
+          {
+            "name": "Now is Good",
+            "count": 114
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift Reputation Stadium Tour",
+        "count": 113,
+        "episodes": [
+          {
+            "name": "Taylor Swift Reputation Stadium Tour",
+            "count": 113
+          }
+        ]
+      },
+      {
+        "title": "Rocky III",
+        "count": 108,
+        "episodes": [
+          {
+            "name": "Rocky III",
+            "count": 108
+          }
+        ]
+      },
+      {
+        "title": "La Sustancia",
+        "count": 102,
+        "episodes": [
+          {
+            "name": "La Sustancia",
+            "count": 102
+          }
+        ]
+      },
+      {
+        "title": "Alvin y las Ardillas",
+        "count": 100,
+        "episodes": [
+          {
+            "name": "Alvin y las Ardillas",
+            "count": 100
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio III Revenge of the Sith",
+        "count": 92,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio III Revenge of the Sith",
+            "count": 92
+          }
+        ]
+      },
+      {
+        "title": "Last Night in Soho",
+        "count": 90,
+        "episodes": [
+          {
+            "name": "Last Night in Soho",
+            "count": 90
+          }
+        ]
+      },
+      {
+        "title": "Escape de Sobibor",
+        "count": 89,
+        "episodes": [
+          {
+            "name": "Escape de Sobibor",
+            "count": 89
+          }
+        ]
+      },
+      {
+        "title": "21 Blackjack",
+        "count": 88,
+        "episodes": [
+          {
+            "name": "21 Blackjack",
+            "count": 88
+          }
+        ]
+      },
+      {
+        "title": "American Pastoral",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "American Pastoral",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio VI Return of the Jedi",
+        "count": 85,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio VI Return of the Jedi",
+            "count": 85
+          }
+        ]
+      },
+      {
+        "title": "Galveston",
+        "count": 84,
+        "episodes": [
+          {
+            "name": "Galveston",
+            "count": 84
+          }
+        ]
+      },
+      {
+        "title": "El Padrino I",
+        "count": 83,
+        "episodes": [
+          {
+            "name": "El Padrino I",
+            "count": 83
+          }
+        ]
+      },
+      {
+        "title": "Teen Spirit",
+        "count": 82,
+        "episodes": [
+          {
+            "name": "Teen Spirit",
+            "count": 82
+          }
+        ]
+      },
+      {
+        "title": "Split",
+        "count": 81,
+        "episodes": [
+          {
+            "name": "Split",
+            "count": 81
+          }
+        ]
+      },
+      {
+        "title": "A Nonsense Christmas with Sabrina Carpenter",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "A Nonsense Christmas with Sabrina Carpenter",
+            "count": 80
+          }
+        ]
+      },
+      {
+        "title": "Non-stop",
+        "count": 79,
+        "episodes": [
+          {
+            "name": "Non-stop",
+            "count": 79
+          }
+        ]
+      },
+      {
+        "title": "Cuckoo",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Cuckoo",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "title": "Olivia Rodrigo Guts World Tour",
+        "count": 74,
+        "episodes": [
+          {
+            "name": "Olivia Rodrigo Guts World Tour",
+            "count": 74
+          }
+        ]
+      },
+      {
+        "title": "The Runaways",
+        "count": 72,
+        "episodes": [
+          {
+            "name": "The Runaways",
+            "count": 72
+          }
+        ]
+      },
+      {
+        "title": "The Watchers",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "The Watchers",
+            "count": 70
+          }
+        ]
+      },
+      {
+        "title": "Lilo and Stitch I",
+        "count": 68,
+        "episodes": [
+          {
+            "name": "Lilo and Stitch I",
+            "count": 68
+          }
+        ]
+      },
+      {
+        "title": "Rocky IV",
+        "count": 68,
+        "episodes": [
+          {
+            "name": "Rocky IV",
+            "count": 68
+          }
+        ]
+      },
+      {
+        "title": "Super Mario Bros The Movie",
+        "count": 66,
+        "episodes": [
+          {
+            "name": "Super Mario Bros The Movie",
+            "count": 66
+          }
+        ]
+      },
+      {
+        "title": "Star Wars Episodio V The Empire Strikes Back",
+        "count": 65,
+        "episodes": [
+          {
+            "name": "Star Wars Episodio V The Empire Strikes Back",
+            "count": 65
+          }
+        ]
+      },
+      {
+        "title": "Thoroughbreds",
+        "count": 65,
+        "episodes": [
+          {
+            "name": "Thoroughbreds",
+            "count": 65
+          }
+        ]
+      },
+      {
+        "title": "3 Generations",
+        "count": 64,
+        "episodes": [
+          {
+            "name": "3 Generations",
+            "count": 64
+          }
+        ]
+      },
+      {
+        "title": "Taken I",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Taken I",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Taken III",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Taken III",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Please Stand By",
+        "count": 51,
+        "episodes": [
+          {
+            "name": "Please Stand By",
+            "count": 51
+          }
+        ]
+      },
+      {
+        "title": "All the Bright Places",
+        "count": 49,
+        "episodes": [
+          {
+            "name": "All the Bright Places",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "title": "Very Good Girls",
+        "count": 49,
+        "episodes": [
+          {
+            "name": "Very Good Girls",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "title": "The Neon Demon",
+        "count": 40,
+        "episodes": [
+          {
+            "name": "The Neon Demon",
+            "count": 40
+          }
+        ]
+      },
+      {
+        "title": "I Think Were Alone Now",
+        "count": 33,
+        "episodes": [
+          {
+            "name": "I Think Were Alone Now",
+            "count": 33
+          }
+        ]
+      },
+      {
+        "title": "Taken II",
+        "count": 33,
+        "episodes": [
+          {
+            "name": "Taken II",
+            "count": 33
+          }
+        ]
+      },
+      {
+        "title": "Vicious",
+        "count": 29,
+        "episodes": [
+          {
+            "name": "Vicious",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "title": "Viena and the Fantomes",
+        "count": 24,
+        "episodes": [
+          {
+            "name": "Viena and the Fantomes",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "title": "The Roads Not Taken",
+        "count": 23,
+        "episodes": [
+          {
+            "name": "The Roads Not Taken",
+            "count": 23
+          }
+        ]
+      }
+    ]
+  },
+  "yearlyData": [
+    {
+      "year": "2023",
+      "words": 1094
+    },
+    {
+      "year": "2024",
+      "words": 8904
+    },
+    {
+      "year": "2025",
+      "words": 10999
+    }
+  ]
+}
