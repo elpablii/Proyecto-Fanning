@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Dashboard del Proyecto Fanning",
-  description: "Esta es un dashboard del Proyecto Fanning que sirve para analizar el aprendizaje de vocabulario en inglés proveniente de series y peliculas",
+  description: "Este es un dashboard del Proyecto Fanning que sirve para analizar el aprendizaje de vocabulario en inglés proveniente de series y peliculas",
 };
 
 export default function RootLayout({

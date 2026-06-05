@@ -1,45 +1,268 @@
 "use client";
 
-import React, { useState } from 'react';
-import { 
-  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
-  LineChart, Line
+import React, { useState, useEffect } from 'react';
+import {
+  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 } from 'recharts';
-import { Film, BookOpen, Crown, TrendingUp, Search, PlayCircle } from 'lucide-react';
+import { Film, BookOpen, Crown, TrendingUp, Search, Loader2, Calendar } from 'lucide-react';
 
-// Hardcoded mock data based on our actual extraction
-const topWordsGlobal = [
-  { word: "creep", count: 13, year: "2023-2025" },
-  { word: "creepy", count: 12, year: "2023-2025" },
-  { word: "scratch", count: 12, year: "2023-2025" },
-  { word: "spare", count: 12, year: "2023-2025" },
-  { word: "swell", count: 11, year: "2023-2025" },
-  { word: "stand", count: 11, year: "2023-2025" },
-  { word: "stall", count: 10, year: "2023-2025" },
-  { word: "bargain", count: 10, year: "2023-2025" },
-  { word: "make out", count: 10, year: "2023-2025" },
-  { word: "rely", count: 10, year: "2023-2025" },
-];
+interface VocabItem {
+  id: string;
+  word: string;
+  translation: string;
+  source_movie: string;
+  year_processed: string;
+  global_frequency: number;
+}
 
-const yearlyData = [
-  { year: "2023", words: 450, movies: 30 },
-  { year: "2024", words: 1200, movies: 55 },
-  { year: "2025", words: 2429, movies: 36 },
-];
+const MovieCard = ({ title, count, onClick }: { title: string, count: number, onClick: (posterUrl: string | null) => void }) => {
+  const [posterUrl, setPosterUrl] = useState<string | null>(null);
 
-const genreData = [
-  { name: 'Drama/Suspense', value: 45 },
-  { name: 'Animation', value: 30 },
-  { name: 'Sci-Fi/Action', value: 25 },
-];
+  useEffect(() => {
+    // Ya el título viene limpio desde cleanMovieTitle, pero aseguramos la URL
+    let searchTitle = title;
+    // Usamos la API de TMDB
+    const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
+
+    let endpoint = 'search/multi';
+    let extraParams = '';
+
+    // Correcciones específicas para carátulas equivocadas
+    // Correcciones específicas para carátulas equivocadas
+    const overrides: Record<string, { q: string, y?: string }> = {
+      "taylor swift the eras tour film": { q: "Taylor Swift: The Eras Tour" },
+      "aves de presa": { q: "Birds of Prey", y: "2020" },
+      "el escuadrón suicida": { q: "The Suicide Squad", y: "2021" },
+      "el escuadron suicida": { q: "The Suicide Squad", y: "2021" },
+      "escuadrón suicida": { q: "Suicide Squad", y: "2016" },
+      "escuadron suicida": { q: "Suicide Squad", y: "2016" },
+      "terminal": { q: "Terminal", y: "2018" },
+      "amsterdam": { q: "Amsterdam", y: "2022" },
+      "ámsterdam": { q: "Amsterdam", y: "2022" },
+      "babylon": { q: "Babylon", y: "2022" },
+      "five night's at freddy": { q: "Five Nights at Freddy's", y: "2023" },
+      "five nights at freddy": { q: "Five Nights at Freddy's", y: "2023" },
+      "the legend of tarzan": { q: "The Legend of Tarzan", y: "2016" },
+      "intensamente 2": { q: "Inside Out 2", y: "2024" },
+      "intensamente 1": { q: "Inside Out", y: "2015" },
+      "intensamente": { q: "Inside Out", y: "2015" },
+      "harold and the purple crayon": { q: "Harold and the Purple Crayon", y: "2024" },
+      "wall-e": { q: "WALL·E", y: "2008" },
+      "los increíbles": { q: "The Incredibles", y: "2004" },
+      "los increibles": { q: "The Incredibles", y: "2004" },
+      "rambo first blood": { q: "First Blood", y: "1982" },
+      "venganza implacable": { q: "Honest Thief", y: "2020" },
+      "contrarreloj": { q: "Retribution", y: "2023" },
+      "emma": { q: "Emma.", y: "2020" },
+      "riesgo bajo cero": { q: "The Ice Road", y: "2021" },
+      "buscando a nemo": { q: "Finding Nemo", y: "2003" },
+      "alvin y las ardillas": { q: "Alvin and the Chipmunks", y: "2007" },
+      "el padrino 1": { q: "The Godfather", y: "1972" },
+      "el padrino": { q: "The Godfather", y: "1972" },
+      "teen spirit": { q: "Teen Spirit", y: "2019" }, // TMDB lo tiene registrado en 2019
+      "cuckoo": { q: "Cuckoo", y: "2024" },
+      "the runaways": { q: "The Runaways", y: "2010" },
+      "lilo and stitch i": { q: "Lilo & Stitch", y: "2002" },
+      "lilo y stitch i": { q: "Lilo & Stitch", y: "2002" },
+      "lilo y stitch 1": { q: "Lilo & Stitch", y: "2002" },
+      "lilo y stitch": { q: "Lilo & Stitch", y: "2002" },
+      "3 generations": { q: "3 Generations", y: "2016" },
+      "about ray": { q: "3 Generations", y: "2016" },
+      "the roads not taken": { q: "The Roads Not Taken", y: "2020" },
+      "taken iii": { q: "Taken 3", y: "2014" },
+      "taken 3": { q: "Taken 3", y: "2014" },
+      "taken ii": { q: "Taken 2", y: "2012" },
+      "taken 2": { q: "Taken 2", y: "2012" },
+      "taken i": { q: "Taken", y: "2008" },
+      "taken 1": { q: "Taken", y: "2008" },
+      "taken": { q: "Taken", y: "2008" },
+      "vicious": { q: "Vicious", y: "2025" }
+    };
+
+    const lowerTitle = title.toLowerCase().trim();
+    // Ordenamos las llaves por longitud descendente para evitar que "escuadron suicida" pise a "el escuadron suicida"
+    const sortedKeys = Object.keys(overrides).sort((a, b) => b.length - a.length);
+    
+    for (const key of sortedKeys) {
+      if (lowerTitle.includes(key)) {
+        searchTitle = overrides[key].q;
+        if (overrides[key].y) {
+          endpoint = 'search/movie';
+          extraParams = `&primary_release_year=${overrides[key].y}`;
+        }
+        break;
+      }
+    }
+
+    fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=en-US${extraParams}`)
+      .then(res => res.json())
+      .then(data => {
+        if (data.results && data.results.length > 0) {
+          // Busca el primer resultado válido con un póster
+          const result = data.results.find((r: any) => r.poster_path);
+          if (result && result.poster_path) {
+            setPosterUrl(`https://image.tmdb.org/t/p/w500${result.poster_path}`);
+          }
+        }
+      })
+      .catch(console.error);
+  }, [title]);
+
+  return (
+    <div onClick={() => onClick(posterUrl)} className="group relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:border-purple-500 hover:scale-105 transition-all duration-300 cursor-pointer">
+      {posterUrl ? (
+        <img src={posterUrl} alt={title} className="w-full aspect-[2/3] object-cover transition-transform duration-700 group-hover:scale-110" />
+      ) : (
+        <div className="aspect-[2/3] bg-gray-800 flex flex-col items-center justify-center p-4 text-center">
+          <Film size={32} className="text-gray-600 mb-2" />
+          <span className="absolute text-gray-500 text-xs opacity-50 uppercase font-bold tracking-widest rotate-[-45deg]">POSTER</span>
+        </div>
+      )}
+
+      <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent opacity-90 transition-opacity duration-300"></div>
+
+      <div className="absolute bottom-0 left-0 right-0 p-4">
+        <h4 className="text-sm font-bold text-white leading-tight drop-shadow-md mb-1">{title}</h4>
+        <p className="text-xs text-purple-400 font-bold">{count} palabras</p>
+      </div>
+    </div>
+  );
+};
 
 export default function Dashboard() {
-  const [activeTab, setActiveTab] = useState('overview');
+  const [data, setData] = useState<VocabItem[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [selectedYear, setSelectedYear] = useState<string>("all");
+  const [selectedMovie, setSelectedMovie] = useState<{title: string, count: number, posterUrl: string | null, episodes: {name: string, count: number}[]} | null>(null);
+
+  const [stats, setStats] = useState({
+    totalWords: 0,
+    uniqueMovies: 0,
+    topWord: { word: "N/A", count: 0, translation: "" },
+    yearlyData: [] as { year: string, words: number }[],
+    topList: [] as { word: string, count: number, translation: string }[],
+    movieList: [] as { title: string, count: number, episodes: {name: string, count: number}[] }[]
+  });
+
+  useEffect(() => {
+    fetch('/data/vocabulario.json')
+      .then(res => res.json())
+      .then((json: VocabItem[]) => {
+        setData(json);
+        setLoading(false);
+      })
+      .catch(err => console.error("Error cargando JSON:", err));
+  }, []);
+
+  useEffect(() => {
+    if (data.length > 0) {
+      let filteredData = data;
+      if (selectedYear !== "all") {
+        filteredData = data.filter(item => item.year_processed === selectedYear);
+      }
+      procesarEstadisticas(filteredData, data);
+    }
+  }, [data, selectedYear]);
+
+  const procesarEstadisticas = (filteredData: VocabItem[], allData: VocabItem[]) => {
+    const totalWords = filteredData.length;
+
+    // Función de limpieza exhaustiva para agrupar correctamente
+    const cleanMovieTitle = (rawTitle: string) => {
+      let title = rawTitle;
+      title = title.replace(/\(lista.*?\)/ig, "");
+      title = title.replace(/\(S\d+EP.*?\)/ig, "");
+      title = title.replace(/\(Season.*?\)/ig, "");
+      title = title.replace(/parte \d/ig, ""); // "Parte 1", etc.
+      // Correcciones específicas para la API de TMDB
+      if (/^Cars I$/i.test(title.trim())) title = "Cars";
+      if (/^Cars II$/i.test(title.trim())) title = "Cars 2";
+      return title.trim();
+    };
+
+    const moviesMap = new Map<string, { count: number, episodes: Map<string, number> }>();
+    filteredData.forEach(v => {
+      const cleanTitle = cleanMovieTitle(v.source_movie);
+      // Ignoramos archivos que no sean películas reales (por si quedó algún título basura)
+      if (cleanTitle.toLowerCase().includes("unknown words")) return;
+      
+      if (!moviesMap.has(cleanTitle)) {
+        moviesMap.set(cleanTitle, { count: 0, episodes: new Map() });
+      }
+      
+      const group = moviesMap.get(cleanTitle)!;
+      group.count += 1;
+      // El nombre del archivo original
+      const epName = v.source_movie;
+      group.episodes.set(epName, (group.episodes.get(epName) || 0) + 1);
+    });
+    
+    const uniqueMovies = moviesMap.size;
+    const movieList = Array.from(moviesMap.entries())
+      .map(([title, data]) => ({ 
+        title, 
+        count: data.count,
+        episodes: Array.from(data.episodes.entries())
+          .map(([name, count]) => ({ name, count }))
+          .sort((a, b) => b.count - a.count)
+      }))
+      .sort((a, b) => b.count - a.count);
+
+    const wordMap = new Map<string, { word: string, count: number, translation: string }>();
+    filteredData.forEach(item => {
+      const w = item.word.toLowerCase();
+      if (!wordMap.has(w) || item.global_frequency > (wordMap.get(w)?.count || 0)) {
+        wordMap.set(w, {
+          word: item.word,
+          count: item.global_frequency, // Mantenemos freq global o local? Para consistencia mejor usar la local del filtro
+          translation: item.translation
+        });
+      }
+    });
+
+    const topList = Array.from(wordMap.values())
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 10);
+
+    const topWord = topList.length > 0 ? topList[0] : { word: "N/A", count: 0, translation: "" };
+
+    // Gráfica siempre basada en datos globales para ver evolución
+    const yearCount: Record<string, number> = { "2023": 0, "2024": 0, "2025": 0 };
+    allData.forEach(item => {
+      if (yearCount[item.year_processed] !== undefined) {
+        yearCount[item.year_processed]++;
+      } else {
+        yearCount[item.year_processed] = 1;
+      }
+    });
+
+    const yearlyData = Object.keys(yearCount)
+      .map(year => ({ year, words: yearCount[year] }))
+      .sort((a, b) => a.year.localeCompare(b.year));
+
+    setStats({
+      totalWords,
+      uniqueMovies,
+      topWord,
+      yearlyData,
+      topList,
+      movieList
+    });
+  };
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-950 flex flex-col justify-center items-center text-white">
+        <Loader2 className="animate-spin mb-4" size={48} />
+        <p className="text-xl">Procesando 21,000 vocabularios...</p>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-8">
       {/* Header */}
-      <header className="mb-10 flex justify-between items-end border-b border-gray-800 pb-6">
+      <header className="mb-8 flex justify-between items-end pb-6">
         <div>
           <h1 className="text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
             Fanning Analytics
@@ -47,76 +270,90 @@ export default function Dashboard() {
           <p className="text-gray-400 mt-2 text-lg">Métricas de inmersión y adquisición de vocabulario</p>
         </div>
         <div className="flex gap-4">
-          <button className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2">
-            <Search size={18} /> Buscar Palabra
-          </button>
-          <button className="bg-purple-600 hover:bg-purple-700 px-4 py-2 rounded-lg transition font-medium shadow-lg shadow-purple-900/20">
-            Sincronizar Datos
+          <button className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
+            <Search size={16} /> Buscar
           </button>
         </div>
       </header>
+
+      {/* Selector de Años */}
+      <div className="mb-10 flex border-b border-gray-800 pb-4 gap-4">
+        {["all", "2023", "2024", "2025"].map((year) => (
+          <button
+            key={year}
+            onClick={() => setSelectedYear(year)}
+            className={`px-5 py-2 rounded-full font-medium transition ${selectedYear === year
+                ? "bg-purple-600 text-white shadow-lg shadow-purple-900/40"
+                : "bg-gray-900 text-gray-400 hover:text-white hover:bg-gray-800"
+              }`}
+          >
+            {year === "all" ? "Histórico Global" : `Ciclo ${year}`}
+          </button>
+        ))}
+      </div>
 
       {/* Stat Cards */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Total Vocabulario</h3>
+            <h3 className="text-gray-400 font-medium">Total Extraído</h3>
             <div className="p-2 bg-blue-500/10 text-blue-400 rounded-lg"><BookOpen size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">4,079</p>
-          <p className="text-sm text-green-400 mt-2 flex items-center gap-1"><TrendingUp size={14} /> +15% este año</p>
+          <p className="text-3xl font-bold">{stats.totalWords.toLocaleString()}</p>
+          <p className="text-sm text-green-400 mt-2 flex items-center gap-1">Palabras en {selectedYear === 'all' ? 'total' : selectedYear}</p>
         </div>
-        
+
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Diálogos Analizados</h3>
+            <h3 className="text-gray-400 font-medium">Películas / Series</h3>
             <div className="p-2 bg-purple-500/10 text-purple-400 rounded-lg"><Film size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">121</p>
-          <p className="text-sm text-gray-500 mt-2">176 vocabularios mapeados</p>
+          <p className="text-3xl font-bold">{stats.uniqueMovies}</p>
+          <p className="text-sm text-gray-500 mt-2">Obras únicas visualizadas</p>
         </div>
 
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Palabra más Frecuente</h3>
+            <h3 className="text-gray-400 font-medium">Más Frecuente</h3>
             <div className="p-2 bg-pink-500/10 text-pink-400 rounded-lg"><TrendingUp size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">Creep</p>
-          <p className="text-sm text-gray-500 mt-2">13 apariciones comprobadas</p>
+          <p className="text-2xl font-bold capitalize truncate">{stats.topWord.word}</p>
+          <p className="text-sm text-gray-500 mt-2">{stats.topWord.count} apariciones</p>
         </div>
 
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Reina Dominante</h3>
+            <h3 className="text-gray-400 font-medium">Realeza Top</h3>
             <div className="p-2 bg-yellow-500/10 text-yellow-400 rounded-lg"><Crown size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">Dakota F.</p>
-          <p className="text-sm text-gray-500 mt-2">Mayor densidad léxica</p>
+          <p className="text-3xl font-bold text-gray-600">N/A</p>
+          <p className="text-sm text-gray-500 mt-2">Próxima función...</p>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-        
+      {/* Grid Principal */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
+
         {/* Chart Section */}
         <div className="col-span-2 bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <h3 className="text-xl font-bold mb-6 flex items-center gap-2">
-            <TrendingUp className="text-purple-500" /> Crecimiento de Vocabulario por Año
+            <Calendar className="text-purple-500" size={24} /> Evolución del Vocabulario
           </h3>
           <div className="h-80 w-full">
             <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={yearlyData}>
+              <BarChart data={stats.yearlyData}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                 <XAxis dataKey="year" stroke="#9CA3AF" axisLine={false} tickLine={false} />
                 <YAxis stroke="#9CA3AF" axisLine={false} tickLine={false} />
-                <Tooltip 
+                <Tooltip
                   contentStyle={{ backgroundColor: '#1F2937', borderColor: '#374151', borderRadius: '8px', color: '#fff' }}
                   itemStyle={{ color: '#fff' }}
                 />
                 <Bar dataKey="words" fill="url(#colorWords)" radius={[6, 6, 0, 0]} />
                 <defs>
                   <linearGradient id="colorWords" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor="#9333EA" stopOpacity={0.8}/>
-                    <stop offset="95%" stopColor="#EC4899" stopOpacity={0.8}/>
+                    <stop offset="5%" stopColor="#9333EA" stopOpacity={0.8} />
+                    <stop offset="95%" stopColor="#EC4899" stopOpacity={0.8} />
                   </linearGradient>
                 </defs>
               </BarChart>
@@ -126,21 +363,24 @@ export default function Dashboard() {
 
         {/* Top Words Table */}
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
-          <h3 className="text-xl font-bold mb-6">🏆 Top 10 Global</h3>
+          <h3 className="text-xl font-bold mb-6 flex items-center gap-2">🏆 Top 10 {selectedYear !== 'all' && `(${selectedYear})`}</h3>
           <div className="overflow-hidden">
             <table className="w-full text-left">
               <thead>
                 <tr className="text-gray-400 border-b border-gray-800">
-                  <th className="pb-3 font-medium">Palabra / Frase</th>
-                  <th className="pb-3 font-medium text-right">Repeticiones</th>
+                  <th className="pb-3 font-medium">Palabra</th>
+                  <th className="pb-3 font-medium text-right">Rep.</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-800">
-                {topWordsGlobal.map((item, index) => (
+                {stats.topList.map((item, index) => (
                   <tr key={index} className="hover:bg-gray-800/50 transition">
                     <td className="py-3 font-medium flex items-center gap-3">
                       <span className="text-gray-500 text-sm w-4">{index + 1}.</span>
-                      {item.word}
+                      <div className="flex flex-col">
+                        <span className="text-gray-100 truncate w-32">{item.word}</span>
+                        <span className="text-gray-500 text-xs italic line-clamp-1">{item.translation}</span>
+                      </div>
                     </td>
                     <td className="py-3 text-right text-purple-400 font-bold">{item.count}</td>
                   </tr>
@@ -148,12 +388,84 @@ export default function Dashboard() {
               </tbody>
             </table>
           </div>
-          <button className="w-full mt-4 py-2 bg-gray-800 hover:bg-gray-700 rounded-lg text-sm text-gray-300 transition">
-            Ver todas las palabras
-          </button>
         </div>
-
       </div>
+
+      {/* Catálogo Visual */}
+      <div className="mt-12">
+        <h2 className="text-2xl font-bold mb-8 flex items-center gap-2 border-b border-gray-800 pb-4">
+          <Film className="text-pink-500" size={28} /> Catálogo de Visualización {selectedYear !== 'all' ? `(${selectedYear})` : ''}
+        </h2>
+
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
+          {stats.movieList.map((movie, idx) => (
+            <MovieCard 
+              key={idx} 
+              title={movie.title} 
+              count={movie.count} 
+              onClick={(posterUrl) => setSelectedMovie({ ...movie, posterUrl })} 
+            />
+          ))}
+        </div>
+      </div>
+
+      {/* Modal Interactivo de Episodios */}
+      {selectedMovie && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" onClick={() => setSelectedMovie(null)}>
+          <div className="bg-gray-900 border border-gray-800 rounded-2xl max-w-2xl w-full max-h-[85vh] overflow-hidden flex flex-col shadow-2xl" onClick={e => e.stopPropagation()}>
+            {/* Header con poster */}
+            <div className="relative h-48 bg-gray-800 flex-shrink-0">
+              {selectedMovie.posterUrl && (
+                <img src={selectedMovie.posterUrl} alt="Backdrop" className="w-full h-full object-cover opacity-30 blur-md" />
+              )}
+              <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent"></div>
+              <div className="absolute bottom-4 left-6 flex items-end gap-6">
+                {selectedMovie.posterUrl ? (
+                  <img src={selectedMovie.posterUrl} alt="Poster" className="w-24 h-36 rounded-lg shadow-xl object-cover border border-gray-700" />
+                ) : (
+                  <div className="w-24 h-36 bg-gray-800 rounded-lg shadow-xl border border-gray-700 flex items-center justify-center">
+                    <Film className="text-gray-600" size={32} />
+                  </div>
+                )}
+                <div className="pb-2">
+                  <h2 className="text-3xl font-extrabold text-white">{selectedMovie.title}</h2>
+                  <p className="text-purple-400 font-medium mt-1">{selectedMovie.count} palabras registradas</p>
+                </div>
+              </div>
+              <button onClick={() => setSelectedMovie(null)} className="absolute top-4 right-4 bg-black/50 hover:bg-black text-white rounded-full p-2 transition">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+              </button>
+            </div>
+
+            {/* Lista de episodios */}
+            <div className="p-6 overflow-y-auto">
+              <h3 className="text-lg font-bold text-gray-300 mb-4">Desglose por Archivo / Episodio</h3>
+              {selectedMovie.episodes.length === 1 ? (
+                <div className="text-center py-10 text-gray-500">
+                  <Film size={48} className="mx-auto mb-4 opacity-20" />
+                  <p>Obra única. No hay episodios adicionales divididos.</p>
+                </div>
+              ) : (
+                <div className="space-y-3">
+                  {selectedMovie.episodes.map((ep, i) => (
+                    <div key={i} className="flex justify-between items-center bg-gray-800/40 p-4 rounded-xl border border-gray-800/80 hover:border-purple-900/50 hover:bg-gray-800 transition">
+                      <span className="text-gray-200 font-medium truncate pr-4" title={ep.name}>
+                        {ep.name}
+                      </span>
+                      <span className="bg-purple-900/30 text-purple-300 px-3 py-1 rounded-full text-sm font-bold flex-shrink-0">
+                        {ep.count} palabras
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
     </div>
   );
 }
