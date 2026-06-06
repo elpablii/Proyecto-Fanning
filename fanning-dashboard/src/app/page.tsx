@@ -16,7 +16,7 @@ interface VocabItem {
   global_frequency: number;
 }
 
-const MovieCard = ({ title, count, onClick }: { title: string, count: number, onClick: (posterUrl: string | null) => void }) => {
+const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count: number, dialogues?: number, onClick: (posterUrl: string | null) => void }) => {
   const [posterUrl, setPosterUrl] = useState<string | null>(null);
 
   useEffect(() => {
@@ -62,6 +62,7 @@ const MovieCard = ({ title, count, onClick }: { title: string, count: number, on
       "el padrino": { q: "The Godfather", y: "1972" },
       "teen spirit": { q: "Teen Spirit", y: "2019" }, // TMDB lo tiene registrado en 2019
       "cuckoo": { q: "Cuckoo", y: "2024" },
+      "kim possible (película 2019)": { q: "Kim Possible", y: "2019" },
       "the runaways": { q: "The Runaways", y: "2010" },
       "lilo and stitch i": { q: "Lilo & Stitch", y: "2002" },
       "lilo y stitch i": { q: "Lilo & Stitch", y: "2002" },
@@ -124,7 +125,14 @@ const MovieCard = ({ title, count, onClick }: { title: string, count: number, on
 
       <div className="absolute bottom-0 left-0 right-0 p-4">
         <h4 className="text-sm font-bold text-white leading-tight drop-shadow-md mb-1">{title}</h4>
-        <p className="text-xs text-purple-400 font-bold">{count} palabras</p>
+        <div className="flex justify-between items-center mt-2">
+          <p className="text-xs text-purple-400 font-bold">{count} palabras</p>
+          {dialogues !== undefined && dialogues > 0 && (
+            <span className="text-[10px] bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded-full font-bold border border-emerald-500/30">
+              {dialogues} líneas
+            </span>
+          )}
+        </div>
       </div>
     </div>
   );
@@ -135,7 +143,7 @@ export default function Dashboard() {
   const [manifestData, setManifestData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [selectedYear, setSelectedYear] = useState<string>("all");
-  const [selectedMovie, setSelectedMovie] = useState<{title: string, count: number, posterUrl: string | null, episodes: {name: string, count: number}[]} | null>(null);
+  const [selectedMovie, setSelectedMovie] = useState<{title: string, count: number, dialogues?: number, posterUrl: string | null, episodes: {name: string, count: number}[]} | null>(null);
 
   const [stats, setStats] = useState({
     totalWords: 0,
@@ -143,7 +151,7 @@ export default function Dashboard() {
     topWord: { word: "N/A", count: 0, translation: "" },
     yearlyData: [] as { year: string, words: number }[],
     topList: [] as { word: string, count: number, translation: string }[],
-    movieList: [] as { title: string, count: number, episodes: {name: string, count: number}[] }[]
+    movieList: [] as { title: string, count: number, dialogues?: number, episodes: {name: string, count: number}[] }[]
   });
 
   useEffect(() => {
@@ -190,6 +198,9 @@ export default function Dashboard() {
           <p className="text-gray-400 mt-2 text-lg">Métricas de inmersión y adquisición de vocabulario</p>
         </div>
         <div className="flex gap-4">
+          <button onClick={() => router.push('/reglas')} className="bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
+            <BookOpen size={16} /> Reglas del Proyecto
+          </button>
           <button className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
             <Search size={16} /> Buscar
           </button>
@@ -323,6 +334,7 @@ export default function Dashboard() {
               key={idx} 
               title={movie.title} 
               count={movie.count} 
+              dialogues={movie.dialogues}
               onClick={(posterUrl) => {
                 const specialSeries = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama'];
                 if (specialSeries.includes(movie.title.toLowerCase())) {
@@ -356,7 +368,23 @@ export default function Dashboard() {
                 )}
                 <div className="pb-2">
                   <h2 className="text-3xl font-extrabold text-white">{selectedMovie.title}</h2>
-                  <p className="text-purple-400 font-medium mt-1">{selectedMovie.count} palabras registradas</p>
+                  <div className="flex flex-wrap gap-4 mt-2">
+                    <p className="text-purple-400 font-medium">{selectedMovie.count} palabras no entendidas</p>
+                    {selectedMovie.dialogues !== undefined && selectedMovie.dialogues > 0 && (
+                      <>
+                        <p className="text-emerald-400 font-medium">| {selectedMovie.dialogues} líneas totales</p>
+                        <p className="text-cyan-400 font-bold bg-cyan-500/10 px-2 py-0.5 rounded border border-cyan-500/20">
+                          {(() => {
+                            const d = selectedMovie.dialogues;
+                            const w = selectedMovie.count;
+                            let pct = ((d - w) / d) * 100;
+                            if (pct >= 99.445) pct = 100;
+                            return Math.max(0, pct).toFixed(2);
+                          })()}% Comprensión
+                        </p>
+                      </>
+                    )}
+                  </div>
                 </div>
               </div>
               <button onClick={() => setSelectedMovie(null)} className="absolute top-4 right-4 bg-black/50 hover:bg-black text-white rounded-full p-2 transition">
