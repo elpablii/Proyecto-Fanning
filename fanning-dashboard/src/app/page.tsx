@@ -125,14 +125,6 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
 
       <div className="absolute bottom-0 left-0 right-0 p-4">
         <h4 className="text-sm font-bold text-white leading-tight drop-shadow-md mb-1">{title}</h4>
-        <div className="flex justify-between items-center mt-2">
-          <p className="text-xs text-purple-400 font-bold">{count} palabras</p>
-          {dialogues !== undefined && dialogues > 0 && (
-            <span className="text-[10px] bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded-full font-bold border border-emerald-500/30">
-              {dialogues} líneas
-            </span>
-          )}
-        </div>
       </div>
     </div>
   );
