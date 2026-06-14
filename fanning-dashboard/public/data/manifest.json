@@ -1,7 +1,7 @@
 {
   "all": {
-    "totalWords": 20997,
-    "uniqueMovies": 115,
+    "totalWords": 32742,
+    "uniqueMovies": 173,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -44,6 +44,11 @@
         "translation": "acabar con"
       },
       {
+        "word": "Landlord",
+        "count": 8,
+        "translation": "propietario, arrendador, terrateniente"
+      },
+      {
         "word": "Hang on",
         "count": 7,
         "translation": "espera un momento"
@@ -52,639 +57,408 @@
         "word": "Sniff (verb)",
         "count": 7,
         "translation": "olfatear"
-      },
-      {
-        "word": "Go over",
-        "count": 7,
-        "translation": "repasar, examinar"
       }
     ],
     "movieList": [
       {
-        "title": "Kim Possible",
-        "count": 3599,
+        "title": "The Big Bang Theory",
+        "count": 5267,
         "episodes": [
           {
-            "name": "S01EP1: Crush",
-            "count": 70,
+            "name": "S01EP1-4",
+            "count": 195,
+            "dialogues": 1437
+          },
+          {
+            "name": "S01EP11-16",
+            "count": 261,
+            "dialogues": 1941
+          },
+          {
+            "name": "S01EP17) & (S02EP1-3",
+            "count": 173,
             "dialogues": 0
           },
           {
-            "name": "S01EP2: Sink or Swim",
-            "count": 80,
-            "dialogues": 0
+            "name": "S01EP5-7",
+            "count": 125,
+            "dialogues": 986
           },
           {
-            "name": "S01EP3: The New Ron",
-            "count": 89,
-            "dialogues": 0
+            "name": "S01EP8-10",
+            "count": 124,
+            "dialogues": 1010
           },
           {
-            "name": "S01EP4: Tick-Tick-Tick",
-            "count": 58,
-            "dialogues": 0
+            "name": "S02EP14-18) (lista defintiva",
+            "count": 254,
+            "dialogues": 1777
           },
           {
-            "name": "S01EP5: Downhill",
-            "count": 83,
-            "dialogues": 0
+            "name": "S02EP19-23",
+            "count": 216,
+            "dialogues": 1796
           },
           {
-            "name": "S01EP6: Bueno Nacho",
+            "name": "S02EP4-5",
+            "count": 104,
+            "dialogues": 728
+          },
+          {
+            "name": "S02EP6-8",
+            "count": 138,
+            "dialogues": 1007
+          },
+          {
+            "name": "S02EP9-13",
+            "count": 216,
+            "dialogues": 1669
+          },
+          {
+            "name": "S03EP1-2",
+            "count": 65,
+            "dialogues": 855
+          },
+          {
+            "name": "S03EP11-13",
+            "count": 131,
+            "dialogues": 1105
+          },
+          {
+            "name": "S03EP14-18",
+            "count": 233,
+            "dialogues": 1752
+          },
+          {
+            "name": "S03EP19-23",
+            "count": 185,
+            "dialogues": 1910
+          },
+          {
+            "name": "S03EP3-4",
             "count": 66,
-            "dialogues": 0
+            "dialogues": 690
           },
           {
-            "name": "S01EP7: Number One",
-            "count": 70,
-            "dialogues": 0
+            "name": "S03EP5-10",
+            "count": 189,
+            "dialogues": 1941
           },
           {
-            "name": "S01EP8: Mind Games",
-            "count": 57,
-            "dialogues": 0
+            "name": "S04EP1-5",
+            "count": 224,
+            "dialogues": 2287
           },
           {
-            "name": "S01EP9: Attack of the Killer Bebes",
-            "count": 52,
-            "dialogues": 0
+            "name": "S04EP11-15",
+            "count": 218,
+            "dialogues": 2232
           },
           {
-            "name": "S01EP10: Royal Pain",
-            "count": 64,
-            "dialogues": 0
+            "name": "S04EP15-19",
+            "count": 258,
+            "dialogues": 2291
           },
           {
-            "name": "S01EP11: Coach Possible",
-            "count": 61,
-            "dialogues": 0
+            "name": "S04EP16-20",
+            "count": 257,
+            "dialogues": 2302
           },
           {
-            "name": "S01EP12: Pain King vs Cleopatra",
-            "count": 55,
-            "dialogues": 0
+            "name": "S04EP21-24",
+            "count": 193,
+            "dialogues": 1724
           },
           {
-            "name": "S01EP13: Monkey Fist Strikes",
-            "count": 60,
-            "dialogues": 0
+            "name": "S04EP6-10",
+            "count": 252,
+            "dialogues": 2275
           },
           {
-            "name": "S01EP14: October 31st",
-            "count": 46,
-            "dialogues": 0
+            "name": "S05EP1-3",
+            "count": 159,
+            "dialogues": 1223
           },
           {
-            "name": "S01EP15: All the News",
-            "count": 67,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP16: Kimitation Nation",
-            "count": 46,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP17: The Twin Factor",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP18: Animal Attraction",
-            "count": 69,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP19: Monkey Ninjas in Space",
-            "count": 40,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP20: Ron the Man",
-            "count": 64,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP21: Low Budget",
-            "count": 63,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP1: Naked Genius",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP2: Grudge Match",
-            "count": 36,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP3: Two to Tutor",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP4: The Ron Factor",
-            "count": 35,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP5: Car Trouble",
-            "count": 49,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP6: Rufus in Show & Adventures in Rufus-sitting",
-            "count": 24,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP7: Job Unfair",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP8: The Golden Years",
-            "count": 51,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP9: Virtu-Ron",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP10: The Fearless Ferret",
+            "name": "S05EP11",
             "count": 53,
-            "dialogues": 0
+            "dialogues": 423
           },
           {
-            "name": "S02EP11: Exchange",
-            "count": 37,
-            "dialogues": 0
+            "name": "S05EP12-16",
+            "count": 236,
+            "dialogues": 2219
           },
           {
-            "name": "S02EP12: Rufus vs Commodore Puddles & Day of the Snowmen",
-            "count": 40,
-            "dialogues": 0
+            "name": "S05EP17-22",
+            "count": 326,
+            "dialogues": 2688
           },
           {
-            "name": "S02EP13: A Sitch in Time",
-            "count": 37,
-            "dialogues": 0
+            "name": "S05EP23-24",
+            "count": 73,
+            "dialogues": 942
           },
           {
-            "name": "S02EP14: A Sitch in Time",
-            "count": 30,
-            "dialogues": 0
+            "name": "S05EP4-7",
+            "count": 184,
+            "dialogues": 1737
           },
           {
-            "name": "S02EP15: A Sitch in Time",
-            "count": 50,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP16: A Very Possible Christmas",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP17: Queen Bebe",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP18: Hidden Talent",
-            "count": 28,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP19: Return to Camp Wannaweep",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP20: Go Team Go",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP21: The Full Monkey",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP22: Blush",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP23: Partners",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP24: Oh Boyz",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP25: A Sick Day and The Truth Hurts",
-            "count": 67,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP26: Mother’s Day",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP27: Motor Ed",
-            "count": 64,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP28: Ron Millonaire",
-            "count": 59,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP29: Triple S",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP30: Rewriting History",
-            "count": 98,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP1: Steal Wheels",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP2: Emotion Sickness",
-            "count": 42,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP3: Bonding",
-            "count": 57,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP4: Bad Boy",
-            "count": 51,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP5: Showdown at the Crooked D",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP6: Dimension Twist",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP7: Overdue & Roachie",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP8: Rappin’ Drakken",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP9: Team Impossible",
-            "count": 66,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP10: Gorilla Fist",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP11: And the Mole Rat Will Be CGI",
-            "count": 59,
-            "dialogues": 0
-          },
-          {
-            "name": "Kim Possible: So the Drama (Película)",
-            "count": 134,
-            "dialogues": 0
+            "name": "S05EP8-10",
+            "count": 159,
+            "dialogues": 1291
           }
         ],
-        "dialogues": 0
+        "dialogues": 44238
       },
       {
-        "title": "The Big Bang Theory",
-        "count": 1777,
+        "title": "Kim Possible",
+        "count": 4759,
         "episodes": [
           {
-            "name": "S01EP1: Pilot",
-            "count": 42,
-            "dialogues": 0
+            "name": "2019",
+            "count": 209
           },
           {
-            "name": "S01EP2: The Big Bran Hypothesis",
-            "count": 41,
-            "dialogues": 0
+            "name": "S01EP1",
+            "count": 71,
+            "dialogues": 582
           },
           {
-            "name": "S01EP3: The Fuzzy Boots Corollary",
+            "name": "S01EP10",
+            "count": 64,
+            "dialogues": 567
+          },
+          {
+            "name": "S01EP11",
             "count": 61,
-            "dialogues": 0
+            "dialogues": 619
           },
           {
-            "name": "S01EP4: The Luminous Fish Effect",
-            "count": 49,
-            "dialogues": 0
+            "name": "S01EP12",
+            "count": 57,
+            "dialogues": 563
           },
           {
-            "name": "S01EP5: The Hamburger Postulate",
-            "count": 29,
-            "dialogues": 0
+            "name": "S01EP13",
+            "count": 60,
+            "dialogues": 531
           },
           {
-            "name": "S01EP6: The Middle-earth Paradigm",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP7: The Dumpling Paradox",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP8: The Grasshopper Experiment",
-            "count": 36,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP9: The Cooper-Hofstadter Polarization",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP10: The Lobbenfield Decay",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP11: The Pancake Batter Anomaly",
-            "count": 61,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP12: The Jerusalem Duality",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP13: The Bat Jar Conjecture",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP14: The Nerdvana Annihilation",
-            "count": 40,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP15: The Pork Chop Indeterminacy",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP16: The Peanut Reaction",
-            "count": 32,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP17: The Tangerine Factor",
-            "count": 35,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP1: The Bad Fish Paradigm",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP2: The Codpiece Topology",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP3: The Barbarian Sublimation",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP4: The Griffin Equivalency",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP5: The Euclid Alternative",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP6: The Cooper-Nowitzki Theorem",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP7: The Panty Piñata Polarization",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP8: The Lizard-Spock Expansion",
-            "count": 45,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP9: The White Asparagus Triangulation",
-            "count": 50,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP10: The Vartabedian Conundrum",
-            "count": 26,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP11: The Bath Item Gift Hypothesis",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP12: The Killer Robot Instability",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP13: The Friendship Algorithm",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP14: The Financial Permeability",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP15: The Maternal Capacitance",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP16: The Cushion Saturation",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP17: The Terminator Decoupling",
-            "count": 69,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP18: The Work Song Nanocluster",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP19: The Dead Hooker Juxtaposition",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP20: The Hofstadter Isotope",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP21: The Vegas Renormalization",
-            "count": 27,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP22: The Classified Materials Turbulence",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP23: The Monopolar Expedition",
+            "name": "S01EP14",
             "count": 46,
-            "dialogues": 0
+            "dialogues": 554
+          },
+          {
+            "name": "S01EP15",
+            "count": 68,
+            "dialogues": 584
+          },
+          {
+            "name": "S01EP16",
+            "count": 46,
+            "dialogues": 509
+          },
+          {
+            "name": "S01EP17",
+            "count": 54,
+            "dialogues": 567
+          },
+          {
+            "name": "S01EP18",
+            "count": 69,
+            "dialogues": 496
+          },
+          {
+            "name": "S01EP19",
+            "count": 40,
+            "dialogues": 516
+          },
+          {
+            "name": "S01EP2",
+            "count": 80,
+            "dialogues": 577
+          },
+          {
+            "name": "S01EP20",
+            "count": 64,
+            "dialogues": 586
+          },
+          {
+            "name": "S01EP21",
+            "count": 63,
+            "dialogues": 622
+          },
+          {
+            "name": "S01EP3",
+            "count": 89,
+            "dialogues": 560
+          },
+          {
+            "name": "S01EP4",
+            "count": 58,
+            "dialogues": 536
+          },
+          {
+            "name": "S01EP5",
+            "count": 83,
+            "dialogues": 566
+          },
+          {
+            "name": "S01EP6",
+            "count": 66,
+            "dialogues": 542
+          },
+          {
+            "name": "S01EP7",
+            "count": 70,
+            "dialogues": 588
+          },
+          {
+            "name": "S01EP8",
+            "count": 57,
+            "dialogues": 526
+          },
+          {
+            "name": "S01EP9",
+            "count": 52,
+            "dialogues": 485
+          },
+          {
+            "name": "S02EP1-3",
+            "count": 123
+          },
+          {
+            "name": "S02EP10-14",
+            "count": 206
+          },
+          {
+            "name": "S02EP15-19",
+            "count": 204
+          },
+          {
+            "name": "S02EP20-22",
+            "count": 132
+          },
+          {
+            "name": "S02EP23-26",
+            "count": 201
+          },
+          {
+            "name": "S02EP27-29",
+            "count": 179
+          },
+          {
+            "name": "S02EP30 & S03EP1",
+            "count": 142
+          },
+          {
+            "name": "S02EP4-7",
+            "count": 167
+          },
+          {
+            "name": "S02EP8-9",
+            "count": 98
+          },
+          {
+            "name": "S03EP2-6",
+            "count": 257
+          },
+          {
+            "name": "S03EP7-8",
+            "count": 112
+          },
+          {
+            "name": "S03EP9-11",
+            "count": 168
+          },
+          {
+            "name": "S04EP1-4",
+            "count": 194
+          },
+          {
+            "name": "S04EP11-14",
+            "count": 242
+          },
+          {
+            "name": "S04EP15-19",
+            "count": 206
+          },
+          {
+            "name": "S04EP20-22",
+            "count": 135
+          },
+          {
+            "name": "S04EP5-8",
+            "count": 200
+          },
+          {
+            "name": "S04EP9-10",
+            "count": 131
+          },
+          {
+            "name": "Todo un Drama",
+            "count": 135
           }
         ],
-        "dialogues": 0
+        "dialogues": 11676
       },
       {
         "title": "Euphoria",
-        "count": 963,
+        "count": 985,
         "episodes": [
           {
-            "name": "S01EP1: Pilot",
-            "count": 102,
-            "dialogues": 0
+            "name": "S01EP1-2",
+            "count": 182
           },
           {
-            "name": "S01EP2: Stunting Like My Daddy",
-            "count": 75,
-            "dialogues": 0
+            "name": "S01EP3-4",
+            "count": 86
           },
           {
-            "name": "S01EP3: Made Y ou Look",
-            "count": 60,
-            "dialogues": 0
+            "name": "S01EP5-7",
+            "count": 185
           },
           {
-            "name": "S01EP4: Shook One Part II",
-            "count": 23,
-            "dialogues": 0
+            "name": "S01EP8 & Special Episodes 1-2",
+            "count": 143
           },
           {
-            "name": "S01EP5: ‘03 Bonnie and Clyde",
-            "count": 51,
-            "dialogues": 0
+            "name": "S02EP1-3",
+            "count": 145
           },
           {
-            "name": "S01EP6: The Next Episode",
-            "count": 75,
-            "dialogues": 0
+            "name": "S02EP4-5",
+            "count": 87
           },
           {
-            "name": "S01EP7: The Trials and Tribulations of Trying to Pee While Depressed",
-            "count": 57,
-            "dialogues": 0
-          },
+            "name": "S02EP6-8",
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "Pan Am",
+        "count": 805,
+        "episodes": [
           {
-            "name": "S01EP8: And Salt the Earth Behind Y ou",
-            "count": 60,
-            "dialogues": 0
-          },
+            "name": "Pan Am",
+            "count": 805
+          }
+        ]
+      },
+      {
+        "title": "Maid",
+        "count": 632,
+        "episodes": [
           {
-            "name": "Special 1: Trouble Don’t Last Always",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "Special 2: Fuck Anyone Who’s Not a Sea Blob",
-            "count": 27,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP1: Trying to Get to Heaven Before They Close the Door",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP2: Out of Touch",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP3: Ruminations: Big and Little Bullys",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP4: Y ou Who Cannot See, Think of Those Who Can",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP5: Stand Still Like a Hummingbird",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP6: A Thousand Little Trees of Blood",
-            "count": 60,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP7: The Theater and It’s Double",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP8: All My Life, My Heart Has Y earned for a Thing",
-            "count": 42,
-            "dialogues": 0
+            "name": "Maid",
+            "count": 632,
+            "dialogues": 7421
           }
         ],
-        "dialogues": 0
+        "dialogues": 7421
       },
       {
         "title": "Oppenheimer",
@@ -692,11 +466,9 @@
         "episodes": [
           {
             "name": "Oppenheimer",
-            "count": 439,
-            "dialogues": 3707
+            "count": 439
           }
-        ],
-        "dialogues": 3707
+        ]
       },
       {
         "title": "The Wolf of Wall Street",
@@ -704,11 +476,9 @@
         "episodes": [
           {
             "name": "The Wolf of Wall Street",
-            "count": 426,
-            "dialogues": 0
+            "count": 426
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -716,11 +486,21 @@
         "episodes": [
           {
             "name": "Taylor Swift The Eras Tour Film",
-            "count": 387,
-            "dialogues": 3378
+            "count": 387
+          }
+        ]
+      },
+      {
+        "title": "All Her Fault",
+        "count": 375,
+        "episodes": [
+          {
+            "name": "All Her Fault",
+            "count": 375,
+            "dialogues": 8438
           }
         ],
-        "dialogues": 3378
+        "dialogues": 8438
       },
       {
         "title": "Titanic",
@@ -728,11 +508,9 @@
         "episodes": [
           {
             "name": "Titanic",
-            "count": 336,
-            "dialogues": 2083
+            "count": 336
           }
-        ],
-        "dialogues": 2083
+        ]
       },
       {
         "title": "Aves de Presa",
@@ -740,58 +518,23 @@
         "episodes": [
           {
             "name": "Aves de Presa",
-            "count": 298,
-            "dialogues": 2100
+            "count": 298
           }
-        ],
-        "dialogues": 2100
+        ]
       },
       {
         "title": "Gambito de Dama",
-        "count": 307,
+        "count": 311,
         "episodes": [
           {
-            "name": "S01EP1: Openings",
-            "count": 42,
-            "dialogues": 0
+            "name": "EP 1-3",
+            "count": 131
           },
           {
-            "name": "S01EP2: Exchanges",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP3: Doubled Pawns",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP4: Middle Game",
-            "count": 28,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP5: Fork",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP6: Adjournment",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP7: End Game",
-            "count": 49,
-            "dialogues": 0
-          },
-          {
-            "name": "Special: Creating Queen’s Gambit",
-            "count": 28,
-            "dialogues": 0
+            "name": "EP 4-7 + Special Episode",
+            "count": 180
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Terminal",
@@ -799,11 +542,9 @@
         "episodes": [
           {
             "name": "Terminal",
-            "count": 293,
-            "dialogues": 1511
+            "count": 293
           }
-        ],
-        "dialogues": 1511
+        ]
       },
       {
         "title": "Escuadrón Suicida",
@@ -811,11 +552,9 @@
         "episodes": [
           {
             "name": "Escuadrón Suicida",
-            "count": 286,
-            "dialogues": 1821
+            "count": 286
           }
-        ],
-        "dialogues": 1821
+        ]
       },
       {
         "title": "Focus",
@@ -823,11 +562,22 @@
         "episodes": [
           {
             "name": "Focus",
-            "count": 269,
-            "dialogues": 0
+            "count": 269
           }
         ],
         "dialogues": 1587
+      },
+      {
+        "title": "The Girl From Plainville",
+        "count": 266,
+        "episodes": [
+          {
+            "name": "The Girl From Plainville",
+            "count": 266,
+            "dialogues": 5218
+          }
+        ],
+        "dialogues": 5218
       },
       {
         "title": "El Escuadrón Suicida",
@@ -835,11 +585,9 @@
         "episodes": [
           {
             "name": "El Escuadrón Suicida",
-            "count": 265,
-            "dialogues": 2051
+            "count": 265
           }
-        ],
-        "dialogues": 2051
+        ]
       },
       {
         "title": "Ámsterdam",
@@ -847,11 +595,9 @@
         "episodes": [
           {
             "name": "Ámsterdam",
-            "count": 262,
-            "dialogues": 2431
+            "count": 262
           }
-        ],
-        "dialogues": 2431
+        ]
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -859,11 +605,21 @@
         "episodes": [
           {
             "name": "Once Upon a Time in Hollywood",
-            "count": 257,
-            "dialogues": 2160
+            "count": 257
+          }
+        ]
+      },
+      {
+        "title": "The Perfect Couple",
+        "count": 256,
+        "episodes": [
+          {
+            "name": "The Perfect Couple",
+            "count": 256,
+            "dialogues": 4154
           }
         ],
-        "dialogues": 2160
+        "dialogues": 4154
       },
       {
         "title": "Rango",
@@ -871,11 +627,9 @@
         "episodes": [
           {
             "name": "Rango",
-            "count": 247,
-            "dialogues": 0
+            "count": 247
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Barbie",
@@ -883,8 +637,7 @@
         "episodes": [
           {
             "name": "Barbie",
-            "count": 246,
-            "dialogues": 0
+            "count": 246
           }
         ],
         "dialogues": 2261
@@ -895,8 +648,7 @@
         "episodes": [
           {
             "name": "Bombshell",
-            "count": 241,
-            "dialogues": 0
+            "count": 241
           }
         ],
         "dialogues": 2136
@@ -907,11 +659,9 @@
         "episodes": [
           {
             "name": "Cars II",
-            "count": 239,
-            "dialogues": 0
+            "count": 239
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Wonka",
@@ -919,11 +669,9 @@
         "episodes": [
           {
             "name": "Wonka",
-            "count": 239,
-            "dialogues": 0
+            "count": 239
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Mary Queen of Scots",
@@ -931,11 +679,9 @@
         "episodes": [
           {
             "name": "Mary Queen of Scots",
-            "count": 227,
-            "dialogues": 1128
+            "count": 227
           }
-        ],
-        "dialogues": 1128
+        ]
       },
       {
         "title": "Los Increibles",
@@ -943,11 +689,9 @@
         "episodes": [
           {
             "name": "Los Increibles",
-            "count": 217,
-            "dialogues": 1334
+            "count": 217
           }
-        ],
-        "dialogues": 1334
+        ]
       },
       {
         "title": "Babylon",
@@ -955,11 +699,9 @@
         "episodes": [
           {
             "name": "Babylon",
-            "count": 215,
-            "dialogues": 2232
+            "count": 215
           }
-        ],
-        "dialogues": 2232
+        ]
       },
       {
         "title": "About Time",
@@ -967,11 +709,9 @@
         "episodes": [
           {
             "name": "About Time",
-            "count": 213,
-            "dialogues": 1898
+            "count": 213
           }
-        ],
-        "dialogues": 1898
+        ]
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -979,11 +719,21 @@
         "episodes": [
           {
             "name": "Goodbye Christopher Robin",
-            "count": 212,
-            "dialogues": 1786
+            "count": 212
+          }
+        ]
+      },
+      {
+        "title": "A Rainy Day in New York",
+        "count": 211,
+        "episodes": [
+          {
+            "name": "A Rainy Day in New York",
+            "count": 211,
+            "dialogues": 2161
           }
         ],
-        "dialogues": 1786
+        "dialogues": 2161
       },
       {
         "title": "Taylor Swift Miss Americana",
@@ -991,8 +741,7 @@
         "episodes": [
           {
             "name": "Taylor Swift Miss Americana",
-            "count": 208,
-            "dialogues": 0
+            "count": 208
           }
         ],
         "dialogues": 1513
@@ -1003,11 +752,9 @@
         "episodes": [
           {
             "name": "Rocky II",
-            "count": 204,
-            "dialogues": 1818
+            "count": 204
           }
-        ],
-        "dialogues": 1818
+        ]
       },
       {
         "title": "Emma",
@@ -1015,11 +762,9 @@
         "episodes": [
           {
             "name": "Emma",
-            "count": 204,
-            "dialogues": 0
+            "count": 204
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "I-Tonya",
@@ -1027,11 +772,33 @@
         "episodes": [
           {
             "name": "I-Tonya",
-            "count": 203,
-            "dialogues": 1547
+            "count": 203
+          }
+        ]
+      },
+      {
+        "title": "Family Switch",
+        "count": 201,
+        "episodes": [
+          {
+            "name": "Family Switch",
+            "count": 201,
+            "dialogues": 2023
           }
         ],
-        "dialogues": 1547
+        "dialogues": 2023
+      },
+      {
+        "title": "A Complete Unknown",
+        "count": 200,
+        "episodes": [
+          {
+            "name": "A Complete Unknown",
+            "count": 200,
+            "dialogues": 2351
+          }
+        ],
+        "dialogues": 2351
       },
       {
         "title": "Rocky I",
@@ -1039,11 +806,9 @@
         "episodes": [
           {
             "name": "Rocky I",
-            "count": 195,
-            "dialogues": 1684
+            "count": 195
           }
-        ],
-        "dialogues": 1684
+        ]
       },
       {
         "title": "Cars",
@@ -1051,11 +816,21 @@
         "episodes": [
           {
             "name": "Cars I",
-            "count": 189,
-            "dialogues": 0
+            "count": 189
+          }
+        ]
+      },
+      {
+        "title": "A Minecraft Movie",
+        "count": 185,
+        "episodes": [
+          {
+            "name": "A Minecraft Movie",
+            "count": 185,
+            "dialogues": 2008
           }
         ],
-        "dialogues": 0
+        "dialogues": 2008
       },
       {
         "title": "Ratatouille",
@@ -1063,11 +838,9 @@
         "episodes": [
           {
             "name": "Ratatouille",
-            "count": 184,
-            "dialogues": 1339
+            "count": 184
           }
-        ],
-        "dialogues": 1339
+        ]
       },
       {
         "title": "Whiskey Tango Foxtrot",
@@ -1075,11 +848,9 @@
         "episodes": [
           {
             "name": "Whiskey Tango Foxtrot",
-            "count": 184,
-            "dialogues": 0
+            "count": 184
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Slaughterhouse Rulez",
@@ -1087,11 +858,45 @@
         "episodes": [
           {
             "name": "Slaughterhouse Rulez",
-            "count": 183,
-            "dialogues": 0
+            "count": 183
+          }
+        ]
+      },
+      {
+        "title": "Love Actually",
+        "count": 180,
+        "episodes": [
+          {
+            "name": "Love Actually",
+            "count": 180,
+            "dialogues": 2240
           }
         ],
-        "dialogues": 0
+        "dialogues": 2240
+      },
+      {
+        "title": "Orgullo y Prejuicio",
+        "count": 179,
+        "episodes": [
+          {
+            "name": "Orgullo y Prejuicio",
+            "count": 179,
+            "dialogues": 1263
+          }
+        ],
+        "dialogues": 1263
+      },
+      {
+        "title": "Zootopia I",
+        "count": 177,
+        "episodes": [
+          {
+            "name": "Zootopia I",
+            "count": 177,
+            "dialogues": 2290
+          }
+        ],
+        "dialogues": 2290
       },
       {
         "title": "Scarface",
@@ -1099,11 +904,9 @@
         "episodes": [
           {
             "name": "Scarface",
-            "count": 170,
-            "dialogues": 2264
+            "count": 170
           }
-        ],
-        "dialogues": 2264
+        ]
       },
       {
         "title": "The Menu",
@@ -1111,11 +914,9 @@
         "episodes": [
           {
             "name": "The Menu",
-            "count": 169,
-            "dialogues": 0
+            "count": 169
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Five Nights at Freddy's",
@@ -1123,11 +924,21 @@
         "episodes": [
           {
             "name": "Five Nights at Freddy's",
-            "count": 165,
-            "dialogues": 1611
+            "count": 165
+          }
+        ]
+      },
+      {
+        "title": "Schindler's List",
+        "count": 164,
+        "episodes": [
+          {
+            "name": "Schindler's List",
+            "count": 164,
+            "dialogues": 2420
           }
         ],
-        "dialogues": 1611
+        "dialogues": 2420
       },
       {
         "title": "Toy Story 2",
@@ -1135,11 +946,21 @@
         "episodes": [
           {
             "name": "Toy Story 2",
+            "count": 158
+          }
+        ]
+      },
+      {
+        "title": "Interestellar",
+        "count": 158,
+        "episodes": [
+          {
+            "name": "Interestellar",
             "count": 158,
-            "dialogues": 1231
+            "dialogues": 1996
           }
         ],
-        "dialogues": 1231
+        "dialogues": 1996
       },
       {
         "title": "Star Wars Episodio I The Phantom Menace",
@@ -1147,11 +968,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio I The Phantom Menace",
-            "count": 157,
-            "dialogues": 1646
+            "count": 157
           }
-        ],
-        "dialogues": 1646
+        ]
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -1159,11 +978,33 @@
         "episodes": [
           {
             "name": "Riesgo Bajo Cero",
-            "count": 157,
-            "dialogues": 0
+            "count": 157
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift - The Eras Tour Film The Final Show",
+        "count": 155,
+        "episodes": [
+          {
+            "name": "Taylor Swift - The Eras Tour Film The Final Show",
+            "count": 155,
+            "dialogues": 2836
           }
         ],
-        "dialogues": 0
+        "dialogues": 2836
+      },
+      {
+        "title": "Marlowe",
+        "count": 153,
+        "episodes": [
+          {
+            "name": "Marlowe",
+            "count": 153,
+            "dialogues": 1762
+          }
+        ],
+        "dialogues": 1762
       },
       {
         "title": "The Legend of Tarzan",
@@ -1171,11 +1012,21 @@
         "episodes": [
           {
             "name": "The Legend of Tarzan",
-            "count": 148,
-            "dialogues": 922
+            "count": 148
+          }
+        ]
+      },
+      {
+        "title": "Work It",
+        "count": 141,
+        "episodes": [
+          {
+            "name": "Work It",
+            "count": 141,
+            "dialogues": 1745
           }
         ],
-        "dialogues": 922
+        "dialogues": 1745
       },
       {
         "title": "The Naked Gun",
@@ -1183,11 +1034,9 @@
         "episodes": [
           {
             "name": "The Naked Gun",
-            "count": 139,
-            "dialogues": 0
+            "count": 139
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rambo First Blood",
@@ -1195,11 +1044,33 @@
         "episodes": [
           {
             "name": "Rambo First Blood",
+            "count": 138
+          }
+        ]
+      },
+      {
+        "title": "Home",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Home",
             "count": 138,
-            "dialogues": 936
+            "dialogues": 853
           }
         ],
-        "dialogues": 936
+        "dialogues": 853
+      },
+      {
+        "title": "Tall Girl I",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Tall Girl I",
+            "count": 138,
+            "dialogues": 1846
+          }
+        ],
+        "dialogues": 1846
       },
       {
         "title": "Playmobil",
@@ -1207,11 +1078,9 @@
         "episodes": [
           {
             "name": "Playmobil",
-            "count": 137,
-            "dialogues": 0
+            "count": 137
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -1219,11 +1088,21 @@
         "episodes": [
           {
             "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
-            "count": 135,
-            "dialogues": 0
+            "count": 135
+          }
+        ]
+      },
+      {
+        "title": "Effie Gray",
+        "count": 131,
+        "episodes": [
+          {
+            "name": "Effie Gray",
+            "count": 131,
+            "dialogues": 1108
           }
         ],
-        "dialogues": 0
+        "dialogues": 1108
       },
       {
         "title": "El Expreso Polar",
@@ -1231,11 +1110,21 @@
         "episodes": [
           {
             "name": "El Expreso Polar",
-            "count": 130,
-            "dialogues": 0
+            "count": 130
+          }
+        ]
+      },
+      {
+        "title": "Blacklight",
+        "count": 127,
+        "episodes": [
+          {
+            "name": "Blacklight",
+            "count": 127,
+            "dialogues": 1701
           }
         ],
-        "dialogues": 0
+        "dialogues": 1701
       },
       {
         "title": "Dream Productions",
@@ -1243,11 +1132,9 @@
         "episodes": [
           {
             "name": "Dream Productions",
-            "count": 125,
-            "dialogues": 0
+            "count": 125
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Dreamland",
@@ -1255,11 +1142,9 @@
         "episodes": [
           {
             "name": "Dreamland",
-            "count": 124,
-            "dialogues": 1227
+            "count": 124
           }
-        ],
-        "dialogues": 1227
+        ]
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -1267,11 +1152,9 @@
         "episodes": [
           {
             "name": "Kim Possible Todo un Drama",
-            "count": 123,
-            "dialogues": 0
+            "count": 123
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Venganza Implacable",
@@ -1279,11 +1162,9 @@
         "episodes": [
           {
             "name": "Venganza Implacable",
-            "count": 122,
-            "dialogues": 1111
+            "count": 122
           }
-        ],
-        "dialogues": 1111
+        ]
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -1291,11 +1172,33 @@
         "episodes": [
           {
             "name": "Star Wars Episodio IV A New Hope",
+            "count": 121
+          }
+        ]
+      },
+      {
+        "title": "Taylor Swift The 1989 World Tour",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "Taylor Swift The 1989 World Tour",
             "count": 121,
-            "dialogues": 0
+            "dialogues": 2515
           }
         ],
-        "dialogues": 0
+        "dialogues": 2515
+      },
+      {
+        "title": "The Witch",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "The Witch",
+            "count": 121,
+            "dialogues": 947
+          }
+        ],
+        "dialogues": 947
       },
       {
         "title": "Los Fantasmas de Scrooge",
@@ -1303,11 +1206,9 @@
         "episodes": [
           {
             "name": "Los Fantasmas de Scrooge",
-            "count": 120,
-            "dialogues": 0
+            "count": 120
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Toy Story",
@@ -1315,11 +1216,9 @@
         "episodes": [
           {
             "name": "Toy Story",
-            "count": 119,
-            "dialogues": 1103
+            "count": 119
           }
-        ],
-        "dialogues": 1103
+        ]
       },
       {
         "title": "Buscando a Nemo",
@@ -1327,11 +1226,21 @@
         "episodes": [
           {
             "name": "Buscando a Nemo",
+            "count": 119
+          }
+        ]
+      },
+      {
+        "title": "Cars III",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Cars III",
             "count": 119,
-            "dialogues": 0
+            "dialogues": 1697
           }
         ],
-        "dialogues": 0
+        "dialogues": 1697
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -1339,11 +1248,9 @@
         "episodes": [
           {
             "name": "Bichos Una Aventura en Miniatura",
-            "count": 116,
-            "dialogues": 0
+            "count": 116
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Toy Story III",
@@ -1351,11 +1258,9 @@
         "episodes": [
           {
             "name": "Toy Story III",
-            "count": 116,
-            "dialogues": 0
+            "count": 116
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Top Gun",
@@ -1363,11 +1268,9 @@
         "episodes": [
           {
             "name": "Top Gun",
-            "count": 115,
-            "dialogues": 0
+            "count": 115
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Intensamente 2",
@@ -1375,11 +1278,9 @@
         "episodes": [
           {
             "name": "Intensamente 2",
-            "count": 114,
-            "dialogues": 2146
+            "count": 114
           }
-        ],
-        "dialogues": 2146
+        ]
       },
       {
         "title": "Now is Good",
@@ -1387,11 +1288,9 @@
         "episodes": [
           {
             "name": "Now is Good",
-            "count": 114,
-            "dialogues": 0
+            "count": 114
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taylor Swift Reputation Stadium Tour",
@@ -1399,11 +1298,9 @@
         "episodes": [
           {
             "name": "Taylor Swift Reputation Stadium Tour",
-            "count": 113,
-            "dialogues": 0
+            "count": 113
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Intensamente",
@@ -1411,11 +1308,9 @@
         "episodes": [
           {
             "name": "Intensamente",
-            "count": 112,
-            "dialogues": 1378
+            "count": 112
           }
-        ],
-        "dialogues": 1378
+        ]
       },
       {
         "title": "Monsters Inc",
@@ -1423,11 +1318,9 @@
         "episodes": [
           {
             "name": "Monsters Inc",
-            "count": 112,
-            "dialogues": 1074
+            "count": 112
           }
-        ],
-        "dialogues": 1074
+        ]
       },
       {
         "title": "Rocky III",
@@ -1435,11 +1328,21 @@
         "episodes": [
           {
             "name": "Rocky III",
+            "count": 108
+          }
+        ]
+      },
+      {
+        "title": "Michael",
+        "count": 108,
+        "episodes": [
+          {
+            "name": "Michael (lista definitiva)",
             "count": 108,
-            "dialogues": 0
+            "dialogues": 2380
           }
         ],
-        "dialogues": 0
+        "dialogues": 2380
       },
       {
         "title": "La Sustancia",
@@ -1447,11 +1350,33 @@
         "episodes": [
           {
             "name": "La Sustancia",
-            "count": 102,
-            "dialogues": 0
+            "count": 102
+          }
+        ]
+      },
+      {
+        "title": "An American Girl - Grace Stirs Up Success",
+        "count": 101,
+        "episodes": [
+          {
+            "name": "An American Girl - Grace Stirs Up Success",
+            "count": 101,
+            "dialogues": 1781
           }
         ],
-        "dialogues": 0
+        "dialogues": 1781
+      },
+      {
+        "title": "How to Make a Killing",
+        "count": 101,
+        "episodes": [
+          {
+            "name": "How to Make a Killing",
+            "count": 101,
+            "dialogues": 1945
+          }
+        ],
+        "dialogues": 1945
       },
       {
         "title": "Suite Francaise",
@@ -1459,11 +1384,9 @@
         "episodes": [
           {
             "name": "Suite Francaise",
-            "count": 100,
-            "dialogues": 681
+            "count": 100
           }
-        ],
-        "dialogues": 681
+        ]
       },
       {
         "title": "Alvin y las Ardillas",
@@ -1471,11 +1394,9 @@
         "episodes": [
           {
             "name": "Alvin y las Ardillas",
-            "count": 100,
-            "dialogues": 0
+            "count": 100
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Coraline",
@@ -1483,11 +1404,69 @@
         "episodes": [
           {
             "name": "Coraline",
-            "count": 98,
-            "dialogues": 1293
+            "count": 98
+          }
+        ]
+      },
+      {
+        "title": "The Commuter",
+        "count": 95,
+        "episodes": [
+          {
+            "name": "The Commuter",
+            "count": 95,
+            "dialogues": 1526
           }
         ],
-        "dialogues": 1293
+        "dialogues": 1526
+      },
+      {
+        "title": "Five Nights at Freddy's II",
+        "count": 94,
+        "episodes": [
+          {
+            "name": "Five Nights at Freddy's II",
+            "count": 94,
+            "dialogues": 1602
+          }
+        ],
+        "dialogues": 1602
+      },
+      {
+        "title": "Tall Girl II",
+        "count": 94,
+        "episodes": [
+          {
+            "name": "Tall Girl II",
+            "count": 94,
+            "dialogues": 1899
+          }
+        ],
+        "dialogues": 1899
+      },
+      {
+        "title": "La Bella Durmiente",
+        "count": 93,
+        "episodes": [
+          {
+            "name": "La Bella Durmiente",
+            "count": 93,
+            "dialogues": 1142
+          }
+        ],
+        "dialogues": 1142
+      },
+      {
+        "title": "The Vanishing of Sidney Hall",
+        "count": 93,
+        "episodes": [
+          {
+            "name": "The Vanishing of Sidney Hall",
+            "count": 93,
+            "dialogues": 1887
+          }
+        ],
+        "dialogues": 1887
       },
       {
         "title": "Star Wars Episodio III Revenge of the Sith",
@@ -1495,11 +1474,21 @@
         "episodes": [
           {
             "name": "Star Wars Episodio III Revenge of the Sith",
-            "count": 92,
-            "dialogues": 0
+            "count": 92
+          }
+        ]
+      },
+      {
+        "title": "Jojo Rabbit",
+        "count": 91,
+        "episodes": [
+          {
+            "name": "Jojo Rabbit",
+            "count": 91,
+            "dialogues": 1759
           }
         ],
-        "dialogues": 0
+        "dialogues": 1759
       },
       {
         "title": "Last Night in Soho",
@@ -1507,11 +1496,9 @@
         "episodes": [
           {
             "name": "Last Night in Soho",
-            "count": 90,
-            "dialogues": 0
+            "count": 90
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Escape de Sobibor",
@@ -1519,11 +1506,21 @@
         "episodes": [
           {
             "name": "Escape de Sobibor",
+            "count": 89
+          }
+        ]
+      },
+      {
+        "title": "Obi-Wan Kenobi",
+        "count": 89,
+        "episodes": [
+          {
+            "name": "Obi-Wan Kenobi",
             "count": 89,
-            "dialogues": 0
+            "dialogues": 2439
           }
         ],
-        "dialogues": 0
+        "dialogues": 2439
       },
       {
         "title": "21 Blackjack",
@@ -1531,11 +1528,21 @@
         "episodes": [
           {
             "name": "21 Blackjack",
-            "count": 88,
-            "dialogues": 0
+            "count": 88
+          }
+        ]
+      },
+      {
+        "title": "Glass",
+        "count": 87,
+        "episodes": [
+          {
+            "name": "Glass",
+            "count": 87,
+            "dialogues": 1286
           }
         ],
-        "dialogues": 0
+        "dialogues": 1286
       },
       {
         "title": "The Truman Show",
@@ -1543,11 +1550,9 @@
         "episodes": [
           {
             "name": "The Truman Show",
-            "count": 86,
-            "dialogues": 695
+            "count": 86
           }
-        ],
-        "dialogues": 695
+        ]
       },
       {
         "title": "Z for Zachariah",
@@ -1555,11 +1560,9 @@
         "episodes": [
           {
             "name": "Z for Zachariah",
-            "count": 85,
-            "dialogues": 719
+            "count": 85
           }
-        ],
-        "dialogues": 719
+        ]
       },
       {
         "title": "American Pastoral",
@@ -1567,11 +1570,9 @@
         "episodes": [
           {
             "name": "American Pastoral",
-            "count": 85,
-            "dialogues": 0
+            "count": 85
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -1579,11 +1580,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio VI Return of the Jedi",
-            "count": 85,
-            "dialogues": 0
+            "count": 85
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Galveston",
@@ -1591,11 +1590,9 @@
         "episodes": [
           {
             "name": "Galveston",
-            "count": 84,
-            "dialogues": 0
+            "count": 84
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "El Padrino I",
@@ -1603,11 +1600,9 @@
         "episodes": [
           {
             "name": "El Padrino I",
-            "count": 83,
-            "dialogues": 0
+            "count": 83
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Teen Spirit",
@@ -1615,11 +1610,9 @@
         "episodes": [
           {
             "name": "Teen Spirit",
-            "count": 82,
-            "dialogues": 0
+            "count": 82
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Split",
@@ -1627,11 +1620,9 @@
         "episodes": [
           {
             "name": "Split",
-            "count": 81,
-            "dialogues": 0
+            "count": 81
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -1639,11 +1630,33 @@
         "episodes": [
           {
             "name": "A Nonsense Christmas with Sabrina Carpenter",
+            "count": 80
+          }
+        ]
+      },
+      {
+        "title": "20th Century Women",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "20th Century Women",
             "count": 80,
-            "dialogues": 0
+            "dialogues": 1572
           }
         ],
-        "dialogues": 0
+        "dialogues": 1572
+      },
+      {
+        "title": "Barry",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "Barry",
+            "count": 80,
+            "dialogues": 1285
+          }
+        ],
+        "dialogues": 1285
       },
       {
         "title": "Non-stop",
@@ -1651,11 +1664,9 @@
         "episodes": [
           {
             "name": "Non-stop",
-            "count": 79,
-            "dialogues": 0
+            "count": 79
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Olivia Rodrigo driving home 2 u",
@@ -1663,11 +1674,9 @@
         "episodes": [
           {
             "name": "Olivia Rodrigo driving home 2 u",
-            "count": 76,
-            "dialogues": 1042
+            "count": 76
           }
-        ],
-        "dialogues": 1042
+        ]
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -1675,11 +1684,9 @@
         "episodes": [
           {
             "name": "Barbie La Princesa y Estrella de Pop",
-            "count": 75,
-            "dialogues": 1118
+            "count": 75
           }
-        ],
-        "dialogues": 1118
+        ]
       },
       {
         "title": "Cuckoo",
@@ -1687,11 +1694,21 @@
         "episodes": [
           {
             "name": "Cuckoo",
+            "count": 75
+          }
+        ]
+      },
+      {
+        "title": "Leave No Trace",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Leave No Trace",
             "count": 75,
-            "dialogues": 0
+            "dialogues": 1001
           }
         ],
-        "dialogues": 0
+        "dialogues": 1001
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -1699,11 +1716,33 @@
         "episodes": [
           {
             "name": "Olivia Rodrigo Guts World Tour",
+            "count": 74
+          }
+        ]
+      },
+      {
+        "title": "Ordinary Love",
+        "count": 74,
+        "episodes": [
+          {
+            "name": "Ordinary Love",
             "count": 74,
-            "dialogues": 0
+            "dialogues": 1045
           }
         ],
-        "dialogues": 0
+        "dialogues": 1045
+      },
+      {
+        "title": "The Motel Life",
+        "count": 73,
+        "episodes": [
+          {
+            "name": "The Motel Life",
+            "count": 73,
+            "dialogues": 973
+          }
+        ],
+        "dialogues": 973
       },
       {
         "title": "The Runaways",
@@ -1711,11 +1750,9 @@
         "episodes": [
           {
             "name": "The Runaways",
-            "count": 72,
-            "dialogues": 0
+            "count": 72
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Watchers",
@@ -1723,11 +1760,33 @@
         "episodes": [
           {
             "name": "The Watchers",
+            "count": 70
+          }
+        ]
+      },
+      {
+        "title": "A Big Bold Beautiful Journey",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "A Big Bold Beautiful Journey",
             "count": 70,
-            "dialogues": 0
+            "dialogues": 1690
           }
         ],
-        "dialogues": 0
+        "dialogues": 1690
+      },
+      {
+        "title": "Toy Story IV",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "Toy Story IV",
+            "count": 70,
+            "dialogues": 2071
+          }
+        ],
+        "dialogues": 2071
       },
       {
         "title": "Taylor Swift City of Lover Concert",
@@ -1735,11 +1794,33 @@
         "episodes": [
           {
             "name": "Taylor Swift City of Lover Concert",
+            "count": 69
+          }
+        ]
+      },
+      {
+        "title": "Maleficent II Mistress of Evil",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Maleficent II Mistress of Evil",
             "count": 69,
-            "dialogues": 589
+            "dialogues": 1610
           }
         ],
-        "dialogues": 589
+        "dialogues": 1610
+      },
+      {
+        "title": "Night Moves",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Night Moves",
+            "count": 69,
+            "dialogues": 1257
+          }
+        ],
+        "dialogues": 1257
       },
       {
         "title": "Lilo and Stitch I",
@@ -1747,11 +1828,9 @@
         "episodes": [
           {
             "name": "Lilo and Stitch I",
-            "count": 68,
-            "dialogues": 0
+            "count": 68
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rocky IV",
@@ -1759,11 +1838,9 @@
         "episodes": [
           {
             "name": "Rocky IV",
-            "count": 68,
-            "dialogues": 0
+            "count": 68
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Super Mario Bros The Movie",
@@ -1771,11 +1848,9 @@
         "episodes": [
           {
             "name": "Super Mario Bros The Movie",
-            "count": 66,
-            "dialogues": 0
+            "count": 66
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -1783,11 +1858,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio V The Empire Strikes Back",
-            "count": 65,
-            "dialogues": 0
+            "count": 65
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Thoroughbreds",
@@ -1795,11 +1868,9 @@
         "episodes": [
           {
             "name": "Thoroughbreds",
-            "count": 65,
-            "dialogues": 0
+            "count": 65
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "3 Generations",
@@ -1807,11 +1878,45 @@
         "episodes": [
           {
             "name": "3 Generations",
+            "count": 64
+          }
+        ]
+      },
+      {
+        "title": "Absolution",
+        "count": 64,
+        "episodes": [
+          {
+            "name": "Absolution",
             "count": 64,
-            "dialogues": 0
+            "dialogues": 1249
           }
         ],
-        "dialogues": 0
+        "dialogues": 1249
+      },
+      {
+        "title": "Super Mario Galaxy",
+        "count": 59,
+        "episodes": [
+          {
+            "name": "Super Mario Galaxy",
+            "count": 59,
+            "dialogues": 1544
+          }
+        ],
+        "dialogues": 1544
+      },
+      {
+        "title": "Maleficent I",
+        "count": 58,
+        "episodes": [
+          {
+            "name": "Maleficent I",
+            "count": 58,
+            "dialogues": 1037
+          }
+        ],
+        "dialogues": 1037
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -1819,11 +1924,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio II Attack of The Clones",
-            "count": 57,
-            "dialogues": 1219
+            "count": 57
           }
-        ],
-        "dialogues": 1219
+        ]
       },
       {
         "title": "Taken I",
@@ -1831,11 +1934,9 @@
         "episodes": [
           {
             "name": "Taken I",
-            "count": 57,
-            "dialogues": 0
+            "count": 57
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taken III",
@@ -1843,11 +1944,57 @@
         "episodes": [
           {
             "name": "Taken III",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "title": "Here Are The Young Men",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Here Are The Young Men",
             "count": 57,
-            "dialogues": 0
+            "dialogues": 1061
           }
         ],
-        "dialogues": 0
+        "dialogues": 1061
+      },
+      {
+        "title": "Every Secret Thing",
+        "count": 56,
+        "episodes": [
+          {
+            "name": "Every Secret Thing",
+            "count": 56,
+            "dialogues": 1155
+          }
+        ],
+        "dialogues": 1155
+      },
+      {
+        "title": "Cenicienta",
+        "count": 55,
+        "episodes": [
+          {
+            "name": "Cenicienta",
+            "count": 55,
+            "dialogues": 967
+          }
+        ],
+        "dialogues": 967
+      },
+      {
+        "title": "Zootopia+",
+        "count": 53,
+        "episodes": [
+          {
+            "name": "Zootopia+",
+            "count": 53,
+            "dialogues": 856
+          }
+        ],
+        "dialogues": 856
       },
       {
         "title": "Please Stand By",
@@ -1855,11 +2002,21 @@
         "episodes": [
           {
             "name": "Please Stand By",
-            "count": 51,
-            "dialogues": 0
+            "count": 51
+          }
+        ]
+      },
+      {
+        "title": "Morgan",
+        "count": 50,
+        "episodes": [
+          {
+            "name": "Morgan",
+            "count": 50,
+            "dialogues": 1194
           }
         ],
-        "dialogues": 0
+        "dialogues": 1194
       },
       {
         "title": "All the Bright Places",
@@ -1867,11 +2024,9 @@
         "episodes": [
           {
             "name": "All the Bright Places",
-            "count": 49,
-            "dialogues": 0
+            "count": 49
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Very Good Girls",
@@ -1879,11 +2034,9 @@
         "episodes": [
           {
             "name": "Very Good Girls",
-            "count": 49,
-            "dialogues": 0
+            "count": 49
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -1891,11 +2044,9 @@
         "episodes": [
           {
             "name": "Harold and The Purple Crayon",
-            "count": 47,
-            "dialogues": 1309
+            "count": 47
           }
-        ],
-        "dialogues": 1309
+        ]
       },
       {
         "title": "WALL-E",
@@ -1903,11 +2054,21 @@
         "episodes": [
           {
             "name": "WALL-E",
-            "count": 46,
-            "dialogues": 794
+            "count": 46
+          }
+        ]
+      },
+      {
+        "title": "Sweetness in the Belly",
+        "count": 45,
+        "episodes": [
+          {
+            "name": "Sweetness in the Belly",
+            "count": 45,
+            "dialogues": 1115
           }
         ],
-        "dialogues": 794
+        "dialogues": 1115
       },
       {
         "title": "Rambo II",
@@ -1915,11 +2076,21 @@
         "episodes": [
           {
             "name": "Rambo II",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "title": "The Muppet Show",
+        "count": 44,
+        "episodes": [
+          {
+            "name": "The Muppet Show",
             "count": 44,
-            "dialogues": 439
+            "dialogues": 569
           }
         ],
-        "dialogues": 439
+        "dialogues": 569
       },
       {
         "title": "Marrowbone",
@@ -1927,11 +2098,9 @@
         "episodes": [
           {
             "name": "Marrowbone",
-            "count": 41,
-            "dialogues": 940
+            "count": 41
           }
-        ],
-        "dialogues": 940
+        ]
       },
       {
         "title": "Contrarreloj",
@@ -1939,11 +2108,9 @@
         "episodes": [
           {
             "name": "Contrarreloj",
-            "count": 40,
-            "dialogues": 1433
+            "count": 40
           }
-        ],
-        "dialogues": 1433
+        ]
       },
       {
         "title": "The Neon Demon",
@@ -1951,11 +2118,33 @@
         "episodes": [
           {
             "name": "The Neon Demon",
-            "count": 40,
-            "dialogues": 0
+            "count": 40
+          }
+        ]
+      },
+      {
+        "title": "Minions I",
+        "count": 38,
+        "episodes": [
+          {
+            "name": "Minions I",
+            "count": 38,
+            "dialogues": 1070
           }
         ],
-        "dialogues": 0
+        "dialogues": 1070
+      },
+      {
+        "title": "Ginger & Rosa",
+        "count": 36,
+        "episodes": [
+          {
+            "name": "Ginger & Rosa",
+            "count": 36,
+            "dialogues": 904
+          }
+        ],
+        "dialogues": 904
       },
       {
         "title": "The New Mutants",
@@ -1963,11 +2152,21 @@
         "episodes": [
           {
             "name": "The New Mutants",
+            "count": 34
+          }
+        ]
+      },
+      {
+        "title": "GTA San Andreas The Introduction",
+        "count": 34,
+        "episodes": [
+          {
+            "name": "GTA San Andreas The Introduction",
             "count": 34,
-            "dialogues": 1029
+            "dialogues": 363
           }
         ],
-        "dialogues": 1029
+        "dialogues": 363
       },
       {
         "title": "I Think Were Alone Now",
@@ -1975,11 +2174,9 @@
         "episodes": [
           {
             "name": "I Think Were Alone Now",
-            "count": 33,
-            "dialogues": 0
+            "count": 33
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taken II",
@@ -1987,11 +2184,9 @@
         "episodes": [
           {
             "name": "Taken II",
-            "count": 33,
-            "dialogues": 0
+            "count": 33
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Vicious",
@@ -1999,11 +2194,21 @@
         "episodes": [
           {
             "name": "Vicious",
-            "count": 29,
-            "dialogues": 0
+            "count": 29
+          }
+        ]
+      },
+      {
+        "title": "IO",
+        "count": 27,
+        "episodes": [
+          {
+            "name": "IO",
+            "count": 27,
+            "dialogues": 1249
           }
         ],
-        "dialogues": 0
+        "dialogues": 2261
       },
       {
         "title": "Rambo IV",
@@ -2011,11 +2216,9 @@
         "episodes": [
           {
             "name": "Rambo IV",
-            "count": 24,
-            "dialogues": 457
+            "count": 24
           }
-        ],
-        "dialogues": 457
+        ]
       },
       {
         "title": "Viena and the Fantomes",
@@ -2023,11 +2226,9 @@
         "episodes": [
           {
             "name": "Viena and the Fantomes",
-            "count": 24,
-            "dialogues": 0
+            "count": 24
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Roads Not Taken",
@@ -2035,11 +2236,9 @@
         "episodes": [
           {
             "name": "The Roads Not Taken",
-            "count": 23,
-            "dialogues": 0
+            "count": 23
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rambo Last Blood",
@@ -2047,11 +2246,9 @@
         "episodes": [
           {
             "name": "Rambo Last Blood",
-            "count": 22,
-            "dialogues": 755
+            "count": 22
           }
-        ],
-        "dialogues": 755
+        ]
       },
       {
         "title": "Rambo III",
@@ -2059,16 +2256,9 @@
         "episodes": [
           {
             "name": "Rambo III",
-            "count": 18,
-            "dialogues": 481
+            "count": 18
           }
-        ],
-        "dialogues": 481
-      },
-      {
-        "title": "Kim Possible (Película 2019)",
-        "count": 208,
-        "dialogues": 1498
+        ]
       }
     ]
   },
@@ -2139,8 +2329,7 @@
         "episodes": [
           {
             "name": "Focus",
-            "count": 269,
-            "dialogues": 0
+            "count": 269
           }
         ],
         "dialogues": 1587
@@ -2151,8 +2340,7 @@
         "episodes": [
           {
             "name": "Barbie",
-            "count": 246,
-            "dialogues": 0
+            "count": 246
           }
         ],
         "dialogues": 2261
@@ -2163,8 +2351,7 @@
         "episodes": [
           {
             "name": "Bombshell",
-            "count": 241,
-            "dialogues": 0
+            "count": 241
           }
         ],
         "dialogues": 2136
@@ -2175,8 +2362,7 @@
         "episodes": [
           {
             "name": "Taylor Swift Miss Americana",
-            "count": 208,
-            "dialogues": 0
+            "count": 208
           }
         ],
         "dialogues": 1513
@@ -2187,11 +2373,9 @@
         "episodes": [
           {
             "name": "El Expreso Polar",
-            "count": 130,
-            "dialogues": 0
+            "count": 130
           }
-        ],
-        "dialogues": 831
+        ]
       }
     ]
   },
@@ -2258,130 +2442,123 @@
     "movieList": [
       {
         "title": "Kim Possible",
-        "count": 1640,
+        "count": 1650,
         "episodes": [
           {
-            "name": "S01EP1: Crush",
-            "count": 70,
-            "dialogues": 0
+            "name": "2019",
+            "count": 209
           },
           {
-            "name": "S01EP2: Sink or Swim",
-            "count": 80,
-            "dialogues": 0
+            "name": "S01EP1",
+            "count": 71,
+            "dialogues": 582
           },
           {
-            "name": "S01EP3: The New Ron",
-            "count": 89,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP4: Tick-Tick-Tick",
-            "count": 58,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP5: Downhill",
-            "count": 83,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP6: Bueno Nacho",
-            "count": 66,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP7: Number One",
-            "count": 70,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP8: Mind Games",
-            "count": 57,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP9: Attack of the Killer Bebes",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP10: Royal Pain",
+            "name": "S01EP10",
             "count": 64,
-            "dialogues": 0
+            "dialogues": 567
           },
           {
-            "name": "S01EP11: Coach Possible",
+            "name": "S01EP11",
             "count": 61,
-            "dialogues": 0
+            "dialogues": 619
           },
           {
-            "name": "S01EP12: Pain King vs Cleopatra",
-            "count": 55,
-            "dialogues": 0
+            "name": "S01EP12",
+            "count": 57,
+            "dialogues": 563
           },
           {
-            "name": "S01EP13: Monkey Fist Strikes",
+            "name": "S01EP13",
             "count": 60,
-            "dialogues": 0
+            "dialogues": 531
           },
           {
-            "name": "S01EP14: October 31st",
+            "name": "S01EP14",
             "count": 46,
-            "dialogues": 0
+            "dialogues": 554
           },
           {
-            "name": "S01EP15: All the News",
-            "count": 67,
-            "dialogues": 0
+            "name": "S01EP15",
+            "count": 68,
+            "dialogues": 584
           },
           {
-            "name": "S01EP16: Kimitation Nation",
+            "name": "S01EP16",
             "count": 46,
-            "dialogues": 0
+            "dialogues": 509
           },
           {
-            "name": "S01EP17: The Twin Factor",
+            "name": "S01EP17",
             "count": 54,
-            "dialogues": 0
+            "dialogues": 567
           },
           {
-            "name": "S01EP18: Animal Attraction",
+            "name": "S01EP18",
             "count": 69,
-            "dialogues": 0
+            "dialogues": 496
           },
           {
-            "name": "S01EP19: Monkey Ninjas in Space",
+            "name": "S01EP19",
             "count": 40,
-            "dialogues": 0
+            "dialogues": 516
           },
           {
-            "name": "S01EP20: Ron the Man",
+            "name": "S01EP2",
+            "count": 80,
+            "dialogues": 577
+          },
+          {
+            "name": "S01EP20",
             "count": 64,
-            "dialogues": 0
+            "dialogues": 586
           },
           {
-            "name": "S01EP21: Low Budget",
+            "name": "S01EP21",
             "count": 63,
-            "dialogues": 0
+            "dialogues": 622
           },
           {
-            "name": "S02EP1: Naked Genius",
-            "count": 38,
-            "dialogues": 0
+            "name": "S01EP3",
+            "count": 89,
+            "dialogues": 560
           },
           {
-            "name": "S02EP2: Grudge Match",
-            "count": 36,
-            "dialogues": 0
+            "name": "S01EP4",
+            "count": 58,
+            "dialogues": 536
           },
           {
-            "name": "S02EP3: Two to Tutor",
-            "count": 44,
-            "dialogues": 0
+            "name": "S01EP5",
+            "count": 83,
+            "dialogues": 566
+          },
+          {
+            "name": "S01EP6",
+            "count": 66,
+            "dialogues": 542
+          },
+          {
+            "name": "S01EP7",
+            "count": 70,
+            "dialogues": 588
+          },
+          {
+            "name": "S01EP8",
+            "count": 57,
+            "dialogues": 526
+          },
+          {
+            "name": "S01EP9",
+            "count": 52,
+            "dialogues": 485
+          },
+          {
+            "name": "S02EP1-3",
+            "count": 123
           }
         ],
-        "dialogues": 0
+        "dialogues": 11676
       },
       {
         "title": "Oppenheimer",
@@ -2389,11 +2566,9 @@
         "episodes": [
           {
             "name": "Oppenheimer",
-            "count": 439,
-            "dialogues": 3707
+            "count": 439
           }
-        ],
-        "dialogues": 3707
+        ]
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -2401,11 +2576,9 @@
         "episodes": [
           {
             "name": "Taylor Swift The Eras Tour Film",
-            "count": 387,
-            "dialogues": 3378
+            "count": 387
           }
-        ],
-        "dialogues": 3378
+        ]
       },
       {
         "title": "Titanic",
@@ -2413,11 +2586,9 @@
         "episodes": [
           {
             "name": "Titanic",
-            "count": 336,
-            "dialogues": 2083
+            "count": 336
           }
-        ],
-        "dialogues": 2083
+        ]
       },
       {
         "title": "Aves de Presa",
@@ -2425,11 +2596,9 @@
         "episodes": [
           {
             "name": "Aves de Presa",
-            "count": 298,
-            "dialogues": 2100
+            "count": 298
           }
-        ],
-        "dialogues": 2100
+        ]
       },
       {
         "title": "Terminal",
@@ -2437,11 +2606,9 @@
         "episodes": [
           {
             "name": "Terminal",
-            "count": 293,
-            "dialogues": 1511
+            "count": 293
           }
-        ],
-        "dialogues": 1511
+        ]
       },
       {
         "title": "Escuadrón Suicida",
@@ -2449,11 +2616,9 @@
         "episodes": [
           {
             "name": "Escuadrón Suicida",
-            "count": 286,
-            "dialogues": 1821
+            "count": 286
           }
-        ],
-        "dialogues": 1821
+        ]
       },
       {
         "title": "El Escuadrón Suicida",
@@ -2461,11 +2626,9 @@
         "episodes": [
           {
             "name": "El Escuadrón Suicida",
-            "count": 265,
-            "dialogues": 2051
+            "count": 265
           }
-        ],
-        "dialogues": 2051
+        ]
       },
       {
         "title": "Ámsterdam",
@@ -2473,11 +2636,9 @@
         "episodes": [
           {
             "name": "Ámsterdam",
-            "count": 262,
-            "dialogues": 0
+            "count": 262
           }
-        ],
-        "dialogues": 2431
+        ]
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -2485,11 +2646,9 @@
         "episodes": [
           {
             "name": "Once Upon a Time in Hollywood",
-            "count": 257,
-            "dialogues": 2160
+            "count": 257
           }
-        ],
-        "dialogues": 2160
+        ]
       },
       {
         "title": "Mary Queen of Scots",
@@ -2497,11 +2656,9 @@
         "episodes": [
           {
             "name": "Mary Queen of Scots",
-            "count": 227,
-            "dialogues": 1128
+            "count": 227
           }
-        ],
-        "dialogues": 1128
+        ]
       },
       {
         "title": "Los Increibles",
@@ -2509,11 +2666,9 @@
         "episodes": [
           {
             "name": "Los Increibles",
-            "count": 217,
-            "dialogues": 0
+            "count": 217
           }
-        ],
-        "dialogues": 1334
+        ]
       },
       {
         "title": "Babylon",
@@ -2521,11 +2676,9 @@
         "episodes": [
           {
             "name": "Babylon",
-            "count": 215,
-            "dialogues": 2232
+            "count": 215
           }
-        ],
-        "dialogues": 2232
+        ]
       },
       {
         "title": "About Time",
@@ -2533,11 +2686,9 @@
         "episodes": [
           {
             "name": "About Time",
-            "count": 213,
-            "dialogues": 1898
+            "count": 213
           }
-        ],
-        "dialogues": 1898
+        ]
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -2545,11 +2696,9 @@
         "episodes": [
           {
             "name": "Goodbye Christopher Robin",
-            "count": 212,
-            "dialogues": 1786
+            "count": 212
           }
-        ],
-        "dialogues": 1786
+        ]
       },
       {
         "title": "Rocky II",
@@ -2557,11 +2706,9 @@
         "episodes": [
           {
             "name": "Rocky II",
-            "count": 204,
-            "dialogues": 1818
+            "count": 204
           }
-        ],
-        "dialogues": 1818
+        ]
       },
       {
         "title": "I-Tonya",
@@ -2569,11 +2716,9 @@
         "episodes": [
           {
             "name": "I-Tonya",
-            "count": 203,
-            "dialogues": 1547
+            "count": 203
           }
-        ],
-        "dialogues": 1547
+        ]
       },
       {
         "title": "Rocky I",
@@ -2581,11 +2726,9 @@
         "episodes": [
           {
             "name": "Rocky I",
-            "count": 195,
-            "dialogues": 1684
+            "count": 195
           }
-        ],
-        "dialogues": 1684
+        ]
       },
       {
         "title": "Ratatouille",
@@ -2593,11 +2736,9 @@
         "episodes": [
           {
             "name": "Ratatouille",
-            "count": 184,
-            "dialogues": 1339
+            "count": 184
           }
-        ],
-        "dialogues": 1339
+        ]
       },
       {
         "title": "Scarface",
@@ -2605,11 +2746,9 @@
         "episodes": [
           {
             "name": "Scarface",
-            "count": 170,
-            "dialogues": 2264
+            "count": 170
           }
-        ],
-        "dialogues": 2264
+        ]
       },
       {
         "title": "Five Nights at Freddy's",
@@ -2617,11 +2756,9 @@
         "episodes": [
           {
             "name": "Five Nights at Freddy's",
-            "count": 165,
-            "dialogues": 1611
+            "count": 165
           }
-        ],
-        "dialogues": 1611
+        ]
       },
       {
         "title": "Toy Story 2",
@@ -2629,11 +2766,9 @@
         "episodes": [
           {
             "name": "Toy Story 2",
-            "count": 158,
-            "dialogues": 1231
+            "count": 158
           }
-        ],
-        "dialogues": 1231
+        ]
       },
       {
         "title": "Star Wars Episodio I The Phantom Menace",
@@ -2641,11 +2776,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio I The Phantom Menace",
-            "count": 157,
-            "dialogues": 1646
+            "count": 157
           }
-        ],
-        "dialogues": 1646
+        ]
       },
       {
         "title": "The Legend of Tarzan",
@@ -2653,11 +2786,9 @@
         "episodes": [
           {
             "name": "The Legend of Tarzan",
-            "count": 148,
-            "dialogues": 922
+            "count": 148
           }
-        ],
-        "dialogues": 922
+        ]
       },
       {
         "title": "Rambo First Blood",
@@ -2665,11 +2796,9 @@
         "episodes": [
           {
             "name": "Rambo First Blood",
-            "count": 138,
-            "dialogues": 936
+            "count": 138
           }
-        ],
-        "dialogues": 936
+        ]
       },
       {
         "title": "Dreamland",
@@ -2677,11 +2806,9 @@
         "episodes": [
           {
             "name": "Dreamland",
-            "count": 124,
-            "dialogues": 1227
+            "count": 124
           }
-        ],
-        "dialogues": 1227
+        ]
       },
       {
         "title": "Venganza Implacable",
@@ -2689,11 +2816,9 @@
         "episodes": [
           {
             "name": "Venganza Implacable",
-            "count": 122,
-            "dialogues": 1111
+            "count": 122
           }
-        ],
-        "dialogues": 1111
+        ]
       },
       {
         "title": "Toy Story",
@@ -2701,11 +2826,9 @@
         "episodes": [
           {
             "name": "Toy Story",
-            "count": 119,
-            "dialogues": 1103
+            "count": 119
           }
-        ],
-        "dialogues": 1103
+        ]
       },
       {
         "title": "Intensamente 2",
@@ -2713,11 +2836,9 @@
         "episodes": [
           {
             "name": "Intensamente 2",
-            "count": 114,
-            "dialogues": 2146
+            "count": 114
           }
-        ],
-        "dialogues": 2146
+        ]
       },
       {
         "title": "Intensamente",
@@ -2725,11 +2846,9 @@
         "episodes": [
           {
             "name": "Intensamente",
-            "count": 112,
-            "dialogues": 1378
+            "count": 112
           }
-        ],
-        "dialogues": 1378
+        ]
       },
       {
         "title": "Monsters Inc",
@@ -2737,11 +2856,9 @@
         "episodes": [
           {
             "name": "Monsters Inc",
-            "count": 112,
-            "dialogues": 1074
+            "count": 112
           }
-        ],
-        "dialogues": 1074
+        ]
       },
       {
         "title": "Suite Francaise",
@@ -2749,11 +2866,9 @@
         "episodes": [
           {
             "name": "Suite Francaise",
-            "count": 100,
-            "dialogues": 681
+            "count": 100
           }
-        ],
-        "dialogues": 681
+        ]
       },
       {
         "title": "Coraline",
@@ -2761,11 +2876,9 @@
         "episodes": [
           {
             "name": "Coraline",
-            "count": 98,
-            "dialogues": 1293
+            "count": 98
           }
-        ],
-        "dialogues": 1293
+        ]
       },
       {
         "title": "The Truman Show",
@@ -2773,11 +2886,9 @@
         "episodes": [
           {
             "name": "The Truman Show",
-            "count": 86,
-            "dialogues": 695
+            "count": 86
           }
-        ],
-        "dialogues": 695
+        ]
       },
       {
         "title": "Z for Zachariah",
@@ -2785,11 +2896,9 @@
         "episodes": [
           {
             "name": "Z for Zachariah",
-            "count": 85,
-            "dialogues": 719
+            "count": 85
           }
-        ],
-        "dialogues": 719
+        ]
       },
       {
         "title": "Olivia Rodrigo driving home 2 u",
@@ -2797,11 +2906,9 @@
         "episodes": [
           {
             "name": "Olivia Rodrigo driving home 2 u",
-            "count": 76,
-            "dialogues": 1042
+            "count": 76
           }
-        ],
-        "dialogues": 1042
+        ]
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -2809,11 +2916,9 @@
         "episodes": [
           {
             "name": "Barbie La Princesa y Estrella de Pop",
-            "count": 75,
-            "dialogues": 1118
+            "count": 75
           }
-        ],
-        "dialogues": 1118
+        ]
       },
       {
         "title": "Taylor Swift City of Lover Concert",
@@ -2821,11 +2926,9 @@
         "episodes": [
           {
             "name": "Taylor Swift City of Lover Concert",
-            "count": 69,
-            "dialogues": 589
+            "count": 69
           }
-        ],
-        "dialogues": 589
+        ]
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -2833,11 +2936,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio II Attack of The Clones",
-            "count": 57,
-            "dialogues": 1219
+            "count": 57
           }
-        ],
-        "dialogues": 1219
+        ]
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -2845,11 +2946,9 @@
         "episodes": [
           {
             "name": "Harold and The Purple Crayon",
-            "count": 47,
-            "dialogues": 1309
+            "count": 47
           }
-        ],
-        "dialogues": 1309
+        ]
       },
       {
         "title": "WALL-E",
@@ -2857,11 +2956,9 @@
         "episodes": [
           {
             "name": "WALL-E",
-            "count": 46,
-            "dialogues": 794
+            "count": 46
           }
-        ],
-        "dialogues": 794
+        ]
       },
       {
         "title": "Rambo II",
@@ -2869,11 +2966,9 @@
         "episodes": [
           {
             "name": "Rambo II",
-            "count": 44,
-            "dialogues": 439
+            "count": 44
           }
-        ],
-        "dialogues": 439
+        ]
       },
       {
         "title": "Marrowbone",
@@ -2881,11 +2976,9 @@
         "episodes": [
           {
             "name": "Marrowbone",
-            "count": 41,
-            "dialogues": 940
+            "count": 41
           }
-        ],
-        "dialogues": 940
+        ]
       },
       {
         "title": "Contrarreloj",
@@ -2893,11 +2986,9 @@
         "episodes": [
           {
             "name": "Contrarreloj",
-            "count": 40,
-            "dialogues": 1433
+            "count": 40
           }
-        ],
-        "dialogues": 1433
+        ]
       },
       {
         "title": "The New Mutants",
@@ -2905,11 +2996,9 @@
         "episodes": [
           {
             "name": "The New Mutants",
-            "count": 34,
-            "dialogues": 1029
+            "count": 34
           }
-        ],
-        "dialogues": 1029
+        ]
       },
       {
         "title": "Rambo IV",
@@ -2917,11 +3006,9 @@
         "episodes": [
           {
             "name": "Rambo IV",
-            "count": 24,
-            "dialogues": 457
+            "count": 24
           }
-        ],
-        "dialogues": 457
+        ]
       },
       {
         "title": "Rambo Last Blood",
@@ -2929,11 +3016,9 @@
         "episodes": [
           {
             "name": "Rambo Last Blood",
-            "count": 22,
-            "dialogues": 755
+            "count": 22
           }
-        ],
-        "dialogues": 755
+        ]
       },
       {
         "title": "Rambo III",
@@ -2941,16 +3026,9 @@
         "episodes": [
           {
             "name": "Rambo III",
-            "count": 18,
-            "dialogues": 481
+            "count": 18
           }
-        ],
-        "dialogues": 481
-      },
-      {
-        "title": "Kim Possible (Película 2019)",
-        "count": 208,
-        "dialogues": 1498
+        ]
       }
     ]
   },
@@ -3017,509 +3095,149 @@
     "movieList": [
       {
         "title": "Kim Possible",
-        "count": 1959,
+        "count": 2001,
         "episodes": [
           {
-            "name": "S02EP4: The Ron Factor",
-            "count": 35,
-            "dialogues": 0
+            "name": "S02EP10-14",
+            "count": 206
           },
           {
-            "name": "S02EP5: Car Trouble",
-            "count": 49,
-            "dialogues": 0
+            "name": "S02EP15-19",
+            "count": 204
           },
           {
-            "name": "S02EP6: Rufus in Show & Adventures in Rufus-sitting",
-            "count": 24,
-            "dialogues": 0
+            "name": "S02EP20-22",
+            "count": 132
           },
           {
-            "name": "S02EP7: Job Unfair",
-            "count": 55,
-            "dialogues": 0
+            "name": "S02EP23-26",
+            "count": 201
           },
           {
-            "name": "S02EP8: The Golden Years",
-            "count": 51,
-            "dialogues": 0
+            "name": "S02EP27-29",
+            "count": 179
           },
           {
-            "name": "S02EP9: Virtu-Ron",
-            "count": 43,
-            "dialogues": 0
+            "name": "S02EP30 & S03EP1",
+            "count": 142
           },
           {
-            "name": "S02EP10: The Fearless Ferret",
-            "count": 53,
-            "dialogues": 0
+            "name": "S02EP4-7",
+            "count": 167
           },
           {
-            "name": "S02EP11: Exchange",
-            "count": 37,
-            "dialogues": 0
+            "name": "S02EP8-9",
+            "count": 98
           },
           {
-            "name": "S02EP12: Rufus vs Commodore Puddles & Day of the Snowmen",
-            "count": 40,
-            "dialogues": 0
+            "name": "S03EP2-6",
+            "count": 257
           },
           {
-            "name": "S02EP13: A Sitch in Time",
-            "count": 37,
-            "dialogues": 0
+            "name": "S03EP7-8",
+            "count": 112
           },
           {
-            "name": "S02EP14: A Sitch in Time",
-            "count": 30,
-            "dialogues": 0
+            "name": "S03EP9-11",
+            "count": 168
           },
           {
-            "name": "S02EP15: A Sitch in Time",
-            "count": 50,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP16: A Very Possible Christmas",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP17: Queen Bebe",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP18: Hidden Talent",
-            "count": 28,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP19: Return to Camp Wannaweep",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP20: Go Team Go",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP21: The Full Monkey",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP22: Blush",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP23: Partners",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP24: Oh Boyz",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP25: A Sick Day and The Truth Hurts",
-            "count": 67,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP26: Mother’s Day",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP27: Motor Ed",
-            "count": 64,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP28: Ron Millonaire",
-            "count": 59,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP29: Triple S",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP30: Rewriting History",
-            "count": 98,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP1: Steal Wheels",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP2: Emotion Sickness",
-            "count": 42,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP3: Bonding",
-            "count": 57,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP4: Bad Boy",
-            "count": 51,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP5: Showdown at the Crooked D",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP6: Dimension Twist",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP7: Overdue & Roachie",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP8: Rappin’ Drakken",
-            "count": 55,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP9: Team Impossible",
-            "count": 66,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP10: Gorilla Fist",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S03EP11: And the Mole Rat Will Be CGI",
-            "count": 59,
-            "dialogues": 0
-          },
-          {
-            "name": "Kim Possible: So the Drama (Película)",
-            "count": 134,
-            "dialogues": 0
+            "name": "Todo un Drama",
+            "count": 135
           }
         ],
         "dialogues": 0
       },
       {
         "title": "The Big Bang Theory",
-        "count": 1777,
+        "count": 1806,
         "episodes": [
           {
-            "name": "S01EP1: Pilot",
-            "count": 42,
+            "name": "S01EP1-4",
+            "count": 195,
+            "dialogues": 1437
+          },
+          {
+            "name": "S01EP11-16",
+            "count": 261,
+            "dialogues": 1941
+          },
+          {
+            "name": "S01EP17) & (S02EP1-3",
+            "count": 173,
             "dialogues": 0
           },
           {
-            "name": "S01EP2: The Big Bran Hypothesis",
-            "count": 41,
-            "dialogues": 0
+            "name": "S01EP5-7",
+            "count": 125,
+            "dialogues": 986
           },
           {
-            "name": "S01EP3: The Fuzzy Boots Corollary",
-            "count": 61,
-            "dialogues": 0
+            "name": "S01EP8-10",
+            "count": 124,
+            "dialogues": 1010
           },
           {
-            "name": "S01EP4: The Luminous Fish Effect",
-            "count": 49,
-            "dialogues": 0
+            "name": "S02EP14-18) (lista defintiva",
+            "count": 254,
+            "dialogues": 1777
           },
           {
-            "name": "S01EP5: The Hamburger Postulate",
-            "count": 29,
-            "dialogues": 0
+            "name": "S02EP19-23",
+            "count": 216,
+            "dialogues": 1796
           },
           {
-            "name": "S01EP6: The Middle-earth Paradigm",
-            "count": 38,
-            "dialogues": 0
+            "name": "S02EP4-5",
+            "count": 104,
+            "dialogues": 728
           },
           {
-            "name": "S01EP7: The Dumpling Paradox",
-            "count": 55,
-            "dialogues": 0
+            "name": "S02EP6-8",
+            "count": 138,
+            "dialogues": 1007
           },
           {
-            "name": "S01EP8: The Grasshopper Experiment",
-            "count": 36,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP9: The Cooper-Hofstadter Polarization",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP10: The Lobbenfield Decay",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP11: The Pancake Batter Anomaly",
-            "count": 61,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP12: The Jerusalem Duality",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP13: The Bat Jar Conjecture",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP14: The Nerdvana Annihilation",
-            "count": 40,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP15: The Pork Chop Indeterminacy",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP16: The Peanut Reaction",
-            "count": 32,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP17: The Tangerine Factor",
-            "count": 35,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP1: The Bad Fish Paradigm",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP2: The Codpiece Topology",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP3: The Barbarian Sublimation",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP4: The Griffin Equivalency",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP5: The Euclid Alternative",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP6: The Cooper-Nowitzki Theorem",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP7: The Panty Piñata Polarization",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP8: The Lizard-Spock Expansion",
-            "count": 45,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP9: The White Asparagus Triangulation",
-            "count": 50,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP10: The Vartabedian Conundrum",
-            "count": 26,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP11: The Bath Item Gift Hypothesis",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP12: The Killer Robot Instability",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP13: The Friendship Algorithm",
-            "count": 47,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP14: The Financial Permeability",
-            "count": 41,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP15: The Maternal Capacitance",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP16: The Cushion Saturation",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP17: The Terminator Decoupling",
-            "count": 69,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP18: The Work Song Nanocluster",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP19: The Dead Hooker Juxtaposition",
-            "count": 38,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP20: The Hofstadter Isotope",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP21: The Vegas Renormalization",
-            "count": 27,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP22: The Classified Materials Turbulence",
-            "count": 54,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP23: The Monopolar Expedition",
-            "count": 46,
-            "dialogues": 0
+            "name": "S02EP9-13",
+            "count": 216,
+            "dialogues": 1669
           }
         ],
-        "dialogues": 0
+        "dialogues": 12351
       },
       {
         "title": "Euphoria",
-        "count": 963,
+        "count": 985,
         "episodes": [
           {
-            "name": "S01EP1: Pilot",
-            "count": 102,
-            "dialogues": 0
+            "name": "S01EP1-2",
+            "count": 182
           },
           {
-            "name": "S01EP2: Stunting Like My Daddy",
-            "count": 75,
-            "dialogues": 0
+            "name": "S01EP3-4",
+            "count": 86
           },
           {
-            "name": "S01EP3: Made Y ou Look",
-            "count": 60,
-            "dialogues": 0
+            "name": "S01EP5-7",
+            "count": 185
           },
           {
-            "name": "S01EP4: Shook One Part II",
-            "count": 23,
-            "dialogues": 0
+            "name": "S01EP8 & Special Episodes 1-2",
+            "count": 143
           },
           {
-            "name": "S01EP5: ‘03 Bonnie and Clyde",
-            "count": 51,
-            "dialogues": 0
+            "name": "S02EP1-3",
+            "count": 145
           },
           {
-            "name": "S01EP6: The Next Episode",
-            "count": 75,
-            "dialogues": 0
+            "name": "S02EP4-5",
+            "count": 87
           },
           {
-            "name": "S01EP7: The Trials and Tribulations of Trying to Pee While Depressed",
-            "count": 57,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP8: And Salt the Earth Behind Y ou",
-            "count": 60,
-            "dialogues": 0
-          },
-          {
-            "name": "Special 1: Trouble Don’t Last Always",
-            "count": 53,
-            "dialogues": 0
-          },
-          {
-            "name": "Special 2: Fuck Anyone Who’s Not a Sea Blob",
-            "count": 27,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP1: Trying to Get to Heaven Before They Close the Door",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP2: Out of Touch",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP3: Ruminations: Big and Little Bullys",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP4: Y ou Who Cannot See, Think of Those Who Can",
-            "count": 48,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP5: Stand Still Like a Hummingbird",
-            "count": 37,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP6: A Thousand Little Trees of Blood",
-            "count": 60,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP7: The Theater and It’s Double",
-            "count": 52,
-            "dialogues": 0
-          },
-          {
-            "name": "S02EP8: All My Life, My Heart Has Y earned for a Thing",
-            "count": 42,
-            "dialogues": 0
+            "name": "S02EP6-8",
+            "count": 157
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Wolf of Wall Street",
@@ -3527,58 +3245,23 @@
         "episodes": [
           {
             "name": "The Wolf of Wall Street",
-            "count": 426,
-            "dialogues": 0
+            "count": 426
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Gambito de Dama",
-        "count": 307,
+        "count": 311,
         "episodes": [
           {
-            "name": "S01EP1: Openings",
-            "count": 42,
-            "dialogues": 0
+            "name": "EP 1-3",
+            "count": 131
           },
           {
-            "name": "S01EP2: Exchanges",
-            "count": 44,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP3: Doubled Pawns",
-            "count": 43,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP4: Middle Game",
-            "count": 28,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP5: Fork",
-            "count": 34,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP6: Adjournment",
-            "count": 39,
-            "dialogues": 0
-          },
-          {
-            "name": "S01EP7: End Game",
-            "count": 49,
-            "dialogues": 0
-          },
-          {
-            "name": "Special: Creating Queen’s Gambit",
-            "count": 28,
-            "dialogues": 0
+            "name": "EP 4-7 + Special Episode",
+            "count": 180
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rango",
@@ -3586,11 +3269,9 @@
         "episodes": [
           {
             "name": "Rango",
-            "count": 247,
-            "dialogues": 0
+            "count": 247
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Cars 2",
@@ -3598,11 +3279,9 @@
         "episodes": [
           {
             "name": "Cars II",
-            "count": 239,
-            "dialogues": 0
+            "count": 239
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Wonka",
@@ -3610,11 +3289,9 @@
         "episodes": [
           {
             "name": "Wonka",
-            "count": 239,
-            "dialogues": 0
+            "count": 239
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Emma",
@@ -3622,11 +3299,9 @@
         "episodes": [
           {
             "name": "Emma",
-            "count": 204,
-            "dialogues": 0
+            "count": 204
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Cars",
@@ -3634,11 +3309,9 @@
         "episodes": [
           {
             "name": "Cars I",
-            "count": 189,
-            "dialogues": 0
+            "count": 189
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Whiskey Tango Foxtrot",
@@ -3646,11 +3319,9 @@
         "episodes": [
           {
             "name": "Whiskey Tango Foxtrot",
-            "count": 184,
-            "dialogues": 0
+            "count": 184
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Slaughterhouse Rulez",
@@ -3658,11 +3329,9 @@
         "episodes": [
           {
             "name": "Slaughterhouse Rulez",
-            "count": 183,
-            "dialogues": 0
+            "count": 183
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Menu",
@@ -3670,11 +3339,9 @@
         "episodes": [
           {
             "name": "The Menu",
-            "count": 169,
-            "dialogues": 0
+            "count": 169
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -3682,11 +3349,9 @@
         "episodes": [
           {
             "name": "Riesgo Bajo Cero",
-            "count": 157,
-            "dialogues": 0
+            "count": 157
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Naked Gun",
@@ -3694,11 +3359,9 @@
         "episodes": [
           {
             "name": "The Naked Gun",
-            "count": 139,
-            "dialogues": 0
+            "count": 139
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Playmobil",
@@ -3706,11 +3369,9 @@
         "episodes": [
           {
             "name": "Playmobil",
-            "count": 137,
-            "dialogues": 0
+            "count": 137
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -3718,11 +3379,9 @@
         "episodes": [
           {
             "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
-            "count": 135,
-            "dialogues": 0
+            "count": 135
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Dream Productions",
@@ -3730,11 +3389,9 @@
         "episodes": [
           {
             "name": "Dream Productions",
-            "count": 125,
-            "dialogues": 0
+            "count": 125
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -3742,11 +3399,9 @@
         "episodes": [
           {
             "name": "Kim Possible Todo un Drama",
-            "count": 123,
-            "dialogues": 0
+            "count": 123
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -3754,11 +3409,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio IV A New Hope",
-            "count": 121,
-            "dialogues": 0
+            "count": 121
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Los Fantasmas de Scrooge",
@@ -3766,11 +3419,9 @@
         "episodes": [
           {
             "name": "Los Fantasmas de Scrooge",
-            "count": 120,
-            "dialogues": 0
+            "count": 120
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Buscando a Nemo",
@@ -3778,11 +3429,9 @@
         "episodes": [
           {
             "name": "Buscando a Nemo",
-            "count": 119,
-            "dialogues": 0
+            "count": 119
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -3790,11 +3439,9 @@
         "episodes": [
           {
             "name": "Bichos Una Aventura en Miniatura",
-            "count": 116,
-            "dialogues": 0
+            "count": 116
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Toy Story III",
@@ -3802,11 +3449,9 @@
         "episodes": [
           {
             "name": "Toy Story III",
-            "count": 116,
-            "dialogues": 0
+            "count": 116
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Top Gun",
@@ -3814,11 +3459,9 @@
         "episodes": [
           {
             "name": "Top Gun",
-            "count": 115,
-            "dialogues": 0
+            "count": 115
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Now is Good",
@@ -3826,11 +3469,9 @@
         "episodes": [
           {
             "name": "Now is Good",
-            "count": 114,
-            "dialogues": 0
+            "count": 114
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taylor Swift Reputation Stadium Tour",
@@ -3838,11 +3479,9 @@
         "episodes": [
           {
             "name": "Taylor Swift Reputation Stadium Tour",
-            "count": 113,
-            "dialogues": 0
+            "count": 113
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rocky III",
@@ -3850,11 +3489,9 @@
         "episodes": [
           {
             "name": "Rocky III",
-            "count": 108,
-            "dialogues": 0
+            "count": 108
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "La Sustancia",
@@ -3862,11 +3499,9 @@
         "episodes": [
           {
             "name": "La Sustancia",
-            "count": 102,
-            "dialogues": 0
+            "count": 102
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Alvin y las Ardillas",
@@ -3874,11 +3509,9 @@
         "episodes": [
           {
             "name": "Alvin y las Ardillas",
-            "count": 100,
-            "dialogues": 0
+            "count": 100
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio III Revenge of the Sith",
@@ -3886,11 +3519,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio III Revenge of the Sith",
-            "count": 92,
-            "dialogues": 0
+            "count": 92
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Last Night in Soho",
@@ -3898,11 +3529,9 @@
         "episodes": [
           {
             "name": "Last Night in Soho",
-            "count": 90,
-            "dialogues": 0
+            "count": 90
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Escape de Sobibor",
@@ -3910,11 +3539,9 @@
         "episodes": [
           {
             "name": "Escape de Sobibor",
-            "count": 89,
-            "dialogues": 0
+            "count": 89
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "21 Blackjack",
@@ -3922,11 +3549,9 @@
         "episodes": [
           {
             "name": "21 Blackjack",
-            "count": 88,
-            "dialogues": 0
+            "count": 88
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "American Pastoral",
@@ -3934,11 +3559,9 @@
         "episodes": [
           {
             "name": "American Pastoral",
-            "count": 85,
-            "dialogues": 0
+            "count": 85
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -3946,11 +3569,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio VI Return of the Jedi",
-            "count": 85,
-            "dialogues": 0
+            "count": 85
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Galveston",
@@ -3958,11 +3579,9 @@
         "episodes": [
           {
             "name": "Galveston",
-            "count": 84,
-            "dialogues": 0
+            "count": 84
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "El Padrino I",
@@ -3970,11 +3589,9 @@
         "episodes": [
           {
             "name": "El Padrino I",
-            "count": 83,
-            "dialogues": 0
+            "count": 83
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Teen Spirit",
@@ -3982,11 +3599,9 @@
         "episodes": [
           {
             "name": "Teen Spirit",
-            "count": 82,
-            "dialogues": 0
+            "count": 82
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Split",
@@ -3994,11 +3609,9 @@
         "episodes": [
           {
             "name": "Split",
-            "count": 81,
-            "dialogues": 0
+            "count": 81
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -4006,11 +3619,9 @@
         "episodes": [
           {
             "name": "A Nonsense Christmas with Sabrina Carpenter",
-            "count": 80,
-            "dialogues": 0
+            "count": 80
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Non-stop",
@@ -4018,11 +3629,9 @@
         "episodes": [
           {
             "name": "Non-stop",
-            "count": 79,
-            "dialogues": 0
+            "count": 79
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Cuckoo",
@@ -4030,11 +3639,9 @@
         "episodes": [
           {
             "name": "Cuckoo",
-            "count": 75,
-            "dialogues": 0
+            "count": 75
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -4042,11 +3649,9 @@
         "episodes": [
           {
             "name": "Olivia Rodrigo Guts World Tour",
-            "count": 74,
-            "dialogues": 0
+            "count": 74
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Runaways",
@@ -4054,11 +3659,9 @@
         "episodes": [
           {
             "name": "The Runaways",
-            "count": 72,
-            "dialogues": 0
+            "count": 72
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Watchers",
@@ -4066,11 +3669,9 @@
         "episodes": [
           {
             "name": "The Watchers",
-            "count": 70,
-            "dialogues": 0
+            "count": 70
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Lilo and Stitch I",
@@ -4078,11 +3679,9 @@
         "episodes": [
           {
             "name": "Lilo and Stitch I",
-            "count": 68,
-            "dialogues": 0
+            "count": 68
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Rocky IV",
@@ -4090,11 +3689,9 @@
         "episodes": [
           {
             "name": "Rocky IV",
-            "count": 68,
-            "dialogues": 0
+            "count": 68
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Super Mario Bros The Movie",
@@ -4102,11 +3699,9 @@
         "episodes": [
           {
             "name": "Super Mario Bros The Movie",
-            "count": 66,
-            "dialogues": 0
+            "count": 66
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -4114,11 +3709,9 @@
         "episodes": [
           {
             "name": "Star Wars Episodio V The Empire Strikes Back",
-            "count": 65,
-            "dialogues": 0
+            "count": 65
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Thoroughbreds",
@@ -4126,11 +3719,9 @@
         "episodes": [
           {
             "name": "Thoroughbreds",
-            "count": 65,
-            "dialogues": 0
+            "count": 65
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "3 Generations",
@@ -4138,11 +3729,9 @@
         "episodes": [
           {
             "name": "3 Generations",
-            "count": 64,
-            "dialogues": 0
+            "count": 64
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taken I",
@@ -4150,11 +3739,9 @@
         "episodes": [
           {
             "name": "Taken I",
-            "count": 57,
-            "dialogues": 0
+            "count": 57
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taken III",
@@ -4162,11 +3749,9 @@
         "episodes": [
           {
             "name": "Taken III",
-            "count": 57,
-            "dialogues": 0
+            "count": 57
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Please Stand By",
@@ -4174,11 +3759,9 @@
         "episodes": [
           {
             "name": "Please Stand By",
-            "count": 51,
-            "dialogues": 0
+            "count": 51
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "All the Bright Places",
@@ -4186,11 +3769,9 @@
         "episodes": [
           {
             "name": "All the Bright Places",
-            "count": 49,
-            "dialogues": 0
+            "count": 49
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Very Good Girls",
@@ -4198,11 +3779,9 @@
         "episodes": [
           {
             "name": "Very Good Girls",
-            "count": 49,
-            "dialogues": 0
+            "count": 49
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Neon Demon",
@@ -4210,11 +3789,9 @@
         "episodes": [
           {
             "name": "The Neon Demon",
-            "count": 40,
-            "dialogues": 0
+            "count": 40
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "I Think Were Alone Now",
@@ -4222,11 +3799,9 @@
         "episodes": [
           {
             "name": "I Think Were Alone Now",
-            "count": 33,
-            "dialogues": 0
+            "count": 33
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Taken II",
@@ -4234,11 +3809,9 @@
         "episodes": [
           {
             "name": "Taken II",
-            "count": 33,
-            "dialogues": 0
+            "count": 33
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Vicious",
@@ -4246,11 +3819,9 @@
         "episodes": [
           {
             "name": "Vicious",
-            "count": 29,
-            "dialogues": 0
+            "count": 29
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "Viena and the Fantomes",
@@ -4258,11 +3829,9 @@
         "episodes": [
           {
             "name": "Viena and the Fantomes",
-            "count": 24,
-            "dialogues": 0
+            "count": 24
           }
-        ],
-        "dialogues": 0
+        ]
       },
       {
         "title": "The Roads Not Taken",
@@ -4270,26 +3839,922 @@
         "episodes": [
           {
             "name": "The Roads Not Taken",
-            "count": 23,
-            "dialogues": 0
+            "count": 23
+          }
+        ]
+      }
+    ]
+  },
+  "2026": {
+    "totalWords": 11745,
+    "uniqueMovies": 60,
+    "topWord": {
+      "word": "Landlord",
+      "count": 8,
+      "translation": "propietario, arrendador, terrateniente"
+    },
+    "topList": [
+      {
+        "word": "Landlord",
+        "count": 8,
+        "translation": "propietario, arrendador, terrateniente"
+      },
+      {
+        "word": "Fool around",
+        "count": 7,
+        "translation": "perder el tiempo, tontear, jugar"
+      },
+      {
+        "word": "Outstanding",
+        "count": 6,
+        "translation": "excelente, destacado, sobresaliente"
+      },
+      {
+        "word": "Get through",
+        "count": 5,
+        "translation": "superar, pasar (algo)"
+      },
+      {
+        "word": "Wind up",
+        "count": 5,
+        "translation": "acabar, terminar"
+      },
+      {
+        "word": "Bend over",
+        "count": 5,
+        "translation": "inclinarse"
+      },
+      {
+        "word": "Loosen up",
+        "count": 5,
+        "translation": "relajarse"
+      },
+      {
+        "word": "Fool (verbo)",
+        "count": 5,
+        "translation": "engañar"
+      },
+      {
+        "word": "Pull away",
+        "count": 5,
+        "translation": "alejarse"
+      },
+      {
+        "word": "Girdle",
+        "count": 5,
+        "translation": "faja, cremallera, corsé"
+      }
+    ],
+    "movieList": [
+      {
+        "title": "The Big Bang Theory",
+        "count": 3461,
+        "episodes": [
+          {
+            "name": "S03EP1-2",
+            "count": 65,
+            "dialogues": 855
+          },
+          {
+            "name": "S03EP11-13",
+            "count": 131,
+            "dialogues": 1105
+          },
+          {
+            "name": "S03EP14-18",
+            "count": 233,
+            "dialogues": 1752
+          },
+          {
+            "name": "S03EP19-23",
+            "count": 185,
+            "dialogues": 1910
+          },
+          {
+            "name": "S03EP3-4",
+            "count": 66,
+            "dialogues": 690
+          },
+          {
+            "name": "S03EP5-10",
+            "count": 189,
+            "dialogues": 1941
+          },
+          {
+            "name": "S04EP1-5",
+            "count": 224,
+            "dialogues": 2287
+          },
+          {
+            "name": "S04EP11-15",
+            "count": 218,
+            "dialogues": 2232
+          },
+          {
+            "name": "S04EP15-19",
+            "count": 258,
+            "dialogues": 2291
+          },
+          {
+            "name": "S04EP16-20",
+            "count": 257,
+            "dialogues": 2302
+          },
+          {
+            "name": "S04EP21-24",
+            "count": 193,
+            "dialogues": 1724
+          },
+          {
+            "name": "S04EP6-10",
+            "count": 252,
+            "dialogues": 2275
+          },
+          {
+            "name": "S05EP1-3",
+            "count": 159,
+            "dialogues": 1223
+          },
+          {
+            "name": "S05EP11",
+            "count": 53,
+            "dialogues": 423
+          },
+          {
+            "name": "S05EP12-16",
+            "count": 236,
+            "dialogues": 2219
+          },
+          {
+            "name": "S05EP17-22",
+            "count": 326,
+            "dialogues": 2688
+          },
+          {
+            "name": "S05EP23-24",
+            "count": 73,
+            "dialogues": 942
+          },
+          {
+            "name": "S05EP4-7",
+            "count": 184,
+            "dialogues": 1737
+          },
+          {
+            "name": "S05EP8-10",
+            "count": 159,
+            "dialogues": 1291
+          }
+        ],
+        "dialogues": 31887
+      },
+      {
+        "title": "Kim Possible",
+        "count": 1108,
+        "episodes": [
+          {
+            "name": "S04EP1-4",
+            "count": 194
+          },
+          {
+            "name": "S04EP11-14",
+            "count": 242
+          },
+          {
+            "name": "S04EP15-19",
+            "count": 206
+          },
+          {
+            "name": "S04EP20-22",
+            "count": 135
+          },
+          {
+            "name": "S04EP5-8",
+            "count": 200
+          },
+          {
+            "name": "S04EP9-10",
+            "count": 131
           }
         ],
         "dialogues": 0
+      },
+      {
+        "title": "Pan Am",
+        "count": 805,
+        "episodes": [
+          {
+            "name": "Pan Am",
+            "count": 805
+          }
+        ]
+      },
+      {
+        "title": "Maid",
+        "count": 632,
+        "episodes": [
+          {
+            "name": "Maid",
+            "count": 632,
+            "dialogues": 7421
+          }
+        ],
+        "dialogues": 7421
+      },
+      {
+        "title": "All Her Fault",
+        "count": 375,
+        "episodes": [
+          {
+            "name": "All Her Fault",
+            "count": 375,
+            "dialogues": 8438
+          }
+        ],
+        "dialogues": 8438
+      },
+      {
+        "title": "The Girl From Plainville",
+        "count": 266,
+        "episodes": [
+          {
+            "name": "The Girl From Plainville",
+            "count": 266,
+            "dialogues": 5218
+          }
+        ],
+        "dialogues": 5218
+      },
+      {
+        "title": "The Perfect Couple",
+        "count": 256,
+        "episodes": [
+          {
+            "name": "The Perfect Couple",
+            "count": 256,
+            "dialogues": 4154
+          }
+        ],
+        "dialogues": 4154
+      },
+      {
+        "title": "A Rainy Day in New York",
+        "count": 211,
+        "episodes": [
+          {
+            "name": "A Rainy Day in New York",
+            "count": 211,
+            "dialogues": 2161
+          }
+        ],
+        "dialogues": 2161
+      },
+      {
+        "title": "Family Switch",
+        "count": 201,
+        "episodes": [
+          {
+            "name": "Family Switch",
+            "count": 201,
+            "dialogues": 2023
+          }
+        ],
+        "dialogues": 2023
+      },
+      {
+        "title": "A Complete Unknown",
+        "count": 200,
+        "episodes": [
+          {
+            "name": "A Complete Unknown",
+            "count": 200,
+            "dialogues": 2351
+          }
+        ],
+        "dialogues": 2351
+      },
+      {
+        "title": "A Minecraft Movie",
+        "count": 185,
+        "episodes": [
+          {
+            "name": "A Minecraft Movie",
+            "count": 185,
+            "dialogues": 2008
+          }
+        ],
+        "dialogues": 2008
+      },
+      {
+        "title": "Love Actually",
+        "count": 180,
+        "episodes": [
+          {
+            "name": "Love Actually",
+            "count": 180,
+            "dialogues": 2240
+          }
+        ],
+        "dialogues": 2240
+      },
+      {
+        "title": "Orgullo y Prejuicio",
+        "count": 179,
+        "episodes": [
+          {
+            "name": "Orgullo y Prejuicio",
+            "count": 179,
+            "dialogues": 1263
+          }
+        ],
+        "dialogues": 1263
+      },
+      {
+        "title": "Zootopia I",
+        "count": 177,
+        "episodes": [
+          {
+            "name": "Zootopia I",
+            "count": 177,
+            "dialogues": 2290
+          }
+        ],
+        "dialogues": 2290
+      },
+      {
+        "title": "Schindler's List",
+        "count": 164,
+        "episodes": [
+          {
+            "name": "Schindler's List",
+            "count": 164,
+            "dialogues": 2420
+          }
+        ],
+        "dialogues": 2420
+      },
+      {
+        "title": "Interestellar",
+        "count": 158,
+        "episodes": [
+          {
+            "name": "Interestellar",
+            "count": 158,
+            "dialogues": 1996
+          }
+        ],
+        "dialogues": 1996
+      },
+      {
+        "title": "Taylor Swift - The Eras Tour Film The Final Show",
+        "count": 155,
+        "episodes": [
+          {
+            "name": "Taylor Swift - The Eras Tour Film The Final Show",
+            "count": 155,
+            "dialogues": 2836
+          }
+        ],
+        "dialogues": 2836
+      },
+      {
+        "title": "Marlowe",
+        "count": 153,
+        "episodes": [
+          {
+            "name": "Marlowe",
+            "count": 153,
+            "dialogues": 1762
+          }
+        ],
+        "dialogues": 1762
+      },
+      {
+        "title": "Work It",
+        "count": 141,
+        "episodes": [
+          {
+            "name": "Work It",
+            "count": 141,
+            "dialogues": 1745
+          }
+        ],
+        "dialogues": 1745
+      },
+      {
+        "title": "Home",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Home",
+            "count": 138,
+            "dialogues": 853
+          }
+        ],
+        "dialogues": 853
+      },
+      {
+        "title": "Tall Girl I",
+        "count": 138,
+        "episodes": [
+          {
+            "name": "Tall Girl I",
+            "count": 138,
+            "dialogues": 1846
+          }
+        ],
+        "dialogues": 1846
+      },
+      {
+        "title": "Effie Gray",
+        "count": 131,
+        "episodes": [
+          {
+            "name": "Effie Gray",
+            "count": 131,
+            "dialogues": 1108
+          }
+        ],
+        "dialogues": 1108
+      },
+      {
+        "title": "Blacklight",
+        "count": 127,
+        "episodes": [
+          {
+            "name": "Blacklight",
+            "count": 127,
+            "dialogues": 1701
+          }
+        ],
+        "dialogues": 1701
+      },
+      {
+        "title": "Taylor Swift The 1989 World Tour",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "Taylor Swift The 1989 World Tour",
+            "count": 121,
+            "dialogues": 2515
+          }
+        ],
+        "dialogues": 2515
+      },
+      {
+        "title": "The Witch",
+        "count": 121,
+        "episodes": [
+          {
+            "name": "The Witch",
+            "count": 121,
+            "dialogues": 947
+          }
+        ],
+        "dialogues": 947
+      },
+      {
+        "title": "Cars III",
+        "count": 119,
+        "episodes": [
+          {
+            "name": "Cars III",
+            "count": 119,
+            "dialogues": 1697
+          }
+        ],
+        "dialogues": 1697
+      },
+      {
+        "title": "Michael",
+        "count": 108,
+        "episodes": [
+          {
+            "name": "Michael (lista definitiva)",
+            "count": 108,
+            "dialogues": 2380
+          }
+        ],
+        "dialogues": 2380
+      },
+      {
+        "title": "An American Girl - Grace Stirs Up Success",
+        "count": 101,
+        "episodes": [
+          {
+            "name": "An American Girl - Grace Stirs Up Success",
+            "count": 101,
+            "dialogues": 1781
+          }
+        ],
+        "dialogues": 1781
+      },
+      {
+        "title": "How to Make a Killing",
+        "count": 101,
+        "episodes": [
+          {
+            "name": "How to Make a Killing",
+            "count": 101,
+            "dialogues": 1945
+          }
+        ],
+        "dialogues": 1945
+      },
+      {
+        "title": "The Commuter",
+        "count": 95,
+        "episodes": [
+          {
+            "name": "The Commuter",
+            "count": 95,
+            "dialogues": 1526
+          }
+        ],
+        "dialogues": 1526
+      },
+      {
+        "title": "Five Nights at Freddy's II",
+        "count": 94,
+        "episodes": [
+          {
+            "name": "Five Nights at Freddy's II",
+            "count": 94,
+            "dialogues": 1602
+          }
+        ],
+        "dialogues": 1602
+      },
+      {
+        "title": "Tall Girl II",
+        "count": 94,
+        "episodes": [
+          {
+            "name": "Tall Girl II",
+            "count": 94,
+            "dialogues": 1899
+          }
+        ],
+        "dialogues": 1899
+      },
+      {
+        "title": "La Bella Durmiente",
+        "count": 93,
+        "episodes": [
+          {
+            "name": "La Bella Durmiente",
+            "count": 93,
+            "dialogues": 1142
+          }
+        ],
+        "dialogues": 1142
+      },
+      {
+        "title": "The Vanishing of Sidney Hall",
+        "count": 93,
+        "episodes": [
+          {
+            "name": "The Vanishing of Sidney Hall",
+            "count": 93,
+            "dialogues": 1887
+          }
+        ],
+        "dialogues": 1887
+      },
+      {
+        "title": "Jojo Rabbit",
+        "count": 91,
+        "episodes": [
+          {
+            "name": "Jojo Rabbit",
+            "count": 91,
+            "dialogues": 1759
+          }
+        ],
+        "dialogues": 1759
+      },
+      {
+        "title": "Obi-Wan Kenobi",
+        "count": 89,
+        "episodes": [
+          {
+            "name": "Obi-Wan Kenobi",
+            "count": 89,
+            "dialogues": 2439
+          }
+        ],
+        "dialogues": 2439
+      },
+      {
+        "title": "Glass",
+        "count": 87,
+        "episodes": [
+          {
+            "name": "Glass",
+            "count": 87,
+            "dialogues": 1286
+          }
+        ],
+        "dialogues": 1286
+      },
+      {
+        "title": "20th Century Women",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "20th Century Women",
+            "count": 80,
+            "dialogues": 1572
+          }
+        ],
+        "dialogues": 1572
+      },
+      {
+        "title": "Barry",
+        "count": 80,
+        "episodes": [
+          {
+            "name": "Barry",
+            "count": 80,
+            "dialogues": 1285
+          }
+        ],
+        "dialogues": 1285
+      },
+      {
+        "title": "Leave No Trace",
+        "count": 75,
+        "episodes": [
+          {
+            "name": "Leave No Trace",
+            "count": 75,
+            "dialogues": 1001
+          }
+        ],
+        "dialogues": 1001
+      },
+      {
+        "title": "Ordinary Love",
+        "count": 74,
+        "episodes": [
+          {
+            "name": "Ordinary Love",
+            "count": 74,
+            "dialogues": 1045
+          }
+        ],
+        "dialogues": 1045
+      },
+      {
+        "title": "The Motel Life",
+        "count": 73,
+        "episodes": [
+          {
+            "name": "The Motel Life",
+            "count": 73,
+            "dialogues": 973
+          }
+        ],
+        "dialogues": 973
+      },
+      {
+        "title": "A Big Bold Beautiful Journey",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "A Big Bold Beautiful Journey",
+            "count": 70,
+            "dialogues": 1690
+          }
+        ],
+        "dialogues": 1690
+      },
+      {
+        "title": "Toy Story IV",
+        "count": 70,
+        "episodes": [
+          {
+            "name": "Toy Story IV",
+            "count": 70,
+            "dialogues": 2071
+          }
+        ],
+        "dialogues": 2071
+      },
+      {
+        "title": "Maleficent II Mistress of Evil",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Maleficent II Mistress of Evil",
+            "count": 69,
+            "dialogues": 1610
+          }
+        ],
+        "dialogues": 1610
+      },
+      {
+        "title": "Night Moves",
+        "count": 69,
+        "episodes": [
+          {
+            "name": "Night Moves",
+            "count": 69,
+            "dialogues": 1257
+          }
+        ],
+        "dialogues": 1257
+      },
+      {
+        "title": "Absolution",
+        "count": 64,
+        "episodes": [
+          {
+            "name": "Absolution",
+            "count": 64,
+            "dialogues": 1249
+          }
+        ],
+        "dialogues": 1249
+      },
+      {
+        "title": "Super Mario Galaxy",
+        "count": 59,
+        "episodes": [
+          {
+            "name": "Super Mario Galaxy",
+            "count": 59,
+            "dialogues": 1544
+          }
+        ],
+        "dialogues": 1544
+      },
+      {
+        "title": "Maleficent I",
+        "count": 58,
+        "episodes": [
+          {
+            "name": "Maleficent I",
+            "count": 58,
+            "dialogues": 1037
+          }
+        ],
+        "dialogues": 1037
+      },
+      {
+        "title": "Here Are The Young Men",
+        "count": 57,
+        "episodes": [
+          {
+            "name": "Here Are The Young Men",
+            "count": 57,
+            "dialogues": 1061
+          }
+        ],
+        "dialogues": 1061
+      },
+      {
+        "title": "Every Secret Thing",
+        "count": 56,
+        "episodes": [
+          {
+            "name": "Every Secret Thing",
+            "count": 56,
+            "dialogues": 1155
+          }
+        ],
+        "dialogues": 1155
+      },
+      {
+        "title": "Cenicienta",
+        "count": 55,
+        "episodes": [
+          {
+            "name": "Cenicienta",
+            "count": 55,
+            "dialogues": 967
+          }
+        ],
+        "dialogues": 967
+      },
+      {
+        "title": "Zootopia+",
+        "count": 53,
+        "episodes": [
+          {
+            "name": "Zootopia+",
+            "count": 53,
+            "dialogues": 856
+          }
+        ],
+        "dialogues": 856
+      },
+      {
+        "title": "Morgan",
+        "count": 50,
+        "episodes": [
+          {
+            "name": "Morgan",
+            "count": 50,
+            "dialogues": 1194
+          }
+        ],
+        "dialogues": 1194
+      },
+      {
+        "title": "Sweetness in the Belly",
+        "count": 45,
+        "episodes": [
+          {
+            "name": "Sweetness in the Belly",
+            "count": 45,
+            "dialogues": 1115
+          }
+        ],
+        "dialogues": 1115
+      },
+      {
+        "title": "The Muppet Show",
+        "count": 44,
+        "episodes": [
+          {
+            "name": "The Muppet Show",
+            "count": 44,
+            "dialogues": 569
+          }
+        ],
+        "dialogues": 569
+      },
+      {
+        "title": "Minions I",
+        "count": 38,
+        "episodes": [
+          {
+            "name": "Minions I",
+            "count": 38,
+            "dialogues": 1070
+          }
+        ],
+        "dialogues": 1070
+      },
+      {
+        "title": "Ginger & Rosa",
+        "count": 36,
+        "episodes": [
+          {
+            "name": "Ginger & Rosa",
+            "count": 36,
+            "dialogues": 904
+          }
+        ],
+        "dialogues": 904
+      },
+      {
+        "title": "GTA San Andreas The Introduction",
+        "count": 34,
+        "episodes": [
+          {
+            "name": "GTA San Andreas The Introduction",
+            "count": 34,
+            "dialogues": 363
+          }
+        ],
+        "dialogues": 363
+      },
+      {
+        "title": "IO",
+        "count": 27,
+        "episodes": [
+          {
+            "name": "IO",
+            "count": 27,
+            "dialogues": 1249
+          }
+        ],
+        "dialogues": 2261
       }
     ]
   },
   "yearlyData": [
     {
       "year": "2023",
-      "words": 1094
+      "words": 1094,
+      "dialogues": 7497
     },
     {
       "year": "2024",
-      "words": 8904
+      "words": 8904,
+      "dialogues": 78785
     },
     {
       "year": "2025",
-      "words": 10999
+      "words": 10999,
+      "dialogues": 133397
+    },
+    {
+      "year": "2026",
+      "words": 11745,
+      "dialogues": 107476
     }
   ]
 }

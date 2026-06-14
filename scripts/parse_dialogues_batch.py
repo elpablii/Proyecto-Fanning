@@ -30,7 +30,7 @@ with open(manifest_path, 'r', encoding='utf-8') as f:
     manifest = json.load(f)
 
 movies_to_process = []
-for item in manifest["2024"]["movieList"]:
+for item in manifest["2025"]["movieList"]:
     # Skip real series. Real series have episodes like "S01EP..." or "Episode 1"
     # Movies just have 1 episode with the same name, or we explicitly skip "Kim Possible"
     if item["title"] == "Kim Possible":
@@ -38,14 +38,12 @@ for item in manifest["2024"]["movieList"]:
         
     if item.get("dialogues", 0) == 0:
         movies_to_process.append(item)
-        if len(movies_to_process) == 20:
-            break
 
 if not movies_to_process:
-    print("No more movies to process in 2024!")
+    print("No more movies to process in 2025!")
     exit(0)
 
-print("Processing the following 20 movies:")
+print("Processing the following 15 movies:")
 for m in movies_to_process:
     print(f"- {m['title']}")
 
@@ -71,7 +69,7 @@ overrides = {
     "goodbye christopher robin": "goodbye  christopher robin"
 }
 
-movie_pdfs = glob.glob(os.path.join(r"c:\Users\Pablo\Documents\GitHub\Proyecto-Fanning\Di*logos", "Di*logos pelis 2024", "*.pdf"))
+movie_pdfs = glob.glob(os.path.join(r"c:\Users\Pablo\Documents\GitHub\Proyecto-Fanning\Di*logos", "Di*logos pelis 2025", "*.pdf"))
 movie_dialogues_cache = {}
 
 for m in movies_to_process:
@@ -109,12 +107,12 @@ for item in movies_to_process:
             item["episodes"][0]["dialogues"] = c
             
 # Sync to 'all'
-d24 = {e["title"]: e.get("dialogues", 0) for e in manifest["2024"]["movieList"]}
+d25 = {e["title"]: e.get("dialogues", 0) for e in manifest["2025"]["movieList"]}
 for e in manifest["all"]["movieList"]:
-    if e["title"] in d24 and d24[e["title"]] > 0:
-        e["dialogues"] = d24[e["title"]]
+    if e["title"] in d25 and d25[e["title"]] > 0:
+        e["dialogues"] = d25[e["title"]]
         if "episodes" in e and len(e["episodes"]) > 0:
-            e["episodes"][0]["dialogues"] = d24[e["title"]]
+            e["episodes"][0]["dialogues"] = d25[e["title"]]
 
 with open(manifest_path, 'w', encoding='utf-8') as f:
     json.dump(manifest, f, ensure_ascii=False, indent=2)

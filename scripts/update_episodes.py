@@ -10,7 +10,7 @@ series_names = ["Kim Possible", "The Big Bang Theory", "Euphoria", "Gambito de D
 
 # Store episode counts globally and per year
 # Format: { "Series Name": { "Year": [ {"name": "EP1", "count": 10} ] } }
-episodes_by_series = { s: {"2024": [], "2025": [], "all": []} for s in series_names }
+episodes_by_series = { s: {"2024": [], "2025": [], "2026": [], "all": []} for s in series_names }
 
 def clean_episode_name(filename, series_name):
     name = filename.replace('.pdf', '')
@@ -31,6 +31,7 @@ for root, dirs, files in os.walk(vocab_dir):
             year = "all"
             if "2024" in path: year = "2024"
             elif "2025" in path: year = "2025"
+            elif "2026" in path: year = "2026"
             
             # Determine series
             matched_series = None
@@ -74,14 +75,14 @@ def sort_episodes(ep1, ep2):
     return (ep1['name'] > ep2['name']) - (ep1['name'] < ep2['name'])
 
 for s in series_names:
-    for cat in ["all", "2024", "2025"]:
+    for cat in ["all", "2024", "2025", "2026"]:
         episodes_by_series[s][cat].sort(key=lambda x: x['name'])
 
 # Update Manifest
 with open(manifest_path, 'r', encoding='utf-8') as f:
     manifest = json.load(f)
 
-for category in ["all", "2024", "2025"]:
+for category in ["all", "2024", "2025", "2026"]:
     if category not in manifest: continue
     movie_list = manifest[category].get("movieList", [])
     for movie in movie_list:

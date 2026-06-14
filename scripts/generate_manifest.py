@@ -5,6 +5,7 @@ import re
 from collections import defaultdict
 
 data_dir = r'c:\Users\Pablo\Documents\GitHub\Proyecto-Fanning\fanning-dashboard\public\data'
+out_file = os.path.join(data_dir, 'manifest.json')
 
 def clean_movie_title(raw_title):
     title = raw_title
@@ -30,6 +31,7 @@ manifest = {
     "2023": {},
     "2024": {},
     "2025": {},
+    "2026": {},
     "yearlyData": []
 }
 
@@ -38,7 +40,34 @@ for item in all_items:
     year = str(item.get('year_processed', 'Unknown'))
     year_counts[year] += 1
 
-manifest["yearlyData"] = [{"year": y, "words": c} for y, c in sorted(year_counts.items()) if y in ["2023", "2024", "2025"]]
+yearly_data = []
+old_m = {}
+if os.path.exists(out_file):
+    try:
+        with open(out_file, 'r', encoding='utf-8') as f:
+            old_m = json.load(f)
+    except: pass
+
+old_yearly = {yd['year']: yd.get('dialogues', 0) for yd in old_m.get('yearlyData', [])}
+
+for y in ["2023", "2024", "2025", "2026"]:
+    if y in year_counts:
+        yearly_data.append({
+            "year": y, 
+            "words": year_counts[y],
+            "dialogues": old_yearly.get(y, 0)
+        })
+manifest["yearlyData"] = yearly_data
+
+old_movie_dialogues = {}
+for y_key in old_m:
+    if y_key in ["all", "2023", "2024", "2025", "2026"] and isinstance(old_m[y_key], dict):
+        for movie in old_m[y_key].get("movieList", []):
+            if movie.get("dialogues"):
+                old_movie_dialogues[movie["title"]] = movie["dialogues"]
+            for ep in movie.get("episodes", []):
+                if ep.get("dialogues"):
+                    old_movie_dialogues[f"{movie['title']}__{ep['name']}"] = ep["dialogues"]
 
 def process_stats(items):
     total_words = len(items)
@@ -59,12 +88,23 @@ def process_stats(items):
     unique_movies = len(movies_map)
     movie_list = []
     for title, data in movies_map.items():
-        episodes = [{"name": name, "count": count} for name, count in sorted(data["episodes"].items(), key=lambda x: x[1], reverse=True)]
-        movie_list.append({
+        episodes = []
+        for name, count in sorted(data["episodes"].items(), key=lambda x: x[1], reverse=True):
+            ep_dict = {"name": name, "count": count}
+            ep_d_key = f"{title}__{name}"
+            if ep_d_key in old_movie_dialogues:
+                ep_dict["dialogues"] = old_movie_dialogues[ep_d_key]
+            episodes.append(ep_dict)
+            
+        m_dict = {
             "title": title,
             "count": data["count"],
             "episodes": episodes
-        })
+        }
+        if title in old_movie_dialogues:
+            m_dict["dialogues"] = old_movie_dialogues[title]
+        movie_list.append(m_dict)
+        
     movie_list.sort(key=lambda x: x["count"], reverse=True)
     
     word_map = {}
@@ -90,11 +130,10 @@ def process_stats(items):
     }
 
 manifest["all"] = process_stats(all_items)
-for year in ["2023", "2024", "2025"]:
+for year in ["2023", "2024", "2025", "2026"]:
     year_items = [i for i in all_items if str(i.get('year_processed', '')) == year]
     manifest[year] = process_stats(year_items)
 
-out_file = os.path.join(data_dir, 'manifest.json')
 with open(out_file, 'w', encoding='utf-8') as f:
     json.dump(manifest, f, ensure_ascii=False, indent=2)
 

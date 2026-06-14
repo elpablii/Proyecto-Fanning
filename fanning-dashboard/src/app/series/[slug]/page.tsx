@@ -81,6 +81,23 @@ export default function SeriesPage() {
     );
   }
 
+  const totalDialogues = movieData.dialogues || 0;
+  
+  const seasonDialogues: Record<string, number> = {};
+  if (movieData.episodes) {
+    movieData.episodes.forEach((ep: any) => {
+      const match = ep.name.match(/^S(\d+)EP/i);
+      let seasonKey = "Especiales";
+      if (match) {
+        seasonKey = `Temporada ${parseInt(match[1], 10)}`;
+      }
+      if (ep.dialogues) {
+        seasonDialogues[seasonKey] = (seasonDialogues[seasonKey] || 0) + ep.dialogues;
+      }
+    });
+  }
+  const multiSeason = Object.keys(seasonDialogues).filter(k => k !== "Especiales").length > 1;
+
   return (
     <div className="min-h-screen bg-gray-950 text-white relative overflow-x-hidden font-sans">
       
@@ -128,7 +145,22 @@ export default function SeriesPage() {
               <span className="flex items-center gap-2 bg-pink-600/30 border border-pink-400/30 text-pink-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
                 <PlayCircle size={20} /> {movieData.episodes.length} Episodios Analizados
               </span>
+              {totalDialogues > 0 && (
+                <span className="flex items-center gap-2 bg-emerald-600/30 border border-emerald-400/30 text-emerald-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
+                  <Film size={20} /> {totalDialogues.toLocaleString()} Líneas Totales de la Serie
+                </span>
+              )}
             </div>
+            
+            {multiSeason && totalDialogues > 0 && (
+              <div className="flex flex-wrap gap-2 mt-4">
+                {Object.entries(seasonDialogues).map(([s, val], i) => (
+                  <span key={i} className="text-sm bg-gray-800/80 text-gray-300 px-3 py-1 rounded-full border border-gray-600/50 backdrop-blur-md">
+                    {s}: {val.toLocaleString()} líneas
+                  </span>
+                ))}
+              </div>
+            )}
           </div>
         </div>
 
@@ -157,11 +189,33 @@ export default function SeriesPage() {
                     </div>
                   </div>
                   
-                  <div className="flex items-center justify-between mt-auto">
-                    <span className="text-gray-400 text-sm">Extracción:</span>
-                    <span className="text-xl font-black bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-400">
-                      {ep.count} <span className="text-sm font-medium text-gray-500">palabras</span>
-                    </span>
+                  <div className="flex flex-col mt-auto gap-1">
+                    <div className="flex items-center justify-between">
+                      <span className="text-gray-400 text-sm">No entendidas:</span>
+                      <span className="text-xl font-black bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-400">
+                        {ep.count} <span className="text-sm font-medium text-gray-500">palabras</span>
+                      </span>
+                    </div>
+                    {ep.dialogues !== undefined && ep.dialogues > 0 && (
+                      <>
+                        <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/10">
+                          <span className="text-gray-400 text-sm">Líneas de diálogo:</span>
+                          <span className="text-emerald-400 font-bold">{ep.dialogues}</span>
+                        </div>
+                        <div className="flex items-center justify-between mt-1">
+                          <span className="text-gray-400 text-sm">Comprensión:</span>
+                          <span className="text-cyan-400 font-bold bg-cyan-500/10 px-2 py-0.5 rounded border border-cyan-500/20 text-sm">
+                            {(() => {
+                              const d = ep.dialogues;
+                              const w = ep.count;
+                              let pct = ((d - w) / d) * 100;
+                              if (pct >= 99.445) pct = 100;
+                              return Math.max(0, pct).toFixed(2);
+                            })()}%
+                          </span>
+                        </div>
+                      </>
+                    )}
                   </div>
                 </div>
               </div>

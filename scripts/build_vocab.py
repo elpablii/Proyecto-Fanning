@@ -26,6 +26,7 @@ for pdf_path in pdf_files:
     if "2023" in pdf_path: year = "2023"
     elif "2024" in pdf_path: year = "2024"
     elif "2025" in pdf_path: year = "2025"
+    elif "2026" in pdf_path: year = "2026"
     
     filename = os.path.basename(pdf_path)
     match = re.search(r"Palabras desconocidas de (.*?)(?:\s*\(.*lista definitiva.*\))?\.pdf", filename, re.IGNORECASE)
