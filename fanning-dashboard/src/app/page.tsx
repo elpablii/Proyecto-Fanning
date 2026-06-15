@@ -131,7 +131,24 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
       "toy story iv": { q: "Toy Story 4", y: "2019" },
       "work it": { q: "Work It", y: "2020" },
       "zootopia i": { q: "Zootopia", y: "2016" },
-      "zootopia+": { q: "Zootopia+", tv: true, y: "2022" }
+      "zootopia+": { q: "Zootopia+", tv: true, y: "2022" },
+      "star wars episodio i the phantom menace": { q: "Star Wars: Episode I - The Phantom Menace", y: "1999" },
+      "star wars episodio ii attack of the clones": { q: "Star Wars: Episode II - Attack of the Clones", y: "2002" },
+      "star wars episodio iii revenge of the sith": { q: "Star Wars: Episode III - Revenge of the Sith", y: "2005" },
+      "star wars episodio iv a new hope": { q: "Star Wars", y: "1977" },
+      "star wars episodio v the empire strikes back": { q: "The Empire Strikes Back", y: "1980" },
+      "star wars episodio vi return of the jedi": { q: "Return of the Jedi", y: "1983" },
+      "olivia rodrigo driving home 2 u": { q: "Olivia Rodrigo: driving home 2 u", y: "2022" },
+      "toy story i": { q: "Toy Story", y: "1995" },
+      "toy story 1": { q: "Toy Story", y: "1995" },
+      "toy story": { q: "Toy Story", y: "1995" },
+      "taylor swift folklore the long pond studio sessions": { q: "Folklore: The Long Pond Studio Sessions", y: "2020" },
+      "taylor swift reputation stadium tour": { q: "Taylor Swift: Reputation Stadium Tour", y: "2018" },
+      "dream productions": { q: "Dream Productions", tv: true, y: "2024" },
+      "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" },
+      "toy story iii": { q: "Toy Story 3", y: "2010" },
+      "toy story 3": { q: "Toy Story 3", y: "2010" },
+      "top gun": { q: "Top Gun", y: "1986" }
     };
 
     const lowerTitle = title.toLowerCase().trim();
@@ -203,7 +220,8 @@ export default function Dashboard() {
     topWord: { word: "N/A", count: 0, translation: "" },
     yearlyData: [] as { year: string, words: number, dialogues?: number }[],
     topList: [] as { word: string, count: number, translation: string }[],
-    movieList: [] as { title: string, count: number, dialogues?: number, episodes: { name: string, count: number }[] }[]
+    movieList: [] as { title: string, count: number, dialogues?: number, episodes: { name: string, count: number }[] }[],
+    totalDialogues: 0
   });
 
   useEffect(() => {
@@ -219,13 +237,23 @@ export default function Dashboard() {
   useEffect(() => {
     if (manifestData) {
       const yearData = manifestData[selectedYear] || manifestData["all"];
+      
+      let totalDialogues = 0;
+      if (selectedYear === 'all') {
+        totalDialogues = (manifestData.yearlyData || []).reduce((acc: number, y: any) => acc + (y.dialogues || 0), 0);
+      } else {
+        const found = (manifestData.yearlyData || []).find((y: any) => y.year === selectedYear);
+        totalDialogues = found ? (found.dialogues || 0) : 0;
+      }
+
       setStats({
         totalWords: yearData.totalWords || 0,
         uniqueMovies: yearData.uniqueMovies || 0,
         topWord: yearData.topWord || { word: "N/A", count: 0, translation: "" },
         yearlyData: manifestData.yearlyData || [],
         topList: yearData.topList || [],
-        movieList: yearData.movieList || []
+        movieList: yearData.movieList || [],
+        totalDialogues: totalDialogues
       });
     }
   }, [manifestData, selectedYear]);
@@ -291,7 +319,7 @@ export default function Dashboard() {
             <h3 className="text-gray-400 font-medium">Líneas de Diálogo</h3>
             <div className="p-2 bg-emerald-500/10 text-emerald-400 rounded-lg"><Film size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">{stats.movieList.reduce((acc, m) => acc + (m.dialogues || 0), 0).toLocaleString()}</p>
+          <p className="text-3xl font-bold">{stats.totalDialogues.toLocaleString()}</p>
           <p className="text-sm text-emerald-500 mt-2">Líneas totales en {selectedYear === 'all' ? 'histórico' : selectedYear}</p>
         </div>
 
