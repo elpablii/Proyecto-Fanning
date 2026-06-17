@@ -148,7 +148,62 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
       "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" },
       "toy story iii": { q: "Toy Story 3", y: "2010" },
       "toy story 3": { q: "Toy Story 3", y: "2010" },
-      "top gun": { q: "Top Gun", y: "1986" }
+      "top gun": { q: "Top Gun", y: "1986" },
+      "the twilight saga: breaking dawn - part 2": { q: "The Twilight Saga: Breaking Dawn - Part 2", y: "2012" },
+      "the twilight saga: breaking dawn - part 1": { q: "The Twilight Saga: Breaking Dawn - Part 1", y: "2011" },
+      "the twilight saga: eclipse": { q: "The Twilight Saga: Eclipse", y: "2010" },
+      "the twilight saga: new moon": { q: "The Twilight Saga: New Moon", y: "2009" },
+      "twilight": { q: "Twilight", y: "2008" },
+      "the big bang theory (6, 7 y 8 temporadas)": { q: "The Big Bang Theory", tv: true },
+      "euphoria (3 temporada)": { q: "Euphoria", tv: true },
+      "the amazing digital circus": { q: "The Amazing Digital Circus", tv: true },
+      "kick buttowski": { q: "Kick Buttowski: Suburban Daredevil", tv: true },
+      "a good girl's guide to murder (1 temporada)": { q: "A Good Girl's Guide to Murder", tv: true },
+      "margo's got money troubles (1 temporada)": { q: "Margo's Got Money Troubles", tv: true },
+      "taylor swift: the end of an era": { q: "Taylor Swift: The End of an Era" },
+      "the first lady": { q: "The First Lady", tv: true, y: "2022" },
+      "the great": { q: "The Great", tv: true, y: "2020" },
+      "taylor swift: speak now world tour film": { q: "Taylor Swift: Speak Now World Tour Live", y: "2011" },
+      "meghan trainor with dr. phil": { q: "Phil in the Blanks", tv: true },
+      "wuthering heights": { q: "Wuthering Heights", y: "2026" },
+      "the drama (2026)": { q: "The Drama", y: "2026" },
+      "mother mary (2026)": { q: "Mother Mary", y: "2026" },
+      "countdown": { q: "Countdown", y: "2019" },
+      "mack & rita": { q: "Mack & Rita", y: "2022" },
+      "eileen": { q: "Eileen", y: "2023" },
+      "lost girls": { q: "Lost Girls", y: "2020" },
+      "girl in the basement": { q: "Girl in the Basement", y: "2021" },
+      "a taste of christmas": { q: "A Taste of Christmas", y: "2020" },
+      "assassination nation": { q: "Assassination Nation", y: "2018" },
+      "oh what fun": { q: "Oh. What. Fun.", y: "2025" },
+      "the short history of the long road": { q: "The Short History of the Long Road", y: "2019" },
+      "the hate u give": { q: "The Hate U Give", y: "2018" },
+      "my salinger year": { q: "My Salinger Year", y: "2020" },
+      "seberg": { q: "Seberg", y: "2019" },
+      "mary shelley": { q: "Mary Shelley", y: "2017" },
+      "how to talk to girls at parties": { q: "How to Talk to Girls at Parties", y: "2017" },
+      "trumbo": { q: "Trumbo", y: "2015" },
+      "live by night": { q: "Live by Night", y: "2016" },
+      "young ones": { q: "Young Ones", y: "2014" },
+      "i am sam": { q: "I Am Sam", y: "2001" },
+      "the secret life of bees": { q: "The Secret Life of Bees", y: "2008" },
+      "the last of robin hood": { q: "The Last of Robin Hood", y: "2013" },
+      "the ice road: vengeance": { q: "The Ice Road 2: Road to the Sky", y: "2025" },
+      "cold pursuit": { q: "Cold Pursuit", y: "2019" },
+      "unknown": { q: "Unknown", y: "2011" },
+      "made in italy": { q: "Made in Italy", y: "2020" },
+      "gta san andreas dialogues part i (in the beginning - mike toreno)": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
+      "gta san andreas dialogues part ii (outrider - end of the line)": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
+      "gta san andreas commercials": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
+      "gta san andreas wctr radio": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
+      "the amazing digital circus: the last act": { q: "The Amazing Digital Circus" },
+      "zootopia ii (2025)": { q: "Zootopia 2", y: "2025" },
+      "pulp fiction": { q: "Pulp Fiction", y: "1994" },
+      "matilda (1996)": { q: "Matilda", y: "1996" },
+      "lilo and stitch ii: stitch has a glitch": { q: "Lilo & Stitch 2: Stitch Has a Glitch", y: "2005" },
+      "stitch: the movie": { q: "Stitch! The Movie", y: "2003" },
+      "back to the future i": { q: "Back to the Future", y: "1985" },
+      "toy story 5": { q: "Toy Story 5", y: "2026" }
     };
 
     const lowerTitle = title.toLowerCase().trim();
@@ -288,8 +343,8 @@ export default function Dashboard() {
       </header>
 
       {/* Selector de Años */}
-      <div className="mb-10 flex border-b border-gray-800 pb-4 gap-4">
-        {["all", "2023", "2024", "2025", "2026"].map((year) => (
+      <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
+        {["all", "2023", "2024", "2025", "2026", "2027"].map((year) => (
           <button
             key={year}
             onClick={() => setSelectedYear(year)}
@@ -304,7 +359,7 @@ export default function Dashboard() {
       </div>
 
       {/* Stat Cards */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
+      <div className={`grid grid-cols-1 md:grid-cols-2 ${selectedYear === 'all' ? 'lg:grid-cols-4' : 'lg:grid-cols-5'} gap-6 mb-10`}>
         <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <div className="flex justify-between items-start mb-4">
             <h3 className="text-gray-400 font-medium">Total Extraído</h3>
@@ -340,6 +395,25 @@ export default function Dashboard() {
           <p className="text-2xl font-bold capitalize truncate">{stats.topWord.word}</p>
           <p className="text-sm text-gray-500 mt-2">{stats.topWord.count} apariciones</p>
         </div>
+
+        {selectedYear !== 'all' && (
+          <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
+            <div className="flex justify-between items-start mb-4">
+              <h3 className="text-gray-400 font-medium">Comprensión Global</h3>
+              <div className="p-2 bg-cyan-500/10 text-cyan-400 rounded-lg"><Crown size={20} /></div>
+            </div>
+            <p className="text-3xl font-bold">
+              {stats.totalDialogues > 0 
+                ? `${(() => {
+                    let pct = ((stats.totalDialogues - stats.totalWords) / stats.totalDialogues) * 100;
+                    if (pct >= 99.445) pct = 100;
+                    return Math.max(0, pct).toFixed(2);
+                  })()}%`
+                : 'N/A'}
+            </p>
+            <p className="text-sm text-cyan-500 mt-2">Porcentaje en {selectedYear}</p>
+          </div>
+        )}
       </div>
 
       {/* Grid Principal */}
