@@ -114,36 +114,36 @@ export default function SeriesPage() {
       </div>
 
       {/* Contenido Principal */}
-      <div className="relative z-10 p-8 max-w-7xl mx-auto">
+      <div className="relative z-10 p-4 sm:p-6 md:p-8 max-w-7xl mx-auto">
         
         {/* Header / Navegación */}
         <button 
           onClick={() => router.push('/')} 
-          className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/10 hover:bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm border border-white/10 transition-all mb-8"
+          className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/10 hover:bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm border border-white/10 transition-all mb-6 md:mb-8 text-sm sm:text-base w-fit"
         >
           <ArrowLeft size={18} /> Volver al Dashboard
         </button>
 
         {/* Hero Section */}
-        <div className="flex flex-col md:flex-row gap-8 items-end mb-16">
+        <div className="flex flex-col md:flex-row gap-6 md:gap-8 items-center md:items-end mb-12 md:mb-16">
           {images.poster ? (
-            <img src={images.poster} alt={decodedTitle} className="w-48 md:w-64 rounded-2xl shadow-2xl border border-white/20 transform hover:scale-105 transition-transform duration-500" />
+            <img src={images.poster} alt={decodedTitle} className="w-40 sm:w-48 md:w-64 rounded-2xl shadow-2xl border border-white/20 transform hover:scale-105 transition-transform duration-500" />
           ) : (
-            <div className="w-48 md:w-64 aspect-[2/3] bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
+            <div className="w-40 sm:w-48 md:w-64 aspect-[2/3] bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
               <Film size={48} className="text-white/50" />
             </div>
           )}
           
-          <div className="flex-1 pb-4">
-            <h1 className="text-5xl md:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-300">
+          <div className="flex-1 pb-4 text-center md:text-left">
+            <h1 className="text-4xl sm:text-5xl md:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-300">
               {decodedTitle}
             </h1>
-            <div className="flex flex-wrap gap-4 items-center text-lg">
+            <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 items-center text-sm sm:text-base md:text-lg">
               <span className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                <BookOpen size={20} /> {movieData.count.toLocaleString()} Palabras Globales
+                <BookOpen size={16} className="sm:w-5 sm:h-5" /> {movieData.count.toLocaleString()} Palabras Globales
               </span>
               <span className="flex items-center gap-2 bg-pink-600/30 border border-pink-400/30 text-pink-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                <PlayCircle size={20} /> {movieData.episodes.length} Episodios Analizados
+                <PlayCircle size={16} className="sm:w-5 sm:h-5" /> {movieData.episodes.length} Episodios Analizados
               </span>
               {totalDialogues > 0 && (
                 <span className="flex items-center gap-2 bg-emerald-600/30 border border-emerald-400/30 text-emerald-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
@@ -153,9 +153,9 @@ export default function SeriesPage() {
             </div>
             
             {multiSeason && totalDialogues > 0 && (
-              <div className="flex flex-wrap gap-2 mt-4">
+              <div className="flex flex-wrap justify-center md:justify-start gap-2 mt-4">
                 {Object.entries(seasonDialogues).map(([s, val], i) => (
-                  <span key={i} className="text-sm bg-gray-800/80 text-gray-300 px-3 py-1 rounded-full border border-gray-600/50 backdrop-blur-md">
+                  <span key={i} className="text-xs sm:text-sm bg-gray-800/80 text-gray-300 px-3 py-1 rounded-full border border-gray-600/50 backdrop-blur-md">
                     {s}: {val.toLocaleString()} líneas
                   </span>
                 ))}

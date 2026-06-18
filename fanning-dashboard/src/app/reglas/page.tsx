@@ -5,18 +5,18 @@ import { ArrowLeft, BookOpen, Crown, ShieldAlert, Clock, Calculator, Star } from
 
 export default function RulesPage() {
   return (
-    <div className="min-h-screen bg-[#09090b] text-white p-8 selection:bg-purple-500/30">
+    <div className="min-h-screen bg-[#09090b] text-white p-4 sm:p-6 md:p-8 selection:bg-purple-500/30">
       {/* Navbar/Header */}
-      <header className="max-w-6xl mx-auto flex items-center justify-between mb-12">
-        <div className="flex items-center gap-4">
+      <header className="max-w-6xl mx-auto flex items-center justify-between mb-8 md:mb-12">
+        <div className="flex items-center gap-2 sm:gap-4">
           <Link 
             href="/"
             className="p-2 hover:bg-white/5 rounded-full transition-colors"
           >
-            <ArrowLeft className="w-6 h-6 text-gray-400" />
+            <ArrowLeft className="w-5 h-5 sm:w-6 sm:h-6 text-gray-400" />
           </Link>
-          <h1 className="text-3xl font-bold bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent flex items-center gap-3">
-            <BookOpen className="w-8 h-8 text-purple-400" />
+          <h1 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent flex items-center gap-2 sm:gap-3">
+            <BookOpen className="w-6 h-6 sm:w-8 sm:h-8 text-purple-400" />
             Constitución y Reglas
           </h1>
         </div>
@@ -133,9 +133,9 @@ export default function RulesPage() {
                 El nivel de éxito técnico post-estudio se evalúa de manera estricta bajo el criterio de que <strong>una sola palabra desconocida invalida la línea de diálogo completa</strong>.
               </p>
               
-              <div className="bg-black/50 border border-emerald-500/30 p-6 rounded-xl flex justify-center items-center">
-                <code className="text-emerald-300 text-sm md:text-base font-mono text-center">
-                  % Comprensión = <br className="md:hidden" />
+              <div className="bg-black/50 border border-emerald-500/30 p-4 sm:p-6 rounded-xl flex justify-center items-center">
+                <code className="text-emerald-300 text-xs sm:text-sm md:text-base font-mono text-center">
+                  % Comprensión = <br className="sm:hidden" />
                   ((Líneas Totales - Diálogos no Entendidos) <br className="md:hidden" />
                   / Líneas Totales) × 100
                 </code>
