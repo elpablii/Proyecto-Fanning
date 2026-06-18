@@ -323,20 +323,20 @@ export default function Dashboard() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-8">
+    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-4 sm:p-6 md:p-8">
       {/* Header */}
-      <header className="mb-8 flex justify-between items-end pb-6">
+      <header className="mb-6 md:mb-8 flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4 pb-4 md:pb-6">
         <div>
-          <h1 className="text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
+          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
             Analíticas del Proyecto Fanning
           </h1>
-          <p className="text-gray-400 mt-2 text-lg">Métricas de inmersión y adquisición de vocabulario</p>
+          <p className="text-gray-400 mt-2 text-sm md:text-lg">Métricas de inmersión y adquisición de vocabulario</p>
         </div>
-        <div className="flex gap-4">
-          <button onClick={() => router.push('/reglas')} className="bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
+        <div className="flex flex-wrap gap-3 w-full sm:w-auto">
+          <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
             <BookOpen size={16} /> Reglas del Proyecto
           </button>
-          <button className="bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
+          <button className="flex-1 sm:flex-none justify-center bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
             <Search size={16} /> Buscar
           </button>
         </div>
@@ -420,7 +420,7 @@ export default function Dashboard() {
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
 
         {/* Chart Section */}
-        <div className="col-span-2 bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
+        <div className="lg:col-span-2 bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <h3 className="text-xl font-bold mb-6 flex items-center gap-2">
             <Calendar className="text-purple-500" size={24} /> Evolución del Vocabulario
           </h3>
@@ -518,17 +518,17 @@ export default function Dashboard() {
                 <img src={selectedMovie.posterUrl} alt="Backdrop" className="w-full h-full object-cover opacity-30 blur-md" />
               )}
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent"></div>
-              <div className="absolute bottom-4 left-6 flex items-end gap-6">
+              <div className="absolute bottom-4 left-4 sm:left-6 flex items-end gap-4 sm:gap-6 w-[calc(100%-2rem)]">
                 {selectedMovie.posterUrl ? (
-                  <img src={selectedMovie.posterUrl} alt="Poster" className="w-24 h-36 rounded-lg shadow-xl object-cover border border-gray-700" />
+                  <img src={selectedMovie.posterUrl} alt="Poster" className="w-20 h-32 sm:w-24 sm:h-36 rounded-lg shadow-xl object-cover border border-gray-700 flex-shrink-0" />
                 ) : (
-                  <div className="w-24 h-36 bg-gray-800 rounded-lg shadow-xl border border-gray-700 flex items-center justify-center">
+                  <div className="w-20 h-32 sm:w-24 sm:h-36 bg-gray-800 rounded-lg shadow-xl border border-gray-700 flex items-center justify-center flex-shrink-0">
                     <Film className="text-gray-600" size={32} />
                   </div>
                 )}
-                <div className="pb-2">
-                  <h2 className="text-3xl font-extrabold text-white">{selectedMovie.title}</h2>
-                  <div className="flex flex-wrap gap-4 mt-2">
+                <div className="pb-1 sm:pb-2 overflow-hidden">
+                  <h2 className="text-2xl sm:text-3xl font-extrabold text-white leading-tight truncate">{selectedMovie.title}</h2>
+                  <div className="flex flex-wrap gap-2 sm:gap-4 mt-2 text-xs sm:text-sm">
                     <p className="text-purple-400 font-medium">{selectedMovie.count} palabras no entendidas</p>
                     {selectedMovie.dialogues !== undefined && selectedMovie.dialogues > 0 && (
                       <>
