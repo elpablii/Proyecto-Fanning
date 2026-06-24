@@ -2,7 +2,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info } from 'lucide-react';
+import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info, Edit2 } from 'lucide-react';
+import { tmdbOverrides } from '@/lib/tmdb';
 
 export default function PeliculaPage() {
   const params = useParams();
@@ -51,33 +52,53 @@ export default function PeliculaPage() {
         const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
         let searchTitle = decodedTitle;
         
-        // Quick override for specific movies if needed
-        const overrides: Record<string, { q: string, y?: string }> = {
-            "last night in soho": { q: "Last Night in Soho", y: "2021" },
-            "taylor swift miss americana": { q: "Miss Americana", y: "2020" },
-            "the polar express": { q: "The Polar Express", y: "2004" },
-            "bombshell": { q: "Bombshell", y: "2019" },
-            "focus": { q: "Focus", y: "2015" },
-            "barbie": { q: "Barbie", y: "2023" },
-            "oppenheimer": { q: "Oppenheimer", y: "2023" },
-            "taylor swift the eras tour film": { q: "Taylor Swift: The Eras Tour", y: "2023" },
-            "titanic": { q: "Titanic", y: "1997" },
-            "aves de presa": { q: "Birds of Prey", y: "2020" },
-            "terminal": { q: "Terminal", y: "2018" },
-            "escuadrón suicida": { q: "Suicide Squad", y: "2016" },
-            "el escuadrón suicida": { q: "The Suicide Squad", y: "2021" },
-            "ámsterdam": { q: "Amsterdam", y: "2022" },
-            "once upon a time in hollywood": { q: "Once Upon a Time... in Hollywood", y: "2019" },
-            "mary queen of scots": { q: "Mary Queen of Scots", y: "2018" },
-            "los increibles": { q: "The Incredibles", y: "2004" }
-        };
-        const lowerTitle = decodedTitle.toLowerCase().trim();
-        let queryParams = `query=${encodeURIComponent(searchTitle)}`;
-        if (overrides[lowerTitle]) {
-            queryParams = `query=${encodeURIComponent(overrides[lowerTitle].q)}&primary_release_year=${overrides[lowerTitle].y}`;
+        // 3.1. Revisa si hay Override Manual
+        const savedOverridesStr = localStorage.getItem('tmdb_manual_overrides');
+        if (savedOverridesStr) {
+            try {
+                const savedOverrides = JSON.parse(savedOverridesStr);
+                if (savedOverrides[decodedTitle]) {
+                    const tmdbRes = await fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[decodedTitle]}?api_key=${apiKey}&language=es-MX&include_image_language=en,null`);
+                    const result = await tmdbRes.json();
+                    
+                    if (result.id) {
+                        setImages({
+                            backdrop: result.backdrop_path ? `https://image.tmdb.org/t/p/original${result.backdrop_path}` : '',
+                            poster: result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : ''
+                        });
+                        setTmdbInfo(prev => ({ ...prev, overview: result.overview || 'Sinopsis no disponible.' }));
+                        
+                        // Fetch images for gallery
+                        const imagesRes = await fetch(`https://api.themoviedb.org/3/movie/${result.id}/images?api_key=${apiKey}`);
+                        const imagesJson = await imagesRes.json();
+                        if (imagesJson.backdrops) {
+                            const gallery = imagesJson.backdrops.slice(0, 6).map((img: any) => `https://image.tmdb.org/t/p/w780${img.file_path}`);
+                            setTmdbInfo(prev => ({ ...prev, photos: gallery }));
+                        }
+                    }
+                    return; // Fin, ya usamos el manual
+                }
+            } catch(e) {}
         }
 
-        const tmdbRes = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&${queryParams}&language=es-MX`);
+        // 3.2. Búsqueda normal usando diccionario unificado
+        const lowerTitle = decodedTitle.toLowerCase().trim();
+        let queryParams = `query=${encodeURIComponent(searchTitle)}`;
+        const sortedKeys = Object.keys(tmdbOverrides).sort((a, b) => b.length - a.length);
+
+        for (const key of sortedKeys) {
+            if (lowerTitle.includes(key)) {
+                searchTitle = tmdbOverrides[key].q;
+                if (tmdbOverrides[key].y) {
+                    queryParams = `query=${encodeURIComponent(searchTitle)}&primary_release_year=${tmdbOverrides[key].y}`;
+                } else {
+                    queryParams = `query=${encodeURIComponent(searchTitle)}`;
+                }
+                break;
+            }
+        }
+
+        const tmdbRes = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&${queryParams}&language=es-MX&include_image_language=en,null`);
         const tmdbJson = await tmdbRes.json();
         
         if (tmdbJson.results && tmdbJson.results.length > 0) {
@@ -153,13 +174,33 @@ export default function PeliculaPage() {
       {/* Contenido Principal */}
       <div className="relative z-10 p-4 sm:p-6 md:p-8 max-w-6xl mx-auto">
         
-        {/* Navegación */}
-        <button 
-          onClick={() => router.push('/')} 
-          className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/10 hover:bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm border border-white/10 transition-all mb-8 text-sm sm:text-base w-fit"
-        >
-          <ArrowLeft size={18} /> Volver al Dashboard
-        </button>
+        {/* Navegación y Acciones */}
+        <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8">
+            <button 
+                onClick={() => router.push('/')} 
+                className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/10 hover:bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm border border-white/10 transition-all text-sm sm:text-base w-fit"
+            >
+                <ArrowLeft size={18} /> Volver al Dashboard
+            </button>
+            <button 
+                onClick={() => {
+                    const tmdbId = window.prompt(`[SISTEMA MANUAL]\nIntroduce el ID de TMDB para la película "${decodedTitle}":`);
+                    if (tmdbId && tmdbId.trim() !== '') {
+                        let saved = {};
+                        try {
+                            const str = localStorage.getItem('tmdb_manual_overrides');
+                            if (str) saved = JSON.parse(str);
+                        } catch(e) {}
+                        saved[decodedTitle] = tmdbId.trim();
+                        localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
+                        window.location.reload();
+                    }
+                }} 
+                className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/5 hover:bg-white/10 px-3 py-1.5 rounded-full backdrop-blur-sm border border-white/5 hover:border-white/20 transition-all text-xs"
+            >
+                <Edit2 size={14} /> Corregir TMDB
+            </button>
+        </div>
 
         {/* Hero Section */}
         <div className="flex flex-col md:flex-row gap-8 items-center md:items-end mb-16">

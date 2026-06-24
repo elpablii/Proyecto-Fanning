@@ -16,219 +16,65 @@ interface VocabItem {
   global_frequency: number;
 }
 
+import { tmdbOverrides } from '@/lib/tmdb';
+
 const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count: number, dialogues?: number, onClick: (posterUrl: string | null) => void }) => {
   const [posterUrl, setPosterUrl] = useState<string | null>(null);
 
   useEffect(() => {
-    // Ya el título viene limpio desde cleanMovieTitle, pero aseguramos la URL
+    // 1. Revisar si hay un override manual en localStorage
+    const savedOverridesStr = localStorage.getItem('tmdb_manual_overrides');
+    if (savedOverridesStr) {
+      try {
+        const savedOverrides = JSON.parse(savedOverridesStr);
+        if (savedOverrides[title]) {
+          // Fetch directo por ID manual
+          const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
+          fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[title]}?api_key=${apiKey}&language=es-MX`)
+            .then(res => res.json())
+            .then(data => {
+              if (data.poster_path) {
+                setPosterUrl(`https://image.tmdb.org/t/p/w500${data.poster_path}`);
+              }
+            })
+            .catch(console.error);
+          return; // Detener búsqueda normal
+        }
+      } catch (e) {
+        console.error("Error leyendo manual overrides", e);
+      }
+    }
+
+    // 2. Búsqueda normal si no hay manual
     let searchTitle = title;
-    // Usamos la API de TMDB
     const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
 
     let endpoint = 'search/multi';
     let extraParams = '';
 
-    // Correcciones específicas para carátulas equivocadas
-    // Correcciones específicas para carátulas equivocadas
-    const overrides: Record<string, { q: string, y?: string, tv?: boolean }> = {
-      "taylor swift the eras tour film": { q: "Taylor Swift: The Eras Tour" },
-      "aves de presa": { q: "Birds of Prey", y: "2020" },
-      "el escuadrón suicida": { q: "The Suicide Squad", y: "2021" },
-      "el escuadron suicida": { q: "The Suicide Squad", y: "2021" },
-      "escuadrón suicida": { q: "Suicide Squad", y: "2016" },
-      "escuadron suicida": { q: "Suicide Squad", y: "2016" },
-      "terminal": { q: "Terminal", y: "2018" },
-      "amsterdam": { q: "Amsterdam", y: "2022" },
-      "ámsterdam": { q: "Amsterdam", y: "2022" },
-      "babylon": { q: "Babylon", y: "2022" },
-      "five night's at freddy": { q: "Five Nights at Freddy's", y: "2023" },
-      "five nights at freddy": { q: "Five Nights at Freddy's", y: "2023" },
-      "the legend of tarzan": { q: "The Legend of Tarzan", y: "2016" },
-      "intensamente 2": { q: "Inside Out 2", y: "2024" },
-      "intensamente 1": { q: "Inside Out", y: "2015" },
-      "intensamente": { q: "Inside Out", y: "2015" },
-      "harold and the purple crayon": { q: "Harold and the Purple Crayon", y: "2024" },
-      "wall-e": { q: "WALL·E", y: "2008" },
-      "los increíbles": { q: "The Incredibles", y: "2004" },
-      "los increibles": { q: "The Incredibles", y: "2004" },
-      "rambo first blood": { q: "First Blood", y: "1982" },
-      "venganza implacable": { q: "Honest Thief", y: "2020" },
-      "contrarreloj": { q: "Retribution", y: "2023" },
-      "emma": { q: "Emma.", y: "2020" },
-      "riesgo bajo cero": { q: "The Ice Road", y: "2021" },
-      "buscando a nemo": { q: "Finding Nemo", y: "2003" },
-      "alvin y las ardillas": { q: "Alvin and the Chipmunks", y: "2007" },
-      "el padrino 1": { q: "The Godfather", y: "1972" },
-      "el padrino": { q: "The Godfather", y: "1972" },
-      "teen spirit": { q: "Teen Spirit", y: "2019" }, // TMDB lo tiene registrado en 2019
-      "cuckoo": { q: "Cuckoo", y: "2024" },
-      "kim possible (película 2019)": { q: "Kim Possible", y: "2019" },
-      "the runaways": { q: "The Runaways", y: "2010" },
-      "lilo and stitch i": { q: "Lilo & Stitch", y: "2002" },
-      "lilo y stitch i": { q: "Lilo & Stitch", y: "2002" },
-      "lilo y stitch 1": { q: "Lilo & Stitch", y: "2002" },
-      "lilo y stitch": { q: "Lilo & Stitch", y: "2002" },
-      "3 generations": { q: "3 Generations", y: "2016" },
-      "about ray": { q: "3 Generations", y: "2016" },
-      "the roads not taken": { q: "The Roads Not Taken", y: "2020" },
-      "taken iii": { q: "Taken 3", y: "2014" },
-      "taken 3": { q: "Taken 3", y: "2014" },
-      "taken ii": { q: "Taken 2", y: "2012" },
-      "taken 2": { q: "Taken 2", y: "2012" },
-      "taken i": { q: "Taken", y: "2008" },
-      "taken 1": { q: "Taken", y: "2008" },
-      "taken": { q: "Taken", y: "2008" },
-      "vicious": { q: "Vicious", y: "2025" },
-      "20th century women": { q: "20th Century Women", y: "2016" },
-      "a big bold beautiful journey": { q: "A Big Bold Beautiful Journey", y: "2025" },
-      "a complete unknown": { q: "A Complete Unknown", y: "2024" },
-      "a minecraft movie": { q: "A Minecraft Movie", y: "2025" },
-      "a rainy day in new york": { q: "A Rainy Day in New York", y: "2019" },
-      "absolution": { q: "Absolution", y: "2024" },
-      "an american girl - grace stirs up success": { q: "An American Girl: Grace Stirs Up Success", y: "2015" },
-      "barry": { q: "Barry", y: "2016" },
-      "cars iii": { q: "Cars 3", y: "2017" },
-      "cars 3": { q: "Cars 3", y: "2017" },
-      "cenicienta": { q: "Cinderella", y: "1950" },
-      "effie gray": { q: "Effie Gray", y: "2014" },
-      "every secret thing": { q: "Every Secret Thing", y: "2014" },
-      "family switch": { q: "Family Switch", y: "2023" },
-      "five nights at freddy's ii": { q: "Five Nights at Freddy's 2", y: "2025" },
-      "gta san andreas the introduction": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
-      "ginger & rosa": { q: "Ginger & Rosa", y: "2012" },
-      "glass": { q: "Glass", y: "2019" },
-      "here are the young men": { q: "Here Are the Young Men", y: "2021" },
-      "home": { q: "Home", y: "2009" },
-      "how to make a killing": { q: "How to Make a Killing", y: "2026" },
-      "io": { q: "IO", y: "2019" },
-      "interestellar": { q: "Interstellar", y: "2014" },
-      "jojo rabbit": { q: "Jojo Rabbit", y: "2019" },
-      "la bella durmiente": { q: "Sleeping Beauty", y: "1959" },
-      "leave no trace": { q: "Leave No Trace", y: "2018" },
-      "love actually": { q: "Love Actually", y: "2003" },
-      "maleficent i": { q: "Maleficent", y: "2014" },
-      "maleficent ii mistress of evil": { q: "Maleficent: Mistress of Evil", y: "2019" },
-      "marlowe": { q: "Marlowe", y: "2023" },
-      "michael": { q: "Michael", y: "2026" },
-      "minions i": { q: "Minions", y: "2015" },
-      "morgan": { q: "Morgan", y: "2016" },
-      "night moves": { q: "Night Moves", y: "2014" },
-      "obi-wan kenobi": { q: "Obi-Wan Kenobi", y: "2022" },
-      "ordinary love": { q: "Ordinary Love", y: "2019" },
-      "orgullo y prejuicio": { q: "Pride & Prejudice", y: "2005" },
-      "schindler's list": { q: "Schindler's List", y: "1993" },
-      "super mario galaxy": { q: "Super Mario Galaxy", y: "2026" },
-      "sweetness in the belly": { q: "Sweetness in the Belly", y: "2019" },
-      "tall girl i": { q: "Tall Girl", y: "2019" },
-      "tall girl ii": { q: "Tall Girl 2", y: "2022" },
-      "taylor swift - the eras tour film the final show": { q: "Taylor Swift: The Eras Tour The Final Show", y: "2025" },
-      "taylor swift the 1989 world tour": { q: "The 1989 World Tour Live", y: "2015" },
-      "the commuter": { q: "The Commuter", y: "2018" },
-      "the motel life": { q: "The Motel Life", y: "2013" },
-      "the muppet show": { q: "The Muppets Mayhem", tv: true, y: "2023" },
-      "the vanishing of sidney hall": { q: "The Vanishing of Sidney Hall", y: "2018" },
-      "the witch": { q: "The Witch", y: "2016" },
-      "toy story iv": { q: "Toy Story 4", y: "2019" },
-      "work it": { q: "Work It", y: "2020" },
-      "zootopia i": { q: "Zootopia", y: "2016" },
-      "zootopia+": { q: "Zootopia+", tv: true, y: "2022" },
-      "star wars episodio i the phantom menace": { q: "Star Wars: Episode I - The Phantom Menace", y: "1999" },
-      "star wars episodio ii attack of the clones": { q: "Star Wars: Episode II - Attack of the Clones", y: "2002" },
-      "star wars episodio iii revenge of the sith": { q: "Star Wars: Episode III - Revenge of the Sith", y: "2005" },
-      "star wars episodio iv a new hope": { q: "Star Wars", y: "1977" },
-      "star wars episodio v the empire strikes back": { q: "The Empire Strikes Back", y: "1980" },
-      "star wars episodio vi return of the jedi": { q: "Return of the Jedi", y: "1983" },
-      "olivia rodrigo driving home 2 u": { q: "Olivia Rodrigo: driving home 2 u", y: "2022" },
-      "toy story i": { q: "Toy Story", y: "1995" },
-      "toy story 1": { q: "Toy Story", y: "1995" },
-      "toy story": { q: "Toy Story", y: "1995" },
-      "taylor swift folklore the long pond studio sessions": { q: "Folklore: The Long Pond Studio Sessions", y: "2020" },
-      "taylor swift reputation stadium tour": { q: "Taylor Swift: Reputation Stadium Tour", y: "2018" },
-      "dream productions": { q: "Dream Productions", tv: true, y: "2024" },
-      "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" },
-      "toy story iii": { q: "Toy Story 3", y: "2010" },
-      "toy story 3": { q: "Toy Story 3", y: "2010" },
-      "top gun": { q: "Top Gun", y: "1986" },
-      "the twilight saga: breaking dawn - part 2": { q: "The Twilight Saga: Breaking Dawn - Part 2", y: "2012" },
-      "the twilight saga: breaking dawn - part 1": { q: "The Twilight Saga: Breaking Dawn - Part 1", y: "2011" },
-      "the twilight saga: eclipse": { q: "The Twilight Saga: Eclipse", y: "2010" },
-      "the twilight saga: new moon": { q: "The Twilight Saga: New Moon", y: "2009" },
-      "twilight": { q: "Twilight", y: "2008" },
-      "the big bang theory (6, 7 y 8 temporadas)": { q: "The Big Bang Theory", tv: true },
-      "euphoria (3 temporada)": { q: "Euphoria", tv: true },
-      "the amazing digital circus": { q: "The Amazing Digital Circus", tv: true },
-      "kick buttowski": { q: "Kick Buttowski: Suburban Daredevil", tv: true },
-      "a good girl's guide to murder (1 temporada)": { q: "A Good Girl's Guide to Murder", tv: true },
-      "margo's got money troubles (1 temporada)": { q: "Margo's Got Money Troubles", tv: true },
-      "taylor swift: the end of an era": { q: "Taylor Swift: The End of an Era" },
-      "the first lady": { q: "The First Lady", tv: true, y: "2022" },
-      "the great": { q: "The Great", tv: true, y: "2020" },
-      "taylor swift: speak now world tour film": { q: "Taylor Swift: Speak Now World Tour Live", y: "2011" },
-      "meghan trainor with dr. phil": { q: "Phil in the Blanks", tv: true },
-      "wuthering heights": { q: "Wuthering Heights", y: "2026" },
-      "the drama (2026)": { q: "The Drama", y: "2026" },
-      "mother mary (2026)": { q: "Mother Mary", y: "2026" },
-      "countdown": { q: "Countdown", y: "2019" },
-      "mack & rita": { q: "Mack & Rita", y: "2022" },
-      "eileen": { q: "Eileen", y: "2023" },
-      "lost girls": { q: "Lost Girls", y: "2020" },
-      "girl in the basement": { q: "Girl in the Basement", y: "2021" },
-      "a taste of christmas": { q: "A Taste of Christmas", y: "2020" },
-      "assassination nation": { q: "Assassination Nation", y: "2018" },
-      "oh what fun": { q: "Oh. What. Fun.", y: "2025" },
-      "the short history of the long road": { q: "The Short History of the Long Road", y: "2019" },
-      "the hate u give": { q: "The Hate U Give", y: "2018" },
-      "my salinger year": { q: "My Salinger Year", y: "2020" },
-      "seberg": { q: "Seberg", y: "2019" },
-      "mary shelley": { q: "Mary Shelley", y: "2017" },
-      "how to talk to girls at parties": { q: "How to Talk to Girls at Parties", y: "2017" },
-      "trumbo": { q: "Trumbo", y: "2015" },
-      "live by night": { q: "Live by Night", y: "2016" },
-      "young ones": { q: "Young Ones", y: "2014" },
-      "i am sam": { q: "I Am Sam", y: "2001" },
-      "the secret life of bees": { q: "The Secret Life of Bees", y: "2008" },
-      "the last of robin hood": { q: "The Last of Robin Hood", y: "2013" },
-      "the ice road: vengeance": { q: "The Ice Road 2: Road to the Sky", y: "2025" },
-      "cold pursuit": { q: "Cold Pursuit", y: "2019" },
-      "unknown": { q: "Unknown", y: "2011" },
-      "made in italy": { q: "Made in Italy", y: "2020" },
-      "gta san andreas dialogues part i (in the beginning - mike toreno)": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
-      "gta san andreas dialogues part ii (outrider - end of the line)": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
-      "gta san andreas commercials": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
-      "gta san andreas wctr radio": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
-      "the amazing digital circus: the last act": { q: "The Amazing Digital Circus" },
-      "zootopia ii (2025)": { q: "Zootopia 2", y: "2025" },
-      "pulp fiction": { q: "Pulp Fiction", y: "1994" },
-      "matilda (1996)": { q: "Matilda", y: "1996" },
-      "lilo and stitch ii: stitch has a glitch": { q: "Lilo & Stitch 2: Stitch Has a Glitch", y: "2005" },
-      "stitch: the movie": { q: "Stitch! The Movie", y: "2003" },
-      "back to the future i": { q: "Back to the Future", y: "1985" },
-      "toy story 5": { q: "Toy Story 5", y: "2026" }
-    };
-
     const lowerTitle = title.toLowerCase().trim();
     // Ordenamos las llaves por longitud descendente para evitar que "escuadron suicida" pise a "el escuadron suicida"
-    const sortedKeys = Object.keys(overrides).sort((a, b) => b.length - a.length);
+    const sortedKeys = Object.keys(tmdbOverrides).sort((a, b) => b.length - a.length);
 
     for (const key of sortedKeys) {
       if (lowerTitle.includes(key)) {
-        searchTitle = overrides[key].q;
-        if (overrides[key].y) {
-          if (overrides[key].tv) {
+        searchTitle = tmdbOverrides[key].q;
+        if (tmdbOverrides[key].y) {
+          if (tmdbOverrides[key].tv) {
             endpoint = 'search/tv';
-            extraParams = `&first_air_date_year=${overrides[key].y}`;
+            extraParams = `&first_air_date_year=${tmdbOverrides[key].y}`;
           } else {
             endpoint = 'search/movie';
-            extraParams = `&primary_release_year=${overrides[key].y}`;
+            extraParams = `&primary_release_year=${tmdbOverrides[key].y}`;
           }
-        } else if (overrides[key].tv) {
+        } else if (tmdbOverrides[key].tv) {
           endpoint = 'search/tv';
         }
         break;
       }
     }
 
-    fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=en-US${extraParams}`)
+    fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=es-MX&include_image_language=en,null${extraParams}`)
       .then(res => res.json())
       .then(data => {
         if (data.results && data.results.length > 0) {
