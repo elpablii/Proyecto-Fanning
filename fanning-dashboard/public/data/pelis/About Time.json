@@ -1,0 +1,866 @@
+{
+  "title": "About Time",
+  "englishAnalysis": "Ofrece una inmersión perfecta en el inglés conversacional británico contemporáneo. Llena de humor sutil, expresiones cotidianas ('mate', 'bloody', 'lovely') y situaciones familiares. Excelente para practicar la comprensión de acentos de diferentes regiones del Reino Unido en un entorno relajado.",
+  "vocabulary": [
+    {
+      "word": "A fairly odd family",
+      "translation": "una familia bastante rara"
+    },
+    {
+      "word": "A leisurely chat",
+      "translation": "una charla pausada"
+    },
+    {
+      "word": "Household",
+      "translation": "hogar"
+    },
+    {
+      "word": "Elfin eyes",
+      "translation": "ojos de elfo"
+    },
+    {
+      "word": "Skimming stones",
+      "translation": "desnatando piedras, quitando piedras"
+    },
+    {
+      "word": "Dreaded",
+      "translation": "temida"
+    },
+    {
+      "word": "Go through",
+      "translation": "pasar, atravesar"
+    },
+    {
+      "word": "Hung-over",
+      "translation": "con resaca"
+    },
+    {
+      "word": "Realise (verbo)",
+      "translation": "darse cuenta"
+    },
+    {
+      "word": "Odd moment",
+      "translation": "momento raro, momento extraño"
+    },
+    {
+      "word": "Approach (verbo)",
+      "translation": "afrontar"
+    },
+    {
+      "word": "Strangeness",
+      "translation": "extrañeza, lo extraño"
+    },
+    {
+      "word": "Spooky time",
+      "translation": "época espeluznante"
+    },
+    {
+      "word": "Shag (verbo)",
+      "translation": "tirar"
+    },
+    {
+      "word": "The easy bit",
+      "translation": "la parte fácil"
+    },
+    {
+      "word": "Big cupboards}",
+      "translation": "armarios grandes"
+    },
+    {
+      "word": "Toilets, at a pinch",
+      "translation": "inodoros, en caso de un apuro"
+    },
+    {
+      "word": "Clench (verbo)",
+      "translation": "apretar"
+    },
+    {
+      "word": "A bit of a stumble",
+      "translation": "después de un tropezón"
+    },
+    {
+      "word": "A rumble and a tumble",
+      "translation": "un estruendo y una caída"
+    },
+    {
+      "word": "Plump (verbo)",
+      "translation": "decantarse"
+    },
+    {
+      "word": "Why would I lie to someone I’m fairly fond of?",
+      "translation": "¿Por qué iba a mentir a alguien a quien"
+    },
+    {
+      "word": "Good, ace, yeah",
+      "translation": "bien, as, sí"
+    },
+    {
+      "word": "Not a whistle",
+      "translation": "ni un silbido"
+    },
+    {
+      "word": "Utterly screwed up your grandfather’s life",
+      "translation": "jodió por completo la vida de tu abuelo"
+    },
+    {
+      "word": "Bump into",
+      "translation": "toparse con"
+    },
+    {
+      "word": "Absolutely sod all",
+      "translation": "nada en absoluto"
+    },
+    {
+      "word": "Will you do my back?",
+      "translation": "¿Me harás la espalda?"
+    },
+    {
+      "word": "Very keen!",
+      "translation": "¡Muy entusiasmado!"
+    },
+    {
+      "word": "Suntan",
+      "translation": "bronceado"
+    },
+    {
+      "word": "I invited my foolish friend Jay around for tennis",
+      "translation": "invité a mi tonto amigo Jay a jugar"
+    },
+    {
+      "word": "How are you meant to live your life?",
+      "translation": "¿Cómo se supone que debes vivir tu vida?"
+    },
+    {
+      "word": "Beg your pardon?",
+      "translation": "¿Perdón?, ¿Cómo dice?, ¿Disculpe?"
+    },
+    {
+      "word": "Ask away",
+      "translation": "preguntar"
+    },
+    {
+      "word": "Have I just made a total fool of myself?",
+      "translation": "¿Acabo de hacer el ridículo completamente?"
+    },
+    {
+      "word": "You should have tried creeping along the corridor",
+      "translation": "deberías haber intentado"
+    },
+    {
+      "word": "It feels like and ever so slightly insulting afterthought",
+      "translation": "da la sensación de ser una"
+    },
+    {
+      "word": "Drive away",
+      "translation": "irse, marcharse (en auto)"
+    },
+    {
+      "word": "Playwright",
+      "translation": "dramaturgo"
+    },
+    {
+      "word": "When you rang on the doorbell",
+      "translation": "cuando tocaste el timbre"
+    },
+    {
+      "word": "Weird cock",
+      "translation": "verga rara, pico raro, pija rara"
+    },
+    {
+      "word": "A hopeful set-up",
+      "translation": "un escenario esperanzador"
+    },
+    {
+      "word": "A real thrill",
+      "translation": "una verdadera emoción"
+    },
+    {
+      "word": "Go by",
+      "translation": "pasar (el tiempo)"
+    },
+    {
+      "word": "On a dodgy night out with dodgy Jay",
+      "translation": "en una noche de juerga con Jay"
+    },
+    {
+      "word": "Lead on",
+      "translation": "adelante"
+    },
+    {
+      "word": "Mind the stairs",
+      "translation": "cuidado con las escaleras"
+    },
+    {
+      "word": "Perky",
+      "translation": "alegre, animado"
+    },
+    {
+      "word": "Does it suit her?",
+      "translation": "¿Le queda bien?"
+    },
+    {
+      "word": "Sturdy",
+      "translation": "robusta, resistente"
+    },
+    {
+      "word": "Enthusiastic",
+      "translation": "entusiasta"
+    },
+    {
+      "word": "What’s Joanna like?",
+      "translation": "¿Cómo es Joanna?"
+    },
+    {
+      "word": "It’s strawberry mousse",
+      "translation": "es mousse de fresa"
+    },
+    {
+      "word": "I’m so in there",
+      "translation": "estoy tan adentro, estoy tan metido ahí"
+    },
+    {
+      "word": "How do you fancy stretching the night out a bit?",
+      "translation": "¿Te apetece alargar un poco la"
+    },
+    {
+      "word": "Ditch (verbo)",
+      "translation": "deshacerse"
+    },
+    {
+      "word": "Frock",
+      "translation": "vestido"
+    },
+    {
+      "word": "Dodgy friend",
+      "translation": "amigo dudoso"
+    },
+    {
+      "word": "Assault (verbo)",
+      "translation": "asaltar, agredir"
+    },
+    {
+      "word": "A flesh wound",
+      "translation": "una herida superficial"
+    },
+    {
+      "word": "Unfurl (verbo)",
+      "translation": "desplegar"
+    },
+    {
+      "word": "The crucial plot point",
+      "translation": "el punto crucial de la trama"
+    },
+    {
+      "word": "The lead actor had the most massive dry",
+      "translation": "el actor principal tuvo la sequía más masiva"
+    },
+    {
+      "word": "To the extent",
+      "translation": "hasta el punto"
+    },
+    {
+      "word": "Annals",
+      "translation": "anales"
+    },
+    {
+      "word": "Major masterpiece gets unveiled",
+      "translation": "se inaugura una gran obra maestra"
+    },
+    {
+      "word": "Is an understatement",
+      "translation": "es un eufemismo"
+    },
+    {
+      "word": "Ring up",
+      "translation": "llamar (a una persona por teléfono)"
+    },
+    {
+      "word": "Not quite that",
+      "translation": "no tanto, no exactamente eso"
+    },
+    {
+      "word": "A little refresher",
+      "translation": "un pequeño repaso"
+    },
+    {
+      "word": "You arsing lunatic",
+      "translation": "maldito lunático"
+    },
+    {
+      "word": "Ginger twerp",
+      "translation": "pelirrojo imbécil"
+    },
+    {
+      "word": "Patronising piece of…",
+      "translation": "Pedazo de..."
+    },
+    {
+      "word": "I have lived many weary years",
+      "translation": "he vivido muchos años cansado"
+    },
+    {
+      "word": "An atrocious miscarriage of justice",
+      "translation": "un atroz error de la justicia"
+    },
+    {
+      "word": "I regard today’s proceedings with the utmost gravity",
+      "translation": "considero los procedimientos"
+    },
+    {
+      "word": "Nevertheless",
+      "translation": "sin embargo, no obstante, a pesar de eso"
+    },
+    {
+      "word": "Let us be clear of one simple and salient thing",
+      "translation": "tengamos clara una cosa simple y"
+    },
+    {
+      "word": "The little prick who walked out halfway through",
+      "translation": "el gilipollas que se fue a mitad de"
+    },
+    {
+      "word": "Twerp",
+      "translation": "imbécil, idiota"
+    },
+    {
+      "word": "I'm afraid they were walk-ins",
+      "translation": "me temo que eran sin cita previa"
+    },
+    {
+      "word": "They’ve sacked me",
+      "translation": "me han echado, me han despedido"
+    },
+    {
+      "word": "Distinctly",
+      "translation": "claramente, distintivamente"
+    },
+    {
+      "word": "That cheeky normal naked girl",
+      "translation": "esa descarada chica normal desnuda"
+    },
+    {
+      "word": "That’s absolutely it",
+      "translation": "eso es absolutamente"
+    },
+    {
+      "word": "Is it quite a new boyfriend?",
+      "translation": "¿Es un novio bastante nuevo?"
+    },
+    {
+      "word": "Take in a film",
+      "translation": "ver una película"
+    },
+    {
+      "word": "Snuggle",
+      "translation": "acurrúcate"
+    },
+    {
+      "word": "It’s been a bit of a whirlwind",
+      "translation": "ha sido todo un torbellino"
+    },
+    {
+      "word": "Poochy face",
+      "translation": "cara de caca"
+    },
+    {
+      "word": "My brothel of a flat",
+      "translation": "el burdel de mi piso"
+    },
+    {
+      "word": "Slutty",
+      "translation": "zorra"
+    },
+    {
+      "word": "I’ll be back in a tick",
+      "translation": "volveré en un momento"
+    },
+    {
+      "word": "Disgusting",
+      "translation": "qué asco, asqueroso, repugnante"
+    },
+    {
+      "word": "Totally undercooked",
+      "translation": "totalmente mal cocinado"
+    },
+    {
+      "word": "Starter (en algunos contextos)",
+      "translation": "titular"
+    },
+    {
+      "word": "Publisher",
+      "translation": "editorial, editor"
+    },
+    {
+      "word": "Get submitted to",
+      "translation": "ser enviado a"
+    },
+    {
+      "word": "A bit of a worry",
+      "translation": "un poco preocupante"
+    },
+    {
+      "word": "I got a lift to the party",
+      "translation": "me llevaron a la fiesta"
+    },
+    {
+      "word": "It’s a front opener",
+      "translation": "es un abridor frontal"
+    },
+    {
+      "word": "Could you just stall them",
+      "translation": "podrías sólo entretenerlos"
+    },
+    {
+      "word": "Who’s gonna bring it up?",
+      "translation": "¿Quién va a sacar el tema?"
+    },
+    {
+      "word": "Over to you",
+      "translation": "te toca a ti"
+    },
+    {
+      "word": "It should get in the way of that",
+      "translation": "debería interponerse en ese camino"
+    },
+    {
+      "word": "With no day’s notice?",
+      "translation": "¿Sin avisar con un día de antelación?"
+    },
+    {
+      "word": "The astonishing blonde",
+      "translation": "la rubia asombrosa"
+    },
+    {
+      "word": "That’s just a huge burden lifted off my mind",
+      "translation": "sólo me he quitado un gran peso de"
+    },
+    {
+      "word": "I can be a confident heterosexual all over again",
+      "translation": "puedo volver a ser un heterosexual"
+    },
+    {
+      "word": "There are still quite a lot of us fashioned types",
+      "translation": "todavía somos muchos los anticuados"
+    },
+    {
+      "word": "It’s so bustling",
+      "translation": "es tan bullicioso"
+    },
+    {
+      "word": "When I’m round here",
+      "translation": "cuando estoy por aquí"
+    },
+    {
+      "word": "I’m so comfy",
+      "translation": "estoy tan cómoda"
+    },
+    {
+      "word": "That’s the whole day gone",
+      "translation": "se ha ido todo el día"
+    },
+    {
+      "word": "Cup without the crack",
+      "translation": "taza sin la grieta, copa sin la grieta"
+    },
+    {
+      "word": "Skipping stones",
+      "translation": "saltando piedras"
+    },
+    {
+      "word": "A fella",
+      "translation": "un tipo"
+    },
+    {
+      "word": "Get cocky",
+      "translation": "volverse engreído, volverse arrogante"
+    },
+    {
+      "word": "A dead badger",
+      "translation": "un tejón muerto"
+    },
+    {
+      "word": "Ginger",
+      "translation": "pelirrojo"
+    },
+    {
+      "word": "Youngster",
+      "translation": "joven"
+    },
+    {
+      "word": "Crack (verbo)",
+      "translation": "resquebrajarse"
+    },
+    {
+      "word": "I just popped down for a while",
+      "translation": "sólo bajé por un rato"
+    },
+    {
+      "word": "Jolly embarrassing",
+      "translation": "qué vergüenza"
+    },
+    {
+      "word": "We’re so pleased",
+      "translation": "estamos encantados"
+    },
+    {
+      "word": "Jolly awkward",
+      "translation": "hubiera sido muy incómodo"
+    },
+    {
+      "word": "I’m coming down the aisle",
+      "translation": "voy por el pasillo"
+    },
+    {
+      "word": "The local bloke",
+      "translation": "el tipo local"
+    },
+    {
+      "word": "The massive unibrow",
+      "translation": "la uniceja masiva"
+    },
+    {
+      "word": "That’s a lock for Hagrid",
+      "translation": "eso es una cerradura para Hagrid"
+    },
+    {
+      "word": "Piss off",
+      "translation": "cabrear, hacer enojar (mucho a alguien)"
+    },
+    {
+      "word": "That’s such a cheat",
+      "translation": "eso es una trampa"
+    },
+    {
+      "word": "I was terrified",
+      "translation": "estaba aterrorizada"
+    },
+    {
+      "word": "An issue of cross-amortisation",
+      "translation": "cuestión de la amortización cruzada"
+    },
+    {
+      "word": "Ownership",
+      "translation": "titularidad, propiedad"
+    },
+    {
+      "word": "Full penetrative",
+      "translation": "penetración total"
+    },
+    {
+      "word": "It was implied",
+      "translation": "estaba implícito"
+    },
+    {
+      "word": "Tim’s many failings as a man",
+      "translation": "los muchos defectos de Tim como hombre"
+    },
+    {
+      "word": "A frosty bugger",
+      "translation": "un cabrón helado"
+    },
+    {
+      "word": "Scribble (verbo)",
+      "translation": "garabatear (en sentido denotativo)"
+    },
+    {
+      "word": "My illegible signatura",
+      "translation": "mi firma ilegible"
+    },
+    {
+      "word": "Flog (verbo)",
+      "translation": "vender"
+    },
+    {
+      "word": "A less hideous hat",
+      "translation": "un sombrero menos horrible"
+    },
+    {
+      "word": "We were in driving distance of London Zoo",
+      "translation": "estamos cerca del zoológico de Londres"
+    },
+    {
+      "word": "Hand over the little bugger",
+      "translation": "entrega a la pequeña"
+    },
+    {
+      "word": "Bounce (verbo)",
+      "translation": "rebotar"
+    },
+    {
+      "word": "Delightful",
+      "translation": "agradable, encantador"
+    },
+    {
+      "word": "Smug bastard",
+      "translation": "bastardo engreído"
+    },
+    {
+      "word": "I was tricked",
+      "translation": "fui engañado"
+    },
+    {
+      "word": "Free booze",
+      "translation": "bebida gratis"
+    },
+    {
+      "word": "Spurn (verbo)",
+      "translation": "rechazar, desdeñar"
+    },
+    {
+      "word": "You’re top equal with my wife",
+      "translation": "eres igual que mi esposa"
+    },
+    {
+      "word": "I’m the faller",
+      "translation": "yo soy el fracasado"
+    },
+    {
+      "word": "Who doesn’t make the grade",
+      "translation": "que no da la talla"
+    },
+    {
+      "word": "Stumble (verbo)",
+      "translation": "tropezar"
+    },
+    {
+      "word": "Trip up",
+      "translation": "hacer tropezar"
+    },
+    {
+      "word": "Cupboard",
+      "translation": "armario"
+    },
+    {
+      "word": "My arsing God in a box",
+      "translation": "Dios mío en una caja"
+    },
+    {
+      "word": "Nip it in the bud",
+      "translation": "córtalo de raíz"
+    },
+    {
+      "word": "Sleazy",
+      "translation": "cutre"
+    },
+    {
+      "word": "Brace yourself",
+      "translation": "prepárate"
+    },
+    {
+      "word": "Crack open",
+      "translation": "abrir"
+    },
+    {
+      "word": "It’s just tidying really",
+      "translation": "en realidad es sólo ordenar"
+    },
+    {
+      "word": "Tidy up",
+      "translation": "ordenar, poner en orden"
+    },
+    {
+      "word": "They’ve torn them to shreds",
+      "translation": "los han hecho pedazos"
+    },
+    {
+      "word": "And get mashed up food shoved into your mouth!",
+      "translation": "¡Y que te meta comida en la boca!"
+    },
+    {
+      "word": "Sperm",
+      "translation": "esperma"
+    },
+    {
+      "word": "The tiniest bit different",
+      "translation": "la más minima diferencia"
+    },
+    {
+      "word": "What, sticky-up hair Jay?",
+      "translation": "¿Qué, Jay de pelo pegajoso?"
+    },
+    {
+      "word": "He’s always had a crush on you",
+      "translation": "siempre ha estado enamorado de ti"
+    },
+    {
+      "word": "Freshen up",
+      "translation": "refrescarse"
+    },
+    {
+      "word": "Screw that",
+      "translation": "al diablo con eso"
+    },
+    {
+      "word": "It wasn’t long",
+      "translation": "no tardo, no pasó mucho tiempo"
+    },
+    {
+      "word": "Bestselling author",
+      "translation": "autor de bestsellers"
+    },
+    {
+      "word": "Lumpy",
+      "translation": "abultado"
+    },
+    {
+      "word": "It’s too breasty",
+      "translation": "tiene demasiado pecho"
+    },
+    {
+      "word": "Dwarf",
+      "translation": "enano"
+    },
+    {
+      "word": "A trick question",
+      "translation": "es una pregunta capciosa"
+    },
+    {
+      "word": "Go mad",
+      "translation": "enloquecer, volverse loco"
+    },
+    {
+      "word": "The rest of it was coloured on or shredded",
+      "translation": "el resto se coloreaba o se desmenuzaba"
+    },
+    {
+      "word": "We’ll come straight down",
+      "translation": "bajaremos directamente"
+    },
+    {
+      "word": "Kit Kat’s just rolled up blubbing her eyes out",
+      "translation": "Kit Kat se acaba de enrollar lloriqueando"
+    },
+    {
+      "word": "The smoking",
+      "translation": "el tabaco"
+    },
+    {
+      "word": "I feel a bit cheated",
+      "translation": "me siento un poco engañado"
+    },
+    {
+      "word": "Get on with ordinary life",
+      "translation": "seguir con la vida normal"
+    },
+    {
+      "word": "You may be seated",
+      "translation": "pueden sentarse"
+    },
+    {
+      "word": "Discharged",
+      "translation": "abuselto, sobreseído"
+    },
+    {
+      "word": "Be upstanding in court",
+      "translation": "sea honrado en la corte"
+    },
+    {
+      "word": "But the second time noticing",
+      "translation": "pero notándolo a la segunda vez"
+    },
+    {
+      "word": "Lets give it a go",
+      "translation": "vamos a intentarlo"
+    },
+    {
+      "word": "I'll leave you two to thrash this out",
+      "translation": "los dejo para que lo resuelvan"
+    },
+    {
+      "word": "Relief",
+      "translation": "alivio"
+    },
+    {
+      "word": "Very badly",
+      "translation": "muy mal"
+    },
+    {
+      "word": "Actual gags",
+      "translation": "gags reales"
+    },
+    {
+      "word": "Thanks for dropping in",
+      "translation": "gracias por venir"
+    },
+    {
+      "word": "It’s taken care of",
+      "translation": "ya está solucionado, ya está arreglado"
+    },
+    {
+      "word": "Read away",
+      "translation": "seguir leyendo"
+    },
+    {
+      "word": "The restless people",
+      "translation": "el pueblo inquieto"
+    },
+    {
+      "word": "Anyhow, Mr Wopsle’s Roman nose so aggravated me",
+      "translation": "de todos modos, la nariz romana"
+    },
+    {
+      "word": "Two happy dummies",
+      "translation": "dos muñecos felices"
+    },
+    {
+      "word": "This incredibly tight contest",
+      "translation": "esta increíblemente reñida contienda"
+    },
+    {
+      "word": "Illustrious past",
+      "translation": "passado ilustre"
+    },
+    {
+      "word": "You finally got good",
+      "translation": "por fin te ha salido bien"
+    },
+    {
+      "word": "It’s my last bit of extra time",
+      "translation": "es mi último tiempo extra"
+    },
+    {
+      "word": "A quick little walk",
+      "translation": "un paseíto rápido"
+    },
+    {
+      "word": "Harm",
+      "translation": "daño"
+    },
+    {
+      "word": "Get down low",
+      "translation": "agáchate"
+    },
+    {
+      "word": "So I’m almost up-to-date with my story",
+      "translation": "así que estoy casi al día con mi historia"
+    },
+    {
+      "word": "Get used to",
+      "translation": "acostumbrarse"
+    },
+    {
+      "word": "Settle back",
+      "translation": "volver (algo a la normalidad)"
+    },
+    {
+      "word": "And are much as they have always been",
+      "translation": "y son en gran parte como siempre han sido"
+    },
+    {
+      "word": "Albeit (adverbio)",
+      "translation": "si bien, aunque"
+    },
+    {
+      "word": "And in we go",
+      "translation": "y allá vamos"
+    },
+    {
+      "word": "Relish (verbo)",
+      "translation": "disfrutar al máximo"
+    },
+    {
+      "word": "Remarkable",
+      "translation": "notable, extraordinario"
+    }
+  ]
+}

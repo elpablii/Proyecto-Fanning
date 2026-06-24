@@ -1,0 +1,734 @@
+{
+  "title": "Ratatouille",
+  "englishAnalysis": "Una película de Pixar que, aunque animada, ofrece un inglés rico, fluido y lleno de vocabulario culinario. Encontrarás palabras como 'recipe', 'flavor', 'chef', mezcladas con un encantador acento francés falso que le da un toque único. Excelente para familiarizarse con vocabulario de cocina.",
+  "vocabulary": [
+    {
+      "word": "The toast of Paris",
+      "translation": "el orgullo de París"
+    },
+    {
+      "word": "Dazzling ascent",
+      "translation": "ascenso deslumbrante"
+    },
+    {
+      "word": "Envious",
+      "translation": "envidioso, celoso"
+    },
+    {
+      "word": "Vanilla bean",
+      "translation": "vaina de vainilla"
+    },
+    {
+      "word": "Small twist of lemon",
+      "translation": "un toque de limón"
+    },
+    {
+      "word": "Poison checker",
+      "translation": "comprobador de veneno"
+    },
+    {
+      "word": "Godliness",
+      "translation": "perfección"
+    },
+    {
+      "word": "You get picky",
+      "translation": "te vuelves quisquilloso"
+    },
+    {
+      "word": "Paws",
+      "translation": "patas"
+    },
+    {
+      "word": "A few drops",
+      "translation": "un poquito"
+    },
+    {
+      "word": "Pile",
+      "translation": "montón, pila"
+    },
+    {
+      "word": "Get the smoky flavor nice and even",
+      "translation": "consigue que el sabor ahumado quede uniforme"
+    },
+    {
+      "word": "Gusteau swears at it",
+      "translation": "Gusteau se queja de ella"
+    },
+    {
+      "word": "Take so long (verbo)",
+      "translation": "tardar mucho"
+    },
+    {
+      "word": "Faint",
+      "translation": "débil"
+    },
+    {
+      "word": "A scathing review",
+      "translation": "una reseña demoledora"
+    },
+    {
+      "word": "A severe blow",
+      "translation": "un golpe duro"
+    },
+    {
+      "word": "And the brokenhearted chef died shortly afterwards",
+      "translation": "y el chef con el corazón"
+    },
+    {
+      "word": "Let me through!",
+      "translation": "¡Déjame pasar!"
+    },
+    {
+      "word": "Push off",
+      "translation": "largarse de aquí"
+    },
+    {
+      "word": "Paddle (verbo)",
+      "translation": "remar"
+    },
+    {
+      "word": "Which way?",
+      "translation": "¿Por dónde?"
+    },
+    {
+      "word": "Mope (verbo)",
+      "translation": "deprimirse"
+    },
+    {
+      "word": "But that is no match for wishful thinking",
+      "translation": "pero eso no se puede contra las ilusiones"
+    },
+    {
+      "word": "You don’t have the guts",
+      "translation": "no tienes las agallas"
+    },
+    {
+      "word": "As though",
+      "translation": "como si"
+    },
+    {
+      "word": "Come around",
+      "translation": "venir"
+    },
+    {
+      "word": "Steamed pike up",
+      "translation": "lucio al vapor"
+    },
+    {
+      "word": "Come up",
+      "translation": "salir"
+    },
+    {
+      "word": "Rack of lamb",
+      "translation": "costillas de cordero"
+    },
+    {
+      "word": "Leeks",
+      "translation": "puerros"
+    },
+    {
+      "word": "Seared salmon",
+      "translation": "salmón sellado"
+    },
+    {
+      "word": "Open down low",
+      "translation": "ley del puño de hierro"
+    },
+    {
+      "word": "I’m getting buried here",
+      "translation": "me estoy muriendo de aburrimiento aquí"
+    },
+    {
+      "word": "Old flame",
+      "translation": "el antiguo amor"
+    },
+    {
+      "word": "Afterlife-wise",
+      "translation": "en el más allá"
+    },
+    {
+      "word": "Garbage boy",
+      "translation": "chico de la basura"
+    },
+    {
+      "word": "Figment",
+      "translation": "figuración, ilusión"
+    },
+    {
+      "word": "Come down",
+      "translation": "bajar, desvender"
+    },
+    {
+      "word": "Fire (verbo)",
+      "translation": "prender fuego"
+    },
+    {
+      "word": "Gall",
+      "translation": "malicia, amargura"
+    },
+    {
+      "word": "I should have drawn and quartered",
+      "translation": "te tendría que haberte colgado y"
+    },
+    {
+      "word": "Squeeze out",
+      "translation": "exprimir"
+    },
+    {
+      "word": "Blather (verbo)",
+      "translation": "hablar, decir, balbucear (tonterías)"
+    },
+    {
+      "word": "Uphold (verbo)",
+      "translation": "cumplir, acatar"
+    },
+    {
+      "word": "His most cherished belief",
+      "translation": "su creencia más preciada"
+    },
+    {
+      "word": "A bold risk",
+      "translation": "un riesgo audaz"
+    },
+    {
+      "word": "Sneaky",
+      "translation": "astuto"
+    },
+    {
+      "word": "Overreaching (adjetivo)",
+      "translation": "exagerado"
+    },
+    {
+      "word": "Close down",
+      "translation": "clausurar, cerrar"
+    },
+    {
+      "word": "Our reputation is hanging by a thread",
+      "translation": "nuestra reputación está en juego"
+    },
+    {
+      "word": "Get fancy",
+      "translation": "ponerse elegante"
+    },
+    {
+      "word": "Flipping",
+      "translation": "vueltas, volteos"
+    },
+    {
+      "word": "Nod (verbo)",
+      "translation": "asentir (con la cabeza)"
+    },
+    {
+      "word": "Heat (en términos de hogar)",
+      "translation": "calefacción, calor"
+    },
+    {
+      "word": "Hit the road (verbo)",
+      "translation": "largarse de aquí, pirarse"
+    },
+    {
+      "word": "Write off",
+      "translation": "dar por perdido"
+    },
+    {
+      "word": "A spicy yet subtle taste experience",
+      "translation": "una experiencia de sabor picante pero sutil"
+    },
+    {
+      "word": "Against all odds",
+      "translation": "contra todas las probabilidades"
+    },
+    {
+      "word": "Nip (verbo)",
+      "translation": "pellizcar"
+    },
+    {
+      "word": "No scampering and scurrying",
+      "translation": "nada de correteos y alboroto"
+    },
+    {
+      "word": "Think out",
+      "translation": "pensar con claridad"
+    },
+    {
+      "word": "Pull off",
+      "translation": "lograr, llevar a cabo"
+    },
+    {
+      "word": "Head shake",
+      "translation": "gesto con la cabeza"
+    },
+    {
+      "word": "Haute cuisine",
+      "translation": "alta cocina"
+    },
+    {
+      "word": "Corn dogs",
+      "translation": "perros calientes empanados"
+    },
+    {
+      "word": "Sausages dipped in batter and deep fried",
+      "translation": "salchichas bañadas en masa y fritas"
+    },
+    {
+      "word": "Whip up",
+      "translation": "preparar rápido"
+    },
+    {
+      "word": "Overalls",
+      "translation": "uniforme de chef"
+    },
+    {
+      "word": "Will (alusivo a un documento)",
+      "translation": "testamento"
+    },
+    {
+      "word": "Heir",
+      "translation": "heredero"
+    },
+    {
+      "word": "Resemblance",
+      "translation": "semejanza"
+    },
+    {
+      "word": "What of the timing of all this?",
+      "translation": "¿Y el momento de todo esto?"
+    },
+    {
+      "word": "A little digging",
+      "translation": "un poco de investigación"
+    },
+    {
+      "word": "Dinner rush",
+      "translation": "hora de la cena"
+    },
+    {
+      "word": "Keep your station clear!",
+      "translation": "¡Mantén tu puesto despejado!"
+    },
+    {
+      "word": "Pile up",
+      "translation": "apilar, amontonar"
+    },
+    {
+      "word": "Keep your hands and arms in",
+      "translation": "mantén tus manos y brazos dentro"
+    },
+    {
+      "word": "Sharp (verbo)",
+      "translation": "afilar"
+    },
+    {
+      "word": "Messy apron",
+      "translation": "delantal sucio"
+    },
+    {
+      "word": "Curst",
+      "translation": "corteza (de un pan)"
+    },
+    {
+      "word": "Crackle",
+      "translation": "crujido"
+    },
+    {
+      "word": "Pick (sustantivo)",
+      "translation": "elección"
+    },
+    {
+      "word": "Grower",
+      "translation": "agricultor"
+    },
+    {
+      "word": "Snooty",
+      "translation": "presumido"
+    },
+    {
+      "word": "Ringmaster",
+      "translation": "director de circo"
+    },
+    {
+      "word": "A ballpoint pen",
+      "translation": "pluma, bolígrafo, lapicera"
+    },
+    {
+      "word": "What are you blathering about?",
+      "translation": "¿De qué estás hablando?"
+    },
+    {
+      "word": "Sweetbread",
+      "translation": "molleja"
+    },
+    {
+      "word": "Diners (en términos de restaurantes)",
+      "translation": "comensales"
+    },
+    {
+      "word": "A budding chef",
+      "translation": "un chef en ciernes"
+    },
+    {
+      "word": "Seaweed salt crust",
+      "translation": "costra de sal de algas"
+    },
+    {
+      "word": "Cuttlefish tentacle",
+      "translation": "tentáculo de calamar"
+    },
+    {
+      "word": "Geoduck egg",
+      "translation": "huevo de almeja"
+    },
+    {
+      "word": "White fungus",
+      "translation": "hongo blanco"
+    },
+    {
+      "word": "Veal stomach",
+      "translation": "callos de ternera"
+    },
+    {
+      "word": "Soak (verbo)",
+      "translation": "remojar"
+    },
+    {
+      "word": "Real quick",
+      "translation": "muy rápido"
+    },
+    {
+      "word": "Toque",
+      "translation": "gorro de cocinero"
+    },
+    {
+      "word": "Toasting your success, eh, Linguini?",
+      "translation": "¿Celebramos tu éxito, eh, Linguini?"
+    },
+    {
+      "word": "Non-idiocy",
+      "translation": "inteligencia"
+    },
+    {
+      "word": "Rejectamenta",
+      "translation": "basura, desechos"
+    },
+    {
+      "word": "Guinea pigs",
+      "translation": "conejillos de indias"
+    },
+    {
+      "word": "Hork down",
+      "translation": "tragar"
+    },
+    {
+      "word": "Chew (verbo)",
+      "translation": "masticar"
+    },
+    {
+      "word": "Oaky nuttiness",
+      "translation": "sabor a roble y nueces"
+    },
+    {
+      "word": "Crisp",
+      "translation": "crujiente"
+    },
+    {
+      "word": "Slight tang on the finish",
+      "translation": "un ligero toque ácido al final"
+    },
+    {
+      "word": "Everyone will be thrilled!",
+      "translation": "¡Todos estarán encantados!"
+    },
+    {
+      "word": "Squalor",
+      "translation": "miseria"
+    },
+    {
+      "word": "Stew",
+      "translation": "guiso"
+    },
+    {
+      "word": "Regrettably we are all out of wine",
+      "translation": "lamentablemente, se nos acabó el vino"
+    },
+    {
+      "word": "A surplus of snobbery",
+      "translation": "un exceso de esnobismo"
+    },
+    {
+      "word": "A cold splash of reality",
+      "translation": "un baño de realidad"
+    },
+    {
+      "word": "The band’s really on tonight",
+      "translation": "la banda está tocando increíblemente hoy"
+    },
+    {
+      "word": "A close-ish sort of range",
+      "translation": "más o menos cerca"
+    },
+    {
+      "word": "Countertop",
+      "translation": "encimera"
+    },
+    {
+      "word": "Intrude (verbo)",
+      "translation": "interrumpir, entrometerse"
+    },
+    {
+      "word": "Dazzle (verbo)",
+      "translation": "deslumbrar"
+    },
+    {
+      "word": "And then you blow past me?",
+      "translation": "¿Y me superas así sin más?"
+    },
+    {
+      "word": "Motorcycle away",
+      "translation": "alejarse en motocicleta"
+    },
+    {
+      "word": "Rash",
+      "translation": "sarpullido"
+    },
+    {
+      "word": "Learner",
+      "translation": "aprendiz"
+    },
+    {
+      "word": "Microwave egg rolls",
+      "translation": "rollitos de primavera al microondas"
+    },
+    {
+      "word": "Tourist trade",
+      "translation": "industria turística"
+    },
+    {
+      "word": "Rightful place",
+      "translation": "lugar legítimo"
+    },
+    {
+      "word": "Timing",
+      "translation": "las cosas encajan a la perfección"
+    },
+    {
+      "word": "The whole thing is a setup",
+      "translation": "todo es una trampa"
+    },
+    {
+      "word": "Toy (verbo)",
+      "translation": "jugar"
+    },
+    {
+      "word": "Taunting me with that rat",
+      "translation": "provocándome con esa rata"
+    },
+    {
+      "word": "He’s consorting with it",
+      "translation": "se está juntando con él"
+    },
+    {
+      "word": "Theatricality",
+      "translation": "teatralidad"
+    },
+    {
+      "word": "Suck into",
+      "translation": "absorber"
+    },
+    {
+      "word": "Lovable",
+      "translation": "adorable"
+    },
+    {
+      "word": "Cease (verbo)",
+      "translation": "cesar, dejar de"
+    },
+    {
+      "word": "I didn’t think you meant them",
+      "translation": "no pensé que lo dijeras en derio"
+    },
+    {
+      "word": "The food safe",
+      "translation": "el frigorífico"
+    },
+    {
+      "word": "Hawk (verbo)",
+      "translation": "vender (con agresividad)"
+    },
+    {
+      "word": "File (verbo)",
+      "translation": "archivar"
+    },
+    {
+      "word": "Bottoms up!",
+      "translation": "¡Salud!"
+    },
+    {
+      "word": "Rise (sustantivo)",
+      "translation": "ascenso, crecimiento"
+    },
+    {
+      "word": "I’ll slot you in",
+      "translation": "te incluiré"
+    },
+    {
+      "word": "Dearest",
+      "translation": "querido(a)"
+    },
+    {
+      "word": "Yank (verbo)",
+      "translation": "arrancar, arrastrarse"
+    },
+    {
+      "word": "Cool off",
+      "translation": "calmarse"
+    },
+    {
+      "word": "Get your mind right",
+      "translation": "enfoca tu cabeza"
+    },
+    {
+      "word": "Fluffy bunny",
+      "translation": "conejito adorable"
+    },
+    {
+      "word": "An inside job",
+      "translation": "un trabajo desde dentro"
+    },
+    {
+      "word": "I see the appeal",
+      "translation": "entiendo el atractivo"
+    },
+    {
+      "word": "I’d like your heart roasted on a spit",
+      "translation": "me gustaría que tu corazón se asara en un"
+    },
+    {
+      "word": "Overheated puffery",
+      "translation": "exageración excesiva"
+    },
+    {
+      "word": "You know what I’m craving?",
+      "translation": "¿Sabes lo que se me apetece?"
+    },
+    {
+      "word": "Well seasoned perspective",
+      "translation": "una perspectiva bien sazonada"
+    },
+    {
+      "word": "Fresh out",
+      "translation": "recién salido"
+    },
+    {
+      "word": "Nicely",
+      "translation": "agradablemente"
+    },
+    {
+      "word": "Tell him to hit me with his best shot",
+      "translation": "dile que me pegue con su mejor tiro"
+    },
+    {
+      "word": "Cage",
+      "translation": "jaula"
+    },
+    {
+      "word": "Await (verbo)",
+      "translation": "aguardar, acechar"
+    },
+    {
+      "word": "Halve",
+      "translation": "mitad"
+    },
+    {
+      "word": "I’m talking about guts",
+      "translation": "estoy hablando sobre agallas"
+    },
+    {
+      "word": "We’ll get it done",
+      "translation": "lo lograremos"
+    },
+    {
+      "word": "Wait tables (verbo en términos de restaurantes)",
+      "translation": "atender mesas"
+    },
+    {
+      "word": "We’re a little short tonight",
+      "translation": "estamos un poco cortos esta noche"
+    },
+    {
+      "word": "Tenderized",
+      "translation": "ablandado, marinado"
+    },
+    {
+      "word": "Stick and move",
+      "translation": "muévanse con rapidez"
+    },
+    {
+      "word": "Keep whisking",
+      "translation": "sigan batiendo"
+    },
+    {
+      "word": "Boil (verbo)",
+      "translation": "hervir"
+    },
+    {
+      "word": "Toughen (verbo)",
+      "translation": "endurecer"
+    },
+    {
+      "word": "Pheasant",
+      "translation": "faisán"
+    },
+    {
+      "word": "Peasant dish",
+      "translation": "plato campesino"
+    },
+    {
+      "word": "So be it",
+      "translation": "que así sea"
+    },
+    {
+      "word": "Offer up",
+      "translation": "ofrecer, consagrar"
+    },
+    {
+      "word": "And their selves",
+      "translation": "y su persona"
+    },
+    {
+      "word": "Thrive (verbo)",
+      "translation": "prosperar"
+    },
+    {
+      "word": "The bitter truth",
+      "translation": "la dura realidad"
+    },
+    {
+      "word": "Unkind",
+      "translation": "duro, desconsiderado"
+    },
+    {
+      "word": "Preconceptions",
+      "translation": "prejuicios"
+    },
+    {
+      "word": "A gross understatement",
+      "translation": "una subestimación enorme"
+    },
+    {
+      "word": "They have rocked me to my core",
+      "translation": "me han sacudido hasta la médula"
+    },
+    {
+      "word": "The finest chef",
+      "translation": "el mejor chef"
+    },
+    {
+      "word": "Unpredictability",
+      "translation": "imprevisibilidad"
+    },
+    {
+      "word": "They ratted us out",
+      "translation": "nos delataron"
+    }
+  ]
+}

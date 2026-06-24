@@ -1,0 +1,434 @@
+{
+  "title": "Rocky III",
+  "englishAnalysis": "Sigue el clásico acento italoamericano arrastrado de Filadelfia. En esta entrega abunda el lenguaje deportivo rudo ('prediction: pain', 'chump', 'eye of the tiger') y la jerga de los 80.",
+  "vocabulary": [
+    {
+      "word": "In a stunning upset",
+      "translation": "en una sorprendente sorpresa"
+    },
+    {
+      "word": "Don’t lose the grip",
+      "translation": "no pierdas el control"
+    },
+    {
+      "word": "Stalk (verbo)",
+      "translation": "acechar"
+    },
+    {
+      "word": "They stack the odds",
+      "translation": "ellos apilan las probabilidades"
+    },
+    {
+      "word": "Proceeds",
+      "translation": "recaudación, ingresos"
+    },
+    {
+      "word": "Match-up",
+      "translation": "duelo, enfrentamiento, partido"
+    },
+    {
+      "word": "We were tight",
+      "translation": "estábamos unidos"
+    },
+    {
+      "word": "Screw your head on right",
+      "translation": "atornilla bien tu cabeza"
+    },
+    {
+      "word": "It never kept good time anyway",
+      "translation": "de todos modos nunca marcó bien la hora"
+    },
+    {
+      "word": "Cardboard",
+      "translation": "cartón, cartulina"
+    },
+    {
+      "word": "Bust up",
+      "translation": "romper, reventar"
+    },
+    {
+      "word": "Superb",
+      "translation": "magnífico, excelente"
+    },
+    {
+      "word": "Awhile",
+      "translation": "un rato, un momento"
+    },
+    {
+      "word": "He's quite a sight, all decked out in red",
+      "translation": "es todo un espectáculo, vestido de rojo"
+    },
+    {
+      "word": "Call off",
+      "translation": "cancelar, suspender (un encuentro)"
+    },
+    {
+      "word": "Wear out",
+      "translation": "desgastar"
+    },
+    {
+      "word": "In the flesh",
+      "translation": "en carne y hueso"
+    },
+    {
+      "word": "Molten lust",
+      "translation": "lujuria fundida"
+    },
+    {
+      "word": "Slugger",
+      "translation": "baboso, matón"
+    },
+    {
+      "word": "Buster (informal)",
+      "translation": "amigo"
+    },
+    {
+      "word": "Berserk (adjetivo)",
+      "translation": "loco, despiadado"
+    },
+    {
+      "word": "Hatchet",
+      "translation": "hacha"
+    },
+    {
+      "word": "Nice drop",
+      "translation": "buena caída"
+    },
+    {
+      "word": "Heave (verbo)",
+      "translation": "empujar, meter"
+    },
+    {
+      "word": "Outrage (verbo)",
+      "translation": "enfurecer, indignar"
+    },
+    {
+      "word": "Rag",
+      "translation": "trapo, paño"
+    },
+    {
+      "word": "You weakling",
+      "translation": "eres debilucho"
+    },
+    {
+      "word": "Rush in",
+      "translation": "entrar deprisa"
+    },
+    {
+      "word": "Bull terrier",
+      "translation": "toro terrier"
+    },
+    {
+      "word": "Strangehold",
+      "translation": "estrangulamiento, dominio"
+    },
+    {
+      "word": "Busted for trespassing",
+      "translation": "detenido por allanamiento de morada"
+    },
+    {
+      "word": "Tender",
+      "translation": "tierno"
+    },
+    {
+      "word": "Untiring",
+      "translation": "incansable"
+    },
+    {
+      "word": "Step down",
+      "translation": "renunciar, dar un paso al costado"
+    },
+    {
+      "word": "Lay down the truth",
+      "translation": "exponer/decir la verdad"
+    },
+    {
+      "word": "He fight them set-ups",
+      "translation": "lucha contra los montajes"
+    },
+    {
+      "word": "Hand-picked",
+      "translation": "escogidos a mano"
+    },
+    {
+      "word": "Set-ups",
+      "translation": "montajes"
+    },
+    {
+      "word": "Cast-iron jaw",
+      "translation": "mandíbula de hierro fundido"
+    },
+    {
+      "word": "The put him out to stud",
+      "translation": "lo pusieron a parir"
+    },
+    {
+      "word": "Hot off (expresión)",
+      "translation": "recién salido"
+    },
+    {
+      "word": "Toe to toe (expresión)",
+      "translation": "de pies a cabeza"
+    },
+    {
+      "word": "Creep joint",
+      "translation": "antro"
+    },
+    {
+      "word": "Ill repute",
+      "translation": "mala reputación, mala fama"
+    },
+    {
+      "word": "Get rough",
+      "translation": "ponerse duro"
+    },
+    {
+      "word": "Rubdown",
+      "translation": "masaje"
+    },
+    {
+      "word": "Leech",
+      "translation": "sanguijuela"
+    },
+    {
+      "word": "You're through!",
+      "translation": "¡Estás acabado!"
+    },
+    {
+      "word": "Get going",
+      "translation": "vete, ponte en marcha"
+    },
+    {
+      "word": "Get it over with",
+      "translation": "acaba con esto"
+    },
+    {
+      "word": "Fistic greats",
+      "translation": "grandes del boxeo"
+    },
+    {
+      "word": "Chump",
+      "translation": "tonto, bobo"
+    },
+    {
+      "word": "Hailing from Chicago",
+      "translation": "procedente/proveniente de Chicago"
+    },
+    {
+      "word": "He weighs in at a trim 201 lb",
+      "translation": "pesa unos finos 75 kilos"
+    },
+    {
+      "word": "Step back and break",
+      "translation": "da un paso atrás y descansa"
+    },
+    {
+      "word": "A fight of finesse",
+      "translation": "una pelea de delicadeza"
+    },
+    {
+      "word": "Tear him up",
+      "translation": "destrózalo, házlo pedazos"
+    },
+    {
+      "word": "Rugged",
+      "translation": "robusto"
+    },
+    {
+      "word": "Swinging",
+      "translation": "balanceándose"
+    },
+    {
+      "word": "Stagger (verbo)",
+      "translation": "tambalear, escalonar"
+    },
+    {
+      "word": "Upset (sustantivo en términos de batacazos)",
+      "translation": "sorpresa"
+    },
+    {
+      "word": "I hurt all over",
+      "translation": "me duele todo"
+    },
+    {
+      "word": "Shucks",
+      "translation": "caramba, caray"
+    },
+    {
+      "word": "Been running off at the mouth",
+      "translation": "has estado corriendo por la boca"
+    },
+    {
+      "word": "Comeback",
+      "translation": "regreso, vuelta"
+    },
+    {
+      "word": "Engraved apology",
+      "translation": "disculpa grabada"
+    },
+    {
+      "word": "Check in (en hoteles)",
+      "translation": "registrarse"
+    },
+    {
+      "word": "Punchy",
+      "translation": "golpeador, punzante"
+    },
+    {
+      "word": "Graceful",
+      "translation": "elegante, gracioso"
+    },
+    {
+      "word": "Crawl (sustantivo)",
+      "translation": "gateo, arrastre"
+    },
+    {
+      "word": "Bruiser",
+      "translation": "hombre musculoso"
+    },
+    {
+      "word": "Squash (verbo)",
+      "translation": "aplastar"
+    },
+    {
+      "word": "Honky scum bastard mother",
+      "translation": "maldita escoria bastarda"
+    },
+    {
+      "word": "Put away (en algunos contextos)",
+      "translation": "apartar, alejar"
+    },
+    {
+      "word": "We'll be out of steam",
+      "translation": "nos quedaremos sin fuerzas"
+    },
+    {
+      "word": "Endurance",
+      "translation": "resistencia"
+    },
+    {
+      "word": "That's all we gotta concern ourselves with",
+      "translation": "eso es todo de lo que debemos"
+    },
+    {
+      "word": "Wreck (verbo)",
+      "translation": "destrozar, arruinar"
+    },
+    {
+      "word": "What are you putting me through?",
+      "translation": "¿Por qué me haces pasar por esto?"
+    },
+    {
+      "word": "Break down",
+      "translation": "romper, descomponer"
+    },
+    {
+      "word": "Just flick it!",
+      "translation": "¡Sólo tienes que moverlo!"
+    },
+    {
+      "word": "Under and over",
+      "translation": "por debajo y por encima"
+    },
+    {
+      "word": "Straight ahead",
+      "translation": "de frente"
+    },
+    {
+      "word": "He's tailor-made for me",
+      "translation": "está hecho a mi medida"
+    },
+    {
+      "word": "Turn over",
+      "translation": "girar, dar la vuelta"
+    },
+    {
+      "word": "Brawler",
+      "translation": "alborotador"
+    },
+    {
+      "word": "That he laid on him",
+      "translation": "que le puso encima"
+    },
+    {
+      "word": "It takes a helluva man to change",
+      "translation": "hay que ser muy hombre para ganar"
+    },
+    {
+      "word": "Taut body",
+      "translation": "cuerpo tenso"
+    },
+    {
+      "word": "Raw determination",
+      "translation": "determinación bruta"
+    },
+    {
+      "word": "Sullen eyes",
+      "translation": "ojos sombríos"
+    },
+    {
+      "word": "Belt (verbo)",
+      "translation": "pegar, golpear"
+    },
+    {
+      "word": "Brawl",
+      "translation": "pelea, altercado"
+    },
+    {
+      "word": "Slim down",
+      "translation": "adelgazar"
+    },
+    {
+      "word": "Hard-punching pedlar",
+      "translation": "vendedor ambulante"
+    },
+    {
+      "word": "Sting (verbo)",
+      "translation": "picar"
+    },
+    {
+      "word": "He can't corner the fleet-footed fighter",
+      "translation": "no puede acorralar al veloz luchador"
+    },
+    {
+      "word": "You oversized hick!",
+      "translation": "¡Idiota sobredimensionado!"
+    },
+    {
+      "word": "Triphammer",
+      "translation": "martillo trifásico"
+    },
+    {
+      "word": "Counter and move",
+      "translation": "contrarresta y muévete"
+    },
+    {
+      "word": "Set up (en ciertos contextos)",
+      "translation": "tender una trampa"
+    },
+    {
+      "word": "Beat off",
+      "translation": "golpear"
+    },
+    {
+      "word": "Wear down",
+      "translation": "desgastar"
+    },
+    {
+      "word": "He's making him miss",
+      "translation": "lo está haciendo fallar"
+    },
+    {
+      "word": "He drew him in",
+      "translation": "él lo atrajo"
+    },
+    {
+      "word": "Canvas",
+      "translation": "lona, lienzo, tela"
+    },
+    {
+      "word": "Psyched out",
+      "translation": "mentalizado, alterado, loco"
+    }
+  ]
+}

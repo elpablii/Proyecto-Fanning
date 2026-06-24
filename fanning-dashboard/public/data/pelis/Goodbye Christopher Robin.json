@@ -1,0 +1,842 @@
+{
+  "title": "Goodbye Christopher Robin",
+  "englishAnalysis": "Una película británica con un inglés elegante, formal y nostálgico. Ideal para sumergirse en acentos de clase alta de principios del siglo XX ('RP' o Received Pronunciation), vocabulario relacionado con la literatura, la infancia y las secuelas psicológicas de la guerra.",
+  "vocabulary": [
+    {
+      "word": "Are you feeling odd?",
+      "translation": "¿Te estás sintiendo raro?"
+    },
+    {
+      "word": "Take the lead",
+      "translation": "toma la iniciativa, toma la delantera"
+    },
+    {
+      "word": "You laddered my stockings",
+      "translation": "me subiste las medias"
+    },
+    {
+      "word": "Farce",
+      "translation": "farsa"
+    },
+    {
+      "word": "Typewriter",
+      "translation": "máquina de escribir"
+    },
+    {
+      "word": "Sherry",
+      "translation": "jerez"
+    },
+    {
+      "word": "Knocked it out (en sentido de beber algo)",
+      "translation": "me lo bebí todo"
+    },
+    {
+      "word": "While the whizz bangs popped all around us",
+      "translation": "mientras el ruido estallaba a nuestro"
+    },
+    {
+      "word": "Steam up (verbo frasal)",
+      "translation": "empañar"
+    },
+    {
+      "word": "What a jolly little farce",
+      "translation": "qué alegre farsa"
+    },
+    {
+      "word": "Top hats",
+      "translation": "sombreros de copa"
+    },
+    {
+      "word": "Who led ordinary decent folk to the slaughter",
+      "translation": "que llevó a la gente decente al"
+    },
+    {
+      "word": "Big bloated blue bottles",
+      "translation": "grandes botellas azules hinchadas"
+    },
+    {
+      "word": "Frightful things",
+      "translation": "cosas espantosas, cosas terribles"
+    },
+    {
+      "word": "It’s all going swimmingly",
+      "translation": "todo está yendo de maravilla"
+    },
+    {
+      "word": "Coo (verbo)",
+      "translation": "arrullar"
+    },
+    {
+      "word": "I’ll not have him see me blubbing",
+      "translation": "no dejaré que me vea lloriqueando"
+    },
+    {
+      "word": "Weighing in at a startling nine pounds",
+      "translation": "con un sorprendente peso de nueve libras"
+    },
+    {
+      "word": "Midwife",
+      "translation": "matrona, partera"
+    },
+    {
+      "word": "Midwives",
+      "translation": "matronas, parteras"
+    },
+    {
+      "word": "Anglers",
+      "translation": "pescadores"
+    },
+    {
+      "word": "Catch (sustantivo)",
+      "translation": "captura"
+    },
+    {
+      "word": "Revival",
+      "translation": "reestreno"
+    },
+    {
+      "word": "Pass by",
+      "translation": "pasar"
+    },
+    {
+      "word": "Cork pops",
+      "translation": "el corcho salta"
+    },
+    {
+      "word": "Backfire (verbo)",
+      "translation": "petardear"
+    },
+    {
+      "word": "Move down to the countryside",
+      "translation": "mudarse al campo, trasladarse al campo"
+    },
+    {
+      "word": "Sort out",
+      "translation": "solucionar, resolver"
+    },
+    {
+      "word": "He’ll go off to war",
+      "translation": "él se irá a la guerra"
+    },
+    {
+      "word": "Stand (verbo)",
+      "translation": "pararse, ponerse de pie, soportar, tolerar"
+    },
+    {
+      "word": "Settle (verbo)",
+      "translation": "establecerse"
+    },
+    {
+      "word": "Steady routine",
+      "translation": "rutina estable"
+    },
+    {
+      "word": "My liege",
+      "translation": "mi señor"
+    },
+    {
+      "word": "Remark",
+      "translation": "comentario"
+    },
+    {
+      "word": "Do something worthwhile",
+      "translation": "haz algo que valga la pena"
+    },
+    {
+      "word": "Playwright",
+      "translation": "dramaturgo"
+    },
+    {
+      "word": "Plead (verbo)",
+      "translation": "alegar, suplicar"
+    },
+    {
+      "word": "Silly on me",
+      "translation": "qué tonto soy"
+    },
+    {
+      "word": "And so on",
+      "translation": "y así sucesivamente"
+    },
+    {
+      "word": "Shush (verbo)",
+      "translation": "hacer callar"
+    },
+    {
+      "word": "I can’t get you",
+      "translation": "no te entiendo"
+    },
+    {
+      "word": "Push down hard",
+      "translation": "empuja con fuerza hacia abajo"
+    },
+    {
+      "word": "Chicken run",
+      "translation": "gallinero, corral de gallinas"
+    },
+    {
+      "word": "From white to a rosy read",
+      "translation": "del blanco al sonrosado"
+    },
+    {
+      "word": "In you go",
+      "translation": "adelante"
+    },
+    {
+      "word": "No, come along",
+      "translation": "no, vamos"
+    },
+    {
+      "word": "Watching out for wild animals",
+      "translation": "vigilar a los animales salvajes"
+    },
+    {
+      "word": "Breathes heavily",
+      "translation": "respire pesadamente"
+    },
+    {
+      "word": "Sting (verbo)",
+      "translation": "picar (un insecto a una persona)"
+    },
+    {
+      "word": "So long as you leave them to get on with things",
+      "translation": "siempre y cuando les dejes seguir con"
+    },
+    {
+      "word": "All you have to do is run a few up",
+      "translation": "sólo tienes que subir unos cuantos"
+    },
+    {
+      "word": "Smock",
+      "translation": "bata, delantal"
+    },
+    {
+      "word": "Blasted book",
+      "translation": "maldito libro"
+    },
+    {
+      "word": "Nevertheless",
+      "translation": "sin embargo, no obstante, a pesar de ello"
+    },
+    {
+      "word": "Be facetious",
+      "translation": "hacerse el gracioso"
+    },
+    {
+      "word": "The country is wounded",
+      "translation": "el país está herido"
+    },
+    {
+      "word": "Wallpaper",
+      "translation": "papel pintado"
+    },
+    {
+      "word": "Growl (verbo)",
+      "translation": "gruñir"
+    },
+    {
+      "word": "So fierce",
+      "translation": "qué feroz, tan feroz"
+    },
+    {
+      "word": "Everyone in England seems to be cross",
+      "translation": "todo el mundo en Inglaterra parece estar"
+    },
+    {
+      "word": "This path is rather wearing on the old footwear",
+      "translation": "este camino desgasta bastante el"
+    },
+    {
+      "word": "Pop (verbo)",
+      "translation": "reventar, explotar, descorchar"
+    },
+    {
+      "word": "Unkind",
+      "translation": "cruel, antipático, poco amable"
+    },
+    {
+      "word": "I’m walking out of this room",
+      "translation": "voy a salir de esta habitación"
+    },
+    {
+      "word": "My going away",
+      "translation": "mi partida, mi marcha (en sentido de irse)"
+    },
+    {
+      "word": "I shall be gone",
+      "translation": "estaré fuera"
+    },
+    {
+      "word": "Porridge",
+      "translation": "gachas de arena"
+    },
+    {
+      "word": "They’re in shells",
+      "translation": "están en cáscaras, están en cascarones"
+    },
+    {
+      "word": "Sack (verbo)",
+      "translation": "despedir"
+    },
+    {
+      "word": "If someone were to fall through the ceiling",
+      "translation": "si alguien se cayera por el techo"
+    },
+    {
+      "word": "Impaled",
+      "translation": "empalado"
+    },
+    {
+      "word": "Bleed out",
+      "translation": "desangrar"
+    },
+    {
+      "word": "A jolly good idea",
+      "translation": "una muy buena idea"
+    },
+    {
+      "word": "It doesn’t seem likely",
+      "translation": "no parece probable"
+    },
+    {
+      "word": "Hive",
+      "translation": "colmena"
+    },
+    {
+      "word": "Let’s stake it out",
+      "translation": "vamos a jugárnosla"
+    },
+    {
+      "word": "Give it a go",
+      "translation": "inténtalo, pruébalo"
+    },
+    {
+      "word": "Wrestle (verbo)",
+      "translation": "luchar, pelear"
+    },
+    {
+      "word": "A whole flock",
+      "translation": "todo un rebaño"
+    },
+    {
+      "word": "Bray (verbo)",
+      "translation": "rebuznar"
+    },
+    {
+      "word": "Spoil your enjoyment",
+      "translation": "estropear el disfrute"
+    },
+    {
+      "word": "Shift the grub",
+      "translation": "poner la comida"
+    },
+    {
+      "word": "Have you said your prayers?",
+      "translation": "¿Has rezado?"
+    },
+    {
+      "word": "He puts up a notice",
+      "translation": "él pone un anuncio, él coloca un anuncio"
+    },
+    {
+      "word": "Shillings (en términos económicos)",
+      "translation": "chelines"
+    },
+    {
+      "word": "Filling (sustantivo)",
+      "translation": "relleno, llenado"
+    },
+    {
+      "word": "Fellow",
+      "translation": "tipo"
+    },
+    {
+      "word": "Always off crusading, biffing people",
+      "translation": "siempre de cruzada, golpeando a la gente"
+    },
+    {
+      "word": "Stump up for his ransom",
+      "translation": "pagar por su rescate"
+    },
+    {
+      "word": "Knees bent",
+      "translation": "rodillas flexionadas"
+    },
+    {
+      "word": "The ace batsman",
+      "translation": "el as del bate"
+    },
+    {
+      "word": "Demon bowler",
+      "translation": "jugador de bolos demoníaco"
+    },
+    {
+      "word": "En garde!",
+      "translation": "¡En guardia!"
+    },
+    {
+      "word": "Put that on",
+      "translation": "pónte eso"
+    },
+    {
+      "word": "Lump",
+      "translation": "terrón, bulto"
+    },
+    {
+      "word": "Swan",
+      "translation": "cisne"
+    },
+    {
+      "word": "Pen scratching",
+      "translation": "rascado del bolígrafo"
+    },
+    {
+      "word": "Get frostbite",
+      "translation": "congelarse"
+    },
+    {
+      "word": "It’s about time for summer",
+      "translation": "ya es hora de que llegue el verano"
+    },
+    {
+      "word": "Woodwork",
+      "translation": "carpintería"
+    },
+    {
+      "word": "We’ll float you up to the branch",
+      "translation": "te llevaremos flotando hasta la rama"
+    },
+    {
+      "word": "Floaty breath",
+      "translation": "aliento flotante"
+    },
+    {
+      "word": "More thoroughly",
+      "translation": "más a fondo"
+    },
+    {
+      "word": "A little shading",
+      "translation": "un poco de sombreado"
+    },
+    {
+      "word": "He's looking a little bit glum there",
+      "translation": "se ve un poco triste/desanimado allí"
+    },
+    {
+      "word": "Short (en términos de palabras)",
+      "translation": "diminutivo"
+    },
+    {
+      "word": "A bit of a lark",
+      "translation": "un poco de broma"
+    },
+    {
+      "word": "Send off",
+      "translation": "enviar, mandar"
+    },
+    {
+      "word": "Published for whom?",
+      "translation": "¿Publicado para quién?"
+    },
+    {
+      "word": "Pleased",
+      "translation": "contento, satisfecho, complacido"
+    },
+    {
+      "word": "It’s their biggest selling issue for simply ages",
+      "translation": "es su número más vendido desde hace"
+    },
+    {
+      "word": "Back down",
+      "translation": "bajar, volver, retroceder"
+    },
+    {
+      "word": "Go off",
+      "translation": "irse"
+    },
+    {
+      "word": "He’s reverie in bear form",
+      "translation": "es el ensueño en forma de oso"
+    },
+    {
+      "word": "Hanging on the wall",
+      "translation": "colgado en la pared"
+    },
+    {
+      "word": "Rip out",
+      "translation": "arrancar (algo)"
+    },
+    {
+      "word": "Frame (verbo)",
+      "translation": "enmarcar"
+    },
+    {
+      "word": "Like a wood spirit",
+      "translation": "como un espíritu del bosque"
+    },
+    {
+      "word": "I’d just as soon not",
+      "translation": "preferiría no hacerlo"
+    },
+    {
+      "word": "Cardboard",
+      "translation": "cartulina, cartón"
+    },
+    {
+      "word": "Bother (sustantivo)",
+      "translation": "molestia, fastidio"
+    },
+    {
+      "word": "Set fire",
+      "translation": "prender fuego"
+    },
+    {
+      "word": "Come along",
+      "translation": "llegar, aparecer, venir"
+    },
+    {
+      "word": "Tap",
+      "translation": "golpecito, grifo"
+    },
+    {
+      "word": "You just turned it on",
+      "translation": "sólo lo encendiste"
+    },
+    {
+      "word": "Give him a cuddle",
+      "translation": "dale un abrazo, dale mimos"
+    },
+    {
+      "word": "He can’t be expected to answer all of these",
+      "translation": "no se puede esperar que responda a todo"
+    },
+    {
+      "word": "A lovely day",
+      "translation": "un día encantador"
+    },
+    {
+      "word": "I’ve got heaps of writing to do",
+      "translation": "tengo montones de cosas que escribir"
+    },
+    {
+      "word": "Ever so",
+      "translation": "siempre"
+    },
+    {
+      "word": "Raft down the Mississippi",
+      "translation": "navegar en balsa por el Mississippi"
+    },
+    {
+      "word": "Fashionable",
+      "translation": "a la moda"
+    },
+    {
+      "word": "Speakeasy",
+      "translation": "bar clandestino"
+    },
+    {
+      "word": "At his bedside",
+      "translation": "junto a su cama"
+    },
+    {
+      "word": "A lovely evening",
+      "translation": "una buena noche"
+    },
+    {
+      "word": "It was the author they sucked up to",
+      "translation": "fue al autor a quien hicieron la pelota"
+    },
+    {
+      "word": "Drums banging",
+      "translation": "redoble de tambores, tambores sonando"
+    },
+    {
+      "word": "Oh, my jolly golly",
+      "translation": "oh Dios mío, oh caramba"
+    },
+    {
+      "word": "Toolshed",
+      "translation": "cobertizo para herramientas"
+    },
+    {
+      "word": "Waterproof boots",
+      "translation": "botas impermeables"
+    },
+    {
+      "word": "It’s time he got better acquainted",
+      "translation": "es hora de que se conozca mejor"
+    },
+    {
+      "word": "Stick (verbo)",
+      "translation": "pegar, meter"
+    },
+    {
+      "word": "Nighttime noises",
+      "translation": "ruidos nocturnos"
+    },
+    {
+      "word": "What a very agile wolf",
+      "translation": "qué lobo tan ágil"
+    },
+    {
+      "word": "Old chap",
+      "translation": "viejo amigo"
+    },
+    {
+      "word": "Fine toy shop",
+      "translation": "juguetería de lujo"
+    },
+    {
+      "word": "Why don’t we do something ever so ever so now?",
+      "translation": "¿Por qué no hacemos algo ahora?"
+    },
+    {
+      "word": "Clamor (verbo)",
+      "translation": "clamar"
+    },
+    {
+      "word": "It has panache",
+      "translation": "tiene estilo, es elegante"
+    },
+    {
+      "word": "In disguise",
+      "translation": "disfrazados"
+    },
+    {
+      "word": "It’s my night off",
+      "translation": "es mi noche libre, es mi noche de descanso"
+    },
+    {
+      "word": "Laborer",
+      "translation": "obrero, trabajador"
+    },
+    {
+      "word": "There’s no date set as yet",
+      "translation": "aún no hay fecha fijada."
+    },
+    {
+      "word": "As such as yet",
+      "translation": "como tal"
+    },
+    {
+      "word": "Immediate notice",
+      "translation": "aviso inmediato"
+    },
+    {
+      "word": "Tout (verbo)",
+      "translation": "promocionar"
+    },
+    {
+      "word": "A show pony",
+      "translation": "un pony de feria"
+    },
+    {
+      "word": "Hawk (verbo)",
+      "translation": "pregonar"
+    },
+    {
+      "word": "Stand up for",
+      "translation": "defender, dar la cara"
+    },
+    {
+      "word": "Turn away",
+      "translation": "dar la vuelta"
+    },
+    {
+      "word": "Blub (verbo)",
+      "translation": "lloriquear, sonrojar"
+    },
+    {
+      "word": "Wildebeest",
+      "translation": "ñu (alusivo al animal)"
+    },
+    {
+      "word": "Astound (verbo)",
+      "translation": "asombrar"
+    },
+    {
+      "word": "A superb picture",
+      "translation": "una imagen soberbia, una imagen magnífica"
+    },
+    {
+      "word": "So long as you don’t make any sudden moves",
+      "translation": "siempre y cuando no hagas movimientos"
+    },
+    {
+      "word": "Bring him out",
+      "translation": "tráelo"
+    },
+    {
+      "word": "There's sure to be some other craze along any minute",
+      "translation": "seguro que en cualquier"
+    },
+    {
+      "word": "To let us fetch up in the middle of term like this",
+      "translation": "dejarnos ir a buscar a mitad de"
+    },
+    {
+      "word": "Until you’ve settled in",
+      "translation": "hasta que te hayas acomodado/instalado"
+    },
+    {
+      "word": "Throttle (verbo)",
+      "translation": "estrangularte"
+    },
+    {
+      "word": "He got shoved down the stairs",
+      "translation": "lo empujaron por las escaleras"
+    },
+    {
+      "word": "Strip, cough, over there",
+      "translation": "desnúdate, tose, por ahí"
+    },
+    {
+      "word": "Strip there",
+      "translation": "desnúdate ahí"
+    },
+    {
+      "word": "Rotten luck",
+      "translation": "mala suerte"
+    },
+    {
+      "word": "Bid",
+      "translation": "oferta"
+    },
+    {
+      "word": "Road signs",
+      "translation": "señales viales"
+    },
+    {
+      "word": "Ransack (verbo)",
+      "translation": "saquear"
+    },
+    {
+      "word": "Do stop talking abut that blasted bear",
+      "translation": "deja de hablar de ese maldito oso"
+    },
+    {
+      "word": "Join up",
+      "translation": "unirse, alistarse, apuntarse"
+    },
+    {
+      "word": "You failed the medical",
+      "translation": "suspendiste el examen médico"
+    },
+    {
+      "word": "You can get me in",
+      "translation": "puedes hacerme entrar"
+    },
+    {
+      "word": "Lay siege",
+      "translation": "asediar, sitiar (en términos de guerra)"
+    },
+    {
+      "word": "Pot (verbo)",
+      "translation": "poner"
+    },
+    {
+      "word": "Geraniums",
+      "translation": "gerandios"
+    },
+    {
+      "word": "You’re going to get through this",
+      "translation": "vas a superar esto, vas a salir de esta"
+    },
+    {
+      "word": "I was rubbish at it",
+      "translation": "era un desastre en ello"
+    },
+    {
+      "word": "You were mostly cross",
+      "translation": "estabas casi siempre enfadado"
+    },
+    {
+      "word": "Bowl out",
+      "translation": "echar, expulsar"
+    },
+    {
+      "word": "It was just as much your doing as mine",
+      "translation": "fue tanto obra tuya como mía"
+    },
+    {
+      "word": "Brass band",
+      "translation": "banda de música"
+    },
+    {
+      "word": "Kettle on?",
+      "translation": "¿La tetera está encendida?"
+    },
+    {
+      "word": "Missing presumed",
+      "translation": "presuntamente desaparecido"
+    },
+    {
+      "word": "Straight away",
+      "translation": "enseguida, de inmediato, ya mismo"
+    },
+    {
+      "word": "Then I gave it away",
+      "translation": "entonces lo regalé"
+    },
+    {
+      "word": "A magic charm",
+      "translation": "un encanto mágico, un amuleto mágico"
+    },
+    {
+      "word": "Fireside",
+      "translation": "chimenea"
+    },
+    {
+      "word": "Storybook",
+      "translation": "libro de cuentos"
+    },
+    {
+      "word": "It was growing up that was hard",
+      "translation": "lo difícil fue crecer"
+    },
+    {
+      "word": "Smacks lips",
+      "translation": "se muerde los labios"
+    },
+    {
+      "word": "Swallow up",
+      "translation": "tragar, engullir"
+    },
+    {
+      "word": "It’s more percussive",
+      "translation": "es más percusivo"
+    },
+    {
+      "word": "Like a train going off track",
+      "translation": "como un tren descarrilándose"
+    },
+    {
+      "word": "Stir my imagination",
+      "translation": "despertar mi imaginación"
+    },
+    {
+      "word": "Border (verbo)",
+      "translation": "rozar, rayar"
+    },
+    {
+      "word": "I find visions flash",
+      "translation": "encuentro visiones intermitentes"
+    },
+    {
+      "word": "A hidden lane",
+      "translation": "un carril oculto"
+    },
+    {
+      "word": "A cricket’s cry",
+      "translation": "el grito de un grillo"
+    },
+    {
+      "word": "To a tune that is older than me",
+      "translation": "al son de una melodía más antigua que yo"
+    },
+    {
+      "word": "Fade away",
+      "translation": "desvanecer, desaparecer"
+    }
+  ]
+}

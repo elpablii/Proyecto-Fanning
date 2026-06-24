@@ -1,0 +1,682 @@
+{
+  "title": "The Menu",
+  "englishAnalysis": "El lenguaje es increíblemente pretencioso, refinado y tenso. Vocabulario de alta cocina ('palate', 'mouthfeel', 'courses'), críticas gastronómicas y una atmósfera de culto.",
+  "vocabulary": [
+    {
+      "word": "How do they turn a profit?",
+      "translation": "¿Cómo obtienen/consiguen beneficios?"
+    },
+    {
+      "word": "A power tasting",
+      "translation": "una degustación energética"
+    },
+    {
+      "word": "A gangplank in heels",
+      "translation": "una pasarela en tacones"
+    },
+    {
+      "word": "Hawthorn",
+      "translation": "espino"
+    },
+    {
+      "word": "And avast, me hearties!",
+      "translation": "¡Y atentos, mis amigos!"
+    },
+    {
+      "word": "Let's hope she's seaworthy",
+      "translation": "esperemos que esté en condiciones de navegar"
+    },
+    {
+      "word": "Run interference (verbo)",
+      "translation": "interferir"
+    },
+    {
+      "word": "He's a big foodie",
+      "translation": "es un gran aficionado a la comida"
+    },
+    {
+      "word": "With a raw local oyster in a mignonette emulsion",
+      "translation": "con un ostión local crudo en emulsión"
+    },
+    {
+      "word": "Oyster leaf",
+      "translation": "hoja de ostión"
+    },
+    {
+      "word": "Alginate",
+      "translation": "alginato"
+    },
+    {
+      "word": "Pond scum",
+      "translation": "espuma/escoria del estanque"
+    },
+    {
+      "word": "It’s laughable",
+      "translation": "es risible"
+    },
+    {
+      "word": "Mouthfeel",
+      "translation": "sensación en la boca, sabor en boca"
+    },
+    {
+      "word": "Endeavor (verbo)",
+      "translation": "esforzarse, intentar"
+    },
+    {
+      "word": "Comprise (verbo)",
+      "translation": "comprender, abarcar (en términos de tamaño o lugar)"
+    },
+    {
+      "word": "Scallop",
+      "translation": "ostión"
+    },
+    {
+      "word": "Oh, shoot! (expresión)",
+      "translation": "¡Oh, rayos!"
+    },
+    {
+      "word": "Epicurean",
+      "translation": "epicúreo"
+    },
+    {
+      "word": "I'm a huge embarrasing foodie",
+      "translation": "soy un gran fanático de la comida"
+    },
+    {
+      "word": "Smokehouse",
+      "translation": "ahumadero"
+    },
+    {
+      "word": "Dairy cows",
+      "translation": "vacas lecheras"
+    },
+    {
+      "word": "Age (verbo)",
+      "translation": "envejecer"
+    },
+    {
+      "word": "Protein strands",
+      "translation": "cadenas de proteínas"
+    },
+    {
+      "word": "Can we pop in here?",
+      "translation": "¿Podemos entrar aquí?"
+    },
+    {
+      "word": "Break loose",
+      "translation": "desprender, soltar"
+    },
+    {
+      "word": "Thereafter (adverbio)",
+      "translation": "a partir de entonces, después"
+    },
+    {
+      "word": "Liquify (verbo)",
+      "translation": "licuar"
+    },
+    {
+      "word": "Spherify (verbo)",
+      "translation": "esferificar"
+    },
+    {
+      "word": "Cottage",
+      "translation": "cabaña, casa"
+    },
+    {
+      "word": "The lord high emperor of sustenance",
+      "translation": "el señor alto emperador del sustento"
+    },
+    {
+      "word": "Time (verbo)",
+      "translation": "programar, cronometrar"
+    },
+    {
+      "word": "Powderized texture",
+      "translation": "textura pulverulenta"
+    },
+    {
+      "word": "Bland",
+      "translation": "soso, insípido"
+    },
+    {
+      "word": "A compressed and pickled cucumber melon",
+      "translation": "un melón de pepino comprimido y encurtido"
+    },
+    {
+      "word": "Charred lace",
+      "translation": "encaje carbonizado/chamuscado"
+    },
+    {
+      "word": "Ongoing obsession",
+      "translation": "obsesión constante"
+    },
+    {
+      "word": "Pitch (sustantivo)",
+      "translation": "propuesta, discurso"
+    },
+    {
+      "word": "It's okay that I'm not as into this as you are?",
+      "translation": "¿Está bien que no me guste tanto como"
+    },
+    {
+      "word": "Inflatable",
+      "translation": "inflable"
+    },
+    {
+      "word": "Unripe (en sentido denotativo)",
+      "translation": "inmaduro, sin madurar"
+    },
+    {
+      "word": "I've watched him plate a raw scallop",
+      "translation": "le he visto emplatar una ostra cruda"
+    },
+    {
+      "word": "It's art on the edge of the abyss",
+      "translation": "es arte al borde del abismo"
+    },
+    {
+      "word": "Fungi",
+      "translation": "hongos. setas"
+    },
+    {
+      "word": "Relish (verbo)",
+      "translation": "saborear"
+    },
+    {
+      "word": "Morsel",
+      "translation": "bocado"
+    },
+    {
+      "word": "Flavor (verbo)",
+      "translation": "condimentar"
+    },
+    {
+      "word": "Is meaningless",
+      "translation": "no tiene sentido"
+    },
+    {
+      "word": "We are but a frightened nanosecond",
+      "translation": "no somos más que un nanosegundo atemorizado"
+    },
+    {
+      "word": "Timeless",
+      "translation": "atemporal, eterno"
+    },
+    {
+      "word": "Very moving",
+      "translation": "muy conmovedor"
+    },
+    {
+      "word": "There's a neediness to the plating",
+      "translation": "hay una necesidad de chapado"
+    },
+    {
+      "word": "It's been tweezered to fuck",
+      "translation": "ha sido pinzado hasta la mierda"
+    },
+    {
+      "word": "Primeval",
+      "translation": "primitivo, primigenio"
+    },
+    {
+      "word": "For crying out loud (expresión informal)",
+      "translation": "por el amor de Dios"
+    },
+    {
+      "word": "Pitch (verbo)",
+      "translation": "lanzar"
+    },
+    {
+      "word": "Shoot (verbo en términos audiovisuales)",
+      "translation": "filmar, fotografiar, grabar"
+    },
+    {
+      "word": "Close-up",
+      "translation": "primer plano"
+    },
+    {
+      "word": "Otter food",
+      "translation": "comida para nutrias"
+    },
+    {
+      "word": "Shellfish",
+      "translation": "mariscos, moluscos"
+    },
+    {
+      "word": "I want plating in five!",
+      "translation": "¡Quiero emplatado en cinco minutos!"
+    },
+    {
+      "word": "Ancient Greek peasant dipped their stale measly bread",
+      "translation": "los antiguos campesinos"
+    },
+    {
+      "word": "Tonight, you get no bread",
+      "translation": "esta noche no tendrás pan"
+    },
+    {
+      "word": "Fake-out",
+      "translation": "farsa, engaño"
+    },
+    {
+      "word": "A heritage wheat",
+      "translation": "un trigo patrimonial"
+    },
+    {
+      "word": "Craft (verbo)",
+      "translation": "elaborar"
+    },
+    {
+      "word": "Heirloom grains",
+      "translation": "granos autóctonos"
+    },
+    {
+      "word": "It's a little outrageous",
+      "translation": "es un poco escandaloso/indignante"
+    },
+    {
+      "word": "Flendish",
+      "translation": "flácido"
+    },
+    {
+      "word": "Keenly",
+      "translation": "muy"
+    },
+    {
+      "word": "Badassery (informal)",
+      "translation": "maldad"
+    },
+    {
+      "word": "Weave (verbo)",
+      "translation": "tejer, trenzar, entrelazar"
+    },
+    {
+      "word": "Overarching theme",
+      "translation": "tema principal, tema general"
+    },
+    {
+      "word": "Peasant",
+      "translation": "campesino"
+    },
+    {
+      "word": "Yeast",
+      "translation": "levadura"
+    },
+    {
+      "word": "You wicked thing",
+      "translation": "eres un malvado"
+    },
+    {
+      "word": "Is everything to your liking?",
+      "translation": "¿Está todo a su gusto?"
+    },
+    {
+      "word": "Just slip us a little bread",
+      "translation": "sólo danos un poco de pan"
+    },
+    {
+      "word": "Ketosis",
+      "translation": "cetosis"
+    },
+    {
+      "word": "Embalm (verbo)",
+      "translation": "embalsamar"
+    },
+    {
+      "word": "To account for that",
+      "translation": "para tenerlo en cuenta"
+    },
+    {
+      "word": "Plating in three",
+      "translation": "emplatado en tres minutos"
+    },
+    {
+      "word": "Slumber",
+      "translation": "sueño, letargo"
+    },
+    {
+      "word": "Slavonian",
+      "translation": "eslavo"
+    },
+    {
+      "word": "A faint sense of longing",
+      "translation": "una sensación tenue de añoranza"
+    },
+    {
+      "word": "Faraway face",
+      "translation": "cara distante, rostro lejano"
+    },
+    {
+      "word": "Associate development co-exec",
+      "translation": "coejecutivo de desarrollo asociado"
+    },
+    {
+      "word": "Backstory",
+      "translation": "historia de fondo, anécdota"
+    },
+    {
+      "word": "House-smoked bresse chicken thigh",
+      "translation": "trutro de pollo bresse ahumado en casa"
+    },
+    {
+      "word": "Heirloom masa",
+      "translation": "masa tradicional"
+    },
+    {
+      "word": "Staple",
+      "translation": "grapa"
+    },
+    {
+      "word": "Laser-engraving machine",
+      "translation": "máquina de grabado láser"
+    },
+    {
+      "word": "Gag",
+      "translation": "broma, chiste, mordaza"
+    },
+    {
+      "word": "Bandage",
+      "translation": "venda"
+    },
+    {
+      "word": "Fun shoot",
+      "translation": "sesión divertida"
+    },
+    {
+      "word": "Invoices",
+      "translation": "facturas, cuentas"
+    },
+    {
+      "word": "Hold up in court",
+      "translation": "sostener en la corte"
+    },
+    {
+      "word": "Deniability",
+      "translation": "negación"
+    },
+    {
+      "word": "Turn in",
+      "translation": "entregarse"
+    },
+    {
+      "word": "Did you just fucking snap at me?",
+      "translation": "¿Acabas de gritarme/chasquearme?"
+    },
+    {
+      "word": "Trailer park",
+      "translation": "parque de caravanas"
+    },
+    {
+      "word": "Playful",
+      "translation": "juguetón"
+    },
+    {
+      "word": "A hearfelt letter",
+      "translation": "una carta sincera"
+    },
+    {
+      "word": "Forsake (verbo)",
+      "translation": "abandonar, renunciar"
+    },
+    {
+      "word": "A packed",
+      "translation": "un embalado/empaquetado"
+    },
+    {
+      "word": "It's stagecraft",
+      "translation": "es una puesta en escena"
+    },
+    {
+      "word": "A bit of barnyard funk",
+      "translation": "un poco de sabor a corral"
+    },
+    {
+      "word": "I'm a name-dropping whore",
+      "translation": "soy una puta con nombre"
+    },
+    {
+      "word": "Painstalkingly",
+      "translation": "dolorosamente"
+    },
+    {
+      "word": "Spoil (verbo)",
+      "translation": "arruinar, estropear, echar a perder"
+    },
+    {
+      "word": "We’re cornered",
+      "translation": "estamos acorralados, estamos arrinconados"
+    },
+    {
+      "word": "A play",
+      "translation": "una jugada"
+    },
+    {
+      "word": "Storm (verbo)",
+      "translation": "asaltar"
+    },
+    {
+      "word": "Balm",
+      "translation": "bálsamo"
+    },
+    {
+      "word": "Bergamot",
+      "translation": "bergamota"
+    },
+    {
+      "word": "My cherished early advocate",
+      "translation": "mi preciada defensora"
+    },
+    {
+      "word": "Livelihood",
+      "translation": "modo de vida"
+    },
+    {
+      "word": "Submit (verbo en algunos contextos)",
+      "translation": "presentarse (a algo)"
+    },
+    {
+      "word": "You buttress, you coodle",
+      "translation": "tú refuerzas, tú mimas"
+    },
+    {
+      "word": "Fucking spotted Halibut",
+      "translation": "maldito Halibut manchado"
+    },
+    {
+      "word": "Own (verbo)",
+      "translation": "poseer, tener, pertenecer"
+    },
+    {
+      "word": "Breed",
+      "translation": "raza, especie"
+    },
+    {
+      "word": "Shovelers",
+      "translation": "paleadores, paleros"
+    },
+    {
+      "word": "Jerk off",
+      "translation": "masturbar, hacerse una paja"
+    },
+    {
+      "word": "We can make a break for it (frase no literal)",
+      "translation": "podemos escapar"
+    },
+    {
+      "word": "Don't be frightened",
+      "translation": "no te asustes, no tengas miedo"
+    },
+    {
+      "word": "Man's folly",
+      "translation": "la locura del hombre"
+    },
+    {
+      "word": "A head start",
+      "translation": "una ventaja"
+    },
+    {
+      "word": "At which point",
+      "translation": "en ese momento"
+    },
+    {
+      "word": "Tartness",
+      "translation": "acidez, sabor agrio"
+    },
+    {
+      "word": "Pop (sustantivo en términos no musicales)",
+      "translation": "estallido"
+    },
+    {
+      "word": "Not that you guys give a single, flying fuck",
+      "translation": "no es que a ustedes les importe un carajo"
+    },
+    {
+      "word": "You cc'd me on it",
+      "translation": "me enviaste una copia"
+    },
+    {
+      "word": "What were you told ahead of time?",
+      "translation": "¿Qué te dijeron antes?"
+    },
+    {
+      "word": "You entitled piece of shit!",
+      "translation": "¡Eres un pedazo de mierda con derecho!"
+    },
+    {
+      "word": "Secrecy (verbo)",
+      "translation": "guardar un secreto"
+    },
+    {
+      "word": "Leek",
+      "translation": "puerro"
+    },
+    {
+      "word": "Shallot",
+      "translation": "ajo chalote"
+    },
+    {
+      "word": "Dicing method",
+      "translation": "método de troceado"
+    },
+    {
+      "word": "Woefully",
+      "translation": "lamentablemente"
+    },
+    {
+      "word": "Butter",
+      "translation": "mantequilla, manteca"
+    },
+    {
+      "word": "I bear witness",
+      "translation": "soy testigo"
+    },
+    {
+      "word": "Jam (verbo)",
+      "translation": "meter, atascar"
+    },
+    {
+      "word": "Strive (verbo)",
+      "translation": "esforzarse, luchar, aspirar"
+    },
+    {
+      "word": "Sommelier",
+      "translation": "sumiller"
+    },
+    {
+      "word": "Savory course",
+      "translation": "plato salado"
+    },
+    {
+      "word": "Nuisance",
+      "translation": "molestia, estorbo, fastidio"
+    },
+    {
+      "word": "Cast-iron",
+      "translation": "hierro fundido"
+    },
+    {
+      "word": "Plead (verbo)",
+      "translation": "suplicar, declarar"
+    },
+    {
+      "word": "Unwise",
+      "translation": "imprudente, desaconsejable"
+    },
+    {
+      "word": "Disturbance (en términos de problemas)",
+      "translation": "disturbio"
+    },
+    {
+      "word": "Ownership",
+      "translation": "propiedad"
+    },
+    {
+      "word": "Bond",
+      "translation": "lazo, vínculo"
+    },
+    {
+      "word": "Craft (sustantivo)",
+      "translation": "oficio, arte"
+    },
+    {
+      "word": "Taker",
+      "translation": "tomador, aprovechado"
+    },
+    {
+      "word": "Starved",
+      "translation": "muerto de hambre, hambriento"
+    },
+    {
+      "word": "Not some fancy deconstructed avant bullshit",
+      "translation": "no una mierda de vanguardia"
+    },
+    {
+      "word": "Crinkle-cut or julienne?",
+      "translation": "¿Cortado en tiras o en juliana?"
+    },
+    {
+      "word": "Can I get the rest to go?",
+      "translation": "¿Puedo llevarme el resto?"
+    },
+    {
+      "word": "Some goodies in there",
+      "translation": "hay algunas cosas buenas ahí"
+    },
+    {
+      "word": "Booklet",
+      "translation": "folleto, manual"
+    },
+    {
+      "word": "A playful twist",
+      "translation": "un giro divertido"
+    },
+    {
+      "word": "Contrive (verbo)",
+      "translation": "inventar, idear, planear"
+    },
+    {
+      "word": "Nourish (verbo)",
+      "translation": "nutrir, alimentar"
+    },
+    {
+      "word": "Forge (verbo)",
+      "translation": "forjar"
+    },
+    {
+      "word": "Cleanse (verbo)",
+      "translation": "purificar, limpiar"
+    },
+    {
+      "word": "Heretics",
+      "translation": "herejes"
+    },
+    {
+      "word": "Subsumed",
+      "translation": "subsumido"
+    },
+    {
+      "word": "And made anew",
+      "translation": "y hecho de nuevo"
+    }
+  ]
+}

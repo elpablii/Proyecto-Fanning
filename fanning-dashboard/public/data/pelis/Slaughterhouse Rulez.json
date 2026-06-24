@@ -1,0 +1,742 @@
+{
+  "title": "Slaughterhouse Rulez",
+  "englishAnalysis": "Jerga juvenil británica moderna de internado ('posh' y popular) mezclada absurdamente con terminología de terror, monstruos y gore. Excelente para entender la irreverencia británica.",
+  "vocabulary": [
+    {
+      "word": "Unashamedly",
+      "translation": "desvergonzadamente, descaradamente"
+    },
+    {
+      "word": "Hallowed fields",
+      "translation": "campos sagrados"
+    },
+    {
+      "word": "Headmaster",
+      "translation": "director, rector"
+    },
+    {
+      "word": "Knuckle down",
+      "translation": "esforzarse, ponerse manos a la obra"
+    },
+    {
+      "word": "Dad worked his bollocks off (frase no literal)",
+      "translation": "papá se partía el lomo trabajando"
+    },
+    {
+      "word": "Doing bugger all (frase no literal)",
+      "translation": "sin hacer nada"
+    },
+    {
+      "word": "Get real",
+      "translation": "ser realista"
+    },
+    {
+      "word": "Stuck-up twats",
+      "translation": "idiotas engreídos"
+    },
+    {
+      "word": "Good breeding",
+      "translation": "buena crianza"
+    },
+    {
+      "word": "You posh bastard",
+      "translation": "pijo bastardo"
+    },
+    {
+      "word": "You're gonna fit right in",
+      "translation": "vas a encajar muy bien"
+    },
+    {
+      "word": "Ammo",
+      "translation": "munición"
+    },
+    {
+      "word": "Piss off, you twats!",
+      "translation": "¡Váyanse a la mierda, imbéciles!"
+    },
+    {
+      "word": "Dab of snuff?",
+      "translation": "¿Un poco de tabaco?"
+    },
+    {
+      "word": "Look out the window",
+      "translation": "mirar por la ventana"
+    },
+    {
+      "word": "Bloody heck",
+      "translation": "maldita sea"
+    },
+    {
+      "word": "Lovey",
+      "translation": "amorcito, cariño"
+    },
+    {
+      "word": "Clear out",
+      "translation": "vaciar, limpiar, despejar"
+    },
+    {
+      "word": "Get settled in",
+      "translation": "instalarse, acomodarse"
+    },
+    {
+      "word": "You two are gonna get on like a house on fire",
+      "translation": "ustedes dos se van a llevar como una"
+    },
+    {
+      "word": "Assembly",
+      "translation": "montaje, ensamblaje"
+    },
+    {
+      "word": "Heads down",
+      "translation": "agacha la cabeza"
+    },
+    {
+      "word": "With your head held high",
+      "translation": "con la cabeza bien alta"
+    },
+    {
+      "word": "Olympus is all jocks and rugger buggers",
+      "translation": "Olympus es todo deportistas y rugbiers"
+    },
+    {
+      "word": "Cricket jumper",
+      "translation": "jersey de críquet"
+    },
+    {
+      "word": "Chin up",
+      "translation": "levanta la barbilla"
+    },
+    {
+      "word": "Frack attack!",
+      "translation": "¡Ataque de fracking!"
+    },
+    {
+      "word": "Leaflet",
+      "translation": "folleto, prospecto"
+    },
+    {
+      "word": "Frackers",
+      "translation": "frackeadores"
+    },
+    {
+      "word": "Off you go",
+      "translation": "vete, váyase"
+    },
+    {
+      "word": "You're awfully bloody close",
+      "translation": "estás jodidamente cerca"
+    },
+    {
+      "word": "Pitch",
+      "translation": "campo (de juego)"
+    },
+    {
+      "word": "Pads",
+      "translation": "almohadillas"
+    },
+    {
+      "word": "Carry on",
+      "translation": "continuar"
+    },
+    {
+      "word": "Contentious",
+      "translation": "contencioso, polémico"
+    },
+    {
+      "word": "Shale gas",
+      "translation": "gas de esquisto"
+    },
+    {
+      "word": "Our dry ski slope",
+      "translation": "nuestra pista de esquí seca"
+    },
+    {
+      "word": "The long overdue",
+      "translation": "el tan esperado"
+    },
+    {
+      "word": "You were out jogging",
+      "translation": "tú saliste a correr"
+    },
+    {
+      "word": "To be slip off to the old haunts",
+      "translation": "para ser deslizado a los viejos rincones"
+    },
+    {
+      "word": "Perish the thought (expresión)",
+      "translation": "olvídelo"
+    },
+    {
+      "word": "I was a bit sorry",
+      "translation": "estaba un poco apenado"
+    },
+    {
+      "word": "Don't sweat it",
+      "translation": "no te preocupes"
+    },
+    {
+      "word": "Bloody",
+      "translation": "maldito"
+    },
+    {
+      "word": "We've hit the mother lode",
+      "translation": "hemos dado con la veta madre"
+    },
+    {
+      "word": "Suck it up",
+      "translation": "aguántalo, chúpalo"
+    },
+    {
+      "word": "Pump (verbo en términos de líquidos)",
+      "translation": "bombear"
+    },
+    {
+      "word": "Moles",
+      "translation": "topos, lunares"
+    },
+    {
+      "word": "Fulfilling",
+      "translation": "satisfactorio, gratificante"
+    },
+    {
+      "word": "You little bugger",
+      "translation": "pequeño cabrón"
+    },
+    {
+      "word": "Hard-on",
+      "translation": "erección"
+    },
+    {
+      "word": "Ponce",
+      "translation": "marica"
+    },
+    {
+      "word": "Suck off the doctor?",
+      "translation": "¿Se la chupaste al médico?"
+    },
+    {
+      "word": "It was only a hand job",
+      "translation": "sólo fue una paja"
+    },
+    {
+      "word": "Beam",
+      "translation": "rayo, haz de luz"
+    },
+    {
+      "word": "Own up",
+      "translation": "confesar, admitir"
+    },
+    {
+      "word": "Cast a shadow",
+      "translation": "proyectar una sombra"
+    },
+    {
+      "word": "Bogs",
+      "translation": "ciénagas, pantano"
+    },
+    {
+      "word": "You should take comfort in that",
+      "translation": "deberías consolarte con eso"
+    },
+    {
+      "word": "It was a good innings",
+      "translation": "fue una buena entrada"
+    },
+    {
+      "word": "The earth yawned open by the power of witchcraft",
+      "translation": "la tierra se abrió por el poder de"
+    },
+    {
+      "word": "Don't piss about",
+      "translation": "no orines, no mees"
+    },
+    {
+      "word": "Hall (sustantivo)",
+      "translation": "sala, salón, pabellón"
+    },
+    {
+      "word": "Never knowingly undersold",
+      "translation": "nunca malvender a sabiendas"
+    },
+    {
+      "word": "You're gonna get feathered",
+      "translation": "te van a emplumar"
+    },
+    {
+      "word": "I caught a glimpse of hell deep below",
+      "translation": "vislumbré el infierno en las profundidades"
+    },
+    {
+      "word": "Get on with it",
+      "translation": "ponte a ello"
+    },
+    {
+      "word": "A wandering knight",
+      "translation": "un caballero errante"
+    },
+    {
+      "word": "Faithful",
+      "translation": "fiel"
+    },
+    {
+      "word": "Slay (verbo en ciertos contextos)",
+      "translation": "matar, dar muerte a"
+    },
+    {
+      "word": "Hence (adverbio)",
+      "translation": "de ahí, por lo tanto"
+    },
+    {
+      "word": "Spare (verbo)",
+      "translation": "perdonar, escatimar"
+    },
+    {
+      "word": "Whom thou didst falsely affirm to be slain by me",
+      "translation": "a quien afirmaste falsamente que"
+    },
+    {
+      "word": "Therewithal",
+      "translation": "con ello"
+    },
+    {
+      "word": "The pissing",
+      "translation": "la meada"
+    },
+    {
+      "word": "Watch where you're looking",
+      "translation": "fíjate por donde miras"
+    },
+    {
+      "word": "I don't think it's bust, just mashed",
+      "translation": "no creo que esté reventado, sólo machacado"
+    },
+    {
+      "word": "Pecking order",
+      "translation": "orden jerárquico"
+    },
+    {
+      "word": "A limp cock",
+      "translation": "una pija flácida"
+    },
+    {
+      "word": "Cocky little shit",
+      "translation": "el pequeño engreído de mierda"
+    },
+    {
+      "word": "Stop loafing around",
+      "translation": "deja de holgazanear"
+    },
+    {
+      "word": "Feather (verbo)",
+      "translation": "emplumar"
+    },
+    {
+      "word": "Mince (verbo)",
+      "translation": "picar"
+    },
+    {
+      "word": "In the middle of bum-fuck nowhere?",
+      "translation": "¿En medio de la jodida nada?"
+    },
+    {
+      "word": "Posh little fuckers",
+      "translation": "pequeños cabrones pijos"
+    },
+    {
+      "word": "Drain (sustantivo)",
+      "translation": "desagüe, drenaje"
+    },
+    {
+      "word": "Bequeath (verbo)",
+      "translation": "legar"
+    },
+    {
+      "word": "Frack hole",
+      "translation": "agujero de fracturación"
+    },
+    {
+      "word": "Frack (verbo en términos de suelo)",
+      "translation": "fracturar, hacer fracking"
+    },
+    {
+      "word": "Pimping her",
+      "translation": "alcahueteándola, proxenetizándola"
+    },
+    {
+      "word": "Chums",
+      "translation": "amigos, amiguetes"
+    },
+    {
+      "word": "Hedge funds?",
+      "translation": "¿Fondos especulativos?"
+    },
+    {
+      "word": "Famine",
+      "translation": "hambre, hambruna, escasez"
+    },
+    {
+      "word": "Knee-deep in shit",
+      "translation": "hasta las rodillas en la mierda"
+    },
+    {
+      "word": "No flushing latrine",
+      "translation": "no hay letrina con descarga de agua"
+    },
+    {
+      "word": "Mundane chasm",
+      "translation": "abismo mundano"
+    },
+    {
+      "word": "Gateway",
+      "translation": "puerta, entrada, portal"
+    },
+    {
+      "word": "Creep out",
+      "translation": "asustar, espantar"
+    },
+    {
+      "word": "Don’t be daft",
+      "translation": "no seas tonto"
+    },
+    {
+      "word": "Overemotional",
+      "translation": "demasiado emocional"
+    },
+    {
+      "word": "It's a breeding ground",
+      "translation": "es un caldo de cultivo"
+    },
+    {
+      "word": "Got on the wrong side",
+      "translation": "se puso en el lado equivocado"
+    },
+    {
+      "word": "All got brushed under the carpet",
+      "translation": "todo se metió debajo de la alfombra"
+    },
+    {
+      "word": "A cheeky fag",
+      "translation": "un marica descarado"
+    },
+    {
+      "word": "Warpath",
+      "translation": "sendero de guerra"
+    },
+    {
+      "word": "Fuss (verbo)",
+      "translation": "alborotar, quejarse"
+    },
+    {
+      "word": "Shed (verbo)",
+      "translation": "arrojar"
+    },
+    {
+      "word": "Hamper",
+      "translation": "cesta"
+    },
+    {
+      "word": "Leaky drains",
+      "translation": "desagües con fugas"
+    },
+    {
+      "word": "Oiky (palabra exclusiva en esta película)",
+      "translation": "odioso, extraño"
+    },
+    {
+      "word": "I'll speak to whom I bloody well like",
+      "translation": "hablaré con quien me dé la gana"
+    },
+    {
+      "word": "Wanking each other off",
+      "translation": "masturbándose mutuamente"
+    },
+    {
+      "word": "He topped himself",
+      "translation": "él se superó/coronó a sí mismo"
+    },
+    {
+      "word": "Weirdo",
+      "translation": "bicho raro"
+    },
+    {
+      "word": "Nuisance",
+      "translation": "molestia"
+    },
+    {
+      "word": "Your snuff box?",
+      "translation": "¿Tu caja de rapé?"
+    },
+    {
+      "word": "Sit tight (no literal)",
+      "translation": "no se mueva, no te muevas"
+    },
+    {
+      "word": "Shaft",
+      "translation": "eje"
+    },
+    {
+      "word": "There’s no way",
+      "translation": "no hay manera"
+    },
+    {
+      "word": "Bonker",
+      "translation": "loco, chiflado"
+    },
+    {
+      "word": "I'm such a tit",
+      "translation": "soy un idiota"
+    },
+    {
+      "word": "Sod this",
+      "translation": "al diablo con esto"
+    },
+    {
+      "word": "Was ist das? (en alemán)",
+      "translation": "¿Qué es eso?"
+    },
+    {
+      "word": "Snaggletooth",
+      "translation": "diente de sierra"
+    },
+    {
+      "word": "Give her a fag",
+      "translation": "dale un pitillo/cigarrillo"
+    },
+    {
+      "word": "Foxy",
+      "translation": "zorro"
+    },
+    {
+      "word": "Death beckons",
+      "translation": "la muerte llama"
+    },
+    {
+      "word": "Necromancer",
+      "translation": "nigromante"
+    },
+    {
+      "word": "I can't quite see you at the Arcadian orgy somehow",
+      "translation": "de alguna manera no puedo verte"
+    },
+    {
+      "word": "Bit of custard on it",
+      "translation": "un poco de crema"
+    },
+    {
+      "word": "Make out (en términos de diferenciar algo)",
+      "translation": "distinguir"
+    },
+    {
+      "word": "Carnassial teeth",
+      "translation": "dientes carnosos"
+    },
+    {
+      "word": "Vermin",
+      "translation": "alimaña, sabandija"
+    },
+    {
+      "word": "We should probably be getting off fairly soon-ish",
+      "translation": "probablemente deberíamos bajar"
+    },
+    {
+      "word": "You and your dodgy frack buddies",
+      "translation": "tú y tus amiguitos dudosos del frack"
+    },
+    {
+      "word": "Just you jolly well hold on",
+      "translation": "sólo espera un momento, sólo aguanta"
+    },
+    {
+      "word": "Ravings",
+      "translation": "delirios, desvaríos"
+    },
+    {
+      "word": "Lurk (verbo)",
+      "translation": "acechar, ocultarse"
+    },
+    {
+      "word": "Dodgy",
+      "translation": "dudoso"
+    },
+    {
+      "word": "Reputable",
+      "translation": "reputado, de buena reputación"
+    },
+    {
+      "word": "Scaremongering",
+      "translation": "alarmismo"
+    },
+    {
+      "word": "By golly",
+      "translation": "por dios"
+    },
+    {
+      "word": "Flat (sustantivo)",
+      "translation": "pinchazo"
+    },
+    {
+      "word": "Brace yourselves",
+      "translation": "agárrense, sujétense"
+    },
+    {
+      "word": "Reverse (verbo)",
+      "translation": "dar macha atrás, dar la vuelta"
+    },
+    {
+      "word": "Hedge (sustantivo)",
+      "translation": "seto"
+    },
+    {
+      "word": "It's tool-up time",
+      "translation": "es hora de poner las herramientas"
+    },
+    {
+      "word": "Cupboard",
+      "translation": "armario, alacena"
+    },
+    {
+      "word": "Cripes, he's gonna finger her",
+      "translation": "cielos, le va a meter el dedo"
+    },
+    {
+      "word": "Knobheads",
+      "translation": "cabezas huecas"
+    },
+    {
+      "word": "I don't half fancy you",
+      "translation": "no me gustas ni la mitad"
+    },
+    {
+      "word": "Restrain (verbo)",
+      "translation": "frenar, restringir, contener"
+    },
+    {
+      "word": "I've come to get you",
+      "translation": "he venido a por ti"
+    },
+    {
+      "word": "Lot",
+      "translation": "lote"
+    },
+    {
+      "word": "Skinned",
+      "translation": "despellejado, desollado"
+    },
+    {
+      "word": "Bloody hell",
+      "translation": "maldita sea"
+    },
+    {
+      "word": "Who’s gonna shag?",
+      "translation": "¿Quién va a follar?"
+    },
+    {
+      "word": "A splitting headache",
+      "translation": "un dolor de cabeza intenso"
+    },
+    {
+      "word": "Pike (en ciertos contextos)",
+      "translation": "lucio"
+    },
+    {
+      "word": "Top myself",
+      "translation": "superarse a mí mismo"
+    },
+    {
+      "word": "Slouch (verbo)",
+      "translation": "encorvar"
+    },
+    {
+      "word": "Collective",
+      "translation": "colectivo"
+    },
+    {
+      "word": "Frack (sustantivo)",
+      "translation": "fractura"
+    },
+    {
+      "word": "A distress flare",
+      "translation": "una bengala de auxilio"
+    },
+    {
+      "word": "Ram (verbo)",
+      "translation": "embestir"
+    },
+    {
+      "word": "Glow sticks",
+      "translation": "barras luminosas"
+    },
+    {
+      "word": "Could have bowled for England",
+      "translation": "podría haber jugado para Inglaterra"
+    },
+    {
+      "word": "And smash that lock off",
+      "translation": "y rompe esa cerradura"
+    },
+    {
+      "word": "Good heavens",
+      "translation": "santo cielo"
+    },
+    {
+      "word": "Scratch (sustantivo)",
+      "translation": "rasguño, arañazo"
+    },
+    {
+      "word": "Gun rack",
+      "translation": "armero, estante para armas"
+    },
+    {
+      "word": "Queer (significado literal)",
+      "translation": "marica"
+    },
+    {
+      "word": "Bugger (verbo en algunos contextos)",
+      "translation": "sodomizar"
+    },
+    {
+      "word": "Disgraceful",
+      "translation": "deshonroso, vergonzoso"
+    },
+    {
+      "word": "We can make a run",
+      "translation": "podemos hacer una carrera"
+    },
+    {
+      "word": "Wellies",
+      "translation": "botas de agua"
+    },
+    {
+      "word": "Unfulfilled",
+      "translation": "insatisfecho"
+    },
+    {
+      "word": "Feint move",
+      "translation": "movimiento de finta"
+    },
+    {
+      "word": "Wielder",
+      "translation": "portador"
+    },
+    {
+      "word": "Defog (verbo)",
+      "translation": "desempañar"
+    },
+    {
+      "word": "Dab or snuff?",
+      "translation": "¿Sabotaje o tabaco?"
+    },
+    {
+      "word": "Whisk",
+      "translation": "batidor"
+    },
+    {
+      "word": "As they prepare to make themselves felt in the world",
+      "translation": "mientras se preparan para"
+    },
+    {
+      "word": "Per caedes ad astra (en latín)",
+      "translation": "a través de la matanza a las estrellas"
+    }
+  ]
+}

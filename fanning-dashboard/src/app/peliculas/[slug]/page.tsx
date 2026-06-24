@@ -16,6 +16,7 @@ export default function PeliculaPage() {
   const [loading, setLoading] = useState(true);
   const [images, setImages] = useState({ backdrop: '', poster: '' });
   const [tmdbInfo, setTmdbInfo] = useState({ overview: '', photos: [] as string[] });
+  const [manualId, setManualId] = useState<string | null>(null);
 
   // Flashcards State
   const [showFlashcards, setShowFlashcards] = useState(false);
@@ -51,6 +52,55 @@ export default function PeliculaPage() {
         // 3. Fetch TMDB Data
         const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
         let searchTitle = decodedTitle;
+
+        const processTmdbResult = async (result: any) => {
+            let finalOverview = result.overview;
+            if (!finalOverview || finalOverview.trim() === '') {
+                // Sinopsis en español no disponible, intentamos en inglés y traducimos al vuelo
+                const enRes = await fetch(`https://api.themoviedb.org/3/movie/${result.id}?api_key=${apiKey}&language=en-US`);
+                const enJson = await enRes.json();
+                if (enJson.overview) {
+                    try {
+                        const transRes = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=${encodeURIComponent(enJson.overview)}`);
+                        const transJson = await transRes.json();
+                        if (transJson && transJson[0]) {
+                            finalOverview = transJson[0].map((t: any) => t[0]).join('');
+                        }
+                    } catch(e) {
+                        finalOverview = enJson.overview; // Fallback al inglés
+                    }
+                } else {
+                    finalOverview = 'Sinopsis no disponible.';
+                }
+            } else {
+                finalOverview = finalOverview || 'Sinopsis no disponible.';
+            }
+
+            setTmdbInfo(prev => ({ ...prev, overview: finalOverview }));
+            
+            // Fetch images for gallery and force English covers
+            const imagesRes = await fetch(`https://api.themoviedb.org/3/movie/${result.id}/images?api_key=${apiKey}&include_image_language=en,null`);
+            const imagesJson = await imagesRes.json();
+            
+            let enPoster = result.poster_path;
+            let enBackdrop = result.backdrop_path;
+
+            if (imagesJson.posters && imagesJson.posters.length > 0) {
+                enPoster = imagesJson.posters[0].file_path;
+            }
+            if (imagesJson.backdrops && imagesJson.backdrops.length > 0) {
+                enBackdrop = imagesJson.backdrops[0].file_path;
+                const gallery = imagesJson.backdrops.slice(0, 6).map((img: any) => `https://image.tmdb.org/t/p/w780${img.file_path}`);
+                setTmdbInfo(prev => ({ ...prev, photos: gallery }));
+            } else {
+                setTmdbInfo(prev => ({ ...prev, photos: [] }));
+            }
+
+            setImages({
+                backdrop: enBackdrop ? `https://image.tmdb.org/t/p/original${enBackdrop}` : '',
+                poster: enPoster ? `https://image.tmdb.org/t/p/w500${enPoster}` : ''
+            });
+        };
         
         // 3.1. Revisa si hay Override Manual
         const savedOverridesStr = localStorage.getItem('tmdb_manual_overrides');
@@ -58,23 +108,12 @@ export default function PeliculaPage() {
             try {
                 const savedOverrides = JSON.parse(savedOverridesStr);
                 if (savedOverrides[decodedTitle]) {
-                    const tmdbRes = await fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[decodedTitle]}?api_key=${apiKey}&language=es-MX&include_image_language=en,null`);
+                    setManualId(savedOverrides[decodedTitle]);
+                    const tmdbRes = await fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[decodedTitle]}?api_key=${apiKey}&language=es-MX`);
                     const result = await tmdbRes.json();
                     
                     if (result.id) {
-                        setImages({
-                            backdrop: result.backdrop_path ? `https://image.tmdb.org/t/p/original${result.backdrop_path}` : '',
-                            poster: result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : ''
-                        });
-                        setTmdbInfo(prev => ({ ...prev, overview: result.overview || 'Sinopsis no disponible.' }));
-                        
-                        // Fetch images for gallery
-                        const imagesRes = await fetch(`https://api.themoviedb.org/3/movie/${result.id}/images?api_key=${apiKey}`);
-                        const imagesJson = await imagesRes.json();
-                        if (imagesJson.backdrops) {
-                            const gallery = imagesJson.backdrops.slice(0, 6).map((img: any) => `https://image.tmdb.org/t/p/w780${img.file_path}`);
-                            setTmdbInfo(prev => ({ ...prev, photos: gallery }));
-                        }
+                        await processTmdbResult(result);
                     }
                     return; // Fin, ya usamos el manual
                 }
@@ -98,24 +137,11 @@ export default function PeliculaPage() {
             }
         }
 
-        const tmdbRes = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&${queryParams}&language=es-MX&include_image_language=en,null`);
+        const tmdbRes = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&${queryParams}&language=es-MX`);
         const tmdbJson = await tmdbRes.json();
         
         if (tmdbJson.results && tmdbJson.results.length > 0) {
-          const result = tmdbJson.results[0];
-          setImages({
-            backdrop: result.backdrop_path ? `https://image.tmdb.org/t/p/original${result.backdrop_path}` : '',
-            poster: result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : ''
-          });
-          setTmdbInfo(prev => ({ ...prev, overview: result.overview || 'Sinopsis no disponible.' }));
-          
-          // Fetch images for gallery
-          const imagesRes = await fetch(`https://api.themoviedb.org/3/movie/${result.id}/images?api_key=${apiKey}`);
-          const imagesJson = await imagesRes.json();
-          if (imagesJson.backdrops) {
-              const gallery = imagesJson.backdrops.slice(0, 6).map((img: any) => `https://image.tmdb.org/t/p/w780${img.file_path}`);
-              setTmdbInfo(prev => ({ ...prev, photos: gallery }));
-          }
+          await processTmdbResult(tmdbJson.results[0]);
         }
       } catch (err) {
         console.error("Error loading data:", err);
@@ -177,29 +203,59 @@ export default function PeliculaPage() {
         {/* Navegación y Acciones */}
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8">
             <button 
-                onClick={() => router.push('/')} 
+                onClick={() => {
+                    if (window.history.length > 1 && document.referrer.includes(window.location.host)) {
+                        router.back();
+                    } else {
+                        router.push('/');
+                    }
+                }} 
                 className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/10 hover:bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm border border-white/10 transition-all text-sm sm:text-base w-fit"
             >
                 <ArrowLeft size={18} /> Volver al Dashboard
             </button>
-            <button 
-                onClick={() => {
-                    const tmdbId = window.prompt(`[SISTEMA MANUAL]\nIntroduce el ID de TMDB para la película "${decodedTitle}":`);
-                    if (tmdbId && tmdbId.trim() !== '') {
-                        let saved = {};
-                        try {
-                            const str = localStorage.getItem('tmdb_manual_overrides');
-                            if (str) saved = JSON.parse(str);
-                        } catch(e) {}
-                        saved[decodedTitle] = tmdbId.trim();
-                        localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
-                        window.location.reload();
-                    }
-                }} 
-                className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/5 hover:bg-white/10 px-3 py-1.5 rounded-full backdrop-blur-sm border border-white/5 hover:border-white/20 transition-all text-xs"
-            >
-                <Edit2 size={14} /> Corregir TMDB
-            </button>
+            
+            <div className="flex items-center gap-2">
+                {manualId && (
+                    <div className="flex items-center gap-2 bg-emerald-900/40 border border-emerald-500/30 text-emerald-300 px-3 py-1.5 rounded-full text-xs shadow-lg backdrop-blur-sm">
+                        <span>ID Manual: {manualId}</span>
+                        <button 
+                            onClick={() => {
+                                let saved: Record<string, string> = {};
+                                try {
+                                    const str = localStorage.getItem('tmdb_manual_overrides');
+                                    if (str) saved = JSON.parse(str);
+                                } catch(e) {}
+                                delete saved[decodedTitle];
+                                localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
+                                window.location.reload();
+                            }}
+                            className="text-emerald-400 hover:text-emerald-200 transition bg-emerald-900/50 p-1 rounded-full"
+                            title="Quitar manual"
+                        >
+                            <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                        </button>
+                    </div>
+                )}
+                <button 
+                    onClick={() => {
+                        const tmdbId = window.prompt(`[SISTEMA MANUAL]\nIntroduce el ID de TMDB para la película "${decodedTitle}":`);
+                        if (tmdbId && tmdbId.trim() !== '') {
+                            let saved: Record<string, string> = {};
+                            try {
+                                const str = localStorage.getItem('tmdb_manual_overrides');
+                                if (str) saved = JSON.parse(str);
+                            } catch(e) {}
+                            saved[decodedTitle] = tmdbId.trim();
+                            localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
+                            window.location.reload();
+                        }
+                    }} 
+                    className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/5 hover:bg-white/10 px-3 py-1.5 rounded-full backdrop-blur-sm border border-white/5 hover:border-white/20 transition-all text-xs"
+                >
+                    <Edit2 size={14} /> Corregir TMDB
+                </button>
+            </div>
         </div>
 
         {/* Hero Section */}

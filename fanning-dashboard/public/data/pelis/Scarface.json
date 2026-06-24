@@ -1,0 +1,682 @@
+{
+  "title": "Scarface",
+  "englishAnalysis": "Un clásico del cine criminal de los años 80. El lenguaje es extremadamente explícito, agresivo y dominado por el denso acento cubano-americano de Tony Montana. Abunda la jerga criminal, los insultos creativos y expresiones de poder. No apta para oídos sensibles, pero excelente para captar acentos fuertes.",
+  "vocabulary": [
+    {
+      "word": "Brother-in-law",
+      "translation": "cuñado"
+    },
+    {
+      "word": "Come over",
+      "translation": "venir"
+    },
+    {
+      "word": "Pitchfork",
+      "translation": "horca, horquilla"
+    },
+    {
+      "word": "I was in the can one time (expresión informal)",
+      "translation": "una vez estuve en la cárcel"
+    },
+    {
+      "word": "Mug (verbo)",
+      "translation": "asaltar"
+    },
+    {
+      "word": "Octopus",
+      "translation": "pulpo"
+    },
+    {
+      "word": "Alike",
+      "translation": "igual"
+    },
+    {
+      "word": "Castro just sprung him",
+      "translation": "Castro acaba de soltarlo"
+    },
+    {
+      "word": "Carve up",
+      "translation": "descuartizar, trinchar"
+    },
+    {
+      "word": "Unload (verbo)",
+      "translation": "descargar (objetos)"
+    },
+    {
+      "word": "Baggage handlers",
+      "translation": "maleteros"
+    },
+    {
+      "word": "Going rate",
+      "translation": "tarifa, precio"
+    },
+    {
+      "word": "You gotta work your way up to 500",
+      "translation": "tienes que trabajar hasta llegar a 500"
+    },
+    {
+      "word": "Bring back",
+      "translation": "traer de vuelta/regreso"
+    },
+    {
+      "word": "Machine gun",
+      "translation": "ametralladora"
+    },
+    {
+      "word": "Stick your heads up your asses",
+      "translation": "meter sus cabezas por sus traseros"
+    },
+    {
+      "word": "Look after",
+      "translation": "cuidar"
+    },
+    {
+      "word": "Stay loose",
+      "translation": "estar suelto"
+    },
+    {
+      "word": "Just play it cool",
+      "translation": "solo juega tranquilo"
+    },
+    {
+      "word": "You got it?",
+      "translation": "¿Entendido?"
+    },
+    {
+      "word": "I got it close by",
+      "translation": "lo tengo cerca"
+    },
+    {
+      "word": "I have it close by",
+      "translation": "lo tengo cerca"
+    },
+    {
+      "word": "Start over",
+      "translation": "empezar de nuevo"
+    },
+    {
+      "word": "Slender evidence",
+      "translation": "prueba delgada"
+    },
+    {
+      "word": "Went right through",
+      "translation": "pasó a través de él"
+    },
+    {
+      "word": "Scotch, gin, rum",
+      "translation": "whisky escocés, ginebra, ron"
+    },
+    {
+      "word": "Move up (en términos de negocios)",
+      "translation": "subir, ascender"
+    },
+    {
+      "word": "Bring in",
+      "translation": "traer"
+    },
+    {
+      "word": "Gotta get her in between",
+      "translation": "hay que meterla en medio"
+    },
+    {
+      "word": "Catcher",
+      "translation": "receptor"
+    },
+    {
+      "word": "A base hit",
+      "translation": "un hit de base"
+    },
+    {
+      "word": "Setup",
+      "translation": "configuración"
+    },
+    {
+      "word": "All down that way",
+      "translation": "todo por ahí"
+    },
+    {
+      "word": "Chaser",
+      "translation": "cazador, perseguidor"
+    },
+    {
+      "word": "He don’t fly straight no more",
+      "translation": "ya no vuela derecho"
+    },
+    {
+      "word": "It comes down to one thing",
+      "translation": "todo se reduce a una cosa"
+    },
+    {
+      "word": "Greed",
+      "translation": "avaricia, codicia"
+    },
+    {
+      "word": "Don’t get high on your own supply",
+      "translation": "no te drogues con tu propio suministro"
+    },
+    {
+      "word": "Pour (verbo)",
+      "translation": "servir (una bebida)"
+    },
+    {
+      "word": "Right away",
+      "translation": "de inmediato, enseguida"
+    },
+    {
+      "word": "So you look real sharp",
+      "translation": "así que te ves muy bien"
+    },
+    {
+      "word": "Foam into",
+      "translation": "echar espuma"
+    },
+    {
+      "word": "Peasant",
+      "translation": "campesino"
+    },
+    {
+      "word": "It’s none of your business (expresión)",
+      "translation": "no es asunto tuyo"
+    },
+    {
+      "word": "Keep it coming",
+      "translation": "sigue así"
+    },
+    {
+      "word": "Booze",
+      "translation": "bebida, alcohol"
+    },
+    {
+      "word": "Cage",
+      "translation": "jaula"
+    },
+    {
+      "word": "Sights",
+      "translation": "vistas"
+    },
+    {
+      "word": "Greaseball",
+      "translation": "bola de grasa"
+    },
+    {
+      "word": "Hang back",
+      "translation": "esperar, quedarse atrás"
+    },
+    {
+      "word": "Stick out",
+      "translation": "sacar"
+    },
+    {
+      "word": "Get held up",
+      "translation": "ser retenido/asaltado"
+    },
+    {
+      "word": "A cream puff",
+      "translation": "un bollo de crema"
+    },
+    {
+      "word": "Machine-gun turrets",
+      "translation": "torretas ametralladoras"
+    },
+    {
+      "word": "Scrambler",
+      "translation": "codificador"
+    },
+    {
+      "word": "Flying saucer",
+      "translation": "platillo volador"
+    },
+    {
+      "word": "Fog lights",
+      "translation": "luces/faros antiniebla"
+    },
+    {
+      "word": "Swamp (sustantivo)",
+      "translation": "pantano"
+    },
+    {
+      "word": "Keep down",
+      "translation": "mantener abajo"
+    },
+    {
+      "word": "Open that up",
+      "translation": "abre eso"
+    },
+    {
+      "word": "Beauty parlor",
+      "translation": "salón de belleza"
+    },
+    {
+      "word": "Junior college",
+      "translation": "universidad junior"
+    },
+    {
+      "word": "Come around",
+      "translation": "venir"
+    },
+    {
+      "word": "A gun sticking in somebody’s face is how",
+      "translation": "una pistola apuntando a la cara de alguien es"
+    },
+    {
+      "word": "Hotshot clothes",
+      "translation": "ropas de fanfarrón"
+    },
+    {
+      "word": "Spoil (verbo en otro contexto)",
+      "translation": "estropear"
+    },
+    {
+      "word": "I gotta go back in",
+      "translation": "tengo que volver"
+    },
+    {
+      "word": "Put away",
+      "translation": "guardar"
+    },
+    {
+      "word": "Frogmen",
+      "translation": "hombres rana"
+    },
+    {
+      "word": "I am down on Frank’s authority",
+      "translation": "estoy abajo en la autoridad de Frank"
+    },
+    {
+      "word": "Informer",
+      "translation": "informante"
+    },
+    {
+      "word": "Let’s get this straight now",
+      "translation": "aclaremos esto ahora"
+    },
+    {
+      "word": "He had me set me up",
+      "translation": "me tendió una trampa"
+    },
+    {
+      "word": "A hit squad",
+      "translation": "escuadrón de asalto"
+    },
+    {
+      "word": "I’m in tight with Sosa",
+      "translation": "estoy de acuerdo con Sosa"
+    },
+    {
+      "word": "You short a couple of a mil",
+      "translation": "te faltan un par de millones"
+    },
+    {
+      "word": "He’ll stick it in",
+      "translation": "él se la meterá"
+    },
+    {
+      "word": "Stoolie",
+      "translation": "soplón"
+    },
+    {
+      "word": "Stall (verbo)",
+      "translation": "demorar, retrasar"
+    },
+    {
+      "word": "I come from the gutter",
+      "translation": "vengo de la alcantarilla"
+    },
+    {
+      "word": "I laid eyes on you",
+      "translation": "puse los ojos en ti"
+    },
+    {
+      "word": "He’s harmless",
+      "translation": "él es inofensivo"
+    },
+    {
+      "word": "A long ride",
+      "translation": "un largo paseo"
+    },
+    {
+      "word": "I’m gonna bust your wiseass spic balls",
+      "translation": "te voy a romper las pelotas sabelotodo"
+    },
+    {
+      "word": "A small-time punk",
+      "translation": "un gamberro de poca monta"
+    },
+    {
+      "word": "Shake down",
+      "translation": "sacudir"
+    },
+    {
+      "word": "Step in",
+      "translation": "intervenir"
+    },
+    {
+      "word": "Badge",
+      "translation": "placa, insignia"
+    },
+    {
+      "word": "You feed me a bust now and then",
+      "translation": "me das de comer de vez en cuando"
+    },
+    {
+      "word": "Grease (verbo)",
+      "translation": "engrasar"
+    },
+    {
+      "word": "Crawl out",
+      "translation": "arrastrar"
+    },
+    {
+      "word": "Round-trip tickets",
+      "translation": "pasajes de ida y vuelta"
+    },
+    {
+      "word": "You are really nuts",
+      "translation": "estás realmente loco"
+    },
+    {
+      "word": "Fertilizer",
+      "translation": "abono, fertilizante"
+    },
+    {
+      "word": "He’s got weight on me",
+      "translation": "tiene peso sobre mí"
+    },
+    {
+      "word": "Lounge chair",
+      "translation": "butaca"
+    },
+    {
+      "word": "Wipe (verbo)",
+      "translation": "limpiar"
+    },
+    {
+      "word": "Gram",
+      "translation": "gramo"
+    },
+    {
+      "word": "You’ll all be babbling on",
+      "translation": "todos seguirán parloteando/balbuceando"
+    },
+    {
+      "word": "Checking up on me?",
+      "translation": "¿Controlándome?, ¿Investigándome?"
+    },
+    {
+      "word": "Umpire",
+      "translation": "juez, árbitro"
+    },
+    {
+      "word": "Hitters",
+      "translation": "bateadores"
+    },
+    {
+      "word": "In spades",
+      "translation": "con creces"
+    },
+    {
+      "word": "But I never turned on you",
+      "translation": "pero nunca me volví contra ti"
+    },
+    {
+      "word": "Clip (verbo)",
+      "translation": "recortar, cortar"
+    },
+    {
+      "word": "Broad (en sentido informal)",
+      "translation": "tipa, tía"
+    },
+    {
+      "word": "A wholesale operation",
+      "translation": "una operación al por mayor"
+    },
+    {
+      "word": "Rinse (verbo)",
+      "translation": "aclarar, limpiar"
+    },
+    {
+      "word": "I go low, you go high",
+      "translation": "yo bajo, tú subes"
+    },
+    {
+      "word": "Stockholders",
+      "translation": "accionistas"
+    },
+    {
+      "word": "Bills (en términos de dinero)",
+      "translation": "cuentas, facturas"
+    },
+    {
+      "word": "Schmuck",
+      "translation": "imbécil, idiota"
+    },
+    {
+      "word": "A well-liked customer",
+      "translation": "un cliente muy querido"
+    },
+    {
+      "word": "Mob guys",
+      "translation": "chicos mafiosos"
+    },
+    {
+      "word": "Sweep (verbo)",
+      "translation": "barrer"
+    },
+    {
+      "word": "Rig (verbo en comunicaciones)",
+      "translation": "manipular"
+    },
+    {
+      "word": "Dopers",
+      "translation": "dopados"
+    },
+    {
+      "word": "That truck could be anybody or anything",
+      "translation": "ese camión podría ser cualquiera o cualquier"
+    },
+    {
+      "word": "Counter-surveillance",
+      "translation": "contra-vigilancia"
+    },
+    {
+      "word": "Adjusted gross (en términos de ingresos)",
+      "translation": "bruto ajustado"
+    },
+    {
+      "word": "Powder (verbo)",
+      "translation": "empolvar"
+    },
+    {
+      "word": "A small law-enforcement budget",
+      "translation": "un pequeño presupuesto policial"
+    },
+    {
+      "word": "How can you put a dent?",
+      "translation": "¿Cómo puedes poner una abolladura?"
+    },
+    {
+      "word": "Dyke (sustantivo común)",
+      "translation": "dique, tortillera"
+    },
+    {
+      "word": "Outlaw (verbo)",
+      "translation": "prohibir, ilegalizar"
+    },
+    {
+      "word": "Drive out",
+      "translation": "expulsar, eliminar"
+    },
+    {
+      "word": "Spic",
+      "translation": "hispano"
+    },
+    {
+      "word": "Bury (verbo)",
+      "translation": "enterrar"
+    },
+    {
+      "word": "Lepers",
+      "translation": "leprosos"
+    },
+    {
+      "word": "Anything beats lying around all day",
+      "translation": "cualquier cosa es mejor que estar tirado todo el"
+    },
+    {
+      "word": "Don’t toot your horn",
+      "translation": "no toques el claxon"
+    },
+    {
+      "word": "It’s not all it’s cracked up to be",
+      "translation": "no es lo que parece"
+    },
+    {
+      "word": "It’s all set up",
+      "translation": "está todo preparado"
+    },
+    {
+      "word": "How come",
+      "translation": "cómo es que"
+    },
+    {
+      "word": "We’re up to what?",
+      "translation": "¿Estamos a qué?"
+    },
+    {
+      "word": "Take a leak",
+      "translation": "orinar, ir a mear"
+    },
+    {
+      "word": "Throw up",
+      "translation": "vomitar"
+    },
+    {
+      "word": "Call off",
+      "translation": "llamar"
+    },
+    {
+      "word": "Jerk off",
+      "translation": "hacer una paja, masturbarse"
+    },
+    {
+      "word": "Staring into",
+      "translation": "mirar a"
+    },
+    {
+      "word": "Guard (verbo)",
+      "translation": "vigilar, custodiar"
+    },
+    {
+      "word": "A wealthy landowner",
+      "translation": "un rico terrateniente"
+    },
+    {
+      "word": "Drug overlord",
+      "translation": "capo de la droga"
+    },
+    {
+      "word": "Disposal business",
+      "translation": "negocio de la eliminación"
+    },
+    {
+      "word": "Run things for me",
+      "translation": "dirige cosas por mí"
+    },
+    {
+      "word": "Postponement",
+      "translation": "aplazamiento, prórroga"
+    },
+    {
+      "word": "Belly",
+      "translation": "vientre, panza"
+    },
+    {
+      "word": "Is this what it’s all about?",
+      "translation": "¿De esto se trata?"
+    },
+    {
+      "word": "Junkie",
+      "translation": "drogadicto"
+    },
+    {
+      "word": "Don’t pick on her",
+      "translation": "no te metas con ella"
+    },
+    {
+      "word": "Womb",
+      "translation": "útero, vientre"
+    },
+    {
+      "word": "Hang around",
+      "translation": "merodear"
+    },
+    {
+      "word": "You’re stoned",
+      "translation": "estás drogado"
+    },
+    {
+      "word": "Blow up",
+      "translation": "explotar, volar por los aires"
+    },
+    {
+      "word": "Vulture",
+      "translation": "buitre"
+    },
+    {
+      "word": "Worm",
+      "translation": "gusano"
+    },
+    {
+      "word": "I’ve been calling all over",
+      "translation": "he estado llamando a todas partes"
+    },
+    {
+      "word": "Take off",
+      "translation": "sacar, quitar"
+    },
+    {
+      "word": "Get him on the phone",
+      "translation": "pónlo al teléfono"
+    },
+    {
+      "word": "I’ll be over to see you",
+      "translation": "iré a verte"
+    },
+    {
+      "word": "Driveway",
+      "translation": "entrada"
+    },
+    {
+      "word": "Mind your own business",
+      "translation": "métete en tus asuntos"
+    },
+    {
+      "word": "Cool down",
+      "translation": "refrescar, enfriar"
+    },
+    {
+      "word": "Close that fucker down",
+      "translation": "cierra a ese cabrón"
+    },
+    {
+      "word": "He’s gonna run all over you",
+      "translation": "él te va a pasar por encima"
+    },
+    {
+      "word": "We gotta get organized here",
+      "translation": "tenemos que organizarnos aquí"
+    },
+    {
+      "word": "Stand for",
+      "translation": "soportar"
+    },
+    {
+      "word": "You better come and get me now",
+      "translation": "será mejor que vengas a buscarme ahora"
+    },
+    {
+      "word": "I’m still standing",
+      "translation": "todavía sigo de pie"
+    }
+  ]
+}

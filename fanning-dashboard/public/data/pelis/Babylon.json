@@ -1,0 +1,866 @@
+{
+  "title": "Babylon",
+  "englishAnalysis": "Ambientada en los años 20 durante la transición del cine mudo al sonoro, el lenguaje de esta película es frenético, crudo y lleno de excesos. Abunda la jerga de la industria cinematográfica temprana, expresiones de asombro y desesperación, y un ritmo de diálogo extremadamente rápido que pondrá a prueba tu comprensión auditiva en situaciones caóticas.",
+  "vocabulary": [
+    {
+      "word": "Livestock",
+      "translation": "ganado"
+    },
+    {
+      "word": "Playtime with potty time!",
+      "translation": "¡Hora de jugar con el orinal!"
+    },
+    {
+      "word": "Powder room",
+      "translation": "tocador"
+    },
+    {
+      "word": "Steep (adjetivo)",
+      "translation": "empinado"
+    },
+    {
+      "word": "Everywhere you turn",
+      "translation": "dondequiera que mires"
+    },
+    {
+      "word": "Dummy",
+      "translation": "tonto, idiota"
+    },
+    {
+      "word": "My stage name",
+      "translation": "mi nombre artístico"
+    },
+    {
+      "word": "Kind of stomp around",
+      "translation": "una especie de pisotón alrededor"
+    },
+    {
+      "word": "You whiny bitch",
+      "translation": "perra quejumbrosa"
+    },
+    {
+      "word": "You’re playing flat",
+      "translation": "juegas jodidamente plano"
+    },
+    {
+      "word": "You’d be home long enough to fucking practice",
+      "translation": "estarías en casa el tiempo suficiente"
+    },
+    {
+      "word": "Ether",
+      "translation": "éter"
+    },
+    {
+      "word": "Void",
+      "translation": "vacío"
+    },
+    {
+      "word": "Moola-minting money machine",
+      "translation": "máquina de hacer dinero"
+    },
+    {
+      "word": "How’s the missus?",
+      "translation": "¿Cómo está la señora?"
+    },
+    {
+      "word": "Get ahold of",
+      "translation": "conseguir"
+    },
+    {
+      "word": "Orange blossom",
+      "translation": "flor de naranjo, flor de azahar"
+    },
+    {
+      "word": "Corpse reviver",
+      "translation": "revividor de cadáveres"
+    },
+    {
+      "word": "A dash of absinthe",
+      "translation": "un chorrito de absenta"
+    },
+    {
+      "word": "I drive off the nearest cliff",
+      "translation": "lo tiro por el acantilado más cercano"
+    },
+    {
+      "word": "After all we’ve been through",
+      "translation": "después de todo lo que hemos pasado"
+    },
+    {
+      "word": "A movie set",
+      "translation": "un set de rodaje"
+    },
+    {
+      "word": "Scoop (verbo en algunos contextos)",
+      "translation": "sacar, recoger"
+    },
+    {
+      "word": "Wherever",
+      "translation": "donde sea"
+    },
+    {
+      "word": "You’re not bad-looking",
+      "translation": "no eres feo"
+    },
+    {
+      "word": "Pet (verbo)",
+      "translation": "acariciar"
+    },
+    {
+      "word": "Every evening we get set",
+      "translation": "todas las noches nos preparamos"
+    },
+    {
+      "word": "I stroke it",
+      "translation": "lo acaricio"
+    },
+    {
+      "word": "Seldom plays and never purrs",
+      "translation": "rara vez juega y nunca ronronea"
+    },
+    {
+      "word": "Stir (verbo)",
+      "translation": "agitar"
+    },
+    {
+      "word": "She works me to a sweat",
+      "translation": "ella me hace sudar"
+    },
+    {
+      "word": "They’re all high down there",
+      "translation": "están todos drogados ahí abajo"
+    },
+    {
+      "word": "Wrangler",
+      "translation": "vaquero"
+    },
+    {
+      "word": "Blimp",
+      "translation": "dirigible"
+    },
+    {
+      "word": "Doughboy (informal)",
+      "translation": "donjuán"
+    },
+    {
+      "word": "Fuckhead",
+      "translation": "cabrón, hijo de puta"
+    },
+    {
+      "word": "Cut up",
+      "translation": "cortar"
+    },
+    {
+      "word": "I’m gonna raise you (traducción no literal en términos laborales)",
+      "translation": "te voy a ofrecer una"
+    },
+    {
+      "word": "The ugliest mutt",
+      "translation": "el chucho más feo"
+    },
+    {
+      "word": "Pass out",
+      "translation": "desmayarse, perder el conocimiento"
+    },
+    {
+      "word": "Twelve-tone",
+      "translation": "doce tonos"
+    },
+    {
+      "word": "Mint juleps",
+      "translation": "julepe de menta"
+    },
+    {
+      "word": "Reminisce (verbo)",
+      "translation": "rememorar, recordar"
+    },
+    {
+      "word": "Pesky shells of flesh and bone",
+      "translation": "molestos caparazones de carne y hueso"
+    },
+    {
+      "word": "Map those dreams onto celluloid",
+      "translation": "plasma esos sueños en celuloide"
+    },
+    {
+      "word": "Flickering screen",
+      "translation": "pantalla parpadeante"
+    },
+    {
+      "word": "Coolie",
+      "translation": "friki"
+    },
+    {
+      "word": "Go over",
+      "translation": "ir"
+    },
+    {
+      "word": "Peanuts",
+      "translation": "cacahuates"
+    },
+    {
+      "word": "Hangovers",
+      "translation": "resacas"
+    },
+    {
+      "word": "Get her made up",
+      "translation": "maquíllala"
+    },
+    {
+      "word": "Syrup",
+      "translation": "jarabe, sirope"
+    },
+    {
+      "word": "Do the warming",
+      "translation": "calentar (un alimento)"
+    },
+    {
+      "word": "Biz",
+      "translation": "sector, negocio, mercado"
+    },
+    {
+      "word": "Set patrol over there is Jim Kidd",
+      "translation": "el patrullero de allí es Jim Kidd."
+    },
+    {
+      "word": "Revolt (verbo)",
+      "translation": "sublevarse, revelarse"
+    },
+    {
+      "word": "Do you have experience with strikes?",
+      "translation": "¿Tiene experiencia con las huelgas?"
+    },
+    {
+      "word": "Junkies",
+      "translation": "drogadictos"
+    },
+    {
+      "word": "Ram this knife up the asshole",
+      "translation": "meter este cuchillo por el culo"
+    },
+    {
+      "word": "Faggot",
+      "translation": "maricón"
+    },
+    {
+      "word": "Send over",
+      "translation": "enviar"
+    },
+    {
+      "word": "Marbled meadows metamorphose",
+      "translation": "los prados jaspeados se metamorfosean"
+    },
+    {
+      "word": "Swarm (verbo)",
+      "translation": "pulular"
+    },
+    {
+      "word": "Flecks of paint",
+      "translation": "motas de pintura"
+    },
+    {
+      "word": "Brush (sustantivo)",
+      "translation": "pincel"
+    },
+    {
+      "word": "Your humble servant bears witness",
+      "translation": "tu humilde servidor da testimonio"
+    },
+    {
+      "word": "Probably ran into it himself",
+      "translation": "probablemente se topó con él mismo"
+    },
+    {
+      "word": "They’ll edit it out in post",
+      "translation": "lo editarán en el post"
+    },
+    {
+      "word": "Prosthetic",
+      "translation": "prótesis"
+    },
+    {
+      "word": "She only does leads",
+      "translation": "ella sólo hace pistas"
+    },
+    {
+      "word": "Young up-all-comers",
+      "translation": "jóvenes promesas"
+    },
+    {
+      "word": "Props",
+      "translation": "atrezzo, utilería"
+    },
+    {
+      "word": "You have buckets of charm",
+      "translation": "tienes mucho encanto"
+    },
+    {
+      "word": "Fluffier plays",
+      "translation": "obras de teatro"
+    },
+    {
+      "word": "We couldn’t afford star fees",
+      "translation": "no podíamos costear las tasas de las estrellas"
+    },
+    {
+      "word": "How about I talk it over with the studio?",
+      "translation": "¿Qué tal si lo hablo con el estudio?"
+    },
+    {
+      "word": "A camera run",
+      "translation": "una carrera de cámara"
+    },
+    {
+      "word": "A flag sticking through his chest",
+      "translation": "una bandera clavada en el pecho"
+    },
+    {
+      "word": "Get me wet",
+      "translation": "mójame"
+    },
+    {
+      "word": "Snuggle pup",
+      "translation": "cachorro acurrucado"
+    },
+    {
+      "word": "Tuck it (verbo)",
+      "translation": "meter"
+    },
+    {
+      "word": "Tuck it up",
+      "translation": "mételo"
+    },
+    {
+      "word": "Every camera it’s been loaned out",
+      "translation": "cada cámara ha sido prestada"
+    },
+    {
+      "word": "I’m dreadfully sorry",
+      "translation": "lo siento muchísimo"
+    },
+    {
+      "word": "An eight-part sign-out process",
+      "translation": "un proceso de salida en ocho partes"
+    },
+    {
+      "word": "Aghast!",
+      "translation": "¡Qué horror!"
+    },
+    {
+      "word": "Lube",
+      "translation": "lubricante"
+    },
+    {
+      "word": "Squander (verbo)",
+      "translation": "malgastar, desperdiciar"
+    },
+    {
+      "word": "Two beats for tears gushing",
+      "translation": "dos latidos por las lágrimas que brotan"
+    },
+    {
+      "word": "The silthy toves",
+      "translation": "los tovos de seda"
+    },
+    {
+      "word": "Cannon!",
+      "translation": "¡Cañón!"
+    },
+    {
+      "word": "Hold back",
+      "translation": "contener, retener"
+    },
+    {
+      "word": "Tear up",
+      "translation": "lagrimear"
+    },
+    {
+      "word": "We’re all very fond of her",
+      "translation": "todos la queremos mucho"
+    },
+    {
+      "word": "Take two frames off the tail",
+      "translation": "quita dos marcos de la cola"
+    },
+    {
+      "word": "The highest-grossing leading man",
+      "translation": "el actor principal más taquillero"
+    },
+    {
+      "word": "Nuptials",
+      "translation": "nupcias"
+    },
+    {
+      "word": "Vixen (despectivo)",
+      "translation": "zorra"
+    },
+    {
+      "word": "Overcome by the combined effect",
+      "translation": "vencido por el efecto combinado"
+    },
+    {
+      "word": "Fifth betrothal",
+      "translation": "quinto compromiso"
+    },
+    {
+      "word": "Slit her wrists at home",
+      "translation": "se cortó las venas en casa"
+    },
+    {
+      "word": "Reteam (verbo)",
+      "translation": "reagrupar"
+    },
+    {
+      "word": "Firecracker",
+      "translation": "petardo"
+    },
+    {
+      "word": "Delightful chemistry",
+      "translation": "química deliciosa"
+    },
+    {
+      "word": "She’s icing the nipples",
+      "translation": "se está poniendo hielo en los pezones"
+    },
+    {
+      "word": "So they perk up through her dress",
+      "translation": "para que sobresalgan del vestido"
+    },
+    {
+      "word": "You’re just sore",
+      "translation": "sólo estás enfadado"
+    },
+    {
+      "word": "Close-up",
+      "translation": "primer plano"
+    },
+    {
+      "word": "Common and uncouth though she may be",
+      "translation": "por vulgar y grosera que sea"
+    },
+    {
+      "word": "Bracing (adjetivo)",
+      "translation": "vigorizante"
+    },
+    {
+      "word": "Maelstrom",
+      "translation": "vorágine"
+    },
+    {
+      "word": "Sheer magic",
+      "translation": "pura magia"
+    },
+    {
+      "word": "A train wreck (frase no literal)",
+      "translation": "un desastre"
+    },
+    {
+      "word": "Wheelbarrow",
+      "translation": "carretilla"
+    },
+    {
+      "word": "Hiccups",
+      "translation": "hipos"
+    },
+    {
+      "word": "Spurts and fits",
+      "translation": "rachas y arrebatos"
+    },
+    {
+      "word": "And have him report back",
+      "translation": "y que nos informe de ello"
+    },
+    {
+      "word": "Stand in the way",
+      "translation": "interponerse en el camino"
+    },
+    {
+      "word": "Back off",
+      "translation": "retirarse, apartarse"
+    },
+    {
+      "word": "A game of craps",
+      "translation": "una partida de dados"
+    },
+    {
+      "word": "Straighten out (verbo)",
+      "translation": "enderezar"
+    },
+    {
+      "word": "Hang onto",
+      "translation": "guardar, colgar"
+    },
+    {
+      "word": "Toppings",
+      "translation": "aderezos"
+    },
+    {
+      "word": "I make them squirm",
+      "translation": "los hago retorcerse"
+    },
+    {
+      "word": "I got here on my terms",
+      "translation": "llegué aquí en mis términos"
+    },
+    {
+      "word": "I’m gonna dance my ass off into the night",
+      "translation": "voy a bailar hasta que anochezca"
+    },
+    {
+      "word": "Pre-roll (verbo)",
+      "translation": "pre-rodar (escenas para una película o serie)"
+    },
+    {
+      "word": "I’ll cue your entrance",
+      "translation": "prepararé tu entrada"
+    },
+    {
+      "word": "Rubber soles",
+      "translation": "suelas de goma"
+    },
+    {
+      "word": "I should come further into the room",
+      "translation": "debería entrar más en la habitación"
+    },
+    {
+      "word": "If you have half an hour to spare",
+      "translation": "si tienes media hora libre"
+    },
+    {
+      "word": "Rafters",
+      "translation": "vigas"
+    },
+    {
+      "word": "Mumble (verbo)",
+      "translation": "murmurar"
+    },
+    {
+      "word": "Pitch (en términos auditivos)",
+      "translation": "tono, timbre"
+    },
+    {
+      "word": "Squeak (sustantivo)",
+      "translation": "chillido"
+    },
+    {
+      "word": "The count (alusivo a un señor)",
+      "translation": "el conde"
+    },
+    {
+      "word": "Piece of mongoloid shit",
+      "translation": "pedazo de mierda mongoloide"
+    },
+    {
+      "word": "My whole year is wide open",
+      "translation": "todo mi año está muy abierto"
+    },
+    {
+      "word": "Chalk",
+      "translation": "tiza"
+    },
+    {
+      "word": "Crowbar",
+      "translation": "palanca"
+    },
+    {
+      "word": "Profound",
+      "translation": "profundo"
+    },
+    {
+      "word": "Sync sound",
+      "translation": "sonido sincronizado"
+    },
+    {
+      "word": "If you keep playing flat",
+      "translation": "si sigues jugando plano, si sigues tocando plano"
+    },
+    {
+      "word": "Headbutt (verbo)",
+      "translation": "dar un cabezazo"
+    },
+    {
+      "word": "Funky-ass lips",
+      "translation": "labios raros"
+    },
+    {
+      "word": "Deranged",
+      "translation": "trastornado, desquiciado"
+    },
+    {
+      "word": "Cannonball!",
+      "translation": "¡Bala de cañón!"
+    },
+    {
+      "word": "Slutty (despectivo)",
+      "translation": "puta, zorra"
+    },
+    {
+      "word": "Chaplin is hung for sure",
+      "translation": "seguro que Chaplin está colgado"
+    },
+    {
+      "word": "Mongoose",
+      "translation": "mangosta"
+    },
+    {
+      "word": "Breach",
+      "translation": "brecha"
+    },
+    {
+      "word": "The head bobbing",
+      "translation": "el meneo de cabeza"
+    },
+    {
+      "word": "Isolate the shoulders",
+      "translation": "aísla los hombros"
+    },
+    {
+      "word": "Come be sound chief at Kinoscope?",
+      "translation": "¿Vienes a ser jefe de sonido en Kinoscope?"
+    },
+    {
+      "word": "Hang around",
+      "translation": "merodear, dar vueltas"
+    },
+    {
+      "word": "Half-wit",
+      "translation": "imbécil, tonto, idiota"
+    },
+    {
+      "word": "The right endorsements",
+      "translation": "los avales adecuados"
+    },
+    {
+      "word": "The reds chill her out",
+      "translation": "los rojos la relajan"
+    },
+    {
+      "word": "Whom (pregunta)",
+      "translation": "a quién, quién"
+    },
+    {
+      "word": "Back on track",
+      "translation": "de vuelta a la pista, de nuevo en marcha"
+    },
+    {
+      "word": "Strip (verbo)",
+      "translation": "quitar, despojar"
+    },
+    {
+      "word": "Stutter (verbo)",
+      "translation": "tartamudear"
+    },
+    {
+      "word": "He struck out with a girl",
+      "translation": "se acostó con una chica"
+    },
+    {
+      "word": "Vaudeville houses",
+      "translation": "casas de vodevil"
+    },
+    {
+      "word": "Nickelodeon (sustantivo común)",
+      "translation": "teatro de cine mudo"
+    },
+    {
+      "word": "Ivory tower",
+      "translation": "torre de marfil"
+    },
+    {
+      "word": "Smash (sustantivo)",
+      "translation": "éxito, exitazo, bombazo (en términos de éxito)"
+    },
+    {
+      "word": "It’s a flop",
+      "translation": "aquí es un fracaso"
+    },
+    {
+      "word": "Jerk-offs",
+      "translation": "imbéciles, pajeros"
+    },
+    {
+      "word": "I’m off",
+      "translation": "me voy"
+    },
+    {
+      "word": "I shan’t be long",
+      "translation": "no tardaré mucho"
+    },
+    {
+      "word": "The ass-pincher!",
+      "translation": "¡El pellizcaculos!"
+    },
+    {
+      "word": "So be it",
+      "translation": "que así sea"
+    },
+    {
+      "word": "Teller (en términos de contar historias)",
+      "translation": "contador"
+    },
+    {
+      "word": "Virile olive branches",
+      "translation": "viriles ramas de olivo"
+    },
+    {
+      "word": "Cue (sustantivo)",
+      "translation": "señal, entrada"
+    },
+    {
+      "word": "Fur",
+      "translation": "pelaje"
+    },
+    {
+      "word": "Polish (verbo)",
+      "translation": "pulir"
+    },
+    {
+      "word": "Plying your underaged mistresses",
+      "translation": "acosando a tus amantes menores de edad"
+    },
+    {
+      "word": "Stick up",
+      "translation": "meter (algo dentro de una cosa)"
+    },
+    {
+      "word": "I'll the master the talking film on film",
+      "translation": "seré el maestro de la película hablada"
+    },
+    {
+      "word": "The firing mechanism",
+      "translation": "el mecanismo de disparo"
+    },
+    {
+      "word": "In your wide",
+      "translation": "en tu ancho"
+    },
+    {
+      "word": "Rate",
+      "translation": "ritmo"
+    },
+    {
+      "word": "He’ll just pull the plug",
+      "translation": "él sólo tirará del enchufe"
+    },
+    {
+      "word": "For the lighting",
+      "translation": "para la iluminación"
+    },
+    {
+      "word": "Scratch (verbo)",
+      "translation": "rascar"
+    },
+    {
+      "word": "I’m on a dry spell",
+      "translation": "estoy en un período de sequía"
+    },
+    {
+      "word": "You peddle gossip",
+      "translation": "tú vendes chismes"
+    },
+    {
+      "word": "Count out",
+      "translation": "echar, descartar"
+    },
+    {
+      "word": "Crawl back",
+      "translation": "arrastrarse, volver"
+    },
+    {
+      "word": "Lay low, and make it through",
+      "translation": "pasa desapercibido y sobrevive"
+    },
+    {
+      "word": "You held the spotlight",
+      "translation": "tú eras el centro de atención"
+    },
+    {
+      "word": "A house fire",
+      "translation": "un incendio en una casa"
+    },
+    {
+      "word": "Wipe off",
+      "translation": "borrar (en sentido violento)"
+    },
+    {
+      "word": "When you and I are both long gone",
+      "translation": "cuando tú y yo nos hayamos ido"
+    },
+    {
+      "word": "Thread (verbo)",
+      "translation": "enroscar"
+    },
+    {
+      "word": "Frame",
+      "translation": "montura"
+    },
+    {
+      "word": "Sprocket",
+      "translation": "piñón"
+    },
+    {
+      "word": "Stumble across",
+      "translation": "toparse con"
+    },
+    {
+      "word": "Flicker (verbo)",
+      "translation": "parpadear"
+    },
+    {
+      "word": "Your time today is through",
+      "translation": "tu tiempo hoy ha terminado"
+    },
+    {
+      "word": "Pour (verbo)",
+      "translation": "verter, servir, echar (un líquido)"
+    },
+    {
+      "word": "Lead got sick mid-shoot",
+      "translation": "el protagonista se enfermó a mitad de la filmación"
+    },
+    {
+      "word": "Bail out",
+      "translation": "sacar de apuros, pagar la fianza"
+    },
+    {
+      "word": "You came through",
+      "translation": "lo has conseguido"
+    },
+    {
+      "word": "Midget",
+      "translation": "enano"
+    },
+    {
+      "word": "The prop guy",
+      "translation": "el tipo de la utilería"
+    },
+    {
+      "word": "Full-fledged retard",
+      "translation": "lo haces un retrasado completo"
+    },
+    {
+      "word": "Fearless",
+      "translation": "intrépido, valiente, audaz, temerario"
+    },
+    {
+      "word": "It’s such a drag now",
+      "translation": "es una lata ahora, es un fastidio ahora"
+    },
+    {
+      "word": "Stale",
+      "translation": "rancio, anticuado"
+    },
+    {
+      "word": "Just wandering through?",
+      "translation": "¿Sólo deambulando?"
+    },
+    {
+      "word": "I had a good run",
+      "translation": "tuve una buena carrera"
+    },
+    {
+      "word": "If you’re homesick",
+      "translation": "si echas de menos tu casa"
+    }
+  ]
+}

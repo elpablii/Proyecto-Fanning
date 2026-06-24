@@ -1,0 +1,666 @@
+{
+  "title": "Five Nights at Freddy's",
+  "englishAnalysis": "Ofrece un inglés moderno e informal. Encontrarás vocabulario técnico relacionado con la seguridad, animatrónicos y jerga adolescente de los años 2000. El tono varía entre conversaciones familiares cotidianas y momentos de gran tensión y suspenso.",
+  "vocabulary": [
+    {
+      "word": "Static crackling",
+      "translation": "crepitar estático"
+    },
+    {
+      "word": "Quiet metallic squeaking",
+      "translation": "chirrido metálico suave"
+    },
+    {
+      "word": "Whimper (verbo)",
+      "translation": "gimotear"
+    },
+    {
+      "word": "Gasp (verbo)",
+      "translation": "respirar hondo"
+    },
+    {
+      "word": "Pounding on door",
+      "translation": "golpes en la puerta"
+    },
+    {
+      "word": "Metal scrapes",
+      "translation": "chirridos metálicos"
+    },
+    {
+      "word": "Door creaks",
+      "translation": "la puerta rechina"
+    },
+    {
+      "word": "Muffled pop music",
+      "translation": "música pop amortiguada"
+    },
+    {
+      "word": "Lights buzzing",
+      "translation": "luces zumbando"
+    },
+    {
+      "word": "Rattle (verbo)",
+      "translation": "traquetear"
+    },
+    {
+      "word": "Male voice scatting nearby",
+      "translation": "voz masculina esparciéndose cerca"
+    },
+    {
+      "word": "Whir (verbo)",
+      "translation": "zumbar"
+    },
+    {
+      "word": "Low growling",
+      "translation": "gruñido bajo"
+    },
+    {
+      "word": "Strain (verbo)",
+      "translation": "esforzarse, tensar"
+    },
+    {
+      "word": "Cry out",
+      "translation": "gritar"
+    },
+    {
+      "word": "Fades (en términos de acotación)",
+      "translation": "se desvanece"
+    },
+    {
+      "word": "Tape rewinding",
+      "translation": "rebobinado de cinta"
+    },
+    {
+      "word": "You’re being a jerk",
+      "translation": "estás siendo un idiota"
+    },
+    {
+      "word": "Toy squeaks",
+      "translation": "chirridos de juguete"
+    },
+    {
+      "word": "Anew",
+      "translation": "de nuevo, otra vez"
+    },
+    {
+      "word": "I traded a mint condition Cal Ripken Jr. rookie",
+      "translation": "cambié una carta de novato de Cal"
+    },
+    {
+      "word": "The walnut fudge",
+      "translation": "el dulce de nueces"
+    },
+    {
+      "word": "Whipped cream",
+      "translation": "crema batida"
+    },
+    {
+      "word": "Coming right up",
+      "translation": "enseguida lo tendrás"
+    },
+    {
+      "word": "Bring by",
+      "translation": "traer (a una persona)"
+    },
+    {
+      "word": "Head case",
+      "translation": "caso perdido (a una persona en malos términos)"
+    },
+    {
+      "word": "Beat up",
+      "translation": "golpear (a alguien)"
+    },
+    {
+      "word": "Security gig",
+      "translation": "trabajo de seguridad"
+    },
+    {
+      "word": "Full disclosure",
+      "translation": "transparencia total"
+    },
+    {
+      "word": "High turnover",
+      "translation": "rotación alta"
+    },
+    {
+      "word": "Punks",
+      "translation": "pandilleros, gamberros"
+    },
+    {
+      "word": "Finish up",
+      "translation": "terminar"
+    },
+    {
+      "word": "The adult rides",
+      "translation": "las atracciones para adultos"
+    },
+    {
+      "word": "Whoop (verbo)",
+      "translation": "gritar"
+    },
+    {
+      "word": "Playful chatter",
+      "translation": "parloteo juguetón"
+    },
+    {
+      "word": "Entrust (verbo)",
+      "translation": "confiar"
+    },
+    {
+      "word": "An ounce of sanity",
+      "translation": "una pizca de cordura"
+    },
+    {
+      "word": "I could drop dead tomorrow",
+      "translation": "podría caer muerto mañana"
+    },
+    {
+      "word": "Whimsical",
+      "translation": "encantador"
+    },
+    {
+      "word": "Backstory",
+      "translation": "trasfondo"
+    },
+    {
+      "word": "The old wrecking ball treatment",
+      "translation": "la demolición a la antigua"
+    },
+    {
+      "word": "Break-ins",
+      "translation": "allanamientos, intrusiones"
+    },
+    {
+      "word": "Vagrants",
+      "translation": "vagabundos"
+    },
+    {
+      "word": "Floodlights",
+      "translation": "reflectores"
+    },
+    {
+      "word": "Fair warning",
+      "translation": "aviso de antemano"
+    },
+    {
+      "word": "Iffy",
+      "translation": "dudoso"
+    },
+    {
+      "word": "Breaker (sustantivo)",
+      "translation": "interruptor"
+    },
+    {
+      "word": "Power up",
+      "translation": "encender"
+    },
+    {
+      "word": "Lights clinking",
+      "translation": "luces tintineando"
+    },
+    {
+      "word": "I’ll catch you on the flip side",
+      "translation": "te veo al otro lado"
+    },
+    {
+      "word": "Upbeat music",
+      "translation": "música alegre"
+    },
+    {
+      "word": "Indulge (verbo)",
+      "translation": "disfrutar, gozar"
+    },
+    {
+      "word": "Cutting-edge animatronic technology",
+      "translation": "tecnología animatrónica de vanguardia"
+    },
+    {
+      "word": "Scoff (verbo)",
+      "translation": "burlarse"
+    },
+    {
+      "word": "Lifelike fashion",
+      "translation": "moda realista"
+    },
+    {
+      "word": "Cleverly concealed rechargeable lithium cells",
+      "translation": "células de litio recargables"
+    },
+    {
+      "word": "Roam (verbo)",
+      "translation": "merodear"
+    },
+    {
+      "word": "Cuddly critters",
+      "translation": "criaturas adorables"
+    },
+    {
+      "word": "Delight (verbo)",
+      "translation": "deleitar, disfrutar"
+    },
+    {
+      "word": "Dazzle (verbo)",
+      "translation": "deslumbrar"
+    },
+    {
+      "word": "Object thuds, clatters",
+      "translation": "golpes sordos de objetos, ruidos"
+    },
+    {
+      "word": "Quiet electronic warbling",
+      "translation": "gorjeo electrónico tenue"
+    },
+    {
+      "word": "Footstep crunches softly",
+      "translation": "pisadas crujen suavemente"
+    },
+    {
+      "word": "Panting, groans",
+      "translation": "jadeos, gemidos"
+    },
+    {
+      "word": "How’d it go?",
+      "translation": "¿Qué tal te fue?, ¿Cómo te fue?"
+    },
+    {
+      "word": "Truck horn honking",
+      "translation": "claxon de camión tocando"
+    },
+    {
+      "word": "Entry bell jingles",
+      "translation": "suena la campana de entrada"
+    },
+    {
+      "word": "Could I set you folks up with some appetizers?",
+      "translation": "¿Les gustaría probar alguna entrada"
+    },
+    {
+      "word": "Go over",
+      "translation": "revisar"
+    },
+    {
+      "word": "Criminal endangerment",
+      "translation": "peligro criminal"
+    },
+    {
+      "word": "We find along the way",
+      "translation": "encontremos en el camino"
+    },
+    {
+      "word": "Your nephew gets canned",
+      "translation": "tu sobrino pierde el trabajo"
+    },
+    {
+      "word": "Grunt (verbo)",
+      "translation": "gruñir, resoplar"
+    },
+    {
+      "word": "Take that off",
+      "translation": "sácate eso"
+    },
+    {
+      "word": "Vest",
+      "translation": "chaleco"
+    },
+    {
+      "word": "I’m keeping it",
+      "translation": "me lo quedo"
+    },
+    {
+      "word": "Buzzer sounding",
+      "translation": "zumbador sonando"
+    },
+    {
+      "word": "Emergency Medical Technician (EMT)",
+      "translation": "técnico en emergencias médicas"
+    },
+    {
+      "word": "Copacetic",
+      "translation": "perfecto, bien"
+    },
+    {
+      "word": "Your eyes are bloodshot",
+      "translation": "tus ojos están inyectados en sangre"
+    },
+    {
+      "word": "And aside from that gash on your arm",
+      "translation": "y aparte de ese tajo en tu brazo"
+    },
+    {
+      "word": "It gets to people",
+      "translation": "afecta a la gente, pone nerviosos a los demás"
+    },
+    {
+      "word": "Your security hires",
+      "translation": "tus guardias de seguridad"
+    },
+    {
+      "word": "Chimes",
+      "translation": "campanadas, sonidos metálicos tintineantes"
+    },
+    {
+      "word": "It’s down to the sound of a heartbeat",
+      "translation": "todo se reduce al sonido de un latido"
+    },
+    {
+      "word": "Thorough",
+      "translation": "exhaustivo, minucioso"
+    },
+    {
+      "word": "Settle up",
+      "translation": "saldar cuentas"
+    },
+    {
+      "word": "Heavy scraping",
+      "translation": "raspadura fuerte"
+    },
+    {
+      "word": "Loud rattling",
+      "translation": "traqueteo fuerte"
+    },
+    {
+      "word": "Exhales sharply",
+      "translation": "exhale bruscamente"
+    },
+    {
+      "word": "Electronic chittering",
+      "translation": "chirrido electrónico"
+    },
+    {
+      "word": "Muffled grunting",
+      "translation": "gruñidos ahogados"
+    },
+    {
+      "word": "Bag thuds",
+      "translation": "golpes de bolsa"
+    },
+    {
+      "word": "Heavy thudding",
+      "translation": "pisadas fuertes, golpes contundentes"
+    },
+    {
+      "word": "Low growling",
+      "translation": "gruñidos profundos"
+    },
+    {
+      "word": "Crowbar clatters",
+      "translation": "ruidos de palanca"
+    },
+    {
+      "word": "Jaws chomping rapidly",
+      "translation": "mandíbulas mordiendo rápidamente"
+    },
+    {
+      "word": "Boy giggles",
+      "translation": "risita de niño"
+    },
+    {
+      "word": "News flash",
+      "translation": "noticia de última hora"
+    },
+    {
+      "word": "Whacked out",
+      "translation": "demasiado loco"
+    },
+    {
+      "word": "He was taken",
+      "translation": "se lo llevaron, lo secuestraron"
+    },
+    {
+      "word": "Get stored",
+      "translation": "quedar guardado"
+    },
+    {
+      "word": "Get overlooked",
+      "translation": "pasar por alto"
+    },
+    {
+      "word": "Familiar sights",
+      "translation": "vistas familiares"
+    },
+    {
+      "word": "Pining for fun?",
+      "translation": "¿Anhelando un poco de diversión?"
+    },
+    {
+      "word": "Chessy",
+      "translation": "empalagoso"
+    },
+    {
+      "word": "Touch tones sounding",
+      "translation": "tonos de marcado sonando"
+    },
+    {
+      "word": "Birds chirping",
+      "translation": "pájaros trinando"
+    },
+    {
+      "word": "Toilet flushing",
+      "translation": "inodoro descargando"
+    },
+    {
+      "word": "Might as well come out",
+      "translation": "bien podría salir"
+    },
+    {
+      "word": "Car driving off in distance",
+      "translation": "auto alejándose a lo lejos"
+    },
+    {
+      "word": "Sniff (verbo)",
+      "translation": "olfatear, husmear"
+    },
+    {
+      "word": "Engine shuts off",
+      "translation": "el motor se apaga"
+    },
+    {
+      "word": "Thanks for the heads-up",
+      "translation": "gracias por el aviso"
+    },
+    {
+      "word": "Lay some ground rules",
+      "translation": "establecer unas reglas básicas"
+    },
+    {
+      "word": "Crave (verbo)",
+      "translation": "anhelar"
+    },
+    {
+      "word": "Spade",
+      "translation": "pala"
+    },
+    {
+      "word": "Heavy thump",
+      "translation": "golpe sordo"
+    },
+    {
+      "word": "Tablecloths",
+      "translation": "manteles"
+    },
+    {
+      "word": "Spring locks",
+      "translation": "cerraduras de resorte"
+    },
+    {
+      "word": "Gonna break it loose",
+      "translation": "voy a soltarlo"
+    },
+    {
+      "word": "Sizzle (verbo)",
+      "translation": "chirrar, crepitar, crujir"
+    },
+    {
+      "word": "Papers rustling",
+      "translation": "crujido de papeles"
+    },
+    {
+      "word": "Chamomile",
+      "translation": "manzanilla"
+    },
+    {
+      "word": "Birds cawing",
+      "translation": "pájaros graznando"
+    },
+    {
+      "word": "Dig in",
+      "translation": "¡Adelante!"
+    },
+    {
+      "word": "Breathing shakily",
+      "translation": "respirando temblorosamente"
+    },
+    {
+      "word": "Sharp slice",
+      "translation": "corte tajante"
+    },
+    {
+      "word": "Sparks cracking",
+      "translation": "chispas crepitantes"
+    },
+    {
+      "word": "Foxy scatting nearby",
+      "translation": "Foxy garrapateando cerca"
+    },
+    {
+      "word": "Crickets chirping",
+      "translation": "grillos canturreando"
+    },
+    {
+      "word": "Pottery",
+      "translation": "alfarería"
+    },
+    {
+      "word": "Soak (verbo)",
+      "translation": "remojar, empapar"
+    },
+    {
+      "word": "Overnight",
+      "translation": "durante la noche"
+    },
+    {
+      "word": "Spread the seeds",
+      "translation": "esparcir las semillas"
+    },
+    {
+      "word": "Police supply outpost",
+      "translation": "puesto de suministros policiales"
+    },
+    {
+      "word": "Lights buzzing softly",
+      "translation": "las luces zumban suavemente"
+    },
+    {
+      "word": "Every inch was accounted for",
+      "translation": "cada centímetro fue contabilizado"
+    },
+    {
+      "word": "Lights clanking",
+      "translation": "luces chirriando"
+    },
+    {
+      "word": "Hopefully buy you some time",
+      "translation": "espero que te consiga algo de tiempo"
+    },
+    {
+      "word": "Faintly",
+      "translation": "vagamente"
+    },
+    {
+      "word": "Tires squealing",
+      "translation": "neumáticos chirriando"
+    },
+    {
+      "word": "An outlet vent",
+      "translation": "rejilla de ventilación"
+    },
+    {
+      "word": "Hushed",
+      "translation": "en silencio"
+    },
+    {
+      "word": "Let go of me!",
+      "translation": "¡Suéltame!"
+    },
+    {
+      "word": "Games beeping and chiming",
+      "translation": "juegos electrónicos pitando y tintineando"
+    },
+    {
+      "word": "Shudders",
+      "translation": "escalofríos"
+    },
+    {
+      "word": "Yelps",
+      "translation": "aullidos"
+    },
+    {
+      "word": "Lucky me",
+      "translation": "qué suerte tengo"
+    },
+    {
+      "word": "Put that thing away",
+      "translation": "guarda esa cosa"
+    },
+    {
+      "word": "Gun clatters",
+      "translation": "ruido de arma"
+    },
+    {
+      "word": "Choke (verbo)",
+      "translation": "ahogarse, sofocarse"
+    },
+    {
+      "word": "Blade stabs",
+      "translation": "puñalada con cuchilla"
+    },
+    {
+      "word": "You’re wretched, rotten little beasts",
+      "translation": "son unas bestias miserables y podridas."
+    },
+    {
+      "word": "Sharp mechanical clanking",
+      "translation": "ruido mecánico agudo"
+    },
+    {
+      "word": "Meatballs",
+      "translation": "albóndigas"
+    },
+    {
+      "word": "Siren wails on distance",
+      "translation": "sirena suena a distancia"
+    },
+    {
+      "word": "Air pumping slowly",
+      "translation": "bombeo de aire lento"
+    },
+    {
+      "word": "Monitor beeping steadily",
+      "translation": "monitor pitando constantemente"
+    },
+    {
+      "word": "When it mattered the most",
+      "translation": "cuando más importaba"
+    },
+    {
+      "word": "Lights crackling softly",
+      "translation": "luces crepitando suavemente"
+    },
+    {
+      "word": "Newcomers",
+      "translation": "recién llegados"
+    },
+    {
+      "word": "Decay",
+      "translation": "descomposición"
+    },
+    {
+      "word": "Lock away",
+      "translation": "encerrar"
+    },
+    {
+      "word": "You seem acquainted",
+      "translation": "pareces conocido"
+    }
+  ]
+}

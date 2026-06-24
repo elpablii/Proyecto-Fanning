@@ -1,0 +1,586 @@
+{
+  "title": "The Naked Gun",
+  "englishAnalysis": "Inglés saturado de juegos de palabras, malentendidos ('puns') y humor absurdo. Parodia los tropos del cine negro policial con lenguaje rimbombante que se toma a sí mismo ridículamente en serio.",
+  "vocabulary": [
+    {
+      "word": "Powder keg",
+      "translation": "polvorín"
+    },
+    {
+      "word": "Die down",
+      "translation": "amainar, desvanecerse, apagarse"
+    },
+    {
+      "word": "Gripping music",
+      "translation": "música apasionante/cautivadora"
+    },
+    {
+      "word": "Yelp (verbo)",
+      "translation": "gritar"
+    },
+    {
+      "word": "Shell casings",
+      "translation": "casquillos, cartuchos"
+    },
+    {
+      "word": "Get chewed out",
+      "translation": "ser regañado"
+    },
+    {
+      "word": "Lawyer up (verbo frasal)",
+      "translation": "contratar abogados"
+    },
+    {
+      "word": "Coffee splats (acotación)",
+      "translation": "salpicaduras del café"
+    },
+    {
+      "word": "What has come to",
+      "translation": "en lo que ha llegado"
+    },
+    {
+      "word": "We pulled up to the Malibu car crash",
+      "translation": "nos detuvimos junto al accidente automovilístico"
+    },
+    {
+      "word": "Wreck (sustantivo)",
+      "translation": "restos, escombros"
+    },
+    {
+      "word": "Skid marks",
+      "translation": "marcas de derrape"
+    },
+    {
+      "word": "He didn't hit the brakes before going over",
+      "translation": "no pisó el freno antes de pasar por encima"
+    },
+    {
+      "word": "Spitfire of a personality, self-proclaimed chocoholic",
+      "translation": "personalidad impulsiva,"
+    },
+    {
+      "word": "Outdoorsy things",
+      "translation": "actividades al aire libre"
+    },
+    {
+      "word": "Curl up",
+      "translation": "acurrucarse"
+    },
+    {
+      "word": "It's up! (no literal)",
+      "translation": "¡Está listo!"
+    },
+    {
+      "word": "Perps",
+      "translation": "sospechosos"
+    },
+    {
+      "word": "Heads up (expresión)",
+      "translation": "atención"
+    },
+    {
+      "word": "I'd sworn off love",
+      "translation": "había renunciado al amor"
+    },
+    {
+      "word": "The stiff from Malibu crash",
+      "translation": "el cadáver del accidente de Malibú"
+    },
+    {
+      "word": "More floppy and bloated",
+      "translation": "más flácido e hinchado"
+    },
+    {
+      "word": "Splat (acotación con traducción aproximada)",
+      "translation": "ruido, chapoteo"
+    },
+    {
+      "word": "Driving records",
+      "translation": "historial de conducción"
+    },
+    {
+      "word": "If someone did off your brother (frase no literal)",
+      "translation": "si alguien mató a tu Hermano"
+    },
+    {
+      "word": "It was the kind of a dressing down (frase no literal)",
+      "translation": "era el tipo de reprimenda"
+    },
+    {
+      "word": "Laundromat",
+      "translation": "lavandería automática"
+    },
+    {
+      "word": "Musings",
+      "translation": "reflexiones"
+    },
+    {
+      "word": "Flustered mumbling",
+      "translation": "murmullos nerviosos"
+    },
+    {
+      "word": "The case was starting to give me an itch (frase no literal)",
+      "translation": "el caso empezaba a darme"
+    },
+    {
+      "word": "Partygoers",
+      "translation": "fiesteros"
+    },
+    {
+      "word": "Coat check?",
+      "translation": "¿Guardarropa?"
+    },
+    {
+      "word": "Retail marketplace",
+      "translation": "mercado minorista"
+    },
+    {
+      "word": "Boisterous laughter",
+      "translation": "risa/carcajada estruendosa"
+    },
+    {
+      "word": "And he barrels right past me (frase no literal)",
+      "translation": "y pasa corriendo a mi lado"
+    },
+    {
+      "word": "Guffaw (sustantivo)",
+      "translation": "carcajada"
+    },
+    {
+      "word": "You suspect something foul? (pregunta parcialmente no literal)",
+      "translation": "¿Sospechas que hay"
+    },
+    {
+      "word": "At historic lows across the board (frase no literal)",
+      "translation": "en mínimos históricos en todos los"
+    },
+    {
+      "word": "Matchbook",
+      "translation": "caja de cerillas"
+    },
+    {
+      "word": "Dutchess",
+      "translation": "duquesa"
+    },
+    {
+      "word": "Chime (sustantivo en sonidos)",
+      "translation": "tono"
+    },
+    {
+      "word": "Car door pinging (acotación)",
+      "translation": "ruido metálico en la puerta del auto"
+    },
+    {
+      "word": "Clanking (acotación)",
+      "translation": "ruido metálico"
+    },
+    {
+      "word": "This is quite the rap sheet (frase no literal)",
+      "translation": "esto sí que es un historial delictivo"
+    },
+    {
+      "word": "Must have been quite the joke (frase no literal)",
+      "translation": "debió haber sido una broma muy"
+    },
+    {
+      "word": "Scatting absentmindedly",
+      "translation": "cantando distraídamente"
+    },
+    {
+      "word": "I'm gonna let you off",
+      "translation": "te voy a dejar ir"
+    },
+    {
+      "word": "Plain as day (expresión)",
+      "translation": "claro como el agua"
+    },
+    {
+      "word": "A safe deposit box",
+      "translation": "una caja fuerte, una caja de seguridad"
+    },
+    {
+      "word": "Like mermen and merwomen",
+      "translation": "como los tritones y las sirenas"
+    },
+    {
+      "word": "As for us, upon detonation",
+      "translation": "en cuanto a nosotros, tras la detonación"
+    },
+    {
+      "word": "Decamp (verbo en algunos contextos)",
+      "translation": "trasladarse"
+    },
+    {
+      "word": "For as long as it takes",
+      "translation": "durante todo el tiempo que sea necesario"
+    },
+    {
+      "word": "When the embers are died down",
+      "translation": "cuando las brasas se hayan extinguido"
+    },
+    {
+      "word": "A blank slate",
+      "translation": "una pizarra en blanco"
+    },
+    {
+      "word": "Cruiser (en ciertos contextos)",
+      "translation": "nave"
+    },
+    {
+      "word": "This'll jog your memory",
+      "translation": "esto te refrescará la memoria"
+    },
+    {
+      "word": "Barkeep",
+      "translation": "camarero"
+    },
+    {
+      "word": "Let's keep it that way (no literal)",
+      "translation": "sigamos así"
+    },
+    {
+      "word": "And sparkling (en bebidas)",
+      "translation": "y con gas"
+    },
+    {
+      "word": "Floorboard",
+      "translation": "tarima"
+    },
+    {
+      "word": "Sassafras chicken",
+      "translation": "pollo sasafrás"
+    },
+    {
+      "word": "Make it extra lumpy",
+      "translation": "hazlo extra grumoso"
+    },
+    {
+      "word": "A scat-like improv",
+      "translation": "una improvisación similar al scat"
+    },
+    {
+      "word": "Yips and howls",
+      "translation": "gritos y aullidos"
+    },
+    {
+      "word": "Enhanced drink supplement",
+      "translation": "suplemento alimenticio mejorado para bebidas"
+    },
+    {
+      "word": "Fad diets and fake workouts",
+      "translation": "dietas de moda y entrenamientos falsos"
+    },
+    {
+      "word": "You want to get ripped? (pregunta no literal)",
+      "translation": "¿Quieres ponerte en forma?"
+    },
+    {
+      "word": "Slime",
+      "translation": "limo"
+    },
+    {
+      "word": "My secret eavesdropping friend",
+      "translation": "mi amigo espía secreto"
+    },
+    {
+      "word": "Howling and yipping shrilly",
+      "translation": "aullando y ladrando estridentemente"
+    },
+    {
+      "word": "Hefty",
+      "translation": "cuantioso, generoso"
+    },
+    {
+      "word": "Leapfrog (verbo)",
+      "translation": "superar, adelantar, aventajar, sobrepasar"
+    },
+    {
+      "word": "I’m putting you on ice",
+      "translation": "te voy a dejar en espera"
+    },
+    {
+      "word": "We're all rooting for you",
+      "translation": "todos te apoyamos, todos estamos contigo"
+    },
+    {
+      "word": "The turkey needs slow and low",
+      "translation": "el pavo necesita cocinarse a fuego lento y baja"
+    },
+    {
+      "word": "Hound (verbo)",
+      "translation": "acosar, perseguir"
+    },
+    {
+      "word": "Hot brine",
+      "translation": "salmuera caliente"
+    },
+    {
+      "word": "Wince (verbo)",
+      "translation": "estremecerse, hacer un gesto de dolor"
+    },
+    {
+      "word": "Scratches",
+      "translation": "rasguños, rayones"
+    },
+    {
+      "word": "Standing strong forever",
+      "translation": "nos mantendremos firmes para siempre"
+    },
+    {
+      "word": "Inhaler pufs (acotación)",
+      "translation": "inhalaciones"
+    },
+    {
+      "word": "Thunder claps (acotación)",
+      "translation": "truenos"
+    },
+    {
+      "word": "Puff (verbo)",
+      "translation": "resoplar, jadear"
+    },
+    {
+      "word": "To follow up on",
+      "translation": "para hacer un seguimiento a"
+    },
+    {
+      "word": "Squelch (verbo)",
+      "translation": "chapotear, aplastar"
+    },
+    {
+      "word": "Spurt (verbo)",
+      "translation": "chorrear"
+    },
+    {
+      "word": "Latch (sustantivo)",
+      "translation": "pestillo"
+    },
+    {
+      "word": "Cliff",
+      "translation": "acantilado, precipicio"
+    },
+    {
+      "word": "You're getting somewhere (parcialmente no literal)",
+      "translation": "ahora estás llegando a alguna"
+    },
+    {
+      "word": "Handle (en autos)",
+      "translation": "mango, control"
+    },
+    {
+      "word": "He drove him off the cliff (no literal)",
+      "translation": "lo empujó por el precipicio/acantilado"
+    },
+    {
+      "word": "Say it isn't so",
+      "translation": "no me digas que no es verdad"
+    },
+    {
+      "word": "It ain't so",
+      "translation": "no es así"
+    },
+    {
+      "word": "The mayor got wind of this whole mess",
+      "translation": "el alcalde se enteró de todo este lío"
+    },
+    {
+      "word": "They are pulling our funding",
+      "translation": "nos están quitando la financiación"
+    },
+    {
+      "word": "I called her to break her the news (frase no literal)",
+      "translation": "la llamé para darle la noticia"
+    },
+    {
+      "word": "Grinding (acotación)",
+      "translation": "pulido, molienda"
+    },
+    {
+      "word": "Doppelganger",
+      "translation": "doble"
+    },
+    {
+      "word": "Landline",
+      "translation": "teléfono fijo, línea fija"
+    },
+    {
+      "word": "I’ll get it (frase no literal en llamadas)",
+      "translation": "yo voy a atender"
+    },
+    {
+      "word": "Ed had dug through the bank footage",
+      "translation": "Ed había revisado las grabaciones del banco"
+    },
+    {
+      "word": "A man who'd slipped out the back",
+      "translation": "un hombre que se había escapado por la parte de"
+    },
+    {
+      "word": "We needed to get him alone and put the squeeze on",
+      "translation": "necesitábamos estar a solas con"
+    },
+    {
+      "word": "Off the books (frase no literal)",
+      "translation": "de manera extraoficial"
+    },
+    {
+      "word": "There's the talk you might get the chair for this (frase no literal)",
+      "translation": "se rumorea que"
+    },
+    {
+      "word": "Massive cutie pie like you? (pregunta no literal)",
+      "translation": "¿Una chica tan guapa como tú?"
+    },
+    {
+      "word": "Uphold (verbo)",
+      "translation": "mantener, respetar, defender"
+    },
+    {
+      "word": "Broth",
+      "translation": "caldo"
+    },
+    {
+      "word": "Blast (verbo en ondas físicas)",
+      "translation": "emitir, transmitir, disparar"
+    },
+    {
+      "word": "Frame (verbo en casos policiales)",
+      "translation": "incriminar"
+    },
+    {
+      "word": "Pull (verbo en fondos)",
+      "translation": "retirar, quitar"
+    },
+    {
+      "word": "Five minutes down",
+      "translation": "cinco minutos menos"
+    },
+    {
+      "word": "Signify (verbo)",
+      "translation": "simbolizar"
+    },
+    {
+      "word": "Bare-knuckle brawlers",
+      "translation": "peleadores a puño limpio"
+    },
+    {
+      "word": "Earplugs",
+      "translation": "tapones para los oídos"
+    },
+    {
+      "word": "Skybox (en eventos)",
+      "translation": "palco VIP"
+    },
+    {
+      "word": "Coerce (verbo)",
+      "translation": "obligar"
+    },
+    {
+      "word": "Get lost (expresión)",
+      "translation": "vete"
+    },
+    {
+      "word": "We've been over the rules in the back",
+      "translation": "hemos repasado las reglas en la parte de atrás"
+    },
+    {
+      "word": "Let's get it on!",
+      "translation": "¡Vamos a ello!"
+    },
+    {
+      "word": "A would-be assassin",
+      "translation": "un aspirante a asesina"
+    },
+    {
+      "word": "Garter belt",
+      "translation": "liguero"
+    },
+    {
+      "word": "It looks as through",
+      "translation": "parece como si"
+    },
+    {
+      "word": "I can't quite reach",
+      "translation": "no puedo alcanzarlo"
+    },
+    {
+      "word": "The pants are off!",
+      "translation": "¡Ya se quitaron los pantalones!"
+    },
+    {
+      "word": "For those of you back home, I will try to paint a picture (frase no literal)",
+      "translation": "para"
+    },
+    {
+      "word": "Sprinkle (verbo)",
+      "translation": "espolvorear, rociar"
+    },
+    {
+      "word": "A grand bratwurst",
+      "translation": "una gran salchicha bratwurst"
+    },
+    {
+      "word": "Carry on (expresión)",
+      "translation": "continue"
+    },
+    {
+      "word": "Vacate the premises",
+      "translation": "desalojen el local"
+    },
+    {
+      "word": "Plugs (alusivo a un accesorio para el oído)",
+      "translation": "tapones"
+    },
+    {
+      "word": "Righteous men",
+      "translation": "hombres justos"
+    },
+    {
+      "word": "And can't other lady put it down like me",
+      "translation": "y ninguna otra chica lo puede hacer como yo"
+    },
+    {
+      "word": "I’m fergalicious (traducción aproximada)",
+      "translation": "soy muy sexy, soy guapísima"
+    },
+    {
+      "word": "Outweigh (verbo)",
+      "translation": "superar, pesar más que"
+    },
+    {
+      "word": "A blow lands",
+      "translation": "un golpe le alcanza/le impacta"
+    },
+    {
+      "word": "Grimly",
+      "translation": "con tristeza"
+    },
+    {
+      "word": "Owl cawing (acotación)",
+      "translation": "ulular del búho"
+    },
+    {
+      "word": "The days leading to the event",
+      "translation": "los días previos al evento"
+    },
+    {
+      "word": "This goes out to a very special lady (frase no literal)",
+      "translation": "esto va dedicado a una mujer"
+    },
+    {
+      "word": "Top-shelf (expresión)",
+      "translation": "de primera categoría, de primera clase"
+    },
+    {
+      "word": "Top (verbo)",
+      "translation": "superar"
+    },
+    {
+      "word": "Swell (verbo en sonidos)",
+      "translation": "intensificar"
+    },
+    {
+      "word": "Entertainer",
+      "translation": "animador, artista"
+    }
+  ]
+}

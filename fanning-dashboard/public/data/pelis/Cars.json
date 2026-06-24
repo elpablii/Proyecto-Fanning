@@ -1,0 +1,762 @@
+{
+  "title": "Cars",
+  "englishAnalysis": "Perfecta contraposición entre el vocabulario acelerado, moderno y corporativo de las carreras ('rookie', 'sponsor') y el ritmo relajado, nostálgico y rural de los pueblos de la Ruta 66.",
+  "vocabulary": [
+    {
+      "word": "A little brecky",
+      "translation": "un poco de brebaje"
+    },
+    {
+      "word": "You got that right, slick",
+      "translation": "lo has entendido bien, astuto"
+    },
+    {
+      "word": "Through the roof (frase no literal)",
+      "translation": "por las nubes"
+    },
+    {
+      "word": "Midway",
+      "translation": "a la mitad"
+    },
+    {
+      "word": "Booth",
+      "translation": "cabina"
+    },
+    {
+      "word": "Tailfin",
+      "translation": "rabo, aleta caudal"
+    },
+    {
+      "word": "The rookie sensation came into the season unknown",
+      "translation": "el novato sensación llegó a la"
+    },
+    {
+      "word": "The runner-up",
+      "translation": "el subcampeón"
+    },
+    {
+      "word": "Wreckage",
+      "translation": "despojos, restos, escombros"
+    },
+    {
+      "word": "Make through",
+      "translation": "lograr, poder pasar"
+    },
+    {
+      "word": "Crew chief",
+      "translation": "jefe de equipo"
+    },
+    {
+      "word": "Checkered flag",
+      "translation": "bandera a cuadros"
+    },
+    {
+      "word": "Round (verbo)",
+      "translation": "doblar (una curva en términos automovilísticos)"
+    },
+    {
+      "word": "Down the stretch they come!",
+      "translation": "¡Vienen hacia aquí!"
+    },
+    {
+      "word": "A little sizzle",
+      "translation": "un poco de picante, un poco de chisporroteo"
+    },
+    {
+      "word": "Back away",
+      "translation": "alejarse, retroceder"
+    },
+    {
+      "word": "That was some pretty darn nice racing out there",
+      "translation": "esa fue una muy buena carrera"
+    },
+    {
+      "word": "That was one close finish",
+      "translation": "fue un final muy reñido"
+    },
+    {
+      "word": "Gutsy racer",
+      "translation": "corredor con agallas"
+    },
+    {
+      "word": "Lug nut",
+      "translation": "tuerca"
+    },
+    {
+      "word": "Wise up",
+      "translation": "espabilar"
+    },
+    {
+      "word": "Three-way tie",
+      "translation": "triple empate"
+    },
+    {
+      "word": "Hold (verbo en términos de organización de eventos)",
+      "translation": "celebrar, tener lugar"
+    },
+    {
+      "word": "Saddle up",
+      "translation": "ensillar, montar"
+    },
+    {
+      "word": "Medicated bumper ointment",
+      "translation": "pomada medicada para parachoques"
+    },
+    {
+      "word": "Rear end",
+      "translation": "parte trasera (de un vehículo)"
+    },
+    {
+      "word": "Soothe (verbo)",
+      "translation": "aliviar, calmar"
+    },
+    {
+      "word": "Bumper",
+      "translation": "parachoques"
+    },
+    {
+      "word": "Cast (verbo)",
+      "translation": "lanzar, echar"
+    },
+    {
+      "word": "Undercarriage",
+      "translation": "tren de aterrizaje"
+    },
+    {
+      "word": "Of this there are no ifs or buts",
+      "translation": "de esto no hay peros que valgan"
+    },
+    {
+      "word": "Grime",
+      "translation": "mugre, suciedad"
+    },
+    {
+      "word": "You’re wicked fast!",
+      "translation": "¡Eres endiabladamente rápido!"
+    },
+    {
+      "word": "Pisser",
+      "translation": "cabreo, coñazo"
+    },
+    {
+      "word": "You were booking!",
+      "translation": "¡Estabas fichando!, ¡Estabas reservando!"
+    },
+    {
+      "word": "A banner year!",
+      "translation": "¡Un año excepcional!"
+    },
+    {
+      "word": "Ancillary rights",
+      "translation": "derechos auxiliares"
+    },
+    {
+      "word": "Narrow down",
+      "translation": "acotar"
+    },
+    {
+      "word": "Haul (verbo)",
+      "translation": "transportar (en un camión)"
+    },
+    {
+      "word": "Just stop off for a quick breather",
+      "translation": "sólo para para un respiro rápido"
+    },
+    {
+      "word": "Hang (verbo en términos sociales)",
+      "translation": "pasar el rato"
+    },
+    {
+      "word": "Nodder",
+      "translation": "cabeceador"
+    },
+    {
+      "word": "One should never drive while drowsy",
+      "translation": "nunca se debería conducir con sueño"
+    },
+    {
+      "word": "Gasket",
+      "translation": "empaquetadura"
+    },
+    {
+      "word": "What in the blue blazes?",
+      "translation": "¿Qué demonios?"
+    },
+    {
+      "word": "You’re in a heap of trouble",
+      "translation": "estás en un montón de problemas"
+    },
+    {
+      "word": "Mud flaps",
+      "translation": "guardabarros"
+    },
+    {
+      "word": "Unprecedented",
+      "translation": "sin precedentes"
+    },
+    {
+      "word": "Parking boot",
+      "translation": "bota de aparcamiento"
+    },
+    {
+      "word": "Quit your yapping",
+      "translation": "deja de parlotear"
+    },
+    {
+      "word": "The court will come to order",
+      "translation": "la corte se pondrá en sesión"
+    },
+    {
+      "word": "Scratch (verbo)",
+      "translation": "rayar"
+    },
+    {
+      "word": "Blowtorch",
+      "translation": "soplete"
+    },
+    {
+      "word": "Timeshare",
+      "translation": "multipropiedad, tiempo compartido"
+    },
+    {
+      "word": "Wreck (verbo)",
+      "translation": "destrozar, arruinar"
+    },
+    {
+      "word": "Hood (en contexto automovilístico)",
+      "translation": "capó"
+    },
+    {
+      "word": "I’m purty good",
+      "translation": "soy muy bueno"
+    },
+    {
+      "word": "I’m gonna cut to the chase",
+      "translation": "voy a ir al grano"
+    },
+    {
+      "word": "Side view mirrors",
+      "translation": "espejos retrovisores laterales"
+    },
+    {
+      "word": "String (verbo)",
+      "translation": "engarzado, ensartado"
+    },
+    {
+      "word": "Stretch (sustantivo)",
+      "translation": "tramo"
+    },
+    {
+      "word": "We’re done for!",
+      "translation": "¡Estamos acabados!"
+    },
+    {
+      "word": "Nice ruling",
+      "translation": "bonito fallo"
+    },
+    {
+      "word": "Hitch up",
+      "translation": "enganchar"
+    },
+    {
+      "word": "Schmooze (verbo)",
+      "translation": "charlar"
+    },
+    {
+      "word": "We siphoned your gas while you were passed out",
+      "translation": "te quitamos la gasolina mientras"
+    },
+    {
+      "word": "Hot rod",
+      "translation": "bólido (alusivo a un auto de carreras)"
+    },
+    {
+      "word": "Whistler",
+      "translation": "silbador"
+    },
+    {
+      "word": "I get fluid built up in my engine block",
+      "translation": "se me acumula líquido en el bloque motor"
+    },
+    {
+      "word": "Get low",
+      "translation": "bajar"
+    },
+    {
+      "word": "I could use a little hose down",
+      "translation": "me vendría bien una manguera"
+    },
+    {
+      "word": "Wash off",
+      "translation": "lavar"
+    },
+    {
+      "word": "Rehearse (verbo)",
+      "translation": "ensayar"
+    },
+    {
+      "word": "I just don’t see any on-ramp anywhere",
+      "translation": "no veo ninguna rampa de acceso en ninguna"
+    },
+    {
+      "word": "We’re just peachy",
+      "translation": "sólo estamos de maravilla"
+    },
+    {
+      "word": "Surplus hut",
+      "translation": "choza de excedentes"
+    },
+    {
+      "word": "Top off",
+      "translation": "llenar, rellenar (un tanque de combustible)"
+    },
+    {
+      "word": "A flame job",
+      "translation": "un trabajo con llamas"
+    },
+    {
+      "word": "Ghost flames",
+      "translation": "llamas fantasma"
+    },
+    {
+      "word": "Old school pinstriping",
+      "translation": "las rayas de la vieja escuela"
+    },
+    {
+      "word": "I’m being held against my will",
+      "translation": "estoy siendo retenido contra mi voluntad"
+    },
+    {
+      "word": "I’m in hillbilly hell!",
+      "translation": "¡Estoy en el infierno de los paletos!"
+    },
+    {
+      "word": "My IQ's dropping by the second!",
+      "translation": "¡Mi coeficiente intelectual baja por segundos!"
+    },
+    {
+      "word": "Get a head start",
+      "translation": "tener una ventaja"
+    },
+    {
+      "word": "Eat your heart out (frase no literal)",
+      "translation": "cómete lo que quieras"
+    },
+    {
+      "word": "It rides purty smooth",
+      "translation": "se conduce muy suave"
+    },
+    {
+      "word": "Scrape it off!",
+      "translation": "¡Ráspalo!"
+    },
+    {
+      "word": "Reckon (verbo)",
+      "translation": "considerar, creer (una suposición)"
+    },
+    {
+      "word": "Old-timer (en sentido informal)",
+      "translation": "viejo"
+    },
+    {
+      "word": "Road rage",
+      "translation": "furia al volante"
+    },
+    {
+      "word": "No maiming",
+      "translation": "sin mutilaciones"
+    },
+    {
+      "word": "No oil slicking",
+      "translation": "sin manchas de aceite"
+    },
+    {
+      "word": "No shoving",
+      "translation": "sin empujones"
+    },
+    {
+      "word": "No backstabbing",
+      "translation": "sin dar puñaladas por la espalda"
+    },
+    {
+      "word": "No road-hogging",
+      "translation": "sin atropellar"
+    },
+    {
+      "word": "No lollygagging",
+      "translation": "sin holgazanear"
+    },
+    {
+      "word": "Sting (verbo)",
+      "translation": "picar"
+    },
+    {
+      "word": "A pit stop",
+      "translation": "una parada en boxes"
+    },
+    {
+      "word": "I’m off to a poor start (frase no literal)",
+      "translation": "he empezado con mal pie"
+    },
+    {
+      "word": "Tow cable",
+      "translation": "cable de remolque"
+    },
+    {
+      "word": "I’m a day behind",
+      "translation": "llevo un día atrasado"
+    },
+    {
+      "word": "He’s still got a long way to go",
+      "translation": "todavía le queda mucho camino por recorrer"
+    },
+    {
+      "word": "I got dibs (frase no literal)",
+      "translation": "me toca"
+    },
+    {
+      "word": "Punk (alusivo a una persona)",
+      "translation": "gamberro, pandillero"
+    },
+    {
+      "word": "Is he making another run for it?",
+      "translation": "¿Está haciendo otra carrera?"
+    },
+    {
+      "word": "Gloat (verbo)",
+      "translation": "regodearse"
+    },
+    {
+      "word": "You got to pitch it hard",
+      "translation": "tienes que cabecear fuerte"
+    },
+    {
+      "word": "Break it loose",
+      "translation": "suéltalo"
+    },
+    {
+      "word": "Tulips",
+      "translation": "tulipanes"
+    },
+    {
+      "word": "A full-a size spare",
+      "translation": "un repuesto de tamaño completo"
+    },
+    {
+      "word": "The hard bargain",
+      "translation": "el negocio duro"
+    },
+    {
+      "word": "Deal me out",
+      "translation": "repárteme"
+    },
+    {
+      "word": "Impound (sustantivo)",
+      "translation": "depósito (de chatarra)"
+    },
+    {
+      "word": "A clever little twist",
+      "translation": "un pequeño giro inteligente"
+    },
+    {
+      "word": "Pinstriping tattoo",
+      "translation": "tatuaje a rayas"
+    },
+    {
+      "word": "Tractor-tipping is fun",
+      "translation": "volcar tractores es divertido"
+    },
+    {
+      "word": "Sneak up",
+      "translation": "colarse"
+    },
+    {
+      "word": "Impound lot",
+      "translation": "depósito"
+    },
+    {
+      "word": "Stand (verbo)",
+      "translation": "pararse, ponerse de pie, soportar, tolerar"
+    },
+    {
+      "word": "Creep out",
+      "translation": "dar escalofríos, poner los pelos de punta"
+    },
+    {
+      "word": "Overhear (verbo)",
+      "translation": "oír, escuchar"
+    },
+    {
+      "word": "He got a kick out of that",
+      "translation": "a él le gusto mucho"
+    },
+    {
+      "word": "Get a good peek",
+      "translation": "echas un buen vistazo"
+    },
+    {
+      "word": "Clean out",
+      "translation": "limpiar"
+    },
+    {
+      "word": "A new coat of poly",
+      "translation": "una nueva capa de poli"
+    },
+    {
+      "word": "You’re looking peaked",
+      "translation": "te ves muy mal"
+    },
+    {
+      "word": "Wind up in a place",
+      "translation": "acabar en un sitio"
+    },
+    {
+      "word": "Break down",
+      "translation": "romper"
+    },
+    {
+      "word": "Come across",
+      "translation": "atravesar, cruzar"
+    },
+    {
+      "word": "It rose, it fell, it curved",
+      "translation": "subía, bajaba, se curvaba"
+    },
+    {
+      "word": "Get bypassed",
+      "translation": "circunvalar"
+    },
+    {
+      "word": "Heyday",
+      "translation": "apogeo"
+    },
+    {
+      "word": "Wander off all",
+      "translation": "vagar por ahí"
+    },
+    {
+      "word": "Giddup right in there!",
+      "translation": "¡Arre!"
+    },
+    {
+      "word": "Hold it!",
+      "translation": "¡Alto!"
+    },
+    {
+      "word": "Your big wreck in 1954",
+      "translation": "tu gran accidente en 1954"
+    },
+    {
+      "word": "Get put together",
+      "translation": "conseguir reunirse"
+    },
+    {
+      "word": "Good riddance",
+      "translation": "buen viaje"
+    },
+    {
+      "word": "Blackwall tires",
+      "translation": "neumáticos de pared negra"
+    },
+    {
+      "word": "The blend into the pavement",
+      "translation": "se mimetizan con el pavimento"
+    },
+    {
+      "word": "Spare (sustantivo)",
+      "translation": "repuesto"
+    },
+    {
+      "word": "The oil companies got a grip on the government",
+      "translation": "las compañías petroleras se han"
+    },
+    {
+      "word": "He was a persistent little bugger for a two-cylinder",
+      "translation": "era un cabroncete persistente"
+    },
+    {
+      "word": "Your tires balding?",
+      "translation": "¿Se están calando tus neumáticos?"
+    },
+    {
+      "word": "Hunt down",
+      "translation": "perseguir, buscar, cazar"
+    },
+    {
+      "word": "You’re a sight for sore headlights!",
+      "translation": "¡Eres un espectáculo para la vista!"
+    },
+    {
+      "word": "I’ll make it up to you",
+      "translation": "¡Te lo compensaré!"
+    },
+    {
+      "word": "Woo (verbo)",
+      "translation": "cortejar"
+    },
+    {
+      "word": "Bit (en términos de parte)",
+      "translation": "parte"
+    },
+    {
+      "word": "Pit crew",
+      "translation": "equipo de boxes"
+    },
+    {
+      "word": "A slim lead",
+      "translation": "una pequeña ventaja, una ligera ventaja"
+    },
+    {
+      "word": "He’s got a run on him!",
+      "translation": "¡Él tiene una carrera sobre él!"
+    },
+    {
+      "word": "He’s looking to the inside!",
+      "translation": "¡Está buscando el interior!"
+    },
+    {
+      "word": "McQueen spins out in the infield",
+      "translation": "¡McQueen hace un trompo en el interior del campo!"
+    },
+    {
+      "word": "Hot snot, we’re back in business! (frase no literal)",
+      "translation": "mocos calientes, ¡volvemos a la"
+    },
+    {
+      "word": "They won’t know what bit them!",
+      "translation": "¡No sabrán lo que les ha mordido!"
+    },
+    {
+      "word": "Groove",
+      "translation": "ritmo"
+    },
+    {
+      "word": "Dip me in axle grease and call me slick!",
+      "translation": "¡Mójame en grasa de eje y llámame"
+    },
+    {
+      "word": "McQueen passes on the inside!",
+      "translation": "¡McQueen pasa por el interior!"
+    },
+    {
+      "word": "Keep your head on",
+      "translation": "mantén la cabeza fría"
+    },
+    {
+      "word": "Shrimpie",
+      "translation": "camarones"
+    },
+    {
+      "word": "He’s caught up to the leaders",
+      "translation": "ha alcanzado a los líderes"
+    },
+    {
+      "word": "Bring it in",
+      "translation": "tráelo"
+    },
+    {
+      "word": "Tear up",
+      "translation": "no te destroces"
+    },
+    {
+      "word": "Pace car",
+      "translation": "auto pase"
+    },
+    {
+      "word": "What a comeback!",
+      "translation": "¡Vaya regreso!"
+    },
+    {
+      "word": "Drive it in deep and hope it sticks",
+      "translation": "mételo hasta el fondo y espera que se pegue"
+    },
+    {
+      "word": "The grumpy old racecar",
+      "translation": "el viejo auto de carreras gruñón"
+    },
+    {
+      "word": "A little bump draft",
+      "translation": "un pequeño golpe de efecto"
+    },
+    {
+      "word": "How come the only one celebrating is me?",
+      "translation": "¿Por qué el único que lo celebra soy yo?"
+    },
+    {
+      "word": "Snap some pictures",
+      "translation": "hagan algunas fotos"
+    },
+    {
+      "word": "Buzzard",
+      "translation": "buitre"
+    },
+    {
+      "word": "They gave me my big break",
+      "translation": "ellos me dieron mi gran oportunidad"
+    },
+    {
+      "word": "I’m flying, by golly!",
+      "translation": "¡estoy volando, caramba!"
+    },
+    {
+      "word": "Trailer park",
+      "translation": "parque de caravanas"
+    },
+    {
+      "word": "Stay awhile",
+      "translation": "quedarse un rato"
+    },
+    {
+      "word": "Hotshot (en sentido informal)",
+      "translation": "pez gordo"
+    },
+    {
+      "word": "Racing headquarters",
+      "translation": "cuartel general de carreras"
+    },
+    {
+      "word": "Great timing!",
+      "translation": "¡Qué oportuno!"
+    },
+    {
+      "word": "Wing",
+      "translation": "ala"
+    },
+    {
+      "word": "He’s the real deal (frase no literal)",
+      "translation": "él es el mejor"
+    },
+    {
+      "word": "Off-road",
+      "translation": "todoterreno"
+    },
+    {
+      "word": "Rims",
+      "translation": "llantas"
+    },
+    {
+      "word": "Wagon",
+      "translation": "vagón"
+    },
+    {
+      "word": "We’re banished",
+      "translation": "estamos desterrados"
+    },
+    {
+      "word": "Wasteland",
+      "translation": "páramo"
+    },
+    {
+      "word": "Snowplow",
+      "translation": "quitanieves"
+    },
+    {
+      "word": "Cut-rate production",
+      "translation": "producción de bajo costo"
+    },
+    {
+      "word": "There’s an on-ramp close!",
+      "translation": "¡Hay una rampa de acceso cerca!"
+    }
+  ]
+}

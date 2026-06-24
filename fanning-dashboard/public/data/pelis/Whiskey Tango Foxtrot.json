@@ -1,0 +1,754 @@
+{
+  "title": "Whiskey Tango Foxtrot",
+  "englishAnalysis": "Inglés periodístico y militar mezclado. Vocabulario de zonas de guerra, jerga de corresponsales, humor negro y términos geopolíticos y militares ('embedded', 'infidel', 'bureau').",
+  "vocabulary": [
+    {
+      "word": "No word as to whether",
+      "translation": "no se sabe si"
+    },
+    {
+      "word": "International Security Assistance Force (ISAF)",
+      "translation": "Fuerza Internacional de Asistencia"
+    },
+    {
+      "word": "Go down",
+      "translation": "caer"
+    },
+    {
+      "word": "Bodgy",
+      "translation": "corporal"
+    },
+    {
+      "word": "Who is fronting the show?",
+      "translation": "¿Quién está al frente del espectáculo?"
+    },
+    {
+      "word": "The network is stretched thin",
+      "translation": "la red está al límite, la red no da abasto"
+    },
+    {
+      "word": "Void",
+      "translation": "vacío"
+    },
+    {
+      "word": "Childless personnel",
+      "translation": "personal sin hijos"
+    },
+    {
+      "word": "Overshadow (verbo)",
+      "translation": "eclipsar"
+    },
+    {
+      "word": "Vanquish (verbo)",
+      "translation": "vencer, ser vencido, derrotar, ser derrotado"
+    },
+    {
+      "word": "Increasingly",
+      "translation": "cada vez más"
+    },
+    {
+      "word": "News copy",
+      "translation": "noticias"
+    },
+    {
+      "word": "Quickie",
+      "translation": "rapidito"
+    },
+    {
+      "word": "Coalminers",
+      "translation": "mineros del carbón"
+    },
+    {
+      "word": "Corkscrew landing",
+      "translation": "aterrizaje en sacacorchos"
+    },
+    {
+      "word": "Pleased to meet you",
+      "translation": "mucho gusto, encantado de conocerte"
+    },
+    {
+      "word": "Embed (sustantivo)",
+      "translation": "encajamiento, alojamiento, empotración, incrustación"
+    },
+    {
+      "word": "Knickers",
+      "translation": "bragas, calzones"
+    },
+    {
+      "word": "Embed (verbo)",
+      "translation": "encajar, quedarse, empotrar, incrustar"
+    },
+    {
+      "word": "Get mortared",
+      "translation": "atacar con mortero"
+    },
+    {
+      "word": "They’re bloody addicted",
+      "translation": "son unos malditos adictos"
+    },
+    {
+      "word": "I’m your shooter",
+      "translation": "soy tu tirador"
+    },
+    {
+      "word": "Lippy color",
+      "translation": "color de labios"
+    },
+    {
+      "word": "Chapped",
+      "translation": "agrietados"
+    },
+    {
+      "word": "You poor thing",
+      "translation": "pobrecito"
+    },
+    {
+      "word": "Contractor",
+      "translation": "contratista"
+    },
+    {
+      "word": "Goatees",
+      "translation": "perillas"
+    },
+    {
+      "word": "Fat-strong",
+      "translation": "fuerte en grasa"
+    },
+    {
+      "word": "Borderline ten",
+      "translation": "al borde del diez"
+    },
+    {
+      "word": "My nose is running",
+      "translation": "mi nariz está goteando"
+    },
+    {
+      "word": "Lodging",
+      "translation": "alojamiento"
+    },
+    {
+      "word": "Chow",
+      "translation": "comida"
+    },
+    {
+      "word": "Stateside (forma informal de llamar a Estados Unidos)",
+      "translation": "Estados Unidos"
+    },
+    {
+      "word": "Wire (sustantivo)",
+      "translation": "alambrado"
+    },
+    {
+      "word": "Clear copy?",
+      "translation": "¿Recibido?, ¿Entendido?"
+    },
+    {
+      "word": "As soon as we find a ride for you",
+      "translation": "tan pronto como encontremos un transporte para ti"
+    },
+    {
+      "word": "Gunnery sergeant",
+      "translation": "sargento de artillería"
+    },
+    {
+      "word": "Dang it!",
+      "translation": "¡Maldita sea!"
+    },
+    {
+      "word": "It’s bugging the shit out of me (frase no literal)",
+      "translation": "me está fastidiando mucho"
+    },
+    {
+      "word": "Wells",
+      "translation": "pozos"
+    },
+    {
+      "word": "Interceptor multi-threat body armor system (IBA)",
+      "translation": "Sistema de Chaleco"
+    },
+    {
+      "word": "Forward operating base (FOB)",
+      "translation": "Base de Operaciones Avanzada"
+    },
+    {
+      "word": "Chamber a round (verbo)",
+      "translation": "hacer una recámara"
+    },
+    {
+      "word": "I figure accidental discharge",
+      "translation": "supongo que una descarga accidental"
+    },
+    {
+      "word": "Fixer",
+      "translation": "arreglador, solucionador, reparador"
+    },
+    {
+      "word": "Physical readiness training (PRT)",
+      "translation": "preparación física"
+    },
+    {
+      "word": "Your crew are clear to tag along",
+      "translation": "tu tripulación está autorizado a acompañarle"
+    },
+    {
+      "word": "Rolls out at zero-six",
+      "translation": "sale en cero-seis"
+    },
+    {
+      "word": "Orange ruck",
+      "translation": "saco naranja"
+    },
+    {
+      "word": "Who blew up my well",
+      "translation": "quién voló mi pozo"
+    },
+    {
+      "word": "There’s nowhere for you to go",
+      "translation": "no tienes a dónde ir"
+    },
+    {
+      "word": "I’ll hold it",
+      "translation": "lo aguantaré"
+    },
+    {
+      "word": "Hairy dump",
+      "translation": "basurero peludo, vertedero peludo"
+    },
+    {
+      "word": "The lead vehicle bottomed out",
+      "translation": "el vehículo que iba en cabeza tocó fondo"
+    },
+    {
+      "word": "Heads on a swivel!",
+      "translation": "¡Cabezas en movimiento!"
+    },
+    {
+      "word": "Stay put",
+      "translation": "quedarse quieto, no moverse"
+    },
+    {
+      "word": "Ordnance",
+      "translation": "pieza de artillería, artefacto"
+    },
+    {
+      "word": "Mantra",
+      "translation": "lema"
+    },
+    {
+      "word": "Attacks against coalition forces is up",
+      "translation": "aumentan los ataques contra las fuerzas de la"
+    },
+    {
+      "word": "Reportage",
+      "translation": "reportaje"
+    },
+    {
+      "word": "They are flat out lying",
+      "translation": "ellos están mintiendo descaradamente"
+    },
+    {
+      "word": "Tradecraft",
+      "translation": "oficio"
+    },
+    {
+      "word": "That’s really above and beyond",
+      "translation": "eso está muy por encima de lo normal"
+    },
+    {
+      "word": "Screen doors",
+      "translation": "puertas de malla"
+    },
+    {
+      "word": "A pickup book",
+      "translation": "un libro de recogida"
+    },
+    {
+      "word": "You got chucked over by some guy",
+      "translation": "te tiró un tipo"
+    },
+    {
+      "word": "Corn syrup",
+      "translation": "jarabe de maíz"
+    },
+    {
+      "word": "This came along",
+      "translation": "llegó esto, apareció esto"
+    },
+    {
+      "word": "I showed him what for",
+      "translation": "le mostré para qué"
+    },
+    {
+      "word": "According to no less an authority than her",
+      "translation": "según una autoridad no menor que ella"
+    },
+    {
+      "word": "I’m off",
+      "translation": "me voy"
+    },
+    {
+      "word": "Encouragement of virtue",
+      "translation": "fomento de la virtud"
+    },
+    {
+      "word": "Enforce (verbo)",
+      "translation": "imponer, aplicar, hacer valer"
+    },
+    {
+      "word": "Edict",
+      "translation": "edicto"
+    },
+    {
+      "word": "Wooden rod",
+      "translation": "varilla de madera"
+    },
+    {
+      "word": "Dowel",
+      "translation": "espiga, clavija"
+    },
+    {
+      "word": "Roll along",
+      "translation": "rodar"
+    },
+    {
+      "word": "Trousers",
+      "translation": "pantalones"
+    },
+    {
+      "word": "Curl (verbo)",
+      "translation": "enroscar"
+    },
+    {
+      "word": "Mouthiness",
+      "translation": "forma de hablar"
+    },
+    {
+      "word": "Warlord",
+      "translation": "caudillo, señor de la guerra"
+    },
+    {
+      "word": "Have her pray for me",
+      "translation": "haz que rece por mí"
+    },
+    {
+      "word": "She’s got scotch",
+      "translation": "ella tiene whisky"
+    },
+    {
+      "word": "Sneaky girl",
+      "translation": "chica astuta, chica furtiva"
+    },
+    {
+      "word": "Pleased",
+      "translation": "contento, satisfecho"
+    },
+    {
+      "word": "Shag (verbo despectivo)",
+      "translation": "follar"
+    },
+    {
+      "word": "Real quick",
+      "translation": "muy rápido"
+    },
+    {
+      "word": "Wither (verbo)",
+      "translation": "marchitar"
+    },
+    {
+      "word": "Make ready",
+      "translation": "prepárate"
+    },
+    {
+      "word": "Mount up!",
+      "translation": "¡Arriba!, ¡Monten!"
+    },
+    {
+      "word": "Prop up",
+      "translation": "apuntalar"
+    },
+    {
+      "word": "You’re manning that tollgate",
+      "translation": "estás/estabas vigilando ese peaje"
+    },
+    {
+      "word": "Folksy",
+      "translation": "folclórico"
+    },
+    {
+      "word": "They’re in luck",
+      "translation": "ellos están de suerte"
+    },
+    {
+      "word": "Unibrow",
+      "translation": "uniceja"
+    },
+    {
+      "word": "It went all the way into his hair",
+      "translation": "le llegó hasta el pelo"
+    },
+    {
+      "word": "Mildly",
+      "translation": "ligeramente, suavemente"
+    },
+    {
+      "word": "A battle-tested foreign correspondent",
+      "translation": "una corresponsal extranjera curtida en mil"
+    },
+    {
+      "word": "High voter turnout",
+      "translation": "alta participación electoral"
+    },
+    {
+      "word": "Compound (en algunos contextos)",
+      "translation": "complejo, recinto"
+    },
+    {
+      "word": "Rubble",
+      "translation": "a escombros"
+    },
+    {
+      "word": "She hits the road",
+      "translation": "sale a la carretera"
+    },
+    {
+      "word": "Pressers",
+      "translation": "prensas"
+    },
+    {
+      "word": "Enterprise (verbo)",
+      "translation": "emprender"
+    },
+    {
+      "word": "Your village well story got traction",
+      "translation": "la historia del pozo de tu pueblo tuvo tracción"
+    },
+    {
+      "word": "It’s a wee bit fluid down there",
+      "translation": "está un poco fluido ahí abajo"
+    },
+    {
+      "word": "Firebombing",
+      "translation": "bombardeo"
+    },
+    {
+      "word": "Cozzie (informal)",
+      "translation": "sillón"
+    },
+    {
+      "word": "Pointer",
+      "translation": "puntero, indicador"
+    },
+    {
+      "word": "I’m flipping you the bird in here",
+      "translation": "te estoy tomando el pelo"
+    },
+    {
+      "word": "First-tier drivers",
+      "translation": "conductores de primer nivel"
+    },
+    {
+      "word": "And noting as such",
+      "translation": "y tomando nota como tal"
+    },
+    {
+      "word": "On background",
+      "translation": "sobre el trasfondo/contexto"
+    },
+    {
+      "word": "You keep going",
+      "translation": "tú sigues adelante"
+    },
+    {
+      "word": "Knock yourself out (frase no literal)",
+      "translation": "haz lo que quieras, date el gusto"
+    },
+    {
+      "word": "And while we were tending to the child",
+      "translation": "y mientras atendíamos al niño"
+    },
+    {
+      "word": "Norepinephrine",
+      "translation": "noradrenalina"
+    },
+    {
+      "word": "Dosage",
+      "translation": "dosis"
+    },
+    {
+      "word": "Newlywed",
+      "translation": "recién casado"
+    },
+    {
+      "word": "Hog",
+      "translation": "cerdo"
+    },
+    {
+      "word": "I dig pits",
+      "translation": "yo cavo fosas/hoyos"
+    },
+    {
+      "word": "Headscarf (alusivo a una prenda del medio oriente)",
+      "translation": "velo"
+    },
+    {
+      "word": "Did you fucking sucker punch me?",
+      "translation": "¿Me has dado un jodido puñetazo?"
+    },
+    {
+      "word": "I’m gonna put it in you so fucking hard",
+      "translation": "te la voy a meter tan fuerte joder"
+    },
+    {
+      "word": "I’ll take you lying down",
+      "translation": "te llevaré acostado"
+    },
+    {
+      "word": "Roll off!",
+      "translation": "¡Rodando!, ¡Ándate!"
+    },
+    {
+      "word": "There’s aught like a good shag (frase no literal)",
+      "translation": "no hay nada como un buen polvo"
+    },
+    {
+      "word": "I fancy you",
+      "translation": "me gustas"
+    },
+    {
+      "word": "Your war’s got chronic same-shit-different-day-it is",
+      "translation": "tu guerra tiene una enfermedad"
+    },
+    {
+      "word": "I’d be thrilled",
+      "translation": "me encantaría"
+    },
+    {
+      "word": "Rate (verbo)",
+      "translation": "valorar, calificar"
+    },
+    {
+      "word": "Hook up",
+      "translation": "enganchar"
+    },
+    {
+      "word": "My wee froggy in the pot",
+      "translation": "mi ranita en la maceta"
+    },
+    {
+      "word": "Cupboard",
+      "translation": "armario"
+    },
+    {
+      "word": "Bloody wild goose chase",
+      "translation": "sangrienta búsqueda inútil"
+    },
+    {
+      "word": "Stuff your knickers in your mouth",
+      "translation": "meter tus bragas en tu boca"
+    },
+    {
+      "word": "If you’re that hard up",
+      "translation": "si eres así de duro"
+    },
+    {
+      "word": "Mine for (verbo)",
+      "translation": "extraer (un mineral)"
+    },
+    {
+      "word": "Restive nation",
+      "translation": "nación inquieta/intranquila"
+    },
+    {
+      "word": "Hang on",
+      "translation": "aguanta, espera"
+    },
+    {
+      "word": "Three Stooge",
+      "translation": "Los Tres Chiflados"
+    },
+    {
+      "word": "Because he’s put upon in a way that I identify with",
+      "translation": "porque se le pone de una manera"
+    },
+    {
+      "word": "It’s a scam",
+      "translation": "es una estafa"
+    },
+    {
+      "word": "Standing by approval",
+      "translation": "en pie por aprobación"
+    },
+    {
+      "word": "We are clear to engage target",
+      "translation": "tenemos claro el objetivo a alcanzar"
+    },
+    {
+      "word": "No carpooling",
+      "translation": "nada de compartir auto"
+    },
+    {
+      "word": "Stump up the money",
+      "translation": "desembolsar el dinero"
+    },
+    {
+      "word": "I would get a book deal out of this shit!",
+      "translation": "¡Conseguiría un contrato para un libro de esta"
+    },
+    {
+      "word": "I have a dedicated feed",
+      "translation": "tengo una fuente dedicada, tengo un canal dedicado"
+    },
+    {
+      "word": "A sat hookup",
+      "translation": "una conexión por satélite"
+    },
+    {
+      "word": "Burst (verbo)",
+      "translation": "irrumpir"
+    },
+    {
+      "word": "Cottage",
+      "translation": "casita (de campo)"
+    },
+    {
+      "word": "Eat scrambled eggs off each other?",
+      "translation": "¿Comer huevos revueltos entre nosotros?"
+    },
+    {
+      "word": "Long simmering frustration",
+      "translation": "frustración largamente latente"
+    },
+    {
+      "word": "Boil over",
+      "translation": "estallar"
+    },
+    {
+      "word": "Despair",
+      "translation": "descontento"
+    },
+    {
+      "word": "As much as",
+      "translation": "por mucho que, tanto como"
+    },
+    {
+      "word": "Let me pitch you something",
+      "translation": "déjame proponerte algo, déjame ofrecerte algo"
+    },
+    {
+      "word": "Any kind of bounce",
+      "translation": "algún tipo de rebote"
+    },
+    {
+      "word": "Soundbite",
+      "translation": "frase"
+    },
+    {
+      "word": "He got his legs blown off",
+      "translation": "a él le volaron las piernas"
+    },
+    {
+      "word": "I need a hit, all right?",
+      "translation": "necesito un toque, ¿de acuerdo?"
+    },
+    {
+      "word": "Ottoman",
+      "translation": "otomano (alusivo al gentilicio como tal)"
+    },
+    {
+      "word": "Freelance photographer",
+      "translation": "fotógrafo independiente"
+    },
+    {
+      "word": "Half-assed country",
+      "translation": "país de medio pelo"
+    },
+    {
+      "word": "Upper-tier organization",
+      "translation": "organización de alto nivel"
+    },
+    {
+      "word": "They’re slaughtering lambs",
+      "translation": "están sacrificando corderos"
+    },
+    {
+      "word": "What week goes by they don’t see those assholes on TV, am I right?",
+      "translation": "¿Qué semana"
+    },
+    {
+      "word": "There’s this pesky little 10% line item for the marines",
+      "translation": "hay una molesta partida del"
+    },
+    {
+      "word": "We don’t go in blind",
+      "translation": "no vamos a ciegas"
+    },
+    {
+      "word": "We’ll get kinetic",
+      "translation": "nos pondremos cinéticos"
+    },
+    {
+      "word": "Inquiries",
+      "translation": "averiguaciones, indagaciones"
+    },
+    {
+      "word": "Ace",
+      "translation": "as"
+    },
+    {
+      "word": "Load up!",
+      "translation": "¡Carguen!"
+    },
+    {
+      "word": "Outstanding",
+      "translation": "sobresaliente, excelente, excepcional"
+    },
+    {
+      "word": "I’m gonna get you that ride",
+      "translation": "voy a conseguirte ese paseo"
+    },
+    {
+      "word": "It’s too fucking long for me!",
+      "translation": "¡Es demasiado largo para mí joder!"
+    },
+    {
+      "word": "Get buggered",
+      "translation": "ser sodomizado"
+    },
+    {
+      "word": "Leverage (verbo)",
+      "translation": "apalancar, aprovechar, convertir"
+    },
+    {
+      "word": "Foul up (en algunos contextos)",
+      "translation": "estropear"
+    },
+    {
+      "word": "There’s only so much any of us have any control of",
+      "translation": "no hay mucho que podamos"
+    },
+    {
+      "word": "Embrace (verbo)",
+      "translation": "aceptar, acoger, abrazar"
+    },
+    {
+      "word": "He had a good long run in the military",
+      "translation": "tuvo una buena y larga carrera en el ejército"
+    },
+    {
+      "word": "They missed yet another benchmark for preparedness",
+      "translation": "ellos no alcanzaron otro punto"
+    },
+    {
+      "word": "Draw down (sustantivo en términos de guerra)",
+      "translation": "retirada"
+    },
+    {
+      "word": "Chronicle (verbo)",
+      "translation": "narrar, relatar (una crónica)"
+    },
+    {
+      "word": "If you’d fancy a coffee",
+      "translation": "si te apetece un café"
+    }
+  ]
+}

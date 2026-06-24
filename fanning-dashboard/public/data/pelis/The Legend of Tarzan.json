@@ -1,0 +1,598 @@
+{
+  "title": "The Legend of Tarzan",
+  "englishAnalysis": "Ofrece una interesante dicotomía: por un lado, el inglés aristocrático británico de la Inglaterra victoriana ('lord', 'civilized', 'estate'); por otro, un lenguaje más crudo, primitivo y táctico relacionado con la supervivencia y el imperialismo en la selva africana.",
+  "vocabulary": [
+    {
+      "word": "Guns cocking",
+      "translation": "armas amartillando"
+    },
+    {
+      "word": "Steady",
+      "translation": "firme"
+    },
+    {
+      "word": "Fall in!",
+      "translation": "¡En fila!"
+    },
+    {
+      "word": "Stand your ground!",
+      "translation": "¡Defiendan su posición!"
+    },
+    {
+      "word": "Groan (verbo)",
+      "translation": "gemir"
+    },
+    {
+      "word": "Choke (verbo)",
+      "translation": "ahogarse, sofocarse"
+    },
+    {
+      "word": "His serene highness",
+      "translation": "su serena alteza"
+    },
+    {
+      "word": "Walnut shells cracking",
+      "translation": "cáscaras de nuez rompiéndose"
+    },
+    {
+      "word": "Default (verbo)",
+      "translation": "imcumplir"
+    },
+    {
+      "word": "Loan",
+      "translation": "préstamo"
+    },
+    {
+      "word": "Shells clanking",
+      "translation": "sonido de conchas"
+    },
+    {
+      "word": "Fifth earl",
+      "translation": "quinto conde"
+    },
+    {
+      "word": "Envoy",
+      "translation": "enviado"
+    },
+    {
+      "word": "Claim (sustantivo)",
+      "translation": "reclamación, demanda"
+    },
+    {
+      "word": "Trough",
+      "translation": "comedero"
+    },
+    {
+      "word": "Shut off access",
+      "translation": "cortar el acceso"
+    },
+    {
+      "word": "Good deeds",
+      "translation": "buenas acciones"
+    },
+    {
+      "word": "You know Africa off the beaten path",
+      "translation": "conoces África fuera de lo común"
+    },
+    {
+      "word": "Amiss",
+      "translation": "mal"
+    },
+    {
+      "word": "Arrangements",
+      "translation": "arreglos. preparativos"
+    },
+    {
+      "word": "Exhales sharply",
+      "translation": "exhale bruscamente"
+    },
+    {
+      "word": "Shipwreck",
+      "translation": "naufragio"
+    },
+    {
+      "word": "Snort (verbo)",
+      "translation": "esnifar"
+    },
+    {
+      "word": "Coo (verbo)",
+      "translation": "arrullar"
+    },
+    {
+      "word": "Snarl (verbo)",
+      "translation": "gruñir"
+    },
+    {
+      "word": "Snap (verbo)",
+      "translation": "romper"
+    },
+    {
+      "word": "I grew up running on all fours",
+      "translation": "crecí corriendo a cuatro patas"
+    },
+    {
+      "word": "Diplomat",
+      "translation": "diplomático"
+    },
+    {
+      "word": "Faint (verbo)",
+      "translation": "desmayarse"
+    },
+    {
+      "word": "Hybridize (verbo)",
+      "translation": "hibridizar"
+    },
+    {
+      "word": "Outer door slams",
+      "translation": "la puerta exterior se cierra de golpe"
+    },
+    {
+      "word": "Chitter (verbo)",
+      "translation": "chirriar, parlotear"
+    },
+    {
+      "word": "Growl (verbo)",
+      "translation": "gruñir, rezongar"
+    },
+    {
+      "word": "Screech (verbo)",
+      "translation": "chillar"
+    },
+    {
+      "word": "Wretched place",
+      "translation": "lugar miserable"
+    },
+    {
+      "word": "They went out of style",
+      "translation": "pasaron de moda"
+    },
+    {
+      "word": "Scoff (verbo)",
+      "translation": "burlar, despreciar"
+    },
+    {
+      "word": "Cubs",
+      "translation": "cachorros"
+    },
+    {
+      "word": "Ledger",
+      "translation": "libro mayor. libro de contabilidad"
+    },
+    {
+      "word": "Stateroom",
+      "translation": "camarote"
+    },
+    {
+      "word": "Those crates go in the hold",
+      "translation": "esas cajas van en la bodega"
+    },
+    {
+      "word": "He gave you the slip",
+      "translation": "él te dió el desliz"
+    },
+    {
+      "word": "The rest goes down below",
+      "translation": "el resto va abajo"
+    },
+    {
+      "word": "Our invitation has been snubbed",
+      "translation": "nuestra invitación ha sido rechazada"
+    },
+    {
+      "word": "They jumped ship further up the coast",
+      "translation": "saltaron del barco más arriba en la costa"
+    },
+    {
+      "word": "It was due three months ago",
+      "translation": "debía hacerlo hace tres meses"
+    },
+    {
+      "word": "Get trutty",
+      "translation": "ser sincero"
+    },
+    {
+      "word": "Sail out",
+      "translation": "navegar"
+    },
+    {
+      "word": "The arriving fleet",
+      "translation": "la flota que llega"
+    },
+    {
+      "word": "Foaming cup",
+      "translation": "taza de espuma"
+    },
+    {
+      "word": "As a rite of passage",
+      "translation": "como rito de iniciación"
+    },
+    {
+      "word": "Blue-bottom rufous towhee",
+      "translation": "gorrión culinegro"
+    },
+    {
+      "word": "Mating call",
+      "translation": "llamada de apareamiento"
+    },
+    {
+      "word": "Be still, my beating heart",
+      "translation": "quédate quieta, mi corazón latiente"
+    },
+    {
+      "word": "Cheetah",
+      "translation": "guepardo"
+    },
+    {
+      "word": "Handkerchief",
+      "translation": "pañuelo, lienzo"
+    },
+    {
+      "word": "Embrace customs",
+      "translation": "abrazar costumbres"
+    },
+    {
+      "word": "Take aim!",
+      "translation": "¡Apunta!"
+    },
+    {
+      "word": "Hold him still!",
+      "translation": "¡Manténlo quieto!"
+    },
+    {
+      "word": "You grotty little monkey boy",
+      "translation": "pequeño niño mono asqueroso"
+    },
+    {
+      "word": "Ropes tightening",
+      "translation": "cuerdas tensando"
+    },
+    {
+      "word": "Round up 10 of the strongest",
+      "translation": "reúne a 10 de los más fuertes"
+    },
+    {
+      "word": "Let go of me!",
+      "translation": "¡Suéltame!"
+    },
+    {
+      "word": "Breathing heavily",
+      "translation": "respirando pesadamente"
+    },
+    {
+      "word": "Negresses",
+      "translation": "negras"
+    },
+    {
+      "word": "Baboons",
+      "translation": "babuinos"
+    },
+    {
+      "word": "We’ll bring him down",
+      "translation": "lo derribaremos"
+    },
+    {
+      "word": "Get the maxims loaded!",
+      "translation": "¡Carguen las máximas!"
+    },
+    {
+      "word": "Boilers",
+      "translation": "calderas, hervidores"
+    },
+    {
+      "word": "Pull away",
+      "translation": "arrancarse, alejarse"
+    },
+    {
+      "word": "Upstream",
+      "translation": "río arriba"
+    },
+    {
+      "word": "Which will slow it down",
+      "translation": "lo cual lo ralentizará"
+    },
+    {
+      "word": "You can’t keep up",
+      "translation": "no puedes seguir el ritmo"
+    },
+    {
+      "word": "Fall behind",
+      "translation": "quedarse atrás"
+    },
+    {
+      "word": "He’d still be choked out redder than a cardinal’s ass",
+      "translation": "todavía estaría más rojo que el"
+    },
+    {
+      "word": "Yelp (verbo)",
+      "translation": "gañir"
+    },
+    {
+      "word": "Get your mitts off me!",
+      "translation": "¡Quita tus guantes de encima!"
+    },
+    {
+      "word": "Tear apart",
+      "translation": "destrozar"
+    },
+    {
+      "word": "Butcher (verbo)",
+      "translation": "matar"
+    },
+    {
+      "word": "Dispatch (verbo)",
+      "translation": "despachar"
+    },
+    {
+      "word": "Pant (verbo)",
+      "translation": "jadear"
+    },
+    {
+      "word": "Wheeze (verbo)",
+      "translation": "jadear"
+    },
+    {
+      "word": "Thudding",
+      "translation": "ruidos sordos"
+    },
+    {
+      "word": "Glass shattering",
+      "translation": "vidrio rompiéndose"
+    },
+    {
+      "word": "Mighty big earlobes",
+      "translation": "lóbulos de las orejas muy grandes"
+    },
+    {
+      "word": "Maxim gun",
+      "translation": "pistola Maxim"
+    },
+    {
+      "word": "People won’t stand a chance",
+      "translation": "la gente no tendrá ninguna posibilidad"
+    },
+    {
+      "word": "Gasp (verbo)",
+      "translation": "jadear, sofocarse"
+    },
+    {
+      "word": "Wail (verbo)",
+      "translation": "gemir, lamentarse, llorar"
+    },
+    {
+      "word": "Shut it, clucker!",
+      "translation": "¡Cállate, cloqueador!"
+    },
+    {
+      "word": "Unladylike",
+      "translation": "poco femenino, vulgar, maleducado"
+    },
+    {
+      "word": "Peep show",
+      "translation": "espectáculo obsceno"
+    },
+    {
+      "word": "Madagascar spider slik",
+      "translation": "seda de araña de Madagascar"
+    },
+    {
+      "word": "Priest",
+      "translation": "sacerdote, cura"
+    },
+    {
+      "word": "Bring along",
+      "translation": "traer, llevar consigo"
+    },
+    {
+      "word": "I brought myself",
+      "translation": "me lo traje"
+    },
+    {
+      "word": "Aside from",
+      "translation": "aparte de"
+    },
+    {
+      "word": "Lecture",
+      "translation": "conferencia"
+    },
+    {
+      "word": "A standing ovation",
+      "translation": "una ovación de pie"
+    },
+    {
+      "word": "A low-born scrapper",
+      "translation": "un peleador de baja cuna"
+    },
+    {
+      "word": "My king’s army is due in six days",
+      "translation": "el ejército de mi rey llegará en seis días"
+    },
+    {
+      "word": "Wildness",
+      "translation": "desenfreno"
+    },
+    {
+      "word": "Whereas my spirit",
+      "translation": "mientras que mi espíritu"
+    },
+    {
+      "word": "Brakes screeching",
+      "translation": "frenos chirriando"
+    },
+    {
+      "word": "They’d consider seven a raid",
+      "translation": "considerarían siete en una redada"
+    },
+    {
+      "word": "This is the ledger of all the slaves taken so far",
+      "translation": "este es el libro de contabilidad de"
+    },
+    {
+      "word": "Lurch",
+      "translation": "estacada"
+    },
+    {
+      "word": "Horses kick to escape",
+      "translation": "los caballos cocean para escapar"
+    },
+    {
+      "word": "Trill (verbo)",
+      "translation": "trinar"
+    },
+    {
+      "word": "Squawk (verbo)",
+      "translation": "graznar"
+    },
+    {
+      "word": "Stay clear",
+      "translation": "mantenerse alejado"
+    },
+    {
+      "word": "Disembowel (verbo)",
+      "translation": "destripar"
+    },
+    {
+      "word": "Talons",
+      "translation": "garras"
+    },
+    {
+      "word": "Tear to pieces",
+      "translation": "desgarrar a pedazos, romper en pedazos"
+    },
+    {
+      "word": "Christ almighty",
+      "translation": "Cristo todopoderoso"
+    },
+    {
+      "word": "Bow (verbo)",
+      "translation": "inclinarse, hacer una reverencia"
+    },
+    {
+      "word": "You want me to lick his nuts?",
+      "translation": "¿Quieres que le lama las pelotas?"
+    },
+    {
+      "word": "Lick (verbo)",
+      "translation": "lamer, chupar"
+    },
+    {
+      "word": "We get this stitched up",
+      "translation": "cosemos esto"
+    },
+    {
+      "word": "I’d grub on that",
+      "translation": "me gustaría eso"
+    },
+    {
+      "word": "Poultice",
+      "translation": "cataplasma"
+    },
+    {
+      "word": "Wipe (verbo)",
+      "translation": "limpiar"
+    },
+    {
+      "word": "Rubber (sustantivo)",
+      "translation": "goma"
+    },
+    {
+      "word": "I’ve been saddled",
+      "translation": "he sido ensillado"
+    },
+    {
+      "word": "Talking powder keg",
+      "translation": "barril de pólvora parlante"
+    },
+    {
+      "word": "Elephants trumpeting",
+      "translation": "elefantes trompetando"
+    },
+    {
+      "word": "Scintillating conversation",
+      "translation": "conversación brillante"
+    },
+    {
+      "word": "Pulling up cage",
+      "translation": "jaula levantándose"
+    },
+    {
+      "word": "Move out!",
+      "translation": "¡Muévanse!"
+    },
+    {
+      "word": "Breathing shakily",
+      "translation": "respirando temblorosamente"
+    },
+    {
+      "word": "Rustle (verbo)",
+      "translation": "susurrar"
+    },
+    {
+      "word": "Twig snaps",
+      "translation": "ramita se rompe"
+    },
+    {
+      "word": "Shriek (verbo)",
+      "translation": "gritar, chillar"
+    },
+    {
+      "word": "He’ll wipe you out",
+      "translation": "él te aniquilará"
+    },
+    {
+      "word": "Every last one of you",
+      "translation": "cada uno de ustedes"
+    },
+    {
+      "word": "Sighing in relief",
+      "translation": "suspirando de alivio"
+    },
+    {
+      "word": "Fall back!",
+      "translation": "¡Retrocedan!"
+    },
+    {
+      "word": "Rattle (verbo)",
+      "translation": "traquetear"
+    },
+    {
+      "word": "Bring her!",
+      "translation": "¡Tráela!"
+    },
+    {
+      "word": "Bray (verbo)",
+      "translation": "rebuznar"
+    },
+    {
+      "word": "Hang on!",
+      "translation": "¡Aférrate!"
+    },
+    {
+      "word": "Lower the skiff",
+      "translation": "baja el esquife"
+    },
+    {
+      "word": "Don’t daily",
+      "translation": "no lo hagas diariamente"
+    },
+    {
+      "word": "Machine gun",
+      "translation": "ametralladora"
+    },
+    {
+      "word": "You portly coward!",
+      "translation": "¡Eres un corpulento cobarde!"
+    },
+    {
+      "word": "Hiss (verbo)",
+      "translation": "sisear, silbar"
+    },
+    {
+      "word": "Chant (verbo)",
+      "translation": "corear"
+    },
+    {
+      "word": "Wade into",
+      "translation": "meterse en"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "title": "Star Wars Episodio III Revenge of the Sith",
+  "englishAnalysis": "El punto álgido del lenguaje diplomático, trágico y oscuro de las precuelas. Diálogos casi shakesperianos ('treason', 'absolutes', 'democracy') y confrontaciones intensas.",
+  "vocabulary": [
+    {
+      "word": "Lock on to him",
+      "translation": "fíjate en él, bloquéalo"
+    },
+    {
+      "word": "Crawl (verbo)",
+      "translation": "arrastrarse"
+    },
+    {
+      "word": "Vulture droids",
+      "translation": "droides buitre"
+    },
+    {
+      "word": "Pull up",
+      "translation": "levantar, subir"
+    },
+    {
+      "word": "They overshot us",
+      "translation": "nos sobrepasaron, nos superaron"
+    },
+    {
+      "word": "Reverse thrusters",
+      "translation": "propulsores inversos"
+    },
+    {
+      "word": "Fog (verbo)",
+      "translation": "empañar"
+    },
+    {
+      "word": "Spire",
+      "translation": "aguja"
+    },
+    {
+      "word": "Spring the trap",
+      "translation": "saltar la trampa"
+    },
+    {
+      "word": "Those are Jedi fighters all right",
+      "translation": "esos son luchadores Jedi"
+    },
+    {
+      "word": "Switch on the comlink",
+      "translation": "conecta el enlace de comunicaciones"
+    },
+    {
+      "word": "No loose wire jokes",
+      "translation": "sin bromas de cables sueltos"
+    },
+    {
+      "word": "Twice the pride, double the fall",
+      "translation": "doble orgullo, doble caída"
+    },
+    {
+      "word": "Booster engines",
+      "translation": "motores de refuerzo"
+    },
+    {
+      "word": "We're in a bit of a situation here",
+      "translation": "estamos en una situación un poco difícil"
+    },
+    {
+      "word": "R2 will be along",
+      "translation": "R2 ya vendrá"
+    },
+    {
+      "word": "Extend all flaps and drag fins",
+      "translation": "extiende los alerones y aletas de arrastre"
+    },
+    {
+      "word": "Briefing",
+      "translation": "reunión informativa"
+    },
+    {
+      "word": "Praise (verbo)",
+      "translation": "alabar, elogiar"
+    },
+    {
+      "word": "Tune-up",
+      "translation": "puesta a punto"
+    },
+    {
+      "word": "Until General Grievous is spare parts",
+      "translation": "hasta que el General Grievous sea repuesto"
+    },
+    {
+      "word": "It feels like we've been apart for a lifetime",
+      "translation": "parece como si hubiéramos estado"
+    },
+    {
+      "word": "Outer rim sieges",
+      "translation": "asedios del borde exterior"
+    },
+    {
+      "word": "Rejoice (verbo)",
+      "translation": "alegrarse, regocijarse"
+    },
+    {
+      "word": "Mourn them",
+      "translation": "llorarlos"
+    },
+    {
+      "word": "I was held up",
+      "translation": "me retuvieron"
+    },
+    {
+      "word": "This is outrageous",
+      "translation": "esto es indignante"
+    },
+    {
+      "word": "Survey (verbo)",
+      "translation": "revisar, examinar, inspeccionar, estudiar"
+    },
+    {
+      "word": "Outlying systems",
+      "translation": "sistemas periféricos, sistemas remotos"
+    },
+    {
+      "word": "To spare",
+      "translation": "de sobra"
+    },
+    {
+      "word": "What kind of nonsense is this?",
+      "translation": "¿Qué clase de tontería es ésta?"
+    },
+    {
+      "word": "This assignment is not to be on record",
+      "translation": "esta tarea no debe constar en acta"
+    },
+    {
+      "word": "Misread",
+      "translation": "mal leído"
+    },
+    {
+      "word": "Don't shut me out",
+      "translation": "no me excluyas"
+    },
+    {
+      "word": "Rely (verbo)",
+      "translation": "confiar, depender"
+    },
+    {
+      "word": "Quest",
+      "translation": "búsqueda, afán"
+    },
+    {
+      "word": "Inwards",
+      "translation": "hacia dentro"
+    },
+    {
+      "word": "Selfless",
+      "translation": "desinteresado"
+    },
+    {
+      "word": "Pathway",
+      "translation": "vía, camino"
+    },
+    {
+      "word": "Make up its own mind",
+      "translation": "decidir por sí mismo"
+    },
+    {
+      "word": "Concur (verbo)",
+      "translation": "coincidir, estar de acuerdo"
+    },
+    {
+      "word": "Aye",
+      "translation": "sí"
+    },
+    {
+      "word": "Council adjourned",
+      "translation": "el Consejo levanta la sesión"
+    },
+    {
+      "word": "Start up",
+      "translation": "arrancar, poner en marcha"
+    },
+    {
+      "word": "Head for cover!",
+      "translation": "¡A cubierto!"
+    },
+    {
+      "word": "We are being held hostages",
+      "translation": "nos tienen como rehenes"
+    },
+    {
+      "word": "Grip",
+      "translation": "agarre"
+    },
+    {
+      "word": "You're a bold one",
+      "translation": "eres un audaz"
+    },
+    {
+      "word": "You must realize you are doomed (frase no literal)",
+      "translation": "debes saber que estás perdido"
+    },
+    {
+      "word": "Master Kenobi is up to the challenge",
+      "translation": "el Maestro Kenobi está a la altura del desafío"
+    },
+    {
+      "word": "Subtleties",
+      "translation": "sutilezas"
+    },
+    {
+      "word": "The dogmatic narrow view",
+      "translation": "la estrecha visión dogmática"
+    },
+    {
+      "word": "I'm going to turn you over to the Jedi Council",
+      "translation": "voy a entregarte al Consejo Jedi"
+    },
+    {
+      "word": "Then our worst fears have been realized",
+      "translation": "entonces nuestros peores temores se han"
+    },
+    {
+      "word": "A great deal of confusion",
+      "translation": "mucha confusión"
+    },
+    {
+      "word": "Council chambers",
+      "translation": "cámara del consejo"
+    },
+    {
+      "word": "He must stand trial",
+      "translation": "debe someterse a juicio"
+    },
+    {
+      "word": "Cheat death",
+      "translation": "engañar a la muerte"
+    },
+    {
+      "word": "I pledge myself",
+      "translation": "me comprometo"
+    },
+    {
+      "word": "Relentless",
+      "translation": "implacable"
+    },
+    {
+      "word": "We will catch them off-balance",
+      "translation": "los cogeremos desprevenidos"
+    },
+    {
+      "word": "Don’t hesitate",
+      "translation": "no dudes"
+    },
+    {
+      "word": "Show no mercy (frase no literal)",
+      "translation": "no tengas piedad"
+    },
+    {
+      "word": "Let’s get a move in",
+      "translation": "movámonos, pongámonos en marcha"
+    },
+    {
+      "word": "Blast him!",
+      "translation": "¡Dispárenle!, ¡Destrúyanlo!"
+    },
+    {
+      "word": "It will be done (frase no literal)",
+      "translation": "así se hará"
+    },
+    {
+      "word": "Overthrow (verbo)",
+      "translation": "derrocar"
+    },
+    {
+      "word": "Be set right",
+      "translation": "arreglar, ponerse en orden"
+    },
+    {
+      "word": "I feel so helpless",
+      "translation": "me siento tan impotente"
+    },
+    {
+      "word": "Stragglers",
+      "translation": "rezagados"
+    },
+    {
+      "word": "There's too much at stake (frase no literal)",
+      "translation": "hay demasiado en juego"
+    },
+    {
+      "word": "Send it through",
+      "translation": "envíalo, mándalo"
+    },
+    {
+      "word": "Foiled",
+      "translation": "frustrado, desbaratado"
+    },
+    {
+      "word": "Resolve",
+      "translation": "determinación"
+    },
+    {
+      "word": "Thunderous applause",
+      "translation": "atronador aplauso"
+    },
+    {
+      "word": "Twist (verbo)",
+      "translation": "torcer, retorcer"
+    },
+    {
+      "word": "He was deceived by a lie",
+      "translation": "él fue engañado por una mentira"
+    },
+    {
+      "word": "Take care of",
+      "translation": "ocupar, encargar, cuidar"
+    },
+    {
+      "word": "Shut down",
+      "translation": "apagar (una máquina)"
+    },
+    {
+      "word": "You'll not take her from me!",
+      "translation": "¡No me la arrebatarás!"
+    },
+    {
+      "word": "Lust of power",
+      "translation": "sed de poder"
+    },
+    {
+      "word": "At last the Jedi are no more",
+      "translation": "por fin los Jedi han desaparecido"
+    },
+    {
+      "word": "Your rule",
+      "translation": "tu gobierno, tu mandato, tu reinado"
+    },
+    {
+      "word": "Misplaced",
+      "translation": "fuera de lugar"
+    },
+    {
+      "word": "Careful timing we will need",
+      "translation": "necesitaremos un tiempo cuidadoso"
+    },
+    {
+      "word": "Homing beacon",
+      "translation": "radiobaliza"
+    },
+    {
+      "word": "Shuttle (sustantivo)",
+      "translation": "transbordador"
+    },
+    {
+      "word": "I have the high ground (frase no literal)",
+      "translation": "yo tengo la ventaja"
+    },
+    {
+      "word": "I will watch over him",
+      "translation": "yo velaré por él"
+    },
+    {
+      "word": "Solitude",
+      "translation": "soledad"
+    },
+    {
+      "word": "Netherworld",
+      "translation": "mundo de las tinieblas"
+    },
+    {
+      "word": "Commune (verbo)",
+      "translation": "comulgar, comunicar"
+    },
+    {
+      "word": "Have the protocol droid's mind wiped",
+      "translation": "borra la mente del droide de protocolo"
+    }
+  ]
+}

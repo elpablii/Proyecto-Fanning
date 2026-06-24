@@ -1,0 +1,502 @@
+{
+  "title": "Los Fantasmas de Scrooge",
+  "englishAnalysis": "Una excelente oportunidad para el inglés clásico británico de la época victoriana. Lenguaje rimbombante, arcaico a veces ('humbug', 'shilling', 'spectre') y muy rico en descripciones literarias.",
+  "vocabulary": [
+    {
+      "word": "Doornail",
+      "translation": "clavo de puerta"
+    },
+    {
+      "word": "Tuppence",
+      "translation": "dos peniques"
+    },
+    {
+      "word": "Scraps",
+      "translation": "sobras"
+    },
+    {
+      "word": "His lordship",
+      "translation": "su adoración"
+    },
+    {
+      "word": "Chestnuts",
+      "translation": "castañas"
+    },
+    {
+      "word": "Humbug (despectivo)",
+      "translation": "idiota, imbécil"
+    },
+    {
+      "word": "Humbug (en sentido denotativo)",
+      "translation": "tontería, patraña, engaño"
+    },
+    {
+      "word": "Dismal",
+      "translation": "lúgubre, sombrío, desolador"
+    },
+    {
+      "word": "Don't be cross (frase no literal)",
+      "translation": "no te enojes"
+    },
+    {
+      "word": "A stake of holly",
+      "translation": "una estaca de acebo"
+    },
+    {
+      "word": "Profit (verbo)",
+      "translation": "beneficiarse, lucrar, sacar provecho"
+    },
+    {
+      "word": "Fellow",
+      "translation": "compañeros"
+    },
+    {
+      "word": "Scrap",
+      "translation": "trozo, pedazo"
+    },
+    {
+      "word": "Speaker",
+      "translation": "orador"
+    },
+    {
+      "word": "Resolute (adjetivo)",
+      "translation": "decidido, firme, resolutivo"
+    },
+    {
+      "word": "Destitute",
+      "translation": "indigentes, desamparados"
+    },
+    {
+      "word": "Many thousands are in want of common confort",
+      "translation": "muchos miles carecen de"
+    },
+    {
+      "word": "Treadmill",
+      "translation": "cinta de corer, cinta rodante"
+    },
+    {
+      "word": "We are endeavoring to raise a fund",
+      "translation": "estamos tratando de recaudar un fondo"
+    },
+    {
+      "word": "Warmth",
+      "translation": "calor"
+    },
+    {
+      "word": "What shall we put you down for?",
+      "translation": "¿Por qué te anotamos?"
+    },
+    {
+      "word": "Idle",
+      "translation": "ocioso"
+    },
+    {
+      "word": "Surplus",
+      "translation": "excedente, exceso"
+    },
+    {
+      "word": "Dock (verbo en términos económicos)",
+      "translation": "descontar"
+    },
+    {
+      "word": "You'd think yourself ill-used",
+      "translation": "pensarías que estás mal empleado"
+    },
+    {
+      "word": "Bugger it!",
+      "translation": "¡A la mierda!"
+    },
+    {
+      "word": "Balderdash!",
+      "translation": "¡Tonterías!"
+    },
+    {
+      "word": "I have given myself the willies (frase no literal)",
+      "translation": "se me han puesto los pelos de punta"
+    },
+    {
+      "word": "An undigested bit of beef",
+      "translation": "un trozo de carne sin digerir"
+    },
+    {
+      "word": "Blot",
+      "translation": "mancha"
+    },
+    {
+      "word": "Underdone potato",
+      "translation": "papa poco cocida"
+    },
+    {
+      "word": "Gravy",
+      "translation": "salsa"
+    },
+    {
+      "word": "Man of worldly mind",
+      "translation": "hombre de mente mundana"
+    },
+    {
+      "word": "You're fettered in chains",
+      "translation": "estás encadenado"
+    },
+    {
+      "word": "Forge (verbo no alusivo a falsificar)",
+      "translation": "forjar"
+    },
+    {
+      "word": "Link by link",
+      "translation": "eslabón por eslabón"
+    },
+    {
+      "word": "Ponderous",
+      "translation": "pesado, ponderosa"
+    },
+    {
+      "word": "Countinghouse",
+      "translation": "casa de contadores"
+    },
+    {
+      "word": "Rove (verbo)",
+      "translation": "navegar, vagar"
+    },
+    {
+      "word": "Squandered and misused",
+      "translation": "despilfarrado y mal utilizado"
+    },
+    {
+      "word": "Common welfare",
+      "translation": "bienestar común"
+    },
+    {
+      "word": "Forbearance",
+      "translation": "indulgencia"
+    },
+    {
+      "word": "A chance of my procuring",
+      "translation": "una oportunidad que me procure"
+    },
+    {
+      "word": "Bell tolls",
+      "translation": "la campana toca"
+    },
+    {
+      "word": "Have it over with",
+      "translation": "y acabar con esto"
+    },
+    {
+      "word": "Stroke",
+      "translation": "golpe"
+    },
+    {
+      "word": "Look to see me no more",
+      "translation": "no busques verme más"
+    },
+    {
+      "word": "Worldly",
+      "translation": "mundano, terrenal"
+    },
+    {
+      "word": "Bear but a touch of my hand there (frase no literal)",
+      "translation": "soporta un toque de mi mano allí"
+    },
+    {
+      "word": "Upheld",
+      "translation": "sostenido, mantenido"
+    },
+    {
+      "word": "I was bred",
+      "translation": "fui criado"
+    },
+    {
+      "word": "Get cleared away",
+      "translation": "despejar"
+    },
+    {
+      "word": "Kind fiddler",
+      "translation": "violinista amable"
+    },
+    {
+      "word": "Have I ever sought release?",
+      "translation": "¿Alguna vez he buscado la liberación?"
+    },
+    {
+      "word": "A dowerless girl",
+      "translation": "una chica sin poder"
+    },
+    {
+      "word": "Walk forth",
+      "translation": "caminar hacia delante"
+    },
+    {
+      "word": "Scabbard",
+      "translation": "vaina, funda"
+    },
+    {
+      "word": "Goodwill",
+      "translation": "buena voluntad"
+    },
+    {
+      "word": "Robe",
+      "translation": "bata, túnica"
+    },
+    {
+      "word": "Meager meals",
+      "translation": "escasas comidas, míseras comidas"
+    },
+    {
+      "word": "And do their deeds of ill will",
+      "translation": "y hacer sus obras de mala voluntad"
+    },
+    {
+      "word": "Kin",
+      "translation": "familia, parientes"
+    },
+    {
+      "word": "Charge their doings to them",
+      "translation": "cárgales sus actos a ellos"
+    },
+    {
+      "word": "I take it this bleak paupers' dwelling is of some significance",
+      "translation": "supongo que esta"
+    },
+    {
+      "word": "Meager",
+      "translation": "escaso, pobre, mísero"
+    },
+    {
+      "word": "No dallying",
+      "translation": "sin perder el tiempo"
+    },
+    {
+      "word": "Clear away",
+      "translation": "limpiar, despejar"
+    },
+    {
+      "word": "Lame beggars",
+      "translation": "mendigos cojos"
+    },
+    {
+      "word": "A pastry cook's shop",
+      "translation": "una pastelería"
+    },
+    {
+      "word": "Crutch",
+      "translation": "muleta, muletilla"
+    },
+    {
+      "word": "To feast upon",
+      "translation": "para darles un festín"
+    },
+    {
+      "word": "Stingy",
+      "translation": "tacaño, mezquino"
+    },
+    {
+      "word": "He will be spared",
+      "translation": "será salvado, será perdonado"
+    },
+    {
+      "word": "Disagreeable",
+      "translation": "desagradable, antipático"
+    },
+    {
+      "word": "His ill whims",
+      "translation": "sus caprichos enfermizos"
+    },
+    {
+      "word": "Merriment",
+      "translation": "alegría, júbilo"
+    },
+    {
+      "word": "The time is drawing near (frase no literal)",
+      "translation": "se acerca la hora"
+    },
+    {
+      "word": "Protrude (verbo)",
+      "translation": "sobresalir"
+    },
+    {
+      "word": "Scant",
+      "translation": "escaso, poco"
+    },
+    {
+      "word": "Naff off!",
+      "translation": "¡Vete a la mierda!"
+    },
+    {
+      "word": "You daft old geezer",
+      "translation": "viejo tonto"
+    },
+    {
+      "word": "Workhouse",
+      "translation": "casa de trabajo"
+    },
+    {
+      "word": "To bear you company",
+      "translation": "para hacerte compañia"
+    },
+    {
+      "word": "The night is waning fast",
+      "translation": "la noche está menguando rápidamente"
+    },
+    {
+      "word": "What a frightful fellow",
+      "translation": "qué tipo tan espantoso"
+    },
+    {
+      "word": "Get ahold of yourself",
+      "translation": "contrólate, tranquilízate"
+    },
+    {
+      "word": "Wobbly",
+      "translation": "tambaleo"
+    },
+    {
+      "word": "Don't you go getting grease on them blankets now",
+      "translation": "no vayas a engrasar las mantas"
+    },
+    {
+      "word": "Catching",
+      "translation": "contagioso"
+    },
+    {
+      "word": "Don't you be afeard of that",
+      "translation": "no tengas miedo de eso"
+    },
+    {
+      "word": "I ain't so fond of his company that I'd loiter about",
+      "translation": "no me gusta tanto su compañía"
+    },
+    {
+      "word": "When he was struck with death",
+      "translation": "cuando fue alcanzado por la muerte"
+    },
+    {
+      "word": "Lonesome",
+      "translation": "solitario"
+    },
+    {
+      "word": "Merciful heavens!",
+      "translation": "¡Santo cielo!"
+    },
+    {
+      "word": "Relent (verbo)",
+      "translation": "ceder"
+    },
+    {
+      "word": "Creditor",
+      "translation": "acreedor, prestamista"
+    },
+    {
+      "word": "Merciless",
+      "translation": "despiadado"
+    },
+    {
+      "word": "Tenderness",
+      "translation": "ternura"
+    },
+    {
+      "word": "Don't be grieved",
+      "translation": "no te aflijas"
+    },
+    {
+      "word": "I'm quite a peace",
+      "translation": "estoy bastante tranquilo, estoy en paz"
+    },
+    {
+      "word": "Foreshadow (verbo)",
+      "translation": "presagiar"
+    },
+    {
+      "word": "If I'm past all hope",
+      "translation": "si ya no tengo esperanza"
+    },
+    {
+      "word": "Shut out",
+      "translation": "dejar fuera, excluir"
+    },
+    {
+      "word": "Sponge away",
+      "translation": "esponjar"
+    },
+    {
+      "word": "Poulterer",
+      "translation": "pollero"
+    },
+    {
+      "word": "My buck",
+      "translation": "mi dinero"
+    },
+    {
+      "word": "I'm in earniest (frase no literal)",
+      "translation": "me apunto"
+    },
+    {
+      "word": "You're barmy, Unhand me!",
+      "translation": "estás chiflado, ¡suéltame!"
+    },
+    {
+      "word": "Deranged",
+      "translation": "trastornado, desquiciado"
+    },
+    {
+      "word": "Chirry-up!",
+      "translation": "¡Arriba!"
+    },
+    {
+      "word": "You'll be a long time dead",
+      "translation": "estarás mucho tiempo muerto"
+    },
+    {
+      "word": "Glad tidings",
+      "translation": "buenas noticias"
+    },
+    {
+      "word": "Goodness",
+      "translation": "bondad"
+    },
+    {
+      "word": "And not a farthing less",
+      "translation": "y ni un penique menos"
+    },
+    {
+      "word": "I'm much obliged to you",
+      "translation": "le estoy muy agradecido"
+    },
+    {
+      "word": "I'll spare no expense",
+      "translation": "no escatimaré en gastos"
+    },
+    {
+      "word": "I'm a bit behind in my time (frase no literal)",
+      "translation": "estoy un poco atrasado en mi tiempo"
+    },
+    {
+      "word": "I was making rather merry yesterday (frase no literal)",
+      "translation": "ayer estaba bastante alegre"
+    },
+    {
+      "word": "I'm not going to stand for this sort of thing any longer",
+      "translation": "no voy a tolerar más este tipo"
+    },
+    {
+      "word": "Your struggling family",
+      "translation": "tu familia en apuros, tu familia con problemas"
+    },
+    {
+      "word": "A bowl of Christmas punch",
+      "translation": "un bol de ponche navideño"
+    },
+    {
+      "word": "Scuttle of coal",
+      "translation": "carbonero, contenedor de carbón"
+    },
+    {
+      "word": "Before you dot other \"I,\"",
+      "translation": "antes de poner otros puntos sobre las íes"
+    },
+    {
+      "word": "Off with you",
+      "translation": "vete, fuera de aquí"
+    }
+  ]
+}

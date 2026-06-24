@@ -1,0 +1,790 @@
+{
+  "title": "Rocky I",
+  "englishAnalysis": "El origen de la saga ofrece el acento inconfundible italoamericano de Filadelfia. Diálogos sencillos, directos, con jerga callejera de los años 70 y vocabulario del mundo del boxeo. Ideal para acostumbrar el oído a pronunciaciones cerradas.",
+  "vocabulary": [
+    {
+      "word": "Mouthpiece",
+      "translation": "boquilla, embocadura"
+    },
+    {
+      "word": "Hold your hands up!",
+      "translation": "¡Arriba las manos!"
+    },
+    {
+      "word": "Share (sustantivo)",
+      "translation": "parte (en términos de ganancia)"
+    },
+    {
+      "word": "Corner end",
+      "translation": "esquina final"
+    },
+    {
+      "word": "Moth",
+      "translation": "polilla"
+    },
+    {
+      "word": "Smack (verbo)",
+      "translation": "golpear"
+    },
+    {
+      "word": "Shell shock",
+      "translation": "conmoción cerebral"
+    },
+    {
+      "word": "Rockhead",
+      "translation": "cabeza de roca"
+    },
+    {
+      "word": "I’m broke (en términos económicos)",
+      "translation": "estoy en la ruina, estoy sin dinero"
+    },
+    {
+      "word": "You’re still $70 light",
+      "translation": "te faltan $70"
+    },
+    {
+      "word": "Fake (verbo)",
+      "translation": "fingir, falsear"
+    },
+    {
+      "word": "Tape up",
+      "translation": "vendar, poner cinta adhesiva"
+    },
+    {
+      "word": "I wanna let Rocky out",
+      "translation": "quiero dejar salir a Rocky"
+    },
+    {
+      "word": "How come?",
+      "translation": "¿Cómo es que?, ¿Por qué?"
+    },
+    {
+      "word": "He gets laid off",
+      "translation": "a él lo despiden"
+    },
+    {
+      "word": "The figuring",
+      "translation": "los cálculos"
+    },
+    {
+      "word": "From here on in",
+      "translation": "a partir de ahora, de ahora en adelante"
+    },
+    {
+      "word": "Meatbag",
+      "translation": "saco de carne, bolsa de carne"
+    },
+    {
+      "word": "My gear",
+      "translation": "mis cosas, mi equipo, mi material"
+    },
+    {
+      "word": "Bag (verbo)",
+      "translation": "embolsar, meter algo en una bolsa"
+    },
+    {
+      "word": "Skid row",
+      "translation": "fila/pista de patinaje"
+    },
+    {
+      "word": "How come I’ve been put out of my locker",
+      "translation": "por qué me han echado de mi locker"
+    },
+    {
+      "word": "Climber",
+      "translation": "escalador, trepador"
+    },
+    {
+      "word": "You never got your nose busted",
+      "translation": "nunca te rompieron la nariz"
+    },
+    {
+      "word": "And what’s left of your mind",
+      "translation": "y lo que queda de tu mente"
+    },
+    {
+      "word": "To take a steam",
+      "translation": "tomar un baño de vapor"
+    },
+    {
+      "word": "The giant worm",
+      "translation": "la lombriz gigante"
+    },
+    {
+      "word": "Steam room",
+      "translation": "baño turco, baño de vapor"
+    },
+    {
+      "word": "Pass by",
+      "translation": "pasar"
+    },
+    {
+      "word": "Razor",
+      "translation": "navaja, cuchilla, afeitadora"
+    },
+    {
+      "word": "Adrian ain’t sharp",
+      "translation": "Adrian no es lista"
+    },
+    {
+      "word": "Stink (sustantivo)",
+      "translation": "peste, pestilencia"
+    },
+    {
+      "word": "Come over",
+      "translation": "pasar, venir"
+    },
+    {
+      "word": "Publicized",
+      "translation": "publicitada"
+    },
+    {
+      "word": "Jig clowns",
+      "translation": "payasos de giga"
+    },
+    {
+      "word": "And in keeping with great events throughout the country’s history",
+      "translation": "y en consonancia"
+    },
+    {
+      "word": "Cracking",
+      "translation": "crujido, agrietamiento, resquebrajamiento"
+    },
+    {
+      "word": "Stinker",
+      "translation": "apestoso"
+    },
+    {
+      "word": "I got a business going",
+      "translation": "tengo un negocio en marcha"
+    },
+    {
+      "word": "Stuff it, man",
+      "translation": "atiéndelo hombre"
+    },
+    {
+      "word": "Stick that up your business",
+      "translation": "mete eso en tu negocio"
+    },
+    {
+      "word": "Stink up",
+      "translation": "apestar"
+    },
+    {
+      "word": "She wasn’t bad-looking",
+      "translation": "ella no era fea"
+    },
+    {
+      "word": "A bad rap",
+      "translation": "una mala reputación"
+    },
+    {
+      "word": "You get nowhere",
+      "translation": "no llegas a ninguna parte"
+    },
+    {
+      "word": "A severely cracked third metacarpal",
+      "translation": "una fisura grave del tercer metacarpiano"
+    },
+    {
+      "word": "If you are set on fighting Green",
+      "translation": "si estás decidido a luchar contra Green"
+    },
+    {
+      "word": "Ranked contender",
+      "translation": "contendiente clasificado"
+    },
+    {
+      "word": "And I mean in a flash",
+      "translation": "y quiero decir en un instante"
+    },
+    {
+      "word": "I get a hold of every worthwhile contender",
+      "translation": "consigo un asimiento de cada"
+    },
+    {
+      "word": "Chump",
+      "translation": "tonto"
+    },
+    {
+      "word": "Novelty",
+      "translation": "novedad"
+    },
+    {
+      "word": "A local underdog fighter",
+      "translation": "un luchador local desvalido"
+    },
+    {
+      "word": "A snow-white fighter",
+      "translation": "un luchador blanco como la nieve"
+    },
+    {
+      "word": "Grand (en términos monetarios)",
+      "translation": "mil dólares"
+    },
+    {
+      "word": "Yard (en términos de dinero)",
+      "translation": "mil millones"
+    },
+    {
+      "word": "Are you driving me crazy?",
+      "translation": "¿Me estás volviendo loco?"
+    },
+    {
+      "word": "Dull",
+      "translation": "aburrido, soso"
+    },
+    {
+      "word": "He’s a good prospect",
+      "translation": "es un buen candidato"
+    },
+    {
+      "word": "Eat up",
+      "translation": "comer, tragar"
+    },
+    {
+      "word": "Southpaw",
+      "translation": "zurdo"
+    },
+    {
+      "word": "Mess around",
+      "translation": "meterse"
+    },
+    {
+      "word": "Deadly",
+      "translation": "mortal"
+    },
+    {
+      "word": "Swollen hands",
+      "translation": "manos hinchadas"
+    },
+    {
+      "word": "It plays hell on the joints",
+      "translation": "es un infierno para las articulaciones"
+    },
+    {
+      "word": "Busting bones",
+      "translation": "romper huesos"
+    },
+    {
+      "word": "Instamatically",
+      "translation": "instamativamente, instantáneamente"
+    },
+    {
+      "word": "You’re letting the heat out",
+      "translation": "estás dejando salir el calor"
+    },
+    {
+      "word": "Smooth out",
+      "translation": "suavizar"
+    },
+    {
+      "word": "You ain’t supposed to be here",
+      "translation": "se supone que no deberías estar aquí"
+    },
+    {
+      "word": "Over here",
+      "translation": "hacia aquí"
+    },
+    {
+      "word": "Fighting used to be tops with me",
+      "translation": "pelear solía ser lo máximo para mí"
+    },
+    {
+      "word": "A southpaw throws your timing off",
+      "translation": "un zurdo te hace perder el tiempo."
+    },
+    {
+      "word": "Awkward",
+      "translation": "incómodo, torpe"
+    },
+    {
+      "word": "I ain’t too graceful",
+      "translation": "no tengo demasiada gracia"
+    },
+    {
+      "word": "Swat (verbo)",
+      "translation": "golpear, dar espadazos"
+    },
+    {
+      "word": "Terrific",
+      "translation": "estupendo, genial"
+    },
+    {
+      "word": "Bust up",
+      "translation": "romper, reventar"
+    },
+    {
+      "word": "Bring up (en algunos contextos)",
+      "translation": "sacar, mencionar (algo)"
+    },
+    {
+      "word": "A real sharp couple of coconuts",
+      "translation": "Un par de cocos realmente afilados"
+    },
+    {
+      "word": "Racket (en otros contextos)",
+      "translation": "jaleo, chanchullo"
+    },
+    {
+      "word": "Bust (verbo en algunos contextos)",
+      "translation": "reventar"
+    },
+    {
+      "word": "Chew (verbo)",
+      "translation": "masticar, mascar"
+    },
+    {
+      "word": "Stamp",
+      "translation": "sello"
+    },
+    {
+      "word": "Marbles",
+      "translation": "canicas"
+    },
+    {
+      "word": "Fall over",
+      "translation": "caerse"
+    },
+    {
+      "word": "Tease (verbo)",
+      "translation": "burlarse, tomar el pelo"
+    },
+    {
+      "word": "I heard you had a fight coming up",
+      "translation": "escuché que tenías una pelea"
+    },
+    {
+      "word": "Come down",
+      "translation": "bajar, venir"
+    },
+    {
+      "word": "Sparring partners",
+      "translation": "compañeros de combate"
+    },
+    {
+      "word": "You dumb dago!",
+      "translation": "¡Idiota!"
+    },
+    {
+      "word": "A leg-breaker",
+      "translation": "un rompepiernas"
+    },
+    {
+      "word": "Second-rate loan shark",
+      "translation": "prestamista de segunda categoría"
+    },
+    {
+      "word": "Beg your pardon?",
+      "translation": "¿Cómo dices?, ¿Disculpa?, ¿Perdón?"
+    },
+    {
+      "word": "I’m really a ham-and-egger",
+      "translation": "soy realmente un jamón y un hígado"
+    },
+    {
+      "word": "Shot (alusivo a una posibilidad)",
+      "translation": "oportunidad"
+    },
+    {
+      "word": "Brotherly love",
+      "translation": "amor fraternal"
+    },
+    {
+      "word": "Right on!",
+      "translation": "¡Eso es!, ¡Así es!, ¡Bien dicho!"
+    },
+    {
+      "word": "Punch out",
+      "translation": "pegar, golpear"
+    },
+    {
+      "word": "Payday",
+      "translation": "día de pago"
+    },
+    {
+      "word": "Make out a fool",
+      "translation": "quedar como un tonto, hacer el ridículo"
+    },
+    {
+      "word": "Stand by (en algunos contextos)",
+      "translation": "apoyar"
+    },
+    {
+      "word": "Running errands",
+      "translation": "hacer recados"
+    },
+    {
+      "word": "Flunk out",
+      "translation": "fracasar, suspender (estudios)"
+    },
+    {
+      "word": "That so?",
+      "translation": "¿Ah, sí?"
+    },
+    {
+      "word": "You’re putting me on, right?",
+      "translation": "me estás poniendo, ¿verdad?"
+    },
+    {
+      "word": "Ringside",
+      "translation": "en el ring, junto al ring"
+    },
+    {
+      "word": "Freak luck",
+      "translation": "mala suerte"
+    },
+    {
+      "word": "They fight their guts out for peanuts",
+      "translation": "luchan a brazo partido por unos cacahuetes"
+    },
+    {
+      "word": "Piss",
+      "translation": "pis, orina"
+    },
+    {
+      "word": "If you don’t mind my saying",
+      "translation": "si no te importa que lo diga"
+    },
+    {
+      "word": "Tear out",
+      "translation": "arrancar, desgarrar"
+    },
+    {
+      "word": "Management",
+      "translation": "gestión, manejo, dirección"
+    },
+    {
+      "word": "I had the spit shooting out of my cheeks",
+      "translation": "me salía la saliva por las mejillas"
+    },
+    {
+      "word": "Before these guys got at me",
+      "translation": "antes de que estos tipos me atacaran"
+    },
+    {
+      "word": "Slum (verbo)",
+      "translation": "rodear, acercarse"
+    },
+    {
+      "word": "Nobody’s getting no nothing",
+      "translation": "nadie va a conseguir nada"
+    },
+    {
+      "word": "Mischievous",
+      "translation": "travieso"
+    },
+    {
+      "word": "Snuggle (verbo)",
+      "translation": "acurrucar"
+    },
+    {
+      "word": "Get away",
+      "translation": "escapar, alejarse"
+    },
+    {
+      "word": "It’s awfully chilly",
+      "translation": "hace mucho frío, hace un frío horrible"
+    },
+    {
+      "word": "Make sure you have it snuggled on before you bring it out",
+      "translation": "asegúrate de que está bien"
+    },
+    {
+      "word": "Are you balling her?",
+      "translation": "¿Te la estás tirando?"
+    },
+    {
+      "word": "Are you screwing my sister?",
+      "translation": "¿Te estás tirando a mi hermana?"
+    },
+    {
+      "word": "He’s awful pushy",
+      "translation": "es terriblemente insistente"
+    },
+    {
+      "word": "Rub down",
+      "translation": "frotar, dar un masaje"
+    },
+    {
+      "word": "I’m just sore",
+      "translation": "sólo estoy dolorido"
+    },
+    {
+      "word": "Sloppy",
+      "translation": "descuidado"
+    },
+    {
+      "word": "Slack",
+      "translation": "holgura"
+    },
+    {
+      "word": "Lay off",
+      "translation": "dejar"
+    },
+    {
+      "word": "Women weaken legs",
+      "translation": "las mujeres debilitan las piernas"
+    },
+    {
+      "word": "Fool around (verbo)",
+      "translation": "tontear"
+    },
+    {
+      "word": "Heartbreaker",
+      "translation": "rompecorazones"
+    },
+    {
+      "word": "Sharp (adjetivo)",
+      "translation": "nítido, afilado"
+    },
+    {
+      "word": "Stick (verbo)",
+      "translation": "meter, pegar"
+    },
+    {
+      "word": "Just settle yourself in",
+      "translation": "sólo acomódate"
+    },
+    {
+      "word": "Stand (verbo)",
+      "translation": "pararse, ponerse de pie, soportar, tolerar"
+    },
+    {
+      "word": "Icebox",
+      "translation": "nevera, hielera"
+    },
+    {
+      "word": "Challenger",
+      "translation": "retador"
+    },
+    {
+      "word": "Pound (verbo)",
+      "translation": "golpear, machahar"
+    },
+    {
+      "word": "Raw meat",
+      "translation": "carne cruda"
+    },
+    {
+      "word": "Channel (verbo)",
+      "translation": "canalizar"
+    },
+    {
+      "word": "Advertising",
+      "translation": "publicidad"
+    },
+    {
+      "word": "Run radio spots(verbo en términos de publicidad)",
+      "translation": "emitir anuncios de radio"
+    },
+    {
+      "word": "Gross rental",
+      "translation": "renta bruta, alquiler bruto"
+    },
+    {
+      "word": "Usher",
+      "translation": "ujier"
+    },
+    {
+      "word": "Throw off",
+      "translation": "echar a perder"
+    },
+    {
+      "word": "I get out of joint",
+      "translation": "me descojono"
+    },
+    {
+      "word": "Mess (verbo)",
+      "translation": "fastidiar, joder"
+    },
+    {
+      "word": "Raise (verbo en términos de crianza)",
+      "translation": "educar"
+    },
+    {
+      "word": "Scum bum",
+      "translation": "vago, escoria"
+    },
+    {
+      "word": "You’re a big-shot fighter on your way up",
+      "translation": "eres un gran luchador en ascenso"
+    },
+    {
+      "word": "Crumb",
+      "translation": "migaja"
+    },
+    {
+      "word": "You’re busted!",
+      "translation": "¡Te pillé!"
+    },
+    {
+      "word": "You let him into your pants",
+      "translation": "lo dejaste meterse en tus pantalones"
+    },
+    {
+      "word": "Haul (verbo)",
+      "translation": "acarrear, llevar, transportar"
+    },
+    {
+      "word": "Cutman",
+      "translation": "cortador"
+    },
+    {
+      "word": "Help off",
+      "translation": "ayudar"
+    },
+    {
+      "word": "Won’t be long now",
+      "translation": "no falta mucho"
+    },
+    {
+      "word": "Baggy",
+      "translation": "holgado"
+    },
+    {
+      "word": "Billboard",
+      "translation": "valla publicitaria"
+    },
+    {
+      "word": "Shrewd",
+      "translation": "astuto"
+    },
+    {
+      "word": "Caveman",
+      "translation": "cavernícola"
+    },
+    {
+      "word": "Cavalier",
+      "translation": "caballero"
+    },
+    {
+      "word": "Background",
+      "translation": "fondo"
+    },
+    {
+      "word": "A 50 to 1 underdog",
+      "translation": "Un 50 a 1 en contra"
+    },
+    {
+      "word": "Come off",
+      "translation": "desprenderse, caerse"
+    },
+    {
+      "word": "Fellows",
+      "translation": "becarios, compañeros"
+    },
+    {
+      "word": "Pugilism",
+      "translation": "pugilismo"
+    },
+    {
+      "word": "Go light on him",
+      "translation": "ve ligero con él"
+    },
+    {
+      "word": "Duck (verbo)",
+      "translation": "eludir, esquivar"
+    },
+    {
+      "word": "Settle down because it won’t be long now",
+      "translation": "acomódense porque no falta mucho"
+    },
+    {
+      "word": "Low blows",
+      "translation": "golpes bajos"
+    },
+    {
+      "word": "No butting",
+      "translation": "nada de darse cabezazos"
+    },
+    {
+      "word": "Go over",
+      "translation": "ir, acercarse"
+    },
+    {
+      "word": "Left-handed jabs",
+      "translation": "golpes de izquierda"
+    },
+    {
+      "word": "Sting (verbo)",
+      "translation": "picar (en sentido de lastimarse)"
+    },
+    {
+      "word": "The slower challenger jabs at will",
+      "translation": "el retador más lento golpea a voluntad"
+    },
+    {
+      "word": "Blow (sustantivo)",
+      "translation": "golpe"
+    },
+    {
+      "word": "Outdo (verbo)",
+      "translation": "superar (a alguien)"
+    },
+    {
+      "word": "I’ll get you",
+      "translation": "te atraparé"
+    },
+    {
+      "word": "Taunt (verbo)",
+      "translation": "burlarse"
+    },
+    {
+      "word": "Knock down",
+      "translation": "derribar (a alguien)"
+    },
+    {
+      "word": "A little glassy-eyed",
+      "translation": "un poco con los ojos vidriosos"
+    },
+    {
+      "word": "He’s coming off the floor",
+      "translation": "está saliendo del suelo"
+    },
+    {
+      "word": "This kind of hitting",
+      "translation": "este tipo de golpes"
+    },
+    {
+      "word": "Lead over",
+      "translation": "llevar (a un lugar)"
+    },
+    {
+      "word": "I want you to quit chucking and jiving",
+      "translation": "quiero que dejes de bromear"
+    },
+    {
+      "word": "Stick and move",
+      "translation": "pegar y moverse"
+    },
+    {
+      "word": "Beating (sustantivo)",
+      "translation": "paliza"
+    },
+    {
+      "word": "Tag (verbo)",
+      "translation": "marcar, etiquetar"
+    },
+    {
+      "word": "Barrage (verbo)",
+      "translation": "bombardear"
+    },
+    {
+      "word": "Balboa is smacking the champion right on the kisser",
+      "translation": "Balboa está golpeando al campeón"
+    },
+    {
+      "word": "Rematch",
+      "translation": "revancha"
+    },
+    {
+      "word": "We have a split decision",
+      "translation": "tenemos una decision dividida"
+    },
+    {
+      "word": "No plans out there for a rematch?",
+      "translation": "¿No hay planes para una revancha?"
+    }
+  ]
+}

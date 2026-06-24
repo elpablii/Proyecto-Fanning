@@ -1,0 +1,554 @@
+{
+  "title": "Playmobil",
+  "englishAnalysis": "Inglés familiar, infantil y de aventuras. Vocabulario muy accesible que viaja a través de diferentes escenarios (romanos, vikingos, espías), ideal para exposición a términos básicos variados.",
+  "vocabulary": [
+    {
+      "word": "Adventure is worthwhile in itself",
+      "translation": "la aventura vale la pena por sí misma"
+    },
+    {
+      "word": "Blackmail",
+      "translation": "chantaje"
+    },
+    {
+      "word": "Backpack (verbo)",
+      "translation": "ir de mochilero"
+    },
+    {
+      "word": "I tried it all took every bite",
+      "translation": "lo probé todo y tomé cada bocado"
+    },
+    {
+      "word": "A posh life",
+      "translation": "una vida elegante"
+    },
+    {
+      "word": "Slay (verbo en sentido denotativo)",
+      "translation": "cazar, matar"
+    },
+    {
+      "word": "Unturned",
+      "translation": "sin remover"
+    },
+    {
+      "word": "My bucket list",
+      "translation": "mi lista de cosas que hacer antes de morir"
+    },
+    {
+      "word": "Slingshot",
+      "translation": "honda"
+    },
+    {
+      "word": "So you're bailing on me again?",
+      "translation": "¿Así que me estás abandonando otra vez?"
+    },
+    {
+      "word": "Feast (verbo)",
+      "translation": "dar un banquete"
+    },
+    {
+      "word": "Shiver me timbers! (frase en inglés antiguo)",
+      "translation": "¡Temblad!"
+    },
+    {
+      "word": "You bilge rat",
+      "translation": "rata de sentina"
+    },
+    {
+      "word": "Axe",
+      "translation": "hacha"
+    },
+    {
+      "word": "Squire",
+      "translation": "escudero, terrateniente"
+    },
+    {
+      "word": "Silly wench",
+      "translation": "muchacha tonta"
+    },
+    {
+      "word": "A flagon of mead",
+      "translation": "una jarra de aguamiel"
+    },
+    {
+      "word": "And make haste",
+      "translation": "y date prisa"
+    },
+    {
+      "word": "Woolly",
+      "translation": "lanoso, lanudo"
+    },
+    {
+      "word": "Thus",
+      "translation": "así, de este modo, por lo tanto"
+    },
+    {
+      "word": "Might (sustantivo)",
+      "translation": "poder, fuerza"
+    },
+    {
+      "word": "By tomorrow morn",
+      "translation": "mañana por la mañana"
+    },
+    {
+      "word": "This is rad!",
+      "translation": "¡Esto es genial!"
+    },
+    {
+      "word": "Hay (sustantivo)",
+      "translation": "heno, forraje"
+    },
+    {
+      "word": "Giddy-up!",
+      "translation": "¡Arre!"
+    },
+    {
+      "word": "How much can I put you down for? (pregunta no literal)",
+      "translation": "¿Por cuánto te apunto?"
+    },
+    {
+      "word": "Let's crunch some numbers (frase no literal)",
+      "translation": "hagamos números"
+    },
+    {
+      "word": "Joyride's over",
+      "translation": "se acabó la diversión/paseo"
+    },
+    {
+      "word": "We got off to a bad start",
+      "translation": "empezamos con mal pie"
+    },
+    {
+      "word": "Not a darn-tooting nugget of gold",
+      "translation": "ni una oscura pepita de oro"
+    },
+    {
+      "word": "Your hay dun changed my steeds!",
+      "translation": "¡Tu heno ha cambiado mis corceles!"
+    },
+    {
+      "word": "Frolic (verbo)",
+      "translation": "retozar"
+    },
+    {
+      "word": "Sprouting wings",
+      "translation": "alas que brotan"
+    },
+    {
+      "word": "I'm not paying you a plumb cent!",
+      "translation": "¡No te pagaré ni un centavo!"
+    },
+    {
+      "word": "Lil' pardners",
+      "translation": "pequeños amigos"
+    },
+    {
+      "word": "My rooti-est tootin-est brother",
+      "translation": "mi mejor hermano"
+    },
+    {
+      "word": "A hoot and a holler",
+      "translation": "un hurra y un grito"
+    },
+    {
+      "word": "You're all coming forward?",
+      "translation": "¿Van a presentarse todos?"
+    },
+    {
+      "word": "Nice and slow-like",
+      "translation": "bonito y lento"
+    },
+    {
+      "word": "Saddlebag",
+      "translation": "alforja"
+    },
+    {
+      "word": "A scared little poodle",
+      "translation": "un pequeño caniche asustado"
+    },
+    {
+      "word": "I'm gonna try to bring her in for a landing!",
+      "translation": "¡Voy a intentar traerla para que aterrice!"
+    },
+    {
+      "word": "Lean into it!",
+      "translation": "¡Inclínate!, ¡Apóyate en él!"
+    },
+    {
+      "word": "Booty (alusivo a una recompensa)",
+      "translation": "botín"
+    },
+    {
+      "word": "Snatch away",
+      "translation": "arrebatar"
+    },
+    {
+      "word": "How you fare",
+      "translation": "cómo le va"
+    },
+    {
+      "word": "Pipe down (informal)",
+      "translation": "callarse"
+    },
+    {
+      "word": "All hail",
+      "translation": "saludos"
+    },
+    {
+      "word": "Nice list",
+      "translation": "lista de los buenos"
+    },
+    {
+      "word": "Braids",
+      "translation": "trenzas"
+    },
+    {
+      "word": "Jagged rocks",
+      "translation": "rocas dentadas, rocas escarpadas"
+    },
+    {
+      "word": "Balderdash",
+      "translation": "tonterías"
+    },
+    {
+      "word": "Vile knave",
+      "translation": "bribón vil"
+    },
+    {
+      "word": "The stylish lad with the fresh toga gear",
+      "translation": "el chico estiloso con el traje de toga fresco"
+    },
+    {
+      "word": "Ruler",
+      "translation": "gobernante, soberano"
+    },
+    {
+      "word": "Trespasser",
+      "translation": "intruso, invasor"
+    },
+    {
+      "word": "Tame",
+      "translation": "manso, dócil"
+    },
+    {
+      "word": "Red-handed",
+      "translation": "con las manos en la masa, in fraganti"
+    },
+    {
+      "word": "On the down-low",
+      "translation": "a la baja, en la parte baja"
+    },
+    {
+      "word": "Big-time!",
+      "translation": "¡A lo grande!"
+    },
+    {
+      "word": "Foster (verbo)",
+      "translation": "acoger, adoptar"
+    },
+    {
+      "word": "Roguishly handsome",
+      "translation": "pícaramente guapo"
+    },
+    {
+      "word": "Out-sting (verbo)",
+      "translation": "superar, vencer"
+    },
+    {
+      "word": "So dreamy",
+      "translation": "tan soñador, tan de ensueño"
+    },
+    {
+      "word": "Carnations",
+      "translation": "claveles"
+    },
+    {
+      "word": "Top floor",
+      "translation": "último piso"
+    },
+    {
+      "word": "Feed (en términos tecnológicos)",
+      "translation": "transmisión"
+    },
+    {
+      "word": "Visual",
+      "translation": "imagen, visión"
+    },
+    {
+      "word": "Icy",
+      "translation": "gélido, helado"
+    },
+    {
+      "word": "Computer mainframe",
+      "translation": "computadora central"
+    },
+    {
+      "word": "She is unwavering",
+      "translation": "ella es inquebrantable"
+    },
+    {
+      "word": "Your expert advice",
+      "translation": "tu asesoramiento"
+    },
+    {
+      "word": "Your expertise with freeze-ray laser cannon",
+      "translation": "tu destreza con el cañón láser de rayos"
+    },
+    {
+      "word": "Lay out",
+      "translation": "colocar, distribuir"
+    },
+    {
+      "word": "Sleep serum",
+      "translation": "suero para dormir"
+    },
+    {
+      "word": "Footage",
+      "translation": "imágenes"
+    },
+    {
+      "word": "Step on it",
+      "translation": "pisar"
+    },
+    {
+      "word": "Stir (verbo)",
+      "translation": "agitar, revolverse"
+    },
+    {
+      "word": "Whip up",
+      "translation": "batir, preparar"
+    },
+    {
+      "word": "Made them from scratch",
+      "translation": "hechos desde cero"
+    },
+    {
+      "word": "Gutless",
+      "translation": "cobarde, sin agallas"
+    },
+    {
+      "word": "Stow ye tempers (en inglés antiguo)",
+      "translation": "guardar los ánimos"
+    },
+    {
+      "word": "Deep down",
+      "translation": "en el fondo"
+    },
+    {
+      "word": "You took quite a spill",
+      "translation": "te has dado un buen golpe"
+    },
+    {
+      "word": "Molting season",
+      "translation": "temporada de muda"
+    },
+    {
+      "word": "Some high-tech disappearing-gizmo thing",
+      "translation": "algún artilugio de alta tecnología para"
+    },
+    {
+      "word": "Cloaking devices",
+      "translation": "dispositivos de camuflaje"
+    },
+    {
+      "word": "Rascal",
+      "translation": "granuja, bribón"
+    },
+    {
+      "word": "Stop messing around",
+      "translation": "déjate de tonterías"
+    },
+    {
+      "word": "Guess you got taken for a ride (frase no literal)",
+      "translation": "supongo que te tomaron el pelo"
+    },
+    {
+      "word": "We can work something out (frase no literal)",
+      "translation": "podemos llegar a un acuerdo"
+    },
+    {
+      "word": "Janglers",
+      "translation": "sacudidores, vibradores"
+    },
+    {
+      "word": "Keep it down!",
+      "translation": "¡Baja el volumen!, ¡Baja la voz!"
+    },
+    {
+      "word": "On with ye now! (en inglés antiguo)",
+      "translation": "¡Adelante!"
+    },
+    {
+      "word": "Thunderous",
+      "translation": "estruendoso, atormentador"
+    },
+    {
+      "word": "Scoundrel",
+      "translation": "canalla, sinvergüenza, bribón"
+    },
+    {
+      "word": "He’s out cold!",
+      "translation": "¡Está inconsciente!"
+    },
+    {
+      "word": "Steadfast",
+      "translation": "firme"
+    },
+    {
+      "word": "Let’s pull on",
+      "translation": "vamos a tirar"
+    },
+    {
+      "word": "Double-crosser",
+      "translation": "traidor"
+    },
+    {
+      "word": "Scroching",
+      "translation": "abrasador, ardiente"
+    },
+    {
+      "word": "Unforgiving",
+      "translation": "implacable"
+    },
+    {
+      "word": "My little rotten runaways",
+      "translation": "mi pequeño podrido fugitivo"
+    },
+    {
+      "word": "I see you're taking stock of your new accommodations",
+      "translation": "veo que estás haciendo"
+    },
+    {
+      "word": "Side-by-side",
+      "translation": "codo a codo"
+    },
+    {
+      "word": "All manner of deadly foe",
+      "translation": "todo tipo de enemigos mortales"
+    },
+    {
+      "word": "Lass",
+      "translation": "chica, muchacha"
+    },
+    {
+      "word": "Shuffle and heave!",
+      "translation": "¡Arrastren y arrastren!"
+    },
+    {
+      "word": "Tally-ho!",
+      "translation": "¡Arre!"
+    },
+    {
+      "word": "All by your lonesome",
+      "translation": "completamente sola"
+    },
+    {
+      "word": "Squeaky",
+      "translation": "chillón"
+    },
+    {
+      "word": "The gown-and-wand ensemble?",
+      "translation": "¿El conjunto de vestido y varita?"
+    },
+    {
+      "word": "Shimmering",
+      "translation": "resplandeciente"
+    },
+    {
+      "word": "The floating in the air?",
+      "translation": "¿La flotación en el aire?"
+    },
+    {
+      "word": "Hurl (verbo)",
+      "translation": "tirar, arrojar, lanzar"
+    },
+    {
+      "word": "For instance (adverbio)",
+      "translation": "por ejemplo"
+    },
+    {
+      "word": "And set them on the right path",
+      "translation": "y los pongo en el camino correcto"
+    },
+    {
+      "word": "Sundown",
+      "translation": "atardecer"
+    },
+    {
+      "word": "Wand",
+      "translation": "varita mágica"
+    },
+    {
+      "word": "To zap him back to me",
+      "translation": "para que vuelva a mí"
+    },
+    {
+      "word": "I’m a wreck",
+      "translation": "soy un desastre"
+    },
+    {
+      "word": "Step into my office",
+      "translation": "entre en mi oficina"
+    },
+    {
+      "word": "Savory (sustantivo común)",
+      "translation": "aromático"
+    },
+    {
+      "word": "Walk it off, big guy!",
+      "translation": "¡Camina, grandulón!"
+    },
+    {
+      "word": "Cartful",
+      "translation": "carro"
+    },
+    {
+      "word": "You still stick out like a sore thumb",
+      "translation": "todavía sigues sobresaliendo como un pulgar"
+    },
+    {
+      "word": "Stepstool",
+      "translation": "taburete"
+    },
+    {
+      "word": "I'm letting go!",
+      "translation": "¡Voy a soltarme!"
+    },
+    {
+      "word": "Riffraff (informal)",
+      "translation": "gentuza, chusma"
+    },
+    {
+      "word": "Great timing!",
+      "translation": "¡Qué oportuno!"
+    },
+    {
+      "word": "Pea-brain",
+      "translation": "cerebro de guisante"
+    },
+    {
+      "word": "Hold on back there!",
+      "translation": "¡Aguanta ahí atrás!"
+    },
+    {
+      "word": "Seize (verbo)",
+      "translation": "capturar, apresar"
+    },
+    {
+      "word": "Vanquishing",
+      "translation": "derrota"
+    },
+    {
+      "word": "Swindling and plundering",
+      "translation": "estafa y saqueo"
+    },
+    {
+      "word": "Toss the urchin in the brig!",
+      "translation": "¡Echen el erizo en el calabozo!"
+    },
+    {
+      "word": "Stock (en algunos contextos)",
+      "translation": "reserva"
+    }
+  ]
+}

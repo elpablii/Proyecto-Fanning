@@ -1,0 +1,822 @@
+{
+  "title": "Emma",
+  "englishAnalysis": "El summum del inglés aristocrático británico de la Regencia. Extremadamente formal, educado y lleno de sutilezas sociales, chismes corteses e ironía ('acquaintance', 'propriety', 'handsome').",
+  "vocabulary": [
+    {
+      "word": "A governess in office",
+      "translation": "una institutriz en funciones"
+    },
+    {
+      "word": "Pleasant",
+      "translation": "agradable"
+    },
+    {
+      "word": "Thoroughly",
+      "translation": "a fondo, completamente, minuciosamente"
+    },
+    {
+      "word": "Foretell (verbo)",
+      "translation": "predecir, pronosticar"
+    },
+    {
+      "word": "You must not make any more",
+      "translation": "no debes hacer más"
+    },
+    {
+      "word": "I couldn't get my bonnet on for trembling",
+      "translation": "no podía ponerme el gorro por temblar"
+    },
+    {
+      "word": "Fancy (sustantivo)",
+      "translation": "fantasia, capricho, antojo"
+    },
+    {
+      "word": "I so long to meet him",
+      "translation": "tengo tantas ganas de conocerlo"
+    },
+    {
+      "word": "In the sight of God",
+      "translation": "a la vista de Dios, ante los ojos de Dios"
+    },
+    {
+      "word": "Damp",
+      "translation": "húmedo"
+    },
+    {
+      "word": "Speck",
+      "translation": "mancha"
+    },
+    {
+      "word": "He is every bit as handsome",
+      "translation": "él es igual de guapo"
+    },
+    {
+      "word": "He wished exceedingly to come",
+      "translation": "deseaba con todas sus fuerzas venir"
+    },
+    {
+      "word": "Spare (verbo)",
+      "translation": "prescindir"
+    },
+    {
+      "word": "Contrive (verbo)",
+      "translation": "idear, inventar"
+    },
+    {
+      "word": "Resolutely",
+      "translation": "resueltamente, decididamente"
+    },
+    {
+      "word": "Quarrel (verbo)",
+      "translation": "pelear"
+    },
+    {
+      "word": "Parlor boarder",
+      "translation": "huésped de salón"
+    },
+    {
+      "word": "A chill draft",
+      "translation": "una corriente fría"
+    },
+    {
+      "word": "Misfortune",
+      "translation": "desgracia, infortunio"
+    },
+    {
+      "word": "As to",
+      "translation": "como a, en cuanto a"
+    },
+    {
+      "word": "Tenant farmers",
+      "translation": "agricultores arrendatarios"
+    },
+    {
+      "word": "My notice",
+      "translation": "mi atención"
+    },
+    {
+      "word": "Walnuts",
+      "translation": "nueces, nogales"
+    },
+    {
+      "word": "How fond I was of them (frase no literal)",
+      "translation": "lo mucho que me gustaban"
+    },
+    {
+      "word": "The entire estate",
+      "translation": "toda la finca/hacienda"
+    },
+    {
+      "word": "With such loveliness before us in the flesh",
+      "translation": "con tanta hermosura antes que nosotros"
+    },
+    {
+      "word": "Obliging",
+      "translation": "servicial, amable, complaciente"
+    },
+    {
+      "word": "Inducements",
+      "translation": "incentivos"
+    },
+    {
+      "word": "Half as much",
+      "translation": "la mitad"
+    },
+    {
+      "word": "Rise (verbo)",
+      "translation": "subir, levantar, elevar"
+    },
+    {
+      "word": "Merrily upon their laylum",
+      "translation": "alegremente sobre su manto"
+    },
+    {
+      "word": "And to ramble in the new-mown hay",
+      "translation": "y a pasear por el heno recién cortado"
+    },
+    {
+      "word": "A good deal prettier (frase no literal)",
+      "translation": "mucho más bonito"
+    },
+    {
+      "word": "How do you do? (pregunta no literal)",
+      "translation": "¿Cómo está?"
+    },
+    {
+      "word": "Inquire (verbo)",
+      "translation": "preguntar, consultar"
+    },
+    {
+      "word": "Stand (sustantivo)",
+      "translation": "soporte"
+    },
+    {
+      "word": "Rendered to her",
+      "translation": "rindió a ella"
+    },
+    {
+      "word": "Whirl around",
+      "translation": "dar vueltas, girar alrededor"
+    },
+    {
+      "word": "Sails",
+      "translation": "velas (alusivo al tipo de embarcación)"
+    },
+    {
+      "word": "Dash (verbo)",
+      "translation": "precipitarse, arrojarse, estrellarse"
+    },
+    {
+      "word": "Caught hold of her habit",
+      "translation": "se apoderó/agarró de su hábito"
+    },
+    {
+      "word": "Of the very name (frase no literal)",
+      "translation": "del propio/mismo nombre"
+    },
+    {
+      "word": "If she does but knit a pair of garters",
+      "translation": "si no hace más que tejer un par de ligas"
+    },
+    {
+      "word": "Only think of our happening to meet him",
+      "translation": "sólo piensa en que nos encontremos con él"
+    },
+    {
+      "word": "Seldom (adverbio)",
+      "translation": "rara vez, casi nunca"
+    },
+    {
+      "word": "Figure (verbo)",
+      "translation": "figurar, imaginar"
+    },
+    {
+      "word": "The very picture",
+      "translation": "la propia imagen"
+    },
+    {
+      "word": "Vain (adjetivo)",
+      "translation": "vanidoso"
+    },
+    {
+      "word": "Ingratiate (verbo)",
+      "translation": "congraciar"
+    },
+    {
+      "word": "Likeness",
+      "translation": "semejanza, parecido"
+    },
+    {
+      "word": "Entreat (verbo)",
+      "translation": "rogar, suplicar, solicitar"
+    },
+    {
+      "word": "Bear witness",
+      "translation": "sé testigo"
+    },
+    {
+      "word": "I cannot have a moment's doubt",
+      "translation": "no puedo tener ni un momento de duda"
+    },
+    {
+      "word": "Her ignorance is hourly flattery",
+      "translation": "su ignorancia es un halago cada hora"
+    },
+    {
+      "word": "Submit (verbo en ciertos contextos)",
+      "translation": "someter"
+    },
+    {
+      "word": "Ye (pronombre en inglés antiguo)",
+      "translation": "ustedes, vosotros"
+    },
+    {
+      "word": "What more can he say than to you he hath said?",
+      "translation": "¿Qué más puede decir que lo que les"
+    },
+    {
+      "word": "You who unto Jesus",
+      "translation": "tú que a Jesús"
+    },
+    {
+      "word": "Obliged",
+      "translation": "obligado, comprometido, agradecido"
+    },
+    {
+      "word": "May I be so bold as to seek your advice? (pregunta no literal)",
+      "translation": "¿Puedo atreverme a"
+    },
+    {
+      "word": "I lay it down",
+      "translation": "lo dejo, lo establezco, lo pongo"
+    },
+    {
+      "word": "Make up my mind",
+      "translation": "decidirse, hacer decidir"
+    },
+    {
+      "word": "Simpleton",
+      "translation": "simplón, mentecato"
+    },
+    {
+      "word": "Infatuation",
+      "translation": "encaprichamiento, enamoramiento, apasionamiento"
+    },
+    {
+      "word": "Scarcely",
+      "translation": "apenas, escasamente"
+    },
+    {
+      "word": "Allowance (en contextos no monetarios)",
+      "translation": "asignación"
+    },
+    {
+      "word": "Nothing has been grudged",
+      "translation": "no se le ha negado nada"
+    },
+    {
+      "word": "And sought after wherever she goes",
+      "translation": "y buscada dondequiera que vaya"
+    },
+    {
+      "word": "Altogether",
+      "translation": "en total, en conjunto"
+    },
+    {
+      "word": "Misapply",
+      "translation": "aplicar mal"
+    },
+    {
+      "word": "Matchmaking (sustantivo)",
+      "translation": "emparejamiento"
+    },
+    {
+      "word": "Hint (verbo)",
+      "translation": "insinuar"
+    },
+    {
+      "word": "You certainly spared no expense",
+      "translation": "ciertamente no escatimaste/reparaste en gastos"
+    },
+    {
+      "word": "Glad tidings of",
+      "translation": "buenas noticias, buenas nuevas"
+    },
+    {
+      "word": "Utterly",
+      "translation": "completamente, totalmente, absolutamente"
+    },
+    {
+      "word": "Endurable",
+      "translation": "soportable"
+    },
+    {
+      "word": "Strenously",
+      "translation": "encarecidamente"
+    },
+    {
+      "word": "Envious",
+      "translation": "envidioso"
+    },
+    {
+      "word": "Feverish",
+      "translation": "febril, afiebrado"
+    },
+    {
+      "word": "Disheveled",
+      "translation": "despeinado, desaliñado"
+    },
+    {
+      "word": "Dismal weather",
+      "translation": "mal tiempo"
+    },
+    {
+      "word": "To convey five idle",
+      "translation": "para transportar cinco ociosos"
+    },
+    {
+      "word": "Flourishing",
+      "translation": "floreciente"
+    },
+    {
+      "word": "Bargain",
+      "translation": "trato, negociación, negocio"
+    },
+    {
+      "word": "You will excuse my being so much overpowered",
+      "translation": "me disculparás por estar tan"
+    },
+    {
+      "word": "Regard",
+      "translation": "respeto, aprecio, consideración"
+    },
+    {
+      "word": "She’s so very fond",
+      "translation": "ella está muy encariñada"
+    },
+    {
+      "word": "Seasonable",
+      "translation": "de temporada"
+    },
+    {
+      "word": "Venturing out in such weather",
+      "translation": "aventurarse a salir con este tiempo"
+    },
+    {
+      "word": "Blow over",
+      "translation": "volar, volcar"
+    },
+    {
+      "word": "Vinaigrette",
+      "translation": "vinagreta"
+    },
+    {
+      "word": "Avail (verbo)",
+      "translation": "aprovechar"
+    },
+    {
+      "word": "I've been very earnestly wishing your success",
+      "translation": "he deseado fervientemente su éxito"
+    },
+    {
+      "word": "Encouragement",
+      "translation": "ánimo"
+    },
+    {
+      "word": "Meadows",
+      "translation": "prados, praderas"
+    },
+    {
+      "word": "He sought to aggrandize",
+      "translation": "él trató de engrandecer"
+    },
+    {
+      "word": "Attachments (en sentido social)",
+      "translation": "apegos"
+    },
+    {
+      "word": "Pale",
+      "translation": "pálido"
+    },
+    {
+      "word": "Retrieve (verbo)",
+      "translation": "recuperar, extraer"
+    },
+    {
+      "word": "Amiable",
+      "translation": "amable, afable"
+    },
+    {
+      "word": "Shudder (verbo)",
+      "translation": "estremecerse, temblar, vibrar"
+    },
+    {
+      "word": "You must sample the tart",
+      "translation": "debes probar la tarta"
+    },
+    {
+      "word": "Custard",
+      "translation": "natilla, flan, crema pastelera"
+    },
+    {
+      "word": "Tumbler",
+      "translation": "vaso"
+    },
+    {
+      "word": "Eager",
+      "translation": "ansioso, impaciente"
+    },
+    {
+      "word": "We're very little acquainted",
+      "translation": "nos conocemos muy poco"
+    },
+    {
+      "word": "He's generally thought so",
+      "translation": "en general se piensa así"
+    },
+    {
+      "word": "‘Tis (en inglés antiguo)",
+      "translation": "eso es, eso está"
+    },
+    {
+      "word": "Left blooming alone",
+      "translation": "dejados floreciendo solos"
+    },
+    {
+      "word": "No flowers of her kindred",
+      "translation": "no hay flores de su parentela"
+    },
+    {
+      "word": "No rosebud is nigh",
+      "translation": "ningún capullo de rosa está cerca"
+    },
+    {
+      "word": "Blush (sustantivo)",
+      "translation": "rubor"
+    },
+    {
+      "word": "Bleak",
+      "translation": "sombrío, desolado"
+    },
+    {
+      "word": "Fond",
+      "translation": "cariñoso"
+    },
+    {
+      "word": "Accomplished",
+      "translation": "consumado"
+    },
+    {
+      "word": "Reminiscences",
+      "translation": "recuerdos"
+    },
+    {
+      "word": "Steeple",
+      "translation": "campanario"
+    },
+    {
+      "word": "Acquaintance",
+      "translation": "conocimiento"
+    },
+    {
+      "word": "An inn of this size must have a ballroom",
+      "translation": "una posada de este tamaño debe tener un"
+    },
+    {
+      "word": "Deign (verbo)",
+      "translation": "dignar"
+    },
+    {
+      "word": "Twice over",
+      "translation": "por partida doble"
+    },
+    {
+      "word": "He's a trifling silly fop",
+      "translation": "es un tonto insignificante"
+    },
+    {
+      "word": "Choicest (adjetivo superlativo)",
+      "translation": "más selecto"
+    },
+    {
+      "word": "Aflame",
+      "translation": "en llamas"
+    },
+    {
+      "word": "She's quite at a loss",
+      "translation": "ella está bastante perdida"
+    },
+    {
+      "word": "Quite bewildered",
+      "translation": "bastante desconcertado"
+    },
+    {
+      "word": "Overboard",
+      "translation": "por la borda"
+    },
+    {
+      "word": "Thine (pronombre posesivo en inglés antiguo)",
+      "translation": "tus"
+    },
+    {
+      "word": "Pledge (verbo)",
+      "translation": "comprometer, prometer"
+    },
+    {
+      "word": "Doth",
+      "translation": "hacer (verbo do pero en inglés antiguo)"
+    },
+    {
+      "word": "But might I of love's nectar sip",
+      "translation": "pero podría sorber el néctar del amor"
+    },
+    {
+      "word": "A long acquaintance",
+      "translation": "un viejo conocido"
+    },
+    {
+      "word": "Upstart",
+      "translation": "advenedizo"
+    },
+    {
+      "word": "Draft",
+      "translation": "corriente de aire"
+    },
+    {
+      "word": "Over-trimmed",
+      "translation": "recortado"
+    },
+    {
+      "word": "Quite a horror of finery",
+      "translation": "qué horror de galas"
+    },
+    {
+      "word": "Ornament",
+      "translation": "ornamento, adorno"
+    },
+    {
+      "word": "Reluctuant",
+      "translation": "reluctante"
+    },
+    {
+      "word": "Gypsies",
+      "translation": "gitanos"
+    },
+    {
+      "word": "And so doubled back (frase no literal)",
+      "translation": "y volví sobre mis pasos"
+    },
+    {
+      "word": "Rouse (verbo)",
+      "translation": "despertar"
+    },
+    {
+      "word": "Unharmed",
+      "translation": "ileso"
+    },
+    {
+      "word": "Fetch (verbo en ciertos contextos)",
+      "translation": "traer, recoger"
+    },
+    {
+      "word": "Abbey",
+      "translation": "abadía, monasterio"
+    },
+    {
+      "word": "I fear I have long exhausted Highbury",
+      "translation": "me temo que he agotado Highbury"
+    },
+    {
+      "word": "Tenant",
+      "translation": "arrendatario, inquilino"
+    },
+    {
+      "word": "The welcome is long overdue",
+      "translation": "la bienvenida se hace esperar"
+    },
+    {
+      "word": "I should like that of all things",
+      "translation": "eso es lo que más me gustaría"
+    },
+    {
+      "word": "Sly",
+      "translation": "astuto"
+    },
+    {
+      "word": "Whom I can ever allow to invite what guests she pleases to Donwell",
+      "translation": "a quien puedo"
+    },
+    {
+      "word": "Until she is in being",
+      "translation": "hasta que ella esté en el ser"
+    },
+    {
+      "word": "I was struck down by a fever",
+      "translation": "me dió fiebre"
+    },
+    {
+      "word": "Prospect",
+      "translation": "perspectiva, prospecto"
+    },
+    {
+      "word": "Are you unwell?",
+      "translation": "¿Te sientes mal?"
+    },
+    {
+      "word": "Wearied",
+      "translation": "fatigado"
+    },
+    {
+      "word": "A nervous seizure",
+      "translation": "un ataque de nervios"
+    },
+    {
+      "word": "Go abroad (verbo)",
+      "translation": "ir al extranjero"
+    },
+    {
+      "word": "Fancy (verbo)",
+      "translation": "fantasear, apetecer, antojar"
+    },
+    {
+      "word": "Hardships",
+      "translation": "dificultades, penurias, apuros"
+    },
+    {
+      "word": "And be contented to stay?",
+      "translation": "¿Y conformarse con quedarse?"
+    },
+    {
+      "word": "Indulge (verbo)",
+      "translation": "complacer, satisfacer, consentir"
+    },
+    {
+      "word": "You were very cross",
+      "translation": "estabas muy enfadado"
+    },
+    {
+      "word": "It's the very last thing I would stand the brunt of just now",
+      "translation": "es lo último que"
+    },
+    {
+      "word": "Waive (verbo)",
+      "translation": "renunciar"
+    },
+    {
+      "word": "Dull",
+      "translation": "aburrido, soso"
+    },
+    {
+      "word": "Laugh heartily (verbo)",
+      "translation": "reírse a carcajadas"
+    },
+    {
+      "word": "Uneasy",
+      "translation": "inquieto, incómodo, intranquilo"
+    },
+    {
+      "word": "Hold my tongue (verbo)",
+      "translation": "controlarse, callarse"
+    },
+    {
+      "word": "Conundrum",
+      "translation": "acertijo, enigma"
+    },
+    {
+      "word": "Reckon (verbo en algunos contextos)",
+      "translation": "contar"
+    },
+    {
+      "word": "I must have made myself very disagreeable",
+      "translation": "debo haberme hecho muy desagradable"
+    },
+    {
+      "word": "Wit",
+      "translation": "ingenioso"
+    },
+    {
+      "word": "Most willingly",
+      "translation": "con mucho gusto"
+    },
+    {
+      "word": "Unfeeling",
+      "translation": "insensible"
+    },
+    {
+      "word": "And what is ridiculous are most unfortunately blended in her",
+      "translation": "y lo ridículo se mezclen"
+    },
+    {
+      "word": "Thoughtless",
+      "translation": "irreflexivos"
+    },
+    {
+      "word": "Humble (verbo)",
+      "translation": "humillar"
+    },
+    {
+      "word": "There was a little bustle",
+      "translation": "había un poco de bullicio"
+    },
+    {
+      "word": "Errand",
+      "translation": "recado, mandado"
+    },
+    {
+      "word": "Condole (verbo)",
+      "translation": "consolar, dar el pésame"
+    },
+    {
+      "word": "Mistake (verbo)",
+      "translation": "confundir"
+    },
+    {
+      "word": "Tenant farms",
+      "translation": "explotaciones arrendadas, granjas arrendadas"
+    },
+    {
+      "word": "He uses everybody ill",
+      "translation": "él utiliza mal a todo el mundo"
+    },
+    {
+      "word": "Envy (verbo)",
+      "translation": "envidiar"
+    },
+    {
+      "word": "I may wish it unsaid",
+      "translation": "puedo desear que no se diga"
+    },
+    {
+      "word": "Lecture (verbo)",
+      "translation": "sermonear"
+    },
+    {
+      "word": "You have borne it",
+      "translation": "lo has soportado"
+    },
+    {
+      "word": "On the verge of",
+      "translation": "al punto de, al borde de"
+    },
+    {
+      "word": "Is laid for your faith",
+      "translation": "está puesto por su fe"
+    },
+    {
+      "word": "Hath",
+      "translation": "tener, haber (have pero en inglés antiguo)"
+    },
+    {
+      "word": "Tradesman",
+      "translation": "comerciante, vendedor"
+    },
+    {
+      "word": "Galoshes",
+      "translation": "chanclos, botas de agua"
+    },
+    {
+      "word": "Nightingales",
+      "translation": "ruiseñor, zorzal"
+    },
+    {
+      "word": "Maiden",
+      "translation": "doncella"
+    },
+    {
+      "word": "May I go along?",
+      "translation": "¿Puedo acompañarte?"
+    },
+    {
+      "word": "Make haste",
+      "translation": "darse prisa, apurarse"
+    },
+    {
+      "word": "Maid",
+      "translation": "criada, sirvienta"
+    },
+    {
+      "word": "Summer's turn is nigh",
+      "translation": "se acerca el verano"
+    },
+    {
+      "word": "Swifts and swallows swoop",
+      "translation": "vencejos y golondrinas se lanzan en picado"
+    },
+    {
+      "word": "Flourish (verbo)",
+      "translation": "florecer"
+    },
+    {
+      "word": "Winter's kiss has some enthralled",
+      "translation": "el beso del invierno ha cautivado a algunos"
+    },
+    {
+      "word": "Shun (verbo)",
+      "translation": "evitar, esquivar, rehuir"
+    },
+    {
+      "word": "I'll weave the bonny flowers",
+      "translation": "tejeré las flores bonitas"
+    }
+  ]
+}

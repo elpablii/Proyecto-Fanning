@@ -1,0 +1,610 @@
+{
+  "title": "Riesgo Bajo Cero",
+  "englishAnalysis": "Thiller de acción con lenguaje utilitario, técnico y centrado en la supervivencia. Vocabulario de maquinaria pesada, transporte de hielo, clima extremo y sabotajes.",
+  "vocabulary": [
+    {
+      "word": "Jackhammer",
+      "translation": "martillo neumático"
+    },
+    {
+      "word": "Pit",
+      "translation": "fosa, pozo, tajo"
+    },
+    {
+      "word": "Methane pocket (no literal)",
+      "translation": "bolsa de metano"
+    },
+    {
+      "word": "Splutter (verbo)",
+      "translation": "balbucear, chisporrotear, farfullar"
+    },
+    {
+      "word": "This how you guys still get your kicks, huh? (no literal)",
+      "translation": "así es como ustedes todavía se"
+    },
+    {
+      "word": "But tires to a point rotated go",
+      "translation": "pero los neumáticos a un punto rotado ir"
+    },
+    {
+      "word": "Language cognition scores",
+      "translation": "puntuaciones en cognición lingüística"
+    },
+    {
+      "word": "Entail (verbo)",
+      "translation": "implicar, conllevar"
+    },
+    {
+      "word": "We arrange housing",
+      "translation": "nos encargamos del alojamiento"
+    },
+    {
+      "word": "Let them poke and prod you",
+      "translation": "deja que te toquen y te pinchen"
+    },
+    {
+      "word": "Out of the blue (no literal)",
+      "translation": "de la nada, de repente"
+    },
+    {
+      "word": "The stoping shields",
+      "translation": "los escudos de parada"
+    },
+    {
+      "word": "Predictive maintenance sensors",
+      "translation": "sensores de mantenimiento preventivo"
+    },
+    {
+      "word": "Until the gas is drilled and capped",
+      "translation": "hasta que el gas sea perforado y tapado"
+    },
+    {
+      "word": "Cap (verbo)",
+      "translation": "tapar"
+    },
+    {
+      "word": "Wellhead",
+      "translation": "boca de pozo, cabeza de pozo"
+    },
+    {
+      "word": "Airlift a 30-ton gas wellhead?",
+      "translation": "¿Transportar por aire una cabeza de pozo de gas de 30"
+    },
+    {
+      "word": "There's no runway up at Katka",
+      "translation": "no hay pista de aterrizaje en Katka"
+    },
+    {
+      "word": "Payloads of that nature have to go by truck",
+      "translation": "las cargas útiles de esa naturaleza tienen"
+    },
+    {
+      "word": "Up to",
+      "translation": "hasta"
+    },
+    {
+      "word": "The off-season",
+      "translation": "la temporada baja"
+    },
+    {
+      "word": "Rigs",
+      "translation": "plataformas, equipos"
+    },
+    {
+      "word": "Old-timers",
+      "translation": "veteranos"
+    },
+    {
+      "word": "Probably some Oxy for good measure?",
+      "translation": "¿Probablemente algo de oxicodina por si"
+    },
+    {
+      "word": "Take the edge off (no literal)",
+      "translation": "aliviar la tensión, calmar los nervios"
+    },
+    {
+      "word": "Outbursts",
+      "translation": "arrebatos"
+    },
+    {
+      "word": "Veteran Administration (VA)",
+      "translation": "Administración de Veteranos"
+    },
+    {
+      "word": "Overprescribe (verbo)",
+      "translation": "recetar/prescribir en exceso"
+    },
+    {
+      "word": "Take us great that owned we",
+      "translation": "llévanos a eso grandioso que poseíamos"
+    },
+    {
+      "word": "Unaccounted for",
+      "translation": "no contabilizados"
+    },
+    {
+      "word": "Cave-in (sustantivo)",
+      "translation": "derrumbe, hundimiento"
+    },
+    {
+      "word": "Hold down",
+      "translation": "mantener, conservar"
+    },
+    {
+      "word": "Caretaker",
+      "translation": "cuidador"
+    },
+    {
+      "word": "The rocker arm shaft",
+      "translation": "el eje del balancín"
+    },
+    {
+      "word": "Time (verbo)",
+      "translation": "cronometrar, tomar el tiempo"
+    },
+    {
+      "word": "Socket wrench",
+      "translation": "llave de tubo"
+    },
+    {
+      "word": "Repark (verbo)",
+      "translation": "reparar"
+    },
+    {
+      "word": "Drawn up",
+      "translation": "elaborado, preparado"
+    },
+    {
+      "word": "Tap code",
+      "translation": "código de toques"
+    },
+    {
+      "word": "Cub Scouts",
+      "translation": "Lobatos y Lobeznas"
+    },
+    {
+      "word": "Split four ways",
+      "translation": "divididos en cuatro partes"
+    },
+    {
+      "word": "A cut (no literal en dinero)",
+      "translation": "una parte"
+    },
+    {
+      "word": "Along for",
+      "translation": "a lo largo de"
+    },
+    {
+      "word": "Fuel (verbo)",
+      "translation": "abastecer/llenar de combustible"
+    },
+    {
+      "word": "Apiece",
+      "translation": "por cada uno"
+    },
+    {
+      "word": "A down payment",
+      "translation": "un anticipo, un pago inicial"
+    },
+    {
+      "word": "Sorry I ripped up your brochure",
+      "translation": "siento haber roto tu folleto"
+    },
+    {
+      "word": "Mount up! (expresión)",
+      "translation": "¡Arriba!"
+    },
+    {
+      "word": "A bull run",
+      "translation": "una carrera alcista"
+    },
+    {
+      "word": "See you on the flip side",
+      "translation": "nos vemos en el otro lado"
+    },
+    {
+      "word": "Engines idling",
+      "translation": "motores al ralentí"
+    },
+    {
+      "word": "Leapfrog (verbo)",
+      "translation": "saltar"
+    },
+    {
+      "word": "Give or take (frase no literal)",
+      "translation": "más o menos"
+    },
+    {
+      "word": "Haulers",
+      "translation": "transportistas, camioneros"
+    },
+    {
+      "word": "Step on",
+      "translation": "pisar"
+    },
+    {
+      "word": "A big eight-wheeler",
+      "translation": "un gran camión de ocho ruedas"
+    },
+    {
+      "word": "Stiff",
+      "translation": "rígido, tieso"
+    },
+    {
+      "word": "In bright sunshine",
+      "translation": "a pleno sol"
+    },
+    {
+      "word": "Wind gusting (acotación)",
+      "translation": "ráfagas de viento"
+    },
+    {
+      "word": "You get cranky?",
+      "translation": "¿Estás de mal humor?"
+    },
+    {
+      "word": "A falling-out",
+      "translation": "un desencuentro, una pelea, una discusión"
+    },
+    {
+      "word": "I took a swing on him",
+      "translation": "lo golpe"
+    },
+    {
+      "word": "It's got a ring to it (frase no literal)",
+      "translation": "suena bien"
+    },
+    {
+      "word": "Haul (verbo)",
+      "translation": "transportar"
+    },
+    {
+      "word": "Tips us off to pressure waves",
+      "translation": "nos avisa de las ondas de presión"
+    },
+    {
+      "word": "Sputtering (sustantivo)",
+      "translation": "chisporroteo"
+    },
+    {
+      "word": "Head gasket",
+      "translation": "junta de culata"
+    },
+    {
+      "word": "Gear shift cranks (acotación)",
+      "translation": "manivelas de cambio de marchas"
+    },
+    {
+      "word": "The nylon snatch pulleys",
+      "translation": "las poleas de enganche de nylon"
+    },
+    {
+      "word": "Rear",
+      "translation": "parte trasera"
+    },
+    {
+      "word": "Clear out",
+      "translation": "despejado"
+    },
+    {
+      "word": "Water rushing",
+      "translation": "agua corriendo"
+    },
+    {
+      "word": "Towline",
+      "translation": "sirga, cable de remolque"
+    },
+    {
+      "word": "Spread out",
+      "translation": "extender"
+    },
+    {
+      "word": "We'll outrun it",
+      "translation": "lo superaremos, lo dejaremos atrás"
+    },
+    {
+      "word": "Hike up",
+      "translation": "aumentar, subir"
+    },
+    {
+      "word": "Running board",
+      "translation": "pista"
+    },
+    {
+      "word": "I got one hell of an ice crack behind me (no literal)",
+      "translation": "tengo una grieta de hielo detrás"
+    },
+    {
+      "word": "Slush bed at 200 yards",
+      "translation": "lecho de nieve a 200 metros"
+    },
+    {
+      "word": "Capsize (verbo)",
+      "translation": "volcar"
+    },
+    {
+      "word": "It's displaced evenly instead of on the tires",
+      "translation": "se desplaza uniformemente en lugar de"
+    },
+    {
+      "word": "Exertion",
+      "translation": "esfuerzo"
+    },
+    {
+      "word": "Dirt sifting (acotación)",
+      "translation": "tamizado de la suciedad"
+    },
+    {
+      "word": "Clanging on pipes",
+      "translation": "golpes en las tuberías"
+    },
+    {
+      "word": "Radio dispatch (acotación)",
+      "translation": "despacho/transmisión por radio"
+    },
+    {
+      "word": "It's bound to",
+      "translation": "está destinado a"
+    },
+    {
+      "word": "Let's get the rigs upright and haul ass",
+      "translation": "pongamos los aparejos en posición vertical y"
+    },
+    {
+      "word": "The seized-up engine",
+      "translation": "el motor gripado/averiado"
+    },
+    {
+      "word": "Banners",
+      "translation": "pancartas"
+    },
+    {
+      "word": "Seize (verbo en motores)",
+      "translation": "agarrotar"
+    },
+    {
+      "word": "Pump",
+      "translation": "surtidor, bomba"
+    },
+    {
+      "word": "Winch cranking",
+      "translation": "arranque del cabrestante"
+    },
+    {
+      "word": "Triage",
+      "translation": "clasificación, selección"
+    },
+    {
+      "word": "Get triaged",
+      "translation": "clasificar, seleccionar"
+    },
+    {
+      "word": "We're not calling the shots down there (frase no literal)",
+      "translation": "nosotros no mandamos allí"
+    },
+    {
+      "word": "Those trailers smacked down hard",
+      "translation": "esos remolques cayeron con fuerza"
+    },
+    {
+      "word": "We'll push on (frase no literal)",
+      "translation": "seguiremos adelante"
+    },
+    {
+      "word": "Restraints",
+      "translation": "ataduras, sujeciones"
+    },
+    {
+      "word": "You get a little spirited (frase no literal)",
+      "translation": "te pones un poco fogoso"
+    },
+    {
+      "word": "I'll hog-tie you and throw you in the rear",
+      "translation": "te ataré y te tiraré en la retaguardia"
+    },
+    {
+      "word": "She's outfitted with a heater unit",
+      "translation": "está equipada con una unidad de calefacción"
+    },
+    {
+      "word": "This double mill pipe",
+      "translation": "este tubo de doble molino"
+    },
+    {
+      "word": "Five mill double hundred",
+      "translation": "cinco millones doscientos"
+    },
+    {
+      "word": "Grab hold of the end of this one",
+      "translation": "agárrate al final de esta"
+    },
+    {
+      "word": "Punch pipe the pin post",
+      "translation": "perfora el poste del pasador"
+    },
+    {
+      "word": "Ease off!",
+      "translation": "¡Despacio!"
+    },
+    {
+      "word": "Winch",
+      "translation": "cabrestante"
+    },
+    {
+      "word": "Welding's a winter snap!",
+      "translation": "¡La soldadura es un broche de invierno!"
+    },
+    {
+      "word": "Welding (sustantivo)",
+      "translation": "soldadura"
+    },
+    {
+      "word": "Sunken dreams",
+      "translation": "sueños hundidos, sueños sumergidos"
+    },
+    {
+      "word": "20 klicks due south (informal y no literal)",
+      "translation": "20 kilómetros al sur"
+    },
+    {
+      "word": "Guardrail",
+      "translation": "barandilla"
+    },
+    {
+      "word": "You dove for safety before it went over",
+      "translation": "te lanzaste para ponerte a salvo antes de"
+    },
+    {
+      "word": "Management (en referencia a la institución)",
+      "translation": "administración, dirección"
+    },
+    {
+      "word": "There was no chance of gas pockets this far north",
+      "translation": "no había posibilidad de bolsas de"
+    },
+    {
+      "word": "And anyone who blew the whistle gets shitcanned",
+      "translation": "y a cualquiera que soplara el silbato"
+    },
+    {
+      "word": "Asphyxiation",
+      "translation": "asfixia"
+    },
+    {
+      "word": "Lighter snaps shut",
+      "translation": "encendedor se cierra a presión"
+    },
+    {
+      "word": "We're coming up the pass",
+      "translation": "estamos subiendo el paso"
+    },
+    {
+      "word": "Approaching the upper traverse",
+      "translation": "aproximación a la travesía superior"
+    },
+    {
+      "word": "I'm still pulling weight",
+      "translation": "todavía sigo tirando de peso"
+    },
+    {
+      "word": "They cut corners with the methane regs",
+      "translation": "tomaron atajos con las normas sobre el"
+    },
+    {
+      "word": "Don't discharge your weapons",
+      "translation": "no descarguen sus armas"
+    },
+    {
+      "word": "Tapping fuel gauge (acotación)",
+      "translation": "golpeando el indicador de combustible"
+    },
+    {
+      "word": "Siphon (verbo)",
+      "translation": "desviar"
+    },
+    {
+      "word": "Get down to",
+      "translation": "bajar a"
+    },
+    {
+      "word": "Takes a licking but keeps on ticking (frase no literal)",
+      "translation": "recibe una paliza, pero sigue"
+    },
+    {
+      "word": "Snow and ice sifting (acotación)",
+      "translation": "tamizado de nieve y hielo"
+    },
+    {
+      "word": "Back up (en algunos contextos)",
+      "translation": "retroceder, dar marcha atrás"
+    },
+    {
+      "word": "Hang tight",
+      "translation": "agárrate fuerte"
+    },
+    {
+      "word": "There's no paper trail",
+      "translation": "no hay rastro de papel"
+    },
+    {
+      "word": "Weather (verbo)",
+      "translation": "aguantar, superar"
+    },
+    {
+      "word": "Wheeze (verbo)",
+      "translation": "sibilar, resollar, decir algo (con la voz entrecortada)"
+    },
+    {
+      "word": "Heavy wheezing",
+      "translation": "sibilancias fuertes"
+    },
+    {
+      "word": "Traction pads",
+      "translation": "pastillas/almohadillas de tracción"
+    },
+    {
+      "word": "Deputy Minister",
+      "translation": "Viceministro"
+    },
+    {
+      "word": "Airfield",
+      "translation": "aeródromo"
+    },
+    {
+      "word": "Cut the formalities",
+      "translation": "deja las formalidades"
+    },
+    {
+      "word": "Gurney",
+      "translation": "camilla"
+    },
+    {
+      "word": "Get that wellhead unloaded and bolted down",
+      "translation": "descarguen y atornillen ese cabezal de"
+    },
+    {
+      "word": "The drill site",
+      "translation": "el sitio de perforación"
+    },
+    {
+      "word": "Wellhead is tapped and strung",
+      "translation": "la cabeza del pozo está intervenida y encordada"
+    },
+    {
+      "word": "Good pay rates",
+      "translation": "buenos salaries"
+    },
+    {
+      "word": "Pin (verbo en sentido emocional)",
+      "translation": "añorar, anhelar"
+    },
+    {
+      "word": "Blacktop",
+      "translation": "asfalto"
+    },
+    {
+      "word": "Hold on to",
+      "translation": "aferrarse a, agarrarse a"
+    },
+    {
+      "word": "Grit",
+      "translation": "agallas, valor, coraje"
+    },
+    {
+      "word": "Back to the wall",
+      "translation": "de espaldas a la pared"
+    },
+    {
+      "word": "You're doggone right",
+      "translation": "tienes toda la razón"
+    },
+    {
+      "word": "Underdog",
+      "translation": "desválido, desamparado"
+    },
+    {
+      "word": "I reach for the sky",
+      "translation": "alcanzo el cielo, toco el cielo"
+    }
+  ]
+}

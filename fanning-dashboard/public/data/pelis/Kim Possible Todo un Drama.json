@@ -1,0 +1,506 @@
+{
+  "title": "Kim Possible Todo un Drama",
+  "englishAnalysis": "Animación adolescente de los 2000. Lenguaje rápido lleno de modismos adolescentes ('so not the drama', 'cheerleader') entrelazado con vocabulario clásico de agentes secretos y espionaje.",
+  "vocabulary": [
+    {
+      "word": "The cheer regionals",
+      "translation": "las regionales de porristas"
+    },
+    {
+      "word": "My blaster-briefs (traducción aproximada)",
+      "translation": "mis calzoncillos explosivos"
+    },
+    {
+      "word": "He was in dang",
+      "translation": "él estaba en peligro"
+    },
+    {
+      "word": "Got you on GPS lock",
+      "translation": "te tengo localizado por GPS"
+    },
+    {
+      "word": "Patch through",
+      "translation": "parchar, remendar"
+    },
+    {
+      "word": "Put her through",
+      "translation": "pásamela"
+    },
+    {
+      "word": "Off or on?",
+      "translation": "¿Desconectado o conectado?"
+    },
+    {
+      "word": "Cheatish",
+      "translation": "engañoso"
+    },
+    {
+      "word": "Steer (verbo)",
+      "translation": "dirigir, conducir"
+    },
+    {
+      "word": "Childlike wonder",
+      "translation": "asombro infantil"
+    },
+    {
+      "word": "You just doodle a face on",
+      "translation": "sólo tienes que garabatear una cara"
+    },
+    {
+      "word": "Whacky",
+      "translation": "chiflado"
+    },
+    {
+      "word": "Toymaker",
+      "translation": "juguetero"
+    },
+    {
+      "word": "It really slows me down when I pull my shoot as soon as we bail",
+      "translation": "me ralentiza mucho"
+    },
+    {
+      "word": "Backhand",
+      "translation": "revés"
+    },
+    {
+      "word": "Brain-tap machine",
+      "translation": "máquina de punción cerebral"
+    },
+    {
+      "word": "Go tap yourself",
+      "translation": "golpéate a ti mismo"
+    },
+    {
+      "word": "I was especially fond of number 842",
+      "translation": "me gustaba especialmente el número 842"
+    },
+    {
+      "word": "He had a certain spring in his step",
+      "translation": "tenía un cierto resorte en su paso"
+    },
+    {
+      "word": "Syntho-goo",
+      "translation": "sintetizador"
+    },
+    {
+      "word": "Tap (verbo en algunos contextos)",
+      "translation": "tocar, aprovechar, explotar"
+    },
+    {
+      "word": "Extent",
+      "translation": "extensión, alcance"
+    },
+    {
+      "word": "Doodle (sustantivo)",
+      "translation": "garabato, dibujo"
+    },
+    {
+      "word": "Whacked",
+      "translation": "loco, chiflado"
+    },
+    {
+      "word": "Fo shizzle (expresión)",
+      "translation": "por Dios"
+    },
+    {
+      "word": "Hep",
+      "translation": "hepático"
+    },
+    {
+      "word": "Glisten (verbo)",
+      "translation": "brillar, resplandecer"
+    },
+    {
+      "word": "That's flawed",
+      "translation": "eso es erróneo"
+    },
+    {
+      "word": "I'm weirding guys out!",
+      "translation": "¡Estoy extrañando a los chicos!"
+    },
+    {
+      "word": "Roundhousing some goon out of a window",
+      "translation": "tirando a un matón por la ventana"
+    },
+    {
+      "word": "Management",
+      "translation": "gestión, administración"
+    },
+    {
+      "word": "Wicked bad",
+      "translation": "muy malo"
+    },
+    {
+      "word": "Grill (verbo)",
+      "translation": "asar"
+    },
+    {
+      "word": "You know the tells when a man is bluffing? (pregunta no literal)",
+      "translation": "¿Sabes cuando un"
+    },
+    {
+      "word": "Shallow and wheezy",
+      "translation": "superficial y sibilante"
+    },
+    {
+      "word": "Stray (verbo)",
+      "translation": "alejarse, desviarse"
+    },
+    {
+      "word": "Crack (verbo)",
+      "translation": "crackear, descifrar"
+    },
+    {
+      "word": "His whacked plans",
+      "translation": "sus planes malogrados"
+    },
+    {
+      "word": "Tux",
+      "translation": "esmoquin"
+    },
+    {
+      "word": "I'll work the room, drum up support",
+      "translation": "trabajaré en la sala, conseguiré apoyo"
+    },
+    {
+      "word": "She's all high horse (frase no literal)",
+      "translation": "es toda una prepotente"
+    },
+    {
+      "word": "They look up to him (frase no literal)",
+      "translation": "ellos lo admiran"
+    },
+    {
+      "word": "Better hop off",
+      "translation": "será mejor que te bajes"
+    },
+    {
+      "word": "Scorching across the blacktop",
+      "translation": "chorreando por el asfalto"
+    },
+    {
+      "word": "Blacktop",
+      "translation": "asfalto"
+    },
+    {
+      "word": "I'm not a nuts-and-bolts guy, I'm more big picture",
+      "translation": "no soy un tipo de tuercas y"
+    },
+    {
+      "word": "Your mileage",
+      "translation": "tu millaje, tu kilometraje"
+    },
+    {
+      "word": "We're tight",
+      "translation": "estamos unidos"
+    },
+    {
+      "word": "Wild mushroom risotto with cracked pepper",
+      "translation": "risotto de setas silvestres a la pimienta"
+    },
+    {
+      "word": "Skimp (verbo)",
+      "translation": "escatimar"
+    },
+    {
+      "word": "I just went from so to whoa!",
+      "translation": "¡Acabo de pasar de tan a guau!"
+    },
+    {
+      "word": "Kim is such a kidder",
+      "translation": "Kim es tan bromista"
+    },
+    {
+      "word": "Cooties",
+      "translation": "piojos"
+    },
+    {
+      "word": "Thanks for having me over",
+      "translation": "gracias por invitarme/recibirme"
+    },
+    {
+      "word": "Retch (verbo)",
+      "translation": "tener arcadas, tener náuseas"
+    },
+    {
+      "word": "Outstanding!",
+      "translation": "¡Excelente!"
+    },
+    {
+      "word": "The Hephaestus Project is a go!",
+      "translation": "¡El Proyecto Hefesto está en marcha!"
+    },
+    {
+      "word": "Belly-flips",
+      "translation": "volteretas, panzadas"
+    },
+    {
+      "word": "Give me lip",
+      "translation": "soltarme un labio"
+    },
+    {
+      "word": "Has society just gone completely to seed?!",
+      "translation": "¡¿Se ha vuelto la sociedad completamente"
+    },
+    {
+      "word": "Your rant",
+      "translation": "tu despotricar (en sustantivo)"
+    },
+    {
+      "word": "A few eggheads (no literal)",
+      "translation": "unos pocos cerebritos"
+    },
+    {
+      "word": "Voice print",
+      "translation": "impresión de voz"
+    },
+    {
+      "word": "I've been just dying to use it (frase no literal)",
+      "translation": "me muero de ganas por usarlo"
+    },
+    {
+      "word": "Pager beeps (acotación)",
+      "translation": "pitidos del buscapersonas"
+    },
+    {
+      "word": "Your clip-on-tie",
+      "translation": "tu corbata de pinza"
+    },
+    {
+      "word": "Clipped off (traducción cercana)",
+      "translation": "cortado"
+    },
+    {
+      "word": "Assistant manager",
+      "translation": "subdirector"
+    },
+    {
+      "word": "Home office",
+      "translation": "la oficina central"
+    },
+    {
+      "word": "Your father is in quite a pickle (frase no literal)",
+      "translation": "tu padre está en un buen aprieto"
+    },
+    {
+      "word": "You got it going on",
+      "translation": "lo tienes en marcha"
+    },
+    {
+      "word": "Why did evil dude pull the dad-napping anyway?",
+      "translation": "¿Por qué el tipo malo secuestró al"
+    },
+    {
+      "word": "I can crack Drakken's sicko plots no prob",
+      "translation": "puedo descifrar las tramas enfermizas de"
+    },
+    {
+      "word": "Hoops",
+      "translation": "aros"
+    },
+    {
+      "word": "Wanna go get a bite? (pregunta no literal)",
+      "translation": "¿Quieres ir a comer algo?"
+    },
+    {
+      "word": "Teen-zine junk",
+      "translation": "basura adolescente"
+    },
+    {
+      "word": "Figure out",
+      "translation": "averiguar, descifrar, determinar"
+    },
+    {
+      "word": "I'm due at a board of directors meeting",
+      "translation": "tengo que ir a una reunión del consejo de"
+    },
+    {
+      "word": "A hostile takeover",
+      "translation": "una adquisición hostil"
+    },
+    {
+      "word": "Put the slingshot down",
+      "translation": "baja el tirachinas"
+    },
+    {
+      "word": "You beaned him with the slingshot",
+      "translation": "lo golpeaste con el tirachinas"
+    },
+    {
+      "word": "Sketchy",
+      "translation": "vago, impreciso"
+    },
+    {
+      "word": "To go (en términos de pedir comida)",
+      "translation": "para llevar"
+    },
+    {
+      "word": "I'm down with Erik",
+      "translation": "estoy de acuerdo con Erik"
+    },
+    {
+      "word": "Wheezes (acotación)",
+      "translation": "silbidos, sibilancias"
+    },
+    {
+      "word": "We'll always be tight",
+      "translation": "siempre estaremos unidos/juntos"
+    },
+    {
+      "word": "They locked braces",
+      "translation": "cerraron los frenos/aparatos"
+    },
+    {
+      "word": "Yapping about my feelings",
+      "translation": "hablando de mis sentimientos"
+    },
+    {
+      "word": "We're talking total flame-out!",
+      "translation": "¡Estamos hablando de un apagón total!"
+    },
+    {
+      "word": "Get a few shots?",
+      "translation": "¿Tomar algunos chupitos?, ¿Tomar unos tragos?"
+    },
+    {
+      "word": "Get your shine on (frase no literal)",
+      "translation": "lúcete"
+    },
+    {
+      "word": "Snap out of it",
+      "translation": "espabilar, reaccionar"
+    },
+    {
+      "word": "Gibber (verbo)",
+      "translation": "farfullar"
+    },
+    {
+      "word": "The bendy straws",
+      "translation": "los popotes flexibles, las bombillas flexibles"
+    },
+    {
+      "word": "Concern",
+      "translation": "inquietud, preocupación"
+    },
+    {
+      "word": "Have words with the head honcho",
+      "translation": "hablar con el jefe"
+    },
+    {
+      "word": "Throttle squeaks",
+      "translation": "chirridos del acelerador"
+    },
+    {
+      "word": "Chugs weakly",
+      "translation": "avanza débilmente"
+    },
+    {
+      "word": "Give out",
+      "translation": "distribuir"
+    },
+    {
+      "word": "Voice match",
+      "translation": "coincidencia de voz"
+    },
+    {
+      "word": "Give away",
+      "translation": "regalar, sortear"
+    },
+    {
+      "word": "There's a snag (frase no literal)",
+      "translation": "hay un problema, hay un inconveniente"
+    },
+    {
+      "word": "Run out (en términos no relacionados con el tiempo)",
+      "translation": "irse, salir corriendo"
+    },
+    {
+      "word": "The craze is off the chain (frase no literal)",
+      "translation": "la locura se ha desatado"
+    },
+    {
+      "word": "Blast off!",
+      "translation": "¡Arranca!, ¡Despega!"
+    },
+    {
+      "word": "The Diablo has shut down and shrunk down",
+      "translation": "el Diablo se ha apagado y encogido"
+    },
+    {
+      "word": "Foil (verbo)",
+      "translation": "frustrar, detener, arruinar"
+    },
+    {
+      "word": "She popped by",
+      "translation": "ella pasó por"
+    },
+    {
+      "word": "Knockout gas",
+      "translation": "gas nocivo"
+    },
+    {
+      "word": "Lip gloss",
+      "translation": "brillo labial"
+    },
+    {
+      "word": "Scrambler",
+      "translation": "codificador, decodificador"
+    },
+    {
+      "word": "High squeaky voice",
+      "translation": "voz aguda y chillona"
+    },
+    {
+      "word": "You were down for the count (frase no literal)",
+      "translation": "estabas fuera de combate"
+    },
+    {
+      "word": "That's quitter talk!",
+      "translation": "¡Eso es hablar como un rendido!"
+    },
+    {
+      "word": "This pity fiesta is over",
+      "translation": "esta fiesta de lástima se acabó"
+    },
+    {
+      "word": "It's payback time",
+      "translation": "es hora de la venganza"
+    },
+    {
+      "word": "Breakthrough",
+      "translation": "avance"
+    },
+    {
+      "word": "And to really stick a pin in it, one made-to-order syntho-hottie",
+      "translation": "y por si fuera poco,"
+    },
+    {
+      "word": "As you went along",
+      "translation": "a medida que avanzabas"
+    },
+    {
+      "word": "The slumber parties",
+      "translation": "las pijamadas"
+    },
+    {
+      "word": "Don't be dissing him",
+      "translation": "no lo menosprecies"
+    },
+    {
+      "word": "Crack (sustantivo)",
+      "translation": "grieta"
+    },
+    {
+      "word": "This little dude holds a grudge",
+      "translation": "este amiguito guarda rencor"
+    },
+    {
+      "word": "The worldwide Diablo destruction is itself disabled",
+      "translation": "la destrucción mundial de Diablo"
+    },
+    {
+      "word": "Beside me",
+      "translation": "a mi lado"
+    }
+  ]
+}

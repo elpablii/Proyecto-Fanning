@@ -1,0 +1,810 @@
+{
+  "title": "I-Tonya",
+  "englishAnalysis": "Un festín de acentos regionales americanos, específicamente de clase trabajadora. El lenguaje es muy coloquial, a menudo explícito, y está lleno de justificaciones, sarcasmo y jerga de patinaje artístico ('triple axel', 'landing', 'judges'). Un gran reto para entender inglés no estándar.",
+  "vocabulary": [
+    {
+      "word": "Right there",
+      "translation": "justo ahí"
+    },
+    {
+      "word": "Handful",
+      "translation": "puñado"
+    },
+    {
+      "word": "Sew (verbo)",
+      "translation": "coser"
+    },
+    {
+      "word": "Pop up",
+      "translation": "aparecer de repente"
+    },
+    {
+      "word": "Disable (verbo alusivo a una persona)",
+      "translation": "incapacitar"
+    },
+    {
+      "word": "Disable (verbo general)",
+      "translation": "desactivar"
+    },
+    {
+      "word": "A pretty crappy show",
+      "translation": "un espectáculo bastante malo"
+    },
+    {
+      "word": "News outlets",
+      "translation": "medios de comunicación"
+    },
+    {
+      "word": "Look down on",
+      "translation": "mirar con desprecio"
+    },
+    {
+      "word": "Bash (verbo)",
+      "translation": "atacar duramente"
+    },
+    {
+      "word": "Kneecap",
+      "translation": "rotula (hueso de la rodilla)"
+    },
+    {
+      "word": "That was cool though",
+      "translation": "eso estuvo lo suficientemente bien"
+    },
+    {
+      "word": "Redneck",
+      "translation": "sureño"
+    },
+    {
+      "word": "Frigging",
+      "translation": "maldito, jodido"
+    },
+    {
+      "word": "Old-timey version",
+      "translation": "versión antigua"
+    },
+    {
+      "word": "Land (verbo en términos de patinaje artístico)",
+      "translation": "conseguir"
+    },
+    {
+      "word": "I don’t take on students this young",
+      "translation": "no acepto estudiantes tan jóvenes"
+    },
+    {
+      "word": "Cunt (despectivo)",
+      "translation": "coño"
+    },
+    {
+      "word": "Get over here",
+      "translation": "ven aquí"
+    },
+    {
+      "word": "Scum-sucking (despectivo)",
+      "translation": "chupa-escoria"
+    },
+    {
+      "word": "Enraged",
+      "translation": "enfurecido"
+    },
+    {
+      "word": "Aim (verbo)",
+      "translation": "apuntar"
+    },
+    {
+      "word": "Otherwise I could’ve got her",
+      "translation": "si no, la habría conseguido"
+    },
+    {
+      "word": "Shoot off",
+      "translation": "disparar"
+    },
+    {
+      "word": "Deadline",
+      "translation": "fecha límite"
+    },
+    {
+      "word": "Tassel",
+      "translation": "borla"
+    },
+    {
+      "word": "Spit in",
+      "translation": "escupir"
+    },
+    {
+      "word": "Fur coat",
+      "translation": "abrigo de piel"
+    },
+    {
+      "word": "Prissy",
+      "translation": "meticuloso, quisquilloso"
+    },
+    {
+      "word": "Well-rounded",
+      "translation": "completo, equilibrado"
+    },
+    {
+      "word": "Fit in",
+      "translation": "adaptarse, encajar"
+    },
+    {
+      "word": "Chop (verbo)",
+      "translation": "cortar (algo con un cuchillo o hacha)"
+    },
+    {
+      "word": "Throw away",
+      "translation": "desechar, tirar"
+    },
+    {
+      "word": "Lick (verbo)",
+      "translation": "chupar, lamer"
+    },
+    {
+      "word": "I had to come up with a way to get it",
+      "translation": "tuve que encontrar una manera de conseguirlo"
+    },
+    {
+      "word": "Night shift",
+      "translation": "turno de noche"
+    },
+    {
+      "word": "Look after",
+      "translation": "cuidar, atender"
+    },
+    {
+      "word": "Ice rink",
+      "translation": "pista de hielo"
+    },
+    {
+      "word": "Back then",
+      "translation": "en aquel entonces"
+    },
+    {
+      "word": "Bragger",
+      "translation": "fanfarrón, presumido"
+    },
+    {
+      "word": "Laid off",
+      "translation": "despedido"
+    },
+    {
+      "word": "Tighten (verbo)",
+      "translation": "apretar, ajustar"
+    },
+    {
+      "word": "Kisser",
+      "translation": "besador"
+    },
+    {
+      "word": "The only catch was",
+      "translation": "el único inconveniente fue"
+    },
+    {
+      "word": "He beat the living hell out of me",
+      "translation": "me dió una paliza"
+    },
+    {
+      "word": "A pretty meek guy",
+      "translation": "un chico bastante manso"
+    },
+    {
+      "word": "Wallop",
+      "translation": "golpe fuerte"
+    },
+    {
+      "word": "Shiner",
+      "translation": "ojo morado"
+    },
+    {
+      "word": "Help out",
+      "translation": "ayudar"
+    },
+    {
+      "word": "Up next",
+      "translation": "a continuación"
+    },
+    {
+      "word": "Out-skate",
+      "translation": "superar (a alguien en patinaje)"
+    },
+    {
+      "word": "A graceless bull dyke",
+      "translation": "una lesbiana torpe"
+    },
+    {
+      "word": "Alimony",
+      "translation": "pensión alimenticia"
+    },
+    {
+      "word": "Talk back",
+      "translation": "contestar, responder (de manera desafiante)"
+    },
+    {
+      "word": "Roll (verbo)",
+      "translation": "rodar, poner"
+    },
+    {
+      "word": "Get away",
+      "translation": "alejarse"
+    },
+    {
+      "word": "Tulle",
+      "translation": "tul (tipo de tela)"
+    },
+    {
+      "word": "Classy",
+      "translation": "elegante, sofisticado"
+    },
+    {
+      "word": "Look into",
+      "translation": "investigar, indagar"
+    },
+    {
+      "word": "Sewing (sustantivo)",
+      "translation": "costura"
+    },
+    {
+      "word": "Jelly",
+      "translation": "gelatina"
+    },
+    {
+      "word": "Go off",
+      "translation": "seguir, salir"
+    },
+    {
+      "word": "A fair shot",
+      "translation": "una oportunidad justa"
+    },
+    {
+      "word": "Work off",
+      "translation": "trabajar duro (para saldar una deuda)"
+    },
+    {
+      "word": "Due (sustantivo)",
+      "translation": "deuda"
+    },
+    {
+      "word": "Drill press",
+      "translation": "taladro de banco"
+    },
+    {
+      "word": "Do welding (verbo)",
+      "translation": "hacer soldadura"
+    },
+    {
+      "word": "Take off",
+      "translation": "despegar"
+    },
+    {
+      "word": "Hurl (verbo)",
+      "translation": "lanzar, arrojar"
+    },
+    {
+      "word": "Light (adjetivo)",
+      "translation": "ligero, brillante"
+    },
+    {
+      "word": "Land on the opposite foot on the back",
+      "translation": "aterriza con el pie contrario en la espalda"
+    },
+    {
+      "word": "Outside edge of a razor-thin blade",
+      "translation": "en el borde exterior de una hoja peligrosamente"
+    },
+    {
+      "word": "It was bad-ass",
+      "translation": "Estuvo genial"
+    },
+    {
+      "word": "Trashy",
+      "translation": "de mala calidad"
+    },
+    {
+      "word": "Double-wide",
+      "translation": "casa móvil (de dos unidades)"
+    },
+    {
+      "word": "Whether",
+      "translation": "si (condición), ya sea"
+    },
+    {
+      "word": "Three moves into the program",
+      "translation": "tres movimientos dentro del programa"
+    },
+    {
+      "word": "Nicely done",
+      "translation": "bien hecho, excelente"
+    },
+    {
+      "word": "Lead up to",
+      "translation": "llevar a, conducir a"
+    },
+    {
+      "word": "Blindsided",
+      "translation": "sorprendido"
+    },
+    {
+      "word": "Amount (verbo)",
+      "translation": "ser igual a, equivaler a"
+    },
+    {
+      "word": "Pile",
+      "translation": "montón, pila"
+    },
+    {
+      "word": "Hang up",
+      "translation": "colgar (una llamada)"
+    },
+    {
+      "word": "Do you mind dialing that number back?",
+      "translation": "¿Te importaría volver a marcar ese número?"
+    },
+    {
+      "word": "I’ve been a co-op specialist",
+      "translation": "he trabajado como especialista en copropiedad"
+    },
+    {
+      "word": "Hostage retrieval",
+      "translation": "rescate de rehenes"
+    },
+    {
+      "word": "Expertise",
+      "translation": "competencia"
+    },
+    {
+      "word": "I’m as resourceful as a lizard",
+      "translation": "soy tan ingenioso como un lagarto"
+    },
+    {
+      "word": "Hone (verbo)",
+      "translation": "afinar, pulir, perfeccionar"
+    },
+    {
+      "word": "Blend (verbo)",
+      "translation": "mezclar, combinar"
+    },
+    {
+      "word": "Go back",
+      "translation": "volver, regresar"
+    },
+    {
+      "word": "Fricking curse",
+      "translation": "maldita maldición"
+    },
+    {
+      "word": "Lay-back (sustantivo)",
+      "translation": "descanso, reposo"
+    },
+    {
+      "word": "A lay-back spin",
+      "translation": "un giro relajado"
+    },
+    {
+      "word": "Dizzy",
+      "translation": "mareado"
+    },
+    {
+      "word": "Break off",
+      "translation": "romper"
+    },
+    {
+      "word": "Skate blade",
+      "translation": "cuchilla de patinaje"
+    },
+    {
+      "word": "And they put it back on a little off",
+      "translation": "la volvieron a poner un poco desnivelada"
+    },
+    {
+      "word": "All my landings were off",
+      "translation": "todos mis aterrizajes fueron fallidos"
+    },
+    {
+      "word": "Wind up",
+      "translation": "terminó, acabó"
+    },
+    {
+      "word": "Artistry",
+      "translation": "arte, habilidad"
+    },
+    {
+      "word": "Drop off",
+      "translation": "dejar (algo)"
+    },
+    {
+      "word": "Stand back",
+      "translation": "apartarse, retroceder"
+    },
+    {
+      "word": "Pull over",
+      "translation": "detenerse al costado del camino"
+    },
+    {
+      "word": "Jeff can talk his way out of anything",
+      "translation": "Jeff tiene una gran habilidad para convencer a"
+    },
+    {
+      "word": "Story line",
+      "translation": "trama, argumento"
+    },
+    {
+      "word": "Endorsement deals",
+      "translation": "contratos de patrocinio"
+    },
+    {
+      "word": "Shift at Spud City",
+      "translation": "turno en Spud City"
+    },
+    {
+      "word": "Unskilled",
+      "translation": "inexperto"
+    },
+    {
+      "word": "Blue nail polish",
+      "translation": "esmalte de uñas azul"
+    },
+    {
+      "word": "Wholesome",
+      "translation": "saludable, bueno, puro"
+    },
+    {
+      "word": "Play along",
+      "translation": "jugar, seguir el juego"
+    },
+    {
+      "word": "Pull out",
+      "translation": "sacar, retirar"
+    },
+    {
+      "word": "You’re a taker",
+      "translation": "te aprovechas de los demás"
+    },
+    {
+      "word": "Heartbeat",
+      "translation": "latido del corazón"
+    },
+    {
+      "word": "Apple brown betties",
+      "translation": "brown betties de manzana"
+    },
+    {
+      "word": "Hold on",
+      "translation": "aguantar, esperar"
+    },
+    {
+      "word": "Whack (verbo)",
+      "translation": "golpear"
+    },
+    {
+      "word": "Venue",
+      "translation": "lugar"
+    },
+    {
+      "word": "Screw (verbo en sentido denotativo)",
+      "translation": "joderse"
+    },
+    {
+      "word": "Sort of even the playing field",
+      "translation": "algo así como nivelar el campo de juego"
+    },
+    {
+      "word": "Prim and proper",
+      "translation": "formal y apropiado"
+    },
+    {
+      "word": "Greenhorn",
+      "translation": "novato, inexperto"
+    },
+    {
+      "word": "It’ll be postmarked",
+      "translation": "será enviado por correo"
+    },
+    {
+      "word": "Takes the suspicion off of us",
+      "translation": "nos quita las sospechas de encima"
+    },
+    {
+      "word": "Ought to",
+      "translation": "debería"
+    },
+    {
+      "word": "Dumpster",
+      "translation": "contenedor de basura"
+    },
+    {
+      "word": "Tonya was in on planning it",
+      "translation": "Tonya estaba involucrada en la planificación"
+    },
+    {
+      "word": "Top operatives",
+      "translation": "agentes principales, agentes del más alto nivel"
+    },
+    {
+      "word": "He needs expense money",
+      "translation": "él necesita dinero para gastos"
+    },
+    {
+      "word": "Call off",
+      "translation": "cancelar, suspender, dejar sin efecto"
+    },
+    {
+      "word": "Double-cross (verbo)",
+      "translation": "engañar, traicionar"
+    },
+    {
+      "word": "Lay (verbo)",
+      "translation": "colocar, poner"
+    },
+    {
+      "word": "In a story populated solely by boobs",
+      "translation": "en una historia poblada únicamente de bobos"
+    },
+    {
+      "word": "Spot",
+      "translation": "lugar, punto"
+    },
+    {
+      "word": "Flow in",
+      "translation": "fluir, llegar en abundancia"
+    },
+    {
+      "word": "Blank tape",
+      "translation": "cassette virgen, cinta virgen"
+    },
+    {
+      "word": "Tape over",
+      "translation": "grabar (en un cassette o vhs)"
+    },
+    {
+      "word": "I’m a has-been",
+      "translation": "soy un éxito pasado"
+    },
+    {
+      "word": "Stand around",
+      "translation": "quedarse sin hacer nada"
+    },
+    {
+      "word": "Pull off",
+      "translation": "lograr (algo con éxito)"
+    },
+    {
+      "word": "Clueless",
+      "translation": "desorientado, despistado"
+    },
+    {
+      "word": "Trail",
+      "translation": "rastro, pista"
+    },
+    {
+      "word": "Get straight",
+      "translation": "arreglar, solucionar"
+    },
+    {
+      "word": "Alibis",
+      "translation": "coartadas, excusas"
+    },
+    {
+      "word": "Endorsement",
+      "translation": "respaldo, apoyo"
+    },
+    {
+      "word": "What do you make of all this? (informal)",
+      "translation": "¿Qué sacas en claro de todo esto?"
+    },
+    {
+      "word": "Whip (verbo)",
+      "translation": "golpear, azotar (con fuerza)"
+    },
+    {
+      "word": "A thorough investigation",
+      "translation": "una investigación exhaustiva"
+    },
+    {
+      "word": "Outsmart (verbo)",
+      "translation": "superar en inteligencia"
+    },
+    {
+      "word": "And deep in cover",
+      "translation": "y escondido profundamente"
+    },
+    {
+      "word": "Withstand (verbo)",
+      "translation": "resistir, aguantar, soportar"
+    },
+    {
+      "word": "A retractable baton",
+      "translation": "un bastón retráctil"
+    },
+    {
+      "word": "Shortbread",
+      "translation": "galletas de mantequilla"
+    },
+    {
+      "word": "At the stroke of midnight",
+      "translation": "a la medianoche"
+    },
+    {
+      "word": "They know something is up",
+      "translation": "ellos sospechan de algo"
+    },
+    {
+      "word": "Tub of guts",
+      "translation": "baúl de entrañas"
+    },
+    {
+      "word": "Stick together (verbo)",
+      "translation": "permanecer juntos"
+    },
+    {
+      "word": "If it ever came down to that",
+      "translation": "si alguna vez llegara a eso"
+    },
+    {
+      "word": "And since they can’t pin anything on us",
+      "translation": "y como no pueden culparnos de nada"
+    },
+    {
+      "word": "The one who was power mad",
+      "translation": "el que estaba enloquecido de poder"
+    },
+    {
+      "word": "The association convenes a hearing panel",
+      "translation": "la asociación convoca a un panel de audiencia"
+    },
+    {
+      "word": "Grounds",
+      "translation": "motivos, fundamentos"
+    },
+    {
+      "word": "I pled guilty",
+      "translation": "me declaré culpable"
+    },
+    {
+      "word": "Cover it all up",
+      "translation": "taparlo todo, encubrirlo todo"
+    },
+    {
+      "word": "She put out a red velvet rope",
+      "translation": "ella colocó una cuerda de terciopelo rojo"
+    },
+    {
+      "word": "I made bail",
+      "translation": "pagué la fianza, salí bajo fianza"
+    },
+    {
+      "word": "Racketeering",
+      "translation": "chantaje, extorsión"
+    },
+    {
+      "word": "A punch line",
+      "translation": "el remate de un chiste"
+    },
+    {
+      "word": "All over again",
+      "translation": "de nuevo"
+    },
+    {
+      "word": "Attacker",
+      "translation": "atacantes, agresores"
+    },
+    {
+      "word": "Strive (verbo)",
+      "translation": "esforzarse, luchar"
+    },
+    {
+      "word": "Insiders",
+      "translation": "conocedores, personas con información privilegiada"
+    },
+    {
+      "word": "Stumbling blocks",
+      "translation": "obstáculos, dificultades"
+    },
+    {
+      "word": "Pursue (verbo)",
+      "translation": "perseguir"
+    },
+    {
+      "word": "Hair pulled back",
+      "translation": "pelo recogido"
+    },
+    {
+      "word": "Hold up",
+      "translation": "aguantar, esperar"
+    },
+    {
+      "word": "I still meant everything I said",
+      "translation": "todavía quiero decir todo lo que dije"
+    },
+    {
+      "word": "Flat (verbo)",
+      "translation": "desinflar"
+    },
+    {
+      "word": "Tow (verbo)",
+      "translation": "remolcar"
+    },
+    {
+      "word": "We’re hanging on by a thread",
+      "translation": "estamos colgando de un hilo"
+    },
+    {
+      "word": "Fair and square",
+      "translation": "de manera justa y honesta"
+    },
+    {
+      "word": "Doesn’t strike everyone that way",
+      "translation": "no impresiona a todo el mundo de la misma manera"
+    },
+    {
+      "word": "Rink",
+      "translation": "pista de patinaje sobre hielo"
+    },
+    {
+      "word": "Catch (verbo)",
+      "translation": "atrapar"
+    },
+    {
+      "word": "Frailing to",
+      "translation": "fracasar en, no poder"
+    },
+    {
+      "word": "Ginormous ratings",
+      "translation": "cifras de audiencia gigantescas"
+    },
+    {
+      "word": "Showdown",
+      "translation": "enfrentamiento"
+    },
+    {
+      "word": "The public address",
+      "translation": "el altavoz público"
+    },
+    {
+      "word": "Warm-up",
+      "translation": "calentamiento, precalentamiento"
+    },
+    {
+      "word": "A set amount of time",
+      "translation": "un periodo de tiempo determinado"
+    },
+    {
+      "word": "Lace",
+      "translation": "cordón"
+    },
+    {
+      "word": "Defendant, please rise",
+      "translation": "acusado, por favor levántese"
+    },
+    {
+      "word": "Hereby",
+      "translation": "por el presente"
+    },
+    {
+      "word": "So ordered",
+      "translation": "así se ordena"
+    },
+    {
+      "word": "Hindering the prosecution",
+      "translation": "obstrucción de la justicia"
+    },
+    {
+      "word": "I think that’s uncalled for",
+      "translation": "creo que eso está fuera de lugar"
+    },
+    {
+      "word": "Pals",
+      "translation": "amigos, camaradas"
+    },
+    {
+      "word": "Rear of the building",
+      "translation": "parte trasera del edificio"
+    },
+    {
+      "word": "Pay the bills",
+      "translation": "pagar las cuentas"
+    },
+    {
+      "word": "Hopefully",
+      "translation": "ojalá"
+    }
+  ]
+}

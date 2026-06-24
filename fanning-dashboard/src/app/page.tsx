@@ -17,8 +17,9 @@ interface VocabItem {
 }
 
 import { tmdbOverrides } from '@/lib/tmdb';
+import Link from 'next/link';
 
-const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count: number, dialogues?: number, onClick: (posterUrl: string | null) => void }) => {
+const MovieCard = ({ title, count, dialogues, href }: { title: string, count: number, dialogues?: number, href: string }) => {
   const [posterUrl, setPosterUrl] = useState<string | null>(null);
 
   useEffect(() => {
@@ -30,7 +31,7 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
         if (savedOverrides[title]) {
           // Fetch directo por ID manual
           const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
-          fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[title]}?api_key=${apiKey}&language=es-MX`)
+          fetch(`https://api.themoviedb.org/3/movie/${savedOverrides[title]}?api_key=${apiKey}&language=en-US`)
             .then(res => res.json())
             .then(data => {
               if (data.poster_path) {
@@ -74,7 +75,7 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
       }
     }
 
-    fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=es-MX&include_image_language=en,null${extraParams}`)
+    fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=en-US${extraParams}`)
       .then(res => res.json())
       .then(data => {
         if (data.results && data.results.length > 0) {
@@ -89,7 +90,7 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
   }, [title]);
 
   return (
-    <div onClick={() => onClick(posterUrl)} className="group relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:border-purple-500 hover:scale-105 transition-all duration-300 cursor-pointer">
+    <Link href={href} className="group relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:border-purple-500 hover:scale-105 transition-all duration-300 cursor-pointer block">
       {posterUrl ? (
         <img src={posterUrl} alt={title} className="w-full aspect-[2/3] object-cover transition-transform duration-700 group-hover:scale-110" />
       ) : (
@@ -104,7 +105,7 @@ const MovieCard = ({ title, count, dialogues, onClick }: { title: string, count:
       <div className="absolute bottom-0 left-0 right-0 p-4">
         <h4 className="text-sm font-bold text-white leading-tight drop-shadow-md mb-1">{title}</h4>
       </div>
-    </div>
+    </Link>
   );
 };
 
@@ -133,6 +134,13 @@ export default function Dashboard() {
         setLoading(false);
       })
       .catch(err => console.error("Error cargando manifest:", err));
+      
+    // Recuperar el ciclo desde la URL al cargar
+    if (typeof window !== 'undefined') {
+        const params = new URLSearchParams(window.location.search);
+        const y = params.get('year');
+        if (y) setSelectedYear(y);
+    }
   }, []);
 
   useEffect(() => {
@@ -188,12 +196,14 @@ export default function Dashboard() {
         </div>
       </header>
 
-      {/* Selector de Años */}
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
         {["all", "2023", "2024", "2025", "2026", "2027"].map((year) => (
           <button
             key={year}
-            onClick={() => setSelectedYear(year)}
+            onClick={() => {
+                setSelectedYear(year);
+                window.history.pushState(null, '', `/?year=${year}`);
+            }}
             className={`px-5 py-2 rounded-full font-medium transition ${selectedYear === year
               ? "bg-purple-600 text-white shadow-lg shadow-purple-900/40"
               : "bg-gray-900 text-gray-400 hover:text-white hover:bg-gray-800"
@@ -335,22 +345,21 @@ export default function Dashboard() {
         </h2>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-          {stats.movieList.map((movie, idx) => (
-            <MovieCard
-              key={idx}
-              title={movie.title}
-              count={movie.count}
-              dialogues={movie.dialogues}
-              onClick={(posterUrl) => {
-                const specialSeries = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville'];
-                if (specialSeries.includes(movie.title.toLowerCase())) {
-                  router.push(`/series/${encodeURIComponent(movie.title)}`);
-                } else {
-                  router.push(`/peliculas/${encodeURIComponent(movie.title)}`);
-                }
-              }}
-            />
-          ))}
+          {stats.movieList.map((movie, idx) => {
+            const specialSeries = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville'];
+            const isSeries = specialSeries.includes(movie.title.toLowerCase());
+            const href = isSeries ? `/series/${encodeURIComponent(movie.title)}` : `/peliculas/${encodeURIComponent(movie.title)}`;
+            
+            return (
+              <MovieCard
+                key={idx}
+                title={movie.title}
+                count={movie.count}
+                dialogues={movie.dialogues}
+                href={href}
+              />
+            );
+          })}
         </div>
       </div>
 

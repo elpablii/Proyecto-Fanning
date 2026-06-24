@@ -1,0 +1,462 @@
+{
+  "title": "Top Gun",
+  "englishAnalysis": "Inglés militar estadounidense de la Guerra Fría saturado de jerga de aviación ('bogey', 'mach', 'wingman') y mucha actitud. Acentos fuertes y lenguaje directo y asertivo bajo presión.",
+  "vocabulary": [
+    {
+      "word": "Inbound",
+      "translation": "entrada"
+    },
+    {
+      "word": "Closure",
+      "translation": "cierre"
+    },
+    {
+      "word": "Head-to-head (adverbio)",
+      "translation": "cara a cara"
+    },
+    {
+      "word": "I'm gonna break high and right",
+      "translation": "voy a romper alto y derecho"
+    },
+    {
+      "word": "He's coming around on our tail",
+      "translation": "nos está pisando los talones"
+    },
+    {
+      "word": "He’s bugging out",
+      "translation": "se está escapando"
+    },
+    {
+      "word": "At bearing (en términos militares)",
+      "translation": "en rodamiento"
+    },
+    {
+      "word": "Don't fire until fired upon",
+      "translation": "no dispares hasta que te disparen"
+    },
+    {
+      "word": "Birdle",
+      "translation": "pajarito"
+    },
+    {
+      "word": "I crack myself up",
+      "translation": "me parto de la risa"
+    },
+    {
+      "word": "We’re getting low on gas",
+      "translation": "nos estamos quedando sin gasolina"
+    },
+    {
+      "word": "Let's land this sucker",
+      "translation": "aterricemos a este imbécil"
+    },
+    {
+      "word": "Aircraft carrier",
+      "translation": "portaaviones"
+    },
+    {
+      "word": "I'll take you all the way in",
+      "translation": "te llevaré hasta dentro"
+    },
+    {
+      "word": "You're a little low",
+      "translation": "estás un poco deprimido/decaído"
+    },
+    {
+      "word": "Pull up",
+      "translation": "levantar"
+    },
+    {
+      "word": "Glide path",
+      "translation": "trayectoria de planeo"
+    },
+    {
+      "word": "Sickbay",
+      "translation": "enfermería"
+    },
+    {
+      "word": "Orphan (verbo)",
+      "translation": "dejar huérfano"
+    },
+    {
+      "word": "I'm holding on too tight",
+      "translation": "me estoy agarrando demasiado fuerte"
+    },
+    {
+      "word": "Taxpayers",
+      "translation": "contribuyentes"
+    },
+    {
+      "word": "Cash (verbo)",
+      "translation": "cobrar"
+    },
+    {
+      "word": "You've been busted",
+      "translation": "te han pillado"
+    },
+    {
+      "word": "Don't screw around with me",
+      "translation": "no juegues conmigo"
+    },
+    {
+      "word": "Bust your butt",
+      "translation": "romper el culo"
+    },
+    {
+      "word": "Kill ratio",
+      "translation": "índice de mortalidad, tasa de mortalidad"
+    },
+    {
+      "word": "Dogfighting skills",
+      "translation": "habilidades de combate aéreo"
+    },
+    {
+      "word": "A hard-on",
+      "translation": "una erección"
+    },
+    {
+      "word": "Blinds",
+      "translation": "persianas"
+    },
+    {
+      "word": "The tip of the spear",
+      "translation": "la punta de la lanza"
+    },
+    {
+      "word": "Best be sharp (frase no literal)",
+      "translation": "es mejor estar alerta"
+    },
+    {
+      "word": "Dismissed",
+      "translation": "retírense, pueden retirarse"
+    },
+    {
+      "word": "Nice going",
+      "translation": "bien hecho"
+    },
+    {
+      "word": "Get laid",
+      "translation": "tener sexo"
+    },
+    {
+      "word": "Just wears you down (frase no literal)",
+      "translation": "sólo te agota"
+    },
+    {
+      "word": "Solo (verbo)",
+      "translation": "quedarse solo"
+    },
+    {
+      "word": "Tenderness",
+      "translation": "ternura"
+    },
+    {
+      "word": "Fingertips",
+      "translation": "yemas de los dedos"
+    },
+    {
+      "word": "Callsign",
+      "translation": "indicativo"
+    },
+    {
+      "word": "Just drop right down on the tile",
+      "translation": "sólo tienes que bajar a la derecha en el azulejo"
+    },
+    {
+      "word": "Enemy aircraft",
+      "translation": "aviones enemigos"
+    },
+    {
+      "word": "Thrust-to-weight ratio",
+      "translation": "relación empuje-peso"
+    },
+    {
+      "word": "And it doesn't bleed energy below 300 knots",
+      "translation": "y no pierde energía por debajo de 300"
+    },
+    {
+      "word": "A negative-g pushover",
+      "translation": "un pusilánime en negativo"
+    },
+    {
+      "word": "Dive (sustantivo)",
+      "translation": "inmersión"
+    },
+    {
+      "word": "Pull through",
+      "translation": "atravesar, tirar a través de"
+    },
+    {
+      "word": "We have a hop to take",
+      "translation": "tenemos un salto que dar"
+    },
+    {
+      "word": "Hotshots",
+      "translation": "pilotos, soldados"
+    },
+    {
+      "word": "Showboat (verbo)",
+      "translation": "alardear, fanfarronear, presumir"
+    },
+    {
+      "word": "Hop",
+      "translation": "salto"
+    },
+    {
+      "word": "Run (sustantivo)",
+      "translation": "carrera"
+    },
+    {
+      "word": "He’ll fly right by",
+      "translation": "él pasará volando"
+    },
+    {
+      "word": "Flyby",
+      "translation": "sobrevuelo"
+    },
+    {
+      "word": "Snot-nosed",
+      "translation": "mocoso"
+    },
+    {
+      "word": "His fitness report",
+      "translation": "su informe de aptitud física"
+    },
+    {
+      "word": "Rolling reversal",
+      "translation": "inversión de marcha"
+    },
+    {
+      "word": "Fancy flying",
+      "translation": "fantasía de volar"
+    },
+    {
+      "word": "That evens it up",
+      "translation": "eso iguala las cosas"
+    },
+    {
+      "word": "You pussy! (despectivo)",
+      "translation": "¡Marica!"
+    },
+    {
+      "word": "I got so sick on it",
+      "translation": "me enfermé mucho con eso"
+    },
+    {
+      "word": "Stink (sustantivo)",
+      "translation": "peste, hedor"
+    },
+    {
+      "word": "Get straight",
+      "translation": "ponerse derecho"
+    },
+    {
+      "word": "Freeze-frame (verbo)",
+      "translation": "congelar"
+    },
+    {
+      "word": "Gunsight",
+      "translation": "visor"
+    },
+    {
+      "word": "Gutsiest move",
+      "translation": "el movimiento más valiente"
+    },
+    {
+      "word": "But I held something back",
+      "translation": "pero retuve algo"
+    },
+    {
+      "word": "Knock it off",
+      "translation": "ya basta"
+    },
+    {
+      "word": "Buttnose",
+      "translation": "imbécil"
+    },
+    {
+      "word": "Wingman",
+      "translation": "copiloto"
+    },
+    {
+      "word": "Goodness gracious",
+      "translation": "Dios mío"
+    },
+    {
+      "word": "You went ballistic (informal)",
+      "translation": "te volviste loco"
+    },
+    {
+      "word": "Warn off",
+      "translation": "advertir, avisar"
+    },
+    {
+      "word": "Breaking wide open",
+      "translation": "abrirse de par en par"
+    },
+    {
+      "word": "You big stud!",
+      "translation": "¡Eres un gran semental!"
+    },
+    {
+      "word": "It's still up for grabs (frase no literal)",
+      "translation": "todavía está en juego"
+    },
+    {
+      "word": "Jet wash",
+      "translation": "lavado a chorro"
+    },
+    {
+      "word": "We got a flameout",
+      "translation": "tenemos un incendio"
+    },
+    {
+      "word": "It's coupling up",
+      "translation": "se está acoplando"
+    },
+    {
+      "word": "He's in a flat spin",
+      "translation": "está en un giro plano"
+    },
+    {
+      "word": "I’m pinned forward",
+      "translation": "estoy clavado hacia delante"
+    },
+    {
+      "word": "Handle (sustantivo)",
+      "translation": "manija"
+    },
+    {
+      "word": "Punch out",
+      "translation": "golpear, dar un puñetazo"
+    },
+    {
+      "word": "Canopy",
+      "translation": "toldo, marquesina"
+    },
+    {
+      "word": "You fly jets long enough",
+      "translation": "pilotas jets el tiempo suficiente"
+    },
+    {
+      "word": "Disruption",
+      "translation": "disrupción, interrupción"
+    },
+    {
+      "word": "Starboard",
+      "translation": "estribor"
+    },
+    {
+      "word": "Stall the engine",
+      "translation": "parar el motor"
+    },
+    {
+      "word": "Yaw rate",
+      "translation": "velocidad de giro"
+    },
+    {
+      "word": "Stall (sustantivo)",
+      "translation": "paro, calado (de un motor)"
+    },
+    {
+      "word": "Inquiry (sustantivo)",
+      "translation": "pregunta, consulta"
+    },
+    {
+      "word": "Without further delay",
+      "translation": "sin más demora"
+    },
+    {
+      "word": "At 2 o'clock low",
+      "translation": "a las 2 en punto bajo"
+    },
+    {
+      "word": "Saddle",
+      "translation": "sillín, silla, montura"
+    },
+    {
+      "word": "You've got that maneuver down real well",
+      "translation": "has dominado muy bien esa maniobra"
+    },
+    {
+      "word": "Firefly",
+      "translation": "luciérnaga"
+    },
+    {
+      "word": "And blow sunshine up your ass",
+      "translation": "y soplar un rayo de sol en tu culo"
+    },
+    {
+      "word": "Compel (verbo)",
+      "translation": "obligar, imponer"
+    },
+    {
+      "word": "Expertise",
+      "translation": "experiencia, conocimiento"
+    },
+    {
+      "word": "Radar intercept officer (RIO)",
+      "translation": "oficial de interceptación de radar"
+    },
+    {
+      "word": "Bogey (sustantivo informal en aviación)",
+      "translation": "avión no identificado"
+    },
+    {
+      "word": "Got them dead ahead",
+      "translation": "los tengo en la delantera"
+    },
+    {
+      "word": "Dead ahead, ten miles",
+      "translation": "a 10 millas, a 16 kilómetros"
+    },
+    {
+      "word": "I'm getting a hard-on",
+      "translation": "me estoy empalmando"
+    },
+    {
+      "word": "Drift (verbo)",
+      "translation": "desviar"
+    },
+    {
+      "word": "We're coming apart!",
+      "translation": "¡Nos estamos desmoronando!"
+    },
+    {
+      "word": "Get a bearing",
+      "translation": "consigue una orientación, consigue una posición"
+    },
+    {
+      "word": "Maverick's airborne",
+      "translation": "Maverick está en el aire"
+    },
+    {
+      "word": "Hang in there",
+      "translation": "aguanta, resiste"
+    },
+    {
+      "word": "I can't get him off my tail!",
+      "translation": "¡No puedo quitármelo de encima!"
+    },
+    {
+      "word": "I've got him dead ahead",
+      "translation": "lo tengo muy adelantado"
+    },
+    {
+      "word": "He overshot!",
+      "translation": "¡Se pasó!"
+    },
+    {
+      "word": "Banking left (expresión no literal)",
+      "translation": "a la izquierda"
+    },
+    {
+      "word": "Scratch (verbo)",
+      "translation": "rascar"
+    },
+    {
+      "word": "He's gonna get a lock on us!",
+      "translation": "¡Nos va a encerrar!"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "title": "Star Wars Episodio IV A New Hope",
+  "englishAnalysis": "El clásico original. Mezcla acentos británicos (Imperiales) y americanos (Rebeldes). Lenguaje militar espacial, misticismo ('the Force') y dicción clara típica del cine de los 70.",
+  "vocabulary": [
+    {
+      "word": "Set for stun",
+      "translation": "listos para aturdir"
+    },
+    {
+      "word": "Mindless",
+      "translation": "descerebrado"
+    },
+    {
+      "word": "You overweight glob of grease",
+      "translation": "glóbulo de grasa con sobrepeso"
+    },
+    {
+      "word": "Bold",
+      "translation": "audaz, atrevido"
+    },
+    {
+      "word": "Beam (verbo)",
+      "translation": "emitir, transmitir"
+    },
+    {
+      "word": "Jettison (verbo en algunos contextos)",
+      "translation": "lanzar, eyectar, expulsar, desechar"
+    },
+    {
+      "word": "Detachment",
+      "translation": "destacamento"
+    },
+    {
+      "word": "It's our lot in life (frase no literal)",
+      "translation": "es nuestro destino en la vida"
+    },
+    {
+      "word": "You nearsighted scrap pile",
+      "translation": "montón de chatarra miope"
+    },
+    {
+      "word": "I'm well-versed in all the customs",
+      "translation": "estoy bien informado de todas las costumbres"
+    },
+    {
+      "word": "Moisture vaporators",
+      "translation": "vaporizadores de humedad"
+    },
+    {
+      "word": "Why I should stick my neck out for you is quite beyond my capacity",
+      "translation": "no sé por qué"
+    },
+    {
+      "word": "Knowledgeable",
+      "translation": "conocedor, informado"
+    },
+    {
+      "word": "If you take my meaning",
+      "translation": "si entiendes lo que quiero decir"
+    },
+    {
+      "word": "Hermit",
+      "translation": "ermitaño"
+    },
+    {
+      "word": "Restraining bolt",
+      "translation": "perno de sujeción"
+    },
+    {
+      "word": "Innards",
+      "translation": "entrañas"
+    },
+    {
+      "word": "Flutter",
+      "translation": "aleteo"
+    },
+    {
+      "word": "I stumbled across a recording",
+      "translation": "me topé con una grabación"
+    },
+    {
+      "word": "Ridge",
+      "translation": "cresta"
+    },
+    {
+      "word": "He's nowhere in sight",
+      "translation": "él no está en la vista"
+    },
+    {
+      "word": "Blast it",
+      "translation": "maldita sea"
+    },
+    {
+      "word": "Excel (verbo)",
+      "translation": "sobresalir"
+    },
+    {
+      "word": "Dead ahead",
+      "translation": "adelante"
+    },
+    {
+      "word": "Wastes",
+      "translation": "yacimientos"
+    },
+    {
+      "word": "Startle (verbo)",
+      "translation": "asustar"
+    },
+    {
+      "word": "I’m done for",
+      "translation": "estoy acabado"
+    },
+    {
+      "word": "Spice freighter",
+      "translation": "carguero de especias"
+    },
+    {
+      "word": "A cunning warrior",
+      "translation": "un astuto guerrero"
+    },
+    {
+      "word": "Crusade",
+      "translation": "lucha"
+    },
+    {
+      "word": "Close down",
+      "translation": "cerrar"
+    },
+    {
+      "word": "Clumsy",
+      "translation": "torpe"
+    },
+    {
+      "word": "Blaster",
+      "translation": "explosivo"
+    },
+    {
+      "word": "Bind (verbo)",
+      "translation": "unir"
+    },
+    {
+      "word": "I'm in for it as it is",
+      "translation": "me apunto tal cual"
+    },
+    {
+      "word": "Sweep away",
+      "translation": "barrer, eliminar, borrar"
+    },
+    {
+      "word": "Sorcerer",
+      "translation": "brujo, hechicero"
+    },
+    {
+      "word": "Clairvoyance",
+      "translation": "clarividencia"
+    },
+    {
+      "word": "This bickering is pointless",
+      "translation": "estas discusiones no tienen sentido"
+    },
+    {
+      "word": "With one swift stroke",
+      "translation": "de un sólo golpe"
+    },
+    {
+      "word": "Wretched",
+      "translation": "miserable"
+    },
+    {
+      "word": "Abide (verbo)",
+      "translation": "cumplir, acatar, atenerse"
+    },
+    {
+      "word": "I heartily agree",
+      "translation": "estoy totalmente de acuerdo"
+    },
+    {
+      "word": "Suit (verbo)",
+      "translation": "ajustarse, convenir, favorecer"
+    },
+    {
+      "word": "Outrun (verbo)",
+      "translation": "dejar atrás (en velocidad)"
+    },
+    {
+      "word": "Bulk cruisers",
+      "translation": "grandes cruceros"
+    },
+    {
+      "word": "Docking bay",
+      "translation": "plataforma de atraque"
+    },
+    {
+      "word": "Handiwork",
+      "translation": "obra"
+    },
+    {
+      "word": "Jabba’s through with you",
+      "translation": "Jabba está harto de ti"
+    },
+    {
+      "word": "Checkout",
+      "translation": "comprobación"
+    },
+    {
+      "word": "Twerps",
+      "translation": "imbéciles"
+    },
+    {
+      "word": "Get boarded",
+      "translation": "abordar, embarcar"
+    },
+    {
+      "word": "I got a nice, easy charter",
+      "translation": "conseguí un chárter agradable y fácil"
+    },
+    {
+      "word": "Boast (verbo)",
+      "translation": "presumir, jactarse"
+    },
+    {
+      "word": "Hold them off",
+      "translation": "manténlos a raya"
+    },
+    {
+      "word": "Angle (verbo)",
+      "translation": "inclinar"
+    },
+    {
+      "word": "Stay sharp",
+      "translation": "manténte alerta"
+    },
+    {
+      "word": "Dusting crops",
+      "translation": "espolvorear cultivos"
+    },
+    {
+      "word": "Leash",
+      "translation": "correa"
+    },
+    {
+      "word": "Your foul stench",
+      "translation": "tu hedor nauseabundo"
+    },
+    {
+      "word": "Tighten (verbo)",
+      "translation": "apretar"
+    },
+    {
+      "word": "Sockets (en algunos contextos)",
+      "translation": "órbitas"
+    },
+    {
+      "word": "Hokey",
+      "translation": "de pacotilla, cursi"
+    },
+    {
+      "word": "Blast shield",
+      "translation": "escudo antiexplosiones"
+    },
+    {
+      "word": "Deceive (verbo)",
+      "translation": "engañar"
+    },
+    {
+      "word": "Stretch out with your feelings",
+      "translation": "extiéndete con tus sentimientos"
+    },
+    {
+      "word": "Surrounding systems",
+      "translation": "sistemas circundantes"
+    },
+    {
+      "word": "Cut in",
+      "translation": "cortar"
+    },
+    {
+      "word": "A fighter couldn't get this deep into space on its own",
+      "translation": "un caza no podría adentrarse"
+    },
+    {
+      "word": "Lock in the auxiliary power",
+      "translation": "bloquea la alimentación auxiliar"
+    },
+    {
+      "word": "Tractor beam",
+      "translation": "haz de tracción, rayo de tracción"
+    },
+    {
+      "word": "Outboard shields",
+      "translation": "escudos exteriores"
+    },
+    {
+      "word": "Its markings match those of a ship",
+      "translation": "sus marcas coinciden con las de una nave"
+    },
+    {
+      "word": "Howling (sustantivo)",
+      "translation": "aullido"
+    },
+    {
+      "word": "Computer outlet",
+      "translation": "toma de corriente del computador"
+    },
+    {
+      "word": "Bargain (verbo)",
+      "translation": "negociar, regatear"
+    },
+    {
+      "word": "Binders (en contexto de Star Wars)",
+      "translation": "aglutinantes"
+    },
+    {
+      "word": "Clear (verbo en ciertos contextos)",
+      "translation": "aclarar (una cosa)"
+    },
+    {
+      "word": "Tremor",
+      "translation": "temblor"
+    },
+    {
+      "word": "Cell bay",
+      "translation": "compartimento de la celda"
+    },
+    {
+      "word": "Garbage chute",
+      "translation": "conducto de basura"
+    },
+    {
+      "word": "You big furry oaf",
+      "translation": "zoquete peludo"
+    },
+    {
+      "word": "Your worship",
+      "translation": "su adoración"
+    },
+    {
+      "word": "Brace (verbo)",
+      "translation": "apoyar (sobre un objeto)"
+    },
+    {
+      "word": "Overrun (verbo)",
+      "translation": "rebasar"
+    },
+    {
+      "word": "Comlink",
+      "translation": "enlace de comunicación"
+    },
+    {
+      "word": "Masher",
+      "translation": "triturador"
+    },
+    {
+      "word": "Your worshipfulness",
+      "translation": "su adoración"
+    },
+    {
+      "word": "Outgassing",
+      "translation": "desgasificación"
+    },
+    {
+      "word": "Across from",
+      "translation": "frente a"
+    },
+    {
+      "word": "Blast them",
+      "translation": "destrúyelos"
+    },
+    {
+      "word": "Lock",
+      "translation": "cerradura"
+    },
+    {
+      "word": "Get across",
+      "translation": "llegar al otro lado, atravesar, cruzar"
+    },
+    {
+      "word": "Blast doors",
+      "translation": "puertas blindadas"
+    },
+    {
+      "word": "Strike down",
+      "translation": "derribar"
+    },
+    {
+      "word": "I hope he got the beam tractor down",
+      "translation": "espero que haya bajado el rayo de tracción"
+    },
+    {
+      "word": "Sentry ships",
+      "translation": "naves centinelas"
+    },
+    {
+      "word": "Don't get cocky",
+      "translation": "no te pongas engreído"
+    },
+    {
+      "word": "Homing beacon",
+      "translation": "baliza localizadora"
+    },
+    {
+      "word": "Ease",
+      "translation": "facilidad"
+    },
+    {
+      "word": "Shielded",
+      "translation": "protegido, blindado"
+    },
+    {
+      "word": "Snub fighters",
+      "translation": "combatientes desairados"
+    },
+    {
+      "word": "Trench",
+      "translation": "trinchera, zanja"
+    },
+    {
+      "word": "Skim (verbo)",
+      "translation": "rozar"
+    },
+    {
+      "word": "Shaft",
+      "translation": "eje"
+    },
+    {
+      "word": "The shaft is ray-shielded",
+      "translation": "el eje está protegido contra los rayos"
+    },
+    {
+      "word": "Man your stations",
+      "translation": "ocupen sus puestos"
+    },
+    {
+      "word": "To stick around here",
+      "translation": "para quedarme aquí"
+    },
+    {
+      "word": "Standby alert",
+      "translation": "alerta de espera"
+    },
+    {
+      "word": "Lock S-foils in attack position",
+      "translation": "fijen las aletas S en posición de ataque"
+    },
+    {
+      "word": "And draw their fire",
+      "translation": "y atraer su fuego"
+    },
+    {
+      "word": "Several fighters have broken off from the main group",
+      "translation": "varios combatientes se han"
+    },
+    {
+      "word": "Switch all power to front deflector screen",
+      "translation": "desconecte toda la corriente a la pantalla"
+    },
+    {
+      "word": "Loosen up!",
+      "translation": "¡Suelten!"
+    },
+    {
+      "word": "To start your run",
+      "translation": "para empezar a corer"
+    },
+    {
+      "word": "Close up formation",
+      "translation": "formación de cerca"
+    },
+    {
+      "word": "Starboard",
+      "translation": "estribor"
+    },
+    {
+      "word": "Let's close it up",
+      "translation": "cerrémoslo"
+    },
+    {
+      "word": "To pull out on time",
+      "translation": "salir a tiempo"
+    },
+    {
+      "word": "Exhaust port",
+      "translation": "puerto de escape"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "title": "Rocky II",
+  "englishAnalysis": "El inglés de Rocky es muy representativo del acento de clase trabajadora de Filadelfia. Caracterizado por oraciones cortas, pronunciación arrastrada y vocabulario directo. Abunda la jerga de boxeo ('heavyweight', 'southpaw', 'jab') y expresiones motivacionales crudas.",
+  "vocabulary": [
+    {
+      "word": "Wipe off",
+      "translation": "limpiar"
+    },
+    {
+      "word": "Get it off!",
+      "translation": "¡Quítalo!"
+    },
+    {
+      "word": "The champion really tagged him",
+      "translation": "el campeón realmente lo marcó"
+    },
+    {
+      "word": "He takes one to the head",
+      "translation": "se lleva uno a la cabeza"
+    },
+    {
+      "word": "That buzzer sounded off",
+      "translation": "ese timbre sonó"
+    },
+    {
+      "word": "We have a split decision",
+      "translation": "tenemos una decision dividida"
+    },
+    {
+      "word": "Beating (sustantivo)",
+      "translation": "paliza"
+    },
+    {
+      "word": "You got a dull skull",
+      "translation": "tienes el cráneo embotado"
+    },
+    {
+      "word": "Chump",
+      "translation": "tonto, idiota, bobo"
+    },
+    {
+      "word": "My hands are sore",
+      "translation": "me duelen las manos"
+    },
+    {
+      "word": "Sledgehammers",
+      "translation": "mazos"
+    },
+    {
+      "word": "Strike (verbo)",
+      "translation": "atacar"
+    },
+    {
+      "word": "My legs were getting so sore",
+      "translation": "me estaban doliendo mucho mis piernas"
+    },
+    {
+      "word": "Shrink (verbo)",
+      "translation": "encogerse"
+    },
+    {
+      "word": "I ain’t gonna leave no hair in the sink",
+      "translation": "no voy a dejar ningún pelo en el fregadero"
+    },
+    {
+      "word": "Concussion",
+      "translation": "conmoción, contusión (en sentido médico)"
+    },
+    {
+      "word": "Good prospects (en términos de novatos)",
+      "translation": "buenos prospectos"
+    },
+    {
+      "word": "Bridegroom",
+      "translation": "sala de espera"
+    },
+    {
+      "word": "How much money did you clear?",
+      "translation": "¿Cuánto dinero sacaste?"
+    },
+    {
+      "word": "I just got a little married",
+      "translation": "me acabo de casar"
+    },
+    {
+      "word": "Jukebox",
+      "translation": "gramola, máquina de discos"
+    },
+    {
+      "word": "I’d drive you crazy",
+      "translation": "te volvería loco"
+    },
+    {
+      "word": "Real sharp",
+      "translation": "muy afilado"
+    },
+    {
+      "word": "Omen",
+      "translation": "augurio, presagio"
+    },
+    {
+      "word": "Copper plumbing",
+      "translation": "tuberías de cobre"
+    },
+    {
+      "word": "And it better not leak, or else",
+      "translation": "y más vale que no gotee, si no"
+    },
+    {
+      "word": "Stand (verbo)",
+      "translation": "pararse, ponerse de pie, soportar, tolerar"
+    },
+    {
+      "word": "I’ll beat you to the pool!",
+      "translation": "¡Te ganaré en la piscina!"
+    },
+    {
+      "word": "Slow down (frase)",
+      "translation": "despacio"
+    },
+    {
+      "word": "Let me get you in focus there",
+      "translation": "déjame que te centre ahí"
+    },
+    {
+      "word": "I know the day weren’t no waste",
+      "translation": "sé que el día no fue un desperdicio"
+    },
+    {
+      "word": "Dumbbell",
+      "translation": "mancuerna"
+    },
+    {
+      "word": "He ain’t gonna be hanging around no corners",
+      "translation": "no va a estar merodeando por las"
+    },
+    {
+      "word": "Swelling",
+      "translation": "hinchazón"
+    },
+    {
+      "word": "You look terrific",
+      "translation": "te ves muy bien"
+    },
+    {
+      "word": "Takes a terrific beating",
+      "translation": "recibe una paliza tremenda"
+    },
+    {
+      "word": "Let’s get it on",
+      "translation": "vamos a ello"
+    },
+    {
+      "word": "We’re running late",
+      "translation": "se nos hace tarde"
+    },
+    {
+      "word": "Aftershave",
+      "translation": "loción para después del afeitado"
+    },
+    {
+      "word": "I splash it on",
+      "translation": "lo salpico"
+    },
+    {
+      "word": "They look a little alike",
+      "translation": "se parecen un poco"
+    },
+    {
+      "word": "Rendezvous (verbo)",
+      "translation": "reunirse, encontrarse, citarse (en sentido de salir)"
+    },
+    {
+      "word": "Get the girls into their other outfits",
+      "translation": "pon a las chicas sus otros trajes"
+    },
+    {
+      "word": "Prop people",
+      "translation": "utileros, gente de utilería"
+    },
+    {
+      "word": "Wet him down",
+      "translation": "mójalo, humedécelo"
+    },
+    {
+      "word": "Step out, please",
+      "translation": "salga, por favor"
+    },
+    {
+      "word": "Just read it off the dummy cards",
+      "translation": "sólo léelo en las tarjetas falsas"
+    },
+    {
+      "word": "I ain’t punchy",
+      "translation": "no tengo garra"
+    },
+    {
+      "word": "Punchy (adjetivo)",
+      "translation": "punzante"
+    },
+    {
+      "word": "Setup (sustantivo)",
+      "translation": "montaje"
+    },
+    {
+      "word": "This is a complete bust",
+      "translation": "esto es un completo fracaso"
+    },
+    {
+      "word": "Cuss (verbo)",
+      "translation": "insultar, maldecir"
+    },
+    {
+      "word": "Snarl (verbo)",
+      "translation": "gruñir"
+    },
+    {
+      "word": "Robber",
+      "translation": "ladrón"
+    },
+    {
+      "word": "Fellows",
+      "translation": "compañeros, colegas"
+    },
+    {
+      "word": "Take cover",
+      "translation": "cubrirse, ponerse a cubierto"
+    },
+    {
+      "word": "Cover (sustantivo)",
+      "translation": "tapadera, cobertura, cubierta"
+    },
+    {
+      "word": "Head for",
+      "translation": "dirigirse (a un lugar)"
+    },
+    {
+      "word": "Nothing worth bragging about",
+      "translation": "nada de lo que valga la pena alardear"
+    },
+    {
+      "word": "I could make a living sitting down",
+      "translation": "podría ganarme la vida sentado"
+    },
+    {
+      "word": "Stings after a while",
+      "translation": "pica después de un tiempo"
+    },
+    {
+      "word": "A good-paying menial labor job",
+      "translation": "un trabajo servil bien pagado"
+    },
+    {
+      "word": "Lugging beef",
+      "translation": "acarrear carne, cargar carne"
+    },
+    {
+      "word": "Hauling beef",
+      "translation": "transportar carne"
+    },
+    {
+      "word": "Quitting time!",
+      "translation": "¡Es hora de salir!"
+    },
+    {
+      "word": "The best-looking thing",
+      "translation": "la cosa más bonita"
+    },
+    {
+      "word": "How come?",
+      "translation": "¿Por qué?"
+    },
+    {
+      "word": "We gotta cut back on manpower",
+      "translation": "tenemos que reducir el personal"
+    },
+    {
+      "word": "Seniority",
+      "translation": "veteranía, antigüedad"
+    },
+    {
+      "word": "Take a cut in pay",
+      "translation": "bajarse el sueldo"
+    },
+    {
+      "word": "Your old stomping ground",
+      "translation": "tu antiguo terreno, tu viejo terreno"
+    },
+    {
+      "word": "A hand-out",
+      "translation": "una mano, una limosna"
+    },
+    {
+      "word": "Do you need a lift? (en sentido informal)",
+      "translation": "¿Necesitas que te lleve?"
+    },
+    {
+      "word": "I got canned today",
+      "translation": "hoy me han echado"
+    },
+    {
+      "word": "Beagle",
+      "translation": "sabueso"
+    },
+    {
+      "word": "It’ll come in handy",
+      "translation": "será útil"
+    },
+    {
+      "word": "Workout",
+      "translation": "entrenamiento"
+    },
+    {
+      "word": "He has one good one left",
+      "translation": "le queda uno bueno"
+    },
+    {
+      "word": "Shake out",
+      "translation": "sacudir"
+    },
+    {
+      "word": "When I bring my finger in",
+      "translation": "cuando traiga el dedo"
+    },
+    {
+      "word": "The other lamp",
+      "translation": "la otra lámpara"
+    },
+    {
+      "word": "A broken-down pug",
+      "translation": "un pug averiado, un pug destrozado"
+    },
+    {
+      "word": "As long as",
+      "translation": "mientras, siempre y cuando"
+    },
+    {
+      "word": "Hang around doing nothing",
+      "translation": "quedarse sin hacer nada"
+    },
+    {
+      "word": "Bring out",
+      "translation": "sacar, traer"
+    },
+    {
+      "word": "Jar (verbo)",
+      "translation": "sacudir (algo no necesariamente tangible)"
+    },
+    {
+      "word": "I want something done to get the people around him talking",
+      "translation": "quiero que se haga algo"
+    },
+    {
+      "word": "Whatever gets him in the ring",
+      "translation": "lo que le haga subir al ring"
+    },
+    {
+      "word": "Grin",
+      "translation": "sonrisa, mueca"
+    },
+    {
+      "word": "They’re flowing over",
+      "translation": "se están desbordando"
+    },
+    {
+      "word": "Give it to me straight",
+      "translation": "dímelo sin rodeos"
+    },
+    {
+      "word": "I’m sweeping up",
+      "translation": "estoy barriendo"
+    },
+    {
+      "word": "Janitor",
+      "translation": "conserje"
+    },
+    {
+      "word": "Clubhouse",
+      "translation": "club, casa club"
+    },
+    {
+      "word": "Oatmeal",
+      "translation": "avena"
+    },
+    {
+      "word": "Sweep (verbo)",
+      "translation": "barrer"
+    },
+    {
+      "word": "A little snacklet",
+      "translation": "un bocadillo"
+    },
+    {
+      "word": "You drowning down there?",
+      "translation": "¿Te estás ahogando ahí abajo?"
+    },
+    {
+      "word": "Overtime",
+      "translation": "prórroga, alargue"
+    },
+    {
+      "word": "Palatial gym",
+      "translation": "gimnasio palaciego"
+    },
+    {
+      "word": "In fairness",
+      "translation": "para ser justos"
+    },
+    {
+      "word": "That split-decision victory",
+      "translation": "esa victoria por decisión dividida"
+    },
+    {
+      "word": "You’re entitled to it",
+      "translation": "tienes derecho a ello"
+    },
+    {
+      "word": "Lucky club fighter",
+      "translation": "luchador del club de la suerte"
+    },
+    {
+      "word": "You can call me collect",
+      "translation": "puedes llamarme a cobro revertido"
+    },
+    {
+      "word": "Puncher",
+      "translation": "luchador"
+    },
+    {
+      "word": "Meat house",
+      "translation": "carnicería"
+    },
+    {
+      "word": "We’ll get by",
+      "translation": "nos las arreglaremos"
+    },
+    {
+      "word": "Knock off",
+      "translation": "romper, dar una paliza"
+    },
+    {
+      "word": "The fight will be held",
+      "translation": "la pelea se celebrará, la pelea tendrá lugar"
+    },
+    {
+      "word": "The southpaw jinx",
+      "translation": "el gafe del zurdo"
+    },
+    {
+      "word": "Southpaw jinx nothing!",
+      "translation": "¡Gafe zurdo nada!"
+    },
+    {
+      "word": "This man was just plain lucky",
+      "translation": "este hombre simplemente tuvo suerte"
+    },
+    {
+      "word": "Lightning fast and hard to catch",
+      "translation": "rápido como un rayo y difícil de atrapar"
+    },
+    {
+      "word": "No jiving",
+      "translation": "sin bromas"
+    },
+    {
+      "word": "Punch out",
+      "translation": "perforar"
+    },
+    {
+      "word": "Home crowd",
+      "translation": "público local"
+    },
+    {
+      "word": "I made this list on the way over",
+      "translation": "hice esta lista en el camino"
+    },
+    {
+      "word": "Clowning shots",
+      "translation": "fotos de payasos"
+    },
+    {
+      "word": "Smooth",
+      "translation": "suave, liso"
+    },
+    {
+      "word": "Pump (verbo)",
+      "translation": "clavar"
+    },
+    {
+      "word": "Jab (sustantivo)",
+      "translation": "pinchazo, punzada"
+    },
+    {
+      "word": "Outlaw (verbo)",
+      "translation": "prohibir, ilegalizar"
+    },
+    {
+      "word": "Pull off",
+      "translation": "lograr, conseguir"
+    },
+    {
+      "word": "We need greasy, fast speed",
+      "translation": "necesitamos grasa, velocidad rápida"
+    },
+    {
+      "word": "Sweatshirt",
+      "translation": "sudadera, polerón"
+    },
+    {
+      "word": "Greasy lightning",
+      "translation": "rayo engrasado"
+    },
+    {
+      "word": "Pull him round!",
+      "translation": "¡Dale la vuelta!"
+    },
+    {
+      "word": "Jab (verbo)",
+      "translation": "clavar"
+    },
+    {
+      "word": "Chop off",
+      "translation": "cortar (algo en sentido violento)"
+    },
+    {
+      "word": "I want 500 high ones",
+      "translation": "quiero 500 de alto"
+    },
+    {
+      "word": "Turn it over",
+      "translation": "dálo vuelta, voltéalo"
+    },
+    {
+      "word": "Snap it",
+      "translation": "cógelo"
+    },
+    {
+      "word": "Ease up",
+      "translation": "aflojar"
+    },
+    {
+      "word": "Sparring partners",
+      "translation": "oponentes, adversarios"
+    },
+    {
+      "word": "You’re gonna pound that sass right out of him",
+      "translation": "vas a sacarle ese descaro a golpes"
+    },
+    {
+      "word": "You’re gonna be scary",
+      "translation": "vas a dar miedo"
+    },
+    {
+      "word": "Catch that punk!",
+      "translation": "¡Atrapa a ese gamberro!"
+    },
+    {
+      "word": "Squirt",
+      "translation": "mequetrefe"
+    },
+    {
+      "word": "Get off your rear!",
+      "translation": "¡Muévete!"
+    },
+    {
+      "word": "Get the lead out!",
+      "translation": "¡Saca el plomo!"
+    },
+    {
+      "word": "Screw (verbo en sentido denotativo)",
+      "translation": "atornillar"
+    },
+    {
+      "word": "My sister got you so guilty",
+      "translation": "mi hermana te tiene tan culpable"
+    },
+    {
+      "word": "Spit (sustantivo)",
+      "translation": "saliva, escupitajo"
+    },
+    {
+      "word": "Ninth-rate",
+      "translation": "novena categoría, novena clase"
+    },
+    {
+      "word": "Ditch (verbo)",
+      "translation": "abandonar, dejar"
+    },
+    {
+      "word": "Walk away",
+      "translation": "irse, marcharse"
+    },
+    {
+      "word": "A ticker problem",
+      "translation": "un problema de pulso, un problema de corazón"
+    },
+    {
+      "word": "You got nothing left inside?",
+      "translation": "¿No te queda nada dentro?"
+    },
+    {
+      "word": "You go back to being a two-bit nothing!",
+      "translation": "¡Vuelve a ser un don nadie!"
+    },
+    {
+      "word": "When she was brought in",
+      "translation": "cuando la trajeron"
+    },
+    {
+      "word": "Straining",
+      "translation": "esfuerzo (alusivo a hacer más fuerza de lo normal)"
+    },
+    {
+      "word": "Overwork",
+      "translation": "exceso de trabajo"
+    },
+    {
+      "word": "Chapel",
+      "translation": "capilla"
+    },
+    {
+      "word": "Swap punches",
+      "translation": "intercambiar golpes"
+    },
+    {
+      "word": "You’re nowhere near in shape",
+      "translation": "no estás ni cerca de estar en forma"
+    },
+    {
+      "word": "Mongrel",
+      "translation": "mestizo"
+    },
+    {
+      "word": "It was nothing but some kind of a freak the first time out",
+      "translation": "la primera vez no era más"
+    },
+    {
+      "word": "A one-time lucky bum",
+      "translation": "un vagabundo con suerte"
+    },
+    {
+      "word": "Trail some cattle up",
+      "translation": "llevar ganado"
+    },
+    {
+      "word": "But I kept giving you lip",
+      "translation": "yo seguía dándote caña"
+    },
+    {
+      "word": "Refill (sustantivo)",
+      "translation": "recarga"
+    },
+    {
+      "word": "Forearm",
+      "translation": "antebrazo"
+    },
+    {
+      "word": "We'll make out some other kind of way",
+      "translation": "lo haremos de otra manera"
+    },
+    {
+      "word": "Don’t be a slouch",
+      "translation": "no te quedes atrás"
+    },
+    {
+      "word": "Challenger",
+      "translation": "retador, contrincante"
+    },
+    {
+      "word": "Sidekick",
+      "translation": "compañero, compinche"
+    },
+    {
+      "word": "Telecast",
+      "translation": "retransmisión"
+    },
+    {
+      "word": "Rocky Balboa is a 5-to-1 underdog",
+      "translation": "Rocky Balboa tiene una desventaja de 5 a 1"
+    },
+    {
+      "word": "A street brawler",
+      "translation": "un luchador callejero, un peleador callejero"
+    },
+    {
+      "word": "A real beating",
+      "translation": "una buena paliza"
+    },
+    {
+      "word": "Throw down",
+      "translation": "echar, arrojar, lanzar"
+    },
+    {
+      "word": "If I get beat up tonight",
+      "translation": "si me dan una paliza esta noche"
+    },
+    {
+      "word": "Fluke",
+      "translation": "casualidad, golpe de suerte"
+    },
+    {
+      "word": "Lightning hands!",
+      "translation": "¡Manos relámpago!"
+    },
+    {
+      "word": "Remember that baggy one last year?",
+      "translation": "¿Recuerdas el holgado del año pasado?"
+    },
+    {
+      "word": "Gorgeous",
+      "translation": "precioso, hermoso"
+    },
+    {
+      "word": "Backers",
+      "translation": "seguidores, partidarios"
+    },
+    {
+      "word": "Meat-packing plant",
+      "translation": "planta de envasado de carne, frigorífico"
+    },
+    {
+      "word": "Low punches",
+      "translation": "golpes bajos"
+    },
+    {
+      "word": "Knockdown",
+      "translation": "derribo"
+    },
+    {
+      "word": "Dance over",
+      "translation": "bailar"
+    },
+    {
+      "word": "Lay down",
+      "translation": "acostarse, tumbarse"
+    },
+    {
+      "word": "Unsteadily",
+      "translation": "inestable"
+    },
+    {
+      "word": "The ring post",
+      "translation": "el poste del ring"
+    },
+    {
+      "word": "Balboa’s tagged",
+      "translation": "Balboa está marcado"
+    },
+    {
+      "word": "Lean back",
+      "translation": "echarse hacia atrás"
+    },
+    {
+      "word": "Withstand (verbo)",
+      "translation": "resistir"
+    },
+    {
+      "word": "Butchery",
+      "translation": "carnicería"
+    },
+    {
+      "word": "It’s plain old butchery",
+      "translation": "es pura carnicería"
+    },
+    {
+      "word": "Don’t let up on this man",
+      "translation": "no te rindas con este hombre"
+    },
+    {
+      "word": "Lean across",
+      "translation": "inclinarse"
+    },
+    {
+      "word": "He’s got it cocked",
+      "translation": "lo tiene amartillado"
+    },
+    {
+      "word": "Taunt (verbo)",
+      "translation": "burlarse"
+    },
+    {
+      "word": "Pound the body!",
+      "translation": "¡Golpea el cuerpo!"
+    },
+    {
+      "word": "Now stick and move!",
+      "translation": "¡Ahora pega y muévete!"
+    },
+    {
+      "word": "It’s twice as bad",
+      "translation": "¡Es el doble de malo!"
+    },
+    {
+      "word": "Now bust him",
+      "translation": "ahora reviéntalo"
+    },
+    {
+      "word": "Balboa just nearly floored the champion!",
+      "translation": "¡Balboa casi derriba al campeón!"
+    },
+    {
+      "word": "A leaping hook caught the exhausted champ off guard!",
+      "translation": "¡Un gancho con salto pilló"
+    },
+    {
+      "word": "Balboa is staggering from exhaustion",
+      "translation": "Balboa se tambalea de agotamiento"
+    },
+    {
+      "word": "Retain (verbo)",
+      "translation": "retener, conservar"
+    },
+    {
+      "word": "Get on your feet!",
+      "translation": "¡Ponte de pie!, ¡Levántate!"
+    },
+    {
+      "word": "In a stunning upset",
+      "translation": "en una sorprendente sorpresa"
+    }
+  ]
+}

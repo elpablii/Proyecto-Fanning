@@ -1,0 +1,554 @@
+{
+  "title": "Rambo First Blood",
+  "englishAnalysis": "El lenguaje es parco, tenso y muy directo. Destaca la jerga policial de pueblo pequeño ('sheriff', 'drifter', 'backup') combinada con fuerte terminología militar de la guerra de Vietnam ('guerrilla', 'POW', 'casualty'). Perfecto para practicar comprensión en situaciones de alta presión.",
+  "vocabulary": [
+    {
+      "word": "Junk",
+      "translation": "chatarra, basura"
+    },
+    {
+      "word": "Cut him down to nothing",
+      "translation": "dejarlo sin nada, reducirlo a nada"
+    },
+    {
+      "word": "I could lift him off the sheet",
+      "translation": "podría levantarlo de la sábana"
+    },
+    {
+      "word": "Jump in",
+      "translation": "saltar"
+    },
+    {
+      "word": "Diner",
+      "translation": "cafetería"
+    },
+    {
+      "word": "Drifters",
+      "translation": "vagabundos, vagos"
+    },
+    {
+      "word": "Get hassled",
+      "translation": "ser molestado, ser acosado"
+    },
+    {
+      "word": "Spread (verbo)",
+      "translation": "esparcir, difundir"
+    },
+    {
+      "word": "Buzz us in, will you?",
+      "translation": "molesta con nosotros, ¿quieres?"
+    },
+    {
+      "word": "Sorry-looking humanity",
+      "translation": "Humanidad lamentable"
+    },
+    {
+      "word": "Smart-ass drifter",
+      "translation": "vagabundo insolente"
+    },
+    {
+      "word": "Book (verbo en términos policiales)",
+      "translation": "arrestar, detener"
+    },
+    {
+      "word": "Sling (verbo)",
+      "translation": "lanzar, arrojar"
+    },
+    {
+      "word": "He means it (frase)",
+      "translation": "lo dice en serio"
+    },
+    {
+      "word": "I’m gonna run a make on him",
+      "translation": "voy a investigarlo"
+    },
+    {
+      "word": "Roll across",
+      "translation": "rodar"
+    },
+    {
+      "word": "Smear (verbo)",
+      "translation": "manchar"
+    },
+    {
+      "word": "As things stand right now",
+      "translation": "tal como están las cosas ahora"
+    },
+    {
+      "word": "You can just impress the hell out of me",
+      "translation": "tú solo me podrías realmente impresionar"
+    },
+    {
+      "word": "Stool",
+      "translation": "taburete"
+    },
+    {
+      "word": "Get ahold of",
+      "translation": "comunicarse"
+    },
+    {
+      "word": "I’m right of his tail",
+      "translation": "lo estoy siguiendo de cerca"
+    },
+    {
+      "word": "Draw (sustantivo)",
+      "translation": "barranco"
+    },
+    {
+      "word": "On sight",
+      "translation": "al verlo, inmediatamente"
+    },
+    {
+      "word": "Lumber camp",
+      "translation": "aserradero, campo de tala"
+    },
+    {
+      "word": "Be long",
+      "translation": "durar mucho tiempo"
+    },
+    {
+      "word": "Stuffed and mounted",
+      "translation": "disecado y montado"
+    },
+    {
+      "word": "Up the hill",
+      "translation": "cuesta arriba, en la cima de la colina"
+    },
+    {
+      "word": "You’re spoiling the scent",
+      "translation": "estás interfiriendo con el rastro"
+    },
+    {
+      "word": "Trail (verbo)",
+      "translation": "seguir el rastro"
+    },
+    {
+      "word": "We got him corned",
+      "translation": "lo tenemos acorralado"
+    },
+    {
+      "word": "Head him off",
+      "translation": "intercéptalo, córtale el paso"
+    },
+    {
+      "word": "Spot (verbo)",
+      "translation": "avistar"
+    },
+    {
+      "word": "Thermal draft",
+      "translation": "corriente de aire caliente"
+    },
+    {
+      "word": "Move it down the side",
+      "translation": "muevelo hacia el costado"
+    },
+    {
+      "word": "Turn himself in",
+      "translation": "entregarse (a las autoridades)"
+    },
+    {
+      "word": "Freeze!",
+      "translation": "¡Alto!"
+    },
+    {
+      "word": "Blow off",
+      "translation": "volar (algo de manera violenta)"
+    },
+    {
+      "word": "You sure picked one hell of a guy to mess around with",
+      "translation": "te metiste con el peor sujeto"
+    },
+    {
+      "word": "Pin (verbo)",
+      "translation": "clavar (en sentido violento)"
+    },
+    {
+      "word": "Liver",
+      "translation": "hígado"
+    },
+    {
+      "word": "Twisted my ankle",
+      "translation": "me torcí el tobillo"
+    },
+    {
+      "word": "Bogeyman",
+      "translation": "Coco, monstruo imaginario"
+    },
+    {
+      "word": "Put your gun down",
+      "translation": "baja el arma"
+    },
+    {
+      "word": "Pansy",
+      "translation": "marica"
+    },
+    {
+      "word": "Knock off",
+      "translation": "abatir, matar"
+    },
+    {
+      "word": "Turn them loose!",
+      "translation": "¡Suéltalos!"
+    },
+    {
+      "word": "Scarecrow",
+      "translation": "espantapájaros"
+    },
+    {
+      "word": "He’s out of ammo",
+      "translation": "se le acabó la munición"
+    },
+    {
+      "word": "A skirmish line",
+      "translation": "línea de escaramuza"
+    },
+    {
+      "word": "Spread out",
+      "translation": "desplegarse"
+    },
+    {
+      "word": "Reporters are drinking the place dry",
+      "translation": "los periodistas se están bebiendo el bar entero"
+    },
+    {
+      "word": "Keel over",
+      "translation": "caer desmayado, caer muerto"
+    },
+    {
+      "word": "Step outside",
+      "translation": "salir afuera"
+    },
+    {
+      "word": "Rugged mountain countryside",
+      "translation": "campo montañoso escarpado"
+    },
+    {
+      "word": "Shrouded",
+      "translation": "envuelto, cubierto"
+    },
+    {
+      "word": "Come into",
+      "translation": "llegar, entrar"
+    },
+    {
+      "word": "Deputy sherif",
+      "translation": "ayudante del sheriff"
+    },
+    {
+      "word": "Spit out",
+      "translation": "escupir"
+    },
+    {
+      "word": "Whatever",
+      "translation": "lo que sea, da igual"
+    },
+    {
+      "word": "A full-bird colonel",
+      "translation": "un coronel de pleno derecho"
+    },
+    {
+      "word": "Slip up",
+      "translation": "cometer un error"
+    },
+    {
+      "word": "Gasket",
+      "translation": "empaquetadura, junta común"
+    },
+    {
+      "word": "To live off the hand",
+      "translation": "vivir de la caridad"
+    },
+    {
+      "word": "To eat things that would make a billy goat puke",
+      "translation": "comer cosas que harían vomitar a un"
+    },
+    {
+      "word": "Attrition",
+      "translation": "desgaste"
+    },
+    {
+      "word": "Let him slip through it",
+      "translation": "déjalo escapar, permite que se escurra"
+    },
+    {
+      "word": "Then put out a nationwide A.P.B.",
+      "translation": "entonces lancen una alerta general policial nacional"
+    },
+    {
+      "word": "We’re just a small, hick town sheriff’s department",
+      "translation": "no somos más que una pequeña"
+    },
+    {
+      "word": "No-win situation",
+      "translation": "sin salida, callejón sin salida"
+    },
+    {
+      "word": "Body bags",
+      "translation": "bolsas para cadáveres"
+    },
+    {
+      "word": "Firebreak",
+      "translation": "cortafuegos"
+    },
+    {
+      "word": "Take into consideration",
+      "translation": "tomado en consideración"
+    },
+    {
+      "word": "Cross talk",
+      "translation": "interferencia, solapamiento de señales"
+    },
+    {
+      "word": "Spare (verbo)",
+      "translation": "perdonar"
+    },
+    {
+      "word": "Set up",
+      "translation": "configurar"
+    },
+    {
+      "word": "Bring out",
+      "translation": "traer"
+    },
+    {
+      "word": "Put away",
+      "translation": "guardar"
+    },
+    {
+      "word": "We may only get one crack at this",
+      "translation": "puede que sólo tengamos una oportunidad"
+    },
+    {
+      "word": "Covey",
+      "translation": "grupo"
+    },
+    {
+      "word": "Raven",
+      "translation": "cuervo"
+    },
+    {
+      "word": "Get on it",
+      "translation": "ponte a ello"
+    },
+    {
+      "word": "I’m gonna come in there and fly you the hell out",
+      "translation": "voy a entrar ahí y te sacaré de aquí"
+    },
+    {
+      "word": "Shining a seat",
+      "translation": "limpiando un asiento"
+    },
+    {
+      "word": "Knee-deep",
+      "translation": "hasta las rodillas"
+    },
+    {
+      "word": "Bail out",
+      "translation": "escapar"
+    },
+    {
+      "word": "Lifetime job",
+      "translation": "empleo vitalicio"
+    },
+    {
+      "word": "They drew first blood",
+      "translation": "ellos atacaron primero"
+    },
+    {
+      "word": "We’ve got a real good fix on him, though",
+      "translation": "lo tenemos bien localizado, de todas formas"
+    },
+    {
+      "word": "Come first light",
+      "translation": "Al amanecer"
+    },
+    {
+      "word": "Ridge",
+      "translation": "cumbre, cresta"
+    },
+    {
+      "word": "Stretch (verbo)",
+      "translation": "extender, estirar"
+    },
+    {
+      "word": "It’s slippery",
+      "translation": "está resbaladizo"
+    },
+    {
+      "word": "Toss (verbo)",
+      "translation": "arrojar, lanzar"
+    },
+    {
+      "word": "Cool down!",
+      "translation": "¡Cálmate!"
+    },
+    {
+      "word": "Move in",
+      "translation": "avanzar, acercarse"
+    },
+    {
+      "word": "Three-zero second",
+      "translation": "tres segundos"
+    },
+    {
+      "word": "Creep (sustantivo)",
+      "translation": "persona repugnante"
+    },
+    {
+      "word": "Bull’s-eye!",
+      "translation": "¡En el blanco!"
+    },
+    {
+      "word": "Dig out",
+      "translation": "excavar, desenterrar"
+    },
+    {
+      "word": "Drugstore",
+      "translation": "farmacia"
+    },
+    {
+      "word": "Gravestone",
+      "translation": "lápida"
+    },
+    {
+      "word": "Waltz (verbo)",
+      "translation": "bailar el vals"
+    },
+    {
+      "word": "Go loose",
+      "translation": "liberar, soltar"
+    },
+    {
+      "word": "Hold my calls",
+      "translation": "retiene mis llamadas"
+    },
+    {
+      "word": "Give me a shooter (en términos de bebidas alcohólicas)",
+      "translation": "dame un trago"
+    },
+    {
+      "word": "Like you were cheated out of your chance",
+      "translation": "como si te hubieran privado de tu gran"
+    },
+    {
+      "word": "Badge",
+      "translation": "placa, insignia"
+    },
+    {
+      "word": "When in doubt, kill",
+      "translation": "en caso de duda, mata"
+    },
+    {
+      "word": "Sloppy",
+      "translation": "descuidado"
+    },
+    {
+      "word": "I got no beef with you",
+      "translation": "no tengo ningún problema contigo"
+    },
+    {
+      "word": "Are we still on that three-way hookup?",
+      "translation": "¿seguimos en esa conexión de tres vías?"
+    },
+    {
+      "word": "Plug (sustantivo)",
+      "translation": "tapón"
+    },
+    {
+      "word": "He’s on the loose",
+      "translation": "está suelto"
+    },
+    {
+      "word": "Roadblock",
+      "translation": "retén, control de carretera"
+    },
+    {
+      "word": "Heads up!",
+      "translation": "¡Cuidado!"
+    },
+    {
+      "word": "Right away",
+      "translation": "enseguida, ahora mismo"
+    },
+    {
+      "word": "Remain indoors until you receive further instructions",
+      "translation": "permanezcan en el interior"
+    },
+    {
+      "word": "As a matter of fact",
+      "translation": "de hecho"
+    },
+    {
+      "word": "Clear out",
+      "translation": "aclarar"
+    },
+    {
+      "word": "Stick around",
+      "translation": "quedarse cerca"
+    },
+    {
+      "word": "Edge",
+      "translation": "ventaja, borde"
+    },
+    {
+      "word": "Do you copy? Over",
+      "translation": "¿Me recibes? Cambio"
+    },
+    {
+      "word": "Burned out",
+      "translation": "quemado"
+    },
+    {
+      "word": "Gasoline reservoirs",
+      "translation": "tanques de gasolina, depósitos de combustible"
+    },
+    {
+      "word": "Hold your fire!",
+      "translation": "¡Alto al fuego!"
+    },
+    {
+      "word": "Back up",
+      "translation": "retroceder, dar marcha atrás"
+    },
+    {
+      "word": "Watch yourselves",
+      "translation": "tengan cuidado, estén alerta"
+    },
+    {
+      "word": "You just don’t turn it off!",
+      "translation": "no se puede apagar así como así"
+    },
+    {
+      "word": "Maggots",
+      "translation": "gusanos"
+    },
+    {
+      "word": "Gunship",
+      "translation": "cañonera"
+    },
+    {
+      "word": "Headband",
+      "translation": "bandana, pañuelo"
+    },
+    {
+      "word": "Cruise (verbo)",
+      "translation": "viajar, navegar"
+    },
+    {
+      "word": "Fall off",
+      "translation": "caerse, decolgarse"
+    },
+    {
+      "word": "A shoe shine box",
+      "translation": "una caja de lustrar zapatos"
+    },
+    {
+      "word": "Shine (verbo)",
+      "translation": "lustrar, brillar"
+    },
+    {
+      "word": "Get inside",
+      "translation": "entrar, meter"
+    }
+  ]
+}

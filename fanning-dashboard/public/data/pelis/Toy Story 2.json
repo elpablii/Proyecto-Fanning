@@ -1,0 +1,638 @@
+{
+  "title": "Toy Story 2",
+  "englishAnalysis": "Un inglés americano muy claro y fácil de seguir, ideal para nivel intermedio. Combina lenguaje cotidiano ('garage sale', 'collector') con terminología espacial ('galaxy', 'laser') y del viejo oeste ('sheriff', 'prospector'). Los diálogos son rápidos pero perfectamente articulados.",
+  "vocabulary": [
+    {
+      "word": "Squeak (verbo)",
+      "translation": "chirriar"
+    },
+    {
+      "word": "Buzz (verbo)",
+      "translation": "hacer ruido"
+    },
+    {
+      "word": "Campfire",
+      "translation": "fogata"
+    },
+    {
+      "word": "Lawn gnome",
+      "translation": "gnomo de jardín"
+    },
+    {
+      "word": "Bleat (verbo)",
+      "translation": "bramar"
+    },
+    {
+      "word": "Missus",
+      "translation": "esposa, señora"
+    },
+    {
+      "word": "Look forward",
+      "translation": "esperar"
+    },
+    {
+      "word": "I’m sitting on good deals",
+      "translation": "tengo buenas ofertas"
+    },
+    {
+      "word": "Hatch (verbo)",
+      "translation": "tramar"
+    },
+    {
+      "word": "Despise (verbo)",
+      "translation": "despreciar, odiar"
+    },
+    {
+      "word": "Growl (verbo)",
+      "translation": "gruñir"
+    },
+    {
+      "word": "Snarl (verbo)",
+      "translation": "gruñir, rechinar los dientes"
+    },
+    {
+      "word": "Shriek (verbo)",
+      "translation": "gritar, chillar"
+    },
+    {
+      "word": "Monkey chittering",
+      "translation": "chillido de mono"
+    },
+    {
+      "word": "Tangle (verbo)",
+      "translation": "enredar"
+    },
+    {
+      "word": "Shelve (verbo)",
+      "translation": "guardar en un estante"
+    },
+    {
+      "word": "Choke (verbo)",
+      "translation": "ahogarse, sofocarse, estrangular, asfixiar"
+    },
+    {
+      "word": "Garbled",
+      "translation": "confuso"
+    },
+    {
+      "word": "Squeaker",
+      "translation": "chirriador"
+    },
+    {
+      "word": "Wheeze (verbo)",
+      "translation": "respirar con dificultad"
+    },
+    {
+      "word": "Yard sale",
+      "translation": "venta de garage"
+    },
+    {
+      "word": "Emergency roll call!",
+      "translation": "¡Llamada de emergencia!"
+    },
+    {
+      "word": "Fall in position",
+      "translation": "formen filas"
+    },
+    {
+      "word": "Rattle (verbo)",
+      "translation": "traquetar, retumbar, sonar"
+    },
+    {
+      "word": "Pant (verbo)",
+      "translation": "jadear"
+    },
+    {
+      "word": "Come through",
+      "translation": "pasar adelante"
+    },
+    {
+      "word": "What’s that little gal think she’s doing?",
+      "translation": "¿Qué se cree que está haciendo esa"
+    },
+    {
+      "word": "Natural-dye",
+      "translation": "teñido a mano"
+    },
+    {
+      "word": "Blanket-stitched vest",
+      "translation": "chaleco acolchado"
+    },
+    {
+      "word": "Hand-stitched",
+      "translation": "cosido a mano"
+    },
+    {
+      "word": "Quiet down!",
+      "translation": "¡Silencio!"
+    },
+    {
+      "word": "Walk away",
+      "translation": "alejarse"
+    },
+    {
+      "word": "Rev (verbo)",
+      "translation": "acelerar"
+    },
+    {
+      "word": "Exhibit (sustantivo)",
+      "translation": "anexo"
+    },
+    {
+      "word": "Sketch",
+      "translation": "boceto"
+    },
+    {
+      "word": "Picky",
+      "translation": "quisquilloso"
+    },
+    {
+      "word": "Put a cork in it",
+      "translation": "deja de hablar"
+    },
+    {
+      "word": "A jumble of letters",
+      "translation": "un revoltijo de letras"
+    },
+    {
+      "word": "Strain (verbo)",
+      "translation": "esforzarse, luchar"
+    },
+    {
+      "word": "Gasp (verbo)",
+      "translation": "jadear"
+    },
+    {
+      "word": "Siren blaring",
+      "translation": "sirena sonando"
+    },
+    {
+      "word": "Sugar-frosted",
+      "translation": "glaseado con azúcar"
+    },
+    {
+      "word": "Roundup",
+      "translation": "rodeo"
+    },
+    {
+      "word": "The yodeling cowgirl",
+      "translation": "la vaquera yodlera"
+    },
+    {
+      "word": "He’s the rootin’-est tootin’-est cowboy",
+      "translation": "él es el vaquero más entusiasta"
+    },
+    {
+      "word": "Jumbled audio",
+      "translation": "audio confuso"
+    },
+    {
+      "word": "Let’s roll",
+      "translation": "¡En marcha!"
+    },
+    {
+      "word": "Reckon (verbo)",
+      "translation": "suponer, pensar, creer"
+    },
+    {
+      "word": "This sure is a fast-burning wick",
+      "translation": "esta mecha se consume bien rápido"
+    },
+    {
+      "word": "Blast us to smithereens!",
+      "translation": "¡Haznos explotar en mil pedazos!"
+    },
+    {
+      "word": "Holy tarnation",
+      "translation": "maldita sea, demonios"
+    },
+    {
+      "word": "Critters",
+      "translation": "criaturas"
+    },
+    {
+      "word": "Scurry (verbo)",
+      "translation": "escabullirse, huir apresuradamente"
+    },
+    {
+      "word": "A stick of dynamite",
+      "translation": "un cartucho de dinamita"
+    },
+    {
+      "word": "You’re fanning the flames",
+      "translation": "estás echando leña al fuego"
+    },
+    {
+      "word": "Put out that fire",
+      "translation": "apaga ese fuego"
+    },
+    {
+      "word": "Tune in",
+      "translation": "sintonizar"
+    },
+    {
+      "word": "Go long!",
+      "translation": "¡Dale!, ¡Adelante!"
+    },
+    {
+      "word": "Record scratching",
+      "translation": "chirrido de aguja (en un tocadiscos)"
+    },
+    {
+      "word": "I can’t do storage again",
+      "translation": "¡Otra vez en el trastero, no!"
+    },
+    {
+      "word": "A popped seam",
+      "translation": "una costura reventada"
+    },
+    {
+      "word": "Are you shrink-wrapped?",
+      "translation": "¿Estás envasado al vacío?"
+    },
+    {
+      "word": "Owl hooting",
+      "translation": "búho hululando"
+    },
+    {
+      "word": "You had to bring that up",
+      "translation": "por qué tenías que decir eso"
+    },
+    {
+      "word": "Snort (verbo)",
+      "translation": "resoplar"
+    },
+    {
+      "word": "Muffled grunting",
+      "translation": "gruñido ahogado"
+    },
+    {
+      "word": "Rumble (verbo)",
+      "translation": "retumbar"
+    },
+    {
+      "word": "Gag (verbo)",
+      "translation": "atragantarse"
+    },
+    {
+      "word": "Mutter (verbo)",
+      "translation": "musitar"
+    },
+    {
+      "word": "Take it back!",
+      "translation": "¡Vuelve a decirlo!"
+    },
+    {
+      "word": "Cry out",
+      "translation": "gritar"
+    },
+    {
+      "word": "Cleaner",
+      "translation": "limpiador"
+    },
+    {
+      "word": "Is everyone present and accounted for?",
+      "translation": "¿Están todos presentes y contabilizados?"
+    },
+    {
+      "word": "Not quite everyone",
+      "translation": "no todos"
+    },
+    {
+      "word": "Riddles",
+      "translation": "acertijos"
+    },
+    {
+      "word": "Whoop (verbo)",
+      "translation": "exclamar"
+    },
+    {
+      "word": "I know what roadkill is",
+      "translation": "sé lo que es un atropello"
+    },
+    {
+      "word": "Mumble (verbo)",
+      "translation": "musitar"
+    },
+    {
+      "word": "Squeal (verbo)",
+      "translation": "chillar, chirriar"
+    },
+    {
+      "word": "Bellow (verbo)",
+      "translation": "bramir"
+    },
+    {
+      "word": "Motor pumping",
+      "translation": "bombeo con motor"
+    },
+    {
+      "word": "He’s for display only",
+      "translation": "es sólo para exhibición"
+    },
+    {
+      "word": "Tell me I wasn’t this deluded",
+      "translation": "dime que no estaba tan engañado"
+    },
+    {
+      "word": "No back talk!",
+      "translation": "¡No me contradigas!"
+    },
+    {
+      "word": "Has your mind been melded?",
+      "translation": "¿Te han lavado el cerebro?"
+    },
+    {
+      "word": "Halt (verbo)",
+      "translation": "detenerse"
+    },
+    {
+      "word": "Aisle",
+      "translation": "pasillo"
+    },
+    {
+      "word": "Turn into the spin",
+      "translation": "sigue con ese giro"
+    },
+    {
+      "word": "Shortsighted retailers",
+      "translation": "vendedores sin visión de futuro"
+    },
+    {
+      "word": "Slotted pig",
+      "translation": "cerdo ranurado"
+    },
+    {
+      "word": "They’re standard issue",
+      "translation": "son habituales"
+    },
+    {
+      "word": "Flash popping",
+      "translation": "destello repentino"
+    },
+    {
+      "word": "I’m fresh out of the box",
+      "translation": "soy nuevo de fábrica"
+    },
+    {
+      "word": "Look at this stitching",
+      "translation": "mira esa costura"
+    },
+    {
+      "word": "Amends",
+      "translation": "enmiendas"
+    },
+    {
+      "word": "Like it was meant to be",
+      "translation": "como si estuviera destinado a ser así"
+    },
+    {
+      "word": "Drift away",
+      "translation": "olvidarse, alejarse"
+    },
+    {
+      "word": "All along",
+      "translation": "todo el tiempo"
+    },
+    {
+      "word": "Pileup",
+      "translation": "choque en cadena"
+    },
+    {
+      "word": "Poultry man",
+      "translation": "vendedor de aves"
+    },
+    {
+      "word": "Scatting happily",
+      "translation": "gorjeando alegremente"
+    },
+    {
+      "word": "We’re gonna blast through the roof",
+      "translation": "vamos a volar por el techo"
+    },
+    {
+      "word": "My fuel cells have gone dry",
+      "translation": "mis pilas de combustible se han agotado"
+    },
+    {
+      "word": "I say we stack ourselves up",
+      "translation": "digo que nos apilemos"
+    },
+    {
+      "word": "Intercom",
+      "translation": "intercomunicador"
+    },
+    {
+      "word": "Bowel",
+      "translation": "entraña"
+    },
+    {
+      "word": "Prop up",
+      "translation": "apoyar, sostener (un soporte verticalmente)"
+    },
+    {
+      "word": "Grab hold!",
+      "translation": "¡Agárrense!"
+    },
+    {
+      "word": "To overnight six packages to Japan is how much?",
+      "translation": "¿Cuánto cuesta enviar seis paquetes"
+    },
+    {
+      "word": "That’s custom-fitted foam insulation you’ll be riding in",
+      "translation": "ese aislamiento de espuma"
+    },
+    {
+      "word": "Pork bellies are falling",
+      "translation": "las pancetas de cerdo están cayendo"
+    },
+    {
+      "word": "How much farther?",
+      "translation": "¿Cuánto falta?"
+    },
+    {
+      "word": "Halfway there",
+      "translation": "a la mitad de camino"
+    },
+    {
+      "word": "Servos",
+      "translation": "servomotores"
+    },
+    {
+      "word": "Reengaging gravity",
+      "translation": "reactivando la gravedad"
+    },
+    {
+      "word": "Wear off",
+      "translation": "desaparecer"
+    },
+    {
+      "word": "The high-ridingest, rooting-tootingest cowboy hero of all time",
+      "translation": "el más cabalgador,"
+    },
+    {
+      "word": "Nary a bit",
+      "translation": "nada en absoluto"
+    },
+    {
+      "word": "Trustysteed",
+      "translation": "caballo fiel"
+    },
+    {
+      "word": "Ride off",
+      "translation": "cabalgar"
+    },
+    {
+      "word": "Command deck",
+      "translation": "cubierta de comando"
+    },
+    {
+      "word": "Wooden captive",
+      "translation": "prisionero de madera"
+    },
+    {
+      "word": "Howl (verbo)",
+      "translation": "aullar"
+    },
+    {
+      "word": "Take it up higher",
+      "translation": "sube más alto"
+    },
+    {
+      "word": "Moan (verbo)",
+      "translation": "gemir"
+    },
+    {
+      "word": "We’re here to spring you, Woody",
+      "translation": "Estamos aquí para rescatarte Woody"
+    },
+    {
+      "word": "I’m in charge of this detachment",
+      "translation": "yo estoy a cargo de este destacamento"
+    },
+    {
+      "word": "My front end",
+      "translation": "mi parte delantera"
+    },
+    {
+      "word": "My back end",
+      "translation": "mi parte trasera"
+    },
+    {
+      "word": "This is weirding me out",
+      "translation": "esto me da mal rollo"
+    },
+    {
+      "word": "Pad of stuffing",
+      "translation": "almohadilla de relleno, relleno blando"
+    },
+    {
+      "word": "Metallic thud",
+      "translation": "ruido metali"
+    },
+    {
+      "word": "A dime-store shelf",
+      "translation": "un estante de tienda de 10 centavos"
+    },
+    {
+      "word": "My waiting has paid off",
+      "translation": "mi espera ha valido la pena"
+    },
+    {
+      "word": "No hand-me-down cowboy doll",
+      "translation": "ningún muñeco vaquero de segunda mano"
+    },
+    {
+      "word": "Upstart space toys",
+      "translation": "juguetes espaciales advenedizos"
+    },
+    {
+      "word": "Beefjerky",
+      "translation": "carne seca"
+    },
+    {
+      "word": "An ion blaster",
+      "translation": "un bláster de iones"
+    },
+    {
+      "word": "The emergency hatch",
+      "translation": "la escotilla de emergencia"
+    },
+    {
+      "word": "Knobs",
+      "translation": "pomos"
+    },
+    {
+      "word": "The wand of power",
+      "translation": "el mando a distancia"
+    },
+    {
+      "word": "Gears grinding",
+      "translation": "engranajes chirriando"
+    },
+    {
+      "word": "Mileage",
+      "translation": "kilometraje"
+    },
+    {
+      "word": "Flyboy",
+      "translation": "aviador"
+    },
+    {
+      "word": "Crumbs",
+      "translation": "migajas"
+    },
+    {
+      "word": "Groan (verbo)",
+      "translation": "gemir"
+    },
+    {
+      "word": "Nice flash though",
+      "translation": "bonito flash duro"
+    },
+    {
+      "word": "Landfill",
+      "translation": "vertedero"
+    },
+    {
+      "word": "Whimper (verbo)",
+      "translation": "gimotear"
+    },
+    {
+      "word": "Happy trails, prospector",
+      "translation": "buen camino, buscador"
+    },
+    {
+      "word": "Help us out here!",
+      "translation": "¡Ayúdanos en esto!"
+    },
+    {
+      "word": "Glass tinkling",
+      "translation": "cristal tintineando"
+    },
+    {
+      "word": "Shatter (verbo)",
+      "translation": "hacerse añicos"
+    },
+    {
+      "word": "Nonsense!",
+      "translation": "¡Tonterías!"
+    },
+    {
+      "word": "Nice roping, cowboy",
+      "translation": "buen lazo, vaquero"
+    },
+    {
+      "word": "Come off",
+      "translation": "despegar (de una cosa)"
+    },
+    {
+      "word": "Smooch (verbo)",
+      "translation": "besarse"
+    },
+    {
+      "word": "Come on over",
+      "translation": "ven aquí"
+    }
+  ]
+}

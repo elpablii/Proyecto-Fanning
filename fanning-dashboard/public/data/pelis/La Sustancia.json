@@ -1,0 +1,414 @@
+{
+  "title": "La Sustancia",
+  "englishAnalysis": "Lenguaje corporativo, superficial y centrado en la belleza estética de Los Ángeles, contrastado con terminología médica cruda de ciencia ficción ('matrix', 'stabilize').",
+  "vocabulary": [
+    {
+      "word": "Ethereal",
+      "translation": "etéreo, etérea"
+    },
+    {
+      "word": "Soothing, bell-like percussion",
+      "translation": "percusión relajante, como de campana"
+    },
+    {
+      "word": "Plucking (sustantivo en música)",
+      "translation": "punteo"
+    },
+    {
+      "word": "Squelching (acotación (traducción para esta película))",
+      "translation": "chasquido viscoso, silbido,"
+    },
+    {
+      "word": "Dreamy twinkling (acotación)",
+      "translation": "destello de ensueño"
+    },
+    {
+      "word": "Passerby",
+      "translation": "transéunte"
+    },
+    {
+      "word": "Haunting (adjetivo)",
+      "translation": "inquietante"
+    },
+    {
+      "word": "Traffic clutter",
+      "translation": "congestión de tráfico"
+    },
+    {
+      "word": "Trolley",
+      "translation": "carrito"
+    },
+    {
+      "word": "Drilling nearby",
+      "translation": "perforaciones cercanas"
+    },
+    {
+      "word": "Workout music",
+      "translation": "música de entrenamiento"
+    },
+    {
+      "word": "Square (informal y no literal)",
+      "translation": "anticuado, pasado de moda"
+    },
+    {
+      "word": "Bikini bods",
+      "translation": "cuerpos en bikini"
+    },
+    {
+      "word": "Great workout",
+      "translation": "gran entrenamiento"
+    },
+    {
+      "word": "Get these lights down for me",
+      "translation": "baja estas luces por mí"
+    },
+    {
+      "word": "Belt buckle",
+      "translation": "hebilla de cinturón"
+    },
+    {
+      "word": "Scratch (sustantivo)",
+      "translation": "arañazo, raya, rasguño"
+    },
+    {
+      "word": "Synth beat",
+      "translation": "ritmo de sintetizador"
+    },
+    {
+      "word": "C'est la vie (en francés)",
+      "translation": "así es la vida"
+    },
+    {
+      "word": "What a mensch",
+      "translation": "qué hombre, vaya hombre"
+    },
+    {
+      "word": "A cracked molar",
+      "translation": "una grieta agrietada"
+    },
+    {
+      "word": "You're good to go (frase no literal)",
+      "translation": "ya puedes irte"
+    },
+    {
+      "word": "Pager",
+      "translation": "buscapersonas"
+    },
+    {
+      "word": "Droning tone builds up (no literal)",
+      "translation": "aumenta el tono monótono/ronco"
+    },
+    {
+      "word": "From 10th grade home room",
+      "translation": "desde el aula de décimo grado"
+    },
+    {
+      "word": "Eerie synth screech",
+      "translation": "espeluznante chirrido de sintetizador"
+    },
+    {
+      "word": "You drop to the ground",
+      "translation": "te tiras/dejas caer al suelo"
+    },
+    {
+      "word": "Airy",
+      "translation": "aéreo"
+    },
+    {
+      "word": "Toilet flushes (acotación)",
+      "translation": "descarga del inodoro"
+    },
+    {
+      "word": "Ringback tone",
+      "translation": "tono de llamada de retorno"
+    },
+    {
+      "word": "Drone-like (acotación)",
+      "translation": "como un zumbido"
+    },
+    {
+      "word": "Music subsides",
+      "translation": "la música se detiene"
+    },
+    {
+      "word": "Hollow drone (no literal)",
+      "translation": "zumbido hueco"
+    },
+    {
+      "word": "Unsettling",
+      "translation": "inquietante"
+    },
+    {
+      "word": "Raw scream",
+      "translation": "grito crudo"
+    },
+    {
+      "word": "Dampen (verbo en música)",
+      "translation": "amortiguar, apagar"
+    },
+    {
+      "word": "Stingers",
+      "translation": "aguijones"
+    },
+    {
+      "word": "Eerie stinger",
+      "translation": "aguja espeluznante"
+    },
+    {
+      "word": "Scartchy reverberation",
+      "translation": "reverberación escarchada"
+    },
+    {
+      "word": "Muffled flapping and squelching",
+      "translation": "aleteo sordo y chirrido"
+    },
+    {
+      "word": "Music crescendos (acotación)",
+      "translation": "la música se intensifica"
+    },
+    {
+      "word": "Twinkling (sustantivo)",
+      "translation": "brillo, centelleo"
+    },
+    {
+      "word": "Heartbeats race (no literal)",
+      "translation": "latidos acelerados"
+    },
+    {
+      "word": "Breathy",
+      "translation": "suave"
+    },
+    {
+      "word": "Thump (sustantivo)",
+      "translation": "golpe"
+    },
+    {
+      "word": "Drum (verbo)",
+      "translation": "tamborilear"
+    },
+    {
+      "word": "So you jump out",
+      "translation": "entonces saltas"
+    },
+    {
+      "word": "Thick thumps",
+      "translation": "golpes gruesos"
+    },
+    {
+      "word": "Gut-wrenching scream",
+      "translation": "grito desgarrador"
+    },
+    {
+      "word": "We all chipped in",
+      "translation": "todos contribuimos"
+    },
+    {
+      "word": "They are expensing stock options",
+      "translation": "están contabilizando las opciones sobre acciones"
+    },
+    {
+      "word": "You'll be toting around",
+      "translation": "llevarás contigo"
+    },
+    {
+      "word": "Water drop",
+      "translation": "gota de agua"
+    },
+    {
+      "word": "Sturdy",
+      "translation": "robusta, resistente"
+    },
+    {
+      "word": "Tenant",
+      "translation": "inquilino, arrendatario"
+    },
+    {
+      "word": "I'm quite Handy",
+      "translation": "soy bastante manitas"
+    },
+    {
+      "word": "Sharp powering up stinger",
+      "translation": "aguja afilada encendida"
+    },
+    {
+      "word": "It's time to pump it up!",
+      "translation": "¡Es hora de darle caña!"
+    },
+    {
+      "word": "Breezy (adjetivo)",
+      "translation": "alegre, casual, fresca"
+    },
+    {
+      "word": "Abrupt powering down stinger",
+      "translation": "apagado brusco del aguijón"
+    },
+    {
+      "word": "Engine revs (acotación)",
+      "translation": "revoluciones del motor"
+    },
+    {
+      "word": "Huff (verbo)",
+      "translation": "resoplar"
+    },
+    {
+      "word": "Piercing screeches",
+      "translation": "gritos/chillidos desgarradores"
+    },
+    {
+      "word": "Scratchy string music joins",
+      "translation": "se une la música de cuerda rasposa"
+    },
+    {
+      "word": "Pounding beats",
+      "translation": "ritmos fuertes"
+    },
+    {
+      "word": "Holy moly!",
+      "translation": "¡Santo cielo!, ¡Caramba!"
+    },
+    {
+      "word": "Pounding bass beats",
+      "translation": "bajos contundentes"
+    },
+    {
+      "word": "Eating away from me?",
+      "translation": "¿Comiendo de ti?"
+    },
+    {
+      "word": "And grab a drink",
+      "translation": "y tomar algo (una bebida)"
+    },
+    {
+      "word": "Distressed breathing",
+      "translation": "respiración agitada/angustiada"
+    },
+    {
+      "word": "Glitchy rumbling",
+      "translation": "estruendo irregular"
+    },
+    {
+      "word": "Resonating pumps",
+      "translation": "bombas resonantes"
+    },
+    {
+      "word": "Squat",
+      "translation": "en cuclillas"
+    },
+    {
+      "word": "Circle (verbo)",
+      "translation": "circunvalar, rodear"
+    },
+    {
+      "word": "My dressing gown",
+      "translation": "mi bata"
+    },
+    {
+      "word": "Frame (en videos)",
+      "translation": "fotograma"
+    },
+    {
+      "word": "Stuffing her face",
+      "translation": "rellenándose la cara"
+    },
+    {
+      "word": "Ratings are through the roof",
+      "translation": "los índices de audiencia están por las nubes"
+    },
+    {
+      "word": "We're up to, like 216",
+      "translation": "estamos como en 216"
+    },
+    {
+      "word": "Swell (verbo en sonidos)",
+      "translation": "crecer, aumentar"
+    },
+    {
+      "word": "Dreadfully",
+      "translation": "espantosamente, terriblemente"
+    },
+    {
+      "word": "Disjointed music",
+      "translation": "música inconexa"
+    },
+    {
+      "word": "A little something",
+      "translation": "algo, una cosita"
+    },
+    {
+      "word": "Host (verbo en programas de televisión)",
+      "translation": "presentar, ser anfitrión"
+    },
+    {
+      "word": "Step in",
+      "translation": "intervenir, meterse"
+    },
+    {
+      "word": "You've drained it all out",
+      "translation": "lo has vaciado/drenado todo"
+    },
+    {
+      "word": "Reboot (verbo)",
+      "translation": "reiniciar"
+    },
+    {
+      "word": "Cranky",
+      "translation": "malhumorado, de mal humor"
+    },
+    {
+      "word": "Raspy voice",
+      "translation": "voz ronca/áspera/rasposa"
+    },
+    {
+      "word": "Honks",
+      "translation": "bocinazos"
+    },
+    {
+      "word": "Glitchy screech",
+      "translation": "chirrido irregular"
+    },
+    {
+      "word": "Fitting room",
+      "translation": "probador"
+    },
+    {
+      "word": "A bit of downtime",
+      "translation": "un poco de tiempo libre"
+    },
+    {
+      "word": "Stifled",
+      "translation": "ahogado, sofocado"
+    },
+    {
+      "word": "Glitchy",
+      "translation": "irregular, con fallos"
+    },
+    {
+      "word": "Tinkling (acotación)",
+      "translation": "tintineo"
+    },
+    {
+      "word": "Dampened footsteps",
+      "translation": "pasos amortiguados"
+    },
+    {
+      "word": "Striking crescendo",
+      "translation": "crescendo llamativo/impactante"
+    },
+    {
+      "word": "Coarse breathing",
+      "translation": "respiración agitada/entrecortada"
+    },
+    {
+      "word": "Wistful music",
+      "translation": "música melancólica, música nostálgica"
+    },
+    {
+      "word": "Mild",
+      "translation": "leve, suave"
+    },
+    {
+      "word": "Birdsong (acotación)",
+      "translation": "cantar de los pájaros"
+    }
+  ]
+}

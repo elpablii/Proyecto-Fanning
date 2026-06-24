@@ -1,0 +1,622 @@
+{
+  "title": "Star Wars Episodio I The Phantom Menace",
+  "englishAnalysis": "Llena de terminología política, diplomática y de ciencia ficción ('senate', 'treaty', 'Jedi', 'force'). El lenguaje formal y solemne de los Jedi contrasta con los diversos dialectos alienígenas (como el de Jar Jar Binks, que es un reto de comprensión). Mezcla acentos británicos y americanos.",
+  "vocabulary": [
+    {
+      "word": "Elusive",
+      "translation": "escurridizo, elusivo"
+    },
+    {
+      "word": "Mindful",
+      "translation": "atento, consciente"
+    },
+    {
+      "word": "At the expense",
+      "translation": "a costa, a expensas"
+    },
+    {
+      "word": "Settlement",
+      "translation": "acuerdo, arreglo"
+    },
+    {
+      "word": "Are you brain-dead?",
+      "translation": "¿Estás descerebrado?"
+    },
+    {
+      "word": "Stunted slime",
+      "translation": "slime atrofiado"
+    },
+    {
+      "word": "Blast them",
+      "translation": "destrúyelos, destrózalos, explótalos"
+    },
+    {
+      "word": "Seal off the bridge",
+      "translation": "cierra el puente"
+    },
+    {
+      "word": "Blast doors",
+      "translation": "puertas blindadas"
+    },
+    {
+      "word": "Standoff",
+      "translation": "punto muerto, empate"
+    },
+    {
+      "word": "They’re no match for droidekas",
+      "translation": "no son rivales para los droidekas"
+    },
+    {
+      "word": "An odd play",
+      "translation": "una jugada extraña"
+    },
+    {
+      "word": "Stow aboard",
+      "translation": "estibar a bordo"
+    },
+    {
+      "word": "Assurances",
+      "translation": "garantías, seguridades"
+    },
+    {
+      "word": "Handiwork",
+      "translation": "trabajo/obra manual"
+    },
+    {
+      "word": "Rely (verbo)",
+      "translation": "confiar, apostar (en algo no tangible)"
+    },
+    {
+      "word": "A battle hardened Federation army",
+      "translation": "un ejército de la Federación curtido en mil"
+    },
+    {
+      "word": "They may have gotten on one of your landing craft",
+      "translation": "pueden haber subido a una de sus"
+    },
+    {
+      "word": "Are you brainless?",
+      "translation": "¿Estás descerebrado?"
+    },
+    {
+      "word": "Stay down",
+      "translation": "¡Agáchate!, ¡Al suelo!"
+    },
+    {
+      "word": "Grind into tiny pieces",
+      "translation": "hacer pedacitos"
+    },
+    {
+      "word": "Blast us into oblivion",
+      "translation": "volarnos en pedazos"
+    },
+    {
+      "word": "My warning you",
+      "translation": "te lo advierto"
+    },
+    {
+      "word": "A symbiont circle",
+      "translation": "un círculo simbionte"
+    },
+    {
+      "word": "Speed (verbo)",
+      "translation": "acelerar"
+    },
+    {
+      "word": "Clumsy",
+      "translation": "torpe"
+    },
+    {
+      "word": "Bogged down",
+      "translation": "empantanado"
+    },
+    {
+      "word": "You overdid it",
+      "translation": "te pasaste"
+    },
+    {
+      "word": "Head for that outcropping",
+      "translation": "dirígete a ese afloramiento"
+    },
+    {
+      "word": "They’ve knocked out all our communications",
+      "translation": "han derribado todas nuestras"
+    },
+    {
+      "word": "Plead (verbo)",
+      "translation": "defender"
+    },
+    {
+      "word": "That doesn’t compute",
+      "translation": "eso no tiene sentido"
+    },
+    {
+      "word": "We’ll be sitting ducks",
+      "translation": "seremos blancos fáciles"
+    },
+    {
+      "word": "He bypassed the main power drive",
+      "translation": "pasó por alto la unidad de alimentación principal"
+    },
+    {
+      "word": "Deflector shields up at maximum",
+      "translation": "escudos deflectores al máximo"
+    },
+    {
+      "word": "The hyperdrive is leaking",
+      "translation": "el hipermotor tiene una fuga"
+    },
+    {
+      "word": "Bargain",
+      "translation": "trato, negocio"
+    },
+    {
+      "word": "It is to be commended",
+      "translation": "es digno de elogio"
+    },
+    {
+      "word": "You must trust my judgment",
+      "translation": "debes confiar en mi juicio"
+    },
+    {
+      "word": "Be wary",
+      "translation": "ten cuidado"
+    },
+    {
+      "word": "Handmaiden",
+      "translation": "servidora, doncella, esclava"
+    },
+    {
+      "word": "Pleasant",
+      "translation": "agradable"
+    },
+    {
+      "word": "Moisture farms",
+      "translation": "granjas de humedad"
+    },
+    {
+      "word": "Scavengers",
+      "translation": "carroñeros"
+    },
+    {
+      "word": "Havens",
+      "translation": "refugios"
+    },
+    {
+      "word": "Dealer",
+      "translation": "distribuidor, vendedor, traficante"
+    },
+    {
+      "word": "Trader",
+      "translation": "comerciante"
+    },
+    {
+      "word": "I’m the only one hereabouts who has one",
+      "translation": "soy el único por aquí que tiene uno"
+    },
+    {
+      "word": "Outlanders",
+      "translation": "forasteros"
+    },
+    {
+      "word": "Racks",
+      "translation": "rejillas, bastidores, estanterías"
+    },
+    {
+      "word": "Barter (verbo)",
+      "translation": "canjear, intercambiar, hacer trueque"
+    },
+    {
+      "word": "A big-time outlander",
+      "translation": "un gran forastero"
+    },
+    {
+      "word": "I’d hate to see you diced before we race again",
+      "translation": "odiaría verte cortado antes de que"
+    },
+    {
+      "word": "Squash (verbo)",
+      "translation": "aplastar"
+    },
+    {
+      "word": "Orange goo",
+      "translation": "sustancia naranja"
+    },
+    {
+      "word": "You were heading into trouble",
+      "translation": "te estabas metiendo en problemas"
+    },
+    {
+      "word": "Pallies",
+      "translation": "amigos, compañeros, colegas"
+    },
+    {
+      "word": "Death toll",
+      "translation": "número de muertos"
+    },
+    {
+      "word": "Bait",
+      "translation": "cebo, señuelo, carnada"
+    },
+    {
+      "word": "Sparsely",
+      "translation": "poco, escasamente"
+    },
+    {
+      "word": "There’s no fooling you",
+      "translation": "no hay quien te engañe, no hay forma de engañarte"
+    },
+    {
+      "word": "Outer rim",
+      "translation": "borde exterior"
+    },
+    {
+      "word": "We’re stranded here",
+      "translation": "estamos varados aquí"
+    },
+    {
+      "word": "Acquire (verbo)",
+      "translation": "adquirir"
+    },
+    {
+      "word": "Greed",
+      "translation": "codicia, avaricia"
+    },
+    {
+      "word": "Prize money",
+      "translation": "dinero del premio"
+    },
+    {
+      "word": "The entry fee",
+      "translation": "cuota de entrada, precio de entrada"
+    },
+    {
+      "word": "Smash up",
+      "translation": "destrozar"
+    },
+    {
+      "word": "Sebulba flashed me with his vents",
+      "translation": "Sebulba me mostró sus respiraderos"
+    },
+    {
+      "word": "Front the cash",
+      "translation": "adelantar el dinero"
+    },
+    {
+      "word": "Bug squash",
+      "translation": "aplastar insectos"
+    },
+    {
+      "word": "Energy binders",
+      "translation": "aglutinantes energéticos"
+    },
+    {
+      "word": "A little odd",
+      "translation": "un poco raro"
+    },
+    {
+      "word": "He’s very odd",
+      "translation": "él es muy extraño"
+    },
+    {
+      "word": "Midi-chlorian (sustantivo técnico de Star Wars)",
+      "translation": "midicloriano"
+    },
+    {
+      "word": "The reading is off the chart",
+      "translation": "la lectura se sale del gráfico"
+    },
+    {
+      "word": "Get wrong",
+      "translation": "malinterpretar"
+    },
+    {
+      "word": "Not by a long shot",
+      "translation": "ni de lejos"
+    },
+    {
+      "word": "This small toss",
+      "translation": "este pequeño lanzamiento"
+    },
+    {
+      "word": "Perilous",
+      "translation": "peligroso"
+    },
+    {
+      "word": "Dreadful starships",
+      "translation": "horribles naves estelares"
+    },
+    {
+      "word": "A big turnout here",
+      "translation": "una gran participación aquí"
+    },
+    {
+      "word": "The outer rim territories",
+      "translation": "los territorios del borde exterior"
+    },
+    {
+      "word": "They’re making their way out",
+      "translation": "se están abriendo camino"
+    },
+    {
+      "word": "Nearside pole position",
+      "translation": "cerca de la pole position"
+    },
+    {
+      "word": "A hearty hello",
+      "translation": "un cordial saludo, un afectuoso saludo"
+    },
+    {
+      "word": "Mighty",
+      "translation": "poderoso"
+    },
+    {
+      "word": "With his record setting pit droid team",
+      "translation": "con su equipo de pit droides que bate récords"
+    },
+    {
+      "word": "Reckless",
+      "translation": "imprudente, temerario"
+    },
+    {
+      "word": "Skywalker has stalled",
+      "translation": "Skywalker se ha estancado"
+    },
+    {
+      "word": "He will be hard-pressed",
+      "translation": "le será dificil"
+    },
+    {
+      "word": "Catch up",
+      "translation": "ponerse al día, alcanzar"
+    },
+    {
+      "word": "They’re camped out",
+      "translation": "están acampados"
+    },
+    {
+      "word": "There goes Quadinaros’ power coupling",
+      "translation": "ahí va el poder de acoplamiento de"
+    },
+    {
+      "word": "A quick control thrust",
+      "translation": "un rápido empuje de control"
+    },
+    {
+      "word": "You swindled me!",
+      "translation": "¡Me estafaste!"
+    },
+    {
+      "word": "Settle (verbo)",
+      "translation": "resolver"
+    },
+    {
+      "word": "Swamp",
+      "translation": "pantano"
+    },
+    {
+      "word": "Bow (verbo)",
+      "translation": "inclinarse, someterse"
+    },
+    {
+      "word": "I carved it out of a japor snippet",
+      "translation": "lo tallé de un fragmento de japor"
+    },
+    {
+      "word": "I don’t need this to remember you by",
+      "translation": "no necesito esto para recordarte"
+    },
+    {
+      "word": "Shuttle (sustantivo)",
+      "translation": "lanzadera, transbordador"
+    },
+    {
+      "word": "Breakdown",
+      "translation": "avería, fallo"
+    },
+    {
+      "word": "Relay (verbo)",
+      "translation": "transmitir"
+    },
+    {
+      "word": "Distressed",
+      "translation": "angustiado"
+    },
+    {
+      "word": "Civility",
+      "translation": "civilidad"
+    },
+    {
+      "word": "Greedy, squabbing delegates",
+      "translation": "delegados codiciosos y escuálidos"
+    },
+    {
+      "word": "He’s mired by baseless accusations of corruption",
+      "translation": "está sumido en acusaciones"
+    },
+    {
+      "word": "Submit a plea",
+      "translation": "presentar un alegato"
+    },
+    {
+      "word": "Unravel (verbo)",
+      "translation": "desvelar, desentrañar"
+    },
+    {
+      "word": "Vergence",
+      "translation": "vergencia"
+    },
+    {
+      "word": "I’ve sent Padme on an errand",
+      "translation": "he enviado a Padme a hacer un recado"
+    },
+    {
+      "word": "Engulf (verbo)",
+      "translation": "engullir"
+    },
+    {
+      "word": "This is outrageous!",
+      "translation": "¡Esto es indignante!"
+    },
+    {
+      "word": "Chair (en términos politicos)",
+      "translation": "presidente"
+    },
+    {
+      "word": "Ruler",
+      "translation": "gobernante, soberano"
+    },
+    {
+      "word": "Ascertain (verbo)",
+      "translation": "comprobar, verificar"
+    },
+    {
+      "word": "Concur (verbo)",
+      "translation": "concordar"
+    },
+    {
+      "word": "Appoint (verbo)",
+      "translation": "designar"
+    },
+    {
+      "word": "Payroll",
+      "translation": "nómina"
+    },
+    {
+      "word": "Defer (verbo)",
+      "translation": "aplazar"
+    },
+    {
+      "word": "Be mindful",
+      "translation": "ser consciente"
+    },
+    {
+      "word": "Dwell (verbo)",
+      "translation": "morar, habitar"
+    },
+    {
+      "word": "Get pasted",
+      "translation": "pegarse"
+    },
+    {
+      "word": "Clouded",
+      "translation": "nublado"
+    },
+    {
+      "word": "Our own counsel will keep on who’s ready",
+      "translation": "nuestro propio consejo mantendrá a quien"
+    },
+    {
+      "word": "He’s headstrong",
+      "translation": "es testarudo"
+    },
+    {
+      "word": "Draw out",
+      "translation": "sacar"
+    },
+    {
+      "word": "Symbionts",
+      "translation": "simbiontes"
+    },
+    {
+      "word": "Quiet (verbo)",
+      "translation": "calmar, aquietar"
+    },
+    {
+      "word": "The forward stabilizers",
+      "translation": "los estabilizadores delanteros"
+    },
+    {
+      "word": "Pitch",
+      "translation": "campo, terreno de juego"
+    },
+    {
+      "word": "You catch on pretty quick",
+      "translation": "te das cuenta muy rápido"
+    },
+    {
+      "word": "I have one battleship on my scope",
+      "translation": "tengo un acorazado en mi mira"
+    },
+    {
+      "word": "They will not be easily swayed",
+      "translation": "no se dejarán convencer fácilmente"
+    },
+    {
+      "word": "Trials",
+      "translation": "pruebas"
+    },
+    {
+      "word": "Foresee (verbo)",
+      "translation": "prever"
+    },
+    {
+      "word": "Decoy",
+      "translation": "señuelo"
+    },
+    {
+      "word": "Diversion",
+      "translation": "distracción"
+    },
+    {
+      "word": "Viceroy",
+      "translation": "virrey"
+    },
+    {
+      "word": "Foolish",
+      "translation": "tonto"
+    },
+    {
+      "word": "Assemble (verbo en algunos contextos)",
+      "translation": "reunirse"
+    },
+    {
+      "word": "Cockpit",
+      "translation": "cabina"
+    },
+    {
+      "word": "Deflector shield",
+      "translation": "escudo deflector"
+    },
+    {
+      "word": "Ascension guns!",
+      "translation": "¡Armas de ascensión!"
+    },
+    {
+      "word": "Big boomers",
+      "translation": "grandes boomers"
+    },
+    {
+      "word": "Give me a lift",
+      "translation": "llévame, dame un aventón"
+    },
+    {
+      "word": "Put down your weapons",
+      "translation": "bajen sus armas"
+    },
+    {
+      "word": "Overheated",
+      "translation": "sobrecalentado"
+    },
+    {
+      "word": "Pointless",
+      "translation": "inútil, sin sentido"
+    },
+    {
+      "word": "Jam the doors",
+      "translation": "atranquen las puertas"
+    },
+    {
+      "word": "Out of the main hold",
+      "translation": "fuera de la bodega principal"
+    },
+    {
+      "word": "Boldness",
+      "translation": "audacia, osadía, valentía"
+    },
+    {
+      "word": "Defiance",
+      "translation": "desafío"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "title": "Coraline",
+  "englishAnalysis": "Ofrece un inglés encantador pero inquietante. Destacan las estructuras curiosas, modismos ligeramente pasados de moda y el tono de fantasía oscura. Muy útil para vocabulario doméstico y descriptivo inusual.",
+  "vocabulary": [
+    {
+      "word": "Muscle up",
+      "translation": "hacer fuerza, hacer músculos"
+    },
+    {
+      "word": "You mangy thing",
+      "translation": "sarnoso"
+    },
+    {
+      "word": "Magic dowser",
+      "translation": "zahorí mágico"
+    },
+    {
+      "word": "Barren",
+      "translation": "estéril, árido"
+    },
+    {
+      "word": "Branch (alusivo a la parte de un árbol)",
+      "translation": "rama"
+    },
+    {
+      "word": "Dowsing rod",
+      "translation": "varita de zahorí"
+    },
+    {
+      "word": "Stalk (verbo en términos sociales)",
+      "translation": "acosar, acechar"
+    },
+    {
+      "word": "Feral",
+      "translation": "salvaje, asilvestrado"
+    },
+    {
+      "word": "Hollow (sustantivo)",
+      "translation": "hueco, cavidad"
+    },
+    {
+      "word": "What'd you get saddled with?",
+      "translation": "¿Qué te han cargado?"
+    },
+    {
+      "word": "Garden (verbo)",
+      "translation": "trabajar en el jardín"
+    },
+    {
+      "word": "Trunk (sustantivo en contexto no vehicular)",
+      "translation": "baúl"
+    },
+    {
+      "word": "Pester (verbo)",
+      "translation": "molestar, dar la lata"
+    },
+    {
+      "word": "Zip it! (frase no literal)",
+      "translation": "¡Cierra el pico!"
+    },
+    {
+      "word": "My twitchy-witchy girl",
+      "translation": "mi chica nerviosa y bruja"
+    },
+    {
+      "word": "Porridge",
+      "translation": "gachas de avena"
+    },
+    {
+      "word": "Chard",
+      "translation": "acelga"
+    },
+    {
+      "word": "Slime",
+      "translation": "baba"
+    },
+    {
+      "word": "Fusspot (sustantivo informal)",
+      "translation": "mocoso"
+    },
+    {
+      "word": "Chicken breast",
+      "translation": "pechuga de pollo"
+    },
+    {
+      "word": "Gravy",
+      "translation": "salsa"
+    },
+    {
+      "word": "Sweet peas",
+      "translation": "guisantes dulces"
+    },
+    {
+      "word": "Corn on the cob",
+      "translation": "choclo, mazorca de maíz"
+    },
+    {
+      "word": "Facials",
+      "translation": "tratamientos faciales"
+    },
+    {
+      "word": "Chook",
+      "translation": "gallina, pollo"
+    },
+    {
+      "word": "Cripes almighty!",
+      "translation": "¡Por todos los cielos!, ¡Caramba!"
+    },
+    {
+      "word": "Rash",
+      "translation": "sarpullido"
+    },
+    {
+      "word": "Dingbats",
+      "translation": "idiotas, tontos"
+    },
+    {
+      "word": "Cluck (verbo)",
+      "translation": "cacarear"
+    },
+    {
+      "word": "Sneak (verbo)",
+      "translation": "colarse, escabullirse"
+    },
+    {
+      "word": "Peek (verbo)",
+      "translation": "echar un vistazo, mirar"
+    },
+    {
+      "word": "Wallpaper",
+      "translation": "papel pintado, papel tapiz, fondo de pantalla"
+    },
+    {
+      "word": "Yapping (sustantivo)",
+      "translation": "aullidos, ladridos"
+    },
+    {
+      "word": "Part (verbo)",
+      "translation": "desprender, separar, partir"
+    },
+    {
+      "word": "We had them stuffed",
+      "translation": "los habíamos rellenado"
+    },
+    {
+      "word": "It's hand-pulled taffy",
+      "translation": "es caramelo tirado a mano"
+    },
+    {
+      "word": "Thrice",
+      "translation": "tres veces"
+    },
+    {
+      "word": "Dog yips",
+      "translation": "perro aullando/ladrando"
+    },
+    {
+      "word": "Stepladder",
+      "translation": "escalera de mano"
+    },
+    {
+      "word": "Slug",
+      "translation": "babosa"
+    },
+    {
+      "word": "Wuss puss",
+      "translation": "cobarde, marica"
+    },
+    {
+      "word": "Mimics chomping",
+      "translation": "imita la masticación"
+    },
+    {
+      "word": "Go fetch (verbo)",
+      "translation": "ir a buscar, ir a por (algo o alguien)"
+    },
+    {
+      "word": "You dragon snappers",
+      "translation": "dragoncito"
+    },
+    {
+      "word": "Perform (sustantivo)",
+      "translation": "espectáculo, actuación"
+    },
+    {
+      "word": "You're awful cheerful",
+      "translation": "eres muy alegre, eres horriblemente alegre"
+    },
+    {
+      "word": "Thump (verbo)",
+      "translation": "palpitar, latir"
+    },
+    {
+      "word": "Astounding",
+      "translation": "asombroso, sorprendente"
+    },
+    {
+      "word": "Squash",
+      "translation": "calabaza"
+    },
+    {
+      "word": "Don’t fret",
+      "translation": "no te preocupes"
+    },
+    {
+      "word": "You dizzy dreamer",
+      "translation": "soñador mareado"
+    },
+    {
+      "word": "Gears cranking",
+      "translation": "engranajes en marcha"
+    },
+    {
+      "word": "Put them back",
+      "translation": "devuélvelos"
+    },
+    {
+      "word": "Wrap (sustantivo)",
+      "translation": "envoltura"
+    },
+    {
+      "word": "Grossgusting",
+      "translation": "qué asco"
+    },
+    {
+      "word": "Orchestra tuning",
+      "translation": "afinación de la orquesta"
+    },
+    {
+      "word": "Bowlegged woman",
+      "translation": "mujer de piernas arqueadas"
+    },
+    {
+      "word": "A big-bottomed sea witch may bob through the waves",
+      "translation": "una bruja marina de gran fondo"
+    },
+    {
+      "word": "And hope to lead sailors astray",
+      "translation": "y esperan extraviar a los marineros"
+    },
+    {
+      "word": "Bodice",
+      "translation": "corpiño"
+    },
+    {
+      "word": "An alluring display",
+      "translation": "un despliegue seductor"
+    },
+    {
+      "word": "Oysters",
+      "translation": "ostras"
+    },
+    {
+      "word": "Sailors swooning",
+      "translation": "marineros desmayados"
+    },
+    {
+      "word": "Paragon",
+      "translation": "paragón, dechado"
+    },
+    {
+      "word": "Swoop down",
+      "translation": "lanzarse/bajar/caer en picado"
+    },
+    {
+      "word": "Vermillion",
+      "translation": "bermellón"
+    },
+    {
+      "word": "Chartreuse",
+      "translation": "color chartreuse"
+    },
+    {
+      "word": "Tuck in",
+      "translation": "arropar"
+    },
+    {
+      "word": "Get a grip (frase informal)",
+      "translation": "contrólate"
+    },
+    {
+      "word": "All will be swell",
+      "translation": "todo irá bien"
+    },
+    {
+      "word": "No point (frase informal)",
+      "translation": "no sirve de nada"
+    },
+    {
+      "word": "Cocoa beetles",
+      "translation": "escarabajos de cacao"
+    },
+    {
+      "word": "Beldam (sustantivo alusivo a una adulta mayor)",
+      "translation": "vieja, bruja"
+    },
+    {
+      "word": "Lure (verbo)",
+      "translation": "atraer"
+    },
+    {
+      "word": "Braid",
+      "translation": "trenza"
+    },
+    {
+      "word": "Exclaims in disbelief",
+      "translation": "exclama con incredulidad"
+    },
+    {
+      "word": "You creep!",
+      "translation": "¡Maldito!"
+    },
+    {
+      "word": "Coraline says her parents have vanished quite completely",
+      "translation": "Coraline dice que sus padres"
+    },
+    {
+      "word": "Gammy legs",
+      "translation": "piernas de gamuza"
+    },
+    {
+      "word": "She's got a thing for games",
+      "translation": "a ella le gustan los juegos"
+    },
+    {
+      "word": "They've grown bored of you",
+      "translation": "ellos se han aburrido de ti"
+    },
+    {
+      "word": "Garbled (adjetivo)",
+      "translation": "confuso"
+    },
+    {
+      "word": "Rustle (verbo)",
+      "translation": "crujir"
+    },
+    {
+      "word": "Web (sustantivo en términos no informáticos)",
+      "translation": "telaraña, red"
+    },
+    {
+      "word": "Neglected",
+      "translation": "descuidado, desatendido"
+    },
+    {
+      "word": "Vermin",
+      "translation": "alimañas, sabandijas"
+    },
+    {
+      "word": "Cheating girl",
+      "translation": "chica tramposa"
+    },
+    {
+      "word": "Snow globe",
+      "translation": "esfera de nieve, globo de nieve"
+    },
+    {
+      "word": "Get yourself cleaned up",
+      "translation": "aséate, límpiese"
+    },
+    {
+      "word": "What's gotten into you?",
+      "translation": "¿Qué te ha pasado?, ¿Qué te pasa?"
+    },
+    {
+      "word": "Eccentric",
+      "translation": "excéntrico, extravagante"
+    },
+    {
+      "word": "'Tain't all bad",
+      "translation": "no todo es malo"
+    },
+    {
+      "word": "Thou art (frase en inglés antiguo)",
+      "translation": "tú eres, tú estás"
+    },
+    {
+      "word": "Bowls",
+      "translation": "tazones, cuencos, recipientes"
+    },
+    {
+      "word": "Grease",
+      "translation": "grasa"
+    },
+    {
+      "word": "Worm",
+      "translation": "lombriz, gusano"
+    },
+    {
+      "word": "Laughs uncertainly",
+      "translation": "ríe con inseguridad"
+    },
+    {
+      "word": "Mutter (verbo)",
+      "translation": "murmurar"
+    },
+    {
+      "word": "Do you want to pop a little gin in it?",
+      "translation": "¿Quieres echarle un poco de ginebra?"
+    }
+  ]
+}

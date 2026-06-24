@@ -1,0 +1,818 @@
+{
+  "title": "Kim Possible (Película 2019)",
+  "englishAnalysis": "Inglés adolescente moderno mezclado con terminología de espías y agentes secretos. Gran uso de jerga escolar ('drama', 'locker', 'cheerleader') y frases de acción tipo superhéroe.",
+  "vocabulary": [
+    {
+      "word": "A distress call",
+      "translation": "una llamada de auxilio/socorro"
+    },
+    {
+      "word": "A big-deal slime scientist",
+      "translation": "un gran científico del fango"
+    },
+    {
+      "word": "My mold spores",
+      "translation": "mis esporas de moho"
+    },
+    {
+      "word": "I need backup",
+      "translation": "necesito apoyo"
+    },
+    {
+      "word": "Hench-dudes",
+      "translation": "esbirros, secuaces"
+    },
+    {
+      "word": "A target lock",
+      "translation": "un objetivo fijado"
+    },
+    {
+      "word": "Chain up",
+      "translation": "encadenar"
+    },
+    {
+      "word": "Sparkly",
+      "translation": "brillante"
+    },
+    {
+      "word": "Byproduct",
+      "translation": "subproducto"
+    },
+    {
+      "word": "Sparkles",
+      "translation": "brillos"
+    },
+    {
+      "word": "Engage (verbo en términos de máquinas)",
+      "translation": "enganchar"
+    },
+    {
+      "word": "Slimy",
+      "translation": "viscoso"
+    },
+    {
+      "word": "My strap is itchy",
+      "translation": "me pica la correa"
+    },
+    {
+      "word": "Unhook the dock",
+      "translation": "desengancha el muelle"
+    },
+    {
+      "word": "I’ll take the goons",
+      "translation": "me llevaré a los matones"
+    },
+    {
+      "word": "Grapple me",
+      "translation": "agárrame"
+    },
+    {
+      "word": "Grappling hook",
+      "translation": "gancho"
+    },
+    {
+      "word": "Push in",
+      "translation": "empujar hacia dentro"
+    },
+    {
+      "word": "Clumsy boy",
+      "translation": "chico torpe"
+    },
+    {
+      "word": "Escape pod",
+      "translation": "cápsula de escape"
+    },
+    {
+      "word": "Re-route (verbo)",
+      "translation": "redirigir, redireccionar"
+    },
+    {
+      "word": "Puppy",
+      "translation": "cachorro"
+    },
+    {
+      "word": "Remote fire",
+      "translation": "disparar remotamente, disparar a distancia"
+    },
+    {
+      "word": "Jump off a cliff",
+      "translation": "saltar de un acantilado"
+    },
+    {
+      "word": "What’s the sitch?",
+      "translation": "¿Qué hay?, ¿Qué pasa?, ¿Cuál es la situación?"
+    },
+    {
+      "word": "Get in so late",
+      "translation": "llegar tan tarde"
+    },
+    {
+      "word": "Still working out some bugs",
+      "translation": "aún se están resolviendo algunos errores"
+    },
+    {
+      "word": "Gal",
+      "translation": "chica"
+    },
+    {
+      "word": "You’re looking swell",
+      "translation": "te ves muy bien"
+    },
+    {
+      "word": "Log off",
+      "translation": "cerrar sesión"
+    },
+    {
+      "word": "This is a girls only convo",
+      "translation": "esta es una conversación sólo de chicas"
+    },
+    {
+      "word": "Over and out (en términos de comunicaciones)",
+      "translation": "cambio y fuera"
+    },
+    {
+      "word": "Virtual reality walkthrough",
+      "translation": "recorrido en realidad virtual"
+    },
+    {
+      "word": "My cheer squad",
+      "translation": "mi escuadrón/equipo de animadoras"
+    },
+    {
+      "word": "If I do say so myself, flawless",
+      "translation": "si lo digo yo, impecable"
+    },
+    {
+      "word": "I picked out and sorted all of my outfits",
+      "translation": "elegí y ordené todos mis conjuntos"
+    },
+    {
+      "word": "My little hummingbird",
+      "translation": "mi pequeña colibrí"
+    },
+    {
+      "word": "Daunting (adjetivo)",
+      "translation": "desalentador"
+    },
+    {
+      "word": "Wiggle-room",
+      "translation": "margen de maniobra"
+    },
+    {
+      "word": "A GPS lock",
+      "translation": "bloqueo de GPS"
+    },
+    {
+      "word": "I have you in my grasp",
+      "translation": "te tengo en mis manos/alcance"
+    },
+    {
+      "word": "Alligator pit",
+      "translation": "foso del caimán"
+    },
+    {
+      "word": "Catch (verbo)",
+      "translation": "pillar, atrapar, atajar"
+    },
+    {
+      "word": "Sneak up",
+      "translation": "escabullirse, acercarse sigilosamente"
+    },
+    {
+      "word": "Dolly",
+      "translation": "carretilla, plataforma móvil"
+    },
+    {
+      "word": "Enforced vacations",
+      "translation": "vacaciones forzadas"
+    },
+    {
+      "word": "Jailbreak",
+      "translation": "fuga"
+    },
+    {
+      "word": "Could we move this along?",
+      "translation": "¿Podemos seguir adelante?"
+    },
+    {
+      "word": "Evil-doer",
+      "translation": "malvado"
+    },
+    {
+      "word": "Evil-undoer",
+      "translation": "luchador contra el mal"
+    },
+    {
+      "word": "Cranky",
+      "translation": "irritable"
+    },
+    {
+      "word": "Yuck",
+      "translation": "puaj"
+    },
+    {
+      "word": "An astonishingly popular big sister",
+      "translation": "una hermana mayor asombrosamente popular"
+    },
+    {
+      "word": "Who’s he blabbering to?",
+      "translation": "¿A quién le está cotorreando?"
+    },
+    {
+      "word": "Guess she signed off",
+      "translation": "supongo que se desconectó"
+    },
+    {
+      "word": "We’re about one thing",
+      "translation": "nos dedicamos a una cosa"
+    },
+    {
+      "word": "We gotta get to homeroom",
+      "translation": "tenemos que llegar a clase"
+    },
+    {
+      "word": "Spring from the joint",
+      "translation": "sacar de la cárcel (en sentido informal)"
+    },
+    {
+      "word": "I’ve tripped over my own shoelace",
+      "translation": "me he tropezado con mi propio cordón"
+    },
+    {
+      "word": "To run a suspicious activity sweep",
+      "translation": "hacer un barrido de actividades sospechosas"
+    },
+    {
+      "word": "Meagre satisfaction",
+      "translation": "escasa satisfacción"
+    },
+    {
+      "word": "We got a little turned around",
+      "translation": "nos dimos un poco la vuelta"
+    },
+    {
+      "word": "Keeps you kids on your toes",
+      "translation": "mantiene a los niños alerta"
+    },
+    {
+      "word": "On your tippity-tippities",
+      "translation": "de puntillas"
+    },
+    {
+      "word": "A little uncharacteristic mercy",
+      "translation": "un poco de piedad no característica"
+    },
+    {
+      "word": "We’re trouble stoppers",
+      "translation": "detenemos los problemas"
+    },
+    {
+      "word": "Blueprint",
+      "translation": "plano (de un lugar o edificación)"
+    },
+    {
+      "word": "Sub for (verbo)",
+      "translation": "sustituir"
+    },
+    {
+      "word": "She’s off on eternity leave",
+      "translation": "está de baja por eternidad"
+    },
+    {
+      "word": "Squat (verbo)",
+      "translation": "estar de cuclillas"
+    },
+    {
+      "word": "It sightly exploded",
+      "translation": "explotó a simple vista"
+    },
+    {
+      "word": "All your genius plans foiled by one puny kid",
+      "translation": "todos tus geniales planes frustrados por"
+    },
+    {
+      "word": "Spark (sustantivo)",
+      "translation": "chispa"
+    },
+    {
+      "word": "Today beats losing your pants",
+      "translation": "Hoy es mejor que perder los pantalones"
+    },
+    {
+      "word": "A hot dumpster fire",
+      "translation": "un incendio de contenedor de basura"
+    },
+    {
+      "word": "Go down",
+      "translation": "rendirse, caerse"
+    },
+    {
+      "word": "Wipe off",
+      "translation": "borrar"
+    },
+    {
+      "word": "Smug smile",
+      "translation": "sonrisa de satisfacción"
+    },
+    {
+      "word": "You’re not getting by me",
+      "translation": "no te me vas a escapar"
+    },
+    {
+      "word": "I’m shook",
+      "translation": "estoy impactada"
+    },
+    {
+      "word": "Equipment manager",
+      "translation": "responsable del equipamiento"
+    },
+    {
+      "word": "A hint of starch",
+      "translation": "una pizca de almidón"
+    },
+    {
+      "word": "Non-chlorine bleach",
+      "translation": "blanqueador sin cloro"
+    },
+    {
+      "word": "This box reeks",
+      "translation": "esta caja apesta"
+    },
+    {
+      "word": "A helpless mewling kitten",
+      "translation": "un gatito indefenso maullando"
+    },
+    {
+      "word": "Get with the times",
+      "translation": "ponte al día"
+    },
+    {
+      "word": "A cheap knockoff",
+      "translation": "una imitación/copia barata"
+    },
+    {
+      "word": "Your arms are gonna be jacked",
+      "translation": "tus brazos se van a levantar"
+    },
+    {
+      "word": "I just tripped and dumped my backpack everywhere",
+      "translation": "me tropecé y tiré mi mochila por"
+    },
+    {
+      "word": "As in the goddess of",
+      "translation": "como en la diosa de"
+    },
+    {
+      "word": "Dentistry",
+      "translation": "odontología"
+    },
+    {
+      "word": "Wisdom",
+      "translation": "sabiduría, juicio"
+    },
+    {
+      "word": "Behold",
+      "translation": "he aquí"
+    },
+    {
+      "word": "Cheesy glory",
+      "translation": "gloria con queso"
+    },
+    {
+      "word": "Get in close",
+      "translation": "acercarse"
+    },
+    {
+      "word": "The least selfie-adverse people",
+      "translation": "Las personas menos reacias a las selfies"
+    },
+    {
+      "word": "It’s weak",
+      "translation": "está débil"
+    },
+    {
+      "word": "Handsome pooch",
+      "translation": "perro guapo"
+    },
+    {
+      "word": "The tardy party continues",
+      "translation": "la fiesta tardía continúa"
+    },
+    {
+      "word": "Sorry doesn’t cut it",
+      "translation": "sentirlo no basta"
+    },
+    {
+      "word": "Lip balm",
+      "translation": "bálsamo labial, protector de labios"
+    },
+    {
+      "word": "Spare (sustantivo)",
+      "translation": "uno de repuesto"
+    },
+    {
+      "word": "It felt cartoony",
+      "translation": "se sentía caricaturesco"
+    },
+    {
+      "word": "I’m such a klutz",
+      "translation": "soy una torpe"
+    },
+    {
+      "word": "Unwind (verbo)",
+      "translation": "relajarse, desconectarse"
+    },
+    {
+      "word": "We gone raise the roof up sky high",
+      "translation": "vamos a levantar el techo hasta el cielo"
+    },
+    {
+      "word": "Way ahead of you",
+      "translation": "muy por delante de ti"
+    },
+    {
+      "word": "You’re a fast learner",
+      "translation": "aprendes rápido"
+    },
+    {
+      "word": "You tag along?",
+      "translation": "¿Te apuntas?, ¿Te vienes?"
+    },
+    {
+      "word": "Shave my head",
+      "translation": "raparse la cabeza"
+    },
+    {
+      "word": "Settle down",
+      "translation": "cálmense, tranquilos"
+    },
+    {
+      "word": "Shego just busted into",
+      "translation": "Shego acaba de irrumpir"
+    },
+    {
+      "word": "Suit up",
+      "translation": "vestirse"
+    },
+    {
+      "word": "Snap (verbo)",
+      "translation": "romper, quebrar"
+    },
+    {
+      "word": "That’s our ride",
+      "translation": "ese es nuestro viaje"
+    },
+    {
+      "word": "Watch out",
+      "translation": "tener cuidado"
+    },
+    {
+      "word": "Internal Revenue Service (IRS)",
+      "translation": "Servicio de Impuestos Internos"
+    },
+    {
+      "word": "Whiz",
+      "translation": "genio"
+    },
+    {
+      "word": "Solid sleuthing there",
+      "translation": "sólida investigación"
+    },
+    {
+      "word": "Breakthroughs",
+      "translation": "avances"
+    },
+    {
+      "word": "It’s spooky quiet",
+      "translation": "hay un silencio espeluznante"
+    },
+    {
+      "word": "A cloaking device",
+      "translation": "un dispositivo de camuflaje"
+    },
+    {
+      "word": "Thermal security override",
+      "translation": "anulación térmica de seguridad"
+    },
+    {
+      "word": "Unleash (verbo)",
+      "translation": "liberar, desatar, desencadenar"
+    },
+    {
+      "word": "Can you run a check on the lab?",
+      "translation": "¿Puedes revisar en el laboratorio?"
+    },
+    {
+      "word": "I just got that thing down!",
+      "translation": "¡Acabo de bajar esa cosa!"
+    },
+    {
+      "word": "What just zapped us? (si se refiere a estática o descarga eléctrica)",
+      "translation": "¿Qué acaba de"
+    },
+    {
+      "word": "Electric eel",
+      "translation": "anguila eléctrica"
+    },
+    {
+      "word": "I’m gonna have to up my game",
+      "translation": "voy a tener que mejorar mi juego"
+    },
+    {
+      "word": "As much as",
+      "translation": "aunque, por mucho que"
+    },
+    {
+      "word": "Hairline",
+      "translation": "línea capilar"
+    },
+    {
+      "word": "She’s fading",
+      "translation": "ella se está desvaneciendo"
+    },
+    {
+      "word": "Wits",
+      "translation": "cabales"
+    },
+    {
+      "word": "This throw-down is sick",
+      "translation": "este lanzamiento es enfermizo"
+    },
+    {
+      "word": "Dowel",
+      "translation": "tacos"
+    },
+    {
+      "word": "Rod play",
+      "translation": "varillas"
+    },
+    {
+      "word": "How utterly effortless",
+      "translation": "lo fácil que"
+    },
+    {
+      "word": "Your style is flawless",
+      "translation": "tu estilo es impecable"
+    },
+    {
+      "word": "Lip shade",
+      "translation": "tono de labios"
+    },
+    {
+      "word": "Tens across the board",
+      "translation": "decenas en todos los ámbitos"
+    },
+    {
+      "word": "Batch",
+      "translation": "tanda, lote"
+    },
+    {
+      "word": "Pecans",
+      "translation": "pecanas, nueces"
+    },
+    {
+      "word": "You’re turning down double chocolate?",
+      "translation": "¿Estás rechazando el chocolate doble?"
+    },
+    {
+      "word": "Feel up for a workout?",
+      "translation": "¿Te apetece hacer ejercicio?"
+    },
+    {
+      "word": "Staff (sustantivo en términos de artes marciales)",
+      "translation": "vara"
+    },
+    {
+      "word": "Something’s off",
+      "translation": "algo anda mal, algo pasa"
+    },
+    {
+      "word": "I’m off",
+      "translation": "me voy"
+    },
+    {
+      "word": "Jealousy is very unbecoming",
+      "translation": "los celos son muy impropios"
+    },
+    {
+      "word": "I’m ditching",
+      "translation": "me estoy deshaciendo"
+    },
+    {
+      "word": "Pay off",
+      "translation": "pagar"
+    },
+    {
+      "word": "Settle (verbo)",
+      "translation": "acomodarse, instalarse"
+    },
+    {
+      "word": "Grade point average (GPA)",
+      "translation": "promedio de notas"
+    },
+    {
+      "word": "Ceiling",
+      "translation": "techo"
+    },
+    {
+      "word": "An orderly fash",
+      "translation": "de forma ordenada"
+    },
+    {
+      "word": "I’m out",
+      "translation": "me voy"
+    },
+    {
+      "word": "Wipe out",
+      "translation": "acabar, aniquilar"
+    },
+    {
+      "word": "Henchmen",
+      "translation": "esbirros, secuaces"
+    },
+    {
+      "word": "Hench-women",
+      "translation": "esbirras, secuaces"
+    },
+    {
+      "word": "Faceplant",
+      "translation": "planta cara"
+    },
+    {
+      "word": "Shut it!",
+      "translation": "¡Cállate!"
+    },
+    {
+      "word": "Overshare",
+      "translation": "exceso de cuota"
+    },
+    {
+      "word": "I blew it",
+      "translation": "lo arruiné, la cagué"
+    },
+    {
+      "word": "Mix up",
+      "translation": "confundirse"
+    },
+    {
+      "word": "You up for this?",
+      "translation": "¿Te apuntas?, ¿Te animas?"
+    },
+    {
+      "word": "Never let it be said",
+      "translation": "que nunca se diga"
+    },
+    {
+      "word": "What toppings?",
+      "translation": "¿Qué aderezos?"
+    },
+    {
+      "word": "Fire up",
+      "translation": "encender, activar"
+    },
+    {
+      "word": "I guess with everything going on it just slipped my mind",
+      "translation": "supongo que con todo lo que"
+    },
+    {
+      "word": "Make with the evil plan",
+      "translation": "haz con el plan malvado."
+    },
+    {
+      "word": "Off the charts",
+      "translation": "fuera de mis gráficos"
+    },
+    {
+      "word": "I’m gonna sneak in through the skylight",
+      "translation": "voy a colarme por el tragaluz"
+    },
+    {
+      "word": "Rendezvous (verbo)",
+      "translation": "reunirse, encontrarse"
+    },
+    {
+      "word": "I was so caught up",
+      "translation": "estaba tan atrapada"
+    },
+    {
+      "word": "And I nailed it",
+      "translation": "y le dí en el clavo"
+    },
+    {
+      "word": "Mind if we crash the party?",
+      "translation": "¿Te importa si nos colamos en la fiesta?"
+    },
+    {
+      "word": "The off switch",
+      "translation": "el interruptor de apagado"
+    },
+    {
+      "word": "My long-awaited victory",
+      "translation": "mi tan esperada victoria"
+    },
+    {
+      "word": "As I rotted away in that cell",
+      "translation": "mientras me pudría en esa celda"
+    },
+    {
+      "word": "They fill in some of the blanks",
+      "translation": "ellos rellenan algunos de los espacios/huecos en blanco"
+    },
+    {
+      "word": "Trademark (verbo)",
+      "translation": "registrar como marca"
+    },
+    {
+      "word": "That’s actually quite touching",
+      "translation": "eso es realmente conmovedor"
+    },
+    {
+      "word": "Sides",
+      "translation": "lados"
+    },
+    {
+      "word": "Sizzle (verbo)",
+      "translation": "sisear, crepitar, chisporrotear"
+    },
+    {
+      "word": "Just squeeze in",
+      "translation": "sólo hay que apretar"
+    },
+    {
+      "word": "Disrupt (verbo)",
+      "translation": "interrumpir"
+    },
+    {
+      "word": "A side effect",
+      "translation": "efecto colateral, efecto secundario"
+    },
+    {
+      "word": "Stay behind",
+      "translation": "quedarse atrás"
+    },
+    {
+      "word": "We’re gonna patch you up good as new",
+      "translation": "vamos a dejarte como nuevo"
+    },
+    {
+      "word": "Crime fighter",
+      "translation": "luchadora contra el crimen"
+    },
+    {
+      "word": "Flush out",
+      "translation": "eliminar, sacar"
+    },
+    {
+      "word": "And as for me",
+      "translation": "y en cuanto a mí"
+    },
+    {
+      "word": "Off the hook",
+      "translation": "fuera del gancho"
+    },
+    {
+      "word": "Token… Chilly",
+      "translation": "ficha...fría"
+    },
+    {
+      "word": "Popping (en otros contextos)",
+      "translation": "golpeteo"
+    },
+    {
+      "word": "Hold still",
+      "translation": "quedarse quieto"
+    },
+    {
+      "word": "A little freak",
+      "translation": "un poco raro/friki"
+    },
+    {
+      "word": "I’ll blend in flawlessly",
+      "translation": "me integraré perfectamente"
+    },
+    {
+      "word": "Say you skipped a bunch of grades because you’re… gifted",
+      "translation": "digamos que te saltaste un"
+    },
+    {
+      "word": "Laugh it up",
+      "translation": "ríete"
+    },
+    {
+      "word": "This whiny, puny body",
+      "translation": "este cuerpo quejumbroso y enclenque"
+    },
+    {
+      "word": "It’s a blessing in disguise",
+      "translation": "es una bendición encubierta"
+    },
+    {
+      "word": "Change out of this clothes",
+      "translation": "cámbiate/quítate esa ropa"
+    },
+    {
+      "word": "It’ll be my tightest yet",
+      "translation": "será el más estricto ahora"
+    }
+  ]
+}
