@@ -1,0 +1,1158 @@
+{
+  "title": "Terminal",
+  "englishAnalysis": "Destaca por su estética noir y un uso del idioma poético, críptico y a menudo lleno de doble sentido. Los personajes utilizan metáforas oscuras, términos de asesinatos a sueldo e interrogatorios ('assassin', 'contract', 'job', 'leverage'). El acento británico le añade una capa de sofisticación al lenguaje criminal.",
+  "vocabulary": [
+    {
+      "word": "Hatter",
+      "translation": "sombrerero"
+    },
+    {
+      "word": "Wager",
+      "translation": "apuesta"
+    },
+    {
+      "word": "Cage",
+      "translation": "jaula"
+    },
+    {
+      "word": "Fortnight",
+      "translation": "quincena"
+    },
+    {
+      "word": "Supper",
+      "translation": "cena"
+    },
+    {
+      "word": "Stick it in your mouth",
+      "translation": "métetelo en la boca"
+    },
+    {
+      "word": "Bollock",
+      "translation": "tontería"
+    },
+    {
+      "word": "Wanker",
+      "translation": "gilipollas"
+    },
+    {
+      "word": "Have a pleasant trip",
+      "translation": "que tengas un viaje agradable"
+    },
+    {
+      "word": "Rudeness",
+      "translation": "grosero"
+    },
+    {
+      "word": "Come through",
+      "translation": "Entrar, pasar"
+    },
+    {
+      "word": "The 404 seems like an age away",
+      "translation": "el 404 parece estar a una edad de distancia"
+    },
+    {
+      "word": "Sticky buns",
+      "translation": "bollos pegajosos"
+    },
+    {
+      "word": "Pence (alusivo a dinero)",
+      "translation": "peniques"
+    },
+    {
+      "word": "Stare (verbo)",
+      "translation": "mirar fijamente"
+    },
+    {
+      "word": "Buy off",
+      "translation": "sobornar"
+    },
+    {
+      "word": "Fiver (sustantivo común)",
+      "translation": "billete de cinco libras"
+    },
+    {
+      "word": "A crisp five pound note",
+      "translation": "un billete crujiente de cinco libras"
+    },
+    {
+      "word": "Quid",
+      "translation": "libra (moneda del Reino Unido)"
+    },
+    {
+      "word": "Butter (verbo)",
+      "translation": "untar con mantequilla"
+    },
+    {
+      "word": "Let down",
+      "translation": "decepcionar"
+    },
+    {
+      "word": "I just got mugged",
+      "translation": "me acaban de asaltar"
+    },
+    {
+      "word": "I’m in a giving mood",
+      "translation": "estoy de buen humor"
+    },
+    {
+      "word": "Deed",
+      "translation": "hecho, acción"
+    },
+    {
+      "word": "As in spank me gently",
+      "translation": "como azotarme suavemente"
+    },
+    {
+      "word": "As in tie me to the bedposts",
+      "translation": "como atarme a las columnas de la cama"
+    },
+    {
+      "word": "Fidget (verbo)",
+      "translation": "inquietarse, agitarse"
+    },
+    {
+      "word": "Go on then",
+      "translation": "adelante"
+    },
+    {
+      "word": "Curvaceous",
+      "translation": "curvilínea"
+    },
+    {
+      "word": "Cream-skinned belle",
+      "translation": "bella de piel crema"
+    },
+    {
+      "word": "Sleek",
+      "translation": "elegante, pulcro"
+    },
+    {
+      "word": "Candlelit romance",
+      "translation": "romance a la luz de las velas"
+    },
+    {
+      "word": "Moonlight",
+      "translation": "luz de la luna"
+    },
+    {
+      "word": "Deviants",
+      "translation": "desviados"
+    },
+    {
+      "word": "Slight, retiring young gentleman",
+      "translation": "joven caballero delgado y retraído"
+    },
+    {
+      "word": "Shell (sustantivo común)",
+      "translation": "caparazón, cáscara, concha"
+    },
+    {
+      "word": "Dungeon",
+      "translation": "mazmorra"
+    },
+    {
+      "word": "Their next dirty one down to docks",
+      "translation": "el próximo sucio en los muelles"
+    },
+    {
+      "word": "Unquenchable bloodlust",
+      "translation": "sed de sangre insaciable"
+    },
+    {
+      "word": "Depravity",
+      "translation": "depravación"
+    },
+    {
+      "word": "You’re a bit odd",
+      "translation": "eres un poco raro"
+    },
+    {
+      "word": "You cough badly",
+      "translation": "tú toses mucho"
+    },
+    {
+      "word": "Malignant tumor",
+      "translation": "tumor maligno"
+    },
+    {
+      "word": "You’re not in denial about it",
+      "translation": "no lo niegas"
+    },
+    {
+      "word": "If it’s going to be some run of the mill cancer thing",
+      "translation": "si va a ser algo común y corriente"
+    },
+    {
+      "word": "A pompous prat",
+      "translation": "un idiota pomposo"
+    },
+    {
+      "word": "Untie me",
+      "translation": "desátame"
+    },
+    {
+      "word": "A redeemable error",
+      "translation": "un error redimible"
+    },
+    {
+      "word": "Young hookers",
+      "translation": "prostitutas jóvenes"
+    },
+    {
+      "word": "Kinky suspenders",
+      "translation": "tirantes rizados"
+    },
+    {
+      "word": "Drops of laudanum",
+      "translation": "gotas de láudano"
+    },
+    {
+      "word": "A teeny-weeny bit of information",
+      "translation": "un poquito de información"
+    },
+    {
+      "word": "Creep (verbo)",
+      "translation": "arrastarse, deslizarse"
+    },
+    {
+      "word": "Pulls out his gun",
+      "translation": "saca su arma"
+    },
+    {
+      "word": "Ease (verbo)",
+      "translation": "facilitar, introducir"
+    },
+    {
+      "word": "It’s factually inaccurate",
+      "translation": "es objetivamente inexacto"
+    },
+    {
+      "word": "They actually make it up",
+      "translation": "ellos realmente lo inventan"
+    },
+    {
+      "word": "Finer points",
+      "translation": "puntos más finos"
+    },
+    {
+      "word": "Lovely-looking sticky buns",
+      "translation": "bollos pegajosos de aspecto encantador"
+    },
+    {
+      "word": "Drinks at the very least",
+      "translation": "bebidas al menos"
+    },
+    {
+      "word": "A mean martini",
+      "translation": "un martini malo"
+    },
+    {
+      "word": "Sugarplum",
+      "translation": "ciruela de azúcar"
+    },
+    {
+      "word": "Duty calls",
+      "translation": "el deber llama"
+    },
+    {
+      "word": "Late night café",
+      "translation": "café nocturno"
+    },
+    {
+      "word": "What is so cloak and dagger?",
+      "translation": "¿Qué es eso de capa y espada?"
+    },
+    {
+      "word": "Guttering",
+      "translation": "canalón"
+    },
+    {
+      "word": "Keep up the cheek",
+      "translation": "mantén la mejilla"
+    },
+    {
+      "word": "Get clipped",
+      "translation": "ser cortado"
+    },
+    {
+      "word": "Alluring mystery",
+      "translation": "misterio seductor"
+    },
+    {
+      "word": "A trail of breadcrumbs",
+      "translation": "un rastro de migas de pan"
+    },
+    {
+      "word": "Get moist",
+      "translation": "excitarse"
+    },
+    {
+      "word": "He always used illing",
+      "translation": "siempre recurría a la astucia"
+    },
+    {
+      "word": "Have I whet your appetite?",
+      "translation": "¿Te he abierto el apetito?"
+    },
+    {
+      "word": "I’m salivating",
+      "translation": "estoy salivando"
+    },
+    {
+      "word": "Let’s go rabbit on him",
+      "translation": "vamos a atacarlo"
+    },
+    {
+      "word": "In a lifetime opportunity",
+      "translation": "en una oportunidad de vida"
+    },
+    {
+      "word": "Pinch (verbo)",
+      "translation": "pellizcar"
+    },
+    {
+      "word": "Charge (verbo)",
+      "translation": "cobrar"
+    },
+    {
+      "word": "A good-priced cover",
+      "translation": "una funda a buen precio"
+    },
+    {
+      "word": "Semi-clad girl",
+      "translation": "chica semidesnuda"
+    },
+    {
+      "word": "Writhe around (verbo)",
+      "translation": "retorcerse"
+    },
+    {
+      "word": "Overpriced hand job",
+      "translation": "trabajo manual caro"
+    },
+    {
+      "word": "Liability",
+      "translation": "responsabilidad"
+    },
+    {
+      "word": "Envelope stuffed with money",
+      "translation": "sobre lleno de dinero"
+    },
+    {
+      "word": "Filthy lap dances",
+      "translation": "bailes eróticos sucios"
+    },
+    {
+      "word": "Middleman",
+      "translation": "intermediario"
+    },
+    {
+      "word": "Stocking suspenders",
+      "translation": "tirantes de medias"
+    },
+    {
+      "word": "Plunging cleavage",
+      "translation": "escote profundo"
+    },
+    {
+      "word": "Harlot’s makeup",
+      "translation": "maquillaje de ramera"
+    },
+    {
+      "word": "Chaps",
+      "translation": "muchachos"
+    },
+    {
+      "word": "Sniff (sustantivo)",
+      "translation": "esnifada, inhalación"
+    },
+    {
+      "word": "Twat",
+      "translation": "idiota"
+    },
+    {
+      "word": "It’s the waiting that’s doing me in",
+      "translation": "es la espera lo que me está haciendo daño"
+    },
+    {
+      "word": "Utterly",
+      "translation": "absolutamente"
+    },
+    {
+      "word": "Steady on",
+      "translation": "cálmate"
+    },
+    {
+      "word": "Hard-won silver lining",
+      "translation": "el lado positivo conseguido con tanto esfuerzo"
+    },
+    {
+      "word": "It’s moral carte blanche",
+      "translation": "es carta blanca moral"
+    },
+    {
+      "word": "Rape away",
+      "translation": "violar"
+    },
+    {
+      "word": "Smite (verbo)",
+      "translation": "golpear, herir"
+    },
+    {
+      "word": "Pillage the precinct until the gutters run red",
+      "translation": "saquea el recinto hasta que las"
+    },
+    {
+      "word": "Go nuts!",
+      "translation": "¡Vuélvete loco!"
+    },
+    {
+      "word": "Dry roasted",
+      "translation": "asado en seco"
+    },
+    {
+      "word": "Sniper",
+      "translation": "francotirador"
+    },
+    {
+      "word": "Blazing inferno",
+      "translation": "infierno ardiente"
+    },
+    {
+      "word": "Rub my nose in it",
+      "translation": "frótame la nariz en eso"
+    },
+    {
+      "word": "Pillage me!",
+      "translation": "¡Saquéame!"
+    },
+    {
+      "word": "It went well then",
+      "translation": "salió bien entonces"
+    },
+    {
+      "word": "Mope around",
+      "translation": "deprimirse"
+    },
+    {
+      "word": "I might as well do you in now",
+      "translation": "tal vez sea mejor acabar contigo ahora"
+    },
+    {
+      "word": "Self-indulgent tripe",
+      "translation": "callo autoindulgente"
+    },
+    {
+      "word": "Sweep of concourse",
+      "translation": "barrido de la explanada"
+    },
+    {
+      "word": "Break open a locker",
+      "translation": "romper un casillero"
+    },
+    {
+      "word": "Run off",
+      "translation": "huir, escapar"
+    },
+    {
+      "word": "Do I not strike you?",
+      "translation": "¿No te parece?"
+    },
+    {
+      "word": "Stuff (verbo)",
+      "translation": "rellenar, llenar"
+    },
+    {
+      "word": "Banker’s drafts",
+      "translation": "giros bancarios"
+    },
+    {
+      "word": "Overcharge (verbo)",
+      "translation": "sobrecargar"
+    },
+    {
+      "word": "Walk on",
+      "translation": "sigue caminando"
+    },
+    {
+      "word": "You’ll lie in wait",
+      "translation": "estarás al acecho"
+    },
+    {
+      "word": "Out for a causal stroll?",
+      "translation": "¿Salir a dar un paseo informal?"
+    },
+    {
+      "word": "Parlor games",
+      "translation": "juegos de salón"
+    },
+    {
+      "word": "Spare me the heroics",
+      "translation": "ahórrame los actos heroicos"
+    },
+    {
+      "word": "Chivalrous",
+      "translation": "caballeroso"
+    },
+    {
+      "word": "I like your jaw",
+      "translation": "me gusta tu mandíbula"
+    },
+    {
+      "word": "He’ll have a gaping exit wound slap bang in the middle of it",
+      "translation": "tendrá una herida de"
+    },
+    {
+      "word": "Rickety stairs",
+      "translation": "escaleras desvencijadas"
+    },
+    {
+      "word": "Lure (verbo)",
+      "translation": "atraer"
+    },
+    {
+      "word": "A side part",
+      "translation": "una parte lateral"
+    },
+    {
+      "word": "Suffice (verbo)",
+      "translation": "ser suficiente, servir"
+    },
+    {
+      "word": "A one way split",
+      "translation": "una división unidireccional"
+    },
+    {
+      "word": "Mercenary greed",
+      "translation": "avaricia mercenaria"
+    },
+    {
+      "word": "Untrustworthy",
+      "translation": "indigno de confianza"
+    },
+    {
+      "word": "Lash",
+      "translation": "latigazo"
+    },
+    {
+      "word": "You tidy that up",
+      "translation": "tú ordenas eso"
+    },
+    {
+      "word": "I’ll put the kettle on",
+      "translation": "pondré la tetera a hervir"
+    },
+    {
+      "word": "Counseling",
+      "translation": "asesoramiento"
+    },
+    {
+      "word": "Hazardous",
+      "translation": "peligroso"
+    },
+    {
+      "word": "Potentially life-ending situations",
+      "translation": "situaciones potencialmente mortales"
+    },
+    {
+      "word": "Toaster",
+      "translation": "tostadora"
+    },
+    {
+      "word": "All this pissing around in train stations",
+      "translation": "todo esto de molestar en las estaciones de"
+    },
+    {
+      "word": "With the almighty",
+      "translation": "con el todopoderoso"
+    },
+    {
+      "word": "That was uncalled for",
+      "translation": "eso estaba fuera de lugar"
+    },
+    {
+      "word": "Sherry",
+      "translation": "jerez"
+    },
+    {
+      "word": "Lolly?",
+      "translation": "¿Loli?"
+    },
+    {
+      "word": "Tasty",
+      "translation": "sabroso"
+    },
+    {
+      "word": "Repent and thou shalt be saved!",
+      "translation": "¡Arrepiéntete y serás salvo!"
+    },
+    {
+      "word": "Blotted out",
+      "translation": "borrado"
+    },
+    {
+      "word": "Not really as catchy, is it?",
+      "translation": "realmente no es tan pegadizo, ¿verdad?"
+    },
+    {
+      "word": "Am I quacking your fundations?",
+      "translation": "¿Estoy graznando tus cimientos?"
+    },
+    {
+      "word": "Jam into tabletop",
+      "translation": "atáscalo en la mesa"
+    },
+    {
+      "word": "Slam head down onto pencil",
+      "translation": "golpea la cabeza con el lápiz"
+    },
+    {
+      "word": "Go up",
+      "translation": "subir"
+    },
+    {
+      "word": "Eyeball",
+      "translation": "globo ocular"
+    },
+    {
+      "word": "Through the socket",
+      "translation": "a través del enchufe"
+    },
+    {
+      "word": "Nib",
+      "translation": "punta"
+    },
+    {
+      "word": "Get it further into the table",
+      "translation": "meterlo más adentro de la mesa"
+    },
+    {
+      "word": "He found impaled on his own fountain pen",
+      "translation": "lo encontraron empalado en su propia pluma"
+    },
+    {
+      "word": "Keen",
+      "translation": "interesado, entusiasta"
+    },
+    {
+      "word": "Bequeath (verbo)",
+      "translation": "legar"
+    },
+    {
+      "word": "Swap (verbo)",
+      "translation": "intercambiar, canjear"
+    },
+    {
+      "word": "Three-card brag",
+      "translation": "alardea tres cartas"
+    },
+    {
+      "word": "That’s a pouf’s game",
+      "translation": "eso es un juego de puf"
+    },
+    {
+      "word": "Deck",
+      "translation": "baraja"
+    },
+    {
+      "word": "We could always play snap",
+      "translation": "siempre podemos jugar una partida a la brisca"
+    },
+    {
+      "word": "Snap (verbo)",
+      "translation": "romper, quebrar"
+    },
+    {
+      "word": "Walrus",
+      "translation": "morsa"
+    },
+    {
+      "word": "Sealing wax",
+      "translation": "lacre"
+    },
+    {
+      "word": "Cabbages",
+      "translation": "coles"
+    },
+    {
+      "word": "Boil (verbo)",
+      "translation": "hervir, cocer"
+    },
+    {
+      "word": "Gibberish",
+      "translation": "algarabía"
+    },
+    {
+      "word": "Drivel",
+      "translation": "mentiras"
+    },
+    {
+      "word": "Apologetic",
+      "translation": "apologético"
+    },
+    {
+      "word": "Peanuts",
+      "translation": "cacahuetes"
+    },
+    {
+      "word": "I take a contract out on myself",
+      "translation": "me contrato a mi mismo"
+    },
+    {
+      "word": "Serendipity",
+      "translation": "causalidad"
+    },
+    {
+      "word": "Brief",
+      "translation": "informe"
+    },
+    {
+      "word": "Can we bank long distance head shots then?",
+      "translation": "¿Podemos entonces realizar disparos a la"
+    },
+    {
+      "word": "Keeper",
+      "translation": "guardián"
+    },
+    {
+      "word": "Let’s brainstorm",
+      "translation": "hagamos una lluvia de ideas"
+    },
+    {
+      "word": "Messy",
+      "translation": "desordenado"
+    },
+    {
+      "word": "What about a hit and run?",
+      "translation": "¿Qué tal un atropello y fuga?"
+    },
+    {
+      "word": "Get mangled",
+      "translation": "ser destrozado"
+    },
+    {
+      "word": "He’d have to reverse back over me",
+      "translation": "tendría que retroceder sobre mí."
+    },
+    {
+      "word": "Sticky",
+      "translation": "pegajoso"
+    },
+    {
+      "word": "Dental fillings",
+      "translation": "empastes dentales"
+    },
+    {
+      "word": "Only downside’s the whole closed casket thing",
+      "translation": "el único inconveniente es todo el"
+    },
+    {
+      "word": "Granted",
+      "translation": "concedido, otorgado"
+    },
+    {
+      "word": "Bank (verbo)",
+      "translation": "depositar"
+    },
+    {
+      "word": "Ladders",
+      "translation": "escaleras"
+    },
+    {
+      "word": "Come over",
+      "translation": "venir"
+    },
+    {
+      "word": "Don’t fancy Monopoly then?",
+      "translation": "¿No te apetece entonces el Monopoly?"
+    },
+    {
+      "word": "A junior partner",
+      "translation": "un socio menor"
+    },
+    {
+      "word": "The flash way",
+      "translation": "el modo flash"
+    },
+    {
+      "word": "I’m a valuable asset",
+      "translation": "soy un activo valioso"
+    },
+    {
+      "word": "Pathetic fallacy",
+      "translation": "falacia patética"
+    },
+    {
+      "word": "Whinging librarian",
+      "translation": "bibliotecario quejoso"
+    },
+    {
+      "word": "Emotional turnoil",
+      "translation": "agitación emocional"
+    },
+    {
+      "word": "It adds gravitas",
+      "translation": "agrega gravedad"
+    },
+    {
+      "word": "Nerve-wracking",
+      "translation": "estresante"
+    },
+    {
+      "word": "Alley",
+      "translation": "callejón"
+    },
+    {
+      "word": "Preach (verbo)",
+      "translation": "predicar, sermonear"
+    },
+    {
+      "word": "Cough out",
+      "translation": "toser"
+    },
+    {
+      "word": "Spleen",
+      "translation": "bazo"
+    },
+    {
+      "word": "Congeal (verbo)",
+      "translation": "congelar, cuajar"
+    },
+    {
+      "word": "An old ventilation shaft",
+      "translation": "un viejo conducto de ventilación"
+    },
+    {
+      "word": "Just a hole dropping into nowhere",
+      "translation": "solo un agujero que cae a la nada"
+    },
+    {
+      "word": "Yawning chasm",
+      "translation": "abismo enorme"
+    },
+    {
+      "word": "Neatly",
+      "translation": "pulcramente"
+    },
+    {
+      "word": "Your smoldering anger",
+      "translation": "tu ira humeante"
+    },
+    {
+      "word": "Get this through your little skull",
+      "translation": "consigue esto a través de tu pequeño cráneo"
+    },
+    {
+      "word": "Fit as a fiddle",
+      "translation": "en buen estado físico"
+    },
+    {
+      "word": "Step into",
+      "translation": "entrar"
+    },
+    {
+      "word": "Skulk (verbo)",
+      "translation": "esconderse"
+    },
+    {
+      "word": "Facade",
+      "translation": "fachada"
+    },
+    {
+      "word": "This idle fantasy",
+      "translation": "esta fantasía ociosa"
+    },
+    {
+      "word": "Rage against the dying of the light",
+      "translation": "rabia contra la muerte de la luz"
+    },
+    {
+      "word": "Priest",
+      "translation": "sacerdote"
+    },
+    {
+      "word": "Cutter",
+      "translation": "cortador"
+    },
+    {
+      "word": "A good razor blade",
+      "translation": "una buena hoja de afeitar"
+    },
+    {
+      "word": "Bike shed",
+      "translation": "cobertizo para bicicletas"
+    },
+    {
+      "word": "The two of you egging each other on?",
+      "translation": "¿Ustedes dos se incitan mutuamente?"
+    },
+    {
+      "word": "After lights out our little secret",
+      "translation": "después de que las luces apaguen nuestro pequeño"
+    },
+    {
+      "word": "Chalk-stained fingers",
+      "translation": "dedos manchados de tiza"
+    },
+    {
+      "word": "Indelible marks",
+      "translation": "marcas indelebles"
+    },
+    {
+      "word": "A double-cross",
+      "translation": "una traición"
+    },
+    {
+      "word": "Thought you actually were gonna let him have a pop at me",
+      "translation": "pensé que en realidad ibas"
+    },
+    {
+      "word": "Backstabbing",
+      "translation": "apuñalar por la espalda"
+    },
+    {
+      "word": "Turncoat traitor",
+      "translation": "traidor renegado"
+    },
+    {
+      "word": "The full spit and polish",
+      "translation": "el escupitajo y pulido completo"
+    },
+    {
+      "word": "Cherry",
+      "translation": "cereza"
+    },
+    {
+      "word": "Stripper getup",
+      "translation": "traje de stripper"
+    },
+    {
+      "word": "You’ll have that gaping exit wound in your face",
+      "translation": "tendrás esa enorme herida de salida"
+    },
+    {
+      "word": "Kick it away",
+      "translation": "patéalo"
+    },
+    {
+      "word": "Cripple",
+      "translation": "lisiado"
+    },
+    {
+      "word": "Mercilessly",
+      "translation": "sin piedad"
+    },
+    {
+      "word": "Penchant",
+      "translation": "inclinación"
+    },
+    {
+      "word": "Tear each other apart",
+      "translation": "desgarrándose unos a otros"
+    },
+    {
+      "word": "Treacherous",
+      "translation": "traicionero"
+    },
+    {
+      "word": "Callous",
+      "translation": "monstruoso, calloso"
+    },
+    {
+      "word": "Stand and deliver!",
+      "translation": "¡Párate y entrega!"
+    },
+    {
+      "word": "Chuck (verbo)",
+      "translation": "echar"
+    },
+    {
+      "word": "Tumbling downstairs",
+      "translation": "bajar las escaleras con el pulgar"
+    },
+    {
+      "word": "Double-cross (verbo)",
+      "translation": "engañar, tender una trampa"
+    },
+    {
+      "word": "Look through the looking glass",
+      "translation": "mira a través del espejo"
+    },
+    {
+      "word": "Tumble down",
+      "translation": "caerse"
+    },
+    {
+      "word": "The rabbit hole",
+      "translation": "la madriguera del conejo"
+    },
+    {
+      "word": "Flush away",
+      "translation": "arrojarse"
+    },
+    {
+      "word": "Stark raving mad!",
+      "translation": "¡Loco de atar!"
+    },
+    {
+      "word": "Verbatim",
+      "translation": "literal"
+    },
+    {
+      "word": "Dissimilar",
+      "translation": "distinto"
+    },
+    {
+      "word": "Gleam (sustantivo)",
+      "translation": "destello"
+    },
+    {
+      "word": "In the aptly named",
+      "translation": "en el bien llamado"
+    },
+    {
+      "word": "Wiles",
+      "translation": "artimañas"
+    },
+    {
+      "word": "Sweet nothings",
+      "translation": "dulces cosas"
+    },
+    {
+      "word": "Topped up",
+      "translation": "lleno"
+    },
+    {
+      "word": "A knee-trembling relationship",
+      "translation": "una relación que hace temblar las rodillas"
+    },
+    {
+      "word": "Passionate tryst",
+      "translation": "cita apasionada"
+    },
+    {
+      "word": "Canister of petrol",
+      "translation": "bote de gasolina"
+    },
+    {
+      "word": "Fierce tears",
+      "translation": "lágrimas feroces"
+    },
+    {
+      "word": "Wards",
+      "translation": "salas"
+    },
+    {
+      "word": "Kindness",
+      "translation": "amabilidad"
+    },
+    {
+      "word": "Wandering hands",
+      "translation": "manos errantes"
+    },
+    {
+      "word": "Sticky fingers",
+      "translation": "dedos pegajosos"
+    },
+    {
+      "word": "A feral existence",
+      "translation": "una existencia salvaje"
+    },
+    {
+      "word": "Shuffle by",
+      "translation": "arrastrar los pies"
+    },
+    {
+      "word": "Limp",
+      "translation": "cojera"
+    },
+    {
+      "word": "Crippled glory",
+      "translation": "gloria lisiada"
+    },
+    {
+      "word": "That selfsame whistle",
+      "translation": "ese mismo silbido"
+    },
+    {
+      "word": "Haunt (verbo)",
+      "translation": "perseguir, rondar"
+    },
+    {
+      "word": "And before long",
+      "translation": "y en poco tiempo"
+    },
+    {
+      "word": "We laid our plans against you",
+      "translation": "pusimos nuestros planes contra ti"
+    },
+    {
+      "word": "We baited your traps and cast your lures",
+      "translation": "cebamos tus trampas y lanzamos tus"
+    },
+    {
+      "word": "A well-conceived venue",
+      "translation": "un lugar bien concebido"
+    },
+    {
+      "word": "I’m afraid you’re out of luck",
+      "translation": "me temo que no tienes suerte"
+    },
+    {
+      "word": "Pumiced hair",
+      "translation": "pelo pómez"
+    },
+    {
+      "word": "Reckon (verbo)",
+      "translation": "calcular"
+    },
+    {
+      "word": "Carelessness",
+      "translation": "descuido"
+    },
+    {
+      "word": "Switchblade",
+      "translation": "navaja"
+    },
+    {
+      "word": "Garters",
+      "translation": "ligas"
+    },
+    {
+      "word": "Brink",
+      "translation": "borde"
+    },
+    {
+      "word": "Cusp",
+      "translation": "cúspide"
+    },
+    {
+      "word": "Don’t get too attached",
+      "translation": "no te apegues demasiado"
+    },
+    {
+      "word": "Avenged",
+      "translation": "vengado"
+    },
+    {
+      "word": "Much maligned",
+      "translation": "muy difamado"
+    },
+    {
+      "word": "Beseech (verbo)",
+      "translation": "suplicar"
+    },
+    {
+      "word": "Far too little",
+      "translation": "demasiado poco"
+    },
+    {
+      "word": "Far too late",
+      "translation": "demasiado tarde"
+    },
+    {
+      "word": "The nail in the coffin",
+      "translation": "el clavo en el ataúd"
+    }
+  ]
+}

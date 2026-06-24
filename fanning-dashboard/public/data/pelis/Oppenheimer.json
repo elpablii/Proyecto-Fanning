@@ -1,0 +1,1758 @@
+{
+  "title": "Oppenheimer",
+  "englishAnalysis": "La película presenta un inglés americano culto y académico, ambientado en las décadas de 1930 a 1950. Utiliza mucho vocabulario científico y de física cuántica ('fission', 'isotope', 'uranium'), además de terminología militar y política ('clearance', 'communist', 'security'). Excelente para practicar inglés formal, debates éticos y vocabulario técnico avanzado.",
+  "vocabulary": [
+    {
+      "word": "Rain pattering",
+      "translation": "lluvia repiqueteando"
+    },
+    {
+      "word": "Violent whooshing",
+      "translation": "silbido violento"
+    },
+    {
+      "word": "Disembodied rhythist stomping",
+      "translation": "pisotones rítmicos incorpóreos"
+    },
+    {
+      "word": "Pensive music",
+      "translation": "música pensativa, música reflexiva"
+    },
+    {
+      "word": "Security board",
+      "translation": "junta de seguridad"
+    },
+    {
+      "word": "The so-called derogatory information",
+      "translation": "la llamada información derogatoria"
+    },
+    {
+      "word": "Ordeal",
+      "translation": "calvario"
+    },
+    {
+      "word": "Chairman",
+      "translation": "presidente (en términos no necesariamente alusivos al poder ejecutivo)"
+    },
+    {
+      "word": "Clamor (verbo)",
+      "translation": "clamar"
+    },
+    {
+      "word": "Unsettling music",
+      "translation": "música inquietante"
+    },
+    {
+      "word": "I was homesick",
+      "translation": "sentía nostalgia"
+    },
+    {
+      "word": "Soft blast",
+      "translation": "explosión suave, ráfaga suave"
+    },
+    {
+      "word": "Glass shattering",
+      "translation": "cristales rompiéndose"
+    },
+    {
+      "word": "Coat (verbo)",
+      "translation": "recubrir"
+    },
+    {
+      "word": "We are peering through",
+      "translation": "nos asomamos"
+    },
+    {
+      "word": "What’s the J stand for?",
+      "translation": "¿Qué significa la J?"
+    },
+    {
+      "word": "Insight",
+      "translation": "perspicacia"
+    },
+    {
+      "word": "Beaker",
+      "translation": "vaso de precipitado"
+    },
+    {
+      "word": "Algebra’s like sheet music",
+      "translation": "el álgebra es como una partitura"
+    },
+    {
+      "word": "Metallic clinking",
+      "translation": "tintineo metálico"
+    },
+    {
+      "word": "Admiral",
+      "translation": "almirante"
+    },
+    {
+      "word": "Commissioner",
+      "translation": "comisario"
+    },
+    {
+      "word": "He was world-renowned",
+      "translation": "era mundialmente reconocido"
+    },
+    {
+      "word": "Commute (sustantivo)",
+      "translation": "viaje, trayecto"
+    },
+    {
+      "word": "Embrace (verbo)",
+      "translation": "abrazar, acoger, adoptar"
+    },
+    {
+      "word": "God doesn’t play dice",
+      "translation": "Dios no juega a los dados"
+    },
+    {
+      "word": "A lowly shoes salesman",
+      "translation": "un humilde vendedor de zapatos"
+    },
+    {
+      "word": "Haven",
+      "translation": "refugio"
+    },
+    {
+      "word": "Sour (verbo)",
+      "translation": "agriar"
+    },
+    {
+      "word": "None that spring to mind",
+      "translation": "ninguno que se me venga a la mente"
+    },
+    {
+      "word": "Ample",
+      "translation": "muchas, amplias"
+    },
+    {
+      "word": "Cross-examine (verbo)",
+      "translation": "interrogar"
+    },
+    {
+      "word": "Scattered laughter",
+      "translation": "risas dispersas"
+    },
+    {
+      "word": "You get any skinnier",
+      "translation": "si adelgazas"
+    },
+    {
+      "word": "Seat cushions",
+      "translation": "cojines para asientos"
+    },
+    {
+      "word": "Ever get the feeling our kind isn’t entirely welcome here?",
+      "translation": "¿Alguna vez has tenido la"
+    },
+    {
+      "word": "Seek out",
+      "translation": "buscar"
+    },
+    {
+      "word": "Casualty holds",
+      "translation": "la casualidad se mantiene"
+    },
+    {
+      "word": "Fruitless",
+      "translation": "infructuoso"
+    },
+    {
+      "word": "Mellow music",
+      "translation": "música tranquila, música suave"
+    },
+    {
+      "word": "Theory will get you only so far",
+      "translation": "la teoría no te llevará muy lejos"
+    },
+    {
+      "word": "I have a grasp on the basics",
+      "translation": "conozco lo básico"
+    },
+    {
+      "word": "Fire pushing outwards",
+      "translation": "el fuego empuja hacia fuera"
+    },
+    {
+      "word": "You shouldn’t let them bring up politics in the classroom",
+      "translation": "no deberías dejar que saquen"
+    },
+    {
+      "word": "Landlady",
+      "translation": "patrona, dueña"
+    },
+    {
+      "word": "Sample (verbo)",
+      "translation": "probar, muestrear"
+    },
+    {
+      "word": "Gathering (sustantivo)",
+      "translation": "reuniones, concentraciones, mitines, encuentros"
+    },
+    {
+      "word": "Overthrow (verbo)",
+      "translation": "derrocar"
+    },
+    {
+      "word": "Demise",
+      "translation": "desaparición, muerte (en sentido astronómico)"
+    },
+    {
+      "word": "Turgid stuff",
+      "translation": "cosas turbias"
+    },
+    {
+      "word": "Ownership",
+      "translation": "propiedad"
+    },
+    {
+      "word": "You sound uncommitted",
+      "translation": "suenas poco comprometido"
+    },
+    {
+      "word": "Channel (verbo)",
+      "translation": "canalizar"
+    },
+    {
+      "word": "Wiggle room",
+      "translation": "margen de maniobra"
+    },
+    {
+      "word": "Background",
+      "translation": "antecedentes, historial"
+    },
+    {
+      "word": "You just needed to get laid",
+      "translation": "solo necesitabas echar un polvo"
+    },
+    {
+      "word": "Succinctly",
+      "translation": "sucintamente"
+    },
+    {
+      "word": "Wind howling",
+      "translation": "viento aullando"
+    },
+    {
+      "word": "Disquieting music",
+      "translation": "música inquietante"
+    },
+    {
+      "word": "Clicks tongue",
+      "translation": "chasquea la lengua"
+    },
+    {
+      "word": "It’s letting up",
+      "translation": "está cediendo"
+    },
+    {
+      "word": "Wring (verbo)",
+      "translation": "retorcer"
+    },
+    {
+      "word": "Breath shudders",
+      "translation": "respiración agitada"
+    },
+    {
+      "word": "Mesa (en términos de geografía)",
+      "translation": "meseta"
+    },
+    {
+      "word": "Pulse (verbo)",
+      "translation": "pulsar, latir, vibrar"
+    },
+    {
+      "word": "Extra neutrons boil off",
+      "translation": "los neutrones sobrantes se evaporan"
+    },
+    {
+      "word": "Coming through!",
+      "translation": "¡Adelante!, ¡Voy a pasar!"
+    },
+    {
+      "word": "Sign up",
+      "translation": "registrarse"
+    },
+    {
+      "word": "I’ll be down to Pasadena",
+      "translation": "estaré en Pasadena"
+    },
+    {
+      "word": "Your paper on black holes is in!",
+      "translation": "¡tu artículo sobre los agujeros negros ya está aquí!"
+    },
+    {
+      "word": "It’s in print",
+      "translation": "está en imprenta"
+    },
+    {
+      "word": "You’ve been upstaged",
+      "translation": "te han eclipsado"
+    },
+    {
+      "word": "Increasingly",
+      "translation": "cada vez más"
+    },
+    {
+      "word": "A sharp break",
+      "translation": "una ruptura brusca"
+    },
+    {
+      "word": "Seems baffling",
+      "translation": "parece desconcertante"
+    },
+    {
+      "word": "Groupings",
+      "translation": "agrupaciones, grupos"
+    },
+    {
+      "word": "Bound together",
+      "translation": "unidas entre sí"
+    },
+    {
+      "word": "Living off beans and pancakes",
+      "translation": "vivir de judías y tortitas"
+    },
+    {
+      "word": "Hand out",
+      "translation": "repartir, entregar, distribuir"
+    },
+    {
+      "word": "Loyalists",
+      "translation": "leales"
+    },
+    {
+      "word": "He popped his head out of the trench",
+      "translation": "asomó la cabeza por la trinchera"
+    },
+    {
+      "word": "Embed (verbo)",
+      "translation": "incrustar"
+    },
+    {
+      "word": "Mudbank",
+      "translation": "banco de lodo"
+    },
+    {
+      "word": "Reductive",
+      "translation": "reduccionista"
+    },
+    {
+      "word": "Tender music",
+      "translation": "música tierna"
+    },
+    {
+      "word": "Not as far as I’m concerned",
+      "translation": "no en lo que a mi respecta"
+    },
+    {
+      "word": "You knocked her up",
+      "translation": "la dejaste embarazada"
+    },
+    {
+      "word": "Can’t keep a good man down",
+      "translation": "no se puede mantener abajo a un buen hombre"
+    },
+    {
+      "word": "Brilliance makes up for a lot",
+      "translation": "la brillantez compensa muchas cosas"
+    },
+    {
+      "word": "Farm laborers",
+      "translation": "trabajadores agrícolas"
+    },
+    {
+      "word": "Dock workers",
+      "translation": "trabajadores portuarios"
+    },
+    {
+      "word": "Herd (verbo)",
+      "translation": "arrear"
+    },
+    {
+      "word": "Security clearance",
+      "translation": "autorización de seguridad"
+    },
+    {
+      "word": "I was chair of the AEC",
+      "translation": "fuí presidente de la AEC"
+    },
+    {
+      "word": "Rabid",
+      "translation": "rabioso"
+    },
+    {
+      "word": "Hound out",
+      "translation": "expulsar"
+    },
+    {
+      "word": "Hint",
+      "translation": "indicio"
+    },
+    {
+      "word": "The power brokers",
+      "translation": "los agentes del poder"
+    },
+    {
+      "word": "Atomic energy commission (AEC)",
+      "translation": "Comisión de Energía Atómica"
+    },
+    {
+      "word": "Draft (verbo)",
+      "translation": "reclutar"
+    },
+    {
+      "word": "Moan (verbo)",
+      "translation": "gemir, gimotear, quejarse"
+    },
+    {
+      "word": "Uneasy music",
+      "translation": "música intranquila"
+    },
+    {
+      "word": "Shush (verbo)",
+      "translation": "hacer callar"
+    },
+    {
+      "word": "Wistful music",
+      "translation": "música melancólica"
+    },
+    {
+      "word": "Pivot (verbo)",
+      "translation": "pivotear, girar"
+    },
+    {
+      "word": "Feasibility",
+      "translation": "viabilidad, factibilidad"
+    },
+    {
+      "word": "He won’t get this done",
+      "translation": "no lo conseguirá"
+    },
+    {
+      "word": "Brass",
+      "translation": "jefes"
+    },
+    {
+      "word": "Ore",
+      "translation": "mineral"
+    },
+    {
+      "word": "You’re a dilettante, a womanizer",
+      "translation": "eres un diletante, un mujeriego"
+    },
+    {
+      "word": "Egotistical",
+      "translation": "egoísta"
+    },
+    {
+      "word": "He also strikes me as a guy",
+      "translation": "él también me parece un tipo"
+    },
+    {
+      "word": "Who have a 12-month head start",
+      "translation": "que tienen 12 meses de ventaja"
+    },
+    {
+      "word": "Leap",
+      "translation": "salto"
+    },
+    {
+      "word": "A straight race",
+      "translation": "una carrera directa"
+    },
+    {
+      "word": "They’re scattered",
+      "translation": "están dispersos"
+    },
+    {
+      "word": "Compartmentalization",
+      "translation": "compartimentación"
+    },
+    {
+      "word": "Downplaying the importance",
+      "translation": "restando la importancia"
+    },
+    {
+      "word": "Gripping music",
+      "translation": "música apasionante"
+    },
+    {
+      "word": "Unleash (verbo)",
+      "translation": "liberar, desencadenar"
+    },
+    {
+      "word": "A fellow traveler",
+      "translation": "un compañero de viaje"
+    },
+    {
+      "word": "No dice",
+      "translation": "no hay respuesta"
+    },
+    {
+      "word": "Ordnance",
+      "translation": "artillería"
+    },
+    {
+      "word": "You’re spread too thin",
+      "translation": "estás demasiado disperso"
+    },
+    {
+      "word": "Appoint (verbo)",
+      "translation": "nombrar, designar"
+    },
+    {
+      "word": "Rousing music",
+      "translation": "música alegre"
+    },
+    {
+      "word": "Shall I just show him in?",
+      "translation": "¿Lo hago pasar?"
+    },
+    {
+      "word": "What for?",
+      "translation": "¿Por qué?, ¿Para qué?"
+    },
+    {
+      "word": "There’s not much common ground between you two",
+      "translation": "no hay mucho en común entre"
+    },
+    {
+      "word": "What do you take it to mean?",
+      "translation": "¿Qué crees que significa?"
+    },
+    {
+      "word": "Neutrons smash into nucleus",
+      "translation": "los neutrones chocan contra el núcleo"
+    },
+    {
+      "word": "Ignite (verbo)",
+      "translation": "encender (en términos de reacciones químicas)"
+    },
+    {
+      "word": "Findings (sustantivo)",
+      "translation": "conclusiones, hallazgos"
+    },
+    {
+      "word": "Assumption",
+      "translation": "suposición, hipótesis"
+    },
+    {
+      "word": "Assurance",
+      "translation": "garantía"
+    },
+    {
+      "word": "Run into",
+      "translation": "encontrarse, toparse"
+    },
+    {
+      "word": "The brat is down",
+      "translation": "el mocoso ha caído"
+    },
+    {
+      "word": "Coming right up",
+      "translation": "enseguida"
+    },
+    {
+      "word": "Long-standing friendship",
+      "translation": "larga amistad"
+    },
+    {
+      "word": "It has long been clear to me",
+      "translation": "hace tiempo que tengo claro"
+    },
+    {
+      "word": "Highlight (verbo)",
+      "translation": "resaltar, destacar"
+    },
+    {
+      "word": "Counselor",
+      "translation": "consejero"
+    },
+    {
+      "word": "They resent anyone",
+      "translation": "les molesta a cualquiera"
+    },
+    {
+      "word": "All rolled into one",
+      "translation": "todo en uno"
+    },
+    {
+      "word": "Mutters indistinctly",
+      "translation": "murmura indistintamente"
+    },
+    {
+      "word": "Barbed wire, guns",
+      "translation": "alambre de púas, armas"
+    },
+    {
+      "word": "Tear (verbo)",
+      "translation": "rasgar"
+    },
+    {
+      "word": "Okay, hang on",
+      "translation": "vale, espera"
+    },
+    {
+      "word": "Scattered applause",
+      "translation": "aplausos dispersos"
+    },
+    {
+      "word": "Policy disagreement",
+      "translation": "desacuerdo politico, discrepancia política"
+    },
+    {
+      "word": "Thanks for convening on short notice",
+      "translation": "gracias por convocarnos con tan poca antelación"
+    },
+    {
+      "word": "Long-range detection filter papers",
+      "translation": "papeles de filtro de detección de largo alcance"
+    },
+    {
+      "word": "Wasn’t security tight?",
+      "translation": "¿No era muy estricta la seguridad?"
+    },
+    {
+      "word": "Chunk",
+      "translation": "pedazo, trozo"
+    },
+    {
+      "word": "Criticality",
+      "translation": "criticidad, criticalidad"
+    },
+    {
+      "word": "Inwards",
+      "translation": "hacia el interior"
+    },
+    {
+      "word": "Librarian",
+      "translation": "bibliotecario"
+    },
+    {
+      "word": "We cut down on staff",
+      "translation": "reducimos personal"
+    },
+    {
+      "word": "They’re already security cleared",
+      "translation": "ya tienen autorización de seguridad"
+    },
+    {
+      "word": "Cross-divisional open discussions",
+      "translation": "debates abiertos entre divisiones"
+    },
+    {
+      "word": "Two-year head start",
+      "translation": "dos años de ventaja"
+    },
+    {
+      "word": "They just fired a starting gun",
+      "translation": "acaban de dar el pistoletazo de salida"
+    },
+    {
+      "word": "Brief (verbo)",
+      "translation": "informar (un asunto)"
+    },
+    {
+      "word": "Feasible",
+      "translation": "viable, factible"
+    },
+    {
+      "word": "Ox cart",
+      "translation": "carreta de bueyes"
+    },
+    {
+      "word": "We’ve gotta get going",
+      "translation": "tenemos que ponernos en marcha"
+    },
+    {
+      "word": "Self-sustaining",
+      "translation": "autosostenible"
+    },
+    {
+      "word": "Enough of this madhouse",
+      "translation": "basta ya de este manicomio"
+    },
+    {
+      "word": "Better off without him",
+      "translation": "mejor sin él"
+    },
+    {
+      "word": "I’m not that subtle",
+      "translation": "no soy tan sutil"
+    },
+    {
+      "word": "Guilty as charged",
+      "translation": "culpable de los cargos"
+    },
+    {
+      "word": "Security clearance",
+      "translation": "autorización de seguridad"
+    },
+    {
+      "word": "Guidelines",
+      "translation": "directrices, pautas"
+    },
+    {
+      "word": "Rooster crowing",
+      "translation": "gallo cacareando"
+    },
+    {
+      "word": "What a trek",
+      "translation": "qué caminata"
+    },
+    {
+      "word": "Liaison",
+      "translation": "enlace"
+    },
+    {
+      "word": "Stirring music",
+      "translation": "música conmovedora"
+    },
+    {
+      "word": "Unsubstantiated",
+      "translation": "sin fundamento"
+    },
+    {
+      "word": "Knowingly",
+      "translation": "a sabiendas, conscientemente"
+    },
+    {
+      "word": "Employ (verbo)",
+      "translation": "emplear, contratar"
+    },
+    {
+      "word": "Screw-up (sustantivo)",
+      "translation": "metida de pata (en sentido de arruinar algo)"
+    },
+    {
+      "word": "Get drafted",
+      "translation": "ser reclutado"
+    },
+    {
+      "word": "Unionize (verbo)",
+      "translation": "sindicalizar"
+    },
+    {
+      "word": "Drop in",
+      "translation": "pasar (a visitar alguien)"
+    },
+    {
+      "word": "Renew (verbo)",
+      "translation": "renovar"
+    },
+    {
+      "word": "Elevator dings",
+      "translation": "suena el ascensor"
+    },
+    {
+      "word": "Conceivably",
+      "translation": "posiblemente"
+    },
+    {
+      "word": "She was undergoing psychiatric treatment",
+      "translation": "estaba bajo tratamiento psiquiátrico"
+    },
+    {
+      "word": "Grim music",
+      "translation": "música lúgubre"
+    },
+    {
+      "word": "You drop in and out of my life",
+      "translation": "entras y sales de mi vida"
+    },
+    {
+      "word": "That’s not what either of us is talking about",
+      "translation": "eso no es lo que ninguno de nosotros está"
+    },
+    {
+      "word": "Rhythmic stomping",
+      "translation": "pisotones rítmicos"
+    },
+    {
+      "word": "A closed hearing",
+      "translation": "una audiencia a puerta cerrada"
+    },
+    {
+      "word": "I was under oath",
+      "translation": "estaba bajo juramento"
+    },
+    {
+      "word": "Oath",
+      "translation": "juramento"
+    },
+    {
+      "word": "Letting them pick our lives to pieces",
+      "translation": "dejando que destrocen nuestras vidas"
+    },
+    {
+      "word": "As regards to the union",
+      "translation": "en cuanto a la unión"
+    },
+    {
+      "word": "He might merit watching is all",
+      "translation": "puede que merezca la pena verlo, eso es todo"
+    },
+    {
+      "word": "Memo",
+      "translation": "memorando, memorándum"
+    },
+    {
+      "word": "Surveillance",
+      "translation": "vigilancia"
+    },
+    {
+      "word": "Whom you had not met?",
+      "translation": "¿A quién no habías conocido?"
+    },
+    {
+      "word": "Soon after",
+      "translation": "poco después"
+    },
+    {
+      "word": "Take up time",
+      "translation": "ocupar tiempo, quitar tiempo"
+    },
+    {
+      "word": "Whatever time you choose",
+      "translation": "elijas la hora que elijas"
+    },
+    {
+      "word": "He had no intention of leaving any witness left to prosecute",
+      "translation": "no tenía intención de"
+    },
+    {
+      "word": "The FBI talked him down",
+      "translation": "el FBI lo convenció"
+    },
+    {
+      "word": "It might not hurt to be on the lookout for it",
+      "translation": "no estaría de más estar atento a ello"
+    },
+    {
+      "word": "Bishop",
+      "translation": "obispo"
+    },
+    {
+      "word": "Go through",
+      "translation": "pasar, atravear"
+    },
+    {
+      "word": "Smacks lips",
+      "translation": "se muerde con los labios"
+    },
+    {
+      "word": "Acquaintance",
+      "translation": "conocido"
+    },
+    {
+      "word": "A can of worms",
+      "translation": "una caja de Pandora"
+    },
+    {
+      "word": "A cock-and-bull story",
+      "translation": "una historia de gallos y gatos"
+    },
+    {
+      "word": "There’s something wicked",
+      "translation": "hay algo malo"
+    },
+    {
+      "word": "Approach",
+      "translation": "aproximación, acercamiento"
+    },
+    {
+      "word": "If I seem uncooperative",
+      "translation": "si parezco poco cooperativo"
+    },
+    {
+      "word": "Volunteer (verbo)",
+      "translation": "ofrecer voluntariamente"
+    },
+    {
+      "word": "Expend (verbo)",
+      "translation": "gastar"
+    },
+    {
+      "word": "Offer up",
+      "translation": "ofrecer"
+    },
+    {
+      "word": "Something’s up",
+      "translation": "algo pasa"
+    },
+    {
+      "word": "Lively chatter and laughter",
+      "translation": "charlas y risas animadas"
+    },
+    {
+      "word": "Upbeat music",
+      "translation": "música alegre"
+    },
+    {
+      "word": "Subside (verbo)",
+      "translation": "disminuir, amainar"
+    },
+    {
+      "word": "Heisenberg sought me out in Copenhagen",
+      "translation": "Heisenberg me buscó en Copenhague"
+    },
+    {
+      "word": "It was chilling",
+      "translation": "estuvo escalofriante"
+    },
+    {
+      "word": "Draw out",
+      "translation": "atraer"
+    },
+    {
+      "word": "Sustained fission reactions",
+      "translation": "reacciones de fisión sostenidas"
+    },
+    {
+      "word": "Snort (verbo)",
+      "translation": "oler, esnifar"
+    },
+    {
+      "word": "Outlive (verbo)",
+      "translation": "sobrevivir"
+    },
+    {
+      "word": "Barbiturates",
+      "translation": "barbitúricos"
+    },
+    {
+      "word": "Chloral hydrate",
+      "translation": "hidrato de cloral"
+    },
+    {
+      "word": "Shudder (verbo)",
+      "translation": "estremecerse, tener escalofríos"
+    },
+    {
+      "word": "You pull yourself together",
+      "translation": "te recompones"
+    },
+    {
+      "word": "Sniff (verbo)",
+      "translation": "oler, inhalar, esnifar"
+    },
+    {
+      "word": "It’s nowhere",
+      "translation": "no está en ninguna parte"
+    },
+    {
+      "word": "There’s getting on with it",
+      "translation": "hay que seguir adelante"
+    },
+    {
+      "word": "Now raise that fucking barrier",
+      "translation": "ahora levanta esa jodida barrera"
+    },
+    {
+      "word": "Its only intended target",
+      "translation": "su único objetivo previsto"
+    },
+    {
+      "word": "Target (verbo)",
+      "translation": "apuntar (tener algo en la mira)"
+    },
+    {
+      "word": "Deterrence",
+      "translation": "disuasión"
+    },
+    {
+      "word": "Drown (verbo)",
+      "translation": "ahogarse"
+    },
+    {
+      "word": "Commit (verbo)",
+      "translation": "dedicar, destinar, comprometer"
+    },
+    {
+      "word": "Reassure (verbo)",
+      "translation": "tranquilizar"
+    },
+    {
+      "word": "Get sidetracked",
+      "translation": "desviarse, distraerse (de un tema)"
+    },
+    {
+      "word": "Thereby",
+      "translation": "revelando"
+    },
+    {
+      "word": "Advisory committee",
+      "translation": "comité asesor, comité consultivo"
+    },
+    {
+      "word": "Joint committee on Atomic Energy?",
+      "translation": "¿Comisión Mixta de Energía Atómica?"
+    },
+    {
+      "word": "Raid",
+      "translation": "incursión, redada"
+    },
+    {
+      "word": "To bandy around terms",
+      "translation": "para andar con términos"
+    },
+    {
+      "word": "Indictment",
+      "translation": "acusación"
+    },
+    {
+      "word": "Any longer",
+      "translation": "ya no"
+    },
+    {
+      "word": "Mankind",
+      "translation": "humanidad"
+    },
+    {
+      "word": "Envisage (verbo)",
+      "translation": "vislumbrar"
+    },
+    {
+      "word": "Thrilling music",
+      "translation": "música emocionante"
+    },
+    {
+      "word": "Head down, everyone",
+      "translation": "cabeza abajo, todo el mundo"
+    },
+    {
+      "word": "Spool winds",
+      "translation": "vientos de bobina"
+    },
+    {
+      "word": "Batter my heart, three-person’d god",
+      "translation": "golpea mi corazón, dios de tres personas"
+    },
+    {
+      "word": "Judgement",
+      "translation": "sentencia, fallo, juicio"
+    },
+    {
+      "word": "A lot further away",
+      "translation": "mucho más lejos"
+    },
+    {
+      "word": "You’re a long way from Chicago",
+      "translation": "estás muy lejos de Chicago"
+    },
+    {
+      "word": "Clattering",
+      "translation": "traqueteo"
+    },
+    {
+      "word": "Relay (verbo)",
+      "translation": "transmitir, retransmitir"
+    },
+    {
+      "word": "Hold out",
+      "translation": "resistir, aguantar"
+    },
+    {
+      "word": "Firestorm",
+      "translation": "tormenta de fuego"
+    },
+    {
+      "word": "Unleash (verbo)",
+      "translation": "desatar, desencadenar"
+    },
+    {
+      "word": "Deadly neutron effects for a mile",
+      "translation": "efectos neutrónicos mortales a una milla"
+    },
+    {
+      "word": "A vital war plant with workers housed nearby",
+      "translation": "una planta vital para la guerra con"
+    },
+    {
+      "word": "It fails to go off",
+      "translation": "no se activa, no se dispara"
+    },
+    {
+      "word": "Scupper (verbo)",
+      "translation": "echar por tierra"
+    },
+    {
+      "word": "Retain (verbo)",
+      "translation": "conservar"
+    },
+    {
+      "word": "Secrecy",
+      "translation": "secretismo"
+    },
+    {
+      "word": "At full pace",
+      "translation": "a todo ritmo"
+    },
+    {
+      "word": "Sever (verbo)",
+      "translation": "separar"
+    },
+    {
+      "word": "Breakthrough",
+      "translation": "avance"
+    },
+    {
+      "word": "Unkeepable",
+      "translation": "inviable, incumplible"
+    },
+    {
+      "word": "We’ll test fire before the conference",
+      "translation": "probaremos el fuego antes de la conferencia"
+    },
+    {
+      "word": "Ground zero observation posts",
+      "translation": "puestos de observación en la zona cero"
+    },
+    {
+      "word": "Where do we trigger from?",
+      "translation": "¿Desde dónde partimos?"
+    },
+    {
+      "word": "A further observation post",
+      "translation": "otro puesto de observación"
+    },
+    {
+      "word": "Trigger lines already went in",
+      "translation": "las líneas de activación ya entraron"
+    },
+    {
+      "word": "Mattress",
+      "translation": "colchón"
+    },
+    {
+      "word": "Take in the sheets",
+      "translation": "recoge las sábanas"
+    },
+    {
+      "word": "Mutter (verbo)",
+      "translation": "murmurar"
+    },
+    {
+      "word": "Wind gusting",
+      "translation": "ráfagas de viento"
+    },
+    {
+      "word": "Ignition",
+      "translation": "ignición"
+    },
+    {
+      "word": "Scatter (verbo)",
+      "translation": "dispersar"
+    },
+    {
+      "word": "Circle (verbo)",
+      "translation": "dar vueltas"
+    },
+    {
+      "word": "Stand down",
+      "translation": "retirarse"
+    },
+    {
+      "word": "It’s holding strong",
+      "translation": "se mantiene firme"
+    },
+    {
+      "word": "If it doesn’t go off",
+      "translation": "si no estalla, si no explota"
+    },
+    {
+      "word": "Setting fire",
+      "translation": "prender fuego, incendiar"
+    },
+    {
+      "word": "Side bets",
+      "translation": "apuestas paralelas"
+    },
+    {
+      "word": "Gallows humor",
+      "translation": "humor negro, humor de horca"
+    },
+    {
+      "word": "It’s letting up",
+      "translation": "está cediendo"
+    },
+    {
+      "word": "The arming party",
+      "translation": "el partido de armamento"
+    },
+    {
+      "word": "The voltage drops below one volt",
+      "translation": "la tensión cae por debajo de un voltio"
+    },
+    {
+      "word": "Turn around",
+      "translation": "girar, dar la vuelta"
+    },
+    {
+      "word": "Is it rubbed in?",
+      "translation": "¿Está frotado?"
+    },
+    {
+      "word": "Faint",
+      "translation": "tenue"
+    },
+    {
+      "word": "Rumbling subsides",
+      "translation": "el estruendo disminuye"
+    },
+    {
+      "word": "Whooping excitedly",
+      "translation": "gritando con entusiasmo"
+    },
+    {
+      "word": "Disquieting music",
+      "translation": "música inquietante"
+    },
+    {
+      "word": "Overstatement",
+      "translation": "exageración, sobrestimación"
+    },
+    {
+      "word": "Ace",
+      "translation": "as"
+    },
+    {
+      "word": "It’s for them to play a hand",
+      "translation": "es para que jueguen una mano"
+    },
+    {
+      "word": "Engine revs",
+      "translation": "revoluciones del motor"
+    },
+    {
+      "word": "Usefulness",
+      "translation": "utilidad"
+    },
+    {
+      "word": "Elated laughter",
+      "translation": "risa eufórica"
+    },
+    {
+      "word": "It’s a harnessing",
+      "translation": "es un aprovechamiento"
+    },
+    {
+      "word": "Bang",
+      "translation": "explosión, estruendo, estallido"
+    },
+    {
+      "word": "Gamble (sustantivo)",
+      "translation": "apuesta, juego"
+    },
+    {
+      "word": "Stomping subsides",
+      "translation": "los pisotones disminuyen"
+    },
+    {
+      "word": "Muffled distant rumbling",
+      "translation": "estruendo lejano amortiguado"
+    },
+    {
+      "word": "Jarring musical sting",
+      "translation": "golpe musical discordante"
+    },
+    {
+      "word": "Hearty laughter",
+      "translation": "carcajadas"
+    },
+    {
+      "word": "Robert saw that hand-wringing got him nowhere",
+      "translation": "Robert vio que lamentarse no le"
+    },
+    {
+      "word": "Clamor (verbo)",
+      "translation": "clamar"
+    },
+    {
+      "word": "Exert (verbo)",
+      "translation": "ejercer"
+    },
+    {
+      "word": "Spokesman",
+      "translation": "portavoz, vocero"
+    },
+    {
+      "word": "All along with McCarthy on the rise",
+      "translation": "todo junto con McCarthy en ascenso"
+    },
+    {
+      "word": "Lomanitz wound up working the railroad, laying track",
+      "translation": "Lomanitz terminó trabajando en"
+    },
+    {
+      "word": "General Advisory Committee (GAC)",
+      "translation": "Comité Consultivo General"
+    },
+    {
+      "word": "To gloat",
+      "translation": "para regodearse"
+    },
+    {
+      "word": "Blow (sustantivo)",
+      "translation": "golpe (en algo no necesariamente tangible)"
+    },
+    {
+      "word": "Brooding music",
+      "translation": "música melancólica"
+    },
+    {
+      "word": "The FBI stepped up surveillance on him",
+      "translation": "el FBI intensificó la vigilancia sobre él"
+    },
+    {
+      "word": "His phone was tapped",
+      "translation": "su teléfono fue intervenido"
+    },
+    {
+      "word": "His trash picked through",
+      "translation": "su basura era recogida"
+    },
+    {
+      "word": "Likened",
+      "translation": "comparado"
+    },
+    {
+      "word": "Candor",
+      "translation": "franqueza, sinceridad"
+    },
+    {
+      "word": "Level (verbo)",
+      "translation": "ponerse al nivel, nivelar, igualar"
+    },
+    {
+      "word": "The last straw",
+      "translation": "la gota que colmó el vaso"
+    },
+    {
+      "word": "Borden dredged it all up",
+      "translation": "Borden lo desenterró todo"
+    },
+    {
+      "word": "Grasp (verbo)",
+      "translation": "comprender"
+    },
+    {
+      "word": "Back up",
+      "translation": "apoyar, respaldar"
+    },
+    {
+      "word": "Gasp (verbo)",
+      "translation": "jadear, respirar hondo"
+    },
+    {
+      "word": "Radium-like rays",
+      "translation": "rayos de tipo radio"
+    },
+    {
+      "word": "I neither can nor will",
+      "translation": "ni puedo ni quiero"
+    },
+    {
+      "word": "Sphinx-like guru of the atom",
+      "translation": "La esfinge gurú del átomo"
+    },
+    {
+      "word": "Temper (verbo)",
+      "translation": "suavizar, atenuar"
+    },
+    {
+      "word": "Warring world",
+      "translation": "mundo en guerra"
+    },
+    {
+      "word": "Stop off",
+      "translation": "detenerse"
+    },
+    {
+      "word": "What’s the caption?",
+      "translation": "¿Cuál es el pie de foto?"
+    },
+    {
+      "word": "You’ve been far ahead all along",
+      "translation": "has estado muy por delante todo el tiempo"
+    },
+    {
+      "word": "How to get things done",
+      "translation": "cómo hacer las cosas"
+    },
+    {
+      "word": "Come down (en algunos contextos)",
+      "translation": "reducir (un tema)"
+    },
+    {
+      "word": "Vindictive",
+      "translation": "vengativo"
+    },
+    {
+      "word": "You set him on Oppenheimer",
+      "translation": "lo pusiste en Oppenheimer"
+    },
+    {
+      "word": "Borden didn’t take any convincing",
+      "translation": "Borden no se dejó convencer"
+    },
+    {
+      "word": "Write up",
+      "translation": "redactar"
+    },
+    {
+      "word": "Slippery",
+      "translation": "escurridizo"
+    },
+    {
+      "word": "Self-promoting clown",
+      "translation": "payaso autopromocionador"
+    },
+    {
+      "word": "Talk over",
+      "translation": "hablar (sobre un tema)"
+    },
+    {
+      "word": "Martyr (verbo)",
+      "translation": "martirizar"
+    },
+    {
+      "word": "A shabby little room",
+      "translation": "un cuartito destartalado"
+    },
+    {
+      "word": "Limelight",
+      "translation": "focos"
+    },
+    {
+      "word": "Renewal (verbo)",
+      "translation": "renovar"
+    },
+    {
+      "word": "Counsel",
+      "translation": "asesoría"
+    },
+    {
+      "word": "Board (en términos formales)",
+      "translation": "junta, consejo"
+    },
+    {
+      "word": "Derogatory information",
+      "translation": "información despectiva"
+    },
+    {
+      "word": "We’re not convicting",
+      "translation": "no estamos condenando"
+    },
+    {
+      "word": "Naivete",
+      "translation": "ingenuidad"
+    },
+    {
+      "word": "Furnish (verbo)",
+      "translation": "facilitar, proporcionar"
+    },
+    {
+      "word": "How so?",
+      "translation": "¿Cómo así?, ¿En qué sentido?"
+    },
+    {
+      "word": "Perjure (verbo)",
+      "translation": "cometer perjurio"
+    },
+    {
+      "word": "Entrapment",
+      "translation": "atrapamiento, aprisionamiento"
+    },
+    {
+      "word": "Disclosure",
+      "translation": "divulgación, revelación"
+    },
+    {
+      "word": "Evidentiary rules",
+      "translation": "reglas probatorias, normas probatorias"
+    },
+    {
+      "word": "The bearing of his loyalty",
+      "translation": "el porte de su lealtad"
+    },
+    {
+      "word": "Upstanding character",
+      "translation": "carácter íntegro"
+    },
+    {
+      "word": "Oppenheimer had been wholly truthful",
+      "translation": "Oppenheimer había sido totalmente sincero"
+    },
+    {
+      "word": "Lay out",
+      "translation": "exponer, presentar (algo)"
+    },
+    {
+      "word": "A sufficiently hardened communist",
+      "translation": "un comunista suficientemente curtido"
+    },
+    {
+      "word": "He volunteered information to the Soviets",
+      "translation": "ofreció información a los soviéticos"
+    },
+    {
+      "word": "Who’s known to be earnest, hardworking and intelligent",
+      "translation": "que es conocido por ser serio,"
+    },
+    {
+      "word": "Vindictiveness",
+      "translation": "reivindicación"
+    },
+    {
+      "word": "Gavel banging",
+      "translation": "golpes de martillo"
+    },
+    {
+      "word": "Oppenheimer is now being pilloried and put through an ordeal",
+      "translation": "Oppenheimer está"
+    },
+    {
+      "word": "If I become stirred",
+      "translation": "si me agito"
+    },
+    {
+      "word": "Made mincemeat out",
+      "translation": "hacer picadillo"
+    },
+    {
+      "word": "Strauss turned to the personnel security system",
+      "translation": "Strauss recurrió al sistema de"
+    },
+    {
+      "word": "Exceedingly",
+      "translation": "muy"
+    },
+    {
+      "word": "Thoroughly (en algunos contextos)",
+      "translation": "totalmente"
+    },
+    {
+      "word": "Gentlemanly enough",
+      "translation": "suficientemente caballeroso"
+    },
+    {
+      "word": "Unnerving music",
+      "translation": "música enervante"
+    },
+    {
+      "word": "Believe otherwise",
+      "translation": "creer lo contrario"
+    },
+    {
+      "word": "Wistful music",
+      "translation": "música melancólica"
+    },
+    {
+      "word": "Prosecutor",
+      "translation": "fiscal"
+    },
+    {
+      "word": "Prosecuting counsel",
+      "translation": "abogado de la acusación"
+    },
+    {
+      "word": "It was all so very long ago",
+      "translation": "fue hace tanto tiempo"
+    },
+    {
+      "word": "Long enough to have forgotten",
+      "translation": "lo suficiente para haber olvidado"
+    },
+    {
+      "word": "Rip up",
+      "translation": "rasgar, romper"
+    },
+    {
+      "word": "Haven’t the slightest idea",
+      "translation": "no tengo la menor idea"
+    },
+    {
+      "word": "It’s not properly phrased",
+      "translation": "no está propiamente redactado"
+    },
+    {
+      "word": "Do you understand what I’m getting at?",
+      "translation": "¿Entiendes a dónde quiero llegar?"
+    },
+    {
+      "word": "And your plain old regular commie?",
+      "translation": "¿Y tu comunista normal y corriente?"
+    },
+    {
+      "word": "Outcome (sustantivo)",
+      "translation": "desenlace, resultado"
+    },
+    {
+      "word": "Why put yourself through more of it?",
+      "translation": "¿Por qué hacerte pasar por más?"
+    },
+    {
+      "word": "You should turn your back on her",
+      "translation": "deberías darle la espalda"
+    },
+    {
+      "word": "Tear down",
+      "translation": "derribar, destrozar"
+    },
+    {
+      "word": "Einstein wouldn’t even meet my eye",
+      "translation": "Einstein ni siquiera me miraría a los ojos"
+    },
+    {
+      "word": "Oppenheimer knows how to manipulate his own",
+      "translation": "Oppenheimer sabe cómo manipular a"
+    },
+    {
+      "word": "Prey (verbo)",
+      "translation": "atacar"
+    },
+    {
+      "word": "They’d get a say",
+      "translation": "tendrían voz y voto"
+    },
+    {
+      "word": "Deter (verbo)",
+      "translation": "disuadir"
+    },
+    {
+      "word": "Moral qualms",
+      "translation": "reparo moral"
+    },
+    {
+      "word": "But you still got on with your work",
+      "translation": "pero aún así seguiste con tu trabajo"
+    },
+    {
+      "word": "Policy",
+      "translation": "política"
+    },
+    {
+      "word": "Without regard",
+      "translation": "sin tener en cuenta"
+    },
+    {
+      "word": "Voice quivering",
+      "translation": "voz temblorosa"
+    },
+    {
+      "word": "As many as",
+      "translation": "tanto como"
+    },
+    {
+      "word": "Moral scruples",
+      "translation": "escrúpulos morales"
+    },
+    {
+      "word": "It’s also alleged",
+      "translation": "también se alega que"
+    },
+    {
+      "word": "Dropping (sustantivo)",
+      "translation": "lanzamiento"
+    },
+    {
+      "word": "Insincere guilt of the self-important",
+      "translation": "la culpa insincera de los engreídos"
+    },
+    {
+      "word": "We set forth our arguments",
+      "translation": "exponemos nuestros argumentos"
+    },
+    {
+      "word": "Endorse (verbo)",
+      "translation": "apoyar, respaldar"
+    },
+    {
+      "word": "Muffled rumbling",
+      "translation": "estruendo amotiguado"
+    },
+    {
+      "word": "Policy-making position",
+      "translation": "posición de hacer política"
+    },
+    {
+      "word": "We would tend to use any weapon we had",
+      "translation": "tenderíamos a usar cualquier arma que"
+    },
+    {
+      "word": "Huff (verbo)",
+      "translation": "resoplar"
+    },
+    {
+      "word": "The crowning moment",
+      "translation": "el momento cumbre"
+    },
+    {
+      "word": "You’ll scrape through",
+      "translation": "pasarás raspando"
+    },
+    {
+      "word": "Disregard (sustantivo)",
+      "translation": "desprecio"
+    },
+    {
+      "word": "Your somewhat disturbing conduct",
+      "translation": "su conducta un tanto perturbadora"
+    },
+    {
+      "word": "And the regrettable lack of candor",
+      "translation": "y la lamentable falta de franqueza"
+    },
+    {
+      "word": "Dissent",
+      "translation": "disidencia"
+    },
+    {
+      "word": "Don’t take in the sheets",
+      "translation": "no cojas las sábanas"
+    },
+    {
+      "word": "Unexpected holdouts",
+      "translation": "retenciones inesperadas"
+    },
+    {
+      "word": "Who were the holdouts?",
+      "translation": "¿quiénes eran los que se resistían?"
+    },
+    {
+      "word": "If you let them tar and feather you",
+      "translation": "si dejabas que te alquitranaran y te emplumaran"
+    },
+    {
+      "word": "Wryly",
+      "translation": "irónicamente"
+    },
+    {
+      "word": "Cabinet room",
+      "translation": "sala del gabinete"
+    },
+    {
+      "word": "I saw him by the pond",
+      "translation": "lo vi junto al estanque"
+    },
+    {
+      "word": "When they’ve punished you enough",
+      "translation": "cuando te hayan castigado lo suficiente"
+    },
+    {
+      "word": "Pat you on the back",
+      "translation": "una palmadita en la espalda"
+    },
+    {
+      "word": "Music tempo quickening",
+      "translation": "aceleración del ritmo musical"
+    },
+    {
+      "word": "Up-tempo music",
+      "translation": "Música a todo ritmo"
+    }
+  ]
+}

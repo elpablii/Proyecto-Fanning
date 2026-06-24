@@ -500,7 +500,7 @@ export default function Dashboard() {
                 if (specialSeries.includes(movie.title.toLowerCase())) {
                   router.push(`/series/${encodeURIComponent(movie.title)}`);
                 } else {
-                  setSelectedMovie({ ...movie, posterUrl });
+                  router.push(`/peliculas/${encodeURIComponent(movie.title)}`);
                 }
               }}
             />

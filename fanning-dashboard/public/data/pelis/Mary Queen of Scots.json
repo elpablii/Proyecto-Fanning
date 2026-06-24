@@ -1,0 +1,906 @@
+{
+  "title": "Mary Queen of Scots",
+  "englishAnalysis": "Una excelente oportunidad para exponerse al inglés antiguo, formal y monárquico del siglo XVI ('treason', 'sovereign', 'heir', 'realm'). Predominan los acentos británicos y escoceses, lo que supone un reto fantástico para el oído, lleno de intrigas políticas y religiosas.",
+  "vocabulary": [
+    {
+      "word": "Supper (sustantivo)",
+      "translation": "cena"
+    },
+    {
+      "word": "Chambers",
+      "translation": "habitaciones, aposentos"
+    },
+    {
+      "word": "Oath",
+      "translation": "juramento"
+    },
+    {
+      "word": "Uphold (verbo)",
+      "translation": "mantener"
+    },
+    {
+      "word": "Allegiance",
+      "translation": "lealtad"
+    },
+    {
+      "word": "Pledge (verbo)",
+      "translation": "prometer, comprometer"
+    },
+    {
+      "word": "Pledge (sustantivo)",
+      "translation": "promesa, compromiso"
+    },
+    {
+      "word": "She doesn’t yield to a bridle",
+      "translation": "ella no cede a una brida"
+    },
+    {
+      "word": "Kin",
+      "translation": "parientes, familiares"
+    },
+    {
+      "word": "She must bow to you",
+      "translation": "ella debe inclinarse ante ti"
+    },
+    {
+      "word": "Papist",
+      "translation": "papista"
+    },
+    {
+      "word": "We’re two sisters bound by womanhood",
+      "translation": "somos dos hermanas unidas por la feminidad"
+    },
+    {
+      "word": "A treaty drafted by men lesser than ourselves",
+      "translation": "un tratado redactado por hombres"
+    },
+    {
+      "word": "Your rightful place",
+      "translation": "tu lugar legítimo"
+    },
+    {
+      "word": "Embrace (verbo)",
+      "translation": "abrazar, acoger, adoptar"
+    },
+    {
+      "word": "Confident",
+      "translation": "seguro, confiado"
+    },
+    {
+      "word": "Secure (verbo en algunos contextos)",
+      "translation": "obtener, conseguir"
+    },
+    {
+      "word": "Bear a child",
+      "translation": "tener un hijo"
+    },
+    {
+      "word": "Muster your courage",
+      "translation": "ármate de valor"
+    },
+    {
+      "word": "Suitors",
+      "translation": "pretendientes"
+    },
+    {
+      "word": "Commoner",
+      "translation": "plebeyo"
+    },
+    {
+      "word": "Resplendent",
+      "translation": "resplandeciente"
+    },
+    {
+      "word": "Loose string",
+      "translation": "cuerda floja"
+    },
+    {
+      "word": "Mistress",
+      "translation": "señora"
+    },
+    {
+      "word": "Beseech (verbo)",
+      "translation": "rogar, suplicar"
+    },
+    {
+      "word": "Embolden (verbo)",
+      "translation": "envalentonar"
+    },
+    {
+      "word": "Upon (preposición)",
+      "translation": "en"
+    },
+    {
+      "word": "Worship (verbo)",
+      "translation": "adorar, venerar, idolatrar, practicar culto"
+    },
+    {
+      "word": "You look displeased",
+      "translation": "te ves disgustado"
+    },
+    {
+      "word": "Realm",
+      "translation": "reino"
+    },
+    {
+      "word": "Stand when I address you",
+      "translation": "ponte de pie cuando me dirija a ti"
+    },
+    {
+      "word": "Revolt",
+      "translation": "revuelta, sublevación"
+    },
+    {
+      "word": "Stray (verbo)",
+      "translation": "huir"
+    },
+    {
+      "word": "Your sight is but blindness",
+      "translation": "tu vista no es más que ceguera"
+    },
+    {
+      "word": "Your counsel, foolishness",
+      "translation": "tu consejo, una tontería"
+    },
+    {
+      "word": "Your judgment, frenzy",
+      "translation": "tu juicio, frenético"
+    },
+    {
+      "word": "Abide (verbo)",
+      "translation": "soportar"
+    },
+    {
+      "word": "Faithful disciples",
+      "translation": "discípulos fieles"
+    },
+    {
+      "word": "We have as little need of this court as it has of us",
+      "translation": "necesitamos tan poco a este"
+    },
+    {
+      "word": "Deference",
+      "translation": "deferencia"
+    },
+    {
+      "word": "Allegiance",
+      "translation": "lealtad"
+    },
+    {
+      "word": "Thus",
+      "translation": "así, de este modo"
+    },
+    {
+      "word": "Grant (verbo)",
+      "translation": "otorgar, conceder"
+    },
+    {
+      "word": "Suitors",
+      "translation": "pretendientes"
+    },
+    {
+      "word": "Nobleman",
+      "translation": "noble"
+    },
+    {
+      "word": "Please (verbo)",
+      "translation": "agradar, complacer"
+    },
+    {
+      "word": "Wed (verbo)",
+      "translation": "casarse"
+    },
+    {
+      "word": "I don’t think God wills it",
+      "translation": "no creo que Dios lo quiera"
+    },
+    {
+      "word": "Dote (verbo)",
+      "translation": "adorar"
+    },
+    {
+      "word": "Scourge",
+      "translation": "flagelo, azote"
+    },
+    {
+      "word": "Famine",
+      "translation": "hambre"
+    },
+    {
+      "word": "Flaunt (verbo)",
+      "translation": "alardear"
+    },
+    {
+      "word": "Whore (verbo)",
+      "translation": "prostituir"
+    },
+    {
+      "word": "Just be wary of these men",
+      "translation": "sólo desconfía de estos hombres"
+    },
+    {
+      "word": "I have only lain with François",
+      "translation": "sólo me he acostado con François"
+    },
+    {
+      "word": "Fright",
+      "translation": "susto, miedo"
+    },
+    {
+      "word": "Beauty’s fading flower",
+      "translation": "la flor marchita de la belleza"
+    },
+    {
+      "word": "Heavenly wise",
+      "translation": "sabiduría celestial"
+    },
+    {
+      "word": "Suffice that Love hath built his bower",
+      "translation": "basta que el amor haya construido su"
+    },
+    {
+      "word": "Lively shining eyes",
+      "translation": "vivaces ojos brillantes"
+    },
+    {
+      "word": "But not if I’m owned",
+      "translation": "pero no si me poseen"
+    },
+    {
+      "word": "Strengthen (verbo)",
+      "translation": "reforzar, fortalecer, consolidar"
+    },
+    {
+      "word": "Claim (sustantivo)",
+      "translation": "reivindicación, reclamación"
+    },
+    {
+      "word": "She feigns disinterest",
+      "translation": "ella finge desinterés"
+    },
+    {
+      "word": "Let us settle on",
+      "translation": "fijemos, establezcamos"
+    },
+    {
+      "word": "Cherish (verbo)",
+      "translation": "apreciar, atesorar"
+    },
+    {
+      "word": "Earl",
+      "translation": "conde"
+    },
+    {
+      "word": "Stand (verbo)",
+      "translation": "pararse, ponerse de pie, soportar, tolerar"
+    },
+    {
+      "word": "Inherit (verbo)",
+      "translation": "heredar"
+    },
+    {
+      "word": "Inheritance",
+      "translation": "herencia"
+    },
+    {
+      "word": "Vex (verbo)",
+      "translation": "irritar, fastidiar"
+    },
+    {
+      "word": "Fond",
+      "translation": "aficionado"
+    },
+    {
+      "word": "Far more",
+      "translation": "mucho más"
+    },
+    {
+      "word": "Envoys",
+      "translation": "enviados, emisarios"
+    },
+    {
+      "word": "How like is it unto your mistress’s face?",
+      "translation": "¿Cómo se parece al rostro de tu señora?"
+    },
+    {
+      "word": "Bloodshed",
+      "translation": "derramamiento de sangre"
+    },
+    {
+      "word": "Swift peace",
+      "translation": "paz rápida"
+    },
+    {
+      "word": "Retailation",
+      "translation": "represalias"
+    },
+    {
+      "word": "Go rouse my brother",
+      "translation": "ve a despertar a mi hermano"
+    },
+    {
+      "word": "Do you think me sinful?",
+      "translation": "¿Crees que soy pecador?"
+    },
+    {
+      "word": "Befall (verbo)",
+      "translation": "ocurrir, acontecer"
+    },
+    {
+      "word": "Betroth (verbo)",
+      "translation": "desposar"
+    },
+    {
+      "word": "Look away!",
+      "translation": "¡No mires!, ¡Aparta la vista!"
+    },
+    {
+      "word": "Be whoever you wish",
+      "translation": "sé quien quieras"
+    },
+    {
+      "word": "Visage",
+      "translation": "semblante, rostro, cara"
+    },
+    {
+      "word": "Unsheathing my quick wit to see who among you it quickens",
+      "translation": "desenvainando mi rápido"
+    },
+    {
+      "word": "Lay suit",
+      "translation": "demandar"
+    },
+    {
+      "word": "How so?",
+      "translation": "¿Cómo así?, ¿En qué sentido?"
+    },
+    {
+      "word": "Scarcely",
+      "translation": "apenas, escasamente"
+    },
+    {
+      "word": "Settle for as much",
+      "translation": "conformarse con tanto"
+    },
+    {
+      "word": "Betrothal",
+      "translation": "compromiso, esponsales"
+    },
+    {
+      "word": "Recourse",
+      "translation": "recursos"
+    },
+    {
+      "word": "Imperil (verbo)",
+      "translation": "amenazar, poner en peligro"
+    },
+    {
+      "word": "Discourage (verbo)",
+      "translation": "desalentar, disuadir, desanimar"
+    },
+    {
+      "word": "Rashly",
+      "translation": "precipitadamente"
+    },
+    {
+      "word": "Her barren self",
+      "translation": "su estéril yo"
+    },
+    {
+      "word": "Reckless child!",
+      "translation": "¡Niño imprudente!, ¡Niño temerario!"
+    },
+    {
+      "word": "Don’t let your cursed passion rule you!",
+      "translation": "¡No dejes que tu maldita pasión te domine!"
+    },
+    {
+      "word": "‘Tis your voice raised",
+      "translation": "es tu voz alzada"
+    },
+    {
+      "word": "Withdraw (verbo)",
+      "translation": "retirarse"
+    },
+    {
+      "word": "Whereupon",
+      "translation": "en la que, después de lo cual"
+    },
+    {
+      "word": "Displeasing as it may be",
+      "translation": "por muy desagradable que sea"
+    },
+    {
+      "word": "Such a man as I might marry",
+      "translation": "un hombre con el que podría casarme"
+    },
+    {
+      "word": "Revenue",
+      "translation": "ingresos"
+    },
+    {
+      "word": "Depose (verbo)",
+      "translation": "destituir, deponer"
+    },
+    {
+      "word": "Arrangements",
+      "translation": "acuerdos, disposiciones"
+    },
+    {
+      "word": "Bond",
+      "translation": "vínculo, lazo, unión"
+    },
+    {
+      "word": "Carnal bondage",
+      "translation": "esclavitud carnal"
+    },
+    {
+      "word": "Bringeth forth monsters",
+      "translation": "que produce monstruos"
+    },
+    {
+      "word": "Their cankered consciences must be called to account",
+      "translation": "hay que pedir cuentas a sus"
+    },
+    {
+      "word": "Plain war",
+      "translation": "guerra clara"
+    },
+    {
+      "word": "Christ’s holy gospel",
+      "translation": "el santo Evangelio de Cristo"
+    },
+    {
+      "word": "Rise and prepare yourself",
+      "translation": "levántate y prepárate"
+    },
+    {
+      "word": "Let him approach",
+      "translation": "deja que se acerque"
+    },
+    {
+      "word": "Charms",
+      "translation": "encantos"
+    },
+    {
+      "word": "Why give chase?",
+      "translation": "¿Por qué dar caza?, ¿Por qué perseguir?"
+    },
+    {
+      "word": "Sight",
+      "translation": "vista"
+    },
+    {
+      "word": "Flank (verbo)",
+      "translation": "flanquear"
+    },
+    {
+      "word": "Ambush (verbo)",
+      "translation": "emboscar, tender una emboscada"
+    },
+    {
+      "word": "Whence come you?",
+      "translation": "¿De dónde vienes?"
+    },
+    {
+      "word": "I charge thee, give way!",
+      "translation": "¡Te lo ordeno, cede el paso!"
+    },
+    {
+      "word": "Form up!",
+      "translation": "¡Fórmense!"
+    },
+    {
+      "word": "You summoned?",
+      "translation": "¿Has convocado?, ¿Has llamado?"
+    },
+    {
+      "word": "A fine stallion",
+      "translation": "un buen semental"
+    },
+    {
+      "word": "Spring comes bearing fruit",
+      "translation": "la primavera viene cargada de frutos"
+    },
+    {
+      "word": "Councilors",
+      "translation": "consejeros, concejales"
+    },
+    {
+      "word": "We advise her endlessly",
+      "translation": "la aconsejamos sin cesar"
+    },
+    {
+      "word": "Not that she heeds it",
+      "translation": "no es que ella le haga caso"
+    },
+    {
+      "word": "Wise men servicing the whims of women?",
+      "translation": "¿Hombres sabios al servicio de los"
+    },
+    {
+      "word": "Reckless words",
+      "translation": "palabras imprudentes, palabras temerarias"
+    },
+    {
+      "word": "Raise (verbo en algunos contextos)",
+      "translation": "formar, reunir, levantar"
+    },
+    {
+      "word": "Soften (verbo)",
+      "translation": "ablandarse"
+    },
+    {
+      "word": "Once Mary bears a child",
+      "translation": "una vez que María de a luz"
+    },
+    {
+      "word": "We can rule through him",
+      "translation": "podemos gobernar a través de él"
+    },
+    {
+      "word": "Bar (verbo en algunos contextos)",
+      "translation": "prohibir"
+    },
+    {
+      "word": "When I am anointed King",
+      "translation": "cuando yo sea ungido rey"
+    },
+    {
+      "word": "I’m more than a sire to a mare",
+      "translation": "soy más que un padre para una yegua"
+    },
+    {
+      "word": "Monstrous lust",
+      "translation": "lujuria monstruosa"
+    },
+    {
+      "word": "The pleasuring woman",
+      "translation": "la mujer complaciente"
+    },
+    {
+      "word": "Polecat",
+      "translation": "turón"
+    },
+    {
+      "word": "Who has bedded an Italian",
+      "translation": "que se ha acostado con un italiano"
+    },
+    {
+      "word": "Bed chamber",
+      "translation": "cama, lecho"
+    },
+    {
+      "word": "A common minstrel",
+      "translation": "un juglar común"
+    },
+    {
+      "word": "I’m not a cuckhold",
+      "translation": "no soy un cornudo"
+    },
+    {
+      "word": "The final blow",
+      "translation": "el golpe final, la estocada final"
+    },
+    {
+      "word": "He beguiled us",
+      "translation": "él nos engañó"
+    },
+    {
+      "word": "Beg forgiveness",
+      "translation": "pide perdón, ruega perdón"
+    },
+    {
+      "word": "Much business (en contextos no económicos)",
+      "translation": "mucho trabajo, muchos asuntos, mucho"
+    },
+    {
+      "word": "Gentlewomen",
+      "translation": "señoras, damas de compañia"
+    },
+    {
+      "word": "Drunkard",
+      "translation": "borracho"
+    },
+    {
+      "word": "My brother even more so",
+      "translation": "mi hermano incluso más aún"
+    },
+    {
+      "word": "Whom you promised fealty",
+      "translation": "a quién prometiste lealtad/fidelidad"
+    },
+    {
+      "word": "Carry out",
+      "translation": "ejercer, llevar a cabo"
+    },
+    {
+      "word": "Then let us stir an appetite",
+      "translation": "entonces despertemos el apetito"
+    },
+    {
+      "word": "When last we raised an army",
+      "translation": "la última vez que reunimos un ejército"
+    },
+    {
+      "word": "She has outmaneuvered us",
+      "translation": "nos ha superado en maniobrabilidad"
+    },
+    {
+      "word": "Poppies are red",
+      "translation": "las amapolas son rojas"
+    },
+    {
+      "word": "Subtle",
+      "translation": "sutil"
+    },
+    {
+      "word": "Lovely",
+      "translation": "encantador"
+    },
+    {
+      "word": "Plain (adjetivo en algunos contextos)",
+      "translation": "sencilla, simple"
+    },
+    {
+      "word": "In this glen",
+      "translation": "en este valle, en esta cañada"
+    },
+    {
+      "word": "A trifling thing",
+      "translation": "una cosa tan insignificante"
+    },
+    {
+      "word": "Fancies",
+      "translation": "fantasías, caprichos"
+    },
+    {
+      "word": "Hold my child up",
+      "translation": "levantar/sostener a mi hijo"
+    },
+    {
+      "word": "Godmother",
+      "translation": "madrina"
+    },
+    {
+      "word": "I’m told the labor was long",
+      "translation": "me han dicho que el parto fue largo"
+    },
+    {
+      "word": "Succeed (verbo)",
+      "translation": "suceder (a alguien en un cargo)"
+    },
+    {
+      "word": "Bear children",
+      "translation": "tener hijos"
+    },
+    {
+      "word": "Reward (verbo)",
+      "translation": "premiar, recompensar"
+    },
+    {
+      "word": "Boldness",
+      "translation": "osadía"
+    },
+    {
+      "word": "Judgment",
+      "translation": "juicio"
+    },
+    {
+      "word": "Gladly",
+      "translation": "con mucho gusto, gustosamente"
+    },
+    {
+      "word": "Privy council",
+      "translation": "consejo privado"
+    },
+    {
+      "word": "It’s forged",
+      "translation": "está forjado, está falsificado"
+    },
+    {
+      "word": "This is an outrage",
+      "translation": "esto es un ultraje, esto es una barbaridad"
+    },
+    {
+      "word": "He’s harmless",
+      "translation": "él es inofensivo"
+    },
+    {
+      "word": "Vow (verbo)",
+      "translation": "jurar"
+    },
+    {
+      "word": "I owe him neither comfort nor title",
+      "translation": "no le debo ni la comodidad ni el título"
+    },
+    {
+      "word": "Dispense (verbo)",
+      "translation": "prescindir"
+    },
+    {
+      "word": "Wives",
+      "translation": "señoras, esposas"
+    },
+    {
+      "word": "Cast aside",
+      "translation": "dejar de lado"
+    },
+    {
+      "word": "Attempt on his life",
+      "translation": "atentado contra su vida"
+    },
+    {
+      "word": "Estates",
+      "translation": "propiedades, fincas, tierras"
+    },
+    {
+      "word": "Get us moved",
+      "translation": "muévanos"
+    },
+    {
+      "word": "Widowed (adjetivo)",
+      "translation": "viudo"
+    },
+    {
+      "word": "Aid",
+      "translation": "ayuda"
+    },
+    {
+      "word": "Undress (verbo)",
+      "translation": "desnudar, desvestir"
+    },
+    {
+      "word": "Commandment",
+      "translation": "mandamiento"
+    },
+    {
+      "word": "Thou shalt not kill (alusivo a un mandamiento religioso)",
+      "translation": "no matarás"
+    },
+    {
+      "word": "A murderous harlot",
+      "translation": "una prostituta asesina"
+    },
+    {
+      "word": "She bedded out of wedlock",
+      "translation": "se acostó fuera del matrimonio"
+    },
+    {
+      "word": "Your betrothed",
+      "translation": "tu prometida"
+    },
+    {
+      "word": "Overtake (verbo)",
+      "translation": "superar"
+    },
+    {
+      "word": "Own your treachery",
+      "translation": "reconozcan su traición"
+    },
+    {
+      "word": "Deceive (verbo)",
+      "translation": "engañar"
+    },
+    {
+      "word": "As they have done their queen",
+      "translation": "como lo han hecho con su reina"
+    },
+    {
+      "word": "When your son comes of age",
+      "translation": "cuando tu hijo sea mayor de edad"
+    },
+    {
+      "word": "He’s my ward",
+      "translation": "él es mi pupilo"
+    },
+    {
+      "word": "Your namesake",
+      "translation": "tu tocayo, tu homónimo"
+    },
+    {
+      "word": "They would sonner parade your head on a pike than bow before a harlot",
+      "translation": "prefieren"
+    },
+    {
+      "word": "Relinquish (verbo)",
+      "translation": "abandonar, renunciar (a un cargo)"
+    },
+    {
+      "word": "Harlot",
+      "translation": "prostituta"
+    },
+    {
+      "word": "Come away",
+      "translation": "vámonos"
+    },
+    {
+      "word": "I rode ahead",
+      "translation": "cabalgué adelante"
+    },
+    {
+      "word": "Regard (verbo)",
+      "translation": "considerar"
+    },
+    {
+      "word": "Weary",
+      "translation": "cansado"
+    },
+    {
+      "word": "I should have stayed true to your love",
+      "translation": "debería haberme mantenido fiel a tu amor"
+    },
+    {
+      "word": "Forsworn",
+      "translation": "abandonada, renegada"
+    },
+    {
+      "word": "Clergy",
+      "translation": "clero, clérigo"
+    },
+    {
+      "word": "On a catholic’s behalf",
+      "translation": "en nombre de un católico"
+    },
+    {
+      "word": "I’m utterly alone",
+      "translation": "estoy completamente sola"
+    },
+    {
+      "word": "Counsel (verbo)",
+      "translation": "aconsejar"
+    },
+    {
+      "word": "Seed (verbo)",
+      "translation": "sembrar"
+    },
+    {
+      "word": "I won’t be scolded",
+      "translation": "no seré regañada"
+    },
+    {
+      "word": "Guard (verbo)",
+      "translation": "vigilar"
+    },
+    {
+      "word": "Prayer",
+      "translation": "oración"
+    },
+    {
+      "word": "Penance",
+      "translation": "penitencia"
+    },
+    {
+      "word": "A half-lifetime ago",
+      "translation": "hace media vida atrás"
+    },
+    {
+      "word": "I regret not doing then what I do now",
+      "translation": "me arrepiento de no haber hecho entonces lo"
+    },
+    {
+      "word": "Spare (verbo en algunos contextos)",
+      "translation": "ahorrar, escatimar, perdonar"
+    },
+    {
+      "word": "Lay eyes (verbo)",
+      "translation": "ver, mirar, poner los ojos"
+    },
+    {
+      "word": "Gaze (verbo)",
+      "translation": "contemplar"
+    },
+    {
+      "word": "Despair",
+      "translation": "desesperación"
+    },
+    {
+      "word": "Likeness",
+      "translation": "semejanza, parecido"
+    },
+    {
+      "word": "Overlord",
+      "translation": "soberano, señor supremo"
+    }
+  ]
+}

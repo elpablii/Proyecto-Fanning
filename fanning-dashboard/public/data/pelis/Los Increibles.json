@@ -1,0 +1,870 @@
+{
+  "title": "Los Increibles",
+  "englishAnalysis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework', 'grounded', 'allowance') con terminología de superhéroes y espionaje ('secret identity', 'gadget', 'monologue', 'syndrome').",
+  "vocabulary": [
+    {
+      "word": "Film reel scratching",
+      "translation": "rayado de la bobina de película"
+    },
+    {
+      "word": "Is this on?",
+      "translation": "¿Está encendido?"
+    },
+    {
+      "word": "I can’t get this on",
+      "translation": "no consigo encenderlo"
+    },
+    {
+      "word": "Strengthen (verbo)",
+      "translation": "fortalecer, estrechar, reforzar"
+    },
+    {
+      "word": "Mild-mannered alter ego",
+      "translation": "alter ego de modales suaves"
+    },
+    {
+      "word": "Settle down?",
+      "translation": "¿Sentar cabeza?"
+    },
+    {
+      "word": "Underway",
+      "translation": "en marcha, en curso"
+    },
+    {
+      "word": "Stand clear",
+      "translation": "mantenerse alejado"
+    },
+    {
+      "word": "He’s quite tame",
+      "translation": "es bastante manso"
+    },
+    {
+      "word": "Cat yowls",
+      "translation": "el gato aúlla"
+    },
+    {
+      "word": "Squeaker",
+      "translation": "chirriador"
+    },
+    {
+      "word": "Stammer (verbo)",
+      "translation": "tartamudear"
+    },
+    {
+      "word": "Scrap of paper",
+      "translation": "trozo de papel, pedazo de papel"
+    },
+    {
+      "word": "Your favorite catch phrases",
+      "translation": "tus frases favoritas"
+    },
+    {
+      "word": "Mutter (verbo)",
+      "translation": "murmurar"
+    },
+    {
+      "word": "Exploit (verbo)",
+      "translation": "aprovechar"
+    },
+    {
+      "word": "Get around",
+      "translation": "desplazarse, moverse"
+    },
+    {
+      "word": "Little oaf!",
+      "translation": "¡Pequeño zoquete!"
+    },
+    {
+      "word": "Ward",
+      "translation": "pupilo"
+    },
+    {
+      "word": "Let go",
+      "translation": "soltar (a alguien)"
+    },
+    {
+      "word": "You’re wrecking my flight pattern",
+      "translation": "estás arruinando mi patrón de vuelo"
+    },
+    {
+      "word": "Jumper",
+      "translation": "saltador"
+    },
+    {
+      "word": "Blast (sustantivo)",
+      "translation": "explosión"
+    },
+    {
+      "word": "Nab (verbo)",
+      "translation": "atrapar"
+    },
+    {
+      "word": "We set up a perimeter",
+      "translation": "establecemos un perímetro"
+    },
+    {
+      "word": "Skippy here made sure of that",
+      "translation": "Skippy se aseguró de eso"
+    },
+    {
+      "word": "Showtime",
+      "translation": "hora del show"
+    },
+    {
+      "word": "Your lawful wedded wife",
+      "translation": "tu legítima esposa"
+    },
+    {
+      "word": "I thought it was playing banter",
+      "translation": "pensé que estaba jugando bromas"
+    },
+    {
+      "word": "Cutting it close",
+      "translation": "estuvo cerca, por los pelos"
+    },
+    {
+      "word": "So long as you both shall live?",
+      "translation": "¿Hasta que la muerte los separe?"
+    },
+    {
+      "word": "Plaintiff",
+      "translation": "demandante"
+    },
+    {
+      "word": "Who was foiled",
+      "translation": "que fue frustrado"
+    },
+    {
+      "word": "Floodgates",
+      "translation": "compuertas, esclusas"
+    },
+    {
+      "word": "Of an ever mounting series of lawsuits",
+      "translation": "de una serie cada vez mayor de demandas"
+    },
+    {
+      "word": "The supers were granted amnesty",
+      "translation": "a los supers se les concedió amnistía"
+    },
+    {
+      "word": "Claim (sustantivo)",
+      "translation": "afirmación, alegación, demanda"
+    },
+    {
+      "word": "A momentous occasion",
+      "translation": "una ocasión trascendental"
+    },
+    {
+      "word": "Blows nose loudly",
+      "translation": "se suena la nariz ruidosamente"
+    },
+    {
+      "word": "Listen closely",
+      "translation": "escucha atentamente"
+    },
+    {
+      "word": "Insuricare",
+      "translation": "seguro"
+    },
+    {
+      "word": "He’s a disruptive influence",
+      "translation": "es una influencia perjudicial"
+    },
+    {
+      "word": "Thumbtacks",
+      "translation": "tachuelas"
+    },
+    {
+      "word": "Tack",
+      "translation": "tachuela"
+    },
+    {
+      "word": "Smug little face",
+      "translation": "carita presumida, carita engreída"
+    },
+    {
+      "word": "Outlet (sustantivo común)",
+      "translation": "salida"
+    },
+    {
+      "word": "Slow up",
+      "translation": "ir más despacio"
+    },
+    {
+      "word": "Showoff",
+      "translation": "fanfarronería"
+    },
+    {
+      "word": "Car rattling",
+      "translation": "el auto traquetea"
+    },
+    {
+      "word": "Groan (verbo)",
+      "translation": "gemir, gimotear, gruñir"
+    },
+    {
+      "word": "Driveway",
+      "translation": "entrada (alusivo a un camino de entrada)"
+    },
+    {
+      "word": "Coo (verbo)",
+      "translation": "arrullar"
+    },
+    {
+      "word": "Tape (sustantivo)",
+      "translation": "cinta"
+    },
+    {
+      "word": "Meatloaf",
+      "translation": "pastel de carne"
+    },
+    {
+      "word": "You’re gonna be toast!",
+      "translation": "¡Vas a estar frito!"
+    },
+    {
+      "word": "Longtime advocate of superhero rights",
+      "translation": "defensor desde hace tiempo de los derechos"
+    },
+    {
+      "word": "Ice of you to drop by",
+      "translation": "un placer que te hayas pasado por aquí"
+    },
+    {
+      "word": "Shatter (verbo)",
+      "translation": "romper, destrozar"
+    },
+    {
+      "word": "Jolt",
+      "translation": "sacudida"
+    },
+    {
+      "word": "Epitaph",
+      "translation": "epitafio"
+    },
+    {
+      "word": "Feeble",
+      "translation": "débil"
+    },
+    {
+      "word": "Yammering",
+      "translation": "parloteo"
+    },
+    {
+      "word": "Sneak out",
+      "translation": "escabullirse"
+    },
+    {
+      "word": "Hoot (verbo)",
+      "translation": "ulular"
+    },
+    {
+      "word": "Lay down",
+      "translation": "poner"
+    },
+    {
+      "word": "Thick enough",
+      "translation": "lo suficientemente gruesa"
+    },
+    {
+      "word": "Run out",
+      "translation": "quedarse sin nada"
+    },
+    {
+      "word": "Stay right on my tail! (traducción no literal)",
+      "translation": "¡Quédate justo detrás de mí!"
+    },
+    {
+      "word": "Moan (verbo)",
+      "translation": "gemir"
+    },
+    {
+      "word": "Keys jingling",
+      "translation": "llaves tintineando"
+    },
+    {
+      "word": "Rubble",
+      "translation": "escombro"
+    },
+    {
+      "word": "We can’t blow cover again",
+      "translation": "no podemos revelar nuestra identidad de nuevo"
+    },
+    {
+      "word": "Knock down (en algunos contextos)",
+      "translation": "derribar"
+    },
+    {
+      "word": "Unsound",
+      "translation": "inseguro, poco sólido"
+    },
+    {
+      "word": "Police scanner",
+      "translation": "escáner de la policía"
+    },
+    {
+      "word": "Uproot (verbo)",
+      "translation": "desarraigar"
+    },
+    {
+      "word": "So you can relive the glory days is a bad thing",
+      "translation": "para que puedas revivir los días de"
+    },
+    {
+      "word": "Pigheadedness",
+      "translation": "tozudez, intransigencia"
+    },
+    {
+      "word": "Request claim to claim numbers 158183",
+      "translation": "solicitar reclamación a los números 158183"
+    },
+    {
+      "word": "Loophole",
+      "translation": "vacío legal, laguna legal"
+    },
+    {
+      "word": "Dodge (verbo)",
+      "translation": "esquivar, eludir"
+    },
+    {
+      "word": "Stockholders",
+      "translation": "accionistas"
+    },
+    {
+      "word": "If all the little cogs mesh together",
+      "translation": "si todos los pequeños engranajes encajan"
+    },
+    {
+      "word": "Wound tight",
+      "translation": "bien enrollado"
+    },
+    {
+      "word": "Cogs that fit",
+      "translation": "engranajes que encajan"
+    },
+    {
+      "word": "He’s getting mugged!",
+      "translation": "¡Lo están asaltando!"
+    },
+    {
+      "word": "Over public address",
+      "translation": "por megafonía, por el altavoz público"
+    },
+    {
+      "word": "Taxpayer",
+      "translation": "contribuyente (en términos económicos)"
+    },
+    {
+      "word": "Everyone just got settled",
+      "translation": "todos se acaban de instalarse"
+    },
+    {
+      "word": "Hold still",
+      "translation": "quédate quieto, no te muevas"
+    },
+    {
+      "word": "Rest assured",
+      "translation": "quédese tranquilo, no se preocupe"
+    },
+    {
+      "word": "Voice-matching",
+      "translation": "concordancia de voz"
+    },
+    {
+      "word": "Ensure (verbo)",
+      "translation": "garantizar"
+    },
+    {
+      "word": "Muffled explosion",
+      "translation": "explosión amortiguada"
+    },
+    {
+      "word": "Hesitate (verbo)",
+      "translation": "vacilar, dudar"
+    },
+    {
+      "word": "Air drop",
+      "translation": "descenso aéreo"
+    },
+    {
+      "word": "Its cloaking devices",
+      "translation": "sus dispositivos de camuflaje"
+    },
+    {
+      "word": "Panting heavily, sighing",
+      "translation": "jadeando pesadamente, suspirando"
+    },
+    {
+      "word": "Sound the all clear",
+      "translation": "dale el visto bueno"
+    },
+    {
+      "word": "Am I overdressed?",
+      "translation": "¿Voy demasiado arreglado?"
+    },
+    {
+      "word": "Dashing (adjetivo)",
+      "translation": "elegante"
+    },
+    {
+      "word": "Make a point (verbo en algunos contextos)",
+      "translation": "asegurar"
+    },
+    {
+      "word": "Volcano soil",
+      "translation": "suelo volcánico"
+    },
+    {
+      "word": "Climb ladders",
+      "translation": "subir escaleras"
+    },
+    {
+      "word": "Spoiled, stupid, little stick figures",
+      "translation": "mimados, estúpidos, pequeñas figuras de palo"
+    },
+    {
+      "word": "Poofy lips",
+      "translation": "labios hinchados"
+    },
+    {
+      "word": "A patch job",
+      "translation": "parche, remiendo (en términos de vestuario)"
+    },
+    {
+      "word": "Outmoded, but very sturdy",
+      "translation": "pasado de moda, pero muy resistente"
+    },
+    {
+      "word": "You’ve torn right through it!",
+      "translation": "¡Lo has atravesado!, ¡Lo has desgarrado!"
+    },
+    {
+      "word": "This is a hobo suit",
+      "translation": "esto es un traje de vagabundo"
+    },
+    {
+      "word": "Bold (adjetivo)",
+      "translation": "audaz, atrevido, valiente"
+    },
+    {
+      "word": "When his cape snagged on a missile fin",
+      "translation": "cuando su capa se enganchó en una aleta de"
+    },
+    {
+      "word": "The brightest bulb",
+      "translation": "la bombilla más brillante"
+    },
+    {
+      "word": "Snag on takeoff",
+      "translation": "se engancha en el despegue"
+    },
+    {
+      "word": "Sucked into a vortex",
+      "translation": "succionado en un vórtice"
+    },
+    {
+      "word": "Would you care for more mimosa?",
+      "translation": "¿Quieres más mimosa?"
+    },
+    {
+      "word": "Don’t mind if I do",
+      "translation": "no te preocupes si lo hago"
+    },
+    {
+      "word": "Creak (verbo)",
+      "translation": "crujir, chirriar"
+    },
+    {
+      "word": "I went through quite a few supers to get it worthy to fight you",
+      "translation": "pasé por bastantes"
+    },
+    {
+      "word": "It tore me apart",
+      "translation": "eso me destrozó"
+    },
+    {
+      "word": "Unleash (verbo)",
+      "translation": "liberar, desatar, desencadenar"
+    },
+    {
+      "word": "You sly dog!",
+      "translation": "¡Eres un perro astuto!"
+    },
+    {
+      "word": "You got me monologuing",
+      "translation": "me tienes monologando"
+    },
+    {
+      "word": "Try this one on for size, big boy",
+      "translation": "pruébate esta, grandulón"
+    },
+    {
+      "word": "Sputter (verbo)",
+      "translation": "balbucear, farfullar"
+    },
+    {
+      "word": "I cut it a little roomy",
+      "translation": "lo corté un poco amplio"
+    },
+    {
+      "word": "Fabric (en términos de textilería)",
+      "translation": "tejido"
+    },
+    {
+      "word": "Withstand (verbo)",
+      "translation": "soportar"
+    },
+    {
+      "word": "Luck favors the prepared",
+      "translation": "la suerte favorece a los preparados"
+    },
+    {
+      "word": "Heat up",
+      "translation": "calentar"
+    },
+    {
+      "word": "Wear out",
+      "translation": "desgastar (una prenda de vestir)"
+    },
+    {
+      "word": "Tricky",
+      "translation": "difícil, complicado"
+    },
+    {
+      "word": "Sturdy (adjetivo)",
+      "translation": "resistente, robusto"
+    },
+    {
+      "word": "Retain (verbo)",
+      "translation": "mantener, conservar"
+    },
+    {
+      "word": "Homing device",
+      "translation": "dispositivo de localización"
+    },
+    {
+      "word": "Wearer",
+      "translation": "usuario"
+    },
+    {
+      "word": "Our family is underground",
+      "translation": "nuestra familia está en la clandestinidad"
+    },
+    {
+      "word": "Electric fizzing",
+      "translation": "chisporroteo eléctrico, efervescencia eléctrica"
+    },
+    {
+      "word": "Surveillance",
+      "translation": "vigilancia"
+    },
+    {
+      "word": "Engage (verbo)",
+      "translation": "comprometerse, participar"
+    },
+    {
+      "word": "Continuing sweep",
+      "translation": "continuando el barrido"
+    },
+    {
+      "word": "Relieved sigh",
+      "translation": "suspiro de alivio"
+    },
+    {
+      "word": "Relive (verbo)",
+      "translation": "revivir"
+    },
+    {
+      "word": "Pull yourself together",
+      "translation": "contrólate, cálmate, tranquilízate"
+    },
+    {
+      "word": "You can be in charge that long",
+      "translation": "puedes estar al mando tanto tiempo"
+    },
+    {
+      "word": "I know this is a short notice",
+      "translation": "sé que es un aviso con poca antelación"
+    },
+    {
+      "word": "I’m calling in a solid you owe me",
+      "translation": "estoy llamando a un sólido que me debes"
+    },
+    {
+      "word": "Visual Flight Rules (VFR)",
+      "translation": "reglas de vuelo visuales"
+    },
+    {
+      "word": "Tricking the probe",
+      "translation": "engañar a la sonda"
+    },
+    {
+      "word": "I’m still geeking out about it!",
+      "translation": "¡Todavía estoy flipando con ello!"
+    },
+    {
+      "word": "Lame",
+      "translation": "penoso, pobre"
+    },
+    {
+      "word": "You were snooping around",
+      "translation": "estabas husmeando"
+    },
+    {
+      "word": "You sent out a homing signal",
+      "translation": "enviaste una señal de búsqueda"
+    },
+    {
+      "word": "I’ve got baby-sitting wired",
+      "translation": "he hecho de canguro"
+    },
+    {
+      "word": "Learned CRP",
+      "translation": "aprendí RCP"
+    },
+    {
+      "word": "Leading experts",
+      "translation": "principales expertos"
+    },
+    {
+      "word": "What’s anyone talking about",
+      "translation": "de qué hablan"
+    },
+    {
+      "word": "I can totally handle anything this baby can dish out",
+      "translation": "puedo manejar cualquier cosa que"
+    },
+    {
+      "word": "Disengage (verbo)",
+      "translation": "desconectar"
+    },
+    {
+      "word": "Call off the missiles",
+      "translation": "cancela los misiles"
+    },
+    {
+      "word": "Both of you will get a grip",
+      "translation": "ambos se controlarán"
+    },
+    {
+      "word": "You’ll get over it",
+      "translation": "lo superarás, ya se te pasará"
+    },
+    {
+      "word": "Release me, now!",
+      "translation": "¡Suéltame, ya!"
+    },
+    {
+      "word": "Toothpick",
+      "translation": "mondadientes"
+    },
+    {
+      "word": "I’ve outgrown you",
+      "translation": "te he superado"
+    },
+    {
+      "word": "We’re not doing so hot either",
+      "translation": "a nosotros tampoco nos va muy bien"
+    },
+    {
+      "word": "They won’t exercise restraint",
+      "translation": "no ejercerán moderación"
+    },
+    {
+      "word": "Keep each other safe",
+      "translation": "manténganse a salvo"
+    },
+    {
+      "word": "Containment unit",
+      "translation": "unidad de contención"
+    },
+    {
+      "word": "Disregard (verbo)",
+      "translation": "despreciar, no tener en cuenta"
+    },
+    {
+      "word": "I called this bluff",
+      "translation": "llamé a este farol"
+    },
+    {
+      "word": "Gasp (verbo)",
+      "translation": "jadear, respirar hondo"
+    },
+    {
+      "word": "Wreck (verbo)",
+      "translation": "arruinar"
+    },
+    {
+      "word": "Transistor coil ignition (TCI)",
+      "translation": "encendido por bobina de transistor"
+    },
+    {
+      "word": "Identification Friend-or-Foe (IFF)",
+      "translation": "identificador amigo-enemigo"
+    },
+    {
+      "word": "Infrared Countermeasures (IRCM)",
+      "translation": "contramedidas infrarrojas"
+    },
+    {
+      "word": "Choke (verbo)",
+      "translation": "ahogarse, sofocarse"
+    },
+    {
+      "word": "Let go, you lousy, lying, unfaithful creep!",
+      "translation": "¡Suéltame, asqueroso, mentiroso e infiel!"
+    },
+    {
+      "word": "Trigger (verbo)",
+      "translation": "activar, desencadenar"
+    },
+    {
+      "word": "They stowed away",
+      "translation": "se fueron de polizón"
+    },
+    {
+      "word": "You’re not striking the proper tone",
+      "translation": "no estás dando el tono adecuado"
+    },
+    {
+      "word": "Water sloshing",
+      "translation": "chapoteo del agua"
+    },
+    {
+      "word": "Godforsaken jungle",
+      "translation": "selva olvidada por Dios"
+    },
+    {
+      "word": "Matching uniforms?",
+      "translation": "¿Uniformes iguales?"
+    },
+    {
+      "word": "I’ve hit the jackpot!",
+      "translation": "¡Me ha tocado el premio gordo!"
+    },
+    {
+      "word": "Throngs of screaming people!",
+      "translation": "¡Multitud de gente gritando!"
+    },
+    {
+      "word": "Kill off",
+      "translation": "matar"
+    },
+    {
+      "word": "I’ll give them heroics",
+      "translation": "les daré heroicidades"
+    },
+    {
+      "word": "Fire at will!",
+      "translation": "¡Fuego a discreción!"
+    },
+    {
+      "word": "It’s overwhelming the tanks",
+      "translation": "está abrumando a los tanques"
+    },
+    {
+      "word": "Undervalue (verbo)",
+      "translation": "infravalorar"
+    },
+    {
+      "word": "It’s time we wind down now",
+      "translation": "ya es hora de que nos vayamos"
+    },
+    {
+      "word": "Aircraft hangar",
+      "translation": "hangar para aeronaves"
+    },
+    {
+      "word": "Don’t you thing about running off doing no derrin’-do",
+      "translation": "no pienses en escaparte sin"
+    },
+    {
+      "word": "Greater good",
+      "translation": "bien común, bien mayor"
+    },
+    {
+      "word": "Hunk of metal",
+      "translation": "trozo de metal, pedazo de metal"
+    },
+    {
+      "word": "Strap yourselves down",
+      "translation": "pónganse el cinturón"
+    },
+    {
+      "word": "I watch helplessly from the sidelines?",
+      "translation": "¿Miro impotente desde la barrera?"
+    },
+    {
+      "word": "Some sort of workout?",
+      "translation": "¿Algún tipo de ejercicio?"
+    },
+    {
+      "word": "Go long!",
+      "translation": "¡Adelante!"
+    },
+    {
+      "word": "Hanky",
+      "translation": "pañuelo"
+    },
+    {
+      "word": "Indebted to you",
+      "translation": "en deuda con ustedes"
+    },
+    {
+      "word": "Snag (verbo)",
+      "translation": "atrapar, enganchar"
+    },
+    {
+      "word": "Whiplash (verbo)",
+      "translation": "azotar"
+    },
+    {
+      "word": "I’m getting really weirded out!",
+      "translation": "¡Me estoy volviendo muy rara!"
+    },
+    {
+      "word": "I aced those guys that tried to kill us",
+      "translation": "superé a esos tipos que intentaron matarnos"
+    },
+    {
+      "word": "I’ll get your son!",
+      "translation": "¡Voy a por tu hijo!"
+    },
+    {
+      "word": "That was totally wicked!",
+      "translation": "¡Eso fue totalmente malvado!"
+    },
+    {
+      "word": "Track meet",
+      "translation": "carrera de atletismo"
+    },
+    {
+      "word": "Pick up the pace",
+      "translation": "acelera el paso"
+    },
+    {
+      "word": "Pull back",
+      "translation": "retroceder"
+    },
+    {
+      "word": "Pace (verbo)",
+      "translation": "acelerar (el paso o ritmo)"
+    },
+    {
+      "word": "Make it close!",
+      "translation": "¡Acércalo!"
+    },
+    {
+      "word": "Behold the underminer!",
+      "translation": "¡Contemplen al socavador!, ¡Contemplen al minador!"
+    },
+    {
+      "word": "Hereby",
+      "translation": "por el presente, por la presente"
+    },
+    {
+      "word": "Soon all will tremble before me!",
+      "translation": "¡Pronto todos temblarán ante mí!"
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+{
+  "title": "Titanic",
+  "englishAnalysis": "Contrasta vívidamente el inglés elegante y anticuado de la clase alta británica y estadounidense ('proprietor', 'steerage', 'honor') con el lenguaje coloquial e informal de la clase trabajadora ('bloke', 'mate', 'lad'). Incluye vocabulario náutico ('bow', 'stern', 'lifeboat').",
+  "vocabulary": [
+    {
+      "word": "Over the bow rail",
+      "translation": "sobre la barandilla de proa"
+    },
+    {
+      "word": "Bow",
+      "translation": "proa"
+    },
+    {
+      "word": "We’re rolling",
+      "translation": "estamos balanceándonos"
+    },
+    {
+      "word": "Deck",
+      "translation": "cubierta"
+    },
+    {
+      "word": "Officer’s quarters",
+      "translation": "cuarto de oficiales"
+    },
+    {
+      "word": "Tether out",
+      "translation": "atar"
+    },
+    {
+      "word": "Drop down",
+      "translation": "bajar"
+    },
+    {
+      "word": "Hull",
+      "translation": "casco"
+    },
+    {
+      "word": "Gangway door",
+      "translation": "puerta de la pasarela"
+    },
+    {
+      "word": "We’re headed down the stairwell",
+      "translation": "bajamos por las escaleras"
+    },
+    {
+      "word": "Door frame",
+      "translation": "marco de la puerta"
+    },
+    {
+      "word": "Bring down",
+      "translation": "derribar"
+    },
+    {
+      "word": "Cable out, captain",
+      "translation": "cable suelto, capitán"
+    },
+    {
+      "word": "Come apart",
+      "translation": "romperse"
+    },
+    {
+      "word": "Flip over",
+      "translation": "volcarse, dar la vuelta (una cosa)"
+    },
+    {
+      "word": "Turn over",
+      "translation": "dar la vuelta (rotación física)"
+    },
+    {
+      "word": "Keep going",
+      "translation": "Sigue adelante"
+    },
+    {
+      "word": "It’s payday",
+      "translation": "es día de pago"
+    },
+    {
+      "word": "The floor debris in the suite",
+      "translation": "la basura del suelo en la suite"
+    },
+    {
+      "word": "Purser",
+      "translation": "sobrecargo"
+    },
+    {
+      "word": "Briefcase",
+      "translation": "maletín"
+    },
+    {
+      "word": "Charter (verbo)",
+      "translation": "alquilar"
+    },
+    {
+      "word": "Shipwreck",
+      "translation": "naufragio"
+    },
+    {
+      "word": "The secrets locked deep inside the hull of Titanic",
+      "translation": "los secretos encerrados en las"
+    },
+    {
+      "word": "Salvage rights",
+      "translation": "derechos de salvamento"
+    },
+    {
+      "word": "Grave robber",
+      "translation": "saqueador de tumbas"
+    },
+    {
+      "word": "We’re launching",
+      "translation": "estamos lanzando"
+    },
+    {
+      "word": "Nutcase (despectivo)",
+      "translation": "loco"
+    },
+    {
+      "word": "They’re inbound",
+      "translation": "están llegando"
+    },
+    {
+      "word": "All the way back to the 20s",
+      "translation": "directo a los años 20"
+    },
+    {
+      "word": "Punch out",
+      "translation": "dar una paliza"
+    },
+    {
+      "word": "Doesn’t exactly travel light, does she?",
+      "translation": "¿no viaja con poco equipaje, verdad?"
+    },
+    {
+      "word": "Stateroom",
+      "translation": "camarote"
+    },
+    {
+      "word": "Up on deck",
+      "translation": "en la cubierta"
+    },
+    {
+      "word": "About the same time old Louis lost everything from the neck up",
+      "translation": "más o menos en la"
+    },
+    {
+      "word": "The crown diamond was chopped",
+      "translation": "El diamante de la corona fue cortado"
+    },
+    {
+      "word": "Dreadful",
+      "translation": "terrible, espantoso"
+    },
+    {
+      "word": "Track down",
+      "translation": "localizar"
+    },
+    {
+      "word": "Insurance records",
+      "translation": "registros de seguros"
+    },
+    {
+      "word": "It was settled",
+      "translation": "se solucionó"
+    },
+    {
+      "word": "Claimant",
+      "translation": "reclamante"
+    },
+    {
+      "word": "Go down",
+      "translation": "ir abajo, hundirse"
+    },
+    {
+      "word": "Starboard side",
+      "translation": "borde del estribor"
+    },
+    {
+      "word": "Bump along (verbo)",
+      "translation": "ir dando tumbos"
+    },
+    {
+      "word": "The forward compartments",
+      "translation": "los compartimentos de proa"
+    },
+    {
+      "word": "The watertight bulkheads",
+      "translation": "los mamparos estancos"
+    },
+    {
+      "word": "Stern",
+      "translation": "popa"
+    },
+    {
+      "word": "Rise up",
+      "translation": "levantarse, subir"
+    },
+    {
+      "word": "Stick up",
+      "translation": "levantarse, sobresalir"
+    },
+    {
+      "word": "Keel",
+      "translation": "cuaderna maestra"
+    },
+    {
+      "word": "Detach (verbo)",
+      "translation": "separar, desenganchar"
+    },
+    {
+      "word": "Bob (verbo)",
+      "translation": "flotar, subir y bajar (algo en el agua)"
+    },
+    {
+      "word": "Go under",
+      "translation": "sumergirse, hundirse"
+    },
+    {
+      "word": "Plane away",
+      "translation": "deslizar (algo en el agua)"
+    },
+    {
+      "word": "Ocean floor",
+      "translation": "fondo oceánico"
+    },
+    {
+      "word": "Tape recorder",
+      "translation": "grabador de cinta"
+    },
+    {
+      "word": "Sheets",
+      "translation": "sábanas"
+    },
+    {
+      "word": "Forward berth",
+      "translation": "camarote de proa"
+    },
+    {
+      "word": "Fuss",
+      "translation": "alboroto, agitación"
+    },
+    {
+      "word": "It’s round that way",
+      "translation": "es un camino por ahí"
+    },
+    {
+      "word": "Parlor suite",
+      "translation": "suite de sala de estar"
+    },
+    {
+      "word": "Outwardly",
+      "translation": "aparentemente"
+    },
+    {
+      "word": "A well brought-up girl",
+      "translation": "una joven de buena familia"
+    },
+    {
+      "word": "Regular swells",
+      "translation": "tipos afortunados"
+    },
+    {
+      "word": "We’re practically goddamn royalty",
+      "translation": "Somos prácticamente de la maldita realeza"
+    },
+    {
+      "word": "Lice",
+      "translation": "piojo"
+    },
+    {
+      "word": "Who says you get top bunk?",
+      "translation": "¿Quién dice que tú te quedas con la litera superior?"
+    },
+    {
+      "word": "This is your private promenade deck",
+      "translation": "esta es tu terraza privada para pasear"
+    },
+    {
+      "word": "Will you be requiring anything?",
+      "translation": "¿Necesitará algo?"
+    },
+    {
+      "word": "Would you like all of them out, miss?",
+      "translation": "¿Le gustaría que las saque a todas, señorita?"
+    },
+    {
+      "word": "He won’t amount to a thing",
+      "translation": "no llegará a nada"
+    },
+    {
+      "word": "Her husband had struck gold someplace out west",
+      "translation": "su marido había encontrado oro en"
+    },
+    {
+      "word": "Steam (verbo)",
+      "translation": "navegar"
+    },
+    {
+      "word": "Stretch (verbo)",
+      "translation": "estirar"
+    },
+    {
+      "word": "Step lively",
+      "translation": "muévanse rápido, apresurense"
+    },
+    {
+      "word": "Let’s stoke her right up",
+      "translation": "aumentemos la presión al calderón"
+    },
+    {
+      "word": "We go full ahead",
+      "translation": "avanzamos a toda máquina"
+    },
+    {
+      "word": "Put your backs into it",
+      "translation": "¡Echen el resto!, ¡Denle duro!"
+    },
+    {
+      "word": "Shipbuilder",
+      "translation": "constructor naval"
+    },
+    {
+      "word": "He designed her from the keel plates up",
+      "translation": "la diseñó desde las placas de la quilla hacia"
+    },
+    {
+      "word": "He envisioned a steamer so grand in scale",
+      "translation": "él imaginó un vapor de una escala tan"
+    },
+    {
+      "word": "Appointments",
+      "translation": "acabados"
+    },
+    {
+      "word": "Willed into solid reality",
+      "translation": "hecho realidad con determinación"
+    },
+    {
+      "word": "Lamb",
+      "translation": "cordero"
+    },
+    {
+      "word": "Mint sauce",
+      "translation": "salsa de menta"
+    },
+    {
+      "word": "Sweet pea",
+      "translation": "guisante dulce"
+    },
+    {
+      "word": "Convey (verbo)",
+      "translation": "trasladar"
+    },
+    {
+      "word": "Sheer size",
+      "translation": "tamaño colosal"
+    },
+    {
+      "word": "What’s gotten into you?",
+      "translation": "¿Qué te pasa?"
+    },
+    {
+      "word": "Come down",
+      "translation": "bajar"
+    },
+    {
+      "word": "Take a shite (verbo)",
+      "translation": "hacer sus necesidades, cagar"
+    },
+    {
+      "word": "Rank (verbo)",
+      "translation": "clasificar (alusivo a una jerarquía)"
+    },
+    {
+      "word": "You’d as like have angels fly out of your arse as get next to the likes of her",
+      "translation": "no tienes"
+    },
+    {
+      "word": "Narrow people",
+      "translation": "gente de mente cerrada"
+    },
+    {
+      "word": "Mindless chatter",
+      "translation": "parloteo masivo"
+    },
+    {
+      "word": "Pull back",
+      "translation": "retroceder"
+    },
+    {
+      "word": "Don’t come any closer",
+      "translation": "no te acerques más"
+    },
+    {
+      "word": "I’ll pull you back over",
+      "translation": "te ayudaré a volver"
+    },
+    {
+      "word": "Indoor girl",
+      "translation": "chica hogareña"
+    },
+    {
+      "word": "I fell through some thin ice",
+      "translation": "me resbalé en un hielo frágil"
+    },
+    {
+      "word": "Look forward",
+      "translation": "esperar"
+    },
+    {
+      "word": "You’ll come back over the rail",
+      "translation": "regresarás por la barandilla"
+    },
+    {
+      "word": "And get me off the hook here",
+      "translation": "y que me saques del apuro aquí"
+    },
+    {
+      "word": "I’m not the one hanging off the back of a ship here",
+      "translation": "no soy yo el que cuelga de la"
+    },
+    {
+      "word": "Pull yourself up",
+      "translation": "levántate"
+    },
+    {
+      "word": "Stand back",
+      "translation": "retroceder"
+    },
+    {
+      "word": "Fetch the master at arms",
+      "translation": "Trae al maestro de armas"
+    },
+    {
+      "word": "Filth",
+      "translation": "porquería"
+    },
+    {
+      "word": "Lean over",
+      "translation": "inclinarse"
+    },
+    {
+      "word": "Propellers",
+      "translation": "hélices"
+    },
+    {
+      "word": "I would have gone overboard",
+      "translation": "habría caído al agua"
+    },
+    {
+      "word": "Go over",
+      "translation": "caerse encima"
+    },
+    {
+      "word": "Was that the way of it?",
+      "translation": "¿Esa fue la forma en que sucedió?"
+    },
+    {
+      "word": "So, it’s all’s well and back to our brandy?",
+      "translation": "¿Entonces, todo está bien y volvemos a"
+    },
+    {
+      "word": "The going rate",
+      "translation": "el precio corriente"
+    },
+    {
+      "word": "Displeased",
+      "translation": "disgustado"
+    },
+    {
+      "word": "Regale (verbo)",
+      "translation": "deleitar"
+    },
+    {
+      "word": "It’s settled then",
+      "translation": "está decidido entonces"
+    },
+    {
+      "word": "Can I bum a smoke?",
+      "translation": "¿Puedo quemar un cigarrillo?"
+    },
+    {
+      "word": "Good gracious",
+      "translation": "dios mío"
+    },
+    {
+      "word": "Close kin",
+      "translation": "pariente cercano"
+    },
+    {
+      "word": "I lit on out of there",
+      "translation": "me largué de ahí"
+    },
+    {
+      "word": "Tumbleweed",
+      "translation": "planta rodadora"
+    },
+    {
+      "word": "Boat deck",
+      "translation": "cubierta del barco"
+    },
+    {
+      "word": "Chew (verbo)",
+      "translation": "hablar (en sentido figurado), mascar"
+    },
+    {
+      "word": "Reckon (verbo)",
+      "translation": "pensar, creer, considerar"
+    },
+    {
+      "word": "Plunge ahead",
+      "translation": "avanzar con decisión"
+    },
+    {
+      "word": "And all the while",
+      "translation": "y todo el tiempo"
+    },
+    {
+      "word": "Uncouth",
+      "translation": "tosco, grosero"
+    },
+    {
+      "word": "Presumptuous",
+      "translation": "atrevido, presuntuoso"
+    },
+    {
+      "word": "I sought you out to thank you",
+      "translation": "te busqué para agradecerte"
+    },
+    {
+      "word": "Get around",
+      "translation": "moverse, desplazarse"
+    },
+    {
+      "word": "One-legged prostitute",
+      "translation": "prostituta de una sola pierna"
+    },
+    {
+      "word": "Moth-eaten",
+      "translation": "desgastado"
+    },
+    {
+      "word": "The countess and I were just off",
+      "translation": "la condesa y yo acabábamos de marcharnos"
+    },
+    {
+      "word": "Boilers",
+      "translation": "calderas"
+    },
+    {
+      "word": "Marvel (verbo)",
+      "translation": "maravillar"
+    },
+    {
+      "word": "This maiden voyage",
+      "translation": "el viaje inaugural"
+    },
+    {
+      "word": "Until they’ve been properly run in",
+      "translation": "hasta que se hayan asentado bien"
+    },
+    {
+      "word": "Final crossing",
+      "translation": "última travesía"
+    },
+    {
+      "word": "Paper (en términos periodísticos)",
+      "translation": "diario, periódico"
+    },
+    {
+      "word": "Squid boat",
+      "translation": "barco con forma de calamar"
+    },
+    {
+      "word": "Head out for the horizon",
+      "translation": "salir hacia el horizonte"
+    },
+    {
+      "word": "Whenever",
+      "translation": "siempre que"
+    },
+    {
+      "word": "Throw up",
+      "translation": "vomitar"
+    },
+    {
+      "word": "No sidesaddle stuff",
+      "translation": "nada de montar a la amazona"
+    },
+    {
+      "word": "Pitiful",
+      "translation": "lamentable"
+    },
+    {
+      "word": "Hawk back",
+      "translation": "echar de vuelta"
+    },
+    {
+      "word": "Leverage",
+      "translation": "apalancamiento"
+    },
+    {
+      "word": "Arc (verbo)",
+      "translation": "curvar"
+    },
+    {
+      "word": "Hawk up",
+      "translation": "regurgitar"
+    },
+    {
+      "word": "Sticky spot",
+      "translation": "situación difícil"
+    },
+    {
+      "word": "Cavalry charge",
+      "translation": "carga de caballería"
+    },
+    {
+      "word": "Snake pit",
+      "translation": "nido de víboras"
+    },
+    {
+      "word": "Then you’re accountable if there’s a problem",
+      "translation": "entonces tú eres responsible si hay un"
+    },
+    {
+      "word": "She’ll be along",
+      "translation": "ella llegará enseguida"
+    },
+    {
+      "word": "Nickelodeon (sustantivo común)",
+      "translation": "teatro de cine mudo"
+    },
+    {
+      "word": "Mistress",
+      "translation": "amante"
+    },
+    {
+      "word": "Falter (verbo)",
+      "translation": "fallar"
+    },
+    {
+      "word": "Heir to a rail road fortune",
+      "translation": "heredero de una fortuna ferroviaria"
+    },
+    {
+      "word": "Steerage",
+      "translation": "tercera clase"
+    },
+    {
+      "word": "Rivet",
+      "translation": "remache"
+    },
+    {
+      "word": "Tramp steamers",
+      "translation": "vapores de carga"
+    },
+    {
+      "word": "A lucky hand at poker",
+      "translation": "una mano de póquer afortunada"
+    },
+    {
+      "word": "Rootless",
+      "translation": "sin raíces (en términos de familia)"
+    },
+    {
+      "word": "Appealing",
+      "translation": "atractivo"
+    },
+    {
+      "word": "Wind up",
+      "translation": "terminar, dar cuerda"
+    },
+    {
+      "word": "Get dealt",
+      "translation": "recibir (en términos de juegos de cartas)"
+    },
+    {
+      "word": "Stove",
+      "translation": "estufa, horno"
+    },
+    {
+      "word": "Join me in a brandy?",
+      "translation": "¿me acompañas en un brandy?"
+    },
+    {
+      "word": "Head back",
+      "translation": "regresar, volver"
+    },
+    {
+      "word": "Row (verbo)",
+      "translation": "remar"
+    },
+    {
+      "word": "Swallow (verbo)",
+      "translation": "tragar, absorber"
+    },
+    {
+      "word": "Hold up",
+      "translation": "sostener"
+    },
+    {
+      "word": "Exertion",
+      "translation": "esfuerzo"
+    },
+    {
+      "word": "Undertaker",
+      "translation": "funerario"
+    },
+    {
+      "word": "Manservant",
+      "translation": "criado, valet"
+    },
+    {
+      "word": "Mill foremen",
+      "translation": "capataces de molino"
+    },
+    {
+      "word": "I’ll not be made a fool of",
+      "translation": "no seré dejado en ridículo"
+    },
+    {
+      "word": "Is this in any way unclear?",
+      "translation": "¿Te ha quedado alguna duda?"
+    },
+    {
+      "word": "Nosebleed",
+      "translation": "hemorragia nasal"
+    },
+    {
+      "word": "Auction",
+      "translation": "subasta"
+    },
+    {
+      "word": "Our memories scattered?",
+      "translation": "¿Nuestros recuerdos dispersos?"
+    },
+    {
+      "word": "Thy guiding hand",
+      "translation": "tu mano guía"
+    },
+    {
+      "word": "Peril",
+      "translation": "peligro"
+    },
+    {
+      "word": "To spread around the firmament",
+      "translation": "para extenderse por el firmamento"
+    },
+    {
+      "word": "Thy watchful care",
+      "translation": "tu vigilante cuidado"
+    },
+    {
+      "word": "Appreciative",
+      "translation": "agradecido"
+    },
+    {
+      "word": "Come along",
+      "translation": "acompañar, venir aquí"
+    },
+    {
+      "word": "Shore",
+      "translation": "orilla, ribera"
+    },
+    {
+      "word": "Speed up",
+      "translation": "acelerar"
+    },
+    {
+      "word": "Type davits",
+      "translation": "grúas de brazo"
+    },
+    {
+      "word": "Cluttered",
+      "translation": "desordenado"
+    },
+    {
+      "word": "Overruled",
+      "translation": "anulado, rechazado"
+    },
+    {
+      "word": "Keep heading aft",
+      "translation": "mantén el rumbo hacia popa"
+    },
+    {
+      "word": "Astounding",
+      "translation": "sorprendente, impresionante, asombroso"
+    },
+    {
+      "word": "Turn away",
+      "translation": "alejarse, ignorar"
+    },
+    {
+      "word": "Maybe not right away",
+      "translation": "tal vez no en este momento"
+    },
+    {
+      "word": "It’s not up to you",
+      "translation": "no depende de ti"
+    },
+    {
+      "word": "Stationers",
+      "translation": "papelerías"
+    },
+    {
+      "word": "Bridesmaids",
+      "translation": "damas de honor"
+    },
+    {
+      "word": "Spite (verbo)",
+      "translation": "fastidiar"
+    },
+    {
+      "word": "Railing",
+      "translation": "barandilla"
+    },
+    {
+      "word": "Don’t peek",
+      "translation": "no mires"
+    },
+    {
+      "word": "We’re up to dusk the night of the sinking",
+      "translation": "hemos llegado al anochecer de la noche en"
+    },
+    {
+      "word": "With too small a rudder",
+      "translation": "con un timón demasiado pequeño"
+    },
+    {
+      "word": "Doesn’t corner worth a damn",
+      "translation": "no gira ni un poco"
+    },
+    {
+      "word": "Cart (verbo)",
+      "translation": "llevar, transportar"
+    },
+    {
+      "word": "Hideous",
+      "translation": "horrible"
+    },
+    {
+      "word": "Hold out",
+      "translation": "aguantar"
+    },
+    {
+      "word": "Lie down",
+      "translation": "acostarse, reclinarse"
+    },
+    {
+      "word": "None of the stewards",
+      "translation": "ninguno de los mayordomos"
+    },
+    {
+      "word": "A flat calm",
+      "translation": "un mar en calma absoluta"
+    },
+    {
+      "word": "Mill pond",
+      "translation": "estanque de molino"
+    },
+    {
+      "word": "I’m off",
+      "translation": "me voy"
+    },
+    {
+      "word": "Maintain speed and heading",
+      "translation": "mantén la velocidad y el rumbo"
+    },
+    {
+      "word": "Carry on",
+      "translation": "seguir adelante, continuar"
+    },
+    {
+      "word": "Mind (verbo)",
+      "translation": "prestar atención"
+    },
+    {
+      "word": "It’s bloody cold",
+      "translation": "hace un frío terrible"
+    },
+    {
+      "word": "Bollocks",
+      "translation": "tonterías"
+    },
+    {
+      "word": "Lookout",
+      "translation": "vigía"
+    },
+    {
+      "word": "Dock (verbo)",
+      "translation": "atracar"
+    },
+    {
+      "word": "Bugger me!",
+      "translation": "¡Maldita sea!"
+    },
+    {
+      "word": "Hard to starboard",
+      "translation": "¡Rumbo a estribor!"
+    },
+    {
+      "word": "Full astern",
+      "translation": "a máxima marcha atrás"
+    },
+    {
+      "word": "Hard over",
+      "translation": "timon a tope"
+    },
+    {
+      "word": "Helm (sustantivo)",
+      "translation": "timón"
+    },
+    {
+      "word": "Bring down",
+      "translation": "bajar (una cosa)"
+    },
+    {
+      "word": "Damper",
+      "translation": "compuerta"
+    },
+    {
+      "word": "Engage reversing engine",
+      "translation": "acoplar el motor de reversa"
+    },
+    {
+      "word": "Hard to port!",
+      "translation": "¡Timón a tope a babor!"
+    },
+    {
+      "word": "That was a close shave",
+      "translation": "eso estuvo cerca"
+    },
+    {
+      "word": "Enter it in the log",
+      "translation": "anótalo en el registro"
+    },
+    {
+      "word": "I tried to port round it",
+      "translation": "intenté pasar por el lado de babor"
+    },
+    {
+      "word": "Watertight doors",
+      "translation": "puertas estancas"
+    },
+    {
+      "word": "Shudder",
+      "translation": "estremecimiento, temblor"
+    },
+    {
+      "word": "Propeller blade",
+      "translation": "pala de hélice"
+    },
+    {
+      "word": "Mail hold",
+      "translation": "área de almacenamiento para correo"
+    },
+    {
+      "word": "Shore up",
+      "translation": "apuntalar"
+    },
+    {
+      "word": "Pumps",
+      "translation": "bombas (de líquidos o gases)"
+    },
+    {
+      "word": "Get ahead",
+      "translation": "avanzar, adelantarse"
+    },
+    {
+      "word": "Real slick",
+      "translation": "muy hábil, muy astuto"
+    },
+    {
+      "word": "Forepeak",
+      "translation": "proa, casco de proa"
+    },
+    {
+      "word": "When can we get underway?",
+      "translation": "¿Cuándo podemos zarpar?"
+    },
+    {
+      "word": "Hold (sustantivo)",
+      "translation": "bodega de carga"
+    },
+    {
+      "word": "Breached",
+      "translation": "agrietado, abierto"
+    },
+    {
+      "word": "There’s no stopping it",
+      "translation": "no hay forma de detenerlo"
+    },
+    {
+      "word": "Founder (verbo)",
+      "translation": "hundirse, naufragar"
+    },
+    {
+      "word": "Certainty",
+      "translation": "certeza"
+    },
+    {
+      "word": "I believe you may get your headlines",
+      "translation": "creo que puedes conseguir tus titulares"
+    },
+    {
+      "word": "It is a little slut",
+      "translation": "es una pequeña puta"
+    },
+    {
+      "word": "Topcoat",
+      "translation": "abrigo grueso"
+    },
+    {
+      "word": "The distress call",
+      "translation": "la señal de auxilio"
+    },
+    {
+      "word": "Lower (verbo)",
+      "translation": "bajar, descender (un bote salvavidas)"
+    },
+    {
+      "word": "Steady",
+      "translation": "firme"
+    },
+    {
+      "word": "Make it taut (verbo)",
+      "translation": "tensarlo, asegurarlo"
+    },
+    {
+      "word": "Winch out",
+      "translation": "arrastrar con un cabrestante"
+    },
+    {
+      "word": "Uncover (verbo)",
+      "translation": "destapar"
+    },
+    {
+      "word": "Release those ties",
+      "translation": "desaten esas cuerdas"
+    },
+    {
+      "word": "Roll back",
+      "translation": "retroceder, dar marcha atrás"
+    },
+    {
+      "word": "Care for a drink, sir?",
+      "translation": "¿Quiere algo de beber, señor?"
+    },
+    {
+      "word": "You get us all trussed up",
+      "translation": "nos has dejado a todos bien amarrados"
+    },
+    {
+      "word": "Heater",
+      "translation": "calefactor, calentador, estufa"
+    },
+    {
+      "word": "Mob",
+      "translation": "multitud, muchedumbre"
+    },
+    {
+      "word": "We are swung out and ready",
+      "translation": "hemos soltado amarras y estamos listos para salir"
+    },
+    {
+      "word": "Step this way",
+      "translation": "venir por aquí"
+    },
+    {
+      "word": "For the time being",
+      "translation": "por el momento"
+    },
+    {
+      "word": "Nice and cheery",
+      "translation": "agradable y alegre"
+    },
+    {
+      "word": "Turn around",
+      "translation": "girar, dar la vuelta"
+    },
+    {
+      "word": "Lower away",
+      "translation": "bajar, descender (un bote salvavidas)"
+    },
+    {
+      "word": "Gutter rat",
+      "translation": "rata de alcantarilla"
+    },
+    {
+      "word": "Starboard corridor",
+      "translation": "pasillo de estribor"
+    },
+    {
+      "word": "Down the crewmen’s passage",
+      "translation": "por el pasillo de la tripulación"
+    },
+    {
+      "word": "I’m through being polite",
+      "translation": "ya no aguanto más las buenas maneras"
+    },
+    {
+      "word": "Spare key",
+      "translation": "llave de repuesto"
+    },
+    {
+      "word": "Brass",
+      "translation": "latón"
+    },
+    {
+      "word": "Try a couple practice swings over there",
+      "translation": "intenta unos cuantos golpes de práctica allá"
+    },
+    {
+      "word": "Put your backs into it",
+      "translation": "echen al resto"
+    },
+    {
+      "word": "This strutting martinet isn’t letting any men on at all",
+      "translation": "este oficial estricto no deja"
+    },
+    {
+      "word": "All the way down here",
+      "translation": "hasta aquí abajo"
+    },
+    {
+      "word": "Buckle (verbo)",
+      "translation": "ceder, no aguantar"
+    },
+    {
+      "word": "Rubbish",
+      "translation": "tonterías"
+    },
+    {
+      "word": "Blooding (despectivo)",
+      "translation": "maldito"
+    },
+    {
+      "word": "Bring forward",
+      "translation": "traer al frente"
+    },
+    {
+      "word": "It’s hopeless that way",
+      "translation": "no hay esperanza por ahí"
+    },
+    {
+      "word": "Main stairwell",
+      "translation": "escalera principal"
+    },
+    {
+      "word": "Sort out (verbo)",
+      "translation": "resolver, solucionar"
+    },
+    {
+      "word": "Pull her in",
+      "translation": "traiganla aquí, acérquenla"
+    },
+    {
+      "word": "Man (verbo)",
+      "translation": "tripular"
+    },
+    {
+      "word": "Cut the falls",
+      "translation": "cortar las amarras"
+    },
+    {
+      "word": "Drown by",
+      "translation": "ahogarse"
+    },
+    {
+      "word": "They’re all still aft",
+      "translation": "están todavia en la popa"
+    },
+    {
+      "word": "We have an understanding then",
+      "translation": "nos hemos puesto de acuerdo entonces"
+    },
+    {
+      "word": "Anyone else then?",
+      "translation": "¿Alguien más entonces?"
+    },
+    {
+      "word": "Hurry along",
+      "translation": "date prisa, apresúrate"
+    },
+    {
+      "word": "You look a fright",
+      "translation": "estás hecho un desastre"
+    },
+    {
+      "word": "Arrangement",
+      "translation": "arreglo, acuerdo"
+    },
+    {
+      "word": "Catch (verbo)",
+      "translation": "coger, pescar (agarrar algo)"
+    },
+    {
+      "word": "Step aboard",
+      "translation": "subir a bordo"
+    },
+    {
+      "word": "Sailor",
+      "translation": "marinero"
+    },
+    {
+      "word": "Get those oars in place",
+      "translation": "pon esos remos en su lugar"
+    },
+    {
+      "word": "Get these davits cranked in",
+      "translation": "accionen estos mecanismos para bajar los botes"
+    },
+    {
+      "word": "Let’s get the falls hooked up",
+      "translation": "aten las amarras"
+    },
+    {
+      "word": "Won’t you even make a try for it?",
+      "translation": "¿Ni siquiera lo vas a intentar?"
+    },
+    {
+      "word": "Old chap",
+      "translation": "viejo amigo, compañero, tío"
+    },
+    {
+      "word": "Cut them loose!",
+      "translation": "¡Suelten las amarras!"
+    },
+    {
+      "word": "Swamp (verbo)",
+      "translation": "inundar"
+    },
+    {
+      "word": "He shall dwell with them",
+      "translation": "él estará unido a ellos"
+    },
+    {
+      "word": "Wipe away",
+      "translation": "limpiar"
+    },
+    {
+      "word": "Hang on",
+      "translation": "aguantar, aferrarse, resistir"
+    },
+    {
+      "word": "Hold on real tight",
+      "translation": "agárrate fuerte"
+    },
+    {
+      "word": "God almighty",
+      "translation": "Dios todopoderoso"
+    },
+    {
+      "word": "Keep those breakers in!",
+      "translation": "mantengan los interruptores"
+    },
+    {
+      "word": "I’ll pull you over",
+      "translation": "te tiraré hacia ti"
+    },
+    {
+      "word": "Suck down",
+      "translation": "succionar, tragar"
+    },
+    {
+      "word": "Kick for the surface",
+      "translation": "patea hacia la superficie"
+    },
+    {
+      "word": "Get on top",
+      "translation": "ponerse encima"
+    },
+    {
+      "word": "They had to row away for the suction",
+      "translation": "tuvieron que remar con fuerza para alejarse de"
+    },
+    {
+      "word": "They’ll pull us right down",
+      "translation": "nos arrastrarán hasta el fondo"
+    },
+    {
+      "word": "Knock off",
+      "translation": "dejar de hacer eso"
+    },
+    {
+      "word": "If you don’t shut that hole in your face",
+      "translation": "si no cierras ese agujero en la cara"
+    },
+    {
+      "word": "Bring in",
+      "translation": "acercar, traer"
+    },
+    {
+      "word": "Tie up",
+      "translation": "amarrar, sujetar"
+    },
+    {
+      "word": "Aft",
+      "translation": "popa"
+    },
+    {
+      "word": "A strongly worded letter",
+      "translation": "una carta (con un tono contundente, firme)"
+    },
+    {
+      "word": "No matter how hopeless",
+      "translation": "no importa lo desesperado que parezca"
+    },
+    {
+      "word": "Now, give way",
+      "translation": "ahora, cede el paso"
+    },
+    {
+      "word": "Nearby",
+      "translation": "cerca"
+    },
+    {
+      "word": "Reddish brown",
+      "translation": "castaño rojizo"
+    },
+    {
+      "word": "Inherit (verbo)",
+      "translation": "heredar"
+    },
+    {
+      "word": "Let in",
+      "translation": "dejar entrar"
+    }
+  ]
+}

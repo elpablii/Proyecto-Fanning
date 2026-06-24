@@ -1,0 +1,838 @@
+{
+  "title": "Taylor Swift Miss Americana",
+  "englishAnalysis": "Muestra un inglés americano contemporáneo muy personal e íntimo. El vocabulario incluye términos del mundo de la música, la fama, redes sociales y política ('songwriting', 'backlash', 'approval', 'midterms'). Además, se utiliza mucha jerga de internet y expresiones de vulnerabilidad emocional.",
+  "vocabulary": [
+    {
+      "word": "Quill",
+      "translation": "pluma"
+    },
+    {
+      "word": "Ink jet",
+      "translation": "chorro de tinta"
+    },
+    {
+      "word": "A need to be thought of as good",
+      "translation": "Una necesidad de ser considerado bueno"
+    },
+    {
+      "word": "Belief",
+      "translation": "creencia"
+    },
+    {
+      "word": "By any stretch",
+      "translation": "en absoluto"
+    },
+    {
+      "word": "Perform (verbo)",
+      "translation": "actuar, realizar, interpretar"
+    },
+    {
+      "word": "A multitalented performing artist",
+      "translation": "un artista escénico multitalentoso"
+    },
+    {
+      "word": "Praise",
+      "translation": "alabanza, elogio"
+    },
+    {
+      "word": "Pats",
+      "translation": "palmadas, caricias"
+    },
+    {
+      "word": "Run up and down stairs",
+      "translation": "subir y bajar escaleras"
+    },
+    {
+      "word": "Hit (verbo)",
+      "translation": "pegar, golpear"
+    },
+    {
+      "word": "I never leave well enough alone",
+      "translation": "Nunca dejo las cosas bien hechas"
+    },
+    {
+      "word": "Cool chicks (en sentido connotativo)",
+      "translation": "chicas geniales"
+    },
+    {
+      "word": "Go into",
+      "translation": "entrar"
+    },
+    {
+      "word": "Put out",
+      "translation": "sacar"
+    },
+    {
+      "word": "Beat (verbo)",
+      "translation": "vencer, superar"
+    },
+    {
+      "word": "Prior",
+      "translation": "antes (algo ya hecho)"
+    },
+    {
+      "word": "Deemed",
+      "translation": "considerado"
+    },
+    {
+      "word": "Get done",
+      "translation": "hacerse, terminarse, realizarse"
+    },
+    {
+      "word": "Niche",
+      "translation": "nicho"
+    },
+    {
+      "word": "Specialty",
+      "translation": "especialidad"
+    },
+    {
+      "word": "Storytelling",
+      "translation": "narración"
+    },
+    {
+      "word": "Come out",
+      "translation": "salir, aparecer, revelar"
+    },
+    {
+      "word": "Take out",
+      "translation": "sacar, quitar"
+    },
+    {
+      "word": "With a little too much heart",
+      "translation": "con demasiado corazón"
+    },
+    {
+      "word": "Tide",
+      "translation": "marea"
+    },
+    {
+      "word": "Onto the sand",
+      "translation": "sobre la arena"
+    },
+    {
+      "word": "Come up",
+      "translation": "aparecer"
+    },
+    {
+      "word": "Go on",
+      "translation": "continuar"
+    },
+    {
+      "word": "I was riding",
+      "translation": "estaba montando"
+    },
+    {
+      "word": "Undone",
+      "translation": "deshecho"
+    },
+    {
+      "word": "A one-hand feel",
+      "translation": "una sensación de manejo con una sola mano"
+    },
+    {
+      "word": "Steering wheel",
+      "translation": "volante"
+    },
+    {
+      "word": "A slamming screen door",
+      "translation": "una puerta de tela mecánica que se cierra de golpe"
+    },
+    {
+      "word": "Fulfillment",
+      "translation": "satisfacción"
+    },
+    {
+      "word": "Crumble (verbo)",
+      "translation": "desmoronarse, derrumbarse"
+    },
+    {
+      "word": "Angelic",
+      "translation": "angelical, celestial"
+    },
+    {
+      "word": "Onstage",
+      "translation": "en el escenario"
+    },
+    {
+      "word": "Echoey",
+      "translation": "resonante, reverberante"
+    },
+    {
+      "word": "Drawer",
+      "translation": "cajón"
+    },
+    {
+      "word": "Catalyst",
+      "translation": "catalizador"
+    },
+    {
+      "word": "Go down",
+      "translation": "descender, bajar"
+    },
+    {
+      "word": "Picture (verbo)",
+      "translation": "imaginar, visualizar, concebir"
+    },
+    {
+      "word": "Fueled",
+      "translation": "alimentado, impulsado"
+    },
+    {
+      "word": "Contemporary",
+      "translation": "contemporáneo"
+    },
+    {
+      "word": "Aim (verbo)",
+      "translation": "apuntar"
+    },
+    {
+      "word": "Timelessness",
+      "translation": "atemporalidad"
+    },
+    {
+      "word": "In the clear yet",
+      "translation": "aún sin aclarar"
+    },
+    {
+      "word": "Walk out",
+      "translation": "marcharse, abandonar"
+    },
+    {
+      "word": "Set (verbo)",
+      "translation": "establecer, fijar, colocar"
+    },
+    {
+      "word": "Afterward",
+      "translation": "después, posteriormente"
+    },
+    {
+      "word": "Mountaintop",
+      "translation": "la cima de una montaña"
+    },
+    {
+      "word": "Climb (verbo)",
+      "translation": "subir, escalar"
+    },
+    {
+      "word": "Crunch",
+      "translation": "crujir, masticar"
+    },
+    {
+      "word": "Grown-up stuff",
+      "translation": "cosas de adultos"
+    },
+    {
+      "word": "Luxury",
+      "translation": "lujo"
+    },
+    {
+      "word": "Scare (verbo)",
+      "translation": "asustar, atemorizar, espantar"
+    },
+    {
+      "word": "It’s all over me",
+      "translation": "estoy cubierto"
+    },
+    {
+      "word": "Brace (verbo)",
+      "translation": "prepararse"
+    },
+    {
+      "word": "Takeoff",
+      "translation": "despegue"
+    },
+    {
+      "word": "Sweat (verbo)",
+      "translation": "sudar, transpirar"
+    },
+    {
+      "word": "Chemo",
+      "translation": "quimioterapia"
+    },
+    {
+      "word": "Go over",
+      "translation": "repasar, examinar"
+    },
+    {
+      "word": "Paps",
+      "translation": "paparazzis"
+    },
+    {
+      "word": "My front yard",
+      "translation": "mi jardín delantero"
+    },
+    {
+      "word": "Starve (verbo)",
+      "translation": "pasar hambre, morirse de hambre"
+    },
+    {
+      "word": "End up",
+      "translation": "terminar, acabar, concluir"
+    },
+    {
+      "word": "Lock and load",
+      "translation": "cargar y disparar"
+    },
+    {
+      "word": "Roundup",
+      "translation": "redada"
+    },
+    {
+      "word": "Holy",
+      "translation": "santo, sagrado, bendito"
+    },
+    {
+      "word": "Get down",
+      "translation": "agacharse, ponerse a cubierta"
+    },
+    {
+      "word": "Watch out",
+      "translation": "cuidado"
+    },
+    {
+      "word": "The latest can’t-look-away twist",
+      "translation": "el último giro inesperado e irresistible"
+    },
+    {
+      "word": "Feud",
+      "translation": "pelea, enemistad"
+    },
+    {
+      "word": "Diss (verbo)",
+      "translation": "insultar, menospreciar"
+    },
+    {
+      "word": "Heads-up",
+      "translation": "aviso"
+    },
+    {
+      "word": "Wicked",
+      "translation": "malvado, perverso"
+    },
+    {
+      "word": "Conniving",
+      "translation": "intrigante, astuto"
+    },
+    {
+      "word": "Bounce back from",
+      "translation": "recuperarse de"
+    },
+    {
+      "word": "Get into",
+      "translation": "entrar en, meterse en, involucrarse en"
+    },
+    {
+      "word": "Get loud",
+      "translation": "hacer ruido, ponerse ruidoso"
+    },
+    {
+      "word": "Fall out of love with",
+      "translation": "perder el amor por, dejar de amar"
+    },
+    {
+      "word": "Move on",
+      "translation": "seguir adelante, continuar"
+    },
+    {
+      "word": "Backlash",
+      "translation": "reacción negativa"
+    },
+    {
+      "word": "Bitter (adjetivo)",
+      "translation": "amargo, resentido, desilusionado"
+    },
+    {
+      "word": "Wounded (adjetivo)",
+      "translation": "herido, malherido"
+    },
+    {
+      "word": "Lash out",
+      "translation": "atacar repentinamente, arremeter"
+    },
+    {
+      "word": "Mend (verbo)",
+      "translation": "reparar, restaurar"
+    },
+    {
+      "word": "Figure (verbo)",
+      "translation": "suponer"
+    },
+    {
+      "word": "Reset (verbo)",
+      "translation": "restablecer"
+    },
+    {
+      "word": "Overnight",
+      "translation": "de la noche a la mañana, repentinamente"
+    },
+    {
+      "word": "Gunfight",
+      "translation": "tiroteo"
+    },
+    {
+      "word": "Grounded life",
+      "translation": "vida tranquila, vida sencilla"
+    },
+    {
+      "word": "Brand-new",
+      "translation": "nuevo (algo recién adquirido)"
+    },
+    {
+      "word": "Board up",
+      "translation": "tapiar"
+    },
+    {
+      "word": "Starry",
+      "translation": "estrellado"
+    },
+    {
+      "word": "Spark up",
+      "translation": "encender"
+    },
+    {
+      "word": "Turn on",
+      "translation": "ponerse, encender"
+    },
+    {
+      "word": "Jet-set",
+      "translation": "la élite de la sociedad"
+    },
+    {
+      "word": "Switch (verbo)",
+      "translation": "cambiar"
+    },
+    {
+      "word": "Turn in",
+      "translation": "entregar, devolver"
+    },
+    {
+      "word": "Getaway car",
+      "translation": "coche de huida"
+    },
+    {
+      "word": "Get far",
+      "translation": "llegar lejos"
+    },
+    {
+      "word": "Test out",
+      "translation": "probar, experimentar, poner a prueba"
+    },
+    {
+      "word": "Break in",
+      "translation": "irrumpir"
+    },
+    {
+      "word": "Strike up",
+      "translation": "iniciar, entablar"
+    },
+    {
+      "word": "Bore (verbo)",
+      "translation": "aburrir, fastidiar"
+    },
+    {
+      "word": "You’re blowing it",
+      "translation": "lo estás echando a perder"
+    },
+    {
+      "word": "Lame guys",
+      "translation": "chicos aburridos"
+    },
+    {
+      "word": "You’re down to do",
+      "translation": "estás dispuesto a hacer"
+    },
+    {
+      "word": "Storm out",
+      "translation": "salir furioso"
+    },
+    {
+      "word": "If you were to split open my imagination",
+      "translation": "Si pudieras abrir mi imaginación"
+    },
+    {
+      "word": "I got way too excited",
+      "translation": "Me emocioné demasiado"
+    },
+    {
+      "word": "Hugely",
+      "translation": "enormemente"
+    },
+    {
+      "word": "Hard-core",
+      "translation": "duro, extremo"
+    },
+    {
+      "word": "Knuckle-dragging",
+      "translation": "primitivo"
+    },
+    {
+      "word": "Bring on",
+      "translation": "que vengan, que traigan, que empiecen"
+    },
+    {
+      "word": "Outrage (verbo)",
+      "translation": "indignar, enfurecer"
+    },
+    {
+      "word": "Whatsoever",
+      "translation": "en absoluto"
+    },
+    {
+      "word": "Secretive",
+      "translation": "reservado, discreto"
+    },
+    {
+      "word": "Force (verbo)",
+      "translation": "obligar, forzar"
+    },
+    {
+      "word": "That is grilled into us",
+      "translation": "eso está grabado en nosotros"
+    },
+    {
+      "word": "Reigning",
+      "translation": "reinante"
+    },
+    {
+      "word": "Biggest-selling",
+      "translation": "el más vendido"
+    },
+    {
+      "word": "High-spirited",
+      "translation": "animado, entusiasta"
+    },
+    {
+      "word": "Moxie",
+      "translation": "valentía, coraje, determinación"
+    },
+    {
+      "word": "Racy",
+      "translation": "sugerente, provocativo"
+    },
+    {
+      "word": "Split-second",
+      "translation": "instante, fracción de segundo"
+    },
+    {
+      "word": "Callow",
+      "translation": "inmaduro, ingenuo"
+    },
+    {
+      "word": "Throughout",
+      "translation": "a lo largo de"
+    },
+    {
+      "word": "Label executives",
+      "translation": "ejecutivos discográficos"
+    },
+    {
+      "word": "I’d get much further",
+      "translation": "llegaría mucho más lejos"
+    },
+    {
+      "word": "Sort of",
+      "translation": "más o menos, en cierto modo"
+    },
+    {
+      "word": "Twist (verbo)",
+      "translation": "dar un giro"
+    },
+    {
+      "word": "Hustle (verbo)",
+      "translation": "darse prisa, apurarse"
+    },
+    {
+      "word": "Grop (verbo)",
+      "translation": "manosear"
+    },
+    {
+      "word": "Swivel chair",
+      "translation": "silla giratoria"
+    },
+    {
+      "word": "Further away",
+      "translation": "más lejos"
+    },
+    {
+      "word": "Turn (sustantivo)",
+      "translation": "turno"
+    },
+    {
+      "word": "Thirst",
+      "translation": "sed"
+    },
+    {
+      "word": "Back-and-forth",
+      "translation": "ida y vuelta"
+    },
+    {
+      "word": "You're still all over me",
+      "translation": "sigues encima de mí"
+    },
+    {
+      "word": "Wine-stained dress",
+      "translation": "vestido manchado de vino"
+    },
+    {
+      "word": "Hang (verbo)",
+      "translation": "colgar, suspender, ahorcar"
+    },
+    {
+      "word": "The rain came pouring down",
+      "translation": "la lluvia llovió torrencialmente"
+    },
+    {
+      "word": "Gone was any trace of you",
+      "translation": "no quedaba rastro de ti"
+    },
+    {
+      "word": "Momentum",
+      "translation": "impulso"
+    },
+    {
+      "word": "Step into",
+      "translation": "entrar en"
+    },
+    {
+      "word": "Unchangeably",
+      "translation": "inalterablemente"
+    },
+    {
+      "word": "I wasn’t gonna pop my head out of the sand for anything",
+      "translation": "no iba a salir de mi burbuja"
+    },
+    {
+      "word": "Halve (verbo)",
+      "translation": "dividir en dos"
+    },
+    {
+      "word": "Standpoint",
+      "translation": "punto de vista, postura"
+    },
+    {
+      "word": "Disguise (verbo)",
+      "translation": "ocultar"
+    },
+    {
+      "word": "Bring up",
+      "translation": "criar, educar, mencionar"
+    },
+    {
+      "word": "Bad press",
+      "translation": "mala prensa, mala publicidad"
+    },
+    {
+      "word": "Frilly",
+      "translation": "cursi"
+    },
+    {
+      "word": "Spineless",
+      "translation": "sin coraje, cobarde"
+    },
+    {
+      "word": "Back (verbo)",
+      "translation": "respaldar, apoyar"
+    },
+    {
+      "word": "Stand (sustantivo)",
+      "translation": "postura, posición"
+    },
+    {
+      "word": "Longstanding policy",
+      "translation": "política de larga data"
+    },
+    {
+      "word": "Stage",
+      "translation": "fase, etapa, escenario"
+    },
+    {
+      "word": "Melted-down",
+      "translation": "fundido, derretido"
+    },
+    {
+      "word": "Wrapper",
+      "translation": "envoltorio, envoltura"
+    },
+    {
+      "word": "Look over",
+      "translation": "echar un vistazo, revisar"
+    },
+    {
+      "word": "Give out",
+      "translation": "dar, repartir"
+    },
+    {
+      "word": "Vote on",
+      "translation": "votar"
+    },
+    {
+      "word": "A mean face",
+      "translation": "una cara de mal humor"
+    },
+    {
+      "word": "Slappable face",
+      "translation": "cara abofeteable"
+    },
+    {
+      "word": "Plot (verbo)",
+      "translation": "tramar"
+    },
+    {
+      "word": "Likable",
+      "translation": "agradable, simpático"
+    },
+    {
+      "word": "Last rhino of the stampede",
+      "translation": "último rinoceronte de la estampida"
+    },
+    {
+      "word": "Limp (verbo)",
+      "translation": "cojear"
+    },
+    {
+      "word": "Look down",
+      "translation": "mirar hacia abajo"
+    },
+    {
+      "word": "Graveyard",
+      "translation": "cementerio"
+    },
+    {
+      "word": "Grasp (verbo)",
+      "translation": "entender, comprender"
+    },
+    {
+      "word": "Turnout",
+      "translation": "asistencia, concurrencia"
+    },
+    {
+      "word": "Spike (verbo)",
+      "translation": "subir bruscamente, aumentar bruscamente"
+    },
+    {
+      "word": "Sevenfold",
+      "translation": "siete veces"
+    },
+    {
+      "word": "Hang in there",
+      "translation": "aguantar, no rendirse"
+    },
+    {
+      "word": "Shift (verbo)",
+      "translation": "cambiar, alternar"
+    },
+    {
+      "word": "Bold enough",
+      "translation": "suficientemente valiente"
+    },
+    {
+      "word": "Break away",
+      "translation": "escapar, liberarse"
+    },
+    {
+      "word": "Outnumbered",
+      "translation": "superado en número"
+    },
+    {
+      "word": "Stained (adjetivo)",
+      "translation": "manchado"
+    },
+    {
+      "word": "It was my own doing",
+      "translation": "fue mi propia culpa"
+    },
+    {
+      "word": "Masking tape",
+      "translation": "cinta de enmascarar"
+    },
+    {
+      "word": "And roll camera",
+      "translation": "¡y rueda!"
+    },
+    {
+      "word": "Playback",
+      "translation": "reproducción"
+    },
+    {
+      "word": "Glitter",
+      "translation": "brillantina, lentejuelas"
+    },
+    {
+      "word": "Cancel each other out",
+      "translation": "anularse mutuamente"
+    },
+    {
+      "word": "Manis",
+      "translation": "manicura"
+    },
+    {
+      "word": "Warrant (verbo)",
+      "translation": "garantizar, justificar"
+    },
+    {
+      "word": "Gowns",
+      "translation": "vestidos largos"
+    },
+    {
+      "word": "Toss out",
+      "translation": "desechar, tirar"
+    },
+    {
+      "word": "There is no such thing as",
+      "translation": "no existe tal cosa como"
+    },
+    {
+      "word": "Bossy",
+      "translation": "dominante, autoritario"
+    },
+    {
+      "word": "Multifaceted",
+      "translation": "multifacético"
+    },
+    {
+      "word": "Soapbox",
+      "translation": "tribuna"
+    },
+    {
+      "word": "It’s out",
+      "translation": "¡ya salió!"
+    },
+    {
+      "word": "Toast for Taylor",
+      "translation": "brindis por Taylor"
+    },
+    {
+      "word": "No one is this good",
+      "translation": "nadie es tan bueno"
+    },
+    {
+      "word": "Misunderstood",
+      "translation": "incomprendido"
+    },
+    {
+      "word": "Turn into",
+      "translation": "convertirse en"
+    },
+    {
+      "word": "Ride off",
+      "translation": "cabalgar, ir a caballo"
+    },
+    {
+      "word": "Catch up",
+      "translation": "ponerse al día"
+    },
+    {
+      "word": "Dead-faced",
+      "translation": "cara de muerto"
+    },
+    {
+      "word": "Psych out",
+      "translation": "desmoralizar, desequilibrar"
+    },
+    {
+      "word": "Prey",
+      "translation": "presa"
+    }
+  ]
+}

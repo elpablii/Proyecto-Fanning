@@ -1,0 +1,534 @@
+{
+  "title": "The Polar Express",
+  "englishAnalysis": "El vocabulario es familiar, nostálgico y relacionado con la Navidad ('sleigh', 'reindeer', 'conductor', 'believe'). El lenguaje es claro y descriptivo, con un tono mágico y aventurero. Excelente para aprender vocabulario descriptivo de invierno y expresiones más tradicionales.",
+  "vocabulary": [
+    {
+      "word": "I lay quietly in my bed",
+      "translation": "Me quedé tranquilamente en mi cama"
+    },
+    {
+      "word": "Rustle the sheets",
+      "translation": "hacer crujir las sábanas"
+    },
+    {
+      "word": "Ringing bells",
+      "translation": "campanas sonando"
+    },
+    {
+      "word": "Hold (verbo)",
+      "translation": "sostener, agarrar"
+    },
+    {
+      "word": "Sled",
+      "translation": "trineo"
+    },
+    {
+      "word": "Ocean liner",
+      "translation": "transatlántico"
+    },
+    {
+      "word": "Barren",
+      "translation": "árido, estéril"
+    },
+    {
+      "word": "Devoid of life",
+      "translation": "desprovisto de vida, sin vida"
+    },
+    {
+      "word": "Think those days are just about over",
+      "translation": "creo que esos días están a punto de acabarse"
+    },
+    {
+      "word": "He’s out like a light",
+      "translation": "está profundamente dormido"
+    },
+    {
+      "word": "A department-store",
+      "translation": "tienda departamental, grandes almacenes"
+    },
+    {
+      "word": "Suit yourself",
+      "translation": "haz lo que quieras"
+    },
+    {
+      "word": "Steam locomotive",
+      "translation": "locomotora a vapor, tren de vapor"
+    },
+    {
+      "word": "Cozy",
+      "translation": "acogedor"
+    },
+    {
+      "word": "Punch (verbo alusivo a boletos)",
+      "translation": "marcar, validar, perforar"
+    },
+    {
+      "word": "Tracks",
+      "translation": "vías del tren, rieles"
+    },
+    {
+      "word": "Pickup (sustantivo)",
+      "translation": "recogida"
+    },
+    {
+      "word": "Who in the blazes applied that emergency brake? (informal)",
+      "translation": "¿Quién demonios aplicó"
+    },
+    {
+      "word": "Cord",
+      "translation": "cuerda, cable"
+    },
+    {
+      "word": "Are there any passengers in need of refreshment?",
+      "translation": "¿Hay algún pasajero que necesite"
+    },
+    {
+      "word": "Never, ever let it cool",
+      "translation": "nunca, jamás lo dejes enfriar"
+    },
+    {
+      "word": "Pot",
+      "translation": "olla, pote, recipiente"
+    },
+    {
+      "word": "Thick",
+      "translation": "espeso"
+    },
+    {
+      "word": "Mud",
+      "translation": "barro, lodo"
+    },
+    {
+      "word": "Chili pepper",
+      "translation": "ají, pimiento picante"
+    },
+    {
+      "word": "Lad",
+      "translation": "chico, jovencito"
+    },
+    {
+      "word": "Watch your step",
+      "translation": "ten cuidado"
+    },
+    {
+      "word": "Neglect (verbo)",
+      "translation": "olvidar, ignorar"
+    },
+    {
+      "word": "Come along",
+      "translation": "acompañar"
+    },
+    {
+      "word": "Throw off",
+      "translation": "tirar, sacar"
+    },
+    {
+      "word": "Get sucked",
+      "translation": "dejarse atrapar"
+    },
+    {
+      "word": "Slow down",
+      "translation": "desacelerar, bajar la velocidad"
+    },
+    {
+      "word": "Ain’t we all?",
+      "translation": "¿No es cierto?, ¿No es así?"
+    },
+    {
+      "word": "Ride (verbo en términos de transporte)",
+      "translation": "viajar, transportarse"
+    },
+    {
+      "word": "Valuables",
+      "translation": "objetos de valor"
+    },
+    {
+      "word": "Hop (verbo en términos de transporte)",
+      "translation": "subirse"
+    },
+    {
+      "word": "Rattler",
+      "translation": "tren viejo y ruidoso"
+    },
+    {
+      "word": "Take a load off",
+      "translation": "descansa, relájate"
+    },
+    {
+      "word": "Bamboozled",
+      "translation": "engañado"
+    },
+    {
+      "word": "You don’t wanna be led down the primrose path",
+      "translation": "tú no quieres que te engañen"
+    },
+    {
+      "word": "Duped",
+      "translation": "engañado"
+    },
+    {
+      "word": "Have the wool pulled over your eyes",
+      "translation": "ser engañado, creerse las mentiras"
+    },
+    {
+      "word": "Hoodwinked",
+      "translation": "engañado"
+    },
+    {
+      "word": "You don’t wanna be taken for a ride",
+      "translation": "no quieres que te tomen el pelo"
+    },
+    {
+      "word": "Railroaded",
+      "translation": "ser tratado injustamente"
+    },
+    {
+      "word": "Sleepwalking",
+      "translation": "sonambulismo"
+    },
+    {
+      "word": "We gotta jump then knuckles (informal)",
+      "translation": "tenemos que saltar a continuación"
+    },
+    {
+      "word": "Flip my shoulders",
+      "translation": "voltea mis hombros"
+    },
+    {
+      "word": "Lily (sustantivo común)",
+      "translation": "lirio"
+    },
+    {
+      "word": "We gotta hightail it to the hog",
+      "translation": "tenemos que irnos rápido de aquí"
+    },
+    {
+      "word": "Tenderfoot",
+      "translation": "novato"
+    },
+    {
+      "word": "Clearance (sustantivo técnico)",
+      "translation": "holgura, espacio"
+    },
+    {
+      "word": "Savvy (verbo)",
+      "translation": "comprender"
+    },
+    {
+      "word": "It’s just the run up to the hump",
+      "translation": "esto es sólo el calentamiento para la parte difícil"
+    },
+    {
+      "word": "Get back on",
+      "translation": "volver a subir"
+    },
+    {
+      "word": "Grab my muck stick",
+      "translation": "agarra mi pala"
+    },
+    {
+      "word": "Throttle",
+      "translation": "acelerador"
+    },
+    {
+      "word": "Pressure gauges",
+      "translation": "manómetros"
+    },
+    {
+      "word": "Whistle (parte de un tren)",
+      "translation": "pito"
+    },
+    {
+      "word": "Hold still",
+      "translation": "mantenerse quieto, no te muevas"
+    },
+    {
+      "word": "Are you bound and determined that this train never reaches the North Pole?",
+      "translation": "¿Estás"
+    },
+    {
+      "word": "Tight spot",
+      "translation": "situación difícil, aprieto"
+    },
+    {
+      "word": "All ahead, slow",
+      "translation": "a toda máquina, pero despacio"
+    },
+    {
+      "word": "Watch (verbo en términos de tener ojo)",
+      "translation": "cuidar"
+    },
+    {
+      "word": "Cotter pin",
+      "translation": "seguro (dispositivo de sujeción)"
+    },
+    {
+      "word": "Shear off",
+      "translation": "separar, arrancar"
+    },
+    {
+      "word": "Steep (adjetivo)",
+      "translation": "escarpado, inclinado, empinado"
+    },
+    {
+      "word": "Downhill grade",
+      "translation": "bajada"
+    },
+    {
+      "word": "Turn this sled around",
+      "translation": "da la vuelta a este trineo"
+    },
+    {
+      "word": "Port astern",
+      "translation": "babor a popa"
+    },
+    {
+      "word": "Starboard",
+      "translation": "estribor"
+    },
+    {
+      "word": "Brace yourselves",
+      "translation": "prepárense, agárrense fuerte"
+    },
+    {
+      "word": "Tricky walking up here",
+      "translation": "es difícil caminar por aquí"
+    },
+    {
+      "word": "It’s mighty slick",
+      "translation": "es muy resbaladizo"
+    },
+    {
+      "word": "Run (sustantivo)",
+      "translation": "recorrido, trayecto"
+    },
+    {
+      "word": "Slip (verbo)",
+      "translation": "resbalar"
+    },
+    {
+      "word": "Reach out for",
+      "translation": "extender la mano"
+    },
+    {
+      "word": "I slid and fell",
+      "translation": "me resbalé y caí"
+    },
+    {
+      "word": "Forsaken",
+      "translation": "abandonado, desolado"
+    },
+    {
+      "word": "Mind your step",
+      "translation": "cuidado con el paso"
+    },
+    {
+      "word": "Rust (verbo)",
+      "translation": "oxidarse"
+    },
+    {
+      "word": "Decay (verbo)",
+      "translation": "descomponerse"
+    },
+    {
+      "word": "Alleys",
+      "translation": "callejones"
+    },
+    {
+      "word": "Throw away",
+      "translation": "tirar, desechar"
+    },
+    {
+      "word": "Refurbish (verbo)",
+      "translation": "restaurar"
+    },
+    {
+      "word": "Entangled",
+      "translation": "enredado"
+    },
+    {
+      "word": "String",
+      "translation": "cuerda"
+    },
+    {
+      "word": "Nimble",
+      "translation": "ágil"
+    },
+    {
+      "word": "Tangle",
+      "translation": "enredo"
+    },
+    {
+      "word": "Double-locked here",
+      "translation": "doblemente cerrado aquí"
+    },
+    {
+      "word": "Humbug",
+      "translation": "farsa, engaño, mentira"
+    },
+    {
+      "word": "A bout of indigestion",
+      "translation": "un ataque de indigestión"
+    },
+    {
+      "word": "Ride down",
+      "translation": "bajar, descender"
+    },
+    {
+      "word": "Christmas cheer",
+      "translation": "alegría navideña"
+    },
+    {
+      "word": "The herald angels",
+      "translation": "los ángeles heraldos"
+    },
+    {
+      "word": "Rail",
+      "translation": "riel"
+    },
+    {
+      "word": "Taller in the rear",
+      "translation": "más alto en la parte trasera"
+    },
+    {
+      "word": "Even-numbered",
+      "translation": "par"
+    },
+    {
+      "word": "Odd-numbered",
+      "translation": "impar"
+    },
+    {
+      "word": "Let’s not dilly-dally",
+      "translation": "no perdamos el tiempo"
+    },
+    {
+      "word": "Work out",
+      "translation": "funcionar, encajar"
+    },
+    {
+      "word": "Hang (verbo)",
+      "translation": "colgar (un objeto)"
+    },
+    {
+      "word": "Sleighbell",
+      "translation": "cascabel de trineo"
+    },
+    {
+      "word": "It’s down this way",
+      "translation": "está por aqui"
+    },
+    {
+      "word": "Be quiet",
+      "translation": "silencio"
+    },
+    {
+      "word": "The wrapping hall",
+      "translation": "la sala de envoltura"
+    },
+    {
+      "word": "Candy-striped",
+      "translation": "a rayas de caramelo"
+    },
+    {
+      "word": "Holly-green",
+      "translation": "verde acebo"
+    },
+    {
+      "word": "Liftoff (verbo)",
+      "translation": "despegar"
+    },
+    {
+      "word": "Meshuggener",
+      "translation": "loco, chiflado"
+    },
+    {
+      "word": "Troublemaker",
+      "translation": "problemático"
+    },
+    {
+      "word": "We’ll cut the kid a break",
+      "translation": "le daremos una oportunidad al niño"
+    },
+    {
+      "word": "Pneumatic",
+      "translation": "neumático de aire comprimido"
+    },
+    {
+      "word": "Ready, and mount",
+      "translation": "listo, y a montar"
+    },
+    {
+      "word": "Railroader",
+      "translation": "ferroviario"
+    },
+    {
+      "word": "Lighter-than-air craft",
+      "translation": "aerolito"
+    },
+    {
+      "word": "Layman",
+      "translation": "persona no experta"
+    },
+    {
+      "word": "A well-oiled machine",
+      "translation": "una máquina bien engrasada"
+    },
+    {
+      "word": "Stowaways",
+      "translation": "polizones"
+    },
+    {
+      "word": "Step up",
+      "translation": "dar un paso adelante"
+    },
+    {
+      "word": "Cutting it kind of close (informal)",
+      "translation": "está un poco apretado el tiempo"
+    },
+    {
+      "word": "Prayer",
+      "translation": "oración, plegaria"
+    },
+    {
+      "word": "Smidgen of humility",
+      "translation": "una pizca de humildad"
+    },
+    {
+      "word": "That’s a lucky lad",
+      "translation": "ese es un chico afortunado"
+    },
+    {
+      "word": "Lie (verbo en otro contexto)",
+      "translation": "yace, reside"
+    },
+    {
+      "word": "Dash away",
+      "translation": "correr precipitadamente, alejarse a toda velocidad"
+    },
+    {
+      "word": "On top of",
+      "translation": "encima de"
+    },
+    {
+      "word": "Swing (verbo)",
+      "translation": "columpiarse, balancearse"
+    },
+    {
+      "word": "Remember to duck and cover",
+      "translation": "recuerda agacharte y cubrirte"
+    },
+    {
+      "word": "Safe and sound",
+      "translation": "sano y salvo"
+    },
+    {
+      "word": "It fell silent",
+      "translation": "todo quedó en silencio"
+    },
+    {
+      "word": "I’ve grown old",
+      "translation": "he envejecido"
+    }
+  ]
+}

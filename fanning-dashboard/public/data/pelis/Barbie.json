@@ -1,0 +1,978 @@
+{
+  "title": "Barbie",
+  "englishAnalysis": "La película presenta un inglés mayormente americano con un tono muy moderno, optimista y pop. Utiliza vocabulario relacionado con el empoderamiento, conceptos existenciales ('patriarchy', 'cognitive dissonance', 'fascism') mezclados con términos superficiales y corporativos. Destaca por el contraste entre el lenguaje inocente de Barbieland y el inglés del mundo real corporativo.",
+  "vocabulary": [
+    {
+      "word": "Start out",
+      "translation": "empezar, comenzar (un proceso)"
+    },
+    {
+      "word": "Grow into",
+      "translation": "desarrollar, crecer"
+    },
+    {
+      "word": "Set to",
+      "translation": "estar listo/preparado para"
+    },
+    {
+      "word": "Burst",
+      "translation": "estallar, reventar"
+    },
+    {
+      "word": "Wave (verbo)",
+      "translation": "saludar, ondear"
+    },
+    {
+      "word": "Homegirls",
+      "translation": "amigas"
+    },
+    {
+      "word": "Doll up",
+      "translation": "arreglarse (estar elegante)"
+    },
+    {
+      "word": "Either way",
+      "translation": "de cualquier manera"
+    },
+    {
+      "word": "Walk down",
+      "translation": "caminar (hacia abajo)"
+    },
+    {
+      "word": "Compliment (verbo)",
+      "translation": "hacer un cumplido"
+    },
+    {
+      "word": "Assessment",
+      "translation": "evaluación, valoración"
+    },
+    {
+      "word": "Check out",
+      "translation": "mirar, echar un vistazo"
+    },
+    {
+      "word": "Beach off (Beat off)",
+      "translation": "metérsela (en sentido explícito)"
+    },
+    {
+      "word": "Get emotional",
+      "translation": "ponerse emocional"
+    },
+    {
+      "word": "Get fixed up",
+      "translation": "arreglarse (ayudar a alguien)"
+    },
+    {
+      "word": "Shredding",
+      "translation": "surfear, desafiar (olas)"
+    },
+    {
+      "word": "Lifeguard",
+      "translation": "socorrista, salvavidas"
+    },
+    {
+      "word": "Misconception",
+      "translation": "concepto erróneo, idea equivocada"
+    },
+    {
+      "word": "Heal up",
+      "translation": "curar, recuperarse, sanar"
+    },
+    {
+      "word": "Blowout party",
+      "translation": "gran fiesta, superfiesta"
+    },
+    {
+      "word": "Bespoke",
+      "translation": "hecha a medida"
+    },
+    {
+      "word": "Stop by",
+      "translation": "pasar (visitar brevemente)"
+    },
+    {
+      "word": "Come along for the ride",
+      "translation": "únete y disfruta del viaje"
+    },
+    {
+      "word": "Dance away",
+      "translation": "bailar con alegría"
+    },
+    {
+      "word": "Flip",
+      "translation": "mortal, vuelta (en términos acrobáticos)"
+    },
+    {
+      "word": "Rager",
+      "translation": "fiesta enérgica/emocionante/bulliciosa"
+    },
+    {
+      "word": "Platter",
+      "translation": "bandeja"
+    },
+    {
+      "word": "Stay over",
+      "translation": "quedarse (en un lugar)"
+    },
+    {
+      "word": "Slumber party",
+      "translation": "fiesta (tipo pijamada)"
+    },
+    {
+      "word": "Nauseous",
+      "translation": "náuseas"
+    },
+    {
+      "word": "Cheer (sustantivo)",
+      "translation": "grito (de aliento)"
+    },
+    {
+      "word": "No longer",
+      "translation": "ya no"
+    },
+    {
+      "word": "Heel",
+      "translation": "talón"
+    },
+    {
+      "word": "Tiptoes",
+      "translation": "puntitas"
+    },
+    {
+      "word": "Concern",
+      "translation": "preocupar"
+    },
+    {
+      "word": "Unfolding events",
+      "translation": "eventos concurrentes"
+    },
+    {
+      "word": "Fall off",
+      "translation": "caerse"
+    },
+    {
+      "word": "You're malfunctioning",
+      "translation": "estás descompuesto"
+    },
+    {
+      "word": "Malfunction",
+      "translation": "descompostura"
+    },
+    {
+      "word": "Spice up",
+      "translation": "dar más emoción"
+    },
+    {
+      "word": "Slam",
+      "translation": "cerrar (con fuerza)"
+    },
+    {
+      "word": "Fated",
+      "translation": "destinado, predestinado"
+    },
+    {
+      "word": "Disrepair",
+      "translation": "deterioro"
+    },
+    {
+      "word": "Split",
+      "translation": "posición de estiramiento, split"
+    },
+    {
+      "word": "Good-looking",
+      "translation": "guapo(a), atractivo(a)"
+    },
+    {
+      "word": "Nice-looking",
+      "translation": "agradable, guapetón"
+    },
+    {
+      "word": "Pot",
+      "translation": "porción, paquete"
+    },
+    {
+      "word": "Nude blob",
+      "translation": "bultito pelón"
+    },
+    {
+      "word": "Upper thigh",
+      "translation": "muslo superior"
+    },
+    {
+      "word": "Mushy",
+      "translation": "sentimental"
+    },
+    {
+      "word": "Twain",
+      "translation": "dos"
+    },
+    {
+      "word": "Humanness",
+      "translation": "humanidad"
+    },
+    {
+      "word": "Dollness",
+      "translation": "muñequidad"
+    },
+    {
+      "word": "Intertwined",
+      "translation": "entrelazados"
+    },
+    {
+      "word": "Bummed",
+      "translation": "desanimado(a)"
+    },
+    {
+      "word": "Bummer",
+      "translation": "fastidio, aguafiestas"
+    },
+    {
+      "word": "A figure of speech",
+      "translation": "un decir"
+    },
+    {
+      "word": "Tandem bike",
+      "translation": "bicicleta para dos"
+    },
+    {
+      "word": "Don (verbo)",
+      "translation": "ponerse (una prenda)"
+    },
+    {
+      "word": "Overthink",
+      "translation": "pensar en exceso"
+    },
+    {
+      "word": "Set up",
+      "translation": "prepararse"
+    },
+    {
+      "word": "Such a",
+      "translation": "tan"
+    },
+    {
+      "word": "Crooked",
+      "translation": "no recto"
+    },
+    {
+      "word": "Uncool",
+      "translation": "no cool"
+    },
+    {
+      "word": "Slow down",
+      "translation": "estorbar, retrasar"
+    },
+    {
+      "word": "Set off",
+      "translation": "partir (un viaje)"
+    },
+    {
+      "word": "Ogled",
+      "translation": "inapropiado, incómodo, sexualizado (alusivo a una mirada)"
+    },
+    {
+      "word": "Undertone",
+      "translation": "matiz, trasfondo"
+    },
+    {
+      "word": "Shake (sustantivo)",
+      "translation": "batido"
+    },
+    {
+      "word": "Quips",
+      "translation": "comentarios (ingeniosos)"
+    },
+    {
+      "word": "Entendre",
+      "translation": "interpretación"
+    },
+    {
+      "word": "Elbow pads",
+      "translation": "coderas"
+    },
+    {
+      "word": "Fringe",
+      "translation": "flecos"
+    },
+    {
+      "word": "Man up",
+      "translation": "hacerse hombre"
+    },
+    {
+      "word": "Return of inversion",
+      "translation": "retorno de la inversión"
+    },
+    {
+      "word": "Exceed",
+      "translation": "superar, sobrepasar, exceder (expectativas)"
+    },
+    {
+      "word": "Intern",
+      "translation": "becario"
+    },
+    {
+      "word": "Get loose",
+      "translation": "salirse/soltarse (de un lugar)"
+    },
+    {
+      "word": "Sass (verbo)",
+      "translation": "responder con insolencia"
+    },
+    {
+      "word": "Land (verbo)",
+      "translation": "aterrizar"
+    },
+    {
+      "word": "Turn up",
+      "translation": "aparecer, presentarse (inesperadamente)"
+    },
+    {
+      "word": "Straighten out",
+      "translation": "resolver/aclarar una situación/problema"
+    },
+    {
+      "word": "Keep it under wraps",
+      "translation": "mantener la situación/"
+    },
+    {
+      "word": "All the way up",
+      "translation": "ir hacia arriba"
+    },
+    {
+      "word": "Crippling Shame Barbie",
+      "translation": "Barbie vergüenza abrumadora"
+    },
+    {
+      "word": "Top brass",
+      "translation": "altos mandos, jefes"
+    },
+    {
+      "word": "Sesh",
+      "translation": "sesión, reunión"
+    },
+    {
+      "word": "Sparkle",
+      "translation": "brillo"
+    },
+    {
+      "word": "Sit-down",
+      "translation": "reunión (formal)"
+    },
+    {
+      "word": "Cart",
+      "translation": "carro, carrito"
+    },
+    {
+      "word": "Roam",
+      "translation": "deambular, vagar, merodear"
+    },
+    {
+      "word": "Stress (verbo)",
+      "translation": "enfatizar"
+    },
+    {
+      "word": "Take out on",
+      "translation": "desahogar (emociones negativas), desquitarse"
+    },
+    {
+      "word": "Pop into",
+      "translation": "entrar brevemente/rápidamente"
+    },
+    {
+      "word": "Crush",
+      "translation": "aplastar, hacer pedazos"
+    },
+    {
+      "word": "Insane asylum",
+      "translation": "manicomio"
+    },
+    {
+      "word": "Bimbo",
+      "translation": "cabeza hueca"
+    },
+    {
+      "word": "Even then",
+      "translation": "aun así"
+    },
+    {
+      "word": "Wrong way around",
+      "translation": "de manera incorrecta, al revés"
+    },
+    {
+      "word": "Innate",
+      "translation": "innato"
+    },
+    {
+      "word": "Sense of worth",
+      "translation": "autoestima"
+    },
+    {
+      "word": "Show up",
+      "translation": "aparecer, presentarse"
+    },
+    {
+      "word": "Clicky pen",
+      "translation": "pluma"
+    },
+    {
+      "word": "Over there",
+      "translation": "allá, por allí"
+    },
+    {
+      "word": "I'm off early",
+      "translation": "irse del trabajo antes"
+    },
+    {
+      "word": "Soft serve",
+      "translation": "helado"
+    },
+    {
+      "word": "Nutjob",
+      "translation": "chiflado(a)"
+    },
+    {
+      "word": "Reality-challenged woman",
+      "translation": "mujer neurodivergente"
+    },
+    {
+      "word": "Mothership",
+      "translation": "nave nodriza (base general)"
+    },
+    {
+      "word": "Quality face-time",
+      "translation": "tener un tiempo de interacción (significativo/valioso)"
+    },
+    {
+      "word": "Agreeable",
+      "translation": "agradable, conforme"
+    },
+    {
+      "word": "CEO",
+      "translation": "director general"
+    },
+    {
+      "word": "CFO",
+      "translation": "director de finanzas"
+    },
+    {
+      "word": "COO",
+      "translation": "director de operaciones"
+    },
+    {
+      "word": "Resent",
+      "translation": "resentir"
+    },
+    {
+      "word": "Freaking",
+      "translation": "(se usa para intensificar la contundencia de una palabra o mensaje)"
+    },
+    {
+      "word": "Up the wazoo",
+      "translation": "cantidad significativa/abundante"
+    },
+    {
+      "word": "Jezebel",
+      "translation": "impúdica"
+    },
+    {
+      "word": "Speedy",
+      "translation": "rápido"
+    },
+    {
+      "word": "Mood board",
+      "translation": "tablero de inspiración"
+    },
+    {
+      "word": "You blow my mind",
+      "translation": "me vuelves loco"
+    },
+    {
+      "word": "Put into",
+      "translation": "poner en"
+    },
+    {
+      "word": "Cubicle",
+      "translation": "cabina, cubículo"
+    },
+    {
+      "word": "Stairwell",
+      "translation": "escalera"
+    },
+    {
+      "word": "Hang on",
+      "translation": "espera un momento"
+    },
+    {
+      "word": "Chuckleheads",
+      "translation": "tontos, idiotas (en sentido humorístico o despectivo)"
+    },
+    {
+      "word": "Come off it",
+      "translation": "venga ya, por favor (en sentido escéptico)"
+    },
+    {
+      "word": "Tween",
+      "translation": "preadolescente (en sentido coloquial)"
+    },
+    {
+      "word": "I'm wide awake",
+      "translation": "Estoy completamente despierto(a)"
+    },
+    {
+      "word": "Raffle",
+      "translation": "rifa"
+    },
+    {
+      "word": "Get into",
+      "translation": "entrar en, ponerse"
+    },
+    {
+      "word": "Superfluous",
+      "translation": "superfluo, superficial"
+    },
+    {
+      "word": "Brunette",
+      "translation": "castaña"
+    },
+    {
+      "word": "Allowance",
+      "translation": "mesada"
+    },
+    {
+      "word": "Run (en otro contexto)",
+      "translation": "dirigir, administrar"
+    },
+    {
+      "word": "Just roll with it",
+      "translation": "simplemente déjate llevar"
+    },
+    {
+      "word": "Tiny baby",
+      "translation": "chiquita"
+    },
+    {
+      "word": "Shall",
+      "translation": "(otra forma de decir \"will\" pero más"
+    },
+    {
+      "word": "Give it to me straight",
+      "translation": "dímelo sin rodeos"
+    },
+    {
+      "word": "Shelves",
+      "translation": "estantes, anaqueles"
+    },
+    {
+      "word": "Clamoring",
+      "translation": "demandar, pedir a gritos"
+    },
+    {
+      "word": "Blockbuster",
+      "translation": "éxito en taquilla"
+    },
+    {
+      "word": "Pouring in",
+      "translation": "entrando en gran cantidad"
+    },
+    {
+      "word": "Boardroom",
+      "translation": "sala de reuniones"
+    },
+    {
+      "word": "Creepy",
+      "translation": "pervertido(a)"
+    },
+    {
+      "word": "Blade faster",
+      "translation": "patinar más rápido"
+    },
+    {
+      "word": "Long-term-low-commitment-distance girlfriend",
+      "translation": "novia sin compromiso a largo plazo y a"
+    },
+    {
+      "word": "Gross",
+      "translation": "desagradable"
+    },
+    {
+      "word": "Blotto-faced day-drunk",
+      "translation": "borracho"
+    },
+    {
+      "word": "Seamless",
+      "translation": "sin costura (sin irregularidades)"
+    },
+    {
+      "word": "Garment",
+      "translation": "prenda"
+    },
+    {
+      "word": "Crumble",
+      "translation": "desmoronar, derrumbarse"
+    },
+    {
+      "word": "Buckle up",
+      "translation": "abrocharse el cinturón"
+    },
+    {
+      "word": "Technicality",
+      "translation": "tecnicismo, cuestión técnica"
+    },
+    {
+      "word": "Polls",
+      "translation": "encuestas, sondeos"
+    },
+    {
+      "word": "Bottoms",
+      "translation": "pantalón acampanado"
+    },
+    {
+      "word": "Practice suit",
+      "translation": "traje de entrenamiento"
+    },
+    {
+      "word": "Ice capades",
+      "translation": "capas de hielo"
+    },
+    {
+      "word": "Dazzling",
+      "translation": "deslumbrante"
+    },
+    {
+      "word": "Set",
+      "translation": "juego (conjunto)"
+    },
+    {
+      "word": "Messed-up",
+      "translation": "arruinado"
+    },
+    {
+      "word": "Archival",
+      "translation": "de archivo, archivísticos"
+    },
+    {
+      "word": "Leadership-oriented",
+      "translation": "orientada al liderazgo"
+    },
+    {
+      "word": "Snap out of",
+      "translation": "recobrar los sentidos, abrir los ojos"
+    },
+    {
+      "word": "Run out",
+      "translation": "ir"
+    },
+    {
+      "word": "Sweatpants",
+      "translation": "ropa holgada, pantalones de chándal"
+    },
+    {
+      "word": "Regard",
+      "translation": "considerar, tener en cuenta"
+    },
+    {
+      "word": "Unwanted",
+      "translation": "rechazado(a) (en términos sociales)"
+    },
+    {
+      "word": "Prostrate",
+      "translation": "postrado"
+    },
+    {
+      "word": "Paper",
+      "translation": "artículo, documento, papel"
+    },
+    {
+      "word": "Sideways",
+      "translation": "de lado"
+    },
+    {
+      "word": "Run (sustantivo)",
+      "translation": "carrera"
+    },
+    {
+      "word": "Whose",
+      "translation": "quién"
+    },
+    {
+      "word": "What's wrong?",
+      "translation": "¿Qué ocurre?"
+    },
+    {
+      "word": "Filmmakers",
+      "translation": "cineastas (directores, productores, guionistas)"
+    },
+    {
+      "word": "Crass",
+      "translation": "vulgar, grosero"
+    },
+    {
+      "word": "Squash",
+      "translation": "aplastar, reprimir"
+    },
+    {
+      "word": "Career woman",
+      "translation": "profesionista"
+    },
+    {
+      "word": "Sisterhood",
+      "translation": "sororidad, hermandad"
+    },
+    {
+      "word": "Stand out",
+      "translation": "sobresalir, destacar"
+    },
+    {
+      "word": "Be rude",
+      "translation": "ser grosero, ser descortés"
+    },
+    {
+      "word": "Show off",
+      "translation": "presumir"
+    },
+    {
+      "word": "Get out of line",
+      "translation": "ser impertinente"
+    },
+    {
+      "word": "Somehow",
+      "translation": "de algún modo, de alguna manera"
+    },
+    {
+      "word": "Break out of it",
+      "translation": "salirse de eso, liberarse de golpe"
+    },
+    {
+      "word": "Savior",
+      "translation": "salvador, redentor"
+    },
+    {
+      "word": "Get away",
+      "translation": "alejarse, huir, escapar"
+    },
+    {
+      "word": "Here's the deal",
+      "translation": "aquí está el trato, aquí tienes el acuerdo, esta es la cuestión"
+    },
+    {
+      "word": "Decoy",
+      "translation": "señuelo"
+    },
+    {
+      "word": "Helpless",
+      "translation": "indefenso"
+    },
+    {
+      "word": "In distress",
+      "translation": "en apuros"
+    },
+    {
+      "word": "Take back",
+      "translation": "recuperar (algo)"
+    },
+    {
+      "word": "Motoring world",
+      "translation": "automovilismo"
+    },
+    {
+      "word": "Overstated",
+      "translation": "sobre estimado"
+    },
+    {
+      "word": "Layer",
+      "translation": "capa, área"
+    },
+    {
+      "word": "Highlight (verbo)",
+      "translation": "resaltar, destacar (en diseño)"
+    },
+    {
+      "word": "Jargon",
+      "translation": "jerga"
+    },
+    {
+      "word": "Lassos",
+      "translation": "lazos"
+    },
+    {
+      "word": "Go around",
+      "translation": "dar la vuelta"
+    },
+    {
+      "word": "Giggle",
+      "translation": "risita"
+    },
+    {
+      "word": "Blend",
+      "translation": "combinación, mezcla"
+    },
+    {
+      "word": "Tramp",
+      "translation": "vagabundo(a)"
+    },
+    {
+      "word": "Prude",
+      "translation": "mojigato"
+    },
+    {
+      "word": "Treasury bonds",
+      "translation": "bonos del tesoro"
+    },
+    {
+      "word": "Harness",
+      "translation": "aprovechar (algo)"
+    },
+    {
+      "word": "Acerbic",
+      "translation": "mordaz"
+    },
+    {
+      "word": "Talk-singing",
+      "translation": "canto hablado"
+    },
+    {
+      "word": "The old standby",
+      "translation": "el viejo truco"
+    },
+    {
+      "word": "Because he knows deep down",
+      "translation": "Porque le gustas"
+    },
+    {
+      "word": "Come on in",
+      "translation": "Entra"
+    },
+    {
+      "word": "Rusty",
+      "translation": "oxidado"
+    },
+    {
+      "word": "Caving in",
+      "translation": "derrumbando, colapsando (en sentido figurado)"
+    },
+    {
+      "word": "Peak",
+      "translation": "clímax"
+    },
+    {
+      "word": "Take away",
+      "translation": "quitar"
+    },
+    {
+      "word": "Stare into",
+      "translation": "mirar fijamente"
+    },
+    {
+      "word": "Push around",
+      "translation": "amedrentar"
+    },
+    {
+      "word": "Petty",
+      "translation": "mezquino"
+    },
+    {
+      "word": "Take for granted",
+      "translation": "dar por sentado"
+    },
+    {
+      "word": "Slap fights",
+      "translation": "peleas con bofetadas/cachetadas"
+    },
+    {
+      "word": "Hornet's nest",
+      "translation": "avispero, nido de avispas"
+    },
+    {
+      "word": "Flank",
+      "translation": "flanco"
+    },
+    {
+      "word": "Manly",
+      "translation": "masculino, varonil"
+    },
+    {
+      "word": "It was hard running stuff",
+      "translation": "Fue difícil gobernar"
+    },
+    {
+      "word": "Warmth",
+      "translation": "calidez"
+    },
+    {
+      "word": "Gaze",
+      "translation": "mirada"
+    },
+    {
+      "word": "Tickle (verbo)",
+      "translation": "hacer cosquillas"
+    },
+    {
+      "word": "Company retreat",
+      "translation": "encuentro empresarial (fuera de la oficina), retiro"
+    },
+    {
+      "word": "Relieve",
+      "translation": "aliviar, relajarse"
+    },
+    {
+      "word": "Burden",
+      "translation": "carga"
+    },
+    {
+      "word": "I'm owning it",
+      "translation": "Admito que lo soy"
+    },
+    {
+      "word": "Lower circuit court judgeship",
+      "translation": "tribunal de primera instancia"
+    },
+    {
+      "word": "Robes",
+      "translation": "batas, túnicas, togas"
+    },
+    {
+      "word": "Flattering top",
+      "translation": "blusa favorecedora"
+    },
+    {
+      "word": "Bow",
+      "translation": "reverencia"
+    },
+    {
+      "word": "Self-effacing",
+      "translation": "modesto, humilde"
+    },
+    {
+      "word": "Imagining",
+      "translation": "imaginación"
+    },
+    {
+      "word": "Stand still (verbo)",
+      "translation": "permanecer inmóvil"
+    },
+    {
+      "word": "Look back",
+      "translation": "mirar hacia atrás"
+    },
+    {
+      "word": "Leap",
+      "translation": "salto (paso)"
+    },
+    {
+      "word": "Lift (sustantivo)",
+      "translation": "carrera (ir a un lado)"
+    },
+    {
+      "word": "Close enough",
+      "translation": "casi lo logras"
+    },
+    {
+      "word": "You got this!",
+      "translation": "¡Tú puedes!, ¡Tú lo lograrás!"
+    },
+    {
+      "word": "Enjoyment",
+      "translation": "goce, disfrute"
+    }
+  ]
+}

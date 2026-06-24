@@ -1,0 +1,974 @@
+{
+  "title": "Bombshell",
+  "englishAnalysis": "Presenta un inglés americano corporativo y periodístico ('newsroom'). El lenguaje es rápido, incisivo e incluye mucha jerga de los medios de comunicación, política y televisión ('anchor', 'network', 'harassment', 'NDA'). Es ideal para familiarizarse con el inglés del entorno profesional.",
+  "vocabulary": [
+    {
+      "word": "Get away with it",
+      "translation": "salirse con la suya"
+    },
+    {
+      "word": "Worthy",
+      "translation": "digno"
+    },
+    {
+      "word": "Flame out",
+      "translation": "extinguirse, desvanecerse"
+    },
+    {
+      "word": "Real-estate tycoon",
+      "translation": "magnate inmobiliario"
+    },
+    {
+      "word": "Recantation",
+      "translation": "retractación"
+    },
+    {
+      "word": "Goddamn",
+      "translation": "maldita sea"
+    },
+    {
+      "word": "Appoint",
+      "translation": "nombrar, designar"
+    },
+    {
+      "word": "Mogul",
+      "translation": "magnate"
+    },
+    {
+      "word": "Forefront",
+      "translation": "vanguardia, primera línea"
+    },
+    {
+      "word": "Town-hall",
+      "translation": "salón de actos"
+    },
+    {
+      "word": "Exploit",
+      "translation": "explotar, aprovecharse (de algo o de personas)"
+    },
+    {
+      "word": "Enact",
+      "translation": "promulgar, aprobar (un proyecto de ley)"
+    },
+    {
+      "word": "Horny",
+      "translation": "cachondo, caliente (en términos sexuales)"
+    },
+    {
+      "word": "Anchor",
+      "translation": "presentador (de noticias)"
+    },
+    {
+      "word": "Newsroom",
+      "translation": "redacción"
+    },
+    {
+      "word": "Mold",
+      "translation": "molde"
+    },
+    {
+      "word": "Viewer art",
+      "translation": "arte del espectador"
+    },
+    {
+      "word": "Scattered",
+      "translation": "disperso"
+    },
+    {
+      "word": "Back up",
+      "translation": "respaldar (a alguien o algo)"
+    },
+    {
+      "word": "Grievance",
+      "translation": "queja, reclamo"
+    },
+    {
+      "word": "Take on",
+      "translation": "enfrentarse a, desafiar"
+    },
+    {
+      "word": "Keep down",
+      "translation": "ocultar, suprimir"
+    },
+    {
+      "word": "Downside",
+      "translation": "desventaja, aspecto negativo"
+    },
+    {
+      "word": "Slob",
+      "translation": "descuidado, desaseado"
+    },
+    {
+      "word": "Disparaging comments",
+      "translation": "comentarios despectivos"
+    },
+    {
+      "word": "Contestant",
+      "translation": "concursante"
+    },
+    {
+      "word": "Call out",
+      "translation": "confrontar, denunciar"
+    },
+    {
+      "word": "Bomb (verbo)",
+      "translation": "fracasar, ser un desastre"
+    },
+    {
+      "word": "Far down",
+      "translation": "muy lejos, durante muchos años después"
+    },
+    {
+      "word": "Think it over",
+      "translation": "pensarlo bien"
+    },
+    {
+      "word": "Harsh",
+      "translation": "duro"
+    },
+    {
+      "word": "Tough",
+      "translation": "duro, difícil, complicado"
+    },
+    {
+      "word": "Fancy",
+      "translation": "elegante, lujoso"
+    },
+    {
+      "word": "Joint",
+      "translation": "conjunto, articulación"
+    },
+    {
+      "word": "Drive off",
+      "translation": "ahuyentar"
+    },
+    {
+      "word": "Throw out",
+      "translation": "tirar/echar algo (a la basura), descartar"
+    },
+    {
+      "word": "Wonder (sustantivo)",
+      "translation": "asombro"
+    },
+    {
+      "word": "Stay above it all",
+      "translation": "mantenerse al margen"
+    },
+    {
+      "word": "Dent",
+      "translation": "abolladura"
+    },
+    {
+      "word": "Put a dent in",
+      "translation": "dañar (algo intangible)"
+    },
+    {
+      "word": "Drink up",
+      "translation": "terminar de beber, beber (rápidamente)"
+    },
+    {
+      "word": "Riveting",
+      "translation": "apasionante, fascinante"
+    },
+    {
+      "word": "Compel",
+      "translation": "obligar"
+    },
+    {
+      "word": "Cluster",
+      "translation": "grupo"
+    },
+    {
+      "word": "Hooray",
+      "translation": "hurra, viva (expresión de felicidad)"
+    },
+    {
+      "word": "Praise",
+      "translation": "elogiar, alabar"
+    },
+    {
+      "word": "Tangled up",
+      "translation": "enredado"
+    },
+    {
+      "word": "Anger-menstruating",
+      "translation": "estar enojada porque estoy menstruando"
+    },
+    {
+      "word": "Run over",
+      "translation": "pasar por encima, atropellar"
+    },
+    {
+      "word": "Wax",
+      "translation": "cera"
+    },
+    {
+      "word": "Dead zone",
+      "translation": "zona muerta"
+    },
+    {
+      "word": "Unambiguously",
+      "translation": "inequívocamente"
+    },
+    {
+      "word": "Put-down (sustantivo)",
+      "translation": "desprecio, desaire"
+    },
+    {
+      "word": "Arbitration",
+      "translation": "arbitraje"
+    },
+    {
+      "word": "Let down",
+      "translation": "decepcionar"
+    },
+    {
+      "word": "Bust",
+      "translation": "reventar"
+    },
+    {
+      "word": "Creep",
+      "translation": "persona repugnante"
+    },
+    {
+      "word": "Lousy",
+      "translation": "pésimo"
+    },
+    {
+      "word": "Stick out",
+      "translation": "sobresalir"
+    },
+    {
+      "word": "Upstate",
+      "translation": "interior, region interior"
+    },
+    {
+      "word": "Stall",
+      "translation": "retrasar, impedir"
+    },
+    {
+      "word": "Come forward",
+      "translation": "salir a la luz, dar la cara, dar a conocer"
+    },
+    {
+      "word": "Gap",
+      "translation": "brecha, hueco"
+    },
+    {
+      "word": "Move up",
+      "translation": "ascender"
+    },
+    {
+      "word": "Top-of-the-line",
+      "translation": "de primera línea, de la más alta calidad"
+    },
+    {
+      "word": "Newspeople",
+      "translation": "periodistas"
+    },
+    {
+      "word": "Entertainers",
+      "translation": "artistas"
+    },
+    {
+      "word": "Balance",
+      "translation": "equilibrio"
+    },
+    {
+      "word": "Attagirl",
+      "translation": "¡Adelante!, ¡Bien hecho! (interjección informal)"
+    },
+    {
+      "word": "Stick up for",
+      "translation": "apoyar, defender"
+    },
+    {
+      "word": "Get ahead",
+      "translation": "salir adelante, tener éxito"
+    },
+    {
+      "word": "Meanness",
+      "translation": "mezquindad, maldad"
+    },
+    {
+      "word": "Jackass",
+      "translation": "burro (en sentido despectivo)"
+    },
+    {
+      "word": "Drift",
+      "translation": "divagar, desviar, derivar"
+    },
+    {
+      "word": "Hook (sustantivo)",
+      "translation": "gancho"
+    },
+    {
+      "word": "Slut-shamed",
+      "translation": "avergonzado"
+    },
+    {
+      "word": "Pulp",
+      "translation": "pulpa"
+    },
+    {
+      "word": "Mayhem",
+      "translation": "caos, desorden"
+    },
+    {
+      "word": "Wider",
+      "translation": "más amplio, más ancho"
+    },
+    {
+      "word": "Nostrils",
+      "translation": "fosas nasales"
+    },
+    {
+      "word": "Snort",
+      "translation": "resoplar"
+    },
+    {
+      "word": "Stop by later",
+      "translation": "pasar por aquí más tarde"
+    },
+    {
+      "word": "Swell (verbo)",
+      "translation": "crecer, aumentar"
+    },
+    {
+      "word": "Adjourn",
+      "translation": "aplazar, suspender"
+    },
+    {
+      "word": "Spin",
+      "translation": "giro"
+    },
+    {
+      "word": "Outrage machine",
+      "translation": "máquina de la indignación"
+    },
+    {
+      "word": "He’s way ahead of them",
+      "translation": "Está muy por delante de ellos"
+    },
+    {
+      "word": "Frighten",
+      "translation": "asustar, atemorizar"
+    },
+    {
+      "word": "Titillate",
+      "translation": "excitar, estimular"
+    },
+    {
+      "word": "Pinhead",
+      "translation": "cabeza de alfiler"
+    },
+    {
+      "word": "Though",
+      "translation": "duro"
+    },
+    {
+      "word": "Whack off",
+      "translation": "golpear (en sentido explícito)"
+    },
+    {
+      "word": "Alongside",
+      "translation": "al lado de, junto a"
+    },
+    {
+      "word": "Shaft",
+      "translation": "eje"
+    },
+    {
+      "word": "Soundly",
+      "translation": "sólidamente, profundamente"
+    },
+    {
+      "word": "Dust-up",
+      "translation": "lío, altercado"
+    },
+    {
+      "word": "Hang in",
+      "translation": "perseverar, seguir adelante"
+    },
+    {
+      "word": "Stand",
+      "translation": "soportar, tolerar"
+    },
+    {
+      "word": "Look out",
+      "translation": "estar atento, tener cuidado"
+    },
+    {
+      "word": "Bark (sustantivo)",
+      "translation": "ladrido"
+    },
+    {
+      "word": "Pussycat",
+      "translation": "minino(a)"
+    },
+    {
+      "word": "Spotlight (connotativo)",
+      "translation": "foco de atención, centro de atención"
+    },
+    {
+      "word": "Go up",
+      "translation": "aumentar, ascender (en cantidad)"
+    },
+    {
+      "word": "Drop by",
+      "translation": "pasar (hacer una visita informal)"
+    },
+    {
+      "word": "Twirl",
+      "translation": "giro, vuelta"
+    },
+    {
+      "word": "Unforgiving",
+      "translation": "implacable, despiadado"
+    },
+    {
+      "word": "Pluck out",
+      "translation": "arrancar, desplumar"
+    },
+    {
+      "word": "Way out",
+      "translation": "solución, salida"
+    },
+    {
+      "word": "Solicitous",
+      "translation": "solícito"
+    },
+    {
+      "word": "I can handle a straight-up positive",
+      "translation": "Puedo manejar una noticia totalmente positiva"
+    },
+    {
+      "word": "Let off",
+      "translation": "soltar, dejar ir"
+    },
+    {
+      "word": "Bill",
+      "translation": "factura, cuenta"
+    },
+    {
+      "word": "Want over",
+      "translation": "Querer que (inserte algo) termine"
+    },
+    {
+      "word": "Deer",
+      "translation": "ciervo"
+    },
+    {
+      "word": "Come up",
+      "translation": "subir"
+    },
+    {
+      "word": "I just saw her in with Bill",
+      "translation": "Acabo de verla con Bill"
+    },
+    {
+      "word": "Severance",
+      "translation": "despido"
+    },
+    {
+      "word": "Vent (sustantivo)",
+      "translation": "abertura"
+    },
+    {
+      "word": "Look into",
+      "translation": "investigar, examinar"
+    },
+    {
+      "word": "Pull up",
+      "translation": "mostrar, levantar, acercar, detener"
+    },
+    {
+      "word": "Host (verbo)",
+      "translation": "organizar"
+    },
+    {
+      "word": "Host (sustantivo)",
+      "translation": "anfitrión"
+    },
+    {
+      "word": "Chairman",
+      "translation": "director, president, jefe"
+    },
+    {
+      "word": "Turn down",
+      "translation": "rechazar, negarse, bajar el volumen"
+    },
+    {
+      "word": "Place (verbo)",
+      "translation": "colocar, poner, situar"
+    },
+    {
+      "word": "Slot",
+      "translation": "turno"
+    },
+    {
+      "word": "Stock chart",
+      "translation": "gráfico de acciones"
+    },
+    {
+      "word": "We’re up",
+      "translation": "Estamos teniendo éxito"
+    },
+    {
+      "word": "Quit (verbo)",
+      "translation": "dejar, renunciar, abandonar"
+    },
+    {
+      "word": "Hotline",
+      "translation": "línea directa (comunicación)"
+    },
+    {
+      "word": "Seminar",
+      "translation": "seminario"
+    },
+    {
+      "word": "Go on",
+      "translation": "continúa, prosigue, sigue adelante"
+    },
+    {
+      "word": "Speak up",
+      "translation": "expresar una opinión, hablar más alto"
+    },
+    {
+      "word": "Strip naked (verbo)",
+      "translation": "desnudar"
+    },
+    {
+      "word": "Law-firm",
+      "translation": "bufete de abogados"
+    },
+    {
+      "word": "Partnership",
+      "translation": "asociación"
+    },
+    {
+      "word": "Entry-level job",
+      "translation": "trabajo de nivel básico"
+    },
+    {
+      "word": "Dangle (verbo)",
+      "translation": "colgar, balancear, ofrecer (algo tentador)"
+    },
+    {
+      "word": "Prospect",
+      "translation": "perspectiva"
+    },
+    {
+      "word": "Walker",
+      "translation": "caminante, bastón"
+    },
+    {
+      "word": "Fate",
+      "translation": "destino, suerte"
+    },
+    {
+      "word": "Repay (verbo)",
+      "translation": "recompensar, reembolsar, devolver (dinero)"
+    },
+    {
+      "word": "Stitch",
+      "translation": "punto"
+    },
+    {
+      "word": "Deal with",
+      "translation": "lidiar con"
+    },
+    {
+      "word": "Likability",
+      "translation": "simpatibilidad, atractividad"
+    },
+    {
+      "word": "Shield from (verbo)",
+      "translation": "proteger de, defender de"
+    },
+    {
+      "word": "Salty",
+      "translation": "salado, irritado"
+    },
+    {
+      "word": "Encourage",
+      "translation": "animar, motivar, apoyar"
+    },
+    {
+      "word": "Assumption",
+      "translation": "suposición, premisa"
+    },
+    {
+      "word": "Get down on her knees",
+      "translation": "ponerse de rodillas"
+    },
+    {
+      "word": "Sweep (verbo)",
+      "translation": "barrer, arrastrar"
+    },
+    {
+      "word": "Rug",
+      "translation": "alfombra"
+    },
+    {
+      "word": "Liable",
+      "translation": "responsable"
+    },
+    {
+      "word": "Hall",
+      "translation": "salón, vestíbulo, pasillo"
+    },
+    {
+      "word": "Vindictive",
+      "translation": "vengativo"
+    },
+    {
+      "word": "Payroll",
+      "translation": "nómina, planilla"
+    },
+    {
+      "word": "Pecker",
+      "translation": "pico, pene (en sentido coloquial)"
+    },
+    {
+      "word": "Redeeming",
+      "translation": "redimible"
+    },
+    {
+      "word": "Hand (verbo)",
+      "translation": "dar, entregar"
+    },
+    {
+      "word": "Outside firm",
+      "translation": "empresa externa"
+    },
+    {
+      "word": "Cloak",
+      "translation": "capa, manto"
+    },
+    {
+      "word": "Attorney-client",
+      "translation": "abogado-cliente"
+    },
+    {
+      "word": "Tits",
+      "translation": "tetas"
+    },
+    {
+      "word": "Pull up",
+      "translation": "levantar, tirar, parar"
+    },
+    {
+      "word": "Garter belt",
+      "translation": "liguero"
+    },
+    {
+      "word": "Take out",
+      "translation": "sacar, quitar"
+    },
+    {
+      "word": "Gingerly",
+      "translation": "con cuidado, con delicadeza"
+    },
+    {
+      "word": "Blowjob",
+      "translation": "mamada"
+    },
+    {
+      "word": "The decider",
+      "translation": "El que decida"
+    },
+    {
+      "word": "Gracious",
+      "translation": "amable, cortés"
+    },
+    {
+      "word": "Defy",
+      "translation": "desafiar, oponerse"
+    },
+    {
+      "word": "Get off on",
+      "translation": "disrutar de, excitarse con"
+    },
+    {
+      "word": "Keep his clothes on",
+      "translation": "dejar su ropa puesta"
+    },
+    {
+      "word": "Speak out",
+      "translation": "pronunciar, expresar"
+    },
+    {
+      "word": "Soapy",
+      "translation": "jabonoso, espumajoso"
+    },
+    {
+      "word": "Fill in",
+      "translation": "rellenar, completar (algo)"
+    },
+    {
+      "word": "Smiley",
+      "translation": "cara sonriente"
+    },
+    {
+      "word": "Play off",
+      "translation": "manipular"
+    },
+    {
+      "word": "Against each other",
+      "translation": "entre sí, uno contra el otro"
+    },
+    {
+      "word": "Bring up",
+      "translation": "criar, educar"
+    },
+    {
+      "word": "Roughly",
+      "translation": "aproximadamente, más o menos"
+    },
+    {
+      "word": "Jump off",
+      "translation": "saltar de, descolgarse de"
+    },
+    {
+      "word": "Cliff",
+      "translation": "acantilado, precipicio"
+    },
+    {
+      "word": "Obnoxious",
+      "translation": "molesto, irritante"
+    },
+    {
+      "word": "Leg cam",
+      "translation": "cámara en la pierna"
+    },
+    {
+      "word": "We never fitted her for pants!",
+      "translation": "¡Nunca le pusimos pantalones!"
+    },
+    {
+      "word": "Get their faces done",
+      "translation": "hacerse cirugías estéticas faciales"
+    },
+    {
+      "word": "Back out",
+      "translation": "retirarse, desentenderse"
+    },
+    {
+      "word": "Rub off",
+      "translation": "frotar"
+    },
+    {
+      "word": "Chin",
+      "translation": "barbilla"
+    },
+    {
+      "word": "Confide (verbo)",
+      "translation": "confiar"
+    },
+    {
+      "word": "Blow up",
+      "translation": "explotar, estallar, hacerse viral"
+    },
+    {
+      "word": "Issue (verbo)",
+      "translation": "emitir, publicar"
+    },
+    {
+      "word": "Allegations",
+      "translation": "acusaciones"
+    },
+    {
+      "word": "Grid",
+      "translation": "red, cuadrícula"
+    },
+    {
+      "word": "Babe",
+      "translation": "nena"
+    },
+    {
+      "word": "Geezer",
+      "translation": "anciano, viejo (en sentido despectivo)"
+    },
+    {
+      "word": "Firsthand",
+      "translation": "de primera mano"
+    },
+    {
+      "word": "Rot (verbo)",
+      "translation": "pudrirse"
+    },
+    {
+      "word": "Drop",
+      "translation": "soltar, dejar caer, caer"
+    },
+    {
+      "word": "Snowflake",
+      "translation": "copo de nieve"
+    },
+    {
+      "word": "Out loud",
+      "translation": "en voz alta"
+    },
+    {
+      "word": "Give in",
+      "translation": "ceder"
+    },
+    {
+      "word": "Unbuckle",
+      "translation": "desabrocharse"
+    },
+    {
+      "word": "Filthy",
+      "translation": "sucio, inmundo"
+    },
+    {
+      "word": "Career-strategy sessions",
+      "translation": "sesiones de estrategia profesional"
+    },
+    {
+      "word": "Deflect",
+      "translation": "desviar"
+    },
+    {
+      "word": "Dream on",
+      "translation": "siga soñando"
+    },
+    {
+      "word": "Grab",
+      "translation": "agarrar, coger, tomar (algo)"
+    },
+    {
+      "word": "Push away",
+      "translation": "empujar, alejar"
+    },
+    {
+      "word": "Bombshell",
+      "translation": "bomba (noticia inesperada), noticia bomba"
+    },
+    {
+      "word": "Dagger",
+      "translation": "daga, puñal"
+    },
+    {
+      "word": "Comb (verbo)",
+      "translation": "peinar, rastrillar"
+    },
+    {
+      "word": "Foxhole",
+      "translation": "trinchera, escondite"
+    },
+    {
+      "word": "Hold tight",
+      "translation": "mantenerse firme, agarrar con fuerza"
+    },
+    {
+      "word": "Endgame",
+      "translation": "final, juego final"
+    },
+    {
+      "word": "Get it on",
+      "translation": "ponte a ello"
+    },
+    {
+      "word": "Flirty",
+      "translation": "coqueto"
+    },
+    {
+      "word": "Grizzly",
+      "translation": "oso pardo"
+    },
+    {
+      "word": "Settle",
+      "translation": "acomodarse, resolver, establecerse"
+    },
+    {
+      "word": "Appealing",
+      "translation": "atractivo, agradable, tentador"
+    },
+    {
+      "word": "Chubble-wubbles",
+      "translation": "rollitos de grasa"
+    },
+    {
+      "word": "Tape (verbo)",
+      "translation": "grabar, encintar"
+    },
+    {
+      "word": "Sourced",
+      "translation": "verificado"
+    },
+    {
+      "word": "Scoop",
+      "translation": "exclusiva, noticia de última hora"
+    },
+    {
+      "word": "A blockbuster shakeup",
+      "translation": "una reorganización importante"
+    },
+    {
+      "word": "Grace (sustantivo común)",
+      "translation": "gracia"
+    },
+    {
+      "word": "Top boss",
+      "translation": "director general"
+    },
+    {
+      "word": "I've been shut out",
+      "translation": "me han excluido"
+    },
+    {
+      "word": "Circle (verbo)",
+      "translation": "rodear"
+    },
+    {
+      "word": "Construe (verbo)",
+      "translation": "interpretar"
+    },
+    {
+      "word": "Drive up here",
+      "translation": "conducir hasta aquí"
+    },
+    {
+      "word": "Non-compete",
+      "translation": "no competencia"
+    },
+    {
+      "word": "Handgun",
+      "translation": "pistola"
+    },
+    {
+      "word": "Aright",
+      "translation": "en orden"
+    },
+    {
+      "word": "Downstairs",
+      "translation": "planta baja"
+    },
+    {
+      "word": "I’m after (inserte sustantivo)",
+      "translation": "estoy buscando"
+    },
+    {
+      "word": "Left out",
+      "translation": "excluido"
+    },
+    {
+      "word": "Take over",
+      "translation": "tomar el control, asumir"
+    },
+    {
+      "word": "Likable",
+      "translation": "agradable"
+    },
+    {
+      "word": "Unheard-of",
+      "translation": "inaudito"
+    },
+    {
+      "word": "Muzzle (verbo)",
+      "translation": "amordazar"
+    }
+  ]
+}
