@@ -1,0 +1,358 @@
+{
+  "title": "21 Blackjack",
+  "englishAnalysis": "Inglés universitario y matemático. Lleno de jerga de casino ('counting cards', 'chips', 'hit me') y expresiones sobre inteligencia, probabilidades y vida estudiantil americana.",
+  "vocabulary": [
+    {
+      "word": "Old-time pit bosses",
+      "translation": "antiguos jefes de mina/pozo"
+    },
+    {
+      "word": "He dealt blackjack",
+      "translation": "el repartía blackjack"
+    },
+    {
+      "word": "They frowned upon it (frase no literal)",
+      "translation": "lo desaprobaban, no lo veían con buenos ojos"
+    },
+    {
+      "word": "A gifted mind (frase no literal)",
+      "translation": "una mente superdotada, una mente dotada"
+    },
+    {
+      "word": "Folded arms",
+      "translation": "brazos cruzados"
+    },
+    {
+      "word": "Stroke (sustantivo)",
+      "translation": "golpe"
+    },
+    {
+      "word": "Premed",
+      "translation": "medicina"
+    },
+    {
+      "word": "Medical College Admission Test (MCAT)",
+      "translation": "prueba de acceso a la Facultad de Medicina"
+    },
+    {
+      "word": "Teaching assistant (TA)",
+      "translation": "ayudante de cátedra"
+    },
+    {
+      "word": "Applicantes",
+      "translation": "solicitantes, postulantes"
+    },
+    {
+      "word": "Desire doesn't figure into this much (frase no literal)",
+      "translation": "el deseo no tiene que ver"
+    },
+    {
+      "word": "You blow me out of the water and I'm a cerebral stud",
+      "translation": "tú me sacas de quicio y yo soy"
+    },
+    {
+      "word": "It's outrageous",
+      "translation": "es escandaloso, es indignante"
+    },
+    {
+      "word": "The frosting",
+      "translation": "el glaseado"
+    },
+    {
+      "word": "You're as broke-ass as I am",
+      "translation": "estás tan arruinado como yo"
+    },
+    {
+      "word": "Squeeze in",
+      "translation": "sacar, dejar"
+    },
+    {
+      "word": "Play a trick (verbo)",
+      "translation": "engañar, jugar una mala pasada"
+    },
+    {
+      "word": "Enlighten (verbo)",
+      "translation": "iluminar, ilustrar"
+    },
+    {
+      "word": "Graded papers",
+      "translation": "trabajos evaluados"
+    },
+    {
+      "word": "Rocket scientist",
+      "translation": "científico espacial"
+    },
+    {
+      "word": "Get down",
+      "translation": "bajar"
+    },
+    {
+      "word": "A major ass-kicking",
+      "translation": "una gran patada en el culo"
+    },
+    {
+      "word": "Dealer (en términos de casinos)",
+      "translation": "crupier"
+    },
+    {
+      "word": "Go over",
+      "translation": "pasarse (de una cantidad definida)"
+    },
+    {
+      "word": "Cards drawn",
+      "translation": "cartas echadas"
+    },
+    {
+      "word": "Roster",
+      "translation": "lista (de personas)"
+    },
+    {
+      "word": "Catchy",
+      "translation": "pegadizo"
+    },
+    {
+      "word": "It’s boxy",
+      "translation": "es cuadrado"
+    },
+    {
+      "word": "How much is this thing gonna run me?",
+      "translation": "¿Cuánto me va a costar esto?"
+    },
+    {
+      "word": "Knock off (en términos de precios)",
+      "translation": "rebajar, reducir"
+    },
+    {
+      "word": "Ring up",
+      "translation": "llamar"
+    },
+    {
+      "word": "A break",
+      "translation": "un descanso"
+    },
+    {
+      "word": "And to go unnoticed",
+      "translation": "y para pasar desapercibido"
+    },
+    {
+      "word": "A sucker play",
+      "translation": "una jugada tonta"
+    },
+    {
+      "word": "Spotters",
+      "translation": "observadores, vigilantes"
+    },
+    {
+      "word": "Salt shaker and pepper shaker",
+      "translation": "salero y pimentero"
+    },
+    {
+      "word": "Stumble over",
+      "translation": "tropezar"
+    },
+    {
+      "word": "Some zoned cut dot-com millionaire",
+      "translation": "algún millonario puntocom de corte zonal"
+    },
+    {
+      "word": "Throw down",
+      "translation": "soltar (algo)"
+    },
+    {
+      "word": "Cash in",
+      "translation": "cobrar (dinero en ingreso)"
+    },
+    {
+      "word": "A trial run",
+      "translation": "una prueba, un ensayo"
+    },
+    {
+      "word": "Quantitative literacy paper",
+      "translation": "informe de alfabetización cuantitativa"
+    },
+    {
+      "word": "Pull down your pants",
+      "translation": "bájate tus pantalones"
+    },
+    {
+      "word": "Shove (verbo)",
+      "translation": "meter"
+    },
+    {
+      "word": "Color up",
+      "translation": "colorear, pintar"
+    },
+    {
+      "word": "Undies",
+      "translation": "ropa interior"
+    },
+    {
+      "word": "Take (sustantivo)",
+      "translation": "toma, recaudación"
+    },
+    {
+      "word": "Came in quick off the count",
+      "translation": "entró rápido de la cuenta"
+    },
+    {
+      "word": "Slots",
+      "translation": "ranura (significado común), tragaperras (en términos de casinos)"
+    },
+    {
+      "word": "Unattended maid cart",
+      "translation": "carrito de sirvienta desatendido"
+    },
+    {
+      "word": "Peelers are stealers",
+      "translation": "los peladores son ladrones"
+    },
+    {
+      "word": "Take it up with her (frase no literal)",
+      "translation": "habla con ella"
+    },
+    {
+      "word": "You missed a hell of a dorm party on Saturday",
+      "translation": "te perdiste una gran fiesta el sábado"
+    },
+    {
+      "word": "Track down",
+      "translation": "localizar, rastrear"
+    },
+    {
+      "word": "The dealer turns over a 17",
+      "translation": "el crupier da la vuelta a un 17"
+    },
+    {
+      "word": "Shuffle tracking",
+      "translation": "seguimiento aleatorio"
+    },
+    {
+      "word": "Color out",
+      "translation": "colorear"
+    },
+    {
+      "word": "High-rolling heir",
+      "translation": "heredero de grandes fortunas"
+    },
+    {
+      "word": "Got a big roll and he's crushing your table",
+      "translation": "tiene un gran rollo y está aplastando tu"
+    },
+    {
+      "word": "Hustle (sustantivo)",
+      "translation": "ajetreo, prisa"
+    },
+    {
+      "word": "High-roller suites",
+      "translation": "suites para grandes apostadores"
+    },
+    {
+      "word": "Frat dudes",
+      "translation": "chicos de fraternidad"
+    },
+    {
+      "word": "This is a hell of a suit",
+      "translation": "este es un traje cojonudo"
+    },
+    {
+      "word": "That is some aftershave he has going on (frase no literal)",
+      "translation": "vaya loción de afeitado que"
+    },
+    {
+      "word": "Cash out",
+      "translation": "cobrar (dinero en retiro)"
+    },
+    {
+      "word": "In the sky footage of Fisher's little power play",
+      "translation": "en el cielo de la pequeña jugada de"
+    },
+    {
+      "word": "Inlay (verbo)",
+      "translation": "incrustar"
+    },
+    {
+      "word": "Double down (expresión)",
+      "translation": "dobla la apuesta"
+    },
+    {
+      "word": "I'm out 200 grand",
+      "translation": "he perdido 200 mil dólares"
+    },
+    {
+      "word": "Get on a rush",
+      "translation": "tener prisa"
+    },
+    {
+      "word": "Drive apart",
+      "translation": "separar"
+    },
+    {
+      "word": "You have been more accommodating",
+      "translation": "has sido más complaciente"
+    },
+    {
+      "word": "Put on hold",
+      "translation": "poner en espera"
+    },
+    {
+      "word": "We go way back (frase no literal)",
+      "translation": "nos conocemos desde hace mucho tiempo"
+    },
+    {
+      "word": "Giving him beat downs left and right",
+      "translation": "dándole palizas a diestra y siniestra"
+    },
+    {
+      "word": "You should get that eye looked at",
+      "translation": "deberías hacerte mirar ese ojo"
+    },
+    {
+      "word": "You just got the shit kicked out of you",
+      "translation": "te acaban de dar una paliza"
+    },
+    {
+      "word": "Blow off",
+      "translation": "cargarse (algo)"
+    },
+    {
+      "word": "I want back in",
+      "translation": "quiero volver a entrar"
+    },
+    {
+      "word": "Close in",
+      "translation": "acercarse"
+    },
+    {
+      "word": "The stakes are high (frase no literal)",
+      "translation": "hay mucho en juego"
+    },
+    {
+      "word": "Mess around",
+      "translation": "perder el tiempo, andar con tonterías"
+    },
+    {
+      "word": "Let's go make a killing (frase no literal en términos monetarios)",
+      "translation": "vamos a hacernos"
+    },
+    {
+      "word": "What the hell kind of streak are you on?",
+      "translation": "¿Qué racha llevas?"
+    },
+    {
+      "word": "You'll make a killing (frase no literal)",
+      "translation": "te harás rico"
+    },
+    {
+      "word": "I thought I had my life mapped out (frase no literal)",
+      "translation": "pensaba que tenía mi vida"
+    },
+    {
+      "word": "Internal Revenue Service (IRS)",
+      "translation": "Servicio de Impuestos Internos"
+    },
+    {
+      "word": "I got beaten down by an old-school Vegas thug",
+      "translation": "me golpeó un matón de la vieja escuela"
+    }
+  ]
+}

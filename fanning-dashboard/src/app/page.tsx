@@ -134,19 +134,19 @@ export default function Dashboard() {
         setLoading(false);
       })
       .catch(err => console.error("Error cargando manifest:", err));
-      
+
     // Recuperar el ciclo desde la URL al cargar
     if (typeof window !== 'undefined') {
-        const params = new URLSearchParams(window.location.search);
-        const y = params.get('year');
-        if (y) setSelectedYear(y);
+      const params = new URLSearchParams(window.location.search);
+      const y = params.get('year');
+      if (y) setSelectedYear(y);
     }
   }, []);
 
   useEffect(() => {
     if (manifestData) {
       const yearData = manifestData[selectedYear] || manifestData["all"];
-      
+
       let totalDialogues = 0;
       if (selectedYear === 'all') {
         totalDialogues = (manifestData.yearlyData || []).reduce((acc: number, y: any) => acc + (y.dialogues || 0), 0);
@@ -182,7 +182,7 @@ export default function Dashboard() {
       <header className="mb-6 md:mb-8 flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4 pb-4 md:pb-6">
         <div>
           <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-            Analíticas del Proyecto Fanning
+            Dashboard del Proyecto Fanning
           </h1>
           <p className="text-gray-400 mt-2 text-sm md:text-lg">Métricas de inmersión y adquisición de vocabulario</p>
         </div>
@@ -201,8 +201,8 @@ export default function Dashboard() {
           <button
             key={year}
             onClick={() => {
-                setSelectedYear(year);
-                window.history.pushState(null, '', `/?year=${year}`);
+              setSelectedYear(year);
+              window.history.pushState(null, '', `/?year=${year}`);
             }}
             className={`px-5 py-2 rounded-full font-medium transition ${selectedYear === year
               ? "bg-purple-600 text-white shadow-lg shadow-purple-900/40"
@@ -259,12 +259,12 @@ export default function Dashboard() {
               <div className="p-2 bg-cyan-500/10 text-cyan-400 rounded-lg"><Crown size={20} /></div>
             </div>
             <p className="text-3xl font-bold">
-              {stats.totalDialogues > 0 
+              {stats.totalDialogues > 0
                 ? `${(() => {
-                    let pct = ((stats.totalDialogues - stats.totalWords) / stats.totalDialogues) * 100;
-                    if (pct >= 99.445) pct = 100;
-                    return Math.max(0, pct).toFixed(2);
-                  })()}%`
+                  let pct = ((stats.totalDialogues - stats.totalWords) / stats.totalDialogues) * 100;
+                  if (pct >= 99.445) pct = 100;
+                  return Math.max(0, pct).toFixed(2);
+                })()}%`
                 : 'N/A'}
             </p>
             <p className="text-sm text-cyan-500 mt-2">Porcentaje en {selectedYear}</p>
@@ -289,7 +289,7 @@ export default function Dashboard() {
                 <Tooltip
                   contentStyle={{ backgroundColor: '#1F2937', borderColor: '#374151', borderRadius: '8px', color: '#fff' }}
                   itemStyle={{ color: '#fff' }}
-                  cursor={{fill: '#374151', opacity: 0.4}}
+                  cursor={{ fill: '#374151', opacity: 0.4 }}
                 />
                 <Bar name="Líneas de Diálogo" dataKey="dialogues" fill="url(#colorDialogues)" radius={[6, 6, 0, 0]} />
                 <Bar name="Palabras Aprendidas" dataKey="words" fill="url(#colorWords)" radius={[6, 6, 0, 0]} />
@@ -349,7 +349,7 @@ export default function Dashboard() {
             const specialSeries = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville'];
             const isSeries = specialSeries.includes(movie.title.toLowerCase());
             const href = isSeries ? `/series/${encodeURIComponent(movie.title)}` : `/peliculas/${encodeURIComponent(movie.title)}`;
-            
+
             return (
               <MovieCard
                 key={idx}

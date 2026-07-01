@@ -1,0 +1,342 @@
+{
+  "title": "Galveston",
+  "englishAnalysis": "Un inglés crudo y oscuro del sur de Estados Unidos (Texas/Louisiana). Acentos fuertes, lenguaje callejero, jerga criminal ('hitman', 'setup') y diálogos melancólicos.",
+  "vocabulary": [
+    {
+      "word": "Get hurt bad",
+      "translation": "salir malherido"
+    },
+    {
+      "word": "Care package",
+      "translation": "paquete de asistencia/cuidado"
+    },
+    {
+      "word": "Wheeze (verbo)",
+      "translation": "sibilar, resollar"
+    },
+    {
+      "word": "Gearshift cranks",
+      "translation": "manivelas de cambio de marchas"
+    },
+    {
+      "word": "Ringing (sustantivo)",
+      "translation": "sonido, timbre"
+    },
+    {
+      "word": "A whole pitcher of single malt",
+      "translation": "una jarra entera de malta"
+    },
+    {
+      "word": "I can just tag along with you a while",
+      "translation": "sólo puedo acompañarte un rato"
+    },
+    {
+      "word": "Draw my number (no literal)",
+      "translation": "sacar mi número"
+    },
+    {
+      "word": "I'm long gone",
+      "translation": "hace tiempo que me fui"
+    },
+    {
+      "word": "Cut the baby-doll shit (no literal)",
+      "translation": "deja de tonterías"
+    },
+    {
+      "word": "Sideline left, in bounds",
+      "translation": "línea lateral izquierda, dentro de los límites"
+    },
+    {
+      "word": "Dribble (en deportes)",
+      "translation": "regate"
+    },
+    {
+      "word": "Rebound",
+      "translation": "rebote"
+    },
+    {
+      "word": "What a jam!",
+      "translation": "¡Qué atasco!"
+    },
+    {
+      "word": "A reverse follow",
+      "translation": "un seguimiento inverso"
+    },
+    {
+      "word": "If it matches our weekly jackpot",
+      "translation": "si coincide con nuestro premio semanal"
+    },
+    {
+      "word": "Get off my back (frase no literal)",
+      "translation": "déjame en paz"
+    },
+    {
+      "word": "Lonesome city's got a hold on my soul",
+      "translation": "la ciudad solitaria se ha apoderado de mi alma"
+    },
+    {
+      "word": "I got no woman I can call my own",
+      "translation": "no tengo ninguna mujer que pueda llamar mía"
+    },
+    {
+      "word": "He got off lucky (frase no literal)",
+      "translation": "tuvo suerte"
+    },
+    {
+      "word": "Gonna get us off the road for a bit",
+      "translation": "vamos a salir de la carretera por un tiempo"
+    },
+    {
+      "word": "Let the dust settle",
+      "translation": "deja que el polvo se asiente"
+    },
+    {
+      "word": "You're a darling little girl",
+      "translation": "eres una niña encantadora"
+    },
+    {
+      "word": "Running playback sets in Louisiana",
+      "translation": "correr apuestas de reproducción en Louisiana"
+    },
+    {
+      "word": "Hot one over here (no literal)",
+      "translation": "hace calor por aquí"
+    },
+    {
+      "word": "That's a bust",
+      "translation": "eso es un fracaso"
+    },
+    {
+      "word": "Offshore rig",
+      "translation": "plataforma petrolífera en alta mar"
+    },
+    {
+      "word": "Kind of come and go as I please",
+      "translation": "voy y vengo a mi antojo"
+    },
+    {
+      "word": "Place is a drug jug",
+      "translation": "el lugar es un garrafón de droga"
+    },
+    {
+      "word": "A sampler pharmacy on the premises",
+      "translation": "una farmacia de muestras en el local"
+    },
+    {
+      "word": "Biphetamine",
+      "translation": "bifetamina"
+    },
+    {
+      "word": "My maid, she fronted me Polaroids of the layout",
+      "translation": "mi criada, me adelantó Polaroids de"
+    },
+    {
+      "word": "It might be low-bailing it, even",
+      "translation": "podría ser incluso bajo fianza"
+    },
+    {
+      "word": "Front a van",
+      "translation": "conducir una furgoneta"
+    },
+    {
+      "word": "We're just down for some sun and waves",
+      "translation": "nos apetece un poco de sol y olas"
+    },
+    {
+      "word": "Bottle cap",
+      "translation": "tapa de botella"
+    },
+    {
+      "word": "Biopsy",
+      "translation": "biopsia"
+    },
+    {
+      "word": "You sawbone quack motherfucker",
+      "translation": "hijo de puta charlatán"
+    },
+    {
+      "word": "Good dive",
+      "translation": "buena inmersión"
+    },
+    {
+      "word": "The stopwatches down in the timekeeper's tent",
+      "translation": "los cronómetros en la carpa del"
+    },
+    {
+      "word": "I was on a welding job out on a rig",
+      "translation": "yo estaba en un trabajo de soldadura en una"
+    },
+    {
+      "word": "Stick around",
+      "translation": "quedarse"
+    },
+    {
+      "word": "We were just scarfing crabmeat",
+      "translation": "estábamos comiendo carne de cangrejo"
+    },
+    {
+      "word": "Without being shit-faced",
+      "translation": "sin estar hecho una mierda"
+    },
+    {
+      "word": "Hostess (en restaurantes)",
+      "translation": "camarera"
+    },
+    {
+      "word": "I get a tip-out",
+      "translation": "me dan una propina"
+    },
+    {
+      "word": "She's been putting that little baby off on Dee and Nonie",
+      "translation": "ha estado poniendo a ese"
+    },
+    {
+      "word": "I'd have had you tossed out of here",
+      "translation": "te habría echado de aquí"
+    },
+    {
+      "word": "Some hitchhiking tramp",
+      "translation": "algún vagabundo autoestopista"
+    },
+    {
+      "word": "You dug it out the trash",
+      "translation": "lo sacaste de la basura"
+    },
+    {
+      "word": "Screw over",
+      "translation": "joderse"
+    },
+    {
+      "word": "Cops come down on me hard",
+      "translation": "los polis se me echan encima"
+    },
+    {
+      "word": "I'll lay it all out for you (frase no literal)",
+      "translation": "te lo explicaré todo"
+    },
+    {
+      "word": "Bid (verbo)",
+      "translation": "ofertar, pujar"
+    },
+    {
+      "word": "Got nowhere to run",
+      "translation": "no tengo a dónde huir"
+    },
+    {
+      "word": "Gearshift",
+      "translation": "cambio de marchas"
+    },
+    {
+      "word": "On the next block up",
+      "translation": "en la siguiente cuadra"
+    },
+    {
+      "word": "Whore (verbo)",
+      "translation": "prostituirse"
+    },
+    {
+      "word": "Square (verbo)",
+      "translation": "cuadrar, ajustar cuentas"
+    },
+    {
+      "word": "You carpetbagging polack motherfucker!",
+      "translation": "¡Maldito polaco hijo de puta!"
+    },
+    {
+      "word": "Assurances",
+      "translation": "garantías, seguridades"
+    },
+    {
+      "word": "Reckon (verbo)",
+      "translation": "considerar, creer"
+    },
+    {
+      "word": "This buys me out (no literal)",
+      "translation": "esto me convence"
+    },
+    {
+      "word": "Roam (verbo)",
+      "translation": "vagar, recorrer"
+    },
+    {
+      "word": "We were digging and sifting",
+      "translation": "estábamos cavando y tamizando"
+    },
+    {
+      "word": "Cartridges",
+      "translation": "cartuchos"
+    },
+    {
+      "word": "Lined the gutters",
+      "translation": "forró los canalones"
+    },
+    {
+      "word": "No-good worthless",
+      "translation": "sin valor"
+    },
+    {
+      "word": "My hair's up",
+      "translation": "tengo el pelo recogido"
+    },
+    {
+      "word": "He came to me scared shitless",
+      "translation": "vino a verme cagado de miedo"
+    },
+    {
+      "word": "That whore of yours put up a hell of a fight (no literal)",
+      "translation": "esa puta tuya ha dado mucha"
+    },
+    {
+      "word": "Aspergillosis",
+      "translation": "aspergilosis"
+    },
+    {
+      "word": "Outside counsel",
+      "translation": "abogado externo"
+    },
+    {
+      "word": "Felonies",
+      "translation": "delitos graves"
+    },
+    {
+      "word": "Assault",
+      "translation": "asalto, agresión"
+    },
+    {
+      "word": "Serve time (no literal en términos legales)",
+      "translation": "cumplir condena"
+    },
+    {
+      "word": "Cross-examine (verbo)",
+      "translation": "repreguntar, interrogar, contrainterrogar"
+    },
+    {
+      "word": "Wind rushing (acotación)",
+      "translation": "viento que sopla"
+    },
+    {
+      "word": "This is taking up around a half of the Gulf of Mexico",
+      "translation": "esto está ocupando alrededor"
+    },
+    {
+      "word": "Storm surges 13 to 18 feet",
+      "translation": "marejadas ciclónicas de 4 a 6 metros"
+    },
+    {
+      "word": "Get banged up",
+      "translation": "recibir un golpe"
+    },
+    {
+      "word": "There was a warrant out on me",
+      "translation": "había una orden de arresto en mi contra"
+    },
+    {
+      "word": "Stop putting me off (expresión no literal)",
+      "translation": "deja de darme largas"
+    },
+    {
+      "word": "The water is spraying up off the seawall",
+      "translation": "el agua salpica desde el malecón"
+    }
+  ]
+}
