@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info, Edit2 } from 'lucide-react';
 import { tmdbOverrides } from '@/lib/tmdb';
@@ -25,12 +25,13 @@ export default function PeliculaPage() {
   const [isFlipped, setIsFlipped] = useState(false);
   const [studyMode, setStudyMode] = useState<'carousel' | 'practice'>('carousel');
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
+  const [selectedEpisode, setSelectedEpisode] = useState<string>('All');
 
   useEffect(() => {
     const fetchAllData = async () => {
       try {
         // 1. Fetch manifest.json
-        const manifestRes = await fetch('/data/manifest.json');
+        const manifestRes = await fetch(`/data/manifest.json?t=${new Date().getTime()}`);
         const manifestJson = await manifestRes.json();
         
         const allMovies = manifestJson["all"].movieList;
@@ -197,6 +198,15 @@ export default function PeliculaPage() {
       if (comprehensionPct >= 99.445) comprehensionPct = 100;
   }
 
+  const currentVocabulary = useMemo(() => {
+    if (!extraData || !extraData.vocabulary) return [];
+    if (selectedEpisode === 'All' || !extraData.episodes) {
+      return extraData.vocabulary;
+    }
+    const ep = extraData.episodes.find((e: any) => e.name === selectedEpisode);
+    return ep ? ep.vocabulary : extraData.vocabulary;
+  }, [extraData, selectedEpisode]);
+
   return (
     <div className="min-h-screen bg-gray-950 text-white relative overflow-x-hidden font-sans pb-20">
       
@@ -361,33 +371,50 @@ export default function PeliculaPage() {
             {/* Sidebar Column: Vocabulario */}
             <div className="lg:col-span-1">
                 <section className="bg-white/5 border border-white/10 rounded-3xl backdrop-blur-xl h-full max-h-[800px] flex flex-col overflow-hidden">
-                    <div className="p-6 border-b border-white/10 bg-white/5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-                        <div>
-                            <h2 className="text-xl font-bold flex items-center gap-2">
-                                <BookOpen className="text-emerald-400" /> Vocabulario Extraído
-                            </h2>
-                            <p className="text-sm text-gray-400 mt-2">Palabras y expresiones de la película</p>
+                    <div className="p-6 border-b border-white/10 bg-white/5 flex flex-col gap-4">
+                        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                            <div>
+                                <h2 className="text-xl font-bold flex items-center gap-2">
+                                    <BookOpen className="text-emerald-400" /> Vocabulario Extraído
+                                </h2>
+                                <p className="text-sm text-gray-400 mt-2">Palabras y expresiones de la obra</p>
+                            </div>
+                            {currentVocabulary.length > 0 && (
+                                <button 
+                                    onClick={() => {
+                                        setFlashcards(currentVocabulary);
+                                        setCurrentCardIndex(0);
+                                        setIsFlipped(false);
+                                        setShowFlashcards(true);
+                                    }}
+                                    className="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 px-4 rounded-xl transition flex items-center gap-2 justify-center shadow-lg shadow-emerald-900/50"
+                                >
+                                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 002-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
+                                    Estudiar
+                                </button>
+                            )}
                         </div>
-                        {extraData && extraData.vocabulary && extraData.vocabulary.length > 0 && (
-                            <button 
-                                onClick={() => {
-                                    setFlashcards(extraData.vocabulary);
-                                    setCurrentCardIndex(0);
-                                    setIsFlipped(false);
-                                    setShowFlashcards(true);
-                                }}
-                                className="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 px-4 rounded-xl transition flex items-center gap-2 justify-center shadow-lg shadow-emerald-900/50"
-                            >
-                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 002-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
-                                Estudiar
-                            </button>
+                        {extraData && extraData.episodes && extraData.episodes.length > 0 && (
+                            <div className="mt-2 bg-black/40 p-3 rounded-lg border border-white/5">
+                                <label className="text-gray-300 text-sm font-semibold mb-2 block">Seleccionar Episodio:</label>
+                                <select 
+                                    value={selectedEpisode} 
+                                    onChange={(e) => setSelectedEpisode(e.target.value)}
+                                    className="bg-gray-900 text-white px-3 py-2 rounded border border-gray-700 focus:outline-none focus:border-purple-500 w-full text-sm"
+                                >
+                                    <option value="All">Toda la Serie ({extraData.vocabulary?.length || 0})</option>
+                                    {extraData.episodes.map((ep: any, idx: number) => (
+                                        <option key={idx} value={ep.name}>{ep.name} ({ep.vocabulary.length})</option>
+                                    ))}
+                                </select>
+                            </div>
                         )}
                     </div>
                     
                     <div className="p-6 overflow-y-auto flex-1 custom-scrollbar">
-                        {extraData && extraData.vocabulary ? (
+                        {currentVocabulary.length > 0 ? (
                             <div className="space-y-4">
-                                {extraData.vocabulary.map((v: any, i: number) => (
+                                {currentVocabulary.map((v: any, i: number) => (
                                     <div key={i} className="group p-3 rounded-xl hover:bg-white/10 transition-colors border border-transparent hover:border-white/10">
                                         <p className="text-white font-medium text-base mb-1">{v.word}</p>
                                         <p className="text-gray-400 text-sm italic">{v.translation}</p>

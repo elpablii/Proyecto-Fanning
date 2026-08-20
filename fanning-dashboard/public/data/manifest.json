@@ -1,6 +1,6 @@
 {
   "all": {
-    "totalWords": 32809,
+    "totalWords": 32792,
     "uniqueMovies": 175,
     "topWord": {
       "word": "Rely (verb)",
@@ -65,12 +65,12 @@
         "count": 4733,
         "episodes": [
           {
-            "name": "The Big Bang Theory",
-            "count": 4499
-          },
-          {
             "name": "The Big Bang Theory (S02EP14-18) (lista defintiva)",
             "count": 234
+          },
+          {
+            "name": "The Big Bang Theory",
+            "count": 4499
           }
         ],
         "dialogues": 29596
@@ -237,17 +237,6 @@
         "dialogues": 1587
       },
       {
-        "title": "The Girl From Plainville",
-        "count": 266,
-        "episodes": [
-          {
-            "name": "The Girl From Plainville",
-            "count": 266
-          }
-        ],
-        "dialogues": 5218
-      },
-      {
         "title": "El Escuadrón Suicida",
         "count": 265,
         "episodes": [
@@ -293,6 +282,44 @@
           }
         ],
         "dialogues": 4154
+      },
+      {
+        "title": "The Girl From Plainville",
+        "count": 249,
+        "episodes": [
+          {
+            "name": "The Girl From Plainville (Episode 1)",
+            "count": 30
+          },
+          {
+            "name": "The Girl From Plainville (Episode 2)",
+            "count": 30
+          },
+          {
+            "name": "The Girl From Plainville (Episode 3)",
+            "count": 36
+          },
+          {
+            "name": "The Girl From Plainville (Episode 4)",
+            "count": 35
+          },
+          {
+            "name": "The Girl From Plainville (Episode 5)",
+            "count": 25
+          },
+          {
+            "name": "The Girl From Plainville (Episode 6)",
+            "count": 24
+          },
+          {
+            "name": "The Girl From Plainville (Episode 7)",
+            "count": 35
+          },
+          {
+            "name": "The Girl From Plainville (Episode 8)",
+            "count": 34
+          }
+        ]
       },
       {
         "title": "Rango",
@@ -2983,12 +3010,12 @@
         "count": 1709,
         "episodes": [
           {
-            "name": "The Big Bang Theory",
-            "count": 1475
-          },
-          {
             "name": "The Big Bang Theory (S02EP14-18) (lista defintiva)",
             "count": 234
+          },
+          {
+            "name": "The Big Bang Theory",
+            "count": 1475
           }
         ],
         "dialogues": 29596
@@ -3726,7 +3753,7 @@
     ]
   },
   "2026": {
-    "totalWords": 11748,
+    "totalWords": 11731,
     "uniqueMovies": 61,
     "topWord": {
       "word": "Landlord",
@@ -3842,17 +3869,6 @@
         "dialogues": 8438
       },
       {
-        "title": "The Girl From Plainville",
-        "count": 266,
-        "episodes": [
-          {
-            "name": "The Girl From Plainville",
-            "count": 266
-          }
-        ],
-        "dialogues": 5218
-      },
-      {
         "title": "The Perfect Couple",
         "count": 256,
         "episodes": [
@@ -3862,6 +3878,44 @@
           }
         ],
         "dialogues": 4154
+      },
+      {
+        "title": "The Girl From Plainville",
+        "count": 249,
+        "episodes": [
+          {
+            "name": "The Girl From Plainville (Episode 1)",
+            "count": 30
+          },
+          {
+            "name": "The Girl From Plainville (Episode 2)",
+            "count": 30
+          },
+          {
+            "name": "The Girl From Plainville (Episode 3)",
+            "count": 36
+          },
+          {
+            "name": "The Girl From Plainville (Episode 4)",
+            "count": 35
+          },
+          {
+            "name": "The Girl From Plainville (Episode 5)",
+            "count": 25
+          },
+          {
+            "name": "The Girl From Plainville (Episode 6)",
+            "count": 24
+          },
+          {
+            "name": "The Girl From Plainville (Episode 7)",
+            "count": 35
+          },
+          {
+            "name": "The Girl From Plainville (Episode 8)",
+            "count": 34
+          }
+        ]
       },
       {
         "title": "A Rainy Day in New York",
@@ -4602,7 +4656,7 @@
     },
     {
       "year": "2026",
-      "words": 11748,
+      "words": 11731,
       "dialogues": 160657
     },
     {

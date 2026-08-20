@@ -144,7 +144,7 @@ export default function Dashboard() {
   });
 
   useEffect(() => {
-    fetch('/data/manifest.json')
+    fetch(`/data/manifest.json?t=${new Date().getTime()}`)
       .then(res => res.json())
       .then(json => {
         setManifestData(json);

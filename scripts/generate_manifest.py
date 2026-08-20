@@ -12,6 +12,7 @@ def clean_movie_title(raw_title):
     title = re.sub(r'\(lista.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(S\d+EP.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Season.*?\)', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'\(Episodes?.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'parte \d', '', title, flags=re.IGNORECASE)
     if re.match(r'^Cars I$', title.strip(), re.IGNORECASE): title = "Cars"
     if re.match(r'^Cars II$', title.strip(), re.IGNORECASE): title = "Cars 2"
@@ -91,7 +92,14 @@ def process_stats(items):
     movie_list = []
     for title, data in movies_map.items():
         episodes = []
-        for name, count in sorted(data["episodes"].items(), key=lambda x: x[1], reverse=True):
+        
+        def get_ep_num(name):
+            m = re.search(r'(?:EP|Episode)\s*#?(\d+)', name, re.IGNORECASE)
+            return int(m.group(1)) if m else 9999
+
+        sorted_episodes = sorted(data["episodes"].items(), key=lambda x: get_ep_num(x[0]))
+        
+        for name, count in sorted_episodes:
             ep_dict = {"name": name, "count": count}
             ep_d_key = f"{title}__{name}"
             if ep_d_key in old_movie_dialogues:
