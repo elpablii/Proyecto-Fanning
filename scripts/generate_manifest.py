@@ -22,7 +22,8 @@ for fpath in glob.glob(os.path.join(data_dir, '*', '*.json')):
     with open(fpath, 'r', encoding='utf-8') as f:
         try:
             items = json.load(f)
-            all_items.extend(items)
+            if isinstance(items, list):
+                all_items.extend(items)
         except Exception as e:
             print(f"Error loading {fpath}: {e}")
 
@@ -32,6 +33,7 @@ manifest = {
     "2024": {},
     "2025": {},
     "2026": {},
+    "2027": {},
     "yearlyData": []
 }
 
@@ -50,7 +52,7 @@ if os.path.exists(out_file):
 
 old_yearly = {yd['year']: yd.get('dialogues', 0) for yd in old_m.get('yearlyData', [])}
 
-for y in ["2023", "2024", "2025", "2026"]:
+for y in ["2023", "2024", "2025", "2026", "2027"]:
     if y in year_counts:
         yearly_data.append({
             "year": y, 
@@ -61,7 +63,7 @@ manifest["yearlyData"] = yearly_data
 
 old_movie_dialogues = {}
 for y_key in old_m:
-    if y_key in ["all", "2023", "2024", "2025", "2026"] and isinstance(old_m[y_key], dict):
+    if y_key in ["all", "2023", "2024", "2025", "2026", "2027"] and isinstance(old_m[y_key], dict):
         for movie in old_m[y_key].get("movieList", []):
             if movie.get("dialogues"):
                 old_movie_dialogues[movie["title"]] = movie["dialogues"]
@@ -130,7 +132,7 @@ def process_stats(items):
     }
 
 manifest["all"] = process_stats(all_items)
-for year in ["2023", "2024", "2025", "2026"]:
+for year in ["2023", "2024", "2025", "2026", "2027"]:
     year_items = [i for i in all_items if str(i.get('year_processed', '')) == year]
     manifest[year] = process_stats(year_items)
 

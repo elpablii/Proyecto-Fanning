@@ -1,0 +1,810 @@
+{
+  "title": "Family Switch",
+  "englishAnalysis": "Una comedia familiar llena de humor situacional y un inglés muy cotidiano y coloquial. Es ideal para aprender jerga moderna, modismos familiares y expresiones adolescentes, ya que los personajes se ven forzados a usar vocabulario de diferentes generaciones.",
+  "vocabulary": [
+    {
+      "word": "Straighten your cane",
+      "translation": "endereza tu bastón"
+    },
+    {
+      "word": "You better watch out",
+      "translation": "más vale que tengas cuidado"
+    },
+    {
+      "word": "You better not pout",
+      "translation": "más vale que no pongas mala cara/hagas pucheros"
+    },
+    {
+      "word": "Cane",
+      "translation": "bastón"
+    },
+    {
+      "word": "When did this family give up on Christmas?",
+      "translation": "¿Cuándo dejó esta familia de celebrar la"
+    },
+    {
+      "word": "Navidad?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Tinsel",
+      "translation": "oropel, espumillón, guirnaldas"
+    },
+    {
+      "word": "This stuff just gets everywhere",
+      "translation": "esto se mete por todas partes"
+    },
+    {
+      "word": "Once-in-a-lifetime",
+      "translation": "única en la vida"
+    },
+    {
+      "word": "It all ties together",
+      "translation": "todo encaja"
+    },
+    {
+      "word": "If it feels right and in for my heart",
+      "translation": "si me parece bien y lo siento en mi corazón"
+    },
+    {
+      "word": "Bask (verbo)",
+      "translation": "disfrutar"
+    },
+    {
+      "word": "Refract (verbo en física)",
+      "translation": "refractar"
+    },
+    {
+      "word": "Square (verbo)",
+      "translation": "cuadrar"
+    },
+    {
+      "word": "I'm envious of that card",
+      "translation": "me da envidia esa tarjeta"
+    },
+    {
+      "word": "Slack off",
+      "translation": "relajarse, holgazanear"
+    },
+    {
+      "word": "importantes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Move this along",
+      "translation": "sigue adelante con esto"
+    },
+    {
+      "word": "Clench up",
+      "translation": "apretar, tensar"
+    },
+    {
+      "word": "Moneymaker",
+      "translation": "fuente de ingresos"
+    },
+    {
+      "word": "I'd run right into hell and back",
+      "translation": "correría hasta el infierno y volvería"
+    },
+    {
+      "word": "Record scratches (acotación no literal)",
+      "translation": "ruido de disco rayado"
+    },
+    {
+      "word": "Cream (verbo no literal)",
+      "translation": "correrse"
+    },
+    {
+      "word": "Get obliterated",
+      "translation": "ser aniquilado"
+    },
+    {
+      "word": "Just call it out (no literal)",
+      "translation": "sólo dilo"
+    },
+    {
+      "word": "Cymbals",
+      "translation": "platillos"
+    },
+    {
+      "word": "You sprained you whammy wrist again",
+      "translation": "te volviste a torcer la muñeca"
+    },
+    {
+      "word": "How does it hang?",
+      "translation": "¿Cómo se cuelga?"
+    },
+    {
+      "word": "Straight up, wait up, hold up",
+      "translation": "espera, espera, espera"
+    },
+    {
+      "word": "Stump (verbo)",
+      "translation": "dejar sin palabras, desconcertar"
+    },
+    {
+      "word": "Remixed",
+      "translation": "mezclado"
+    },
+    {
+      "word": "A water moccasin (no literal)",
+      "translation": "una serpiente acuática"
+    },
+    {
+      "word": "mañana",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Thoroughbreds",
+      "translation": "pura sangre"
+    },
+    {
+      "word": "Somebody's making partner",
+      "translation": "alguien se convertirá en socio"
+    },
+    {
+      "word": "An opportunity of a lifetime",
+      "translation": "una oportunidad única en la vida"
+    },
+    {
+      "word": "This is freaking huge",
+      "translation": "esto es increíblemente grande"
+    },
+    {
+      "word": "Microdermabrasion",
+      "translation": "microdermoabrasión"
+    },
+    {
+      "word": "Give up on",
+      "translation": "renunciar a"
+    },
+    {
+      "word": "Performative liberalism",
+      "translation": "liberalism performativo"
+    },
+    {
+      "word": "extra con este bebé",
+      "translation": "No registrada"
+    },
+    {
+      "word": "What are you tripping? (pregunta no literal)",
+      "translation": "¿Qué te pasa?"
+    },
+    {
+      "word": "Hold in",
+      "translation": "aguantar"
+    },
+    {
+      "word": "You just gotta let it rip",
+      "translation": "sólo tienes que dejarlo salir"
+    },
+    {
+      "word": "Glossophobia",
+      "translation": "glosofobia"
+    },
+    {
+      "word": "A fearless performer",
+      "translation": "un intérprete intrépido"
+    },
+    {
+      "word": "It does beg the question",
+      "translation": "esto plantea la pregunta de"
+    },
+    {
+      "word": "Fond",
+      "translation": "grato, entrañable"
+    },
+    {
+      "word": "Not a care in the world",
+      "translation": "sin preocupaciones"
+    },
+    {
+      "word": "You wouldn't make it through lunch",
+      "translation": "no aguantarías hasta la hora del almuerzo"
+    },
+    {
+      "word": "docena de donas y quemarlas todas",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Suck it in",
+      "translation": "mételo hacia adentro"
+    },
+    {
+      "word": "Electricity surging (acotación)",
+      "translation": "sobretensión eléctrica"
+    },
+    {
+      "word": "Sub-branching",
+      "translation": "subramificada"
+    },
+    {
+      "word": "No kid has ever just woken up big",
+      "translation": "ningún niño se ha despertado nunca siendo grande"
+    },
+    {
+      "word": "I can kiss my partnership goodbye",
+      "translation": "puedo despedirme de mi sociedad"
+    },
+    {
+      "word": "I tore a quadi",
+      "translation": "me rompí un cuádriceps"
+    },
+    {
+      "word": "Such a big booty",
+      "translation": "un trasero tan grande"
+    },
+    {
+      "word": "Why am I so itchy?",
+      "translation": "¿Por qué me pica tanto?"
+    },
+    {
+      "word": "Bow down",
+      "translation": "inclinarse"
+    },
+    {
+      "word": "Pluck the eyebrows",
+      "translation": "depilarse las cejas"
+    },
+    {
+      "word": "I bundled up too tight",
+      "translation": "me abrigué demasiado"
+    },
+    {
+      "word": "Last minute have-to-dos",
+      "translation": "tareas pendientes de última hora"
+    },
+    {
+      "word": "And knocked over the telescope",
+      "translation": "y tiró el telescopio"
+    },
+    {
+      "word": "Up and running",
+      "translation": "en marcha, en funcionamiento"
+    },
+    {
+      "word": "Lil' player (informal)",
+      "translation": "pequeño jugador"
+    },
+    {
+      "word": "Off you go, boys",
+      "translation": "adelante muchachos"
+    },
+    {
+      "word": "duerma la siesta",
+      "translation": "No registrada"
+    },
+    {
+      "word": "And itchy",
+      "translation": "y pica"
+    },
+    {
+      "word": "I'm shrink-wrapped in fiberglass",
+      "translation": "estoy envuelta en fibra de vidrio"
+    },
+    {
+      "word": "I pounded a Gatorade",
+      "translation": "me tomé una Gatorade"
+    },
+    {
+      "word": "Bachelor",
+      "translation": "soltero"
+    },
+    {
+      "word": "poco con el alcohol",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Miss I got this (no literal)",
+      "translation": "señorita yo me encargo"
+    },
+    {
+      "word": "Slobber (verbo)",
+      "translation": "babear"
+    },
+    {
+      "word": "Run the gauntlet (verbo no literal)",
+      "translation": "pasar por un calvario"
+    },
+    {
+      "word": "I froze my ass off though",
+      "translation": "aunque me congelé mi trasero"
+    },
+    {
+      "word": "Racy music",
+      "translation": "música atrevida/picante/provocativa"
+    },
+    {
+      "word": "I can take over (aparte de tomar el control)",
+      "translation": "puedo encargarme yo"
+    },
+    {
+      "word": "Our all-around superstar",
+      "translation": "nuestra superestrella todoterreno"
+    },
+    {
+      "word": "directamente aquí?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Steeple",
+      "translation": "campanario"
+    },
+    {
+      "word": "Pull the car around",
+      "translation": "da la vuelta con el auto"
+    },
+    {
+      "word": "We blend form and function",
+      "translation": "combinamos forma y funcionalidad"
+    },
+    {
+      "word": "The south buttress as a tiered garden",
+      "translation": "el contrafuerte sur como jardín en terrazas"
+    },
+    {
+      "word": "Break room",
+      "translation": "sala de descanso"
+    },
+    {
+      "word": "My future just blew up right in front of me",
+      "translation": "mi futuro acaba de desmoronarse ante"
+    },
+    {
+      "word": "mis ojos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "My partnership",
+      "translation": "mi sociedad"
+    },
+    {
+      "word": "Stand on the side, run around",
+      "translation": "párate a un lado, corre alrededor"
+    },
+    {
+      "word": "brusco",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Keep it together",
+      "translation": "mantén la calma"
+    },
+    {
+      "word": "Accolades",
+      "translation": "elogios, galardones"
+    },
+    {
+      "word": "Horn blowing (acotación)",
+      "translation": "tocando la bocina"
+    },
+    {
+      "word": "I love this backwards cap vibe (no literal)",
+      "translation": "me encanta este estilo de gorra al revés"
+    },
+    {
+      "word": "You are freakishly good",
+      "translation": "eres increíblemente buena"
+    },
+    {
+      "word": "You can screengrab an image",
+      "translation": "puedes hacer una captura de pantalla de una imagen"
+    },
+    {
+      "word": "Don't snap back. Yeah, we don't snap",
+      "translation": "no respondas mal. Sí, nosotros no respondemos"
+    },
+    {
+      "word": "mal",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Thoughtful (adjetivo)",
+      "translation": "reflexivo"
+    },
+    {
+      "word": "Get it to CC!",
+      "translation": "¡Dásela a CC!"
+    },
+    {
+      "word": "Sound warping",
+      "translation": "distorsión del sonido"
+    },
+    {
+      "word": "Sweeping music",
+      "translation": "música arrebatadora"
+    },
+    {
+      "word": "Switchblade la hacen pedazos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "We would be remiss",
+      "translation": "sería una negligencia por nuestra parte"
+    },
+    {
+      "word": "He's down to 22",
+      "translation": "ha bajado a 22"
+    },
+    {
+      "word": "Suck a duck (no literal y despectivo)",
+      "translation": "que te den por culo"
+    },
+    {
+      "word": "A one-zero lead",
+      "translation": "una ventaja de uno a cero"
+    },
+    {
+      "word": "Sidelines (en deportes)",
+      "translation": "gradas"
+    },
+    {
+      "word": "She popped out three kids",
+      "translation": "tuvo tres hijos"
+    },
+    {
+      "word": "Push up",
+      "translation": "empuja hacia arriba"
+    },
+    {
+      "word": "Sweeper",
+      "translation": "barrendero"
+    },
+    {
+      "word": "Let's huddle up",
+      "translation": "acérquense"
+    },
+    {
+      "word": "Bring it in",
+      "translation": "tráiganlo"
+    },
+    {
+      "word": "Outer pass",
+      "translation": "pase exterior"
+    },
+    {
+      "word": "Upfield (verbo en deportes)",
+      "translation": "subir al campo contrario"
+    },
+    {
+      "word": "que está completamente sola",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Dash (verbo en sentido negativo)",
+      "translation": "desvanecerse, esfumarse"
+    },
+    {
+      "word": "esto en marcha",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Damnedest thing (no literal)",
+      "translation": "es increíble"
+    },
+    {
+      "word": "The lens is comprised of thorium oxide",
+      "translation": "la lente está compuesta por óxido de torio"
+    },
+    {
+      "word": "You'll catch the next one",
+      "translation": "cogerás el siguiente/próximo"
+    },
+    {
+      "word": "sacarlo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Why is everything blurry up close?",
+      "translation": "¿Por qué todo se ve borroso de cerca?"
+    },
+    {
+      "word": "A cry for help",
+      "translation": "un grito de auxilio"
+    },
+    {
+      "word": "Let's get that wine going",
+      "translation": "vamos a servir el vino"
+    },
+    {
+      "word": "Jitters",
+      "translation": "nerviosismo"
+    },
+    {
+      "word": "Stroke",
+      "translation": "derrame cerebral"
+    },
+    {
+      "word": "You look like you got dressed at a Goodwill",
+      "translation": "parece que te vestiste en una tienda de"
+    },
+    {
+      "word": "segunda mano",
+      "translation": "No registrada"
+    },
+    {
+      "word": "con él",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Polyps",
+      "translation": "pólipos"
+    },
+    {
+      "word": "I'll get the fixings (frase no literal)",
+      "translation": "yo me encargo de los ingredientes"
+    },
+    {
+      "word": "Are we doing it for the 'gram?",
+      "translation": "¿Lo estamos haciendo para el Instagram?"
+    },
+    {
+      "word": "Electricals whirring (acotación)",
+      "translation": "zumbido de aparatos eléctricos"
+    },
+    {
+      "word": "Seize (verbo en algunos contextos)",
+      "translation": "aprovechar"
+    },
+    {
+      "word": "There's a scent to her (no literal)",
+      "translation": "tiene un aroma muy especial"
+    },
+    {
+      "word": "Log",
+      "translation": "tronco"
+    },
+    {
+      "word": "Elf",
+      "translation": "duende"
+    },
+    {
+      "word": "Artisanal celery",
+      "translation": "apio artesanal"
+    },
+    {
+      "word": "Science dork",
+      "translation": "tonto/idiota científico"
+    },
+    {
+      "word": "los amigos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "You're overzealous",
+      "translation": "eres demasiado entusiasta"
+    },
+    {
+      "word": "Girls are scantily clad and showing body",
+      "translation": "las chicas van con poca ropa y muestran su"
+    },
+    {
+      "word": "cuerpo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Just let loose a little bit",
+      "translation": "sólo relájate un poco"
+    },
+    {
+      "word": "Pattern recognition kicking in",
+      "translation": "el reconocimiento de patrones se activa"
+    },
+    {
+      "word": "Epinephrine",
+      "translation": "epinefrina"
+    },
+    {
+      "word": "So don't hang yourself with a celibate rope",
+      "translation": "así que no te cuelgues con una cuerda de"
+    },
+    {
+      "word": "celibato",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Walk away",
+      "translation": "alejarse"
+    },
+    {
+      "word": "You look fly (no literal)",
+      "translation": "te ves genial"
+    },
+    {
+      "word": "Hag body",
+      "translation": "cuerpo de bruja"
+    },
+    {
+      "word": "Your psycho dog baby",
+      "translation": "tu cachorro psicópata"
+    },
+    {
+      "word": "Compute (verbo en algunos contextos)",
+      "translation": "tener sentido, ser válido"
+    },
+    {
+      "word": "Pull away",
+      "translation": "alejarse"
+    },
+    {
+      "word": "Call in sick to school",
+      "translation": "llama a la escuela para avisar que estás enfermo"
+    },
+    {
+      "word": "And make it all seem worthwhile",
+      "translation": "y hacer que todo parezca que vale la pena"
+    },
+    {
+      "word": "Glance",
+      "translation": "mirada"
+    },
+    {
+      "word": "It's the bowl cut",
+      "translation": "es el corte de tazón"
+    },
+    {
+      "word": "Planar quadrilaterals",
+      "translation": "cuadriláteros planares"
+    },
+    {
+      "word": "Cross-structural integrals",
+      "translation": "integrales entre estructuras"
+    },
+    {
+      "word": "The golden ratio of the Parthenon",
+      "translation": "la proporción áurea del Partenón"
+    },
+    {
+      "word": "How hard you've been applying yourself",
+      "translation": "lo mucho que te has esforzado"
+    },
+    {
+      "word": "The frontman",
+      "translation": "el líder"
+    },
+    {
+      "word": "A total control freak",
+      "translation": "una controladora total"
+    },
+    {
+      "word": "Crush this pitch (en contexto empresarial)",
+      "translation": "arrasar con esta presentación"
+    },
+    {
+      "word": "Let's cut through the stench",
+      "translation": "acabemos con el mal olor/hedor"
+    },
+    {
+      "word": "In the very capable hands of this team",
+      "translation": "en las manos expertas de este equipo"
+    },
+    {
+      "word": "natación sincronizada",
+      "translation": "No registrada"
+    },
+    {
+      "word": "What are you sorry for?",
+      "translation": "¿Por qué te disculpas?"
+    },
+    {
+      "word": "My dreams are pretty much shot (no literal)",
+      "translation": "mis sueños prácticamente se han"
+    },
+    {
+      "word": "esfumado",
+      "translation": "No registrada"
+    },
+    {
+      "word": "por el amor de Dios",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Ripple",
+      "translation": "ondulación"
+    },
+    {
+      "word": "planetas dejen de estar alineados?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Rocket ship",
+      "translation": "cohete espacial"
+    },
+    {
+      "word": "Car revving",
+      "translation": "aceleración del motor"
+    },
+    {
+      "word": "I got shifting and steering",
+      "translation": "tengo cambio y dirección"
+    },
+    {
+      "word": "We get off at",
+      "translation": "nos bajamos en"
+    },
+    {
+      "word": "Gridlock",
+      "translation": "embotellamiento"
+    },
+    {
+      "word": "The lens bounced out!",
+      "translation": "¡La lente salió disparada!"
+    },
+    {
+      "word": "Pretty cheery",
+      "translation": "bastante alegre"
+    },
+    {
+      "word": "Magpie",
+      "translation": "urraca"
+    },
+    {
+      "word": "Chestnuts roasting on an open fire",
+      "translation": "castañas asándose en un fuego abierto"
+    },
+    {
+      "word": "Nipping at your nose",
+      "translation": "mordisqueándote la nariz"
+    },
+    {
+      "word": "Tiny tots with their eyes all aglow",
+      "translation": "pequeñitos con los ojos brillantes"
+    },
+    {
+      "word": "Yours is a little cluttered",
+      "translation": "el tuyo está un poco desordenado"
+    },
+    {
+      "word": "I'll grab her right now (frase no literal)",
+      "translation": "voy a ir a buscarla ahora mismo"
+    },
+    {
+      "word": "The rep",
+      "translation": "el representante"
+    },
+    {
+      "word": "Holiday greetings",
+      "translation": "saludos navideños/festivos"
+    },
+    {
+      "word": "A middle-aged man of middling intelligence",
+      "translation": "un hombre de mediana edad y inteligencia"
+    },
+    {
+      "word": "normal",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Middling",
+      "translation": "medio"
+    },
+    {
+      "word": "Sort of an",
+      "translation": "una especie de un"
+    },
+    {
+      "word": "universidades/escuelas de respaldo?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Drink it ugly, and it'll work",
+      "translation": "bébete eso, aunque sea desagradable, y te hará bien"
+    },
+    {
+      "word": "An ungrateful malcontent",
+      "translation": "un desagradecido y un quejumbroso"
+    },
+    {
+      "word": "I tore a hammie (traducción aproximada)",
+      "translation": "me rompí un tendón"
+    },
+    {
+      "word": "Can you unshave my legs?",
+      "translation": "¿Puedes depilarme las piernas?"
+    },
+    {
+      "word": "I'm on a new cleanse",
+      "translation": "estoy hacienda una nueva limpieza"
+    }
+  ]
+}

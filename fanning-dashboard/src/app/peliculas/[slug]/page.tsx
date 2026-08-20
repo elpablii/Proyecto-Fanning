@@ -24,6 +24,7 @@ export default function PeliculaPage() {
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [studyMode, setStudyMode] = useState<'carousel' | 'practice'>('carousel');
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   useEffect(() => {
     const fetchAllData = async () => {
@@ -125,15 +126,28 @@ export default function PeliculaPage() {
         let queryParams = `query=${encodeURIComponent(searchTitle)}`;
         const sortedKeys = Object.keys(tmdbOverrides).sort((a, b) => b.length - a.length);
 
+        let directId = null;
         for (const key of sortedKeys) {
             if (lowerTitle.includes(key)) {
                 searchTitle = tmdbOverrides[key].q;
+                if (tmdbOverrides[key].id) {
+                    directId = tmdbOverrides[key].id;
+                }
                 if (tmdbOverrides[key].y) {
                     queryParams = `query=${encodeURIComponent(searchTitle)}&primary_release_year=${tmdbOverrides[key].y}`;
                 } else {
                     queryParams = `query=${encodeURIComponent(searchTitle)}`;
                 }
                 break;
+            }
+        }
+
+        if (directId) {
+            const tmdbRes = await fetch(`https://api.themoviedb.org/3/movie/${directId}?api_key=${apiKey}&language=es-MX`);
+            const result = await tmdbRes.json();
+            if (result.id) {
+                await processTmdbResult(result);
+                return;
             }
         }
 
@@ -331,7 +345,11 @@ export default function PeliculaPage() {
                         </h2>
                         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
                             {tmdbInfo.photos.map((url, i) => (
-                                <div key={i} className="aspect-video rounded-xl overflow-hidden shadow-lg border border-white/10 group cursor-pointer">
+                                <div 
+                                    key={i} 
+                                    className="aspect-video rounded-xl overflow-hidden shadow-lg border border-white/10 group cursor-pointer"
+                                    onClick={() => setSelectedImage(url.replace('w780', 'original'))}
+                                >
                                     <img src={url} alt={`Gallery ${i}`} className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" />
                                 </div>
                             ))}
@@ -542,6 +560,29 @@ export default function PeliculaPage() {
                   </div>
               </div>
           </div>
+      )}
+
+      {/* LIGHTBOX MODAL PARA IMÁGENES */}
+      {selectedImage && (
+        <div 
+          className="fixed inset-0 z-[60] flex items-center justify-center bg-black/95 backdrop-blur-xl p-4 cursor-zoom-out"
+          onClick={() => setSelectedImage(null)}
+        >
+          <div className="relative max-w-7xl max-h-[90vh] flex items-center justify-center">
+            <button 
+              onClick={(e) => { e.stopPropagation(); setSelectedImage(null); }}
+              className="absolute -top-12 right-0 text-white hover:text-gray-300 p-2 transition-colors bg-white/10 hover:bg-white/20 rounded-full"
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+            <img 
+              src={selectedImage} 
+              alt="Expanded view" 
+              className="max-w-full max-h-[90vh] object-contain rounded-lg shadow-2xl cursor-default"
+              onClick={(e) => e.stopPropagation()} 
+            />
+          </div>
+        </div>
       )}
       
       {/* Required CSS for 3D flip added inline for convenience */}

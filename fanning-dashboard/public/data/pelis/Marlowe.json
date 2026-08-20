@@ -1,0 +1,618 @@
+{
+  "title": "Marlowe",
+  "englishAnalysis": "Ambientada en la década de 1930, esta cinta noir ofrece un vocabulario típico del cine de detectives: términos criminales, jerga callejera de la época, sarcasmo y un lenguaje formal pero crudo. El acento estadounidense clásico de Liam Neeson añade un tono rasposo y cínico.",
+  "vocabulary": [
+    {
+      "word": "checoslovaca",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Trellises",
+      "translation": "enrejados"
+    },
+    {
+      "word": "Lie down",
+      "translation": "tumbarse, recostarse"
+    },
+    {
+      "word": "Motion pictures",
+      "translation": "mundo del cine, películas, largometrajes"
+    },
+    {
+      "word": "He owe you dough (frase no literal)",
+      "translation": "te debe dinero"
+    },
+    {
+      "word": "Wetbacks",
+      "translation": "mojados"
+    },
+    {
+      "word": "They was all gussied up",
+      "translation": "estaban todos bien arreglados"
+    },
+    {
+      "word": "Beaner (informal alusivo a México)",
+      "translation": "mexicano"
+    },
+    {
+      "word": "Necktie",
+      "translation": "corbatín"
+    },
+    {
+      "word": "Grifts, alienations of affection",
+      "translation": "regalos, alienaciones afectivas"
+    },
+    {
+      "word": "He's down as domicile unknown (no literal)",
+      "translation": "se le considera sin domicilio conocido"
+    },
+    {
+      "word": "vehículo de marca desconocida",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Gross comminuted fracture",
+      "translation": "fractura conminuta grave"
+    },
+    {
+      "word": "A hedge hopper",
+      "translation": "un saltador de setos"
+    },
+    {
+      "word": "He needs trimming",
+      "translation": "él necesita un corte de pelo"
+    },
+    {
+      "word": "Keep getting (no literal)",
+      "translation": "sigo recibiendo"
+    },
+    {
+      "word": "Accesory obstruction",
+      "translation": "obstrucción por complicidad"
+    },
+    {
+      "word": "Get sauced",
+      "translation": "emborracharse"
+    },
+    {
+      "word": "Brewery",
+      "translation": "cervecería"
+    },
+    {
+      "word": "Make nice",
+      "translation": "ser amable"
+    },
+    {
+      "word": "Hit and run (en crimen)",
+      "translation": "atropello y darse a la fuga"
+    },
+    {
+      "word": "como Peterson",
+      "translation": "No registrada"
+    },
+    {
+      "word": "pastas que un sinvergüenza",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Broom the case (verbo no literal)",
+      "translation": "archivar el caso"
+    },
+    {
+      "word": "This is hell nor am I out of it",
+      "translation": "esto es un infierno y no estoy fuera de él"
+    },
+    {
+      "word": "que tu esposa diera marcha atrás",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Embellishments",
+      "translation": "sin adornos"
+    },
+    {
+      "word": "México?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Not in my mind's eye (no literal)",
+      "translation": "no en mi mente"
+    },
+    {
+      "word": "The prancing kind",
+      "translation": "el tipo que brinca"
+    },
+    {
+      "word": "Most of all collected junk, pretend antiques",
+      "translation": "la mayoría eran trastos viejos,"
+    },
+    {
+      "word": "antigüedades falsas",
+      "translation": "No registrada"
+    },
+    {
+      "word": "He's been fleeced",
+      "translation": "le han estafado"
+    },
+    {
+      "word": "culpa de la bebida",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I throw them before swine (no literal)",
+      "translation": "los arrojo ante los cerdos"
+    },
+    {
+      "word": "Run down",
+      "translation": "atropellar"
+    },
+    {
+      "word": "We pursued inquiries (no literal)",
+      "translation": "seguimos investigando"
+    },
+    {
+      "word": "A nest of entitled and connected tosspots",
+      "translation": "un nido de imbéciles privilegiados y bien"
+    },
+    {
+      "word": "relacionados",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Flatten (verbo)",
+      "translation": "aplastar"
+    },
+    {
+      "word": "Borad",
+      "translation": "mujer"
+    },
+    {
+      "word": "Run over",
+      "translation": "atropellar"
+    },
+    {
+      "word": "Get sapped",
+      "translation": "agotarse"
+    },
+    {
+      "word": "People get moved off the property",
+      "translation": "las personas son desalojadas de la propiedad"
+    },
+    {
+      "word": "sobre él",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Stick to the point (frase no literal)",
+      "translation": "no te desvíes del tema"
+    },
+    {
+      "word": "In more disarray",
+      "translation": "en peor condición"
+    },
+    {
+      "word": "Pleasant (en ambiente)",
+      "translation": "agradable, placentero"
+    },
+    {
+      "word": "Whose (en preguntas)",
+      "translation": "quién"
+    },
+    {
+      "word": "Struck (verbo)",
+      "translation": "golpear"
+    },
+    {
+      "word": "Inception",
+      "translation": "creación"
+    },
+    {
+      "word": "I'll see myself out (frase no literal)",
+      "translation": "me iré solo"
+    },
+    {
+      "word": "I came to bloody be one",
+      "translation": "vine para convertirme en uno"
+    },
+    {
+      "word": "Scald (verbo)",
+      "translation": "escaldar, hervir"
+    },
+    {
+      "word": "Leave to draw (verbo no literal)",
+      "translation": "déjalo reposar"
+    },
+    {
+      "word": "Flash-eyed barefoot peasant girls",
+      "translation": "chicas campesinas descalzas y de ojos brillantes"
+    },
+    {
+      "word": "Swine",
+      "translation": "cerdo"
+    },
+    {
+      "word": "Trot (verbo)",
+      "translation": "trotar"
+    },
+    {
+      "word": "Handsomely",
+      "translation": "elegantemente, generosamente"
+    },
+    {
+      "word": "He drove his car off a cliff in La Jolla",
+      "translation": "se precipitó con su coche por un acantilado en"
+    },
+    {
+      "word": "La Jolla",
+      "translation": "No registrada"
+    },
+    {
+      "word": "But it did no harm to his bank balance",
+      "translation": "pero eso no afectó su saldo bancario"
+    },
+    {
+      "word": "Until at last even I had to face the fact",
+      "translation": "hasta que al final incluso yo tuve que"
+    },
+    {
+      "word": "afrontar la realidad",
+      "translation": "No registrada"
+    },
+    {
+      "word": "My game was up",
+      "translation": "mi juego había terminado"
+    },
+    {
+      "word": "Barefoot colleens",
+      "translation": "chicas descalzas"
+    },
+    {
+      "word": "I'm very happy has-been (no literal)",
+      "translation": "estoy muy feliz, ya no soy nadie"
+    },
+    {
+      "word": "Wannabe agent",
+      "translation": "aspirante a agente"
+    },
+    {
+      "word": "Car rolls up",
+      "translation": "el auto se acerca"
+    },
+    {
+      "word": "Get hanged",
+      "translation": "ser ahorcado"
+    },
+    {
+      "word": "disponible",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Womanizer",
+      "translation": "mujeriego"
+    },
+    {
+      "word": "Don't be a sweet chump",
+      "translation": "no seas un ingenuo/tonto"
+    },
+    {
+      "word": "Gurney",
+      "translation": "camilla"
+    },
+    {
+      "word": "Roadway",
+      "translation": "carretera"
+    },
+    {
+      "word": "Down the old big sea wave",
+      "translation": "por la vieja y gran ola del mar"
+    },
+    {
+      "word": "An eponymous trademark",
+      "translation": "una marca comercial homónima"
+    },
+    {
+      "word": "But alas (expresión)",
+      "translation": "pero por desgracia"
+    },
+    {
+      "word": "Quotidian",
+      "translation": "cotidiano"
+    },
+    {
+      "word": "Your do-rag",
+      "translation": "tu pañuelo"
+    },
+    {
+      "word": "My pocket square (no literal)",
+      "translation": "mi pañuelo de bolsillo"
+    },
+    {
+      "word": "Hunckback",
+      "translation": "jorobado"
+    },
+    {
+      "word": "Maladroits",
+      "translation": "torpes"
+    },
+    {
+      "word": "Serape",
+      "translation": "sarape"
+    },
+    {
+      "word": "Hard to come by (en algunos contextos)",
+      "translation": "conseguir"
+    },
+    {
+      "word": "Looking for a stiff to fit his tuxedo",
+      "translation": "buscando un cadaver que le quedara bien con su"
+    },
+    {
+      "word": "esmoquin",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Grim",
+      "translation": "lúgubre, sombrío"
+    },
+    {
+      "word": "Trun tricks (verbo)",
+      "translation": "hacer trucos"
+    },
+    {
+      "word": "delatar",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Play nice (verbo)",
+      "translation": "jugar limpio"
+    },
+    {
+      "word": "extraoficialmente",
+      "translation": "No registrada"
+    },
+    {
+      "word": "They'll look hard (frase no literal)",
+      "translation": "la buscarán por todas partes"
+    },
+    {
+      "word": "Not a peep out",
+      "translation": "ni una palabra"
+    },
+    {
+      "word": "An old timer",
+      "translation": "un veterano"
+    },
+    {
+      "word": "The frail",
+      "translation": "el frágil"
+    },
+    {
+      "word": "So much would fall away",
+      "translation": "tantas cosas desaparecerían"
+    },
+    {
+      "word": "They call you forth for refreshing acts",
+      "translation": "te llaman para que realices actos"
+    },
+    {
+      "word": "refrescantes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I'd lose my bearings",
+      "translation": "perdería el rumbo"
+    },
+    {
+      "word": "Flash-eyed colleen",
+      "translation": "chica de ojos llamativos"
+    },
+    {
+      "word": "Terms of endearment",
+      "translation": "términos cariñosos"
+    },
+    {
+      "word": "Bootleg money",
+      "translation": "dinero de contrabando"
+    },
+    {
+      "word": "And his mistress are top of the list",
+      "translation": "y su amante están en lo más alto de la lista"
+    },
+    {
+      "word": "The knuckle dusters",
+      "translation": "los nudilleros"
+    },
+    {
+      "word": "We'll block the roads in and out",
+      "translation": "bloquearemos las vías de entrada y salida"
+    },
+    {
+      "word": "Get down that rat hole",
+      "translation": "baja a esa madriguera de ratas"
+    },
+    {
+      "word": "This fine evening",
+      "translation": "esta hermosa noche"
+    },
+    {
+      "word": "People are on the make",
+      "translation": "la gente está en busca de fortuna"
+    },
+    {
+      "word": "Make (sustantivo en algunos contextos)",
+      "translation": "fortuna"
+    },
+    {
+      "word": "A junk habit (no literal)",
+      "translation": "una adicción a las drogas"
+    },
+    {
+      "word": "We can join him down below",
+      "translation": "podemos reunirnos con él abajo"
+    },
+    {
+      "word": "sirve de mucho",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Arise (verbo)",
+      "translation": "surgir, presentar"
+    },
+    {
+      "word": "llevarnos bien",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Across the way",
+      "translation": "del otro lado de la calle"
+    },
+    {
+      "word": "The chestnut tress",
+      "translation": "los castaños"
+    },
+    {
+      "word": "Shackled up",
+      "translation": "esposado (de tener esposas en las manos)"
+    },
+    {
+      "word": "Crank up the volume",
+      "translation": "subir el volume"
+    },
+    {
+      "word": "Oh, righteous (expresión)",
+      "translation": "oh, qué bien"
+    },
+    {
+      "word": "Plaster",
+      "translation": "yeso"
+    },
+    {
+      "word": "Water gushing (acotación)",
+      "translation": "agua brotando"
+    },
+    {
+      "word": "As the progeny of sharecroppers",
+      "translation": "como descendientes de aparceros"
+    },
+    {
+      "word": "Demise",
+      "translation": "fallecimiento, defunción"
+    },
+    {
+      "word": "Greatly",
+      "translation": "en gran medida, enormemente"
+    },
+    {
+      "word": "You could help yourself though",
+      "translation": "podrías ayudarte a ti mismo, de todos modos"
+    },
+    {
+      "word": "Let's hope he brewed it right",
+      "translation": "esperemos que lo haya preparado muy bien"
+    },
+    {
+      "word": "I'm keeping him in a shack in Rosarito?",
+      "translation": "¿Lo tengo recluido en una cabaña en Rosarito?"
+    },
+    {
+      "word": "He wants done with tinsel town",
+      "translation": "quiere terminar con la ciudad del oropel/del cine/de"
+    },
+    {
+      "word": "las luces",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Shattering (acotación)",
+      "translation": "destrozándose, rompiéndose en pedazos"
+    },
+    {
+      "word": "Would've laid a dollar on you",
+      "translation": "hubiera apostado un dólar por ti"
+    },
+    {
+      "word": "Finder’s fee",
+      "translation": "comisión por intermediación"
+    },
+    {
+      "word": "Sealed confesional",
+      "translation": "confesionario sellado"
+    },
+    {
+      "word": "Digress (verbo)",
+      "translation": "divagar"
+    },
+    {
+      "word": "Plaster raven",
+      "translation": "cuervo de yeso"
+    },
+    {
+      "word": "Overheard",
+      "translation": "escuchadas"
+    },
+    {
+      "word": "So adroitly",
+      "translation": "con tanta destreza, con tanta habilidad"
+    },
+    {
+      "word": "Work out the plot",
+      "translation": "elaborar la trama"
+    },
+    {
+      "word": "Bring down",
+      "translation": "derribar"
+    },
+    {
+      "word": "I'm a book-keeper",
+      "translation": "soy contable, soy contador"
+    },
+    {
+      "word": "Boudoir (en francés)",
+      "translation": "salón"
+    },
+    {
+      "word": "He was evil incarnate",
+      "translation": "él era la encarnación del mal"
+    },
+    {
+      "word": "The Ark of the Covenant",
+      "translation": "el Arca de la Alianza"
+    },
+    {
+      "word": "Crossfire",
+      "translation": "fuego cruzado"
+    },
+    {
+      "word": "The bootlegging trade",
+      "translation": "el contrabando"
+    },
+    {
+      "word": "Peccadilloes",
+      "translation": "pecadillos, deslices"
+    },
+    {
+      "word": "Keep us in line",
+      "translation": "mantener a raya/en línea"
+    },
+    {
+      "word": "Keeper",
+      "translation": "guardián"
+    },
+    {
+      "word": "This might come in useful (no literal)",
+      "translation": "esto podría resultar útil"
+    },
+    {
+      "word": "Memento (no literal)",
+      "translation": "recuerdo"
+    },
+    {
+      "word": "Blends up into the stark night sky",
+      "translation": "se funde con el cielo nocturno"
+    },
+    {
+      "word": "Flint",
+      "translation": "pedernal"
+    }
+  ]
+}

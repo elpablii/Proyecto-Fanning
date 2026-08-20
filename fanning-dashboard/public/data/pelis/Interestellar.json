@@ -1,0 +1,638 @@
+{
+  "title": "Interestellar",
+  "englishAnalysis": "Una película imperdible para quienes buscan vocabulario técnico. Está llena de terminología científica relacionada con la astrofísica, la relatividad, la exploración espacial y la supervivencia. El tono es serio, con un acento estadounidense claro y firme.",
+  "vocabulary": [
+    {
+      "word": "The straights",
+      "translation": "las rectas"
+    },
+    {
+      "word": "I need power up!",
+      "translation": "¡Necesito energía!"
+    },
+    {
+      "word": "Blight",
+      "translation": "plaga, tizón"
+    },
+    {
+      "word": "suciedad/tierra",
+      "translation": "No registrada"
+    },
+    {
+      "word": "We wore strips of sheet",
+      "translation": "llevábamos tiras de sábana"
+    },
+    {
+      "word": "Get a move on!",
+      "translation": "¡muévete!"
+    },
+    {
+      "word": "Lander",
+      "translation": "módulo de aterrizaje"
+    },
+    {
+      "word": "It knocked it off! (no literal)",
+      "translation": "¡Se lo ha cargado/llevado!"
+    },
+    {
+      "word": "Okra (alusivo a la planta)",
+      "translation": "quingombó"
+    },
+    {
+      "word": "Pull your weight (frase no literal)",
+      "translation": "pón de tu parte"
+    },
+    {
+      "word": "Gears grinding (acotación)",
+      "translation": "engranajes que rechinan"
+    },
+    {
+      "word": "Gear (sustantivo) engranaje, equipo, marcha",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Grind (verbo)",
+      "translation": "triturar, moler"
+    },
+    {
+      "word": "Tire",
+      "translation": "neumático, llanta"
+    },
+    {
+      "word": "Spare (sustantivo)",
+      "translation": "repuesto"
+    },
+    {
+      "word": "Patch (sustantivo)",
+      "translation": "parche"
+    },
+    {
+      "word": "Drive off a cliff (frase no literal)",
+      "translation": "caerse por un precipicio"
+    },
+    {
+      "word": "Flatblade",
+      "translation": "hoja plana (en referencia a un objeto afilado)"
+    },
+    {
+      "word": "Combine (alusivo a un vehículo)",
+      "translation": "cosechadora"
+    },
+    {
+      "word": "A flat",
+      "translation": "un pinchazo"
+    },
+    {
+      "word": "Fighter plane",
+      "translation": "avión de combate, avión caza"
+    },
+    {
+      "word": "Outstanding",
+      "translation": "excelente, destacado, sobresaliente"
+    },
+    {
+      "word": "He's got a knack on it (frase no literal)",
+      "translation": "tiene habilidad para ello, tiene un don para"
+    },
+    {
+      "word": "eso",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Rule out",
+      "translation": "descartar"
+    },
+    {
+      "word": "Inseam",
+      "translation": "entrepierna"
+    },
+    {
+      "word": "Caretaker (adjetivo)",
+      "translation": "cuidador"
+    },
+    {
+      "word": "Bankrupt (verbo)",
+      "translation": "llevar a la bancarrota"
+    },
+    {
+      "word": "Pour (verbo)",
+      "translation": "verter, derramar"
+    },
+    {
+      "word": "Wastefulness",
+      "translation": "despilfarro, desperdicio"
+    },
+    {
+      "word": "Bring in (usado hacia una persona)",
+      "translation": "venir, acudir"
+    },
+    {
+      "word": "On the home front",
+      "translation": "en casa"
+    },
+    {
+      "word": "Go haywire",
+      "translation": "volverse loco, enloquecer"
+    },
+    {
+      "word": "campos y dirigiéndose hacia allí",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Dashes",
+      "translation": "rayas, guiones"
+    },
+    {
+      "word": "Offset for",
+      "translation": "contrarrestar, compensar"
+    },
+    {
+      "word": "Real ballplayers",
+      "translation": "jugadores de béisbol de verdad"
+    },
+    {
+      "word": "Ballgame",
+      "translation": "juego de béisbol"
+    },
+    {
+      "word": "Doozy",
+      "translation": "pasada, tontería"
+    },
+    {
+      "word": "Bolt cutters",
+      "translation": "cortapernos"
+    },
+    {
+      "word": "I got grunts like you mowing my grass",
+      "translation": "tengo gruñones como tú cortando mi césped"
+    },
+    {
+      "word": "Back up (en algunos contextos)",
+      "translation": "retroceder"
+    },
+    {
+      "word": "A salvage run",
+      "translation": "una carrera de salvamento"
+    },
+    {
+      "word": "Term (verbo en ciencia)",
+      "translation": "calificar, llamar"
+    },
+    {
+      "word": "Unshakable",
+      "translation": "inquebrantable"
+    },
+    {
+      "word": "Thrive (verbo)",
+      "translation": "prosperar"
+    },
+    {
+      "word": "Cheerful",
+      "translation": "alegre, jovial"
+    },
+    {
+      "word": "Futile",
+      "translation": "inútil"
+    },
+    {
+      "word": "con los mandos electrónicos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Bed down",
+      "translation": "acostarse"
+    },
+    {
+      "word": "Hence the bravery",
+      "translation": "de ahí la valentía"
+    },
+    {
+      "word": "A long shot (en ciencia)",
+      "translation": "posibilidad remota"
+    },
+    {
+      "word": "Launch chamber",
+      "translation": "cámara de lanzamiento"
+    },
+    {
+      "word": "Centrifuge",
+      "translation": "centrifugadora"
+    },
+    {
+      "word": "Surrogacy",
+      "translation": "gestación subrogada"
+    },
+    {
+      "word": "Booster ignition",
+      "translation": "ignición de refuerzo"
+    },
+    {
+      "word": "Roll program",
+      "translation": "programa de balanceo"
+    },
+    {
+      "word": "Cue light",
+      "translation": "luz blanca"
+    },
+    {
+      "word": "Airlock",
+      "translation": "esclusa de aire"
+    },
+    {
+      "word": "Handover",
+      "translation": "entrega, traspaso"
+    },
+    {
+      "word": "Pull thrusters back",
+      "translation": "tira de los propulsores hacia atrás"
+    },
+    {
+      "word": "Ex-mites",
+      "translation": "ex-mitos"
+    },
+    {
+      "word": "Spin (verbo)",
+      "translation": "girar"
+    },
+    {
+      "word": "Old age should burn and rave at close of day",
+      "translation": "la vejez debe arder y delirar al final del"
+    },
+    {
+      "word": "día",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Fork (verbo)",
+      "translation": "bifurcar"
+    },
+    {
+      "word": "Cling to",
+      "translation": "aferrarse a, agarrarse a"
+    },
+    {
+      "word": "Rip to shreds",
+      "translation": "hacer pedazos, despedazar, hacer trizas"
+    },
+    {
+      "word": "Counter-orbital slingshot",
+      "translation": "honda contraorbital"
+    },
+    {
+      "word": "Fan the flame",
+      "translation": "avivar la llama"
+    },
+    {
+      "word": "And make a fool out of you",
+      "translation": "y ponerte en ridículo"
+    },
+    {
+      "word": "Yachtsmen",
+      "translation": "navegantes"
+    },
+    {
+      "word": "Go overboard",
+      "translation": "ir por la borda"
+    },
+    {
+      "word": "Relay",
+      "translation": "relé"
+    },
+    {
+      "word": "Bulk",
+      "translation": "bulto"
+    },
+    {
+      "word": "Hoop",
+      "translation": "aro"
+    },
+    {
+      "word": "Take close",
+      "translation": "acercar, llevar cerca"
+    },
+    {
+      "word": "Gravitational pull",
+      "translation": "atracción gravitatoria"
+    },
+    {
+      "word": "Drop down",
+      "translation": "bajar"
+    },
+    {
+      "word": "Time shift",
+      "translation": "cambio horario"
+    },
+    {
+      "word": "Debrief (verbo)",
+      "translation": "informar"
+    },
+    {
+      "word": "Thursting",
+      "translation": "empuje"
+    },
+    {
+      "word": "A machine was easing at the wrong time",
+      "translation": "una máquina se aflojaba en el momento"
+    },
+    {
+      "word": "equivocado",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Feedback",
+      "translation": "comentarios, retroalimentación"
+    },
+    {
+      "word": "Shave some speed",
+      "translation": "reducir la velocidad"
+    },
+    {
+      "word": "Spiral down",
+      "translation": "caer en espiral"
+    },
+    {
+      "word": "Very graceful",
+      "translation": "muy elegante"
+    },
+    {
+      "word": "Wreckage",
+      "translation": "restos, pecio"
+    },
+    {
+      "word": "Swell",
+      "translation": "oleaje, marejada"
+    },
+    {
+      "word": "Waterlogged (adjetivo)",
+      "translation": "anegado, encharcado"
+    },
+    {
+      "word": "Time slippage",
+      "translation": "desfase temporal"
+    },
+    {
+      "word": "Spark (verbo)",
+      "translation": "encender, chispear"
+    },
+    {
+      "word": "Check in",
+      "translation": "registrarse"
+    },
+    {
+      "word": "Drifting out (expresión)",
+      "translation": "a la deriva"
+    },
+    {
+      "word": "Intrude (verbo)",
+      "translation": "inmiscuirse, entrometerse"
+    },
+    {
+      "word": "Let's run it through some new fields",
+      "translation": "vamos a pasarlo por algunos campos nuevos"
+    },
+    {
+      "word": "Rivet",
+      "translation": "remache"
+    },
+    {
+      "word": "Crack (verbo en sentido matemático)",
+      "translation": "descifrar, resolver"
+    },
+    {
+      "word": "Morbid",
+      "translation": "morboso, mórbido"
+    },
+    {
+      "word": "It’s nonsensical",
+      "translation": "no tiene sentido"
+    },
+    {
+      "word": "Take up",
+      "translation": "retomar"
+    },
+    {
+      "word": "We must reach far beyond our own lifespans",
+      "translation": "debemos ir mucho más allá de nuestras"
+    },
+    {
+      "word": "propias vidas",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Go gentle (verbo)",
+      "translation": "ir suavemente"
+    },
+    {
+      "word": "Go further afield",
+      "translation": "ir más lejos"
+    },
+    {
+      "word": "universo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Chart a course (en ciencia)",
+      "translation": "trazar un rumbo"
+    },
+    {
+      "word": "Fritter",
+      "translation": "buñuelo"
+    },
+    {
+      "word": "Screw up",
+      "translation": "cagarla, meter la pata"
+    },
+    {
+      "word": "Strike out (traducción aproximada)",
+      "translation": "golpear, atacar"
+    },
+    {
+      "word": "Sham",
+      "translation": "farsa"
+    },
+    {
+      "word": "Waking date",
+      "translation": "fecha de vigilia"
+    },
+    {
+      "word": "Legwork",
+      "translation": "trabajo de campo"
+    },
+    {
+      "word": "Decommision (verbo)",
+      "translation": "desmantelar"
+    },
+    {
+      "word": "Scrubbers",
+      "translation": "depuradores, lavadores"
+    },
+    {
+      "word": "Crack (sustantivo)",
+      "translation": "grieta"
+    },
+    {
+      "word": "Spinning",
+      "translation": "giratorio"
+    },
+    {
+      "word": "Tidal gravity",
+      "translation": "gravedad de la marea"
+    },
+    {
+      "word": "Glimpse (verbo)",
+      "translation": "vislumbrar"
+    },
+    {
+      "word": "Get teary",
+      "translation": "ponerse a llorar"
+    },
+    {
+      "word": "I'd be remiss (frase no literal)",
+      "translation": "sería negligente de mi parte"
+    },
+    {
+      "word": "The boot up (en informática)",
+      "translation": "el arranque, el inicio (de una máquina)"
+    },
+    {
+      "word": "Comm clicks off (acotación)",
+      "translation": "la comunicación se apaga"
+    },
+    {
+      "word": "Lockout",
+      "translation": "bloqueo"
+    },
+    {
+      "word": "Maroon (verbo)",
+      "translation": "abandonar"
+    },
+    {
+      "word": "Docking (en términos espaciales)",
+      "translation": "acoplamiento, atracamiento"
+    },
+    {
+      "word": "Auto-docking sequence withheld",
+      "translation": "secuencia de acoplamiento automático retenida"
+    },
+    {
+      "word": "Hatch lockout",
+      "translation": "bloqueo/cierre de la escotilla"
+    },
+    {
+      "word": "Disengaged (en máquinas)",
+      "translation": "desactivado"
+    },
+    {
+      "word": "Public Address (PA)",
+      "translation": "anuncio público (por megafonía)"
+    },
+    {
+      "word": "Spin (sustantivo)",
+      "translation": "giro"
+    },
+    {
+      "word": "Locked, Easing up!",
+      "translation": "cerrado, ¡Despacio!"
+    },
+    {
+      "word": "Pushing out of orbit",
+      "translation": "saliendo de órbita"
+    },
+    {
+      "word": "We're heading into Gargantua's pull",
+      "translation": "nos dirigimos a la atracción de Gargantua"
+    },
+    {
+      "word": "Take the stick (no literal en aviación)",
+      "translation": "toma el control"
+    },
+    {
+      "word": "Kick in (en algunos contextos)",
+      "translation": "ponerse en marcha"
+    },
+    {
+      "word": "The navigational hub",
+      "translation": "el eje de navegación"
+    },
+    {
+      "word": "Scratch (verbo)",
+      "translation": "arañar, rascar"
+    },
+    {
+      "word": "Powered slingshot",
+      "translation": "tirachinas eléctrico/motorizado"
+    },
+    {
+      "word": "Linkages",
+      "translation": "enlaces, vínculos, conexiones"
+    },
+    {
+      "word": "Shed the weight",
+      "translation": "deshacernos del peso"
+    },
+    {
+      "word": "I'm nosing down",
+      "translation": "me estoy metiendo"
+    },
+    {
+      "word": "para atravesarlo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Blackness",
+      "translation": "negrura, oscuridad"
+    },
+    {
+      "word": "I got flashes",
+      "translation": "tengo flashes/destellos"
+    },
+    {
+      "word": "Shiver (verbo)",
+      "translation": "temblar, estremecerse"
+    },
+    {
+      "word": "They're not bound by anything",
+      "translation": "no están atados por nada"
+    },
+    {
+      "word": "Feed it to me",
+      "translation": "dámelo"
+    },
+    {
+      "word": "The bulk beings are closing the tesseract",
+      "translation": "los seres masivos están cerrando el"
+    },
+    {
+      "word": "teseracto",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Nice and easy (frase no literal)",
+      "translation": "tranquilo, despacio, con calma"
+    },
+    {
+      "word": "sólo te quedaban unos minutos de oxígeno",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Nice of you to name it after me",
+      "translation": "muy amable de tu parte ponerle mi nombre"
+    },
+    {
+      "word": "We'll have you checked out of here",
+      "translation": "haremos que te saquen de aquí"
+    },
+    {
+      "word": "Paper (en sentido académico)",
+      "translation": "trabajo"
+    },
+    {
+      "word": "Delighted",
+      "translation": "encantado"
+    },
+    {
+      "word": "She's setting in for the long nap",
+      "translation": "se está preparando para la larga siesta"
+    }
+  ]
+}

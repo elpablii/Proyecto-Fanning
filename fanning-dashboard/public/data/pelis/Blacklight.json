@@ -1,0 +1,514 @@
+{
+  "title": "Blacklight",
+  "englishAnalysis": "Cargada de acción y thriller gubernamental, esta película presenta terminología sobre inteligencia, el FBI, agentes encubiertos y conspiraciones. El inglés es directo e incluye muchos modismos de las agencias de seguridad y situaciones de alta tensión.",
+  "vocabulary": [
+    {
+      "word": "Recovering economy",
+      "translation": "economía en recupaeración"
+    },
+    {
+      "word": "The rising stock market",
+      "translation": "el mercado bursátil en alza"
+    },
+    {
+      "word": "Hoard (verbo)",
+      "translation": "acumular, acaparar"
+    },
+    {
+      "word": "Stifle (verbo)",
+      "translation": "coartar"
+    },
+    {
+      "word": "Ruthless",
+      "translation": "despiadado, implacable"
+    },
+    {
+      "word": "Unbridled",
+      "translation": "desmesurado, desenfrenado"
+    },
+    {
+      "word": "It won't hurt my rating (frase no literal)",
+      "translation": "no afectará mi calificación"
+    },
+    {
+      "word": "Engine revving (acotación)",
+      "translation": "aceleración del motor"
+    },
+    {
+      "word": "That shitbird spy (parcialmente no literal)",
+      "translation": "ese espía de mierda"
+    },
+    {
+      "word": "Hand the hussy over!",
+      "translation": "¡Entrega a esa descarada!"
+    },
+    {
+      "word": "A shallow grave",
+      "translation": "una tumba poco profunda"
+    },
+    {
+      "word": "cabeza fría",
+      "translation": "No registrada"
+    },
+    {
+      "word": "buena paliza",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Stay low (expresión)",
+      "translation": "mantente agachado"
+    },
+    {
+      "word": "The millennial soapbox crowd",
+      "translation": "la multitud de millennials que se manifiesta en la calle"
+    },
+    {
+      "word": "Smarten up",
+      "translation": "espabilarse"
+    },
+    {
+      "word": "manifestantes rebeldes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "She's being cleaned up and debriefed",
+      "translation": "la están limpiando e interrogando"
+    },
+    {
+      "word": "They wiggle and flop around a whole lot",
+      "translation": "se mueven y retuercen mucho"
+    },
+    {
+      "word": "para decírselo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I could help take a bit of the load off",
+      "translation": "podría ayudar a aliviar un poco la carga"
+    },
+    {
+      "word": "Not your fault that deadbeat ran off",
+      "translation": "No es culpa tuya que ese moroso se haya"
+    },
+    {
+      "word": "largado",
+      "translation": "No registrada"
+    },
+    {
+      "word": "alguien que esté al borde de la locura",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Unwind (verbo en ciertos contextos)",
+      "translation": "desenredar, deshacer"
+    },
+    {
+      "word": "Gramps",
+      "translation": "abuelos"
+    },
+    {
+      "word": "Spearhead (verbo)",
+      "translation": "liderar, encabezar, dirigir"
+    },
+    {
+      "word": "In return was mowed down in a hit-and-run",
+      "translation": "a cambio, fue atropellado en un accidente"
+    },
+    {
+      "word": "con fuga",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Quid (alusivo al dinero)",
+      "translation": "pavos, euros, dólares"
+    },
+    {
+      "word": "Rideshare",
+      "translation": "transporte compartido"
+    },
+    {
+      "word": "Sketchy",
+      "translation": "impreciso, vago, poco preciso"
+    },
+    {
+      "word": "en pegarte un tiro en la cabeza?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Stroll out of here (verbo)",
+      "translation": "salir de aquí"
+    },
+    {
+      "word": "en orden",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Field office",
+      "translation": "oficina local"
+    },
+    {
+      "word": "Speed bump",
+      "translation": "badén, lomo de toro (en sentido vehicular)"
+    },
+    {
+      "word": "Get you back on track",
+      "translation": "te ayudamos a retomar el rumbo/camino"
+    },
+    {
+      "word": "Cope (verbo)",
+      "translation": "hacer frente, afrontar, sobrellevar"
+    },
+    {
+      "word": "Was he slurring his words?",
+      "translation": "¿Estaba balbuceando?"
+    },
+    {
+      "word": "todos lados",
+      "translation": "No registrada"
+    },
+    {
+      "word": "No need to hold it in with me",
+      "translation": "no hace falta que te lo guardes"
+    },
+    {
+      "word": "Go astray (verbo)",
+      "translation": "perderse, extraviarse"
+    },
+    {
+      "word": "cámaras de seguridad",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Overeat (verbo)",
+      "translation": "comer en exceso"
+    },
+    {
+      "word": "Draft",
+      "translation": "borrador"
+    },
+    {
+      "word": "You get it high up in the air?",
+      "translation": "¿Lo lanzas muy alto?"
+    },
+    {
+      "word": "Your quirks",
+      "translation": "tus peculiaridades"
+    },
+    {
+      "word": "Getting my bicycle serviced",
+      "translation": "llevar mi bicicleta al taller"
+    },
+    {
+      "word": "Background checks",
+      "translation": "verificación de antecedentes"
+    },
+    {
+      "word": "Ominous music",
+      "translation": "música siniestra"
+    },
+    {
+      "word": "Baggy pants",
+      "translation": "pantalones holgados"
+    },
+    {
+      "word": "Police wire",
+      "translation": "archivos policiales"
+    },
+    {
+      "word": "Fledgling",
+      "translation": "incipiente"
+    },
+    {
+      "word": "A six-bedroom brownstone across from",
+      "translation": "una casa adosada de seis dormitorios frente"
+    },
+    {
+      "word": "Disown (verbo)",
+      "translation": "repudiar"
+    },
+    {
+      "word": "Struggling",
+      "translation": "en apuros"
+    },
+    {
+      "word": "She spare him the embarrasment",
+      "translation": "ella le ahorró/evitó la vergüenza"
+    },
+    {
+      "word": "Get sued for libel",
+      "translation": "ser demandado por difamación"
+    },
+    {
+      "word": "Don't play news hero (frase no literal)",
+      "translation": "no te hagas el héroe con las noticias"
+    },
+    {
+      "word": "It smells a tad unusual",
+      "translation": "huele un poco raro"
+    },
+    {
+      "word": "The eager",
+      "translation": "el/la impaciente"
+    },
+    {
+      "word": "Scrutinize (verbo)",
+      "translation": "analizar, examinar minuciosamente"
+    },
+    {
+      "word": "Shitheads",
+      "translation": "imbéciles, idiotas"
+    },
+    {
+      "word": "I'm done with that life",
+      "translation": "he terminado con esa vida"
+    },
+    {
+      "word": "They'll cut you off at the knees",
+      "translation": "te cortarán las piernas"
+    },
+    {
+      "word": "Car engine cranks",
+      "translation": "arranque del motor del coche"
+    },
+    {
+      "word": "You're not doing anywhere worthwhile",
+      "translation": "no estás haciendo nada que valga la pena"
+    },
+    {
+      "word": "Get sniffy",
+      "translation": "ponerse nervioso"
+    },
+    {
+      "word": "Lock away",
+      "translation": "encerrar"
+    },
+    {
+      "word": "Rough up",
+      "translation": "maltratar"
+    },
+    {
+      "word": "Call out",
+      "translation": "llamar"
+    },
+    {
+      "word": "We went up to the guy",
+      "translation": "nos acercamos al chico"
+    },
+    {
+      "word": "propia sangre",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Deniability",
+      "translation": "negación"
+    },
+    {
+      "word": "In hindsight",
+      "translation": "en retrospectiva"
+    },
+    {
+      "word": "For a living (expresión)",
+      "translation": "para ganarse la vida"
+    },
+    {
+      "word": "But out of",
+      "translation": "sino por"
+    },
+    {
+      "word": "rumbo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Count me out",
+      "translation": "no cuentes conmigo"
+    },
+    {
+      "word": "Delightful",
+      "translation": "encantador, agradable"
+    },
+    {
+      "word": "Dollop",
+      "translation": "porción, cucharada"
+    },
+    {
+      "word": "My lead",
+      "translation": "mi pista"
+    },
+    {
+      "word": "Get scooped up by another outlet",
+      "translation": "ser adelantado por otro medio de comunicación"
+    },
+    {
+      "word": "In an accidental hit-and-run",
+      "translation": "en un atropello con fuga accidental"
+    },
+    {
+      "word": "We're given plenty of notice",
+      "translation": "nos avisan con mucha antelación"
+    },
+    {
+      "word": "His rap sheet I pulled off the police wire",
+      "translation": "su historial delictivo lo saqué de los"
+    },
+    {
+      "word": "archivos policiales",
+      "translation": "No registrada"
+    },
+    {
+      "word": "You ready to get back in the saddle?",
+      "translation": "¿Estás listo para volver a la acción?"
+    },
+    {
+      "word": "What you're going on about (en afirmación)",
+      "translation": "de lo que estás hablando"
+    },
+    {
+      "word": "Swirl (verbo)",
+      "translation": "girar"
+    },
+    {
+      "word": "Petty",
+      "translation": "pequeño, insignificante"
+    },
+    {
+      "word": "Disrupt (verbo)",
+      "translation": "interrumpir, perturbar, alterar"
+    },
+    {
+      "word": "I may be out of line here (frase no literal)",
+      "translation": "quizás me esté pasando de la raya"
+    },
+    {
+      "word": "Fill in the basics",
+      "translation": "rellenar lo básico"
+    },
+    {
+      "word": "Veil",
+      "translation": "velo"
+    },
+    {
+      "word": "That is messed up",
+      "translation": "eso es un desastre"
+    },
+    {
+      "word": "No forwarding address?",
+      "translation": "¿No hay dirección de reenvío?"
+    },
+    {
+      "word": "Pull (verbo en términos de inscripciones)",
+      "translation": "aumentar, impulsar"
+    },
+    {
+      "word": "It'll come into question (frase no literal)",
+      "translation": "se pondrá en tela de juicio, se pondrá en"
+    },
+    {
+      "word": "duda",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Wind up",
+      "translation": "terminar (como alguien)"
+    },
+    {
+      "word": "político",
+      "translation": "No registrada"
+    },
+    {
+      "word": "To right all your wrongs",
+      "translation": "para corregir todos tus errores"
+    },
+    {
+      "word": "There's a paper trail",
+      "translation": "hay un registro documental"
+    },
+    {
+      "word": "visita amistosa",
+      "translation": "No registrada"
+    },
+    {
+      "word": "You two, take the back",
+      "translation": "ustedes dos, vayan por atrás"
+    },
+    {
+      "word": "It's so effing wrong",
+      "translation": "es tan jodidamente incorrecto"
+    },
+    {
+      "word": "Looks like flat out murder",
+      "translation": "parece un asesinato a sangre fría"
+    },
+    {
+      "word": "Guise (no literal)",
+      "translation": "pretexto"
+    },
+    {
+      "word": "It's deep infill",
+      "translation": "es un relleno profundo"
+    },
+    {
+      "word": "haciendo y asustarte",
+      "translation": "No registrada"
+    },
+    {
+      "word": "You slippery shit",
+      "translation": "eres una mierda escurridiza"
+    },
+    {
+      "word": "Bargain (verbo)",
+      "translation": "negociar"
+    },
+    {
+      "word": "Dub (verbo no alusivo a doblajes)",
+      "translation": "denominar"
+    },
+    {
+      "word": "At its finest",
+      "translation": "en su máxima expresión"
+    },
+    {
+      "word": "Award-worthy reporting",
+      "translation": "reportaje digno de un premio"
+    },
+    {
+      "word": "respecto a los explosivos?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I've been looking for battle cry",
+      "translation": "he estado buscando un grito de guerra"
+    },
+    {
+      "word": "If I fall deep in to a flood",
+      "translation": "si me sumerjo profundamente en una inundación"
+    },
+    {
+      "word": "Slaughter (sustantivo)",
+      "translation": "matanza"
+    },
+    {
+      "word": "It must rise to overcome",
+      "translation": "debe levantarse para vencer"
+    },
+    {
+      "word": "Crack",
+      "translation": "grieta"
+    },
+    {
+      "word": "Words trembling ground is shaking",
+      "translation": "las palabras tiemblan, el suelo se estremece"
+    },
+    {
+      "word": "Stand my ground and now don't back down",
+      "translation": "mantén tu postura y no te eches atrás"
+    },
+    {
+      "word": "Break down",
+      "translation": "derribar"
+    },
+    {
+      "word": "Probably getting me",
+      "translation": "probablemente me esté pillando"
+    }
+  ]
+}

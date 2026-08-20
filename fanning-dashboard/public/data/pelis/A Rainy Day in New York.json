@@ -1,0 +1,850 @@
+{
+  "title": "A Rainy Day in New York",
+  "englishAnalysis": "En esta película, podrás familiarizarte con un vocabulario culto y ocasionalmente pretencioso, propio de la élite de Manhattan. El inglés es fluido, salpicado con referencias al arte, literatura y al cine clásico, ideal para aprender modismos sofisticados y coloquialismos neoyorquinos.",
+  "vocabulary": [
+    {
+      "word": "You get ticks (no literal)",
+      "translation": "te pican las garrapatas"
+    },
+    {
+      "word": "Joints",
+      "translation": "centros"
+    },
+    {
+      "word": "potencial",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Sight unseen",
+      "translation": "a ciegas"
+    },
+    {
+      "word": "She's totally got mono (frase no literal)",
+      "translation": "ella tiene mononucleosis, así que lo voy a"
+    },
+    {
+      "word": "hacer yo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I scored twenty big ones (frase no literal)",
+      "translation": "he ganado veinte mil"
+    },
+    {
+      "word": "Some guy with aces up keeps raising me",
+      "translation": "un tipo con ases en la manga no deja de"
+    },
+    {
+      "word": "subirme la apuesta",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Ticket broker",
+      "translation": "agente de boletos"
+    },
+    {
+      "word": "Apopletic",
+      "translation": "furioso"
+    },
+    {
+      "word": "I had a major paper due",
+      "translation": "tenía que entregar un trabajo importante"
+    },
+    {
+      "word": "Put in an appearance",
+      "translation": "hacer un acto de presencia"
+    },
+    {
+      "word": "Co-op",
+      "translation": "cooperativa"
+    },
+    {
+      "word": "Come off like a twit",
+      "translation": "quedar como un idiota"
+    },
+    {
+      "word": "Splurge on",
+      "translation": "darse el lujo de reservar"
+    },
+    {
+      "word": "Moody",
+      "translation": "temperamental, cambiante"
+    },
+    {
+      "word": "Back in",
+      "translation": "regresar"
+    },
+    {
+      "word": "We're running on a really tight schedule",
+      "translation": "tenemos una agenda muy apretada"
+    },
+    {
+      "word": "Overbite",
+      "translation": "sobremordida"
+    },
+    {
+      "word": "A philosophy major",
+      "translation": "un estudiante en filosofía"
+    },
+    {
+      "word": "That's neither heither nor yon",
+      "translation": "eso no es ni una cosa ni otra"
+    },
+    {
+      "word": "It's probably more yon than hither",
+      "translation": "probablemente esté más allá que aquí"
+    },
+    {
+      "word": "A scoop (para esta película)",
+      "translation": "una verdad, una primicia"
+    },
+    {
+      "word": "Hiccup fits",
+      "translation": "ataques de hipo"
+    },
+    {
+      "word": "Mass appeal",
+      "translation": "atractivo masivo"
+    },
+    {
+      "word": "I'm screening some last-minute changes",
+      "translation": "estoy revisando algunos cambios de último"
+    },
+    {
+      "word": "minuto",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Face-saving changes",
+      "translation": "cambios para salvar las apariencias"
+    },
+    {
+      "word": "How long does it run? (pregunta no literal)",
+      "translation": "¿Cuánto tiempo dura?"
+    },
+    {
+      "word": "Look dapper and serves the double duty",
+      "translation": "lucir elegante y cumple una doble función"
+    },
+    {
+      "word": "Onset",
+      "translation": "aparición"
+    },
+    {
+      "word": "Emphysema",
+      "translation": "enfisema"
+    },
+    {
+      "word": "Revolting",
+      "translation": "repugnante"
+    },
+    {
+      "word": "Transfer up",
+      "translation": "trasladar"
+    },
+    {
+      "word": "Flunked",
+      "translation": "suspendido, reprobado"
+    },
+    {
+      "word": "Get thrown out",
+      "translation": "expulsar, echar"
+    },
+    {
+      "word": "Cushy",
+      "translation": "cómodo"
+    },
+    {
+      "word": "Wimp",
+      "translation": "cobarde"
+    },
+    {
+      "word": "Ironing board",
+      "translation": "table para planchar"
+    },
+    {
+      "word": "Wimpy emotional probing",
+      "translation": "sondeo emocional débil"
+    },
+    {
+      "word": "The perfect milquetoast nerd",
+      "translation": "el nerd perfecto y sin carácter"
+    },
+    {
+      "word": "Big-time",
+      "translation": "de renombre, famoso"
+    },
+    {
+      "word": "Premed",
+      "translation": "estudiante de medicina"
+    },
+    {
+      "word": "We have pull with the board in Grenada",
+      "translation": "tenemos influencia en la junta directiva de"
+    },
+    {
+      "word": "Granada",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Sufferer",
+      "translation": "sufridor, sufragista"
+    },
+    {
+      "word": "Distraught",
+      "translation": "angustiado"
+    },
+    {
+      "word": "Put in time (verbo)",
+      "translation": "dedicar tiempo, pasar tiempo"
+    },
+    {
+      "word": "She bites down on that cyanide capsule",
+      "translation": "ella muerde esa cápsula de cianuro"
+    },
+    {
+      "word": "All these people who were no-shows",
+      "translation": "todas estas personas que no se"
+    },
+    {
+      "word": "presentaron/aparecieron",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Political science major",
+      "translation": "licenciatura en ciencias políticas"
+    },
+    {
+      "word": "She's totally mad with lust",
+      "translation": "está completamente loca de deseo"
+    },
+    {
+      "word": "Burst away",
+      "translation": "alejarse/irse corriendo"
+    },
+    {
+      "word": "Wheezing (sustantivo)",
+      "translation": "respiración sibilante/entrecortada"
+    },
+    {
+      "word": "Snotty",
+      "translation": "mocoso, malcriado, presumido"
+    },
+    {
+      "word": "Uptight",
+      "translation": "tenso"
+    },
+    {
+      "word": "The pain-in-the-ass kid sister",
+      "translation": "la hermana pequeña molesta"
+    },
+    {
+      "word": "It certainly beats fasting (no literal)",
+      "translation": "sin duda es mejor que ayunar"
+    },
+    {
+      "word": "It's a big coup",
+      "translation": "es un gran golpe maestro"
+    },
+    {
+      "word": "That's the one that Mom's high on",
+      "translation": "esa es la que le gusta a mamá"
+    },
+    {
+      "word": "Housewives",
+      "translation": "amas de casa"
+    },
+    {
+      "word": "The leisure to pursue esoteric culture",
+      "translation": "el ocio para dedicarse a la cultura esotérica"
+    },
+    {
+      "word": "The out-of-work discussing the out-of-print",
+      "translation": "los desempleados discuten sobre los"
+    },
+    {
+      "word": "libros agotados",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Madeleines",
+      "translation": "magdalenas"
+    },
+    {
+      "word": "You're not gonna duck out of our wedding",
+      "translation": "no vas a dejar de venir a nuestra boda"
+    },
+    {
+      "word": "He's not so tough as he makes out",
+      "translation": "no es tan duro como aparenta"
+    },
+    {
+      "word": "It's a total turnoff",
+      "translation": "es un completo desastre"
+    },
+    {
+      "word": "Tragic little deal-breakers",
+      "translation": "pequeños motivos trágicos que pueden arruinar una"
+    },
+    {
+      "word": "relación",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I brought it up tactfully",
+      "translation": "lo mencioné con tacto"
+    },
+    {
+      "word": "Laugh insanity",
+      "translation": "locura de risa"
+    },
+    {
+      "word": "Spare me the fruits",
+      "translation": "ahórrame los frutos"
+    },
+    {
+      "word": "Talking cure",
+      "translation": "terapia conversacional"
+    },
+    {
+      "word": "Steaming",
+      "translation": "humeante"
+    },
+    {
+      "word": "There's a high-stakes card game later",
+      "translation": "más tarde hay una partida de cartas con"
+    },
+    {
+      "word": "mucho en juego",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I'm up at this, uh, screening room place",
+      "translation": "estoy en esta sala de proyección"
+    },
+    {
+      "word": "Fits (sustantivo en sentido de emociones)",
+      "translation": "ataques"
+    },
+    {
+      "word": "He's wallowing in self.loathing somewhere",
+      "translation": "está sumido en el odio hacia sí mismo en"
+    },
+    {
+      "word": "algún lugar",
+      "translation": "No registrada"
+    },
+    {
+      "word": "We're blowing the day and it's so moody out",
+      "translation": "estamos desperdiciando el día y el clima"
+    },
+    {
+      "word": "está muy cambiante",
+      "translation": "No registrada"
+    },
+    {
+      "word": "He knocked back a copule of brandies",
+      "translation": "se bebió un par de tragos de brandy"
+    },
+    {
+      "word": "Let's get my car and it's out to Queens",
+      "translation": "vamos a buscar mi auto y nos vamos a Queens"
+    },
+    {
+      "word": "Morose (verbo no literal)",
+      "translation": "ponerse de mal humor"
+    },
+    {
+      "word": "Soundstages",
+      "translation": "escenarios de grabación, escenarios sonoros"
+    },
+    {
+      "word": "Clutch (verbo)",
+      "translation": "agarrar"
+    },
+    {
+      "word": "Bronchial pneumonia",
+      "translation": "neumonía bronquial"
+    },
+    {
+      "word": "I’m nuts",
+      "translation": "estoy loco/chiflado"
+    },
+    {
+      "word": "She's bogged down",
+      "translation": "ella está saturada/agobiada"
+    },
+    {
+      "word": "Get straight",
+      "translation": "establecer, tener en claro"
+    },
+    {
+      "word": "Assert yourself",
+      "translation": "hazte valer"
+    },
+    {
+      "word": "Movie big shots",
+      "translation": "grandes figuras del cine"
+    },
+    {
+      "word": "Screenwriter",
+      "translation": "un guionista"
+    },
+    {
+      "word": "You're so wishy-washy!",
+      "translation": "¡Eres tan indeciso!"
+    },
+    {
+      "word": "Amy te rechazó",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Airsick bag",
+      "translation": "bolsa para el mal de aire"
+    },
+    {
+      "word": "Dubious",
+      "translation": "dudoso"
+    },
+    {
+      "word": "Witty",
+      "translation": "ingenioso"
+    },
+    {
+      "word": "Bookie",
+      "translation": "corredor de apuestas"
+    },
+    {
+      "word": "His mom never really hit it off?",
+      "translation": "¿Su mamá nunca se llevó bien con él?"
+    },
+    {
+      "word": "mutuamente",
+      "translation": "No registrada"
+    },
+    {
+      "word": "We're all out of beef jerky",
+      "translation": "se nos acabó el charqui"
+    },
+    {
+      "word": "Heirloom",
+      "translation": "reliquia"
+    },
+    {
+      "word": "I've had the measles and mumps",
+      "translation": "he tenido sarampión y paperas"
+    },
+    {
+      "word": "Lay an ace (verbo en juegos de cartas)",
+      "translation": "jugar/poner/sacar un as"
+    },
+    {
+      "word": "Jinx",
+      "translation": "maldición, mala suerte"
+    },
+    {
+      "word": "para acabar con la desesperación",
+      "translation": "No registrada"
+    },
+    {
+      "word": "There was even postage due",
+      "translation": "incluso hubo gastos de envío"
+    },
+    {
+      "word": "Cocktail lounge",
+      "translation": "bar de cócteles"
+    },
+    {
+      "word": "Tugboats",
+      "translation": "remolcadores"
+    },
+    {
+      "word": "You're pacing up and down",
+      "translation": "estás caminando de un lado a otro"
+    },
+    {
+      "word": "Metastasize (verbo)",
+      "translation": "diseminar, hacer metastásis"
+    },
+    {
+      "word": "By sheer chance",
+      "translation": "por pura casualidad"
+    },
+    {
+      "word": "Outburst",
+      "translation": "discusión, altercado"
+    },
+    {
+      "word": "Get down (contra una persona)",
+      "translation": "meterse, ponerse en contra de"
+    },
+    {
+      "word": "Make a fool of yourself (verbo)",
+      "translation": "hacerse el ridículo"
+    },
+    {
+      "word": "Concubine",
+      "translation": "concubina"
+    },
+    {
+      "word": "Unfaithful",
+      "translation": "desleal, infiel"
+    },
+    {
+      "word": "Tabloids",
+      "translation": "periódicos sensacionalistas, tabloides"
+    },
+    {
+      "word": "Mangle (verbo)",
+      "translation": "destrozar"
+    },
+    {
+      "word": "If she quoted you a figure higher",
+      "translation": "si te dió un presupuesto más alto"
+    },
+    {
+      "word": "I'm floundering (traducción aproximada)",
+      "translation": "estoy pasando por un mal momento"
+    },
+    {
+      "word": "Clergyman, or a proctologist",
+      "translation": "sacerdote o proctólogo"
+    },
+    {
+      "word": "Rule out",
+      "translation": "descartar"
+    },
+    {
+      "word": "Oddball things",
+      "translation": "cosas raras/extrañas"
+    },
+    {
+      "word": "Divey piano bars",
+      "translation": "bares de piano de mala muerte"
+    },
+    {
+      "word": "Cling to",
+      "translation": "aferrarse a, pegarse a"
+    },
+    {
+      "word": "Sneeze (verbo)",
+      "translation": "estornudar"
+    },
+    {
+      "word": "Giving me the fish-eye (frase no literal)",
+      "translation": "mirándome con cara de pocos amigos"
+    },
+    {
+      "word": "Hunchback",
+      "translation": "jorobado"
+    },
+    {
+      "word": "Ink it in",
+      "translation": "anótalo"
+    },
+    {
+      "word": "An afterlife",
+      "translation": "una vida después de la muerte"
+    },
+    {
+      "word": "me está dando largas?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Why don't you duck into the mummy case?",
+      "translation": "¿Por qué no te metes en la tumba de la"
+    },
+    {
+      "word": "momia?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Hemorrhage (verbo)",
+      "translation": "sufrir/tener una hemorragia"
+    },
+    {
+      "word": "You're the greatest thing to come along",
+      "translation": "eres lo mejor que me ha pasado"
+    },
+    {
+      "word": "I can't believe I'm blanking on it",
+      "translation": "no puedo creer que se me haya olvidado"
+    },
+    {
+      "word": "Anchorwoman",
+      "translation": "presentadora de noticias"
+    },
+    {
+      "word": "To-die",
+      "translation": "de ensueño, que está para morirse"
+    },
+    {
+      "word": "Twosome",
+      "translation": "dúo, pareja"
+    },
+    {
+      "word": "Farrago",
+      "translation": "mezcolanza"
+    },
+    {
+      "word": "Gulfstream",
+      "translation": "corriente del golfo"
+    },
+    {
+      "word": "Dive (no alusivo a profundidad o buceo)",
+      "translation": "antro"
+    },
+    {
+      "word": "Dice hustler?",
+      "translation": "¿Estafador de dados?"
+    },
+    {
+      "word": "Nevus",
+      "translation": "nevo"
+    },
+    {
+      "word": "Wind up",
+      "translation": "acabar, terminar"
+    },
+    {
+      "word": "Candlelights",
+      "translation": "velas"
+    },
+    {
+      "word": "diferencia de puntos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Quaint",
+      "translation": "pintoresco, peculiar"
+    },
+    {
+      "word": "Searching (adjetivo)",
+      "translation": "minucioso, inquisitivo"
+    },
+    {
+      "word": "Vanished age",
+      "translation": "época/era desaparecida"
+    },
+    {
+      "word": "Imbibe (verbo)",
+      "translation": "beber"
+    },
+    {
+      "word": "Uninhibited",
+      "translation": "desinhibido"
+    },
+    {
+      "word": "Wicked",
+      "translation": "perverso, malicioso, malvado"
+    },
+    {
+      "word": "Better watch out for him",
+      "translation": "mejor ten cuidado con él"
+    },
+    {
+      "word": "I'll re-raise you",
+      "translation": "te voy a volver a subir la apuesta"
+    },
+    {
+      "word": "Sweet nothings (no literal)",
+      "translation": "palabras dulces/bonitas"
+    },
+    {
+      "word": "Mannered gestures",
+      "translation": "gestos educados"
+    },
+    {
+      "word": "It's the luck of the draw (frase no literal)",
+      "translation": "es cuestión de suerte"
+    },
+    {
+      "word": "Ginger ales",
+      "translation": "bebidas de jengibre"
+    },
+    {
+      "word": "Vermouth",
+      "translation": "vermú"
+    },
+    {
+      "word": "Unfortunately it flies coach",
+      "translation": "por desgracia, vuela en clase turista"
+    },
+    {
+      "word": "Steep (parecido a expensive)",
+      "translation": "caro"
+    },
+    {
+      "word": "mierda de mi mamá en otoño",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Classy",
+      "translation": "elegante, con clase"
+    },
+    {
+      "word": "Charge accounts",
+      "translation": "cuentas de crédito"
+    },
+    {
+      "word": "Bookworm",
+      "translation": "ratón de biblioteca"
+    },
+    {
+      "word": "This culture vulture",
+      "translation": "esta amante/fanática de la cultura"
+    },
+    {
+      "word": "Vanish off",
+      "translation": "desaparecer"
+    },
+    {
+      "word": "Moving (no literal en emociones)",
+      "translation": "conmovedor"
+    },
+    {
+      "word": "Unspoiled honesty",
+      "translation": "honestidad genuina"
+    },
+    {
+      "word": "It struck me",
+      "translation": "me impactó (literal), me llamó la atención (no literal)"
+    },
+    {
+      "word": "A wandering rogue (no literal)",
+      "translation": "un pícaro errante"
+    },
+    {
+      "word": "I'm not fond of surprises (frase no literal)",
+      "translation": "no me gustan las sorpresas"
+    },
+    {
+      "word": "That sorta thing",
+      "translation": "algo así, ese tipo de cosas"
+    },
+    {
+      "word": "Bemoan (verbo)",
+      "translation": "lamentarse"
+    },
+    {
+      "word": "Trouble spots",
+      "translation": "focos de conflicto, puntos conflictivos"
+    },
+    {
+      "word": "Hand to mouth (frase no literal)",
+      "translation": "al día"
+    },
+    {
+      "word": "sorprendan",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Tête-à-têtes (en francés)",
+      "translation": "encuentros íntimas"
+    },
+    {
+      "word": "Where I come out on the short end as always",
+      "translation": "donde salgo perdiendo como siempre"
+    },
+    {
+      "word": "Make a fool of",
+      "translation": "burlarse de, hacer quedar en ridículo"
+    },
+    {
+      "word": "Pretentious appropiateness",
+      "translation": "adecuación pretenciosa"
+    },
+    {
+      "word": "porque pongo el listón muy alto",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I'm not gonna roll off the assembly line",
+      "translation": "no voy a salir de la cadena de montaje"
+    },
+    {
+      "word": "Escort",
+      "translation": "acompañante"
+    },
+    {
+      "word": "Snobs",
+      "translation": "esnobs"
+    },
+    {
+      "word": "Streak",
+      "translation": "vena"
+    },
+    {
+      "word": "Slip past",
+      "translation": "escabullirse"
+    },
+    {
+      "word": "I made my living (frase no literal)",
+      "translation": "me ganaba la vida"
+    },
+    {
+      "word": "Hard-earned",
+      "translation": "ganado con esfuerzo"
+    },
+    {
+      "word": "Bend over",
+      "translation": "inclinarse"
+    },
+    {
+      "word": "Overzealous hustler",
+      "translation": "estafador demasiado entusiasta"
+    },
+    {
+      "word": "Unsavory",
+      "translation": "desagradable"
+    },
+    {
+      "word": "las mujeres de la alta sociedad",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Lay the table (verbo)",
+      "translation": "poner la mesa"
+    },
+    {
+      "word": "Minus the acting chops",
+      "translation": "sin el talento interpretative"
+    },
+    {
+      "word": "Hunk",
+      "translation": "bombón"
+    },
+    {
+      "word": "How was going to your mom's soiree?",
+      "translation": "¿Qué tal la velada en casa de tu mamá?"
+    },
+    {
+      "word": "I've sold her short (frase no literal)",
+      "translation": "la he subestimado"
+    },
+    {
+      "word": "John (sustantivo común)",
+      "translation": "cliente"
+    },
+    {
+      "word": "Gloomy",
+      "translation": "nublado"
+    },
+    {
+      "word": "The roaring traffic's boom",
+      "translation": "el estruendo del tráfico"
+    },
+    {
+      "word": "Blossom (verbo)",
+      "translation": "florecer"
+    },
+    {
+      "word": "A crackerjack reporter",
+      "translation": "un reportero de primera"
+    },
+    {
+      "word": "Blow (verbo en sociedad)",
+      "translation": "estropear, echar a perder"
+    }
+  ]
+}

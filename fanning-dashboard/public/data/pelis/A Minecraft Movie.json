@@ -1,0 +1,746 @@
+{
+  "title": "A Minecraft Movie",
+  "englishAnalysis": "Una aventura con un inglés directo, divertido y muy accesible. Cuenta con un vocabulario lleno de términos relacionados a la construcción, la aventura y la fantasía. Al ser una película para toda la familia, la dicción suele ser clara y las expresiones son de uso común.",
+  "vocabulary": [
+    {
+      "word": "Singsong (acotación)",
+      "translation": "cantando"
+    },
+    {
+      "word": "Gear up",
+      "translation": "prepararse"
+    },
+    {
+      "word": "I mined my brains out",
+      "translation": "me miné mis sesos"
+    },
+    {
+      "word": "Yelping (acotación)",
+      "translation": "aullido"
+    },
+    {
+      "word": "He likes a scratchy-scratch on the nose",
+      "translation": "le gusta que le rasquen en la nariz"
+    },
+    {
+      "word": "Flint and steel",
+      "translation": "pedernal y acero (literal), mechero (no literal)"
+    },
+    {
+      "word": "Echoing shouts (acotación no literal)",
+      "translation": "gritos resonantes"
+    },
+    {
+      "word": "Just a mindless lust of gold",
+      "translation": "sólo un ansia de oro sin sentido"
+    },
+    {
+      "word": "Into oblivion",
+      "translation": "en el olvido"
+    },
+    {
+      "word": "Seize them!",
+      "translation": "¡Atrápenlos!, ¡Agárrenlos!"
+    },
+    {
+      "word": "Blasting (sustantivo)",
+      "translation": "bocina"
+    },
+    {
+      "word": "Fluff",
+      "translation": "pelusa"
+    },
+    {
+      "word": "Take by storm (verbo no literal)",
+      "translation": "tomar por as alto"
+    },
+    {
+      "word": "Co-op",
+      "translation": "cooperativo"
+    },
+    {
+      "word": "Garbage toss",
+      "translation": "tirar basura"
+    },
+    {
+      "word": "Array",
+      "translation": "surtido"
+    },
+    {
+      "word": "Under a hundy",
+      "translation": "por debajo de los cien"
+    },
+    {
+      "word": "Hometown hero",
+      "translation": "héroe local"
+    },
+    {
+      "word": "I’m up against it",
+      "translation": "estoy en contra de ello"
+    },
+    {
+      "word": "I’m running their socials for a little bit",
+      "translation": "dirijo sus actividades sociales durante un"
+    },
+    {
+      "word": "tiempo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Real estate is not my only hustle",
+      "translation": "el sector inmobiliario no es mi único negocio"
+    },
+    {
+      "word": "Bray (verbo)",
+      "translation": "rebuznar"
+    },
+    {
+      "word": "Poo",
+      "translation": "caca"
+    },
+    {
+      "word": "A mentorship program",
+      "translation": "un programa de tutoría/mentores"
+    },
+    {
+      "word": "Signature scent",
+      "translation": "aroma, fragancia"
+    },
+    {
+      "word": "Nametag",
+      "translation": "etiqueta"
+    },
+    {
+      "word": "We stuck it out",
+      "translation": "lo aguantamos"
+    },
+    {
+      "word": "Let’s get after it (frase no literal)",
+      "translation": "vamos a ello"
+    },
+    {
+      "word": "Debunked",
+      "translation": "desacreditado"
+    },
+    {
+      "word": "Rebrand",
+      "translation": "cambio de marca"
+    },
+    {
+      "word": "de expulsión",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Fly buzzing fitfully (acotación)",
+      "translation": "mosca zumbando inquietamente"
+    },
+    {
+      "word": "Bag up",
+      "translation": "embolsar"
+    },
+    {
+      "word": "You gotta bungee the lid",
+      "translation": "tienes que atar la tapa"
+    },
+    {
+      "word": "Juvie",
+      "translation": "reformatorio"
+    },
+    {
+      "word": "Bullcrap",
+      "translation": "tontería"
+    },
+    {
+      "word": "Chortles (acotación)",
+      "translation": "risitas"
+    },
+    {
+      "word": "Energy thrumming (acotación)",
+      "translation": "zumbido de energía"
+    },
+    {
+      "word": "A struggling business owner",
+      "translation": "un empresario en apuros"
+    },
+    {
+      "word": "Busted carrot",
+      "translation": "zanahoria rota"
+    },
+    {
+      "word": "Quest giver",
+      "translation": "proveedor de misiones"
+    },
+    {
+      "word": "Swine",
+      "translation": "cerdo"
+    },
+    {
+      "word": "Leaping grunt (acotación)",
+      "translation": "gruñido de salto"
+    },
+    {
+      "word": "Seething (acotación)",
+      "translation": "hirviendo"
+    },
+    {
+      "word": "Leisure",
+      "translation": "ocio"
+    },
+    {
+      "word": "My liege",
+      "translation": "mi señor"
+    },
+    {
+      "word": "Unbind (verbo)",
+      "translation": "desatar"
+    },
+    {
+      "word": "Pup",
+      "translation": "cachorro"
+    },
+    {
+      "word": "Strike me down",
+      "translation": "derríbame, destrúyeme"
+    },
+    {
+      "word": "Guffaw (verbo)",
+      "translation": "reírse a carcajadas"
+    },
+    {
+      "word": "Bleat (verbo)",
+      "translation": "balar"
+    },
+    {
+      "word": "Sparkling softly (acotación)",
+      "translation": "chispas suaves"
+    },
+    {
+      "word": "Squeaky chirp (acotación)",
+      "translation": "chirrido agudo"
+    },
+    {
+      "word": "Booming thuds (acotación)",
+      "translation": "ruidos sordos y retumbantes"
+    },
+    {
+      "word": "Let’s push that booger-looking box-head",
+      "translation": "¡Empujemos esa cabeza cuadrada que parece"
+    },
+    {
+      "word": "un moco!",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Gurgling gasp (acotación no literal)",
+      "translation": "jadeo gutural"
+    },
+    {
+      "word": "Arm splats (acotación)",
+      "translation": "salpicaduras en los brazos"
+    },
+    {
+      "word": "Sneak attack!",
+      "translation": "¡Ataque por sorpresa!"
+    },
+    {
+      "word": "Wail (verbo)",
+      "translation": "gemir"
+    },
+    {
+      "word": "arruinar tus planes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Fair enough",
+      "translation": "me parece justo (literal), de acuerdo (no literal)"
+    },
+    {
+      "word": "None of your concern (frase no literal)",
+      "translation": "no es asunto tuyo"
+    },
+    {
+      "word": "Double-cross (verbo)",
+      "translation": "traicionar"
+    },
+    {
+      "word": "nalgas como si fuera una nuez",
+      "translation": "No registrada"
+    },
+    {
+      "word": "A toolbag (no literal)",
+      "translation": "un completo idiota"
+    },
+    {
+      "word": "We need to load up on some gear",
+      "translation": "necesitamos cargar con algo de equipo"
+    },
+    {
+      "word": "Move out!",
+      "translation": "¡Salgan, ¡Fuera!"
+    },
+    {
+      "word": "A secret stash of elite loot",
+      "translation": "un alijo secreto de botín de élite"
+    },
+    {
+      "word": "Bug (verbo no literal)",
+      "translation": "molestar (a alguien)"
+    },
+    {
+      "word": "Buttloads",
+      "translation": "montones"
+    },
+    {
+      "word": "Loaf",
+      "translation": "pan"
+    },
+    {
+      "word": "primera construcción",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Softies (adjetivo connotativo)",
+      "translation": "blandengues"
+    },
+    {
+      "word": "solo con acercarme",
+      "translation": "No registrada"
+    },
+    {
+      "word": "A sizzle",
+      "translation": "un chisporroteo"
+    },
+    {
+      "word": "Jangly beat",
+      "translation": "ritmo vibrante"
+    },
+    {
+      "word": "It’s tasty as hell (parcialmente no literal)",
+      "translation": "esta riquísimo/buenísimo"
+    },
+    {
+      "word": "Crispy",
+      "translation": "crujiente"
+    },
+    {
+      "word": "Suck butt (no literal)",
+      "translation": "horrible"
+    },
+    {
+      "word": "Frigging loser",
+      "translation": "maldito perdedor"
+    },
+    {
+      "word": "Gibbers (acotación)",
+      "translation": "balbuceos"
+    },
+    {
+      "word": "grandullón Steve",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Crave (verbo)",
+      "translation": "anhelar"
+    },
+    {
+      "word": "That’s a bummer (expresión)",
+      "translation": "qué pena"
+    },
+    {
+      "word": "Shack (sustantivo)",
+      "translation": "puesto, choza"
+    },
+    {
+      "word": "Nether wart",
+      "translation": "verruga del Nether"
+    },
+    {
+      "word": "Red shrooms",
+      "translation": "setas rojas"
+    },
+    {
+      "word": "Gift (adjetivo en habilidad)",
+      "translation": "don"
+    },
+    {
+      "word": "They sit at the bummer lunch table",
+      "translation": "se sientan en el comedor de los desdichados"
+    },
+    {
+      "word": "Get bullied",
+      "translation": "ser acosado"
+    },
+    {
+      "word": "Spin kick",
+      "translation": "patada giratoria"
+    },
+    {
+      "word": "grande",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Stash",
+      "translation": "alijo, cantidad, reserva"
+    },
+    {
+      "word": "Blades",
+      "translation": "hojas, cuchillas"
+    },
+    {
+      "word": "Bogus layout (no literal)",
+      "translation": "el diseño es falso"
+    },
+    {
+      "word": "Hinges creaking (acotación)",
+      "translation": "chirrido de bisagras"
+    },
+    {
+      "word": "No biggie (expresión)",
+      "translation": "no pasa nada"
+    },
+    {
+      "word": "Nunchuck",
+      "translation": "nunchaku"
+    },
+    {
+      "word": "Abso-rootin’-tootly (informal)",
+      "translation": "por supuesto que sí"
+    },
+    {
+      "word": "Step in (no alusivo a intervenir)",
+      "translation": "pisar"
+    },
+    {
+      "word": "Piglins thundering (acotación)",
+      "translation": "el estruendo de los piglins"
+    },
+    {
+      "word": "Shocked yelp (acotación)",
+      "translation": "grito de sorpresa"
+    },
+    {
+      "word": "Un-alive (verbo)",
+      "translation": "matar (literal), desvivir (no literal)"
+    },
+    {
+      "word": "Yells sharply (acotación)",
+      "translation": "grita con fuerza"
+    },
+    {
+      "word": "Yelp (verbo)",
+      "translation": "gritar"
+    },
+    {
+      "word": "Ninja roll!",
+      "translation": "¡Rodada ninja!"
+    },
+    {
+      "word": "Rampart",
+      "translation": "muralla, terraplén"
+    },
+    {
+      "word": "Elytra wingsuits (parcialmente no literal)",
+      "translation": "trajes elytra"
+    },
+    {
+      "word": "Coming in hot! (frase no literal)",
+      "translation": "¡Llegando a toda velocidad!"
+    },
+    {
+      "word": "They got us boxed in!",
+      "translation": "¡Nos tienen encerrados!"
+    },
+    {
+      "word": "Chunky",
+      "translation": "gordo, rellenito"
+    },
+    {
+      "word": "We're gonna have to go nose-to-toes",
+      "translation": "vamos a tener que ir de punta en punta"
+    },
+    {
+      "word": "Tighten up!",
+      "translation": "¡Aprieta!"
+    },
+    {
+      "word": "Squeeze (verbo)",
+      "translation": "apretar, meter, exprimir"
+    },
+    {
+      "word": "Cushion (verbo)",
+      "translation": "amortiguar"
+    },
+    {
+      "word": "You’ve got some talking to do",
+      "translation": "tienes que hablar con alguien"
+    },
+    {
+      "word": "Hellscape",
+      "translation": "paisaje infernal"
+    },
+    {
+      "word": "Black out",
+      "translation": "oscurecer, tapar"
+    },
+    {
+      "word": "Nether wart will flourish",
+      "translation": "la verruga del Nether florecerá"
+    },
+    {
+      "word": "For leverage",
+      "translation": "para ejercer influencia"
+    },
+    {
+      "word": "balando",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Get it done! (expresión)",
+      "translation": "¡Hazlo!"
+    },
+    {
+      "word": "estoy hecho para esto de ser padre/madre",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Hooting laughter (acotación)",
+      "translation": "carcajadas"
+    },
+    {
+      "word": "Contraption",
+      "translation": "aparato, artilugio"
+    },
+    {
+      "word": "consigo recordar",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Machinery chirs (acotación)",
+      "translation": "ruido de maquinaria"
+    },
+    {
+      "word": "Heavy thudding (acotación)",
+      "translation": "ruido sordo y fuerte"
+    },
+    {
+      "word": "A boost",
+      "translation": "un impulso"
+    },
+    {
+      "word": "Sparking (acotación)",
+      "translation": "chispeando"
+    },
+    {
+      "word": "Bellow (verbo)",
+      "translation": "bramar"
+    },
+    {
+      "word": "Up ahead, look!",
+      "translation": "¡Mira ahí delante!"
+    },
+    {
+      "word": "Slap (verbo)",
+      "translation": "abofetear, dar palmadas"
+    },
+    {
+      "word": "All put together",
+      "translation": "todo junto"
+    },
+    {
+      "word": "I’m washed up (frase no literal)",
+      "translation": "estoy acabado"
+    },
+    {
+      "word": "Wield (verbo)",
+      "translation": "manejar, ejercer, dominar"
+    },
+    {
+      "word": "Loot",
+      "translation": "botín"
+    },
+    {
+      "word": "Snag (verbo)",
+      "translation": "hacerse (con algo)"
+    },
+    {
+      "word": "Diversion (en algunos contextos)",
+      "translation": "distracción"
+    },
+    {
+      "word": "Reach down deep",
+      "translation": "busca en lo más profundo"
+    },
+    {
+      "word": "Chicken jockey (literal)",
+      "translation": "jinete de pollos, jinete avícola"
+    },
+    {
+      "word": "Chuck him!",
+      "translation": "¡Échalo!"
+    },
+    {
+      "word": "Hissing screech (acotación no literal)",
+      "translation": "silbido chirriante"
+    },
+    {
+      "word": "Don’t fall for it! (frase no literal)",
+      "translation": "¡No te lo creas!"
+    },
+    {
+      "word": "You’re a cute little booger-face",
+      "translation": "eres un pequeño mocoso muy mono"
+    },
+    {
+      "word": "Overworld (literal)",
+      "translation": "mundo superior"
+    },
+    {
+      "word": "Holler (verbo)",
+      "translation": "gritar"
+    },
+    {
+      "word": "Hellhole",
+      "translation": "infierno"
+    },
+    {
+      "word": "Huff (verbo)",
+      "translation": "resoplar"
+    },
+    {
+      "word": "This bridge sky high",
+      "translation": "este puente altísimo"
+    },
+    {
+      "word": "Brace for impact!",
+      "translation": "¡Prepárense para el impacto!"
+    },
+    {
+      "word": "He’s one heck of a wolf (frase no literal)",
+      "translation": "es un lobo increíble"
+    },
+    {
+      "word": "Smelly",
+      "translation": "maloliente"
+    },
+    {
+      "word": "It was a pretty rough crash landing",
+      "translation": "fue un aterrizaje forzoso bastante Brusco"
+    },
+    {
+      "word": "I’m done with (frase no literal)",
+      "translation": "estoy harto de"
+    },
+    {
+      "word": "Killer recipes (no literal)",
+      "translation": "recetas increíbles"
+    },
+    {
+      "word": "What are you standing around for?",
+      "translation": "¿Qué haces ahí parado?"
+    },
+    {
+      "word": "Metallic footfalls (acotación no literal)",
+      "translation": "pasos metálicos"
+    },
+    {
+      "word": "Hollow clang (acotación)",
+      "translation": "sonido hueco"
+    },
+    {
+      "word": "Real smooth (expresión)",
+      "translation": "qué suave"
+    },
+    {
+      "word": "de cerdo?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Bring it on",
+      "translation": "adelante"
+    },
+    {
+      "word": "Wolves (plural de wolf)",
+      "translation": "lobos"
+    },
+    {
+      "word": "Take a bite outta that pig! (no literal)",
+      "translation": "¡Dale un mordisco a ese cerdo!"
+    },
+    {
+      "word": "It’s fireball time",
+      "translation": "es hora de lanzar bolas de fuego"
+    },
+    {
+      "word": "Spear (sustantivo)",
+      "translation": "lanza"
+    },
+    {
+      "word": "Jab (verbo)",
+      "translation": "clavar"
+    },
+    {
+      "word": "Rasping (adjetivo)",
+      "translation": "entrecortado, jadeante, sibilante"
+    },
+    {
+      "word": "The deuce (para efectos de Minecraft)",
+      "translation": "la destrucción"
+    },
+    {
+      "word": "Derisive",
+      "translation": "burlón"
+    },
+    {
+      "word": "It was worth the shot",
+      "translation": "vale la pena intentarlo"
+    },
+    {
+      "word": "Constraints",
+      "translation": "restricciones"
+    },
+    {
+      "word": "I’m coming with (parcialmente no literal)",
+      "translation": "yo también voy"
+    },
+    {
+      "word": "The hot spot (no literal)",
+      "translation": "el lugar de moda"
+    },
+    {
+      "word": "Dawn got to ditch her real estate job",
+      "translation": "Dawn finalmente pudo dejar su trabajo en el"
+    },
+    {
+      "word": "sector inmobiliario",
+      "translation": "No registrada"
+    },
+    {
+      "word": "He finally got that jetpack to work",
+      "translation": "él por fin consiguió que ese propulsor funcionara"
+    },
+    {
+      "word": "I feel the high (frase no literal)",
+      "translation": "siento la euforia"
+    },
+    {
+      "word": "On the rise",
+      "translation": "en ascenso"
+    },
+    {
+      "word": "You totally blew it",
+      "translation": "lo arruinaste por completo, la cagaste, lo echaste a perder"
+    },
+    {
+      "word": "I reap the rewards of your mistake",
+      "translation": "cosecho los frutos de tu error"
+    },
+    {
+      "word": "Run over",
+      "translation": "atropellar, pasar por encima"
+    },
+    {
+      "word": "I was struck by a love so powerful",
+      "translation": "me golpeó un amor tan poderoso"
+    }
+  ]
+}

@@ -45,7 +45,6 @@ const movies2027 = [
   "The Last of Robin Hood",
   "The Ice Road: Vengeance",
   "Cold Pursuit",
-  "Unknown",
   "Made in Italy",
   "GTA San Andreas Dialogues Part I (In the Beginning - Mike Toreno)",
   "GTA San Andreas Dialogues Part II (Outrider - End of the Line)",
@@ -55,26 +54,44 @@ const movies2027 = [
   "Zootopia II (2025)",
   "Pulp Fiction",
   "Matilda (1996)",
-  "Lilo and Stitch II: Stitch Has a Glitch",
   "Stitch: The Movie",
   "Back to the Future I",
   "Toy Story 5"
 ];
 
-const movieList = movies2027.map(title => ({
-  title,
-  count: 0,
-  dialogues: 0,
-  episodes: [{ name: title, count: 0, dialogues: 0 }]
-}));
+const movies2026_extra = [
+  "Unknown",
+  "Lilo and Stitch II: Stitch Has a Glitch"
+];
 
-data["2027"] = {
-  totalWords: 0,
-  uniqueMovies: movies2027.length,
-  topWord: { word: "N/A", count: 0, translation: "" },
-  topList: [],
-  movieList
-};
+function addMoviesToYear(year, newMovies) {
+  if (!data[year]) {
+    data[year] = {
+      totalWords: 0,
+      uniqueMovies: 0,
+      topWord: { word: "N/A", count: 0, translation: "" },
+      topList: [],
+      movieList: []
+    };
+  }
+
+  const existingMovies = data[year].movieList.map(m => m.title);
+  
+  const moviesToAdd = newMovies
+    .filter(title => !existingMovies.includes(title))
+    .map(title => ({
+      title,
+      count: 0,
+      dialogues: 0,
+      episodes: [{ name: title, count: 0, dialogues: 0 }]
+    }));
+
+  data[year].movieList = [...data[year].movieList, ...moviesToAdd];
+  data[year].uniqueMovies = data[year].movieList.length;
+}
+
+addMoviesToYear("2027", movies2027);
+addMoviesToYear("2026", movies2026_extra);
 
 // Also update yearlyData in 'all' or in manifest directly
 if (!data.yearlyData) data.yearlyData = [];
@@ -83,4 +100,4 @@ if (!data.yearlyData.find(y => y.year === '2027')) {
 }
 
 fs.writeFileSync(manifestPath, JSON.stringify(data, null, 2));
-console.log("Updated manifest with 2027 data");
+console.log("Updated manifest with extra data");

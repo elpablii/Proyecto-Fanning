@@ -1,4 +1,4 @@
-export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean }> = {
+export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean, id?: string }> = {
   "taylor swift the eras tour film": { q: "Taylor Swift: The Eras Tour" },
   "aves de presa": { q: "Birds of Prey", y: "2020" },
   "el escuadrón suicida": { q: "The Suicide Squad", y: "2021" },
@@ -28,7 +28,7 @@ export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean
   "alvin y las ardillas": { q: "Alvin and the Chipmunks", y: "2007" },
   "el padrino 1": { q: "The Godfather", y: "1972" },
   "el padrino": { q: "The Godfather", y: "1972" },
-  "teen spirit": { q: "Teen Spirit", y: "2018" },
+  "teen spirit": { q: "Teen Spirit", y: "2018", id: "440918" },
   "cuckoo": { q: "Cuckoo", y: "2024" },
   "kim possible (película 2019)": { q: "Kim Possible", y: "2019" },
   "the runaways": { q: "The Runaways", y: "2010" },

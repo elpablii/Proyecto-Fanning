@@ -57,9 +57,14 @@ const MovieCard = ({ title, count, dialogues, href }: { title: string, count: nu
     // Ordenamos las llaves por longitud descendente para evitar que "escuadron suicida" pise a "el escuadron suicida"
     const sortedKeys = Object.keys(tmdbOverrides).sort((a, b) => b.length - a.length);
 
+    let directId = null;
+
     for (const key of sortedKeys) {
       if (lowerTitle.includes(key)) {
         searchTitle = tmdbOverrides[key].q;
+        if (tmdbOverrides[key].id) {
+          directId = tmdbOverrides[key].id;
+        }
         if (tmdbOverrides[key].y) {
           if (tmdbOverrides[key].tv) {
             endpoint = 'search/tv';
@@ -73,6 +78,18 @@ const MovieCard = ({ title, count, dialogues, href }: { title: string, count: nu
         }
         break;
       }
+    }
+
+    if (directId) {
+      fetch(`https://api.themoviedb.org/3/movie/${directId}?api_key=${apiKey}&language=en-US`)
+        .then(res => res.json())
+        .then(data => {
+          if (data.poster_path) {
+            setPosterUrl(`https://image.tmdb.org/t/p/w500${data.poster_path}`);
+          }
+        })
+        .catch(console.error);
+      return;
     }
 
     fetch(`https://api.themoviedb.org/3/${endpoint}?api_key=${apiKey}&query=${encodeURIComponent(searchTitle)}&language=en-US${extraParams}`)

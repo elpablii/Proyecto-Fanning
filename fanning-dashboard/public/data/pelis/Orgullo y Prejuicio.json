@@ -1,0 +1,722 @@
+{
+  "title": "Orgullo y Prejuicio",
+  "englishAnalysis": "Un escaparate del inglés británico del siglo XIX. El lenguaje es muy formal, educado y lleno de cortesías elaboradas. Es perfecto para sumergirse en una gramática más compleja, vocabulario avanzado de época y las sutilezas del romance clásico de alta cuna.",
+  "vocabulary": [
+    {
+      "word": "Tiresome",
+      "translation": "cansado"
+    },
+    {
+      "word": "establecerse aquí?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Good heavens (expresión)",
+      "translation": "¡Santo cielo!"
+    },
+    {
+      "word": "Amiable",
+      "translation": "affable, simpatico, amable"
+    },
+    {
+      "word": "Warts",
+      "translation": "verrugas"
+    },
+    {
+      "word": "Muslin",
+      "translation": "muselina"
+    },
+    {
+      "word": "Your mending",
+      "translation": "tus arreglos"
+    },
+    {
+      "word": "I'll retrim your new bonnet",
+      "translation": "te volveré a adornar tu nuevo sombrero"
+    },
+    {
+      "word": "I think one of my toes just came off",
+      "translation": "creo que se me acaba de caer un dedo del pie"
+    },
+    {
+      "word": "Humourless poppycocks",
+      "translation": "tonterías sin sentido del humor"
+    },
+    {
+      "word": "How good of you to come",
+      "translation": "qué bueno que hayas venido"
+    },
+    {
+      "word": "Quizzical brow",
+      "translation": "ceja inquisitiva"
+    },
+    {
+      "word": "Take the veil",
+      "translation": "tomar los hábitos"
+    },
+    {
+      "word": "Agreeable",
+      "translation": "agradable"
+    },
+    {
+      "word": "She is a most amusing young woman",
+      "translation": "es una joven muy divertida"
+    },
+    {
+      "word": "She’s plain",
+      "translation": "ella es sencilla"
+    },
+    {
+      "word": "And that put paid to it (frase no literal)",
+      "translation": "y eso acabó con todo"
+    },
+    {
+      "word": "Stout love",
+      "translation": "amor inquebrantable"
+    },
+    {
+      "word": "en ciernes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Of little standing (no literal)",
+      "translation": "de poca importancia"
+    },
+    {
+      "word": "The way you carry on",
+      "translation": "la forma en que actúas/te comportas"
+    },
+    {
+      "word": "Make haste",
+      "translation": "darse prisa"
+    },
+    {
+      "word": "Good grief (expresión)",
+      "translation": "¡Por Dios!"
+    },
+    {
+      "word": "Matchmaking (sustantivo)",
+      "translation": "emparejamiento"
+    },
+    {
+      "word": "Hem",
+      "translation": "dobladillo"
+    },
+    {
+      "word": "I feel such a terrible imposition",
+      "translation": "siento que es una imposición terrible"
+    },
+    {
+      "word": "Tend to someone (verbo)",
+      "translation": "cuidar a alguien"
+    },
+    {
+      "word": "She's in far better comfort",
+      "translation": "ella está mucho más cómoda"
+    },
+    {
+      "word": "Learned pig",
+      "translation": "cerdo sabio/erudito"
+    },
+    {
+      "word": "Blossom (sustantivo)",
+      "translation": "flor, florecilla"
+    },
+    {
+      "word": "I do dote on her",
+      "translation": "la adoro"
+    },
+    {
+      "word": "I was quite in raptures",
+      "translation": "estaba completamente extasiado"
+    },
+    {
+      "word": "éxtasis",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Accomplished (adjetivo)",
+      "translation": "talentoso"
+    },
+    {
+      "word": "Embroider (verbo)",
+      "translation": "bordar"
+    },
+    {
+      "word": "sentado en la misma postura",
+      "translation": "No registrada"
+    },
+    {
+      "word": "The follies",
+      "translation": "las locuras"
+    },
+    {
+      "word": "For I dearly love to laugh",
+      "translation": "porque me encanta reír"
+    },
+    {
+      "word": "What a fine imposing place to be sure",
+      "translation": "qué lugar tan imponente, sin duda alguna"
+    },
+    {
+      "word": "mal, eres bienvenido",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Lashes",
+      "translation": "pestañas"
+    },
+    {
+      "word": "Sirloin",
+      "translation": "solomillo"
+    },
+    {
+      "word": "He may turn us out of the house",
+      "translation": "puede echarnos de la casa"
+    },
+    {
+      "word": "As soon as he pleases",
+      "translation": "tan pronto como le plazca"
+    },
+    {
+      "word": "The estate",
+      "translation": "la herencia, la propiedad"
+    },
+    {
+      "word": "What a superbly featured room",
+      "translation": "qué habitación tan magnífica"
+    },
+    {
+      "word": "My small rectory abuts her estate",
+      "translation": "mi pequeña rectoría colinda con su finca"
+    },
+    {
+      "word": "Dwelling (sustantivo)",
+      "translation": "morada, vivienda"
+    },
+    {
+      "word": "Phaeton",
+      "translation": "faetón"
+    },
+    {
+      "word": "obligado a pagar",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Arise (verbo)",
+      "translation": "surgir"
+    },
+    {
+      "word": "natural posible",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I've been bestowed by the good grace of",
+      "translation": "he sido bendecido con la gracia"
+    },
+    {
+      "word": "A parsonage of no mean size",
+      "translation": "una casa parroquial de tamaño considerable"
+    },
+    {
+      "word": "encontrar pronto una dueña para él",
+      "translation": "No registrada"
+    },
+    {
+      "word": "todo el sexo masculino",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I shan't even browse",
+      "translation": "ni siquiera voy a echar un vistazo"
+    },
+    {
+      "word": "Buckles",
+      "translation": "hebillas"
+    },
+    {
+      "word": "su herencia",
+      "translation": "No registrada"
+    },
+    {
+      "word": "The living",
+      "translation": "la vida"
+    },
+    {
+      "word": "I'm a poor foot-soldier",
+      "translation": "soy un pobre soldado de a pie"
+    },
+    {
+      "word": "Too lowly even to be noticed",
+      "translation": "demasiado insignificante como para ser notado"
+    },
+    {
+      "word": "Breathe in!",
+      "translation": "¡Respira hondo!"
+    },
+    {
+      "word": "A rather more willing dancer",
+      "translation": "un bailarín bastante más dispuesto"
+    },
+    {
+      "word": "It's breathtaking",
+      "translation": "es impresionante"
+    },
+    {
+      "word": "Pleasantries",
+      "translation": "palabras amables"
+    },
+    {
+      "word": "Dote (verbo no literal)",
+      "translation": "adorar"
+    },
+    {
+      "word": "Her Ladyship, have complimented me",
+      "translation": "su Señoría me ha felicitado"
+    },
+    {
+      "word": "On my lightness of foot",
+      "translation": "por mi ligereza de pies"
+    },
+    {
+      "word": "Lavish (verbo)",
+      "translation": "colmar, cubrir"
+    },
+    {
+      "word": "Loathe (verbo)",
+      "translation": "odiar, detestar"
+    },
+    {
+      "word": "Most invigorating",
+      "translation": "lo más estimulante"
+    },
+    {
+      "word": "I'm perfectly happy to oblige",
+      "translation": "estoy encantado de hacerlo"
+    },
+    {
+      "word": "Perhaps by and by I may observe",
+      "translation": "quizás con el tiempo pueda observar"
+    },
+    {
+      "word": "To make out your character",
+      "translation": "para definer tu carácter"
+    },
+    {
+      "word": "As puzzle me exceedingly",
+      "translation": "que me tienen completamente desconcertado"
+    },
+    {
+      "word": "Most advantageous",
+      "translation": "muy ventajoso"
+    },
+    {
+      "word": "So grand (en realeza)",
+      "translation": "tan grandiosamente/majestuosamente"
+    },
+    {
+      "word": "Proper encouragement",
+      "translation": "estímulo adecuado"
+    },
+    {
+      "word": "He cannot perceive her regard",
+      "translation": "no puede percibir su consideración"
+    },
+    {
+      "word": "She should snap him up",
+      "translation": "ella debería quedarse con él"
+    },
+    {
+      "word": "Piglet",
+      "translation": "lechón"
+    },
+    {
+      "word": "Drawing room (no literal)",
+      "translation": "salón"
+    },
+    {
+      "word": "Single out",
+      "translation": "elegir"
+    },
+    {
+      "word": "Before I am run away with my feelings",
+      "translation": "antes de que me deje llevar por mis"
+    },
+    {
+      "word": "sentimientos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "It will add greatly to my happiness",
+      "translation": "contribuirá en gran medida a mi felicidad"
+    },
+    {
+      "word": "At the urging of my esteemed patroness",
+      "translation": "a instancias de mi patrona"
+    },
+    {
+      "word": "Manifold",
+      "translation": "multiple"
+    },
+    {
+      "word": "We're all in an uproar (frase no literal)",
+      "translation": "estamos todos muy alterados"
+    },
+    {
+      "word": "From this day onward",
+      "translation": "a partir de hoy, desde hoy en adelante"
+    },
+    {
+      "word": "We are scarcely less eager",
+      "translation": "nosotros estamos casi igual de ansiosos"
+    },
+    {
+      "word": "Her equal",
+      "translation": "su igual"
+    },
+    {
+      "word": "Hereafter (adverbio)",
+      "translation": "de ahora en adelante"
+    },
+    {
+      "word": "convencerlo de lo contrario",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Wilfully",
+      "translation": "deliberadamente"
+    },
+    {
+      "word": "You're free to go off and be jilted yourself",
+      "translation": "eres libre de irte y que te dejen"
+    },
+    {
+      "word": "plantado a ti también",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Obliging",
+      "translation": "amable"
+    },
+    {
+      "word": "What with your departure, Jane's to London",
+      "translation": "con tu partida, la de Jane a Londres"
+    },
+    {
+      "word": "Abode (alusivo a un inmueble)",
+      "translation": "morada"
+    },
+    {
+      "word": "rama y plantar un camino de tilos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Parlour (en inglés británico)",
+      "translation": "salón, sala"
+    },
+    {
+      "word": "Averse",
+      "translation": "averso, reacio"
+    },
+    {
+      "word": "The glazing alone costs upwards of $20.000",
+      "translation": "solo el acristalamiento cuesta más de 20"
+    },
+    {
+      "word": "000",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Come along",
+      "translation": "ven conmigo"
+    },
+    {
+      "word": "Governess",
+      "translation": "institutriz"
+    },
+    {
+      "word": "Amusement",
+      "translation": "diversion"
+    },
+    {
+      "word": "Sisterly affection (parcialmente no literal)",
+      "translation": "afecto/cariño fraternal"
+    },
+    {
+      "word": "You can hardly expect me to own to it",
+      "translation": "apenas puedes esperar que lo reconozca"
+    },
+    {
+      "word": "Proficent",
+      "translation": "experto, profesional"
+    },
+    {
+      "word": "Scarce",
+      "translation": "escasos"
+    },
+    {
+      "word": "amistoso o cortés",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Step forth",
+      "translation": "dar un paso adelante"
+    },
+    {
+      "word": "Reconnoitre (verbo en francés)",
+      "translation": "reconocer"
+    },
+    {
+      "word": "Convenience (no literal)",
+      "translation": "comodidad"
+    },
+    {
+      "word": "Hinder (verbo)",
+      "translation": "obstaculizar"
+    },
+    {
+      "word": "rechazan así?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "To derision",
+      "translation": "al escarnio"
+    },
+    {
+      "word": "Some bearing",
+      "translation": "cierta influencia"
+    },
+    {
+      "word": "Misfortune",
+      "translation": "desgracia"
+    },
+    {
+      "word": "presentado contra mí",
+      "translation": "No registrada"
+    },
+    {
+      "word": "juego en cuestión de semanas",
+      "translation": "No registrada"
+    },
+    {
+      "word": "He severed all acquaintance",
+      "translation": "rompió toda relación con él"
+    },
+    {
+      "word": "Elope (verbo)",
+      "translation": "fugarse"
+    },
+    {
+      "word": "Convey (verbo)",
+      "translation": "transmitir"
+    },
+    {
+      "word": "I'm quite over him",
+      "translation": "ya lo he superado"
+    },
+    {
+      "word": "He will keep her out of any real mischief",
+      "translation": "él la mantendrá alejada de cualquier"
+    },
+    {
+      "word": "problema grave",
+      "translation": "No registrada"
+    },
+    {
+      "word": "We'd be obliged",
+      "translation": "estaríamos muy agradecidos"
+    },
+    {
+      "word": "That savours strongly of bitterness",
+      "translation": "eso sabe mucho a amargura"
+    },
+    {
+      "word": "Very well-stocked lake",
+      "translation": "lago muy bien abastecido"
+    },
+    {
+      "word": "I've a hankering to see it",
+      "translation": "tengo muchas ganas de verlo"
+    },
+    {
+      "word": "Snob (traducción aproximada)",
+      "translation": "pedante, presumido, presuntuoso"
+    },
+    {
+      "word": "He once had to put up with my playing",
+      "translation": "una vez tuvo que aguantar mi forma de tocar"
+    },
+    {
+      "word": "Are you fond of?",
+      "translation": "¿Te gusta? (una acción o hacer algo)"
+    },
+    {
+      "word": "Perfidious",
+      "translation": "pérfido, traicionero"
+    },
+    {
+      "word": "He will turn us out before he is cold",
+      "translation": "nos echará antes de que se enfríe"
+    },
+    {
+      "word": "todo el cuerpo!",
+      "translation": "No registrada"
+    },
+    {
+      "word": "tu tío a ese desgraciado",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Slight",
+      "translation": "leve"
+    },
+    {
+      "word": "A bowl of punch",
+      "translation": "una ponchera"
+    },
+    {
+      "word": "Preach away",
+      "translation": "predicar"
+    },
+    {
+      "word": "She was horrid unpleasant",
+      "translation": "era horriblemente desagradable"
+    },
+    {
+      "word": "Boasts some spectacular scenery",
+      "translation": "cuenta con unos paisajes espectaculares"
+    },
+    {
+      "word": "de los hijos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "One seems to forlorn without them",
+      "translation": "uno se siente desamparado sin ellos"
+    },
+    {
+      "word": "A haunch of pork",
+      "translation": "una pierna de cerdo"
+    },
+    {
+      "word": "Impudence",
+      "translation": "descaro, impudencia, desfachatez"
+    },
+    {
+      "word": "I dread other people's remarks",
+      "translation": "me dan miedo los comentarios de los demás"
+    },
+    {
+      "word": "Do not appear overbearing",
+      "translation": "no se muestren prepotentes"
+    },
+    {
+      "word": "For the shooting (alusivo a disparar)",
+      "translation": "para el tiro"
+    },
+    {
+      "word": "Oblige (verbo en ciertos contextos)",
+      "translation": "complacer"
+    },
+    {
+      "word": "Coveys",
+      "translation": "bandadas"
+    },
+    {
+      "word": "Untoward",
+      "translation": "inoportuno, desafortunado"
+    },
+    {
+      "word": "Assiduously",
+      "translation": "asiduamente"
+    },
+    {
+      "word": "los engañarán sin descanso",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Effectually (adverbio)",
+      "translation": "eficazmente, efectivamente, eficientemente"
+    },
+    {
+      "word": "explicó?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Unfathomable",
+      "translation": "incomprensible, insondable"
+    },
+    {
+      "word": "Unforgiving",
+      "translation": "implacable"
+    },
+    {
+      "word": "me dispuse a expresar mis sentimientos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "usted quien lo ha difundido diligentemente?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Elopement",
+      "translation": "fuga"
+    },
+    {
+      "word": "Patched-up",
+      "translation": "arreglado"
+    },
+    {
+      "word": "sombras de Pemberly?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "reparar un comportamiento así?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Be making amends (verbo)",
+      "translation": "reparar el daño causado"
+    },
+    {
+      "word": "Trifle (verbo)",
+      "translation": "jugar (en sentido de tomar el pelo a una persona)"
+    },
+    {
+      "word": "Scarcely",
+      "translation": "apenas"
+    },
+    {
+      "word": "Bewitch (verbo)",
+      "translation": "hechizar, embrujar"
+    },
+    {
+      "word": "Part (verbo)",
+      "translation": "separar"
+    },
+    {
+      "word": "cabeza?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "I've been nonsensical",
+      "translation": "he estado diciendo tonterías"
+    },
+    {
+      "word": "I'm overruled",
+      "translation": "me han rechazado"
+    },
+    {
+      "word": "Heartily",
+      "translation": "de todo corazón, cordialmente"
+    },
+    {
+      "word": "I'm quite at my leisure",
+      "translation": "estoy bastante libre"
+    },
+    {
+      "word": "usar?",
+      "translation": "No registrada"
+    }
+  ]
+}

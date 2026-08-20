@@ -1,0 +1,726 @@
+{
+  "title": "Love Actually",
+  "englishAnalysis": "Un clásico moderno que sirve como una clase maestra en los diferentes acentos británicos. La película presenta desde el RP (Received Pronunciation) del Primer Ministro, hasta acentos más coloquiales. Su vocabulario abarca situaciones románticas, laborales y familiares.",
+  "vocabulary": [
+    {
+      "word": "Get gloomy",
+      "translation": "ponerse triste"
+    },
+    {
+      "word": "General opinion makes out that",
+      "translation": "la opinión general es que"
+    },
+    {
+      "word": "It's not dignified or newsworthy",
+      "translation": "No es digno ni tiene interés periodístico"
+    },
+    {
+      "word": "Wives (plural de wife)",
+      "translation": "esposas"
+    },
+    {
+      "word": "A sneaky feeling",
+      "translation": "una sensación sospechosa"
+    },
+    {
+      "word": "maldito idiota",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Let it snow",
+      "translation": "que nieve"
+    },
+    {
+      "word": "Bugger off (despectivo)",
+      "translation": "lárgate, vete al carajo"
+    },
+    {
+      "word": "The stag night",
+      "translation": "la despedida de soltero"
+    },
+    {
+      "word": "Household staff",
+      "translation": "personal doméstico"
+    },
+    {
+      "word": "tal de posponer el gobierno del país",
+      "translation": "No registrada"
+    },
+    {
+      "word": "The last lot (no literal)",
+      "translation": "la última vez"
+    },
+    {
+      "word": "Nappies",
+      "translation": "pañales"
+    },
+    {
+      "word": "Fuck up",
+      "translation": "cagarla, arruinar, meter la pata"
+    },
+    {
+      "word": "Piss it (expresión)",
+      "translation": "déjalo"
+    },
+    {
+      "word": "I just went (no literal)",
+      "translation": "simplemente dije"
+    },
+    {
+      "word": "By the giving of rings",
+      "translation": "mediante la entrega/intercambio de anillos"
+    },
+    {
+      "word": "Pop over",
+      "translation": "pasar por aquí"
+    },
+    {
+      "word": "Obliging (adjetivo)",
+      "translation": "servicial, complaciente"
+    },
+    {
+      "word": "Pop back",
+      "translation": "volver"
+    },
+    {
+      "word": "Dodgy",
+      "translation": "sospechoso, dudoso"
+    },
+    {
+      "word": "They're stuck up",
+      "translation": "son unas creídas/arrogantes"
+    },
+    {
+      "word": "Arsehole",
+      "translation": "idiota, imbécil"
+    },
+    {
+      "word": "Lighting",
+      "translation": "iluminación"
+    },
+    {
+      "word": "Take the top off",
+      "translation": "quitar la tapa"
+    },
+    {
+      "word": "Bloody freezing (informal)",
+      "translation": "hace un frío que pela"
+    },
+    {
+      "word": "Time's tight (expresión)",
+      "translation": "el tiempo apremia"
+    },
+    {
+      "word": "Junction",
+      "translation": "salida, intersección"
+    },
+    {
+      "word": "Gridlock",
+      "translation": "embotellamiento, taco (en español chileno)"
+    },
+    {
+      "word": "She was pretty damn clear about",
+      "translation": "ella fue muy clara al respecto"
+    },
+    {
+      "word": "Ever so coolly",
+      "translation": "con mucha calma"
+    },
+    {
+      "word": "I'd ask bluntly",
+      "translation": "te lo preguntaría sin rodeos"
+    },
+    {
+      "word": "próxima canción",
+      "translation": "No registrada"
+    },
+    {
+      "word": "That's quite a few of you (no literal)",
+      "translation": "son bastantes, son unos cuantos"
+    },
+    {
+      "word": "Settling in fine?",
+      "translation": "¿Te estás adaptando bien?"
+    },
+    {
+      "word": "Fire away (no literal)",
+      "translation": "adelante"
+    },
+    {
+      "word": "I'm left with no one, wrinkled",
+      "translation": "Me quedé sin nadie, arrugado"
+    },
+    {
+      "word": "Shag (sustantivo en sentido sugerente)",
+      "translation": "relación sexual, polvo, tirarse a alguien"
+    },
+    {
+      "word": "She was rubbish",
+      "translation": "era una basura, era un desastre"
+    },
+    {
+      "word": "Smug teenager",
+      "translation": "adolescente engreído/presumido"
+    },
+    {
+      "word": "extendidos desnudos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Dingy flat",
+      "translation": "piso/departamento lúgubre"
+    },
+    {
+      "word": "My festering turd of a record",
+      "translation": "mi asqueroso disco de mierda"
+    },
+    {
+      "word": "Crassness",
+      "translation": "grosería"
+    },
+    {
+      "word": "Stand (sustantivo)",
+      "translation": "postura, decisión"
+    },
+    {
+      "word": "Who do you have to screw round here",
+      "translation": "a quién tienes que engañar aquí"
+    },
+    {
+      "word": "Cheat (verbo no alusivo a engañar)",
+      "translation": "inclinar, desviar"
+    },
+    {
+      "word": "And ditto",
+      "translation": "y lo mismo digo"
+    },
+    {
+      "word": "I grant you",
+      "translation": "te lo concede"
+    },
+    {
+      "word": "Over-order on the drinks",
+      "translation": "pide bebidas en exceso"
+    },
+    {
+      "word": "Bulk buy (verbo)",
+      "translation": "comprar por mayor"
+    },
+    {
+      "word": "Unfondled",
+      "translation": "sin acariciar"
+    },
+    {
+      "word": "I'll just be hanging around the mistletoe",
+      "translation": "estaré por ahí, cerca del muérdago"
+    },
+    {
+      "word": "Sissies",
+      "translation": "cobardes"
+    },
+    {
+      "word": "I'm well shot of him (frase no literal)",
+      "translation": "estoy harto de él"
+    },
+    {
+      "word": "Fancy (verbo)",
+      "translation": "gustar, atraer"
+    },
+    {
+      "word": "Tree trunks",
+      "translation": "troncos de árbol"
+    },
+    {
+      "word": "Special Air Service (SAS)",
+      "translation": "Servicio Aéreo Especial"
+    },
+    {
+      "word": "You saucy minx (para esta película)",
+      "translation": "pícara"
+    },
+    {
+      "word": "Crack (verbo en problemas)",
+      "translation": "resolver"
+    },
+    {
+      "word": "Scamps",
+      "translation": "granujas"
+    },
+    {
+      "word": "Felt-tip pen",
+      "translation": "rotulador"
+    },
+    {
+      "word": "Gorgeous sendoff",
+      "translation": "magnífica despedida"
+    },
+    {
+      "word": "Wibbly",
+      "translation": "tembloroso, ondulado"
+    },
+    {
+      "word": "Matchmaking plans",
+      "translation": "planes para encontrar pareja"
+    },
+    {
+      "word": "I've done fuck-all",
+      "translation": "no he hecho una mierda"
+    },
+    {
+      "word": "For doing dark deeds",
+      "translation": "para cometer/hacer actos oscuros"
+    },
+    {
+      "word": "Er, je suis, er, tr s heureux (en francés)",
+      "translation": "eh, estoy, eh, muy contento"
+    },
+    {
+      "word": "De vous avoir ici (en francés)",
+      "translation": "de tenerte aquí"
+    },
+    {
+      "word": "Tie a girl down (no literal)",
+      "translation": "comprometerse con una chica"
+    },
+    {
+      "word": "Sickeningly",
+      "translation": "repugnantemente, repulsivamente"
+    },
+    {
+      "word": "From now onward",
+      "translation": "de ahora en adelante"
+    },
+    {
+      "word": "A golden oldie",
+      "translation": "un clásico"
+    },
+    {
+      "word": "Get chubbier",
+      "translation": "engordar"
+    },
+    {
+      "word": "Put on weight (verbo)",
+      "translation": "engordar"
+    },
+    {
+      "word": "It's all just rubbish",
+      "translation": "todo eso son tonterías"
+    },
+    {
+      "word": "I'm a total spaz",
+      "translation": "soy un completo desastre"
+    },
+    {
+      "word": "Bloody (expresión despectiva)",
+      "translation": "carajo, maldita sea"
+    },
+    {
+      "word": "He bad grandad",
+      "translation": "era el abuelo"
+    },
+    {
+      "word": "Banoffee pie",
+      "translation": "pie de plátano y caramelo"
+    },
+    {
+      "word": "You've never particularly warmed to me",
+      "translation": "nunca me has tenido mucho cariño"
+    },
+    {
+      "word": "Tape (verbo)",
+      "translation": "grabar"
+    },
+    {
+      "word": "You can just show yourself out",
+      "translation": "puedes salir tú mismo"
+    },
+    {
+      "word": "Sizeable",
+      "translation": "grande, considerable"
+    },
+    {
+      "word": "Get laid",
+      "translation": "fornicar, tener sexo/relaciones sexuales"
+    },
+    {
+      "word": "Superbly",
+      "translation": "magníficamente, excelentemente"
+    },
+    {
+      "word": "ese pequeño y obvio contratiempo",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Snare",
+      "translation": "caja, tambor"
+    },
+    {
+      "word": "The duty round",
+      "translation": "la ronda de guardia"
+    },
+    {
+      "word": "Blue are outselling me five to one",
+      "translation": "los azules me están superando en ventas cinco a uno"
+    },
+    {
+      "word": "tardío",
+      "translation": "No registrada"
+    },
+    {
+      "word": "A song stark naked",
+      "translation": "una canción completamente desnuda"
+    },
+    {
+      "word": "Just tug it",
+      "translation": "sólo tira de él"
+    },
+    {
+      "word": "Songbird",
+      "translation": "pájaro cantor"
+    },
+    {
+      "word": "There's a word for hangover",
+      "translation": "hay una palabra para referirse a la resaca"
+    },
+    {
+      "word": "Stationery line",
+      "translation": "línea de papelería"
+    },
+    {
+      "word": "Staplers",
+      "translation": "grapadoras"
+    },
+    {
+      "word": "Let me just pop it in the box (no literal)",
+      "translation": "déjame ponerlo/meterlo en la caja"
+    },
+    {
+      "word": "The final flourish (frase no literal)",
+      "translation": "el toque final"
+    },
+    {
+      "word": "A sprig of holly",
+      "translation": "una ramita de acebo"
+    },
+    {
+      "word": "Holly",
+      "translation": "acebo"
+    },
+    {
+      "word": "Lointering around the jewellery section?",
+      "translation": "¿Deambulando por la sección de joyería?"
+    },
+    {
+      "word": "Rent out my flat",
+      "translation": "alquilar mi departamento"
+    },
+    {
+      "word": "Keep that going",
+      "translation": "sigue así"
+    },
+    {
+      "word": "Sorry to be a bit forward",
+      "translation": "perdón por ser un poco directo"
+    },
+    {
+      "word": "Ramble (verbo)",
+      "translation": "divagar"
+    },
+    {
+      "word": "Drumbeats",
+      "translation": "golpes de tambor, redobles"
+    },
+    {
+      "word": "It's the first ever preview (no literal)",
+      "translation": "es la primera vista previa/avance de la historia"
+    },
+    {
+      "word": "Sugarplums",
+      "translation": "dulces"
+    },
+    {
+      "word": "Manger",
+      "translation": "pesebre"
+    },
+    {
+      "word": "I would like half-pint of churly",
+      "translation": "me gustaría medio litro de churly"
+    },
+    {
+      "word": "Prawns",
+      "translation": "gambas"
+    },
+    {
+      "word": "Roundabouts",
+      "translation": "rotondas, glorietas"
+    },
+    {
+      "word": "I'm on shag highway",
+      "translation": "estoy en la autopista del sexo"
+    },
+    {
+      "word": "He's got a big knob",
+      "translation": "tiene un pito enorme"
+    },
+    {
+      "word": "I'll just check into a motel",
+      "translation": "me voy a registrar en un motel"
+    },
+    {
+      "word": "Pushy",
+      "translation": "agresivo, insistente"
+    },
+    {
+      "word": "gente, habrá mucho calor y todo eso",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Way up high or down low",
+      "translation": "muy alto o muy bajo"
+    },
+    {
+      "word": "Take it easy (frase no literal)",
+      "translation": "tómalo con calma, tranquilo, relájate"
+    },
+    {
+      "word": "The dizzy dancing way",
+      "translation": "el vertiginoso baile"
+    },
+    {
+      "word": "Don't give yourself away (frase no literal)",
+      "translation": "no te delates"
+    },
+    {
+      "word": "Give or take",
+      "translation": "dar y recibir"
+    },
+    {
+      "word": "To say I love you right out loud",
+      "translation": "decirte que te amo en voz alta"
+    },
+    {
+      "word": "You wee motherless mongrel",
+      "translation": "maldito bastardo sin madre"
+    },
+    {
+      "word": "Chart show",
+      "translation": "programa de éxitos"
+    },
+    {
+      "word": "Embarrassingly",
+      "translation": "vergonzosamente"
+    },
+    {
+      "word": "Give them a quid and tell them to bugger off",
+      "translation": "dales una libra y diles que se larguen"
+    },
+    {
+      "word": "Round yon virgin",
+      "translation": "alrededor de la virgen"
+    },
+    {
+      "word": "So tender and mild",
+      "translation": "tan tierno y suave"
+    },
+    {
+      "word": "Shepherds quake",
+      "translation": "los pastores tiemblan"
+    },
+    {
+      "word": "Stream (verbo no alusivo al streaming)",
+      "translation": "fluir"
+    },
+    {
+      "word": "From heaven afar",
+      "translation": "desde el cielo lejano"
+    },
+    {
+      "word": "Heavenly hosts sing alleluia",
+      "translation": "las huestes celestiales cantan aleluya"
+    },
+    {
+      "word": "Just come up",
+      "translation": "sólo sube"
+    },
+    {
+      "word": "As dire chance (expresión)",
+      "translation": "por muy remota que fuera la posibilidad"
+    },
+    {
+      "word": "And fateful cockup",
+      "translation": "y un desastre fatídico"
+    },
+    {
+      "word": "Chubby",
+      "translation": "regordete, gordito"
+    },
+    {
+      "word": "Much as it grieves me to say it",
+      "translation": "por mucho que me duela decirlo"
+    },
+    {
+      "word": "A hefty number (no literal)",
+      "translation": "una gran cantidad, una cantidad considerable"
+    },
+    {
+      "word": "Let's get pissed (informal y no literal)",
+      "translation": "vamos a emborracharnos"
+    },
+    {
+      "word": "A prize idiot",
+      "translation": "un idiota integral, un completo idiota"
+    },
+    {
+      "word": "Get hotter",
+      "translation": "calentarse"
+    },
+    {
+      "word": "Nochevieja",
+      "translation": "No registrada"
+    },
+    {
+      "word": "When the snow lay round about deep and crisp",
+      "translation": "cuando la nieve cubría todo alrededor,"
+    },
+    {
+      "word": "profunda y crujiente",
+      "translation": "No registrada"
+    },
+    {
+      "word": "And even brightly shone the moon that night",
+      "translation": "e incluso brillaba la luna aquella noche"
+    },
+    {
+      "word": "I'm sorry about all the cockups",
+      "translation": "y lamento todos los errores"
+    },
+    {
+      "word": "Give a lift (verbo)",
+      "translation": "llevar, dar un aventón"
+    },
+    {
+      "word": "Hold tight",
+      "translation": "agarrarse/aferrarse fuerte"
+    },
+    {
+      "word": "Slink (verbo)",
+      "translation": "acercarse sigilosamente, arrastrarse"
+    },
+    {
+      "word": "I will be very sorry to drive away from you",
+      "translation": "me dará mucha pena alejarme de ti"
+    },
+    {
+      "word": "These things are going on",
+      "translation": "estas cosas están sucediendo/pasando"
+    },
+    {
+      "word": "Catering manager",
+      "translation": "gerente de catering"
+    },
+    {
+      "word": "Lead vocals by ten-year-old",
+      "translation": "voz principal de una niña de diez años"
+    },
+    {
+      "word": "Backing vocals",
+      "translation": "coros"
+    },
+    {
+      "word": "I just want you for my own",
+      "translation": "solo te quiero para mí"
+    },
+    {
+      "word": "Would you cut and run? (pregunta no literal)",
+      "translation": "¿Te irías sin más?"
+    },
+    {
+      "word": "I'm so in the wrong",
+      "translation": "estoy tan equivocado"
+    },
+    {
+      "word": "You've also made a fool out of me",
+      "translation": "también me has hecho quedar como un tonto"
+    },
+    {
+      "word": "una tontería",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Treats (no literal alusivo a un aperitivo)",
+      "translation": "dulces, golosinas"
+    },
+    {
+      "word": "Classic drumming",
+      "translation": "tambores/percusión básica"
+    },
+    {
+      "word": "paliza",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Boarding pass",
+      "translation": "tarjeta de embarque"
+    },
+    {
+      "word": "Hold on to that",
+      "translation": "aguanta eso"
+    },
+    {
+      "word": "With a view to (no literal)",
+      "translation": "con la intención de"
+    },
+    {
+      "word": "Inhabit with me",
+      "translation": "vivir conmigo"
+    },
+    {
+      "word": "You skinny moron",
+      "translation": "estúpido flacucho"
+    },
+    {
+      "word": "Tag along",
+      "translation": "seguir, acompañar"
+    },
+    {
+      "word": "Shut your face (no literal)",
+      "translation": "collate"
+    },
+    {
+      "word": "Love can be a many splendored thing",
+      "translation": "el amor puede ser algo maravilloso"
+    },
+    {
+      "word": "Fool (verbo)",
+      "translation": "engañar"
+    },
+    {
+      "word": "Tear up",
+      "translation": "destrozar"
+    },
+    {
+      "word": "See you got no say at all",
+      "translation": "ya ves que no tienes nada que decir"
+    },
+    {
+      "word": "Mend (verbo)",
+      "translation": "arreglar, reparar"
+    },
+    {
+      "word": "I can feel you getting hotter",
+      "translation": "puedo sentir cómo te calientas"
+    },
+    {
+      "word": "Take down",
+      "translation": "derrotar, derribar"
+    },
+    {
+      "word": "Jump in",
+      "translation": "subirse"
+    },
+    {
+      "word": "Fill up",
+      "translation": "llenar"
+    }
+  ]
+}

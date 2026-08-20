@@ -1,0 +1,662 @@
+{
+  "title": "Schindler's List",
+  "englishAnalysis": "Una obra que maneja un tono serio y solemne. El vocabulario es formal y cargado de terminología histórica, empresarial y militar de la Segunda Guerra Mundial. Requiere un nivel más avanzado debido a la carga dramática y a los variados acentos europeos.",
+  "vocabulary": [
+    {
+      "word": "Commandments",
+      "translation": "mandamientos"
+    },
+    {
+      "word": "And delighted in us",
+      "translation": "y se ha complacido con nosotros"
+    },
+    {
+      "word": "The whole cord of licorice costa a thaler",
+      "translation": "el cordón entero de regaliz cuesta un táler"
+    },
+    {
+      "word": "produciendo a granel",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Cellar",
+      "translation": "bodega"
+    },
+    {
+      "word": "Riding club",
+      "translation": "club de equitación, club hípico"
+    },
+    {
+      "word": "They weather the storm",
+      "translation": "ellos capean el temporal, ellos afrontan la tormenta"
+    },
+    {
+      "word": "He sends him out into the wide world",
+      "translation": "lo envía al mundo exterior"
+    },
+    {
+      "word": "Pillage (sustantivo común)",
+      "translation": "saqueo"
+    },
+    {
+      "word": "Enamelware",
+      "translation": "artículos/utensilios esmaltados"
+    },
+    {
+      "word": "Mess kits",
+      "translation": "kits de comedor"
+    },
+    {
+      "word": "Panache",
+      "translation": "estilo"
+    },
+    {
+      "word": "Mink collar (no literal)",
+      "translation": "cuello de visón"
+    },
+    {
+      "word": "A truckload of wicks",
+      "translation": "un camión cargado de mechas"
+    },
+    {
+      "word": "Shoe polish",
+      "translation": "betún para zapatos"
+    },
+    {
+      "word": "Fill out",
+      "translation": "rellenar, completar"
+    },
+    {
+      "word": "Silverware",
+      "translation": "cubiertos de plata"
+    },
+    {
+      "word": "Edict",
+      "translation": "decreto"
+    },
+    {
+      "word": "Racket (en ciertos contextos)",
+      "translation": "negocio"
+    },
+    {
+      "word": "My housing assignment",
+      "translation": "mi asignación de vivienda"
+    },
+    {
+      "word": "To be upheld by what court?",
+      "translation": "¿Qué tribunal lo confirmará?"
+    },
+    {
+      "word": "Unskilled",
+      "translation": "no cualificado"
+    },
+    {
+      "word": "Poles",
+      "translation": "polacos"
+    },
+    {
+      "word": "Barter (verbo)",
+      "translation": "intercambiar"
+    },
+    {
+      "word": "A metal polisher",
+      "translation": "un pulidor de metales"
+    },
+    {
+      "word": "The round sheet of tin",
+      "translation": "la lámina redonda de hojalata"
+    },
+    {
+      "word": "Deutsche emailwarenfabrik (en alemán)",
+      "translation": "fábrica alemana de artículos esmaltados"
+    },
+    {
+      "word": "File (en términos no informáticos)",
+      "translation": "lima (en referencia a la herramienta)"
+    },
+    {
+      "word": "A skilled metalworker",
+      "translation": "un experto metalúrgico"
+    },
+    {
+      "word": "Tin",
+      "translation": "hojalata, estaño"
+    },
+    {
+      "word": "Skilled",
+      "translation": "cualificado, hábil, experto"
+    },
+    {
+      "word": "pinzas en la solución de esmalte",
+      "translation": "No registrada"
+    },
+    {
+      "word": "After swiveling it around",
+      "translation": "después de girarlo"
+    },
+    {
+      "word": "Place it aside to drip dry",
+      "translation": "déjalo a un lado para que se seque al aire"
+    },
+    {
+      "word": "un registro de mis citas, taquigrafía",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Stately music",
+      "translation": "música solemne"
+    },
+    {
+      "word": "The chunk chocolate",
+      "translation": "el trozo de chocolate"
+    },
+    {
+      "word": "Sample (verbo en sabores)",
+      "translation": "degustar, probar"
+    },
+    {
+      "word": "Rags",
+      "translation": "harapos"
+    },
+    {
+      "word": "Enamelware crockery",
+      "translation": "vajilla esmaltada"
+    },
+    {
+      "word": "Craft (verbo)",
+      "translation": "elaborar, fabricar"
+    },
+    {
+      "word": "Journeymen",
+      "translation": "oficiales, jornaleros"
+    },
+    {
+      "word": "A product of unparalleled quality",
+      "translation": "un producto de calidad sin igual"
+    },
+    {
+      "word": "Proffer (verbo)",
+      "translation": "ofrecer, brindar, presentar"
+    },
+    {
+      "word": "Kitchenware",
+      "translation": "menaje, utensilios de cocina"
+    },
+    {
+      "word": "Enclosed bids",
+      "translation": "ofertas presentadas"
+    },
+    {
+      "word": "Gross (en cantidades)",
+      "translation": "brutos"
+    },
+    {
+      "word": "The corteous thing",
+      "translation": "lo cortés, la cortesía"
+    },
+    {
+      "word": "Charade",
+      "translation": "farsa"
+    },
+    {
+      "word": "A steamer trunk",
+      "translation": "un baúl"
+    },
+    {
+      "word": "No doorman or maitre d'will ever presume",
+      "translation": "ningún portero ni maître se atreverá jamás"
+    },
+    {
+      "word": "a presumir",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Shovel (verbo)",
+      "translation": "palear, cavar"
+    },
+    {
+      "word": "File a grievance (frase no literal)",
+      "translation": "presenta una queja"
+    },
+    {
+      "word": "Metal press",
+      "translation": "prensa metálica"
+    },
+    {
+      "word": "Clerk",
+      "translation": "clérigo, empleado"
+    },
+    {
+      "word": "Close the doors tightly",
+      "translation": "cierre bien las puertas"
+    },
+    {
+      "word": "Squalor",
+      "translation": "miseria"
+    },
+    {
+      "word": "quedamos charlando?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Surplus labor, the elderly and infirm",
+      "translation": "exceso de mano de obra, ancianos y enfermos"
+    },
+    {
+      "word": "Why is the top down?",
+      "translation": "¿Por qué está bajada la capota?"
+    },
+    {
+      "word": "Barracks",
+      "translation": "barracones"
+    },
+    {
+      "word": "This backbreaking work",
+      "translation": "este trabajo agotador"
+    },
+    {
+      "word": "cimentación y volver a hormigonarla",
+      "translation": "No registrada"
+    },
+    {
+      "word": "When elsewhere they were footing the blame",
+      "translation": "Mientras que en otros lugares estaban"
+    },
+    {
+      "word": "asumiendo la culpa",
+      "translation": "No registrada"
+    },
+    {
+      "word": "His mercy is everlasting",
+      "translation": "su misericordia es eterna"
+    },
+    {
+      "word": "Trundle (verbo)",
+      "translation": "arrastrar, rodar"
+    },
+    {
+      "word": "They took hold",
+      "translation": "se afianzaron, se hicieron el control"
+    },
+    {
+      "word": "Flourish (verbo)",
+      "translation": "prosperar, florecer"
+    },
+    {
+      "word": "You Jew sow (despectivo)",
+      "translation": "judía asquerosa"
+    },
+    {
+      "word": "Door bursts open (acotación)",
+      "translation": "la puerta se abre de golpe"
+    },
+    {
+      "word": "Wail (verbo)",
+      "translation": "gemir, lamentarse"
+    },
+    {
+      "word": "Bundles",
+      "translation": "fardos, paquetes"
+    },
+    {
+      "word": "Thoroughfare",
+      "translation": "vía pública"
+    },
+    {
+      "word": "Roll call! (expresión)",
+      "translation": "¡Pase lista!"
+    },
+    {
+      "word": "Fall in!",
+      "translation": "¡Formen filas!"
+    },
+    {
+      "word": "Everyone line up!",
+      "translation": "¡Todos en fila!"
+    },
+    {
+      "word": "Read out",
+      "translation": "leer en voz alta"
+    },
+    {
+      "word": "Feign (verbo)",
+      "translation": "fingir"
+    },
+    {
+      "word": "A metalworks, brush factory",
+      "translation": "una fábrica de metalisería y cepillos"
+    },
+    {
+      "word": "That stand to benefit most",
+      "translation": "las que más se beneficiarán"
+    },
+    {
+      "word": "Sheen",
+      "translation": "brillo"
+    },
+    {
+      "word": "Barbed wire",
+      "translation": "alambre de púas"
+    },
+    {
+      "word": "Ceramic insulator",
+      "translation": "aislante cerámico"
+    },
+    {
+      "word": "Stand on my friend (frase no literal)",
+      "translation": "apóyense en mi amigo"
+    },
+    {
+      "word": "Lice",
+      "translation": "piojos"
+    },
+    {
+      "word": "Payoffs",
+      "translation": "pagos"
+    },
+    {
+      "word": "Suppliers",
+      "translation": "proveedores, suministradores"
+    },
+    {
+      "word": "Dealings (sustantivo)",
+      "translation": "tratos, negociaciones, negocios"
+    },
+    {
+      "word": "I'll look in on you",
+      "translation": "te visitaré"
+    },
+    {
+      "word": "Hinges",
+      "translation": "bisagras"
+    },
+    {
+      "word": "The pin shaft",
+      "translation": "el eje del pasador"
+    },
+    {
+      "word": "My heap of hinges",
+      "translation": "mi montón de bisagras"
+    },
+    {
+      "word": "It's just been oiled",
+      "translation": "acaban de engrasarlo"
+    },
+    {
+      "word": "Turn out a hinge",
+      "translation": "sacar/girar una bisagra"
+    },
+    {
+      "word": "Haven",
+      "translation": "refugio"
+    },
+    {
+      "word": "You've been misled",
+      "translation": "te han engañado"
+    },
+    {
+      "word": "Entrap (verbo)",
+      "translation": "atrapar, tender una trampa"
+    },
+    {
+      "word": "Crook",
+      "translation": "ladrón, delincuente"
+    },
+    {
+      "word": "fuera del recinto",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Line up",
+      "translation": "ponerse en fila"
+    },
+    {
+      "word": "He drew his gun (frase no literal)",
+      "translation": "él sacó su pistola"
+    },
+    {
+      "word": "Mercy",
+      "translation": "misericordia, piedad"
+    },
+    {
+      "word": "Saddle",
+      "translation": "silla de montar"
+    },
+    {
+      "word": "Lye (sustantivo común)",
+      "translation": "lejía"
+    },
+    {
+      "word": "He forbade to us those who are betrothed",
+      "translation": "nos prohibió a los que están"
+    },
+    {
+      "word": "comprometidos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Canopy (en sentido religioso)",
+      "translation": "dosel"
+    },
+    {
+      "word": "Thought you could curse it in despair",
+      "translation": "pensé que podrías maldecirlo en tu"
+    },
+    {
+      "word": "desesperación",
+      "translation": "No registrada"
+    },
+    {
+      "word": "It must get lonely down here",
+      "translation": "debe ser muy solitario estar aquí abajo"
+    },
+    {
+      "word": "Vermint",
+      "translation": "alimaña"
+    },
+    {
+      "word": "golpes",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Warehouse",
+      "translation": "almacén, bodega, depósito"
+    },
+    {
+      "word": "Cloak room",
+      "translation": "guardarropa"
+    },
+    {
+      "word": "They were herded down a big corridor",
+      "translation": "los condujeron por un gran pasillo"
+    },
+    {
+      "word": "The list makers",
+      "translation": "los creadores de listas"
+    },
+    {
+      "word": "It's another semi-annual physical",
+      "translation": "es otra revisión médica semestral"
+    },
+    {
+      "word": "Squat (expresión)",
+      "translation": "ponte de cuclillas"
+    },
+    {
+      "word": "Marzipan",
+      "translation": "mazapán"
+    },
+    {
+      "word": "And hose down the cars",
+      "translation": "y lavemos los autos con manguera"
+    },
+    {
+      "word": "Indulge (verbo)",
+      "translation": "hacer el favor, hacer el gusto, permitir"
+    },
+    {
+      "word": "The far end (no literal)",
+      "translation": "el extremo más alejado"
+    },
+    {
+      "word": "I'll go for a drive with you",
+      "translation": "iré a dar una vuelta contigo"
+    },
+    {
+      "word": "Did your prick fall off? (despectivo)",
+      "translation": "¿Se te cayó el pito?"
+    },
+    {
+      "word": "They should be pitied (frase no literal)",
+      "translation": "hay que compadecerse con ellos"
+    },
+    {
+      "word": "Just all the scraps",
+      "translation": "sólo todos los restos"
+    },
+    {
+      "word": "talla",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Artillery shells",
+      "translation": "proyectiles de artillería"
+    },
+    {
+      "word": "Shells (en términos armamentísticos)",
+      "translation": "proyectiles"
+    },
+    {
+      "word": "I can't work it out",
+      "translation": "no puedo resolverlo/entenderlo"
+    },
+    {
+      "word": "Paid for out of your own pocket",
+      "translation": "pagado de tu propio bolsillo"
+    },
+    {
+      "word": "Give or take (frase no literal)",
+      "translation": "más o menos"
+    },
+    {
+      "word": "All around its margins lies the gulf",
+      "translation": "a su alrededor se extiende el golfo"
+    },
+    {
+      "word": "A clerical error (no literal)",
+      "translation": "un error administrativo"
+    },
+    {
+      "word": "Hit a natural, I make it 14800 (no literal)",
+      "translation": "consigo un natural, lo pongo en 14800"
+    },
+    {
+      "word": "Wager (verbo)",
+      "translation": "apostar"
+    },
+    {
+      "word": "Schindlerjuden (en alemán)",
+      "translation": "judíos de Schindler"
+    },
+    {
+      "word": "Come on, out with you",
+      "translation": "vamos, salga/fuera"
+    },
+    {
+      "word": "The train was never routed here",
+      "translation": "el tren nunca pasó por aquí"
+    },
+    {
+      "word": "A kindness",
+      "translation": "un acto de bondad/gentileza"
+    },
+    {
+      "word": "Archway",
+      "translation": "arco"
+    },
+    {
+      "word": "Get stuck on names",
+      "translation": "obsesionarse con los nombres"
+    },
+    {
+      "word": "The insides of shell metal casings",
+      "translation": "el interior de las carcasas metálicas/los casquillos"
+    },
+    {
+      "word": "Shell casing",
+      "translation": "casquillo"
+    },
+    {
+      "word": "por daños y perjuicios",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Summary executions",
+      "translation": "ejecuciones sumarias"
+    },
+    {
+      "word": "confundirte jamás",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Rocket casings",
+      "translation": "carcasas de cohetes"
+    },
+    {
+      "word": "Start-up problems",
+      "translation": "problemas iniciales"
+    },
+    {
+      "word": "Withhold payment",
+      "translation": "retener el pago"
+    },
+    {
+      "word": "We'll get it right (no literal)",
+      "translation": "lo haremos bien"
+    },
+    {
+      "word": "Pass them off as ours (no literal)",
+      "translation": "haz que parezcan nuestros"
+    },
+    {
+      "word": "Fewer shells will be made",
+      "translation": "se fabricarán menos proyectiles"
+    },
+    {
+      "word": "tanto, a su fin",
+      "translation": "No registrada"
+    },
+    {
+      "word": "de las víctimas",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Profiteer",
+      "translation": "especulador"
+    },
+    {
+      "word": "Bring forth (verbo frasal)",
+      "translation": "traer"
+    },
+    {
+      "word": "Hasten (verbo)",
+      "translation": "acelerar"
+    },
+    {
+      "word": "Speedily",
+      "translation": "rápidamente, velozmente"
+    },
+    {
+      "word": "Extoll (verbo)",
+      "translation": "alabar, ensalzar"
+    },
+    {
+      "word": "Lauded",
+      "translation": "alabado"
+    },
+    {
+      "word": "Slumber",
+      "translation": "sueño, letargo"
+    }
+  ]
+}

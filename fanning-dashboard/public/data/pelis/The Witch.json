@@ -1,0 +1,490 @@
+{
+  "title": "The Witch",
+  "englishAnalysis": "Un desafío fascinante: el diálogo está escrito en un riguroso inglés moderno temprano (siglo XVII). Está lleno de arcaísmos ('thee', 'thou'), referencias bíblicas y terminología puritana. Ideal para quienes desean explorar la raíz histórica profunda del idioma.",
+  "vocabulary": [
+    {
+      "word": "salvaje?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Kindred",
+      "translation": "similar"
+    },
+    {
+      "word": "Travail (verbo)",
+      "translation": "atravesar, recorrer"
+    },
+    {
+      "word": "Faithful",
+      "translation": "fiel"
+    },
+    {
+      "word": "Gospel",
+      "translation": "evangelio"
+    },
+    {
+      "word": "Idle (adjetivo)",
+      "translation": "ocioso, despreocupado"
+    },
+    {
+      "word": "Commandments",
+      "translation": "mandamientos"
+    },
+    {
+      "word": "And everlasting hellfire",
+      "translation": "y el fuego eterno del infierno"
+    },
+    {
+      "word": "Good morrow",
+      "translation": "buen día"
+    },
+    {
+      "word": "Tis no ease (inglés antiguo)",
+      "translation": "no es fácil"
+    },
+    {
+      "word": "Been a'layin traps",
+      "translation": "he estado poniendo trampas"
+    },
+    {
+      "word": "Wilderness",
+      "translation": "tierra salvaje"
+    },
+    {
+      "word": "Iniquity",
+      "translation": "iniquidad, maldad"
+    },
+    {
+      "word": "Bent unto sin",
+      "translation": "inclinado al pecado"
+    },
+    {
+      "word": "Wickedness",
+      "translation": "maldad, perversidad"
+    },
+    {
+      "word": "I ought evil in me heart",
+      "translation": "debo el mal en mi corazón"
+    },
+    {
+      "word": "When last they past through",
+      "translation": "cuando pasaron por última vez"
+    },
+    {
+      "word": "She's overwrought already",
+      "translation": "ya está sobreexitada"
+    },
+    {
+      "word": "Make haste",
+      "translation": "dáte prisa"
+    },
+    {
+      "word": "Fie upon't! (inglés antiguo no literal)",
+      "translation": "¡Maldita sea!"
+    },
+    {
+      "word": "Den",
+      "translation": "guarida"
+    },
+    {
+      "word": "Wither (en inglés antiguo)",
+      "translation": "a dónde"
+    },
+    {
+      "word": "I bade them",
+      "translation": "les pedí, les ordené"
+    },
+    {
+      "word": "Brook",
+      "translation": "arroyo"
+    },
+    {
+      "word": "Brush out his woolens",
+      "translation": "cepilla sus lanas"
+    },
+    {
+      "word": "Wee one, it gave me such a fright",
+      "translation": "pequeño, me dió un gran susto"
+    },
+    {
+      "word": "Well behindhand",
+      "translation": "muy por detrás"
+    },
+    {
+      "word": "Godly (en sentido religioso)",
+      "translation": "santo"
+    },
+    {
+      "word": "Glance (verbo)",
+      "translation": "mirar, echar un vistazo"
+    },
+    {
+      "word": "Stray not from the brook",
+      "translation": "no te alejes del arroyo"
+    },
+    {
+      "word": "What are you dallying? (inglés antiguo)",
+      "translation": "¿Qué estás haciendo?"
+    },
+    {
+      "word": "I meant no harm in it",
+      "translation": "no pretendía hacer daño"
+    },
+    {
+      "word": "Come hither (inglés antiguo)",
+      "translation": "ven aquí"
+    },
+    {
+      "word": "encontrado",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Hear me stick a-flying through the trees",
+      "translation": "escúchame volar entre los árboles"
+    },
+    {
+      "word": "Cloak",
+      "translation": "capa, manto"
+    },
+    {
+      "word": "Twas (verbo to be pero en inglés antiguo)",
+      "translation": "fui, era"
+    },
+    {
+      "word": "He bade me",
+      "translation": "me pidió"
+    },
+    {
+      "word": "If thou displeaseth me (inglés antiguo)",
+      "translation": "si me desagradas"
+    },
+    {
+      "word": "Perchance (inglés antiguo)",
+      "translation": "tal vez, quizás"
+    },
+    {
+      "word": "Crave (verbo en algunos contextos)",
+      "translation": "ansiar, anhelar, desear"
+    },
+    {
+      "word": "Wickedness",
+      "translation": "maldad"
+    },
+    {
+      "word": "Hunger (verbo)",
+      "translation": "tener hambre"
+    },
+    {
+      "word": "Trifle (verbo)",
+      "translation": "jugar, juguetear"
+    },
+    {
+      "word": "Hovel",
+      "translation": "casucha, cuchitril"
+    },
+    {
+      "word": "What is amiss on this farm?",
+      "translation": "¿Qué pasa en esta granja?"
+    },
+    {
+      "word": "Bed down",
+      "translation": "acostar (a una persona)"
+    },
+    {
+      "word": "Evermore",
+      "translation": "por siempre, para siempre"
+    },
+    {
+      "word": "Ill (adjetivo en inglés antiguo)",
+      "translation": "maltratado"
+    },
+    {
+      "word": "There's naught hither! (inglés antiguo)",
+      "translation": "¡Aquí no hay nada!"
+    },
+    {
+      "word": "Chalice",
+      "translation": "cáliz"
+    },
+    {
+      "word": "Chide (verbo)",
+      "translation": "regañar, reprender"
+    },
+    {
+      "word": "Grieve (verbo)",
+      "translation": "afligirse, apenarse"
+    },
+    {
+      "word": "Womanhood",
+      "translation": "feminidad"
+    },
+    {
+      "word": "Hither (inglés antiguo)",
+      "translation": "aquí"
+    },
+    {
+      "word": "Throughout",
+      "translation": "en todo momento, todo el tiempo"
+    },
+    {
+      "word": "For repentant now shall be (inglés antiguo)",
+      "translation": "porque arrepentidos serán ahora"
+    },
+    {
+      "word": "Raise up",
+      "translation": "suscitar, obtener"
+    },
+    {
+      "word": "Yestermorn (inglés antiguo)",
+      "translation": "ayer por la mañana"
+    },
+    {
+      "word": "Pelts",
+      "translation": "pieles"
+    },
+    {
+      "word": "Covenant",
+      "translation": "pacto, alianza"
+    },
+    {
+      "word": "What ails him? (inglés antiguo)",
+      "translation": "¿Qué le pasa?"
+    },
+    {
+      "word": "Jest (inglés antiguo)",
+      "translation": "broma"
+    },
+    {
+      "word": "Ill (sustantivo)",
+      "translation": "mal, enfermedad"
+    },
+    {
+      "word": "Beggars",
+      "translation": "mendigos"
+    },
+    {
+      "word": "Scour (verbo)",
+      "translation": "buscar, recorrer"
+    },
+    {
+      "word": "Rot (sustantivo)",
+      "translation": "pobredumbre"
+    },
+    {
+      "word": "Bare (verbo en inglés antiguo)",
+      "translation": "soportar"
+    },
+    {
+      "word": "Fetch (verbo en dinero)",
+      "translation": "alcanzar, tener"
+    },
+    {
+      "word": "Shrew",
+      "translation": "arpía"
+    },
+    {
+      "word": "I was so ravaged",
+      "translation": "estaba tan destrozada"
+    },
+    {
+      "word": "If you can spare a while (frase no literal)",
+      "translation": "si tienes tiempo"
+    },
+    {
+      "word": "Mirth",
+      "translation": "alegría, júbilo, regocijo"
+    },
+    {
+      "word": "Abide (verbo)",
+      "translation": "soportar"
+    },
+    {
+      "word": "Broadaxe",
+      "translation": "hacha de guerra"
+    },
+    {
+      "word": "Stretch (adjetivo)",
+      "translation": "estrecho"
+    },
+    {
+      "word": "She had bade us keep secret from you!",
+      "translation": "¡Nos había ordenado que te guardáramos el"
+    },
+    {
+      "word": "secreto!",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Make bargain",
+      "translation": "hacer un trato"
+    },
+    {
+      "word": "Evil wretches!",
+      "translation": "¡Desgraciados!, ¡Miserables!"
+    },
+    {
+      "word": "Crow",
+      "translation": "cuervo"
+    },
+    {
+      "word": "Wallow (verbo)",
+      "translation": "revolcarse"
+    },
+    {
+      "word": "Shepherd",
+      "translation": "pastor"
+    },
+    {
+      "word": "Pastures",
+      "translation": "pastos, pastizales"
+    },
+    {
+      "word": "Cast a light of countenance upon me",
+      "translation": "arroja una luz de rostro sobre mí"
+    },
+    {
+      "word": "Everflowing",
+      "translation": "eternas, siempre fluyentes"
+    },
+    {
+      "word": "Thy embrace! (inglés antiguo)",
+      "translation": "¡Tu abrazo!"
+    },
+    {
+      "word": "Wail (verbo en sentido emocional)",
+      "translation": "lamentarse"
+    },
+    {
+      "word": "Get thee gone! (inglés antiguo)",
+      "translation": "¡Vete!"
+    },
+    {
+      "word": "precioso en primavera",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Thither (inglés antiguo)",
+      "translation": "allí, allá"
+    },
+    {
+      "word": "A proper farm (parcialmente no literal)",
+      "translation": "una granja de verdad"
+    },
+    {
+      "word": "Pale",
+      "translation": "pálido"
+    },
+    {
+      "word": "Naked as sin and witch'd?",
+      "translation": "¿Desnuda como el pecado y hechizada?"
+    },
+    {
+      "word": "Un-witch (verbo)",
+      "translation": "deshechizar"
+    },
+    {
+      "word": "Rid (verbo)",
+      "translation": "librar"
+    },
+    {
+      "word": "Rail (verbo)",
+      "translation": "regañar, echar encima"
+    },
+    {
+      "word": "You cannot bring the crops to yield!",
+      "translation": "¡No puedes hacer que las cosechas/cultivos"
+    },
+    {
+      "word": "rindan!",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Wag the tongue (verbo)",
+      "translation": "mover/menear la lengua"
+    },
+    {
+      "word": "Horned (adjetivo)",
+      "translation": "cornudo"
+    },
+    {
+      "word": "Bewitch (verbo)",
+      "translation": "embrujar, hechizar"
+    },
+    {
+      "word": "Unholy bond",
+      "translation": "vínculo limpio/profano"
+    },
+    {
+      "word": "If this be pretense",
+      "translation": "si esto es pretension"
+    },
+    {
+      "word": "Dissemblers! Grave pretenders all",
+      "translation": "¡Divulgadores! Pretendientes graves todos"
+    },
+    {
+      "word": "Play a fool (verbo)",
+      "translation": "hacer el tonto, hacer el ridículo"
+    },
+    {
+      "word": "Scripture",
+      "translation": "escritura (en sentido religioso)"
+    },
+    {
+      "word": "Billhook",
+      "translation": "gancho"
+    },
+    {
+      "word": "Smite (verbo)",
+      "translation": "golpear, herir"
+    },
+    {
+      "word": "Dash (verbo)",
+      "translation": "romper"
+    },
+    {
+      "word": "I'll break thee out upon the dawn",
+      "translation": "te sacaré al amanecer"
+    },
+    {
+      "word": "Filth",
+      "translation": "suciedad, inmundicia"
+    },
+    {
+      "word": "como quieras y redime a mis hijos",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Tame (verbo)",
+      "translation": "domar, domesticar"
+    },
+    {
+      "word": "Damn (verbo)",
+      "translation": "condenar, maldecir"
+    },
+    {
+      "word": "We have longed to see you so",
+      "translation": "hemos anhelado tanto verte"
+    },
+    {
+      "word": "Would that please you?",
+      "translation": "¿Te gustaría?"
+    },
+    {
+      "word": "You're smeared of his sin",
+      "translation": "estás manchado de su pecado"
+    },
+    {
+      "word": "I saw thy sluttish looks (inglés antiguo)",
+      "translation": "tus miradas de mujerzuela"
+    },
+    {
+      "word": "libro ante ti?",
+      "translation": "No registrada"
+    },
+    {
+      "word": "Remove thy shift (inglés antiguo)",
+      "translation": "quita tu turno"
+    }
+  ]
+}
