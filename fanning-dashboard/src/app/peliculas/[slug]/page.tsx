@@ -1,6 +1,8 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info, Edit2 } from 'lucide-react';
 import { tmdbOverrides } from '@/lib/tmdb';
@@ -25,7 +27,6 @@ export default function PeliculaPage() {
   const [isFlipped, setIsFlipped] = useState(false);
   const [studyMode, setStudyMode] = useState<'carousel' | 'practice'>('carousel');
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
-  const [selectedEpisode, setSelectedEpisode] = useState<string>('All');
 
   useEffect(() => {
     const fetchAllData = async () => {
@@ -119,7 +120,7 @@ export default function PeliculaPage() {
                     }
                     return; // Fin, ya usamos el manual
                 }
-            } catch(e) {}
+            } catch(_) {}
         }
 
         // 3.2. Búsqueda normal usando diccionario unificado
@@ -198,14 +199,7 @@ export default function PeliculaPage() {
       if (comprehensionPct >= 99.445) comprehensionPct = 100;
   }
 
-  const currentVocabulary = useMemo(() => {
-    if (!extraData || !extraData.vocabulary) return [];
-    if (selectedEpisode === 'All' || !extraData.episodes) {
-      return extraData.vocabulary;
-    }
-    const ep = extraData.episodes.find((e: any) => e.name === selectedEpisode);
-    return ep ? ep.vocabulary : extraData.vocabulary;
-  }, [extraData, selectedEpisode]);
+  const currentVocabulary = extraData?.vocabulary || [];
 
   return (
     <div className="min-h-screen bg-gray-950 text-white relative overflow-x-hidden font-sans pb-20">
@@ -215,10 +209,10 @@ export default function PeliculaPage() {
         {images.backdrop ? (
           <img src={images.backdrop} alt="Backdrop" className="w-full h-full object-cover opacity-30 scale-105" />
         ) : (
-          <div className="w-full h-full bg-gradient-to-br from-purple-900 to-black"></div>
+          <div className="w-full h-full bg-linear-to-br from-purple-900 to-black"></div>
         )}
         <div className="absolute inset-0 bg-black/70 backdrop-blur-md"></div>
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/60 to-gray-950"></div>
+        <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/60 to-gray-950"></div>
       </div>
 
       {/* Contenido Principal */}
@@ -249,7 +243,7 @@ export default function PeliculaPage() {
                                 try {
                                     const str = localStorage.getItem('tmdb_manual_overrides');
                                     if (str) saved = JSON.parse(str);
-                                } catch(e) {}
+                                } catch(_) {}
                                 delete saved[decodedTitle];
                                 localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
                                 window.location.reload();
@@ -269,7 +263,7 @@ export default function PeliculaPage() {
                             try {
                                 const str = localStorage.getItem('tmdb_manual_overrides');
                                 if (str) saved = JSON.parse(str);
-                            } catch(e) {}
+                            } catch(_) {}
                             saved[decodedTitle] = tmdbId.trim();
                             localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
                             window.location.reload();
@@ -287,18 +281,18 @@ export default function PeliculaPage() {
           {images.poster ? (
             <img src={images.poster} alt={decodedTitle} className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500" />
           ) : (
-            <div className="w-48 md:w-64 lg:w-72 aspect-[2/3] bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
+            <div className="w-48 md:w-64 lg:w-72 aspect-2/3 bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
               <Film size={48} className="text-white/50" />
             </div>
           )}
           
           <div className="flex-1 text-center md:text-left">
-            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">
+            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-linear-to-r from-white to-gray-400">
               {decodedTitle}
             </h1>
             
             <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-6">
-              <div className="bg-purple-900/40 border border-purple-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-[140px] max-w-[200px]">
+              <div className="bg-purple-900/40 border border-purple-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
                 <BookOpen size={24} className="mx-auto text-purple-400 mb-2" />
                 <p className="text-2xl font-bold text-white">{unknownWords.toLocaleString()}</p>
                 <p className="text-xs text-purple-300 uppercase tracking-wider font-semibold">Palabras</p>
@@ -306,12 +300,12 @@ export default function PeliculaPage() {
 
               {totalDialogues > 0 && (
                 <>
-                  <div className="bg-emerald-900/40 border border-emerald-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-[140px] max-w-[200px]">
+                  <div className="bg-emerald-900/40 border border-emerald-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
                     <Film size={24} className="mx-auto text-emerald-400 mb-2" />
                     <p className="text-2xl font-bold text-white">{totalDialogues.toLocaleString()}</p>
                     <p className="text-xs text-emerald-300 uppercase tracking-wider font-semibold">Líneas Diálogo</p>
                   </div>
-                  <div className="bg-cyan-900/40 border border-cyan-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-[140px] max-w-[200px]">
+                  <div className="bg-cyan-900/40 border border-cyan-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
                     <Info size={24} className="mx-auto text-cyan-400 mb-2" />
                     <p className="text-2xl font-bold text-white">{comprehensionPct.toFixed(2)}%</p>
                     <p className="text-xs text-cyan-300 uppercase tracking-wider font-semibold">Comprensión</p>
@@ -337,7 +331,7 @@ export default function PeliculaPage() {
 
                 {/* Inglés */}
                 {extraData && extraData.englishAnalysis && (
-                    <section className="bg-gradient-to-br from-purple-900/30 to-pink-900/20 border border-purple-500/30 p-6 sm:p-8 rounded-3xl backdrop-blur-xl">
+                    <section className="bg-linear-to-br from-purple-900/30 to-pink-900/20 border border-purple-500/30 p-6 sm:p-8 rounded-3xl backdrop-blur-xl">
                         <h2 className="text-2xl font-bold mb-4 flex items-center gap-2 text-purple-300">
                             <Quote className="text-purple-400" /> Análisis del Inglés
                         </h2>
@@ -370,7 +364,7 @@ export default function PeliculaPage() {
 
             {/* Sidebar Column: Vocabulario */}
             <div className="lg:col-span-1">
-                <section className="bg-white/5 border border-white/10 rounded-3xl backdrop-blur-xl h-full max-h-[800px] flex flex-col overflow-hidden">
+                <section className="bg-white/5 border border-white/10 rounded-3xl backdrop-blur-xl h-full max-h-200 flex flex-col overflow-hidden">
                     <div className="p-6 border-b border-white/10 bg-white/5 flex flex-col gap-4">
                         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                             <div>
@@ -394,21 +388,6 @@ export default function PeliculaPage() {
                                 </button>
                             )}
                         </div>
-                        {extraData && extraData.episodes && extraData.episodes.length > 0 && (
-                            <div className="mt-2 bg-black/40 p-3 rounded-lg border border-white/5">
-                                <label className="text-gray-300 text-sm font-semibold mb-2 block">Seleccionar Episodio:</label>
-                                <select 
-                                    value={selectedEpisode} 
-                                    onChange={(e) => setSelectedEpisode(e.target.value)}
-                                    className="bg-gray-900 text-white px-3 py-2 rounded border border-gray-700 focus:outline-none focus:border-purple-500 w-full text-sm"
-                                >
-                                    <option value="All">Toda la Serie ({extraData.vocabulary?.length || 0})</option>
-                                    {extraData.episodes.map((ep: any, idx: number) => (
-                                        <option key={idx} value={ep.name}>{ep.name} ({ep.vocabulary.length})</option>
-                                    ))}
-                                </select>
-                            </div>
-                        )}
                     </div>
                     
                     <div className="p-6 overflow-y-auto flex-1 custom-scrollbar">
@@ -491,13 +470,13 @@ export default function PeliculaPage() {
 
                       {/* Flashcard 3D Container */}
                       <div 
-                          className="relative w-full max-w-2xl flex-1 min-h-[250px] perspective-1000 cursor-pointer group"
+                          className="relative w-full max-w-2xl flex-1 min-h-62.5 perspective-1000 cursor-pointer group"
                           onClick={() => setIsFlipped(!isFlipped)}
                       >
                           <div className={`w-full h-full duration-700 preserve-3d relative ${isFlipped ? 'rotate-y-180' : ''}`}>
                               
                               {/* Front (English) */}
-                              <div className="absolute w-full h-full backface-hidden rounded-3xl bg-gradient-to-br from-gray-800 to-gray-900 border-2 border-gray-700 shadow-2xl flex flex-col items-center justify-center p-6 text-center transition group-hover:border-purple-500/50">
+                              <div className="absolute w-full h-full backface-hidden rounded-3xl bg-linear-to-br from-gray-800 to-gray-900 border-2 border-gray-700 shadow-2xl flex flex-col items-center justify-center p-6 text-center transition group-hover:border-purple-500/50">
                                   <span className="absolute top-4 text-gray-500 uppercase tracking-widest text-xs font-bold">Inglés</span>
                                   <h3 className="text-3xl sm:text-5xl font-black text-white leading-tight">
                                       {flashcards[currentCardIndex]?.word}
@@ -506,7 +485,7 @@ export default function PeliculaPage() {
                               </div>
 
                               {/* Back (Spanish) */}
-                              <div className="absolute w-full h-full backface-hidden rotate-y-180 rounded-3xl bg-gradient-to-br from-emerald-900/40 to-gray-900 border-2 border-emerald-500/50 shadow-2xl flex flex-col items-center justify-center p-6 text-center">
+                              <div className="absolute w-full h-full backface-hidden rotate-y-180 rounded-3xl bg-linear-to-br from-emerald-900/40 to-gray-900 border-2 border-emerald-500/50 shadow-2xl flex flex-col items-center justify-center p-6 text-center">
                                   <span className="absolute top-4 text-emerald-500/50 uppercase tracking-widest text-xs font-bold">Español</span>
                                   <h3 className="text-2xl sm:text-4xl font-bold text-emerald-100 leading-tight">
                                       {flashcards[currentCardIndex]?.translation}
@@ -592,7 +571,7 @@ export default function PeliculaPage() {
       {/* LIGHTBOX MODAL PARA IMÁGENES */}
       {selectedImage && (
         <div 
-          className="fixed inset-0 z-[60] flex items-center justify-center bg-black/95 backdrop-blur-xl p-4 cursor-zoom-out"
+          className="fixed inset-0 z-60 flex items-center justify-center bg-black/95 backdrop-blur-xl p-4 cursor-zoom-out"
           onClick={() => setSelectedImage(null)}
         >
           <div className="relative max-w-7xl max-h-[90vh] flex items-center justify-center">

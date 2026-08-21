@@ -1,6 +1,6 @@
 {
   "all": {
-    "totalWords": 32792,
+    "totalWords": 32764,
     "uniqueMovies": 175,
     "topWord": {
       "word": "Rely (verb)",
@@ -273,17 +273,6 @@
         "dialogues": 2160
       },
       {
-        "title": "The Perfect Couple",
-        "count": 256,
-        "episodes": [
-          {
-            "name": "The Perfect Couple",
-            "count": 256
-          }
-        ],
-        "dialogues": 4154
-      },
-      {
         "title": "The Girl From Plainville",
         "count": 249,
         "episodes": [
@@ -378,6 +367,37 @@
           }
         ],
         "dialogues": 2605
+      },
+      {
+        "title": "The Perfect Couple",
+        "count": 228,
+        "episodes": [
+          {
+            "name": "The Perfect Couple (Episode 1)",
+            "count": 43
+          },
+          {
+            "name": "The Perfect Couple (Episode 2)",
+            "count": 42
+          },
+          {
+            "name": "The Perfect Couple (Episode 3)",
+            "count": 24
+          },
+          {
+            "name": "The Perfect Couple (Episode 4)",
+            "count": 24
+          },
+          {
+            "name": "The Perfect Couple (Episode 5)",
+            "count": 48
+          },
+          {
+            "name": "The Perfect Couple (Episode 6)",
+            "count": 47
+          }
+        ],
+        "dialogues": 4154
       },
       {
         "title": "Mary Queen of Scots",
@@ -3753,7 +3773,7 @@
     ]
   },
   "2026": {
-    "totalWords": 11731,
+    "totalWords": 11703,
     "uniqueMovies": 61,
     "topWord": {
       "word": "Landlord",
@@ -3869,17 +3889,6 @@
         "dialogues": 8438
       },
       {
-        "title": "The Perfect Couple",
-        "count": 256,
-        "episodes": [
-          {
-            "name": "The Perfect Couple",
-            "count": 256
-          }
-        ],
-        "dialogues": 4154
-      },
-      {
         "title": "The Girl From Plainville",
         "count": 249,
         "episodes": [
@@ -3916,6 +3925,37 @@
             "count": 34
           }
         ]
+      },
+      {
+        "title": "The Perfect Couple",
+        "count": 228,
+        "episodes": [
+          {
+            "name": "The Perfect Couple (Episode 1)",
+            "count": 43
+          },
+          {
+            "name": "The Perfect Couple (Episode 2)",
+            "count": 42
+          },
+          {
+            "name": "The Perfect Couple (Episode 3)",
+            "count": 24
+          },
+          {
+            "name": "The Perfect Couple (Episode 4)",
+            "count": 24
+          },
+          {
+            "name": "The Perfect Couple (Episode 5)",
+            "count": 48
+          },
+          {
+            "name": "The Perfect Couple (Episode 6)",
+            "count": 47
+          }
+        ],
+        "dialogues": 4154
       },
       {
         "title": "A Rainy Day in New York",
@@ -4656,7 +4696,7 @@
     },
     {
       "year": "2026",
-      "words": 11731,
+      "words": 11703,
       "dialogues": 160657
     },
     {
