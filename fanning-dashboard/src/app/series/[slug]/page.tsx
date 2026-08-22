@@ -13,7 +13,7 @@ export async function generateStaticParams() {
   return allMovies
     .filter((m: any) => m.type === 'series')
     .map((m: any) => ({
-      slug: encodeURIComponent(m.title),
+      slug: m.title,
     }));
 }
 
