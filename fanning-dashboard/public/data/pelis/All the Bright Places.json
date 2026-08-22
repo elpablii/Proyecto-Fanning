@@ -79,7 +79,7 @@
       "translation": "brotar"
     },
     {
-      "word": "People don’t like messy",
+      "word": "People don't like messy",
       "translation": "a la gente no le gusta el desorden"
     },
     {
@@ -202,5 +202,16 @@
       "word": "All along",
       "translation": "todo el tiempo, desde el principio"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Violet y Theodore son dos amigos cuyo encuentro cambia sus vidas para siempre. Mientras luchan por dejar atrás las cicatrices de su pasado, descubren que incluso los momentos más insignificantes pueden tener una importancia crucial en sus vidas.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+      "https://image.tmdb.org/t/p/w780/wVzvmLSSI2NPD1Ya9ePAStLqBFB.jpg",
+      "https://image.tmdb.org/t/p/w780/b9JiAboL0USRBgpw5P3PiOPUB0N.jpg",
+      "https://image.tmdb.org/t/p/w780/lqBIbjLA9l4EVwTNtehq17weTQq.jpg",
+      "https://image.tmdb.org/t/p/w780/q5vKYuUDs2DV7ucYYNrEV28vqEK.jpg"
+    ],
+    "episodes": null
+  }
 }

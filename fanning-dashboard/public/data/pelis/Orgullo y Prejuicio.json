@@ -63,7 +63,7 @@
       "translation": "es una joven muy divertida"
     },
     {
-      "word": "She’s plain",
+      "word": "She's plain",
       "translation": "ella es sencilla"
     },
     {
@@ -718,5 +718,17 @@
       "word": "usar?",
       "translation": "No registrada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+      "https://image.tmdb.org/t/p/w780/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
+      "https://image.tmdb.org/t/p/w780/ilgqNJgcfY4mXz8IKPIwCq4ovjU.jpg",
+      "https://image.tmdb.org/t/p/w780/2OZ2pTZNjso16ZnXEgyBW6ocENz.jpg",
+      "https://image.tmdb.org/t/p/w780/q4jf2bwTHPJakXKS12lhICWX0Np.jpg",
+      "https://image.tmdb.org/t/p/w780/5eOPzKm2xGUXwfs6pa7Goap4vWF.jpg"
+    ],
+    "episodes": null
+  }
 }

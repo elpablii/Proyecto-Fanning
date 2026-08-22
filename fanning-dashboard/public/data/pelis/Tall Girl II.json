@@ -371,12 +371,24 @@
       "translation": "ignorar"
     },
     {
-      "word": "Something’s off",
+      "word": "Something's off",
       "translation": "algo no esta bien"
     },
     {
       "word": "Can't keep us apart (frase no literal)",
       "translation": "nada nos separará"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg",
+      "https://image.tmdb.org/t/p/w780/llFohG9qY57Zc8yHIASCD9LHnDQ.jpg",
+      "https://image.tmdb.org/t/p/w780/vM9gdUBvSKRasOjBarZimJEfN3H.jpg",
+      "https://image.tmdb.org/t/p/w780/as2dssl5uUC7nuXA6TpCihKmGV4.jpg",
+      "https://image.tmdb.org/t/p/w780/gItxyKJaiE30wEU7E5NG1ijzS99.jpg",
+      "https://image.tmdb.org/t/p/w780/hTqCzBVbaHlYSTNNWVadq9gAPMx.jpg"
+    ],
+    "episodes": null
+  }
 }

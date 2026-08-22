@@ -91,7 +91,7 @@
       "translation": "suspendido, aplazado"
     },
     {
-      "word": "We’re next month’s garage sale fodder for sure",
+      "word": "We're next month's garage sale fodder for sure",
       "translation": "seguro que seremos parte de la"
     },
     {
@@ -259,7 +259,7 @@
       "translation": "ahorcar, colgar"
     },
     {
-      "word": "I’ve got dibs on his hat",
+      "word": "I've got dibs on his hat",
       "translation": "tengo derecho a su sombrero"
     },
     {
@@ -311,7 +311,7 @@
       "translation": "transbordador"
     },
     {
-      "word": "You’re cleared to enter",
+      "word": "You're cleared to enter",
       "translation": "puede entrar"
     },
     {
@@ -399,7 +399,7 @@
       "translation": "apretón de manos"
     },
     {
-      "word": "Something’s screwy here",
+      "word": "Something's screwy here",
       "translation": "hay algo raro aquí"
     },
     {
@@ -443,7 +443,7 @@
       "translation": "barbacoa, asado"
     },
     {
-      "word": "It’s busted",
+      "word": "It's busted",
       "translation": "está roto"
     },
     {
@@ -474,5 +474,17 @@
       "word": "Stick together",
       "translation": "mantenerse unidos"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg",
+      "https://image.tmdb.org/t/p/w780/39QpDXKtzVP4gkGxZIkjJNkOTWr.jpg",
+      "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "https://image.tmdb.org/t/p/w780/bSoOThXLrbgtphS2eZjwy2xYwVt.jpg",
+      "https://image.tmdb.org/t/p/w780/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg",
+      "https://image.tmdb.org/t/p/w780/uWEK5ivO2Lyvbf5AgNZ1rBVVfiI.jpg"
+    ],
+    "episodes": null
+  }
 }

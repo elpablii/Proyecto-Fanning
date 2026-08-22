@@ -318,5 +318,17 @@
       "word": "Slip a stable",
       "translation": "desliza un establo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "¡Que suenen las campanas! La estrella pop Sabrina Carpenter nos deleita con su primer especial lleno de canciones navideñas, duetos inesperados y cameos divertidísimos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+      "https://image.tmdb.org/t/p/w780/bksb4IPOKNxVv9q7di62O33vw3X.jpg",
+      "https://image.tmdb.org/t/p/w780/4rjgXajcmvdlFHH6sNUsNVPBaYF.jpg",
+      "https://image.tmdb.org/t/p/w780/yYYNQwJx9OQfk6y89Lo4YhPaZCc.jpg",
+      "https://image.tmdb.org/t/p/w780/ep0SYx9tCLyZjUn18UN0KdvOpmx.jpg",
+      "https://image.tmdb.org/t/p/w780/pHF3BZOP5gI6FYCumIwy1c3Oddp.jpg"
+    ],
+    "episodes": null
+  }
 }

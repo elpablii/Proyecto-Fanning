@@ -63,12 +63,24 @@
       "translation": "¡No te muevas!, ¡Quédate quieto!"
     },
     {
-      "word": "Surrounding them’s out (expresión informal)",
+      "word": "Surrounding them's out (expresión informal)",
       "translation": "no hay forma de rodearlos, no vale la"
     },
     {
       "word": "Get soft",
       "translation": "ablandarse, ponerse blando"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+      "https://image.tmdb.org/t/p/w780/Afkcvov0y7osi6NwubwpPL6pfrA.jpg",
+      "https://image.tmdb.org/t/p/w780/f1PRhFPSPKqa6OKIpnNOmP0StKH.jpg",
+      "https://image.tmdb.org/t/p/w780/hSOrDU4f8dqE7T8uw5e9I9g59i9.jpg",
+      "https://image.tmdb.org/t/p/w780/9vNoX1RrmpJoqLtFKuVSRIZwq7w.jpg",
+      "https://image.tmdb.org/t/p/w780/kyHrxR1maV2U0S2drf3Lr8s3p51.jpg"
+    ],
+    "episodes": null
+  }
 }

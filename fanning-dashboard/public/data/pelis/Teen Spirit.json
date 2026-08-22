@@ -123,7 +123,7 @@
       "translation": "mugir"
     },
     {
-      "word": "I’m so shit",
+      "word": "I'm so shit",
       "translation": "soy una mierda"
     },
     {
@@ -211,7 +211,7 @@
       "translation": "¿Qué le parece?"
     },
     {
-      "word": "She’s grand",
+      "word": "She's grand",
       "translation": "ella es grandiosa, ella es magnífica"
     },
     {
@@ -231,7 +231,7 @@
       "translation": "mañana tendremos que madrugar"
     },
     {
-      "word": "She’s out of it",
+      "word": "She's out of it",
       "translation": "está fuera de sí"
     },
     {
@@ -334,5 +334,17 @@
       "word": "Walk down",
       "translation": "bajar, caminar hacia abajo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Violet (Fanning) es una introvertida adolescente que vive en la Isla de Wight (Inglaterra) y que sueña con convertise en una estrella del Pop para poder así alejarse de tu triste panorama familiar. Con la ayuda de un inesperado mentor, Violet se inscribe en un concurso de canto que pondrá a prueba su integridad, talento y ambición.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+      "https://image.tmdb.org/t/p/w780/xEFt3DBxXW01eiSsh4SzbF9Nvgm.jpg",
+      "https://image.tmdb.org/t/p/w780/ic38JoDDcwns4SXqrLT93Wh6sSy.jpg",
+      "https://image.tmdb.org/t/p/w780/ecyI5NpwPAhsMSPFUZVxqZeL8nh.jpg",
+      "https://image.tmdb.org/t/p/w780/46iXerKPKwOefdMRcwhh2JtGoOQ.jpg",
+      "https://image.tmdb.org/t/p/w780/4hjyosidHta4BecvLm2APOXaSzE.jpg"
+    ],
+    "episodes": null
+  }
 }

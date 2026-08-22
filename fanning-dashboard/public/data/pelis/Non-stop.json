@@ -326,5 +326,17 @@
       "word": "Mid-air",
       "translation": "en el aire, en pleno vuelo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Bill Marks, un veterano agente del servicio aéreo de los Marshalls, se siente bastante quemado tanto con el mundo como con su profesión: no entiende su labor como un deber para salvaguardar vidas, sino como un rutinario trabajo de oficina a bordo de un avión. Sin embargo, un día, en un viaje trasatlántico de Nueva York a Londres recibe una serie de misteriosos mensajes de texto, en los que se le pide que inste al gobierno a hacer una transferencia de 150 millones de dólares a una cuenta secreta, pues, en caso contrario, un pasajero moriría cada 20 minutos. El juego del gato y el ratón se desarrollado a 40.000 pies de altura y con la vida de 200 pasajeros pendiente de un hilo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg",
+      "https://image.tmdb.org/t/p/w780/ATyUhnoHPoLPHPMSH2UtARGdAJ.jpg",
+      "https://image.tmdb.org/t/p/w780/ibPOKMIrIFv8lsNGvWrQVpxxUdD.jpg",
+      "https://image.tmdb.org/t/p/w780/1adx2GehRkaKBtTMuMPqgBhvgps.jpg",
+      "https://image.tmdb.org/t/p/w780/6WnfAvMv4nJWejr0J3cSdjQ1Bgp.jpg",
+      "https://image.tmdb.org/t/p/w780/A68zd1LjG7Rflv72rTCDZAOf1I3.jpg"
+    ],
+    "episodes": null
+  }
 }

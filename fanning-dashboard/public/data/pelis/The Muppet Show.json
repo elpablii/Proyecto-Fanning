@@ -178,5 +178,17 @@
       "word": "Meeping (acotación)",
       "translation": "pitido"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Ve detrás de las cortinas mientras Kermit the Frog y sus amigos muppets luchan por montar un programa de variedades semanal.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
+      "https://image.tmdb.org/t/p/w780/84BFgc17SEgHaKOfueXEEhbZCg3.jpg",
+      "https://image.tmdb.org/t/p/w780/r2WWs8SyY2H2aPY1bcCigDQ9GOd.jpg",
+      "https://image.tmdb.org/t/p/w780/h76QUsFV1f0Nx3RiDrq4WsepyRt.jpg",
+      "https://image.tmdb.org/t/p/w780/wplU0XzuelmYzMSeGZxWMZl4OvJ.jpg",
+      "https://image.tmdb.org/t/p/w780/arq0d8pt8qLXtlfGLlsf8ITesSe.jpg"
+    ],
+    "episodes": null
+  }
 }

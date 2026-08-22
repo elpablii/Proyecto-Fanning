@@ -27,7 +27,7 @@
       "translation": "placa"
     },
     {
-      "word": "I’m not even breaking a sweat",
+      "word": "I'm not even breaking a sweat",
       "translation": "ni siquiera estoy sudando"
     },
     {
@@ -43,7 +43,7 @@
       "translation": "servicio de jurado"
     },
     {
-      "word": "It’s still leaning to the left",
+      "word": "It's still leaning to the left",
       "translation": "todavía se inclina a la izquierda"
     },
     {
@@ -59,7 +59,7 @@
       "translation": "pequeño caracol de jardín"
     },
     {
-      "word": "I’ll try to be less careless",
+      "word": "I'll try to be less careless",
       "translation": "intentaré ser menos descuidado"
     },
     {
@@ -87,7 +87,7 @@
       "translation": "yo personalmente te pasaré por la"
     },
     {
-      "word": "I’m on a roll",
+      "word": "I'm on a roll",
       "translation": "estoy en una buena racha"
     },
     {
@@ -139,7 +139,7 @@
       "translation": "explotar"
     },
     {
-      "word": "We’re sitting targets",
+      "word": "We're sitting targets",
       "translation": "somos blancos fáciles"
     },
     {
@@ -155,11 +155,11 @@
       "translation": "estoy en blanco"
     },
     {
-      "word": "I’m off duty",
+      "word": "I'm off duty",
       "translation": "estoy fuera de servicio"
     },
     {
-      "word": "I’ve been extremely forgiving up to now",
+      "word": "I've been extremely forgiving up to now",
       "translation": "he sido extremadamente indulgente hasta"
     },
     {
@@ -179,11 +179,11 @@
       "translation": "mi flor tierna y rezumante"
     },
     {
-      "word": "You’ve had a lift",
+      "word": "You've had a lift",
       "translation": "te han operado"
     },
     {
-      "word": "You’ve had a tuck",
+      "word": "You've had a tuck",
       "translation": "te han metido"
     },
     {
@@ -191,7 +191,7 @@
       "translation": "esta bien, continua"
     },
     {
-      "word": "We’ll blend right in",
+      "word": "We'll blend right in",
       "translation": "nos mezclaremos perfectamente"
     },
     {
@@ -227,7 +227,7 @@
       "translation": "ojos furtivos"
     },
     {
-      "word": "You’re not pinning this on me",
+      "word": "You're not pinning this on me",
       "translation": "no me estás culpando de esto"
     },
     {
@@ -247,7 +247,7 @@
       "translation": "entender"
     },
     {
-      "word": "We’re through",
+      "word": "We're through",
       "translation": "terminamos"
     },
     {
@@ -267,7 +267,7 @@
       "translation": "¡Muy bien!"
     },
     {
-      "word": "Let’s get going",
+      "word": "Let's get going",
       "translation": "vamos, en marcha, manos a la obra"
     },
     {
@@ -327,7 +327,7 @@
       "translation": "mundo maravilloso"
     },
     {
-      "word": "Yak’s milk",
+      "word": "Yak's milk",
       "translation": "leche de yak"
     },
     {
@@ -339,7 +339,7 @@
       "translation": "niños mariquitas"
     },
     {
-      "word": "I didn’t mean for this to happen",
+      "word": "I didn't mean for this to happen",
       "translation": "no era mi intención que esto sucediera."
     },
     {
@@ -383,7 +383,7 @@
       "translation": "tíralo"
     },
     {
-      "word": "Here’s the pitch",
+      "word": "Here's the pitch",
       "translation": "aquí viene el lanzamiento"
     },
     {
@@ -442,5 +442,17 @@
       "word": "Sultry sound",
       "translation": "sonido sensual"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "https://image.tmdb.org/t/p/w780/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+      "https://image.tmdb.org/t/p/w780/puo6orN2BjQt1g4K0umVlooVff9.jpg",
+      "https://image.tmdb.org/t/p/w780/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
+      "https://image.tmdb.org/t/p/w780/uCeuBenA2XlGegJYvMq0xs1TFL7.jpg",
+      "https://image.tmdb.org/t/p/w780/28uegn2HdGhrcnoiMw8EdyCcjhm.jpg"
+    ],
+    "episodes": null
+  }
 }

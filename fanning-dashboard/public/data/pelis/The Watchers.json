@@ -282,5 +282,17 @@
       "word": "Someone where something's just a little off (frase no literal)",
       "translation": "alguien en quien algo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+      "https://image.tmdb.org/t/p/w780/byiBrlM8hp6Ilij9JLznK42DcpS.jpg",
+      "https://image.tmdb.org/t/p/w780/31yFFGbmXnAk97Th2QJ1i3NE9iu.jpg",
+      "https://image.tmdb.org/t/p/w780/dePP34Mz7Hfd4iJipOU8GB3ObMQ.jpg",
+      "https://image.tmdb.org/t/p/w780/pWEBvZWcrYTTTyEWmmiH52yMMgO.jpg",
+      "https://image.tmdb.org/t/p/w780/eTqhQ9UDmalt3kegTWsbOMOMj4n.jpg"
+    ],
+    "episodes": null
+  }
 }

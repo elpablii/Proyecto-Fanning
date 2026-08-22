@@ -110,5 +110,17 @@
       "word": "Waves ebbing",
       "translation": "las olas se retiran"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Sam, una adolescente, es una de las últimas supervivientes de una Tierra post-apocalíptica. Con el transbordador final programado para salir del planeta, Sam debe decidir si viajar al punto de lanzamiento y unirse al resto de la humanidad; o permanecer en la Tierra, y ser un náufrago en el único hogar que ha conocido.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg",
+      "https://image.tmdb.org/t/p/w780/mm71wK1NdAxhlxOu7254qi1R7xB.jpg",
+      "https://image.tmdb.org/t/p/w780/hvLTNaCFhMfEZlmvCFdUnRcxctb.jpg",
+      "https://image.tmdb.org/t/p/w780/nshNXUTlBKEtG9dqjIE0uCvhb7b.jpg",
+      "https://image.tmdb.org/t/p/w780/cujSjyKFtyNYrtb3tihoNeXoCkw.jpg",
+      "https://image.tmdb.org/t/p/w780/hdzfaMKS0dovS1jL3ImODtI9zDE.jpg"
+    ],
+    "episodes": null
+  }
 }

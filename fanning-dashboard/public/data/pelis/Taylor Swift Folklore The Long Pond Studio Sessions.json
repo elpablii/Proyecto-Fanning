@@ -27,11 +27,11 @@
       "translation": "una mentalidad fronteriza"
     },
     {
-      "word": "Everything’s a blur",
+      "word": "Everything's a blur",
       "translation": "todo está borroso"
     },
     {
-      "word": "We’re down (en sentido positivo)",
+      "word": "We're down (en sentido positivo)",
       "translation": "nos apuntamos"
     },
     {
@@ -371,7 +371,7 @@
       "translation": "recuerdo, recordatorio"
     },
     {
-      "word": "It’s so moving",
+      "word": "It's so moving",
       "translation": "es tan conmovedor"
     },
     {
@@ -534,5 +534,17 @@
       "word": "Free-range cats",
       "translation": "gatos en libertad"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una película de concierto íntima, en la que Taylor Swift interpreta cada canción de su álbum 'folklore' en orden, mientras revela el significado y las historias detrás de las 17 pistas por primera vez.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg",
+      "https://image.tmdb.org/t/p/w780/xl3j3WeM7FYNr0gE309gBrkUU6p.jpg",
+      "https://image.tmdb.org/t/p/w780/nPSA9Awm2khQNtYRionZFIzSGQj.jpg",
+      "https://image.tmdb.org/t/p/w780/hLdX53TfAMhMN4yE18PCaL9BSp7.jpg",
+      "https://image.tmdb.org/t/p/w780/8MvtpnWyLT1xIHt32RZHjGuCQde.jpg",
+      "https://image.tmdb.org/t/p/w780/9O32Au9yG7tFoZnnCXNNEuUyO43.jpg"
+    ],
+    "episodes": null
+  }
 }

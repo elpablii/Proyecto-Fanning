@@ -71,7 +71,7 @@
       "translation": "rebobinado de cinta"
     },
     {
-      "word": "You’re being a jerk",
+      "word": "You're being a jerk",
       "translation": "estás siendo un idiota"
     },
     {
@@ -199,7 +199,7 @@
       "translation": "luces tintineando"
     },
     {
-      "word": "I’ll catch you on the flip side",
+      "word": "I'll catch you on the flip side",
       "translation": "te veo al otro lado"
     },
     {
@@ -259,7 +259,7 @@
       "translation": "jadeos, gemidos"
     },
     {
-      "word": "How’d it go?",
+      "word": "How'd it go?",
       "translation": "¿Qué tal te fue?, ¿Cómo te fue?"
     },
     {
@@ -303,7 +303,7 @@
       "translation": "chaleco"
     },
     {
-      "word": "I’m keeping it",
+      "word": "I'm keeping it",
       "translation": "me lo quedo"
     },
     {
@@ -339,7 +339,7 @@
       "translation": "campanadas, sonidos metálicos tintineantes"
     },
     {
-      "word": "It’s down to the sound of a heartbeat",
+      "word": "It's down to the sound of a heartbeat",
       "translation": "todo se reduce al sonido de un latido"
     },
     {
@@ -615,7 +615,7 @@
       "translation": "puñalada con cuchilla"
     },
     {
-      "word": "You’re wretched, rotten little beasts",
+      "word": "You're wretched, rotten little beasts",
       "translation": "son unas bestias miserables y podridas."
     },
     {
@@ -662,5 +662,17 @@
       "word": "You seem acquainted",
       "translation": "pareces conocido"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "https://image.tmdb.org/t/p/w780/dkjaqMEBmFqlGHWfAZiJCJY8h1W.jpg",
+      "https://image.tmdb.org/t/p/w780/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+      "https://image.tmdb.org/t/p/w780/gGgDMV1vN20q8qEdxV0K43UrK0y.jpg",
+      "https://image.tmdb.org/t/p/w780/whB2PJfxrDWwwksprliJTjYbcZJ.jpg",
+      "https://image.tmdb.org/t/p/w780/buoGUnmbkkIx74yJSC0wi7D3dHv.jpg"
+    ],
+    "episodes": null
+  }
 }

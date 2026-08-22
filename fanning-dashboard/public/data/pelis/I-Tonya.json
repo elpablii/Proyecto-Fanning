@@ -67,7 +67,7 @@
       "translation": "conseguir"
     },
     {
-      "word": "I don’t take on students this young",
+      "word": "I don't take on students this young",
       "translation": "no acepto estudiantes tan jóvenes"
     },
     {
@@ -91,7 +91,7 @@
       "translation": "apuntar"
     },
     {
-      "word": "Otherwise I could’ve got her",
+      "word": "Otherwise I could've got her",
       "translation": "si no, la habría conseguido"
     },
     {
@@ -339,7 +339,7 @@
       "translation": "¿Te importaría volver a marcar ese número?"
     },
     {
-      "word": "I’ve been a co-op specialist",
+      "word": "I've been a co-op specialist",
       "translation": "he trabajado como especialista en copropiedad"
     },
     {
@@ -351,7 +351,7 @@
       "translation": "competencia"
     },
     {
-      "word": "I’m as resourceful as a lizard",
+      "word": "I'm as resourceful as a lizard",
       "translation": "soy tan ingenioso como un lagarto"
     },
     {
@@ -455,7 +455,7 @@
       "translation": "sacar, retirar"
     },
     {
-      "word": "You’re a taker",
+      "word": "You're a taker",
       "translation": "te aprovechas de los demás"
     },
     {
@@ -495,7 +495,7 @@
       "translation": "novato, inexperto"
     },
     {
-      "word": "It’ll be postmarked",
+      "word": "It'll be postmarked",
       "translation": "será enviado por correo"
     },
     {
@@ -555,7 +555,7 @@
       "translation": "grabar (en un cassette o vhs)"
     },
     {
-      "word": "I’m a has-been",
+      "word": "I'm a has-been",
       "translation": "soy un éxito pasado"
     },
     {
@@ -639,7 +639,7 @@
       "translation": "si alguna vez llegara a eso"
     },
     {
-      "word": "And since they can’t pin anything on us",
+      "word": "And since they can't pin anything on us",
       "translation": "y como no pueden culparnos de nada"
     },
     {
@@ -723,7 +723,7 @@
       "translation": "remolcar"
     },
     {
-      "word": "We’re hanging on by a thread",
+      "word": "We're hanging on by a thread",
       "translation": "estamos colgando de un hilo"
     },
     {
@@ -731,7 +731,7 @@
       "translation": "de manera justa y honesta"
     },
     {
-      "word": "Doesn’t strike everyone that way",
+      "word": "Doesn't strike everyone that way",
       "translation": "no impresiona a todo el mundo de la misma manera"
     },
     {
@@ -787,7 +787,7 @@
       "translation": "obstrucción de la justicia"
     },
     {
-      "word": "I think that’s uncalled for",
+      "word": "I think that's uncalled for",
       "translation": "creo que eso está fuera de lugar"
     },
     {
@@ -806,5 +806,17 @@
       "word": "Hopefully",
       "translation": "ojalá"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Década de los años 90. Tonya Harding es una prometedora patinadora artística estadounidense, la segunda en la historia capaz de completar en competición un salto de triple axel. Claro que, Tonya también se hizo famosa por uno de los escándalos más sensacionales en la historia del deporte. En 1994 su principal rival para los Juegos Olímpicos de Lillehammer era su compatriota Nancy Kerrigan. Poco antes del inicio de la competición, Kerrigan sufrió un infame ataque por un matón a sueldo, que intentó romperle la rodilla. La sombra de la sospecha recae entonces sobre el entorno de Tonya, desde su ex marido Jeff Gillooly hasta su guardaespaldas, Shawn Eckhardt. El matrimonio se verá entonces envuelto en problemas legales y fue así como comenzó la decadencia de la carrera de Harding.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+      "https://image.tmdb.org/t/p/w780/jK3EAFk3GdOaQfUDCOiTujzMpwH.jpg",
+      "https://image.tmdb.org/t/p/w780/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg",
+      "https://image.tmdb.org/t/p/w780/cW2tkTM1RoCTE4Orbx5ELNThlvq.jpg",
+      "https://image.tmdb.org/t/p/w780/hOMw4TyUTWuso6qxyxlDUGaIQIg.jpg",
+      "https://image.tmdb.org/t/p/w780/jDai0rdlBHhcY8vpJ4XmTIDQU5i.jpg"
+    ],
+    "episodes": null
+  }
 }

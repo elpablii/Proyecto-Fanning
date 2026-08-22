@@ -75,7 +75,7 @@
       "translation": "deslizarse"
     },
     {
-      "word": "And we’re riding all the way down!",
+      "word": "And we're riding all the way down!",
       "translation": "¡Y vamos bajando hasta el final!"
     },
     {
@@ -115,11 +115,11 @@
       "translation": "subgrupo de canales"
     },
     {
-      "word": "We’ve got to land this",
+      "word": "We've got to land this",
       "translation": "tenemos que hacerlo funcionar"
     },
     {
-      "word": "I’m so jumpy",
+      "word": "I'm so jumpy",
       "translation": "estoy tan nervioso"
     },
     {
@@ -143,7 +143,7 @@
       "translation": "un par de miradas serias bien dirigidas"
     },
     {
-      "word": "You’ve stayed our happy girl",
+      "word": "You've stayed our happy girl",
       "translation": "sigues siendo nuestra chica alegre"
     },
     {
@@ -159,7 +159,7 @@
       "translation": "adaptarse, encajarse"
     },
     {
-      "word": "When I’m through",
+      "word": "When I'm through",
       "translation": "cuando termine, cuando lo consiga"
     },
     {
@@ -279,15 +279,15 @@
       "translation": "limpiar a fondo"
     },
     {
-      "word": "We’re getting nowhere",
+      "word": "We're getting nowhere",
       "translation": "no estamos avanzando a ningún lado"
     },
     {
-      "word": "I’m lacking depth",
+      "word": "I'm lacking depth",
       "translation": "me falta profundidad (en términos de experiencia)"
     },
     {
-      "word": "We’re nonfigurative",
+      "word": "We're nonfigurative",
       "translation": "estamos simplificados"
     },
     {
@@ -323,7 +323,7 @@
       "translation": "el animalito de peluche"
     },
     {
-      "word": "Riley can’t be done with me",
+      "word": "Riley can't be done with me",
       "translation": "Riley no creo que haya terminado conmigo"
     },
     {
@@ -331,7 +331,7 @@
       "translation": "en consecuencia, por lo tanto"
     },
     {
-      "word": "I’m sure jolly fun-filled times are just around the corner",
+      "word": "I'm sure jolly fun-filled times are just around the corner",
       "translation": "estoy seguro de que nos"
     },
     {
@@ -359,7 +359,7 @@
       "translation": "señalar, indicar"
     },
     {
-      "word": "You’re on",
+      "word": "You're on",
       "translation": "estás en escena"
     },
     {
@@ -379,7 +379,7 @@
       "translation": "¿Podrías caminar con más cuidado?"
     },
     {
-      "word": "A good night’s sleep",
+      "word": "A good night's sleep",
       "translation": "un buen descanso, una noche reparadora"
     },
     {
@@ -399,7 +399,7 @@
       "translation": "apresurar"
     },
     {
-      "word": "We’re stuck down here",
+      "word": "We're stuck down here",
       "translation": "estamos atrapados aquí abajo"
     },
     {
@@ -427,11 +427,11 @@
       "translation": "simplificar"
     },
     {
-      "word": "It’s up to you",
+      "word": "It's up to you",
       "translation": "depende de ti"
     },
     {
-      "word": "It’s up and running",
+      "word": "It's up and running",
       "translation": "está funcionando"
     },
     {
@@ -451,8 +451,20 @@
       "translation": "darse prisa, apresurarse"
     },
     {
-      "word": "Then it’s off to the Bahamas",
+      "word": "Then it's off to the Bahamas",
       "translation": "luego se va a las Bahamas"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+      "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+      "https://image.tmdb.org/t/p/w780/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+      "https://image.tmdb.org/t/p/w780/okJXzeIpbdx7q8rQjJwBNr8VTEk.jpg",
+      "https://image.tmdb.org/t/p/w780/2IwDbObOTG0Qc2YIK6lXa1wQ4xe.jpg",
+      "https://image.tmdb.org/t/p/w780/9cGSFGZVVLsrnbs0AFPDh6X2ynl.jpg"
+    ],
+    "episodes": null
+  }
 }

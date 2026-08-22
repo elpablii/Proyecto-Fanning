@@ -7,7 +7,7 @@
       "translation": "iluminar"
     },
     {
-      "word": "I’m stepping up",
+      "word": "I'm stepping up",
       "translation": "estoy subiendo"
     },
     {
@@ -15,7 +15,7 @@
       "translation": "cima"
     },
     {
-      "word": "I’m wired",
+      "word": "I'm wired",
       "translation": "estoy conectada"
     },
     {
@@ -219,7 +219,7 @@
       "translation": "ahuyentar a esa ardilla cursi de mis"
     },
     {
-      "word": "I’m good and done (frase no literal)",
+      "word": "I'm good and done (frase no literal)",
       "translation": "hasta que esté bien, hasta que se me pase"
     },
     {
@@ -235,11 +235,11 @@
       "translation": "sobrevivir, seguir adelante"
     },
     {
-      "word": "She’s all up in my face",
+      "word": "She's all up in my face",
       "translation": "ella me está echando en cara"
     },
     {
-      "word": "You’re through!",
+      "word": "You're through!",
       "translation": "¡Estás acabado!"
     },
     {
@@ -291,12 +291,23 @@
       "translation": "conjunto"
     },
     {
-      "word": "It’s no use!",
+      "word": "It's no use!",
       "translation": "¡Es inútil!, ¡No sirve de nada!"
     },
     {
       "word": "Put your hands up for me!",
       "translation": "¡Levanten las manos por mí!"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En esta aventura musical Barbie interpreta a Tori, la princesa de Meribella: cuando su estrella pop favorita, Keira, visita el reino, ambas descubren un par de secretos magicos que las sorprenderán y pondrán a prueba su amistad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/kCQKdkfNc7Smox53QRalBO3Doe0.jpg",
+      "https://image.tmdb.org/t/p/w780/yRY1FLEAe83EazN7VQekbaxUj7U.jpg",
+      "https://image.tmdb.org/t/p/w780/klU0fKqkthxliJ3R1qwfZj0YXZw.jpg",
+      "https://image.tmdb.org/t/p/w780/dFIeTtm105sKlgKhtPSRknwvHae.jpg",
+      "https://image.tmdb.org/t/p/w780/415N1CyhBUXV9t3DdE9W6bljqL2.jpg"
+    ],
+    "episodes": null
+  }
 }

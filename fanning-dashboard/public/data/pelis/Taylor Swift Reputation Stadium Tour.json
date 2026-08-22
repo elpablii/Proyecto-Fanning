@@ -27,7 +27,7 @@
       "translation": "carcelero"
     },
     {
-      "word": "I’m so very tame",
+      "word": "I'm so very tame",
       "translation": "soy muy manso, soy muy dócil"
     },
     {
@@ -454,5 +454,17 @@
       "word": "Decking",
       "translation": "cubierta, tarima"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Taylor Swift's reputation Stadium Tour fue la quinta gira mundial de conciertos de la cantante estadounidense Taylor Swift, realizada con el fin de promocionar su sexto álbum de estudio, Reputation (2017). El inicio de la gira fue el 8 de mayo de 2018 en la ciudad de Glendale, en el estado de Arizona y finalizó el 21 de noviembre de 2018 en Tokyo, Japón.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
+      "https://image.tmdb.org/t/p/w780/4M7bwDoxmBDR9gCHAA2n9NX7oVS.jpg",
+      "https://image.tmdb.org/t/p/w780/jTfgSZ1s7GktK9OqojSfFCOaxgr.jpg",
+      "https://image.tmdb.org/t/p/w780/7yq78DoqNnQeVBzHzkj6js5w2kq.jpg",
+      "https://image.tmdb.org/t/p/w780/jUXI3ule0vKCEwUsmlWQHD8Q12Q.jpg",
+      "https://image.tmdb.org/t/p/w780/2JymMpxOzJJg2zgu0y6iNVmjSYk.jpg"
+    ],
+    "episodes": null
+  }
 }

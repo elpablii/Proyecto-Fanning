@@ -295,7 +295,7 @@
       "translation": "superar, adelantar, aventajar, sobrepasar"
     },
     {
-      "word": "I’m putting you on ice",
+      "word": "I'm putting you on ice",
       "translation": "te voy a dejar en espera"
     },
     {
@@ -403,7 +403,7 @@
       "translation": "teléfono fijo, línea fija"
     },
     {
-      "word": "I’ll get it (frase no literal en llamadas)",
+      "word": "I'll get it (frase no literal en llamadas)",
       "translation": "yo voy a atender"
     },
     {
@@ -539,7 +539,7 @@
       "translation": "y ninguna otra chica lo puede hacer como yo"
     },
     {
-      "word": "I’m fergalicious (traducción aproximada)",
+      "word": "I'm fergalicious (traducción aproximada)",
       "translation": "soy muy sexy, soy guapísima"
     },
     {
@@ -582,5 +582,17 @@
       "word": "Entertainer",
       "translation": "animador, artista"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Reboot de la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+      "https://image.tmdb.org/t/p/w780/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+      "https://image.tmdb.org/t/p/w780/buM1xI27mE1hTUXf4ZoywMANWtY.jpg",
+      "https://image.tmdb.org/t/p/w780/A4ajXbOus829ZEtrnOcTL4CNT2P.jpg",
+      "https://image.tmdb.org/t/p/w780/dv5Iu1cI6nsxyPfFusEYbeRkrIJ.jpg",
+      "https://image.tmdb.org/t/p/w780/g5BaB7tcZufpVBFN9E21kfILFeq.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -331,7 +331,7 @@
       "translation": "relleno"
     },
     {
-      "word": "I didn’t peg you for a dancer",
+      "word": "I didn't peg you for a dancer",
       "translation": "no te tenía por una bailarina"
     },
     {
@@ -406,5 +406,16 @@
       "word": "dejarme en paz",
       "translation": "No registrada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Grace está emocionada por el verano para poder iniciar un negocio con sus amigos, pero las cosas dan un giro inesperado cuando su madre anuncia un viaje a París. Allí, Grace debe aprender a llevarse bien con su prima francesa, Sylvie, y encuentra una inspiración inesperada para su negocio. Entonces, Grace descubre que la panadería de sus abuelos, que la inspiró a iniciar un negocio, va a cerrar. ¿Podrán ella y sus amigos encontrar una manera de salvarlo?",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg",
+      "https://image.tmdb.org/t/p/w780/nibJzadMtBuAEkgj3wN5lajFyMk.jpg",
+      "https://image.tmdb.org/t/p/w780/bIPYK22SvpOQtpfiQLE7sL3Jilx.jpg",
+      "https://image.tmdb.org/t/p/w780/j1pdxFtvdSUrkxSEjP9W0mwUJ0u.jpg",
+      "https://image.tmdb.org/t/p/w780/vNfgEItOpp4PmOXzRRF4a1XGPmh.jpg"
+    ],
+    "episodes": null
+  }
 }

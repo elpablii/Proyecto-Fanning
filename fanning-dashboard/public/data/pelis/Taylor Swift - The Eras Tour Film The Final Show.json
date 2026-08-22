@@ -207,7 +207,7 @@
       "translation": "sabía que te convertirías en un fantasma en"
     },
     {
-      "word": "todos mis “y si”",
+      "word": "todos mis \"y si\"",
       "translation": "No registrada"
     },
     {
@@ -411,7 +411,7 @@
       "translation": "palabra de scout"
     },
     {
-      "word": "It’s poised",
+      "word": "It's poised",
       "translation": "está listo"
     },
     {
@@ -622,5 +622,17 @@
       "word": "In all the land",
       "translation": "de todo el país"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "\"Taylor Swift | The Eras Tour | The Final Show\" es la película del concierto completo, que incluye el set entero de \"THE TORTURED POETS DEPARTMENT\", filmada en Vancouver, Columbia Británica, durante el último show de la histórica gira.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+      "https://image.tmdb.org/t/p/w780/vUDG0ACgpFZ4CrY1edVe2Vxhgdk.jpg",
+      "https://image.tmdb.org/t/p/w780/uXybBgZwUIoPKIWsOHcaGE2kgcr.jpg",
+      "https://image.tmdb.org/t/p/w780/1SmcqbT0kQMGjalUz9HC1Yjn6fb.jpg",
+      "https://image.tmdb.org/t/p/w780/jers4i3yayuLxWjO03owdaIbDjT.jpg",
+      "https://image.tmdb.org/t/p/w780/5weFsooOJWsczB8GDPXKH84OQgK.jpg"
+    ],
+    "episodes": null
+  }
 }

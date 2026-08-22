@@ -231,7 +231,7 @@
       "translation": "hábil, experto"
     },
     {
-      "word": "Let’s be off",
+      "word": "Let's be off",
       "translation": "salgamos, vámonos"
     },
     {
@@ -270,5 +270,17 @@
       "word": "Mate (verbo)",
       "translation": "aparear"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Dos chicas adolescentes de Connecticut reavivan su amistad después de años separadas. En el proceso, aprenden que no todo es lo que parece y que un asesinato solucionaría sus problemas.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
+      "https://image.tmdb.org/t/p/w780/zRw7Z73MDNLG69wO1xiT7ugCf5O.jpg",
+      "https://image.tmdb.org/t/p/w780/4S6OO8suytRt2pcaBAovaAn1Gn9.jpg",
+      "https://image.tmdb.org/t/p/w780/3LHmJwpCzOaD3q9K3P8PLAyVrl3.jpg",
+      "https://image.tmdb.org/t/p/w780/sp8IPTQOd3Q8KiCk8KN6jimdiyc.jpg",
+      "https://image.tmdb.org/t/p/w780/baOIcUBvFYWg3xqqdiE1CgTWVda.jpg"
+    ],
+    "episodes": null
+  }
 }

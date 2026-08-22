@@ -367,7 +367,7 @@
       "translation": "neumonía bronquial"
     },
     {
-      "word": "I’m nuts",
+      "word": "I'm nuts",
       "translation": "estoy loco/chiflado"
     },
     {
@@ -846,5 +846,17 @@
       "word": "Blow (verbo en sociedad)",
       "translation": "estropear, echar a perder"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Dos jóvenes llegan a Nueva York durante un fin de semana y viven una serie de aventuras con el mal tiempo como telón de fondo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/3C6hamStn5HHTNmGmXmmGKHFWhT.jpg",
+      "https://image.tmdb.org/t/p/w780/k06VKWilEJKrwsuAAvfinwtdXiI.jpg",
+      "https://image.tmdb.org/t/p/w780/iNcPZnBbQoMT2pFOdvPJmuY63hh.jpg",
+      "https://image.tmdb.org/t/p/w780/6fkqwqLEcDZOEAnBBfKAniwNxtx.jpg",
+      "https://image.tmdb.org/t/p/w780/vX9VJBdpXWvDTH920AY37xXzNjz.jpg",
+      "https://image.tmdb.org/t/p/w780/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg"
+    ],
+    "episodes": null
+  }
 }

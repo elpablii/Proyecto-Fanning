@@ -83,7 +83,7 @@
       "translation": "cabrón, escoria"
     },
     {
-      "word": "It’s almost over",
+      "word": "It's almost over",
       "translation": "casi ha acabado/terminado"
     },
     {
@@ -174,5 +174,17 @@
       "word": "Rock (verbo)",
       "translation": "sacudir"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Matt Turner es un hombre de negocios estadounidense que vive en Berlín y que, en el transcurso de un día, se encuentra en una carrera contrarreloj para salvar a su familia y su propia vida. Cuando lleva a sus hijos a la escuela, Matt recibe una llamada telefónica, una voz misteriosa le advierte que su vehículo está lleno de explosivos. Para proteger a su familia y resolver el misterio, Matt debe seguir las instrucciones del extraño y realizar una serie de tareas a contrarreloj.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/yQvjqIvOwpawVZje41Wno365kR.jpg",
+      "https://image.tmdb.org/t/p/w780/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+      "https://image.tmdb.org/t/p/w780/q7mYzk6BnPOZKhiEJBKmeHjOwiz.jpg",
+      "https://image.tmdb.org/t/p/w780/tUlUdP04nDWsy372myIHuA2qdNv.jpg",
+      "https://image.tmdb.org/t/p/w780/qVzLQUs4tVuh4mz0KcFL5ufwqRZ.jpg",
+      "https://image.tmdb.org/t/p/w780/krhwjAiwjts8UXjAwgveDnVUflO.jpg"
+    ],
+    "episodes": null
+  }
 }

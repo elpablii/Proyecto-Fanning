@@ -3,7 +3,7 @@
   "englishAnalysis": "El clímax dramático de Star Wars. Contiene un inglés más oscuro, místico (el entrenamiento de Yoda invirtiendo la sintaxis) y lenguaje formal imperial sobre emboscadas y tecnología.",
   "vocabulary": [
     {
-      "word": "I’d just as soon kiss a Wookiee",
+      "word": "I'd just as soon kiss a Wookiee",
       "translation": "preferiría besar a un Wookiee"
     },
     {
@@ -262,5 +262,17 @@
       "word": "Takeoff",
       "translation": "despegue"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+      "https://image.tmdb.org/t/p/w780/b37U5gN6itEjaFcmaKhUOqG2Mkt.jpg",
+      "https://image.tmdb.org/t/p/w780/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+      "https://image.tmdb.org/t/p/w780/xYqTM4X1GZATxA7VHQTQ4TNLrUt.jpg",
+      "https://image.tmdb.org/t/p/w780/nJcAQO0zauDTp72SEMcneIDjA7c.jpg",
+      "https://image.tmdb.org/t/p/w780/kgjvZgs6cV2v5bigzzzWqJ9EMGs.jpg"
+    ],
+    "episodes": null
+  }
 }

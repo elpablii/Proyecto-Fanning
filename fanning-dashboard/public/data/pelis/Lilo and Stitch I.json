@@ -19,7 +19,7 @@
       "translation": "trastornado, desquiciado, perturbado (de mente)"
     },
     {
-      "word": "He’s on the duty",
+      "word": "He's on the duty",
       "translation": "él está en servicio"
     },
     {
@@ -290,5 +290,17 @@
       "word": "We'll checking in now and then",
       "translation": "iremos comprobando de vez en cuando"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+      "https://image.tmdb.org/t/p/w780/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+      "https://image.tmdb.org/t/p/w780/aIglP9Z5gtkQf7Fidb4NRv2gfDj.jpg",
+      "https://image.tmdb.org/t/p/w780/5sVRFsfqWIlN8MGzZks9yDSinvu.jpg",
+      "https://image.tmdb.org/t/p/w780/5by1um4VfkHKCL8rlpxwxQhedOT.jpg",
+      "https://image.tmdb.org/t/p/w780/7y6dJrcI83D1VzQ6c7ctNsgbl3R.jpg"
+    ],
+    "episodes": null
+  }
 }

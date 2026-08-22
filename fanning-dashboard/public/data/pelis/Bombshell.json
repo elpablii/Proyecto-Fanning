@@ -347,7 +347,7 @@
       "translation": "máquina de la indignación"
     },
     {
-      "word": "He’s way ahead of them",
+      "word": "He's way ahead of them",
       "translation": "Está muy por delante de ellos"
     },
     {
@@ -511,7 +511,7 @@
       "translation": "gráfico de acciones"
     },
     {
-      "word": "We’re up",
+      "word": "We're up",
       "translation": "Estamos teniendo éxito"
     },
     {
@@ -947,7 +947,7 @@
       "translation": "planta baja"
     },
     {
-      "word": "I’m after (inserte sustantivo)",
+      "word": "I'm after (inserte sustantivo)",
       "translation": "estoy buscando"
     },
     {
@@ -970,5 +970,17 @@
       "word": "Muzzle (verbo)",
       "translation": "amordazar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuando Gretchen Carlson golpea al fundador de Fox News, Roger Ailes, con una demanda alegando acoso sexual, nadie podía predecir lo que sucedería después. Su decisión lleva a la corresponsal de Fox News, Megyn Kelly, a presentar su propia historia, así como a muchas otras mujeres, incitando a un movimiento que reverbera en todo el mundo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+      "https://image.tmdb.org/t/p/w780/gfBEe58moFHxr79kyauGspUJg2v.jpg",
+      "https://image.tmdb.org/t/p/w780/k478iJUKiqrxwJLOlMmZaaSlukr.jpg",
+      "https://image.tmdb.org/t/p/w780/ecIbWpSls6VQWZcwrXLRiHsjORv.jpg",
+      "https://image.tmdb.org/t/p/w780/j9hNv87BYpqTRFRcho0AyFiw4Vb.jpg",
+      "https://image.tmdb.org/t/p/w780/9DRyyMRczogOZh8uNiYIZzC6VQF.jpg"
+    ],
+    "episodes": null
+  }
 }

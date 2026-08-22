@@ -863,7 +863,7 @@
       "translation": "no creo en la humillación pública de las mujeres"
     },
     {
-      "word": "She’s tight (no literal)",
+      "word": "She's tight (no literal)",
       "translation": "ella es estricta"
     },
     {
@@ -1810,5 +1810,42 @@
         }
       ]
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
+      "https://image.tmdb.org/t/p/w780/9Ow1qS0AYBKcNamvUmaFIOahGW8.jpg",
+      "https://image.tmdb.org/t/p/w780/dcpHWIhDBPLyP6WyAokJp65vZaE.jpg",
+      "https://image.tmdb.org/t/p/w780/xD7DGNCrhLfcgIgBkD0FYTlFm5z.jpg",
+      "https://image.tmdb.org/t/p/w780/3buRSGVnutw8x4Lww0t70k5dG6R.jpg",
+      "https://image.tmdb.org/t/p/w780/k7TMh6V5C1i1DrVORvABwnOfs78.jpg"
+    ],
+    "episodes": {
+      "1": {
+        "name": "Happy Wedding Eve",
+        "still_path": "https://image.tmdb.org/t/p/w500/nxFWYtGhk8rERddq0TWihtHjsuG.jpg"
+      },
+      "2": {
+        "name": "She Would Never Do That",
+        "still_path": "https://image.tmdb.org/t/p/w500/2wzelcbQ6hDPrkn9OgsYDIoAp6d.jpg"
+      },
+      "3": {
+        "name": "The Perfect Family",
+        "still_path": "https://image.tmdb.org/t/p/w500/jfQgl6OFEDWtOnoPNUgEtAJWb80.jpg"
+      },
+      "4": {
+        "name": "Someone Could Get Hurt",
+        "still_path": "https://image.tmdb.org/t/p/w500/dtkcyk1TU4q1OcaKNF9LxKnoMOh.jpg"
+      },
+      "5": {
+        "name": "Never Gonna Give You Up",
+        "still_path": "https://image.tmdb.org/t/p/w500/iUrLRbaQ8YGcym0JGiqAKCXLmOo.jpg"
+      },
+      "6": {
+        "name": "That Feels Better",
+        "still_path": "https://image.tmdb.org/t/p/w500/aFHJyNQUoYCNsGqyaZLnWU8BjvE.jpg"
+      }
+    }
+  }
 }

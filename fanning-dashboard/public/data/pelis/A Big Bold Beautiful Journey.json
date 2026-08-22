@@ -235,7 +235,7 @@
       "translation": "te romper de vuelta"
     },
     {
-      "word": "When I’m bent over",
+      "word": "When I'm bent over",
       "translation": "cuando me incline"
     },
     {
@@ -282,5 +282,17 @@
       "word": "Kindred soul",
       "translation": "alma gemela"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una historia imaginativa de dos extraños y el increíble viaje que los conecta, que narra el encuentro fortuito de dos personas de mundos completamente distintos. A medida que inician un viaje juntos, se ven envueltos en situaciones extraordinarias que desafían su percepción de la realidad. A lo largo del camino, ambos descubren secretos ocultos, enfrentan sus miedos y forjan una profunda conexión que cambiará sus vidas para siempre. Un relato de transformación, aventura y la magia de los encuentros inesperados.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+      "https://image.tmdb.org/t/p/w780/cwYIijfKraOJdP7y7c3aZXcIhYT.jpg",
+      "https://image.tmdb.org/t/p/w780/yojFn4F0d8TXD732gyYo4SSybLR.jpg",
+      "https://image.tmdb.org/t/p/w780/geqQxNU74Sp095DRsxZxWUsdpH.jpg",
+      "https://image.tmdb.org/t/p/w780/70OSLNBFVKq3KdbpziEAiAG1gIN.jpg",
+      "https://image.tmdb.org/t/p/w780/jXqo6isTmy9VJwu74mu0gU5Jn26.jpg"
+    ],
+    "episodes": null
+  }
 }

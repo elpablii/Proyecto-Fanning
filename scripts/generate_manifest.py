@@ -63,11 +63,17 @@ for y in ["2023", "2024", "2025", "2026", "2027"]:
 manifest["yearlyData"] = yearly_data
 
 old_movie_dialogues = {}
+old_movie_posters = {}
+old_movie_backdrops = {}
 for y_key in old_m:
     if y_key in ["all", "2023", "2024", "2025", "2026", "2027"] and isinstance(old_m[y_key], dict):
         for movie in old_m[y_key].get("movieList", []):
             if movie.get("dialogues"):
                 old_movie_dialogues[movie["title"]] = movie["dialogues"]
+            if movie.get("posterUrl"):
+                old_movie_posters[movie["title"]] = movie["posterUrl"]
+            if movie.get("backdropUrl"):
+                old_movie_backdrops[movie["title"]] = movie["backdropUrl"]
             for ep in movie.get("episodes", []):
                 if ep.get("dialogues"):
                     old_movie_dialogues[f"{movie['title']}__{ep['name']}"] = ep["dialogues"]
@@ -106,13 +112,25 @@ def process_stats(items):
                 ep_dict["dialogues"] = old_movie_dialogues[ep_d_key]
             episodes.append(ep_dict)
             
+        is_series = False
+        special_series = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville']
+        if title.lower() in special_series:
+            is_series = True
+        elif len(episodes) > 1 and any("ep" in ep["name"].lower() for ep in episodes):
+            is_series = True
+            
         m_dict = {
             "title": title,
             "count": data["count"],
+            "type": "series" if is_series else "movie",
             "episodes": episodes
         }
         if title in old_movie_dialogues:
             m_dict["dialogues"] = old_movie_dialogues[title]
+        if title in old_movie_posters:
+            m_dict["posterUrl"] = old_movie_posters[title]
+        if title in old_movie_backdrops:
+            m_dict["backdropUrl"] = old_movie_backdrops[title]
         movie_list.append(m_dict)
         
     movie_list.sort(key=lambda x: x["count"], reverse=True)

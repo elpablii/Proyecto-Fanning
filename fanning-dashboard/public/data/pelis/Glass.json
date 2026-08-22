@@ -7,7 +7,7 @@
       "translation": "chocar, tropezar"
     },
     {
-      "word": "It’s potluck",
+      "word": "It's potluck",
       "translation": "es comida para llevar"
     },
     {
@@ -350,5 +350,17 @@
       "word": "Wholly",
       "translation": "totalmente, completamente"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un guardia de seguridad utiliza sus habilidades sobrehumanas para dar con un hombre perturbado que tiene veinticuatro personalidades.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+      "https://image.tmdb.org/t/p/w780/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+      "https://image.tmdb.org/t/p/w780/iRJnw5OpueLhrYMnCxdydogVHUg.jpg",
+      "https://image.tmdb.org/t/p/w780/8nGGk6pmmMfVrUFHrQvBQlWEvh4.jpg",
+      "https://image.tmdb.org/t/p/w780/oAhIC1m7YhmB4Vtn1V3KghfjlRx.jpg",
+      "https://image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -23,7 +23,7 @@
       "translation": "operación de quema"
     },
     {
-      "word": "He’s a hell of a tracker",
+      "word": "He's a hell of a tracker",
       "translation": "él es un gran rastreador"
     },
     {
@@ -75,7 +75,7 @@
       "translation": "aclarar su mente, despejar su cabeza"
     },
     {
-      "word": "I’ll break it off",
+      "word": "I'll break it off",
       "translation": "lo romperé"
     },
     {
@@ -90,5 +90,17 @@
       "word": "We grieve and move on",
       "translation": "hacemos el duelo y seguimos adelante"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+      "https://image.tmdb.org/t/p/w780/pAsZ0ifQwKTHVab8bCHHn2qtizE.jpg",
+      "https://image.tmdb.org/t/p/w780/oV6hweFSXOGuobS7Ro3x9G0G4Ln.jpg",
+      "https://image.tmdb.org/t/p/w780/hl9wGMntYNl4dEYtjgU600GZ8JH.jpg",
+      "https://image.tmdb.org/t/p/w780/3IHqwENGxOb36Jgeot4XHs3BTxz.jpg",
+      "https://image.tmdb.org/t/p/w780/fCTBbtjeWSb0wURnUQpY6LD8vGJ.jpg"
+    ],
+    "episodes": null
+  }
 }

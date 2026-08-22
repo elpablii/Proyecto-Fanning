@@ -202,5 +202,17 @@
       "word": "Good morrow",
       "translation": "buenos días"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Dentro de su libro, el aventurero Harold puede hacer que cualquier cosa cobre vida simplemente dibujándola. Cuando crece y se dibuja a sí mismo fuera de las páginas del libro, Harold descubre que tiene mucho que aprender sobre la vida real.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg",
+      "https://image.tmdb.org/t/p/w780/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",
+      "https://image.tmdb.org/t/p/w780/e8dWNHsxrSeJ4vJ95GRxzl0uywO.jpg",
+      "https://image.tmdb.org/t/p/w780/u6sJkZ993gRhKzBUSMk9O50pVaW.jpg",
+      "https://image.tmdb.org/t/p/w780/iURqo6oIwbeegIwWXx5qrBsDcPk.jpg",
+      "https://image.tmdb.org/t/p/w780/vJk9DOLgP23jO5mBnPHE93MFgYu.jpg"
+    ],
+    "episodes": null
+  }
 }

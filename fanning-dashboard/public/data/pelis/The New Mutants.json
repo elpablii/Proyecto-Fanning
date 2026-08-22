@@ -138,5 +138,17 @@
       "word": "Nut up! (frase no literal)",
       "translation": "¡Levántate!"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos .",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1MoeNacOltBWojkStjhT3svBTOK.jpg",
+      "https://image.tmdb.org/t/p/w780/eCIvqa3QVCx6H09bdeOS8Al2Sqy.jpg",
+      "https://image.tmdb.org/t/p/w780/lrNbt21hRirjyTK0SeLA0L4RAVS.jpg",
+      "https://image.tmdb.org/t/p/w780/2AFZyra0Ddwl2oBDhClvD1qSIL6.jpg",
+      "https://image.tmdb.org/t/p/w780/aku9AjcSfkGrMvaukWYhuJZMyE7.jpg",
+      "https://image.tmdb.org/t/p/w780/lNhKmIG5Kw2qYG3REYuwmNUgl0n.jpg"
+    ],
+    "episodes": null
+  }
 }

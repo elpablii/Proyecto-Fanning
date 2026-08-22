@@ -278,5 +278,17 @@
       "word": "Rages deep within",
       "translation": "se enfurece en su interior"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg",
+      "https://image.tmdb.org/t/p/w780/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+      "https://image.tmdb.org/t/p/w780/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+      "https://image.tmdb.org/t/p/w780/uI9YwSYfO6CuXJCdYfUW0CPI7TU.jpg",
+      "https://image.tmdb.org/t/p/w780/fS3ikNlqWtTQhxpRnOQV2E9AdSk.jpg",
+      "https://image.tmdb.org/t/p/w780/zjDaVyUQqtApdRE0LBoZ6lbPlgP.jpg"
+    ],
+    "episodes": null
+  }
 }

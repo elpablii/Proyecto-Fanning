@@ -139,7 +139,7 @@
       "translation": "retorcerse"
     },
     {
-      "word": "You’re as good as iced (frase no literal)",
+      "word": "You're as good as iced (frase no literal)",
       "translation": "estarás acabado/muerto"
     },
     {
@@ -214,5 +214,17 @@
       "word": "Easy on the croutons (no literal)",
       "translation": "no te pases con los crutones"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Regresa a la metrópolis de mamíferos para seguir la vida de un montón de residentes fascinantes.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
+      "https://image.tmdb.org/t/p/w780/tVCsTvP4kHq2ASqEYTjv4iWtZgP.jpg",
+      "https://image.tmdb.org/t/p/w780/xfhQ0V824KZqcf1nuzqQSNb86lZ.jpg",
+      "https://image.tmdb.org/t/p/w780/nt5FbTiBWzvx0TGAhLSybvyreEz.jpg",
+      "https://image.tmdb.org/t/p/w780/bInyAU7gcUQrfLOB0OMMTuOrk7X.jpg",
+      "https://image.tmdb.org/t/p/w780/sMdOToOg7KXM7j7cOu1QtjB6rkr.jpg"
+    ],
+    "episodes": null
+  }
 }

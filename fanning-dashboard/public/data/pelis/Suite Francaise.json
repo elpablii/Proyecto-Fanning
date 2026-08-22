@@ -47,7 +47,7 @@
       "translation": "suceder, ocurrir, acontecer"
     },
     {
-      "word": "What’s in store for all of us",
+      "word": "What's in store for all of us",
       "translation": "lo que nos espera a todos"
     },
     {
@@ -71,7 +71,7 @@
       "translation": "arado"
     },
     {
-      "word": "I’m damned if I’m living by German time",
+      "word": "I'm damned if I'm living by German time",
       "translation": "Que me condenen si voy a vivir según el"
     },
     {
@@ -115,7 +115,7 @@
       "translation": "¿Podría hablar contigo?"
     },
     {
-      "word": "That’s not for in here",
+      "word": "That's not for in here",
       "translation": "eso no es para aquí"
     },
     {
@@ -199,7 +199,7 @@
       "translation": "campo de trabajo"
     },
     {
-      "word": "I’m going for a swim",
+      "word": "I'm going for a swim",
       "translation": "voy a nadar"
     },
     {
@@ -215,7 +215,7 @@
       "translation": "ramo"
     },
     {
-      "word": "We’ve got to bring the animals in",
+      "word": "We've got to bring the animals in",
       "translation": "tenemos que traer a los animales"
     },
     {
@@ -223,7 +223,7 @@
       "translation": "florero, jarrón"
     },
     {
-      "word": "You’ll get double that next-door now",
+      "word": "You'll get double that next-door now",
       "translation": "obtendrás el doble ahora"
     },
     {
@@ -235,11 +235,11 @@
       "translation": "pararse, aguantar, tolerar"
     },
     {
-      "word": "There’s hardly any left",
+      "word": "There's hardly any left",
       "translation": "ya casi no queda"
     },
     {
-      "word": "I’ve got nowhere else to go",
+      "word": "I've got nowhere else to go",
       "translation": "no tengo otro lugar a donde ir"
     },
     {
@@ -255,7 +255,7 @@
       "translation": "comunitario, comunal"
     },
     {
-      "word": "Why is it that whenever I see you you’re always on your own?",
+      "word": "Why is it that whenever I see you you're always on your own?",
       "translation": "¿Por qué cada vez que"
     },
     {
@@ -267,7 +267,7 @@
       "translation": "echar, tirar, desechar"
     },
     {
-      "word": "I didn’t feel entitled to tell you",
+      "word": "I didn't feel entitled to tell you",
       "translation": "no me sentí con derecho a decírtelo"
     },
     {
@@ -279,7 +279,7 @@
       "translation": "artículos para el hogar"
     },
     {
-      "word": "I’d clawed back what crumbs I could from the enemy",
+      "word": "I'd clawed back what crumbs I could from the enemy",
       "translation": "había recuperado todas las"
     },
     {
@@ -315,7 +315,7 @@
       "translation": "clemencia, indulgencia"
     },
     {
-      "word": "It’s likely to be a year",
+      "word": "It's likely to be a year",
       "translation": "es probable que sea un año"
     },
     {
@@ -323,7 +323,7 @@
       "translation": "palear (con una pala)"
     },
     {
-      "word": "She’s away for the night",
+      "word": "She's away for the night",
       "translation": "ella está fuera por la noche"
     },
     {
@@ -363,7 +363,7 @@
       "translation": "mantelería"
     },
     {
-      "word": "Don’t fret",
+      "word": "Don't fret",
       "translation": "no te preocupes"
     },
     {
@@ -394,5 +394,17 @@
       "word": "Hold onto me",
       "translation": "aférrate a mi"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Francia, 1940. En los primeros días de la ocupación, la bella Lucile Angellier se ve atrapada en una existencia asfixiada con su controladora suegra mientras ambas esperan noticias de su marido: un prisionero de guerra. Los refugiados parisinos comienzan a llegar a su pequeña ciudad, seguidos pronto por un regimiento de soldados alemanes que se instalan en las casas de los propios aldeanos. Lucile inicialmente intenta ignorar a Bruno von Falk, el apuesto y refinado oficial alemán que se queda con ellos. Pero pronto, un amor poderoso los une y los lleva a la tragedia de la guerra.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+      "https://image.tmdb.org/t/p/w780/zFVv2KC9HqNkq3UAGdjhTlvqzyI.jpg",
+      "https://image.tmdb.org/t/p/w780/AfELTA3Wsn3B33Tz5UywHECAX9H.jpg",
+      "https://image.tmdb.org/t/p/w780/jMsusZ8i9AvsHtBQvKkNmhFmk5h.jpg",
+      "https://image.tmdb.org/t/p/w780/n3b9wV9zbn2O7aHxfeXgzMruFCs.jpg",
+      "https://image.tmdb.org/t/p/w780/rnxehuWNDvEEGntsdte0iwHZavy.jpg"
+    ],
+    "episodes": null
+  }
 }

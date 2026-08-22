@@ -39,7 +39,7 @@
       "translation": "recortes (en sentido laboral o económico)"
     },
     {
-      "word": "It’s a dicer, grater, peeler, all in one",
+      "word": "It's a dicer, grater, peeler, all in one",
       "translation": "es un cortador de cubitos, rallador, pelador,"
     },
     {
@@ -95,7 +95,7 @@
       "translation": "no tenía respaldo"
     },
     {
-      "word": "I’m game (traducción no literal)",
+      "word": "I'm game (traducción no literal)",
       "translation": "me apunto"
     },
     {
@@ -107,7 +107,7 @@
       "translation": "fui a todas partes"
     },
     {
-      "word": "Quite a paintbrush he’s got",
+      "word": "Quite a paintbrush he's got",
       "translation": "vaya pincel que tiene"
     },
     {
@@ -139,7 +139,7 @@
       "translation": "el pájaro madrugador no"
     },
     {
-      "word": "That’s our turn-off",
+      "word": "That's our turn-off",
       "translation": "eso es lo que nos echa para atrás"
     },
     {
@@ -179,7 +179,7 @@
       "translation": "desvanece la música"
     },
     {
-      "word": "I’ll make it up to you",
+      "word": "I'll make it up to you",
       "translation": "te lo compensaré"
     },
     {
@@ -334,5 +334,17 @@
       "word": "Deceit",
       "translation": "engaño"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+      "https://image.tmdb.org/t/p/w780/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "https://image.tmdb.org/t/p/w780/kjWIp6COK4MKF0KSffzUD8l9Kuo.jpg",
+      "https://image.tmdb.org/t/p/w780/1szsl8P3zzvb9O4WJM7B3CLQ7r4.jpg",
+      "https://image.tmdb.org/t/p/w780/1xWHfZH4Fapu6Yrkv4oOk2rEUTx.jpg",
+      "https://image.tmdb.org/t/p/w780/rVOHeP2uU4jtCunXWAWE6Xn5xam.jpg"
+    ],
+    "episodes": null
+  }
 }

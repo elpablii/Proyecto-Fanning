@@ -247,7 +247,7 @@
       "translation": "los cogeremos desprevenidos"
     },
     {
-      "word": "Don’t hesitate",
+      "word": "Don't hesitate",
       "translation": "no dudes"
     },
     {
@@ -255,7 +255,7 @@
       "translation": "no tengas piedad"
     },
     {
-      "word": "Let’s get a move in",
+      "word": "Let's get a move in",
       "translation": "movámonos, pongámonos en marcha"
     },
     {
@@ -374,5 +374,17 @@
       "word": "Have the protocol droid's mind wiped",
       "translation": "borra la mente del droide de protocolo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus cenizas surge el malvado Imperio Galáctico. El héroe Jedi Anakin Skywalker es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador: Darth Vader. Los Jedi están diezmados, mientras Obi-Wan Kenobi y el Maestro Jedi Yoda son forzados a esconderse. La única esperanza para la galaxia es la descendencia de Anakin: los hijos gemelos nacidos en secreto que crecerán y se convertirán en héroes.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+      "https://image.tmdb.org/t/p/w780/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+      "https://image.tmdb.org/t/p/w780/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg",
+      "https://image.tmdb.org/t/p/w780/hPO0A0BGg5M7Q8I7qayaDyC5tb5.jpg",
+      "https://image.tmdb.org/t/p/w780/uuh6uNEGqLCU7wQ2L4xMqYv0DPr.jpg",
+      "https://image.tmdb.org/t/p/w780/eygfh5xsMAMUOT5VMJL4rPTgCs9.jpg"
+    ],
+    "episodes": null
+  }
 }

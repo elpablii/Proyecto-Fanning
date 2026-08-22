@@ -91,7 +91,7 @@
       "translation": "descarado, atrevido"
     },
     {
-      "word": "Don’t be lame",
+      "word": "Don't be lame",
       "translation": "no seas patético"
     },
     {
@@ -230,5 +230,17 @@
       "word": "Tear apart",
       "translation": "destrozar, hacer pedazos"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Los adolescentes de Dublín, Matthew, el nihilista Rez y el trastornado Kearney, abandonan la escuela en un vacío social de bebida y drogas, cayendo en impactantes actos de transgresión.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
+      "https://image.tmdb.org/t/p/w780/rJCQDs94r65KIAWilAdTjXpoUjU.jpg",
+      "https://image.tmdb.org/t/p/w780/A084ljdG4beM0ve5JhNA9EQSoFk.jpg",
+      "https://image.tmdb.org/t/p/w780/us7PyhvXslCJvu9fddWzq7nfRh2.jpg",
+      "https://image.tmdb.org/t/p/w780/8t8Ii84g7wWGetLp8PUTiplzQD1.jpg",
+      "https://image.tmdb.org/t/p/w780/fB2xhjrIuIvmFxLwZmVqldrquYS.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -31,7 +31,7 @@
       "translation": "promesa, compromiso"
     },
     {
-      "word": "She doesn’t yield to a bridle",
+      "word": "She doesn't yield to a bridle",
       "translation": "ella no cede a una brida"
     },
     {
@@ -47,7 +47,7 @@
       "translation": "papista"
     },
     {
-      "word": "We’re two sisters bound by womanhood",
+      "word": "We're two sisters bound by womanhood",
       "translation": "somos dos hermanas unidas por la feminidad"
     },
     {
@@ -191,7 +191,7 @@
       "translation": "casarse"
     },
     {
-      "word": "I don’t think God wills it",
+      "word": "I don't think God wills it",
       "translation": "no creo que Dios lo quiera"
     },
     {
@@ -227,7 +227,7 @@
       "translation": "susto, miedo"
     },
     {
-      "word": "Beauty’s fading flower",
+      "word": "Beauty's fading flower",
       "translation": "la flor marchita de la belleza"
     },
     {
@@ -243,7 +243,7 @@
       "translation": "vivaces ojos brillantes"
     },
     {
-      "word": "But not if I’m owned",
+      "word": "But not if I'm owned",
       "translation": "pero no si me poseen"
     },
     {
@@ -299,7 +299,7 @@
       "translation": "enviados, emisarios"
     },
     {
-      "word": "How like is it unto your mistress’s face?",
+      "word": "How like is it unto your mistress's face?",
       "translation": "¿Cómo se parece al rostro de tu señora?"
     },
     {
@@ -391,11 +391,11 @@
       "translation": "¡Niño imprudente!, ¡Niño temerario!"
     },
     {
-      "word": "Don’t let your cursed passion rule you!",
+      "word": "Don't let your cursed passion rule you!",
       "translation": "¡No dejes que tu maldita pasión te domine!"
     },
     {
-      "word": "‘Tis your voice raised",
+      "word": "'Tis your voice raised",
       "translation": "es tu voz alzada"
     },
     {
@@ -447,7 +447,7 @@
       "translation": "guerra clara"
     },
     {
-      "word": "Christ’s holy gospel",
+      "word": "Christ's holy gospel",
       "translation": "el santo Evangelio de Cristo"
     },
     {
@@ -547,7 +547,7 @@
       "translation": "cuando yo sea ungido rey"
     },
     {
-      "word": "I’m more than a sire to a mare",
+      "word": "I'm more than a sire to a mare",
       "translation": "soy más que un padre para una yegua"
     },
     {
@@ -575,7 +575,7 @@
       "translation": "un juglar común"
     },
     {
-      "word": "I’m not a cuckhold",
+      "word": "I'm not a cuckhold",
       "translation": "no soy un cornudo"
     },
     {
@@ -663,7 +663,7 @@
       "translation": "madrina"
     },
     {
-      "word": "I’m told the labor was long",
+      "word": "I'm told the labor was long",
       "translation": "me han dicho que el parto fue largo"
     },
     {
@@ -695,7 +695,7 @@
       "translation": "consejo privado"
     },
     {
-      "word": "It’s forged",
+      "word": "It's forged",
       "translation": "está forjado, está falsificado"
     },
     {
@@ -703,7 +703,7 @@
       "translation": "esto es un ultraje, esto es una barbaridad"
     },
     {
-      "word": "He’s harmless",
+      "word": "He's harmless",
       "translation": "él es inofensivo"
     },
     {
@@ -791,7 +791,7 @@
       "translation": "cuando tu hijo sea mayor de edad"
     },
     {
-      "word": "He’s my ward",
+      "word": "He's my ward",
       "translation": "él es mi pupilo"
     },
     {
@@ -839,11 +839,11 @@
       "translation": "clero, clérigo"
     },
     {
-      "word": "On a catholic’s behalf",
+      "word": "On a catholic's behalf",
       "translation": "en nombre de un católico"
     },
     {
-      "word": "I’m utterly alone",
+      "word": "I'm utterly alone",
       "translation": "estoy completamente sola"
     },
     {
@@ -855,7 +855,7 @@
       "translation": "sembrar"
     },
     {
-      "word": "I won’t be scolded",
+      "word": "I won't be scolded",
       "translation": "no seré regañada"
     },
     {
@@ -902,5 +902,17 @@
       "word": "Overlord",
       "translation": "soberano, señor supremo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+      "https://image.tmdb.org/t/p/w780/vTRNPsgi8vNfuJ75QxTZdHF6oH9.jpg",
+      "https://image.tmdb.org/t/p/w780/cDqZsAVrQnSvLrcwnlMd3ZszZnX.jpg",
+      "https://image.tmdb.org/t/p/w780/7NWHRltitkMjTfgsTJP9XnptaKt.jpg",
+      "https://image.tmdb.org/t/p/w780/lnr1xk6d7xCUzAEiaVoCciFpK5e.jpg",
+      "https://image.tmdb.org/t/p/w780/nmfu1zabVG49lFMQ4osBBF7tJ1I.jpg"
+    ],
+    "episodes": null
+  }
 }

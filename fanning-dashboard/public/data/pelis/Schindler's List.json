@@ -658,5 +658,17 @@
       "word": "Slumber",
       "translation": "sueño, letargo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "https://image.tmdb.org/t/p/w780/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+      "https://image.tmdb.org/t/p/w780/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+      "https://image.tmdb.org/t/p/w780/zZtNb5DZ9QXTh3I4HXq9o9Phbs9.jpg",
+      "https://image.tmdb.org/t/p/w780/gXvNfaetPlZt3PUPsBFcfZuoUFe.jpg",
+      "https://image.tmdb.org/t/p/w780/rCfpnBNbPZ9UIkl3ktg48suWuf1.jpg"
+    ],
+    "episodes": null
+  }
 }

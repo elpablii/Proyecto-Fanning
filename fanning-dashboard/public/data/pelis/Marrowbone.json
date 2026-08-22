@@ -59,7 +59,7 @@
       "translation": "espeluznante, asqueroso (alusivo a alguien)"
     },
     {
-      "word": "‘Tis cursed (expresión en inglés arcaico)",
+      "word": "'Tis cursed (expresión en inglés arcaico)",
       "translation": "está maldito"
     },
     {
@@ -166,5 +166,17 @@
       "word": "Spoil (verbo en algunos contextos)",
       "translation": "estropear, echar a perder"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuatro hermanos, temiendo que les separen tras la muerte de su madre, se esconden del mundo en su abandonada granja, un lugar cuyas viejas paredes esconden un terrible secreto...",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+      "https://image.tmdb.org/t/p/w780/5Dd6HYOSzodtsoVKUR7H6442XRm.jpg",
+      "https://image.tmdb.org/t/p/w780/dDkbVFTH50rfiUwJeq7y0DagjDI.jpg",
+      "https://image.tmdb.org/t/p/w780/loQu6tBQvAGUM3QpXo0DzkJDSy0.jpg",
+      "https://image.tmdb.org/t/p/w780/14kd6j5rwkLaZvlK8QGYxbvqUkt.jpg",
+      "https://image.tmdb.org/t/p/w780/E3tbYSJyjOAPt1pcypyiEvrsCx.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -23,11 +23,11 @@
       "translation": "ingreso no autorizado"
     },
     {
-      "word": "I’m all for a little mischief",
+      "word": "I'm all for a little mischief",
       "translation": "estoy totalmente a favor de una pequeña travesura"
     },
     {
-      "word": "They’ll go easy on us",
+      "word": "They'll go easy on us",
       "translation": "serán comprensivos con nosotros"
     },
     {
@@ -47,7 +47,7 @@
       "translation": "¿En qué puedo ayudarlo?"
     },
     {
-      "word": "What you’ve been up to?",
+      "word": "What you've been up to?",
       "translation": "¿Qué has estado haciendo?"
     },
     {
@@ -91,7 +91,7 @@
       "translation": "no suena muy atractivo"
     },
     {
-      "word": "They’ll be there very shortly",
+      "word": "They'll be there very shortly",
       "translation": "estarán allí pronto"
     },
     {
@@ -151,7 +151,7 @@
       "translation": "cortar, recortar"
     },
     {
-      "word": "No one’s clipping my junk",
+      "word": "No one's clipping my junk",
       "translation": "nadie me va a fastidiar"
     },
     {
@@ -195,7 +195,7 @@
       "translation": "una casa segura de la empresa"
     },
     {
-      "word": "Looks like someone’s growing on you",
+      "word": "Looks like someone's growing on you",
       "translation": "parece que alguien te está cayendo bien"
     },
     {
@@ -207,7 +207,7 @@
       "translation": "recogerlo, tomarlo"
     },
     {
-      "word": "You would’ve run out of money",
+      "word": "You would've run out of money",
       "translation": "te habrías quedado sin dinero"
     },
     {
@@ -227,7 +227,7 @@
       "translation": "abandonar, deshacerse de"
     },
     {
-      "word": "I haven’t so much as jaywalked since I met you",
+      "word": "I haven't so much as jaywalked since I met you",
       "translation": "me he portado un ángel desde que te"
     },
     {
@@ -355,7 +355,7 @@
       "translation": "entregar, pasar"
     },
     {
-      "word": "It wasn’t long enough",
+      "word": "It wasn't long enough",
       "translation": "no fue suficiente tiempo"
     },
     {
@@ -383,7 +383,7 @@
       "translation": "almacenamiento personal"
     },
     {
-      "word": "He’s in on it",
+      "word": "He's in on it",
       "translation": "está involucrado"
     },
     {
@@ -411,7 +411,7 @@
       "translation": "¿Está refugiada en algún lugar seguro ahora?"
     },
     {
-      "word": "Let’s get together",
+      "word": "Let's get together",
       "translation": "reunámonos"
     },
     {
@@ -419,7 +419,7 @@
       "translation": "analicemos esto juntos"
     },
     {
-      "word": "It’s not up for debate",
+      "word": "It's not up for debate",
       "translation": "no es discutible"
     },
     {
@@ -435,7 +435,7 @@
       "translation": "de acuerdo, quédate donde estás"
     },
     {
-      "word": "He’s flawed",
+      "word": "He's flawed",
       "translation": "es humano, comete errores"
     },
     {
@@ -463,7 +463,7 @@
       "translation": "choque, golpe"
     },
     {
-      "word": "It’s a dud",
+      "word": "It's a dud",
       "translation": "es un cebo"
     },
     {
@@ -478,5 +478,17 @@
       "word": "You lucked out",
       "translation": "tuviste suerte"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un ladrón de bancos se entrega a la policía porque se ha enamorado y decide llevar una vida honrada. Sin embargo, cuando descubre que los federales son aún más corruptos que él, se verá obligado a utilizar todo su entrenamiento y experiencia como ex marine y ladrón profesional para limpiar su nombre.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+      "https://image.tmdb.org/t/p/w780/dADKKaTlzK2PFdtd86Mgisi7IKi.jpg",
+      "https://image.tmdb.org/t/p/w780/tYkMtYPNpUdLdzGDUTC5atyMh9X.jpg",
+      "https://image.tmdb.org/t/p/w780/6KQaKloJgPigQ4GQ9uEKnLiSJT6.jpg",
+      "https://image.tmdb.org/t/p/w780/uNe9QgvMlM15evabDMkOz23wwIR.jpg",
+      "https://image.tmdb.org/t/p/w780/6yrqL5VMW18GEOXUj71yNtDXj7C.jpg"
+    ],
+    "episodes": null
+  }
 }

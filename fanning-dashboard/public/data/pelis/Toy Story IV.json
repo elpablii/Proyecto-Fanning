@@ -3,7 +3,7 @@
   "englishAnalysis": "Como es tradición en Pixar, el inglés es nítido y apto para toda la familia. Incluye divertidos juegos de palabras, jerga de ferias de atracciones, y expresiones sobre el propósito y la lealtad. Ideal para aprender el habla cotidiana.",
   "vocabulary": [
     {
-      "word": "He’s done for",
+      "word": "He's done for",
       "translation": "está acabado"
     },
     {
@@ -282,5 +282,17 @@
       "word": "The awning",
       "translation": "el toldo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuando un nuevo juguete llamado «Forky» se une a Woody y a la pandilla, un viaje por carretera junto a viejos y nuevos amigos revela lo grande que puede ser el mundo para un juguete.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "https://image.tmdb.org/t/p/w780/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+      "https://image.tmdb.org/t/p/w780/jLITglCQD9pwquxYdJjg0VzaVAF.jpg",
+      "https://image.tmdb.org/t/p/w780/mAkPFEWkwKz9nmKyCiuETfTdpgX.jpg",
+      "https://image.tmdb.org/t/p/w780/4KhVv7OAHn6vULgHymnnYWULQDz.jpg",
+      "https://image.tmdb.org/t/p/w780/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg"
+    ],
+    "episodes": null
+  }
 }

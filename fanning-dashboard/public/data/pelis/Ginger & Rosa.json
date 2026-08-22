@@ -146,5 +146,17 @@
       "word": "You dream of everlasting love",
       "translation": "sueñas con el amor eterno"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una mirada a las vidas de dos adolescentes, amigas inseparables Ginger y Rosa, que crecieron en el Londres de los años sesenta mientras se avecina la Crisis de los Misiles en Cuba, y el evento fundamental que viene a redefinir su relación.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+      "https://image.tmdb.org/t/p/w780/aetiCCj6spSj3YffBxW9eDgktiq.jpg",
+      "https://image.tmdb.org/t/p/w780/z6M4winiueBx03471F1EZ0xwwin.jpg",
+      "https://image.tmdb.org/t/p/w780/bVzRObcLYRD4urwlReFO50cl45.jpg",
+      "https://image.tmdb.org/t/p/w780/l6kk5zOFJwnA915tGGsUOKCao0q.jpg",
+      "https://image.tmdb.org/t/p/w780/6sF6r8zdVeWh1UwHIYiFExzYFCZ.jpg"
+    ],
+    "episodes": null
+  }
 }

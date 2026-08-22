@@ -39,7 +39,7 @@
       "translation": "problemas de límites"
     },
     {
-      "word": "Don’t hesitate to ask",
+      "word": "Don't hesitate to ask",
       "translation": "no dudes en preguntar"
     },
     {
@@ -135,7 +135,7 @@
       "translation": "parece bastante sencillo"
     },
     {
-      "word": "We’re behind schedule",
+      "word": "We're behind schedule",
       "translation": "vamos con retraso"
     },
     {
@@ -147,7 +147,7 @@
       "translation": "lo que se te ocurra"
     },
     {
-      "word": "You’ve been restrained",
+      "word": "You've been restrained",
       "translation": "has sido retenido"
     },
     {
@@ -202,5 +202,17 @@
       "word": "claro",
       "translation": "No registrada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una compañía tecnológica crea un ser artificial, sin ser conscientes de su verdadero potencial. Cuando las cosas comienzan a salirse de su control, deciden contratar a una especialista para determinar si acabar con la criatura o mantenerla viva.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
+      "https://image.tmdb.org/t/p/w780/eG8LC5qVHmvNxVjivIMmflKwQkM.jpg",
+      "https://image.tmdb.org/t/p/w780/fxqgUjeRdhbEtbtIITQgVaVDFtw.jpg",
+      "https://image.tmdb.org/t/p/w780/4lC8it2HF0Ir5hyQfegCFN696oP.jpg",
+      "https://image.tmdb.org/t/p/w780/5VtwzMnMLkbkxPI1uTa6dKj6NYM.jpg",
+      "https://image.tmdb.org/t/p/w780/1YTvlrEJGiPmLqs1KZZWrwXXCFB.jpg"
+    ],
+    "episodes": null
+  }
 }

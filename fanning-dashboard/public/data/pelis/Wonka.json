@@ -975,12 +975,24 @@
       "translation": "rinoplastía"
     },
     {
-      "word": "They’ve gone down",
+      "word": "They've gone down",
       "translation": "han caído"
     },
     {
       "word": "Wipe (sustantivo)",
       "translation": "toallita, trapo, pasada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+      "https://image.tmdb.org/t/p/w780/xwzJiqdDIlXYeUkPjbOvXZicig2.jpg",
+      "https://image.tmdb.org/t/p/w780/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+      "https://image.tmdb.org/t/p/w780/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+      "https://image.tmdb.org/t/p/w780/r1eCvALF6fN7anVYL8Zn7PaceD1.jpg",
+      "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg"
+    ],
+    "episodes": null
+  }
 }

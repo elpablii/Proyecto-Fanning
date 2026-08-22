@@ -103,7 +103,7 @@
       "translation": "anhelamos un tipo diferente de emoción"
     },
     {
-      "word": "I’m lying (no alusivo a mentir)",
+      "word": "I'm lying (no alusivo a mentir)",
       "translation": "estoy acostada/recostada"
     },
     {
@@ -486,5 +486,17 @@
       "word": "predominante",
       "translation": "No registrada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Filmado frente a 76.000 fanáticos en el estadio ANZ en Sydney, Australia, \"The 1989 World Tour Live\" captura la actuación completa de Taylor Swift y al mismo tiempo mezcla imágenes detrás de escena, de ensayo y de invitados especiales de su gira de 1989.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg",
+      "https://image.tmdb.org/t/p/w780/uFdgL6AIUQwV0xObeWulHvTU7Ae.jpg",
+      "https://image.tmdb.org/t/p/w780/wiAnzQaR9G3ieDVMKd3Qrib6KAJ.jpg",
+      "https://image.tmdb.org/t/p/w780/gJKFbIbYnFjwUknsgNVJ3Aecq3d.jpg",
+      "https://image.tmdb.org/t/p/w780/mEMcYmDV5qTXfTMz9kwYUGhAuZz.jpg",
+      "https://image.tmdb.org/t/p/w780/ii6f4gAoIGNy9OFHVbDsaiuB4nP.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -75,11 +75,11 @@
       "translation": "héroe local"
     },
     {
-      "word": "I’m up against it",
+      "word": "I'm up against it",
       "translation": "estoy en contra de ello"
     },
     {
-      "word": "I’m running their socials for a little bit",
+      "word": "I'm running their socials for a little bit",
       "translation": "dirijo sus actividades sociales durante un"
     },
     {
@@ -115,7 +115,7 @@
       "translation": "lo aguantamos"
     },
     {
-      "word": "Let’s get after it (frase no literal)",
+      "word": "Let's get after it (frase no literal)",
       "translation": "vamos a ello"
     },
     {
@@ -223,7 +223,7 @@
       "translation": "ruidos sordos y retumbantes"
     },
     {
-      "word": "Let’s push that booger-looking box-head",
+      "word": "Let's push that booger-looking box-head",
       "translation": "¡Empujemos esa cabeza cuadrada que parece"
     },
     {
@@ -315,7 +315,7 @@
       "translation": "ritmo vibrante"
     },
     {
-      "word": "It’s tasty as hell (parcialmente no literal)",
+      "word": "It's tasty as hell (parcialmente no literal)",
       "translation": "esta riquísimo/buenísimo"
     },
     {
@@ -343,7 +343,7 @@
       "translation": "anhelar"
     },
     {
-      "word": "That’s a bummer (expresión)",
+      "word": "That's a bummer (expresión)",
       "translation": "qué pena"
     },
     {
@@ -403,7 +403,7 @@
       "translation": "nunchaku"
     },
     {
-      "word": "Abso-rootin’-tootly (informal)",
+      "word": "Abso-rootin'-tootly (informal)",
       "translation": "por supuesto que sí"
     },
     {
@@ -471,7 +471,7 @@
       "translation": "amortiguar"
     },
     {
-      "word": "You’ve got some talking to do",
+      "word": "You've got some talking to do",
       "translation": "tienes que hablar con alguien"
     },
     {
@@ -547,7 +547,7 @@
       "translation": "todo junto"
     },
     {
-      "word": "I’m washed up (frase no literal)",
+      "word": "I'm washed up (frase no literal)",
       "translation": "estoy acabado"
     },
     {
@@ -583,11 +583,11 @@
       "translation": "silbido chirriante"
     },
     {
-      "word": "Don’t fall for it! (frase no literal)",
+      "word": "Don't fall for it! (frase no literal)",
       "translation": "¡No te lo creas!"
     },
     {
-      "word": "You’re a cute little booger-face",
+      "word": "You're a cute little booger-face",
       "translation": "eres un pequeño mocoso muy mono"
     },
     {
@@ -615,7 +615,7 @@
       "translation": "¡Prepárense para el impacto!"
     },
     {
-      "word": "He’s one heck of a wolf (frase no literal)",
+      "word": "He's one heck of a wolf (frase no literal)",
       "translation": "es un lobo increíble"
     },
     {
@@ -627,7 +627,7 @@
       "translation": "fue un aterrizaje forzoso bastante Brusco"
     },
     {
-      "word": "I’m done with (frase no literal)",
+      "word": "I'm done with (frase no literal)",
       "translation": "estoy harto de"
     },
     {
@@ -667,7 +667,7 @@
       "translation": "¡Dale un mordisco a ese cerdo!"
     },
     {
-      "word": "It’s fireball time",
+      "word": "It's fireball time",
       "translation": "es hora de lanzar bolas de fuego"
     },
     {
@@ -699,7 +699,7 @@
       "translation": "restricciones"
     },
     {
-      "word": "I’m coming with (parcialmente no literal)",
+      "word": "I'm coming with (parcialmente no literal)",
       "translation": "yo también voy"
     },
     {
@@ -742,5 +742,17 @@
       "word": "I was struck by a love so powerful",
       "translation": "me golpeó un amor tan poderoso"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "https://image.tmdb.org/t/p/w780/56lv8d5yst1SBhw1uR3iGFd1R43.jpg",
+      "https://image.tmdb.org/t/p/w780/ziy2IHPtWMEFVYthyZMguaB4xXp.jpg",
+      "https://image.tmdb.org/t/p/w780/eFnQGCUOkcMJcR1iYU0UZCvpXC6.jpg",
+      "https://image.tmdb.org/t/p/w780/4MWc9Ur80Wo0B1fVVTnV0CoSh6A.jpg",
+      "https://image.tmdb.org/t/p/w780/elv9BNtTrbtiyif8cE02AuK1nQi.jpg"
+    ],
+    "episodes": null
+  }
 }

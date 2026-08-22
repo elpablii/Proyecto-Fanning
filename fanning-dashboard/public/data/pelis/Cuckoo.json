@@ -306,5 +306,17 @@
       "word": "Ring (verbo)",
       "translation": "sonar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Después de verse obligada a mudarse a los Alpes alemanes con su padre y su nueva familia, Gretchen, una joven de 17 años,  descubre que su nueva ciudad no es lo que parece, ya que está plagada de ruidos extraños y visiones aterradoras de una mujer que la persigue.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg",
+      "https://image.tmdb.org/t/p/w780/ndZ0rmPqY8AtXLdvF14hjBhkuDj.jpg",
+      "https://image.tmdb.org/t/p/w780/qzTypZlFlBNRBBYJgGW4KVdCReE.jpg",
+      "https://image.tmdb.org/t/p/w780/5K9wEVASUXg0Oj2uvt4mlKSHcQ4.jpg",
+      "https://image.tmdb.org/t/p/w780/uLGhGywlfm7MlRjzvAppQFuMDFR.jpg",
+      "https://image.tmdb.org/t/p/w780/AjmpXbpMDegWqjK8rW5LQ1V4DR.jpg"
+    ],
+    "episodes": null
+  }
 }

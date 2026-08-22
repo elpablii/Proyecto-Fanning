@@ -91,7 +91,7 @@
       "translation": "por el bien de todos"
     },
     {
-      "word": "You’re in luck",
+      "word": "You're in luck",
       "translation": "estás de suerte"
     },
     {
@@ -262,5 +262,17 @@
       "word": "Keep (verbo en algunos contextos)",
       "translation": "alejar (a uno de alguien)"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "https://image.tmdb.org/t/p/w780/lWqjXgut48IK5f5IRbDBAoO2Epp.jpg",
+      "https://image.tmdb.org/t/p/w780/nLBRD7UPR6GjmWQp6ASAfCTaWKX.jpg",
+      "https://image.tmdb.org/t/p/w780/dBkvawTlvciUvW7jmNAtuvhdtdr.jpg",
+      "https://image.tmdb.org/t/p/w780/iJQIbOPm81fPEGKt5BPuZmfnA54.jpg",
+      "https://image.tmdb.org/t/p/w780/f3dwZ2lu3Ny4AFHwcpBvsVElLua.jpg"
+    ],
+    "episodes": null
+  }
 }

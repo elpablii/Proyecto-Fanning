@@ -199,7 +199,7 @@
       "translation": "calabaza"
     },
     {
-      "word": "Don’t fret",
+      "word": "Don't fret",
       "translation": "no te preocupes"
     },
     {
@@ -398,5 +398,17 @@
       "word": "Do you want to pop a little gin in it?",
       "translation": "¿Quieres echarle un poco de ginebra?"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "https://image.tmdb.org/t/p/w780/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
+      "https://image.tmdb.org/t/p/w780/91BAmpop4AJ5Pf7E0zuQiHdSV4Q.jpg",
+      "https://image.tmdb.org/t/p/w780/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+      "https://image.tmdb.org/t/p/w780/rExCWJXzGYIZduVikBzhBEMPMLM.jpg",
+      "https://image.tmdb.org/t/p/w780/dcGsw5wY5vgpkcOLZnvl8OUNf0A.jpg"
+    ],
+    "episodes": null
+  }
 }

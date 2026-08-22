@@ -111,7 +111,7 @@
       "translation": "pegadizo"
     },
     {
-      "word": "It’s boxy",
+      "word": "It's boxy",
       "translation": "es cuadrado"
     },
     {
@@ -354,5 +354,17 @@
       "word": "I got beaten down by an old-school Vegas thug",
       "translation": "me golpeó un matón de la vieja escuela"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Ben Campbell, un tímido y brillante estudiante del Instituto Tecnológico de Massachussets (MIT), recurre a los naipes para poder pagar la matrícula de la universidad. Se le presenta, además, la oportunidad de unirse a un grupo de estudiantes que viajan a Las Vegas para jugar al blackjack. Bajo la dirección del poco ortodoxo profesor de matemáticas y genio de la estadística Micky Rosa, han conseguido descifrar el código del éxito, mediante el conteo de cartas.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg",
+      "https://image.tmdb.org/t/p/w780/2icKUFNIs67FljWFDb58OW1zP5x.jpg",
+      "https://image.tmdb.org/t/p/w780/AqR2hGl4MF0hmGGHiYMrkGuV9yj.jpg",
+      "https://image.tmdb.org/t/p/w780/4KgjpUnQuaoRTMZJv4t1BD1byGV.jpg",
+      "https://image.tmdb.org/t/p/w780/eMmds0FZMgrkPWhuWzNeeftGrUD.jpg",
+      "https://image.tmdb.org/t/p/w780/zqeO7ksCq9HBoROxyvfeYaUOJMr.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -135,7 +135,7 @@
       "translation": "caladas"
     },
     {
-      "word": "It’s not lit (parcialmente no literal)",
+      "word": "It's not lit (parcialmente no literal)",
       "translation": "no es divertido, es aburrido"
     },
     {
@@ -406,5 +406,17 @@
       "word": "Exhilarating music",
       "translation": "música estimulante/emocionante"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+      "https://image.tmdb.org/t/p/w780/n2u71qKzc5t3LRwdKbDeJv4JSYj.jpg",
+      "https://image.tmdb.org/t/p/w780/2ehYIUJbQMOKXojAcy7wga7vKjw.jpg",
+      "https://image.tmdb.org/t/p/w780/dS8GMiwJqmrBRhouk8b8sLoJxDg.jpg",
+      "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
+      "https://image.tmdb.org/t/p/w780/yU2Fz8FFcTcblYDHvShJqZ1dTOC.jpg"
+    ],
+    "episodes": null
+  }
 }

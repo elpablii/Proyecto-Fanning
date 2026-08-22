@@ -19,7 +19,7 @@
       "translation": "desprender"
     },
     {
-      "word": "I’m picking her apart",
+      "word": "I'm picking her apart",
       "translation": "la estoy destrozando"
     },
     {
@@ -51,7 +51,7 @@
       "translation": "todavía toque un nervio"
     },
     {
-      "word": "I’m hitting all the wrong keys",
+      "word": "I'm hitting all the wrong keys",
       "translation": "estoy pulsando todas las teclas equivocadas"
     },
     {
@@ -83,7 +83,7 @@
       "translation": "agudamente"
     },
     {
-      "word": "I’m terrified",
+      "word": "I'm terrified",
       "translation": "estoy aterrorizada"
     },
     {
@@ -95,7 +95,7 @@
       "translation": "un poco endurecido ahora"
     },
     {
-      "word": "We’re through (traducción no literal en términos de relaciones)",
+      "word": "We're through (traducción no literal en términos de relaciones)",
       "translation": "terminamos"
     },
     {
@@ -263,11 +263,11 @@
       "translation": "mirar a través de"
     },
     {
-      "word": "I’m still reeling from this heartbreak",
+      "word": "I'm still reeling from this heartbreak",
       "translation": "todavía estoy aturdido por este desengaño"
     },
     {
-      "word": "I don’t stick up for myself",
+      "word": "I don't stick up for myself",
       "translation": "no me defiendo"
     },
     {
@@ -314,5 +314,17 @@
       "word": "A towhead blond",
       "translation": "de cabello claro"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Documental sobre la producción del álbum \"SOUR\" de Olivia Rodrigo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
+      "https://image.tmdb.org/t/p/w780/bSkwdGOurHVHMuuXtdISSpaR4Ke.jpg",
+      "https://image.tmdb.org/t/p/w780/6NtVCArU9ui5BcvomxjeOkzuvdA.jpg",
+      "https://image.tmdb.org/t/p/w780/odjR9ztbhZKYVatzbRABoREB2V5.jpg",
+      "https://image.tmdb.org/t/p/w780/aDkDDo6OEnfys5fK9yq8AokboQ7.jpg",
+      "https://image.tmdb.org/t/p/w780/m0ec6o8cMtkv1ywNIOMbeWmk2LO.jpg"
+    ],
+    "episodes": null
+  }
 }

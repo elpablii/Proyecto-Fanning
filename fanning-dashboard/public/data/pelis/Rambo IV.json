@@ -83,7 +83,7 @@
       "translation": "fallaron en el lanzamiento"
     },
     {
-      "word": "They’ll be on to us",
+      "word": "They'll be on to us",
       "translation": "estarán sobre nosotros"
     },
     {
@@ -102,5 +102,17 @@
       "word": "Spread out",
       "translation": "extender, desplegar, dispersar, esparcir"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendrá más remedio que volver a involucrarse. Se verá obligado a hacer lo que mejor sabe porque, muy a su pesar, lleva la guerra en la sangre.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+      "https://image.tmdb.org/t/p/w780/8cX1Xt91RSpxpwNamNDQog0OeMq.jpg",
+      "https://image.tmdb.org/t/p/w780/5W0ljXTtLVuLF0z8GE7mNXgTC44.jpg",
+      "https://image.tmdb.org/t/p/w780/zlCjMwMJiWO1NrSdPxVFIEYEt7j.jpg",
+      "https://image.tmdb.org/t/p/w780/eIDhmgup0dxhUyqVLFfhX78N5Gq.jpg",
+      "https://image.tmdb.org/t/p/w780/o83yV9tLKdCsNvnBKPtwCMC8VKe.jpg"
+    ],
+    "episodes": null
+  }
 }

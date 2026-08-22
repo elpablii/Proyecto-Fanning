@@ -39,7 +39,7 @@
       "translation": "creo que esos días están a punto de acabarse"
     },
     {
-      "word": "He’s out like a light",
+      "word": "He's out like a light",
       "translation": "está profundamente dormido"
     },
     {
@@ -131,7 +131,7 @@
       "translation": "desacelerar, bajar la velocidad"
     },
     {
-      "word": "Ain’t we all?",
+      "word": "Ain't we all?",
       "translation": "¿No es cierto?, ¿No es así?"
     },
     {
@@ -159,7 +159,7 @@
       "translation": "engañado"
     },
     {
-      "word": "You don’t wanna be led down the primrose path",
+      "word": "You don't wanna be led down the primrose path",
       "translation": "tú no quieres que te engañen"
     },
     {
@@ -175,7 +175,7 @@
       "translation": "engañado"
     },
     {
-      "word": "You don’t wanna be taken for a ride",
+      "word": "You don't wanna be taken for a ride",
       "translation": "no quieres que te tomen el pelo"
     },
     {
@@ -215,7 +215,7 @@
       "translation": "comprender"
     },
     {
-      "word": "It’s just the run up to the hump",
+      "word": "It's just the run up to the hump",
       "translation": "esto es sólo el calentamiento para la parte difícil"
     },
     {
@@ -295,7 +295,7 @@
       "translation": "es difícil caminar por aquí"
     },
     {
-      "word": "It’s mighty slick",
+      "word": "It's mighty slick",
       "translation": "es muy resbaladizo"
     },
     {
@@ -399,7 +399,7 @@
       "translation": "impar"
     },
     {
-      "word": "Let’s not dilly-dally",
+      "word": "Let's not dilly-dally",
       "translation": "no perdamos el tiempo"
     },
     {
@@ -415,7 +415,7 @@
       "translation": "cascabel de trineo"
     },
     {
-      "word": "It’s down this way",
+      "word": "It's down this way",
       "translation": "está por aqui"
     },
     {
@@ -447,7 +447,7 @@
       "translation": "problemático"
     },
     {
-      "word": "We’ll cut the kid a break",
+      "word": "We'll cut the kid a break",
       "translation": "le daremos una oportunidad al niño"
     },
     {
@@ -495,7 +495,7 @@
       "translation": "una pizca de humildad"
     },
     {
-      "word": "That’s a lucky lad",
+      "word": "That's a lucky lad",
       "translation": "ese es un chico afortunado"
     },
     {
@@ -527,8 +527,20 @@
       "translation": "todo quedó en silencio"
     },
     {
-      "word": "I’ve grown old",
+      "word": "I've grown old",
       "translation": "he envejecido"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Expreso Polar, mientras aprende sobre la amistad, la valentía y el espíritu de la Navidad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+      "https://image.tmdb.org/t/p/w780/y8Mabq84N0d5fm83CWb9Zkltkwr.jpg",
+      "https://image.tmdb.org/t/p/w780/xxH7s4o2ED9qrGxADOp627Txq7o.jpg",
+      "https://image.tmdb.org/t/p/w780/j5bNVfWgbbb36cUSVqSwcbIspOh.jpg",
+      "https://image.tmdb.org/t/p/w780/vQuIi5iOCN3V6yg7nbP5HUiVnpK.jpg",
+      "https://image.tmdb.org/t/p/w780/QKOADxDmh479WYtrsaVh0RA5sH.jpg"
+    ],
+    "episodes": null
+  }
 }

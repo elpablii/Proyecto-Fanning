@@ -15,7 +15,7 @@
       "translation": "estar listo/preparado para"
     },
     {
-      "word": "Burst",
+      "word": "Burst (verbo)",
       "translation": "estallar, reventar"
     },
     {
@@ -447,15 +447,15 @@
       "translation": "agradable, conforme"
     },
     {
-      "word": "CEO",
+      "word": "CEO (en organizaciones)",
       "translation": "director general"
     },
     {
-      "word": "CFO",
+      "word": "CFO (en organizaciones)",
       "translation": "director de finanzas"
     },
     {
-      "word": "COO",
+      "word": "COO (en organizaciones)",
       "translation": "director de operaciones"
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "word": "Long-term-low-commitment-distance girlfriend",
-      "translation": "novia sin compromiso a largo plazo y a"
+      "translation": "novia sin compromiso a largo plazo y a distancia"
     },
     {
       "word": "Gross",
@@ -974,5 +974,17 @@
       "word": "Enjoyment",
       "translation": "goce, disfrute"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "https://image.tmdb.org/t/p/w780/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
+      "https://image.tmdb.org/t/p/w780/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "https://image.tmdb.org/t/p/w780/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+      "https://image.tmdb.org/t/p/w780/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+      "https://image.tmdb.org/t/p/w780/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg"
+    ],
+    "episodes": null
+  }
 }

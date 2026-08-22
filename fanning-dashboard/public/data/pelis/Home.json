@@ -554,5 +554,17 @@
       "word": "Thriving species",
       "translation": "especies prósperas"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En 200.000 años de existencia, el hombre ha alterado el equilibrio en el que vivía la Tierra durante 4.000 millones de años. Calentamiento global, agotamiento de recursos, extinción de especies: el hombre ha puesto en peligro su propio hogar. Pero ya es demasiado tarde para ser pesimista: a la humanidad apenas le quedan diez años para invertir la tendencia, tomar conciencia de su explotación excesiva de las riquezas de la Tierra y cambiar su patrón de consumo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
+      "https://image.tmdb.org/t/p/w780/bXdZtDtFH4Hyri0gZPzkJi5nwzU.jpg",
+      "https://image.tmdb.org/t/p/w780/78kinIgDGZ8KiKrK1BJBEiwNeBi.jpg",
+      "https://image.tmdb.org/t/p/w780/89l6PrNDvOFGa2oGx49yfsgwB8Y.jpg",
+      "https://image.tmdb.org/t/p/w780/aZwaEpquhFpzZAufwire8pbjJIX.jpg",
+      "https://image.tmdb.org/t/p/w780/roenM08pQaFidPcdWReAGsPzu5o.jpg"
+    ],
+    "episodes": null
+  }
 }

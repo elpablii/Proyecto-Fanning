@@ -71,7 +71,7 @@
       "translation": "factura de servicios"
     },
     {
-      "word": "It’s creepy",
+      "word": "It's creepy",
       "translation": "es escalofriante"
     },
     {
@@ -406,5 +406,17 @@
       "word": "Good grief",
       "translation": "santo cielo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Después de probar suerte con un desesperanzado compositor, tres ardillas muy peculiares, Alvin, Simon y Theodore, deciden hacer de la casa de Dave la suya propia. Enseguida las ardillas se dan cuenta de la necesidad de convencer a Dave de que las deje vivir en su casa para demostrarle que no sólo pueden andar como una persona…¡sino que pueden cantar! No tardarán en revelarse como la sensación musical del momento, mientras Dave se convierte en algo más que en su compositor; en su padre. Los problemas comienzan cuando las ardillas comienzan a darse cuenta de su éxito y se rebelan contra Dave.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+      "https://image.tmdb.org/t/p/w780/lJgG7W2w2wnKZFY3y7EIbQ08cd5.jpg",
+      "https://image.tmdb.org/t/p/w780/9dTbAy5rznGippcAiFji8bRbSJ9.jpg",
+      "https://image.tmdb.org/t/p/w780/qgRIodyVEazbK6SFpHR79Xk7t5N.jpg",
+      "https://image.tmdb.org/t/p/w780/ijhQ1jYtkO8um8zShKVYDTsJFEE.jpg",
+      "https://image.tmdb.org/t/p/w780/1Y0ObS013fFZiwy1kihsh3fDHJl.jpg"
+    ],
+    "episodes": null
+  }
 }

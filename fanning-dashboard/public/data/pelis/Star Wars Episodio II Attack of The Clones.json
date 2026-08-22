@@ -35,7 +35,7 @@
       "translation": "me harás caso, me prestarás atención"
     },
     {
-      "word": "It’s overkill",
+      "word": "It's overkill",
       "translation": "es exagerado"
     },
     {
@@ -115,7 +115,7 @@
       "translation": "planeta errante"
     },
     {
-      "word": "Gravity’s pull",
+      "word": "Gravity's pull",
       "translation": "atracción de gravedad"
     },
     {
@@ -226,5 +226,17 @@
       "word": "Shroud",
       "translation": "sudario"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Senadora Padmé Amidala, la ex Reina de Naboo, el aprendiz Jedi de veinte años Anakin Skywalker es asignado para protegerla. En el transcurso de su misión, Anakin descubre su amor por Padmé y por su lado más oscuro. Pronto, Anakin, Padmé y Obi-Wan Kenobi se sienten atraídos por el corazón del movimiento separatista y el comienzo de las Guerras Clon.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg",
+      "https://image.tmdb.org/t/p/w780/msYmRFJfXy0zsFd73PAEqdetKpO.jpg",
+      "https://image.tmdb.org/t/p/w780/dNt5q68BBkddBxlvrHDa1apyBy8.jpg",
+      "https://image.tmdb.org/t/p/w780/9dwPRPM3ziTPs4VyBHfXCB1NIUm.jpg",
+      "https://image.tmdb.org/t/p/w780/3UBtmYaY3lm8wGZIa0KK1YazEX8.jpg",
+      "https://image.tmdb.org/t/p/w780/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -131,7 +131,7 @@
       "translation": "pista"
     },
     {
-      "word": "I don’t have a good grip!",
+      "word": "I don't have a good grip!",
       "translation": "¡No tengo un buen agarre!"
     },
     {
@@ -179,7 +179,7 @@
       "translation": "nos quedamos con eso"
     },
     {
-      "word": "I’m from all over",
+      "word": "I'm from all over",
       "translation": "soy de todas partes"
     },
     {
@@ -203,7 +203,7 @@
       "translation": "ella ha tenido un comienzo difícil"
     },
     {
-      "word": "If she can’t get it together",
+      "word": "If she can't get it together",
       "translation": "si ella no puede recuperarse"
     },
     {
@@ -223,7 +223,7 @@
       "translation": "intervenir"
     },
     {
-      "word": "I’m gonna step back in",
+      "word": "I'm gonna step back in",
       "translation": "voy a volver a entrar"
     },
     {
@@ -303,7 +303,7 @@
       "translation": "mi amigo"
     },
     {
-      "word": "We’d be stranded",
+      "word": "We'd be stranded",
       "translation": "estaríamos varados"
     },
     {
@@ -335,7 +335,7 @@
       "translation": "florete"
     },
     {
-      "word": "We’ll be outed",
+      "word": "We'll be outed",
       "translation": "seremos descubiertos"
     },
     {
@@ -383,7 +383,7 @@
       "translation": "jacuzzi"
     },
     {
-      "word": "She’s legit psychic",
+      "word": "She's legit psychic",
       "translation": "ella es psíquica de verdad"
     },
     {
@@ -435,7 +435,7 @@
       "translation": "música estimulante, música para levantar el ánimo"
     },
     {
-      "word": "We don’t go pro",
+      "word": "We don't go pro",
       "translation": "nosotros no nos volvemos profesionales"
     },
     {
@@ -458,5 +458,17 @@
       "word": "Wearily",
       "translation": "cansadamente"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "https://image.tmdb.org/t/p/w780/xg27NrXi7VXCGUr7MG75UqLl6Vg.jpg",
+      "https://image.tmdb.org/t/p/w780/uVu2fBc114un7F1GD76RBouWyBP.jpg",
+      "https://image.tmdb.org/t/p/w780/coATv42PoiLqAFKStJiMZs2r6Zb.jpg",
+      "https://image.tmdb.org/t/p/w780/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+      "https://image.tmdb.org/t/p/w780/pI5jxew0I9kub4IXrtsOB8F40dw.jpg"
+    ],
+    "episodes": null
+  }
 }

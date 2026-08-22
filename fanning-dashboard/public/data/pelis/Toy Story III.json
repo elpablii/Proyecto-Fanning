@@ -462,5 +462,17 @@
       "word": "Detach (verbo)",
       "translation": "separar, desprender, despegar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "https://image.tmdb.org/t/p/w780/9w40MpsvyxMdtnwu1R4tPVW8Gmb.jpg",
+      "https://image.tmdb.org/t/p/w780/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+      "https://image.tmdb.org/t/p/w780/csDxOOSjfcJNNRo4ma8ltVynELV.jpg",
+      "https://image.tmdb.org/t/p/w780/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
+      "https://image.tmdb.org/t/p/w780/9KX2pn7AU0qdF2nywtveuxLWdjD.jpg"
+    ],
+    "episodes": null
+  }
 }

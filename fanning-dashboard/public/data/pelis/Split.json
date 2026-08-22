@@ -191,7 +191,7 @@
       "translation": "atardecer y amanecer"
     },
     {
-      "word": "It’s crooked",
+      "word": "It's crooked",
       "translation": "está torcido"
     },
     {
@@ -287,7 +287,7 @@
       "translation": "rebeldía"
     },
     {
-      "word": "I’m worried sick",
+      "word": "I'm worried sick",
       "translation": "estoy muy preocupado"
     },
     {
@@ -330,5 +330,17 @@
       "word": "Two point-blank gunshots",
       "translation": "dos disparos a quemarropa"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Tres niñas son secuestradas por un hombre al que se le diagnosticó 23 personalidades distintas. Deben tratar de escapar antes de la aparente aparición de un espantoso nuevo 24.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+      "https://image.tmdb.org/t/p/w780/bdUzIGXTSclcX2ELHS9HHbmQmMI.jpg",
+      "https://image.tmdb.org/t/p/w780/kEfArFlXYSCftxthwjn91ih3vyW.jpg",
+      "https://image.tmdb.org/t/p/w780/cw7HFI2szsPJLXZ3NexgCYR4sJW.jpg",
+      "https://image.tmdb.org/t/p/w780/t5Vs3e4kDflQHJKDw3S2y3F8avI.jpg",
+      "https://image.tmdb.org/t/p/w780/hKLn675wD7KrKuYFMwUHAIt6cn7.jpg"
+    ],
+    "episodes": null
+  }
 }

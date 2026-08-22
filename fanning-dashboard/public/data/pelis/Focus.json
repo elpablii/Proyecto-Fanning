@@ -35,7 +35,7 @@
       "translation": "perder (la oportunidad de hacer algo)"
     },
     {
-      "word": "I’m drawing a blank",
+      "word": "I'm drawing a blank",
       "translation": "no se me ocurre, no recuerdo"
     },
     {
@@ -51,7 +51,7 @@
       "translation": "melocotón"
     },
     {
-      "word": "He’s onto us",
+      "word": "He's onto us",
       "translation": "Nos ha pillado"
     },
     {
@@ -231,7 +231,7 @@
       "translation": "solapa"
     },
     {
-      "word": "It’s a prat poke",
+      "word": "It's a prat poke",
       "translation": "es un idiota"
     },
     {
@@ -275,11 +275,11 @@
       "translation": "todo dentro"
     },
     {
-      "word": "I’ve never had four of a kind",
+      "word": "I've never had four of a kind",
       "translation": "Nunca he tenido cuatro de una clase."
     },
     {
-      "word": "There’s something going on down here",
+      "word": "There's something going on down here",
       "translation": "Algo está pasando aquí abajo"
     },
     {
@@ -335,7 +335,7 @@
       "translation": "maletero, baúl (parte trasera de un auto)"
     },
     {
-      "word": "I’ll get this loaded in",
+      "word": "I'll get this loaded in",
       "translation": "Yo lo cargaré"
     },
     {
@@ -547,7 +547,7 @@
       "translation": "considera tu deuda saldada"
     },
     {
-      "word": "High-roller’s suite",
+      "word": "High-roller's suite",
       "translation": "suite de jugador VIP"
     },
     {
@@ -951,7 +951,7 @@
       "translation": "burlarse de, fastidiar, molestar"
     },
     {
-      "word": "We’re so screwed",
+      "word": "We're so screwed",
       "translation": "estamos tan jodidos"
     },
     {
@@ -1074,5 +1074,17 @@
       "word": "Thieve",
       "translation": "ladrón(a)"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un veterano estafador acoge a una atractiva joven bajo su protectorado, pero las cosas se complican cuando ambos comienzan un romance. Todo comienza cuando Nicky (Will Smith), un consumado maestro de la estafa, comienza un romance con Jess (Margot Robbie), una novata en el oficio. Mientras le enseña los trucos del oficio, ella desea estrechar demasiado los lazos con Nicky, y éste rompe de repente la relación. Tres años más tarde, la mujer que había encendido una llama en él, convertida en una mujer fatal, reaparece en Buenos Aires en un circuito de carreras en el que hay apuestas muy elevadas",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+      "https://image.tmdb.org/t/p/w780/e3dzlpDdqkVrxfw9gusYPjG5Vub.jpg",
+      "https://image.tmdb.org/t/p/w780/gOknP9a0h8lLwjtxCtjYYnzrFjY.jpg",
+      "https://image.tmdb.org/t/p/w780/pksyJy4BcNwhhrjfvWXfgJwChwp.jpg",
+      "https://image.tmdb.org/t/p/w780/hKvY8ZYtzbpqqrisc6vZ9ycZaEn.jpg",
+      "https://image.tmdb.org/t/p/w780/1nBmMAfnvj7dYYLxWUY4WMyxH8b.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -134,5 +134,17 @@
       "word": "Despair",
       "translation": "desesperación, desesperanza"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "El apocalipsis se muestra como una bendición oculta para un afortunado recluso, hasta que un segundo superviviente llega con la amenaza de hacerle compañía.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
+      "https://image.tmdb.org/t/p/w780/6SBWKM0lRWvadzluf1zIj7bYkZU.jpg",
+      "https://image.tmdb.org/t/p/w780/xrarPOJsLmianRgKpJbJDaF7M3P.jpg",
+      "https://image.tmdb.org/t/p/w780/7oL7SUW0cNfEQE4ooUDT1WZi9H3.jpg",
+      "https://image.tmdb.org/t/p/w780/ksitsmpdBsaDfueRoiAdFi0OUAq.jpg",
+      "https://image.tmdb.org/t/p/w780/dLUltJAfYzVF8doGXNTWRJp1cpv.jpg"
+    ],
+    "episodes": null
+  }
 }

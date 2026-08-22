@@ -7,11 +7,11 @@
       "translation": "ramita, rama"
     },
     {
-      "word": "Don’t look away",
+      "word": "Don't look away",
       "translation": "no apartes/desvíes la mirada"
     },
     {
-      "word": "Wind’s died down",
+      "word": "Wind's died down",
       "translation": "el viento ha amainado, el viento se ha calmado"
     },
     {
@@ -251,7 +251,7 @@
       "translation": "engendro"
     },
     {
-      "word": "He’s up to something",
+      "word": "He's up to something",
       "translation": "él está tramando algo"
     },
     {
@@ -367,7 +367,7 @@
       "translation": "has reavivado las brasas de"
     },
     {
-      "word": "We’re on!",
+      "word": "We're on!",
       "translation": "¡Ya estamos!"
     },
     {
@@ -462,5 +462,17 @@
       "word": "And only to the enterprising",
       "translation": "y sólo para los emprendedores"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grupo de saltamontes comandados por Hopper. Pero cuando la caballería de Flik resulta ser un conjunto de artistas de circo, comienzan las cómicas confusiones.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+      "https://image.tmdb.org/t/p/w780/pWd09ohdwOSNF4IWG8a25qORc2O.jpg",
+      "https://image.tmdb.org/t/p/w780/s0eIBHJROgDWO3IoOt8FfQCFPGh.jpg",
+      "https://image.tmdb.org/t/p/w780/u2HrA8BMvvHURz5mVOIe9EM1zGx.jpg",
+      "https://image.tmdb.org/t/p/w780/vhJfI0UaV43FTJec7r5KJMPSWoH.jpg",
+      "https://image.tmdb.org/t/p/w780/uPaYMfkKG1ZHz2mQPykrnyCYDdG.jpg"
+    ],
+    "episodes": null
+  }
 }

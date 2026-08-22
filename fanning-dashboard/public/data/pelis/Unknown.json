@@ -106,5 +106,17 @@
       "word": "Plunge (verbo)",
       "translation": "caer, desplomar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un hombre se despierta de un coma, solo para descubrir que alguien ha tomado su identidad y que nadie, ni siquiera su esposa, le cree. Con la ayuda de una joven, se propone probar quién es.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+      "https://image.tmdb.org/t/p/w780/nIrqVdM099OXtTzdVgt3ZUfcKsO.jpg",
+      "https://image.tmdb.org/t/p/w780/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
+      "https://image.tmdb.org/t/p/w780/gbvBmlv8b1lIDQWomxZKViWFUWM.jpg",
+      "https://image.tmdb.org/t/p/w780/hH7MQ4cHtWvHlKQMDvUz95eNFrr.jpg",
+      "https://image.tmdb.org/t/p/w780/vkWLFntfP0lgUw3y9ucNKd4Vj3e.jpg"
+    ],
+    "episodes": null
+  }
 }

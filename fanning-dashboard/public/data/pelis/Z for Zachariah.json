@@ -39,7 +39,7 @@
       "translation": "ingeniero de investigación"
     },
     {
-      "word": "It’s beat up now",
+      "word": "It's beat up now",
       "translation": "está golpeado ahora"
     },
     {
@@ -79,7 +79,7 @@
       "translation": "estaba tonteando"
     },
     {
-      "word": "Don’t beat yourself up",
+      "word": "Don't beat yourself up",
       "translation": "no te castigues"
     },
     {
@@ -103,7 +103,7 @@
       "translation": "parpadear"
     },
     {
-      "word": "It’s all cinder block",
+      "word": "It's all cinder block",
       "translation": "es todo bloque de cemento"
     },
     {
@@ -123,7 +123,7 @@
       "translation": "mantener (a alguien en un lugar)"
     },
     {
-      "word": "I’ll see you in a bit",
+      "word": "I'll see you in a bit",
       "translation": "te veré en un rato"
     },
     {
@@ -139,7 +139,7 @@
       "translation": "capilla"
     },
     {
-      "word": "I’m underdressed",
+      "word": "I'm underdressed",
       "translation": "estoy mal vestido"
     },
     {
@@ -151,7 +151,7 @@
       "translation": "hospitalario"
     },
     {
-      "word": "I’ve been laid up",
+      "word": "I've been laid up",
       "translation": "he estado postrado"
     },
     {
@@ -159,7 +159,7 @@
       "translation": "depresión, hueco"
     },
     {
-      "word": "I’ll be out of your hair",
+      "word": "I'll be out of your hair",
       "translation": "estaré fuera de tu alcance"
     },
     {
@@ -303,7 +303,7 @@
       "translation": "para construir su proyecto de agua"
     },
     {
-      "word": "It’s the milling them that’s the problem",
+      "word": "It's the milling them that's the problem",
       "translation": "el problema es molerlos"
     },
     {
@@ -339,12 +339,24 @@
       "translation": "para evitar que te vayas"
     },
     {
-      "word": "Jealousy doesn’t suit you",
+      "word": "Jealousy doesn't suit you",
       "translation": "los celos no te convienen"
     },
     {
       "word": "The safe suit",
       "translation": "traje de seguridad, traje antirradiación"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "A raíz de una guerra nuclear, una joven sobrevive sola, temiendo ser la proverbial última mujer en la tierra, hasta que descubre la visión más sorprendente de su vida: otro ser humano. Un científico angustiado que casi se vuelve loco por la exposición a la radiación y su desesperada búsqueda de otros. Los conecta un frágil e imperativo hilo de confianza. Pero cuando un extraño entra al valle, su precario vínculo comienza a desmoronarse.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
+      "https://image.tmdb.org/t/p/w780/kTifWnXRTh3Y8axz7WVeGgo2r3H.jpg",
+      "https://image.tmdb.org/t/p/w780/uLa4bLfpo0UTQmFy7NcVFAtLACn.jpg",
+      "https://image.tmdb.org/t/p/w780/kOnZUUP2JSEdJIkEkhz639O6gsX.jpg",
+      "https://image.tmdb.org/t/p/w780/5Yv1DDsikHSkVX3xkpT9d4PoCX8.jpg",
+      "https://image.tmdb.org/t/p/w780/ryoTHRHrTy4nSuwyjol7GtUpWsA.jpg"
+    ],
+    "episodes": null
+  }
 }

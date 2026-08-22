@@ -375,7 +375,7 @@
       "translation": "en resumen, en definitiva"
     },
     {
-      "word": "We’re gonna reel it in (frase no literal)",
+      "word": "We're gonna reel it in (frase no literal)",
       "translation": "vamos a bajarle un poco"
     },
     {
@@ -447,7 +447,7 @@
       "translation": "No registrada"
     },
     {
-      "word": "I’m holding you guys back (frase no literal)",
+      "word": "I'm holding you guys back (frase no literal)",
       "translation": "soy un lastre para ustedes"
     },
     {
@@ -559,12 +559,24 @@
       "translation": "¿Qué estás haciendo ahora?"
     },
     {
-      "word": "It’s extra spoon-worthy",
+      "word": "It's extra spoon-worthy",
       "translation": "es excepcionalmente cómodo y acogedor"
     },
     {
       "word": "We just have to look for it",
       "translation": "sólo tenemos que buscarlo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "La joven Quinn Ackerman tiene grandes planes cuando salga de la preparatoria y el primero de ellos es poder conseguir un sitio en una de las universidades más reputadas del país. Entendiendo que cuanto más actividades extracurriculares tenga, mejores notas presenta en sus aplicaciones, Quinn decide que precisa una actividad más a fin de que su resumen sea tomado en cuenta y determina que su opción mejor es formar parte del escuadrón elite de baile de su escuela.  Mas hay una grave complicación: carece de cualquier habilidad para danzar, peor todavía intentar hacerlo a nivel de competencia. Cuando es rechazada en el equipo oficial, Quinn decide armar su conjunto de baile, con todos aquellos rechazados y talentosos estudiantes para transformarse en el equipo oficial de la escuela y representarla en la competencia estatal.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+      "https://image.tmdb.org/t/p/w780/ishzDCZIv9iWfI70nv5E4ZreYUD.jpg",
+      "https://image.tmdb.org/t/p/w780/5vcsQC3re7WNK3KyD96R4SqYb4U.jpg",
+      "https://image.tmdb.org/t/p/w780/qhQrnD4yK11hRBHp4GeBImXjixo.jpg",
+      "https://image.tmdb.org/t/p/w780/6nI4yXwzWxSbbWeFFH2uO5LimyN.jpg",
+      "https://image.tmdb.org/t/p/w780/NRbj8ovGhD88xR67qr66BeTr8l.jpg"
+    ],
+    "episodes": null
+  }
 }

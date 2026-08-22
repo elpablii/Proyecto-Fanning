@@ -403,7 +403,7 @@
       "translation": "morboso, mórbido"
     },
     {
-      "word": "It’s nonsensical",
+      "word": "It's nonsensical",
       "translation": "no tiene sentido"
     },
     {
@@ -634,5 +634,17 @@
       "word": "She's setting in for the long nap",
       "translation": "se está preparando para la larga siesta"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+      "https://image.tmdb.org/t/p/w780/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+      "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "https://image.tmdb.org/t/p/w780/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+      "https://image.tmdb.org/t/p/w780/wQxPlS65wgy6Ik7N80bsMpAkjyf.jpg",
+      "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg"
+    ],
+    "episodes": null
+  }
 }

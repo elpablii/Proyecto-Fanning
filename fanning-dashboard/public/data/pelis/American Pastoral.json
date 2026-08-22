@@ -199,7 +199,7 @@
       "translation": "terrateniente"
     },
     {
-      "word": "That’s nonsense",
+      "word": "That's nonsense",
       "translation": "esto no tiene sentido"
     },
     {
@@ -346,5 +346,17 @@
       "word": "Shower blessings (verbo)",
       "translation": "derramar bendiciones"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Seymour Lvov, “el Sueco”, es un exitoso hombre de negocios con una vida perfecta que ve como su estabilidad familiar peligra por la turbulenta situación política estadounidense de la década de los 60. La tormenta se desata cuando su hija Merry desaparece tras ser acusada de cometer un acto violento. Lvov se dedicará a buscarla y a reunir a su familia. Lo que descubre remueve sus cimientos, forzándole a mirar más allá de la superficie y afrontar el caos que está forjando el mundo a su alrededor: ninguna familia americana volverá a ser la misma.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg",
+      "https://image.tmdb.org/t/p/w780/z0HQ5un62WUfPc3QPwC4UtyAEzC.jpg",
+      "https://image.tmdb.org/t/p/w780/6BRwmq5o4FKB5LN0M5AFbMFRnkN.jpg",
+      "https://image.tmdb.org/t/p/w780/fDxdfM4Qj2Qhc6EZYPyB3k4xatw.jpg",
+      "https://image.tmdb.org/t/p/w780/juQNapimBKyoTzRpWN5rWBO7iUJ.jpg",
+      "https://image.tmdb.org/t/p/w780/bJZnVsYlVzJQq8uOX0ZFhZKNAL.jpg"
+    ],
+    "episodes": null
+  }
 }

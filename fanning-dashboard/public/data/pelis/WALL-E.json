@@ -7,7 +7,7 @@
       "translation": "muy lejos de este pueblo"
     },
     {
-      "word": "There’s a slick town",
+      "word": "There's a slick town",
       "translation": "hay una ciudad resbaladiza/escurridiza"
     },
     {
@@ -95,7 +95,7 @@
       "translation": "agradable, suave"
     },
     {
-      "word": "Ship’s log",
+      "word": "Ship's log",
       "translation": "bitácora de la nave, registro de la nave"
     },
     {
@@ -186,5 +186,17 @@
       "word": "We set sail for the sky",
       "translation": "zarpamos hacia el cielo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "https://image.tmdb.org/t/p/w780/pjLdH5VIKirwVUIZ0iDisXoRGo4.jpg",
+      "https://image.tmdb.org/t/p/w780/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+      "https://image.tmdb.org/t/p/w780/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+      "https://image.tmdb.org/t/p/w780/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
+      "https://image.tmdb.org/t/p/w780/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -99,7 +99,7 @@
       "translation": "pero eso no se puede contra las ilusiones"
     },
     {
-      "word": "You don’t have the guts",
+      "word": "You don't have the guts",
       "translation": "no tienes las agallas"
     },
     {
@@ -135,7 +135,7 @@
       "translation": "ley del puño de hierro"
     },
     {
-      "word": "I’m getting buried here",
+      "word": "I'm getting buried here",
       "translation": "me estoy muriendo de aburrimiento aquí"
     },
     {
@@ -459,7 +459,7 @@
       "translation": "un baño de realidad"
     },
     {
-      "word": "The band’s really on tonight",
+      "word": "The band's really on tonight",
       "translation": "la banda está tocando increíblemente hoy"
     },
     {
@@ -523,7 +523,7 @@
       "translation": "provocándome con esa rata"
     },
     {
-      "word": "He’s consorting with it",
+      "word": "He's consorting with it",
       "translation": "se está juntando con él"
     },
     {
@@ -543,7 +543,7 @@
       "translation": "cesar, dejar de"
     },
     {
-      "word": "I didn’t think you meant them",
+      "word": "I didn't think you meant them",
       "translation": "no pensé que lo dijeras en derio"
     },
     {
@@ -567,7 +567,7 @@
       "translation": "ascenso, crecimiento"
     },
     {
-      "word": "I’ll slot you in",
+      "word": "I'll slot you in",
       "translation": "te incluiré"
     },
     {
@@ -599,7 +599,7 @@
       "translation": "entiendo el atractivo"
     },
     {
-      "word": "I’d like your heart roasted on a spit",
+      "word": "I'd like your heart roasted on a spit",
       "translation": "me gustaría que tu corazón se asara en un"
     },
     {
@@ -607,7 +607,7 @@
       "translation": "exageración excesiva"
     },
     {
-      "word": "You know what I’m craving?",
+      "word": "You know what I'm craving?",
       "translation": "¿Sabes lo que se me apetece?"
     },
     {
@@ -639,11 +639,11 @@
       "translation": "mitad"
     },
     {
-      "word": "I’m talking about guts",
+      "word": "I'm talking about guts",
       "translation": "estoy hablando sobre agallas"
     },
     {
-      "word": "We’ll get it done",
+      "word": "We'll get it done",
       "translation": "lo lograremos"
     },
     {
@@ -651,7 +651,7 @@
       "translation": "atender mesas"
     },
     {
-      "word": "We’re a little short tonight",
+      "word": "We're a little short tonight",
       "translation": "estamos un poco cortos esta noche"
     },
     {
@@ -730,5 +730,17 @@
       "word": "They ratted us out",
       "translation": "nos delataron"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg",
+      "https://image.tmdb.org/t/p/w780/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+      "https://image.tmdb.org/t/p/w780/9Wus7K49jp7o5F3W4rvudEC5Fug.jpg",
+      "https://image.tmdb.org/t/p/w780/OViX90CVJ0XKDQuQFq4wbAxP8t.jpg",
+      "https://image.tmdb.org/t/p/w780/dmkp9IoWaPQMrXBtUspxvrWD0cq.jpg",
+      "https://image.tmdb.org/t/p/w780/cZOD8UCE5UP25rUHGmed3oRQaQN.jpg"
+    ],
+    "episodes": null
+  }
 }

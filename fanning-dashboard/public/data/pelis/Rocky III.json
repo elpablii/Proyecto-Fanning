@@ -7,7 +7,7 @@
       "translation": "en una sorprendente sorpresa"
     },
     {
-      "word": "Don’t lose the grip",
+      "word": "Don't lose the grip",
       "translation": "no pierdas el control"
     },
     {
@@ -430,5 +430,17 @@
       "word": "Psyched out",
       "translation": "mentalizado, alterado, loco"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/py47wBTHQZNDY0nShTvwZwpcyfv.jpg",
+      "https://image.tmdb.org/t/p/w780/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
+      "https://image.tmdb.org/t/p/w780/yUx3HXWybmOrvV6kffLarIFqZ57.jpg",
+      "https://image.tmdb.org/t/p/w780/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+      "https://image.tmdb.org/t/p/w780/ySkfYN6osyBCvPhZFlBocRoKpzS.jpg",
+      "https://image.tmdb.org/t/p/w780/iOEeKtA3ZDeudbRtfDfJgVLpVqp.jpg"
+    ],
+    "episodes": null
+  }
 }

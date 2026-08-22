@@ -15,7 +15,7 @@
       "translation": "oigo llegar el tren"
     },
     {
-      "word": "It’s rolling around the bend",
+      "word": "It's rolling around the bend",
       "translation": "está dando la vuelta a la curva"
     },
     {
@@ -31,7 +31,7 @@
       "translation": "colgar"
     },
     {
-      "word": "You’re up",
+      "word": "You're up",
       "translation": "te toca"
     },
     {
@@ -67,7 +67,7 @@
       "translation": "dar la vuelta"
     },
     {
-      "word": "We’re T-minus five from the drop",
+      "word": "We're T-minus five from the drop",
       "translation": "estamos a cinco minutos de la caída"
     },
     {
@@ -127,7 +127,7 @@
       "translation": "música amenazadora"
     },
     {
-      "word": "We’re made (en otro contexto)",
+      "word": "We're made (en otro contexto)",
       "translation": "estamos acabados"
     },
     {
@@ -167,7 +167,7 @@
       "translation": "disparos lejanos"
     },
     {
-      "word": "How’s Team Two holding up?",
+      "word": "How's Team Two holding up?",
       "translation": "¿Cómo va el Equipo Dos?"
     },
     {
@@ -271,7 +271,7 @@
       "translation": "siempre doy en el blanco"
     },
     {
-      "word": "Book’s upside-down",
+      "word": "Book's upside-down",
       "translation": "el libro está al revés/boca abajo"
     },
     {
@@ -395,7 +395,7 @@
       "translation": "¿Qué tan profundo es tu sueño?"
     },
     {
-      "word": "You’re psychic",
+      "word": "You're psychic",
       "translation": "eres psíquico"
     },
     {
@@ -643,7 +643,7 @@
       "translation": "triturar, desmenuzar"
     },
     {
-      "word": "Everybody’s eyes on me",
+      "word": "Everybody's eyes on me",
       "translation": "todos me miran"
     },
     {
@@ -675,7 +675,7 @@
       "translation": "clamar"
     },
     {
-      "word": "You’re perceivably panicked",
+      "word": "You're perceivably panicked",
       "translation": "estás perceptiblemente en pánico"
     },
     {
@@ -711,7 +711,7 @@
       "translation": "bufar, esnifar"
     },
     {
-      "word": "Won’t some sweet momma",
+      "word": "Won't some sweet momma",
       "translation": "No lo hará alguna dulce mamá"
     },
     {
@@ -775,7 +775,7 @@
       "translation": "escáner de retina"
     },
     {
-      "word": "They’re being dealt with",
+      "word": "They're being dealt with",
       "translation": "se están ocupando de ellos"
     },
     {
@@ -803,7 +803,7 @@
       "translation": "loco, demente"
     },
     {
-      "word": "That’s meant to be derisive",
+      "word": "That's meant to be derisive",
       "translation": "eso pretende ser burlón"
     },
     {
@@ -847,7 +847,7 @@
       "translation": "común y corriente"
     },
     {
-      "word": "30 years’ worth of efforts",
+      "word": "30 years' worth of efforts",
       "translation": "30 años de esfuerzos"
     },
     {
@@ -891,7 +891,7 @@
       "translation": "disco"
     },
     {
-      "word": "I’m thorough",
+      "word": "I'm thorough",
       "translation": "soy minucioso/meticuloso"
     },
     {
@@ -991,7 +991,7 @@
       "translation": "música pensativa"
     },
     {
-      "word": "Our ride’s here",
+      "word": "Our ride's here",
       "translation": "nuestro transporte está aquí"
     },
     {
@@ -999,7 +999,7 @@
       "translation": "la vida está tan arruinada"
     },
     {
-      "word": "I’m getting high again",
+      "word": "I'm getting high again",
       "translation": "me estoy colocando otra vez (alusivo a drogarse)"
     },
     {
@@ -1015,7 +1015,7 @@
       "translation": "orientación"
     },
     {
-      "word": "I’m back to the black again",
+      "word": "I'm back to the black again",
       "translation": "vuelvo al negro otra vez"
     },
     {
@@ -1043,11 +1043,11 @@
       "translation": "escombros, basura"
     },
     {
-      "word": "It’ll take some surgery",
+      "word": "It'll take some surgery",
       "translation": "habrá que operar"
     },
     {
-      "word": "We’ll get him back up to speed",
+      "word": "We'll get him back up to speed",
       "translation": "le pondremos al día"
     },
     {
@@ -1062,5 +1062,17 @@
       "word": "Sort of",
       "translation": "una especie de"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Los supervillanos Harley Quinn, Bloodsport, Peacemaker y una colección de convictos desquiciados de la prisión de Belle Reve se unen a la super-secreta y super-oscura Fuerza Especial X mientras son arrojados a la remota isla de Corto Maltese, infestada de enemigos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "https://image.tmdb.org/t/p/w780/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+      "https://image.tmdb.org/t/p/w780/buApmHPM5fsXSZOpxKwl3gYhTgZ.jpg",
+      "https://image.tmdb.org/t/p/w780/jKgulFr4CErJH94aMazXJTYxk7o.jpg",
+      "https://image.tmdb.org/t/p/w780/dzmFetTvLmCWYMWgtSoLJclcqUL.jpg",
+      "https://image.tmdb.org/t/p/w780/fQ8Nsd1gKB5Y8g2eYdlHOasT5dk.jpg"
+    ],
+    "episodes": null
+  }
 }

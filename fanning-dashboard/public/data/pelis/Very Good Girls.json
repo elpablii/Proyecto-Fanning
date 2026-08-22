@@ -198,5 +198,17 @@
       "word": "In the lows",
       "translation": "en los bajos"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Dos chicas de la ciudad de Nueva York hacen un pacto para perder su virginidad durante su primer verano después de la escuela secundaria. Cuando ambos se enamoran del mismo artista callejero, los amigos ven que su conexión se pone a prueba por primera vez.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg",
+      "https://image.tmdb.org/t/p/w780/8w0TddivyWZ2XzUofQOMQxdHAXQ.jpg",
+      "https://image.tmdb.org/t/p/w780/oRyE8M9cSl5f1hIeLLcgWLktSTw.jpg",
+      "https://image.tmdb.org/t/p/w780/z8rPyB1eWTMpysKrTbt62pynkew.jpg",
+      "https://image.tmdb.org/t/p/w780/30nYkUY9vjblDy7q8O0EZUFRQlj.jpg",
+      "https://image.tmdb.org/t/p/w780/hbvAMVjQPEn5CrW3fJYtd4JhSwD.jpg"
+    ],
+    "episodes": null
+  }
 }

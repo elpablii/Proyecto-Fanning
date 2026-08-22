@@ -131,7 +131,7 @@
       "translation": "mugre, suciedad"
     },
     {
-      "word": "You’re wicked fast!",
+      "word": "You're wicked fast!",
       "translation": "¡Eres endiabladamente rápido!"
     },
     {
@@ -183,7 +183,7 @@
       "translation": "¿Qué demonios?"
     },
     {
-      "word": "You’re in a heap of trouble",
+      "word": "You're in a heap of trouble",
       "translation": "estás en un montón de problemas"
     },
     {
@@ -227,11 +227,11 @@
       "translation": "capó"
     },
     {
-      "word": "I’m purty good",
+      "word": "I'm purty good",
       "translation": "soy muy bueno"
     },
     {
-      "word": "I’m gonna cut to the chase",
+      "word": "I'm gonna cut to the chase",
       "translation": "voy a ir al grano"
     },
     {
@@ -247,7 +247,7 @@
       "translation": "tramo"
     },
     {
-      "word": "We’re done for!",
+      "word": "We're done for!",
       "translation": "¡Estamos acabados!"
     },
     {
@@ -295,11 +295,11 @@
       "translation": "ensayar"
     },
     {
-      "word": "I just don’t see any on-ramp anywhere",
+      "word": "I just don't see any on-ramp anywhere",
       "translation": "no veo ninguna rampa de acceso en ninguna"
     },
     {
-      "word": "We’re just peachy",
+      "word": "We're just peachy",
       "translation": "sólo estamos de maravilla"
     },
     {
@@ -323,11 +323,11 @@
       "translation": "las rayas de la vieja escuela"
     },
     {
-      "word": "I’m being held against my will",
+      "word": "I'm being held against my will",
       "translation": "estoy siendo retenido contra mi voluntad"
     },
     {
-      "word": "I’m in hillbilly hell!",
+      "word": "I'm in hillbilly hell!",
       "translation": "¡Estoy en el infierno de los paletos!"
     },
     {
@@ -395,7 +395,7 @@
       "translation": "una parada en boxes"
     },
     {
-      "word": "I’m off to a poor start (frase no literal)",
+      "word": "I'm off to a poor start (frase no literal)",
       "translation": "he empezado con mal pie"
     },
     {
@@ -403,11 +403,11 @@
       "translation": "cable de remolque"
     },
     {
-      "word": "I’m a day behind",
+      "word": "I'm a day behind",
       "translation": "llevo un día atrasado"
     },
     {
-      "word": "He’s still got a long way to go",
+      "word": "He's still got a long way to go",
       "translation": "todavía le queda mucho camino por recorrer"
     },
     {
@@ -503,7 +503,7 @@
       "translation": "una nueva capa de poli"
     },
     {
-      "word": "You’re looking peaked",
+      "word": "You're looking peaked",
       "translation": "te ves muy mal"
     },
     {
@@ -583,11 +583,11 @@
       "translation": "perseguir, buscar, cazar"
     },
     {
-      "word": "You’re a sight for sore headlights!",
+      "word": "You're a sight for sore headlights!",
       "translation": "¡Eres un espectáculo para la vista!"
     },
     {
-      "word": "I’ll make it up to you",
+      "word": "I'll make it up to you",
       "translation": "¡Te lo compensaré!"
     },
     {
@@ -607,11 +607,11 @@
       "translation": "una pequeña ventaja, una ligera ventaja"
     },
     {
-      "word": "He’s got a run on him!",
+      "word": "He's got a run on him!",
       "translation": "¡Él tiene una carrera sobre él!"
     },
     {
-      "word": "He’s looking to the inside!",
+      "word": "He's looking to the inside!",
       "translation": "¡Está buscando el interior!"
     },
     {
@@ -619,11 +619,11 @@
       "translation": "¡McQueen hace un trompo en el interior del campo!"
     },
     {
-      "word": "Hot snot, we’re back in business! (frase no literal)",
+      "word": "Hot snot, we're back in business! (frase no literal)",
       "translation": "mocos calientes, ¡volvemos a la"
     },
     {
-      "word": "They won’t know what bit them!",
+      "word": "They won't know what bit them!",
       "translation": "¡No sabrán lo que les ha mordido!"
     },
     {
@@ -647,7 +647,7 @@
       "translation": "camarones"
     },
     {
-      "word": "He’s caught up to the leaders",
+      "word": "He's caught up to the leaders",
       "translation": "ha alcanzado a los líderes"
     },
     {
@@ -695,7 +695,7 @@
       "translation": "ellos me dieron mi gran oportunidad"
     },
     {
-      "word": "I’m flying, by golly!",
+      "word": "I'm flying, by golly!",
       "translation": "¡estoy volando, caramba!"
     },
     {
@@ -723,7 +723,7 @@
       "translation": "ala"
     },
     {
-      "word": "He’s the real deal (frase no literal)",
+      "word": "He's the real deal (frase no literal)",
       "translation": "él es el mejor"
     },
     {
@@ -739,7 +739,7 @@
       "translation": "vagón"
     },
     {
-      "word": "We’re banished",
+      "word": "We're banished",
       "translation": "estamos desterrados"
     },
     {
@@ -755,8 +755,20 @@
       "translation": "producción de bajo costo"
     },
     {
-      "word": "There’s an on-ramp close!",
+      "word": "There's an on-ramp close!",
       "translation": "¡Hay una rampa de acceso cerca!"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+      "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+      "https://image.tmdb.org/t/p/w780/wZiUsAI939lOKgs0u3qA3zSW7zx.jpg",
+      "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+      "https://image.tmdb.org/t/p/w780/w5nE0dUFEecbGIqXda00aaUTz0r.jpg",
+      "https://image.tmdb.org/t/p/w780/hiIX0qMSMKiHEdpQOgpv2dGIuI6.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -51,7 +51,7 @@
       "translation": "espuma/escoria del estanque"
     },
     {
-      "word": "It’s laughable",
+      "word": "It's laughable",
       "translation": "es risible"
     },
     {
@@ -443,7 +443,7 @@
       "translation": "arruinar, estropear, echar a perder"
     },
     {
-      "word": "We’re cornered",
+      "word": "We're cornered",
       "translation": "estamos acorralados, estamos arrinconados"
     },
     {
@@ -678,5 +678,17 @@
       "word": "And made anew",
       "translation": "y hecho de nuevo"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Una joven pareja viaja a uno de los destinos más exclusivos del mundo para cenar en un restaurante que ofrece una experiencia culinaria única. Sin embargo, el chef (Fiennes) ha preparado un ingrediente secreto que tendrá un resultado sorprendente en los dos enamorados.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+      "https://image.tmdb.org/t/p/w780/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+      "https://image.tmdb.org/t/p/w780/41lDbWLwjYYUubhg04REGg8Yv8U.jpg",
+      "https://image.tmdb.org/t/p/w780/6dIp5RmtWRDDmf2dASYtTiPukwt.jpg",
+      "https://image.tmdb.org/t/p/w780/sWRSwSl3EymyLyrUhb4RQH8lN4Q.jpg",
+      "https://image.tmdb.org/t/p/w780/ulUbbGUE8g2IQRxmddfYPnpJFHM.jpg"
+    ],
+    "episodes": null
+  }
 }

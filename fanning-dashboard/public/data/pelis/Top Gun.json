@@ -23,7 +23,7 @@
       "translation": "nos está pisando los talones"
     },
     {
-      "word": "He’s bugging out",
+      "word": "He's bugging out",
       "translation": "se está escapando"
     },
     {
@@ -43,7 +43,7 @@
       "translation": "me parto de la risa"
     },
     {
-      "word": "We’re getting low on gas",
+      "word": "We're getting low on gas",
       "translation": "nos estamos quedando sin gasolina"
     },
     {
@@ -207,7 +207,7 @@
       "translation": "carrera"
     },
     {
-      "word": "He’ll fly right by",
+      "word": "He'll fly right by",
       "translation": "él pasará volando"
     },
     {
@@ -319,7 +319,7 @@
       "translation": "está en un giro plano"
     },
     {
-      "word": "I’m pinned forward",
+      "word": "I'm pinned forward",
       "translation": "estoy clavado hacia delante"
     },
     {
@@ -458,5 +458,17 @@
       "word": "He's gonna get a lock on us!",
       "translation": "¡Nos va a encerrar!"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "https://image.tmdb.org/t/p/w780/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+      "https://image.tmdb.org/t/p/w780/7Npdg6qoqliO3LaxhpwpdIHg5d0.jpg",
+      "https://image.tmdb.org/t/p/w780/wpIMiO8bMfaZMyGMfHB1CAz3Yzs.jpg",
+      "https://image.tmdb.org/t/p/w780/4OyBTDZE2FPoS6en475q5wJT6hG.jpg",
+      "https://image.tmdb.org/t/p/w780/vJU3ggeQQUmmzJ7EXnzeO9JCvgo.jpg"
+    ],
+    "episodes": null
+  }
 }

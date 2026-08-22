@@ -267,7 +267,7 @@
       "translation": "tu perrito falderol"
     },
     {
-      "word": "I’m done",
+      "word": "I'm done",
       "translation": "he terminado"
     },
     {
@@ -290,5 +290,17 @@
       "word": "I beat you up in every way",
       "translation": "te doy una paliza en todos los sentidos"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Joan Jett y Cherie Currie, dos adolescentes rebeldes del sur de California, se convierten en las líderes de The Runaways, el ahora legendario grupo que allanó el camino para futuras generaciones de rockeras. Bajo la influencia del empresario Kim Fowley, estilo Svengali, la banda se convierte en un gran éxito.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+      "https://image.tmdb.org/t/p/w780/368rw036l155gmmmxPcGoXdBQK0.jpg",
+      "https://image.tmdb.org/t/p/w780/3aFlgNH91r4IPW8Zoh6FDewEsB9.jpg",
+      "https://image.tmdb.org/t/p/w780/dvBwDeWTAQdnCyQ20Zdu9exMmrK.jpg",
+      "https://image.tmdb.org/t/p/w780/ykgdO6R63On0qgbGVKHg3U8YgTm.jpg",
+      "https://image.tmdb.org/t/p/w780/ameAZr4sYd66FosUbF4O2n8HoCp.jpg"
+    ],
+    "episodes": null
+  }
 }

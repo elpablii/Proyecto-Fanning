@@ -27,7 +27,7 @@
       "translation": "construir una nueva vida desde cero"
     },
     {
-      "word": "John’s drinking worsened",
+      "word": "John's drinking worsened",
       "translation": "el alcoholismo de John empeoró"
     },
     {
@@ -119,7 +119,7 @@
       "translation": "parte (porción de algo)"
     },
     {
-      "word": "I’d bitch (verbo en malos términos)",
+      "word": "I'd bitch (verbo en malos términos)",
       "translation": "prefiero quejarme"
     },
     {
@@ -191,7 +191,7 @@
       "translation": "si te aplicas"
     },
     {
-      "word": "I don’t have the faintest what that would be",
+      "word": "I don't have the faintest what that would be",
       "translation": "no tengo ni idea de lo que sería"
     },
     {
@@ -203,7 +203,7 @@
       "translation": "prepararse, equiparse"
     },
     {
-      "word": "They ain’t got much use for this",
+      "word": "They ain't got much use for this",
       "translation": "no tienen mucho uso para esto"
     },
     {
@@ -211,7 +211,7 @@
       "translation": "limpiar"
     },
     {
-      "word": "The blue yonder’s",
+      "word": "The blue yonder's",
       "translation": "el horizonte azul"
     },
     {
@@ -263,7 +263,7 @@
       "translation": "tartamudear, balbucear"
     },
     {
-      "word": "I’m cooped up",
+      "word": "I'm cooped up",
       "translation": "estoy encerrado"
     },
     {
@@ -371,7 +371,7 @@
       "translation": "irse, largarse"
     },
     {
-      "word": "We don’t draw this done out",
+      "word": "We don't draw this done out",
       "translation": "no sacamos esto adelante"
     },
     {
@@ -383,11 +383,11 @@
       "translation": "implicar, suponer"
     },
     {
-      "word": "Mine’s on the fritz",
+      "word": "Mine's on the fritz",
       "translation": "el mío está estropeado"
     },
     {
-      "word": "His tiller’s broke",
+      "word": "His tiller's broke",
       "translation": "su timón está roto"
     },
     {
@@ -427,7 +427,7 @@
       "translation": "idiota, imbécil, gilipollas"
     },
     {
-      "word": "You’re trying to get me to stick around",
+      "word": "You're trying to get me to stick around",
       "translation": "estás intentando que me quede"
     },
     {
@@ -435,7 +435,7 @@
       "translation": "lo sabes tan bien como yo"
     },
     {
-      "word": "I’m accustomed to your company",
+      "word": "I'm accustomed to your company",
       "translation": "estoy acostumbrado a tu compañía"
     },
     {
@@ -463,11 +463,11 @@
       "translation": "exhala bruscamente"
     },
     {
-      "word": "I’m not falling for that",
+      "word": "I'm not falling for that",
       "translation": "no voy a caer en eso"
     },
     {
-      "word": "We ain’t insured",
+      "word": "We ain't insured",
       "translation": "no estamos asegurados"
     },
     {
@@ -487,7 +487,7 @@
       "translation": "convertirse en"
     },
     {
-      "word": "I’m leaving it up to you",
+      "word": "I'm leaving it up to you",
       "translation": "te lo dejo a ti"
     },
     {
@@ -502,5 +502,17 @@
       "word": "Shoe (verbo)",
       "translation": "calzar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Dreamland Ambientada en la década de los años 30, en plena devastación producida por el fenómeno medioambiental denominado «Dust Bowl» (literalmente, «Cuenco de Polvo»), la historia sigue los pasos de un joven (Travis Fimmel) de 17 años que se propone capturar a una ladrona de bancos (Margot Robbie) que se ha dado a la fuga y cuya cabeza tiene una suculenta recompensa. Aunque vence al FBI y la alcanza antes que las autoridades del país, pronto descubre que la criminal es incluso más peligrosa de lo que todos habían imaginado…",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1BLx3PDYijbiSPbyozIZESel5Uu.jpg",
+      "https://image.tmdb.org/t/p/w780/fk8PE1fhjvqaCKZPhNtZSDg2UG2.jpg",
+      "https://image.tmdb.org/t/p/w780/6CUEVGecQBt7l4Q5X43PeaSzsck.jpg",
+      "https://image.tmdb.org/t/p/w780/g7dLodwdIZWqBBEakBN3sdkBl6Y.jpg",
+      "https://image.tmdb.org/t/p/w780/r8npmSSUhrKBPfE2vjbFklPEnho.jpg",
+      "https://image.tmdb.org/t/p/w780/v5tq5PVLc3acrHLd5cX4BCnjtQk.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -231,7 +231,7 @@
       "translation": "asustar, atemorizar, espantar"
     },
     {
-      "word": "It’s all over me",
+      "word": "It's all over me",
       "translation": "estoy cubierto"
     },
     {
@@ -291,7 +291,7 @@
       "translation": "cuidado"
     },
     {
-      "word": "The latest can’t-look-away twist",
+      "word": "The latest can't-look-away twist",
       "translation": "el último giro inesperado e irresistible"
     },
     {
@@ -431,7 +431,7 @@
       "translation": "aburrir, fastidiar"
     },
     {
-      "word": "You’re blowing it",
+      "word": "You're blowing it",
       "translation": "lo estás echando a perder"
     },
     {
@@ -439,7 +439,7 @@
       "translation": "chicos aburridos"
     },
     {
-      "word": "You’re down to do",
+      "word": "You're down to do",
       "translation": "estás dispuesto a hacer"
     },
     {
@@ -527,7 +527,7 @@
       "translation": "ejecutivos discográficos"
     },
     {
-      "word": "I’d get much further",
+      "word": "I'd get much further",
       "translation": "llegaría mucho más lejos"
     },
     {
@@ -599,7 +599,7 @@
       "translation": "inalterablemente"
     },
     {
-      "word": "I wasn’t gonna pop my head out of the sand for anything",
+      "word": "I wasn't gonna pop my head out of the sand for anything",
       "translation": "no iba a salir de mi burbuja"
     },
     {
@@ -795,7 +795,7 @@
       "translation": "tribuna"
     },
     {
-      "word": "It’s out",
+      "word": "It's out",
       "translation": "¡ya salió!"
     },
     {
@@ -834,5 +834,17 @@
       "word": "Prey",
       "translation": "presa"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En este revelador documental, Taylor Swift asume plenamente su rol de compositora y artista, y deja en evidencia su capacidad de expresarse sin mordaza.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
+      "https://image.tmdb.org/t/p/w780/xdld1IdrZvcLfeOMcae3Sw1hm1b.jpg",
+      "https://image.tmdb.org/t/p/w780/6VkNL9o5zFQmnRjl5vj7xMN94SL.jpg",
+      "https://image.tmdb.org/t/p/w780/gO7RXdAxcHE2rEGNMnr6ESpkpJe.jpg",
+      "https://image.tmdb.org/t/p/w780/x2P9usnTYSd1pTKDIW83cXhKYUo.jpg",
+      "https://image.tmdb.org/t/p/w780/mfHGky2vKq4XpsdiBX2QWl4F9Jc.jpg"
+    ],
+    "episodes": null
+  }
 }

@@ -251,7 +251,7 @@
       "translation": "volverse loco"
     },
     {
-      "word": "Fac’tries",
+      "word": "Fac'tries",
       "translation": "fábricas"
     },
     {
@@ -322,5 +322,17 @@
       "word": "A case of do or die (frase no literal)",
       "translation": "un caso de vida o muerte"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "La historia de tres mujeres que exploran el amor y la libertad en California durante los años 70.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+      "https://image.tmdb.org/t/p/w780/afwr0TwMrbTSS11totkqWk0xCsO.jpg",
+      "https://image.tmdb.org/t/p/w780/fz08hItuOhXiYew7gaZIZ3BHBRM.jpg",
+      "https://image.tmdb.org/t/p/w780/x3mFfOKOzIi1ROSgy9bgyYq7zDH.jpg",
+      "https://image.tmdb.org/t/p/w780/tcViplakmoJN5GGD8FDyUfbHQGU.jpg",
+      "https://image.tmdb.org/t/p/w780/f0VjaquUv3DJjHzovKNhIq4qMiw.jpg"
+    ],
+    "episodes": null
+  }
 }

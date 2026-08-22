@@ -155,7 +155,7 @@
       "translation": "música alegre, música animada"
     },
     {
-      "word": "They’re amused (no literal)",
+      "word": "They're amused (no literal)",
       "translation": "están entretenidos, se divierten"
     },
     {
@@ -358,5 +358,16 @@
       "word": "Make to freedom",
       "translation": "alcanzar/conseguir la libertad"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Sobibor es un pequeño pero activo campo de concentración, donde la única esperanza de salvación es la huida. Existe un plan para sacar de ese infierno al mayor número de personas posible, pero hay que tener en cuenta que, de prosperar la fuga, los alemanes tienen como norma eliminar a tantos prisioneros como hombres consigan escapar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg",
+      "https://image.tmdb.org/t/p/w780/y4Hy9pS0RnB57ApRmbU1sNcJY0F.jpg",
+      "https://image.tmdb.org/t/p/w780/1du8t3fumRlTKUL5CCLeU0bdBDi.jpg",
+      "https://image.tmdb.org/t/p/w780/bqH855fh8b9WtIsxXAsRGpQdtnO.jpg",
+      "https://image.tmdb.org/t/p/w780/vOoiXkK4BojE97k3JndTO6hskQa.jpg"
+    ],
+    "episodes": null
+  }
 }

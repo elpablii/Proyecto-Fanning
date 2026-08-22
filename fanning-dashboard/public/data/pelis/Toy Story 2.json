@@ -31,7 +31,7 @@
       "translation": "esperar"
     },
     {
-      "word": "I’m sitting on good deals",
+      "word": "I'm sitting on good deals",
       "translation": "tengo buenas ofertas"
     },
     {
@@ -107,7 +107,7 @@
       "translation": "pasar adelante"
     },
     {
-      "word": "What’s that little gal think she’s doing?",
+      "word": "What's that little gal think she's doing?",
       "translation": "¿Qué se cree que está haciendo esa"
     },
     {
@@ -179,7 +179,7 @@
       "translation": "la vaquera yodlera"
     },
     {
-      "word": "He’s the rootin’-est tootin’-est cowboy",
+      "word": "He's the rootin'-est tootin'-est cowboy",
       "translation": "él es el vaquero más entusiasta"
     },
     {
@@ -187,7 +187,7 @@
       "translation": "audio confuso"
     },
     {
-      "word": "Let’s roll",
+      "word": "Let's roll",
       "translation": "¡En marcha!"
     },
     {
@@ -219,7 +219,7 @@
       "translation": "un cartucho de dinamita"
     },
     {
-      "word": "You’re fanning the flames",
+      "word": "You're fanning the flames",
       "translation": "estás echando leña al fuego"
     },
     {
@@ -239,7 +239,7 @@
       "translation": "chirrido de aguja (en un tocadiscos)"
     },
     {
-      "word": "I can’t do storage again",
+      "word": "I can't do storage again",
       "translation": "¡Otra vez en el trastero, no!"
     },
     {
@@ -327,11 +327,11 @@
       "translation": "bombeo con motor"
     },
     {
-      "word": "He’s for display only",
+      "word": "He's for display only",
       "translation": "es sólo para exhibición"
     },
     {
-      "word": "Tell me I wasn’t this deluded",
+      "word": "Tell me I wasn't this deluded",
       "translation": "dime que no estaba tan engañado"
     },
     {
@@ -363,7 +363,7 @@
       "translation": "cerdo ranurado"
     },
     {
-      "word": "They’re standard issue",
+      "word": "They're standard issue",
       "translation": "son habituales"
     },
     {
@@ -371,7 +371,7 @@
       "translation": "destello repentino"
     },
     {
-      "word": "I’m fresh out of the box",
+      "word": "I'm fresh out of the box",
       "translation": "soy nuevo de fábrica"
     },
     {
@@ -407,7 +407,7 @@
       "translation": "gorjeando alegremente"
     },
     {
-      "word": "We’re gonna blast through the roof",
+      "word": "We're gonna blast through the roof",
       "translation": "vamos a volar por el techo"
     },
     {
@@ -439,7 +439,7 @@
       "translation": "¿Cuánto cuesta enviar seis paquetes"
     },
     {
-      "word": "That’s custom-fitted foam insulation you’ll be riding in",
+      "word": "That's custom-fitted foam insulation you'll be riding in",
       "translation": "ese aislamiento de espuma"
     },
     {
@@ -503,11 +503,11 @@
       "translation": "gemir"
     },
     {
-      "word": "We’re here to spring you, Woody",
+      "word": "We're here to spring you, Woody",
       "translation": "Estamos aquí para rescatarte Woody"
     },
     {
-      "word": "I’m in charge of this detachment",
+      "word": "I'm in charge of this detachment",
       "translation": "yo estoy a cargo de este destacamento"
     },
     {
@@ -634,5 +634,17 @@
       "word": "Come on over",
       "translation": "ven aquí"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+      "https://image.tmdb.org/t/p/w780/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "https://image.tmdb.org/t/p/w780/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+      "https://image.tmdb.org/t/p/w780/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
+      "https://image.tmdb.org/t/p/w780/1dvOCqKgBcXvfqzVPmAAM5Rv4PP.jpg",
+      "https://image.tmdb.org/t/p/w780/1M40AHTjggFkRs9tbvHzFpgCPAG.jpg"
+    ],
+    "episodes": null
+  }
 }

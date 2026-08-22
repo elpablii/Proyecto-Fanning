@@ -19,7 +19,7 @@
       "translation": "me lo dieron"
     },
     {
-      "word": "You’re shitting me",
+      "word": "You're shitting me",
       "translation": "me estás jodiendo"
     },
     {
@@ -43,7 +43,7 @@
       "translation": "no tenemos tiempo para más"
     },
     {
-      "word": "Next I’m planning (parcialmente no literal)",
+      "word": "Next I'm planning (parcialmente no literal)",
       "translation": "lo siguiente que planeo"
     },
     {
@@ -295,7 +295,7 @@
       "translation": "cuidar"
     },
     {
-      "word": "You’re not up (en trabajos)",
+      "word": "You're not up (en trabajos)",
       "translation": "no estás capacitado, no estás a la altura"
     },
     {
@@ -470,5 +470,14 @@
       "word": "Two lovers loved out of love",
       "translation": "dos amantes amados por amor"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Tessa hace una lista de las cosas que ella quiere hacer antes de morir de leucemia. Encabezando la lista está su deseo de perder su virginidad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg",
+      "https://image.tmdb.org/t/p/w780/tr4K212jaxQFB7GCEROhrMKsAU.jpg",
+      "https://image.tmdb.org/t/p/w780/hr2dXwa6Z2qCkJiDgz0xAinpZGG.jpg"
+    ],
+    "episodes": null
+  }
 }

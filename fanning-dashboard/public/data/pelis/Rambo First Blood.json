@@ -59,7 +59,7 @@
       "translation": "lo dice en serio"
     },
     {
-      "word": "I’m gonna run a make on him",
+      "word": "I'm gonna run a make on him",
       "translation": "voy a investigarlo"
     },
     {
@@ -87,7 +87,7 @@
       "translation": "comunicarse"
     },
     {
-      "word": "I’m right of his tail",
+      "word": "I'm right of his tail",
       "translation": "lo estoy siguiendo de cerca"
     },
     {
@@ -115,7 +115,7 @@
       "translation": "cuesta arriba, en la cima de la colina"
     },
     {
-      "word": "You’re spoiling the scent",
+      "word": "You're spoiling the scent",
       "translation": "estás interfiriendo con el rastro"
     },
     {
@@ -195,7 +195,7 @@
       "translation": "espantapájaros"
     },
     {
-      "word": "He’s out of ammo",
+      "word": "He's out of ammo",
       "translation": "se le acabó la munición"
     },
     {
@@ -275,7 +275,7 @@
       "translation": "entonces lancen una alerta general policial nacional"
     },
     {
-      "word": "We’re just a small, hick town sheriff’s department",
+      "word": "We're just a small, hick town sheriff's department",
       "translation": "no somos más que una pequeña"
     },
     {
@@ -331,7 +331,7 @@
       "translation": "ponte a ello"
     },
     {
-      "word": "I’m gonna come in there and fly you the hell out",
+      "word": "I'm gonna come in there and fly you the hell out",
       "translation": "voy a entrar ahí y te sacaré de aquí"
     },
     {
@@ -355,7 +355,7 @@
       "translation": "ellos atacaron primero"
     },
     {
-      "word": "We’ve got a real good fix on him, though",
+      "word": "We've got a real good fix on him, though",
       "translation": "lo tenemos bien localizado, de todas formas"
     },
     {
@@ -371,7 +371,7 @@
       "translation": "extender, estirar"
     },
     {
-      "word": "It’s slippery",
+      "word": "It's slippery",
       "translation": "está resbaladizo"
     },
     {
@@ -395,7 +395,7 @@
       "translation": "persona repugnante"
     },
     {
-      "word": "Bull’s-eye!",
+      "word": "Bull's-eye!",
       "translation": "¡En el blanco!"
     },
     {
@@ -455,7 +455,7 @@
       "translation": "tapón"
     },
     {
-      "word": "He’s on the loose",
+      "word": "He's on the loose",
       "translation": "está suelto"
     },
     {
@@ -515,7 +515,7 @@
       "translation": "tengan cuidado, estén alerta"
     },
     {
-      "word": "You just don’t turn it off!",
+      "word": "You just don't turn it off!",
       "translation": "no se puede apagar así como así"
     },
     {
@@ -550,5 +550,17 @@
       "word": "Get inside",
       "translation": "entrar, meter"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "https://image.tmdb.org/t/p/w780/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
+      "https://image.tmdb.org/t/p/w780/3DbGzV5IiOCmwYMFsQU3m3hIDvy.jpg",
+      "https://image.tmdb.org/t/p/w780/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+      "https://image.tmdb.org/t/p/w780/AeXX4mzpXIRrB0EHXNjbno2woWe.jpg",
+      "https://image.tmdb.org/t/p/w780/yF4FRvp1cFYVGxLChA8yKfruZpL.jpg"
+    ],
+    "episodes": null
+  }
 }

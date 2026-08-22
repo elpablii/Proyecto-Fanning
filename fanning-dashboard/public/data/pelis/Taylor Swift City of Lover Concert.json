@@ -3,7 +3,7 @@
   "englishAnalysis": "Inglés conversacional contemporáneo de la artista dirigiéndose a su público entre canciones, mezclado con vocabulario poético y emocional de sus letras. Excelente para practicar la escucha de acentos americanos jóvenes y discursos casuales.",
   "vocabulary": [
     {
-      "word": "I’m a handful, baby",
+      "word": "I'm a handful, baby",
       "translation": "soy un poco difícil, cariño"
     },
     {
@@ -59,7 +59,7 @@
       "translation": "tapiar, tapizar"
     },
     {
-      "word": "Chandelier’s still flickering here",
+      "word": "Chandelier's still flickering here",
       "translation": "el candelabro sigue parpadeando aquí"
     },
     {
@@ -139,7 +139,7 @@
       "translation": "nuevos comienzos sagrados"
     },
     {
-      "word": "What’s that like?",
+      "word": "What's that like?",
       "translation": "¿Cómo es eso?"
     },
     {
@@ -147,7 +147,7 @@
       "translation": "darse prisa, apresurarse"
     },
     {
-      "word": "What’s it like to brag about raking in dollars",
+      "word": "What's it like to brag about raking in dollars",
       "translation": "qué se siente alardear de embolsar"
     },
     {
@@ -227,7 +227,7 @@
       "translation": "nocaut"
     },
     {
-      "word": "That’s a cop-out",
+      "word": "That's a cop-out",
       "translation": "eso es una evasión"
     },
     {
@@ -266,5 +266,17 @@
       "word": "Worship (verbo)",
       "translation": "adorar"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "En un evento musical único en la vida, Taylor Swift interpreta canciones de su galardonado álbum, “Lover”. Filmado en París, la Ciudad del Amor, en septiembre de 2019, este espectáculo brinda a los fanáticos un acceso sin precedentes a momentos detrás de escena con la artista y marca su único concierto en 2020.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg",
+      "https://image.tmdb.org/t/p/w780/gmGw1AhvRExjkQLunzNWiyhWLtk.jpg",
+      "https://image.tmdb.org/t/p/w780/2VXwCPMqY9Zcn8je7WbfaeINVAN.jpg",
+      "https://image.tmdb.org/t/p/w780/8W016Y7WQqqBXMjPeUZwc6Wzowl.jpg",
+      "https://image.tmdb.org/t/p/w780/p02EfoQ4jAWbjyWKANc9A6g7sZA.jpg",
+      "https://image.tmdb.org/t/p/w780/hvADGpZbixPwDw6cXrSklAdSJXH.jpg"
+    ],
+    "episodes": null
+  }
 }

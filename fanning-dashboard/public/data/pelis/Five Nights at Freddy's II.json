@@ -378,5 +378,17 @@
       "word": "aquella época está desfasado",
       "translation": "No registrada"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Un año después de los sucesos de Freddy Fazbear's Pizza, y con la llegada de un nuevo Faszfest al pueblo. Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy con oscuros secretos revelándose.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "https://image.tmdb.org/t/p/w780/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
+      "https://image.tmdb.org/t/p/w780/igxgTccNiUGmIBVO9kjivuVPp52.jpg",
+      "https://image.tmdb.org/t/p/w780/1Z0nATltcUBA3Hvr4kWwptZJrPa.jpg",
+      "https://image.tmdb.org/t/p/w780/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+      "https://image.tmdb.org/t/p/w780/s34HktbKlBBn1Q84G7bhpg3DkrB.jpg"
+    ],
+    "episodes": null
+  }
 }

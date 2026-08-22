@@ -351,7 +351,7 @@
       "translation": "respeto, aprecio, consideración"
     },
     {
-      "word": "She’s so very fond",
+      "word": "She's so very fond",
       "translation": "ella está muy encariñada"
     },
     {
@@ -435,7 +435,7 @@
       "translation": "en general se piensa así"
     },
     {
-      "word": "‘Tis (en inglés antiguo)",
+      "word": "'Tis (en inglés antiguo)",
       "translation": "eso es, eso está"
     },
     {
@@ -818,5 +818,17 @@
       "word": "I'll weave the bonny flowers",
       "translation": "tejeré las flores bonitas"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma. El guión corre a cargo de la novelista ganadora del Premio Booker Eleanor Catton, que en el año 2013 se convirtió en la más joven en recibir el prestigioso galardón.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+      "https://image.tmdb.org/t/p/w780/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg",
+      "https://image.tmdb.org/t/p/w780/oz7RoRrNrqrT3KWG4ZSZ4f7D5aZ.jpg",
+      "https://image.tmdb.org/t/p/w780/xHvTWX9qesT7YsiwuxgCD0Ok4fN.jpg",
+      "https://image.tmdb.org/t/p/w780/nPhHfhz7L8Ju0GSMGITr2twpGK.jpg",
+      "https://image.tmdb.org/t/p/w780/n4FpOiTQbn2ahvLeyNy2kGsURJ1.jpg"
+    ],
+    "episodes": null
+  }
 }

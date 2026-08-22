@@ -410,5 +410,17 @@
       "word": "Birdsong (acotación)",
       "translation": "cantar de los pájaros"
     }
-  ]
+  ],
+  "tmdb": {
+    "overview": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+      "https://image.tmdb.org/t/p/w780/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+      "https://image.tmdb.org/t/p/w780/jocCWIF8YksHuTPhFUSxevz69Qm.jpg",
+      "https://image.tmdb.org/t/p/w780/cL519xfEtR8NzE6UmUHyTpNO68I.jpg",
+      "https://image.tmdb.org/t/p/w780/9Whl7RAzes0oMaFAeSqD8ttN3fl.jpg",
+      "https://image.tmdb.org/t/p/w780/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg"
+    ],
+    "episodes": null
+  }
 }
