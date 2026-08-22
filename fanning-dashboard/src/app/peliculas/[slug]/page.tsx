@@ -64,7 +64,7 @@ export default async function PeliculaPage({ params }: { params: Promise<{ slug:
   }
 
   if (!movieData) {
-    console.log("NOT FOUND. slug:", params.slug, "decoded:", decodedTitle);
+    console.log("NOT FOUND. slug:", slug, "decoded:", decodedTitle);
     console.log("Manifest size:", manifestPath, "Exists?", fs.existsSync(manifestPath!));
     notFound();
   }
