@@ -18,6 +18,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [studyMode, setStudyMode] = useState<'carousel' | 'practice'>('carousel');
+  const [expandedEp, setExpandedEp] = useState<number | null>(null);
 
   const posterUrl = movieData?.posterUrl || null;
   const backdropUrl = movieData?.backdropUrl || null;
@@ -144,9 +145,33 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
 
         {/* Lista de Episodios con Glassmorphism */}
         <div>
-          <h2 className="text-3xl font-bold mb-8 border-b border-white/10 pb-4 inline-block drop-shadow-md">
-            Desglose de Episodios
-          </h2>
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4">
+            <h2 className="text-3xl font-bold border-b border-white/10 pb-4 inline-block drop-shadow-md">
+              Desglose de Episodios
+            </h2>
+            
+            {extraData && extraData.episodes && extraData.episodes.length > 0 && (
+              <button
+                onClick={() => {
+                  let allVocab: any[] = [];
+                  extraData.episodes.forEach((e: any) => {
+                    if (e.vocabulary) {
+                      allVocab = allVocab.concat(e.vocabulary);
+                    }
+                  });
+                  if (allVocab.length > 0) {
+                    setFlashcards(allVocab);
+                    setCurrentCardIndex(0);
+                    setIsFlipped(false);
+                    setShowFlashcards(true);
+                  }
+                }}
+                className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold py-2.5 px-6 rounded-full transition-all shadow-[0_0_20px_rgba(168,85,247,0.4)] flex items-center gap-2 hover:scale-105 active:scale-95"
+              >
+                <BookOpen size={20} /> Estudiar Temporada Completa
+              </button>
+            )}
+          </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {movieData.episodes.map((ep: any, idx: number) => {
@@ -191,6 +216,11 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                     <h3 className="font-bold text-xl text-gray-100 group-hover:text-purple-300 transition-colors pr-4 line-clamp-2 leading-tight" title={displayName}>
                       {displayName}
                     </h3>
+                    
+                    {/* Difficulty Badge */}
+                    <div className={`text-xs font-bold px-2 py-1 rounded-full whitespace-nowrap ${ep.count < 30 ? 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30' : ep.count <= 40 ? 'bg-yellow-500/20 text-yellow-300 border border-yellow-500/30' : 'bg-red-500/20 text-red-300 border border-red-500/30'}`}>
+                      {ep.count < 30 ? 'Fácil' : ep.count <= 40 ? 'Medio' : 'Desafiante'}
+                    </div>
                   </div>
                   
                   <div className="flex flex-col mt-auto gap-1">
@@ -221,6 +251,38 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       </>
                     )}
                   </div>
+
+                  {/* Expand / Collapse Button */}
+                  {(tmdbEp?.overview || (extraData?.episodes && extraData.episodes.find((e: any) => e.name === ep.name)?.englishAnalysis)) && (
+                    <button 
+                      onClick={() => setExpandedEp(expandedEp === idx ? null : idx)}
+                      className="mt-4 text-sm text-purple-300 hover:text-purple-200 flex items-center justify-center gap-1 transition-colors"
+                    >
+                      {expandedEp === idx ? 'Ocultar detalles' : 'Ver detalles'}
+                    </button>
+                  )}
+
+                  {/* Expanded Content */}
+                  {expandedEp === idx && (
+                    <div className="mt-4 pt-4 border-t border-white/10 animate-fade-in text-sm text-gray-300 space-y-3">
+                      {tmdbEp?.overview && (
+                        <div>
+                          <strong className="text-white block mb-1">Sinopsis:</strong>
+                          <p className="leading-relaxed">{tmdbEp.overview}</p>
+                        </div>
+                      )}
+                      
+                      {(() => {
+                        const match = extraData?.episodes?.find((e: any) => e.name === ep.name);
+                        return match?.englishAnalysis ? (
+                          <div className="bg-purple-900/20 border border-purple-500/20 p-3 rounded-xl mt-2">
+                            <strong className="text-purple-300 block mb-1">Análisis del Inglés:</strong>
+                            <p className="leading-relaxed text-purple-100">{match.englishAnalysis}</p>
+                          </div>
+                        ) : null;
+                      })()}
+                    </div>
+                  )}
                   
                   {/* Botón de Estudiar */}
                   {extraData && extraData.episodes && (
