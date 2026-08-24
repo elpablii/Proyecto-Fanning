@@ -36,7 +36,10 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
     );
   }
 
-  const totalDialogues = movieData.dialogues || 0;
+  let totalDialogues = movieData.dialogues || 0;
+  if (totalDialogues === 0 && extraData?.episodes) {
+    totalDialogues = extraData.episodes.reduce((sum: number, ep: any) => sum + (ep.dialogues || 0), 0);
+  }
   
   const seasonDialogues: Record<string, number> = {};
   if (movieData.episodes) {
@@ -218,9 +221,11 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                     </h3>
                     
                     {/* Difficulty Badge */}
-                    <div className={`text-xs font-bold px-2 py-1 rounded-full whitespace-nowrap ${ep.count < 30 ? 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30' : ep.count <= 40 ? 'bg-yellow-500/20 text-yellow-300 border border-yellow-500/30' : 'bg-red-500/20 text-red-300 border border-red-500/30'}`}>
-                      {ep.count < 30 ? 'Fácil' : ep.count <= 40 ? 'Medio' : 'Desafiante'}
-                    </div>
+                    {ep.level && (
+                      <div className={`text-xs font-bold px-2 py-1 rounded-full whitespace-nowrap ${ep.level.includes('C') ? 'bg-red-500/20 text-red-300 border border-red-500/30' : ep.level.includes('B') ? 'bg-yellow-500/20 text-yellow-300 border border-yellow-500/30' : 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30'}`}>
+                        {ep.level}
+                      </div>
+                    )}
                   </div>
                   
                   <div className="flex flex-col mt-auto gap-1">

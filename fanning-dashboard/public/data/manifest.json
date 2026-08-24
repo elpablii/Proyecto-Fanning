@@ -1,7 +1,7 @@
 {
   "all": {
-    "totalWords": 32764,
-    "uniqueMovies": 175,
+    "totalWords": 32761,
+    "uniqueMovies": 176,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -108,12 +108,64 @@
       },
       {
         "title": "Pan Am",
-        "count": 805,
+        "count": 796,
         "type": "series",
         "episodes": [
           {
-            "name": "Pan Am",
-            "count": 805
+            "name": "Pan Am (Episode 1)",
+            "count": 65
+          },
+          {
+            "name": "Pan Am (Episode 2)",
+            "count": 48
+          },
+          {
+            "name": "Pan Am (Episode 3)",
+            "count": 43
+          },
+          {
+            "name": "Pan Am (Episode 4)",
+            "count": 71
+          },
+          {
+            "name": "Pan Am (Episode 5)",
+            "count": 74
+          },
+          {
+            "name": "Pan Am (Episode 6)",
+            "count": 68
+          },
+          {
+            "name": "Pan Am (Episode 7)",
+            "count": 61
+          },
+          {
+            "name": "Pan Am (Episode 8)",
+            "count": 38
+          },
+          {
+            "name": "Pan Am (Episode 9)",
+            "count": 73
+          },
+          {
+            "name": "Pan Am (Episode 10)",
+            "count": 45
+          },
+          {
+            "name": "Pan Am (Episode 11)",
+            "count": 62
+          },
+          {
+            "name": "Pan Am (Episode 12)",
+            "count": 53
+          },
+          {
+            "name": "Pan Am (Episode 13)",
+            "count": 53
+          },
+          {
+            "name": "Pan Am (Episode 14)",
+            "count": 42
           }
         ],
         "dialogues": 11749,
@@ -122,12 +174,48 @@
       },
       {
         "title": "Maid",
-        "count": 632,
+        "count": 640,
         "type": "series",
         "episodes": [
           {
-            "name": "Maid",
-            "count": 632
+            "name": "Maid (Episode 1)",
+            "count": 57
+          },
+          {
+            "name": "Maid (Episode 2)",
+            "count": 62
+          },
+          {
+            "name": "Maid (Episode 3)",
+            "count": 71
+          },
+          {
+            "name": "Maid (Episode 4)",
+            "count": 43
+          },
+          {
+            "name": "Maid (Episode 5)",
+            "count": 52
+          },
+          {
+            "name": "Maid (Episode 6)",
+            "count": 86
+          },
+          {
+            "name": "Maid (Episode 7)",
+            "count": 67
+          },
+          {
+            "name": "Maid (Episode 8)",
+            "count": 65
+          },
+          {
+            "name": "Maid (Episode 9)",
+            "count": 71
+          },
+          {
+            "name": "Maid (Episode 10)",
+            "count": 66
           }
         ],
         "dialogues": 7421,
@@ -181,12 +269,40 @@
       },
       {
         "title": "All Her Fault",
-        "count": 375,
+        "count": 373,
         "type": "series",
         "episodes": [
           {
-            "name": "All Her Fault",
-            "count": 375
+            "name": "All Her Fault (Episode 1)",
+            "count": 54
+          },
+          {
+            "name": "All Her Fault (Episode 2)",
+            "count": 46
+          },
+          {
+            "name": "All Her Fault (Episode 3)",
+            "count": 56
+          },
+          {
+            "name": "All Her Fault (Episode 4)",
+            "count": 59
+          },
+          {
+            "name": "All Her Fault (Episode 5)",
+            "count": 41
+          },
+          {
+            "name": "All Her Fault (Episode 6)",
+            "count": 53
+          },
+          {
+            "name": "All Her Fault (Episode 7)",
+            "count": 33
+          },
+          {
+            "name": "All Her Fault (Episode 8)",
+            "count": 31
           }
         ],
         "dialogues": 8438,
@@ -222,20 +338,6 @@
         "dialogues": 2100,
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg"
-      },
-      {
-        "title": "Gambito de Dama",
-        "count": 296,
-        "type": "series",
-        "episodes": [
-          {
-            "name": "Gambito de Dama",
-            "count": 296
-          }
-        ],
-        "dialogues": 4222,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
       },
       {
         "title": "Terminal",
@@ -280,6 +382,44 @@
         "dialogues": 1587,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
+      },
+      {
+        "title": "Gambito de Dama",
+        "count": 268,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Gambito de Dama (Episode 1)",
+            "count": 40
+          },
+          {
+            "name": "Gambito de Dama (Episode 2)",
+            "count": 44
+          },
+          {
+            "name": "Gambito de Dama (Episode 3)",
+            "count": 42
+          },
+          {
+            "name": "Gambito de Dama (Episode 4)",
+            "count": 26
+          },
+          {
+            "name": "Gambito de Dama (Episode 5)",
+            "count": 32
+          },
+          {
+            "name": "Gambito de Dama (Episode 6)",
+            "count": 38
+          },
+          {
+            "name": "Gambito de Dama (Episode 7)",
+            "count": 46
+          }
+        ],
+        "dialogues": 4222,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
       },
       {
         "title": "El Escuadrón Suicida",
@@ -2615,6 +2755,17 @@
         "dialogues": 1123,
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+      },
+      {
+        "title": "Gambito de Dama (Special Episode)",
+        "count": 28,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Gambito de Dama (Special Episode)",
+            "count": 28
+          }
+        ]
       },
       {
         "title": "IO",
@@ -3639,7 +3790,7 @@
   },
   "2025": {
     "totalWords": 10999,
-    "uniqueMovies": 63,
+    "uniqueMovies": 64,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -3761,12 +3912,36 @@
       },
       {
         "title": "Gambito de Dama",
-        "count": 296,
+        "count": 268,
         "type": "series",
         "episodes": [
           {
-            "name": "Gambito de Dama",
-            "count": 296
+            "name": "Gambito de Dama (Episode 1)",
+            "count": 40
+          },
+          {
+            "name": "Gambito de Dama (Episode 2)",
+            "count": 44
+          },
+          {
+            "name": "Gambito de Dama (Episode 3)",
+            "count": 42
+          },
+          {
+            "name": "Gambito de Dama (Episode 4)",
+            "count": 26
+          },
+          {
+            "name": "Gambito de Dama (Episode 5)",
+            "count": 32
+          },
+          {
+            "name": "Gambito de Dama (Episode 6)",
+            "count": 38
+          },
+          {
+            "name": "Gambito de Dama (Episode 7)",
+            "count": 46
           }
         ],
         "dialogues": 4222,
@@ -4614,6 +4789,17 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
       },
       {
+        "title": "Gambito de Dama (Special Episode)",
+        "count": 28,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Gambito de Dama (Special Episode)",
+            "count": 28
+          }
+        ]
+      },
+      {
         "title": "Viena and the Fantomes",
         "count": 24,
         "type": "movie",
@@ -4646,7 +4832,7 @@
     ]
   },
   "2026": {
-    "totalWords": 11703,
+    "totalWords": 11700,
     "uniqueMovies": 61,
     "topWord": {
       "word": "Landlord",
@@ -4702,7 +4888,7 @@
       {
         "word": "Girdle",
         "count": 5,
-        "translation": "faja, cremallera, corsé"
+        "translation": "faja, corsé"
       }
     ],
     "movieList": [
@@ -4736,12 +4922,64 @@
       },
       {
         "title": "Pan Am",
-        "count": 805,
+        "count": 796,
         "type": "series",
         "episodes": [
           {
-            "name": "Pan Am",
-            "count": 805
+            "name": "Pan Am (Episode 1)",
+            "count": 65
+          },
+          {
+            "name": "Pan Am (Episode 2)",
+            "count": 48
+          },
+          {
+            "name": "Pan Am (Episode 3)",
+            "count": 43
+          },
+          {
+            "name": "Pan Am (Episode 4)",
+            "count": 71
+          },
+          {
+            "name": "Pan Am (Episode 5)",
+            "count": 74
+          },
+          {
+            "name": "Pan Am (Episode 6)",
+            "count": 68
+          },
+          {
+            "name": "Pan Am (Episode 7)",
+            "count": 61
+          },
+          {
+            "name": "Pan Am (Episode 8)",
+            "count": 38
+          },
+          {
+            "name": "Pan Am (Episode 9)",
+            "count": 73
+          },
+          {
+            "name": "Pan Am (Episode 10)",
+            "count": 45
+          },
+          {
+            "name": "Pan Am (Episode 11)",
+            "count": 62
+          },
+          {
+            "name": "Pan Am (Episode 12)",
+            "count": 53
+          },
+          {
+            "name": "Pan Am (Episode 13)",
+            "count": 53
+          },
+          {
+            "name": "Pan Am (Episode 14)",
+            "count": 42
           }
         ],
         "dialogues": 11749,
@@ -4750,12 +4988,48 @@
       },
       {
         "title": "Maid",
-        "count": 632,
+        "count": 640,
         "type": "series",
         "episodes": [
           {
-            "name": "Maid",
-            "count": 632
+            "name": "Maid (Episode 1)",
+            "count": 57
+          },
+          {
+            "name": "Maid (Episode 2)",
+            "count": 62
+          },
+          {
+            "name": "Maid (Episode 3)",
+            "count": 71
+          },
+          {
+            "name": "Maid (Episode 4)",
+            "count": 43
+          },
+          {
+            "name": "Maid (Episode 5)",
+            "count": 52
+          },
+          {
+            "name": "Maid (Episode 6)",
+            "count": 86
+          },
+          {
+            "name": "Maid (Episode 7)",
+            "count": 67
+          },
+          {
+            "name": "Maid (Episode 8)",
+            "count": 65
+          },
+          {
+            "name": "Maid (Episode 9)",
+            "count": 71
+          },
+          {
+            "name": "Maid (Episode 10)",
+            "count": 66
           }
         ],
         "dialogues": 7421,
@@ -4764,12 +5038,40 @@
       },
       {
         "title": "All Her Fault",
-        "count": 375,
+        "count": 373,
         "type": "series",
         "episodes": [
           {
-            "name": "All Her Fault",
-            "count": 375
+            "name": "All Her Fault (Episode 1)",
+            "count": 54
+          },
+          {
+            "name": "All Her Fault (Episode 2)",
+            "count": 46
+          },
+          {
+            "name": "All Her Fault (Episode 3)",
+            "count": 56
+          },
+          {
+            "name": "All Her Fault (Episode 4)",
+            "count": 59
+          },
+          {
+            "name": "All Her Fault (Episode 5)",
+            "count": 41
+          },
+          {
+            "name": "All Her Fault (Episode 6)",
+            "count": 53
+          },
+          {
+            "name": "All Her Fault (Episode 7)",
+            "count": 33
+          },
+          {
+            "name": "All Her Fault (Episode 8)",
+            "count": 31
           }
         ],
         "dialogues": 8438,
@@ -5755,7 +6057,7 @@
     },
     {
       "year": "2026",
-      "words": 11703,
+      "words": 11700,
       "dialogues": 160657
     },
     {
