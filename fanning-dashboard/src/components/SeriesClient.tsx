@@ -178,9 +178,28 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {movieData.episodes.map((ep: any, idx: number) => {
-              const epMatch = ep.name.match(/(?:EP|Episode)\s*#?(\d+)/i);
-              const epNum = epMatch ? parseInt(epMatch[1]) : idx + 1;
-              const tmdbEp = episodes[epNum];
+              const globalEpNum = idx + 1;
+              
+              let seasonNum = 1;
+              let epNum = globalEpNum;
+              
+              const sMatch = ep.name.match(/S(\d+)E(\d+)/i);
+              if (sMatch) {
+                  seasonNum = parseInt(sMatch[1]);
+                  epNum = parseInt(sMatch[2]);
+              } else {
+                  const specialMatch = ep.name.match(/Special\s+(\d+)/i);
+                  if (specialMatch) {
+                      seasonNum = 0;
+                      epNum = parseInt(specialMatch[1]);
+                  } else {
+                      const epMatch = ep.name.match(/(?:EP|Episode)\s*#?(\d+)/i);
+                      if (epMatch) epNum = parseInt(epMatch[1]);
+                  }
+              }
+              
+              // Map to TMDB (TMDB specials might use the special number directly)
+              const tmdbEp = episodes[globalEpNum];
               
               let displayName = ep.name.replace(decodedTitle, "").replace(/[()]/g, "").trim() || ep.name;
               if (tmdbEp && tmdbEp.name && !tmdbEp.name.startsWith("Episodio")) {
@@ -200,8 +219,9 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                   <div className="w-full h-40 relative overflow-hidden">
                     <img src={tmdbEp.still_path} alt={displayName} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
                     <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40 to-transparent"></div>
-                    <div className="absolute top-3 right-3 bg-black/60 backdrop-blur-md text-white text-xs font-black px-3 py-1.5 rounded-full border border-white/10 shadow-lg">
-                      Ep #{epNum}
+                    <div className="absolute top-3 right-3 bg-black/60 backdrop-blur-md text-white text-[10px] sm:text-xs font-black px-3 py-1.5 rounded-full border border-white/10 shadow-lg flex gap-1 flex-col text-right leading-tight">
+                      <span>{seasonNum === 0 ? "Especial" : `Temp ${seasonNum}`}</span>
+                      <span className="text-purple-300">Ep {epNum} (Global {globalEpNum})</span>
                     </div>
                   </div>
                 )}
@@ -209,8 +229,10 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                 <div className="relative z-10 p-6 flex-1 flex flex-col">
                   {!tmdbEp?.still_path && (
                     <div className="flex justify-end mb-2">
-                      <div className="bg-white/10 text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap">
-                        Ep #{epNum}
+                      <div className="bg-white/10 text-white text-xs font-bold px-3 py-1.5 rounded-full whitespace-nowrap flex gap-1 items-center border border-white/5">
+                        <span>{seasonNum === 0 ? "Especial" : `Temp ${seasonNum}`}</span>
+                        <span className="text-gray-400">|</span>
+                        <span className="text-purple-300">Ep {epNum} (Global {globalEpNum})</span>
                       </div>
                     </div>
                   )}
@@ -278,7 +300,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       )}
                       
                       {(() => {
-                        const match = extraData?.episodes?.find((e: any) => e.name === ep.name);
+                        const match = extraData?.episodes?.find((e: any) => e.name === ep.name || ep.name.includes(e.name) || displayName.includes(e.name));
                         return match?.englishAnalysis ? (
                           <div className="bg-purple-900/20 border border-purple-500/20 p-3 rounded-xl mt-2">
                             <strong className="text-purple-300 block mb-1">Análisis del Inglés:</strong>
@@ -294,14 +316,14 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       <div className="mt-4 pt-4 border-t border-white/10">
                           <button
                               onClick={() => {
-                                  const match = extraData.episodes.find((e: any) => e.name === ep.name);
+                                  const match = extraData.episodes.find((e: any) => e.name === ep.name || ep.name.includes(e.name) || displayName.includes(e.name));
                                   if (match && match.vocabulary && match.vocabulary.length > 0) {
                                       setFlashcards(match.vocabulary);
                                       setCurrentCardIndex(0);
                                       setIsFlipped(false);
                                       setShowFlashcards(true);
                                   } else {
-                                      alert("No hay vocabulario extraído para este episodio aún.");
+                                      alert("No hay vocabulario disponible para este episodio aún.");
                                   }
                               }}
                               className="w-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 px-4 rounded-xl transition flex items-center justify-center gap-2 shadow-lg shadow-emerald-900/50"

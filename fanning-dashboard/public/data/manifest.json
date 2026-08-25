@@ -1,7 +1,7 @@
 {
   "all": {
-    "totalWords": 32763,
-    "uniqueMovies": 176,
+    "totalWords": 32774,
+    "uniqueMovies": 175,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -99,18 +99,102 @@
       },
       {
         "title": "Euphoria",
-        "count": 913,
+        "count": 924,
         "type": "series",
         "episodes": [
           {
-            "name": "Euphoria",
-            "count": 913,
+            "name": "Euphoria (S01E01 - Pilot)",
+            "count": 99,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E02 - Stunting Like My Daddy)",
+            "count": 73,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E03 - Made Y ou Look)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E04 - Shook One Part II)",
+            "count": 23,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E05 - ‘03 Bonnie and Clyde)",
+            "count": 50,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E06 - The Next Episode)",
+            "count": 71,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E07 - The Trials and Tribulations of Trying to Pee While Depressed)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E08 - And Salt the Earth Behind Y ou)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (Special 1 - Trouble Don't Last Always)",
+            "count": 50,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (Special 2 - Fuck Anyone Who's Not a Sea Blob)",
+            "count": 24,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E01 - Trying to Get to Heaven Before They Close the Door)",
+            "count": 47,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E02 - Out of Touch)",
+            "count": 35,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E03 - Ruminations: Big and Little Bullys)",
+            "count": 49,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E04 - Y ou Who Cannot See, Think of Those Who Can)",
+            "count": 47,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E05 - Stand Still Like a Hummingbird)",
+            "count": 37,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E06 - A Thousand Little Trees of Blood)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E07 - The Theater and It’s Double)",
+            "count": 51,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E08 - All My Life, My Heart Has Y earned for a Thing)",
+            "count": 40,
             "level": "B2"
           }
         ],
         "level": "B2",
-        "dialogues": 14926,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
       },
       {
@@ -392,6 +476,57 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg"
       },
       {
+        "title": "Gambito de Dama",
+        "count": 296,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Gambito de Dama (Episode 1)",
+            "count": 40,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 2)",
+            "count": 44,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 3)",
+            "count": 42,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 4)",
+            "count": 26,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 5)",
+            "count": 32,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 6)",
+            "count": 38,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Episode 7)",
+            "count": 46,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Special Episode)",
+            "count": 28,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "dialogues": 4222,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
+      },
+      {
         "title": "Terminal",
         "count": 293,
         "type": "movie",
@@ -440,52 +575,6 @@
         "dialogues": 1587,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
-      },
-      {
-        "title": "Gambito de Dama",
-        "count": 268,
-        "type": "series",
-        "episodes": [
-          {
-            "name": "Gambito de Dama (Episode 1)",
-            "count": 40,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 2)",
-            "count": 44,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 3)",
-            "count": 42,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 4)",
-            "count": 26,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 5)",
-            "count": 32,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 6)",
-            "count": 38,
-            "level": "B2"
-          },
-          {
-            "name": "Gambito de Dama (Episode 7)",
-            "count": 46,
-            "level": "B2"
-          }
-        ],
-        "level": "B2",
-        "dialogues": 4222,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
       },
       {
         "title": "El Escuadrón Suicida",
@@ -3178,19 +3267,6 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
       },
       {
-        "title": "Gambito de Dama (Special Episode)",
-        "count": 28,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Gambito de Dama (Special Episode)",
-            "count": 28,
-            "level": "B2"
-          }
-        ],
-        "level": "B2"
-      },
-      {
         "title": "IO",
         "count": 27,
         "type": "movie",
@@ -4332,8 +4408,8 @@
     ]
   },
   "2025": {
-    "totalWords": 10996,
-    "uniqueMovies": 64,
+    "totalWords": 11007,
+    "uniqueMovies": 63,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -4431,18 +4507,102 @@
       },
       {
         "title": "Euphoria",
-        "count": 913,
+        "count": 924,
         "type": "series",
         "episodes": [
           {
-            "name": "Euphoria",
-            "count": 913,
+            "name": "Euphoria (S01E01 - Pilot)",
+            "count": 99,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E02 - Stunting Like My Daddy)",
+            "count": 73,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E03 - Made Y ou Look)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E04 - Shook One Part II)",
+            "count": 23,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E05 - ‘03 Bonnie and Clyde)",
+            "count": 50,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E06 - The Next Episode)",
+            "count": 71,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E07 - The Trials and Tribulations of Trying to Pee While Depressed)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S01E08 - And Salt the Earth Behind Y ou)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (Special 1 - Trouble Don't Last Always)",
+            "count": 50,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (Special 2 - Fuck Anyone Who's Not a Sea Blob)",
+            "count": 24,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E01 - Trying to Get to Heaven Before They Close the Door)",
+            "count": 47,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E02 - Out of Touch)",
+            "count": 35,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E03 - Ruminations: Big and Little Bullys)",
+            "count": 49,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E04 - Y ou Who Cannot See, Think of Those Who Can)",
+            "count": 47,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E05 - Stand Still Like a Hummingbird)",
+            "count": 37,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E06 - A Thousand Little Trees of Blood)",
+            "count": 57,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E07 - The Theater and It’s Double)",
+            "count": 51,
+            "level": "B2"
+          },
+          {
+            "name": "Euphoria (S02E08 - All My Life, My Heart Has Y earned for a Thing)",
+            "count": 40,
             "level": "B2"
           }
         ],
         "level": "B2",
-        "dialogues": 14926,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
       },
       {
@@ -4464,7 +4624,7 @@
       },
       {
         "title": "Gambito de Dama",
-        "count": 268,
+        "count": 296,
         "type": "series",
         "episodes": [
           {
@@ -4500,6 +4660,11 @@
           {
             "name": "Gambito de Dama (Episode 7)",
             "count": 46,
+            "level": "B2"
+          },
+          {
+            "name": "Gambito de Dama (Special Episode)",
+            "count": 28,
             "level": "B2"
           }
         ],
@@ -5473,19 +5638,6 @@
         "dialogues": 1123,
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
-      },
-      {
-        "title": "Gambito de Dama (Special Episode)",
-        "count": 28,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Gambito de Dama (Special Episode)",
-            "count": 28,
-            "level": "B2"
-          }
-        ],
-        "level": "B2"
       },
       {
         "title": "Viena and the Fantomes",
@@ -6932,7 +7084,7 @@
     },
     {
       "year": "2025",
-      "words": 10996,
+      "words": 11007,
       "dialogues": 133436
     },
     {

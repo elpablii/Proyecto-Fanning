@@ -11,9 +11,11 @@ def clean_movie_title(raw_title):
     title = raw_title
     title = re.sub(r'\(lista.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(S\d+EP.*?\)', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'\(S\d+E.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Season.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Episodes?.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Part.*?\)', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'\(Special.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'parte \d', '', title, flags=re.IGNORECASE)
     if re.match(r'^Cars I$', title.strip(), re.IGNORECASE): title = "Cars"
     if re.match(r'^Cars II$', title.strip(), re.IGNORECASE): title = "Cars 2"
@@ -106,8 +108,17 @@ def process_stats(items):
         episodes = []
         
         def get_ep_num(name):
+            season_weight = 0
+            m_s = re.search(r'S(\d+)E', name, re.IGNORECASE)
+            if m_s: season_weight = int(m_s.group(1)) * 1000
+            
             m = re.search(r'(?:EP|Episode)\s*#?(\d+)', name, re.IGNORECASE)
-            if m: return int(m.group(1))
+            if m: return season_weight + int(m.group(1))
+            m2 = re.search(r'E(\d+)', name, re.IGNORECASE)
+            if m2: return season_weight + int(m2.group(1))
+            m_special = re.search(r'Special\s+(\d+)', name, re.IGNORECASE)
+            if m_special: return 1500 + int(m_special.group(1))
+            
             roman_m = re.search(r'Part\s+([IVXLCDM]+)', name, re.IGNORECASE)
             if roman_m:
                 roman = roman_m.group(1).upper()
@@ -149,6 +160,10 @@ def process_stats(items):
         if title == "Obi-Wan Kenobi":
             m_dict["posterUrl"] = "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg"
             m_dict["backdropUrl"] = "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
+            
+        if title == "Euphoria":
+            m_dict["posterUrl"] = "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg"
+            m_dict["backdropUrl"] = "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
             
         movie_list.append(m_dict)
         

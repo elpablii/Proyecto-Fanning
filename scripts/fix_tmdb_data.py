@@ -7,7 +7,8 @@ api_key = 'd1765b8dccaf994068c4055e49e80566'
 
 series_to_fix = [
     "Dream Productions",
-    "Obi-Wan Kenobi"
+    "Obi-Wan Kenobi",
+    "Euphoria"
 ]
 
 def get_tmdb_data(title, language="es-MX"):
@@ -70,26 +71,6 @@ for title in series_to_fix:
         eps_en = {str(ep['episode_number']): ep for ep in tv_en.get('season/1', {}).get('episodes', [])}
         
         for ep_idx, ep_data in enumerate(d.get('episodes', [])):
-            ep_num = str(ep_idx + 1)
-            if ep_idx == 7 and title == "Gambito de Dama":
-                # Special episode hardcode
-                d['tmdb']['episodes'][ep_num] = {
-                    'overview': 'Una mirada detrás de escena a la creación de Gambito de Dama.',
-                    'name': 'Creating Queen\'s Gambit',
-                    'still_path': 'https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg' # use show backdrop
-                }
-                continue
-                
-            en_info = eps_en.get(ep_num, {})
-            es_info = eps_es.get(ep_num, {})
-            
-            # Get overview: Try Spanish first, fallback to English
-            ep_overview = es_info.get('overview') or en_info.get('overview', '')
-            
-            # Get Original Title (English)
-            ep_name = en_info.get('name', f"Episode {ep_num}")
-            
-            if ep_num not in d['tmdb']['episodes']:
                 d['tmdb']['episodes'][ep_num] = {}
                 
             d['tmdb']['episodes'][ep_num]['overview'] = ep_overview
