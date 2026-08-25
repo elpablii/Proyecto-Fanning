@@ -1,6 +1,6 @@
 {
   "all": {
-    "totalWords": 32761,
+    "totalWords": 32763,
     "uniqueMovies": 176,
     "topWord": {
       "word": "Rely (verb)",
@@ -67,13 +67,16 @@
         "episodes": [
           {
             "name": "The Big Bang Theory (S02EP14-18) (lista defintiva)",
-            "count": 234
+            "count": 234,
+            "level": "B2"
           },
           {
             "name": "The Big Bang Theory",
-            "count": 4499
+            "count": 4499,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 29596,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
@@ -85,9 +88,11 @@
         "episodes": [
           {
             "name": "Kim Possible",
-            "count": 4407
+            "count": 4407,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 46771,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
@@ -99,9 +104,11 @@
         "episodes": [
           {
             "name": "Euphoria",
-            "count": 913
+            "count": 913,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 14926,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
@@ -113,61 +120,76 @@
         "episodes": [
           {
             "name": "Pan Am (Episode 1)",
-            "count": 65
+            "count": 65,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 2)",
-            "count": 48
+            "count": 48,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 3)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 4)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 5)",
-            "count": 74
+            "count": 74,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 6)",
-            "count": 68
+            "count": 68,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 7)",
-            "count": 61
+            "count": 61,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 8)",
-            "count": 38
+            "count": 38,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 9)",
-            "count": 73
+            "count": 73,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 10)",
-            "count": 45
+            "count": 45,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 11)",
-            "count": 62
+            "count": 62,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 12)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 13)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 14)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 11749,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
@@ -179,45 +201,56 @@
         "episodes": [
           {
             "name": "Maid (Episode 1)",
-            "count": 57
+            "count": 57,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 2)",
-            "count": 62
+            "count": 62,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 3)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 4)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 5)",
-            "count": 52
+            "count": 52,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 6)",
-            "count": 86
+            "count": 86,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 7)",
-            "count": 67
+            "count": 67,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 8)",
-            "count": 65
+            "count": 65,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 9)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 10)",
-            "count": 66
+            "count": 66,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 7421,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
@@ -230,9 +263,11 @@
           {
             "name": "Oppenheimer",
             "count": 439,
-            "dialogues": 3707
+            "dialogues": 3707,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3707,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
@@ -245,9 +280,11 @@
           {
             "name": "The Wolf of Wall Street",
             "count": 426,
-            "dialogues": 3254
+            "dialogues": 3254,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3254,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
@@ -260,9 +297,11 @@
           {
             "name": "Taylor Swift The Eras Tour Film",
             "count": 387,
-            "dialogues": 3378
+            "dialogues": 3378,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3378,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
@@ -274,37 +313,46 @@
         "episodes": [
           {
             "name": "All Her Fault (Episode 1)",
-            "count": 54
+            "count": 54,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 2)",
-            "count": 46
+            "count": 46,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 3)",
-            "count": 56
+            "count": 56,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 4)",
-            "count": 59
+            "count": 59,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 5)",
-            "count": 41
+            "count": 41,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 6)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 7)",
-            "count": 33
+            "count": 33,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 8)",
-            "count": 31
+            "count": 31,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 8438,
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
@@ -317,9 +365,11 @@
           {
             "name": "Titanic",
             "count": 336,
-            "dialogues": 2083
+            "dialogues": 2083,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2083,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg"
@@ -332,9 +382,11 @@
           {
             "name": "Aves de Presa",
             "count": 298,
-            "dialogues": 2100
+            "dialogues": 2100,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2100,
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg"
@@ -347,9 +399,11 @@
           {
             "name": "Terminal",
             "count": 293,
-            "dialogues": 1511
+            "dialogues": 1511,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1511,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
@@ -362,9 +416,11 @@
           {
             "name": "Escuadrón Suicida",
             "count": 286,
-            "dialogues": 1821
+            "dialogues": 1821,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1821,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg"
@@ -376,9 +432,11 @@
         "episodes": [
           {
             "name": "Focus",
-            "count": 269
+            "count": 269,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1587,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
@@ -390,33 +448,41 @@
         "episodes": [
           {
             "name": "Gambito de Dama (Episode 1)",
-            "count": 40
+            "count": 40,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 2)",
-            "count": 44
+            "count": 44,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 3)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 4)",
-            "count": 26
+            "count": 26,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 5)",
-            "count": 32
+            "count": 32,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 6)",
-            "count": 38
+            "count": 38,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 7)",
-            "count": 46
+            "count": 46,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 4222,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
@@ -429,9 +495,11 @@
           {
             "name": "El Escuadrón Suicida",
             "count": 265,
-            "dialogues": 2051
+            "dialogues": 2051,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2051,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LVqiUUQ9YEl2qmccS7R9qxicUI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
@@ -444,9 +512,11 @@
           {
             "name": "Ámsterdam",
             "count": 262,
-            "dialogues": 2431
+            "dialogues": 2431,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2431,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
@@ -459,9 +529,11 @@
           {
             "name": "Once Upon a Time in Hollywood",
             "count": 257,
-            "dialogues": 2160
+            "dialogues": 2160,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2160,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg"
@@ -473,37 +545,46 @@
         "episodes": [
           {
             "name": "The Girl From Plainville (Episode 1)",
-            "count": 30
+            "count": 30,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 2)",
-            "count": 30
+            "count": 30,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 3)",
-            "count": 36
+            "count": 36,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 4)",
-            "count": 35
+            "count": 35,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 5)",
-            "count": 25
+            "count": 25,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 6)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 7)",
-            "count": 35
+            "count": 35,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 8)",
-            "count": 34
+            "count": 34,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
       },
@@ -515,9 +596,11 @@
           {
             "name": "Rango",
             "count": 247,
-            "dialogues": 1307
+            "dialogues": 1307,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1307,
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
@@ -529,9 +612,11 @@
         "episodes": [
           {
             "name": "Barbie",
-            "count": 246
+            "count": 246,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2261,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
@@ -543,9 +628,11 @@
         "episodes": [
           {
             "name": "Bombshell",
-            "count": 241
+            "count": 241,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2136,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
@@ -558,9 +645,11 @@
           {
             "name": "Cars II",
             "count": 239,
-            "dialogues": 1553
+            "dialogues": 1553,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1553,
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
@@ -573,9 +662,11 @@
           {
             "name": "Wonka",
             "count": 239,
-            "dialogues": 2605
+            "dialogues": 2605,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2605,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
@@ -587,29 +678,36 @@
         "episodes": [
           {
             "name": "The Perfect Couple (Episode 1)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 2)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 3)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 4)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 5)",
-            "count": 48
+            "count": 48,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 6)",
-            "count": 47
+            "count": 47,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 4154,
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
@@ -622,9 +720,11 @@
           {
             "name": "Mary Queen of Scots",
             "count": 227,
-            "dialogues": 1128
+            "dialogues": 1128,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1128,
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
@@ -637,9 +737,11 @@
           {
             "name": "Los Increibles",
             "count": 217,
-            "dialogues": 1334
+            "dialogues": 1334,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1334,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
@@ -652,9 +754,11 @@
           {
             "name": "Babylon",
             "count": 215,
-            "dialogues": 2232
+            "dialogues": 2232,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2232,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
@@ -667,9 +771,11 @@
           {
             "name": "About Time",
             "count": 213,
-            "dialogues": 1898
+            "dialogues": 1898,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1898,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
@@ -682,9 +788,11 @@
           {
             "name": "Goodbye Christopher Robin",
             "count": 212,
-            "dialogues": 1786
+            "dialogues": 1786,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1786,
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
@@ -697,9 +805,11 @@
           {
             "name": "A Rainy Day in New York",
             "count": 211,
-            "dialogues": 2161
+            "dialogues": 2161,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2161,
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3C6hamStn5HHTNmGmXmmGKHFWhT.jpg"
@@ -711,9 +821,11 @@
         "episodes": [
           {
             "name": "Taylor Swift Miss Americana",
-            "count": 208
+            "count": 208,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1513,
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
@@ -726,9 +838,11 @@
           {
             "name": "Rocky II",
             "count": 204,
-            "dialogues": 1818
+            "dialogues": 1818,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1818,
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fYYhjhTzDhk5R7wlVn2iEubxypC.jpg"
@@ -741,9 +855,11 @@
           {
             "name": "Emma",
             "count": 204,
-            "dialogues": 1715
+            "dialogues": 1715,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1715,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
@@ -756,9 +872,11 @@
           {
             "name": "I-Tonya",
             "count": 203,
-            "dialogues": 1547
+            "dialogues": 1547,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1547,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
@@ -771,9 +889,11 @@
           {
             "name": "Family Switch",
             "count": 201,
-            "dialogues": 2023
+            "dialogues": 2023,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2023,
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
@@ -786,9 +906,11 @@
           {
             "name": "A Complete Unknown",
             "count": 200,
-            "dialogues": 2351
+            "dialogues": 2351,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2351,
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
@@ -801,9 +923,11 @@
           {
             "name": "Rocky I",
             "count": 195,
-            "dialogues": 1818
+            "dialogues": 1818,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1684,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
@@ -816,9 +940,11 @@
           {
             "name": "Cars I",
             "count": 189,
-            "dialogues": 1553
+            "dialogues": 1553,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1553,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
@@ -831,9 +957,11 @@
           {
             "name": "A Minecraft Movie",
             "count": 185,
-            "dialogues": 2008
+            "dialogues": 2008,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2008,
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
@@ -846,9 +974,11 @@
           {
             "name": "Ratatouille",
             "count": 184,
-            "dialogues": 1339
+            "dialogues": 1339,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1339,
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg"
@@ -861,9 +991,11 @@
           {
             "name": "Whiskey Tango Foxtrot",
             "count": 184,
-            "dialogues": 1492
+            "dialogues": 1492,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1492,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
@@ -876,9 +1008,11 @@
           {
             "name": "Slaughterhouse Rulez",
             "count": 183,
-            "dialogues": 1653
+            "dialogues": 1653,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1653,
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
@@ -891,9 +1025,11 @@
           {
             "name": "Love Actually",
             "count": 180,
-            "dialogues": 2240
+            "dialogues": 2240,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2240,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
@@ -906,9 +1042,11 @@
           {
             "name": "Orgullo y Prejuicio",
             "count": 179,
-            "dialogues": 1263
+            "dialogues": 1263,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1263,
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
@@ -921,9 +1059,11 @@
           {
             "name": "Zootopia I",
             "count": 177,
-            "dialogues": 2290
+            "dialogues": 2290,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2290,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg"
@@ -936,9 +1076,11 @@
           {
             "name": "Scarface",
             "count": 170,
-            "dialogues": 2264
+            "dialogues": 2264,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2264,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1qM2BYNE11Viby8ImC9LC00DgDr.jpg"
@@ -951,9 +1093,11 @@
           {
             "name": "The Menu",
             "count": 169,
-            "dialogues": 1732
+            "dialogues": 1732,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1732,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
@@ -966,9 +1110,11 @@
           {
             "name": "Five Nights at Freddy's",
             "count": 165,
-            "dialogues": 1611
+            "dialogues": 1611,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1611,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
@@ -981,9 +1127,11 @@
           {
             "name": "Schindler's List",
             "count": 164,
-            "dialogues": 2420
+            "dialogues": 2420,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2420,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
@@ -996,9 +1144,11 @@
           {
             "name": "Toy Story 2",
             "count": 158,
-            "dialogues": 1231
+            "dialogues": 1231,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1231,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7iUDfakacY1HpajP1DtHrCuDB95.jpg"
@@ -1011,9 +1161,11 @@
           {
             "name": "Interestellar",
             "count": 158,
-            "dialogues": 1996
+            "dialogues": 1996,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1996,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg"
@@ -1026,9 +1178,11 @@
           {
             "name": "Star Wars Episodio I The Phantom Menace",
             "count": 157,
-            "dialogues": 1646
+            "dialogues": 1646,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1646,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
@@ -1041,9 +1195,11 @@
           {
             "name": "Riesgo Bajo Cero",
             "count": 157,
-            "dialogues": 1359
+            "dialogues": 1359,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1359,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
@@ -1056,9 +1212,11 @@
           {
             "name": "Taylor Swift - The Eras Tour Film The Final Show",
             "count": 155,
-            "dialogues": 2836
+            "dialogues": 2836,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2836,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
@@ -1071,9 +1229,11 @@
           {
             "name": "Marlowe",
             "count": 153,
-            "dialogues": 1762
+            "dialogues": 1762,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1762,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
@@ -1086,9 +1246,11 @@
           {
             "name": "The Legend of Tarzan",
             "count": 148,
-            "dialogues": 922
+            "dialogues": 922,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 922,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
@@ -1101,9 +1263,11 @@
           {
             "name": "Work It",
             "count": 141,
-            "dialogues": 1745
+            "dialogues": 1745,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1745,
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
@@ -1116,9 +1280,11 @@
           {
             "name": "The Naked Gun",
             "count": 139,
-            "dialogues": 1726
+            "dialogues": 1726,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1726,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
@@ -1131,9 +1297,11 @@
           {
             "name": "Rambo First Blood",
             "count": 138,
-            "dialogues": 936
+            "dialogues": 936,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 936,
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
@@ -1146,9 +1314,11 @@
           {
             "name": "Home",
             "count": 138,
-            "dialogues": 853
+            "dialogues": 853,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 853,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
@@ -1161,9 +1331,11 @@
           {
             "name": "Tall Girl I",
             "count": 138,
-            "dialogues": 1846
+            "dialogues": 1846,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1846,
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
@@ -1176,9 +1348,11 @@
           {
             "name": "Playmobil",
             "count": 137,
-            "dialogues": 1734
+            "dialogues": 1734,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1734,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
@@ -1191,9 +1365,11 @@
           {
             "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
             "count": 135,
-            "dialogues": 1554
+            "dialogues": 1554,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1554,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
@@ -1206,9 +1382,11 @@
           {
             "name": "Effie Gray",
             "count": 131,
-            "dialogues": 1108
+            "dialogues": 1108,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1108,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
@@ -1221,9 +1399,11 @@
           {
             "name": "El Expreso Polar",
             "count": 130,
-            "dialogues": 831
+            "dialogues": 831,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 831,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
@@ -1236,27 +1416,14 @@
           {
             "name": "Blacklight",
             "count": 127,
-            "dialogues": 1701
+            "dialogues": 1701,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1701,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
-      },
-      {
-        "title": "Dream Productions",
-        "count": 125,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Dream Productions",
-            "count": 125,
-            "dialogues": 1513
-          }
-        ],
-        "dialogues": 1513,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
       {
         "title": "Dreamland",
@@ -1266,9 +1433,11 @@
           {
             "name": "Dreamland",
             "count": 124,
-            "dialogues": 1227
+            "dialogues": 1227,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1227,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
@@ -1281,9 +1450,11 @@
           {
             "name": "Kim Possible Todo un Drama",
             "count": 123,
-            "dialogues": 1093
+            "dialogues": 1093,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1093,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
@@ -1296,12 +1467,45 @@
           {
             "name": "Venganza Implacable",
             "count": 122,
-            "dialogues": 1111
+            "dialogues": 1111,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1111,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
+      },
+      {
+        "title": "Dream Productions",
+        "count": 122,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Dream Productions (Episode 1)",
+            "count": 30,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 2)",
+            "count": 29,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 3)",
+            "count": 51,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 4)",
+            "count": 12,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "dialogues": 1513,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -1311,9 +1515,11 @@
           {
             "name": "Star Wars Episodio IV A New Hope",
             "count": 121,
-            "dialogues": 1301
+            "dialogues": 1301,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1301,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg"
@@ -1326,9 +1532,11 @@
           {
             "name": "Taylor Swift The 1989 World Tour",
             "count": 121,
-            "dialogues": 2515
+            "dialogues": 2515,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2515,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
@@ -1341,9 +1549,11 @@
           {
             "name": "The Witch",
             "count": 121,
-            "dialogues": 947
+            "dialogues": 947,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 947,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
@@ -1356,9 +1566,11 @@
           {
             "name": "Los Fantasmas de Scrooge",
             "count": 120,
-            "dialogues": 720
+            "dialogues": 720,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 720,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iNLigK4bmzxljsoDUC2Gji4zNJ9.jpg"
@@ -1371,9 +1583,11 @@
           {
             "name": "Toy Story",
             "count": 119,
-            "dialogues": 1231
+            "dialogues": 1231,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1231,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
@@ -1386,9 +1600,11 @@
           {
             "name": "Buscando a Nemo",
             "count": 119,
-            "dialogues": 1572
+            "dialogues": 1572,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1572,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
@@ -1401,9 +1617,11 @@
           {
             "name": "Cars III",
             "count": 119,
-            "dialogues": 1697
+            "dialogues": 1697,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1697,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
@@ -1416,9 +1634,11 @@
           {
             "name": "Bichos Una Aventura en Miniatura",
             "count": 116,
-            "dialogues": 1255
+            "dialogues": 1255,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1255,
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
@@ -1431,9 +1651,11 @@
           {
             "name": "Toy Story III",
             "count": 116,
-            "dialogues": 1245
+            "dialogues": 1245,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1245,
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
@@ -1446,9 +1668,11 @@
           {
             "name": "Top Gun",
             "count": 115,
-            "dialogues": 1395
+            "dialogues": 1395,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1395,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
@@ -1461,9 +1685,11 @@
           {
             "name": "Intensamente 2",
             "count": 114,
-            "dialogues": 2146
+            "dialogues": 2146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2146,
         "posterUrl": "https://image.tmdb.org/t/p/w500/orsGQt5rn7Uznc5Sn5uH5IzXqZN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
@@ -1476,9 +1702,11 @@
           {
             "name": "Now is Good",
             "count": 114,
-            "dialogues": 1424
+            "dialogues": 1424,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1424,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
@@ -1491,9 +1719,11 @@
           {
             "name": "Taylor Swift Reputation Stadium Tour",
             "count": 113,
-            "dialogues": 1935
+            "dialogues": 1935,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1935,
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
@@ -1506,9 +1736,11 @@
           {
             "name": "Intensamente",
             "count": 112,
-            "dialogues": 2146
+            "dialogues": 2146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1378,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg"
@@ -1521,9 +1753,11 @@
           {
             "name": "Monsters Inc",
             "count": 112,
-            "dialogues": 1074
+            "dialogues": 1074,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1074,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
@@ -1536,9 +1770,11 @@
           {
             "name": "Rocky III",
             "count": 108,
-            "dialogues": 1177
+            "dialogues": 1177,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1177,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
@@ -1551,9 +1787,11 @@
           {
             "name": "Michael (lista definitiva)",
             "count": 108,
-            "dialogues": 2380
+            "dialogues": 2380,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2380,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
@@ -1566,9 +1804,11 @@
           {
             "name": "La Sustancia",
             "count": 102,
-            "dialogues": 1467
+            "dialogues": 1467,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1467,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uYJvxMWMb9W4zIY3cbM50sj3dpC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
@@ -1581,9 +1821,11 @@
           {
             "name": "An American Girl - Grace Stirs Up Success",
             "count": 101,
-            "dialogues": 1781
+            "dialogues": 1781,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1781,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
@@ -1596,9 +1838,11 @@
           {
             "name": "How to Make a Killing",
             "count": 101,
-            "dialogues": 1945
+            "dialogues": 1945,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1945,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
@@ -1611,9 +1855,11 @@
           {
             "name": "Suite Francaise",
             "count": 100,
-            "dialogues": 681
+            "dialogues": 681,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 681,
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
@@ -1626,9 +1872,11 @@
           {
             "name": "Alvin y las Ardillas",
             "count": 100,
-            "dialogues": 1146
+            "dialogues": 1146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1146,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
@@ -1641,9 +1889,11 @@
           {
             "name": "Coraline",
             "count": 98,
-            "dialogues": 1293
+            "dialogues": 1293,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1293,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
@@ -1656,9 +1906,11 @@
           {
             "name": "The Commuter",
             "count": 95,
-            "dialogues": 1526
+            "dialogues": 1526,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1526,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
@@ -1671,12 +1923,54 @@
           {
             "name": "Five Nights at Freddy's II",
             "count": 94,
-            "dialogues": 1602
+            "dialogues": 1602,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1602,
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
+      },
+      {
+        "title": "Obi-Wan Kenobi",
+        "count": 94,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Obi-Wan Kenobi (Part I)",
+            "count": 23,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part II)",
+            "count": 14,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part III)",
+            "count": 17,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part IV)",
+            "count": 12,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part V)",
+            "count": 17,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part VI)",
+            "count": 11,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
       {
         "title": "Tall Girl II",
@@ -1686,9 +1980,11 @@
           {
             "name": "Tall Girl II",
             "count": 94,
-            "dialogues": 1899
+            "dialogues": 1899,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1899,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
@@ -1701,9 +1997,11 @@
           {
             "name": "La Bella Durmiente",
             "count": 93,
-            "dialogues": 1142
+            "dialogues": 1142,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1142,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
@@ -1716,9 +2014,11 @@
           {
             "name": "The Vanishing of Sidney Hall",
             "count": 93,
-            "dialogues": 1887
+            "dialogues": 1887,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1887,
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
@@ -1731,9 +2031,11 @@
           {
             "name": "Star Wars Episodio III Revenge of the Sith",
             "count": 92,
-            "dialogues": 1101
+            "dialogues": 1101,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1101,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg"
@@ -1746,9 +2048,11 @@
           {
             "name": "Jojo Rabbit",
             "count": 91,
-            "dialogues": 1759
+            "dialogues": 1759,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1759,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
@@ -1761,9 +2065,11 @@
           {
             "name": "Last Night in Soho",
             "count": 90,
-            "dialogues": 1881
+            "dialogues": 1881,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1881,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
@@ -1776,27 +2082,14 @@
           {
             "name": "Escape de Sobibor",
             "count": 89,
-            "dialogues": 1886
+            "dialogues": 1886,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1886,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w3IGS3gAecPB5dNeQH4926S9PSi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
-      },
-      {
-        "title": "Obi-Wan Kenobi",
-        "count": 89,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Obi-Wan Kenobi",
-            "count": 89,
-            "dialogues": 2439
-          }
-        ],
-        "dialogues": 2439,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
       {
         "title": "21 Blackjack",
@@ -1806,9 +2099,11 @@
           {
             "name": "21 Blackjack",
             "count": 88,
-            "dialogues": 1432
+            "dialogues": 1432,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1432,
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
@@ -1821,9 +2116,11 @@
           {
             "name": "Glass",
             "count": 87,
-            "dialogues": 1286
+            "dialogues": 1286,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1286,
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
@@ -1836,9 +2133,11 @@
           {
             "name": "The Truman Show",
             "count": 86,
-            "dialogues": 695
+            "dialogues": 695,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 695,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
@@ -1851,9 +2150,11 @@
           {
             "name": "Z for Zachariah",
             "count": 85,
-            "dialogues": 719
+            "dialogues": 719,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 719,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
@@ -1866,9 +2167,11 @@
           {
             "name": "American Pastoral",
             "count": 85,
-            "dialogues": 1354
+            "dialogues": 1354,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1354,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
@@ -1881,9 +2184,11 @@
           {
             "name": "Star Wars Episodio VI Return of the Jedi",
             "count": 85,
-            "dialogues": 1005
+            "dialogues": 1005,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1005,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
@@ -1896,9 +2201,11 @@
           {
             "name": "Galveston",
             "count": 84,
-            "dialogues": 1050
+            "dialogues": 1050,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1050,
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
@@ -1911,9 +2218,11 @@
           {
             "name": "El Padrino I",
             "count": 83,
-            "dialogues": 1483
+            "dialogues": 1483,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1483,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg"
@@ -1926,9 +2235,11 @@
           {
             "name": "Teen Spirit",
             "count": 82,
-            "dialogues": 1423
+            "dialogues": 1423,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1423,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
@@ -1941,9 +2252,11 @@
           {
             "name": "Split",
             "count": 81,
-            "dialogues": 1272
+            "dialogues": 1272,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1272,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
@@ -1956,9 +2269,11 @@
           {
             "name": "A Nonsense Christmas with Sabrina Carpenter",
             "count": 80,
-            "dialogues": 914
+            "dialogues": 914,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 914,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
@@ -1971,9 +2286,11 @@
           {
             "name": "20th Century Women",
             "count": 80,
-            "dialogues": 1572
+            "dialogues": 1572,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1572,
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
@@ -1986,9 +2303,11 @@
           {
             "name": "Barry",
             "count": 80,
-            "dialogues": 1285
+            "dialogues": 1285,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1285,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
@@ -2001,9 +2320,11 @@
           {
             "name": "Non-stop",
             "count": 79,
-            "dialogues": 1511
+            "dialogues": 1511,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1511,
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
@@ -2016,9 +2337,11 @@
           {
             "name": "Olivia Rodrigo driving home 2 u",
             "count": 76,
-            "dialogues": 1042
+            "dialogues": 1042,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1042,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
@@ -2031,9 +2354,11 @@
           {
             "name": "Barbie La Princesa y Estrella de Pop",
             "count": 75,
-            "dialogues": 1118
+            "dialogues": 1118,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1118,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
@@ -2046,9 +2371,11 @@
           {
             "name": "Cuckoo",
             "count": 75,
-            "dialogues": 1033
+            "dialogues": 1033,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1033,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
@@ -2061,9 +2388,11 @@
           {
             "name": "Leave No Trace",
             "count": 75,
-            "dialogues": 1001
+            "dialogues": 1001,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1001,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
@@ -2076,9 +2405,11 @@
           {
             "name": "Olivia Rodrigo Guts World Tour",
             "count": 74,
-            "dialogues": 1663
+            "dialogues": 1663,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1663,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
@@ -2091,9 +2422,11 @@
           {
             "name": "Ordinary Love",
             "count": 74,
-            "dialogues": 1045
+            "dialogues": 1045,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1045,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
@@ -2106,9 +2439,11 @@
           {
             "name": "The Motel Life",
             "count": 73,
-            "dialogues": 973
+            "dialogues": 973,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 973,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
@@ -2121,9 +2456,11 @@
           {
             "name": "The Runaways",
             "count": 72,
-            "dialogues": 1013
+            "dialogues": 1013,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1013,
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
@@ -2136,9 +2473,11 @@
           {
             "name": "The Watchers",
             "count": 70,
-            "dialogues": 1390
+            "dialogues": 1390,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1390,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
@@ -2151,9 +2490,11 @@
           {
             "name": "A Big Bold Beautiful Journey",
             "count": 70,
-            "dialogues": 1690
+            "dialogues": 1690,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1690,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
@@ -2166,9 +2507,11 @@
           {
             "name": "Toy Story IV",
             "count": 70,
-            "dialogues": 2071
+            "dialogues": 2071,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2071,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
@@ -2181,9 +2524,11 @@
           {
             "name": "Taylor Swift City of Lover Concert",
             "count": 69,
-            "dialogues": 589
+            "dialogues": 589,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 589,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
@@ -2196,9 +2541,11 @@
           {
             "name": "Maleficent II Mistress of Evil",
             "count": 69,
-            "dialogues": 1610
+            "dialogues": 1610,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1610,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
@@ -2211,9 +2558,11 @@
           {
             "name": "Night Moves",
             "count": 69,
-            "dialogues": 1257
+            "dialogues": 1257,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1257,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
@@ -2226,9 +2575,11 @@
           {
             "name": "Lilo and Stitch I",
             "count": 68,
-            "dialogues": 949
+            "dialogues": 949,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 949,
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
@@ -2241,9 +2592,11 @@
           {
             "name": "Rocky IV",
             "count": 68,
-            "dialogues": 957
+            "dialogues": 957,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 957,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
@@ -2256,9 +2609,11 @@
           {
             "name": "Super Mario Bros The Movie",
             "count": 66,
-            "dialogues": 1541
+            "dialogues": 1541,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1541,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
@@ -2271,9 +2626,11 @@
           {
             "name": "Star Wars Episodio V The Empire Strikes Back",
             "count": 65,
-            "dialogues": 1135
+            "dialogues": 1135,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1135,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
@@ -2286,9 +2643,11 @@
           {
             "name": "Thoroughbreds",
             "count": 65,
-            "dialogues": 1220
+            "dialogues": 1220,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1220,
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
@@ -2301,9 +2660,11 @@
           {
             "name": "3 Generations",
             "count": 64,
-            "dialogues": 926
+            "dialogues": 926,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 926,
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
@@ -2316,9 +2677,11 @@
           {
             "name": "Absolution",
             "count": 64,
-            "dialogues": 1249
+            "dialogues": 1249,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1249,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
@@ -2331,9 +2694,11 @@
           {
             "name": "Super Mario Galaxy",
             "count": 59,
-            "dialogues": 1544
+            "dialogues": 1544,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1544,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
@@ -2346,9 +2711,11 @@
           {
             "name": "Maleficent I",
             "count": 58,
-            "dialogues": 1037
+            "dialogues": 1037,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1037,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zYrHQLfUHnuk0XZ6cXBQ6K6RALK.jpg"
@@ -2361,9 +2728,11 @@
           {
             "name": "Star Wars Episodio II Attack of The Clones",
             "count": 57,
-            "dialogues": 1219
+            "dialogues": 1219,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1219,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg"
@@ -2376,9 +2745,11 @@
           {
             "name": "Taken I",
             "count": 57,
-            "dialogues": 885
+            "dialogues": 885,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 885,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
@@ -2391,9 +2762,11 @@
           {
             "name": "Taken III",
             "count": 57,
-            "dialogues": 1435
+            "dialogues": 1435,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1435,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
@@ -2406,9 +2779,11 @@
           {
             "name": "Here Are The Young Men",
             "count": 57,
-            "dialogues": 1061
+            "dialogues": 1061,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1061,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
@@ -2421,9 +2796,11 @@
           {
             "name": "Every Secret Thing",
             "count": 56,
-            "dialogues": 1155
+            "dialogues": 1155,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1155,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
@@ -2436,9 +2813,11 @@
           {
             "name": "Cenicienta",
             "count": 55,
-            "dialogues": 967
+            "dialogues": 967,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 967,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
@@ -2451,9 +2830,11 @@
           {
             "name": "Zootopia+",
             "count": 53,
-            "dialogues": 856
+            "dialogues": 856,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 856,
         "posterUrl": "https://image.tmdb.org/t/p/w500/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg"
@@ -2466,9 +2847,11 @@
           {
             "name": "Please Stand By",
             "count": 51,
-            "dialogues": 1177
+            "dialogues": 1177,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1177,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
@@ -2481,9 +2864,11 @@
           {
             "name": "Morgan",
             "count": 50,
-            "dialogues": 1194
+            "dialogues": 1194,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1194,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
@@ -2496,9 +2881,11 @@
           {
             "name": "All the Bright Places",
             "count": 49,
-            "dialogues": 1166
+            "dialogues": 1166,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1166,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
@@ -2511,9 +2898,11 @@
           {
             "name": "Very Good Girls",
             "count": 49,
-            "dialogues": 1132
+            "dialogues": 1132,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1132,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
@@ -2526,9 +2915,11 @@
           {
             "name": "Harold and The Purple Crayon",
             "count": 47,
-            "dialogues": 1309
+            "dialogues": 1309,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1309,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
@@ -2541,9 +2932,11 @@
           {
             "name": "WALL-E",
             "count": 46,
-            "dialogues": 794
+            "dialogues": 794,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 794,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
@@ -2556,9 +2949,11 @@
           {
             "name": "Sweetness in the Belly",
             "count": 45,
-            "dialogues": 1115
+            "dialogues": 1115,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1115,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
@@ -2571,9 +2966,11 @@
           {
             "name": "Rambo II",
             "count": 44,
-            "dialogues": 439
+            "dialogues": 439,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 439,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
@@ -2586,9 +2983,11 @@
           {
             "name": "The Muppet Show",
             "count": 44,
-            "dialogues": 569
+            "dialogues": 569,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 569,
         "posterUrl": "https://image.tmdb.org/t/p/w500/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg"
@@ -2601,9 +3000,11 @@
           {
             "name": "Marrowbone",
             "count": 41,
-            "dialogues": 940
+            "dialogues": 940,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 940,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
@@ -2615,9 +3016,11 @@
         "episodes": [
           {
             "name": "Lilo and Stitch II",
-            "count": 41
+            "count": 41,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
       },
@@ -2629,9 +3032,11 @@
           {
             "name": "Contrarreloj",
             "count": 40,
-            "dialogues": 1433
+            "dialogues": 1433,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1433,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/yQvjqIvOwpawVZje41Wno365kR.jpg"
@@ -2644,9 +3049,11 @@
           {
             "name": "The Neon Demon",
             "count": 40,
-            "dialogues": 727
+            "dialogues": 727,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 727,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xcfjWEmSpgJe8htlg1qFTwQfPG7.jpg"
@@ -2659,9 +3066,11 @@
           {
             "name": "Minions I",
             "count": 38,
-            "dialogues": 1070
+            "dialogues": 1070,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1070,
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
@@ -2674,9 +3083,11 @@
           {
             "name": "Ginger & Rosa",
             "count": 36,
-            "dialogues": 904
+            "dialogues": 904,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 904,
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
@@ -2689,9 +3100,11 @@
           {
             "name": "The New Mutants",
             "count": 34,
-            "dialogues": 1029
+            "dialogues": 1029,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1029,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
@@ -2704,9 +3117,11 @@
           {
             "name": "GTA San Andreas The Introduction",
             "count": 34,
-            "dialogues": 363
+            "dialogues": 363,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 363,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
@@ -2719,9 +3134,11 @@
           {
             "name": "I Think Were Alone Now",
             "count": 33,
-            "dialogues": 638
+            "dialogues": 638,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 638,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
@@ -2734,9 +3151,11 @@
           {
             "name": "Taken II",
             "count": 33,
-            "dialogues": 938
+            "dialogues": 938,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 938,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
@@ -2749,9 +3168,11 @@
           {
             "name": "Vicious",
             "count": 29,
-            "dialogues": 1123
+            "dialogues": 1123,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1123,
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
@@ -2763,9 +3184,11 @@
         "episodes": [
           {
             "name": "Gambito de Dama (Special Episode)",
-            "count": 28
+            "count": 28,
+            "level": "B2"
           }
-        ]
+        ],
+        "level": "B2"
       },
       {
         "title": "IO",
@@ -2775,9 +3198,11 @@
           {
             "name": "IO",
             "count": 27,
-            "dialogues": 759
+            "dialogues": 759,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 759,
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
@@ -2789,9 +3214,11 @@
         "episodes": [
           {
             "name": "Unknown",
-            "count": 26
+            "count": 26,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
       },
@@ -2803,9 +3230,11 @@
           {
             "name": "Rambo IV",
             "count": 24,
-            "dialogues": 457
+            "dialogues": 457,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 457,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
@@ -2818,9 +3247,11 @@
           {
             "name": "Viena and the Fantomes",
             "count": 24,
-            "dialogues": 912
+            "dialogues": 912,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 912,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
@@ -2833,9 +3264,11 @@
           {
             "name": "The Roads Not Taken",
             "count": 23,
-            "dialogues": 825
+            "dialogues": 825,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 825,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
@@ -2848,9 +3281,11 @@
           {
             "name": "Rambo Last Blood",
             "count": 22,
-            "dialogues": 755
+            "dialogues": 755,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 755,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
@@ -2863,9 +3298,11 @@
           {
             "name": "Rambo III",
             "count": 18,
-            "dialogues": 481
+            "dialogues": 481,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 481,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
@@ -2940,9 +3377,11 @@
         "episodes": [
           {
             "name": "Focus",
-            "count": 269
+            "count": 269,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1587,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
@@ -2954,9 +3393,11 @@
         "episodes": [
           {
             "name": "Barbie",
-            "count": 246
+            "count": 246,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2261,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
@@ -2968,9 +3409,11 @@
         "episodes": [
           {
             "name": "Bombshell",
-            "count": 241
+            "count": 241,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2136,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
@@ -2982,9 +3425,11 @@
         "episodes": [
           {
             "name": "Taylor Swift Miss Americana",
-            "count": 208
+            "count": 208,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1513,
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
@@ -2997,9 +3442,11 @@
           {
             "name": "El Expreso Polar",
             "count": 130,
-            "dialogues": 831
+            "dialogues": 831,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 831,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
@@ -3074,9 +3521,11 @@
         "episodes": [
           {
             "name": "Kim Possible",
-            "count": 1610
+            "count": 1610,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 46771,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
@@ -3089,9 +3538,11 @@
           {
             "name": "Oppenheimer",
             "count": 439,
-            "dialogues": 3707
+            "dialogues": 3707,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3707,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
@@ -3104,9 +3555,11 @@
           {
             "name": "Taylor Swift The Eras Tour Film",
             "count": 387,
-            "dialogues": 3378
+            "dialogues": 3378,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3378,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
@@ -3119,9 +3572,11 @@
           {
             "name": "Titanic",
             "count": 336,
-            "dialogues": 2083
+            "dialogues": 2083,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2083,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg"
@@ -3134,9 +3589,11 @@
           {
             "name": "Aves de Presa",
             "count": 298,
-            "dialogues": 2100
+            "dialogues": 2100,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2100,
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg"
@@ -3149,9 +3606,11 @@
           {
             "name": "Terminal",
             "count": 293,
-            "dialogues": 1511
+            "dialogues": 1511,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1511,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
@@ -3164,9 +3623,11 @@
           {
             "name": "Escuadrón Suicida",
             "count": 286,
-            "dialogues": 1821
+            "dialogues": 1821,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1821,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg"
@@ -3179,9 +3640,11 @@
           {
             "name": "El Escuadrón Suicida",
             "count": 265,
-            "dialogues": 2051
+            "dialogues": 2051,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2051,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LVqiUUQ9YEl2qmccS7R9qxicUI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
@@ -3194,9 +3657,11 @@
           {
             "name": "Ámsterdam",
             "count": 262,
-            "dialogues": 2431
+            "dialogues": 2431,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2431,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
@@ -3209,9 +3674,11 @@
           {
             "name": "Once Upon a Time in Hollywood",
             "count": 257,
-            "dialogues": 2160
+            "dialogues": 2160,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2160,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg"
@@ -3224,9 +3691,11 @@
           {
             "name": "Mary Queen of Scots",
             "count": 227,
-            "dialogues": 1128
+            "dialogues": 1128,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1128,
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
@@ -3239,9 +3708,11 @@
           {
             "name": "Los Increibles",
             "count": 217,
-            "dialogues": 1334
+            "dialogues": 1334,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1334,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
@@ -3254,9 +3725,11 @@
           {
             "name": "Babylon",
             "count": 215,
-            "dialogues": 2232
+            "dialogues": 2232,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2232,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
@@ -3269,9 +3742,11 @@
           {
             "name": "About Time",
             "count": 213,
-            "dialogues": 1898
+            "dialogues": 1898,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1898,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
@@ -3284,9 +3759,11 @@
           {
             "name": "Goodbye Christopher Robin",
             "count": 212,
-            "dialogues": 1786
+            "dialogues": 1786,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1786,
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
@@ -3299,9 +3776,11 @@
           {
             "name": "Rocky II",
             "count": 204,
-            "dialogues": 1818
+            "dialogues": 1818,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1818,
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fYYhjhTzDhk5R7wlVn2iEubxypC.jpg"
@@ -3314,9 +3793,11 @@
           {
             "name": "I-Tonya",
             "count": 203,
-            "dialogues": 1547
+            "dialogues": 1547,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1547,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
@@ -3329,9 +3810,11 @@
           {
             "name": "Rocky I",
             "count": 195,
-            "dialogues": 1818
+            "dialogues": 1818,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1684,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
@@ -3344,9 +3827,11 @@
           {
             "name": "Ratatouille",
             "count": 184,
-            "dialogues": 1339
+            "dialogues": 1339,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1339,
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jQ6Vuxe1CEPMXTF7d0fZgdIBY8U.jpg"
@@ -3359,9 +3844,11 @@
           {
             "name": "Scarface",
             "count": 170,
-            "dialogues": 2264
+            "dialogues": 2264,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2264,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1qM2BYNE11Viby8ImC9LC00DgDr.jpg"
@@ -3374,9 +3861,11 @@
           {
             "name": "Five Nights at Freddy's",
             "count": 165,
-            "dialogues": 1611
+            "dialogues": 1611,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1611,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
@@ -3389,9 +3878,11 @@
           {
             "name": "Toy Story 2",
             "count": 158,
-            "dialogues": 1231
+            "dialogues": 1231,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1231,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7iUDfakacY1HpajP1DtHrCuDB95.jpg"
@@ -3404,9 +3895,11 @@
           {
             "name": "Star Wars Episodio I The Phantom Menace",
             "count": 157,
-            "dialogues": 1646
+            "dialogues": 1646,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1646,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
@@ -3419,9 +3912,11 @@
           {
             "name": "The Legend of Tarzan",
             "count": 148,
-            "dialogues": 922
+            "dialogues": 922,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 922,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
@@ -3434,9 +3929,11 @@
           {
             "name": "Rambo First Blood",
             "count": 138,
-            "dialogues": 936
+            "dialogues": 936,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 936,
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
@@ -3449,9 +3946,11 @@
           {
             "name": "Dreamland",
             "count": 124,
-            "dialogues": 1227
+            "dialogues": 1227,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1227,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
@@ -3464,9 +3963,11 @@
           {
             "name": "Venganza Implacable",
             "count": 122,
-            "dialogues": 1111
+            "dialogues": 1111,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1111,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
@@ -3479,9 +3980,11 @@
           {
             "name": "Toy Story",
             "count": 119,
-            "dialogues": 1231
+            "dialogues": 1231,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1231,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
@@ -3494,9 +3997,11 @@
           {
             "name": "Intensamente 2",
             "count": 114,
-            "dialogues": 2146
+            "dialogues": 2146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2146,
         "posterUrl": "https://image.tmdb.org/t/p/w500/orsGQt5rn7Uznc5Sn5uH5IzXqZN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
@@ -3509,9 +4014,11 @@
           {
             "name": "Intensamente",
             "count": 112,
-            "dialogues": 2146
+            "dialogues": 2146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1378,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg"
@@ -3524,9 +4031,11 @@
           {
             "name": "Monsters Inc",
             "count": 112,
-            "dialogues": 1074
+            "dialogues": 1074,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1074,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
@@ -3539,9 +4048,11 @@
           {
             "name": "Suite Francaise",
             "count": 100,
-            "dialogues": 681
+            "dialogues": 681,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 681,
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
@@ -3554,9 +4065,11 @@
           {
             "name": "Coraline",
             "count": 98,
-            "dialogues": 1293
+            "dialogues": 1293,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1293,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
@@ -3569,9 +4082,11 @@
           {
             "name": "The Truman Show",
             "count": 86,
-            "dialogues": 695
+            "dialogues": 695,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 695,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
@@ -3584,9 +4099,11 @@
           {
             "name": "Z for Zachariah",
             "count": 85,
-            "dialogues": 719
+            "dialogues": 719,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 719,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
@@ -3599,9 +4116,11 @@
           {
             "name": "Olivia Rodrigo driving home 2 u",
             "count": 76,
-            "dialogues": 1042
+            "dialogues": 1042,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1042,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
@@ -3614,9 +4133,11 @@
           {
             "name": "Barbie La Princesa y Estrella de Pop",
             "count": 75,
-            "dialogues": 1118
+            "dialogues": 1118,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1118,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
@@ -3629,9 +4150,11 @@
           {
             "name": "Taylor Swift City of Lover Concert",
             "count": 69,
-            "dialogues": 589
+            "dialogues": 589,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 589,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
@@ -3644,9 +4167,11 @@
           {
             "name": "Star Wars Episodio II Attack of The Clones",
             "count": 57,
-            "dialogues": 1219
+            "dialogues": 1219,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1219,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg"
@@ -3659,9 +4184,11 @@
           {
             "name": "Harold and The Purple Crayon",
             "count": 47,
-            "dialogues": 1309
+            "dialogues": 1309,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1309,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
@@ -3674,9 +4201,11 @@
           {
             "name": "WALL-E",
             "count": 46,
-            "dialogues": 794
+            "dialogues": 794,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 794,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
@@ -3689,9 +4218,11 @@
           {
             "name": "Rambo II",
             "count": 44,
-            "dialogues": 439
+            "dialogues": 439,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 439,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
@@ -3704,9 +4235,11 @@
           {
             "name": "Marrowbone",
             "count": 41,
-            "dialogues": 940
+            "dialogues": 940,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 940,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
@@ -3719,9 +4252,11 @@
           {
             "name": "Contrarreloj",
             "count": 40,
-            "dialogues": 1433
+            "dialogues": 1433,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1433,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/yQvjqIvOwpawVZje41Wno365kR.jpg"
@@ -3734,9 +4269,11 @@
           {
             "name": "The New Mutants",
             "count": 34,
-            "dialogues": 1029
+            "dialogues": 1029,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1029,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
@@ -3749,9 +4286,11 @@
           {
             "name": "Rambo IV",
             "count": 24,
-            "dialogues": 457
+            "dialogues": 457,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 457,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
@@ -3764,9 +4303,11 @@
           {
             "name": "Rambo Last Blood",
             "count": 22,
-            "dialogues": 755
+            "dialogues": 755,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 755,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
@@ -3779,9 +4320,11 @@
           {
             "name": "Rambo III",
             "count": 18,
-            "dialogues": 481
+            "dialogues": 481,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 481,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
@@ -3789,7 +4332,7 @@
     ]
   },
   "2025": {
-    "totalWords": 10999,
+    "totalWords": 10996,
     "uniqueMovies": 64,
     "topWord": {
       "word": "Rely (verb)",
@@ -3856,9 +4399,11 @@
         "episodes": [
           {
             "name": "Kim Possible",
-            "count": 1791
+            "count": 1791,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 46771,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
@@ -3870,13 +4415,16 @@
         "episodes": [
           {
             "name": "The Big Bang Theory (S02EP14-18) (lista defintiva)",
-            "count": 234
+            "count": 234,
+            "level": "B2"
           },
           {
             "name": "The Big Bang Theory",
-            "count": 1475
+            "count": 1475,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 29596,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
@@ -3888,9 +4436,11 @@
         "episodes": [
           {
             "name": "Euphoria",
-            "count": 913
+            "count": 913,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 14926,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
@@ -3903,9 +4453,11 @@
           {
             "name": "The Wolf of Wall Street",
             "count": 426,
-            "dialogues": 3254
+            "dialogues": 3254,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 3254,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
@@ -3917,33 +4469,41 @@
         "episodes": [
           {
             "name": "Gambito de Dama (Episode 1)",
-            "count": 40
+            "count": 40,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 2)",
-            "count": 44
+            "count": 44,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 3)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 4)",
-            "count": 26
+            "count": 26,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 5)",
-            "count": 32
+            "count": 32,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 6)",
-            "count": 38
+            "count": 38,
+            "level": "B2"
           },
           {
             "name": "Gambito de Dama (Episode 7)",
-            "count": 46
+            "count": 46,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 4222,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg"
@@ -3956,9 +4516,11 @@
           {
             "name": "Rango",
             "count": 247,
-            "dialogues": 1307
+            "dialogues": 1307,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1307,
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
@@ -3971,9 +4533,11 @@
           {
             "name": "Cars II",
             "count": 239,
-            "dialogues": 1553
+            "dialogues": 1553,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1553,
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
@@ -3986,9 +4550,11 @@
           {
             "name": "Wonka",
             "count": 239,
-            "dialogues": 2605
+            "dialogues": 2605,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2605,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
@@ -4001,9 +4567,11 @@
           {
             "name": "Emma",
             "count": 204,
-            "dialogues": 1715
+            "dialogues": 1715,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1715,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
@@ -4016,9 +4584,11 @@
           {
             "name": "Cars I",
             "count": 189,
-            "dialogues": 1553
+            "dialogues": 1553,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1553,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
@@ -4031,9 +4601,11 @@
           {
             "name": "Whiskey Tango Foxtrot",
             "count": 184,
-            "dialogues": 1492
+            "dialogues": 1492,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1492,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
@@ -4046,9 +4618,11 @@
           {
             "name": "Slaughterhouse Rulez",
             "count": 183,
-            "dialogues": 1653
+            "dialogues": 1653,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1653,
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
@@ -4061,9 +4635,11 @@
           {
             "name": "The Menu",
             "count": 169,
-            "dialogues": 1732
+            "dialogues": 1732,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1732,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
@@ -4076,9 +4652,11 @@
           {
             "name": "Riesgo Bajo Cero",
             "count": 157,
-            "dialogues": 1359
+            "dialogues": 1359,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1359,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
@@ -4091,9 +4669,11 @@
           {
             "name": "The Naked Gun",
             "count": 139,
-            "dialogues": 1726
+            "dialogues": 1726,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1726,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
@@ -4106,9 +4686,11 @@
           {
             "name": "Playmobil",
             "count": 137,
-            "dialogues": 1734
+            "dialogues": 1734,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1734,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
@@ -4121,27 +4703,14 @@
           {
             "name": "Taylor Swift Folklore The Long Pond Studio Sessions",
             "count": 135,
-            "dialogues": 1554
+            "dialogues": 1554,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1554,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
-      },
-      {
-        "title": "Dream Productions",
-        "count": 125,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Dream Productions",
-            "count": 125,
-            "dialogues": 1513
-          }
-        ],
-        "dialogues": 1513,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -4151,12 +4720,45 @@
           {
             "name": "Kim Possible Todo un Drama",
             "count": 123,
-            "dialogues": 1093
+            "dialogues": 1093,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1093,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
+      },
+      {
+        "title": "Dream Productions",
+        "count": 122,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Dream Productions (Episode 1)",
+            "count": 30,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 2)",
+            "count": 29,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 3)",
+            "count": 51,
+            "level": "B2"
+          },
+          {
+            "name": "Dream Productions (Episode 4)",
+            "count": 12,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "dialogues": 1513,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -4166,9 +4768,11 @@
           {
             "name": "Star Wars Episodio IV A New Hope",
             "count": 121,
-            "dialogues": 1301
+            "dialogues": 1301,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1301,
         "posterUrl": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg"
@@ -4181,9 +4785,11 @@
           {
             "name": "Los Fantasmas de Scrooge",
             "count": 120,
-            "dialogues": 720
+            "dialogues": 720,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 720,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iNLigK4bmzxljsoDUC2Gji4zNJ9.jpg"
@@ -4196,9 +4802,11 @@
           {
             "name": "Buscando a Nemo",
             "count": 119,
-            "dialogues": 1572
+            "dialogues": 1572,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1572,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
@@ -4211,9 +4819,11 @@
           {
             "name": "Bichos Una Aventura en Miniatura",
             "count": 116,
-            "dialogues": 1255
+            "dialogues": 1255,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1255,
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
@@ -4226,9 +4836,11 @@
           {
             "name": "Toy Story III",
             "count": 116,
-            "dialogues": 1245
+            "dialogues": 1245,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1245,
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
@@ -4241,9 +4853,11 @@
           {
             "name": "Top Gun",
             "count": 115,
-            "dialogues": 1395
+            "dialogues": 1395,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1395,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
@@ -4256,9 +4870,11 @@
           {
             "name": "Now is Good",
             "count": 114,
-            "dialogues": 1424
+            "dialogues": 1424,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1424,
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
@@ -4271,9 +4887,11 @@
           {
             "name": "Taylor Swift Reputation Stadium Tour",
             "count": 113,
-            "dialogues": 1935
+            "dialogues": 1935,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1935,
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
@@ -4286,9 +4904,11 @@
           {
             "name": "Rocky III",
             "count": 108,
-            "dialogues": 1177
+            "dialogues": 1177,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1177,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
@@ -4301,9 +4921,11 @@
           {
             "name": "La Sustancia",
             "count": 102,
-            "dialogues": 1467
+            "dialogues": 1467,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1467,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uYJvxMWMb9W4zIY3cbM50sj3dpC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
@@ -4316,9 +4938,11 @@
           {
             "name": "Alvin y las Ardillas",
             "count": 100,
-            "dialogues": 1146
+            "dialogues": 1146,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1146,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
@@ -4331,9 +4955,11 @@
           {
             "name": "Star Wars Episodio III Revenge of the Sith",
             "count": 92,
-            "dialogues": 1101
+            "dialogues": 1101,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1101,
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg"
@@ -4346,9 +4972,11 @@
           {
             "name": "Last Night in Soho",
             "count": 90,
-            "dialogues": 1881
+            "dialogues": 1881,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1881,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
@@ -4361,9 +4989,11 @@
           {
             "name": "Escape de Sobibor",
             "count": 89,
-            "dialogues": 1886
+            "dialogues": 1886,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1886,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w3IGS3gAecPB5dNeQH4926S9PSi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
@@ -4376,9 +5006,11 @@
           {
             "name": "21 Blackjack",
             "count": 88,
-            "dialogues": 1432
+            "dialogues": 1432,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1432,
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
@@ -4391,9 +5023,11 @@
           {
             "name": "American Pastoral",
             "count": 85,
-            "dialogues": 1354
+            "dialogues": 1354,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1354,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
@@ -4406,9 +5040,11 @@
           {
             "name": "Star Wars Episodio VI Return of the Jedi",
             "count": 85,
-            "dialogues": 1005
+            "dialogues": 1005,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1005,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
@@ -4421,9 +5057,11 @@
           {
             "name": "Galveston",
             "count": 84,
-            "dialogues": 1050
+            "dialogues": 1050,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1050,
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
@@ -4436,9 +5074,11 @@
           {
             "name": "El Padrino I",
             "count": 83,
-            "dialogues": 1483
+            "dialogues": 1483,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1483,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg"
@@ -4451,9 +5091,11 @@
           {
             "name": "Teen Spirit",
             "count": 82,
-            "dialogues": 1423
+            "dialogues": 1423,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1423,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
@@ -4466,9 +5108,11 @@
           {
             "name": "Split",
             "count": 81,
-            "dialogues": 1272
+            "dialogues": 1272,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1272,
         "posterUrl": "https://image.tmdb.org/t/p/w500/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
@@ -4481,9 +5125,11 @@
           {
             "name": "A Nonsense Christmas with Sabrina Carpenter",
             "count": 80,
-            "dialogues": 914
+            "dialogues": 914,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 914,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
@@ -4496,9 +5142,11 @@
           {
             "name": "Non-stop",
             "count": 79,
-            "dialogues": 1511
+            "dialogues": 1511,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1511,
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
@@ -4511,9 +5159,11 @@
           {
             "name": "Cuckoo",
             "count": 75,
-            "dialogues": 1033
+            "dialogues": 1033,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1033,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
@@ -4526,9 +5176,11 @@
           {
             "name": "Olivia Rodrigo Guts World Tour",
             "count": 74,
-            "dialogues": 1663
+            "dialogues": 1663,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1663,
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
@@ -4541,9 +5193,11 @@
           {
             "name": "The Runaways",
             "count": 72,
-            "dialogues": 1013
+            "dialogues": 1013,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1013,
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
@@ -4556,9 +5210,11 @@
           {
             "name": "The Watchers",
             "count": 70,
-            "dialogues": 1390
+            "dialogues": 1390,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1390,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
@@ -4571,9 +5227,11 @@
           {
             "name": "Lilo and Stitch I",
             "count": 68,
-            "dialogues": 949
+            "dialogues": 949,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 949,
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
@@ -4586,9 +5244,11 @@
           {
             "name": "Rocky IV",
             "count": 68,
-            "dialogues": 957
+            "dialogues": 957,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 957,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
@@ -4601,9 +5261,11 @@
           {
             "name": "Super Mario Bros The Movie",
             "count": 66,
-            "dialogues": 1541
+            "dialogues": 1541,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1541,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
@@ -4616,9 +5278,11 @@
           {
             "name": "Star Wars Episodio V The Empire Strikes Back",
             "count": 65,
-            "dialogues": 1135
+            "dialogues": 1135,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1135,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
@@ -4631,9 +5295,11 @@
           {
             "name": "Thoroughbreds",
             "count": 65,
-            "dialogues": 1220
+            "dialogues": 1220,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1220,
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
@@ -4646,9 +5312,11 @@
           {
             "name": "3 Generations",
             "count": 64,
-            "dialogues": 926
+            "dialogues": 926,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 926,
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
@@ -4661,9 +5329,11 @@
           {
             "name": "Taken I",
             "count": 57,
-            "dialogues": 885
+            "dialogues": 885,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 885,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
@@ -4676,9 +5346,11 @@
           {
             "name": "Taken III",
             "count": 57,
-            "dialogues": 1435
+            "dialogues": 1435,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1435,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
@@ -4691,9 +5363,11 @@
           {
             "name": "Please Stand By",
             "count": 51,
-            "dialogues": 1177
+            "dialogues": 1177,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1177,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
@@ -4706,9 +5380,11 @@
           {
             "name": "All the Bright Places",
             "count": 49,
-            "dialogues": 1166
+            "dialogues": 1166,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1166,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
@@ -4721,9 +5397,11 @@
           {
             "name": "Very Good Girls",
             "count": 49,
-            "dialogues": 1132
+            "dialogues": 1132,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1132,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
@@ -4736,9 +5414,11 @@
           {
             "name": "The Neon Demon",
             "count": 40,
-            "dialogues": 727
+            "dialogues": 727,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 727,
         "posterUrl": "https://image.tmdb.org/t/p/w500/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xcfjWEmSpgJe8htlg1qFTwQfPG7.jpg"
@@ -4751,9 +5431,11 @@
           {
             "name": "I Think Were Alone Now",
             "count": 33,
-            "dialogues": 638
+            "dialogues": 638,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 638,
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
@@ -4766,9 +5448,11 @@
           {
             "name": "Taken II",
             "count": 33,
-            "dialogues": 938
+            "dialogues": 938,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 938,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
@@ -4781,9 +5465,11 @@
           {
             "name": "Vicious",
             "count": 29,
-            "dialogues": 1123
+            "dialogues": 1123,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1123,
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
@@ -4795,9 +5481,11 @@
         "episodes": [
           {
             "name": "Gambito de Dama (Special Episode)",
-            "count": 28
+            "count": 28,
+            "level": "B2"
           }
-        ]
+        ],
+        "level": "B2"
       },
       {
         "title": "Viena and the Fantomes",
@@ -4807,9 +5495,11 @@
           {
             "name": "Viena and the Fantomes",
             "count": 24,
-            "dialogues": 912
+            "dialogues": 912,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 912,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
@@ -4822,9 +5512,11 @@
           {
             "name": "The Roads Not Taken",
             "count": 23,
-            "dialogues": 825
+            "dialogues": 825,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 825,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
@@ -4832,7 +5524,7 @@
     ]
   },
   "2026": {
-    "totalWords": 11700,
+    "totalWords": 11705,
     "uniqueMovies": 61,
     "topWord": {
       "word": "Landlord",
@@ -4899,9 +5591,11 @@
         "episodes": [
           {
             "name": "The Big Bang Theory",
-            "count": 3024
+            "count": 3024,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 29596,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
@@ -4913,9 +5607,11 @@
         "episodes": [
           {
             "name": "Kim Possible",
-            "count": 1006
+            "count": 1006,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 46771,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
@@ -4927,61 +5623,76 @@
         "episodes": [
           {
             "name": "Pan Am (Episode 1)",
-            "count": 65
+            "count": 65,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 2)",
-            "count": 48
+            "count": 48,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 3)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 4)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 5)",
-            "count": 74
+            "count": 74,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 6)",
-            "count": 68
+            "count": 68,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 7)",
-            "count": 61
+            "count": 61,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 8)",
-            "count": 38
+            "count": 38,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 9)",
-            "count": 73
+            "count": 73,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 10)",
-            "count": 45
+            "count": 45,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 11)",
-            "count": 62
+            "count": 62,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 12)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 13)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "Pan Am (Episode 14)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 11749,
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
@@ -4993,45 +5704,56 @@
         "episodes": [
           {
             "name": "Maid (Episode 1)",
-            "count": 57
+            "count": 57,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 2)",
-            "count": 62
+            "count": 62,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 3)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 4)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 5)",
-            "count": 52
+            "count": 52,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 6)",
-            "count": 86
+            "count": 86,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 7)",
-            "count": 67
+            "count": 67,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 8)",
-            "count": 65
+            "count": 65,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 9)",
-            "count": 71
+            "count": 71,
+            "level": "B2"
           },
           {
             "name": "Maid (Episode 10)",
-            "count": 66
+            "count": 66,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 7421,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
@@ -5043,37 +5765,46 @@
         "episodes": [
           {
             "name": "All Her Fault (Episode 1)",
-            "count": 54
+            "count": 54,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 2)",
-            "count": 46
+            "count": 46,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 3)",
-            "count": 56
+            "count": 56,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 4)",
-            "count": 59
+            "count": 59,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 5)",
-            "count": 41
+            "count": 41,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 6)",
-            "count": 53
+            "count": 53,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 7)",
-            "count": 33
+            "count": 33,
+            "level": "B2"
           },
           {
             "name": "All Her Fault (Episode 8)",
-            "count": 31
+            "count": 31,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 8438,
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
@@ -5085,37 +5816,46 @@
         "episodes": [
           {
             "name": "The Girl From Plainville (Episode 1)",
-            "count": 30
+            "count": 30,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 2)",
-            "count": 30
+            "count": 30,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 3)",
-            "count": 36
+            "count": 36,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 4)",
-            "count": 35
+            "count": 35,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 5)",
-            "count": 25
+            "count": 25,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 6)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 7)",
-            "count": 35
+            "count": 35,
+            "level": "B2"
           },
           {
             "name": "The Girl From Plainville (Episode 8)",
-            "count": 34
+            "count": 34,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
       },
@@ -5126,29 +5866,36 @@
         "episodes": [
           {
             "name": "The Perfect Couple (Episode 1)",
-            "count": 43
+            "count": 43,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 2)",
-            "count": 42
+            "count": 42,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 3)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 4)",
-            "count": 24
+            "count": 24,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 5)",
-            "count": 48
+            "count": 48,
+            "level": "B2"
           },
           {
             "name": "The Perfect Couple (Episode 6)",
-            "count": 47
+            "count": 47,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 4154,
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
@@ -5161,9 +5908,11 @@
           {
             "name": "A Rainy Day in New York",
             "count": 211,
-            "dialogues": 2161
+            "dialogues": 2161,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2161,
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3C6hamStn5HHTNmGmXmmGKHFWhT.jpg"
@@ -5176,9 +5925,11 @@
           {
             "name": "Family Switch",
             "count": 201,
-            "dialogues": 2023
+            "dialogues": 2023,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2023,
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
@@ -5191,9 +5942,11 @@
           {
             "name": "A Complete Unknown",
             "count": 200,
-            "dialogues": 2351
+            "dialogues": 2351,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2351,
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
@@ -5206,9 +5959,11 @@
           {
             "name": "A Minecraft Movie",
             "count": 185,
-            "dialogues": 2008
+            "dialogues": 2008,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2008,
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
@@ -5221,9 +5976,11 @@
           {
             "name": "Love Actually",
             "count": 180,
-            "dialogues": 2240
+            "dialogues": 2240,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2240,
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
@@ -5236,9 +5993,11 @@
           {
             "name": "Orgullo y Prejuicio",
             "count": 179,
-            "dialogues": 1263
+            "dialogues": 1263,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1263,
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
@@ -5251,9 +6010,11 @@
           {
             "name": "Zootopia I",
             "count": 177,
-            "dialogues": 2290
+            "dialogues": 2290,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2290,
         "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg"
@@ -5266,9 +6027,11 @@
           {
             "name": "Schindler's List",
             "count": 164,
-            "dialogues": 2420
+            "dialogues": 2420,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2420,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
@@ -5281,9 +6044,11 @@
           {
             "name": "Interestellar",
             "count": 158,
-            "dialogues": 1996
+            "dialogues": 1996,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1996,
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg"
@@ -5296,9 +6061,11 @@
           {
             "name": "Taylor Swift - The Eras Tour Film The Final Show",
             "count": 155,
-            "dialogues": 2836
+            "dialogues": 2836,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2836,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
@@ -5311,9 +6078,11 @@
           {
             "name": "Marlowe",
             "count": 153,
-            "dialogues": 1762
+            "dialogues": 1762,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1762,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
@@ -5326,9 +6095,11 @@
           {
             "name": "Work It",
             "count": 141,
-            "dialogues": 1745
+            "dialogues": 1745,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1745,
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
@@ -5341,9 +6112,11 @@
           {
             "name": "Home",
             "count": 138,
-            "dialogues": 853
+            "dialogues": 853,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 853,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
@@ -5356,9 +6129,11 @@
           {
             "name": "Tall Girl I",
             "count": 138,
-            "dialogues": 1846
+            "dialogues": 1846,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1846,
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
@@ -5371,9 +6146,11 @@
           {
             "name": "Effie Gray",
             "count": 131,
-            "dialogues": 1108
+            "dialogues": 1108,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1108,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
@@ -5386,9 +6163,11 @@
           {
             "name": "Blacklight",
             "count": 127,
-            "dialogues": 1701
+            "dialogues": 1701,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1701,
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
@@ -5401,9 +6180,11 @@
           {
             "name": "Taylor Swift The 1989 World Tour",
             "count": 121,
-            "dialogues": 2515
+            "dialogues": 2515,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2515,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
@@ -5416,9 +6197,11 @@
           {
             "name": "The Witch",
             "count": 121,
-            "dialogues": 947
+            "dialogues": 947,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 947,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
@@ -5431,9 +6214,11 @@
           {
             "name": "Cars III",
             "count": 119,
-            "dialogues": 1697
+            "dialogues": 1697,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1697,
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
@@ -5446,9 +6231,11 @@
           {
             "name": "Michael (lista definitiva)",
             "count": 108,
-            "dialogues": 2380
+            "dialogues": 2380,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2380,
         "posterUrl": "https://image.tmdb.org/t/p/w500/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
@@ -5461,9 +6248,11 @@
           {
             "name": "An American Girl - Grace Stirs Up Success",
             "count": 101,
-            "dialogues": 1781
+            "dialogues": 1781,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1781,
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
@@ -5476,9 +6265,11 @@
           {
             "name": "How to Make a Killing",
             "count": 101,
-            "dialogues": 1945
+            "dialogues": 1945,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1945,
         "posterUrl": "https://image.tmdb.org/t/p/w500/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
@@ -5491,9 +6282,11 @@
           {
             "name": "The Commuter",
             "count": 95,
-            "dialogues": 1526
+            "dialogues": 1526,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1526,
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
@@ -5506,12 +6299,54 @@
           {
             "name": "Five Nights at Freddy's II",
             "count": 94,
-            "dialogues": 1602
+            "dialogues": 1602,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1602,
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
+      },
+      {
+        "title": "Obi-Wan Kenobi",
+        "count": 94,
+        "type": "series",
+        "episodes": [
+          {
+            "name": "Obi-Wan Kenobi (Part I)",
+            "count": 23,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part II)",
+            "count": 14,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part III)",
+            "count": 17,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part IV)",
+            "count": 12,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part V)",
+            "count": 17,
+            "level": "B2"
+          },
+          {
+            "name": "Obi-Wan Kenobi (Part VI)",
+            "count": 11,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
       {
         "title": "Tall Girl II",
@@ -5521,9 +6356,11 @@
           {
             "name": "Tall Girl II",
             "count": 94,
-            "dialogues": 1899
+            "dialogues": 1899,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1899,
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
@@ -5536,9 +6373,11 @@
           {
             "name": "La Bella Durmiente",
             "count": 93,
-            "dialogues": 1142
+            "dialogues": 1142,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1142,
         "posterUrl": "https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
@@ -5551,9 +6390,11 @@
           {
             "name": "The Vanishing of Sidney Hall",
             "count": 93,
-            "dialogues": 1887
+            "dialogues": 1887,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1887,
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
@@ -5566,27 +6407,14 @@
           {
             "name": "Jojo Rabbit",
             "count": 91,
-            "dialogues": 1759
+            "dialogues": 1759,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1759,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
-      },
-      {
-        "title": "Obi-Wan Kenobi",
-        "count": 89,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "Obi-Wan Kenobi",
-            "count": 89,
-            "dialogues": 2439
-          }
-        ],
-        "dialogues": 2439,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
       {
         "title": "Glass",
@@ -5596,9 +6424,11 @@
           {
             "name": "Glass",
             "count": 87,
-            "dialogues": 1286
+            "dialogues": 1286,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1286,
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
@@ -5611,9 +6441,11 @@
           {
             "name": "20th Century Women",
             "count": 80,
-            "dialogues": 1572
+            "dialogues": 1572,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1572,
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
@@ -5626,9 +6458,11 @@
           {
             "name": "Barry",
             "count": 80,
-            "dialogues": 1285
+            "dialogues": 1285,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1285,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
@@ -5641,9 +6475,11 @@
           {
             "name": "Leave No Trace",
             "count": 75,
-            "dialogues": 1001
+            "dialogues": 1001,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1001,
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
@@ -5656,9 +6492,11 @@
           {
             "name": "Ordinary Love",
             "count": 74,
-            "dialogues": 1045
+            "dialogues": 1045,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1045,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
@@ -5671,9 +6509,11 @@
           {
             "name": "The Motel Life",
             "count": 73,
-            "dialogues": 973
+            "dialogues": 973,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 973,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
@@ -5686,9 +6526,11 @@
           {
             "name": "A Big Bold Beautiful Journey",
             "count": 70,
-            "dialogues": 1690
+            "dialogues": 1690,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1690,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
@@ -5701,9 +6543,11 @@
           {
             "name": "Toy Story IV",
             "count": 70,
-            "dialogues": 2071
+            "dialogues": 2071,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 2071,
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
@@ -5716,9 +6560,11 @@
           {
             "name": "Maleficent II Mistress of Evil",
             "count": 69,
-            "dialogues": 1610
+            "dialogues": 1610,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1610,
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
@@ -5731,9 +6577,11 @@
           {
             "name": "Night Moves",
             "count": 69,
-            "dialogues": 1257
+            "dialogues": 1257,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1257,
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
@@ -5746,9 +6594,11 @@
           {
             "name": "Super Mario Galaxy",
             "count": 59,
-            "dialogues": 1544
+            "dialogues": 1544,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1544,
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
@@ -5761,9 +6611,11 @@
           {
             "name": "Maleficent I",
             "count": 58,
-            "dialogues": 1037
+            "dialogues": 1037,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1037,
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zYrHQLfUHnuk0XZ6cXBQ6K6RALK.jpg"
@@ -5776,9 +6628,11 @@
           {
             "name": "Here Are The Young Men",
             "count": 57,
-            "dialogues": 1061
+            "dialogues": 1061,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1061,
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
@@ -5791,9 +6645,11 @@
           {
             "name": "Every Secret Thing",
             "count": 56,
-            "dialogues": 1155
+            "dialogues": 1155,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1155,
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
@@ -5806,9 +6662,11 @@
           {
             "name": "Cenicienta",
             "count": 55,
-            "dialogues": 967
+            "dialogues": 967,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 967,
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
@@ -5821,9 +6679,11 @@
           {
             "name": "Zootopia+",
             "count": 53,
-            "dialogues": 856
+            "dialogues": 856,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 856,
         "posterUrl": "https://image.tmdb.org/t/p/w500/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg"
@@ -5836,9 +6696,11 @@
           {
             "name": "Morgan",
             "count": 50,
-            "dialogues": 1194
+            "dialogues": 1194,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1194,
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
@@ -5851,9 +6713,11 @@
           {
             "name": "Sweetness in the Belly",
             "count": 45,
-            "dialogues": 1115
+            "dialogues": 1115,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1115,
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
@@ -5866,9 +6730,11 @@
           {
             "name": "The Muppet Show",
             "count": 44,
-            "dialogues": 569
+            "dialogues": 569,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 569,
         "posterUrl": "https://image.tmdb.org/t/p/w500/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg"
@@ -5880,9 +6746,11 @@
         "episodes": [
           {
             "name": "Lilo and Stitch II",
-            "count": 41
+            "count": 41,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
       },
@@ -5894,9 +6762,11 @@
           {
             "name": "Minions I",
             "count": 38,
-            "dialogues": 1070
+            "dialogues": 1070,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1070,
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
@@ -5909,9 +6779,11 @@
           {
             "name": "Ginger & Rosa",
             "count": 36,
-            "dialogues": 904
+            "dialogues": 904,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 904,
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
@@ -5924,9 +6796,11 @@
           {
             "name": "GTA San Andreas The Introduction",
             "count": 34,
-            "dialogues": 363
+            "dialogues": 363,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 363,
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
@@ -5939,9 +6813,11 @@
           {
             "name": "IO",
             "count": 27,
-            "dialogues": 759
+            "dialogues": 759,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 759,
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
@@ -5953,9 +6829,11 @@
         "episodes": [
           {
             "name": "Unknown",
-            "count": 26
+            "count": 26,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
       }
@@ -6030,9 +6908,11 @@
           {
             "name": "Absolution",
             "count": 64,
-            "dialogues": 1249
+            "dialogues": 1249,
+            "level": "B2"
           }
         ],
+        "level": "B2",
         "dialogues": 1249,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
@@ -6052,12 +6932,12 @@
     },
     {
       "year": "2025",
-      "words": 10999,
+      "words": 10996,
       "dialogues": 133436
     },
     {
       "year": "2026",
-      "words": 11700,
+      "words": 11705,
       "dialogues": 160657
     },
     {

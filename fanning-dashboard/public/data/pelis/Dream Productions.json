@@ -1,522 +1,551 @@
 {
   "title": "Dream Productions",
-  "englishAnalysis": "Extensión del universo de Intensamente. Lenguaje veloz, caricaturesco y enfocado en dinámicas de estudio cinematográfico y emociones abstractas.",
-  "vocabulary": [
-    {
-      "word": "Episode 1",
-      "translation": "The Dream Team (30 words/phrases)"
-    },
-    {
-      "word": "And cue glitter",
-      "translation": "y que empiece la purpurina"
-    },
-    {
-      "word": "Swell (verbo en sonidos)",
-      "translation": "sonar, subir"
-    },
-    {
-      "word": "Cue (verbo en términos de cine)",
-      "translation": "comenzar, empezar, entrar, señalar"
-    },
-    {
-      "word": "Back-to-back",
-      "translation": "consecutivo, seguido"
-    },
-    {
-      "word": "Flunked",
-      "translation": "reprobado"
-    },
-    {
-      "word": "Let's glitter it up a bit",
-      "translation": "vamos a darle un poco de brillo"
-    },
-    {
-      "word": "You own that classroom",
-      "translation": "esa clase es tuya"
-    },
-    {
-      "word": "Pacifier",
-      "translation": "chupete, chupón"
-    },
-    {
-      "word": "As for me",
-      "translation": "en cuanto a mí, en lo que a mí me respecta"
-    },
-    {
-      "word": "Faded",
-      "translation": "descolorido, desteñido"
-    },
-    {
-      "word": "My track record",
-      "translation": "mi trayectoria, mi historial"
-    },
-    {
-      "word": "Prop",
-      "translation": "atrezzo, utilería"
-    },
-    {
-      "word": "Charm (sustantivo)",
-      "translation": "amuleto"
-    },
-    {
-      "word": "Tray",
-      "translation": "bandeja"
-    },
-    {
-      "word": "Fungal network",
-      "translation": "red de hongos"
-    },
-    {
-      "word": "Shoot (en cine)",
-      "translation": "rodaje"
-    },
-    {
-      "word": "How could I when she wasn't even asleep?",
-      "translation": "¿Cómo iba a hacerlo si ni siquiera estaba"
-    },
-    {
-      "word": "Wake-ups",
-      "translation": "despertares"
-    },
-    {
-      "word": "Tapping into what preteens are all about",
-      "translation": "aprovechando lo que les gusta a los"
-    },
-    {
-      "word": "Snatch away",
-      "translation": "arrebatar"
-    },
-    {
-      "word": "Kiddie",
-      "translation": "infantil"
-    },
-    {
-      "word": "Worst crapes",
-      "translation": "peores aprietos, peores apuros"
-    },
-    {
-      "word": "I've always pulled through",
-      "translation": "siempre he salido adelante"
-    },
-    {
-      "word": "Clam",
-      "translation": "almeja"
-    },
-    {
-      "word": "Huddle up",
-      "translation": "acurrucarse, amontonarse"
-    },
-    {
-      "word": "Quilt",
-      "translation": "colcha, edredón"
-    },
-    {
-      "word": "Camera tilt",
-      "translation": "cámara inclinada"
-    },
-    {
-      "word": "Shaky",
-      "translation": "tembloroso"
-    },
-    {
-      "word": "Clamshell",
-      "translation": "concha de almeja"
-    },
-    {
-      "word": "Cue (sustantivo)",
-      "translation": "señal, entrada"
-    },
-    {
-      "word": "Episode 2",
-      "translation": "Out of Body! (29 words/phrases)"
-    },
-    {
-      "word": "Wake-ups",
-      "translation": "despertares"
-    },
-    {
-      "word": "Bin",
-      "translation": "papelera, contenedor de basura"
-    },
-    {
-      "word": "Skunk",
-      "translation": "mofeta"
-    },
-    {
-      "word": "Showcase (verbo)",
-      "translation": "mostrar, exhibir"
-    },
-    {
-      "word": "Subvert (verbo)",
-      "translation": "subvertir, derribar"
-    },
-    {
-      "word": "Abuzz",
-      "translation": "alborotado"
-    },
-    {
-      "word": "Jupsuit",
-      "translation": "mameluco"
-    },
-    {
-      "word": "Prop",
-      "translation": "atrezzo, utilería"
-    },
-    {
-      "word": "Very hip",
-      "translation": "muy moderno, muy a la moda"
-    },
-    {
-      "word": "Get back to",
-      "translation": "responder (un mensaje o correo electrónico)"
-    },
-    {
-      "word": "Wheatgrass",
-      "translation": "hierba de trigo"
-    },
-    {
-      "word": "We are going to be making a hip, cool, off-the-chain, rad, bodacious dream!",
-      "translation": "¡Vamos a"
-    },
-    {
-      "word": "Overly (adverbio)",
-      "translation": "excesivamente, demasiado"
-    },
-    {
-      "word": "Enlighten (verbo)",
-      "translation": "iluminar, aclarar"
-    },
-    {
-      "word": "Assistant Director (AD)",
-      "translation": "asistente del director, subdirector"
-    },
-    {
-      "word": "Going handheld!",
-      "translation": "¡A la mano!"
-    },
-    {
-      "word": "Bourgeois",
-      "translation": "burgués"
-    },
-    {
-      "word": "I deserve to be downsized",
-      "translation": "merezco que me reduzcan"
-    },
-    {
-      "word": "In this ill-conceived sludge bucket of a dream",
-      "translation": "en esta mal concebida cubeta de lodo"
-    },
-    {
-      "word": "He's a crank pot",
-      "translation": "él es una olla de manivela"
-    },
-    {
-      "word": "I counter my firing by tendering my resignation",
-      "translation": "me opongo a mi despido presentando"
-    },
-    {
-      "word": "Pointy-headed",
-      "translation": "de cabeza puntiaguda"
-    },
-    {
-      "word": "My shot list (en términos cinematográficos)",
-      "translation": "mi lista de tomas"
-    },
-    {
-      "word": "Meemaw",
-      "translation": "abuelita"
-    },
-    {
-      "word": "Let's check in after this",
-      "translation": "revisemos después de esto"
-    },
-    {
-      "word": "Cue (verbo en términos de cine)",
-      "translation": "comenzar, empezar, entrar, señalar"
-    },
-    {
-      "word": "Stumble (verbo)",
-      "translation": "tropezar"
-    },
-    {
-      "word": "On a roll",
-      "translation": "en marcha"
-    },
-    {
-      "word": "Did you catch Janelle's dream last night?",
-      "translation": "¿Viste el sueño de Janelle anoche?"
-    },
-    {
-      "word": "Episode 3",
-      "translation": "Romance! (52 words/phrases)"
-    },
-    {
-      "word": "Come to simmer, to steep, to brew into maturity",
-      "translation": "se cuecen a fuego lento, se empinan"
-    },
-    {
-      "word": "A septum ring",
-      "translation": "un anillo de tabique"
-    },
-    {
-      "word": "Envision (verbo)",
-      "translation": "prever, vislumbrar, visualizar"
-    },
-    {
-      "word": "Affogato (informal)",
-      "translation": "café"
-    },
-    {
-      "word": "I'm feeling sort of out of touch with our girl",
-      "translation": "me siento un poco fuera de contacto"
-    },
-    {
-      "word": "He flipped when we pitched it to her",
-      "translation": "enloqueció cuando se lo propusimos"
-    },
-    {
-      "word": "Pitch (verbo)",
-      "translation": "lanzar"
-    },
-    {
-      "word": "My brain isn't braining",
-      "translation": "mi cerebro no funciona"
-    },
-    {
-      "word": "Kick off",
-      "translation": "poner en marcha, iniciar, empezar"
-    },
-    {
-      "word": "Rapid Eye Movement (REM)",
-      "translation": "movimientos oculares rápidos"
-    },
-    {
-      "word": "Wherefore (en inglés antiguo)",
-      "translation": "dónde (equivalente a where en inglés contemporáneo)"
-    },
-    {
-      "word": "Drapes",
-      "translation": "cortinas, paños"
-    },
-    {
-      "word": "Push-in",
-      "translation": "empujón"
-    },
-    {
-      "word": "Cue slo-mo",
-      "translation": "entra en cámara lenta"
-    },
-    {
-      "word": "Fib (verbo)",
-      "translation": "mentir"
-    },
-    {
-      "word": "A comeback story",
-      "translation": "la historia de un regreso"
-    },
-    {
-      "word": "Cast (verbo)",
-      "translation": "elegir (para un elenco)"
-    },
-    {
-      "word": "I'm so pumped for her",
-      "translation": "estoy tan emocionada por ella"
-    },
-    {
-      "word": "Persimmon",
-      "translation": "caqui"
-    },
-    {
-      "word": "She got her bungalow back",
-      "translation": "ella recuperó su cabaña"
-    },
-    {
-      "word": "Invigoriated",
-      "translation": "invigoriado"
-    },
-    {
-      "word": "Post-snooze alarm",
-      "translation": "alarma tras la siesta"
-    },
-    {
-      "word": "Steer (verbo)",
-      "translation": "dirigir, conducir"
-    },
-    {
-      "word": "Artistic stake",
-      "translation": "apuesta artística"
-    },
-    {
-      "word": "Buck",
-      "translation": "culpa, responsabilidad"
-    },
-    {
-      "word": "Diaper",
-      "translation": "pañal"
-    },
-    {
-      "word": "A rom-com",
-      "translation": "una comedia romántica"
-    },
-    {
-      "word": "Sort of stagnant",
-      "translation": "algo estancado"
-    },
-    {
-      "word": "An absolute clockbuster",
-      "translation": "una auténtica bomba de relojería"
-    },
-    {
-      "word": "Trusty",
-      "translation": "fiel"
-    },
-    {
-      "word": "A few klicks away",
-      "translation": "a pocos kilómetros/klicks de distancia"
-    },
-    {
-      "word": "That bitternut hickory",
-      "translation": "ese nogal americano"
-    },
-    {
-      "word": "Hemlock",
-      "translation": "cicuta"
-    },
-    {
-      "word": "Bur oak",
-      "translation": "roble rojo, quejigo"
-    },
-    {
-      "word": "Spruce",
-      "translation": "abeto"
-    },
-    {
-      "word": "Basswood",
-      "translation": "tilo americano"
-    },
-    {
-      "word": "Malaise",
-      "translation": "malestar"
-    },
-    {
-      "word": "And throw in a hint of acne-shame",
-      "translation": "y añade una pizca de acné-vergüenza"
-    },
-    {
-      "word": "Hike the stacks with me",
-      "translation": "recorre las pilas conmigo"
-    },
-    {
-      "word": "Icing",
-      "translation": "guinda"
-    },
-    {
-      "word": "A love hex-angle",
-      "translation": "un hexágono amoroso"
-    },
-    {
-      "word": "Dawdle (verbo)",
-      "translation": "perder el tiempo, entretenerse"
-    },
-    {
-      "word": "Clingy",
-      "translation": "apegado, pegajoso"
-    },
-    {
-      "word": "Gravy and cheese curds",
-      "translation": "salsa y cuajadas de queso"
-    },
-    {
-      "word": "Speed bump",
-      "translation": "badén"
-    },
-    {
-      "word": "Sleepwalking",
-      "translation": "sonambulismo"
-    },
-    {
-      "word": "At our first time at bat",
-      "translation": "en nuestra primera vez al bate"
-    },
-    {
-      "word": "Roll over",
-      "translation": "dar la vuelta"
-    },
-    {
-      "word": "A rolling buck",
-      "translation": "un ciervo rodante"
-    },
-    {
-      "word": "You're dismissed",
-      "translation": "estás despedido, puedes retirarte"
-    },
-    {
-      "word": "ever had",
-      "translation": "el sueño más ingenioso, transformador, epifánico y lleno de arco iris que"
-    },
-    {
-      "word": "Episode 4",
-      "translation": "A Night to Remember (12 words/phrases)"
-    },
-    {
-      "word": "Sleepwalker",
-      "translation": "sonámbulo"
-    },
-    {
-      "word": "No flourishes",
-      "translation": "sin florituras"
-    },
-    {
-      "word": "A hip edge",
-      "translation": "un toque moderno"
-    },
-    {
-      "word": "Don't thank me for the leash you're all on",
-      "translation": "no me den las gracias por la correa que"
-    },
-    {
-      "word": "Flesh-eating penguins",
-      "translation": "pingüinos carnívoros"
-    },
-    {
-      "word": "Beckon (verbo)",
-      "translation": "llamar (una cosa)"
-    },
-    {
-      "word": "Throng",
-      "translation": "multitud"
-    },
-    {
-      "word": "Childish",
-      "translation": "infantil"
-    },
-    {
-      "word": "Drawn-out, self-serving apology",
-      "translation": "disculpa prolongada y desinteresada"
-    },
-    {
-      "word": "We have clearance up there",
-      "translation": "tenemos espacio libre ahí arriba"
-    },
-    {
-      "word": "Clam",
-      "translation": "almeja"
-    },
-    {
-      "word": "Cloister the oyster!",
-      "translation": "¡Encubre la ostra!"
+  "englishAnalysis": "El vocabulario de Dream Productions destaca por su jerga relacionada a la producción audiovisual (guiones, cámaras, dirección), expresiones preadolescentes, y términos del entorno laboral hiperactivo.",
+  "episodes": [
+    {
+      "name": "Dream Productions (Episode 1)",
+      "count": 30,
+      "vocabulary": [
+        {
+          "word": "And cue glitter",
+          "translation": "y que empiece la purpurina"
+        },
+        {
+          "word": "Swell (verbo en sonidos)",
+          "translation": "sonar, subir"
+        },
+        {
+          "word": "Cue (verbo en términos de cine)",
+          "translation": "comenzar, empezar, entrar, señalar"
+        },
+        {
+          "word": "Back-to-back",
+          "translation": "consecutivo, seguido"
+        },
+        {
+          "word": "Flunked",
+          "translation": "reprobado"
+        },
+        {
+          "word": "Let's glitter it up a bit",
+          "translation": "vamos a darle un poco de brillo"
+        },
+        {
+          "word": "You own that classroom",
+          "translation": "esa clase es tuya"
+        },
+        {
+          "word": "Pacifier",
+          "translation": "chupete, chupón"
+        },
+        {
+          "word": "As for me",
+          "translation": "en cuanto a mí, en lo que a mí me respecta"
+        },
+        {
+          "word": "Faded",
+          "translation": "descolorido, desteñido"
+        },
+        {
+          "word": "My track record",
+          "translation": "mi trayectoria, mi historial"
+        },
+        {
+          "word": "Prop",
+          "translation": "atrezzo, utilería"
+        },
+        {
+          "word": "Charm (sustantivo)",
+          "translation": "amuleto"
+        },
+        {
+          "word": "Tray",
+          "translation": "bandeja"
+        },
+        {
+          "word": "Fungal network",
+          "translation": "red de hongos"
+        },
+        {
+          "word": "Shoot (en cine)",
+          "translation": "rodaje"
+        },
+        {
+          "word": "How could I when she wasn't even asleep?",
+          "translation": "¿Cómo iba a hacerlo si ni siquiera estaba dormida?"
+        },
+        {
+          "word": "Wake-ups",
+          "translation": "despertares"
+        },
+        {
+          "word": "Tapping into what preteens are all about",
+          "translation": "aprovechando lo que les gusta a los preadolescentes"
+        },
+        {
+          "word": "Snatch away",
+          "translation": "arrebatar"
+        },
+        {
+          "word": "Kiddie",
+          "translation": "infantil"
+        },
+        {
+          "word": "Worst crapes",
+          "translation": "peores aprietos, peores apuros"
+        },
+        {
+          "word": "I've always pulled through",
+          "translation": "siempre he salido adelante"
+        },
+        {
+          "word": "Clam",
+          "translation": "almeja"
+        },
+        {
+          "word": "Huddle up",
+          "translation": "acurrucarse, amontonarse"
+        },
+        {
+          "word": "Quilt",
+          "translation": "colcha, edredón"
+        },
+        {
+          "word": "Camera tilt",
+          "translation": "cámara inclinada"
+        },
+        {
+          "word": "Shaky",
+          "translation": "tembloroso"
+        },
+        {
+          "word": "Clamshell",
+          "translation": "concha de almeja"
+        },
+        {
+          "word": "Cue (sustantivo)",
+          "translation": "señal, entrada"
+        }
+      ],
+      "dialogues": 389,
+      "level": "B2"
+    },
+    {
+      "name": "Dream Productions (Episode 2)",
+      "count": 29,
+      "vocabulary": [
+        {
+          "word": "Wake-ups",
+          "translation": "despertares"
+        },
+        {
+          "word": "Bin",
+          "translation": "papelera, contenedor de basura"
+        },
+        {
+          "word": "Skunk",
+          "translation": "mofeta"
+        },
+        {
+          "word": "Showcase (verbo)",
+          "translation": "mostrar, exhibir"
+        },
+        {
+          "word": "Subvert (verbo)",
+          "translation": "subvertir, derribar"
+        },
+        {
+          "word": "Abuzz",
+          "translation": "alborotado"
+        },
+        {
+          "word": "Jupsuit",
+          "translation": "mameluco"
+        },
+        {
+          "word": "Prop",
+          "translation": "atrezzo, utilería"
+        },
+        {
+          "word": "Very hip",
+          "translation": "muy moderno, muy a la moda"
+        },
+        {
+          "word": "Get back to",
+          "translation": "responder (un mensaje o correo electrónico)"
+        },
+        {
+          "word": "Wheatgrass",
+          "translation": "hierba de trigo"
+        },
+        {
+          "word": "We are going to be making a hip, cool, off-the-chain, rad, bodacious dream!",
+          "translation": "¡Vamos a hacer un sueño moderno, guay, fuera de lo común, radical y con mucho cuerpo!"
+        },
+        {
+          "word": "Overly (adverbio)",
+          "translation": "excesivamente, demasiado"
+        },
+        {
+          "word": "Enlighten (verbo)",
+          "translation": "iluminar, aclarar"
+        },
+        {
+          "word": "Assistant Director (AD)",
+          "translation": "asistente del director, subdirector"
+        },
+        {
+          "word": "Going handheld!",
+          "translation": "¡A la mano!"
+        },
+        {
+          "word": "Bourgeois",
+          "translation": "burgués"
+        },
+        {
+          "word": "I deserve to be downsized",
+          "translation": "merezco que me reduzcan"
+        },
+        {
+          "word": "In this ill-conceived sludge bucket of a dream",
+          "translation": "en esta mal concebida cubeta de lodo de un sueño"
+        },
+        {
+          "word": "He's a crank pot",
+          "translation": "él es una olla de manivela"
+        },
+        {
+          "word": "I counter my firing by tendering my resignation",
+          "translation": "me opongo a mi despido presentando mi dimisión"
+        },
+        {
+          "word": "Pointy-headed",
+          "translation": "de cabeza puntiaguda"
+        },
+        {
+          "word": "My shot list (en términos cinematográficos)",
+          "translation": "mi lista de tomas"
+        },
+        {
+          "word": "Meemaw",
+          "translation": "abuelita"
+        },
+        {
+          "word": "Let's check in after this",
+          "translation": "revisemos después de esto"
+        },
+        {
+          "word": "Cue (verbo en términos de cine)",
+          "translation": "comenzar, empezar, entrar, señalar"
+        },
+        {
+          "word": "Stumble (verbo)",
+          "translation": "tropezar"
+        },
+        {
+          "word": "On a roll",
+          "translation": "en marcha"
+        },
+        {
+          "word": "Did you catch Janelle's dream last night?",
+          "translation": "¿Viste el sueño de Janelle anoche?"
+        }
+      ],
+      "dialogues": 360,
+      "level": "B1"
+    },
+    {
+      "name": "Dream Productions (Episode 3)",
+      "count": 52,
+      "vocabulary": [
+        {
+          "word": "Come to simmer, to steep, to brew into maturity",
+          "translation": "se cuecen a fuego lento, se empinan y maduran"
+        },
+        {
+          "word": "A septum ring",
+          "translation": "un anillo de tabique"
+        },
+        {
+          "word": "Envision (verbo)",
+          "translation": "prever, vislumbrar, visualizar"
+        },
+        {
+          "word": "Affogato (informal)",
+          "translation": "café"
+        },
+        {
+          "word": "I'm feeling sort of out of touch with our girl",
+          "translation": "me siento un poco fuera de contacto con nuestra chica"
+        },
+        {
+          "word": "He flipped when we pitched it to her",
+          "translation": "enloqueció cuando se lo propusimos"
+        },
+        {
+          "word": "Pitch (verbo)",
+          "translation": "lanzar"
+        },
+        {
+          "word": "My brain isn't braining",
+          "translation": "mi cerebro no funciona"
+        },
+        {
+          "word": "Kick off",
+          "translation": "poner en marcha, iniciar, empezar"
+        },
+        {
+          "word": "Rapid Eye Movement (REM)",
+          "translation": "movimientos oculares rápidos"
+        },
+        {
+          "word": "Wherefore (en inglés antiguo)",
+          "translation": "dónde (equivalente a where en inglés contemporáneo)"
+        },
+        {
+          "word": "Drapes",
+          "translation": "cortinas, paños"
+        },
+        {
+          "word": "Push-in",
+          "translation": "empujón"
+        },
+        {
+          "word": "Cue slo-mo",
+          "translation": "entra en cámara lenta"
+        },
+        {
+          "word": "Fib (verbo)",
+          "translation": "mentir"
+        },
+        {
+          "word": "A comeback story",
+          "translation": "la historia de un regreso"
+        },
+        {
+          "word": "Cast (verbo)",
+          "translation": "elegir (para un elenco)"
+        },
+        {
+          "word": "I'm so pumped for her",
+          "translation": "estoy tan emocionada por ella"
+        },
+        {
+          "word": "Persimmon",
+          "translation": "caqui"
+        },
+        {
+          "word": "She got her bungalow back",
+          "translation": "ella recuperó su cabaña"
+        },
+        {
+          "word": "Invigoriated",
+          "translation": "invigoriado"
+        },
+        {
+          "word": "Post-snooze alarm",
+          "translation": "alarma tras la siesta"
+        },
+        {
+          "word": "Steer (verbo)",
+          "translation": "dirigir, conducir"
+        },
+        {
+          "word": "Artistic stake",
+          "translation": "apuesta artística"
+        },
+        {
+          "word": "Buck",
+          "translation": "culpa, responsabilidad"
+        },
+        {
+          "word": "Diaper",
+          "translation": "pañal"
+        },
+        {
+          "word": "A rom-com",
+          "translation": "una comedia romántica"
+        },
+        {
+          "word": "Sort of stagnant",
+          "translation": "algo estancado"
+        },
+        {
+          "word": "An absolute clockbuster",
+          "translation": "una auténtica bomba de relojería"
+        },
+        {
+          "word": "Trusty",
+          "translation": "fiel"
+        },
+        {
+          "word": "A few klicks away",
+          "translation": "a pocos kilómetros/klicks de distancia"
+        },
+        {
+          "word": "That bitternut hickory",
+          "translation": "ese nogal americano"
+        },
+        {
+          "word": "Hemlock",
+          "translation": "cicuta"
+        },
+        {
+          "word": "Bur oak",
+          "translation": "roble rojo, quejigo"
+        },
+        {
+          "word": "Spruce",
+          "translation": "abeto"
+        },
+        {
+          "word": "Basswood",
+          "translation": "tilo americano"
+        },
+        {
+          "word": "Malaise",
+          "translation": "malestar"
+        },
+        {
+          "word": "And throw in a hint of acne-shame",
+          "translation": "y añade una pizca de acné-vergüenza"
+        },
+        {
+          "word": "Hike the stacks with me",
+          "translation": "recorre las pilas conmigo"
+        },
+        {
+          "word": "Icing",
+          "translation": "guinda"
+        },
+        {
+          "word": "A love hex-angle",
+          "translation": "un hexágono amoroso"
+        },
+        {
+          "word": "Dawdle (verbo)",
+          "translation": "perder el tiempo, entretenerse"
+        },
+        {
+          "word": "Clingy",
+          "translation": "apegado, pegajoso"
+        },
+        {
+          "word": "Gravy and cheese curds",
+          "translation": "salsa y cuajadas de queso"
+        },
+        {
+          "word": "Speed bump",
+          "translation": "badén"
+        },
+        {
+          "word": "Sleepwalking",
+          "translation": "sonambulismo"
+        },
+        {
+          "word": "At our first time at bat",
+          "translation": "en nuestra primera vez al bate"
+        },
+        {
+          "word": "Roll over",
+          "translation": "dar la vuelta"
+        },
+        {
+          "word": "A rolling buck",
+          "translation": "un ciervo rodante"
+        },
+        {
+          "word": "You're dismissed",
+          "translation": "estás despedido, puedes retirarte The most artful, life-changing, epiphany-making, rainbow-popping dream Riley has"
+        },
+        {
+          "word": "ever had",
+          "translation": "el sueño más ingenioso, transformador, epifánico y lleno de arco iris que Riley alguna vez haya tenido"
+        }
+      ],
+      "dialogues": 422,
+      "level": "C1"
+    },
+    {
+      "name": "Dream Productions (Episode 4)",
+      "count": 12,
+      "vocabulary": [
+        {
+          "word": "Sleepwalker",
+          "translation": "sonámbulo"
+        },
+        {
+          "word": "No flourishes",
+          "translation": "sin florituras"
+        },
+        {
+          "word": "A hip edge",
+          "translation": "un toque moderno"
+        },
+        {
+          "word": "Don't thank me for the leash you're all on",
+          "translation": "no me den las gracias por la correa que tienen"
+        },
+        {
+          "word": "Flesh-eating penguins",
+          "translation": "pingüinos carnívoros"
+        },
+        {
+          "word": "Beckon (verbo)",
+          "translation": "llamar (una cosa)"
+        },
+        {
+          "word": "Throng",
+          "translation": "multitud"
+        },
+        {
+          "word": "Childish",
+          "translation": "infantil"
+        },
+        {
+          "word": "Drawn-out, self-serving apology",
+          "translation": "disculpa prolongada y desinteresada"
+        },
+        {
+          "word": "We have clearance up there",
+          "translation": "tenemos espacio libre ahí arriba"
+        },
+        {
+          "word": "Clam",
+          "translation": "almeja"
+        },
+        {
+          "word": "Cloister the oyster!",
+          "translation": "¡Encubre la ostra!"
+        }
+      ],
+      "dialogues": 342,
+      "level": "B1"
     }
   ],
   "tmdb": {
-    "overview": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
-      "https://image.tmdb.org/t/p/w780/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
-      "https://image.tmdb.org/t/p/w780/tdqzcZnoEQCFsk6x82RKPQmTPOh.jpg",
-      "https://image.tmdb.org/t/p/w780/dti0HcKrhUYBwbXQWIOwob1Yoll.jpg",
-      "https://image.tmdb.org/t/p/w780/bsDgqLeu9QriM5yuIv1d3nbTezo.jpg",
-      "https://image.tmdb.org/t/p/w780/1mkLECtsUghchZSI1jJFw4mwIm1.jpg"
-    ],
-    "episodes": null
+    "episodes": {
+      "1": {
+        "overview": "Riley ya es una adolescente, y la directora de sueños Paula debe actualizar su clase de sueños.",
+        "name": "Part 1: The Dream Team",
+        "still_path": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
+      },
+      "2": {
+        "overview": "Paula y su nuevo asistente, Xeni, batallan mientras el sueño debut de Janelle es un gran éxito.",
+        "name": "Part 2: Out of Body",
+        "still_path": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
+      },
+      "3": {
+        "overview": "La producción de Paula y Xeni se sale de control, lo que hace que Riley peligre al caminar sonámbula",
+        "name": "Part 3: Romance!",
+        "still_path": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
+      },
+      "4": {
+        "overview": "Paula y Xeni se unen para detener una pesadilla con un nuevo sueño que le dé a RIley lo que necesita",
+        "name": "Part 4: A Night to Remember",
+        "still_path": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
+      }
+    },
+    "overview": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos."
   }
 }

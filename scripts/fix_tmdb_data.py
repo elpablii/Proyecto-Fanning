@@ -6,7 +6,8 @@ import os
 api_key = 'd1765b8dccaf994068c4055e49e80566'
 
 series_to_fix = [
-    "Gambito de Dama"
+    "Dream Productions",
+    "Obi-Wan Kenobi"
 ]
 
 def get_tmdb_data(title, language="es-MX"):
@@ -35,9 +36,20 @@ for title in series_to_fix:
         item_es = get_tv_season(tv_id, "es-MX")
         item_en = get_tv_season(tv_id, "en-US")
     elif title == "Pan Am":
+        tv_id = 39259
+        item_es = get_tv_season(tv_id, "es-MX")
+        item_en = get_tv_season(tv_id, "en-US")
+    elif title == "Dream Productions":
+        tv_id = 255868
+        item_es = get_tv_season(tv_id, "es-MX")
+        item_en = get_tv_season(tv_id, "en-US")
+    elif title == "Obi-Wan Kenobi":
+        tv_id = 92830
+        item_es = get_tv_season(tv_id, "es-MX")
+        item_en = get_tv_season(tv_id, "en-US")
+    else:    
         es_data = get_tmdb_data(title, "es-MX")
         en_data = get_tmdb_data(title, "en-US")
-        
         if es_data['results'] and en_data['results']:
             item_es = es_data['results'][0]
             item_en = en_data['results'][0]

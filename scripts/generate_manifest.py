@@ -13,6 +13,7 @@ def clean_movie_title(raw_title):
     title = re.sub(r'\(S\d+EP.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Season.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'\(Episodes?.*?\)', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'\(Part.*?\)', '', title, flags=re.IGNORECASE)
     title = re.sub(r'parte \d', '', title, flags=re.IGNORECASE)
     if re.match(r'^Cars I$', title.strip(), re.IGNORECASE): title = "Cars"
     if re.match(r'^Cars II$', title.strip(), re.IGNORECASE): title = "Cars 2"
@@ -65,6 +66,7 @@ manifest["yearlyData"] = yearly_data
 old_movie_dialogues = {}
 old_movie_posters = {}
 old_movie_backdrops = {}
+old_movie_levels = {}
 for y_key in old_m:
     if y_key in ["all", "2023", "2024", "2025", "2026", "2027"] and isinstance(old_m[y_key], dict):
         for movie in old_m[y_key].get("movieList", []):
@@ -74,9 +76,13 @@ for y_key in old_m:
                 old_movie_posters[movie["title"]] = movie["posterUrl"]
             if movie.get("backdropUrl"):
                 old_movie_backdrops[movie["title"]] = movie["backdropUrl"]
+            if movie.get("level"):
+                old_movie_levels[movie["title"]] = movie["level"]
             for ep in movie.get("episodes", []):
                 if ep.get("dialogues"):
                     old_movie_dialogues[f"{movie['title']}__{ep['name']}"] = ep["dialogues"]
+                if ep.get("level"):
+                    old_movie_levels[f"{movie['title']}__{ep['name']}"] = ep["level"]
 
 def process_stats(items):
     total_words = len(items)
@@ -101,7 +107,13 @@ def process_stats(items):
         
         def get_ep_num(name):
             m = re.search(r'(?:EP|Episode)\s*#?(\d+)', name, re.IGNORECASE)
-            return int(m.group(1)) if m else 9999
+            if m: return int(m.group(1))
+            roman_m = re.search(r'Part\s+([IVXLCDM]+)', name, re.IGNORECASE)
+            if roman_m:
+                roman = roman_m.group(1).upper()
+                roman_to_int = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6}
+                return roman_to_int.get(roman, 9999)
+            return 9999
 
         sorted_episodes = sorted(data["episodes"].items(), key=lambda x: get_ep_num(x[0]))
         
@@ -110,10 +122,11 @@ def process_stats(items):
             ep_d_key = f"{title}__{name}"
             if ep_d_key in old_movie_dialogues:
                 ep_dict["dialogues"] = old_movie_dialogues[ep_d_key]
+            ep_dict["level"] = old_movie_levels.get(ep_d_key, "B2")
             episodes.append(ep_dict)
             
         is_series = False
-        special_series = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville']
+        special_series = ['kim possible', 'the big bang theory', 'euphoria', 'gambito de dama', 'maid', 'pan am', 'all her fault', 'the perfect couple', 'the girl from plainville', 'dream productions', 'obi-wan kenobi']
         if title.lower() in special_series:
             is_series = True
         elif len(episodes) > 1 and any("ep" in ep["name"].lower() for ep in episodes):
@@ -123,7 +136,8 @@ def process_stats(items):
             "title": title,
             "count": data["count"],
             "type": "series" if is_series else "movie",
-            "episodes": episodes
+            "episodes": episodes,
+            "level": old_movie_levels.get(title, "B2")
         }
         if title in old_movie_dialogues:
             m_dict["dialogues"] = old_movie_dialogues[title]
@@ -131,6 +145,11 @@ def process_stats(items):
             m_dict["posterUrl"] = old_movie_posters[title]
         if title in old_movie_backdrops:
             m_dict["backdropUrl"] = old_movie_backdrops[title]
+            
+        if title == "Obi-Wan Kenobi":
+            m_dict["posterUrl"] = "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg"
+            m_dict["backdropUrl"] = "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
+            
         movie_list.append(m_dict)
         
     movie_list.sort(key=lambda x: x["count"], reverse=True)
