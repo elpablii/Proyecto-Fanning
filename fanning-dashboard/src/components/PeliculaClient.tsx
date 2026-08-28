@@ -105,7 +105,12 @@ export default function PeliculaClient({ slug, initialMovieData, initialExtraDat
         {/* Hero Section */}
         <div className="flex flex-col md:flex-row gap-8 items-center md:items-end mb-16">
           {posterUrl ? (
-            <img src={posterUrl} alt={decodedTitle} className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500" />
+            <img 
+              src={posterUrl} 
+              alt={decodedTitle} 
+              onClick={() => setSelectedImage(posterUrl.replace('w500', 'original'))}
+              className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500 cursor-pointer" 
+            />
           ) : (
             <div className="w-48 md:w-64 lg:w-72 aspect-2/3 bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
               <Film size={48} className="text-white/50" />

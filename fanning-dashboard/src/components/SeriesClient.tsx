@@ -19,6 +19,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
   const [isFlipped, setIsFlipped] = useState(false);
   const [studyMode, setStudyMode] = useState<'carousel' | 'practice'>('carousel');
   const [expandedEp, setExpandedEp] = useState<number | null>(null);
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const posterUrl = movieData?.posterUrl || null;
   const backdropUrl = movieData?.backdropUrl || null;
@@ -85,7 +86,12 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
         {/* Hero Section */}
         <div className="flex flex-col md:flex-row gap-8 items-center md:items-end mb-16">
           {posterUrl ? (
-            <img src={posterUrl} alt={decodedTitle} className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500" />
+            <img 
+              src={posterUrl} 
+              alt={decodedTitle} 
+              onClick={() => setSelectedImage(posterUrl.replace('w500', 'original'))}
+              className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500 cursor-pointer" 
+            />
           ) : (
             <div className="w-40 sm:w-48 md:w-64 aspect-[2/3] bg-white/10 rounded-2xl shadow-2xl border border-white/20 flex items-center justify-center backdrop-blur-sm">
               <Film size={48} className="text-white/50" />
@@ -498,6 +504,19 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
               </div>
           </div>
       )}
+
+      {/* FLASHCARDS MODAL FOR POSTER */}
+      {selectedImage && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/95 backdrop-blur-xl p-4" onClick={() => setSelectedImage(null)}>
+          <button className="absolute top-6 right-6 text-white/50 hover:text-white transition-colors" onClick={() => setSelectedImage(null)}>
+            <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+          </button>
+          <img src={selectedImage} alt="Expanded gallery" className="max-w-full max-h-[90vh] object-contain rounded-lg shadow-2xl animate-scale-up" onClick={(e) => e.stopPropagation()} />
+        </div>
+      )}
+
+    </div>
+  );
 
       {/* Required CSS for 3D flip added inline for convenience */}
       <style dangerouslySetInnerHTML={{__html: `

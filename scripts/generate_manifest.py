@@ -133,7 +133,23 @@ def process_stats(items):
             ep_d_key = f"{title}__{name}"
             if ep_d_key in old_movie_dialogues:
                 ep_dict["dialogues"] = old_movie_dialogues[ep_d_key]
-            ep_dict["level"] = old_movie_levels.get(ep_d_key, "B2")
+                
+            # Prefer the level from the JSON file itself if present
+            # The 'count' here is just the unknown words count. We should check if the JSON file for this movie exists and has a level for this episode.
+            ep_level = None
+            movie_json_path = os.path.join(data_dir, 'pelis', f'{title}.json')
+            if os.path.exists(movie_json_path):
+                try:
+                    with open(movie_json_path, 'r', encoding='utf-8') as f_movie:
+                        movie_data = json.load(f_movie)
+                        if "episodes" in movie_data and isinstance(movie_data["episodes"], list):
+                            for orig_ep in movie_data["episodes"]:
+                                if orig_ep.get("name") == name and "level" in orig_ep:
+                                    ep_level = orig_ep["level"]
+                                    break
+                except: pass
+            
+            ep_dict["level"] = ep_level or old_movie_levels.get(ep_d_key, "B2")
             episodes.append(ep_dict)
             
         is_series = False
@@ -143,12 +159,22 @@ def process_stats(items):
         elif len(episodes) > 1 and any("ep" in ep["name"].lower() for ep in episodes):
             is_series = True
             
+        movie_level = None
+        movie_json_path = os.path.join(data_dir, 'pelis', f'{title}.json')
+        if os.path.exists(movie_json_path):
+            try:
+                with open(movie_json_path, 'r', encoding='utf-8') as f_movie:
+                    movie_data = json.load(f_movie)
+                    if "level" in movie_data:
+                        movie_level = movie_data["level"]
+            except: pass
+
         m_dict = {
             "title": title,
             "count": data["count"],
             "type": "series" if is_series else "movie",
             "episodes": episodes,
-            "level": old_movie_levels.get(title, "B2")
+            "level": movie_level or old_movie_levels.get(title, "B2")
         }
         if title in old_movie_dialogues:
             m_dict["dialogues"] = old_movie_dialogues[title]
