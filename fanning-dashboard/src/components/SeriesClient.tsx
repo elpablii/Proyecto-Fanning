@@ -515,8 +515,6 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
         </div>
       )}
 
-    </div>
-  );
 
       {/* Required CSS for 3D flip added inline for convenience */}
       <style dangerouslySetInnerHTML={{__html: `
