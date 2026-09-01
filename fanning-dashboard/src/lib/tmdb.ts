@@ -1,4 +1,5 @@
 export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean, id?: string }> = {
+  "grand theft auto vi an extended look": { q: "Grand Theft Auto VI", id: "1744462" },
   "taylor swift the eras tour film": { q: "Taylor Swift: The Eras Tour" },
   "aves de presa": { q: "Birds of Prey", y: "2020" },
   "el escuadrón suicida": { q: "The Suicide Squad", y: "2021" },

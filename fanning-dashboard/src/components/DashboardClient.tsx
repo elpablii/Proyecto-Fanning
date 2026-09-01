@@ -79,6 +79,9 @@ export default function DashboardClient({ initialManifestData }: { initialManife
           <p className="text-gray-400 mt-2 text-sm md:text-lg">Métricas de inmersión y adquisición de vocabulario</p>
         </div>
         <div className="flex flex-wrap gap-3 w-full sm:w-auto">
+          <button onClick={() => router.push('/timeline')} className="flex-1 sm:flex-none justify-center bg-blue-600/20 hover:bg-blue-600/40 text-blue-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-blue-500/30">
+            <Calendar size={16} /> Línea de Tiempo
+          </button>
           <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
             <BookOpen size={16} /> Reglas del Proyecto
           </button>

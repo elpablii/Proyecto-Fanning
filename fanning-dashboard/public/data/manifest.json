@@ -1,7 +1,7 @@
 {
   "all": {
-    "totalWords": 32774,
-    "uniqueMovies": 175,
+    "totalWords": 32813,
+    "uniqueMovies": 176,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -3148,6 +3148,19 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/xcfjWEmSpgJe8htlg1qFTwQfPG7.jpg"
       },
       {
+        "title": "Grand Theft Auto VI: An Extended Look",
+        "count": 39,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Grand Theft Auto VI: An Extended Look",
+            "count": 39,
+            "level": "B2"
+          }
+        ],
+        "level": "B2"
+      },
+      {
         "title": "Minions I",
         "count": 38,
         "type": "movie",
@@ -5676,7 +5689,7 @@
     ]
   },
   "2026": {
-    "totalWords": 11705,
+    "totalWords": 11717,
     "uniqueMovies": 61,
     "topWord": {
       "word": "Landlord",
@@ -6907,6 +6920,19 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
       },
       {
+        "title": "Grand Theft Auto VI: An Extended Look",
+        "count": 39,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Grand Theft Auto VI: An Extended Look",
+            "count": 39,
+            "level": "B2"
+          }
+        ],
+        "level": "B2"
+      },
+      {
         "title": "Minions I",
         "count": 38,
         "type": "movie",
@@ -6958,23 +6984,6 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
       },
       {
-        "title": "IO",
-        "count": 27,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "IO",
-            "count": 27,
-            "dialogues": 759,
-            "level": "B2"
-          }
-        ],
-        "level": "B2",
-        "dialogues": 759,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
-      },
-      {
         "title": "Unknown",
         "count": 26,
         "type": "movie",
@@ -6992,8 +7001,8 @@
     ]
   },
   "2027": {
-    "totalWords": 64,
-    "uniqueMovies": 1,
+    "totalWords": 91,
+    "uniqueMovies": 2,
     "topWord": {
       "word": "Backpedal (verbo)",
       "count": 2,
@@ -7068,6 +7077,23 @@
         "dialogues": 1249,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
+      },
+      {
+        "title": "IO",
+        "count": 27,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "IO",
+            "count": 27,
+            "dialogues": 759,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "dialogues": 759,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
       }
     ]
   },
@@ -7089,12 +7115,12 @@
     },
     {
       "year": "2026",
-      "words": 11705,
+      "words": 11717,
       "dialogues": 160657
     },
     {
       "year": "2027",
-      "words": 64,
+      "words": 91,
       "dialogues": 0
     }
   ]
