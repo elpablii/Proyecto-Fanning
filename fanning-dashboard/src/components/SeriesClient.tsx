@@ -21,6 +21,9 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
   const [expandedEp, setExpandedEp] = useState<number | null>(null);
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
+  // 18+ Disclaimer State
+  const [disclaimerAccepted, setDisclaimerAccepted] = useState(false);
+
   const posterUrl = movieData?.posterUrl || null;
   const backdropUrl = movieData?.backdropUrl || null;
   const overview = extraData?.tmdb?.overview || 'Sinopsis no disponible.';
@@ -57,6 +60,9 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
   }
   const multiSeason = Object.keys(seasonDialogues).filter(k => k !== "Especiales").length > 1;
 
+  const rating = movieData?.rating || extraData?.tmdb?.rating || 'TE';
+  const requiresDisclaimer = rating === '+18' && !disclaimerAccepted;
+
   return (
     <div className="min-h-screen bg-gray-950 text-white relative overflow-x-hidden font-sans">
       
@@ -72,8 +78,35 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/50 to-gray-950"></div>
       </div>
 
+      {/* Modal Advertencia +18 */}
+      {requiresDisclaimer && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-xl p-4">
+          <div className="text-center max-w-md bg-gray-900 p-8 rounded-3xl border border-red-500/50 shadow-2xl shadow-red-500/20">
+            <div className="w-20 h-20 bg-red-500/10 text-red-500 flex items-center justify-center rounded-full mx-auto mb-6 border border-red-500/20">
+              <span className="text-3xl font-black">+18</span>
+            </div>
+            <h3 className="text-2xl font-bold text-white mb-4">Contenido Explícito</h3>
+            <p className="text-gray-400 text-base mb-8">
+              Esta serie ha sido clasificada para mayores de 18 años. El vocabulario y los diálogos pueden contener lenguaje soez, referencias sexuales o violencia extrema.
+            </p>
+            <button 
+              onClick={() => setDisclaimerAccepted(true)}
+              className="bg-red-600 hover:bg-red-500 text-white font-bold py-4 px-6 rounded-2xl w-full transition-all shadow-lg hover:shadow-red-500/50 mb-4"
+            >
+              Soy mayor de edad, continuar
+            </button>
+            <button 
+              onClick={() => router.back()}
+              className="text-gray-500 hover:text-gray-300 font-medium transition-colors"
+            >
+              Volver atrás
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Contenido Principal */}
-      <div className="relative z-10 p-4 sm:p-6 md:p-8 max-w-7xl mx-auto">
+      <div className={`relative z-10 p-4 sm:p-6 md:p-8 max-w-6xl mx-auto transition-all duration-500 ${requiresDisclaimer ? 'blur-xl pointer-events-none opacity-40 select-none' : ''}`}>
         
         {/* Header / Navegación */}
         <button 

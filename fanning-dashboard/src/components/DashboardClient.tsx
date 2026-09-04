@@ -33,7 +33,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
     topWord: { word: "N/A", count: 0, translation: "" },
     yearlyData: [] as { year: string, words: number, dialogues?: number }[],
     topList: [] as { word: string, count: number, translation: string }[],
-    movieList: [] as { title: string, count: number, type?: 'series' | 'movie', dialogues?: number, episodes: { name: string, count: number }[], posterUrl?: string | null, backdropUrl?: string | null, level?: string }[],
+    movieList: [] as { title: string, count: number, type?: 'series' | 'movie', dialogues?: number, episodes: { name: string, count: number }[], posterUrl?: string | null, backdropUrl?: string | null, level?: string, rating?: string }[],
     totalDialogues: 0
   });
 
@@ -249,6 +249,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
                   dialogues={item.dialogues}
                   posterUrl={item.posterUrl}
                   level={item.level}
+                  rating={item.rating}
                   href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`} 
                 />);
           })}

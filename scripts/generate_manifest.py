@@ -69,6 +69,7 @@ old_movie_dialogues = {}
 old_movie_posters = {}
 old_movie_backdrops = {}
 old_movie_levels = {}
+old_movie_ratings = {}
 for y_key in old_m:
     if y_key in ["all", "2023", "2024", "2025", "2026", "2027"] and isinstance(old_m[y_key], dict):
         for movie in old_m[y_key].get("movieList", []):
@@ -80,6 +81,8 @@ for y_key in old_m:
                 old_movie_backdrops[movie["title"]] = movie["backdropUrl"]
             if movie.get("level"):
                 old_movie_levels[movie["title"]] = movie["level"]
+            if movie.get("rating"):
+                old_movie_ratings[movie["title"]] = movie["rating"]
             for ep in movie.get("episodes", []):
                 if ep.get("dialogues"):
                     old_movie_dialogues[f"{movie['title']}__{ep['name']}"] = ep["dialogues"]
@@ -160,6 +163,7 @@ def process_stats(items):
             is_series = True
             
         movie_level = None
+        movie_rating = None
         movie_json_path = os.path.join(data_dir, 'pelis', f'{title}.json')
         if os.path.exists(movie_json_path):
             try:
@@ -167,6 +171,8 @@ def process_stats(items):
                     movie_data = json.load(f_movie)
                     if "level" in movie_data:
                         movie_level = movie_data["level"]
+                    if "tmdb" in movie_data and "rating" in movie_data["tmdb"]:
+                        movie_rating = movie_data["tmdb"]["rating"]
             except: pass
 
         m_dict = {
@@ -174,7 +180,8 @@ def process_stats(items):
             "count": data["count"],
             "type": "series" if is_series else "movie",
             "episodes": episodes,
-            "level": movie_level or old_movie_levels.get(title, "B2")
+            "level": movie_level or old_movie_levels.get(title, "B2"),
+            "rating": movie_rating or old_movie_ratings.get(title, "TE")
         }
         if title in old_movie_dialogues:
             m_dict["dialogues"] = old_movie_dialogues[title]

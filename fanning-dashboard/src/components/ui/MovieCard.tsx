@@ -10,9 +10,10 @@ interface MovieCardProps {
     href: string;
     posterUrl?: string | null;
     level?: string;
+    rating?: string;
 }
 
-export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2' }: MovieCardProps) {
+export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE' }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
     let pct = 0;
@@ -44,10 +45,20 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
             <div className="absolute inset-0 bg-linear-to-t from-black/100 via-black/50 to-transparent opacity-90 transition-opacity duration-300"></div>
 
             {level && (
-                <div className="absolute top-2 right-2">
+                <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">
                     <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border backdrop-blur-xs shadow-sm ${levelColors}`}>
                         {level}
                     </span>
+                    {rating && (
+                        <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border backdrop-blur-xs shadow-sm ${
+                            rating === '+18' ? 'bg-red-500/20 text-red-300 border-red-500/30' :
+                            rating === '+14' ? 'bg-yellow-500/20 text-yellow-300 border-yellow-500/30' :
+                            rating === 'TE+7' ? 'bg-blue-500/20 text-blue-300 border-blue-500/30' :
+                            'bg-green-500/20 text-green-300 border-green-500/30'
+                        }`}>
+                            {rating}
+                        </span>
+                    )}
                 </div>
             )}
 
