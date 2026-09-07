@@ -136,8 +136,8 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
               {decodedTitle}
             </h1>
             <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 items-center text-sm sm:text-base md:text-lg">
-              <span className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                <BookOpen size={16} className="sm:w-5 sm:h-5" /> {movieData.count.toLocaleString()} Palabras Globales
+              <span suppressHydrationWarning className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
+                <BookOpen size={16} className="sm:w-5 sm:h-5" /> {movieData.count.toLocaleString('en-US')} Palabras Globales
               </span>
               <span className="flex items-center gap-2 bg-pink-600/30 border border-pink-400/30 text-pink-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
                 <PlayCircle size={16} className="sm:w-5 sm:h-5" /> {movieData.episodes.length} Episodios Analizados
