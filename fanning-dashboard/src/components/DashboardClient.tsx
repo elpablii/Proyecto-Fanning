@@ -21,11 +21,15 @@ import Link from 'next/link';
 import MovieCard from '@/components/ui/MovieCard';
 
 
-export default function DashboardClient({ initialManifestData }: { initialManifestData: any }) {
+import { ManifestData } from '@/types/manifest';
+
+export default function DashboardClient({ initialManifestData }: { initialManifestData: ManifestData }) {
   const router = useRouter();
-  const [manifestData, setManifestData] = useState<any>(initialManifestData);
+  const [manifestData, setManifestData] = useState<ManifestData>(initialManifestData);
   const [selectedYear, setSelectedYear] = useState<string>("all");
   const [selectedMovie, setSelectedMovie] = useState<{ title: string, count: number, dialogues?: number, posterUrl: string | null, episodes: { name: string, count: number }[] } | null>(null);
+
+  const availableYears = ["all", ...Object.keys(initialManifestData || {}).filter(k => k !== 'all' && k !== 'yearlyData').sort()];
 
   const [stats, setStats] = useState({
     totalWords: 0,
@@ -92,7 +96,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
       </header>
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
-        {["all", "2023", "2024", "2025", "2026", "2027"].map((year) => (
+        {availableYears.map((year) => (
           <button
             key={year}
             onClick={() => {

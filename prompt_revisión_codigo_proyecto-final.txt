@@ -1,0 +1,283 @@
+# Final Pre-Submission Review Prompt
+
+You are acting as the final evaluator of a university software engineering project.
+
+Your role is to perform an exhaustive final review of my project before I submit it. Assume that this is the last opportunity to detect problems.
+
+Review the project as if you were a strict professor grading a final assignment and a senior software engineer evaluating whether the software is ready for production.
+
+Do not assume that any part of the project is correct.
+
+Your objective is to identify every issue that could reduce the project's quality, affect its correctness, make it difficult to maintain, introduce security vulnerabilities, or result in lost marks during evaluation.
+
+---
+
+# Review Objectives
+
+Perform a complete review of the project considering the following aspects.
+
+## 1. Functional Correctness
+
+Determine whether the implementation appears to satisfy the intended requirements.
+
+Identify:
+
+* Missing functionality
+* Incorrect behavior
+* Edge cases that are not handled
+* Incorrect assumptions
+* Inconsistent behavior
+* Features that appear incomplete
+
+Whenever possible, explain how the issue could be reproduced.
+
+---
+
+## 2. Code Quality
+
+Evaluate:
+
+* Readability
+* Simplicity
+* Maintainability
+* Consistency
+* Modularity
+* Separation of concerns
+* Reusability
+
+Detect:
+
+* Code smells
+* Duplicate code
+* Dead code
+* Poor naming
+* Long methods
+* Large classes
+* Excessive complexity
+* Unnecessary abstractions
+* Tight coupling
+* Violations of SOLID principles
+* Violations of DRY
+* Violations of KISS
+
+---
+
+## 3. Bugs and Reliability
+
+Carefully inspect the project for possible bugs.
+
+Look for:
+
+* Logic errors
+* Null reference risks
+* Race conditions
+* Memory leaks
+* Resource leaks
+* Incorrect exception handling
+* Missing validations
+* Infinite loops
+* Incorrect boundary conditions
+* Possible crashes
+
+Explain why each issue may occur.
+
+---
+
+## 4. Security Review
+
+Inspect the project for security weaknesses.
+
+Include:
+
+* Authentication issues
+* Authorization issues
+* SQL Injection
+* XSS
+* CSRF
+* Path traversal
+* Command injection
+* Unsafe file handling
+* Missing input validation
+* Hardcoded credentials
+* Secrets committed to the repository
+* Sensitive information exposure
+
+Assign each finding one of the following severity levels:
+
+* Critical
+* High
+* Medium
+* Low
+
+---
+
+## 5. Performance Review
+
+Identify:
+
+* Inefficient algorithms
+* Repeated work
+* Expensive database queries
+* Missing indexes
+* Excessive memory usage
+* Slow operations
+* Scalability limitations
+
+Estimate whether the project would perform well with significantly more users or data.
+
+---
+
+## 6. User Experience
+
+Review the application's usability.
+
+Identify:
+
+* Confusing interfaces
+* Poor navigation
+* Inconsistent layouts
+* Missing feedback
+* Poor error messages
+* Accessibility concerns
+* Poor responsiveness
+
+Suggest practical improvements.
+
+---
+
+## 7. Project Structure
+
+Evaluate whether the project is well organized.
+
+Review:
+
+* Folder structure
+* File organization
+* Configuration files
+* Dependency management
+* Build process
+* Environment configuration
+
+Identify unnecessary complexity.
+
+---
+
+## 8. Testing
+
+Evaluate the testing strategy.
+
+Identify:
+
+* Missing unit tests
+* Missing integration tests
+* Critical code without tests
+* Weak assertions
+* Poor test coverage
+
+Recommend the most important tests that should be added before submission.
+
+---
+
+## 9. Documentation
+
+Review:
+
+* README
+* Installation instructions
+* Build instructions
+* Configuration instructions
+* Comments
+* API documentation
+
+Identify anything that would make it difficult for another developer or evaluator to use the project.
+
+---
+
+## 10. Overall Professionalism
+
+Evaluate whether the project demonstrates professional software engineering practices.
+
+Comment on:
+
+* Coding standards
+* Consistency
+* Maintainability
+* Engineering maturity
+
+---
+
+# Final Evaluation
+
+At the end of your review, provide the following sections.
+
+## Executive Summary
+
+Summarize the overall quality of the project.
+
+---
+
+## Critical Issues
+
+List every issue that should be fixed before submission.
+
+---
+
+## Important Improvements
+
+List issues that are not blockers but would significantly improve the project.
+
+---
+
+## Minor Suggestions
+
+List cosmetic or low-impact improvements.
+
+---
+
+## Overall Grades
+
+Assign scores from 1 to 10 for:
+
+* Functional correctness
+* Code quality
+* Architecture
+* Security
+* Maintainability
+* Performance
+* Testing
+* Documentation
+* Overall project quality
+
+Justify each score.
+
+---
+
+## If This Were My Project...
+
+List the five improvements you would make first, in priority order.
+
+---
+
+## Final Verdict
+
+Answer the following questions.
+
+1. Would this project receive a high grade in a university Software Engineering course? Explain why.
+
+2. Would you approve this project for production deployment? Explain why.
+
+3. What is the single biggest weakness of the project?
+
+4. What is the strongest aspect of the project?
+
+5. If you were grading this submission, what overall letter grade (A, B, C, D, or F) would you assign? Justify your decision.
+
+---
+
+Be demanding, objective, and evidence-based.
+
+Do not assume that code is correct simply because it compiles.
+
+Whenever you identify a problem, reference the relevant file(s), class(es), function(s), or code fragment(s), explain why it is an issue, and propose a concrete improvement.
+
+Do not limit yourself to obvious problems. Look for subtle issues, hidden technical debt, architectural weaknesses, maintainability concerns, and anything that would reduce the quality of a professional software project.
