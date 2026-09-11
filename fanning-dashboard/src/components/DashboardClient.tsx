@@ -43,7 +43,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
 
   useEffect(() => {
     if (manifestData) {
-      const yearData = manifestData[selectedYear] || manifestData["all"];
+      const yearData = (manifestData[selectedYear] || manifestData["all"]) as any;
 
       let totalDialogues = 0;
       if (selectedYear === 'all') {
@@ -54,12 +54,12 @@ export default function DashboardClient({ initialManifestData }: { initialManife
       }
 
       setStats({
-        totalWords: yearData.totalWords || 0,
-        uniqueMovies: yearData.uniqueMovies || 0,
-        topWord: yearData.topWord || { word: "N/A", count: 0, translation: "" },
+        totalWords: yearData?.totalWords || 0,
+        uniqueMovies: yearData?.uniqueMovies || 0,
+        topWord: yearData?.topWord || { word: "N/A", count: 0, translation: "" },
         yearlyData: manifestData.yearlyData || [],
-        topList: yearData.topList || [],
-        movieList: yearData.movieList || [],
+        topList: yearData?.topList || [],
+        movieList: yearData?.movieList || [],
         totalDialogues: totalDialogues
       });
     }
