@@ -309,7 +309,7 @@
     }
   ],
   "tmdb": {
-    "overview": "En un concierto con entradas agotadas en su ciudad natal de Los Ángeles, Olivia Rodrigo vierte su corazón en una noche electrizante de éxitos que encabezan las listas de éxitos y poderosas baladas de pop-rock.",
+    "overview": "At a sold-out concert in her hometown of LA, Olivia Rodrigo pours her heart into an electrifying night of chart-topping hits and pop-rock power ballads.",
     "photos": [
       "https://image.tmdb.org/t/p/w780/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
       "https://image.tmdb.org/t/p/w780/pLIltECW72W9aRlXANeGzXsWRBc.jpg",
@@ -318,7 +318,6 @@
       "https://image.tmdb.org/t/p/w780/5lqA9X08WeqO57IEH3ikZMJq1mZ.jpg",
       "https://image.tmdb.org/t/p/w780/iunYfStBvMzd0Oxdpk7hWldq1Jc.jpg"
     ],
-    "episodes": null,
-    "rating": "+14"
+    "episodes": null
   }
 }

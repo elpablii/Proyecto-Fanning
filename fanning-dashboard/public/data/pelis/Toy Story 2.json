@@ -639,14 +639,13 @@
   "tmdb": {
     "overview": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
     "photos": [
-      "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
       "https://image.tmdb.org/t/p/w780/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
       "https://image.tmdb.org/t/p/w780/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
       "https://image.tmdb.org/t/p/w780/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
       "https://image.tmdb.org/t/p/w780/1dvOCqKgBcXvfqzVPmAAM5Rv4PP.jpg",
       "https://image.tmdb.org/t/p/w780/1M40AHTjggFkRs9tbvHzFpgCPAG.jpg"
     ],
-    "episodes": null,
-    "rating": "TE"
+    "episodes": null
   }
 }

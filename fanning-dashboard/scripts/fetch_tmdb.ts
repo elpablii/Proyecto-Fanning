@@ -112,7 +112,9 @@ const tmdbOverrides: Record<string, { q: string, y?: string, id?: string, tv?: b
     "taylor swift city of lover concert": { q: "Taylor Swift: City of Lover Concert", y: "2020" },
     "taylor swift miss americana": { q: "Miss Americana", y: "2020" },
     "taylor swift reputation stadium tour": { q: "Taylor Swift: Reputation Stadium Tour", y: "2018" },
-    "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" }
+    "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" },
+    "emergency": { q: "Emergency", y: "2022", id: "819309" },
+    "grand theft auto vi an extended look": { q: "Grand Theft Auto VI", id: "1744462" }
 };
 
 const TMDB_API_KEY = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';

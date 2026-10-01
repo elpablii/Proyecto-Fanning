@@ -8,561 +8,82 @@
   "dialogues": 29596,
   "tmdb": {
     "overview": "Leonard y Sheldon son dos físicos que comparten trabajo y apartamento. La serie comienza con la mudanza de Penny, su nueva y atractiva vecina, y hace hincapié en la dificultad de los físicos para relacionarse con personas fuera de su entorno para dar lugar a situaciones cómicas.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "https://image.tmdb.org/t/p/w780/7RySzFeK3LPVMXcPtqfZnl6u4p1.jpg",
+      "https://image.tmdb.org/t/p/w780/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+      "https://image.tmdb.org/t/p/w780/x4DO7mY7usT8BwLiHTUsYT7EKbc.jpg",
+      "https://image.tmdb.org/t/p/w780/ngoiHQul4QetfA62SdmZZOdDFAP.jpg",
+      "https://image.tmdb.org/t/p/w780/8X1BTSaUyF5rc0malaaQovpxC3f.jpg"
+    ],
     "episodes": {
       "1": {
         "name": "Pilot",
-        "overview": "Los brillantes físicos Leonard y Sheldon son compañeros de piso y conocen a su nueva vecina Penny, quien les enseña tantas cosas sobre la vida como ellos saben de la ciencia.",
         "still_path": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg"
       },
       "2": {
         "name": "The Big Bran Hypothesis",
-        "overview": "Leonard se ofrece como voluntario para firmar un paquete intentando dar una buena impresión a Penny, pero cuando le pide ayuda a Sheldon, su intento de caballería va terriblemente mal.",
         "still_path": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg"
       },
       "3": {
         "name": "The Fuzzy Boots Corollary",
-        "overview": "Leonard invita a salir a una mujer después de enterarse que Penny se está viendo con alguien más.",
         "still_path": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg"
       },
       "4": {
         "name": "The Luminous Fish Effect",
-        "overview": "Al ser despedido de su trabajo, Sheldo se ve forzado a explorar las cosas de la vida fuera de la ciencia, haciendo que Leonard tenga que tomar drásticas medidas para sacar a su amigo de la locura.",
         "still_path": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg"
       },
       "5": {
         "name": "The Hamburger Postulate",
-        "overview": "Temiendo estar gastando el tiempo con Penny, Leonard termina teniendo una conexión con Leslie.",
         "still_path": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg"
       },
       "6": {
-        "name": "The Middle-earth Paradigm",
-        "overview": "Penny hace una fiesta de Halloween en su casa, poniendo a prueba las aptitudes sociales de Leonard, Sheldon, Wolowitz, y Koothrappali.",
+        "name": "The Middle-Earth Paradigm",
         "still_path": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg"
       },
       "7": {
         "name": "The Dumpling Paradox",
-        "overview": "Como Wolowitz se va con una de sus amigas, los chicos reclutan a Penny para que ocupe su lugar en el equipo de Halo.",
         "still_path": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg"
       },
       "8": {
         "name": "The Grasshopper Experiment",
-        "overview": "Los padres de Raj le arreglan una cita a ciegas, pero cuando descubre que no puede hablarle, la chica se muestra interesada en Sheldon.",
         "still_path": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg"
       },
       "9": {
         "name": "The Cooper-Hofstadter Polarization",
-        "overview": "Al ser invitados a una conferencia de Física, la negativa de Sheldon a compartir el crédito lo conduce a una pelea con Leonard, y la intervención de Penny sólo empeora la situación.",
         "still_path": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg"
       },
       "10": {
-        "name": "The Lobbenfield Decay",
-        "overview": "Leonard y Sheldon le mienten a Penny para evitar escucharla en una producción de Rent. Sin embargo, la mentira de Sheldon se vuelve un poco complicada para su propio bien.",
+        "name": "The Loobenfeld Decay",
         "still_path": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg"
       },
       "11": {
         "name": "The Pancake Batter Anomaly",
-        "overview": "Sus amigos saben lo mal que se comporta Sheldon cuando se enferma, por lo tanto, lo evitan. Así que Penny se pone a su cuidado, sin tener la más mínima idea en lo que se ha metido.",
         "still_path": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg"
       },
       "12": {
         "name": "The Jerusalem Duality",
-        "overview": "Sheldon enloquece al conocer a Dennis, un físico de 15 años más inteligente que él, entonces, Leonard lo ayuda para encontrar alguna manera de destruír su investigación.",
         "still_path": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg"
       },
       "13": {
         "name": "The Bat Jar Conjecture",
-        "overview": "Sheldon es despedido del equipo del Concurso de Física y es reemplazado por Leslie, así que el forma su propio equipo esperando demostrar que es superior.",
         "still_path": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg"
       },
       "14": {
         "name": "The Nerdvana Annihilation",
-        "overview": "Recibir un nuevo objeto de colección, hace enfurecer a Penny con Leonard, entonces él decide que es hora de deshacerse de su hábito, aunque sus amigos se opongan.",
         "still_path": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg"
       },
       "15": {
         "name": "The Pork Chop Indeterminacy",
-        "overview": "Todos se enamoran de la hermana gemela de Sheldon, y el plan de Leonard por ganar su corazón es frustrado cuando Sheldon declara que él es el único que decide con quién puede salir su hermana.",
         "still_path": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg"
       },
       "16": {
         "name": "The Peanut Reaction",
-        "overview": "Penny quiere hacerle una fiesta sorpresa a Leonard, pero la indulgencia de Sheldon en la tienda de electrónica la deja fuera de la pista.",
         "still_path": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg"
       },
       "17": {
         "name": "The Tangerine Factor",
-        "overview": "La ruptura de Penny con su novio, hace que Leonard tenga la valentía de invitarla a salir, y los dos van a pedirle consejos a Sheldon para su próxima cita.",
         "still_path": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg"
-      },
-      "18": {
-        "name": "The Bad Fish Paradigm",
-        "overview": "La primera cita de Penny con Leonard no fue bien, y Penny encuentra en Sheldon a un confidente poco válido.",
-        "still_path": "https://image.tmdb.org/t/p/w500/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg"
-      },
-      "19": {
-        "name": "The Codpiece Topology",
-        "overview": "Un celoso Leonard reacciona ante el nuevo chico de Penny por el problema con Leslie.",
-        "still_path": "https://image.tmdb.org/t/p/w500/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg"
-      },
-      "20": {
-        "name": "The Barbarian Sublimation",
-        "overview": "Sheldon crea un mostruo cuando introduce a Penny en los juegos online.",
-        "still_path": "https://image.tmdb.org/t/p/w500/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg"
-      },
-      "21": {
-        "name": "The Griffin Equivalency",
-        "overview": "Con la confianza por los cielos tras salir en una revista, Raj empieza a tirarle los trastos a Penny y se vuelve insoportablemente arrogante.",
-        "still_path": "https://image.tmdb.org/t/p/w500/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg"
-      },
-      "22": {
-        "name": "The Euclid Alternative",
-        "overview": "Leonard y sus amigos fuerzan a Sheldon a plantar cara a su miedo a conducir.",
-        "still_path": "https://image.tmdb.org/t/p/w500/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg"
-      },
-      "23": {
-        "name": "The Cooper-Nowitzki Theorem",
-        "overview": "Sheldon y la cuadrilla están confundidos cuando éste se siente atraído por una estudiante.",
-        "still_path": "https://image.tmdb.org/t/p/w500/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg"
-      },
-      "24": {
-        "name": "The Panty Piñata Polarization",
-        "overview": "Cuando Sheldon prohíbe la entrada en el apartamento a Penny por numerosas infracciones menores, ella decide tomas represalias.",
-        "still_path": "https://image.tmdb.org/t/p/w500/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg"
-      },
-      "25": {
-        "name": "The Lizard-Spock Expansion",
-        "overview": "Leonard sin querer le roba la nueva chica a Wolowitz, quien cree que es la mujer de su vida.",
-        "still_path": "https://image.tmdb.org/t/p/w500/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg"
-      },
-      "26": {
-        "name": "The White Asparagus Triangulation",
-        "overview": "Sheldon se emociona cuando Leonard comienza a salir con una mujer que entiende las rigurosas normas de Sheldon.",
-        "still_path": "https://image.tmdb.org/t/p/w500/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg"
-      },
-      "27": {
-        "name": "The Vartabedian Conundrum",
-        "overview": "Leonard pregunta a Penny cuando se da cuenta que su nueva relación empieza a ir demasiado deprisa.",
-        "still_path": "https://image.tmdb.org/t/p/w500/uosBIO5639eeocnvjCxqrLl2HEN.jpg"
-      },
-      "28": {
-        "name": "The Bath Item Gift Hypothesis",
-        "overview": "Penny empieza a salir con el atractivo colega de Leonard. La obsesión de Sheldon con la etiqueta del regalo tortura a Leonard y sus amigos.",
-        "still_path": "https://image.tmdb.org/t/p/w500/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg"
-      },
-      "29": {
-        "name": "The Killer Robot Instability",
-        "overview": "La crítica de Penny a la vida romántica de Wolowitz le empuja a una depresión y abandona la batalla de robots luchadores, para la cual es indispensable.",
-        "still_path": "https://image.tmdb.org/t/p/w500/fdo2epxMfOhpAWJ3EWplioQakRK.jpg"
-      },
-      "30": {
-        "name": "The Friendship Algorithm",
-        "overview": "Sheldon quiere que Barry Kripke le deje usar su equipo de alta tecnología y desarrolla un proceso científico para hacer amigos que se lo ponga fácil.",
-        "still_path": "https://image.tmdb.org/t/p/w500/9q49iyMGcO9EIk9vWbnBZgfGNSF.jpg"
-      },
-      "31": {
-        "name": "The Financial Permeability",
-        "overview": "La solución de Sheldon para la dificultad financiera de Penny pasa por una confrontación entre Leonard y el ex novio de Penny.",
-        "still_path": "https://image.tmdb.org/t/p/w500/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg"
-      },
-      "32": {
-        "name": "The Maternal Capacitance",
-        "overview": "Leonard y Penny se unen tras la desastrosa visita de la madre de Leonard.",
-        "still_path": "https://image.tmdb.org/t/p/w500/cShchuw3099TXbfav7e9XU6qCoV.jpg"
-      },
-      "33": {
-        "name": "The Cushion Saturation",
-        "overview": "Una partida de paintball supone una confrontación entre Sheldon y Penny, y el romance entre Leslie y Wolowitz.",
-        "still_path": "https://image.tmdb.org/t/p/w500/egK4v3alm6G7cm0CmMRGR3p8Yx3.jpg"
-      },
-      "34": {
-        "name": "The Terminator Decoupling",
-        "overview": "Leonard, Sheldon y Wolowitz están alucinados al enterarse que una famosa actriz de ciencia ficción (Summer Glau) está a bordo del tren que han tomado a San Francisco.",
-        "still_path": "https://image.tmdb.org/t/p/w500/uorhUtKMHkx7EokhUcSBl3q6GRt.jpg"
-      },
-      "35": {
-        "name": "The Work Song Nanocluster",
-        "overview": "El negocio casero de Penny se vuelve una completa pesadilla cuando Sheldon se hace cargo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/fkaYEuDqCyBsODp0XYMAZrLULYs.jpg"
-      },
-      "36": {
-        "name": "The Dead Hooker Juxtaposition",
-        "overview": "Penny se pone al ataque con la nueva vecina hermosa, que puede convertirse en la \"nueva Penny\".",
-        "still_path": "https://image.tmdb.org/t/p/w500/8LL0P42Z8mwyFXfnF3jnaabSZYt.jpg"
-      },
-      "37": {
-        "name": "The Hofstadter Isotope",
-        "overview": "Un amigo de la tienda de cómics que coquetea con Penny, hace que Leonard y Howard vayan al bar a conseguir mujeres.",
-        "still_path": "https://image.tmdb.org/t/p/w500/otMgg5qrM4XfHwbGnpWhPy8R2yD.jpg"
-      },
-      "38": {
-        "name": "The Vegas Renormalization",
-        "overview": "Leonard y Koothrappali llevan a Wolowitz que tiene el corazón roto a Las Vegas, y Sheldon olvida las llaves de su departamento por lo que debe quedarse en lo de Penny.",
-        "still_path": "https://image.tmdb.org/t/p/w500/5SRU3ZHSjhdh7MOWHxivvO6p2Xs.jpg"
-      },
-      "39": {
-        "name": "The Classified Materials Turbulence",
-        "overview": "Para la segunda cita con Stuart, Penny le hace un comentario a Leonard que le da esperanza para una relación con ella. Wolowitz se da cuenta que hay un error crucial en un proyecto de la NASA para el que está trabajando.",
-        "still_path": "https://image.tmdb.org/t/p/w500/jNdjEnmBwdJiojaG6weilqZPfOn.jpg"
-      },
-      "40": {
-        "name": "The Monopolar Expedition",
-        "overview": "Los chicos planean trabajar en el verano en el Polo Norte, esto hace que Penny reevalue sus sentimientos por Leonard.",
-        "still_path": "https://image.tmdb.org/t/p/w500/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg"
-      },
-      "41": {
-        "name": "The Electric Can Opener Fluctuation",
-        "overview": "Cuando Sheldon descubre que boicotearon sus experimentos en el Artico, huye a Texas con su madre. Como consecuencia, los chicos van detrás suyo para lograr que vuelva a casa.",
-        "still_path": "https://image.tmdb.org/t/p/w500/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg"
-      },
-      "42": {
-        "name": "The Jiminy Conjecture",
-        "overview": "Penny y Leonard tratan de recuperarse después de su primer encuentro incómodo, mientras que Sheldon y Howard se apuestan sus mejores cómics para el que logre determinar de qué especie es un grillo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg"
-      },
-      "43": {
-        "name": "The Gothowitz Deviation",
-        "overview": "Howard y Raj visitan una discoteca gótica para cazar mujeres mientras Sheldon intenta mejorar a Penny con una modificación del comportamiento basada en el consumo de chocolate",
-        "still_path": "https://image.tmdb.org/t/p/w500/8iWdGkONXwKYsv73HZr6p80Csaa.jpg"
-      },
-      "44": {
-        "name": "The Pirate Solution",
-        "overview": "Raj debe encontrar un nuevo trabajo o será enviado de regreso a India, pero Sheldon tiene una solución, lo que deja a Leonard y Penny con Howard como mal tercio.",
-        "still_path": "https://image.tmdb.org/t/p/w500/doGrzGYbdS9HzjkfROUENBv6gpk.jpg"
-      },
-      "45": {
-        "name": "The Creepy Candy Coating Corollary",
-        "overview": "Después de enterarse que Wil Wheaton entrara a un concurso de estrategia de cartas, Sheldon decide entrar también. Mientras tanto, Penny arregla una cita para una de sus amigas con Wolowitz.",
-        "still_path": "https://image.tmdb.org/t/p/w500/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg"
-      },
-      "46": {
-        "name": "The Cornhusker Vortex",
-        "overview": "Sheldon se convierte en maestro de Leonard para ayudarlo a entender el football, mientras un problema ocurrido al volar cometas amenaza la amistad de Howard y Raj.",
-        "still_path": "https://image.tmdb.org/t/p/w500/ethrkqDoGEbXtmN48IhN9aIESfa.jpg"
-      },
-      "47": {
-        "name": "The Guitarist Amplification",
-        "overview": "Una disputa entre Leonard y Penny pone a Sheldon jugando el papel de mediador, aunque por propia conveniencia en vez de altruismo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg"
-      },
-      "48": {
-        "name": "The Adhesive Duck Deficency",
-        "overview": "Con Leonard, Howard y Raj fuera acampando en el desierto, Penny herida solo tiene a Sheldon para confiar en.",
-        "still_path": "https://image.tmdb.org/t/p/w500/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg"
-      },
-      "49": {
-        "name": "The Vengeance Formulation",
-        "overview": "Después de ser humillado en Radio Pública Nacional, Sheldon jura destruir a Kripke, mientras Wolowitz trata de no destruir su relación con Bernadette.",
-        "still_path": "https://image.tmdb.org/t/p/w500/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg"
-      },
-      "50": {
-        "name": "The Gorilla Experiment",
-        "overview": "Penny pide ayuda a Sheldon para entender en que trabaja Leonard, mientras Wolowitz siente celos cuando Leonard empieza a llevarse bien con su nueva novia.",
-        "still_path": "https://image.tmdb.org/t/p/w500/xUaKd5XBnmqny83essybaiQSICd.jpg"
-      },
-      "51": {
-        "name": "The Maternal Congruence",
-        "overview": "Una visita de la madre de Leonard emociona a Sheldon mientras que aterroriza a Leonard.",
-        "still_path": "https://image.tmdb.org/t/p/w500/kioeIQpVHRmhILyFGHiiebACdX1.jpg"
-      },
-      "52": {
-        "name": "The Psychic Vortex",
-        "overview": "Mientras Sheldon y Koothrappali asisten a una fiesta en la universidad, Leonard se molesta al descubrir que Penny cree en psíquicos.",
-        "still_path": "https://image.tmdb.org/t/p/w500/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg"
-      },
-      "53": {
-        "name": "The Bozeman Reaction",
-        "overview": "Cuando su apartamento es robado, Leonard y Sheldon recurren a sus amigos para crear un sistema de seguridad de punta.",
-        "still_path": "https://image.tmdb.org/t/p/w500/jLh4QS3YkclWPrioytdMbuVjwXL.jpg"
-      },
-      "54": {
-        "name": "The Einstein Approximation",
-        "overview": "La búsqueda de Sheldon de la solucion de un problema de física le lleva a trabajar en el restaurante con Penny.",
-        "still_path": "https://image.tmdb.org/t/p/w500/7tx6fSRlOn6r5HXVOzOjilaqeZI.jpg"
-      },
-      "55": {
-        "name": "The Large Hadron Collision",
-        "overview": "Leonard tiene que elegir una personaque le acompañe en un viaje a Suiza el día de San Valentín para visitar el Gran Colisionador de Hadrones del CERN.",
-        "still_path": "https://image.tmdb.org/t/p/w500/X19dpYs9iBJeiqiqb72STdjCg0.jpg"
-      },
-      "56": {
-        "name": "The Excelsior Acquisition",
-        "overview": "Sheldon termina en el calabozo por una multa de tráfico que recibió mientras ayudaba a Penny, y se pierde la firma de libros de Stan Lee.",
-        "still_path": "https://image.tmdb.org/t/p/w500/6waZYJy3LVmnMO6Im6aFuBTDgJg.jpg"
-      },
-      "57": {
-        "name": "The Precious Fragmentation",
-        "overview": "El hallazgo de un anillo original del rodaje de \"El señor de lo anillos\" amenaza la integridad del grupo, pues cada uno lo quiere para un fin diferente.",
-        "still_path": "https://image.tmdb.org/t/p/w500/qwBvS3JV40nWZQOBhxTMhWoSk0Q.jpg"
-      },
-      "58": {
-        "name": "The Pants Alternative",
-        "overview": "Los amigos de Sheldon tratan de ayudarle a superar su miedo a hablar en público cuando este se interpone entre él y un codiciado premio.",
-        "still_path": "https://image.tmdb.org/t/p/w500/lyAMqIxYBlBNk8Brb6CWceltipC.jpg"
-      },
-      "59": {
-        "name": "The Wheaton Recurrence",
-        "overview": "Una pelea entre Leonard y Penny pone en peligro su relación. Mientras, Sheldon compite con Will Wheaton en la bolera...",
-        "still_path": "https://image.tmdb.org/t/p/w500/oHlOeHU6ruNOCE2yvRYG21r0AB5.jpg"
-      },
-      "60": {
-        "name": "The Spaghetti Catalyst",
-        "overview": "Mientras Leonard y Penny siguen sin hablarse, Sheldon intenta complacerlos a los dos para que estén contentos.",
-        "still_path": "https://image.tmdb.org/t/p/w500/wztaQvhy4aNNgJmJhs201Qv8zXm.jpg"
-      },
-      "61": {
-        "name": "The Plimpton Simulation",
-        "overview": "Leonard y Sheldon compiten por la atención de una física de renombre.",
-        "still_path": "https://image.tmdb.org/t/p/w500/cppyrsh201R39yrlQrBk7ShYpQ3.jpg"
-      },
-      "62": {
-        "name": "The Staircase Implementation",
-        "overview": "Leonard le cuenta a Penny como se conocieron él y Sheldon, y lo que pasó con el ascensor.",
-        "still_path": "https://image.tmdb.org/t/p/w500/cGQf2br0gTknsDtj71CGrrX1Gg6.jpg"
-      },
-      "63": {
-        "name": "The Lunar Excitation",
-        "overview": "Howard y Raj intentan encontrar a la media naranja de Sheldon en una página de contactos en internet. Penny comienza a preocuparse con el hecho de que, tras haber salido con Leonard, quizá no sea capaz de salir con los chicos \"normales\" de siempre.",
-        "still_path": "https://image.tmdb.org/t/p/w500/7wpXVU3zqGj9QMOtrdLDWRanGxP.jpg"
-      },
-      "64": {
-        "name": "The Robotic Manipulation",
-        "overview": "Howard utiliza su brazo robotizado para su propio bienestar. Penny está dispuesta a ayudar a Sheldon con la que va a ser su primera cita romántica.",
-        "still_path": "https://image.tmdb.org/t/p/w500/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg"
-      },
-      "65": {
-        "name": "The Cruciferous Vegetable Amplification",
-        "overview": "Sheldon se da cuenta de que no vivirá lo suficiente como para descargar su conciencia a un robot, por lo que intenta prolongar su vida",
-        "still_path": "https://image.tmdb.org/t/p/w500/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg"
-      },
-      "66": {
-        "name": "The Zazzy Substitution",
-        "overview": "Penny comienza a referirse a Sheldon y Amy como Shamey, lo que no le gusta a ninguno de los dos. Sheldon descubrirá su pasión por los gatos.",
-        "still_path": "https://image.tmdb.org/t/p/w500/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg"
-      },
-      "67": {
-        "name": "The Hot Troll Deviation",
-        "overview": "Cierta información sobre Wolowitz sale a la luz, quien intenta retomar su relación con Bernadette. Sheldon y Raj van a la guerra en la Universidad.",
-        "still_path": "https://image.tmdb.org/t/p/w500/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg"
-      },
-      "68": {
-        "name": "The Desperation Emanation",
-        "overview": "Leonard se deprime al ver que todos tienen novia menos él. Mientras, Sheldon quiere deshacerse de la suya y Amy intenta presentarle a su madre.",
-        "still_path": "https://image.tmdb.org/t/p/w500/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg"
-      },
-      "69": {
-        "name": "The Irish Pub Formulation",
-        "overview": "Leonard intenta mantener oculta a Sheldon, Howard y Raj una aventura amorosa… Justo cuando la hermana de este último llega de visita.",
-        "still_path": "https://image.tmdb.org/t/p/w500/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg"
-      },
-      "70": {
-        "name": "The Apology Insufficency",
-        "overview": "Para darle una autorización a Wolowitz, el FBI entrevista a toda la pandilla, y Sheldon, accidentalmente, deja caer alguna información inapropiada.",
-        "still_path": "https://image.tmdb.org/t/p/w500/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg"
-      },
-      "71": {
-        "name": "The 21-Second Excitation",
-        "overview": "Mientas los chicos esperan para una película muy esperada, Penny y Bernadette invitan a Amy (Mayim Bialik) a su primer pijama party.",
-        "still_path": "https://image.tmdb.org/t/p/w500/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg"
-      },
-      "72": {
-        "name": "The Boyfriend Complexity",
-        "overview": "Penny le pide a Leonard que finja ser su novio para engañar a su padre, que ha venido a Pasadena.",
-        "still_path": "https://image.tmdb.org/t/p/w500/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg"
-      },
-      "73": {
-        "name": "The Alien Parasite Hypothesis",
-        "overview": "Amy se da cuenta que siente atracción sexual por un exnovio de Penny. Por otro lado, Koothrappali y Wolowitz intentan probar quien de los dos seria el mejor superhéroe.",
-        "still_path": "https://image.tmdb.org/t/p/w500/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg"
-      },
-      "74": {
-        "name": "The Justice League Recombination",
-        "overview": "Los chicos encuentran un \"Super\" uso para el nuevo novio de Penny, Zack, cuando entran en un concurso de disfraces como la Liga de la Justicia.",
-        "still_path": "https://image.tmdb.org/t/p/w500/uUUUozntwqQiivWD7qsuyV8hg2O.jpg"
-      },
-      "75": {
-        "name": "The Bus Pants Utilization",
-        "overview": "La idea de Leonard para crear una aplicación de Smartphone hará peligrar su amistad con Sheldon",
-        "still_path": "https://image.tmdb.org/t/p/w500/ksC48YK2UFV8GeBETu11fTM7r0a.jpg"
-      },
-      "76": {
-        "name": "The Love Car Displacement",
-        "overview": "Bernadette se encuentra con su ex-novio mientras asiste a un evento científico con Wolowitz.",
-        "still_path": "https://image.tmdb.org/t/p/w500/dBYcZAs8g77jjvyHGXClQIluFwc.jpg"
-      },
-      "77": {
-        "name": "The Thespian Catalyst",
-        "overview": "Con la esperanza de ser un mejor maestro, Sheldon pide a Penny que le dé lecciones de actuación. Raj tiene fantasías con la novia de un amigo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/oOd0acUQiDF7CyoJf9z52JyGBA5.jpg"
-      },
-      "78": {
-        "name": "The Benefactor Factor",
-        "overview": "Una suculenta donación para la universidad hace que Leonard reconsidere hasta qué punto está dispuesto a ir por el bien de la ciencia.",
-        "still_path": "https://image.tmdb.org/t/p/w500/mRo77oUOj2kq4DLqOdpXkmtBjOv.jpg"
-      },
-      "79": {
-        "name": "The Cohabitation Formulation",
-        "overview": "Bernadette le notifica a Howard que ya es tiempo de escoger entre vivir juntos o seguir viviendo con su madre. Leonard, por su lado se entera de que la hermana de Raj está de vuelta y hará todo lo posible por reencontrarse con ella. Amy, más adelante, intentará consolar a Penny cuando esta se entera de la noticia.",
-        "still_path": "https://image.tmdb.org/t/p/w500/lwHPcYlrCFfRO5UEJ7oFfhg84me.jpg"
-      },
-      "80": {
-        "name": "The Toast Derivation",
-        "overview": "Al darse cuenta de que Leonard es el alma del grupo, Sheldon buscará un nuevo grupo de amigos en donde él pueda ser el centro de atracción.",
-        "still_path": "https://image.tmdb.org/t/p/w500/WeOnAUVBQn5VrT409KoZUh19HY.jpg"
-      },
-      "81": {
-        "name": "The Prestidigitation Approximation",
-        "overview": "Sheldon quedará perplejo al ver el nuevo truco de magia de Wolowitz. Leonard, más adelante, se da cuenta de que si sigue saliendo con Priya, se hará cada vez más difícil que continúe su amistad con Penny.",
-        "still_path": "https://image.tmdb.org/t/p/w500/lxpNNW7buxaTnWDtPAnqpc6ly7g.jpg"
-      },
-      "82": {
-        "name": "The Zarnecki Incursion",
-        "overview": "La cuenta de juegos de Sheldon es \"hackeada\" y su identidad robada; ahora los chicos se unirán para descubrir quién es el responsable del terrible robo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/zoY6h6LtJCShaLfuPUSnBCNRdHN.jpg"
-      },
-      "83": {
-        "name": "The Herb Garden Germination",
-        "overview": "A manera de experimento, Sheldon y Amy deciden divulgar varios rumores acerca del resto de los chicos. Howard, por su parte llevará a un nivel más alto aún su relación con Bernadette.",
-        "still_path": "https://image.tmdb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg"
-      },
-      "84": {
-        "name": "The Agreement Dissection",
-        "overview": "Leonard y Priya pasan demasiado tiempo en la ducha, lo que hace que Sheldon amoneste a Leonard por el contrato de compañeros de piso, pero antes de llegar mas lejos, Priya usa sus habilidades como abogado para anular todos los cargos, lo que hara a Sheldon desesperarse.",
-        "still_path": "https://image.tmdb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg"
-      },
-      "85": {
-        "name": "The Wildebeest Implementation",
-        "overview": "Raj intenta curar su trastorno de ansiedad social, mientras que Penny utiliza a Bernadette para espiar a Leonard y su novia.",
-        "still_path": "https://image.tmdb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg"
-      },
-      "86": {
-        "name": "The Engagement Reaction",
-        "overview": "Cuando Howard, finalmente, da la noticia a su madre de que está comprometido con Bernadette, ella termina en el hospital.",
-        "still_path": "https://image.tmdb.org/t/p/w500/1hlDFTRY9MLfMB3AKhaX0dEEreK.jpg"
-      },
-      "87": {
-        "name": "The Roommate Transmogrification",
-        "overview": "Cuando Bernadette recibe su doctorado, los chicos se burlan de Wolowitz, que es el único de su grupo sin doctorado. Raj se convierte en el nuevo compañero de Sheldon, después de escuchar a Leonard y Priya participar en una fantasía de \"Star Trek\" en su dormitorio.",
-        "still_path": "https://image.tmdb.org/t/p/w500/a3VbByTzFL1ew0gmdQVzFXF9mmz.jpg"
-      },
-      "88": {
-        "name": "The Skank Reflex Analysis",
-        "overview": "Penny está preocupada con el grado de daño que sufrirá su amistad con los chicos como secuela de su noche con Raj, mientras Sheldon se convierte en el líder del equipo de paintball.",
-        "still_path": "https://image.tmdb.org/t/p/w500/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg"
-      },
-      "89": {
-        "name": "The Infestation Hypothesis",
-        "overview": "Amy queda atrapada en medio de una pelea entre Sheldon y Penny, mientras Leonard trata de darle vida a su relación a larga distancia con Priya.",
-        "still_path": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg"
-      },
-      "90": {
-        "name": "The Infestation Hypothesis",
-        "overview": "Amy queda atrapada en medio de una pelea entre Sheldon y Penny, mientras Leonard trata de darle vida a su relación a larga distancia con Priya.",
-        "still_path": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg"
-      },
-      "91": {
-        "name": "The Wiggly Finger Catalyst",
-        "overview": "Penny encuentra a la chica perfecta para salir con Raj. Mientras, Sheldon utiliza los dados de Dragones y Mazmorras para tomar decisiones triviales.",
-        "still_path": "https://image.tmdb.org/t/p/w500/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg"
-      },
-      "92": {
-        "name": "The Russian Rocket Reaction",
-        "overview": "Sheldon y Leonard son invitados a una fiesta en la casa de Wil Wheaton, y Howard tiene una oportunidad fuera de este mundo.",
-        "still_path": "https://image.tmdb.org/t/p/w500/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg"
-      },
-      "93": {
-        "name": "The Rhinitis Revelation",
-        "overview": "La madre de Sheldon, Mary Cooper, viene de visita, pero a Sheldon le molesta que ella también pase tiempo con el resto de la banda, en lugar de atender a sus necesidades.",
-        "still_path": "https://image.tmdb.org/t/p/w500/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg"
-      },
-      "94": {
-        "name": "The Good Guy Fluctuation",
-        "overview": "Un artista de cómic pone la relación entre Leonard y Priya a prueba, mientras Sheldon trata de asustar a los chicos para Halloween.",
-        "still_path": "https://image.tmdb.org/t/p/w500/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg"
-      },
-      "95": {
-        "name": "The Isolation Permutation",
-        "overview": "A Amy se le rompe el corazón cuando descubre que Penny y Bernadette fueron a comprar el vestido de novia sin ella.",
-        "still_path": "https://image.tmdb.org/t/p/w500/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg"
-      },
-      "96": {
-        "name": "The Ornithophobia Diffusion",
-        "overview": "Leonard y Penny tratan de salir como amigos en una \"no cita\", pero al final terminan estropeándolo. Mientras tanto, Sheldon solicita la ayuda de Bernadette y Amy para superar su miedo a los pájaros.",
-        "still_path": "https://image.tmdb.org/t/p/w500/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg"
-      },
-      "97": {
-        "name": "The Flaming Spittoon Acquisition",
-        "overview": "Sheldon considera llevar su relación con Amy a un nivel superior cuando Stuart, de la tienda de cómics, le pide una cita.",
-        "still_path": "https://image.tmdb.org/t/p/w500/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg"
-      },
-      "98": {
-        "name": "The Speckerman Recurrence",
-        "overview": "Leonard tiene que enfrentarse a sus miedos después de haber sido contactado por un matón de la escuela de secundaria.",
-        "still_path": "https://image.tmdb.org/t/p/w500/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg"
-      },
-      "99": {
-        "name": "The Shiny Trinket Maneuver",
-        "overview": "Sheldon acabará escaldado al no apreciar un logro de Amy. Mientras Howard intenta cambiar la opinión de Bernadette respecto a los niños.",
-        "still_path": "https://image.tmdb.org/t/p/w500/dHAL94ft1SipqmaHL6uNAsegots.jpg"
-      },
-      "100": {
-        "name": "The Recombination Hypothesis",
-        "overview": "En el episodio número 100 de la serie Penny y Leonard se plantearán revivir su relación amorosa",
-        "still_path": "https://image.tmdb.org/t/p/w500/7GZNVew1Fw24MKcCUKlGuvGJ2LR.jpg"
-      },
-      "101": {
-        "name": "The Beta Test Initiation",
-        "overview": "Leonard y Penny acuerdan empezar una relación de nuevo y Raj finalmente encuentra una \"mujer\" con la que puede hablar sin estar borracho, en la forma de Siri en su nuevo teléfono. Mientras tanto, Sheldon decide iniciar una serie de YouTube titulada \"Sheldon Cooper presenta Diversión con las banderas\" con la ayuda de Amy.",
-        "still_path": "https://image.tmdb.org/t/p/w500/dZTRt2pZ2Ty5kka8iPqXocXO779.jpg"
-      },
-      "102": {
-        "name": "The Friendship Contraction",
-        "overview": "Las exigencias egoístas de Sheldon sobre Leonard obligan a reconsiderar su amistad. Mientras tanto, Wolowitz trata de escoger su apodo de astronauta.",
-        "still_path": "https://image.tmdb.org/t/p/w500/aTgjYCtHKEoR0meeXcd2tEXdAkl.jpg"
-      },
-      "103": {
-        "name": "The Vacation Solution",
-        "overview": "Sheldon se toma con bastante calma el hecho de trabajar con Amy en su laboratorio de neurobiología, hasta que la directiva le pide que tome unas vacaciones forzadas. Más adelante, Howard no sabrá qué hacer cuando Bernadette le pida firmar un acuerdo prenupcial.",
-        "still_path": "https://image.tmdb.org/t/p/w500/k6a9X7SdwEwzFlt7mx6gAkjlgTu.jpg"
-      },
-      "104": {
-        "name": "The Rothman Disintegration",
-        "overview": "Sheldon y Kipke compiten por la la mejor oficina en la Universidad. Más adelante Penny se sentirá incómoda al aceptar un regalo de Amy.",
-        "still_path": "https://image.tmdb.org/t/p/w500/bcs07iCu9l2yP6HfjcrPUViXouG.jpg"
-      },
-      "105": {
-        "name": "The Werewolf Transformation",
-        "overview": "Cuando el barbero de Sheldon es hospitalizado, toda la rutina de cuidados del cabello del científico es trastocada y Sheldon no sabe qué hacer con su vida. Mientras tanto, Howard seguirá caminando entre las nubes de la emoción mientras continúa su entrenamiento para ser astronauta.",
-        "still_path": "https://image.tmdb.org/t/p/w500/1gdddSpcbY8Eh98Hg6xCFPoDWpu.jpg"
-      },
-      "106": {
-        "name": "The Weekend Vortex",
-        "overview": "Sheldon desata la ira de Amy cuando elige pasar un fin de semana de videojuegos con sus amigos, en vez de ir a la fiesta de cumpleaños de su tía.",
-        "still_path": "https://image.tmdb.org/t/p/w500/gN7RrKwH3pmL8u1sJiOlzChZBAb.jpg"
-      },
-      "107": {
-        "name": "The Transporter Malfunction",
-        "overview": "Raj da una sorpresa a sus padres cuando les pide que le preparen una cita. Penny compra a Leonard y Sheldon un par de juguetes de coleccionista de Star Trek, sin saber el efecto que tendrá sobre Sheldon.",
-        "still_path": "https://image.tmdb.org/t/p/w500/wcPVenMYOg1IGGcwgSPzWAjdAkO.jpg"
-      },
-      "108": {
-        "name": "The Hawking Excitation",
-        "overview": "Sheldon intenta por todos los medios conocer a su héroe, el doctor Stephen Hawking.",
-        "still_path": "https://image.tmdb.org/t/p/w500/dh75Gnq9vlvTIxvheYo3D86lSnm.jpg"
-      },
-      "109": {
-        "name": "The Stag Convergence",
-        "overview": "Los chicos preparan la despedida de soltero de Howard, y algunos detalles de su vida privada son publicados en internet.",
-        "still_path": "https://image.tmdb.org/t/p/w500/FDRRgbb4PkOljdmEjKawpnyFlK.jpg"
-      },
-      "110": {
-        "name": "The Launch Acceleration",
-        "overview": "Howard se enfrenta a un doble problema cuando la NASA aplaza su lanzamiento y tiene que conocer al padre de Bernadette. Una incómoda conversación de alcoba de Leonard puede hacer cambiar su relación con Penny.",
-        "still_path": "https://image.tmdb.org/t/p/w500/aGhOWNabAScjiHEzs1TebXH1kVa.jpg"
-      },
-      "111": {
-        "name": "The Countdown Reflection",
-        "overview": "La banda se da prisa en proporcionar a Howard y Bernadette una boda antes de la misión de Howard en el espacio.",
-        "still_path": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg"
       }
     }
   },

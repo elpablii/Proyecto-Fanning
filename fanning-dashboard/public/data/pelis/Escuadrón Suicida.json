@@ -1143,14 +1143,13 @@
   "tmdb": {
     "overview": "La agencia secreta gubernamental A.R.G.U.S., liderada por Amanda Waller, crea una fuerza especial con los peores villanos del mundo: el «Escuadrón Suicida», un equipo asignado a misiones mortales a cambio de acortar sus estancias en prisión.",
     "photos": [
-      "https://image.tmdb.org/t/p/w780/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
       "https://image.tmdb.org/t/p/w780/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+      "https://image.tmdb.org/t/p/w780/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
       "https://image.tmdb.org/t/p/w780/zC70x9wqPPtxU99HsoGsxQ8IhSw.jpg",
       "https://image.tmdb.org/t/p/w780/dpoIQ9MN54cxuLZxDABEUOSFGY3.jpg",
       "https://image.tmdb.org/t/p/w780/3wIn53fLeP09RyRosAk9Luq7U6q.jpg",
       "https://image.tmdb.org/t/p/w780/Ls081Fjb8EyQLT0X2EXkQZ9HNX.jpg"
     ],
-    "episodes": null,
-    "rating": "TE"
+    "episodes": null
   }
 }

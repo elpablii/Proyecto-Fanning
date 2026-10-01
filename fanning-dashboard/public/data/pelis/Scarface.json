@@ -683,14 +683,13 @@
   "tmdb": {
     "overview": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
     "photos": [
-      "https://image.tmdb.org/t/p/w780/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
       "https://image.tmdb.org/t/p/w780/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+      "https://image.tmdb.org/t/p/w780/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
       "https://image.tmdb.org/t/p/w780/9DnGZGDpVAXcEqgizssx5OckJIK.jpg",
-      "https://image.tmdb.org/t/p/w780/w2E0iKujBxiUtVH3u71sgzUPdyB.jpg",
       "https://image.tmdb.org/t/p/w780/58xwzOzusEBR0IVmrSf4DKvjAaz.jpg",
-      "https://image.tmdb.org/t/p/w780/6BrWQn3Mk5SgXYNlGk7U6VQwHOW.jpg"
+      "https://image.tmdb.org/t/p/w780/6BrWQn3Mk5SgXYNlGk7U6VQwHOW.jpg",
+      "https://image.tmdb.org/t/p/w780/6YIGVHSsGe16zogHNNoIc6gKmcO.jpg"
     ],
-    "episodes": null,
-    "rating": "+18"
+    "episodes": null
   }
 }

@@ -100,8 +100,7 @@ export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean
   "toy story iv": { q: "Toy Story 4", y: "2019" },
   "toy story 4": { q: "Toy Story 4", y: "2019" },
   "work it": { q: "Work It", y: "2020" },
-  "zootopia i": { q: "Zootopia", y: "2016" },
-  "zootopia+": { q: "Zootopia+", tv: true, y: "2022" },
+  "emergency": { q: "Emergency", y: "2022", id: "819309" },
   "star wars episodio i the phantom menace": { q: "Star Wars: Episode I - The Phantom Menace", y: "1999" },
   "star wars episodio ii attack of the clones": { q: "Star Wars: Episode II - Attack of the Clones", y: "2002" },
   "star wars episodio iii revenge of the sith": { q: "Star Wars: Episode III - Revenge of the Sith", y: "2005" },
@@ -169,7 +168,7 @@ export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean
   "gta san andreas commercials": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
   "gta san andreas wctr radio": { q: "Grand Theft Auto: San Andreas - The Introduction", y: "2004" },
   "the amazing digital circus: the last act": { q: "The Amazing Digital Circus" },
-  "zootopia ii (2025)": { q: "Zootopia 2", y: "2025" },
+
   "pulp fiction": { q: "Pulp Fiction", y: "1994" },
   "matilda (1996)": { q: "Matilda", y: "1996" },
   "lilo and stitch ii: stitch has a glitch": { q: "Lilo & Stitch 2: Stitch Has a Glitch", y: "2005" },

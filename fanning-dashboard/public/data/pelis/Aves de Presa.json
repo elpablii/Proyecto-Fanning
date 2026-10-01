@@ -1195,14 +1195,13 @@
   "tmdb": {
     "overview": "Después de separarse de Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña (Cassandra Cain) del malvado rey del crimen Máscara Negra.",
     "photos": [
+      "https://image.tmdb.org/t/p/w780/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
       "https://image.tmdb.org/t/p/w780/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
       "https://image.tmdb.org/t/p/w780/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
       "https://image.tmdb.org/t/p/w780/cACIHw25SPdvsXYWGA6RJuhqROt.jpg",
       "https://image.tmdb.org/t/p/w780/P70lB9FQ8cYvRFbxzqwZOexe7S.jpg",
-      "https://image.tmdb.org/t/p/w780/hcvM4RO3k493KqU7JzqmPc0wpFi.jpg",
-      "https://image.tmdb.org/t/p/w780/jiqD14fg7UTZOT6qgvzTmfRYpWI.jpg"
+      "https://image.tmdb.org/t/p/w780/hcvM4RO3k493KqU7JzqmPc0wpFi.jpg"
     ],
-    "episodes": null,
-    "rating": "+14"
+    "episodes": null
   }
 }

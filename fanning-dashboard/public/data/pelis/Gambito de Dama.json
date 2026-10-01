@@ -1253,49 +1253,44 @@
     }
   ],
   "tmdb": {
+    "overview": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
+      "https://image.tmdb.org/t/p/w780/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+      "https://image.tmdb.org/t/p/w780/5N5dSOrysuquExvn8Gpp5jMEf6u.jpg",
+      "https://image.tmdb.org/t/p/w780/7KplWFcstl85sLfiwI6NMIzemyF.jpg",
+      "https://image.tmdb.org/t/p/w780/jweDN93wtbUgg2eO8eYTWV6QriS.jpg",
+      "https://image.tmdb.org/t/p/w780/fh6vgXAvAMiqcpBwo2KK1VMhD4V.jpg"
+    ],
     "episodes": {
       "1": {
-        "overview": "Beth, que vive en un orfanato desde los 9 años, desarrolla un peculiar gusto por el ajedrez... y por las pastillas tranquilizantes que los niños reciben.",
         "name": "Openings",
         "still_path": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg"
       },
       "2": {
-        "overview": "Confundida después de mudarse a los suburbios de repente, una Beth adolescente evalúa a sus compañeros de escuela y trama un plan para entrar a un torneo de ajedrez.",
         "name": "Exchanges",
         "still_path": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg"
       },
       "3": {
-        "overview": "El torneo de Cincinnati sumerge a Beth y a su madre en un torbellino de viajes e interacciones con la prensa, mientras Beth se propone participar en el Abierto de EE. UU.",
         "name": "Doubled Pawns",
         "still_path": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg"
       },
       "4": {
-        "overview": "Las clases de ruso son la puerta de entrada a una nueva vida social. En México, Beth conoce al intimidante Borgov, mientras su madre tiene un amigo por correspondencia.",
         "name": "Middle Game",
         "still_path": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg"
       },
       "5": {
-        "overview": "De vuelta en Kentucky, una afligida Beth se comunica con un excontrincante, quien le ofrece ayuda para mejorar su destreza con miras al Campeonato de Estados Unidos.",
         "name": "Fork",
         "still_path": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg"
       },
       "6": {
-        "overview": "Después de entrenarse con Benny en Nueva York, Beth va a París para su revancha con Borgov, pero una noche de descontrol la arrastra a una espiral autodestructiva.",
         "name": "Adjournment",
         "still_path": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg"
       },
       "7": {
-        "overview": "La visita de una vieja amiga obliga a Beth a reconsiderar su pasado y establecer prioridades, a puertas de la partida más importante de su vida.",
         "name": "End Game",
         "still_path": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg"
-      },
-      "8": {
-        "overview": "Una mirada detrás de escena a la creación de Gambito de Dama.",
-        "name": "Creating Queen's Gambit",
-        "still_path": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg"
       }
-    },
-    "overview": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
-    "rating": "+18"
+    }
   }
 }

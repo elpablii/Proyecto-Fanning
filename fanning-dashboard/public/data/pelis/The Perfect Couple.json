@@ -1089,39 +1089,40 @@
     }
   ],
   "tmdb": {
+    "overview": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
+      "https://image.tmdb.org/t/p/w780/9Ow1qS0AYBKcNamvUmaFIOahGW8.jpg",
+      "https://image.tmdb.org/t/p/w780/dcpHWIhDBPLyP6WyAokJp65vZaE.jpg",
+      "https://image.tmdb.org/t/p/w780/xD7DGNCrhLfcgIgBkD0FYTlFm5z.jpg",
+      "https://image.tmdb.org/t/p/w780/3buRSGVnutw8x4Lww0t70k5dG6R.jpg",
+      "https://image.tmdb.org/t/p/w780/k7TMh6V5C1i1DrVORvABwnOfs78.jpg"
+    ],
     "episodes": {
       "1": {
-        "overview": "Los invitados llegan a Nantucket para el fastuoso ensayo de la boda de la familia Winbury, pero las nupcias dan un giro trágico en cuanto aparece un cadáver.",
         "name": "Happy Wedding Eve",
         "still_path": "https://image.tmdb.org/t/p/w500/nxFWYtGhk8rERddq0TWihtHjsuG.jpg"
       },
       "2": {
-        "overview": "Mientras la policía explora Summerland en busca de pistas, el intento de Greer por controlar el relato pone nerviosa a Amelia. Alguien intenta huir de la isla.",
         "name": "She Would Never Do That",
         "still_path": "https://image.tmdb.org/t/p/w500/2wzelcbQ6hDPrkn9OgsYDIoAp6d.jpg"
       },
       "3": {
-        "overview": "Greer intenta mantener las apariencias para una entrevista. Abby comparte un secreto escandaloso. Amelia lanza una pregunta que cae como una bomba.",
         "name": "The Perfect Family",
         "still_path": "https://image.tmdb.org/t/p/w500/jfQgl6OFEDWtOnoPNUgEtAJWb80.jpg"
       },
       "4": {
-        "overview": "La detective Henry hace preguntas que alimentan las sospechas de Amelia. Greer recibe una llamada misteriosa. Los Winbury se ponen cada vez más tensos e irritables.",
         "name": "Someone Could Get Hurt",
         "still_path": "https://image.tmdb.org/t/p/w500/dtkcyk1TU4q1OcaKNF9LxKnoMOh.jpg"
       },
       "5": {
-        "overview": "Mientras los movimientos de Tag durante la fiesta se ponen bajo la lupa, Amelia hace su propia investigación. Los esfuerzos de Greer por dar una imagen perfecta fallan.",
         "name": "Never Gonna Give You Up",
         "still_path": "https://image.tmdb.org/t/p/w500/iUrLRbaQ8YGcym0JGiqAKCXLmOo.jpg"
       },
       "6": {
-        "overview": "Un giro en la investigación policial hunde a los Winbury en una crisis aun peor. A medida que los secretos mejor guardados salen a la luz, la verdad se torna cada vez más evidente.",
         "name": "That Feels Better",
         "still_path": "https://image.tmdb.org/t/p/w500/aFHJyNQUoYCNsGqyaZLnWU8BjvE.jpg"
       }
-    },
-    "overview": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
-    "rating": "+18"
+    }
   }
 }

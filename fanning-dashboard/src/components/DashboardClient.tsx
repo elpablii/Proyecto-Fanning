@@ -47,10 +47,18 @@ export default function DashboardClient({ initialManifestData }: { initialManife
 
       let totalDialogues = 0;
       if (selectedYear === 'all') {
-        totalDialogues = (manifestData.yearlyData || []).reduce((acc: number, y: any) => acc + (y.dialogues || 0), 0);
+        // Use the pre-computed total from the manifest (includes series with no year)
+        totalDialogues = (manifestData as any).all?.totalDialogues || 
+          (manifestData.yearlyData || []).reduce((acc: number, y: any) => acc + (y.dialogues || 0), 0);
       } else {
-        const found = (manifestData.yearlyData || []).find((y: any) => y.year === selectedYear);
-        totalDialogues = found ? (found.dialogues || 0) : 0;
+        // For a specific year, use the year object's totalDialogues (computed from its movie list)
+        const yearObj = (manifestData[selectedYear] || {}) as any;
+        totalDialogues = yearObj?.totalDialogues || 0;
+        // Fallback to yearlyData if not present
+        if (!totalDialogues) {
+          const found = (manifestData.yearlyData || []).find((y: any) => y.year === selectedYear);
+          totalDialogues = found ? (found.dialogues || 0) : 0;
+        }
       }
 
       setStats({

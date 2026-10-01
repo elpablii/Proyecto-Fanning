@@ -429,39 +429,40 @@
     }
   ],
   "tmdb": {
+    "overview": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+      "https://image.tmdb.org/t/p/w780/vNPm1WG15IJHpsemb9ZRurm4ZC4.jpg",
+      "https://image.tmdb.org/t/p/w780/7huDoLPgTumapij4WJQUvNwXEJh.jpg",
+      "https://image.tmdb.org/t/p/w780/oJ1KKAKiIuBA3s1tvtEa7NlQ2XM.jpg",
+      "https://image.tmdb.org/t/p/w780/a69aEVkHifkL154uUpZbLgSDmB0.jpg",
+      "https://image.tmdb.org/t/p/w780/8H64YmIYxpRJgSTuLUGRUSyi2kN.jpg"
+    ],
     "episodes": {
       "1": {
-        "overview": "Surge una nueva amenaza del Imperio, y Obi-Wan Kenobi reaparece después de años en las sombras.",
         "name": "Part I",
         "still_path": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
       },
       "2": {
-        "overview": "Obi-Wan se mueve en un mundo de criminales y tiene pintado un blanco en la espalda.",
         "name": "Part II",
         "still_path": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
       },
       "3": {
-        "overview": "Mientras busca aliados, Obi-Wan llama la atención del Imperio y pone en peligro a los lugareños.",
         "name": "Part III",
         "still_path": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
       },
       "4": {
-        "overview": "Obi-Wan planea una misión muy arriesgada en territorio enemigo.",
         "name": "Part IV",
         "still_path": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
       },
       "5": {
-        "overview": "Obi-Wan piensa en el siguiente paso, pero el Imperio está cada vez más cerca.",
         "name": "Part V",
         "still_path": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
       },
       "6": {
-        "overview": "Obi-Wan. Darth Vader. Entre la oscuridad y la derrota, renace la batalla por la esperanza.",
         "name": "Part VI",
         "still_path": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
       }
-    },
-    "overview": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
-    "rating": "+14"
+    }
   }
 }

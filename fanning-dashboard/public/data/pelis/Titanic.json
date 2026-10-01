@@ -1331,14 +1331,13 @@
   "tmdb": {
     "overview": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
     "photos": [
+      "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
       "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
       "https://image.tmdb.org/t/p/w780/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
       "https://image.tmdb.org/t/p/w780/4MS3PY7syZUULFGlujYeqQqnIoG.jpg",
-      "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
       "https://image.tmdb.org/t/p/w780/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
       "https://image.tmdb.org/t/p/w780/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg"
     ],
-    "episodes": null,
-    "rating": "+14"
+    "episodes": null
   }
 }
