@@ -144,7 +144,6 @@ export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean
   "mack & rita": { q: "Mack & Rita", y: "2022" },
   "eileen": { q: "Eileen", y: "2023" },
   "lost girls": { q: "Lost Girls", y: "2020" },
-  "girl in the basement": { q: "Girl in the Basement", y: "2021" },
   "a taste of christmas": { q: "A Taste of Christmas", y: "2020" },
   "assassination nation": { q: "Assassination Nation", y: "2018" },
   "oh what fun": { q: "Oh. What. Fun.", y: "2025" },
