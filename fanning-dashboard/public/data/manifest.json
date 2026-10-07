@@ -1,8 +1,8 @@
 {
   "all": {
-    "totalWords": 32686,
-    "uniqueMovies": 146,
-    "totalDialogues": 285081,
+    "totalWords": 32701,
+    "uniqueMovies": 147,
+    "totalDialogues": 286096,
     "topWord": {
       "word": "Rely (verb)",
       "count": 10,
@@ -3837,6 +3837,23 @@
         "dialogues": 481,
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
+      },
+      {
+        "title": "Girl in the Basement",
+        "count": 15,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Girl in the Basement",
+            "count": 15,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "rating": "+14",
+        "dialogues": 1015,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
       }
     ]
   },
@@ -7094,9 +7111,9 @@
     ]
   },
   "2026": {
-    "totalWords": 11590,
-    "uniqueMovies": 54,
-    "totalDialogues": 150345,
+    "totalWords": 11632,
+    "uniqueMovies": 56,
+    "totalDialogues": 152119,
     "topWord": {
       "word": "Landlord",
       "count": 8,
@@ -9252,6 +9269,23 @@
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
       },
       {
+        "title": "IO",
+        "count": 27,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "IO",
+            "count": 27,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "rating": "+14",
+        "dialogues": 759,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
+      },
+      {
         "title": "Unknown",
         "count": 26,
         "type": "movie",
@@ -9267,13 +9301,30 @@
         "dialogues": 1073,
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
+      },
+      {
+        "title": "Girl in the Basement",
+        "count": 15,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Girl in the Basement",
+            "count": 15,
+            "level": "B2"
+          }
+        ],
+        "level": "B2",
+        "rating": "+14",
+        "dialogues": 1015,
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
       }
     ]
   },
   "2027": {
-    "totalWords": 91,
-    "uniqueMovies": 2,
-    "totalDialogues": 2008,
+    "totalWords": 64,
+    "uniqueMovies": 1,
+    "totalDialogues": 1249,
     "topWord": {
       "word": "Backpedal (verbo)",
       "count": 2,
@@ -9348,23 +9399,6 @@
         "dialogues": 1249,
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
-      },
-      {
-        "title": "IO",
-        "count": 27,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "IO",
-            "count": 27,
-            "level": "B2"
-          }
-        ],
-        "level": "B2",
-        "rating": "+14",
-        "dialogues": 759,
-        "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
       }
     ]
   },
@@ -9386,12 +9420,12 @@
     },
     {
       "year": "2026",
-      "words": 11590,
-      "dialogues": 79738
+      "words": 11632,
+      "dialogues": 80753
     },
     {
       "year": "2027",
-      "words": 91,
+      "words": 64,
       "dialogues": 1249
     }
   ]

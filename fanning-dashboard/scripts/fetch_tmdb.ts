@@ -114,6 +114,7 @@ const tmdbOverrides: Record<string, { q: string, y?: string, id?: string, tv?: b
     "taylor swift reputation stadium tour": { q: "Taylor Swift: Reputation Stadium Tour", y: "2018" },
     "super mario bros the movie": { q: "The Super Mario Bros. Movie", y: "2023" },
     "emergency": { q: "Emergency", y: "2022", id: "819309" },
+    "girl in the basement": { q: "Girl in the Basement", y: "2021", id: "801335" },
     "grand theft auto vi an extended look": { q: "Grand Theft Auto VI", id: "1744462" }
 };
 

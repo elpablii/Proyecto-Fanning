@@ -101,6 +101,7 @@ export const tmdbOverrides: Record<string, { q: string, y?: string, tv?: boolean
   "toy story 4": { q: "Toy Story 4", y: "2019" },
   "work it": { q: "Work It", y: "2020" },
   "emergency": { q: "Emergency", y: "2022", id: "819309" },
+  "girl in the basement": { q: "Girl in the Basement", y: "2021", id: "801335" },
   "star wars episodio i the phantom menace": { q: "Star Wars: Episode I - The Phantom Menace", y: "1999" },
   "star wars episodio ii attack of the clones": { q: "Star Wars: Episode II - Attack of the Clones", y: "2002" },
   "star wars episodio iii revenge of the sith": { q: "Star Wars: Episode III - Revenge of the Sith", y: "2005" },
