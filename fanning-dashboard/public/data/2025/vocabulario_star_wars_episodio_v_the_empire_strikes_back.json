@@ -1,14 +1,14 @@
 [
   {
-    "id": "v_50e26599",
-    "word": "I’d just as soon kiss a Cookies",
-    "translation": "preferir besar a un Wookiee",
+    "id": "v_b4bea728",
+    "word": "I’d just as soon kiss a Wookiee",
+    "translation": "preferiría besar a un Wookiee",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_68c47ef6",
+    "id": "v_d818ceeb",
     "word": "Chamber",
     "translation": "aposento, recámara, habitación",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -16,7 +16,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_384c7cf7",
+    "id": "v_53eea90e",
     "word": "Switch off",
     "translation": "apagar",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -24,7 +24,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_5499d587",
+    "id": "v_583483e3",
     "word": "Take apart",
     "translation": "desmontar",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -32,23 +32,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_723e9c07",
-    "word": "Enquire (verb)",
+    "id": "v_db139ad9",
+    "word": "Enquire (verbo)",
     "translation": "consultar, preguntar",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8e8e4e87",
+    "id": "v_1887f628",
     "word": "Pull the ears off",
-    "translation": "arrancar las oreja",
+    "translation": "arrancar las orejas",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4248b87d",
+    "id": "v_e714a2cd",
     "word": "Worship",
     "translation": "adoración",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -56,47 +56,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e7fe60d3",
+    "id": "v_b8624e4d",
     "word": "Laugh it up, fuzzball",
-    "translation": "rete bola de pelusa",
+    "translation": "ríete bola de pelusa",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_409db234",
-    "word": "desaliñado pastor de nerds!",
-    "translation": "No registrada",
+    "id": "v_9ff09a23",
+    "word": "You stuck-up, half-witted, scruffy-looking nerf herder!",
+    "translation": "¡Tú, engreído, medio tonto y desaliñado pastor de nerfs!",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8002f590",
+    "id": "v_951d2f3a",
     "word": "Get riled up",
-    "translation": "enfurecer, irritante, encadarse",
+    "translation": "enfurecerse, irritarse, enfadarse",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_55e42261",
+    "id": "v_eae15d4a",
+    "word": "Lead (sustantivo en términos de investigaciones)",
+    "translation": "pista",
+    "source_movie": "Star Wars Episodio V The Empire Strikes Back",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ae198eca",
     "word": "Devoid",
     "translation": "desprovisto, carente de",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_ff9d03b4",
+    "id": "v_38557693",
     "word": "Uncharted settlements",
-    "translation": "asentamiento inexplorado",
+    "translation": "asentamientos inexplorados",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_81d84b21",
+    "id": "v_40c2c4f3",
     "word": "The other end",
     "translation": "al otro lado, al otro extremo",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -104,15 +112,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c244338f",
-    "word": "Assemble (verb en albinos contexts)",
-    "translation": "reunir",
+    "id": "v_094ab0ef",
+    "word": "Assemble (verbo en algunos contextos)",
+    "translation": "reunirse",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_8654e9a0",
+    "id": "v_83aaf206",
     "word": "Gunner",
     "translation": "artillero",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -120,39 +128,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4ee81c44",
+    "id": "v_22b46328",
     "word": "Hold out",
     "translation": "resistir, aguantar",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 6
+    "global_frequency": 7
   },
   {
-    "id": "v_4642f94f",
-    "word": "Debark (verb)",
+    "id": "v_37568d82",
+    "word": "Debark (verbo)",
     "translation": "desembarcar",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c310d0cf",
+    "id": "v_c35ca857",
     "word": "Slope",
     "translation": "ladera, pendiente, vertiente",
-    "source_movie": "Star Wars Episodio V The Empire Strikes Back",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b032b198",
-    "word": "Fall back!",
-    "translation": "¡Atrás!, ¡Retroceder!",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_610cddd2",
+    "id": "v_bd84cb76",
+    "word": "Fall back!",
+    "translation": "¡Atrás!, ¡Retrocedan!",
+    "source_movie": "Star Wars Episodio V The Empire Strikes Back",
+    "year_processed": "2025",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_9d04bdb7",
     "word": "Goldenrod",
     "translation": "vara dorada",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -160,7 +168,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_a032b694",
+    "id": "v_6dad2446",
     "word": "Switch over",
     "translation": "cambiar (de dirección)",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -168,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d43f0255",
+    "id": "v_0ac7e978",
     "word": "Burnout",
     "translation": "agotamiento, desgaste",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -176,15 +184,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b9987d8",
+    "id": "v_4c75f8a1",
     "word": "We can still outmanoeuvre them",
-    "translation": "aun poderoso maniobrar mejor que ellos",
+    "translation": "aún podemos maniobrar mejor que ellos",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_529a5caa",
+    "id": "v_6568054e",
     "word": "Booster",
     "translation": "reforzador, impulsor",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -192,15 +200,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8afb97cf",
+    "id": "v_15a3c5c5",
     "word": "Alluvial dampers",
-    "translation": "compuerta aluvial, amortiguador aluvial",
+    "translation": "compuertas aluviales, amortiguadores aluviales",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3b725d74",
+    "id": "v_2d41154d",
     "word": "Hydrospanner",
     "translation": "hidrospáner",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -208,39 +216,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bc25bd9d",
+    "id": "v_960dadf4",
     "word": "Massive life form readings though",
-    "translation": "lectura de forma de vida masiva, de toda",
+    "translation": "lecturas de formas de vida masivas, de todas formas",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22d12148",
-    "word": "forms",
-    "translation": "No registrada",
-    "source_movie": "Star Wars Episodio V The Empire Strikes Back",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_bdd127f7",
+    "id": "v_27aab29c",
     "word": "Scopes",
-    "translation": "visor, mira",
+    "translation": "visores, miras",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ab2e63fe",
+    "id": "v_b35d027c",
     "word": "Stay put",
-    "translation": "quilate quieto, no te nueva",
+    "translation": "quédate quieto, no te muevas",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
-    "id": "v_8d04a25e",
+    "id": "v_2e040f7b",
     "word": "Hyperdrive",
     "translation": "hipervelocidad",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -248,7 +248,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1a7c0d50",
+    "id": "v_2d4e5421",
     "word": "Puddle",
     "translation": "charco",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -256,15 +256,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b25f9b27",
+    "id": "v_2b41a642",
     "word": "Power coupling",
-    "translation": "acoplamiento de potencia",
+    "translation": "acomplamiento de potencia",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ad91f8fd",
+    "id": "v_2a79cee8",
     "word": "Axis",
     "translation": "eje",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -272,7 +272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b0cf54b5",
+    "id": "v_0176a008",
     "word": "Scoundrel",
     "translation": "canalla, sinvergüenza, bribón",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -280,7 +280,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_7d52eb41",
+    "id": "v_a09808f6",
     "word": "Bidding",
     "translation": "oferta",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -288,7 +288,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_6185ab87",
+    "id": "v_bd4447ed",
     "word": "Offspring",
     "translation": "descendencia",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -296,31 +296,31 @@
     "global_frequency": 5
   },
   {
-    "id": "v_8a7b0631",
+    "id": "v_0b5afc68",
     "word": "A Jedi craves not these things",
-    "translation": "un Jeda no anhelo estas cosa",
+    "translation": "un Jedi no anhela estas cosas",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0db85f75",
-    "word": "Venture an opinion",
+    "id": "v_f6b89fe8",
+    "word": "Venture an opinión",
     "translation": "aventurar una opinión",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_54f74205",
-    "word": "Chewing (substantive)",
+    "id": "v_ba8ea26a",
+    "word": "Chewing (sustantivo)",
     "translation": "mordedura",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b88affe8",
+    "id": "v_919b5fad",
     "word": "Cloaking device",
     "translation": "dispositivo de camuflaje",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -328,31 +328,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_389dae30",
-    "word": "Bind (verb)",
+    "id": "v_84bfec54",
+    "word": "Bind (verbo)",
     "translation": "unir, vincular",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_2c268db5",
-    "word": "garza de aterrizaje",
-    "translation": "No registrada",
+    "id": "v_9a116225",
+    "word": "Go stand by the manual release for the landing claw",
+    "translation": "ve a la liberación manual de la garra de aterrizaje",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3a2f1133",
+    "id": "v_23d40468",
     "word": "Gracious",
     "translation": "amable, cortés",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_9c5f59a7",
+    "id": "v_5980e800",
     "word": "Motion",
     "translation": "movimiento",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -360,7 +360,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_6a528b71",
+    "id": "v_0caa0ebb",
     "word": "Rather touchy",
     "translation": "bastante delicado, bastante sensible",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -368,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_863913a2",
+    "id": "v_05f033f3",
     "word": "You slimy, double-crossing, no-good swindler",
     "translation": "estafador baboso, traicionero e inútil",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -376,23 +376,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_73cc2c3f",
+    "id": "v_68c72059",
     "word": "You lost her to me fair and square",
-    "translation": "la perista conmigo limpiamente",
+    "translation": "la perdiste conmigo limpiamente",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ddfc18f7",
+    "id": "v_dec87139",
     "word": "Still hanging around with this loser?",
-    "translation": "¿Todavía sigua con este perdedor?",
+    "translation": "¿Todavía sigues con este perdedor?",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1fb4fea9",
+    "id": "v_94ff8642",
     "word": "Old smoothie",
     "translation": "viejo batido",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -400,79 +400,79 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eb9191ed",
+    "id": "v_e131001e",
     "word": "Outpost",
     "translation": "puesto de avanzada",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_cdd36649",
-    "word": "Loom (verb)",
+    "id": "v_e479a989",
+    "word": "Loom (verbo)",
     "translation": "cernir",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_eb1eea50",
-    "word": "Garrison (substantive)",
+    "id": "v_1bea51b5",
+    "word": "Garrison (sustantivo)",
     "translation": "guarnición, cuartel",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8e314a60",
-    "word": "You flea-bitten fireball",
-    "translation": "bola de pelo con pulgar",
+    "id": "v_4da1aaf0",
+    "word": "You flea-bitten furball",
+    "translation": "bola de pelo con pulgas",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4c7264c4",
-    "word": "An overgrown moped",
+    "id": "v_f4f95a5c",
+    "word": "An overgrown mopead",
     "translation": "un cabeza de fregona",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_401e398f",
+    "id": "v_c9e205af",
     "word": "You're being put into carbon freeze",
-    "translation": "te esto congelador en carbono",
+    "translation": "te están congelando en carbono",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e0572996",
-    "word": "Encase (verb)",
-    "translation": "encerrar, escapular",
+    "id": "v_7456e2f0",
+    "word": "Encase (verbo)",
+    "translation": "encerrar, encapsular",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_78c32287",
+    "id": "v_4720d871",
     "word": "I knew all along",
-    "translation": "lo sabia desde el principio",
+    "translation": "lo sabía desde el principio",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bd7e0a10",
+    "id": "v_3ff096e7",
     "word": "Cargo hold",
     "translation": "bodega de carga",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_8992ae14",
+    "id": "v_6d1913e8",
     "word": "Woolly",
     "translation": "lanoso, lanudo",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -480,15 +480,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_e29a04b7",
+    "id": "v_e28e6111",
     "word": "Lump",
     "translation": "bulto",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_46825739",
+    "id": "v_461d1f1b",
     "word": "Bend down you thoughtless",
     "translation": "agáchate desconsiderado",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -496,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a6052749",
+    "id": "v_ec099350",
     "word": "Boarding party",
     "translation": "grupo de embarque",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
@@ -504,15 +504,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_157c4fa0",
-    "word": "Stun (verb)",
+    "id": "v_975a8990",
+    "word": "Stun (verbo)",
     "translation": "aturdir",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_b10b485e",
+    "id": "v_80e5c42d",
     "word": "Takeoff",
     "translation": "despegue",
     "source_movie": "Star Wars Episodio V The Empire Strikes Back",

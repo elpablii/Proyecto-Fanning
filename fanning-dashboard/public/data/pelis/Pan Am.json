@@ -273,7 +273,7 @@
     },
     {
       "name": "Pan Am (Episode 2)",
-      "count": 47,
+      "count": 48,
       "vocabulary": [
         {
           "word": "Peal (verbo)",
@@ -484,7 +484,7 @@
           "translation": "lectura estupenda"
         },
         {
-          "word": "I'm overdue",
+          "word": "I’m overdue",
           "translation": "estoy atrasada"
         },
         {
@@ -648,7 +648,7 @@
           "translation": "magnánimo"
         }
       ],
-      "dialogues": 820,
+      "dialogues": 821,
       "level": "B2"
     },
     {
@@ -660,7 +660,7 @@
           "translation": "¿Quién se apunta a una sesión informativa?"
         },
         {
-          "word": "Who can't carry a tune",
+          "word": "Who can’t carry a tune",
           "translation": "que no sabe cantar"
         },
         {
@@ -1024,7 +1024,7 @@
           "translation": "caballero"
         },
         {
-          "word": "I'm the lucky one",
+          "word": "I’m the lucky one",
           "translation": "soy el afortunado"
         },
         {
@@ -1244,12 +1244,12 @@
           "translation": "seremos capaces de localizar los nueve alias"
         }
       ],
-      "dialogues": 834,
+      "dialogues": 835,
       "level": "C1"
     },
     {
       "name": "Pan Am (Episode 6)",
-      "count": 72,
+      "count": 68,
       "vocabulary": [
         {
           "word": "Upon her return",
@@ -1941,7 +1941,7 @@
     },
     {
       "name": "Pan Am (Episode 9)",
-      "count": 71,
+      "count": 73,
       "vocabulary": [
         {
           "word": "You're casting a shadow",
@@ -1992,7 +1992,7 @@
           "translation": "aléjate"
         },
         {
-          "word": "You'll be written up",
+          "word": "You’ll be written up",
           "translation": "serás multada"
         },
         {
@@ -2076,7 +2076,7 @@
           "translation": "convierte a los hombres adultos en papilla"
         },
         {
-          "word": "And I'm through",
+          "word": "And I’m through",
           "translation": "y he terminado"
         },
         {
@@ -2148,7 +2148,7 @@
           "translation": "tarta de manzana"
         },
         {
-          "word": "She's gonna up",
+          "word": "She’s gonna up",
           "translation": "se va a levantar"
         },
         {
@@ -2429,7 +2429,7 @@
     },
     {
       "name": "Pan Am (Episode 11)",
-      "count": 61,
+      "count": 62,
       "vocabulary": [
         {
           "word": "Layover",
@@ -2660,7 +2660,7 @@
           "translation": "convicciones propias"
         },
         {
-          "word": "I'm through waiting",
+          "word": "I’m through waiting",
           "translation": "me cansé de esperar"
         },
         {
@@ -2716,7 +2716,7 @@
           "translation": "no me malinterpretes"
         },
         {
-          "word": "I've met my quota",
+          "word": "I’ve met my quota",
           "translation": "he cumplido mi cuota"
         },
         {
@@ -2900,12 +2900,12 @@
           "translation": "ayudantes, asistentes, edecanes"
         }
       ],
-      "dialogues": 815,
+      "dialogues": 817,
       "level": "C1"
     },
     {
       "name": "Pan Am (Episode 13)",
-      "count": 52,
+      "count": 53,
       "vocabulary": [
         {
           "word": "Monte Carlo was a lark",
@@ -2964,7 +2964,7 @@
           "translation": "pasaje aéreo"
         },
         {
-          "word": "I'm envious",
+          "word": "I’m envious",
           "translation": "tengo envidia"
         },
         {
@@ -3220,7 +3220,7 @@
           "translation": "fiel, leal"
         },
         {
-          "word": "Deal's off",
+          "word": "Deal’s off",
           "translation": "no hay trato, se acabó el trato"
         },
         {
@@ -3280,7 +3280,7 @@
           "translation": "huir, escapar"
         },
         {
-          "word": "It's kaput",
+          "word": "It’s kaput",
           "translation": "está acabado"
         },
         {
@@ -3367,5 +3367,7 @@
         "still_path": "https://image.tmdb.org/t/p/w500/eTWCdP7U9ERiOqDkGCL8QqGLDtc.jpg"
       }
     }
-  }
+  },
+  "count": 796,
+  "dialogues": 11753
 }

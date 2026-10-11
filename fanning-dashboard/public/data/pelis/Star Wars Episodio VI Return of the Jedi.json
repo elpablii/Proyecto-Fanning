@@ -269,11 +269,11 @@
     },
     {
       "word": "Your father can never be turned from the dark side",
-      "translation": "tu padre nunca podrá ser"
+      "translation": "tu padre nunca podrá ser apartado del lado oscuro"
     },
     {
       "word": "Everything that has transpired has done so according to my design",
-      "translation": "todo lo que ha"
+      "translation": "todo lo que ha sucedido lo ha hecho según mi plan"
     },
     {
       "word": "Pitiful",
@@ -289,7 +289,7 @@
     },
     {
       "word": "Break off the attack, the shield is still up",
-      "translation": "interrumpe el ataque, el escudo sigue en"
+      "translation": "interrumpe el ataque, el escudo sigue en pie"
     },
     {
       "word": "Draw their fire",
@@ -313,7 +313,7 @@
     },
     {
       "word": "And engage those stardestroyers at point-blank range",
-      "translation": "y ataca a esos destructores"
+      "translation": "y ataca a esos destructores estelares a quemarropa"
     },
     {
       "word": "You are unwise to lower your defences",
@@ -351,5 +351,7 @@
       "https://image.tmdb.org/t/p/w780/soJdiy91Mcyj29GzEgZ5svFcuZg.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 84,
+  "dialogues": 1005
 }

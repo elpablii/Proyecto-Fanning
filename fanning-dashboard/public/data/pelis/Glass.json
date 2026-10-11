@@ -8,7 +8,7 @@
       "translation": "chocar, tropezar"
     },
     {
-      "word": "It's potluck",
+      "word": "It’s potluck",
       "translation": "es comida para llevar"
     },
     {
@@ -154,6 +154,10 @@
     {
       "word": "Wheel him back in",
       "translation": "llévalo de vuelta"
+    },
+    {
+      "word": "There's no running in the house (frase no literal)",
+      "translation": "no se corre en la casa"
     },
     {
       "word": "Hold on",
@@ -363,5 +367,7 @@
       "https://image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 88,
+  "dialogues": 1287
 }

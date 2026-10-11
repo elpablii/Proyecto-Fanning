@@ -16,8 +16,8 @@
       "translation": "plaga, tizón"
     },
     {
-      "word": "suciedad/tierra",
-      "translation": "No registrada"
+      "word": "That steady blow of dirt (uso literal o no literal)",
+      "translation": "ese golpe constante de suciedad/tierra"
     },
     {
       "word": "We wore strips of sheet",
@@ -45,11 +45,7 @@
     },
     {
       "word": "Gears grinding (acotación)",
-      "translation": "engranajes que rechinan"
-    },
-    {
-      "word": "Gear (sustantivo) engranaje, equipo, marcha",
-      "translation": "No registrada"
+      "translation": "engranajes que rechinan Gear (sustantivo) engranaje, equipo, marcha"
     },
     {
       "word": "Grind (verbo)",
@@ -70,6 +66,10 @@
     {
       "word": "Drive off a cliff (frase no literal)",
       "translation": "caerse por un precipicio"
+    },
+    {
+      "word": "Want to give it a whirl? (pregunta no literal)",
+      "translation": "¿Quieres probarlo?"
     },
     {
       "word": "Flatblade",
@@ -93,11 +93,7 @@
     },
     {
       "word": "He's got a knack on it (frase no literal)",
-      "translation": "tiene habilidad para ello, tiene un don para"
-    },
-    {
-      "word": "eso",
-      "translation": "No registrada"
+      "translation": "tiene habilidad para ello, tiene un don para eso"
     },
     {
       "word": "Rule out",
@@ -136,8 +132,8 @@
       "translation": "volverse loco, enloquecer"
     },
     {
-      "word": "campos y dirigiéndose hacia allí",
-      "translation": "No registrada"
+      "word": "They've been peeling off the fields and heading over",
+      "translation": "han estado saliendo de los campos y dirigiéndose hacia allí"
     },
     {
       "word": "Dashes",
@@ -196,8 +192,8 @@
       "translation": "inútil"
     },
     {
-      "word": "con los mandos electrónicos",
-      "translation": "No registrada"
+      "word": "Something tripped my fly-by-wire (traducción aproximada y no literal)",
+      "translation": "algo interfirió con los mandos electrónicos"
     },
     {
       "word": "Bed down",
@@ -257,11 +253,7 @@
     },
     {
       "word": "Old age should burn and rave at close of day",
-      "translation": "la vejez debe arder y delirar al final del"
-    },
-    {
-      "word": "día",
-      "translation": "No registrada"
+      "translation": "la vejez debe arder y delirar al final del día"
     },
     {
       "word": "Fork (verbo)",
@@ -333,11 +325,7 @@
     },
     {
       "word": "A machine was easing at the wrong time",
-      "translation": "una máquina se aflojaba en el momento"
-    },
-    {
-      "word": "equivocado",
-      "translation": "No registrada"
+      "translation": "una máquina se aflojaba en el momento equivocado"
     },
     {
       "word": "Feedback",
@@ -404,7 +392,7 @@
       "translation": "morboso, mórbido"
     },
     {
-      "word": "It's nonsensical",
+      "word": "It’s nonsensical",
       "translation": "no tiene sentido"
     },
     {
@@ -413,11 +401,7 @@
     },
     {
       "word": "We must reach far beyond our own lifespans",
-      "translation": "debemos ir mucho más allá de nuestras"
-    },
-    {
-      "word": "propias vidas",
-      "translation": "No registrada"
+      "translation": "debemos ir mucho más allá de nuestras propias vidas"
     },
     {
       "word": "Go gentle (verbo)",
@@ -428,8 +412,8 @@
       "translation": "ir más lejos"
     },
     {
-      "word": "universo",
-      "translation": "No registrada"
+      "word": "I'm drawn across the universe (parcialmente no literal)",
+      "translation": "me siento atraido por el universo"
     },
     {
       "word": "Chart a course (en ciencia)",
@@ -486,6 +470,10 @@
     {
       "word": "Get teary",
       "translation": "ponerse a llorar"
+    },
+    {
+      "word": "These squalls do usually blow over (no literal)",
+      "translation": "esas borrascas suelen desaparecer"
     },
     {
       "word": "I'd be remiss (frase no literal)",
@@ -576,8 +564,8 @@
       "translation": "me estoy metiendo"
     },
     {
-      "word": "para atravesarlo",
-      "translation": "No registrada"
+      "word": "Portside, dipping down beneath it to go through it",
+      "translation": "por babor, bajando por debajo para atravesarlo"
     },
     {
       "word": "Blackness",
@@ -601,19 +589,15 @@
     },
     {
       "word": "The bulk beings are closing the tesseract",
-      "translation": "los seres masivos están cerrando el"
-    },
-    {
-      "word": "teseracto",
-      "translation": "No registrada"
+      "translation": "los seres masivos están cerrando el teseracto"
     },
     {
       "word": "Nice and easy (frase no literal)",
       "translation": "tranquilo, despacio, con calma"
     },
     {
-      "word": "sólo te quedaban unos minutos de oxígeno",
-      "translation": "No registrada"
+      "word": "They found you with only minutes left in your oxygen supply",
+      "translation": "te encontraron cuando sólo te quedaban unos minutos de oxígeno"
     },
     {
       "word": "Nice of you to name it after me",
@@ -647,5 +631,7 @@
       "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 154,
+  "dialogues": 1996
 }

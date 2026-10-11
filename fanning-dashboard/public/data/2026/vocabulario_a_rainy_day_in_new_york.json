@@ -1,6 +1,14 @@
 [
   {
-    "id": "v_26f1476e",
+    "id": "v_20147a1a",
+    "word": "And definitely tony enough (frase no literal)",
+    "translation": "lo suficientemente elegante",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2496c913",
     "word": "You get ticks (no literal)",
     "translation": "te pican las garrapatas",
     "source_movie": "A Rainy Day in New York",
@@ -8,7 +16,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_17544ffe",
+    "id": "v_56ce4033",
     "word": "Joints",
     "translation": "centros",
     "source_movie": "A Rainy Day in New York",
@@ -16,15 +24,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_6e300833",
-    "word": "potencial",
-    "translation": "No registrada",
+    "id": "v_7e3831aa",
+    "word": "I'm not living up to my potential (frase no literal)",
+    "translation": "no estoy aprovechando todo mi potencial",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_71ee1f64",
+    "id": "v_8f5ae3bb",
     "word": "Sight unseen",
     "translation": "a ciegas",
     "source_movie": "A Rainy Day in New York",
@@ -32,23 +40,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4830f278",
+    "id": "v_58678334",
     "word": "She's totally got mono (frase no literal)",
-    "translation": "ella tiene mononucleosis, así que lo voy a",
+    "translation": "ella tiene mononucleosis, así que lo voy a hacer yo",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ec077db9",
-    "word": "hacer yo",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_11e85507",
+    "id": "v_aaba9d50",
     "word": "I scored twenty big ones (frase no literal)",
     "translation": "he ganado veinte mil",
     "source_movie": "A Rainy Day in New York",
@@ -56,23 +56,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8aa8d549",
+    "id": "v_e386d655",
     "word": "Some guy with aces up keeps raising me",
-    "translation": "un tipo con ases en la manga no deja de",
+    "translation": "un tipo con ases en la manga no deja de subirme la apuesta",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e094042d",
-    "word": "subirme la apuesta",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_43c069f5",
+    "id": "v_edc9af46",
     "word": "Ticket broker",
     "translation": "agente de boletos",
     "source_movie": "A Rainy Day in New York",
@@ -80,7 +72,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e7ccc6a",
+    "id": "v_3b1b0566",
     "word": "Apopletic",
     "translation": "furioso",
     "source_movie": "A Rainy Day in New York",
@@ -88,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4c762033",
+    "id": "v_881b983d",
     "word": "I had a major paper due",
     "translation": "tenía que entregar un trabajo importante",
     "source_movie": "A Rainy Day in New York",
@@ -96,7 +88,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4fa9e07b",
+    "id": "v_772633a7",
     "word": "Put in an appearance",
     "translation": "hacer un acto de presencia",
     "source_movie": "A Rainy Day in New York",
@@ -104,7 +96,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8a8b0a5f",
+    "id": "v_b982471e",
     "word": "Co-op",
     "translation": "cooperativa",
     "source_movie": "A Rainy Day in New York",
@@ -112,7 +104,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_4f1dbd45",
+    "id": "v_1b358aba",
     "word": "Come off like a twit",
     "translation": "quedar como un idiota",
     "source_movie": "A Rainy Day in New York",
@@ -120,7 +112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d9cb7e54",
+    "id": "v_51896429",
     "word": "Splurge on",
     "translation": "darse el lujo de reservar",
     "source_movie": "A Rainy Day in New York",
@@ -128,7 +120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b4cf918",
+    "id": "v_102352b1",
     "word": "Moody",
     "translation": "temperamental, cambiante",
     "source_movie": "A Rainy Day in New York",
@@ -136,15 +128,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_e2c2a39a",
+    "id": "v_b72816e0",
     "word": "Back in",
     "translation": "regresar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_91a784cf",
+    "id": "v_0e14f611",
     "word": "We're running on a really tight schedule",
     "translation": "tenemos una agenda muy apretada",
     "source_movie": "A Rainy Day in New York",
@@ -152,15 +144,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e62abd07",
+    "id": "v_5a4bf282",
     "word": "Overbite",
     "translation": "sobremordida",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_3f3cd527",
+    "id": "v_9b979d00",
     "word": "A philosophy major",
     "translation": "un estudiante en filosofía",
     "source_movie": "A Rainy Day in New York",
@@ -168,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_05936742",
+    "id": "v_41ab24c2",
     "word": "That's neither heither nor yon",
     "translation": "eso no es ni una cosa ni otra",
     "source_movie": "A Rainy Day in New York",
@@ -176,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8ae141a1",
+    "id": "v_ae0aaa9e",
     "word": "It's probably more yon than hither",
     "translation": "probablemente esté más allá que aquí",
     "source_movie": "A Rainy Day in New York",
@@ -184,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aa112096",
+    "id": "v_d980f3da",
     "word": "A scoop (para esta película)",
     "translation": "una verdad, una primicia",
     "source_movie": "A Rainy Day in New York",
@@ -192,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_18aba163",
+    "id": "v_c0a97012",
     "word": "Hiccup fits",
     "translation": "ataques de hipo",
     "source_movie": "A Rainy Day in New York",
@@ -200,7 +192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af46682e",
+    "id": "v_ff36acd2",
     "word": "Mass appeal",
     "translation": "atractivo masivo",
     "source_movie": "A Rainy Day in New York",
@@ -208,23 +200,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dbde397f",
+    "id": "v_d24e037e",
     "word": "I'm screening some last-minute changes",
-    "translation": "estoy revisando algunos cambios de último",
+    "translation": "estoy revisando algunos cambios de último minuto",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_f8d95e47",
-    "word": "minuto",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_c922d660",
+    "id": "v_cf2c33e9",
     "word": "Face-saving changes",
     "translation": "cambios para salvar las apariencias",
     "source_movie": "A Rainy Day in New York",
@@ -232,7 +216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7e2c841",
+    "id": "v_1d9a3ddc",
     "word": "How long does it run? (pregunta no literal)",
     "translation": "¿Cuánto tiempo dura?",
     "source_movie": "A Rainy Day in New York",
@@ -240,7 +224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e661d81f",
+    "id": "v_da48ab7f",
     "word": "Look dapper and serves the double duty",
     "translation": "lucir elegante y cumple una doble función",
     "source_movie": "A Rainy Day in New York",
@@ -248,7 +232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8db09051",
+    "id": "v_ca875c45",
     "word": "Onset",
     "translation": "aparición",
     "source_movie": "A Rainy Day in New York",
@@ -256,7 +240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_008a5c63",
+    "id": "v_865c0d7d",
     "word": "Emphysema",
     "translation": "enfisema",
     "source_movie": "A Rainy Day in New York",
@@ -264,15 +248,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ffb0a3d6",
+    "id": "v_afaa6c32",
     "word": "Revolting",
     "translation": "repugnante",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_aae1b328",
+    "id": "v_eb1e6df6",
     "word": "Transfer up",
     "translation": "trasladar",
     "source_movie": "A Rainy Day in New York",
@@ -280,23 +264,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e9011ed",
+    "id": "v_f8904680",
     "word": "Flunked",
     "translation": "suspendido, reprobado",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_1a03aa57",
+    "id": "v_a59a896b",
     "word": "Get thrown out",
     "translation": "expulsar, echar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_2a38e699",
+    "id": "v_0af6bcd4",
     "word": "Cushy",
     "translation": "cómodo",
     "source_movie": "A Rainy Day in New York",
@@ -304,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5a0a3923",
+    "id": "v_d0757d76",
     "word": "Wimp",
     "translation": "cobarde",
     "source_movie": "A Rainy Day in New York",
@@ -312,7 +296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_edbf211e",
+    "id": "v_39cf169c",
     "word": "Ironing board",
     "translation": "table para planchar",
     "source_movie": "A Rainy Day in New York",
@@ -320,7 +304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_29f0c074",
+    "id": "v_45d211c5",
     "word": "Wimpy emotional probing",
     "translation": "sondeo emocional débil",
     "source_movie": "A Rainy Day in New York",
@@ -328,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e7563fb",
+    "id": "v_5438c780",
     "word": "The perfect milquetoast nerd",
     "translation": "el nerd perfecto y sin carácter",
     "source_movie": "A Rainy Day in New York",
@@ -336,39 +320,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3b1c4bf2",
+    "id": "v_34fc5a2f",
     "word": "Big-time",
     "translation": "de renombre, famoso",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_1a585785",
+    "word": "Premed",
+    "translation": "estudiante de medicina",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_5741661d",
-    "word": "Premed",
-    "translation": "estudiante de medicina",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5d3fcf07",
+    "id": "v_1df86818",
     "word": "We have pull with the board in Grenada",
-    "translation": "tenemos influencia en la junta directiva de",
+    "translation": "tenemos influencia en la junta directiva de Granada",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_66314db6",
-    "word": "Granada",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_6f89c157",
+    "id": "v_5a59244d",
     "word": "Sufferer",
     "translation": "sufridor, sufragista",
     "source_movie": "A Rainy Day in New York",
@@ -376,15 +352,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_64d3f30c",
+    "id": "v_1ae59c36",
     "word": "Distraught",
     "translation": "angustiado",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_3df25b2e",
+    "id": "v_e5bf44af",
     "word": "Put in time (verbo)",
     "translation": "dedicar tiempo, pasar tiempo",
     "source_movie": "A Rainy Day in New York",
@@ -392,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e33214cd",
+    "id": "v_60222bec",
     "word": "She bites down on that cyanide capsule",
     "translation": "ella muerde esa cápsula de cianuro",
     "source_movie": "A Rainy Day in New York",
@@ -400,23 +376,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6e400b71",
+    "id": "v_14debe4c",
+    "word": "We're just light on extras (frase no literal)",
+    "translation": "no somos muy generosos con los extras",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ec733596",
     "word": "All these people who were no-shows",
-    "translation": "todas estas personas que no se",
+    "translation": "todas estas personas que no se presentaron/aparecieron",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_163740e3",
-    "word": "presentaron/aparecieron",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_17779310",
+    "id": "v_0fb57769",
     "word": "Political science major",
     "translation": "licenciatura en ciencias políticas",
     "source_movie": "A Rainy Day in New York",
@@ -424,7 +400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_36e87682",
+    "id": "v_40f6aa4e",
     "word": "She's totally mad with lust",
     "translation": "está completamente loca de deseo",
     "source_movie": "A Rainy Day in New York",
@@ -432,7 +408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ff0597be",
+    "id": "v_05afc5c4",
     "word": "Burst away",
     "translation": "alejarse/irse corriendo",
     "source_movie": "A Rainy Day in New York",
@@ -440,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_397a5aff",
+    "id": "v_71111a9e",
     "word": "Wheezing (sustantivo)",
     "translation": "respiración sibilante/entrecortada",
     "source_movie": "A Rainy Day in New York",
@@ -448,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d27ab85",
+    "id": "v_57978db5",
     "word": "Snotty",
     "translation": "mocoso, malcriado, presumido",
     "source_movie": "A Rainy Day in New York",
@@ -456,15 +432,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6a80bd33",
+    "id": "v_6e80c318",
     "word": "Uptight",
     "translation": "tenso",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_2a16b921",
+    "id": "v_ad4ea09e",
     "word": "The pain-in-the-ass kid sister",
     "translation": "la hermana pequeña molesta",
     "source_movie": "A Rainy Day in New York",
@@ -472,7 +448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c44f47f",
+    "id": "v_3a9e244b",
     "word": "It certainly beats fasting (no literal)",
     "translation": "sin duda es mejor que ayunar",
     "source_movie": "A Rainy Day in New York",
@@ -480,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_557e208a",
+    "id": "v_430b04a3",
     "word": "It's a big coup",
     "translation": "es un gran golpe maestro",
     "source_movie": "A Rainy Day in New York",
@@ -488,7 +464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_74c09b5e",
+    "id": "v_6b0487b0",
     "word": "That's the one that Mom's high on",
     "translation": "esa es la que le gusta a mamá",
     "source_movie": "A Rainy Day in New York",
@@ -496,15 +472,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2fe4b4ad",
+    "id": "v_b7d29823",
     "word": "Housewives",
     "translation": "amas de casa",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_475f145a",
+    "id": "v_d84fcc6f",
     "word": "The leisure to pursue esoteric culture",
     "translation": "el ocio para dedicarse a la cultura esotérica",
     "source_movie": "A Rainy Day in New York",
@@ -512,23 +488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a17ddad9",
+    "id": "v_79003616",
     "word": "The out-of-work discussing the out-of-print",
-    "translation": "los desempleados discuten sobre los",
+    "translation": "los desempleados discuten sobre los libros agotados",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_caf278da",
-    "word": "libros agotados",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_2b655967",
+    "id": "v_e09ac031",
     "word": "Madeleines",
     "translation": "magdalenas",
     "source_movie": "A Rainy Day in New York",
@@ -536,7 +504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f8589531",
+    "id": "v_3fd08be4",
     "word": "You're not gonna duck out of our wedding",
     "translation": "no vas a dejar de venir a nuestra boda",
     "source_movie": "A Rainy Day in New York",
@@ -544,7 +512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_723991f0",
+    "id": "v_aa954ff6",
     "word": "He's not so tough as he makes out",
     "translation": "no es tan duro como aparenta",
     "source_movie": "A Rainy Day in New York",
@@ -552,7 +520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a53ca941",
+    "id": "v_8f595b4c",
     "word": "It's a total turnoff",
     "translation": "es un completo desastre",
     "source_movie": "A Rainy Day in New York",
@@ -560,23 +528,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58f6beb6",
+    "id": "v_01daff7c",
     "word": "Tragic little deal-breakers",
-    "translation": "pequeños motivos trágicos que pueden arruinar una",
+    "translation": "pequeños motivos trágicos que pueden arruinar una relación",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a216558e",
-    "word": "relación",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_1cb7d429",
+    "id": "v_9549f68f",
     "word": "I brought it up tactfully",
     "translation": "lo mencioné con tacto",
     "source_movie": "A Rainy Day in New York",
@@ -584,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0c4eb0e1",
+    "id": "v_47445ad5",
     "word": "Laugh insanity",
     "translation": "locura de risa",
     "source_movie": "A Rainy Day in New York",
@@ -592,7 +552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_77cc9d6b",
+    "id": "v_a5ec5cd8",
     "word": "Spare me the fruits",
     "translation": "ahórrame los frutos",
     "source_movie": "A Rainy Day in New York",
@@ -600,7 +560,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d68d348",
+    "id": "v_b9954460",
     "word": "Talking cure",
     "translation": "terapia conversacional",
     "source_movie": "A Rainy Day in New York",
@@ -608,31 +568,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_71f46285",
+    "id": "v_22dcf048",
     "word": "Steaming",
     "translation": "humeante",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_9674e791",
+    "id": "v_f6d9f5bf",
     "word": "There's a high-stakes card game later",
-    "translation": "más tarde hay una partida de cartas con",
+    "translation": "más tarde hay una partida de cartas con mucho en juego",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c8ca8789",
-    "word": "mucho en juego",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_8c4bca7a",
+    "id": "v_6c40bdd6",
     "word": "I'm up at this, uh, screening room place",
     "translation": "estoy en esta sala de proyección",
     "source_movie": "A Rainy Day in New York",
@@ -640,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9e5a4c15",
+    "id": "v_e0634232",
     "word": "Fits (sustantivo en sentido de emociones)",
     "translation": "ataques",
     "source_movie": "A Rainy Day in New York",
@@ -648,39 +600,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b99d8413",
+    "id": "v_5ce50b24",
     "word": "He's wallowing in self.loathing somewhere",
-    "translation": "está sumido en el odio hacia sí mismo en",
+    "translation": "está sumido en el odio hacia sí mismo en algún lugar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_31ca8670",
-    "word": "algún lugar",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f1719db0",
+    "id": "v_af4eafc8",
     "word": "We're blowing the day and it's so moody out",
-    "translation": "estamos desperdiciando el día y el clima",
+    "translation": "estamos desperdiciando el día y el clima está muy cambiante",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_08a5baf5",
-    "word": "está muy cambiante",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_9b8e857e",
+    "id": "v_b7010516",
     "word": "He knocked back a copule of brandies",
     "translation": "se bebió un par de tragos de brandy",
     "source_movie": "A Rainy Day in New York",
@@ -688,7 +624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eb3ae2f7",
+    "id": "v_319c9284",
     "word": "Let's get my car and it's out to Queens",
     "translation": "vamos a buscar mi auto y nos vamos a Queens",
     "source_movie": "A Rainy Day in New York",
@@ -696,7 +632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c23e20f4",
+    "id": "v_dfda8206",
     "word": "Morose (verbo no literal)",
     "translation": "ponerse de mal humor",
     "source_movie": "A Rainy Day in New York",
@@ -704,7 +640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91384cc6",
+    "id": "v_6dcadc2e",
     "word": "Soundstages",
     "translation": "escenarios de grabación, escenarios sonoros",
     "source_movie": "A Rainy Day in New York",
@@ -712,7 +648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5582c928",
+    "id": "v_303cc4d8",
     "word": "Clutch (verbo)",
     "translation": "agarrar",
     "source_movie": "A Rainy Day in New York",
@@ -720,7 +656,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_cd03dc58",
+    "id": "v_62f46b62",
     "word": "Bronchial pneumonia",
     "translation": "neumonía bronquial",
     "source_movie": "A Rainy Day in New York",
@@ -728,7 +664,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3712cb1c",
+    "id": "v_b4214b44",
+    "word": "You can't get it from being wet! (frase no literal)",
+    "translation": "¡No se contagia por estar mojado!",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f360e50c",
     "word": "I’m nuts",
     "translation": "estoy loco/chiflado",
     "source_movie": "A Rainy Day in New York",
@@ -736,7 +680,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_82846578",
+    "id": "v_473e8cab",
     "word": "She's bogged down",
     "translation": "ella está saturada/agobiada",
     "source_movie": "A Rainy Day in New York",
@@ -744,23 +688,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3717bf7c",
+    "id": "v_b834d743",
     "word": "Get straight",
     "translation": "establecer, tener en claro",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_8eea49cc",
+    "id": "v_132cb73c",
     "word": "Assert yourself",
     "translation": "hazte valer",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_bc4e1cd0",
+    "id": "v_570c6ce1",
     "word": "Movie big shots",
     "translation": "grandes figuras del cine",
     "source_movie": "A Rainy Day in New York",
@@ -768,7 +712,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a3d47ed2",
+    "id": "v_8bd20fac",
     "word": "Screenwriter",
     "translation": "un guionista",
     "source_movie": "A Rainy Day in New York",
@@ -776,7 +720,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_337c7da3",
+    "id": "v_e34eccb5",
     "word": "You're so wishy-washy!",
     "translation": "¡Eres tan indeciso!",
     "source_movie": "A Rainy Day in New York",
@@ -784,15 +728,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1d147bd4",
-    "word": "Amy te rechazó",
-    "translation": "No registrada",
+    "id": "v_aeb6f3ac",
+    "word": "I know exactly why Amy eighty-sixed you (frase no literal)",
+    "translation": "sé exactamente por qué Amy te rechazó",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_cd88297b",
+    "id": "v_d198ece4",
     "word": "Airsick bag",
     "translation": "bolsa para el mal de aire",
     "source_movie": "A Rainy Day in New York",
@@ -800,7 +744,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d11df5ea",
+    "id": "v_ef2f0b31",
     "word": "Dubious",
     "translation": "dudoso",
     "source_movie": "A Rainy Day in New York",
@@ -808,15 +752,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_95aabed1",
+    "id": "v_06a7ef36",
     "word": "Witty",
     "translation": "ingenioso",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_e8fc43be",
+    "id": "v_5a419154",
     "word": "Bookie",
     "translation": "corredor de apuestas",
     "source_movie": "A Rainy Day in New York",
@@ -824,7 +768,7 @@
     "global_frequency": 4
   },
   {
-    "id": "v_22fb6d92",
+    "id": "v_6f42e005",
     "word": "His mom never really hit it off?",
     "translation": "¿Su mamá nunca se llevó bien con él?",
     "source_movie": "A Rainy Day in New York",
@@ -832,15 +776,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4926ded0",
-    "word": "mutuamente",
-    "translation": "No registrada",
+    "id": "v_7c3552ed",
+    "word": "We can get on each other's nerves (frase no literal)",
+    "translation": "nos podemos sacar de quicio mutuamente",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_32155d39",
+    "id": "v_501eb5bb",
     "word": "We're all out of beef jerky",
     "translation": "se nos acabó el charqui",
     "source_movie": "A Rainy Day in New York",
@@ -848,7 +792,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d24e84e",
+    "id": "v_d16e5b28",
     "word": "Heirloom",
     "translation": "reliquia",
     "source_movie": "A Rainy Day in New York",
@@ -856,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d2beb923",
+    "id": "v_4530c199",
     "word": "I've had the measles and mumps",
     "translation": "he tenido sarampión y paperas",
     "source_movie": "A Rainy Day in New York",
@@ -864,7 +808,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2e91da9a",
+    "id": "v_7e5b7278",
     "word": "Lay an ace (verbo en juegos de cartas)",
     "translation": "jugar/poner/sacar un as",
     "source_movie": "A Rainy Day in New York",
@@ -872,7 +816,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_77637020",
+    "id": "v_410e360c",
     "word": "Jinx",
     "translation": "maldición, mala suerte",
     "source_movie": "A Rainy Day in New York",
@@ -880,15 +824,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e9f83d46",
-    "word": "para acabar con la desesperación",
-    "translation": "No registrada",
+    "id": "v_f2946fd2",
+    "word": "That love would turn the trick to end despair",
+    "translation": "ese amor daría la vuelta a la situación para acabar con la desesperación",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a574f1a4",
+    "id": "v_90fab3e4",
     "word": "There was even postage due",
     "translation": "incluso hubo gastos de envío",
     "source_movie": "A Rainy Day in New York",
@@ -896,7 +840,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_268805ff",
+    "id": "v_26b74361",
     "word": "Cocktail lounge",
     "translation": "bar de cócteles",
     "source_movie": "A Rainy Day in New York",
@@ -904,7 +848,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_40d5fdd7",
+    "id": "v_d31b6ec3",
     "word": "Tugboats",
     "translation": "remolcadores",
     "source_movie": "A Rainy Day in New York",
@@ -912,7 +856,15 @@
     "global_frequency": 3
   },
   {
-    "id": "v_b1189017",
+    "id": "v_e15c75dc",
+    "word": "You're in the right ballpark (frase no literal)",
+    "translation": "estás en el lugar correcto",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_563ec605",
     "word": "You're pacing up and down",
     "translation": "estás caminando de un lado a otro",
     "source_movie": "A Rainy Day in New York",
@@ -920,7 +872,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_934b1db7",
+    "id": "v_843462b7",
     "word": "Metastasize (verbo)",
     "translation": "diseminar, hacer metastásis",
     "source_movie": "A Rainy Day in New York",
@@ -928,7 +880,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5224bf79",
+    "id": "v_b145ad88",
     "word": "By sheer chance",
     "translation": "por pura casualidad",
     "source_movie": "A Rainy Day in New York",
@@ -936,7 +888,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_88c1ac9f",
+    "id": "v_9bcb00d8",
     "word": "Outburst",
     "translation": "discusión, altercado",
     "source_movie": "A Rainy Day in New York",
@@ -944,7 +896,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f4b60f32",
+    "id": "v_72f73777",
     "word": "Get down (contra una persona)",
     "translation": "meterse, ponerse en contra de",
     "source_movie": "A Rainy Day in New York",
@@ -952,7 +904,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_53a2d9fc",
+    "id": "v_0800ce40",
     "word": "Make a fool of yourself (verbo)",
     "translation": "hacerse el ridículo",
     "source_movie": "A Rainy Day in New York",
@@ -960,7 +912,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7211cd2b",
+    "id": "v_c23b6e52",
     "word": "Concubine",
     "translation": "concubina",
     "source_movie": "A Rainy Day in New York",
@@ -968,7 +920,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_80515616",
+    "id": "v_96de4ec4",
     "word": "Unfaithful",
     "translation": "desleal, infiel",
     "source_movie": "A Rainy Day in New York",
@@ -976,7 +928,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4777c906",
+    "id": "v_16efb653",
     "word": "Tabloids",
     "translation": "periódicos sensacionalistas, tabloides",
     "source_movie": "A Rainy Day in New York",
@@ -984,7 +936,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4297b426",
+    "id": "v_691c3911",
     "word": "Mangle (verbo)",
     "translation": "destrozar",
     "source_movie": "A Rainy Day in New York",
@@ -992,7 +944,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ff479f78",
+    "id": "v_bfbedcf6",
     "word": "If she quoted you a figure higher",
     "translation": "si te dió un presupuesto más alto",
     "source_movie": "A Rainy Day in New York",
@@ -1000,7 +952,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_969007cf",
+    "id": "v_92ee8e1c",
     "word": "I'm floundering (traducción aproximada)",
     "translation": "estoy pasando por un mal momento",
     "source_movie": "A Rainy Day in New York",
@@ -1008,7 +960,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5334a311",
+    "id": "v_1b98c2d0",
     "word": "Clergyman, or a proctologist",
     "translation": "sacerdote o proctólogo",
     "source_movie": "A Rainy Day in New York",
@@ -1016,15 +968,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8a7780c1",
+    "id": "v_6c21d5dc",
     "word": "Rule out",
     "translation": "descartar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
-    "id": "v_f8d8a6d1",
+    "id": "v_6869a31f",
     "word": "Oddball things",
     "translation": "cosas raras/extrañas",
     "source_movie": "A Rainy Day in New York",
@@ -1032,7 +984,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f2e05b34",
+    "id": "v_b68873ef",
     "word": "Divey piano bars",
     "translation": "bares de piano de mala muerte",
     "source_movie": "A Rainy Day in New York",
@@ -1040,7 +992,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e1cb992f",
+    "id": "v_47a65984",
     "word": "Cling to",
     "translation": "aferrarse a, pegarse a",
     "source_movie": "A Rainy Day in New York",
@@ -1048,15 +1000,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_fee3371b",
+    "id": "v_138f2d79",
     "word": "Sneeze (verbo)",
     "translation": "estornudar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_064b3e9a",
+    "id": "v_af9ff4bb",
     "word": "Giving me the fish-eye (frase no literal)",
     "translation": "mirándome con cara de pocos amigos",
     "source_movie": "A Rainy Day in New York",
@@ -1064,7 +1016,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ed288a8b",
+    "id": "v_35a0bf7b",
     "word": "Hunchback",
     "translation": "jorobado",
     "source_movie": "A Rainy Day in New York",
@@ -1072,7 +1024,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_9b773082",
+    "id": "v_5f55362a",
     "word": "Ink it in",
     "translation": "anótalo",
     "source_movie": "A Rainy Day in New York",
@@ -1080,7 +1032,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_22d3b591",
+    "id": "v_cd0860c5",
     "word": "An afterlife",
     "translation": "una vida después de la muerte",
     "source_movie": "A Rainy Day in New York",
@@ -1088,31 +1040,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_99d8a32d",
-    "word": "me está dando largas?",
-    "translation": "No registrada",
+    "id": "v_3cc77601",
+    "word": "You think she's giving me the runaround today? (pregunta no literal)",
+    "translation": "¿Crees que hoy me está dando largas?",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c55bd677",
+    "id": "v_eac3d0ed",
     "word": "Why don't you duck into the mummy case?",
-    "translation": "¿Por qué no te metes en la tumba de la",
+    "translation": "¿Por qué no te metes en la tumba de la momia?",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_2e1db639",
-    "word": "momia?",
-    "translation": "No registrada",
-    "source_movie": "A Rainy Day in New York",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f6ac329e",
+    "id": "v_c7bbb93c",
     "word": "Hemorrhage (verbo)",
     "translation": "sufrir/tener una hemorragia",
     "source_movie": "A Rainy Day in New York",
@@ -1120,7 +1064,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3c1ee238",
+    "id": "v_5e4d3153",
     "word": "You're the greatest thing to come along",
     "translation": "eres lo mejor que me ha pasado",
     "source_movie": "A Rainy Day in New York",
@@ -1128,7 +1072,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1afdd576",
+    "id": "v_cb56f417",
     "word": "I can't believe I'm blanking on it",
     "translation": "no puedo creer que se me haya olvidado",
     "source_movie": "A Rainy Day in New York",
@@ -1136,7 +1080,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8919b69b",
+    "id": "v_efd0b06f",
     "word": "Anchorwoman",
     "translation": "presentadora de noticias",
     "source_movie": "A Rainy Day in New York",
@@ -1144,7 +1088,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_12f24713",
+    "id": "v_b8eec003",
     "word": "To-die",
     "translation": "de ensueño, que está para morirse",
     "source_movie": "A Rainy Day in New York",
@@ -1152,7 +1096,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ad6fa42b",
+    "id": "v_42d22a19",
     "word": "Twosome",
     "translation": "dúo, pareja",
     "source_movie": "A Rainy Day in New York",
@@ -1160,7 +1104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_354817e9",
+    "id": "v_1af9d9a2",
     "word": "Farrago",
     "translation": "mezcolanza",
     "source_movie": "A Rainy Day in New York",
@@ -1168,7 +1112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d7c66cd",
+    "id": "v_f928b821",
     "word": "Gulfstream",
     "translation": "corriente del golfo",
     "source_movie": "A Rainy Day in New York",
@@ -1176,7 +1120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4b2a36ac",
+    "id": "v_28ce31b6",
+    "word": "Put yourself through college (frase no literal)",
+    "translation": "pagarse los estudios universitarios",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1118099e",
     "word": "Dive (no alusivo a profundidad o buceo)",
     "translation": "antro",
     "source_movie": "A Rainy Day in New York",
@@ -1184,7 +1136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8112a77c",
+    "id": "v_a815440f",
     "word": "Dice hustler?",
     "translation": "¿Estafador de dados?",
     "source_movie": "A Rainy Day in New York",
@@ -1192,7 +1144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fd54a405",
+    "id": "v_c2e615bf",
     "word": "Nevus",
     "translation": "nevo",
     "source_movie": "A Rainy Day in New York",
@@ -1200,15 +1152,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d6b45083",
+    "id": "v_b5f3ce0f",
     "word": "Wind up",
     "translation": "acabar, terminar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 5
+    "global_frequency": 9
   },
   {
-    "id": "v_63748511",
+    "id": "v_d093e3f6",
     "word": "Candlelights",
     "translation": "velas",
     "source_movie": "A Rainy Day in New York",
@@ -1216,23 +1168,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_71dff2ea",
-    "word": "diferencia de puntos",
-    "translation": "No registrada",
+    "id": "v_6ba1c38b",
+    "word": "He likes to figure out the point spread (frase no literal)",
+    "translation": "le gusta calcular la diferencia de puntos",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e73e9f30",
+    "id": "v_68dc082f",
     "word": "Quaint",
     "translation": "pintoresco, peculiar",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_7d87651d",
+    "id": "v_4c608ed5",
     "word": "Searching (adjetivo)",
     "translation": "minucioso, inquisitivo",
     "source_movie": "A Rainy Day in New York",
@@ -1240,7 +1192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_00ef99bd",
+    "id": "v_86e69006",
     "word": "Vanished age",
     "translation": "época/era desaparecida",
     "source_movie": "A Rainy Day in New York",
@@ -1248,7 +1200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_475a77f6",
+    "id": "v_a5b14bbb",
     "word": "Imbibe (verbo)",
     "translation": "beber",
     "source_movie": "A Rainy Day in New York",
@@ -1256,7 +1208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a295773b",
+    "id": "v_fb366745",
     "word": "Uninhibited",
     "translation": "desinhibido",
     "source_movie": "A Rainy Day in New York",
@@ -1264,15 +1216,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_d583bef3",
+    "id": "v_91522ac3",
     "word": "Wicked",
     "translation": "perverso, malicioso, malvado",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_f082e702",
+    "id": "v_f1bfd05a",
     "word": "Better watch out for him",
     "translation": "mejor ten cuidado con él",
     "source_movie": "A Rainy Day in New York",
@@ -1280,7 +1232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af50ec19",
+    "id": "v_ad16e919",
     "word": "I'll re-raise you",
     "translation": "te voy a volver a subir la apuesta",
     "source_movie": "A Rainy Day in New York",
@@ -1288,7 +1240,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9da01796",
+    "id": "v_2bf1e2a2",
+    "word": "With a chance of showers (no literal en meteorología)",
+    "translation": "con posibilidad de lluvias",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6bfd8b7a",
+    "word": "With his new main squeeze on his arm (frase no literal)",
+    "translation": "con su nueva novia del brazo",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5ada505d",
     "word": "Sweet nothings (no literal)",
     "translation": "palabras dulces/bonitas",
     "source_movie": "A Rainy Day in New York",
@@ -1296,7 +1264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1562d0b5",
+    "id": "v_8b790856",
     "word": "Mannered gestures",
     "translation": "gestos educados",
     "source_movie": "A Rainy Day in New York",
@@ -1304,7 +1272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_69a67e6c",
+    "id": "v_7194aead",
     "word": "It's the luck of the draw (frase no literal)",
     "translation": "es cuestión de suerte",
     "source_movie": "A Rainy Day in New York",
@@ -1312,7 +1280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_35311b38",
+    "id": "v_9b7cf662",
     "word": "Ginger ales",
     "translation": "bebidas de jengibre",
     "source_movie": "A Rainy Day in New York",
@@ -1320,7 +1288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_08f1d929",
+    "id": "v_65d24dc9",
     "word": "Vermouth",
     "translation": "vermú",
     "source_movie": "A Rainy Day in New York",
@@ -1328,7 +1296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d295cc23",
+    "id": "v_e36e82b1",
     "word": "Unfortunately it flies coach",
     "translation": "por desgracia, vuela en clase turista",
     "source_movie": "A Rainy Day in New York",
@@ -1336,7 +1304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_988a2bcf",
+    "id": "v_77be1639",
     "word": "Steep (parecido a expensive)",
     "translation": "caro",
     "source_movie": "A Rainy Day in New York",
@@ -1344,23 +1312,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c3241a52",
-    "word": "mierda de mi mamá en otoño",
-    "translation": "No registrada",
+    "id": "v_f6c75365",
+    "word": "My mom's big fall bullshit blowout (traducción aproximada)",
+    "translation": "la gran explosión de mierda de mi mamá en otoño",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_02f3669a",
+    "id": "v_0a8f80e2",
     "word": "Classy",
     "translation": "elegante, con clase",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_8f1badde",
+    "word": "I wonder if I can steal you away for two minutes?",
+    "translation": "¿Puedo robarte dos minutos?",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e8ab5f7b",
+    "id": "v_af05604f",
     "word": "Charge accounts",
     "translation": "cuentas de crédito",
     "source_movie": "A Rainy Day in New York",
@@ -1368,15 +1344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2590ed9c",
+    "id": "v_95d8a7a5",
     "word": "Bookworm",
     "translation": "ratón de biblioteca",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_714cd9cf",
+    "id": "v_8ccefca7",
     "word": "This culture vulture",
     "translation": "esta amante/fanática de la cultura",
     "source_movie": "A Rainy Day in New York",
@@ -1384,7 +1360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_da98a390",
+    "id": "v_1e5f337b",
     "word": "Vanish off",
     "translation": "desaparecer",
     "source_movie": "A Rainy Day in New York",
@@ -1392,7 +1368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fa1cf5eb",
+    "id": "v_0ded5528",
     "word": "Moving (no literal en emociones)",
     "translation": "conmovedor",
     "source_movie": "A Rainy Day in New York",
@@ -1400,7 +1376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e57706aa",
+    "id": "v_8244b999",
     "word": "Unspoiled honesty",
     "translation": "honestidad genuina",
     "source_movie": "A Rainy Day in New York",
@@ -1408,7 +1384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6b7ab031",
+    "id": "v_e2593ab0",
     "word": "It struck me",
     "translation": "me impactó (literal), me llamó la atención (no literal)",
     "source_movie": "A Rainy Day in New York",
@@ -1416,7 +1392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_443a2956",
+    "id": "v_27c95372",
     "word": "A wandering rogue (no literal)",
     "translation": "un pícaro errante",
     "source_movie": "A Rainy Day in New York",
@@ -1424,7 +1400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_902c05b0",
+    "id": "v_83d04ece",
     "word": "I'm not fond of surprises (frase no literal)",
     "translation": "no me gustan las sorpresas",
     "source_movie": "A Rainy Day in New York",
@@ -1432,7 +1408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_364d28af",
+    "id": "v_d588ea95",
+    "word": "He speaks very highly of you (frase no literal)",
+    "translation": "él habla muy bien de ti",
+    "source_movie": "A Rainy Day in New York",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_33a2ac07",
     "word": "That sorta thing",
     "translation": "algo así, ese tipo de cosas",
     "source_movie": "A Rainy Day in New York",
@@ -1440,7 +1424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_16b5473d",
+    "id": "v_7a174b93",
     "word": "Bemoan (verbo)",
     "translation": "lamentarse",
     "source_movie": "A Rainy Day in New York",
@@ -1448,7 +1432,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0a9b2676",
+    "id": "v_6961959e",
     "word": "Trouble spots",
     "translation": "focos de conflicto, puntos conflictivos",
     "source_movie": "A Rainy Day in New York",
@@ -1456,7 +1440,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7fa9068a",
+    "id": "v_29f6a2fc",
     "word": "Hand to mouth (frase no literal)",
     "translation": "al día",
     "source_movie": "A Rainy Day in New York",
@@ -1464,15 +1448,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af9ffc54",
-    "word": "sorprendan",
-    "translation": "No registrada",
+    "id": "v_644862d1",
+    "word": "I know you find being surprised arousing (frase no literal)",
+    "translation": "sé que te excita que te sorprendan",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_04b69126",
+    "id": "v_ff345502",
     "word": "Tête-à-têtes (en francés)",
     "translation": "encuentros íntimas",
     "source_movie": "A Rainy Day in New York",
@@ -1480,7 +1464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_283137b2",
+    "id": "v_72889ea5",
     "word": "Where I come out on the short end as always",
     "translation": "donde salgo perdiendo como siempre",
     "source_movie": "A Rainy Day in New York",
@@ -1488,7 +1472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bdb62825",
+    "id": "v_f696de10",
     "word": "Make a fool of",
     "translation": "burlarse de, hacer quedar en ridículo",
     "source_movie": "A Rainy Day in New York",
@@ -1496,7 +1480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_427ad4cb",
+    "id": "v_01388432",
     "word": "Pretentious appropiateness",
     "translation": "adecuación pretenciosa",
     "source_movie": "A Rainy Day in New York",
@@ -1504,15 +1488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_135dda28",
-    "word": "porque pongo el listón muy alto",
-    "translation": "No registrada",
+    "id": "v_cd0f1902",
+    "word": "You resent me because I set a high bar (parcialmente no literal)",
+    "translation": "me guardas rencor porque pongo el listón muy alto",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a2d1d3ef",
+    "id": "v_c3c385b2",
     "word": "I'm not gonna roll off the assembly line",
     "translation": "no voy a salir de la cadena de montaje",
     "source_movie": "A Rainy Day in New York",
@@ -1520,7 +1504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f8e3f1ce",
+    "id": "v_124ef9a3",
     "word": "Escort",
     "translation": "acompañante",
     "source_movie": "A Rainy Day in New York",
@@ -1528,7 +1512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_88b8ec5f",
+    "id": "v_e18b944a",
     "word": "Snobs",
     "translation": "esnobs",
     "source_movie": "A Rainy Day in New York",
@@ -1536,7 +1520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8cc22349",
+    "id": "v_35ebc57f",
     "word": "Streak",
     "translation": "vena",
     "source_movie": "A Rainy Day in New York",
@@ -1544,7 +1528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_19b7001d",
+    "id": "v_9dccc4fa",
     "word": "Slip past",
     "translation": "escabullirse",
     "source_movie": "A Rainy Day in New York",
@@ -1552,7 +1536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7742b06d",
+    "id": "v_1bd8dc30",
     "word": "I made my living (frase no literal)",
     "translation": "me ganaba la vida",
     "source_movie": "A Rainy Day in New York",
@@ -1560,7 +1544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f75eeab9",
+    "id": "v_ea2b3d81",
     "word": "Hard-earned",
     "translation": "ganado con esfuerzo",
     "source_movie": "A Rainy Day in New York",
@@ -1568,15 +1552,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_93c1d1d0",
+    "id": "v_9b2339bf",
     "word": "Bend over",
     "translation": "inclinarse",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 5
+    "global_frequency": 4
   },
   {
-    "id": "v_0891f65f",
+    "id": "v_57b6beef",
     "word": "Overzealous hustler",
     "translation": "estafador demasiado entusiasta",
     "source_movie": "A Rainy Day in New York",
@@ -1584,7 +1568,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a0048415",
+    "id": "v_71ddde4b",
     "word": "Unsavory",
     "translation": "desagradable",
     "source_movie": "A Rainy Day in New York",
@@ -1592,15 +1576,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d38517e0",
-    "word": "las mujeres de la alta sociedad",
-    "translation": "No registrada",
+    "id": "v_deee5436",
+    "word": "Your urge to consort with the demimonde (no literal)",
+    "translation": "tus ganas de relacionarte con las mujeres de la alta sociedad",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b72e7779",
+    "id": "v_ab689b61",
     "word": "Lay the table (verbo)",
     "translation": "poner la mesa",
     "source_movie": "A Rainy Day in New York",
@@ -1608,7 +1592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_03842843",
+    "id": "v_7bd8a2ca",
     "word": "Minus the acting chops",
     "translation": "sin el talento interpretative",
     "source_movie": "A Rainy Day in New York",
@@ -1616,15 +1600,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d61a6a4",
+    "id": "v_c70786ec",
     "word": "Hunk",
     "translation": "bombón",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_d4676f57",
+    "id": "v_03a85faf",
     "word": "How was going to your mom's soiree?",
     "translation": "¿Qué tal la velada en casa de tu mamá?",
     "source_movie": "A Rainy Day in New York",
@@ -1632,7 +1616,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9e53c223",
+    "id": "v_ef6e357b",
     "word": "I've sold her short (frase no literal)",
     "translation": "la he subestimado",
     "source_movie": "A Rainy Day in New York",
@@ -1640,7 +1624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_75bb5159",
+    "id": "v_71357cf0",
     "word": "John (sustantivo común)",
     "translation": "cliente",
     "source_movie": "A Rainy Day in New York",
@@ -1648,7 +1632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e30c293a",
+    "id": "v_f999a289",
     "word": "Gloomy",
     "translation": "nublado",
     "source_movie": "A Rainy Day in New York",
@@ -1656,7 +1640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b79c01f8",
+    "id": "v_f7b50604",
     "word": "The roaring traffic's boom",
     "translation": "el estruendo del tráfico",
     "source_movie": "A Rainy Day in New York",
@@ -1664,15 +1648,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_21ad5d14",
+    "id": "v_8c7320b7",
     "word": "Blossom (verbo)",
     "translation": "florecer",
     "source_movie": "A Rainy Day in New York",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_9eebf646",
+    "id": "v_2853b802",
     "word": "A crackerjack reporter",
     "translation": "un reportero de primera",
     "source_movie": "A Rainy Day in New York",
@@ -1680,7 +1664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_db17dded",
+    "id": "v_4b41e4ec",
     "word": "Blow (verbo en sociedad)",
     "translation": "estropear, echar a perder",
     "source_movie": "A Rainy Day in New York",

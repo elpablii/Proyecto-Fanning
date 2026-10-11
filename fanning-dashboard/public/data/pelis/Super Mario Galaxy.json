@@ -40,8 +40,8 @@
       "translation": "puerta de entrada"
     },
     {
-      "word": "dejarte los huesos al descubierto",
-      "translation": "No registrada"
+      "word": "I'll burn the skin off your bones (parcialmente no literal)",
+      "translation": "te voy a quemar hasta dejarte los huesos al descubierto"
     },
     {
       "word": "Stubbed the dang toe!",
@@ -60,8 +60,8 @@
       "translation": "no puedes leer mis pensamientos"
     },
     {
-      "word": "sensible",
-      "translation": "No registrada"
+      "word": "He's gotten really in touch with his feelings (frase no literal)",
+      "translation": "él se ha vuelto muy sensible"
     },
     {
       "word": "Chitters (acotación)",
@@ -205,11 +205,7 @@
     },
     {
       "word": "Shrink me to a nubbin and put me in a jar?",
-      "translation": "¿Reducirme a un trocito y meterme en un"
-    },
-    {
-      "word": "frasco?",
-      "translation": "No registrada"
+      "translation": "¿Reducirme a un trocito y meterme en un frasco?"
     },
     {
       "word": "Chirping footsteps (parcialmente no literal)",
@@ -233,11 +229,7 @@
     },
     {
       "word": "Like the approaching drumbeat of death",
-      "translation": "como el redoble de tambor de la muerte que"
-    },
-    {
-      "word": "se acerca",
-      "translation": "No registrada"
+      "translation": "como el redoble de tambor de la muerte que se acerca"
     }
   ],
   "tmdb": {
@@ -251,5 +243,7 @@
       "https://image.tmdb.org/t/p/w780/owmXuQSufmIxrH6zIN5YA24ZwTD.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 57,
+  "dialogues": 1544
 }

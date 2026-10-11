@@ -293,7 +293,7 @@
     },
     {
       "word": "Your expertise with freeze-ray laser cannon",
-      "translation": "tu destreza con el cañón láser de rayos"
+      "translation": "tu destreza con el cañón láser de rayos congelados"
     },
     {
       "word": "Lay out",
@@ -345,7 +345,7 @@
     },
     {
       "word": "Some high-tech disappearing-gizmo thing",
-      "translation": "algún artilugio de alta tecnología para"
+      "translation": "algún artilugio de alta tecnología para desaparecer"
     },
     {
       "word": "Cloaking devices",
@@ -388,7 +388,7 @@
       "translation": "canalla, sinvergüenza, bribón"
     },
     {
-      "word": "He's out cold!",
+      "word": "He’s out cold!",
       "translation": "¡Está inconsciente!"
     },
     {
@@ -396,7 +396,7 @@
       "translation": "firme"
     },
     {
-      "word": "Let's pull on",
+      "word": "Let’s pull on",
       "translation": "vamos a tirar"
     },
     {
@@ -417,7 +417,7 @@
     },
     {
       "word": "I see you're taking stock of your new accommodations",
-      "translation": "veo que estás haciendo"
+      "translation": "veo que estás haciendo balance de tu nuevo alojamiento"
     },
     {
       "word": "Side-by-side",
@@ -484,7 +484,7 @@
       "translation": "para que vuelva a mí"
     },
     {
-      "word": "I'm a wreck",
+      "word": "I’m a wreck",
       "translation": "soy un desastre"
     },
     {
@@ -505,7 +505,7 @@
     },
     {
       "word": "You still stick out like a sore thumb",
-      "translation": "todavía sigues sobresaliendo como un pulgar"
+      "translation": "todavía sigues sobresaliendo como un pulgar dolorido"
     },
     {
       "word": "Stepstool",
@@ -563,5 +563,7 @@
       "https://image.tmdb.org/t/p/w780/plZnEmarXP45Wrtqxg2pIL8Lbwm.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 137,
+  "dialogues": 1734
 }

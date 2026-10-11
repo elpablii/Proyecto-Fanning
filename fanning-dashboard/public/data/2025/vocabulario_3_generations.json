@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_c198ed31",
+    "id": "v_6b57f7de",
     "word": "I wish I was a boy (no literal)",
     "translation": "ojalá fuera un chico",
     "source_movie": "3 Generations",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8b107b9e",
+    "id": "v_f3b8b2a1",
     "word": "Hair growth",
     "translation": "crecimiento del vello",
     "source_movie": "3 Generations",
@@ -16,23 +16,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1890d79",
-    "word": "I'm so glad I'm over those",
-    "translation": "me alegro mucho de haber superano eso",
+    "id": "v_183ffca0",
+    "word": "Hot flashes'll get you every time (no literal)",
+    "translation": "los sofocos te pillarán siempre",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5ec2a641",
-    "word": "Undermine (verb)",
+    "id": "v_b03c7d48",
+    "word": "I'm so glad I'm over those",
+    "translation": "me alegro mucho de haber superado eso",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6123af87",
+    "word": "Undermine (verbo)",
     "translation": "socavar, minar",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_2d005d95",
+    "id": "v_616c7fe5",
     "word": "Alike",
     "translation": "igual, similar, parecido",
     "source_movie": "3 Generations",
@@ -40,31 +48,31 @@
     "global_frequency": 5
   },
   {
-    "id": "v_c6fe6332",
+    "id": "v_73ae7ca5",
     "word": "Can I be excused? (pregunta no literal)",
-    "translation": "¿Quedo retirar?",
+    "translation": "¿Puedo retirarme?",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9fabb0cc",
-    "word": "Stay out (verb fatal)",
-    "translation": "mantener al margen",
+    "id": "v_af460e8a",
+    "word": "Stay out (verbo frasal)",
+    "translation": "mantenerse al margen",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b757d68d",
-    "word": "Kick-in (verb)",
+    "id": "v_8d3f509b",
+    "word": "Kick-in (verbo)",
     "translation": "entrar en acción",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_73e78400",
+    "id": "v_0e5b3430",
     "word": "We'll always be tight",
     "translation": "siempre estaremos unidos",
     "source_movie": "3 Generations",
@@ -72,23 +80,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_2439af45",
+    "id": "v_1ad53dfe",
     "word": "Department of Social Services (DSS)",
-    "translation": "Departamento de Servicio Social",
+    "translation": "Departamento de Servicios Sociales",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_107d8a8c",
-    "word": "Neat (adjective)",
+    "id": "v_9ca469a2",
+    "word": "Neat (adjetivo)",
     "translation": "limpio",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_e3ea024d",
+    "id": "v_c06601f8",
     "word": "Coconut",
     "translation": "coco",
     "source_movie": "3 Generations",
@@ -96,15 +104,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9335a713",
-    "word": "Take slow (verb no literal)",
+    "id": "v_e8359ffe",
+    "word": "Take slow (verbo no literal)",
     "translation": "tomar con calma",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b1fb6b08",
+    "id": "v_24c0e2d1",
     "word": "Out of your",
     "translation": "de tus, con tus",
     "source_movie": "3 Generations",
@@ -112,15 +120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0416852c",
-    "word": "Good shiner! (abusive a la cara)",
+    "id": "v_8f2fb102",
+    "word": "Good shiner! (alusivo a la cara)",
     "translation": "¡Buen lustre!, ¡Buen ojo morado!",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_fa5e53bb",
+    "id": "v_43b17879",
     "word": "Cornish hen",
     "translation": "gallina de Cornualles",
     "source_movie": "3 Generations",
@@ -128,55 +136,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5e9dbc5",
+    "id": "v_46cbd634",
     "word": "You were mugged?",
-    "translation": "¿Te asaltar?",
+    "translation": "¿Te asaltaron?",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_029d3f32",
+    "id": "v_a6331f9a",
     "word": "Careful not to get the Rosemary in the eye",
-    "translation": "con cuidado de que no te entre el romero",
+    "translation": "con cuidado de que no te entre el romero en el ojo",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f0a83151",
-    "word": "en el mojo",
-    "translation": "No registrada",
+    "id": "v_b969c933",
+    "word": "It wasn't a big deal (frase no literal)",
+    "translation": "no fue para tanto",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_47ff9d03",
-    "word": "It was't a big deal (frame no literal)",
-    "translation": "no que para tanto",
-    "source_movie": "3 Generations",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_13cb4a05",
+    "id": "v_c1931a05",
     "word": "Lame beating up on a girl",
-    "translation": "que patético golpear a una chica",
+    "translation": "qué patético golpear a una chica",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8a1f5260",
+    "id": "v_f9fbb299",
     "word": "Whim",
     "translation": "capricho",
     "source_movie": "3 Generations",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_426d4676",
+    "id": "v_0a554508",
     "word": "A mean trick",
     "translation": "un truco malvado",
     "source_movie": "3 Generations",
@@ -184,71 +184,79 @@
     "global_frequency": 1
   },
   {
-    "id": "v_20825743",
+    "id": "v_7cf1553c",
     "word": "Message boards",
-    "translation": "papeleo/tablones de mensaje",
+    "translation": "paneles/tablones de mensajes",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e3a343dc",
-    "word": "Right (verb)",
+    "id": "v_e4f1f8bd",
+    "word": "Infringe on my family (para contexto de esta película)",
+    "translation": "meterse con mi familia",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_74aa2b45",
+    "word": "Right (verbo)",
     "translation": "enderezar",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_04349f56",
-    "word": "All that artsy-farts tuition",
+    "id": "v_212346dd",
+    "word": "All that artsy-fartsy tuition",
     "translation": "toda esa matrícula artística",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a955b838",
-    "word": "Attached (adjective)",
-    "translation": "adjunto, unido, vincular",
+    "id": "v_97e11ac5",
+    "word": "Attached (adjetivo)",
+    "translation": "adjunto, unido, vinculado",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ead4618d",
+    "id": "v_602a56f0",
     "word": "We're breaking out into the world",
-    "translation": "estados salido al mundo",
+    "translation": "estamos saliendo al mundo",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cbf8d2fc",
+    "id": "v_8f6d461c",
     "word": "Deli",
-    "translation": "fiambrera, charcutería",
+    "translation": "fiambrería, charcutería",
     "source_movie": "3 Generations",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_46ba2082",
+    "id": "v_95d8b425",
     "word": "Move out",
-    "translation": "mudar (de un lugar)",
+    "translation": "mudarse (de un lugar)",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_e6a1070b",
+    "word": "I'm trying to show you around as efficently as possible",
+    "translation": "estoy tratando de mostrarte el lugar de la manera más eficiente posible",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7a434f31",
-    "word": "el sugar de la mantra mas efficient possible",
-    "translation": "No registrada",
-    "source_movie": "3 Generations",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_8cfe2a1a",
+    "id": "v_30b8c80a",
     "word": "Kitchen appliances",
     "translation": "electrodomésticos de cocina",
     "source_movie": "3 Generations",
@@ -256,7 +264,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e3c4f540",
+    "id": "v_d9ad5192",
+    "word": "He turns around one day (parcialmente no literal)",
+    "translation": "un día se vuelve",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e190b8d6",
     "word": "Fidgety",
     "translation": "inquieto, intranquilo",
     "source_movie": "3 Generations",
@@ -264,23 +280,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_271974d9",
+    "id": "v_f2ff190a",
     "word": "Everything was stuffy or itchy",
-    "translation": "todo estafa congestionar o picada",
+    "translation": "todo estaba congestionado o picaba",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_adf24af1",
+    "id": "v_292b1e64",
+    "word": "You took out your scissors and you just cut it up",
+    "translation": "sacaste las tijeras y lo cortaste",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e572365d",
+    "word": "I'm done with being an exception (frase no literal)",
+    "translation": "ya no quiero ser una excepción",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0f716bc0",
     "word": "It sort of just dissolved",
-    "translation": "como que se disolver",
+    "translation": "como que se disolvió",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_61031113",
+    "id": "v_93f31a96",
     "word": "My deadbeat dad",
     "translation": "mi padre moroso/vago",
     "source_movie": "3 Generations",
@@ -288,15 +320,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_06cff011",
+    "id": "v_1ae8de6d",
     "word": "Just checking in",
-    "translation": "sólo esto comprobante",
+    "translation": "sólo estoy comprobando",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c30e4562",
+    "id": "v_f6b58c68",
     "word": "An excused absence (no literal)",
     "translation": "una ausencia justificada",
     "source_movie": "3 Generations",
@@ -304,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9261105b",
+    "id": "v_a59c9fed",
     "word": "My land line",
     "translation": "mi teléfono fijo, mi línea fija",
     "source_movie": "3 Generations",
@@ -312,39 +344,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9a02db77",
+    "id": "v_c4059cd2",
     "word": "Are you this way?",
-    "translation": "¿Estas así?",
+    "translation": "¿Estás así?",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c8d1877b",
+    "id": "v_66752c89",
+    "word": "I’m a lot of because of you (frase no literal)",
+    "translation": "tengo muchas cosas gracias a ti",
+    "source_movie": "3 Generations",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5e1587c4",
     "word": "We rig it with a rope",
-    "translation": "lo aparejador/montado con una cuerda",
+    "translation": "lo aparejamos/montamos con una cuerda",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c7015609",
+    "id": "v_e1e8c343",
     "word": "Tie yourself down with a rope",
-    "translation": "tate/amarraje con una cuerda",
+    "translation": "átate/amárrate con una cuerda",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_06f9b34a",
+    "id": "v_521c7d7e",
     "word": "Long drives",
-    "translation": "recorrido largo",
+    "translation": "recorridos largos",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c10e0f98",
+    "id": "v_af19d0f1",
     "word": "They'd bounce around like laundry",
     "translation": "rebotaban como ropa sucia",
     "source_movie": "3 Generations",
@@ -352,23 +392,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d8381dff",
+    "id": "v_707aea01",
     "word": "Our you friends with our mom?",
-    "translation": "¿Tres amigo de nuestra madre?",
+    "translation": "¿Eres amigo de nuestra madre?",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_abbfcb0f",
+    "id": "v_cc471b60",
     "word": "She's rushing into it",
-    "translation": "se esta precipitado",
+    "translation": "se está precipitando",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0418774f",
+    "id": "v_d5336bc2",
     "word": "It's rushed",
     "translation": "es apresurado, es precipitado",
     "source_movie": "3 Generations",
@@ -376,87 +416,79 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d2d801f0",
+    "id": "v_b1d8db6c",
     "word": "Come stand guard",
-    "translation": "en a hacer guardia",
+    "translation": "ven a hacer guardia",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b6bceee5",
+    "id": "v_7052737d",
     "word": "Any truck stop nonsense",
-    "translation": "alguna tontería de parada de camioneta",
+    "translation": "alguna tontería de parada de camiones",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5668071a",
-    "word": "Lock (substantive)",
+    "id": "v_31c8b41a",
+    "word": "Lock (sustantivo)",
     "translation": "cerradura",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_d465ac45",
+    "id": "v_cffb6094",
     "word": "I'm breaking out with you",
-    "translation": "esto remiendo conmigo",
+    "translation": "estoy rompiendo conmigo",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22d3e7fb",
-    "word": "To-go (en periods)",
+    "id": "v_8fd72108",
+    "word": "To-go (en pedidos)",
     "translation": "para llevar",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4b2f76d0",
+    "id": "v_f465a7b5",
     "word": "That was your best being gone for ten years?",
-    "translation": "¿Eso que lo mejor de estar fuera por",
+    "translation": "¿Eso fue lo mejor de estar fuera por diez años?",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5208a0af",
-    "word": "die amos?",
-    "translation": "No registrada",
+    "id": "v_0ba72722",
+    "word": "I wasn't gone",
+    "translation": "no me había ido",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_051f2d90",
-    "word": "I was't gone",
-    "translation": "no me habla do",
-    "source_movie": "3 Generations",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_388b3dcd",
+    "id": "v_6bd5cf12",
     "word": "Slip out",
     "translation": "escapar (algo o alguna situación)",
     "source_movie": "3 Generations",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_1737c81d",
-    "word": "Slamming (substantive)",
+    "id": "v_150b6168",
+    "word": "Slamming (sustantivo)",
     "translation": "portazo, golpe",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_00b93a2f",
+    "id": "v_394994b9",
     "word": "Ask over",
     "translation": "preguntar",
     "source_movie": "3 Generations",
@@ -464,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_38b673b9",
+    "id": "v_34f54e4c",
     "word": "He's gotten a little thick around the middle",
     "translation": "se ha vuelto un poco grueso por el medio",
     "source_movie": "3 Generations",
@@ -472,7 +504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_edf8d706",
+    "id": "v_54ca51a4",
     "word": "A foot brace",
     "translation": "un aparato ortopédico para el pie",
     "source_movie": "3 Generations",
@@ -480,33 +512,33 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4af24004",
+    "id": "v_8437eec2",
     "word": "Get into",
-    "translation": "meter, entrar",
+    "translation": "meterse, entrar",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 4
   },
   {
-    "id": "v_31682bde",
-    "word": "Lay (verb)",
+    "id": "v_98f847e0",
+    "word": "Lay (verbo)",
     "translation": "poner, dejar, colocar",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 5
   },
   {
-    "id": "v_69eeb46f",
+    "id": "v_9a3fb21f",
     "word": "Douche",
     "translation": "idiota, imbécil",
     "source_movie": "3 Generations",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_9cbc36eb",
+    "id": "v_91d73a52",
     "word": "A couple of dos and don'ts",
-    "translation": "lo que ha que hacer y lo que no ha que hacer",
+    "translation": "lo que hay que hacer y lo que no hay que hacer",
     "source_movie": "3 Generations",
     "year_processed": "2025",
     "global_frequency": 1

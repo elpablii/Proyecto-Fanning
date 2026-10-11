@@ -177,7 +177,7 @@
     },
     {
       "word": "It scares away any pain-in-the-ass innocent bystanders",
-      "translation": "ahuyenta a cualquier"
+      "translation": "ahuyenta a cualquier transeúnte inocente"
     },
     {
       "word": "They'll be scared stiff",
@@ -249,7 +249,7 @@
     },
     {
       "word": "One of them struck our friend like a thunderbolt",
-      "translation": "uno de ellos golpeó a nuestro amigo"
+      "translation": "uno de ellos golpeó a nuestro amigo como un rayo"
     },
     {
       "word": "I'll knock you dizzy",
@@ -272,7 +272,7 @@
       "translation": "funeraria"
     },
     {
-      "word": "We're quits",
+      "word": "We’re quits",
       "translation": "estamos en paz"
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "word": "If an unlucky accident should befall him (frase no literal)",
-      "translation": "si le ocurriera un"
+      "translation": "si le ocurriera un desafortunado accidente"
     },
     {
       "word": "A bolt of lightning",
@@ -351,5 +351,7 @@
       "https://image.tmdb.org/t/p/w780/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 84,
+  "dialogues": 1483
 }

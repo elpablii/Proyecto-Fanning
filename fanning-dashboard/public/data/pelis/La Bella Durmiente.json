@@ -16,6 +16,10 @@
       "translation": "a través de, a lo largo de"
     },
     {
+      "word": "All of high or low estate (parcialmente no literal)",
+      "translation": "todos los de alta o baja alcurnia"
+    },
+    {
       "word": "Replete (verbo)",
       "translation": "repletar, completar, llenar"
     },
@@ -33,11 +37,7 @@
     },
     {
       "word": "Their most honored and exalted excellencies",
-      "translation": "sus más honorables y excelsas"
-    },
-    {
-      "word": "excelencias",
-      "translation": "No registrada"
+      "translation": "sus más honorables y excelsas excelencias"
     },
     {
       "word": "Gift (no literal en sentido intangible)",
@@ -72,8 +72,8 @@
       "translation": "vigilancia, descuido, supervision"
     },
     {
-      "word": "voluntad",
-      "translation": "No registrada"
+      "word": "And to show I bear no ill will (frase no literal)",
+      "translation": "y para demostrar que no tengo mala voluntad"
     },
     {
       "word": "I, too, shall bestow a gift on the child",
@@ -236,12 +236,16 @@
       "translation": "volantes"
     },
     {
+      "word": "I still think what I thunk before (frase no literal)",
+      "translation": "sigo pensando lo mismo que antes"
+    },
+    {
       "word": "Plug up every cranny",
       "translation": "tapona cada grieta, tapa cada rendija"
     },
     {
-      "word": "digno de una bella princesa",
-      "translation": "No registrada"
+      "word": "To make a lovely dress fit to grace a fair Princess",
+      "translation": "para hacer un hermoso vestido digno de una bella princesa"
     },
     {
       "word": "Enough of this foolishness!",
@@ -280,12 +284,16 @@
       "translation": "entrando en años"
     },
     {
+      "word": "It may come as quite a shock (frase no literal)",
+      "translation": "puede resultar bastante chocante"
+    },
+    {
       "word": "Sputter (verbo)",
       "translation": "balbucear"
     },
     {
-      "word": "pomposo y fanfarrón!",
-      "translation": "No registrada"
+      "word": "You unreasonable, pompous, blustering old windbag!",
+      "translation": "¡Viejo charlatán irrazonable, pomposo y fanfarrón!"
     },
     {
       "word": "Bound to",
@@ -304,8 +312,8 @@
       "translation": "renunciar, abandonar"
     },
     {
-      "word": "razón",
-      "translation": "No registrada"
+      "word": "I command you to come to your senses (frase no literal)",
+      "translation": "te ordeno a que entres en razón"
     },
     {
       "word": "Bolt the door",
@@ -318,6 +326,10 @@
     {
       "word": "The mistress of all evil",
       "translation": "la dueña de todos los males"
+    },
+    {
+      "word": "We're all to blame! (parcialmente no literal)",
+      "translation": "¡Todos tenemos la culpa!"
     },
     {
       "word": "Fair (significado no literal)",
@@ -387,5 +399,7 @@
       "https://image.tmdb.org/t/p/w780/tpAvWkO8vbaKBApflTpIuHPHG0c.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 96,
+  "dialogues": 1143
 }

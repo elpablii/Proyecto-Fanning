@@ -1,0 +1,243 @@
+CRITERIO DE CONTEO DE PALABRAS Y FRASES (VOCABULARIOS)
+=====================================================
+
+Propósito
+---------
+Este documento define de forma explícita cómo se cuenta la cantidad correcta de
+palabras y frases de cada vocabulario (los PDF "Palabras desconocidas de ...
+(lista definitiva)" de la carpeta Vocabularios).
+
+Complementa a "Criterio de conteo de líneas de diálogo.txt", que define cómo se
+cuentan las líneas de diálogo.
+
+Ámbito
+------
+- Películas: aplican los puntos 1 a 4.
+- Series: aplican los puntos 1 a 4 y, además, el punto 5 (conteo por episodio).
+
+
+1. UNIDAD DE CONTEO
+-------------------
+Cada palabra o frase de la lista vale exactamente 1.
+
+    1 palabra = 1
+    1 frase   = 1   (sin importar cuántas palabras tenga la frase)
+
+Cada entrada de la lista tiene este formato:
+
+    <palabra o frase en inglés> (nota opcional): <traducción>
+
+Ejemplos (cada uno suma 1):
+    Plaster: yeso
+    Drafting room: sala de dibujo
+    Skeez (adjetivo): asqueroso, canalla
+    Can I crash here? (pregunta no literal): ¿Puedo pasar la noche aquí?
+
+La nota entre paréntesis (adjetivo, verbo, frase no literal, acotación, etc.)
+es parte de la misma entrada y no suma nada aparte.
+
+
+2. FRASES QUE OCUPAN MÁS DE UNA LÍNEA
+-------------------------------------
+Una palabra o frase puede abarcar más de una línea (normalmente porque la
+traducción o la frase es larga y el texto pasa a la línea siguiente). En ese
+caso sigue valiendo 1, NO una por cada línea.
+
+Ejemplo (2 líneas en el PDF => suma 1):
+    We need a place to crash for tonight (frase no literal): necesitamos un lugar para
+    pasar la noche
+
+Cómo reconocerlo: una entrada nueva empieza con el término en inglés seguido de
+":" y su traducción. Una línea que solo continúa el texto de la entrada anterior
+(por ejemplo "pasar la noche") NO es una entrada nueva y no suma.
+
+Caso especial: el término en inglés se parte ANTES de los ":"
+  Si la frase en inglés es muy larga, puede pasar a la línea siguiente antes de
+  llegar a los ":". Entonces la primera línea de la entrada NO tiene ":" y la
+  segunda empieza en minúscula (porque sigue la frase en inglés) y recién ahí
+  aparecen los ":" con la traducción. Sigue siendo UNA sola entrada (suma 1).
+
+  Ejemplo real (vocabulario de A Big Bold Beautiful Journey). Cada "L" es UNA
+  entrada; la entrada L2 ocupa dos renglones en el PDF:
+
+      L1  Won me over (no literal): me convenció
+      L2  Thought of coming home to you every day made me break out into hives (frase no
+          literal): la idea de volver a casa contigo cada día me provocaba urticaria
+      L3  We just dug fairly fucking deep: simplemente cavamos bastante profundo
+
+  Conteo correcto:
+      L1  -> suma 1
+      L2  -> suma 1 (aunque ocupe dos renglones, es UNA sola entrada)
+      L3  -> suma 1
+      Total = 3
+
+  Por qué es un caso trampa:
+      - El primer renglón de L2 NO tiene ":" (la nota "(frase no literal)" se
+        cortó y los ":" quedaron en el segundo renglón).
+      - Si se usa la regla simple "una entrada nueva empieza en un renglón con
+        ':'", el primer renglón de L2 se pegaría a L1 como si fuera parte de su
+        traducción, y el segundo renglón ("literal): la idea de...") se tomaría
+        como una entrada aparte.
+      - El total puede dar bien por casualidad, pero las entradas quedan mal
+        armadas, y eso arruina la búsqueda de repetidas (punto 4.1).
+
+  Cómo reconocerlo:
+      - Si un renglón empieza en MINÚSCULA y tiene ":" (como "literal): la
+        idea de..."), es el final de una entrada que empezó en el renglón
+        anterior.
+      - Entonces ese renglón anterior es el COMIENZO de una entrada nueva
+        (L2), no la continuación de L1.
+      - Las continuaciones normales de una traducción (como "pasar la noche"
+        en el ejemplo de arriba) NO tienen ":" y van después de un renglón que
+        sí lo tiene.
+
+  Casos detectados al escribir este criterio (todos valen 1 entrada cada uno):
+      - A Big Bold Beautiful Journey (el ejemplo de arriba)
+      - Kim Possible (S01EP12)
+      - Dream Productions
+
+
+3. EL TÍTULO NO CUENTA
+----------------------
+El título del vocabulario NO es una palabra ni una frase y NO se cuenta.
+Puede ocupar una o más líneas, por ejemplo:
+
+    Unknown words and phrases from <Película>
+    to improve the vocabulary (80 words/phrases)
+
+Ninguna de las líneas del título cuenta. Algunos títulos tienen ":" (por
+ejemplo "(Part 1: 125 words/phrases)"); igual son título y no cuentan.
+
+El número que aparece en el título o en los subtítulos, como "(80 words/phrases)",
+tampoco se cuenta. Ese número se hizo con un conteo manual: el valor que VALE es
+el que da el conteo hecho con este criterio. Si los dos números no coinciden,
+se usa el del conteo con este criterio (el del PDF queda solo como referencia).
+
+
+3.1 VOCABULARIOS DIVIDIDOS EN PARTES
+  Una película puede tener el vocabulario dividido en dos (o más) PDF, por
+  ejemplo "Parte 1" y "Parte 2". Esos archivos pertenecen a la MISMA película:
+  - Cada parte se cuenta con estas mismas reglas (el título de cada parte
+    tampoco cuenta).
+  - El total de la película es la suma de sus partes. No son películas
+    distintas.
+  - La regla de repetidas (punto 4.1) se aplica sobre la película completa:
+    una entrada de la Parte 2 con el mismo sentido que una de la Parte 1
+    cuenta 1 sola vez.
+
+
+4. LÍNEAS QUE NO CUENTAN
+------------------------
+No suman:
+  - El título (punto 3).
+  - En las series, los subtítulos de episodio (punto 5.2).
+  - Las líneas vacías o compuestas solo por espacios o símbolos.
+  - Las líneas que solo continúan una entrada anterior (punto 2).
+  - Las entradas repetidas con el mismo sentido (punto 4.1).
+
+
+4.1 PALABRAS O FRASES REPETIDAS
+  Cómo saber si dos entradas tienen el MISMO sentido: se comparan la nota
+  entre paréntesis (verbo, sustantivo, adjetivo, etc.) y la traducción. Si
+  las dos coinciden, es el mismo sentido. Si cambia alguna, son sentidos
+  distintos.
+
+  - Misma palabra/frase con el MISMO sentido, repetida -> cuenta 1 sola vez.
+      play (verbo): jugar
+      play (verbo): jugar          => total 1
+
+  - Misma palabra con DISTINTO sentido o función -> cuenta cada una.
+      play (verbo): jugar
+      play (sustantivo): obra      => total 2
+
+  - Una palabra suelta y después una frase que la contiene -> cuentan las dos,
+    porque son entradas distintas.
+      play: jugar
+      play it cool: mantener la calma     => total 2
+
+  - SERIES: la regla de repetidas se aplica DENTRO de cada episodio. Si una
+    palabra con el mismo sentido aparece en el episodio 1 y vuelve a aparecer
+    en el episodio 2, cuenta en cada episodio (1 en el episodio 1 y 1 en el
+    episodio 2).
+
+
+5. SERIES: CONTEO POR EPISODIO
+------------------------------
+En las series, un mismo vocabulario puede abarcar varios episodios. Las reglas
+de los puntos 1 a 4 se aplican igual, pero el conteo se separa por episodio.
+
+5.1 Límites de cada episodio
+  Las palabras y frases de un episodio son las que están DESPUÉS de la marca
+  de su episodio y ANTES de la marca del episodio siguiente.
+  En los diálogos esa marca es "S0XEPX" o "EPX". En los vocabularios aparece
+  como el subtítulo "Episode X: <nombre del episodio>" (punto 5.2), que
+  corresponde al mismo episodio.
+  El último episodio va desde su marca hasta el final del archivo.
+
+      Episode 1: <Nombre> (57 words/phrases)   <- subtítulo, NO cuenta
+      ...entradas...                           <- se cuentan para el episodio 1
+      Episode 2: <Nombre> (44 words/phrases)   <- subtítulo, NO cuenta
+      ...entradas...                           <- se cuentan para el episodio 2
+      ...hasta el final                        <- el último episodio termina
+                                                  con el archivo
+
+5.2 Los subtítulos de episodio NO cuentan
+  La línea "Episode X: <nombre del episodio>" NO es una palabra ni una frase y
+  NO se cuenta, aunque tenga ":" igual que una entrada. Esto incluye todo lo que
+  viene en esa línea: el nombre del episodio (que a veces también tiene ":",
+  por ejemplo "Episode 3: <Parte A>: <Parte B>") y el número entre paréntesis
+  "(N words/phrases)".
+
+5.3 Episodios especiales
+  Si en un mismo archivo aparecen episodios especiales (por ejemplo, después
+  del "Episode 8" vuelve a aparecer "Episode 1" para el Special Episode 1),
+  cada subtítulo "Episode X:" abre un episodio nuevo, aunque se repita el
+  número. No se suman al episodio anterior.
+
+5.4 Título del vocabulario de la serie
+  Igual que en las películas, el título no cuenta (ej: "Unknown words and
+  phrases from <Serie> (Episodes 1-2)", aunque quede partido en varias líneas).
+  Como está antes del primer episodio, no pertenece a ninguno.
+
+5.5 A qué temporada y episodio pertenece cada subtítulo
+  El subtítulo "Episode X" solo trae el número del episodio. La temporada sale
+  del nombre del PDF, que anuncia en orden qué episodios contiene:
+      "(S02EP1-3)"                     -> S02E01, S02E02, S02E03
+      "(S02EP30 & S03EP1)"             -> S02E30, S03E01
+      "(S01EP8 & Special Episodes 1-2)"-> S01E08, Especial 1, Especial 2
+      "(EP 4-7 + Special Episode)"     -> E04 a E07 (temporada 1), Especial 1
+  Cada subtítulo "Episode X" se asigna, en orden, al siguiente episodio
+  anunciado con ese número.
+
+  Variantes encontradas:
+      - "Part I (23 words/phrases):" ... "Part VI" (Obi-Wan Kenobi): cada
+        "Part" es un episodio (Part I = episodio 1, etc.). No cuenta.
+      - PDF de UN solo episodio sin subtítulo adentro (ej: "Kim Possible
+        (S01EP5)"): todas sus entradas son de ese episodio.
+
+5.6 El mismo episodio en dos PDF
+  Si un episodio aparece en dos vocabularios (ej: The Big Bang Theory
+  "(S04EP15-19)" y "(S04EP16-20)"), sus entradas se juntan en ese episodio y
+  se aplica la regla de repetidas (punto 4.1): lo que tenga el mismo sentido
+  cuenta 1 sola vez.
+
+
+6. RESUMEN RÁPIDO (procedimiento)
+---------------------------------
+Película:
+  1. Quitar el título.
+  2. Contar cada entrada "<término>: <traducción>" como 1.
+  3. Las líneas que continúan una entrada no suman (ojo con los términos
+     partidos antes de los ":", punto 2).
+  4. Las repeticiones con el mismo sentido cuentan 1 sola vez (punto 4.1).
+  Total = cantidad de entradas (si hay partes, se suman).
+  Si no coincide con el número del PDF, vale este conteo.
+
+Serie:
+  1. Quitar el título.
+  2. Cada subtítulo "Episode X: <nombre>" abre un episodio nuevo y NO cuenta.
+  3. Dentro de cada episodio, contar cada entrada como 1, aplicando los
+     puntos 2 y 4.1 (las líneas que
+     continúan una entrada no suman).
+  4. Total del episodio = cantidad de entradas dentro de él.
+  5. Total del vocabulario = suma de los totales de sus episodios.

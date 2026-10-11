@@ -77,7 +77,7 @@
     },
     {
       "word": "Just pop in this pipe and we're on our way",
-      "translation": "sólo hay que meterse en este tubo y nos"
+      "translation": "sólo hay que meterse en este tubo y nos vamos"
     },
     {
       "word": "Scramble up",
@@ -92,7 +92,7 @@
       "translation": "por el bien de todos"
     },
     {
-      "word": "You're in luck",
+      "word": "You’re in luck",
       "translation": "estás de suerte"
     },
     {
@@ -275,5 +275,7 @@
       "https://image.tmdb.org/t/p/w780/f3dwZ2lu3Ny4AFHwcpBvsVElLua.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 65,
+  "dialogues": 1541
 }

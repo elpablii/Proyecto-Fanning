@@ -4,7 +4,7 @@
   "englishAnalysis": "El clímax dramático de Star Wars. Contiene un inglés más oscuro, místico (el entrenamiento de Yoda invirtiendo la sintaxis) y lenguaje formal imperial sobre emboscadas y tecnología.",
   "vocabulary": [
     {
-      "word": "I'd just as soon kiss a Wookiee",
+      "word": "I’d just as soon kiss a Wookiee",
       "translation": "preferiría besar a un Wookiee"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "word": "You stuck-up, half-witted, scruffy-looking nerf herder!",
-      "translation": "¡Tú, engreído, medio tonto y"
+      "translation": "¡Tú, engreído, medio tonto y desaliñado pastor de nerfs!"
     },
     {
       "word": "Get riled up",
@@ -113,7 +113,7 @@
     },
     {
       "word": "Massive life form readings though",
-      "translation": "lecturas de formas de vida masivas, de todas"
+      "translation": "lecturas de formas de vida masivas, de todas formas"
     },
     {
       "word": "Scopes",
@@ -173,7 +173,7 @@
     },
     {
       "word": "Go stand by the manual release for the landing claw",
-      "translation": "ve a la liberación manual de la"
+      "translation": "ve a la liberación manual de la garra de aterrizaje"
     },
     {
       "word": "Gracious",
@@ -275,5 +275,7 @@
       "https://image.tmdb.org/t/p/w780/kgjvZgs6cV2v5bigzzzWqJ9EMGs.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 65,
+  "dialogues": 1135
 }

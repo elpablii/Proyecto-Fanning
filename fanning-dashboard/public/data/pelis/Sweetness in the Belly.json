@@ -12,16 +12,16 @@
       "translation": "santuario sufí"
     },
     {
+      "word": "It took some doing (frase no literal en sentido de dificultad)",
+      "translation": "ha costado"
+    },
+    {
       "word": "Refugee Referral Agency",
       "translation": "Agencia de Remisión de Refugiados"
     },
     {
       "word": "Housing at several different council estates",
-      "translation": "viviendas en diferentes urbanizaciones"
-    },
-    {
-      "word": "municipales",
-      "translation": "No registrada"
+      "translation": "viviendas en diferentes urbanizaciones municipales"
     },
     {
       "word": "Dining area",
@@ -160,6 +160,10 @@
       "translation": "ruido sordo del bus"
     },
     {
+      "word": "Bus chugging (acotación con traducción aproximada)",
+      "translation": "el bus avanza traqueteando"
+    },
+    {
       "word": "I was held in a prison",
       "translation": "me recluyeron en una prisión"
     },
@@ -194,5 +198,7 @@
       "https://image.tmdb.org/t/p/w780/8uKFNRT4OgPQWKiLt52I8gK5W1L.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 46,
+  "dialogues": 1116
 }

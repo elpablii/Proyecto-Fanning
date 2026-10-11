@@ -40,7 +40,7 @@
       "translation": "problemas de límites"
     },
     {
-      "word": "Don't hesitate to ask",
+      "word": "Don’t hesitate to ask",
       "translation": "no dudes en preguntar"
     },
     {
@@ -97,11 +97,7 @@
     },
     {
       "word": "Close quarters makes for strange bedfellows",
-      "translation": "la proximidad hace extraños"
-    },
-    {
-      "word": "compañeros de cama",
-      "translation": "No registrada"
+      "translation": "la proximidad hace extraños compañeros de cama"
     },
     {
       "word": "And then sock you in the stomach",
@@ -136,7 +132,7 @@
       "translation": "parece bastante sencillo"
     },
     {
-      "word": "We're behind schedule",
+      "word": "We’re behind schedule",
       "translation": "vamos con retraso"
     },
     {
@@ -148,16 +144,12 @@
       "translation": "lo que se te ocurra"
     },
     {
-      "word": "You've been restrained",
+      "word": "You’ve been restrained",
       "translation": "has sido retenido"
     },
     {
       "word": "A containment crew will be here at daybreak",
-      "translation": "un equipo de contención estará aquí al"
-    },
-    {
-      "word": "amanecer",
-      "translation": "No registrada"
+      "translation": "un equipo de contención estará aquí al amanecer"
     },
     {
       "word": "To labor the point",
@@ -200,8 +192,8 @@
       "translation": "lamentable, deplorable"
     },
     {
-      "word": "claro",
-      "translation": "No registrada"
+      "word": "I think these events make it punishingly clear",
+      "translation": "creo que estos eventos lo dejan muy claro"
     }
   ],
   "tmdb": {
@@ -215,5 +207,7 @@
       "https://image.tmdb.org/t/p/w780/1YTvlrEJGiPmLqs1KZZWrwXXCFB.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 48,
+  "dialogues": 1194
 }

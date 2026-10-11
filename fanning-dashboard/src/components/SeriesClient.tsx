@@ -48,7 +48,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
   const seasonDialogues: Record<string, number> = {};
   if (movieData.episodes) {
     movieData.episodes.forEach((ep: any) => {
-      const match = ep.name.match(/^S(\d+)EP/i);
+      const match = ep.name.match(/^S(\d+)EP?\d/i);
       let seasonKey = "Especiales";
       if (match) {
         seasonKey = `Temporada ${parseInt(match[1], 10)}`;
@@ -227,10 +227,10 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                   seasonNum = parseInt(sMatch[1]);
                   epNum = parseInt(sMatch[2]);
               } else {
-                  const specialMatch = ep.name.match(/Special\s+(\d+)/i);
+                  const specialMatch = ep.name.match(/Special(?:\s+Episode)?\s*(\d+)?/i);
                   if (specialMatch) {
                       seasonNum = 0;
-                      epNum = parseInt(specialMatch[1]);
+                      epNum = specialMatch[1] ? parseInt(specialMatch[1]) : 1;
                   } else {
                       const epMatch = ep.name.match(/(?:EP|Episode)\s*#?(\d+)/i);
                       if (epMatch) epNum = parseInt(epMatch[1]);

@@ -416,7 +416,7 @@
           "translation": "¿Te estás adaptando bien?"
         }
       ],
-      "dialogues": 1089,
+      "dialogues": 1028,
       "level": "C1"
     },
     {
@@ -648,12 +648,12 @@
           "translation": "seguir teniendo esperanzas"
         }
       ],
-      "dialogues": 1107,
+      "dialogues": 1031,
       "level": "C1"
     },
     {
       "name": "All Her Fault (Episode 4)",
-      "count": 60,
+      "count": 59,
       "vocabulary": [
         {
           "word": "I went into business with you (parcialmente no literal)",
@@ -892,7 +892,7 @@
           "translation": "ruido del motor"
         }
       ],
-      "dialogues": 1087,
+      "dialogues": 993,
       "level": "C1"
     },
     {
@@ -1064,7 +1064,7 @@
           "translation": "no nos quedamos sin energía ese fin de semana"
         }
       ],
-      "dialogues": 1248,
+      "dialogues": 1218,
       "level": "B2"
     },
     {
@@ -1284,12 +1284,12 @@
           "translation": "en el que mi hijo estaba siendo retenido"
         }
       ],
-      "dialogues": 885,
+      "dialogues": 830,
       "level": "C1"
     },
     {
       "name": "All Her Fault (Episode 7)",
-      "count": 34,
+      "count": 33,
       "vocabulary": [
         {
           "word": "Bookie",
@@ -1424,7 +1424,7 @@
           "translation": "no está hecho para este tipo de cosas"
         }
       ],
-      "dialogues": 994,
+      "dialogues": 862,
       "level": "B2"
     },
     {
@@ -1556,7 +1556,7 @@
           "translation": "en estilo de huesos cruzados"
         }
       ],
-      "dialogues": 1096,
+      "dialogues": 1011,
       "level": "B2"
     }
   ],
@@ -1604,5 +1604,7 @@
         "still_path": "https://image.tmdb.org/t/p/w500/g4XPm4DrlG5ZsdhyTGC0FEdRC98.jpg"
       }
     }
-  }
+  },
+  "count": 373,
+  "dialogues": 7905
 }

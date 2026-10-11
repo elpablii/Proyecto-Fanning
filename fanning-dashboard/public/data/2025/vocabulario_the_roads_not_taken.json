@@ -1,54 +1,54 @@
 [
   {
-    "id": "v_ea0abc75",
+    "id": "v_7b65a011",
     "word": "I can't make it in this morning",
-    "translation": "no quedo ir esta mañana",
+    "translation": "no puedo ir esta mañana",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d01f40f6",
-    "word": "I'll be in later (frame no literal)",
-    "translation": "ir más tarde",
+    "id": "v_469d93b7",
+    "word": "I'll be in later (frase no literal)",
+    "translation": "iré más tarde",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ed2b696c",
+    "id": "v_6c277eff",
     "word": "And getting his eyes tested",
-    "translation": "y que le examen la vista",
+    "translation": "y que le examinen la vista",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0086b812",
-    "word": "Stifling (adjective)",
+    "id": "v_3275eea3",
+    "word": "Stifling (adjetivo)",
     "translation": "sofocante",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1bd18910",
+    "id": "v_e42f5980",
     "word": "Waves lapping (acotación)",
-    "translation": "las remiendo",
+    "translation": "olas rompiendo",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7e6c6e6d",
+    "id": "v_a7b63ee7",
     "word": "Check-up",
-    "translation": "cheque, revisión",
+    "translation": "chequeo, revisión",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b88d73e7",
+    "id": "v_dcb48cbb",
     "word": "Rinse out",
     "translation": "enjuagar",
     "source_movie": "The Roads Not Taken",
@@ -56,47 +56,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6b18b29b",
+    "id": "v_45628af4",
     "word": "Urine trickling (acotación)",
     "translation": "goteo de orina",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_84736ca9",
+    "id": "v_45c2a712",
     "word": "Stylish",
-    "translation": "que elegante",
+    "translation": "qué elegante",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c4e6daa2",
+    "id": "v_b8b35bf7",
     "word": "Engine idling (acotación)",
-    "translation": "motor al talento",
+    "translation": "motor al ralentí",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_aabf39be",
+    "id": "v_f5089fdd",
     "word": "I may not make it in",
-    "translation": "pues que no llegar",
+    "translation": "puede que no llegue",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22519c93",
+    "id": "v_1a5352fb",
     "word": "Underlying",
     "translation": "subyacente",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_931f8db5",
+    "id": "v_4e2dcd93",
     "word": "The malingering bastard",
     "translation": "el bastardo enfermo",
     "source_movie": "The Roads Not Taken",
@@ -104,63 +104,71 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6cdf1bbf",
+    "id": "v_a0c32b64",
     "word": "Childhood sweethearts (no literal)",
-    "translation": "acores de la infancia",
+    "translation": "amores de la infancia",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_320994b3",
-    "word": "Whoop (verb)",
+    "id": "v_1217013c",
+    "word": "Whoop (verbo)",
     "translation": "gritar",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 7
+    "global_frequency": 9
   },
   {
-    "id": "v_fd50edf7",
-    "word": "Overlook (verb)",
+    "id": "v_7975f6c1",
+    "word": "Overlook (verbo)",
     "translation": "pasar por alto, descuidar",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
-    "id": "v_0d6a4563",
-    "word": "Humor (verb)",
-    "translation": "seguir la corriente, seguir el juego",
+    "id": "v_a8b3ed52",
+    "word": "Humor (verbo)",
+    "translation": "seguir la corriente, seguirle el juego",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_2c923200",
-    "word": "Cunning (adjective)",
+    "id": "v_c944f05c",
+    "word": "Cunning (adjetivo)",
     "translation": "astuto",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5dab81d5",
+    "id": "v_4b4dfbae",
     "word": "Look straight ahead for me",
-    "translation": "enrame al frente",
+    "translation": "mírame al frente",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_80314870",
+    "id": "v_dfd1d8c0",
     "word": "Latch clicks",
-    "translation": "clica del pestillo",
+    "translation": "clics del pestillo",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2575fdc1",
+    "id": "v_80f1641f",
+    "word": "Growing louder (acotación de sonidos no literal)",
+    "translation": "cada vez más fuerte",
+    "source_movie": "The Roads Not Taken",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e085d6f0",
     "word": "Overhead (parcialmente no literal)",
     "translation": "por encima",
     "source_movie": "The Roads Not Taken",
@@ -168,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_29dc807d",
+    "id": "v_c50bc34a",
     "word": "Air wrench whirring (acotación)",
     "translation": "zumbido de la llave de aire",
     "source_movie": "The Roads Not Taken",
@@ -176,11 +184,11 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ee38008f",
-    "word": "Wince (verb)",
+    "id": "v_308c5abf",
+    "word": "Wince (verbo)",
     "translation": "hacer un gesto de dolor",
     "source_movie": "The Roads Not Taken",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_3701d915",
+    "id": "v_2ac3335f",
     "word": "Straighten your cane",
     "translation": "endereza tu bastón",
     "source_movie": "Family Switch",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e06bc043",
+    "id": "v_62f06877",
     "word": "You better watch out",
     "translation": "más vale que tengas cuidado",
     "source_movie": "Family Switch",
@@ -16,7 +16,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_064c6f82",
+    "id": "v_fae5227f",
     "word": "You better not pout",
     "translation": "más vale que no pongas mala cara/hagas pucheros",
     "source_movie": "Family Switch",
@@ -24,39 +24,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5205c2b4",
+    "id": "v_01018fd2",
     "word": "Cane",
     "translation": "bastón",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_4c947395",
+    "id": "v_d0eea7e1",
     "word": "When did this family give up on Christmas?",
-    "translation": "¿Cuándo dejó esta familia de celebrar la",
+    "translation": "¿Cuándo dejó esta familia de celebrar la Navidad?",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7bc56bef",
-    "word": "Navidad?",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_7f0ba3bb",
+    "id": "v_7c344de9",
     "word": "Tinsel",
     "translation": "oropel, espumillón, guirnaldas",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_360ddefc",
+    "id": "v_21df730b",
     "word": "This stuff just gets everywhere",
     "translation": "esto se mete por todas partes",
     "source_movie": "Family Switch",
@@ -64,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_48c7a638",
+    "id": "v_3033e00d",
     "word": "Once-in-a-lifetime",
     "translation": "única en la vida",
     "source_movie": "Family Switch",
@@ -72,7 +64,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7c2ce34c",
+    "id": "v_aeb7aeae",
+    "word": "I'll get after it when I get in (frase no literal)",
+    "translation": "me pondré a ello en cuanto llegue",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_07da2760",
     "word": "It all ties together",
     "translation": "todo encaja",
     "source_movie": "Family Switch",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d7aebcfe",
+    "id": "v_78e79ac8",
     "word": "If it feels right and in for my heart",
     "translation": "si me parece bien y lo siento en mi corazón",
     "source_movie": "Family Switch",
@@ -88,15 +88,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e6aa50df",
-    "word": "Bask (verbo)",
-    "translation": "disfrutar",
+    "id": "v_d8785c83",
+    "word": "You put this much time into a car (frase no literal)",
+    "translation": "le dedicas mucho tiempo al auto",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_cf97ca9b",
+    "id": "v_732574d6",
+    "word": "Bask (verbo)",
+    "translation": "disfrutar",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_73d9acb3",
     "word": "Refract (verbo en física)",
     "translation": "refractar",
     "source_movie": "Family Switch",
@@ -104,15 +112,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_35354d43",
+    "id": "v_65124fb3",
     "word": "Square (verbo)",
     "translation": "cuadrar",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_55591e43",
+    "id": "v_e9ea4c3f",
     "word": "I'm envious of that card",
     "translation": "me da envidia esa tarjeta",
     "source_movie": "Family Switch",
@@ -120,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b338be47",
+    "id": "v_88d4bab9",
     "word": "Slack off",
     "translation": "relajarse, holgazanear",
     "source_movie": "Family Switch",
@@ -128,15 +136,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4da2f83c",
-    "word": "importantes",
-    "translation": "No registrada",
+    "id": "v_6566a16d",
+    "word": "I'm calling this meeting to order (frase no literal)",
+    "translation": "doy inicio a esta reunión",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_92a4b71d",
+    "id": "v_4e71d236",
+    "word": "We have a major few days ahead of us (frase no literal)",
+    "translation": "nos esperan unos días muy importantes",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_046b1af8",
     "word": "Move this along",
     "translation": "sigue adelante con esto",
     "source_movie": "Family Switch",
@@ -144,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fb79761b",
+    "id": "v_2a379348",
     "word": "Clench up",
     "translation": "apretar, tensar",
     "source_movie": "Family Switch",
@@ -152,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_92685e99",
+    "id": "v_3dc9a2d4",
     "word": "Moneymaker",
     "translation": "fuente de ingresos",
     "source_movie": "Family Switch",
@@ -160,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2cb61b2e",
+    "id": "v_97ac535f",
     "word": "I'd run right into hell and back",
     "translation": "correría hasta el infierno y volvería",
     "source_movie": "Family Switch",
@@ -168,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_abba0cec",
+    "id": "v_588feb14",
     "word": "Record scratches (acotación no literal)",
     "translation": "ruido de disco rayado",
     "source_movie": "Family Switch",
@@ -176,7 +192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b565b8e8",
+    "id": "v_f2b8bd62",
     "word": "Cream (verbo no literal)",
     "translation": "correrse",
     "source_movie": "Family Switch",
@@ -184,7 +200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_031b363c",
+    "id": "v_1ded8441",
     "word": "Get obliterated",
     "translation": "ser aniquilado",
     "source_movie": "Family Switch",
@@ -192,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e23ee103",
+    "id": "v_af3560c1",
     "word": "Just call it out (no literal)",
     "translation": "sólo dilo",
     "source_movie": "Family Switch",
@@ -200,15 +216,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e1649568",
+    "id": "v_3b1a6e76",
     "word": "Cymbals",
     "translation": "platillos",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_aebe8205",
+    "id": "v_bd770084",
     "word": "You sprained you whammy wrist again",
     "translation": "te volviste a torcer la muñeca",
     "source_movie": "Family Switch",
@@ -216,7 +232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9a2b3a80",
+    "id": "v_f4f869c7",
     "word": "How does it hang?",
     "translation": "¿Cómo se cuelga?",
     "source_movie": "Family Switch",
@@ -224,7 +240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3663163b",
+    "id": "v_22d47738",
     "word": "Straight up, wait up, hold up",
     "translation": "espera, espera, espera",
     "source_movie": "Family Switch",
@@ -232,15 +248,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_75a796dd",
+    "id": "v_98a921a1",
     "word": "Stump (verbo)",
     "translation": "dejar sin palabras, desconcertar",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_559dfc91",
+    "id": "v_fe8ea294",
     "word": "Remixed",
     "translation": "mezclado",
     "source_movie": "Family Switch",
@@ -248,7 +264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_809e87ac",
+    "id": "v_710a37d3",
     "word": "A water moccasin (no literal)",
     "translation": "una serpiente acuática",
     "source_movie": "Family Switch",
@@ -256,15 +272,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_18a8ba72",
-    "word": "mañana",
-    "translation": "No registrada",
+    "id": "v_6c0f6afd",
+    "word": "Let's knock them dead in there tomorrow (frase no literal)",
+    "translation": "vamos a darlo todo mañana",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a4ea713b",
+    "id": "v_c1deedd0",
     "word": "Thoroughbreds",
     "translation": "pura sangre",
     "source_movie": "Family Switch",
@@ -272,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d73d9ce1",
+    "id": "v_a2f7b674",
     "word": "Somebody's making partner",
     "translation": "alguien se convertirá en socio",
     "source_movie": "Family Switch",
@@ -280,7 +296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_140c39ad",
+    "id": "v_8d3c9497",
     "word": "An opportunity of a lifetime",
     "translation": "una oportunidad única en la vida",
     "source_movie": "Family Switch",
@@ -288,7 +304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_644ba2ff",
+    "id": "v_84fbf07e",
     "word": "This is freaking huge",
     "translation": "esto es increíblemente grande",
     "source_movie": "Family Switch",
@@ -296,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d8f2b516",
+    "id": "v_42ca0483",
     "word": "Microdermabrasion",
     "translation": "microdermoabrasión",
     "source_movie": "Family Switch",
@@ -304,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5ccef7ae",
+    "id": "v_4ced3a22",
     "word": "Give up on",
     "translation": "renunciar a",
     "source_movie": "Family Switch",
@@ -312,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_688a0377",
+    "id": "v_1ea1155e",
     "word": "Performative liberalism",
     "translation": "liberalism performativo",
     "source_movie": "Family Switch",
@@ -320,15 +336,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3eb617a5",
-    "word": "extra con este bebé",
-    "translation": "No registrada",
+    "id": "v_a9a7b411",
+    "word": "We are on borrowed time with this baby (frase no literal)",
+    "translation": "estamos viviendo un tiempo extra con este bebé",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_3ca1f699",
+    "id": "v_d853164b",
     "word": "What are you tripping? (pregunta no literal)",
     "translation": "¿Qué te pasa?",
     "source_movie": "Family Switch",
@@ -336,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9cd3a6ca",
+    "id": "v_60f8dd22",
     "word": "Hold in",
     "translation": "aguantar",
     "source_movie": "Family Switch",
@@ -344,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9d95136b",
+    "id": "v_010565b5",
     "word": "You just gotta let it rip",
     "translation": "sólo tienes que dejarlo salir",
     "source_movie": "Family Switch",
@@ -352,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9406f202",
+    "id": "v_868c3041",
     "word": "Glossophobia",
     "translation": "glosofobia",
     "source_movie": "Family Switch",
@@ -360,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_020b6b9b",
+    "id": "v_796adb44",
     "word": "A fearless performer",
     "translation": "un intérprete intrépido",
     "source_movie": "Family Switch",
@@ -368,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ad6bcbfa",
+    "id": "v_82ec8399",
     "word": "It does beg the question",
     "translation": "esto plantea la pregunta de",
     "source_movie": "Family Switch",
@@ -376,15 +392,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b1740580",
+    "id": "v_0d41816e",
+    "word": "You still got a lot of living to do (parcialmente no literal)",
+    "translation": "aún te queda mucho por vivir",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_47f6e6b1",
     "word": "Fond",
     "translation": "grato, entrañable",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_bad61be8",
+    "id": "v_34abc61a",
+    "word": "To have the same jocular devil-may-care high school experience",
+    "translation": "tener la misma experiencia divertida y despreocupada en la preparatoria",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_48bdb90d",
     "word": "Not a care in the world",
     "translation": "sin preocupaciones",
     "source_movie": "Family Switch",
@@ -392,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cfbe4c89",
+    "id": "v_5acc26bf",
     "word": "You wouldn't make it through lunch",
     "translation": "no aguantarías hasta la hora del almuerzo",
     "source_movie": "Family Switch",
@@ -400,23 +432,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_11066d85",
-    "word": "docena de donas y quemarlas todas",
-    "translation": "No registrada",
+    "id": "v_de89c85b",
+    "word": "I'd kill to eat a dozen doughnuts and have it burn right off",
+    "translation": "mataría por comer una docena de donas y quemarlas todas",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b5961970",
+    "id": "v_202a4ba7",
     "word": "Suck it in",
     "translation": "mételo hacia adentro",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_82e16079",
+    "id": "v_19294c69",
     "word": "Electricity surging (acotación)",
     "translation": "sobretensión eléctrica",
     "source_movie": "Family Switch",
@@ -424,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c85c8449",
+    "id": "v_c30b57e2",
     "word": "Sub-branching",
     "translation": "subramificada",
     "source_movie": "Family Switch",
@@ -432,7 +464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5d4008bf",
+    "id": "v_2096daca",
     "word": "No kid has ever just woken up big",
     "translation": "ningún niño se ha despertado nunca siendo grande",
     "source_movie": "Family Switch",
@@ -440,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aed2d512",
+    "id": "v_65167f6a",
     "word": "I can kiss my partnership goodbye",
     "translation": "puedo despedirme de mi sociedad",
     "source_movie": "Family Switch",
@@ -448,7 +480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e2b6b7d",
+    "id": "v_4d51892e",
     "word": "I tore a quadi",
     "translation": "me rompí un cuádriceps",
     "source_movie": "Family Switch",
@@ -456,7 +488,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a5b13b2f",
+    "id": "v_8c7bd33d",
     "word": "Such a big booty",
     "translation": "un trasero tan grande",
     "source_movie": "Family Switch",
@@ -464,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d17d9bd",
+    "id": "v_376404b7",
     "word": "Why am I so itchy?",
     "translation": "¿Por qué me pica tanto?",
     "source_movie": "Family Switch",
@@ -472,15 +504,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d0a81413",
-    "word": "Bow down",
-    "translation": "inclinarse",
+    "id": "v_99798a51",
+    "word": "I can't hope to be made partner looking like a teenybooper",
+    "translation": "no puedo esperar que me nombren socio con este aspecto de adolescente",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_077ea077",
+    "id": "v_d26bc0a7",
+    "word": "Bow down",
+    "translation": "inclinarse",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_8a135ebe",
     "word": "Pluck the eyebrows",
     "translation": "depilarse las cejas",
     "source_movie": "Family Switch",
@@ -488,7 +528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7ad38ff0",
+    "id": "v_ff9d7f59",
     "word": "I bundled up too tight",
     "translation": "me abrigué demasiado",
     "source_movie": "Family Switch",
@@ -496,7 +536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b9248ba4",
+    "id": "v_964ad310",
     "word": "Last minute have-to-dos",
     "translation": "tareas pendientes de última hora",
     "source_movie": "Family Switch",
@@ -504,7 +544,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2a08973c",
+    "id": "v_de9eef7b",
+    "word": "Répondez s'il vous plaît (RSVP) (no literal en francés para confirmar asistencia)",
+    "translation": "requires a response (en inglés), requiere confirmación (en español)",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_64566d50",
     "word": "And knocked over the telescope",
     "translation": "y tiró el telescopio",
     "source_movie": "Family Switch",
@@ -512,15 +560,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac08dc13",
+    "id": "v_1d87399c",
     "word": "Up and running",
     "translation": "en marcha, en funcionamiento",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_430c6714",
+    "word": "I'll make it worth your while (frase no literal)",
+    "translation": "hará que valga la pena",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_6054a70e",
+    "id": "v_81101f18",
     "word": "Lil' player (informal)",
     "translation": "pequeño jugador",
     "source_movie": "Family Switch",
@@ -528,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f66b37ba",
+    "id": "v_3d3d7b48",
     "word": "Off you go, boys",
     "translation": "adelante muchachos",
     "source_movie": "Family Switch",
@@ -536,15 +592,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_329af9f2",
-    "word": "duerma la siesta",
-    "translation": "No registrada",
+    "id": "v_8bac20ba",
+    "word": "I have already placed the baby down for a nap",
+    "translation": "ya he acostado al bebé para que duerma la siesta",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_98abacc4",
+    "id": "v_d8b1bd8a",
     "word": "And itchy",
     "translation": "y pica",
     "source_movie": "Family Switch",
@@ -552,7 +608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_02095d4c",
+    "id": "v_8aec4b88",
     "word": "I'm shrink-wrapped in fiberglass",
     "translation": "estoy envuelta en fibra de vidrio",
     "source_movie": "Family Switch",
@@ -560,7 +616,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5f9aac0",
+    "id": "v_1c44a030",
     "word": "I pounded a Gatorade",
     "translation": "me tomé una Gatorade",
     "source_movie": "Family Switch",
@@ -568,7 +624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b6f804c7",
+    "id": "v_e632718b",
     "word": "Bachelor",
     "translation": "soltero",
     "source_movie": "Family Switch",
@@ -576,15 +632,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_572449ce",
-    "word": "poco con el alcohol",
-    "translation": "No registrada",
+    "id": "v_3fdc894b",
+    "word": "I hit the hard stuff a little too hard last night (frase no literal)",
+    "translation": "anoche me pasé un poco con el alcohol",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_365112ef",
+    "id": "v_d09fff0f",
     "word": "Miss I got this (no literal)",
     "translation": "señorita yo me encargo",
     "source_movie": "Family Switch",
@@ -592,7 +648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_badf29ba",
+    "id": "v_69c85432",
     "word": "Slobber (verbo)",
     "translation": "babear",
     "source_movie": "Family Switch",
@@ -600,7 +656,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_011f08f5",
+    "id": "v_b0596e7f",
+    "word": "You can't just walk out there (frase no literal)",
+    "translation": "no puedes salir ahí fuera sin más",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b4f9aaed",
     "word": "Run the gauntlet (verbo no literal)",
     "translation": "pasar por un calvario",
     "source_movie": "Family Switch",
@@ -608,7 +672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2e533797",
+    "id": "v_13ac625b",
     "word": "I froze my ass off though",
     "translation": "aunque me congelé mi trasero",
     "source_movie": "Family Switch",
@@ -616,7 +680,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ffa783d1",
+    "id": "v_37613584",
+    "word": "Your dad happens to be the toast, and high school's my jam (no literal)",
+    "translation": "resulta que tu papá es el centro de atención, y la secundaria es lo mío",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_43140844",
     "word": "Racy music",
     "translation": "música atrevida/picante/provocativa",
     "source_movie": "Family Switch",
@@ -624,7 +696,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_697ca410",
+    "id": "v_9165b2d3",
     "word": "I can take over (aparte de tomar el control)",
     "translation": "puedo encargarme yo",
     "source_movie": "Family Switch",
@@ -632,7 +704,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b001d10f",
+    "id": "v_296bb436",
     "word": "Our all-around superstar",
     "translation": "nuestra superestrella todoterreno",
     "source_movie": "Family Switch",
@@ -640,23 +712,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7fc2e83",
-    "word": "directamente aquí?",
-    "translation": "No registrada",
+    "id": "v_3d86e243",
+    "word": "Why don't I just jump in right here? (pregunta no literal)",
+    "translation": "¿Por qué no me lanzo directamente aquí?",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a61662ab",
+    "id": "v_f0c8ec99",
     "word": "Steeple",
     "translation": "campanario",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_3bbb45cf",
+    "id": "v_66577fec",
     "word": "Pull the car around",
     "translation": "da la vuelta con el auto",
     "source_movie": "Family Switch",
@@ -664,7 +736,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_81fc347b",
+    "id": "v_72810830",
     "word": "We blend form and function",
     "translation": "combinamos forma y funcionalidad",
     "source_movie": "Family Switch",
@@ -672,7 +744,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_548b6292",
+    "id": "v_e28de218",
     "word": "The south buttress as a tiered garden",
     "translation": "el contrafuerte sur como jardín en terrazas",
     "source_movie": "Family Switch",
@@ -680,7 +752,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f4a4ee96",
+    "id": "v_30f82406",
     "word": "Break room",
     "translation": "sala de descanso",
     "source_movie": "Family Switch",
@@ -688,23 +760,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c99cfa98",
+    "id": "v_180e9da5",
     "word": "My future just blew up right in front of me",
-    "translation": "mi futuro acaba de desmoronarse ante",
+    "translation": "mi futuro acaba de desmoronarse ante mis ojos",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b94923f5",
-    "word": "mis ojos",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_ba94efd5",
+    "id": "v_946b33f9",
     "word": "My partnership",
     "translation": "mi sociedad",
     "source_movie": "Family Switch",
@@ -712,7 +776,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ef2c7fa0",
+    "id": "v_42f57e38",
     "word": "Stand on the side, run around",
     "translation": "párate a un lado, corre alrededor",
     "source_movie": "Family Switch",
@@ -720,15 +784,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9fb59b4f",
-    "word": "brusco",
-    "translation": "No registrada",
+    "id": "v_14d08541",
+    "word": "I don't really like the roughhousing (forma no literal)",
+    "translation": "no me gusta mucho el juego brusco",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_5b03416c",
+    "id": "v_a9de25d2",
+    "word": "I will apply myself that much more firmly (frase no literal)",
+    "translation": "me esforzaré aún más",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_83623f00",
     "word": "Keep it together",
     "translation": "mantén la calma",
     "source_movie": "Family Switch",
@@ -736,7 +808,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8af39ceb",
+    "id": "v_bb570214",
     "word": "Accolades",
     "translation": "elogios, galardones",
     "source_movie": "Family Switch",
@@ -744,7 +816,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_2a830e49",
+    "id": "v_d436f34c",
     "word": "Horn blowing (acotación)",
     "translation": "tocando la bocina",
     "source_movie": "Family Switch",
@@ -752,7 +824,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_28502120",
+    "id": "v_432bd400",
     "word": "I love this backwards cap vibe (no literal)",
     "translation": "me encanta este estilo de gorra al revés",
     "source_movie": "Family Switch",
@@ -760,7 +832,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_702bc73a",
+    "id": "v_25f5e147",
     "word": "You are freakishly good",
     "translation": "eres increíblemente buena",
     "source_movie": "Family Switch",
@@ -768,7 +840,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_39d0df00",
+    "id": "v_82fb4ec9",
     "word": "You can screengrab an image",
     "translation": "puedes hacer una captura de pantalla de una imagen",
     "source_movie": "Family Switch",
@@ -776,23 +848,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_22e18309",
+    "id": "v_80bc61f2",
     "word": "Don't snap back. Yeah, we don't snap",
-    "translation": "no respondas mal. Sí, nosotros no respondemos",
+    "translation": "no respondas mal. Sí, nosotros no respondemos mal",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_1de8081e",
-    "word": "mal",
-    "translation": "No registrada",
+    "id": "v_016786f3",
+    "word": "You wanna hit save on (traducción aproximada)",
+    "translation": "quieres guardar en",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_2137274a",
+    "id": "v_c0721e4f",
     "word": "Thoughtful (adjetivo)",
     "translation": "reflexivo",
     "source_movie": "Family Switch",
@@ -800,7 +872,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7c82e368",
+    "id": "v_217bfbb1",
     "word": "Get it to CC!",
     "translation": "¡Dásela a CC!",
     "source_movie": "Family Switch",
@@ -808,7 +880,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c29e0f4d",
+    "id": "v_d783eb30",
     "word": "Sound warping",
     "translation": "distorsión del sonido",
     "source_movie": "Family Switch",
@@ -816,7 +888,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bbcf7684",
+    "id": "v_d355939e",
     "word": "Sweeping music",
     "translation": "música arrebatadora",
     "source_movie": "Family Switch",
@@ -824,15 +896,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_4210861b",
-    "word": "Switchblade la hacen pedazos",
-    "translation": "No registrada",
+    "id": "v_6e5b7749",
+    "word": "She gets sliced and diced by the Switchblade sisters (frase no literal)",
+    "translation": "las hermanas Switchblade la hacen pedazos",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_2be01ac5",
+    "id": "v_e84cb1dd",
     "word": "We would be remiss",
     "translation": "sería una negligencia por nuestra parte",
     "source_movie": "Family Switch",
@@ -840,7 +912,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eb569a43",
+    "id": "v_711ce64a",
     "word": "He's down to 22",
     "translation": "ha bajado a 22",
     "source_movie": "Family Switch",
@@ -848,7 +920,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_67216433",
+    "id": "v_6695e29a",
     "word": "Suck a duck (no literal y despectivo)",
     "translation": "que te den por culo",
     "source_movie": "Family Switch",
@@ -856,7 +928,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ebab587a",
+    "id": "v_bf6852db",
     "word": "A one-zero lead",
     "translation": "una ventaja de uno a cero",
     "source_movie": "Family Switch",
@@ -864,7 +936,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_16e692d7",
+    "id": "v_7a1dacdf",
     "word": "Sidelines (en deportes)",
     "translation": "gradas",
     "source_movie": "Family Switch",
@@ -872,7 +944,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_26d10c65",
+    "id": "v_4664ff21",
     "word": "She popped out three kids",
     "translation": "tuvo tres hijos",
     "source_movie": "Family Switch",
@@ -880,7 +952,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_66e270c5",
+    "id": "v_090955bb",
     "word": "Push up",
     "translation": "empuja hacia arriba",
     "source_movie": "Family Switch",
@@ -888,7 +960,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_4ad47fec",
+    "id": "v_42e5b35d",
     "word": "Sweeper",
     "translation": "barrendero",
     "source_movie": "Family Switch",
@@ -896,7 +968,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f270e543",
+    "id": "v_37ba1e74",
     "word": "Let's huddle up",
     "translation": "acérquense",
     "source_movie": "Family Switch",
@@ -904,15 +976,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cfc695e8",
+    "id": "v_89bb4abe",
     "word": "Bring it in",
     "translation": "tráiganlo",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_390e6531",
+    "id": "v_35d5ec1b",
     "word": "Outer pass",
     "translation": "pase exterior",
     "source_movie": "Family Switch",
@@ -920,7 +992,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d13a240",
+    "id": "v_0144b4dc",
     "word": "Upfield (verbo en deportes)",
     "translation": "subir al campo contrario",
     "source_movie": "Family Switch",
@@ -928,15 +1000,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_04301480",
-    "word": "que está completamente sola",
-    "translation": "No registrada",
+    "id": "v_c65b5b1d",
+    "word": "There's a lob passed to CC Walker, she's wide open",
+    "translation": "hay un pase alto a CC Walker, que está completamente sola",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a303f0f8",
+    "id": "v_9dd357ed",
     "word": "Dash (verbo en sentido negativo)",
     "translation": "desvanecerse, esfumarse",
     "source_movie": "Family Switch",
@@ -944,15 +1016,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3a1d250b",
-    "word": "esto en marcha",
-    "translation": "No registrada",
+    "id": "v_401d54bf",
+    "word": "Fire it up, let's get this show on the road (frase no literal)",
+    "translation": "enciéndelo, vamos a poner esto en marcha",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_64e96fef",
+    "id": "v_3b598f19",
     "word": "Damnedest thing (no literal)",
     "translation": "es increíble",
     "source_movie": "Family Switch",
@@ -960,7 +1032,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_092a17c6",
+    "id": "v_de4393dc",
     "word": "The lens is comprised of thorium oxide",
     "translation": "la lente está compuesta por óxido de torio",
     "source_movie": "Family Switch",
@@ -968,7 +1040,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a43cc7de",
+    "id": "v_fb8b7b6b",
     "word": "You'll catch the next one",
     "translation": "cogerás el siguiente/próximo",
     "source_movie": "Family Switch",
@@ -976,15 +1048,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3467e600",
-    "word": "sacarlo",
-    "translation": "No registrada",
+    "id": "v_782411f9",
+    "word": "Some Christmas caroling will help bring it out (no literal)",
+    "translation": "cantar villancicos ayudará a sacarlo",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_8acb92cb",
+    "id": "v_7c5b9d6f",
     "word": "Why is everything blurry up close?",
     "translation": "¿Por qué todo se ve borroso de cerca?",
     "source_movie": "Family Switch",
@@ -992,7 +1064,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_db5b701d",
+    "id": "v_d24e730d",
     "word": "A cry for help",
     "translation": "un grito de auxilio",
     "source_movie": "Family Switch",
@@ -1000,7 +1072,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9b17f2a9",
+    "id": "v_23b6e455",
     "word": "Let's get that wine going",
     "translation": "vamos a servir el vino",
     "source_movie": "Family Switch",
@@ -1008,7 +1080,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_389c048a",
+    "id": "v_8a668f02",
     "word": "Jitters",
     "translation": "nerviosismo",
     "source_movie": "Family Switch",
@@ -1016,39 +1088,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1ab72b9a",
+    "id": "v_bc41a3d9",
     "word": "Stroke",
     "translation": "derrame cerebral",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_9db47b57",
+    "id": "v_f186288e",
     "word": "You look like you got dressed at a Goodwill",
-    "translation": "parece que te vestiste en una tienda de",
+    "translation": "parece que te vestiste en una tienda de segunda mano",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_0805bca8",
-    "word": "segunda mano",
-    "translation": "No registrada",
+    "id": "v_19e6cf2f",
+    "word": "I wanna make out with him so bad (frase no literal)",
+    "translation": "tengo tantas ganas de besarme con él",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_8a6c7593",
-    "word": "con él",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_d39b91f5",
+    "id": "v_9baa9ad2",
     "word": "Polyps",
     "translation": "pólipos",
     "source_movie": "Family Switch",
@@ -1056,7 +1120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c845f1d7",
+    "id": "v_d38c3a22",
     "word": "I'll get the fixings (frase no literal)",
     "translation": "yo me encargo de los ingredientes",
     "source_movie": "Family Switch",
@@ -1064,7 +1128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5198e8ca",
+    "id": "v_609c89d8",
     "word": "Are we doing it for the 'gram?",
     "translation": "¿Lo estamos haciendo para el Instagram?",
     "source_movie": "Family Switch",
@@ -1072,7 +1136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bf7ae490",
+    "id": "v_06646f04",
     "word": "Electricals whirring (acotación)",
     "translation": "zumbido de aparatos eléctricos",
     "source_movie": "Family Switch",
@@ -1080,7 +1144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91a50932",
+    "id": "v_a53db637",
     "word": "Seize (verbo en algunos contextos)",
     "translation": "aprovechar",
     "source_movie": "Family Switch",
@@ -1088,7 +1152,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ca17079d",
+    "id": "v_d966eb1f",
     "word": "There's a scent to her (no literal)",
     "translation": "tiene un aroma muy especial",
     "source_movie": "Family Switch",
@@ -1096,7 +1160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_08ec52ef",
+    "id": "v_73860cf8",
     "word": "Log",
     "translation": "tronco",
     "source_movie": "Family Switch",
@@ -1104,7 +1168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1e168205",
+    "id": "v_915ec593",
     "word": "Elf",
     "translation": "duende",
     "source_movie": "Family Switch",
@@ -1112,7 +1176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c6bb08f",
+    "id": "v_c9d311cb",
     "word": "Artisanal celery",
     "translation": "apio artesanal",
     "source_movie": "Family Switch",
@@ -1120,7 +1184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2fbe9235",
+    "id": "v_8ed2ee2a",
     "word": "Science dork",
     "translation": "tonto/idiota científico",
     "source_movie": "Family Switch",
@@ -1128,15 +1192,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3db1cfa9",
-    "word": "los amigos",
-    "translation": "No registrada",
+    "id": "v_894e2e0a",
+    "word": "Crash high school parties in our kids' bodies?",
+    "translation": "¿Irrumpir en las fiestas de preparatoria en los cuerpos de nuestros hijos?",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b0df7384",
+    "id": "v_4feb71d2",
+    "word": "This here's a jam for all the fellas (frase no literal)",
+    "translation": "esta es una canción para todos los amigos",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ca882dfd",
     "word": "You're overzealous",
     "translation": "eres demasiado entusiasta",
     "source_movie": "Family Switch",
@@ -1144,23 +1216,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_43aa0d57",
+    "id": "v_1e0d28b2",
     "word": "Girls are scantily clad and showing body",
-    "translation": "las chicas van con poca ropa y muestran su",
+    "translation": "las chicas van con poca ropa y muestran su cuerpo",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b1e45537",
-    "word": "cuerpo",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f01d15b2",
+    "id": "v_cafcdc7d",
     "word": "Just let loose a little bit",
     "translation": "sólo relájate un poco",
     "source_movie": "Family Switch",
@@ -1168,7 +1232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_867d9490",
+    "id": "v_2c3d0c6f",
     "word": "Pattern recognition kicking in",
     "translation": "el reconocimiento de patrones se activa",
     "source_movie": "Family Switch",
@@ -1176,7 +1240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d72a6a7b",
+    "id": "v_3af9731a",
     "word": "Epinephrine",
     "translation": "epinefrina",
     "source_movie": "Family Switch",
@@ -1184,31 +1248,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_21da72e0",
+    "id": "v_fc24490c",
     "word": "So don't hang yourself with a celibate rope",
-    "translation": "así que no te cuelgues con una cuerda de",
+    "translation": "así que no te cuelgues con una cuerda de celibato",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e253081e",
-    "word": "celibato",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b5c45593",
+    "id": "v_1665b67e",
     "word": "Walk away",
     "translation": "alejarse",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 6
   },
   {
-    "id": "v_7063721e",
+    "id": "v_7f4a9f96",
+    "word": "You're a total double standard (frase no literal)",
+    "translation": "eres un completo hipócrita",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0be06b5e",
     "word": "You look fly (no literal)",
     "translation": "te ves genial",
     "source_movie": "Family Switch",
@@ -1216,7 +1280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5231cdc1",
+    "id": "v_90aaca19",
     "word": "Hag body",
     "translation": "cuerpo de bruja",
     "source_movie": "Family Switch",
@@ -1224,7 +1288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8ec9500e",
+    "id": "v_7f224718",
     "word": "Your psycho dog baby",
     "translation": "tu cachorro psicópata",
     "source_movie": "Family Switch",
@@ -1232,7 +1296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_88ab9609",
+    "id": "v_09dfd929",
     "word": "Compute (verbo en algunos contextos)",
     "translation": "tener sentido, ser válido",
     "source_movie": "Family Switch",
@@ -1240,15 +1304,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5a549855",
+    "id": "v_3d896f89",
     "word": "Pull away",
     "translation": "alejarse",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 5
+    "global_frequency": 7
   },
   {
-    "id": "v_4bb917b9",
+    "id": "v_791004a5",
     "word": "Call in sick to school",
     "translation": "llama a la escuela para avisar que estás enfermo",
     "source_movie": "Family Switch",
@@ -1256,7 +1320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_010ba47b",
+    "id": "v_20bfaa00",
     "word": "And make it all seem worthwhile",
     "translation": "y hacer que todo parezca que vale la pena",
     "source_movie": "Family Switch",
@@ -1264,15 +1328,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c1e9dce7",
+    "id": "v_dc5e368e",
     "word": "Glance",
     "translation": "mirada",
     "source_movie": "Family Switch",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 4
   },
   {
-    "id": "v_a682a41c",
+    "id": "v_bc60f323",
     "word": "It's the bowl cut",
     "translation": "es el corte de tazón",
     "source_movie": "Family Switch",
@@ -1280,7 +1344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7fac1790",
+    "id": "v_311329b4",
     "word": "Planar quadrilaterals",
     "translation": "cuadriláteros planares",
     "source_movie": "Family Switch",
@@ -1288,7 +1352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3719c92a",
+    "id": "v_4057dc82",
     "word": "Cross-structural integrals",
     "translation": "integrales entre estructuras",
     "source_movie": "Family Switch",
@@ -1296,7 +1360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_18e49076",
+    "id": "v_274343f9",
     "word": "The golden ratio of the Parthenon",
     "translation": "la proporción áurea del Partenón",
     "source_movie": "Family Switch",
@@ -1304,7 +1368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9903f0ce",
+    "id": "v_e061eaec",
     "word": "How hard you've been applying yourself",
     "translation": "lo mucho que te has esforzado",
     "source_movie": "Family Switch",
@@ -1312,7 +1376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cb9a5eea",
+    "id": "v_002a6aa9",
     "word": "The frontman",
     "translation": "el líder",
     "source_movie": "Family Switch",
@@ -1320,7 +1384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a7419bba",
+    "id": "v_0275c533",
     "word": "A total control freak",
     "translation": "una controladora total",
     "source_movie": "Family Switch",
@@ -1328,7 +1392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aed79251",
+    "id": "v_9b5b0967",
     "word": "Crush this pitch (en contexto empresarial)",
     "translation": "arrasar con esta presentación",
     "source_movie": "Family Switch",
@@ -1336,7 +1400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_56aa71dc",
+    "id": "v_59e1c954",
     "word": "Let's cut through the stench",
     "translation": "acabemos con el mal olor/hedor",
     "source_movie": "Family Switch",
@@ -1344,7 +1408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d23ada0a",
+    "id": "v_f03e265c",
     "word": "In the very capable hands of this team",
     "translation": "en las manos expertas de este equipo",
     "source_movie": "Family Switch",
@@ -1352,15 +1416,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_346235e4",
-    "word": "natación sincronizada",
-    "translation": "No registrada",
+    "id": "v_37c6e743",
+    "word": "We passed on a synchronized swim band for this",
+    "translation": "para esto, rechazamos una banda de natación sincronizada",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_6700027f",
+    "id": "v_8957c19d",
     "word": "What are you sorry for?",
     "translation": "¿Por qué te disculpas?",
     "source_movie": "Family Switch",
@@ -1368,31 +1432,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9c252588",
+    "id": "v_f7211754",
     "word": "My dreams are pretty much shot (no literal)",
-    "translation": "mis sueños prácticamente se han",
+    "translation": "mis sueños prácticamente se han esfumado",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7f1d4d98",
-    "word": "esfumado",
-    "translation": "No registrada",
+    "id": "v_06203d0c",
+    "word": "You better be good for goodness sake (frase no literal)",
+    "translation": "más te vale portarte bien, por el amor de Dios",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d790aed9",
-    "word": "por el amor de Dios",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_4a28f3f5",
+    "id": "v_d92cb031",
     "word": "Ripple",
     "translation": "ondulación",
     "source_movie": "Family Switch",
@@ -1400,15 +1456,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3f8f9e68",
-    "word": "planetas dejen de estar alineados?",
-    "translation": "No registrada",
+    "id": "v_7daacc0b",
+    "word": "My first edition PSA-rated 10 holo Charizard card",
+    "translation": "la primera edición de mi tarjeta holográfica de Charizard con calificación PSA 10",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_4939252e",
+    "id": "v_23b46062",
+    "word": "How long until the planets fall out of alignment?",
+    "translation": "¿Cuánto tiempo pasará hasta que los planetas dejen de estar alineados?",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_694cf03c",
     "word": "Rocket ship",
     "translation": "cohete espacial",
     "source_movie": "Family Switch",
@@ -1416,7 +1480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8421eb6d",
+    "id": "v_473930be",
     "word": "Car revving",
     "translation": "aceleración del motor",
     "source_movie": "Family Switch",
@@ -1424,7 +1488,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b8c91514",
+    "id": "v_52b28df7",
     "word": "I got shifting and steering",
     "translation": "tengo cambio y dirección",
     "source_movie": "Family Switch",
@@ -1432,7 +1496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d1818ec5",
+    "id": "v_d43812bf",
     "word": "We get off at",
     "translation": "nos bajamos en",
     "source_movie": "Family Switch",
@@ -1440,7 +1504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_43e719ec",
+    "id": "v_4c51b152",
     "word": "Gridlock",
     "translation": "embotellamiento",
     "source_movie": "Family Switch",
@@ -1448,7 +1512,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_d964d61a",
+    "id": "v_10b095e5",
     "word": "The lens bounced out!",
     "translation": "¡La lente salió disparada!",
     "source_movie": "Family Switch",
@@ -1456,7 +1520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e13968aa",
+    "id": "v_c29be977",
     "word": "Pretty cheery",
     "translation": "bastante alegre",
     "source_movie": "Family Switch",
@@ -1464,7 +1528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6a9a53c2",
+    "id": "v_02ebd54d",
     "word": "Magpie",
     "translation": "urraca",
     "source_movie": "Family Switch",
@@ -1472,7 +1536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e77f239",
+    "id": "v_b0a5b78e",
     "word": "Chestnuts roasting on an open fire",
     "translation": "castañas asándose en un fuego abierto",
     "source_movie": "Family Switch",
@@ -1480,7 +1544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_700e3a47",
+    "id": "v_db1bee2a",
     "word": "Nipping at your nose",
     "translation": "mordisqueándote la nariz",
     "source_movie": "Family Switch",
@@ -1488,7 +1552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_faf4b622",
+    "id": "v_9c64f6c7",
     "word": "Tiny tots with their eyes all aglow",
     "translation": "pequeñitos con los ojos brillantes",
     "source_movie": "Family Switch",
@@ -1496,7 +1560,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d4a0799b",
+    "id": "v_529e6e81",
+    "word": "Just for the record (parcialmente no literal)",
+    "translation": "sólo para que conste",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_885f20e7",
+    "word": "I'll miss out on way too much (frase no literal)",
+    "translation": "me perderé demasiadas cosas",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_abd3b2b4",
     "word": "Yours is a little cluttered",
     "translation": "el tuyo está un poco desordenado",
     "source_movie": "Family Switch",
@@ -1504,7 +1584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f46df4cb",
+    "id": "v_83f19119",
     "word": "I'll grab her right now (frase no literal)",
     "translation": "voy a ir a buscarla ahora mismo",
     "source_movie": "Family Switch",
@@ -1512,7 +1592,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d54643e2",
+    "id": "v_6aefd3f1",
+    "word": "Give up (aparte de rendirse en términos futbolísticos)",
+    "translation": "renunciar, dejar pasar",
+    "source_movie": "Family Switch",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7a31ae67",
     "word": "The rep",
     "translation": "el representante",
     "source_movie": "Family Switch",
@@ -1520,7 +1608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ca385e49",
+    "id": "v_12020c07",
     "word": "Holiday greetings",
     "translation": "saludos navideños/festivos",
     "source_movie": "Family Switch",
@@ -1528,23 +1616,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_26d57274",
+    "id": "v_3da941d7",
     "word": "A middle-aged man of middling intelligence",
-    "translation": "un hombre de mediana edad y inteligencia",
+    "translation": "un hombre de mediana edad y inteligencia normal",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_17acfbab",
-    "word": "normal",
-    "translation": "No registrada",
-    "source_movie": "Family Switch",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_2ac326b2",
+    "id": "v_db182aa8",
     "word": "Middling",
     "translation": "medio",
     "source_movie": "Family Switch",
@@ -1552,7 +1632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ddee164d",
+    "id": "v_92c06856",
     "word": "Sort of an",
     "translation": "una especie de un",
     "source_movie": "Family Switch",
@@ -1560,15 +1640,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6a033ce1",
-    "word": "universidades/escuelas de respaldo?",
-    "translation": "No registrada",
+    "id": "v_1cd6629c",
+    "word": "What are your safety schools? (forma no literal)",
+    "translation": "¿Cuáles son tus universidades/escuelas de respaldo?",
     "source_movie": "Family Switch",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d4f95c82",
+    "id": "v_1f8c3180",
     "word": "Drink it ugly, and it'll work",
     "translation": "bébete eso, aunque sea desagradable, y te hará bien",
     "source_movie": "Family Switch",
@@ -1576,7 +1656,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8e408796",
+    "id": "v_ef224b2a",
     "word": "An ungrateful malcontent",
     "translation": "un desagradecido y un quejumbroso",
     "source_movie": "Family Switch",
@@ -1584,7 +1664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a534005d",
+    "id": "v_4995f1a7",
     "word": "I tore a hammie (traducción aproximada)",
     "translation": "me rompí un tendón",
     "source_movie": "Family Switch",
@@ -1592,7 +1672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_910e79b8",
+    "id": "v_69cfe006",
     "word": "Can you unshave my legs?",
     "translation": "¿Puedes depilarme las piernas?",
     "source_movie": "Family Switch",
@@ -1600,7 +1680,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f89329de",
+    "id": "v_26358673",
     "word": "I'm on a new cleanse",
     "translation": "estoy hacienda una nueva limpieza",
     "source_movie": "Family Switch",

@@ -49,7 +49,7 @@
     },
     {
       "word": "Get the smoky flavor nice and even",
-      "translation": "consigue que el sabor ahumado quede uniforme"
+      "translation": "consigue que el sabor ahumado quede uniforme y agradable"
     },
     {
       "word": "Gusteau swears at it",
@@ -73,7 +73,7 @@
     },
     {
       "word": "And the brokenhearted chef died shortly afterwards",
-      "translation": "y el chef con el corazón"
+      "translation": "y el chef con el corazón roto murió poco después"
     },
     {
       "word": "Let me through!",
@@ -100,7 +100,7 @@
       "translation": "pero eso no se puede contra las ilusiones"
     },
     {
-      "word": "You don't have the guts",
+      "word": "You don’t have the guts",
       "translation": "no tienes las agallas"
     },
     {
@@ -136,7 +136,7 @@
       "translation": "ley del puño de hierro"
     },
     {
-      "word": "I'm getting buried here",
+      "word": "I’m getting buried here",
       "translation": "me estoy muriendo de aburrimiento aquí"
     },
     {
@@ -169,7 +169,7 @@
     },
     {
       "word": "I should have drawn and quartered",
-      "translation": "te tendría que haberte colgado y"
+      "translation": "te tendría que haberte colgado y descuartizado"
     },
     {
       "word": "Squeeze out",
@@ -460,7 +460,7 @@
       "translation": "un baño de realidad"
     },
     {
-      "word": "The band's really on tonight",
+      "word": "The band’s really on tonight",
       "translation": "la banda está tocando increíblemente hoy"
     },
     {
@@ -524,7 +524,7 @@
       "translation": "provocándome con esa rata"
     },
     {
-      "word": "He's consorting with it",
+      "word": "He’s consorting with it",
       "translation": "se está juntando con él"
     },
     {
@@ -544,7 +544,7 @@
       "translation": "cesar, dejar de"
     },
     {
-      "word": "I didn't think you meant them",
+      "word": "I didn’t think you meant them",
       "translation": "no pensé que lo dijeras en derio"
     },
     {
@@ -568,7 +568,7 @@
       "translation": "ascenso, crecimiento"
     },
     {
-      "word": "I'll slot you in",
+      "word": "I’ll slot you in",
       "translation": "te incluiré"
     },
     {
@@ -600,15 +600,15 @@
       "translation": "entiendo el atractivo"
     },
     {
-      "word": "I'd like your heart roasted on a spit",
-      "translation": "me gustaría que tu corazón se asara en un"
+      "word": "I’d like your heart roasted on a spit",
+      "translation": "me gustaría que tu corazón se asara en un asador"
     },
     {
       "word": "Overheated puffery",
       "translation": "exageración excesiva"
     },
     {
-      "word": "You know what I'm craving?",
+      "word": "You know what I’m craving?",
       "translation": "¿Sabes lo que se me apetece?"
     },
     {
@@ -640,11 +640,11 @@
       "translation": "mitad"
     },
     {
-      "word": "I'm talking about guts",
+      "word": "I’m talking about guts",
       "translation": "estoy hablando sobre agallas"
     },
     {
-      "word": "We'll get it done",
+      "word": "We’ll get it done",
       "translation": "lo lograremos"
     },
     {
@@ -652,7 +652,7 @@
       "translation": "atender mesas"
     },
     {
-      "word": "We're a little short tonight",
+      "word": "We’re a little short tonight",
       "translation": "estamos un poco cortos esta noche"
     },
     {
@@ -743,5 +743,7 @@
       "https://image.tmdb.org/t/p/w780/nMYpw5h7TGvluj0krUhANU7no8M.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 182,
+  "dialogues": 1337
 }

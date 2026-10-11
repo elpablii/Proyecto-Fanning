@@ -4,6 +4,10 @@
   "englishAnalysis": "El clásico de Disney ofrece un inglés pulcro, melódico y extremadamente poético. Las expresiones formales de la nobleza se mezclan con diálogos musicales juguetones. Ideal para aprender vocabulario de los cuentos de hadas tradicionales.",
   "vocabulary": [
     {
+      "word": "You wear an air of queenly grace (frase no literal)",
+      "translation": "tienes un aire de gracia real"
+    },
+    {
       "word": "Stately",
       "translation": "majestuoso"
     },
@@ -12,12 +16,16 @@
       "translation": "muerte prematura"
     },
     {
-      "word": "promover los intereses",
-      "translation": "No registrada"
+      "word": "She was grimly determined to forward the interests",
+      "translation": "estaba firmemente decidida a promover los intereses"
     },
     {
       "word": "The chateau fell into disrepair",
       "translation": "el castillo quedó en ruinas"
+    },
+    {
+      "word": "The family fortunes were squandered upon the vain and selfish stepsisters",
+      "translation": "la fortuna familiar se dilapidó en las vanidosas y egoístas hermanastras"
     },
     {
       "word": "Let's just slip it on for size",
@@ -48,8 +56,8 @@
       "translation": "cortinas"
     },
     {
-      "word": "coser y lavar la ropa",
-      "translation": "No registrada"
+      "word": "There's the mending and the sewing and the laundry",
+      "translation": "hay que hacer los arreglos, coser y lavar la ropa"
     },
     {
       "word": "Pitter-patter",
@@ -100,6 +108,10 @@
       "translation": "adornos"
     },
     {
+      "word": "You go get some trimming (traducción aproximada)",
+      "translation": "ve a comprar algunos adornos"
+    },
+    {
       "word": "Mend the buttonholes",
       "translation": "arregla los ojales"
     },
@@ -112,6 +124,10 @@
       "translation": "cuando termines"
     },
     {
+      "word": "I wouldn't be seen dead in it (frase no literal)",
+      "translation": "no me pondría eso ni muerta"
+    },
+    {
       "word": "Beads (en moda)",
       "translation": "perlas, bolitas"
     },
@@ -122,6 +138,10 @@
     {
       "word": "Heave (verbo)",
       "translation": "levantar, elevar"
+    },
+    {
+      "word": "It would be frightfully dull (frase no literal)",
+      "translation": "sería terriblemente aburrido"
     },
     {
       "word": "I won't have you upsetting yourselves",
@@ -157,11 +177,7 @@
     },
     {
       "word": "Lo (expresión)",
-      "translation": "he aquí"
-    },
-    {
-      "word": "Whence (en preguntas) de dónde",
-      "translation": "No registrada"
+      "translation": "he aquí Whence (en preguntas) de dónde"
     },
     {
       "word": "Foredoomed",
@@ -180,12 +196,16 @@
       "translation": "carruaje"
     },
     {
-      "word": "con rodeos",
-      "translation": "No registrada"
+      "word": "I see no pount in beating about the bush (frase no literal)",
+      "translation": "no veo sentido en andarme con rodeos"
     },
     {
       "word": "Pass out (en sentido de entregas)",
       "translation": "repartir"
+    },
+    {
+      "word": "She vanished into thin air (frase no literal)",
+      "translation": "desapareció sin dejar rastro"
     },
     {
       "word": "A likely story",
@@ -201,19 +221,19 @@
     },
     {
       "word": "Whereupon, should the aforementioned maiden",
-      "translation": "en cuyo caso, si la mencionada"
+      "translation": "en cuyo caso, si la mencionada doncella"
     },
     {
-      "word": "doncella",
-      "translation": "No registrada"
-    },
-    {
-      "word": "compremeterá en matrimonio",
-      "translation": "No registrada"
+      "word": "Look with favour, shall the couple pledge their troth",
+      "translation": "mira con agrado, la pareja se compremeterá en matrimonio"
     },
     {
       "word": "Fitting",
       "translation": "ajuste"
+    },
+    {
+      "word": "It may be a trifle snug today (frase no literal)",
+      "translation": "hoy puede que haga un poco de calor"
     },
     {
       "word": "His Grace (en realeza)",
@@ -235,5 +255,7 @@
       "https://image.tmdb.org/t/p/w780/uwp72z4UR1SDUXgkE8OBis2TdKB.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 60,
+  "dialogues": 967
 }

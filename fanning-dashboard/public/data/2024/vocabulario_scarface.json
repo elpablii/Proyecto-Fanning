@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_b7dc1dca",
+    "id": "v_6296cee0",
     "word": "Brother-in-law",
     "translation": "cuñado",
     "source_movie": "Scarface",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58406427",
+    "id": "v_c8e5ce85",
     "word": "Come over",
     "translation": "venir",
     "source_movie": "Scarface",
@@ -16,7 +16,7 @@
     "global_frequency": 5
   },
   {
-    "id": "v_1e7fc0ff",
+    "id": "v_a4e3a83b",
     "word": "Pitchfork",
     "translation": "horca, horquilla",
     "source_movie": "Scarface",
@@ -24,15 +24,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_28f4ec97",
-    "word": "Mug (verb)",
-    "translation": "asaltar",
+    "id": "v_339901d7",
+    "word": "I was in the can one time (expresión informal)",
+    "translation": "una vez estuve en la cárcel",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_1ffc3756",
+    "id": "v_9de26797",
+    "word": "Mug (verbo)",
+    "translation": "asaltar",
+    "source_movie": "Scarface",
+    "year_processed": "2024",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_75eab369",
     "word": "Octopus",
     "translation": "pulpo",
     "source_movie": "Scarface",
@@ -40,7 +48,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_255d9203",
+    "id": "v_bf87ca45",
     "word": "Alike",
     "translation": "igual",
     "source_movie": "Scarface",
@@ -48,15 +56,15 @@
     "global_frequency": 5
   },
   {
-    "id": "v_0fbba2fd",
+    "id": "v_d86e6958",
     "word": "Castro just sprung him",
-    "translation": "Castro acabo de solitario",
+    "translation": "Castro acaba de soltarlo",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_0b8ca003",
+    "id": "v_79989252",
     "word": "Carve up",
     "translation": "descuartizar, trinchar",
     "source_movie": "Scarface",
@@ -64,23 +72,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8bf4b200",
-    "word": "Unload (verb)",
-    "translation": "descargar (objeto)",
+    "id": "v_4d567fda",
+    "word": "Unload (verbo)",
+    "translation": "descargar (objetos)",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4cacb23f",
+    "id": "v_aa8a12d5",
     "word": "Baggage handlers",
-    "translation": "maletero",
+    "translation": "maleteros",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_2d0e9259",
+    "id": "v_16832d91",
     "word": "Going rate",
     "translation": "tarifa, precio",
     "source_movie": "Scarface",
@@ -88,15 +96,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ec802753",
+    "id": "v_cfda9b3d",
     "word": "You gotta work your way up to 500",
-    "translation": "tener que trabajar hasta llegar a 500",
+    "translation": "tienes que trabajar hasta llegar a 500",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_f8a3feff",
+    "id": "v_bd9ed7e1",
     "word": "Bring back",
     "translation": "traer de vuelta/regreso",
     "source_movie": "Scarface",
@@ -104,7 +112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_42c7afb0",
+    "id": "v_bc41a200",
     "word": "Machine gun",
     "translation": "ametralladora",
     "source_movie": "Scarface",
@@ -112,15 +120,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_19128dbc",
+    "id": "v_9f9023ce",
     "word": "Stick your heads up your asses",
-    "translation": "meter sus cabeza por sus trasero",
+    "translation": "meter sus cabezas por sus traseros",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_e152013b",
+    "id": "v_cc23f372",
     "word": "Look after",
     "translation": "cuidar",
     "source_movie": "Scarface",
@@ -128,7 +136,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_a2db92ef",
+    "id": "v_383631c4",
     "word": "Stay loose",
     "translation": "estar suelto",
     "source_movie": "Scarface",
@@ -136,15 +144,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_532e06de",
+    "id": "v_be3faafe",
     "word": "Just play it cool",
-    "translation": "solo juego tranquilo",
+    "translation": "solo juega tranquilo",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_27cafc21",
+    "id": "v_be0fddc8",
     "word": "You got it?",
     "translation": "¿Entendido?",
     "source_movie": "Scarface",
@@ -152,7 +160,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_51d0c28c",
+    "id": "v_628f01a4",
     "word": "I got it close by",
     "translation": "lo tengo cerca",
     "source_movie": "Scarface",
@@ -160,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6af7d67d",
+    "id": "v_62c9f400",
     "word": "I have it close by",
     "translation": "lo tengo cerca",
     "source_movie": "Scarface",
@@ -168,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7306a460",
+    "id": "v_f8796064",
     "word": "Start over",
     "translation": "empezar de nuevo",
     "source_movie": "Scarface",
@@ -176,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d1492c0",
+    "id": "v_c7bb11ae",
     "word": "Slender evidence",
     "translation": "prueba delgada",
     "source_movie": "Scarface",
@@ -184,15 +192,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_82aff1a6",
+    "id": "v_85981f0e",
     "word": "Went right through",
-    "translation": "paso a través de él",
+    "translation": "pasó a través de él",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5caeaa66",
+    "id": "v_98ce3837",
     "word": "Scotch, gin, rum",
     "translation": "whisky escocés, ginebra, ron",
     "source_movie": "Scarface",
@@ -200,31 +208,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6929a6b2",
-    "word": "Move up (en terminus de negocios)",
+    "id": "v_07110077",
+    "word": "Move up (en términos de negocios)",
     "translation": "subir, ascender",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5edc33c8",
+    "id": "v_24b502a3",
     "word": "Bring in",
     "translation": "traer",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
-    "id": "v_175dbcb3",
+    "id": "v_3e062562",
     "word": "Gotta get her in between",
-    "translation": "ha que meter en medio",
+    "translation": "hay que meterla en medio",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_55d19ad5",
+    "id": "v_0478a7bc",
     "word": "Catcher",
     "translation": "receptor",
     "source_movie": "Scarface",
@@ -232,15 +240,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_30e889b5",
+    "id": "v_bcba5c22",
     "word": "A base hit",
-    "translation": "un hi de base",
+    "translation": "un hit de base",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_f4f9205f",
+    "id": "v_a0cee40f",
     "word": "Setup",
     "translation": "configuración",
     "source_movie": "Scarface",
@@ -248,7 +256,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7a42ba8b",
+    "id": "v_2bd76d5b",
     "word": "All down that way",
     "translation": "todo por ahí",
     "source_movie": "Scarface",
@@ -256,7 +264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cf67f472",
+    "id": "v_8ea6d5e3",
     "word": "Chaser",
     "translation": "cazador, perseguidor",
     "source_movie": "Scarface",
@@ -264,23 +272,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bc6da037",
+    "id": "v_e5e9d156",
     "word": "He don’t fly straight no more",
-    "translation": "ya no vuelta derecho",
+    "translation": "ya no vuela derecho",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5389d333",
+    "id": "v_558c939b",
     "word": "It comes down to one thing",
-    "translation": "todo se reducir a una cosa",
+    "translation": "todo se reduce a una cosa",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_d1fe35e8",
+    "id": "v_889987a6",
     "word": "Greed",
     "translation": "avaricia, codicia",
     "source_movie": "Scarface",
@@ -288,23 +296,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c8727d32",
+    "id": "v_207b53f3",
     "word": "Don’t get high on your own supply",
-    "translation": "no te droguera con tu propio suministro",
+    "translation": "no te drogues con tu propio suministro",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_f513f0c0",
-    "word": "Pour (verb)",
+    "id": "v_15039a17",
+    "word": "Pour (verbo)",
     "translation": "servir (una bebida)",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
-    "id": "v_6cff6887",
+    "id": "v_24769041",
     "word": "Right away",
     "translation": "de inmediato, enseguida",
     "source_movie": "Scarface",
@@ -312,15 +320,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_33d64aa6",
+    "id": "v_6a6d1c56",
     "word": "So you look real sharp",
-    "translation": "así que te es muy bien",
+    "translation": "así que te ves muy bien",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_48c7cb53",
+    "id": "v_dade9eac",
     "word": "Foam into",
     "translation": "echar espuma",
     "source_movie": "Scarface",
@@ -328,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e142fbf",
+    "id": "v_7ce7aed4",
     "word": "Peasant",
     "translation": "campesino",
     "source_movie": "Scarface",
@@ -336,23 +344,23 @@
     "global_frequency": 4
   },
   {
-    "id": "v_addee7d2",
-    "word": "It’s none of your business (expression)",
+    "id": "v_a2502651",
+    "word": "It’s none of your business (expresión)",
     "translation": "no es asunto tuyo",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_3593eed9",
+    "id": "v_c891b49a",
     "word": "Keep it coming",
-    "translation": "sigua así",
+    "translation": "sigue así",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_1939696f",
+    "id": "v_b45fd39c",
     "word": "Booze",
     "translation": "bebida, alcohol",
     "source_movie": "Scarface",
@@ -360,7 +368,7 @@
     "global_frequency": 4
   },
   {
-    "id": "v_99109d7f",
+    "id": "v_b06e5fff",
     "word": "Cage",
     "translation": "jaula",
     "source_movie": "Scarface",
@@ -368,15 +376,15 @@
     "global_frequency": 3
   },
   {
-    "id": "v_920718d6",
+    "id": "v_0b396795",
     "word": "Sights",
-    "translation": "vista",
+    "translation": "vistas",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_7a3a5644",
+    "id": "v_ab6a8eb2",
     "word": "Greaseball",
     "translation": "bola de grasa",
     "source_movie": "Scarface",
@@ -384,15 +392,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_904b3ff2",
+    "id": "v_7f3bea94",
     "word": "Hang back",
-    "translation": "esperar, quedar atrás",
+    "translation": "esperar, quedarse atrás",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_544e1c45",
+    "id": "v_cc04f434",
     "word": "Stick out",
     "translation": "sacar",
     "source_movie": "Scarface",
@@ -400,15 +408,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_da2d85cc",
+    "id": "v_c304571e",
     "word": "Get held up",
-    "translation": "ser detenido/saltado",
+    "translation": "ser retenido/asaltado",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_2a7e1ee0",
+    "id": "v_d333e549",
     "word": "A cream puff",
     "translation": "un bollo de crema",
     "source_movie": "Scarface",
@@ -416,15 +424,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ebc59613",
+    "id": "v_4b1f1757",
     "word": "Machine-gun turrets",
-    "translation": "gorreta ametralladora",
+    "translation": "torretas ametralladoras",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_482bb887",
+    "id": "v_d57d7ba9",
     "word": "Scrambler",
     "translation": "codificador",
     "source_movie": "Scarface",
@@ -432,7 +440,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c537dc94",
+    "id": "v_fc38870c",
     "word": "Flying saucer",
     "translation": "platillo volador",
     "source_movie": "Scarface",
@@ -440,39 +448,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d63573e1",
+    "id": "v_0925bd76",
     "word": "Fog lights",
-    "translation": "lunes/faro tiniebla",
+    "translation": "luces/faros antiniebla",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_59a43a1d",
-    "word": "Swamp (substantive)",
+    "id": "v_d07797a1",
+    "word": "Swamp (sustantivo)",
     "translation": "pantano",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_513681d1",
+    "id": "v_382ed11a",
     "word": "Keep down",
     "translation": "mantener abajo",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_dba35b13",
+    "id": "v_55110de6",
     "word": "Open that up",
-    "translation": "aire eso",
+    "translation": "abre eso",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_0729b2b4",
+    "id": "v_705e26ef",
     "word": "Beauty parlor",
     "translation": "salón de belleza",
     "source_movie": "Scarface",
@@ -480,15 +488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5841cd1c",
+    "id": "v_5f27b847",
     "word": "Junior college",
-    "translation": "universidad júnior",
+    "translation": "universidad junior",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_dcdf79a2",
+    "id": "v_06b766f4",
     "word": "Come around",
     "translation": "venir",
     "source_movie": "Scarface",
@@ -496,39 +504,31 @@
     "global_frequency": 3
   },
   {
-    "id": "v_550952d8",
+    "id": "v_012dd7db",
     "word": "A gun sticking in somebody’s face is how",
-    "translation": "una pistola apuntado a la cara de alguien es",
+    "translation": "una pistola apuntando a la cara de alguien es como",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_e31a85a0",
-    "word": "como",
-    "translation": "No registrada",
-    "source_movie": "Scarface",
-    "year_processed": "2024",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_a0ba967b",
+    "id": "v_a4bad9b7",
     "word": "Hotshot clothes",
-    "translation": "ropa de fanfarrón",
+    "translation": "ropas de fanfarrón",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_6bf8f22a",
-    "word": "Spoil (verb en otto context)",
+    "id": "v_4531c6ed",
+    "word": "Spoil (verbo en otro contexto)",
     "translation": "estropear",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_b43d9184",
+    "id": "v_a43a473b",
     "word": "I gotta go back in",
     "translation": "tengo que volver",
     "source_movie": "Scarface",
@@ -536,7 +536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_90b4c9e2",
+    "id": "v_06a2fdc7",
     "word": "Put away",
     "translation": "guardar",
     "source_movie": "Scarface",
@@ -544,23 +544,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cb5c65c9",
+    "id": "v_6e02b0b0",
     "word": "Frogmen",
-    "translation": "hombre rana",
+    "translation": "hombres rana",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5c413fa8",
+    "id": "v_8e8469ba",
     "word": "I am down on Frank’s authority",
-    "translation": "esto abajo en la autoridad de Gran",
+    "translation": "estoy abajo en la autoridad de Frank",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_bff93837",
+    "id": "v_a9e0ce8c",
     "word": "Informer",
     "translation": "informante",
     "source_movie": "Scarface",
@@ -568,23 +568,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_192348d5",
+    "id": "v_36be090d",
     "word": "Let’s get this straight now",
-    "translation": "aclareo esto ahora",
+    "translation": "aclaremos esto ahora",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_21ffbc10",
+    "id": "v_65bcc9e9",
     "word": "He had me set me up",
-    "translation": "me tenia una trampa",
+    "translation": "me tendió una trampa",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_989e4b41",
+    "id": "v_886abe09",
     "word": "A hit squad",
     "translation": "escuadrón de asalto",
     "source_movie": "Scarface",
@@ -592,63 +592,63 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5e311b16",
+    "id": "v_557dbebd",
     "word": "I’m in tight with Sosa",
-    "translation": "esto de acuerdo con Sosa",
+    "translation": "estoy de acuerdo con Sosa",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_8a1c0af5",
+    "id": "v_75c8e73b",
     "word": "You short a couple of a mil",
-    "translation": "te falta un par de misiones",
+    "translation": "te faltan un par de millones",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a0af73d6",
+    "id": "v_92a0e58d",
     "word": "He’ll stick it in",
-    "translation": "él se la meter",
+    "translation": "él se la meterá",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ce95b35e",
-    "word": "Stole",
+    "id": "v_c079e24d",
+    "word": "Stoolie",
     "translation": "soplón",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_02ec3b31",
-    "word": "Stall (verb)",
+    "id": "v_fef96ba4",
+    "word": "Stall (verbo)",
     "translation": "demorar, retrasar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 4
   },
   {
-    "id": "v_3e85234d",
+    "id": "v_8b906ec0",
     "word": "I come from the gutter",
-    "translation": "tengo de la alcantarilla",
+    "translation": "vengo de la alcantarilla",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_d2045416",
+    "id": "v_bb609d10",
     "word": "I laid eyes on you",
-    "translation": "pues los ojo en ti",
+    "translation": "puse los ojos en ti",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_36ca34ce",
+    "id": "v_7f433c6e",
     "word": "He’s harmless",
     "translation": "él es inofensivo",
     "source_movie": "Scarface",
@@ -656,7 +656,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_2383625c",
+    "id": "v_c9743081",
     "word": "A long ride",
     "translation": "un largo paseo",
     "source_movie": "Scarface",
@@ -664,15 +664,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_548fced0",
-    "word": "I’m gonna bust your disease spic balls",
-    "translation": "te hoy a romper las pelota sabelotodo",
+    "id": "v_2e2450a5",
+    "word": "I’m gonna bust your wiseass spic balls",
+    "translation": "te voy a romper las pelotas sabelotodo",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_3ac5cf70",
+    "id": "v_1a1037dc",
     "word": "A small-time punk",
     "translation": "un gamberro de poca monta",
     "source_movie": "Scarface",
@@ -680,7 +680,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cbc7a40d",
+    "id": "v_fe6b0e76",
     "word": "Shake down",
     "translation": "sacudir",
     "source_movie": "Scarface",
@@ -688,15 +688,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_88e2ce85",
+    "id": "v_032584f6",
     "word": "Step in",
     "translation": "intervenir",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
-    "id": "v_86fdaa3d",
+    "id": "v_bd9941bf",
     "word": "Badge",
     "translation": "placa, insignia",
     "source_movie": "Scarface",
@@ -704,23 +704,23 @@
     "global_frequency": 3
   },
   {
-    "id": "v_46c480e7",
+    "id": "v_0afca182",
     "word": "You feed me a bust now and then",
-    "translation": "me las de comer de vez en cuando",
+    "translation": "me das de comer de vez en cuando",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_56cc834a",
-    "word": "Grease (verb)",
+    "id": "v_e3dae498",
+    "word": "Grease (verbo)",
     "translation": "engrasar",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7cbbe2b9",
+    "id": "v_eeb7296a",
     "word": "Crawl out",
     "translation": "arrastrar",
     "source_movie": "Scarface",
@@ -728,23 +728,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e0842c2f",
+    "id": "v_4b284186",
     "word": "Round-trip tickets",
-    "translation": "pasaje de ida y vuelta",
+    "translation": "pasajes de ida y vuelta",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ab67a7fa",
+    "id": "v_6d327865",
     "word": "You are really nuts",
-    "translation": "estas realmente loco",
+    "translation": "estás realmente loco",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_8611e47b",
+    "id": "v_4845622e",
     "word": "Fertilizer",
     "translation": "abono, fertilizante",
     "source_movie": "Scarface",
@@ -752,15 +752,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b1b53bd",
+    "id": "v_de91fdca",
     "word": "He’s got weight on me",
-    "translation": "tizne peso sobre mí",
+    "translation": "tiene peso sobre mí",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_75296237",
+    "id": "v_4975c500",
     "word": "Lounge chair",
     "translation": "butaca",
     "source_movie": "Scarface",
@@ -768,15 +768,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b08fbe3c",
-    "word": "Wipe (verb)",
+    "id": "v_4f57dd79",
+    "word": "Wipe (verbo)",
     "translation": "limpiar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_2cc82ea2",
+    "id": "v_4faebf3a",
     "word": "Gram",
     "translation": "gramo",
     "source_movie": "Scarface",
@@ -784,15 +784,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3f6703a0",
+    "id": "v_9226a9b0",
     "word": "You’ll all be babbling on",
-    "translation": "todo seguir paloteado/balbuceando",
+    "translation": "todos seguirán parloteando/balbuceando",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_c66831e7",
+    "id": "v_9ac36a8e",
     "word": "Checking up on me?",
     "translation": "¿Controlándome?, ¿Investigándome?",
     "source_movie": "Scarface",
@@ -800,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ab1eb9ce",
+    "id": "v_eb621797",
     "word": "Umpire",
     "translation": "juez, árbitro",
     "source_movie": "Scarface",
@@ -808,7 +808,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f1942b1",
+    "id": "v_a13631c2",
     "word": "Hitters",
     "translation": "bateadores",
     "source_movie": "Scarface",
@@ -816,7 +816,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_47df7275",
+    "id": "v_4f905fe0",
     "word": "In spades",
     "translation": "con creces",
     "source_movie": "Scarface",
@@ -824,31 +824,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e53b63bf",
+    "id": "v_cf4b82c5",
     "word": "But I never turned on you",
-    "translation": "pero nunca me volvo contra ti",
+    "translation": "pero nunca me volví contra ti",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_0ea16268",
-    "word": "Clip (verb)",
+    "id": "v_d29329dc",
+    "word": "Clip (verbo)",
     "translation": "recortar, cortar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 3
   },
   {
-    "id": "v_f7382fee",
-    "word": "Broad (en sentimo informal)",
+    "id": "v_45349a2f",
+    "word": "Broad (en sentido informal)",
     "translation": "tipa, tía",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_1001775d",
+    "id": "v_0b595b3f",
     "word": "A wholesale operation",
     "translation": "una operación al por mayor",
     "source_movie": "Scarface",
@@ -856,47 +856,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6a89db7a",
-    "word": "Rinse (verb)",
+    "id": "v_b87e6de9",
+    "word": "Rinse (verbo)",
     "translation": "aclarar, limpiar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 5
   },
   {
-    "id": "v_c8bbfe72",
+    "id": "v_cb5b7ce8",
     "word": "I go low, you go high",
-    "translation": "yo bajo, tú subeo",
+    "translation": "yo bajo, tú subes",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_10925a3a",
+    "id": "v_16157fe4",
     "word": "Stockholders",
-    "translation": "accionista",
+    "translation": "accionistas",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_b043d2a4",
-    "word": "Bills (en terminus de diner)",
-    "translation": "cuenta, factura",
+    "id": "v_5417ed11",
+    "word": "Bills (en términos de dinero)",
+    "translation": "cuentas, facturas",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_08938a7f",
+    "id": "v_15f502e9",
     "word": "Schmuck",
     "translation": "imbécil, idiota",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_d7cb6d06",
+    "id": "v_dab3aae4",
     "word": "A well-liked customer",
     "translation": "un cliente muy querido",
     "source_movie": "Scarface",
@@ -904,55 +904,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_46df1a4b",
+    "id": "v_ced4856f",
     "word": "Mob guys",
-    "translation": "chico marioso",
+    "translation": "chicos mafiosos",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_958e0a00",
-    "word": "Sweep (verb)",
+    "id": "v_c17e724b",
+    "word": "Sweep (verbo)",
     "translation": "barrer",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 4
   },
   {
-    "id": "v_d7c65f0a",
-    "word": "Rig (verb en comunicaciones)",
+    "id": "v_01785171",
+    "word": "Rig (verbo en comunicaciones)",
     "translation": "manipular",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_2909cb8a",
+    "id": "v_7ef883d9",
     "word": "Dopers",
-    "translation": "dorado",
+    "translation": "dopados",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_2f7bcc9d",
+    "id": "v_b186e730",
     "word": "That truck could be anybody or anything",
-    "translation": "ese camión poesía ser cualquiera o cualquier",
+    "translation": "ese camión podría ser cualquiera o cualquier cosa",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4a2dd452",
-    "word": "cost",
-    "translation": "No registrada",
-    "source_movie": "Scarface",
-    "year_processed": "2024",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_79506eae",
+    "id": "v_46f23970",
     "word": "Counter-surveillance",
     "translation": "contra-vigilancia",
     "source_movie": "Scarface",
@@ -960,23 +952,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c6b4f978",
-    "word": "Adjusted gross (en terminus de ingress)",
+    "id": "v_acc55251",
+    "word": "Adjusted gross (en términos de ingresos)",
     "translation": "bruto ajustado",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_53ceef93",
-    "word": "Powder (verb)",
+    "id": "v_e097865e",
+    "word": "Powder (verbo)",
     "translation": "empolvar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_480aa224",
+    "id": "v_8154dd4e",
     "word": "A small law-enforcement budget",
     "translation": "un pequeño presupuesto policial",
     "source_movie": "Scarface",
@@ -984,31 +976,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d877cafa",
+    "id": "v_9aebfd2c",
     "word": "How can you put a dent?",
-    "translation": "¿Como pues poner una abolladura?",
+    "translation": "¿Cómo puedes poner una abolladura?",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_0158a3bc",
-    "word": "Dyke (substantive come)",
-    "translation": "dique, portillera",
+    "id": "v_c6b52b71",
+    "word": "Dyke (sustantivo común)",
+    "translation": "dique, tortillera",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_505336c5",
-    "word": "Outlaw (verb)",
-    "translation": "prohibir, legalizar",
+    "id": "v_77eb0591",
+    "word": "Outlaw (verbo)",
+    "translation": "prohibir, ilegalizar",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_dfa57f3c",
+    "id": "v_9aec27d1",
     "word": "Drive out",
     "translation": "expulsar, eliminar",
     "source_movie": "Scarface",
@@ -1016,7 +1008,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2bd2360f",
+    "id": "v_d244930c",
     "word": "Spic",
     "translation": "hispano",
     "source_movie": "Scarface",
@@ -1024,71 +1016,71 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58ba545e",
-    "word": "Bury (verb)",
+    "id": "v_a0aa7400",
+    "word": "Bury (verbo)",
     "translation": "enterrar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_537c8182",
+    "id": "v_6b51c67d",
     "word": "Lepers",
-    "translation": "leproso",
+    "translation": "leprosos",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4afec7fe",
+    "id": "v_6c7e4d81",
     "word": "Anything beats lying around all day",
-    "translation": "cualquier cosa es mejor que estar tirado todo el",
+    "translation": "cualquier cosa es mejor que estar tirado todo el día",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_3319bc96",
+    "id": "v_6d951930",
     "word": "Don’t toot your horn",
-    "translation": "no toque el claro",
+    "translation": "no toques el claxon",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_642afeaf",
+    "id": "v_903f217a",
     "word": "It’s not all it’s cracked up to be",
-    "translation": "no es lo que parecer",
+    "translation": "no es lo que parece",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_53329e73",
+    "id": "v_98deea3b",
     "word": "It’s all set up",
-    "translation": "esta todo preparado",
+    "translation": "está todo preparado",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_fe928e46",
+    "id": "v_ed56dc7a",
     "word": "How come",
-    "translation": "como es que",
+    "translation": "cómo es que",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_4077eda5",
+    "id": "v_1e9579e0",
     "word": "We’re up to what?",
-    "translation": "¿Estados a que?",
+    "translation": "¿Estamos a qué?",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_47d67441",
+    "id": "v_15c6bc17",
     "word": "Take a leak",
     "translation": "orinar, ir a mear",
     "source_movie": "Scarface",
@@ -1096,7 +1088,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_49abda9f",
+    "id": "v_72226e36",
     "word": "Throw up",
     "translation": "vomitar",
     "source_movie": "Scarface",
@@ -1104,23 +1096,23 @@
     "global_frequency": 3
   },
   {
-    "id": "v_6b16f4ba",
+    "id": "v_d20e823f",
     "word": "Call off",
     "translation": "llamar",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
-    "id": "v_dbb7acd4",
+    "id": "v_6be55086",
     "word": "Jerk off",
     "translation": "hacer una paja, masturbarse",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_8737d8e6",
+    "id": "v_c134044b",
     "word": "Staring into",
     "translation": "mirar a",
     "source_movie": "Scarface",
@@ -1128,15 +1120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9b152e35",
-    "word": "Guard (verb)",
+    "id": "v_6272fafd",
+    "word": "Guard (verbo)",
     "translation": "vigilar, custodiar",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_fbbe81ca",
+    "id": "v_72a41a4a",
     "word": "A wealthy landowner",
     "translation": "un rico terrateniente",
     "source_movie": "Scarface",
@@ -1144,15 +1136,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7d03b11c",
+    "id": "v_5a8281b1",
     "word": "Drug overlord",
-    "translation": "caso de la droga",
+    "translation": "capo de la droga",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4fe60a8a",
+    "id": "v_4d1525c8",
     "word": "Disposal business",
     "translation": "negocio de la eliminación",
     "source_movie": "Scarface",
@@ -1160,15 +1152,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_76dd432b",
+    "id": "v_d9bba465",
     "word": "Run things for me",
-    "translation": "dirigir cosa por mí",
+    "translation": "dirige cosas por mí",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_e7b7def1",
+    "id": "v_db339984",
     "word": "Postponement",
     "translation": "aplazamiento, prórroga",
     "source_movie": "Scarface",
@@ -1176,7 +1168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d9373e1",
+    "id": "v_3e180a25",
     "word": "Belly",
     "translation": "vientre, panza",
     "source_movie": "Scarface",
@@ -1184,7 +1176,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_c10b7221",
+    "id": "v_4ac8409d",
     "word": "Is this what it’s all about?",
     "translation": "¿De esto se trata?",
     "source_movie": "Scarface",
@@ -1192,31 +1184,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cf81258a",
+    "id": "v_d87e453a",
     "word": "Junkie",
     "translation": "drogadicto",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_c60530a2",
+    "id": "v_acd62ec5",
     "word": "Don’t pick on her",
-    "translation": "no te meta con ella",
+    "translation": "no te metas con ella",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_fc49bc87",
+    "id": "v_dcf4652e",
     "word": "Womb",
     "translation": "útero, vientre",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_98abbace",
+    "id": "v_14c7d13d",
     "word": "Hang around",
     "translation": "merodear",
     "source_movie": "Scarface",
@@ -1224,23 +1216,23 @@
     "global_frequency": 6
   },
   {
-    "id": "v_92ab7bb6",
+    "id": "v_9900c2d0",
     "word": "You’re stoned",
-    "translation": "estas rogado",
+    "translation": "estás drogado",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5f6373c0",
+    "id": "v_2636ad45",
     "word": "Blow up",
-    "translation": "explotar, volar por los aire",
+    "translation": "explotar, volar por los aires",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 3
   },
   {
-    "id": "v_b3a7d854",
+    "id": "v_ad8c8352",
     "word": "Vulture",
     "translation": "buitre",
     "source_movie": "Scarface",
@@ -1248,7 +1240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bb494baf",
+    "id": "v_3eafb93c",
     "word": "Worm",
     "translation": "gusano",
     "source_movie": "Scarface",
@@ -1256,15 +1248,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cb3f28b0",
+    "id": "v_f55394dc",
     "word": "I’ve been calling all over",
-    "translation": "he estado llamado a toda parte",
+    "translation": "he estado llamando a todas partes",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_cddddedd",
+    "id": "v_2a685364",
     "word": "Take off",
     "translation": "sacar, quitar",
     "source_movie": "Scarface",
@@ -1272,55 +1264,55 @@
     "global_frequency": 3
   },
   {
-    "id": "v_3cbc0a5f",
+    "id": "v_0a9731f6",
     "word": "Get him on the phone",
-    "translation": "sólo al teléfono",
+    "translation": "pónlo al teléfono",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_c4bcdedd",
+    "id": "v_f615259f",
     "word": "I’ll be over to see you",
-    "translation": "ir a verme",
+    "translation": "iré a verte",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4ca44c5f",
+    "id": "v_483a9235",
     "word": "Driveway",
     "translation": "entrada",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
-    "id": "v_9e30d59a",
+    "id": "v_2fd4a5d6",
     "word": "Mind your own business",
-    "translation": "motete en tus asunto",
+    "translation": "métete en tus asuntos",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_54ef7dbc",
+    "id": "v_d2921fec",
     "word": "Cool down",
     "translation": "refrescar, enfriar",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_d1e2e076",
+    "id": "v_d277b4ad",
     "word": "Close that fucker down",
-    "translation": "tierra a ese cabrón",
+    "translation": "cierra a ese cabrón",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_e44bbb41",
+    "id": "v_083f03cd",
     "word": "He’s gonna run all over you",
     "translation": "él te va a pasar por encima",
     "source_movie": "Scarface",
@@ -1328,33 +1320,33 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cc3736ad",
+    "id": "v_96f81bb6",
     "word": "We gotta get organized here",
-    "translation": "tenedor que organizarnos aquí",
+    "translation": "tenemos que organizarnos aquí",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_4d8d6551",
+    "id": "v_82b63eaa",
     "word": "Stand for",
     "translation": "soportar",
     "source_movie": "Scarface",
     "year_processed": "2024",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_79a38ed4",
+    "id": "v_4ef8e278",
     "word": "You better come and get me now",
-    "translation": "sera mejor que vengar a buscar ahora",
+    "translation": "será mejor que vengas a buscarme ahora",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_3723fca6",
+    "id": "v_70068639",
     "word": "I’m still standing",
-    "translation": "todavía sino de pie",
+    "translation": "todavía sigo de pie",
     "source_movie": "Scarface",
     "year_processed": "2024",
     "global_frequency": 1

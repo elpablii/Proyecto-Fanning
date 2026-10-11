@@ -32,8 +32,8 @@
       "translation": "remisión, referencia"
     },
     {
-      "word": "conseguirlo",
-      "translation": "No registrada"
+      "word": "You worked your butt off for this (frase no literal)",
+      "translation": "te esforzaste mucho para conseguirlo"
     },
     {
       "word": "I can get through on my own now",
@@ -76,6 +76,10 @@
       "translation": "revisar, echar una mirada"
     },
     {
+      "word": "Your severance package (no literal en empresas)",
+      "translation": "tu indemnización por despido"
+    },
+    {
       "word": "Buyout",
       "translation": "adquisición, compra"
     },
@@ -100,16 +104,20 @@
       "translation": "elogio fúnebre"
     },
     {
-      "word": "ilícitos",
-      "translation": "No registrada"
+      "word": "Amidst swirling accusations of illicit payoffs",
+      "translation": "en medio de acusaciones de pagos ilícitos"
     },
     {
-      "word": "horas seguidas",
-      "translation": "No registrada"
+      "word": "I just pulled a 12-hour back to back (frase no literal)",
+      "translation": "acabo de hacer un turno de 12 horas seguidas"
     },
     {
       "word": "Talking (sustantivo)",
       "translation": "conversación, charla"
+    },
+    {
+      "word": "If something's ticking, they'll let it through",
+      "translation": "si algo funciona, lo dejarán pasar"
     },
     {
       "word": "Stand clear",
@@ -212,8 +220,8 @@
       "translation": "talón de boleto"
     },
     {
-      "word": "conversación de antes",
-      "translation": "No registrada"
+      "word": "Couldn't help but overhear earlier (frase no literal)",
+      "translation": "no pude evitar escuchar la conversación de antes"
     },
     {
       "word": "You're riding for business",
@@ -225,11 +233,7 @@
     },
     {
       "word": "She's been on at me to get more exercise",
-      "translation": "me ha estado insistiendo para que haga"
-    },
-    {
-      "word": "más ejercicio",
-      "translation": "No registrada"
+      "translation": "me ha estado insistiendo para que haga más ejercicio"
     },
     {
       "word": "He's headed off to Syracuse",
@@ -244,8 +248,8 @@
       "translation": "bolsa de viaje, bolsa de lona"
     },
     {
-      "word": "se suicidó en el centro de la ciudad",
-      "translation": "No registrada"
+      "word": "A buddy of mine in the ninth caught a suicide downtown",
+      "translation": "un amigo mío en noveno grado se suicidó en el centro de la ciudad"
     },
     {
       "word": "A staffer in the city planning office",
@@ -256,8 +260,8 @@
       "translation": "muy involucrado/metido con"
     },
     {
-      "word": "ventana desde una altura de 35 pisos",
-      "translation": "No registrada"
+      "word": "Two guys drop him 35 stories out a window (frase no literal)",
+      "translation": "dos tipos lo tiran por una ventana desde una altura de 35 pisos"
     },
     {
       "word": "Use up",
@@ -312,8 +316,8 @@
       "translation": "los frenos han fallado"
     },
     {
-      "word": "que descarrilaremos",
-      "translation": "No registrada"
+      "word": "We hit it at 70 mph, we're gonna derail for sure",
+      "translation": "si lo golpeamos a 110 km/h, seguro que descarrilaremos"
     },
     {
       "word": "Couplers",
@@ -345,19 +349,15 @@
     },
     {
       "word": "I need tactical staged and ready to breach",
-      "translation": "necesito una estrategia táctica preparada"
-    },
-    {
-      "word": "y lista para entrar",
-      "translation": "No registrada"
+      "translation": "necesito una estrategia táctica preparada y lista para entrar"
     },
     {
       "word": "When you get line of sight",
       "translation": "cuando tenia línea de visión"
     },
     {
-      "word": "abordar",
-      "translation": "No registrada"
+      "word": "This goes on much longer, they're gonna board",
+      "translation": "esto va a durar mucho más, van a abordar"
     },
     {
       "word": "Crossfire",
@@ -382,6 +382,10 @@
     {
       "word": "Help me up",
       "translation": "ayúdame a levantarme"
+    },
+    {
+      "word": "It's got a hell of an ending (frase no literal)",
+      "translation": "tiene un final increíble"
     }
   ],
   "tmdb": {
@@ -395,5 +399,7 @@
       "https://image.tmdb.org/t/p/w780/pQXUSBhxpWgn2ft4LpU6X2OS0Zs.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 96,
+  "dialogues": 1526
 }

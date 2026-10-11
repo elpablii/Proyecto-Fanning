@@ -4,7 +4,7 @@
   "englishAnalysis": "Como es tradición en Pixar, el inglés es nítido y apto para toda la familia. Incluye divertidos juegos de palabras, jerga de ferias de atracciones, y expresiones sobre el propósito y la lealtad. Ideal para aprender el habla cotidiana.",
   "vocabulary": [
     {
-      "word": "He's done for",
+      "word": "He’s done for",
       "translation": "está acabado"
     },
     {
@@ -176,16 +176,16 @@
       "translation": "peluche"
     },
     {
-      "word": "pelear",
-      "translation": "No registrada"
+      "word": "Break it up (en términos no alusivos a una relación de pareja)",
+      "translation": "ya basta, dejen de pelear"
     },
     {
       "word": "Tires deflating (acotación)",
       "translation": "desinflado de los neumáticos"
     },
     {
-      "word": "un foso de pasillo expuesto",
-      "translation": "No registrada"
+      "word": "Her cabinet is surrounded by a moat of exposed aisle",
+      "translation": "su gabinete está rodeado por un foso de pasillo expuesto"
     },
     {
       "word": "We could go straight across",
@@ -198,6 +198,10 @@
     {
       "word": "Couldn't take it out there?",
       "translation": "¿No pudiste sacarlo ahí fuera?"
+    },
+    {
+      "word": "You're selling yourself short (frase no literal)",
+      "translation": "te estás subestimando"
     },
     {
       "word": "Hop a ride",
@@ -256,8 +260,8 @@
       "translation": "la atracción giratoria"
     },
     {
-      "word": "desde una altura de 12 metros",
-      "translation": "No registrada"
+      "word": "He's the toy that went on to crash 40 feet (frase no literal)",
+      "translation": "es el juguete que cayó desde una altura de 12 metros"
     },
     {
       "word": "Got a visual on the vehicle",
@@ -295,5 +299,7 @@
       "https://image.tmdb.org/t/p/w780/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 71,
+  "dialogues": 2071
 }

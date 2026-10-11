@@ -21,7 +21,7 @@
     },
     {
       "word": "And don't go running a background check on him",
-      "translation": "y no vayas a comprobar sus"
+      "translation": "y no vayas a comprobar sus antecedentes"
     },
     {
       "word": "Run a check on someone (verbo)",
@@ -85,7 +85,7 @@
     },
     {
       "word": "How long will it take for the blood to rush to her head?",
-      "translation": "¿Cuánto tardará la sangre en"
+      "translation": "¿Cuánto tardará la sangre en llegar a su cabeza?"
     },
     {
       "word": "Fare",
@@ -147,5 +147,7 @@
       "https://image.tmdb.org/t/p/w780/gfe9IR3rnv3LSiz5a4fwf27GPM5.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 33,
+  "dialogues": 943
 }

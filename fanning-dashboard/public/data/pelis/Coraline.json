@@ -200,7 +200,7 @@
       "translation": "calabaza"
     },
     {
-      "word": "Don't fret",
+      "word": "Don’t fret",
       "translation": "no te preocupes"
     },
     {
@@ -233,7 +233,7 @@
     },
     {
       "word": "A big-bottomed sea witch may bob through the waves",
-      "translation": "una bruja marina de gran fondo"
+      "translation": "una bruja marina de gran fondo puede mecerse entre las olas"
     },
     {
       "word": "And hope to lead sailors astray",
@@ -313,7 +313,7 @@
     },
     {
       "word": "Coraline says her parents have vanished quite completely",
-      "translation": "Coraline dice que sus padres"
+      "translation": "Coraline dice que sus padres han desaparecido completamente"
     },
     {
       "word": "Gammy legs",
@@ -411,5 +411,7 @@
       "https://image.tmdb.org/t/p/w780/dcGsw5wY5vgpkcOLZnvl8OUNf0A.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 99,
+  "dialogues": 1293
 }

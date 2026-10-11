@@ -168,7 +168,7 @@
           "translation": "golpe/ruido sordo"
         },
         {
-          "word": "It's staged (no literal)",
+          "word": "It’s staged (no literal)",
           "translation": "está preparado"
         },
         {
@@ -492,12 +492,12 @@
           "translation": "voy a seguir adelante"
         }
       ],
-      "dialogues": 745,
+      "dialogues": 746,
       "level": "C1"
     },
     {
       "name": "Maid (Episode 3)",
-      "count": 69,
+      "count": 71,
       "vocabulary": [
         {
           "word": "Celery sticks",
@@ -1604,7 +1604,7 @@
           "translation": "estamos de paso"
         },
         {
-          "word": "Shepherd's pie",
+          "word": "Shepherd’s pie",
           "translation": "pastel de carne y puré de papas"
         },
         {
@@ -1888,7 +1888,7 @@
           "translation": "vuelvo a entrar"
         },
         {
-          "word": "Surf's up (no literal)",
+          "word": "Surf’s up (no literal)",
           "translation": "hay olas que/para surfear"
         },
         {
@@ -2116,7 +2116,7 @@
           "translation": "grosero, maleducado, descortés"
         },
         {
-          "word": "Let's dig in (frase no literal en comidas)",
+          "word": "Let’s dig in (frase no literal en comidas)",
           "translation": "a comer"
         },
         {
@@ -2196,7 +2196,7 @@
           "translation": "adelante, por supuesto"
         },
         {
-          "word": "I couldn't put it down",
+          "word": "I couldn’t put it down",
           "translation": "no pude dejarlo"
         },
         {
@@ -2270,6 +2270,10 @@
         {
           "word": "Disburse (verbo)",
           "translation": "desembolsar, pagar, liquidar"
+        },
+        {
+          "word": "Maiden name (no literal)",
+          "translation": "apellido de soltera"
         },
         {
           "word": "The brother had it going on with something kinda (frase no literal)",
@@ -2696,5 +2700,7 @@
         "still_path": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg"
       }
     }
-  }
+  },
+  "count": 641,
+  "dialogues": 7422
 }

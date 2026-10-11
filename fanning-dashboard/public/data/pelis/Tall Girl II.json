@@ -80,8 +80,12 @@
       "translation": "crudeza"
     },
     {
-      "word": "cubo lleno de tripas de cerdo",
-      "translation": "No registrada"
+      "word": "I'm just pitching, you slip NyQuil into one of your smoothies",
+      "translation": "solo te lo sugiero, échale un poco de NyQuil a uno de los batidos"
+    },
+    {
+      "word": "She gets a bucket of pig guts dropped on her from the rafters",
+      "translation": "le caen de las vigas un cubo lleno de tripas de cerdo"
     },
     {
       "word": "Run the course (en amistades)",
@@ -132,6 +136,10 @@
       "translation": "intimidar"
     },
     {
+      "word": "In front of a packed audience (frase no literal)",
+      "translation": "ante un público que llene la sala"
+    },
+    {
       "word": "Pour down",
       "translation": "correr, caer (un líquido o sustancia)"
     },
@@ -156,6 +164,10 @@
       "translation": "con tomates por encima"
     },
     {
+      "word": "It looked like you were spacing out (frase no literal)",
+      "translation": "parecía que te habías distraido"
+    },
+    {
       "word": "Crack (verbo en relaciones sociales)",
       "translation": "ceder"
     },
@@ -174,6 +186,10 @@
     {
       "word": "Lay off",
       "translation": "dejar en paz"
+    },
+    {
+      "word": "Let's unpack our wants (parcialmente no literal)",
+      "translation": "analicemos lo que queremos"
     },
     {
       "word": "Cherish each other",
@@ -200,12 +216,8 @@
       "translation": "estresante"
     },
     {
-      "word": "Understudy",
-      "translation": "suplente"
-    },
-    {
-      "word": "por ese tobogán",
-      "translation": "No registrada"
+      "word": "Far enough to where I'd be going down that slide",
+      "translation": "tanto como para que yo me tirara por ese tobogán"
     },
     {
       "word": "Waiting to get pelted by popcorn",
@@ -297,11 +309,7 @@
     },
     {
       "word": "This pair of crispy, ankle-strap platforms",
-      "translation": "este par de sandalias de plataforma con"
-    },
-    {
-      "word": "correa al tobillo",
-      "translation": "No registrada"
+      "translation": "este par de sandalias de plataforma con correa al tobillo"
     },
     {
       "word": "Chrysalis",
@@ -316,16 +324,16 @@
       "translation": "dar una ventaja"
     },
     {
-      "word": "problemática",
-      "translation": "No registrada"
+      "word": "I'm so sorry that I'm the screwed-up daughter",
+      "translation": "lamento mucho ser la hija problemática"
     },
     {
-      "word": "un poco",
-      "translation": "No registrada"
+      "word": "I just thought I'd get a head start on it (frase no literal)",
+      "translation": "solo pensé en adelantarme un poco"
     },
     {
-      "word": "cinta adhesiva",
-      "translation": "No registrada"
+      "word": "I can't bring myself to tape them up (frase no literal)",
+      "translation": "no me atrevo a pegarlas con cinta adhesiva"
     },
     {
       "word": "Tank (verbo en sociedad)",
@@ -356,6 +364,10 @@
       "translation": "te caes de bruces"
     },
     {
+      "word": "Trying to ground herself by tidying up (no literal)",
+      "translation": "tratando de relajarse ordenando"
+    },
+    {
       "word": "I will stand in the wings for the show",
       "translation": "estaré entre bastidores durante el espectáculo"
     },
@@ -372,7 +384,7 @@
       "translation": "ignorar"
     },
     {
-      "word": "Something's off",
+      "word": "Something’s off",
       "translation": "algo no esta bien"
     },
     {
@@ -391,5 +403,7 @@
       "https://image.tmdb.org/t/p/w780/hTqCzBVbaHlYSTNNWVadq9gAPMx.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 97,
+  "dialogues": 1899
 }

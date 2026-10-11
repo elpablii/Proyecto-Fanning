@@ -1,723 +1,834 @@
 [
-    {
-        "word": "Sing in key (verbo)",
-        "translation": "cantar afinado",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Be on beat (verbo)",
-        "translation": "seguir el ritmo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I'm about what I'm about (parcialmente no literal)",
-        "translation": "soy quien soy",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I don't want to see you gone",
-        "translation": "no quiero que te vayas",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Dingleberry (despectivo)",
-        "translation": "idiota",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Dingle up your asshole, because he ain't worth shit (despectivo)",
-        "translation": "que se vaya al carajo,",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Syllabus (en educación)",
-        "translation": "programa, temario, plan de estudios",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Trigger warning",
-        "translation": "advertencia de contenido sensible",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Keep track",
-        "translation": "llevar un registro",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "That was some willy-nilly-ass shit",
-        "translation": "eso sí que fue una mierda sin sentido",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Reach down in my pocket",
-        "translation": "mete la mano en mi bolsillo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Go too hard (verbo no literal)",
-        "translation": "irse a lo loco, pasarse de la raya",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Till it's due",
-        "translation": "hasta la fecha límite",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Downplay (verbo)",
-        "translation": "restar importancia",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We got to get a buzz (frase no literal)",
-        "translation": "tenemos que ponernos de buen humor",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We on a schedule",
-        "translation": "tenemos un horario que cumplir",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Ill-advised",
-        "translation": "imprudente, mal aconsejado",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Tag line",
-        "translation": "eslogan",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Rolling with the top down (frase no literal)",
-        "translation": "conduciendo con la capota bajada",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Ice luge",
-        "translation": "pista/rampa/tobogán de hielo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Backwash",
-        "translation": "reflujo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "To be high out your motherfucking mind (parcialmente no literal)",
-        "translation": "estar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "The fanny pack",
-        "translation": "la riñonera",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Scare off",
-        "translation": "ahuyentar, asustar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Let's fuck it up! (traducción aproximada)",
-        "translation": "¡A armar un lío!",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Focused on the grind",
-        "translation": "enfocado en el trabajo diario",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Soles",
-        "translation": "suelas",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Money ain't the only thing them boys will blow about me",
-        "translation": "el dinero no es lo único que",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Key less lock chirping (acotación)",
-        "translation": "chirrido de la cerradura sin llave",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "For break",
-        "translation": "de vacaciones",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "She cannot be on her back",
-        "translation": "no puede estar boca arriba",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Frat party",
-        "translation": "fiesta de la hermandad",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We could just let her sleep it off",
-        "translation": "podríamos simplemente dejarla que se le pase",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "What if she's, like, roofied?",
-        "translation": "¿Y si le han echado, digamos, una droga en la bebida?",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You nasty bitch (parcialmente no literal y despectivo)",
-        "translation": "perra asquerosa",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I'm most assuredly gonna need",
-        "translation": "sin duda alguna voy a necesitar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Gun got you hitting the floor (traducción aproximada)",
-        "translation": "la pistola te hizo tirarte al",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Fucking around with the set (traducción aproximada)",
-        "translation": "si andas haciendo tonterías con",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "When I roll with the grip",
-        "translation": "cuando giro con el agarre",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "When I'm dumping the pump",
-        "translation": "cuando estoy vaciando la bomba",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You don't want no cons (parcialmente no literal)",
-        "translation": "no quieres ningún problema",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I'll pop at your noggin (frase no literal)",
-        "translation": "te voy a dar un golpe en la cabeza",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Locking and loading that pistol",
-        "translation": "amartillando y cargando esa pistola",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I thought you were some ran do",
-        "translation": "pensé que eras un don nadie",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "It’s a go",
-        "translation": "está en marcha",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Splatter (verbo)",
-        "translation": "salpicar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "And wrist on subzero like freeze",
-        "translation": "y la muñeca está helada, como a temperaturas bajo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Sketchy",
-        "translation": "peligroso",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Urine trickling (acotación)",
-        "translation": "goteo de orina",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Uncouth",
-        "translation": "grosero, de mal gusto",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "The taillight's busted",
-        "translation": "la luz trasera está rota",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Trap (verbo)",
-        "translation": "fingir, hacer trampa",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Kick (something) down",
-        "translation": "derribar algo de un pisotón",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You ever boo-boo in a bag? (pregunta no literal)",
-        "translation": "¿Alguna vez te has hecho caca en una",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Just make this left up here (parcialmente no literal)",
-        "translation": "solo gira a la izquierda aquí",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Unscrew (verbo)",
-        "translation": "desenroscar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Die-drate (verbo)",
-        "translation": "morirse de sed",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Old baby face having ass (frase no literal)",
-        "translation": "un viejo con cara de niño y un trasero de lo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Unzips bag, rummages (acotación)",
-        "translation": "abre la cremallera de la bolsa, rebusca",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Slurs",
-        "translation": "palabras malsonantes, insultos",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Get (someone) hung",
-        "translation": "hacer colgar a alguien",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Passed-out",
-        "translation": "alguien desmayado",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "A passed-out, possibly roofied white child in your house",
-        "translation": "un niño blanco inconsciente,",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "The back roads",
-        "translation": "los caminos secundarios",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Get pulled over",
-        "translation": "ser detenido",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We just gonna have to speed run the fucking tour",
-        "translation": "no nos queda más remedio que",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "She was coerced",
-        "translation": "la obligaron",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Welfare check",
-        "translation": "control de bienestar",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Wipers",
-        "translation": "limpiaparabrisas",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You got the nose boo-boo (informal)",
-        "translation": "te lastimaste la nariz",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You could just not be actively mean",
-        "translation": "simplemente podrías evitar ser malicioso de",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Backtrack (verbo)",
-        "translation": "retroceder, echarse para atrás",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Wiener (en sentido no alemán y despectivo)",
-        "translation": "de pacotilla",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Dickhead (despectivo)",
-        "translation": "imbécil",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You got some kind of street smarts",
-        "translation": "tienes cierto ingenio callejero",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "It just makes you fucked-up (frase no literal)",
-        "translation": "simplemente te vuelve un desastre",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You showing nuts now (frase no literal)",
-        "translation": "ya estás demostrando que tienes agallas",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Your little culture thingies",
-        "translation": "tus cositas culturales",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Strong-ass little white girl",
-        "translation": "una chiquita blanca bien fuerte",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We just rolled into a ditch",
-        "translation": "acabamos de caer en una zanja",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We have a taillight that's out",
-        "translation": "se nos ha apagado una luz trasera",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "The taillight's out",
-        "translation": "la luz trasera no funciona",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Why are you so damn bent on making us the bad guy?",
-        "translation": "¿Por qué estás tan empeñado en",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "She's getting colder",
-        "translation": "cada vez tiene más frío",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Get the fuck from round here",
-        "translation": "largarse de aquí",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Cross over",
-        "translation": "cruzar al otro lado",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Whooping (acotación)",
-        "translation": "sonido, ruido",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Pull over",
-        "translation": "detenerse",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "The flashers",
-        "translation": "las luces intermitentes",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Sirens wailing",
-        "translation": "sonido de las sirenas",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "We're turning!",
-        "translation": "¡Estamos dando la vuelta!",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Flashers clicking",
-        "translation": "las luces intermitentes parpadean",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Busting that, bust that, busting all day",
-        "translation": "a por eso, a por eso, a por todo el día",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "You were a fucking badass tonight",
-        "translation": "esta noche te luciste de verdad",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "I tried to jam it closed",
-        "translation": "traté de cerrarlo a la fuerza",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "That big-ass envelope",
-        "translation": "ese sobre enorme",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "To move your fanny pack out the way",
-        "translation": "para quitarte la riñonera de en medio",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Poking people",
-        "translation": "molestar a la gente",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Tuck in (expresión)",
-        "translation": "come a gusto",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Getting by with nobody to floss with",
-        "translation": "arreglármelas sin nadie con quien usar el hilo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Shoulder (verbo)",
-        "translation": "asumir, hacerse cargo",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Resort (verbo)",
-        "translation": "recurrir",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    },
-    {
-        "word": "Vanity",
-        "translation": "vanidad",
-        "global_frequency": 1,
-        "source_movie": "Emergency",
-        "year_processed": 2026
-    }
+  {
+    "id": "v_7ade1b8a",
+    "word": "Sing in key (verbo)",
+    "translation": "cantar afinado",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_00e42775",
+    "word": "Be on beat (verbo)",
+    "translation": "seguir el ritmo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_53becce1",
+    "word": "I'm about what I'm about (parcialmente no literal)",
+    "translation": "soy quien soy",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f4325124",
+    "word": "I don't want to see you gone",
+    "translation": "no quiero que te vayas",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f30bb9a1",
+    "word": "Dingleberry (despectivo)",
+    "translation": "idiota",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_77347b76",
+    "word": "Dingle up your asshole, because he ain't worth shit (despectivo)",
+    "translation": "que se vaya al carajo, porque no vale nada",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cc5925ea",
+    "word": "Syllabus (en educación)",
+    "translation": "programa, temario, plan de estudios",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ba9d71a0",
+    "word": "Trigger warning",
+    "translation": "advertencia de contenido sensible",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e215c6a3",
+    "word": "Keep track",
+    "translation": "llevar un registro",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_77cd34dc",
+    "word": "That was some willy-nilly-ass shit",
+    "translation": "eso sí que fue una mierda sin sentido",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1caa0ae8",
+    "word": "Reach down in my pocket",
+    "translation": "mete la mano en mi bolsillo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_84eb5f9d",
+    "word": "Go too hard (verbo no literal)",
+    "translation": "irse a lo loco, pasarse de la raya",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4419974f",
+    "word": "Till it's due",
+    "translation": "hasta la fecha límite",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_850fb414",
+    "word": "Downplay (verbo)",
+    "translation": "restar importancia",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a5ae7db4",
+    "word": "We got to get a buzz (frase no literal)",
+    "translation": "tenemos que ponernos de buen humor",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_bc96b75f",
+    "word": "We on a schedule",
+    "translation": "tenemos un horario que cumplir",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_18ef5642",
+    "word": "Ill-advised",
+    "translation": "imprudente, mal aconsejado",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e2a06060",
+    "word": "Tag line",
+    "translation": "eslogan",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8b200582",
+    "word": "Rolling with the top down (frase no literal)",
+    "translation": "conduciendo con la capota bajada",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4eb6df11",
+    "word": "Ice luge",
+    "translation": "pista/rampa/tobogán de hielo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_eb885711",
+    "word": "Backwash",
+    "translation": "reflujo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_6c97423d",
+    "word": "To be high out your motherfucking mind (parcialmente no literal)",
+    "translation": "estar completamente fuera de tus cabales, carajo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e0daca81",
+    "word": "The fanny pack",
+    "translation": "la riñonera",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3c967bb7",
+    "word": "Scare off",
+    "translation": "ahuyentar, asustar",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_93a5ec19",
+    "word": "Let's fuck it up! (traducción aproximada)",
+    "translation": "¡A armar un lío!",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3dcbd8cc",
+    "word": "Focused on the grind",
+    "translation": "enfocado en el trabajo diario",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a7ec59fa",
+    "word": "Soles",
+    "translation": "suelas",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6a04b6e9",
+    "word": "Money ain't the only thing them boys will blow about me",
+    "translation": "el dinero no es lo único que esos chicos van a malgastar por mi culpa",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f91f1f9c",
+    "word": "Key less lock chirping (acotación)",
+    "translation": "chirrido de la cerradura sin llave",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d45f210e",
+    "word": "For break",
+    "translation": "de vacaciones",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_12a2a935",
+    "word": "She cannot be on her back",
+    "translation": "no puede estar boca arriba",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7175fccc",
+    "word": "Frat party",
+    "translation": "fiesta de la hermandad",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_00b53d08",
+    "word": "We could just let her sleep it off",
+    "translation": "podríamos simplemente dejarla que se le pase durmiendo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5cfbbebe",
+    "word": "What if she's, like, roofied?",
+    "translation": "¿Y si le han echado, digamos, una droga en la bebida?",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6a8d6a8b",
+    "word": "You nasty bitch (parcialmente no literal y despectivo)",
+    "translation": "perra asquerosa",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4b74f215",
+    "word": "I'm most assuredly gonna need",
+    "translation": "sin duda alguna voy a necesitar",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_06344831",
+    "word": "Gun got you hitting the floor (traducción aproximada)",
+    "translation": "la pistola te hizo tirarte al suelo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_01200873",
+    "word": "Fucking around with the set (traducción aproximada)",
+    "translation": "si andas haciendo tonterías con el equipo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1a66b6bd",
+    "word": "When I roll with the grip",
+    "translation": "cuando giro con el agarre",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cb611cea",
+    "word": "When I'm dumping the pump",
+    "translation": "cuando estoy vaciando la bomba",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_eabdf4d9",
+    "word": "You don't want no cons (parcialmente no literal)",
+    "translation": "no quieres ningún problema",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_eb5b0a1f",
+    "word": "I'll pop at your noggin (frase no literal)",
+    "translation": "te voy a dar un golpe en la cabeza",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a12eecea",
+    "word": "Locking and loading that pistol",
+    "translation": "amartillando y cargando esa pistola",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_603956de",
+    "word": "I thought you were some ran do",
+    "translation": "pensé que eras un don nadie",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8cbe876e",
+    "word": "You always make the biggest fucking thing out of nothing (parcialmente no literal)",
+    "translation": "siempre haces un lío enorme de la nada",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7bd8caf0",
+    "word": "It’s a go",
+    "translation": "está en marcha",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2118e205",
+    "word": "Splatter (verbo)",
+    "translation": "salpicar",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_176d3e0e",
+    "word": "And wrist on subzero like freeze",
+    "translation": "y la muñeca está helada, como a temperaturas bajo cero",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4f50e934",
+    "word": "Sketchy",
+    "translation": "peligroso",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_e34f6525",
+    "word": "Urine trickling (acotación)",
+    "translation": "goteo de orina",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_5c2c86ad",
+    "word": "Uncouth",
+    "translation": "grosero, de mal gusto",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_05c0c120",
+    "word": "The taillight's busted",
+    "translation": "la luz trasera está rota",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_99dc4e23",
+    "word": "Trap (verbo)",
+    "translation": "fingir, hacer trampa",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_2e683a1c",
+    "word": "Kick (something) down",
+    "translation": "derribar algo de un pisotón",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_aecf1401",
+    "word": "You ever boo-boo in a bag? (pregunta no literal)",
+    "translation": "¿Alguna vez te has hecho caca en una bolsa?",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_82908b52",
+    "word": "Just make this left up here (parcialmente no literal)",
+    "translation": "solo gira a la izquierda aquí arriba",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8b2783a2",
+    "word": "Unscrew (verbo)",
+    "translation": "desenroscar",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ff39b84a",
+    "word": "Die-drate (verbo)",
+    "translation": "morirse de sed",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ec0d9647",
+    "word": "Old baby face having ass (frase no literal)",
+    "translation": "un viejo con cara de niño y un trasero de lo más bonito",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e1a1b1fe",
+    "word": "Unzips bag, rummages (acotación)",
+    "translation": "abre la cremallera de la bolsa, rebusca",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_540b507c",
+    "word": "Slurs",
+    "translation": "palabras malsonantes, insultos",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a8649ffe",
+    "word": "Get (someone) hung",
+    "translation": "hacer colgar a alguien",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_53a7a2a0",
+    "word": "Passed-out",
+    "translation": "alguien desmayado",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f139702b",
+    "word": "A passed-out, possibly roofied white child in your house",
+    "translation": "un niño blanco inconsciente, posiblemente drogado con roofie",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b9a87e1f",
+    "word": "The back roads",
+    "translation": "los caminos secundarios",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_86141275",
+    "word": "Get pulled over",
+    "translation": "ser detenido",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d51dc640",
+    "word": "We just gonna have to speed run the fucking tour",
+    "translation": "no nos queda más remedio que hacernos la maldita gira a toda prisa",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6544c8d2",
+    "word": "She was coerced",
+    "translation": "la obligaron",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2e39d3ef",
+    "word": "Welfare check",
+    "translation": "control de bienestar",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_201ce51a",
+    "word": "Wipers",
+    "translation": "limpiaparabrisas",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_73ff42d9",
+    "word": "You got the nose boo-boo (informal)",
+    "translation": "te lastimaste la nariz",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d9dfe3c0",
+    "word": "You could just not be actively mean",
+    "translation": "simplemente podrías evitar ser malicioso de manera activa",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8b6c912a",
+    "word": "Backtrack (verbo)",
+    "translation": "retroceder, echarse para atrás",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_641034b8",
+    "word": "Wiener (en sentido no alemán y despectivo)",
+    "translation": "de pacotilla",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_452670ed",
+    "word": "Dickhead (despectivo)",
+    "translation": "imbécil",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_828a257b",
+    "word": "You got some kind of street smarts",
+    "translation": "tienes cierto ingenio callejero",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_62030f73",
+    "word": "It just makes you fucked-up (frase no literal)",
+    "translation": "simplemente te vuelve un desastre",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_90899ee7",
+    "word": "You showing nuts now (frase no literal)",
+    "translation": "ya estás demostrando que tienes agallas",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fba64850",
+    "word": "Your little culture thingies",
+    "translation": "tus cositas culturales",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e724d4b4",
+    "word": "Strong-ass little white girl",
+    "translation": "una chiquita blanca bien fuerte",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8f622e18",
+    "word": "We just rolled into a ditch",
+    "translation": "acabamos de caer en una zanja",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b69e96fb",
+    "word": "We have a taillight that's out",
+    "translation": "se nos ha apagado una luz trasera",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_81a01b60",
+    "word": "The taillight's out",
+    "translation": "la luz trasera no funciona",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9ae3767d",
+    "word": "Why are you so damn bent on making us the bad guy?",
+    "translation": "¿Por qué estás tan empeñado en hacernos quedar como los malos?",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_84060221",
+    "word": "She's getting colder",
+    "translation": "cada vez tiene más frío",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b9de9d3b",
+    "word": "Get the fuck from round here",
+    "translation": "largarse de aquí",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b7ca7058",
+    "word": "Cross over",
+    "translation": "cruzar al otro lado",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fd79aa4d",
+    "word": "Whooping (acotación)",
+    "translation": "sonido, ruido",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_55e02594",
+    "word": "Pull over",
+    "translation": "detenerse",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_73a137c4",
+    "word": "The flashers",
+    "translation": "las luces intermitentes",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_308a47c5",
+    "word": "Sirens wailing",
+    "translation": "sonido de las sirenas",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_709bd61b",
+    "word": "We're turning!",
+    "translation": "¡Estamos dando la vuelta!",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_90de4c16",
+    "word": "Flashers clicking",
+    "translation": "las luces intermitentes parpadean",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fa62fa36",
+    "word": "Busting that, bust that, busting all day",
+    "translation": "a por eso, a por eso, a por todo el día",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f8769c2a",
+    "word": "You were a fucking badass tonight",
+    "translation": "esta noche te luciste de verdad",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_00b2026c",
+    "word": "I tried to jam it closed",
+    "translation": "traté de cerrarlo a la fuerza",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d4ed9bef",
+    "word": "That big-ass envelope",
+    "translation": "ese sobre enorme",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_00037468",
+    "word": "To move your fanny pack out the way",
+    "translation": "para quitarte la riñonera de en medio",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5679a96a",
+    "word": "Poking people",
+    "translation": "molestar a la gente",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_eda170f3",
+    "word": "Tuck in (expresión)",
+    "translation": "come a gusto",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_84f6bc42",
+    "word": "Getting by with nobody to floss with",
+    "translation": "arreglármelas sin nadie con quien usar el hilo dental",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_07867e55",
+    "word": "Shoulder (verbo)",
+    "translation": "asumir, hacerse cargo",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_256aa78c",
+    "word": "Resort (verbo)",
+    "translation": "recurrir",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_b8c8413c",
+    "word": "Vanity",
+    "translation": "vanidad",
+    "source_movie": "Emergency",
+    "year_processed": "2026",
+    "global_frequency": 1
+  }
 ]

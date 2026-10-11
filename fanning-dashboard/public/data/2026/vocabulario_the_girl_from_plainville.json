@@ -1,22 +1,14 @@
 [
   {
-    "id": "v_marker_Episode_1",
-    "word": "The Girl From Plainville (Episode 1)",
-    "translation": "No registrada",
-    "source_movie": "The Girl From Plainville (Episode 1)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b6b9f7d9",
+    "id": "v_720d82ed",
     "word": "Any reason he'd up and disappear?",
-    "translation": "¿Alguna razón para que se levantara y",
+    "translation": "¿Alguna razón para que se levantara y desapareciera?",
     "source_movie": "The Girl From Plainville (Episode 1)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d709b08e",
+    "id": "v_567d69ff",
     "word": "Pot (alusivo a la sustancia)",
     "translation": "maría, hierba, marihuana",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -24,15 +16,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8bc02ae8",
+    "id": "v_1de3c366",
     "word": "Dispatch (verbo)",
     "translation": "despachar",
     "source_movie": "The Girl From Plainville (Episode 1)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_39ad60fc",
+    "id": "v_2f367904",
     "word": "Total all-around drubbing",
     "translation": "una paliza total",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -40,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a5cab202",
+    "id": "v_00187c8b",
     "word": "Sox are still gonna end up dead last",
     "translation": "los Sox van a acabar últimos",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -48,7 +40,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c3697993",
+    "id": "v_3ddac5d7",
     "word": "Pass code",
     "translation": "código de acceso",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -56,7 +48,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5727ce79",
+    "id": "v_34225b21",
     "word": "Beat cop",
     "translation": "poli de barrio, poli de servicio",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -64,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1d819a7b",
+    "id": "v_b18f4dee",
     "word": "He swiped a water pump",
     "translation": "él robó una bomba de agua",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -72,7 +64,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_09da1143",
+    "id": "v_6dac025a",
+    "word": "Then from there on out, it's just inbound from her",
+    "translation": "a partir de ahí, sólo entra ella",
+    "source_movie": "The Girl From Plainville (Episode 1)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d6759aea",
     "word": "I'm smushing texts together",
     "translation": "estoy juntando textos",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9ecf05a5",
+    "id": "v_d52fbc85",
     "word": "She's hurting",
     "translation": "está dolida, está sufriendo, está herida",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -88,7 +88,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_0de9ddce",
+    "id": "v_3fd7055c",
     "word": "I'm gonna take off (frase no literal)",
     "translation": "me voy a ir",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -96,15 +96,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_baf0afb3",
+    "id": "v_e5eb260c",
     "word": "I didn't want the cops to fucking pocket it",
-    "translation": "no quería que la puta policía se lo",
+    "translation": "no quería que la puta policía se lo embolsara",
     "source_movie": "The Girl From Plainville (Episode 1)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b6d99b2f",
+    "id": "v_e81a5131",
+    "word": "Shrink (sustantivo alusivo a un especialista)",
+    "translation": "psiquiatra",
+    "source_movie": "The Girl From Plainville (Episode 1)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b97c91f2",
     "word": "Didn't your boyfriend just off himself?",
     "translation": "¿Tu novio no acaba de suicidarse?",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -112,7 +120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_68c730f3",
+    "id": "v_58612b50",
     "word": "You’re up (en sentido de estar informado)",
     "translation": "estás al dia",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -120,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_90f9b1ef",
+    "id": "v_37c15600",
     "word": "To raise awareness",
     "translation": "para concienciar/sensibilizar",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -128,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e6f188f1",
+    "id": "v_6ec40cc4",
     "word": "Matching shirts",
     "translation": "camisetas a juego",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -136,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d45248f9",
+    "id": "v_5a6c0986",
     "word": "How you holding up?",
     "translation": "¿Cómo lo llevas?",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -144,7 +152,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f3371a54",
+    "id": "v_b31a84ba",
     "word": "Tugboats",
     "translation": "remolcadores",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -152,7 +160,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_1aad0f88",
+    "id": "v_c5ef082c",
     "word": "Star-crossed lovers",
     "translation": "amantes cruzados",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -160,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bc055e77",
+    "id": "v_57b9a084",
     "word": "The sulking",
     "translation": "los enfurruñamientos",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -168,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_06b765cf",
+    "id": "v_44d66d8f",
     "word": "I'm grieving",
     "translation": "estoy de luto, estoy afligida",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -176,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_46abdcef",
+    "id": "v_3df1662b",
     "word": "Bust up the game",
     "translation": "interrumpir el juego",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -184,15 +192,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_59b181c3",
+    "id": "v_60908c86",
     "word": "Fathom (verbo)",
     "translation": "entender, comprender",
+    "source_movie": "The Girl From Plainville (Episode 1)",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_6acb2406",
+    "word": "This amazing drawn-out, thought-out superhero",
+    "translation": "este asombroso superhéroe",
     "source_movie": "The Girl From Plainville (Episode 1)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_aedd3813",
+    "id": "v_d760d651",
     "word": "Evening shadows",
     "translation": "sombras del atardecer",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -200,7 +216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_751e1ad1",
+    "id": "v_cb8ccc7a",
     "word": "The storms are raging on the rolling sea",
     "translation": "las tormentas arrecian en el mar ondulante",
     "source_movie": "The Girl From Plainville (Episode 1)",
@@ -208,47 +224,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7876182f",
+    "id": "v_8ba637c2",
     "word": "Gush (verbo)",
     "translation": "hablar maravillas, halagar",
-    "source_movie": "The Girl From Plainville (Episode 1)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_172d9743",
-    "word": "Your tugboat towed Sully in off the Hudson",
-    "translation": "su remolcador remolcó a Sully fuera del",
-    "source_movie": "The Girl From Plainville (Episode 1)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_28a32fb4",
-    "word": "Take in (en algunos contextos)",
-    "translation": "asimilar, absorber",
-    "source_movie": "The Girl From Plainville (Episode 1)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_a8438e50",
-    "word": "Place up, make your face up",
-    "translation": "colócate arriba, pon tu cara arriba",
-    "source_movie": "The Girl From Plainville (Episode 1)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_marker_Episode_2",
-    "word": "The Girl From Plainville (Episode 2)",
-    "translation": "No registrada",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ec4790aa",
+    "id": "v_5ba06470",
+    "word": "Your tugboat towed Sully in off the Hudson",
+    "translation": "su remolcador remolcó a Sully fuera del Hudson",
+    "source_movie": "The Girl From Plainville (Episode 2)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d62f6cec",
+    "word": "Take in (en algunos contextos)",
+    "translation": "asimilar, absorber",
+    "source_movie": "The Girl From Plainville (Episode 2)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c745a8c2",
+    "word": "Place up, make your face up",
+    "translation": "colócate arriba, pon tu cara arriba",
+    "source_movie": "The Girl From Plainville (Episode 2)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4982695c",
     "word": "Line trilling (acotación)",
     "translation": "línea de trino",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -256,7 +264,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_de8d222d",
+    "id": "v_e2aa0a49",
     "word": "I'm gonna go wrangle the gear",
     "translation": "voy a ir a buscar el equipo",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -264,7 +272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3bf03c85",
+    "id": "v_5299f669",
     "word": "Warrant (en términos legales)",
     "translation": "orden judicial, orden de registro",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -272,31 +280,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_258e67fa",
+    "id": "v_16f3810a",
     "word": "Push off",
     "translation": "posponer, aplazar",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_f36d39dc",
+    "id": "v_c8fe9c3f",
     "word": "Cover-up",
     "translation": "tapadera, encubrimiento",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_a3afe7b1",
+    "id": "v_aef91272",
     "word": "Drift (verbo)",
     "translation": "ir a la deriva",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_260820d0",
+    "id": "v_c5ae1053",
     "word": "Make out (en situaciones no amorosas)",
     "translation": "hacer",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -304,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ccd44303",
+    "id": "v_de65352f",
     "word": "Stoop so low",
     "translation": "caer tan bajo",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -312,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4dc52dc5",
+    "id": "v_9aa92e8e",
     "word": "You screwed me over",
     "translation": "me jodiste",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -320,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_190cbb21",
+    "id": "v_7721f234",
     "word": "How you holding up?",
     "translation": "¿Cómo lo llevas?",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -328,7 +336,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_517bebb3",
+    "id": "v_9e912e0d",
     "word": "Tie up some loose ends",
     "translation": "atar algunos cabos sueltos",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -336,7 +344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_01008ef8",
+    "id": "v_1d396d52",
     "word": "Strife",
     "translation": "conflicto, disputa",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -344,15 +352,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_13983869",
+    "id": "v_565a512e",
     "word": "Snoop (verbo)",
     "translation": "husmear, fisgonear",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_b70d563b",
+    "id": "v_6fb8bc7f",
     "word": "Keep it down (frase no literal)",
     "translation": "no hagas ruido",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -360,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7230ab74",
+    "id": "v_81ccd016",
     "word": "Handout",
     "translation": "limosna",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -368,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fbabdad3",
+    "id": "v_293e6620",
     "word": "Awareness (sustantivo)",
     "translation": "concienciación, sensibilización",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -376,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f08085b",
+    "id": "v_e8974911",
     "word": "You've got some nerve (frase no literal)",
     "translation": "tienes valor",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -384,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_03c9638b",
+    "id": "v_e4f44a54",
     "word": "Heathen",
     "translation": "pagano",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -392,7 +400,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_d42b2883",
+    "id": "v_5dff9322",
     "word": "To make it up there",
     "translation": "para llegar hasta ahí",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -400,7 +408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c658f051",
+    "id": "v_519a0b45",
     "word": "Get in line (expresión)",
     "translation": "pónte en la fila",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -408,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b2df722a",
+    "id": "v_b5d270ee",
     "word": "Tugboats",
     "translation": "remolcadores",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -416,7 +424,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_87ad383b",
+    "id": "v_0e9f77a8",
     "word": "Make it right (no literal)",
     "translation": "hacer las paces",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -424,7 +432,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_afd522d2",
+    "id": "v_e3ebd6e7",
     "word": "Scatter cheers (acotación)",
     "translation": "aplausos/vitores dispersos",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -432,7 +440,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e699a79c",
+    "id": "v_c1877ff0",
     "word": "A staging company",
     "translation": "una empresa de puesta en escena",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -440,7 +448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ee22a964",
+    "id": "v_9b1da923",
     "word": "Homeownership",
     "translation": "ser propietario de una vivienda",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -448,23 +456,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e2303996",
+    "id": "v_bb103ae4",
     "word": "Grieving",
-    "translation": "duelo, luto",
+    "translation": "duelo, luto She’s hopeful, ella tiene esperanzas",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_db4f4eb2",
+    "id": "v_5e117938",
     "word": "Run in",
     "translation": "entrar corriendo",
     "source_movie": "The Girl From Plainville (Episode 2)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_324d671e",
+    "id": "v_dc00e0e5",
     "word": "Motor puttering (acotación)",
     "translation": "motor en marcha",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -472,7 +480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5829e037",
+    "id": "v_537fca3c",
     "word": "Quavering (acotación)",
     "translation": "tembloroso",
     "source_movie": "The Girl From Plainville (Episode 2)",
@@ -480,23 +488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_marker_Episode_3",
-    "word": "The Girl From Plainville (Episode 3)",
-    "translation": "No registrada",
+    "id": "v_55e21ef7",
+    "word": "Warrant",
+    "translation": "orden judicial",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c9177fad",
-    "word": "Warrant",
-    "translation": "orden judicial",
-    "source_movie": "The Girl From Plainville (Episode 3)",
-    "year_processed": "2026",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_96744c1c",
+    "id": "v_3eb16632",
     "word": "A cover-up",
     "translation": "un encubrimiento",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -504,7 +504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e16fee7",
+    "id": "v_529d0954",
     "word": "Fill her in (no literal)",
     "translation": "póngala al corriente",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -512,15 +512,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ddd7e223",
+    "id": "v_a954ed87",
+    "word": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+    "translation": "inhibidores selectivos de la recaptación de serotonina",
+    "source_movie": "The Girl From Plainville (Episode 3)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5d315c79",
     "word": "Fool around",
     "translation": "tontear",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 7
+    "global_frequency": 6
   },
   {
-    "id": "v_c3735070",
+    "id": "v_7d4e9d17",
+    "word": "Did you go down on him? (pregunta no literal)",
+    "translation": "¿Le hiciste sexo oral?, ¿Le hiciste una mamada?",
+    "source_movie": "The Girl From Plainville (Episode 3)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_af8d5a13",
     "word": "Third-degree (verbo no literal)",
     "translation": "interrogar (a alguien)",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -528,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ae03b076",
+    "id": "v_879af04d",
     "word": "Take a loop",
     "translation": "dar una vuelta",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -536,7 +552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8ea6e452",
+    "id": "v_3c8b5b7f",
     "word": "Clique",
     "translation": "grupo",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -544,7 +560,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c56f4e39",
+    "id": "v_26fd5f2b",
     "word": "Tearing each other's hair out",
     "translation": "tirándonos del pelo unos a otros",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -552,7 +568,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d03d501",
+    "id": "v_3bed98af",
+    "word": "Never have I ever taken you for a one-night stand girl",
+    "translation": "nunca te he considerado una chica de una sola noche",
+    "source_movie": "The Girl From Plainville (Episode 3)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_77900841",
     "word": "Heave away (expresión)",
     "translation": "arriba",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -560,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c1d880f9",
+    "id": "v_658dee08",
     "word": "Codfish bones",
     "translation": "huesos de albacora",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -568,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_354cfaef",
+    "id": "v_5c5df0c9",
     "word": "Bound away",
     "translation": "ir corriendo",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -576,7 +600,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9eb2703a",
+    "id": "v_c5b8e2ca",
     "word": "Our Conrad's bound for high school",
     "translation": "nuestro Conrad va a ir al instituto",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -584,7 +608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ae86ee7f",
+    "id": "v_8ace29eb",
     "word": "You're still on the clock (frase no literal)",
     "translation": "todavía están trabajando",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -592,15 +616,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a7f33395",
+    "id": "v_1c4938ee",
     "word": "Wives",
     "translation": "esposas, mujeres",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_1306c3ac",
+    "id": "v_efc4821d",
     "word": "Look at the slack here",
     "translation": "mira la holgura que hay aquí",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -608,7 +632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d01d0141",
+    "id": "v_a7fa1c7d",
     "word": "Coil it up",
     "translation": "enróllalo",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -616,15 +640,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8fc2e618",
+    "id": "v_50301fe5",
     "word": "Wallow (verbo)",
     "translation": "revolcarse",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_95bb98f6",
+    "id": "v_12d15613",
     "word": "Dope (sustantivo)",
     "translation": "droga",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -632,7 +656,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e641db3f",
+    "id": "v_468f103a",
+    "word": "Maybe even right up until pretty close (no literal)",
+    "translation": "quizás incluso hasta muy cerca",
+    "source_movie": "The Girl From Plainville (Episode 3)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0cdd8b63",
     "word": "Police cruiser",
     "translation": "patrullero de policía, vehículo policial",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -640,7 +672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c4618a8e",
+    "id": "v_400df9ca",
     "word": "You're such a dork",
     "translation": "eres tan idiota",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -648,15 +680,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a9aed1c1",
+    "id": "v_f47bfd30",
     "word": "Put off",
     "translation": "aplazar, posponer",
+    "source_movie": "The Girl From Plainville (Episode 3)",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_418358c9",
+    "word": "Dick (adjetivo despectivo no alusivo al aparato reproductor masculino)",
+    "translation": "idiota",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_4180db81",
+    "id": "v_40b3fa00",
     "word": "Said Gucci go yard on the shades",
     "translation": "dijo Gucci, ve a por todas con las gafas de sol",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -664,7 +704,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_78d512a4",
+    "id": "v_dbd1f0bd",
     "word": "Put on the brakes",
     "translation": "pisar los frenos",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -672,7 +712,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1ed5c8e",
+    "id": "v_7f4d2c54",
     "word": "Airbrushed nails",
     "translation": "uñas pintadas con aerógrafo",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -680,7 +720,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f5802af4",
+    "id": "v_e48dde7b",
     "word": "He's walking kind of funny (no literal)",
     "translation": "camina de forma un poco rara",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -688,7 +728,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_26919d92",
+    "id": "v_62ebea49",
     "word": "Chimney sweep",
     "translation": "deshollinador",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -696,15 +736,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0418b9f4",
+    "id": "v_3aae8f43",
     "word": "Checklist",
     "translation": "lista de verificación",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_da3444c4",
+    "id": "v_2c46d89e",
     "word": "It would be precedent-setting",
     "translation": "sentaría un precedente",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -712,7 +752,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91811df8",
+    "id": "v_91d084e5",
     "word": "Rung (sustantivo)",
     "translation": "peldaño",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -720,15 +760,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7de74ff",
+    "id": "v_01f3f63a",
     "word": "Stand on",
     "translation": "sostenerse por sí mismo",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_18ccb486",
+    "id": "v_ec82e44e",
     "word": "Be snatched up",
     "translation": "ser arrebatado",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -736,7 +776,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e55b978",
+    "id": "v_da8e46c0",
     "word": "Figure skating",
     "translation": "patinaje artístico",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -744,7 +784,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b303cdb1",
+    "id": "v_91a2fb0f",
     "word": "It bounces off the wall",
     "translation": "rebota en la pared",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -752,7 +792,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_85f7442a",
+    "id": "v_75fb039c",
     "word": "Get around the fact",
     "translation": "eludir el hecho de que",
     "source_movie": "The Girl From Plainville (Episode 3)",
@@ -760,55 +800,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3be852d1",
+    "id": "v_0dbac354",
     "word": "District Attorney (DA)",
     "translation": "Fiscalía General",
     "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_marker_Episode_4",
-    "word": "The Girl From Plainville (Episode 4)",
-    "translation": "No registrada",
-    "source_movie": "The Girl From Plainville (Episode 4)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_7a653cb7",
+    "id": "v_4f03b4e8",
     "word": "Snap (verbo en ciertos contextos)",
     "translation": "disparar",
-    "source_movie": "The Girl From Plainville (Episode 4)",
+    "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_83938f0f",
+    "id": "v_748807fd",
     "word": "She's masterminding (no literal)",
     "translation": "ella está tramando algo",
-    "source_movie": "The Girl From Plainville (Episode 4)",
+    "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_fe155e09",
+    "id": "v_7a002d9c",
     "word": "Waive (verbo)",
     "translation": "renunciar (a un derecho)",
-    "source_movie": "The Girl From Plainville (Episode 4)",
+    "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_22d575ad",
+    "id": "v_2b371d39",
     "word": "Wanton",
     "translation": "desenfrenado",
-    "source_movie": "The Girl From Plainville (Episode 4)",
+    "source_movie": "The Girl From Plainville (Episode 3)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_73f7f9ed",
+    "id": "v_f72d5908",
     "word": "Commit (verbo en salud)",
     "translation": "internar",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -816,7 +848,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b9ea1bd",
+    "id": "v_16a79146",
     "word": "Stemming from",
     "translation": "derivado de, como consecuencia de",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -824,7 +856,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_410a5e02",
+    "id": "v_57103a73",
     "word": "Homelife",
     "translation": "vida familiar",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -832,39 +864,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_68a708b2",
+    "id": "v_372f1b19",
     "word": "Piece together",
     "translation": "reconstruir",
-    "source_movie": "The Girl From Plainville (Episode 4)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_18ca851e",
-    "word": "District Attorney (DA)",
-    "translation": "Fiscalía General",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_0734d62c",
+    "id": "v_598f3d16",
+    "word": "District Attorney (DA)",
+    "translation": "Fiscalía General",
+    "source_movie": "The Girl From Plainville (Episode 4)",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_e9249035",
+    "word": "What I see here is fairly open-and-shut (frase no literal)",
+    "translation": "lo que veo aquí es bastante claro",
+    "source_movie": "The Girl From Plainville (Episode 4)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ebb6fe68",
     "word": "Any longer",
     "translation": "ya no más",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_a2d52ced",
+    "id": "v_5b0f7439",
     "word": "My roommate trimmed his toenails",
-    "translation": "mi compañero de cuarto se cortó las uñas de los",
+    "translation": "mi compañero de cuarto se cortó las uñas de los dedos de los pies",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_8620bbab",
+    "id": "v_2cf61e4c",
     "word": "Engine turning over (acotación)",
     "translation": "motor en marcha",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -872,15 +912,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c582445f",
+    "id": "v_9f236e82",
     "word": "Would you please not be weird around me too?",
-    "translation": "¿Podrías no comportarte de forma",
+    "translation": "¿Podrías no comportarte de forma extraña conmigo también?",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d47ee70d",
+    "id": "v_b7bf9257",
     "word": "We gone get it (informal)",
     "translation": "lo vamos a conseguir, lo conseguiremos",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -888,7 +928,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_96ddaa99",
+    "id": "v_138f1915",
     "word": "It's begging to be blown up",
     "translation": "está pidiendo a gritos que lo hagan explotar",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -896,7 +936,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_481ea28b",
+    "id": "v_32d24153",
+    "word": "Attention-grabbing texts are a long way away from manslaughter",
+    "translation": "los textos llamativos están muy lejos de ser homicidio involuntario",
+    "source_movie": "The Girl From Plainville (Episode 4)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_df6580de",
     "word": "I'm gonna tear through this in one inning",
     "translation": "voy a acabar con esto en una sola entrada",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -904,7 +952,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4088b247",
+    "id": "v_c810d20b",
     "word": "Clout",
     "translation": "influencia",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -912,7 +960,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7292d5d3",
+    "id": "v_9428979c",
     "word": "Capful",
     "translation": "tapita",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -920,7 +968,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8daa9632",
+    "id": "v_c8a677e4",
     "word": "Potpourri",
     "translation": "popurrí",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -928,7 +976,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_87072bda",
+    "id": "v_b30721c2",
     "word": "There's no getting tripped up",
     "translation": "no hay forma de tropezar",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -936,7 +984,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0568c0e6",
+    "id": "v_4c0eb5ed",
     "word": "No one gets caught up on (frase no literal)",
     "translation": "nadie se queda atrás",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -944,7 +992,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3166c555",
+    "id": "v_fdfc43fb",
     "word": "She's masterminding",
     "translation": "ella está tramando algo",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -952,7 +1000,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cbb1ab1b",
+    "id": "v_93dcf049",
     "word": "Prosecution",
     "translation": "acusación",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -960,7 +1008,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_159a4c1f",
+    "id": "v_15c0b40c",
     "word": "Whirlwind",
     "translation": "torbellino",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -968,7 +1016,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_309b1873",
+    "id": "v_45214494",
     "word": "He gets me (no literal)",
     "translation": "él me entiende",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -976,15 +1024,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_92817848",
+    "id": "v_e9fe421d",
     "word": "Go through",
     "translation": "pasar por",
+    "source_movie": "The Girl From Plainville (Episode 4)",
+    "year_processed": "2026",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_126adca0",
+    "word": "You just need to get over me (frase no literal)",
+    "translation": "sólo tienes que olvidarme",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_cd2b65ba",
+    "id": "v_fd8f3484",
     "word": "Homicide by counseling",
     "translation": "homicidio por incitación",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -992,7 +1048,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0c995b3b",
+    "id": "v_c2ec5dc1",
     "word": "I pulled some cases",
     "translation": "saqupe algunos casos",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -1000,7 +1056,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c028dd79",
+    "id": "v_a2e072f9",
+    "word": "Guy gets his girlfriend to shoot herself yet never even touches the gun",
+    "translation": "el chico consigue que su novia se pegue un tiro, pero ni siquiera toca el arma",
+    "source_movie": "The Girl From Plainville (Episode 4)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_dc764c01",
     "word": "I'm not gonna bullshit you",
     "translation": "no te voy a engañar",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -1008,15 +1072,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9151b5f3",
+    "id": "v_a0fe4150",
     "word": "Probation",
     "translation": "libertad condicional",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_f2d89214",
+    "id": "v_b469d6ed",
     "word": "I'm dead serious (frase no literal)",
     "translation": "lo digo muy en serio",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -1024,15 +1088,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e798d291",
+    "id": "v_bc8140c6",
     "word": "We'll find friends that get us too",
-    "translation": "encontraremos amigos que realmente también nos",
+    "translation": "encontraremos amigos que realmente también nos entiendan",
     "source_movie": "The Girl From Plainville (Episode 4)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_6e04f132",
+    "id": "v_961071c3",
     "word": "Until we're raisins",
     "translation": "hasta que seamos pasas",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -1040,7 +1104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3b33834f",
+    "id": "v_97982ad4",
     "word": "Seer",
     "translation": "vidente",
     "source_movie": "The Girl From Plainville (Episode 4)",
@@ -1048,15 +1112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_marker_Episode_5",
-    "word": "The Girl From Plainville (Episode 5)",
-    "translation": "No registrada",
-    "source_movie": "The Girl From Plainville (Episode 5)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_398287ae",
+    "id": "v_a73db4bd",
     "word": "Get the case dismissed",
     "translation": "desestimar el caso",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1064,15 +1120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b396f33",
+    "id": "v_7691fa18",
     "word": "They've got too much evidence for dismissal",
-    "translation": "tienen demasiadas pruebas como para",
+    "translation": "tienen demasiadas pruebas como para desestimarlo",
     "source_movie": "The Girl From Plainville (Episode 5)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ebf1145b",
+    "id": "v_3eadb9d0",
     "word": "She sounds heartbroken to me",
     "translation": "a mí me parece que está desconsolada",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1080,7 +1136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a2742077",
+    "id": "v_55db6071",
     "word": "Piece (verbo)",
     "translation": "reconstruir (un caso policial)",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1088,15 +1144,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2962e480",
+    "id": "v_37df0284",
     "word": "Reach out",
     "translation": "acercarse (a una persona)",
     "source_movie": "The Girl From Plainville (Episode 5)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_7aeb769a",
+    "id": "v_e8d4cd6a",
     "word": "Falling out (sustantivo)",
     "translation": "desencuentro",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1104,7 +1160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_31b959d2",
+    "id": "v_316cfd11",
     "word": "Get over here, hotshot",
     "translation": "ven aquí, listillo",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1112,7 +1168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2ad3eb29",
+    "id": "v_dabec029",
     "word": "Binge (verbo)",
     "translation": "comer compulsivamente",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1120,7 +1176,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_7a9976a0",
+    "id": "v_c692a5ce",
     "word": "You drove down from there",
     "translation": "condujiste desde ahí",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1128,7 +1184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0bf53b75",
+    "id": "v_f526fd3d",
     "word": "Elevated liver transaminases",
     "translation": "transaminasas hepáticas elevadas",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1136,7 +1192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c69f1c18",
+    "id": "v_e69621c7",
     "word": "At patients' nadir weights",
     "translation": "en el peso mínimo de los pacientes",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1144,7 +1200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fdb90459",
+    "id": "v_2a58d4a7",
     "word": "Hepatocyte death",
     "translation": "muerte de hepatocitos",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1152,7 +1208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2ca2ef6f",
+    "id": "v_f6cecbff",
     "word": "Acquittals",
     "translation": "absoluciones",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1160,7 +1216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f940383d",
+    "id": "v_27e523b2",
     "word": "Engine turns over (acotación)",
     "translation": "el motor arranca",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1168,7 +1224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3bb7a015",
+    "id": "v_218552e8",
     "word": "Feet pounding on treadmill (acotación)",
     "translation": "pies golpeando la cinta de correr",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1176,7 +1232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0cfbc72e",
+    "id": "v_2c96f38b",
     "word": "Line trilling (acotación)",
     "translation": "trinado de línea",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1184,7 +1240,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f81e0d19",
+    "id": "v_ed4e06bc",
     "word": "Stoned (en sentido de estado de vigilia)",
     "translation": "drogado, colocado",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1192,7 +1248,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_82e447f7",
+    "id": "v_692e68ca",
     "word": "Prior to",
     "translation": "antes de",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1200,15 +1256,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e2c73eed",
+    "id": "v_65aeb3c2",
     "word": "Household",
     "translation": "hogar",
     "source_movie": "The Girl From Plainville (Episode 5)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_19f5b2e0",
+    "id": "v_223a843b",
     "word": "The hearsay rule",
     "translation": "la regla del rumor",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1216,7 +1272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_112e7280",
+    "id": "v_f7e69318",
     "word": "That's my ruling",
     "translation": "esa es mi decisión",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1224,7 +1280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_83f804d1",
+    "id": "v_fbfba23a",
     "word": "Call it even? (pregunta no literal)",
     "translation": "¿Quedamos en paz?",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1232,7 +1288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ea7cd8c0",
+    "id": "v_74120674",
     "word": "Batter up!",
     "translation": "¡A batear!",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1240,7 +1296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_10e12f2b",
+    "id": "v_80174291",
     "word": "Carter seems woefully unprepared",
     "translation": "Carter parece lamentablemente desprevenida",
     "source_movie": "The Girl From Plainville (Episode 5)",
@@ -1248,23 +1304,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_marker_Episode_6",
-    "word": "The Girl From Plainville (Episode 6)",
-    "translation": "No registrada",
-    "source_movie": "The Girl From Plainville (Episode 6)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_4ec7c6d8",
+    "id": "v_6cdfec26",
     "word": "Can Carter make it a homer? (en softball)",
     "translation": "¿Podrá Carter convertirlo en un jonrón?",
+    "source_movie": "The Girl From Plainville (Episode 5)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0295a5a7",
+    "word": "Treadmill (referente a la máquina de hacer ejercicio)",
+    "translation": "cinta para correr",
+    "source_movie": "The Girl From Plainville (Episode 5)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ca129937",
+    "word": "Is there any business either counsel would like to handle?",
+    "translation": "¿Hay algún asunto que alguno de los abogados desee tratar?",
     "source_movie": "The Girl From Plainville (Episode 6)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c69fdd83",
+    "id": "v_17806b7b",
     "word": "A bench trial",
     "translation": "un juicio sin jurado",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1272,7 +1336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2577e092",
+    "id": "v_298de1b7",
     "word": "Stand approach (verbo)",
     "translation": "acercarse",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1280,7 +1344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d20f4805",
+    "id": "v_6c6b4144",
     "word": "A jury of your own peers",
     "translation": "un jurado compuesto por tus propios compañeros",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1288,7 +1352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b3e6eb44",
+    "id": "v_a6f51a30",
     "word": "Forgo (verbo)",
     "translation": "renunciar",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1296,7 +1360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_02b2cd2b",
+    "id": "v_75f97c45",
     "word": "You may step down",
     "translation": "puedes retirarte",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1304,7 +1368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_abae1a9c",
+    "id": "v_b4c6a266",
     "word": "Outstanding business (no literal)",
     "translation": "asunto pendiente",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1312,7 +1376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d4f2f050",
+    "id": "v_a05707cb",
     "word": "Reconvene (verbo)",
     "translation": "volver a reunirse",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1320,7 +1384,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1dc8dc6d",
+    "id": "v_556bf8ee",
     "word": "Binge (verbo)",
     "translation": "comer compulsivamente",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1328,7 +1392,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1a06bfe5",
+    "id": "v_8aee38db",
     "word": "No purging, no diet pills",
     "translation": "sin purgas, sin pastillas para adelgazar",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1336,7 +1400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1360b24",
+    "id": "v_bb78a2de",
     "word": "Cutlery (en cocina)",
     "translation": "cubiertos",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1344,7 +1408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_22671872",
+    "id": "v_b4a453b6",
+    "word": "Michelle Carter badgered and berated her depressed boyfriend",
+    "translation": "Michelle Carter acosó y reprendió a su novio deprimido",
+    "source_movie": "The Girl From Plainville (Episode 6)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_16f4fbff",
     "word": "Wanton and reckless",
     "translation": "imprudente y temerario",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1352,7 +1424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_244ec509",
+    "id": "v_3dbb25ed",
     "word": "I was gonna hold off",
     "translation": "iba a esperar",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1360,7 +1432,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0084b9e0",
+    "id": "v_50ebec2e",
+    "word": "I didn't want to make a big deal of it (frase no literal)",
+    "translation": "no quería darle mucha importancia",
+    "source_movie": "The Girl From Plainville (Episode 6)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4cd7ad59",
     "word": "Device whining (acotación)",
     "translation": "ruido del dispositivo",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1368,15 +1448,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6adece47",
+    "id": "v_595824b4",
     "word": "Demeanor",
     "translation": "comportamiento, actitud",
     "source_movie": "The Girl From Plainville (Episode 6)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_74714089",
+    "id": "v_4eca1c28",
     "word": "A padded room",
     "translation": "una habitación acolchada",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1384,7 +1464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3bd7f684",
+    "id": "v_0a174050",
     "word": "Another dopey, brief fling",
     "translation": "otra aventura tonta y breve",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1392,7 +1472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bacd9849",
+    "id": "v_ddc1b0d7",
     "word": "Redness",
     "translation": "enrojecimiento",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1400,7 +1480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3f6c2684",
+    "id": "v_51021d92",
     "word": "I just sniped him",
     "translation": "acabo de dispararle (con un francotirador)",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1408,7 +1488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_580b9acc",
+    "id": "v_569c4d6b",
+    "word": "I was just gonna make it all come crashing down (frase no literal)",
+    "translation": "iba a hacer que todo se viniera abajo/se derrumbara",
+    "source_movie": "The Girl From Plainville (Episode 6)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8d6f7014",
     "word": "Lessen (verbo)",
     "translation": "reducir, disminuir",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1416,7 +1504,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f35c9ee8",
+    "id": "v_de91a95c",
     "word": "Shallow breathing",
     "translation": "respiración superficial",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1424,7 +1512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_648c8b60",
+    "id": "v_fcb31ea5",
     "word": "Touch pad",
     "translation": "panel táctil",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1432,7 +1520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1f932832",
+    "id": "v_f5c7c810",
     "word": "Cobweb",
     "translation": "telaraña",
     "source_movie": "The Girl From Plainville (Episode 6)",
@@ -1440,15 +1528,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_marker_Episode_7",
-    "word": "The Girl From Plainville (Episode 7)",
-    "translation": "No registrada",
+    "id": "v_73336a2b",
+    "word": "I'm left crying in bed (parcialmente no literal)",
+    "translation": "me quedo llorando en la cama",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_2f5590da",
+    "id": "v_d9eb8714",
     "word": "Waive (verbo en sentido legal)",
     "translation": "renunciar",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1456,7 +1544,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_5d6ba11c",
+    "id": "v_9e3fbe39",
     "word": "Your educational background",
     "translation": "tu formación académica",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1464,7 +1552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d1cf1708",
+    "id": "v_9311576a",
     "word": "Carving out some time (verbo)",
     "translation": "dedicar parte de su tiempo",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1472,7 +1560,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a3770ade",
+    "id": "v_7b26c1ab",
     "word": "Move it along (no literal)",
     "translation": "siga adelante",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1480,7 +1568,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac0683e5",
+    "id": "v_7ad88bff",
+    "word": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+    "translation": "inhibidor selectivo de la recaptación de serotonina",
+    "source_movie": "The Girl From Plainville (Episode 7)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6edd8564",
     "word": "The feed to the receptor gets backed up",
     "translation": "la alimentación al receptor se atasca",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1488,7 +1584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_02beb4f3",
+    "id": "v_9eb5c4fa",
     "word": "An increased risk",
     "translation": "un mayor riesgo",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1496,23 +1592,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_27ca7157",
+    "id": "v_0db609bf",
     "word": "Birdsong (acotación)",
     "translation": "canto de los pájaros",
-    "source_movie": "The Girl From Plainville (Episode 7)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_9dacc982",
-    "word": "Foreboding music",
-    "translation": "música inquietante",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_e96fb908",
+    "id": "v_9393132a",
+    "word": "Foreboding music",
+    "translation": "música inquietante",
+    "source_movie": "The Girl From Plainville (Episode 7)",
+    "year_processed": "2026",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_72b039fe",
     "word": "She's medicated off and on",
     "translation": "le recetan medicamentos de forma intermitente",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1520,7 +1616,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ddf6d12a",
+    "id": "v_2125f616",
     "word": "She was enmeshed in a delusion",
     "translation": "estaba sumida en una ilusión",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1528,15 +1624,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8a3429ae",
+    "id": "v_30b4a09d",
     "word": "Reassure (verbo)",
     "translation": "tranquilizar",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_168c208a",
+    "id": "v_4a794ae3",
+    "word": "And help them to mourn less severely (parcialmente no literal)",
+    "translation": "y ayudarlos a llorar su pérdida con menos intensidad",
+    "source_movie": "The Girl From Plainville (Episode 7)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f1865360",
     "word": "On or about July 2nd",
     "translation": "el 2 de julio o alrededor de esa fecha",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1544,7 +1648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_15f4b23a",
+    "id": "v_683e2a09",
     "word": "Pile (verbo)",
     "translation": "acumular, apilar",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1552,15 +1656,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_166a1dd2",
+    "id": "v_65edddcf",
     "word": "Had to fight off a nurse for a cruller",
-    "translation": "tuve que pelear con una enfermera por un",
+    "translation": "tuve que pelear con una enfermera por un buñuelo",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_1eda196b",
+    "id": "v_c94e6f44",
     "word": "Overnight (expresión)",
     "translation": "de un día para otro",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1568,7 +1672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7abfa65a",
+    "id": "v_a05cb9ae",
     "word": "The defendant",
     "translation": "el acusado, la acusada",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1576,7 +1680,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b5d5a53",
+    "id": "v_3a116b26",
     "word": "Your initial 60 or so page report",
     "translation": "su informe inicial de aproximadamente 60 páginas",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1584,7 +1688,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e549a9ae",
+    "id": "v_9ae18983",
     "word": "She was cut so badly (frase no literal)",
     "translation": "ells estaba muy mal herida",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1592,7 +1696,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5da958c2",
+    "id": "v_b3c29b9e",
     "word": "At the initial outset",
     "translation": "al inicio",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1600,7 +1704,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d3ccbd5a",
+    "id": "v_c129a8d6",
     "word": "Stark contrast",
     "translation": "contraste marcado",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1608,7 +1712,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bcd9a6c1",
+    "id": "v_e00709d0",
     "word": "If your baseline is off",
     "translation": "si tu línea de base está desviada",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1616,7 +1720,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91a05dcf",
+    "id": "v_d64c4bce",
     "word": "Greatly",
     "translation": "mucho, considerablemente",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1624,7 +1728,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_2d87299c",
+    "id": "v_f480b0f1",
     "word": "Overdosing (sustantivo)",
     "translation": "sobredosis",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1632,7 +1736,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_ed15db4f",
+    "id": "v_b0656309",
     "word": "I tender your witness Your Honor",
     "translation": "le ofrezco su testimonio, Su Señoría",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1640,7 +1744,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_64cf2ff9",
+    "id": "v_50669e43",
     "word": "Try hard (verbo)",
     "translation": "esforzarse (mucho)",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1648,7 +1752,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6badca05",
+    "id": "v_42f303b7",
     "word": "Your closing argument (en sentido legal)",
     "translation": "tu alegato final",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1656,7 +1760,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_33499cbc",
+    "id": "v_d878e4c4",
     "word": "Rule (verbo en toma de decisiones)",
     "translation": "dictaminar, decidir, declarar",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1664,15 +1768,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_abe20744",
+    "id": "v_5595bdd8",
     "word": "Outlaw (verbo)",
     "translation": "prohibir",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_0ab7cd2c",
+    "id": "v_0b5b850b",
     "word": "He sought out her encouragement",
     "translation": "él buscó su apoyo",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1680,7 +1784,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cfe5ebef",
+    "id": "v_ec08d643",
     "word": "The offense of manslaughter",
     "translation": "el delito de homicidio involuntario",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1688,15 +1792,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d87fa321",
+    "id": "v_61c7230f",
     "word": "Outcome",
     "translation": "resultado",
     "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_3d57758e",
+    "id": "v_e9033f42",
     "word": "Frailties",
     "translation": "debilidades",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1704,7 +1808,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_66399987",
+    "id": "v_22ecae96",
     "word": "Determiner",
     "translation": "determinante",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1712,7 +1816,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8deaddd7",
+    "id": "v_6ec641e2",
     "word": "Echoing clank (acotación)",
     "translation": "eco metálico",
     "source_movie": "The Girl From Plainville (Episode 7)",
@@ -1720,47 +1824,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_marker_Episode_8",
-    "word": "The Girl From Plainville (Episode 8)",
-    "translation": "No registrada",
-    "source_movie": "The Girl From Plainville (Episode 8)",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_3b53cf2a",
+    "id": "v_a24e580a",
     "word": "Tube socks (parcialmente no literal)",
     "translation": "calcetines largos",
-    "source_movie": "The Girl From Plainville (Episode 8)",
+    "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_40e27c1e",
+    "id": "v_e499d38f",
     "word": "A teenage dirtbag",
     "translation": "una adolescente sinvergüenza",
-    "source_movie": "The Girl From Plainville (Episode 8)",
+    "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_16f952e8",
+    "id": "v_141d7d34",
     "word": "He’s a dick (no literal)",
     "translation": "él es un idiota",
-    "source_movie": "The Girl From Plainville (Episode 8)",
+    "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a38f08c2",
+    "id": "v_72107f19",
     "word": "A dirtbag",
     "translation": "un canalla",
-    "source_movie": "The Girl From Plainville (Episode 8)",
+    "source_movie": "The Girl From Plainville (Episode 7)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_472e2ebe",
+    "id": "v_5c8acdf2",
     "word": "Waive (verbo en sentido legal)",
     "translation": "renunciar",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1768,7 +1864,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_8af2d8be",
+    "id": "v_5067613d",
     "word": "Overdosing (sustantivo)",
     "translation": "sorbedosis",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1776,7 +1872,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_6450a7a8",
+    "id": "v_cc3091c4",
     "word": "I'm too messed up to",
     "translation": "estoy demasiado alterado para hacerlo",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1784,7 +1880,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bfb8784e",
+    "id": "v_8a24f518",
+    "word": "You're making it harder on yourself putting it off (frase no literal)",
+    "translation": "te lo estás poniendo más difícil al posponerlo",
+    "source_movie": "The Girl From Plainville (Episode 8)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_92d3301f",
     "word": "Sprinkler whirring (acotación)",
     "translation": "zumbido del rociador",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1792,7 +1896,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0da7b9e2",
+    "id": "v_d88bd1c3",
     "word": "Memoralize (verbo)",
     "translation": "conmemorar, recordar",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1800,7 +1904,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_33f7299a",
+    "id": "v_96f9afb0",
     "word": "You don't have the man boobs or the gut",
     "translation": "no tienes pechos masculinos ni panza",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1808,7 +1912,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1ac43c84",
+    "id": "v_6f0101c3",
     "word": "Get through this",
     "translation": "superar esto",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1816,15 +1920,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f002d855",
+    "id": "v_53b0142c",
     "word": "Look over",
     "translation": "cuidar (de alguien)",
     "source_movie": "The Girl From Plainville (Episode 8)",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_e635c602",
+    "id": "v_f63f8003",
     "word": "In a bit",
     "translation": "en un momento",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1832,7 +1936,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7ad23245",
+    "id": "v_753622f2",
     "word": "Which comes as no surprise",
     "translation": "lo cual no es ninguna sorpresa",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1840,7 +1944,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_39ae806c",
+    "id": "v_869759f0",
     "word": "Weigh in on the case (verbo)",
     "translation": "opinar sobre el caso",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1848,7 +1952,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_720ef4f8",
+    "id": "v_fc79f0e2",
     "word": "The potentially groundbreaking decision",
     "translation": "la decisión potencialmente revolucionaria",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1856,7 +1960,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1f707d9c",
+    "id": "v_d8840b2a",
     "word": "Wanton and reckless conduct",
     "translation": "conducta imprudente y temeraria",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1864,7 +1968,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bfb9531c",
+    "id": "v_bca92fab",
     "word": "In serious disregard (frase no literal)",
     "translation": "en grave desprecio",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1872,7 +1976,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e0947630",
+    "id": "v_0754a0da",
+    "word": "He took significant actions of his own toward that end",
+    "translation": "tomó medidas importantes por su cuenta con ese fin",
+    "source_movie": "The Girl From Plainville (Episode 8)",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_17ef8290",
     "word": "Water pump",
     "translation": "bomba de agua",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1880,7 +1992,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c7415797",
+    "id": "v_05b81dfd",
     "word": "Unnoticeable",
     "translation": "imperceptible",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1888,7 +2000,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3a19f2b3",
+    "id": "v_c6b461e9",
     "word": "Start (verbo no literal en sentido técnico)",
     "translation": "poner en marcha, encender, arrancar",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1896,7 +2008,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4b94a21f",
+    "id": "v_68b49de7",
     "word": "Self-causation",
     "translation": "autocausación",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1904,7 +2016,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_53cedcb8",
+    "id": "v_0392854d",
     "word": "The sturdy kind",
     "translation": "el tipo resistente",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1912,7 +2024,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_372fd074",
+    "id": "v_cd4c8114",
     "word": "The drive",
     "translation": "el viaje en auto",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1920,7 +2032,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_67b61932",
+    "id": "v_9d47b39f",
     "word": "I'm sure it all seems that way",
     "translation": "estoy seguro de que todo parece así",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1928,7 +2040,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b0b04c3",
+    "id": "v_59610144",
     "word": "Fireplace crackling (acotación)",
     "translation": "crepitar de la chimenea",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1936,7 +2048,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eb52a791",
+    "id": "v_50f917e4",
     "word": "You totally blew me off",
     "translation": "me dejaste completamente plantado",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1944,7 +2056,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cfb5b263",
+    "id": "v_1d09bd50",
     "word": "They'll be down (no literal)",
     "translation": "estarán listos",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1952,7 +2064,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_34a9a9c7",
+    "id": "v_6a66d765",
     "word": "Make through the day",
     "translation": "pasar/superar el día",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1960,7 +2072,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b5309b1f",
+    "id": "v_d021f3ec",
     "word": "Decorum",
     "translation": "decoro",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1968,7 +2080,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_420d294f",
+    "id": "v_909fcb8c",
     "word": "Throughout (adverbio)",
     "translation": "a lo largo de",
     "source_movie": "The Girl From Plainville (Episode 8)",
@@ -1976,17 +2088,25 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fa94c093",
+    "id": "v_a1ac0370",
     "word": "Underlying",
     "translation": "subyacente",
+    "source_movie": "The Girl From Plainville (Episode 8)",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_967a316b",
+    "word": "The stay of sentencing (no literal)",
+    "translation": "la suspensión de la sentencia",
     "source_movie": "The Girl From Plainville (Episode 8)",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_4b302001",
-    "word": "The stay of sentencing (no literal)",
-    "translation": "la suspensión de la sentencia",
+    "id": "v_4c243d17",
+    "word": "This matter is now adjourned (frase no literal)",
+    "translation": "se levanta la sesión",
     "source_movie": "The Girl From Plainville (Episode 8)",
     "year_processed": "2026",
     "global_frequency": 1

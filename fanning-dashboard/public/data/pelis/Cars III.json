@@ -24,8 +24,8 @@
       "translation": "te voy a dejar atrás"
     },
     {
-      "word": "cabeza",
-      "translation": "No registrada"
+      "word": "It's the final stretch, McQueen is in the lead",
+      "translation": "es la recta final, McQueen va en cabeza"
     },
     {
       "word": "A huge upset (no literal)",
@@ -50,6 +50,10 @@
     {
       "word": "Downforce",
       "translation": "fuerza descendente"
+    },
+    {
+      "word": "Storm's in a class of his own (frase no literal)",
+      "translation": "Storm es único en su clase"
     },
     {
       "word": "Lower drag coefficient",
@@ -116,8 +120,8 @@
       "translation": "una entrada circular para automóviles"
     },
     {
-      "word": "oxidados aquí",
-      "translation": "No registrada"
+      "word": "You need to get your rusty tails down here (no literal)",
+      "translation": "tienen que traer sus traseros oxidados aquí"
     },
     {
       "word": "For sticking by me (no literal)",
@@ -277,11 +281,7 @@
     },
     {
       "word": "I started off getting nowhere for a week",
-      "translation": "empecé sin llegar a ninguna parte durante"
-    },
-    {
-      "word": "una semana",
-      "translation": "No registrada"
+      "translation": "empecé sin llegar a ninguna parte durante una semana"
     },
     {
       "word": "The crosshairs",
@@ -308,8 +308,8 @@
       "translation": "soltar, relajar, aflojar"
     },
     {
-      "word": "chico de Hudson",
-      "translation": "No registrada"
+      "word": "They are gonna get a kick out of meeting Hudson's boy",
+      "translation": "les va a encantar conocer al chico de Hudson"
     },
     {
       "word": "Back axle",
@@ -329,11 +329,7 @@
     },
     {
       "word": "You ready to blow out a little carbon there?",
-      "translation": "¿Estás listo para eliminar un poco de"
-    },
-    {
-      "word": "carbono?",
-      "translation": "No registrada"
+      "translation": "¿Estás listo para eliminar un poco de carbono?"
     },
     {
       "word": "Throttle (sustantivo)",
@@ -344,8 +340,8 @@
       "translation": "alcanzó los 344 kilómetros por hora"
     },
     {
-      "word": "sustituya",
-      "translation": "No registrada"
+      "word": "You need someone to stand in for him (frase no literal)",
+      "translation": "necesitas a alguien que lo sustituya"
     },
     {
       "word": "Gun it (expresión)",
@@ -372,8 +368,16 @@
       "translation": "date prisa"
     },
     {
-      "word": "actual?",
-      "translation": "No registrada"
+      "word": "How does today's talent stack up? (pregunta no literal)",
+      "translation": "¿Cómo se compara el talento actual?"
+    },
+    {
+      "word": "We're in for a treat today (frase no literal)",
+      "translation": "hoy nos espera una sorpresa"
+    },
+    {
+      "word": "He started dead last (frase no literal en carreras)",
+      "translation": "empezó en última posición"
     },
     {
       "word": "Top 10's not gonna cut it",
@@ -382,6 +386,10 @@
     {
       "word": "So dig in!",
       "translation": "¡Así que adelante!"
+    },
+    {
+      "word": "I need you to get him up to speed (frase no literal)",
+      "translation": "necesito que lo pongas al día"
     },
     {
       "word": "Spoiler (sustantivo en carreras)",
@@ -444,6 +452,10 @@
       "translation": "¡Hazlo!"
     },
     {
+      "word": "Just back here drafting on your butt (frase no literal)",
+      "translation": "aquí atrás, trabajando duro"
+    },
+    {
       "word": "Call out",
       "translation": "indicar, decir"
     },
@@ -456,8 +468,16 @@
       "translation": "menuda victoria, qué gran victoria"
     },
     {
+      "word": "You really had it rolling today (frase no literal)",
+      "translation": "hoy realmente lo has hecho muy bien"
+    },
+    {
       "word": "I would be tickled pink (frase no literal)",
       "translation": "estaría encantado, me encantaría"
+    },
+    {
+      "word": "I need you first thing Monday morning for a photo shoot",
+      "translation": "te necesito a primera hora del lunes por la mañana para una sesión fotográfica"
     },
     {
       "word": "Hang on now (no literal)",
@@ -491,5 +511,7 @@
       "https://image.tmdb.org/t/p/w780/h1gIXYOTYfYWToDHWWlC7g76guk.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 124,
+  "dialogues": 1697
 }

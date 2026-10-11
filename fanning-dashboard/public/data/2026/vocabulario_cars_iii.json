@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_35075dc3",
+    "id": "v_fc58f50a",
     "word": "Inches apart",
     "translation": "pulgadas de distancia",
     "source_movie": "Cars III",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7a48e56",
+    "id": "v_bf4e08d5",
     "word": "Blinker",
     "translation": "luz intermitente",
     "source_movie": "Cars III",
@@ -16,15 +16,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d8ebb5c",
+    "id": "v_3fabf045",
     "word": "Long as",
     "translation": "mientras",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_56d8789b",
+    "id": "v_291864cd",
     "word": "Boot off",
     "translation": "echar (una persona de un grupo)",
     "source_movie": "Cars III",
@@ -32,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f48eae45",
+    "id": "v_09073ad5",
     "word": "I'll blow right past you (frase no literal)",
     "translation": "te voy a dejar atrás",
     "source_movie": "Cars III",
@@ -40,15 +40,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_71435028",
-    "word": "cabeza",
-    "translation": "No registrada",
+    "id": "v_f1c9c66f",
+    "word": "It's the final stretch, McQueen is in the lead",
+    "translation": "es la recta final, McQueen va en cabeza",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_edba9193",
+    "id": "v_0f29bd62",
     "word": "A huge upset (no literal)",
     "translation": "una gran sorpresa",
     "source_movie": "Cars III",
@@ -56,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dbee1076",
+    "id": "v_97cf2688",
     "word": "I think I touched a nerve (frase no literal)",
     "translation": "creo que toque un punto sensible",
     "source_movie": "Cars III",
@@ -64,31 +64,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f799a7a5",
+    "id": "v_b946e799",
     "word": "Number cruncher",
     "translation": "analista de datos",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_34f5431a",
+    "id": "v_378d4487",
     "word": "Newcomer",
     "translation": "recién llegado",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_2a55c7f9",
+    "id": "v_d7706a67",
     "word": "Old-timers",
     "translation": "veteranos",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_edf02248",
+    "id": "v_9f6f7ebc",
     "word": "Downforce",
     "translation": "fuerza descendente",
     "source_movie": "Cars III",
@@ -96,7 +96,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_86da2461",
+    "id": "v_d3950c96",
+    "word": "Storm's in a class of his own (frase no literal)",
+    "translation": "Storm es único en su clase",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8b0a82e9",
     "word": "Lower drag coefficient",
     "translation": "menor coeficiente de resistencia aerodinámica",
     "source_movie": "Cars III",
@@ -104,7 +112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e283a5c3",
+    "id": "v_8b155ffc",
     "word": "Crafty",
     "translation": "astuto",
     "source_movie": "Cars III",
@@ -112,7 +120,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_114bfeca",
+    "id": "v_7c3e34f9",
     "word": "Statesman",
     "translation": "estadista",
     "source_movie": "Cars III",
@@ -120,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5e45ce8",
+    "id": "v_84400657",
     "word": "A slump",
     "translation": "una mala racha",
     "source_movie": "Cars III",
@@ -128,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58ba4715",
+    "id": "v_197cbbd0",
     "word": "My mind's made up (frase no literal)",
     "translation": "ya lo he decidido, he tomado una decisión",
     "source_movie": "Cars III",
@@ -136,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ed7fc16d",
+    "id": "v_cddbd02e",
     "word": "Forty laps to go",
     "translation": "quedan cuarenta vueltas",
     "source_movie": "Cars III",
@@ -144,7 +152,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bdbfb3b5",
+    "id": "v_49c8f8f0",
     "word": "On his tail (no literal en competencia)",
     "translation": "perseguir, pisar los talones",
     "source_movie": "Cars III",
@@ -152,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fe2d9646",
+    "id": "v_635f1f0c",
     "word": "Don't shoot the messenger here (no literal)",
     "translation": "no culpen al mensajero",
     "source_movie": "Cars III",
@@ -160,15 +168,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_818065f4",
+    "id": "v_26f9f236",
     "word": "Crew chief",
     "translation": "jefe de equipo",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_d6c686d5",
+    "id": "v_f4cc6c58",
     "word": "When I finally got put together",
     "translation": "cuando finalmente me recuperé",
     "source_movie": "Cars III",
@@ -176,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b9b1485",
+    "id": "v_6d295885",
     "word": "The musky air freshener",
     "translation": "el ambientador almizclado",
     "source_movie": "Cars III",
@@ -184,7 +192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e553a3b4",
+    "id": "v_191f3a8a",
     "word": "Set straight",
     "translation": "enderezar, aclarar",
     "source_movie": "Cars III",
@@ -192,7 +200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0ad97397",
+    "id": "v_1ee213ef",
     "word": "Your lawyerly powers of persuasion",
     "translation": "tu poder de persuasion como abogada",
     "source_movie": "Cars III",
@@ -200,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aed8cf0d",
+    "id": "v_c72a8656",
     "word": "I'll get them on the horn (frase no literal)",
     "translation": "los llamaré",
     "source_movie": "Cars III",
@@ -208,7 +216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c520ac06",
+    "id": "v_1977e2a6",
     "word": "Dadgum (expresión)",
     "translation": "maldición, caray",
     "source_movie": "Cars III",
@@ -216,7 +224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1315d030",
+    "id": "v_1cecbe31",
     "word": "A circular driveway",
     "translation": "una entrada circular para automóviles",
     "source_movie": "Cars III",
@@ -224,15 +232,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_174df8ac",
-    "word": "oxidados aquí",
-    "translation": "No registrada",
+    "id": "v_8b49d7e0",
+    "word": "You need to get your rusty tails down here (no literal)",
+    "translation": "tienen que traer sus traseros oxidados aquí",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7225cefd",
+    "id": "v_a418616d",
     "word": "For sticking by me (no literal)",
     "translation": "por estar siempre a mi lado",
     "source_movie": "Cars III",
@@ -240,7 +248,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6b485cb8",
+    "id": "v_cee2e47a",
     "word": "Futile",
     "translation": "inútil",
     "source_movie": "Cars III",
@@ -248,7 +256,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_dafcfd8d",
+    "id": "v_a00039dc",
     "word": "On the flipside",
     "translation": "al otro lado",
     "source_movie": "Cars III",
@@ -256,7 +264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a4fff02e",
+    "id": "v_1b74bebc",
     "word": "Jabronis (informal)",
     "translation": "idiotas",
     "source_movie": "Cars III",
@@ -264,7 +272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e4ee7095",
+    "id": "v_27246bcc",
     "word": "Mudflap",
     "translation": "guardabarros",
     "source_movie": "Cars III",
@@ -272,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac00ae52",
+    "id": "v_8595ff77",
     "word": "The eastern seaboard",
     "translation": "la costa este",
     "source_movie": "Cars III",
@@ -280,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_27260323",
+    "id": "v_b59c683d",
     "word": "Jars",
     "translation": "tarros, frascos",
     "source_movie": "Cars III",
@@ -288,7 +296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b84919e",
+    "id": "v_f9ea88bd",
     "word": "The most coveted",
     "translation": "el más codiciado",
     "source_movie": "Cars III",
@@ -296,7 +304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0e76969f",
+    "id": "v_2dcfd295",
     "word": "Treadmills",
     "translation": "caminadoras, cintas de correr",
     "source_movie": "Cars III",
@@ -304,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7ebcf194",
+    "id": "v_950a8d9f",
     "word": "Fitness",
     "translation": "entrenamiento/acondicionamiento físico",
     "source_movie": "Cars III",
@@ -312,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a89b8f62",
+    "id": "v_d7ddfe12",
     "word": "Let's hit the treadmills",
     "translation": "vamos a las cintas de correr",
     "source_movie": "Cars III",
@@ -320,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e9b108fe",
+    "id": "v_da9d9a05",
     "word": "Flabby tires",
     "translation": "neumáticos desinflados",
     "source_movie": "Cars III",
@@ -328,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7de7e044",
+    "id": "v_8f66d23b",
     "word": "To push through to the positive",
     "translation": "para avanzar hacia lo positivo",
     "source_movie": "Cars III",
@@ -336,7 +344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e0aec72e",
+    "id": "v_3e42e0a6",
     "word": "Those ancient joints",
     "translation": "esas antiguas articulaciones",
     "source_movie": "Cars III",
@@ -344,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bebcdc1f",
+    "id": "v_8fdd120d",
     "word": "A drip pan",
     "translation": "una bandeja recogegotas/de goteo",
     "source_movie": "Cars III",
@@ -352,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_64f1f074",
+    "id": "v_b3ff1600",
     "word": "Driving fast down a steep hill",
     "translation": "conduciendo rápido por una colina empinada",
     "source_movie": "Cars III",
@@ -360,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_20e8b3db",
+    "id": "v_1e19ae39",
     "word": "Merge and yield",
     "translation": "fusionar y ceder",
     "source_movie": "Cars III",
@@ -368,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c0a63c2",
+    "id": "v_c5de5757",
     "word": "Maim (verbo)",
     "translation": "dañar, averiar, destrozar",
     "source_movie": "Cars III",
@@ -376,7 +384,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_ee265462",
+    "id": "v_892a6df7",
     "word": "A drinking fountain",
     "translation": "una fuente para beber",
     "source_movie": "Cars III",
@@ -384,23 +392,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b77fdf9",
+    "id": "v_2e83ecf7",
     "word": "Disable (verbo)",
     "translation": "incapacitar, inutilizar",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_c6bf7a21",
+    "word": "Endorsement",
+    "translation": "promoción",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 3
   },
   {
-    "id": "v_ccc42d05",
-    "word": "Endorsement",
-    "translation": "promoción",
-    "source_movie": "Cars III",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f6e8bd11",
+    "id": "v_5131d384",
     "word": "Reap the reward",
     "translation": "cosecha la recompensa",
     "source_movie": "Cars III",
@@ -408,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f26bb8e7",
+    "id": "v_cc9656dd",
     "word": "Snowmobile",
     "translation": "moto de nieve",
     "source_movie": "Cars III",
@@ -416,15 +424,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_313c2f46",
+    "id": "v_da5d44de",
     "word": "Brittle",
     "translation": "frágil",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_5f3b7b89",
+    "id": "v_cdd0ac92",
     "word": "Boot up",
     "translation": "encender",
     "source_movie": "Cars III",
@@ -432,15 +440,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f29e0503",
+    "id": "v_ba6c7fc0",
     "word": "Ease (verbo)",
     "translation": "facilitar",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7d00ba2a",
+    "id": "v_085a7443",
     "word": "Spin out",
     "translation": "perder el control",
     "source_movie": "Cars III",
@@ -448,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_64676e01",
+    "id": "v_9c1ef5f1",
     "word": "You topped put at 198",
     "translation": "llegaste a un máximo de 198",
     "source_movie": "Cars III",
@@ -456,7 +464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cff21c03",
+    "id": "v_5d1b30ae",
     "word": "A good old-fashioned oval",
     "translation": "un buen óvalo a la antigua usanza",
     "source_movie": "Cars III",
@@ -464,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_52ca6238",
+    "id": "v_57234cb7",
     "word": "You that out-of-towner?",
     "translation": "¿Eres de fuera de aquí?",
     "source_movie": "Cars III",
@@ -472,7 +480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_604a9d06",
+    "id": "v_f9886fc5",
     "word": "Infield",
     "translation": "campo interior",
     "source_movie": "Cars III",
@@ -480,7 +488,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_08748456",
+    "id": "v_d5a57388",
     "word": "Right up front",
     "translation": "justo enfrente",
     "source_movie": "Cars III",
@@ -488,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1b141f82",
+    "id": "v_41586c78",
     "word": "Swerve (verbo)",
     "translation": "desviarse, esquivar",
     "source_movie": "Cars III",
@@ -496,15 +504,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_49a3e96b",
+    "id": "v_d3596b6b",
     "word": "Slip out",
     "translation": "escabullirse",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_4bb26c3b",
+    "id": "v_6ffb2042",
     "word": "A moving violation (no literal)",
     "translation": "una infracción de tránsito",
     "source_movie": "Cars III",
@@ -512,15 +520,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4996baae",
+    "id": "v_bf6e9311",
     "word": "Steer (verbo)",
     "translation": "conducir, maniobrar",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 6
   },
   {
-    "id": "v_06839fff",
+    "id": "v_ff284a99",
     "word": "She's looking to get upright",
     "translation": "está tratando de levantarse",
     "source_movie": "Cars III",
@@ -528,7 +536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_84b19a96",
+    "id": "v_e68b7260",
     "word": "She's not pleased",
     "translation": "no está contenta",
     "source_movie": "Cars III",
@@ -536,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1e76bde",
+    "id": "v_a7e3215c",
     "word": "Buzz over (en espectáculos)",
     "translation": "hablar sobre",
     "source_movie": "Cars III",
@@ -544,23 +552,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e4cda708",
+    "id": "v_57a0314b",
     "word": "I started off getting nowhere for a week",
-    "translation": "empecé sin llegar a ninguna parte durante",
+    "translation": "empecé sin llegar a ninguna parte durante una semana",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_eab6d66e",
-    "word": "una semana",
-    "translation": "No registrada",
-    "source_movie": "Cars III",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_385aa76b",
+    "id": "v_271114a2",
     "word": "The crosshairs",
     "translation": "la mira",
     "source_movie": "Cars III",
@@ -568,7 +568,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_35bb9714",
+    "id": "v_5d69b0b9",
     "word": "He's got a jack!",
     "translation": "¡Tiene un gato hidráulico!",
     "source_movie": "Cars III",
@@ -576,7 +576,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_89d83263",
+    "id": "v_2b2eb706",
     "word": "Run times",
     "translation": "tiempos recientes (de carreras)",
     "source_movie": "Cars III",
@@ -584,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c8cf3670",
+    "id": "v_392446f7",
     "word": "Lifting my funk",
     "translation": "levantando mi ánimo",
     "source_movie": "Cars III",
@@ -592,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4a23dd76",
+    "id": "v_7ab391dc",
     "word": "So get me caught up on everything",
     "translation": "ponme al día de todo",
     "source_movie": "Cars III",
@@ -600,23 +600,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_669dca4c",
+    "id": "v_cd208da3",
     "word": "Loosen up",
     "translation": "soltar, relajar, aflojar",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 5
+    "global_frequency": 7
   },
   {
-    "id": "v_78e9311b",
-    "word": "chico de Hudson",
-    "translation": "No registrada",
+    "id": "v_46328a20",
+    "word": "They are gonna get a kick out of meeting Hudson's boy",
+    "translation": "les va a encantar conocer al chico de Hudson",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_dff8d312",
+    "id": "v_74c276be",
     "word": "Back axle",
     "translation": "eje trasero",
     "source_movie": "Cars III",
@@ -624,7 +624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d38e2b8c",
+    "id": "v_0dfe7b2d",
     "word": "Mojo",
     "translation": "encanto, energía",
     "source_movie": "Cars III",
@@ -632,7 +632,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_235e4efc",
+    "id": "v_337ea6a5",
     "word": "You don't mince words (frase no literal)",
     "translation": "no te andas con rodeos",
     "source_movie": "Cars III",
@@ -640,7 +640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b13960b6",
+    "id": "v_1d532d24",
     "word": "In the wink of a young girl's eye",
     "translation": "en un abrir y cerrar de ojos de una joven",
     "source_movie": "Cars III",
@@ -648,23 +648,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f962cc02",
+    "id": "v_b79cf00b",
     "word": "You ready to blow out a little carbon there?",
-    "translation": "¿Estás listo para eliminar un poco de",
+    "translation": "¿Estás listo para eliminar un poco de carbono?",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ecab28ca",
-    "word": "carbono?",
-    "translation": "No registrada",
-    "source_movie": "Cars III",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_9fa50bd5",
+    "id": "v_344b7695",
     "word": "Throttle (sustantivo)",
     "translation": "acelerador, gas",
     "source_movie": "Cars III",
@@ -672,7 +664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_08866ed4",
+    "id": "v_bcf8d8f4",
     "word": "It clocked 214 miles per hour",
     "translation": "alcanzó los 344 kilómetros por hora",
     "source_movie": "Cars III",
@@ -680,15 +672,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2578cf0b",
-    "word": "sustituya",
-    "translation": "No registrada",
+    "id": "v_48cc27af",
+    "word": "You need someone to stand in for him (frase no literal)",
+    "translation": "necesitas a alguien que lo sustituya",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_68b8e883",
+    "id": "v_193f9327",
     "word": "Gun it (expresión)",
     "translation": "acelera",
     "source_movie": "Cars III",
@@ -696,7 +688,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2b40b13d",
+    "id": "v_bf128b0e",
     "word": "Get that arthritis-riddled keister",
     "translation": "mueve ese trasero lleno de artritis",
     "source_movie": "Cars III",
@@ -704,15 +696,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fd11b28f",
+    "id": "v_3d2bbf3e",
     "word": "Rickety",
     "translation": "destartalado",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 1
   },
   {
-    "id": "v_3ead0658",
+    "id": "v_c09ec686",
     "word": "And dilapidated",
     "translation": "y en ruinas",
     "source_movie": "Cars III",
@@ -720,7 +712,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b858a459",
+    "id": "v_93c1835c",
     "word": "We ran moonshine, bro!",
     "translation": "¡Hacíamos alcohol ilegal, tío!",
     "source_movie": "Cars III",
@@ -728,23 +720,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f48bef37",
+    "id": "v_ed9e5b2a",
     "word": "Hurry along",
     "translation": "date prisa",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_deb01e75",
-    "word": "actual?",
-    "translation": "No registrada",
+    "id": "v_48664dd2",
+    "word": "How does today's talent stack up? (pregunta no literal)",
+    "translation": "¿Cómo se compara el talento actual?",
     "source_movie": "Cars III",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_9ded30e2",
+    "id": "v_70bb0b4a",
+    "word": "We're in for a treat today (frase no literal)",
+    "translation": "hoy nos espera una sorpresa",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a88fc1e4",
+    "word": "He started dead last (frase no literal en carreras)",
+    "translation": "empezó en última posición",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cf275f15",
     "word": "Top 10's not gonna cut it",
     "translation": "el top 10 no va a ser suficiente",
     "source_movie": "Cars III",
@@ -752,7 +760,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9110e6db",
+    "id": "v_3845ebc3",
     "word": "So dig in!",
     "translation": "¡Así que adelante!",
     "source_movie": "Cars III",
@@ -760,7 +768,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1252f057",
+    "id": "v_05f9894d",
+    "word": "I need you to get him up to speed (frase no literal)",
+    "translation": "necesito que lo pongas al día",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fbf9f02b",
     "word": "Spoiler (sustantivo en carreras)",
     "translation": "alerón",
     "source_movie": "Cars III",
@@ -768,7 +784,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b2536162",
+    "id": "v_8e2af80e",
     "word": "Wreck in turn two (en carreras)",
     "translation": "accidente, choque en la segunda curva",
     "source_movie": "Cars III",
@@ -776,7 +792,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0111eacb",
+    "id": "v_97c96ee0",
     "word": "Just took me awhile to see it",
     "translation": "me tomó un tiempo darme cuenta",
     "source_movie": "Cars III",
@@ -784,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_93e79a07",
+    "id": "v_783a3456",
     "word": "Bumpkin",
     "translation": "patán, paleto",
     "source_movie": "Cars III",
@@ -792,15 +808,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b3301a73",
+    "id": "v_91a2876d",
     "word": "Flaps",
     "translation": "solapas",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_1dbcffbc",
+    "id": "v_47857894",
     "word": "In the time frame",
     "translation": "en el tiempo disponible",
     "source_movie": "Cars III",
@@ -808,7 +824,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d6ff3621",
+    "id": "v_b09a8fc9",
     "word": "You're looking too tight now",
     "translation": "ahora te ves demasiado tensa",
     "source_movie": "Cars III",
@@ -816,7 +832,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b57c9daf",
+    "id": "v_75e5a110",
     "word": "Lap car",
     "translation": "auto de seguridad",
     "source_movie": "Cars III",
@@ -824,7 +840,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dd7a7b66",
+    "id": "v_38a0a151",
     "word": "Tire marbles",
     "translation": "canicas de caucho",
     "source_movie": "Cars III",
@@ -832,7 +848,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_446b0a76",
+    "id": "v_3cf0603a",
     "word": "Bump coming up on the inside",
     "translation": "se acerca un bache por el interior",
     "source_movie": "Cars III",
@@ -840,7 +856,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_796f65a8",
+    "id": "v_3d09d185",
     "word": "Go airborne (verbo)",
     "translation": "salir volando",
     "source_movie": "Cars III",
@@ -848,7 +864,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d472a0d3",
+    "id": "v_87a0d1c7",
     "word": "It's a little slick there",
     "translation": "está un poco resbaladizo ahí",
     "source_movie": "Cars III",
@@ -856,15 +872,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eceea696",
+    "id": "v_d683fb5f",
     "word": "Pick off",
     "translation": "elegir",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_8ad67e57",
+    "id": "v_e149429a",
     "word": "Nice and straight",
     "translation": "bonito y recto",
     "source_movie": "Cars III",
@@ -872,7 +888,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_76ccf730",
+    "id": "v_f5855ca0",
     "word": "Get her done! (en algunos contextos)",
     "translation": "¡Hazlo!",
     "source_movie": "Cars III",
@@ -880,15 +896,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f24af6f3",
+    "id": "v_cc1c9c27",
+    "word": "Just back here drafting on your butt (frase no literal)",
+    "translation": "aquí atrás, trabajando duro",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e57175c3",
     "word": "Call out",
     "translation": "indicar, decir",
     "source_movie": "Cars III",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_3ec51844",
+    "id": "v_ff892deb",
     "word": "Push through (no literal)",
     "translation": "seguir adelante",
     "source_movie": "Cars III",
@@ -896,7 +920,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b2e4a736",
+    "id": "v_fe98dc16",
     "word": "Heck of a win",
     "translation": "menuda victoria, qué gran victoria",
     "source_movie": "Cars III",
@@ -904,7 +928,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5ec41e58",
+    "id": "v_c0594e03",
+    "word": "You really had it rolling today (frase no literal)",
+    "translation": "hoy realmente lo has hecho muy bien",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3cda9805",
     "word": "I would be tickled pink (frase no literal)",
     "translation": "estaría encantado, me encantaría",
     "source_movie": "Cars III",
@@ -912,7 +944,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_393592fa",
+    "id": "v_3239cbc8",
+    "word": "I need you first thing Monday morning for a photo shoot",
+    "translation": "te necesito a primera hora del lunes por la mañana para una sesión fotográfica",
+    "source_movie": "Cars III",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cd6841ca",
     "word": "Hang on now (no literal)",
     "translation": "espera un momento",
     "source_movie": "Cars III",
@@ -920,7 +960,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c53ee9e8",
+    "id": "v_7ffd80ac",
     "word": "Bring it on (no literal)",
     "translation": "adelante",
     "source_movie": "Cars III",
@@ -928,7 +968,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5d41d181",
+    "id": "v_29242f12",
     "word": "Out on the edge (expresión)",
     "translation": "al límite",
     "source_movie": "Cars III",
@@ -936,7 +976,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_92f0aefc",
+    "id": "v_5a08028e",
     "word": "I pull exahust into the night",
     "translation": "arrastro el cansancio hasta la noche",
     "source_movie": "Cars III",
@@ -944,7 +984,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0e1a990a",
+    "id": "v_0586a766",
     "word": "My bumpers",
     "translation": "mis parachoques",
     "source_movie": "Cars III",

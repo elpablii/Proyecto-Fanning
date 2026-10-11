@@ -16,7 +16,7 @@
       "translation": "estar listo/preparado para"
     },
     {
-      "word": "Burst (verbo)",
+      "word": "Burst",
       "translation": "estallar, reventar"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "word": "Keep it under wraps",
-      "translation": "mantener la situación/"
+      "translation": "mantener la situación/ información en secreto, sin que otros lo sepan"
     },
     {
       "word": "All the way up",
@@ -448,15 +448,15 @@
       "translation": "agradable, conforme"
     },
     {
-      "word": "CEO (en organizaciones)",
+      "word": "CEO",
       "translation": "director general"
     },
     {
-      "word": "CFO (en organizaciones)",
+      "word": "CFO",
       "translation": "director de finanzas"
     },
     {
-      "word": "COO (en organizaciones)",
+      "word": "COO",
       "translation": "director de operaciones"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "word": "Shall",
-      "translation": "(otra forma de decir \"will\" pero más"
+      "translation": "(otra forma de decir \"will\" pero más formal y menos utilizada. Se puede usar como “must” también)"
     },
     {
       "word": "Give it to me straight",
@@ -689,7 +689,7 @@
     },
     {
       "word": "Run (sustantivo)",
-      "translation": "carrera"
+      "translation": "carrera Gang; pandilla"
     },
     {
       "word": "Whose",
@@ -987,5 +987,7 @@
       "https://image.tmdb.org/t/p/w780/nHf61UzkfFno5X1ofIhugCPus2R.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 243,
+  "dialogues": 2260
 }

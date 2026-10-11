@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_4ac4d0b6",
+    "id": "v_7530729b",
     "word": "Slag",
     "translation": "escoria",
     "source_movie": "Now is Good",
@@ -8,47 +8,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6fd1db67",
-    "word": "Scared the piss out of me (frame no literal)",
-    "translation": "me dios un susto de muerte",
+    "id": "v_119308df",
+    "word": "Scared the piss out of me (frase no literal)",
+    "translation": "me dio un susto de muerte",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_43b8b04d",
+    "id": "v_de2733b3",
     "word": "In disguise",
-    "translation": "disfrazar",
+    "translation": "disfrazado",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_28d1113d",
+    "id": "v_1d5f2ecc",
     "word": "I got given it",
-    "translation": "me lo dinero",
+    "translation": "me lo dieron",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6eb86c70",
+    "id": "v_082c2b9b",
     "word": "You’re shitting me",
-    "translation": "me estas lodiento",
+    "translation": "me estás jodiendo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3f3af527",
-    "word": "Pace (verb en albinos contexts)",
+    "id": "v_7cd298ad",
+    "word": "Pace (verbo en algunos contextos)",
     "translation": "seguir el ritmo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a4d27ba0",
+    "id": "v_cb89a513",
     "word": "Keep upbeat",
     "translation": "mantener el ritmo",
     "source_movie": "Now is Good",
@@ -56,23 +56,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f4e4b300",
+    "id": "v_45963d24",
     "word": "Hold out",
     "translation": "aguantar, esperar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
-    "global_frequency": 6
+    "global_frequency": 7
   },
   {
-    "id": "v_9eabe760",
-    "word": "Raise awareness (verb no literal)",
-    "translation": "sensibilizar, conciencia",
+    "id": "v_22ad30fb",
+    "word": "Raise awareness (verbo no literal)",
+    "translation": "sensibilizar, concienciar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_03bcc82a",
+    "id": "v_12762fc8",
+    "word": "That's all we've got time for (frase no literal)",
+    "translation": "no tenemos tiempo para más",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5b23974f",
     "word": "Next I’m planning (parcialmente no literal)",
     "translation": "lo siguiente que planeo",
     "source_movie": "Now is Good",
@@ -80,79 +88,79 @@
     "global_frequency": 1
   },
   {
-    "id": "v_37a7bf46",
+    "id": "v_d9664e46",
     "word": "By the horns",
-    "translation": "por los cuerno",
+    "translation": "por los cuernos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_dfbfa4f0",
-    "word": "memoranda eta trade",
-    "translation": "No registrada",
+    "id": "v_a0a0fa05",
+    "word": "Squally this morning, rounding up this afternoon (no literal)",
+    "translation": "borrascoso esta mañana, mejorando esta tarde",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6998e61c",
+    "id": "v_be3b6ef1",
     "word": "It can be off-putting",
-    "translation": "pues ser desagradable",
+    "translation": "puede ser desagradable",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d3a143de",
+    "id": "v_e75e8d37",
     "word": "As hard as you can",
-    "translation": "tan fuerte como pues",
-    "source_movie": "Now is Good",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_52e4f598",
-    "word": "Stall (substantive)",
-    "translation": "puesto, caseta, compartimiento",
-    "source_movie": "Now is Good",
-    "year_processed": "2025",
-    "global_frequency": 4
-  },
-  {
-    "id": "v_54a8b5a0",
-    "word": "lady",
-    "translation": "No registrada",
-    "source_movie": "Now is Good",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_e85e8f32",
-    "word": "Bonfire",
-    "translation": "hoguera, fogata",
+    "translation": "tan fuerte como puedas",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_6e8215b0",
+    "id": "v_1ddd579b",
+    "word": "Stall (sustantivo)",
+    "translation": "puesto, caseta, compartimento",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_e49ee451",
+    "word": "I can't believe he'd blow me off (frase no literal)",
+    "translation": "no puedo creer que me dejara de lado",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4df63d6e",
+    "word": "Bonfire",
+    "translation": "hoguera, fogata",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_de6580e0",
     "word": "Whack it on",
-    "translation": "sólo, adelante",
+    "translation": "pónlo, adelante",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a6e20fdc",
-    "word": "You're tough to please (frame no literal)",
-    "translation": "tres difícil de complacer",
+    "id": "v_63a62dba",
+    "word": "You're tough to please (frase no literal)",
+    "translation": "eres difícil de complacer",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7b8b2934",
+    "id": "v_e06475c3",
     "word": "Poke out",
     "translation": "sacar (similar a arrancar algo)",
     "source_movie": "Now is Good",
@@ -160,39 +168,39 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1693bc24",
-    "word": "Go (substantive)",
+    "id": "v_2c93ae43",
+    "word": "Go (sustantivo)",
     "translation": "turno",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1b2fc7d1",
-    "word": "I will have a crack (frame no literal)",
-    "translation": "lo intentar",
+    "id": "v_c23e4514",
+    "word": "I will have a crack (frase no literal)",
+    "translation": "lo intentaré",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e2c1b5ca",
-    "word": "Knob (connotative)",
+    "id": "v_20bd520c",
+    "word": "Knob (connotativo)",
     "translation": "idiota, imbécil",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ddcd4ae3",
-    "word": "Kick in (verb fatal en medicine)",
+    "id": "v_f730c363",
+    "word": "Kick in (verbo frasal en medicina)",
     "translation": "surtir/tener efecto",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d9269de6",
+    "id": "v_a4f9996f",
     "word": "I wiggle up and down",
     "translation": "me meneo arriba y abajo",
     "source_movie": "Now is Good",
@@ -200,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4c6e0c70",
+    "id": "v_725be20a",
     "word": "A slight tugging",
     "translation": "un ligero tirón",
     "source_movie": "Now is Good",
@@ -208,39 +216,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3079c0e0",
-    "word": "Cuff (en albinos contexts)",
+    "id": "v_7bdefb96",
+    "word": "Cuff (en algunos contextos)",
     "translation": "manguito, puño",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9f72b199",
+    "id": "v_3628bcdc",
     "word": "Catheter",
-    "translation": "catéter",
+    "translation": "cáteter",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_da1f35b2",
+    "id": "v_6e175594",
     "word": "Do you want to slap my rump?",
-    "translation": "¿Querer abofetear mi trasero?",
+    "translation": "¿Quieres abofetear mi trasero?",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9c08b90b",
-    "word": "cuenca?",
-    "translation": "No registrada",
+    "id": "v_63cb19d3",
+    "word": "You know what to look out for? (pregunta no literal)",
+    "translation": "¿Sabes qué hay que tener en cuenta?",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e1ed1ae2",
+    "id": "v_d97d7b41",
     "word": "Stiff neck",
     "translation": "tortícolis, cuello rígido",
     "source_movie": "Now is Good",
@@ -248,39 +256,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_97f12df1",
+    "id": "v_99ef1f8a",
     "word": "Drainage, bleeding (no literal)",
-    "translation": "brebaje, hemorragia",
+    "translation": "drenaje, hemorragia",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c9649e56",
+    "id": "v_0a57a1a8",
     "word": "You're bang in there (no literal)",
-    "translation": "estas ahí",
+    "translation": "estás ahí",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_99c1522c",
-    "word": "Swanky",
+    "id": "v_bafee0a8",
+    "word": "Skanky",
     "translation": "guarro, canalla",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_529837f3",
-    "word": "Rooms",
-    "translation": "estas, champiñones, hongo",
+    "id": "v_809ad030",
+    "word": "Shrooms",
+    "translation": "setas, champiñones, hongos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_09a2a1b9",
+    "id": "v_693842d9",
+    "word": "I'm not really clued up on the stuff (frase no literal)",
+    "translation": "no estoy muy al tanto del tema",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_62235410",
     "word": "About that long",
     "translation": "más o menos mucho tiempo",
     "source_movie": "Now is Good",
@@ -288,7 +304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af66c705",
+    "id": "v_a8039d3b",
     "word": "Get down, off the roof",
     "translation": "baja del tejado",
     "source_movie": "Now is Good",
@@ -296,31 +312,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_33ac8e22",
-    "word": "Hashing my buzz",
-    "translation": "golpeado mi zumbido",
+    "id": "v_adc28d44",
+    "word": "Harshing my buzz",
+    "translation": "golpeando mi zumbido",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_91fb425e",
+    "id": "v_6ef53b67",
     "word": "Rude",
     "translation": "grosero, maleducado",
     "source_movie": "Now is Good",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_ba374518",
+    "id": "v_99c270e8",
     "word": "I'd strip the engine down, give it a clean",
-    "translation": "yo desmontar el motor y lo limpiar",
+    "translation": "yo desmontaría el motor y lo limpiaría",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c49cd423",
+    "id": "v_a03b8672",
     "word": "A good long cross-country hike",
     "translation": "una buena y larga caminata campo a través",
     "source_movie": "Now is Good",
@@ -328,15 +344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8ee57525",
-    "word": "Defer (verb)",
+    "id": "v_a86cef85",
+    "word": "Defer (verbo)",
     "translation": "aplazar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_9f3cd32a",
+    "id": "v_b17ce1bf",
     "word": "Pop in",
     "translation": "aparecer",
     "source_movie": "Now is Good",
@@ -344,15 +360,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5e394460",
-    "word": "hospitalized, ¿verbal?",
-    "translation": "No registrada",
+    "id": "v_ed6d9133",
+    "word": "Don't want to outstay a welcome, do you? (no literal)",
+    "translation": "no querrás abusar de la hospitalidad, ¿verdad?",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_16b49923",
+    "id": "v_25f03306",
     "word": "Other way round",
     "translation": "al revés, al contrario",
     "source_movie": "Now is Good",
@@ -360,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4b4d2207",
+    "id": "v_fc2c6dbe",
     "word": "I caught her fist a good one with my chin",
     "translation": "le di un buen puñetazo con el mentón",
     "source_movie": "Now is Good",
@@ -368,31 +384,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_71b627c7",
-    "word": "Bollocks (expression)",
-    "translation": "tontería",
+    "id": "v_fafb9fe7",
+    "word": "Bollocks (expresión)",
+    "translation": "tonterías",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6b794906",
+    "id": "v_3d138a67",
     "word": "That flirty eye thing",
-    "translation": "esa cosa de los ojo coqueto",
+    "translation": "esa cosa de los ojos coquetos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_76433805",
-    "word": "talk si extras en el moment perfecto?",
-    "translation": "No registrada",
+    "id": "v_72956bad",
+    "word": "What about you nipping in there with the perfect timing? (pregunta no literal)",
+    "translation": "¿Qué tal si entras en el momento perfecto?",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9079ea7b",
+    "id": "v_9d24bdac",
     "word": "Cash out",
     "translation": "retirar dinero",
     "source_movie": "Now is Good",
@@ -400,63 +416,71 @@
     "global_frequency": 2
   },
   {
-    "id": "v_90f4a0ff",
+    "id": "v_887c5ddb",
     "word": "I was nipping in there (no literal)",
-    "translation": "yo estafa metido allí",
+    "translation": "yo estaba metiendo allí",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_62c505d0",
+    "id": "v_88c64744",
     "word": "Shoplifting's all about confidence",
-    "translation": "robar en rienda es cuestión de confianza",
+    "translation": "robar en tiendas es cuestión de confianza",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_df76ca28",
+    "id": "v_e12afc35",
     "word": "Walk tall, pick and pocket",
-    "translation": "camino ruido, coger y embolia",
+    "translation": "camina erguido, coge y embolsa",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b5b89f74",
+    "id": "v_a16a78a1",
     "word": "Sort out the readings",
-    "translation": "ordenar las lectura",
+    "translation": "ordenar las lecturas",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_be85f39e",
-    "word": "Portacath (abusive a un disposition medico)",
+    "id": "v_40da8e51",
+    "word": "It's been done to death (parcialmente no literal)",
+    "translation": "se ha hecho hasta la saciedad",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d1fd4068",
+    "word": "Portacath (alusivo a un dispositivo médico)",
     "translation": "catéter subcutáneo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cb886e47",
-    "word": "Act lymphoblasts leukemia",
-    "translation": "leucenia linfoblástica aguda",
+    "id": "v_eb5e234b",
+    "word": "Acte lymphoblastic leukemia",
+    "translation": "leucemia linfoblástica aguda",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e2bbaf78",
+    "id": "v_c9f9d340",
     "word": "Shoplifting",
-    "translation": "robar en rienda",
+    "translation": "robar en tiendas",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f49eb9ef",
+    "id": "v_68410b5b",
     "word": "Huddle in a blanket",
     "translation": "acurrucarse en una manta",
     "source_movie": "Now is Good",
@@ -464,63 +488,63 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6499689d",
-    "word": "perfectamente formed",
-    "translation": "No registrada",
+    "id": "v_98f76f41",
+    "word": "An admittedly perfectly formed, young pixie warlock",
+    "translation": "un joven hechicero duendecillo perfectamente formado",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6bf9e552",
+    "id": "v_d621fee4",
     "word": "Warlock",
     "translation": "bruja, hechicera",
     "source_movie": "Now is Good",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_44d05fa0",
+    "id": "v_2739b557",
     "word": "Every which way (no literal)",
-    "translation": "en todo los sentido",
+    "translation": "en todos los sentidos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cdd0a47a",
+    "id": "v_fa9ea6e4",
     "word": "I plucked up the courage",
-    "translation": "me arma de valor",
+    "translation": "me armé de valor",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_020bfbef",
+    "id": "v_be98b3c5",
     "word": "He could drive past",
-    "translation": "poesía pasar en auto",
+    "translation": "podría pasar en auto",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8d280b19",
+    "id": "v_79e4427f",
     "word": "Perks",
-    "translation": "beneficio, ventaja",
+    "translation": "beneficios, ventajas",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_edcc226e",
+    "word": "Commit (verbo)",
+    "translation": "comprometerse",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_69173632",
-    "word": "Commit (verb)",
-    "translation": "comprometer",
-    "source_movie": "Now is Good",
-    "year_processed": "2025",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_135c0064",
+    "id": "v_69d09a19",
     "word": "We just run in, full whack",
     "translation": "entramos a toda velocidad",
     "source_movie": "Now is Good",
@@ -528,15 +552,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0241fea3",
+    "id": "v_1643bc46",
     "word": "Lie awake (no literal)",
-    "translation": "estar despierto, quedar despierto",
+    "translation": "estar despierto, quedarse despierto",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d126f720",
+    "id": "v_13b534ee",
     "word": "Chop off",
     "translation": "cortar",
     "source_movie": "Now is Good",
@@ -544,7 +568,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_179753e5",
+    "id": "v_0867b4dc",
     "word": "This is gonna be aloud one",
     "translation": "este va a ser uno en voz alta",
     "source_movie": "Now is Good",
@@ -552,71 +576,71 @@
     "global_frequency": 1
   },
   {
-    "id": "v_23b749d8",
-    "word": "Nurse (verb)",
+    "id": "v_9debe9f1",
+    "word": "Nurse (verbo)",
     "translation": "cuidar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_090c5a5f",
-    "word": "You’re not up (en rabatos)",
-    "translation": "no estas capacidad, no estas a la altura",
+    "id": "v_653a9186",
+    "word": "You’re not up (en trabajos)",
+    "translation": "no estás capacitado, no estás a la altura",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6139741c",
-    "word": "queen de su vida",
-    "translation": "No registrada",
+    "id": "v_ef0a5685",
+    "word": "Do a favor, piss off out of what's left of her life",
+    "translation": "hazle un favor, lárgate de lo que queda de su vida",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_fd6fce49",
+    "id": "v_e5e8e076",
     "word": "Holding tissues and looking gutted",
-    "translation": "sostenido pañuelo y pereciendo destripador",
+    "translation": "sosteniendo pañuelos y pareciendo destripado",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cf3076c8",
+    "id": "v_0915e52a",
     "word": "I want it gone",
-    "translation": "quieto que desaparezca",
+    "translation": "quiero que desaparezca",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_90177944",
+    "id": "v_91204285",
     "word": "You hit that curb",
-    "translation": "golpete este bordillo",
+    "translation": "golpeaste este bordillo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_18503c50",
+    "id": "v_712e2d63",
     "word": "It's pumping out of blood",
-    "translation": "esta bombeando sangre",
+    "translation": "está bombeando sangre",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c457f61e",
-    "word": "Pinch (verb)",
-    "translation": "pellizcar",
+    "id": "v_8c519d01",
+    "word": "Pinch (verbo)",
+    "translation": "pellizcarse",
     "source_movie": "Now is Good",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_a2cd2859",
+    "id": "v_179360d6",
     "word": "Sweet corn",
     "translation": "maíz dulce",
     "source_movie": "Now is Good",
@@ -624,7 +648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5526ea8c",
+    "id": "v_ad967568",
     "word": "Any pinprick bruising",
     "translation": "algún hematoma punzante",
     "source_movie": "Now is Good",
@@ -632,7 +656,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_50a865a7",
+    "id": "v_5e82b785",
     "word": "Platelet",
     "translation": "plaqueta",
     "source_movie": "Now is Good",
@@ -640,7 +664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9fdb900d",
+    "id": "v_8aaf8e3b",
     "word": "Thrombocytopenia",
     "translation": "trombocitopenia",
     "source_movie": "Now is Good",
@@ -648,15 +672,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2253243c",
-    "word": "Cauterize (verb)",
+    "id": "v_7b672e65",
+    "word": "Cauterize (verbo)",
     "translation": "cauterizar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_82fcbe41",
+    "id": "v_7e4eb3c6",
     "word": "We got there in the end",
     "translation": "al final lo conseguimos",
     "source_movie": "Now is Good",
@@ -664,31 +688,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_51964c75",
-    "word": "Vasoconstriction",
+    "id": "v_a4b1b117",
+    "word": "Vasoconstrictive",
     "translation": "vasoconstrictor",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f64c872e",
-    "word": "Transfuse (verb)",
+    "id": "v_a546c512",
+    "word": "Transfuse (verbo)",
     "translation": "transfundir",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_be900e73",
+    "id": "v_0b8412be",
     "word": "It was a bit of a shock",
-    "translation": "que un poco chocante/importante",
+    "translation": "fue un poco chocante/impactante",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5d9f9923",
+    "id": "v_bcd45c57",
     "word": "Buttered",
     "translation": "con mantequilla",
     "source_movie": "Now is Good",
@@ -696,15 +720,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58285a51",
+    "id": "v_d611430d",
     "word": "Juggling clubs!",
-    "translation": "¡Malabar!",
+    "translation": "¡Malabares!",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_66851ed8",
+    "id": "v_0cec62e7",
     "word": "Cross off",
     "translation": "tachar",
     "source_movie": "Now is Good",
@@ -712,23 +736,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dfd4b697",
+    "id": "v_25ff1fd7",
     "word": "There are things I've kind of opted out of",
-    "translation": "ha cosa de las que he opiado por no",
+    "translation": "hay cosas de las que he optado por no participar",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0006f0e5",
-    "word": "particular",
-    "translation": "No registrada",
-    "source_movie": "Now is Good",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_8d4ea186",
+    "id": "v_6122f8df",
     "word": "All the way across",
     "translation": "hasta el otro lado",
     "source_movie": "Now is Good",
@@ -736,39 +752,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0d3f450a",
+    "id": "v_2ebd2b45",
     "word": "My bum hurts",
-    "translation": "me duelo el trasero",
+    "translation": "me duele el tresero",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8dbc257f",
-    "word": "Don't pull rank on me (frame no literal)",
-    "translation": "no me tome el pelo",
+    "id": "v_7ba5317f",
+    "word": "Don't pull rank on me (frase no literal)",
+    "translation": "no me tomes el pelo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_311718c9",
-    "word": "Rank (en albinos contexts)",
+    "id": "v_3c5e6cc6",
+    "word": "Rank (en algunos contextos)",
     "translation": "rango, autoridad",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c2f2e66b",
+    "id": "v_50eaa5c0",
     "word": "It's too bloody far",
-    "translation": "esta demasiado lejos",
+    "translation": "está demasiado lejos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6421bbc0",
+    "id": "v_188c7c04",
     "word": "Psyching myself up",
     "translation": "mentalizándome",
     "source_movie": "Now is Good",
@@ -776,31 +792,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_09affd23",
+    "id": "v_541832e4",
     "word": "I quite fancy a cup of tea",
-    "translation": "me apetecer una taza de té",
+    "translation": "me apetece una taza de té",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_093d1efe",
-    "word": "Rely (verb)",
+    "id": "v_3eb32528",
+    "word": "Rely (verbo)",
     "translation": "confiar, depender",
     "source_movie": "Now is Good",
     "year_processed": "2025",
-    "global_frequency": 10
+    "global_frequency": 11
   },
   {
-    "id": "v_085e0907",
-    "word": "Daffodils (abusive a una for)",
-    "translation": "narciso",
+    "id": "v_dd7211ac",
+    "word": "Daffodils (alusivo a una flor)",
+    "translation": "narcisos",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_275759e5",
+    "id": "v_9bace87a",
     "word": "Peacock",
     "translation": "pavo real",
     "source_movie": "Now is Good",
@@ -808,7 +824,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ebf2608b",
+    "id": "v_11a238ed",
     "word": "A joint bank account",
     "translation": "una cuenta bancaria común/conjunta",
     "source_movie": "Now is Good",
@@ -816,7 +832,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0a819476",
+    "id": "v_e4bb5aa7",
     "word": "Which is pretty bloody gross",
     "translation": "lo cual es bastante asqueroso",
     "source_movie": "Now is Good",
@@ -824,7 +840,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8027fcce",
+    "id": "v_575c8426",
+    "word": "It's gonna be me that's left behind on my own",
+    "translation": "seré yo el que se quede solo",
+    "source_movie": "Now is Good",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_18bb3490",
     "word": "The wild-haired girl",
     "translation": "la chica de pelo salvaje",
     "source_movie": "Now is Good",
@@ -832,63 +856,63 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d3b202e7",
+    "id": "v_c76d666a",
     "word": "Drift in and out of consciousness",
-    "translation": "entrar y salir de la conciencia",
+    "translation": "entrar y salir de la consciencia",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6eaa2565",
+    "id": "v_c93f4482",
     "word": "Drift away",
-    "translation": "se a la deriva",
+    "translation": "irse a la deriva",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_36b45af9",
+    "id": "v_12a5f5b7",
     "word": "Just getting an ice lolly",
-    "translation": "sólo esto tomado un helado",
+    "translation": "sólo estoy tomando un helado",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_164da49c",
+    "id": "v_83ab5dba",
     "word": "And it bored the hole off me",
-    "translation": "y me aburrir hasta el agujero",
+    "translation": "y me aburrió hasta el agujero",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1402cf49",
+    "id": "v_598c39e8",
     "word": "Spin round",
-    "translation": "girar, dar vuelta",
+    "translation": "girar, dar vueltas",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ae72d289",
-    "word": "If it bit you on the are",
-    "translation": "si te morder en el culo",
+    "id": "v_2117e723",
+    "word": "If it bit you on the arse",
+    "translation": "si te mordiera en el culo",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_687616fd",
-    "word": "Ward (verb)",
+    "id": "v_00253482",
+    "word": "Ward (verbo)",
     "translation": "proteger",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_90b52123",
+    "id": "v_76a9fa5f",
     "word": "Clinging to me",
     "translation": "aferrándose a mí",
     "source_movie": "Now is Good",
@@ -896,7 +920,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_317c533e",
+    "id": "v_68e453d8",
     "word": "Speed by",
     "translation": "pasar a toda velocidad",
     "source_movie": "Now is Good",
@@ -904,9 +928,9 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dab7ce82",
+    "id": "v_4c417ab1",
     "word": "Two lovers loved out of love",
-    "translation": "dos amante amado por amor",
+    "translation": "dos amantes amados por amor",
     "source_movie": "Now is Good",
     "year_processed": "2025",
     "global_frequency": 1

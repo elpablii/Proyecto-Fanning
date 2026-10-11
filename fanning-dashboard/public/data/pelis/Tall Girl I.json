@@ -93,11 +93,11 @@
     },
     {
       "word": "Let your freak flag fly (frase no literal)",
-      "translation": "deja que tu lado más extravagante salga a"
+      "translation": "deja que tu lado más extravagante salga a relucir"
     },
     {
-      "word": "relucir",
-      "translation": "No registrada"
+      "word": "I don't have everything on your perfect boyfriend checklist (forma no literal)",
+      "translation": "no cumplo con todos los requisitos de tu lista del novio ideal"
     },
     {
       "word": "Checklist",
@@ -108,12 +108,16 @@
       "translation": "guapo"
     },
     {
-      "word": "atormentaba",
-      "translation": "No registrada"
+      "word": "She was one of my original tormentors (no literal)",
+      "translation": "ella fue una de las que más me atormentaba"
     },
     {
       "word": "Pick up (no alusivo a recoger)",
       "translation": "lo aprendí"
+    },
+    {
+      "word": "It could backfire big-time (frase no literal)",
+      "translation": "podría salirles muy mal"
     },
     {
       "word": "Down the line",
@@ -128,12 +132,16 @@
       "translation": "familia de acogida"
     },
     {
+      "word": "But I sit shotgun (informal y parcialmente no literal)",
+      "translation": "pero yo voy de copiloto"
+    },
+    {
       "word": "Very large little boy",
       "translation": "un niño muy grandote"
     },
     {
-      "word": "de look que te va a dejar boquiabierta",
-      "translation": "No registrada"
+      "word": "I'm going to Extreme Makeover the crap out of you",
+      "translation": "te voy a hacer un cambio radical de look que te va a dejar boquiabierta"
     },
     {
       "word": "Sharks on chum",
@@ -189,11 +197,7 @@
     },
     {
       "word": "Look who's the artist-dropper now",
-      "translation": "mira quién se ha convertido ahora en el que deja a"
-    },
-    {
-      "word": "los artistas en la estacada",
-      "translation": "No registrada"
+      "translation": "mira quién se ha convertido ahora en el que deja a los artistas en la estacada"
     },
     {
       "word": "I gotta step up my game (frase no literal)",
@@ -228,8 +232,8 @@
       "translation": "eso es alucinante"
     },
     {
-      "word": "quicio",
-      "translation": "No registrada"
+      "word": "Plenty of stuff rattles me (parcialmente no literal)",
+      "translation": "hay muchas cosas que me sacan de quicio"
     },
     {
       "word": "I just roll with it (frase no literal)",
@@ -260,6 +264,10 @@
       "translation": "larguirucho, poste"
     },
     {
+      "word": "You're moving in on my man (frase no literal)",
+      "translation": "te estás metiendo con mi chico"
+    },
+    {
       "word": "Chapter (aparte de capítulo)",
       "translation": "sección"
     },
@@ -277,11 +285,11 @@
     },
     {
       "word": "I'm gonna kick you in the nards hard",
-      "translation": "te voy a dar una patada bien fuerte en las"
+      "translation": "te voy a dar una patada bien fuerte en las pelotas"
     },
     {
-      "word": "pelotas",
-      "translation": "No registrada"
+      "word": "Nards (alusivo al sistema reproductor masculino en forma despectiva)",
+      "translation": "pelotas"
     },
     {
       "word": "Overdressed",
@@ -289,11 +297,7 @@
     },
     {
       "word": "Here is the gist, a practical list of don'ts",
-      "translation": "en resumen, aquí tienes una lista práctica"
-    },
-    {
-      "word": "de lo que no debes hacer",
-      "translation": "No registrada"
+      "translation": "en resumen, aquí tienes una lista práctica de lo que no debes hacer"
     },
     {
       "word": "Don't please my folks too much (no literal)",
@@ -341,11 +345,7 @@
     },
     {
       "word": "You're in line to be Homecoming King",
-      "translation": "estás en la lista de candidatos a Rey del"
-    },
-    {
-      "word": "Homecoming",
-      "translation": "No registrada"
+      "translation": "estás en la lista de candidatos a Rey del Homecoming"
     },
     {
       "word": "Stand up to",
@@ -436,8 +436,8 @@
       "translation": "dame una carta negra"
     },
     {
-      "word": "tuneando, haciendo estallar",
-      "translation": "No registrada"
+      "word": "We chipping and chopping and pimping and popping",
+      "translation": "estamos picando, troceando, tuneando, haciendo estallar"
     },
     {
       "word": "Yachting",
@@ -453,15 +453,11 @@
     },
     {
       "word": "Jump around and blaze off the ceiling",
-      "translation": "salta por todas partes y dispara contra el"
+      "translation": "salta por todas partes y dispara contra el techo"
     },
     {
-      "word": "techo",
-      "translation": "No registrada"
-    },
-    {
-      "word": "conversaciones",
-      "translation": "No registrada"
+      "word": "She was getting pulled into conversations (forma no literal)",
+      "translation": "la iban metiendo en conversaciones"
     },
     {
       "word": "I took a spill (frase no literal)",
@@ -488,8 +484,8 @@
       "translation": "llega en mi auto"
     },
     {
-      "word": "porque puedo aguantarlo",
-      "translation": "No registrada"
+      "word": "Keep calling me names, because I can take it (frase no literal)",
+      "translation": "sigue insultándome, porque puedo aguantarlo"
     },
     {
       "word": "I got caught up in a wave",
@@ -566,5 +562,7 @@
       "https://image.tmdb.org/t/p/w780/akvf2v7JqO21zBtSi2z6X2YdqLN.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 137,
+  "dialogues": 1846
 }

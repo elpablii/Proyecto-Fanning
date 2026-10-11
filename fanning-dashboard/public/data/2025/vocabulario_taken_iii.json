@@ -1,22 +1,22 @@
 [
   {
-    "id": "v_e62e01ef",
+    "id": "v_dfa8ec3b",
     "word": "Checkbook",
-    "translation": "talonario de cheque, chaqueta",
+    "translation": "talonario de cheques, chequera",
     "source_movie": "Taken III",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 5
   },
   {
-    "id": "v_b1edf420",
+    "id": "v_ee1e2ceb",
     "word": "You can hang on to it",
-    "translation": "tú pues aferrar a él",
+    "translation": "tú puedes aferrarte a él",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d59b5097",
+    "id": "v_1e3fb11e",
     "word": "Bubbly",
     "translation": "champán, burbujeante",
     "source_movie": "Taken III",
@@ -24,39 +24,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7d23e34",
-    "word": "Hit (en terminus de resulted)",
+    "id": "v_755c8184",
+    "word": "Hit (en términos de resultado)",
     "translation": "éxito",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_05be158d",
-    "word": "I'm not intruding?",
-    "translation": "¿No esto molestador?",
+    "id": "v_0ceb1e33",
+    "word": "I'll take a rain check on that (frase no literal)",
+    "translation": "lo dejaré para otro día",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a81500a3",
-    "word": "Counseling (substantive)",
+    "id": "v_4686f642",
+    "word": "I'm not intruding?",
+    "translation": "¿No estoy molestando?",
+    "source_movie": "Taken III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b28f9570",
+    "word": "Counseling (sustantivo)",
     "translation": "asesoramiento, orientación",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4494e3b7",
-    "word": "Fantasize (verb)",
+    "id": "v_62d440e3",
+    "word": "I hate going through the motions (frase no literal)",
+    "translation": "odio pasar por lo mismo",
+    "source_movie": "Taken III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_54e817bf",
+    "word": "Fantasize (verbo)",
     "translation": "fantasear",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ee32c47c",
+    "id": "v_75a15106",
     "word": "It's not helping your stroke (no literal)",
     "translation": "no ayuda a tu apoplejía",
     "source_movie": "Taken III",
@@ -64,103 +80,111 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d02917d0",
-    "word": "So to speak (expression)",
-    "translation": "por así decir",
+    "id": "v_94d171d6",
+    "word": "Shrink (alusivo a una persona que trabaja en salud mental)",
+    "translation": "psiquiatra",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_862862fe",
+    "id": "v_cba669d1",
+    "word": "So to speak (expresión)",
+    "translation": "por así decirlo",
+    "source_movie": "Taken III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f4d0e3b2",
     "word": "Until we sort things out",
-    "translation": "hasta que arreglemos las cosa",
+    "translation": "hasta que arreglemos las cosas",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_439053dd",
+    "id": "v_2dceedc7",
     "word": "Bagels",
-    "translation": "panecillo, bollo",
+    "translation": "panecillos, bollos",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_be9b9794",
+    "id": "v_50fe1411",
     "word": "Moving in!",
-    "translation": "¡Entrado!",
+    "translation": "¡Entrando!",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5206f21f",
-    "word": "Canvas (verb)",
+    "id": "v_9d3f93eb",
+    "word": "Canvas (verbo)",
     "translation": "sondear",
     "source_movie": "Taken III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_cd961e71",
+    "id": "v_6d3a7645",
     "word": "Stand around",
-    "translation": "quedar parado",
+    "translation": "quedarse parado",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_07b5ffa6",
+    "id": "v_8f47d307",
     "word": "No service record",
-    "translation": "sin hoja de servicio, sin registro de servicio",
+    "translation": "sin hoja de servicios, sin registro de servicios",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9da0e150",
+    "id": "v_009f3302",
     "word": "No discharge",
-    "translation": "no ha alta",
+    "translation": "no hay alta",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_aae965f0",
+    "id": "v_364f4c3f",
     "word": "Some guy offed his ex",
-    "translation": "un tipo se cargo a su ex",
+    "translation": "un tipo se cargó a su ex",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b7d7a0e6",
-    "word": "Bustling (adjective)",
-    "translation": "animador, bullicioso",
+    "id": "v_7a84f541",
+    "word": "Bustling (adjetivo)",
+    "translation": "animado, bullicioso",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4cbeaf5d",
-    "word": "Playback (en terminus no musicales)",
+    "id": "v_b670e9db",
+    "word": "Playback (en términos no musicales)",
     "translation": "reproducción",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_15f20a28",
+    "id": "v_d2f344f4",
     "word": "Breaks down sometimes",
-    "translation": "a veras se estropear/romper",
+    "translation": "a veces se estropea/rompe",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_659b88f0",
+    "id": "v_b93e3075",
     "word": "Step out",
     "translation": "salir",
     "source_movie": "Taken III",
@@ -168,23 +192,23 @@
     "global_frequency": 4
   },
   {
-    "id": "v_938163cb",
+    "id": "v_dfd23091",
     "word": "He's a control freak",
-    "translation": "es un maniático del contra",
+    "translation": "es un maniático del control",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_904c0701",
+    "id": "v_e59babfd",
     "word": "Back it up!",
-    "translation": "¡Anómalo!, ¡Retroceder!",
+    "translation": "¡Apóyalo!, ¡Retrocede!",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_045d0eec",
+    "id": "v_868284d7",
     "word": "Pileup",
     "translation": "apilamiento, amontonamiento",
     "source_movie": "Taken III",
@@ -192,7 +216,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_7ff6820d",
+    "id": "v_3d6c9c5d",
     "word": "Massive clusterfuck",
     "translation": "desorden masivo, gran cantidad",
     "source_movie": "Taken III",
@@ -200,15 +224,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_00e56fc4",
+    "id": "v_99a41b07",
     "word": "Out front",
     "translation": "al frente",
     "source_movie": "Taken III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_b3cadb87",
+    "id": "v_ed883f52",
     "word": "With her throat slashed",
     "translation": "con la garganta cortada",
     "source_movie": "Taken III",
@@ -216,39 +240,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6774338e",
+    "id": "v_7904a3e5",
     "word": "She was snatched",
-    "translation": "ella que secuestrador/arrebatada",
+    "translation": "ella fue secuestrada/arrebatada",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8145af1d",
+    "id": "v_afe3551a",
     "word": "Shepherd",
     "translation": "pastor",
     "source_movie": "Taken III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_2391c970",
+    "id": "v_5b197237",
     "word": "Green pastures",
-    "translation": "pastor verde",
+    "translation": "pastos verdes",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_afdc629a",
-    "word": "He leader me beside still waters",
-    "translation": "me conducir junto a agua tranquila",
+    "id": "v_2e760f4e",
+    "word": "He leadeth me beside still waters",
+    "translation": "me conduce junto a aguas tranquilas",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9d56db8e",
+    "id": "v_d56ceb41",
     "word": "Just stick to your schedule",
     "translation": "solo limítate a tu horario",
     "source_movie": "Taken III",
@@ -256,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9aa70ce5",
+    "id": "v_e8b84d25",
     "word": "Cut the feed",
     "translation": "corta el suministro/alimento",
     "source_movie": "Taken III",
@@ -264,55 +288,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cc49e89f",
+    "id": "v_838fa931",
     "word": "Standard operating procedure",
-    "translation": "procedimiento operativo entandar",
+    "translation": "procedimiento operativo estándar",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d538d3d6",
-    "word": "I do hold you responsible",
-    "translation": "yo sí te pago responsable",
+    "id": "v_eedb5c97",
+    "word": "I do hold you responsable",
+    "translation": "yo sí te hago responsable",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_23618b79",
+    "id": "v_27141adc",
     "word": "Convenience store",
-    "translation": "rienda de conveniencia",
+    "translation": "tienda de conveniencia",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2f5856e1",
+    "id": "v_8764f858",
     "word": "Chugged down a drink of some kind",
-    "translation": "se beber una bebida de algún tipo",
+    "translation": "se bebió una bebida de algún tipo",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a64fd90f",
+    "id": "v_9d9ce469",
     "word": "Dorsal and ventral streams",
-    "translation": "corriente dorsal y ventral",
+    "translation": "corrientes dorsales y ventrales",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_219be3b7",
+    "id": "v_7496bd3a",
     "word": "This will take it away",
-    "translation": "esto lo quitar",
+    "translation": "esto lo quitará",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c0e2c195",
+    "id": "v_74b5d3af",
     "word": "Skimpy",
     "translation": "escaso, ajustado",
     "source_movie": "Taken III",
@@ -320,15 +344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2b0901ad",
+    "id": "v_024406cf",
     "word": "Put the cuffs on",
-    "translation": "donde las esposas",
+    "translation": "ponle las esposas",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_60d1ee15",
+    "id": "v_e9d8eca1",
     "word": "Your A-game",
     "translation": "tu mejor juego",
     "source_movie": "Taken III",
@@ -336,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_40816735",
+    "id": "v_a8c17685",
     "word": "Sort through",
     "translation": "ordenar, clasificar",
     "source_movie": "Taken III",
@@ -344,87 +368,87 @@
     "global_frequency": 2
   },
   {
-    "id": "v_6e70b45c",
+    "id": "v_ac0eda66",
     "word": "There's a shitload of data here (no literal)",
-    "translation": "aquí ha un montón de dato",
+    "translation": "aquí hay un montón de datos",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_45b76309",
-    "word": "Catch (verb en albinos contexts)",
+    "id": "v_3548f91d",
+    "word": "Catch (verbo en algunos contextos)",
     "translation": "pescar, atrapar, capturar",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9c4c0b37",
+    "id": "v_2c91f825",
     "word": "Grabbers",
-    "translation": "agarrador",
+    "translation": "agarradores",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c1f213d3",
+    "id": "v_b81c1e99",
     "word": "I got a back full of perishables",
-    "translation": "tengo la espalda llena de perecedero",
+    "translation": "tengo la espalda llena de perecederos",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b46ba928",
+    "id": "v_d4685ec5",
     "word": "Keep me up to date",
-    "translation": "manténme informador",
+    "translation": "manténme informado",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f909ce18",
+    "id": "v_b9a2a1ec",
     "word": "Insurance policies",
-    "translation": "póliza de seguro",
+    "translation": "pólizas de seguros",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_201dd1c9",
+    "id": "v_9140960e",
     "word": "I want the full work-up",
-    "translation": "quieto el análisis completo",
+    "translation": "quiero el análisis completo",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a9b6d75d",
+    "id": "v_2de2159c",
     "word": "I need a run on a California plate",
-    "translation": "necesitar una carrera en una placa de California",
+    "translation": "necesito una carrera en una placa de California",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_dd06b6eb",
+    "id": "v_e1249a69",
     "word": "Piece together",
     "translation": "juntar, reconstruir, recomponer",
     "source_movie": "Taken III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_d3cbad0a",
-    "word": "Abduct (verb)",
+    "id": "v_12898e2c",
+    "word": "Abduct (verbo)",
     "translation": "secuestrar",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b214141a",
+    "id": "v_65208307",
     "word": "Playing me off against the Russian",
     "translation": "enfrentándome contra el ruso",
     "source_movie": "Taken III",
@@ -432,23 +456,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7bd88e0",
+    "id": "v_b49db157",
     "word": "Timestamps",
-    "translation": "marca de tiempo",
+    "translation": "marcas de tiempo",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f8d13f13",
+    "id": "v_9ef12109",
     "word": "You were plush and I laid bare",
-    "translation": "tú estas afelpado y yo desnudo",
+    "translation": "tú estabas afelpado y yo desnudo",
     "source_movie": "Taken III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_32550f2b",
+    "id": "v_a059726a",
     "word": "Lay your weakness down",
     "translation": "dejar tu debilidad",
     "source_movie": "Taken III",

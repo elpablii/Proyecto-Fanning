@@ -8,6 +8,10 @@
       "translation": "ese imbécil desmesurado"
     },
     {
+      "word": "Lemme hit some of that (parcialmente no literal)",
+      "translation": "déjame probar un poco de eso"
+    },
+    {
       "word": "Homie (informal)",
       "translation": "amigo"
     },
@@ -17,11 +21,11 @@
     },
     {
       "word": "We're copping off of one of they O.G.s, man",
-      "translation": "estamos copiando/robando a uno de los"
+      "translation": "estamos copiando/robando a uno de los pioneros tío"
     },
     {
-      "word": "pioneros tío",
-      "translation": "No registrada"
+      "word": "And make some benjamins (frase informal no literal)",
+      "translation": "y ganar algo de dinero"
     },
     {
       "word": "A fucking rat (no literal)",
@@ -36,8 +40,12 @@
       "translation": "eso se olvidará pronto"
     },
     {
-      "word": "de mierda",
-      "translation": "No registrada"
+      "word": "Make something of yourself (frase no literal)",
+      "translation": "haz algo con tu vida"
+    },
+    {
+      "word": "One showed himself, old perpretarting ass bitch",
+      "translation": "el otro se entregó, viejo pervertido de mierda"
     },
     {
       "word": "Lighten up",
@@ -56,8 +64,8 @@
       "translation": "cabrón, chupapollas"
     },
     {
-      "word": "hizo famoso en toda Florida",
-      "translation": "No registrada"
+      "word": "Since Sonny Forelli got himself pasted all over Florida",
+      "translation": "desde que Sonny Forelli se hizo famoso en toda Florida"
     },
     {
       "word": "Bump",
@@ -65,15 +73,11 @@
     },
     {
       "word": "Losers hit the rails and nail hookers",
-      "translation": "los perdedores se lanzan a las vías y se clavan a"
+      "translation": "los perdedores se lanzan a las vías y se clavan a las prostitutas"
     },
     {
-      "word": "las prostitutas",
-      "translation": "No registrada"
-    },
-    {
-      "word": "la abogacía",
-      "translation": "No registrada"
+      "word": "I've been disbarred from the law (frase no literal)",
+      "translation": "me han inhabilitado para ejercer la abogacía"
     },
     {
       "word": "Hit squad",
@@ -104,40 +108,48 @@
       "translation": "rompepelotas"
     },
     {
-      "word": "alguien nuevo",
-      "translation": "No registrada"
+      "word": "He gets capped, so we get a new guy in (frase no literal)",
+      "translation": "lo despiden y contratamos a alguien nuevo"
     },
     {
       "word": "Push around (verbo frasal no literal)",
       "translation": "intimidar"
     },
     {
+      "word": "He's sniffing around for a job (frase no literal)",
+      "translation": "está buscando trabajo"
+    },
+    {
       "word": "Freebase (verbo informal)",
       "translation": "fumar crack"
     },
     {
-      "word": "con la suya tras golpear a su esposa",
-      "translation": "No registrada"
+      "word": "I let a guy off with beating up his wife (frase no literal)",
+      "translation": "dejé que un tipo se saliera con la suya tras golpear a su esposa"
     },
     {
       "word": "Gangbangers",
       "translation": "pandilleros"
     },
     {
-      "word": "lugar",
-      "translation": "No registrada"
+      "word": "Just getting a feel for the place (frase no literal)",
+      "translation": "solo estoy familiarizándome con el lugar"
     },
     {
       "word": "Suck off (despectivo)",
       "translation": "chupársela"
     },
     {
-      "word": "siquiera te mira",
-      "translation": "No registrada"
+      "word": "Johnny fucking Sindacco even so much as blinks at you",
+      "translation": "el maldito Johnny Sindacco ni siquiera te mira"
     },
     {
       "word": "Schmuck (informal)",
       "translation": "guapa"
+    },
+    {
+      "word": "You cap him, or I cap you (informal y en policía)",
+      "translation": "o le disparas o te disparo yo"
     }
   ],
   "tmdb": {
@@ -151,5 +163,7 @@
       "https://image.tmdb.org/t/p/w780/kYubqp2OpCnv3RluOG1F3yn7nPc.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 37,
+  "dialogues": 363
 }

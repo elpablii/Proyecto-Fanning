@@ -4,8 +4,8 @@
   "englishAnalysis": "Un desafío fascinante: el diálogo está escrito en un riguroso inglés moderno temprano (siglo XVII). Está lleno de arcaísmos ('thee', 'thou'), referencias bíblicas y terminología puritana. Ideal para quienes desean explorar la raíz histórica profunda del idioma.",
   "vocabulary": [
     {
-      "word": "salvaje?",
-      "translation": "No registrada"
+      "word": "What went we out into this wilderness to find?",
+      "translation": "¿Qué salimos a buscar a esta tierra salvaje?"
     },
     {
       "word": "Kindred",
@@ -22,6 +22,10 @@
     {
       "word": "Gospel",
       "translation": "evangelio"
+    },
+    {
+      "word": "Then take your leave and trouble us no further",
+      "translation": "entonces vete y no nos molestes más"
     },
     {
       "word": "Idle (adjetivo)",
@@ -50,6 +54,10 @@
     {
       "word": "Wilderness",
       "translation": "tierra salvaje"
+    },
+    {
+      "word": "Aren't thou then born a sinner? (inglés antiguo)",
+      "translation": "¿No naciste pecador?"
     },
     {
       "word": "Iniquity",
@@ -136,12 +144,20 @@
       "translation": "ven aquí"
     },
     {
-      "word": "encontrado",
-      "translation": "No registrada"
+      "word": "I would thou hadst found them (inglés antiguo no literal)",
+      "translation": "ojalá los hubieras encontrado"
     },
     {
       "word": "Hear me stick a-flying through the trees",
       "translation": "escúchame volar entre los árboles"
+    },
+    {
+      "word": "Why is't when thou dost a wrong (inglés antiguo)",
+      "translation": "por qué cuando haces algo malo"
+    },
+    {
+      "word": "And thou art playing idle (inglés antiguo no literal)",
+      "translation": "y tú te haces el ocioso"
     },
     {
       "word": "Cloak",
@@ -232,6 +248,10 @@
       "translation": "porque arrepentidos serán ahora"
     },
     {
+      "word": "I'll set off at first light (frase no literal)",
+      "translation": "saldré al amanecer"
+    },
+    {
       "word": "Raise up",
       "translation": "suscitar, obtener"
     },
@@ -309,11 +329,7 @@
     },
     {
       "word": "She had bade us keep secret from you!",
-      "translation": "¡Nos había ordenado que te guardáramos el"
-    },
-    {
-      "word": "secreto!",
-      "translation": "No registrada"
+      "translation": "¡Nos había ordenado que te guardáramos el secreto!"
     },
     {
       "word": "Make bargain",
@@ -360,8 +376,8 @@
       "translation": "¡Vete!"
     },
     {
-      "word": "precioso en primavera",
-      "translation": "No registrada"
+      "word": "This tree will be lovely come spring (parcialmente no literal)",
+      "translation": "este árbol estará precioso en primavera"
     },
     {
       "word": "Thither (inglés antiguo)",
@@ -393,11 +409,7 @@
     },
     {
       "word": "You cannot bring the crops to yield!",
-      "translation": "¡No puedes hacer que las cosechas/cultivos"
-    },
-    {
-      "word": "rindan!",
-      "translation": "No registrada"
+      "translation": "¡No puedes hacer que las cosechas/cultivos rindan!"
     },
     {
       "word": "Wag the tongue (verbo)",
@@ -406,6 +418,10 @@
     {
       "word": "Horned (adjetivo)",
       "translation": "cornudo"
+    },
+    {
+      "word": "Slander thy brethren no more (inglés antiguo)",
+      "translation": "no calumnies más a tus hermanos"
     },
     {
       "word": "Bewitch (verbo)",
@@ -452,8 +468,8 @@
       "translation": "suciedad, inmundicia"
     },
     {
-      "word": "como quieras y redime a mis hijos",
-      "translation": "No registrada"
+      "word": "Dispose of me how thou will't yet redeem my children (inglés antiguo)",
+      "translation": "dispón de mí como quieras y redime a mis hijos"
     },
     {
       "word": "Tame (verbo)",
@@ -480,8 +496,8 @@
       "translation": "tus miradas de mujerzuela"
     },
     {
-      "word": "libro ante ti?",
-      "translation": "No registrada"
+      "word": "Dost thou see a book before thee? (inglés antiguo parcialmente no literal)",
+      "translation": "¿Ves un libro ante ti?"
     },
     {
       "word": "Remove thy shift (inglés antiguo)",
@@ -499,5 +515,7 @@
       "https://image.tmdb.org/t/p/w780/wL57wbvUUdkQ3ZkYLQloEJlGBRv.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 125,
+  "dialogues": 947
 }

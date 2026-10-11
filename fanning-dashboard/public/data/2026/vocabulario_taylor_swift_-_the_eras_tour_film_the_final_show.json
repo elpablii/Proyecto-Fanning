@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_00a0b21b",
+    "id": "v_0a599a55",
     "word": "It's been a long time coming",
     "translation": "ha tardado mucho en llegar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_613cf8e9",
+    "id": "v_d9cfd9c2",
     "word": "So cut the headlights (frase no literal)",
     "translation": "asi que apaga los faros",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -16,15 +16,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d3fd1d10",
+    "id": "v_3cd64e73",
     "word": "Grin (verbo)",
     "translation": "sonreir",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_f09609b4",
+    "id": "v_48c2d9f3",
     "word": "Musical flourish (acotación)",
     "translation": "redoble musical",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -32,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_40b08874",
+    "id": "v_e22ed531",
     "word": "I played the field (frase no literal)",
     "translation": "salí con muchas personas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -40,15 +40,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_69de6434",
+    "id": "v_12ccb938",
     "word": "Hustle (verbo)",
     "translation": "esforzarse, arreglárselas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 4
   },
   {
-    "id": "v_68bc1b04",
+    "id": "v_5002ce4f",
     "word": "Put in the work (frase no literal)",
     "translation": "me dediqué de lleno",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -56,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5782cb61",
+    "id": "v_c6dda049",
     "word": "Raking in dollars (forma no literal)",
     "translation": "hacienda una fortuna",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -64,15 +64,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e82cf33e",
+    "id": "v_8eaaa4b7",
     "word": "Baller",
     "translation": "ricachón",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_1ff2ff68",
+    "id": "v_1851d890",
     "word": "They'd paint me out to be bad",
     "translation": "me pintaban como si fuera mala",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d941622",
+    "id": "v_2854d03a",
     "word": "Tour (verbo)",
     "translation": "recorrer, viajar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -88,7 +88,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_8c23d9bd",
+    "id": "v_a045a205",
     "word": "Crash in the living room (verbo no literal)",
     "translation": "quedarse a dormir en el living",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -96,31 +96,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e8e08bfb",
+    "id": "v_d9acb2dd",
     "word": "There's a glow off the pavement",
     "translation": "se ve un resplandor en el pavimento",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7b4cdd21",
-    "word": "por el pelo distraídamente",
-    "translation": "No registrada",
+    "id": "v_e3449822",
+    "word": "Run your hands through your hair absent-mindedly (frase no literal)",
+    "translation": "pásate las manos por el pelo distraídamente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ec4b89f3",
+    "id": "v_85959208",
     "word": "Headfirst",
     "translation": "de cabeza",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_84872828",
+    "id": "v_380581d6",
     "word": "You pull me in",
     "translation": "me atraes hacia ti",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -128,7 +128,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5ac48b51",
+    "id": "v_5888a1cb",
+    "word": "She's going off about something (frase no literal)",
+    "translation": "está despotricando sobre algo",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_665d7c48",
+    "word": "Bleachers (donde está el publico en deportes)",
+    "translation": "gradas",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c2ca6528",
     "word": "Worn-out (en ropa)",
     "translation": "desgastados",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -136,15 +152,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e29a171",
-    "word": "pacientemente en tu puerta trasera",
-    "translation": "No registrada",
+    "id": "v_0207559d",
+    "word": "Standing by and waiting at your back door (parcialmente no literal)",
+    "translation": "esperando pacientemente en tu puerta trasera",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_24332fc2",
+    "id": "v_d5f1d0d4",
     "word": "Mess (aparte de desorden)",
     "translation": "lío, desastre, embrollo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -152,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4c8001cc",
+    "id": "v_314e1c1b",
     "word": "We ditch the whole scene (frase no literal)",
     "translation": "nos olvidamos de todo el asunto",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -160,23 +176,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_70a0d998",
+    "id": "v_a77f5ea9",
     "word": "Heartbreak",
     "translation": "desilusión amorosa",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_4614b007",
+    "id": "v_57b1bc7c",
     "word": "Call off",
     "translation": "cancelar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 5
   },
   {
-    "id": "v_0f68aecf",
+    "id": "v_f2f616c5",
     "word": "Fall for it",
     "translation": "caer en la trampa",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -184,7 +200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9415d679",
+    "id": "v_f8cffa05",
     "word": "Your sights",
     "translation": "tu punto de mira",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -192,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dcd6bb6f",
+    "id": "v_8abd3243",
     "word": "Fall hard (verbo frasal en amor)",
     "translation": "enamorarse perdidamente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -200,23 +216,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b50c5e46",
+    "id": "v_6e2e6024",
     "word": "Creep in",
     "translation": "infiltrarse/meterse/colarse poco a poco",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_aa9fa6b7",
-    "word": "muchos artistas",
-    "translation": "No registrada",
+    "id": "v_14fdfdb4",
+    "word": "I opened up for so many artists (frase no literal en conciertos)",
+    "translation": "he sido telonera de muchos artistas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_a77c565b",
+    "id": "v_1e2daf52",
     "word": "Headlining tours",
     "translation": "giras como artista principal",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -224,15 +240,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a0145288",
-    "word": "muestras por esta gira es incomparable",
-    "translation": "No registrada",
+    "id": "v_a3389709",
+    "word": "The way you care about this tour it's unparalleled (frase no literal)",
+    "translation": "el interés que muestras por esta gira es incomparable",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7318d381",
+    "id": "v_42e01681",
     "word": "Lasting (adjetivo)",
     "translation": "perdurable",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -240,23 +256,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_09047ec2",
+    "id": "v_375697c6",
     "word": "Togetherness",
     "translation": "convivencia, unión",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7c8be06f",
-    "word": "Wide-eyed gaze",
-    "translation": "mirada de ojos muy abiertos",
+    "id": "v_1279568e",
+    "word": "That's why I get to take these lovely walks down memory lane (frase no literal)",
+    "translation": "por eso puedo dar estos maravillosos paseos por el camino de los recuerdos",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_73f7fa5f",
+    "id": "v_d641b465",
+    "word": "Wide-eyed gaze",
+    "translation": "mirada de ojos muy abiertos",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_3a48655a",
     "word": "Like pieces into place (no literal)",
     "translation": "como piezas que encajan",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -264,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ee9c48af",
+    "id": "v_6d5685da",
     "word": "Run the red (verbo)",
     "translation": "pasar el semáforo en rojo, pasar en rojo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -272,15 +296,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_69ee9b8f",
-    "word": "conducía hacia allá",
-    "translation": "No registrada",
+    "id": "v_f07d01f8",
+    "word": "I was thinking on the drive down (forma no literal)",
+    "translation": "estaba pensando mientras conducía hacia allá",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7a1b6d03",
+    "id": "v_afe9bef2",
     "word": "As I reached for you (frase no literal)",
     "translation": "mientras te buscaba",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -288,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_23aa631b",
+    "id": "v_d75cd192",
     "word": "Frame (sustantivo no literal)",
     "translation": "cuerpo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -296,15 +320,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b0472a76",
+    "id": "v_1ed0314c",
     "word": "Prayer",
     "translation": "rezo, oración",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 7
   },
   {
-    "id": "v_e2a8cc7c",
+    "id": "v_2663b801",
     "word": "Until you tore it all up (no literal)",
     "translation": "hasta que lo echaste todo por tierra",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -312,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b6fef4f",
+    "id": "v_ef6872ed",
     "word": "Crumpled up (adjetivo)",
     "translation": "arrugado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -320,15 +344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aa0c38a1",
+    "id": "v_d660322f",
     "word": "Self-effacing jokes",
     "translation": "bromas modestas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_f31756d7",
+    "id": "v_6f9385d7",
     "word": "And did it bruise paint you blue?",
     "translation": "¿Y te dejó un moretón azul?",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -336,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fdc1c08a",
+    "id": "v_d0fde24d",
     "word": "Maim (verbo)",
     "translation": "mutilar, lisiar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -344,7 +368,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_3220e6e9",
+    "id": "v_3097e25c",
     "word": "Shifting eyes and vacancy (frase no literal)",
     "translation": "mirada errante y expresión ausente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -352,15 +376,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_635492c3",
+    "id": "v_c576ec92",
     "word": "Counter all your quick remarks",
     "translation": "responde a todos tus comentarios rápidos",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_4f1a15b2",
+    "id": "v_459adcae",
     "word": "Holding him for ransom (no literal)",
     "translation": "secuestrándolo para pedir rescate",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -368,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac0e511d",
+    "id": "v_cbb27daf",
     "word": "Lights down low",
     "translation": "luces tenues",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -376,23 +400,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d34d2f6d",
+    "id": "v_a32b2450",
     "word": "Dive bar",
     "translation": "bar de barrio",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_6711f4b7",
+    "id": "v_f0b4f701",
     "word": "Rise up",
     "translation": "resucitar, levantarse",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_0fa4da67",
+    "id": "v_90137961",
     "word": "Throw a feast (verbo)",
     "translation": "organizar un banquete",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -400,47 +424,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_224355d0",
+    "id": "v_b327ba29",
     "word": "I knew you'd haunt all of my what-ifs",
-    "translation": "sabía que te convertirías en un fantasma en",
+    "translation": "sabía que te convertirías en un fantasma en todos mis “y si”",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7eb519bf",
-    "word": "todos mis “y si”",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_63a7c915",
+    "id": "v_bc18c78c",
     "word": "Hang around this long",
     "translation": "durar/mantener tanto tiempo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_708c0da9",
+    "id": "v_cbf971f9",
     "word": "Main-charactery in my songwriting",
-    "translation": "características principales de mi forma de",
+    "translation": "características principales de mi forma de componer canciones",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_f56e19dc",
-    "word": "componer canciones",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_1c7ea84a",
+    "id": "v_72c4a133",
     "word": "Get their hearts ripped out",
     "translation": "que les arranquen el corazón",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -448,15 +456,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f2bbc660",
+    "id": "v_1515947f",
     "word": "Homeroom",
     "translation": "aula, sala de clase",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_e1def1bd",
+    "id": "v_ee558283",
     "word": "It's finally sinking in (frase no literal)",
     "translation": "por fin me estoy dando cuenta",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -464,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3fd3d3c3",
+    "id": "v_f823a36f",
     "word": "Bustling crowds",
     "translation": "multitudes bulliciosas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -472,15 +480,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f044f93b",
+    "id": "v_a614a614",
     "word": "Crestfallen on the landing",
     "translation": "abatido/desanimado en el rellano",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_f01a5629",
+    "id": "v_35e057ca",
     "word": "Splash out (en términos económicos)",
     "translation": "gastar un dineral",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -488,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_42255a8a",
+    "id": "v_6fafcdde",
     "word": "Evergreen (en duración)",
     "translation": "duradero",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -496,15 +504,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5affd7b1",
+    "id": "v_165a6f52",
     "word": "Deck (verbo)",
     "translation": "decorar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_2ed8ed9a",
+    "id": "v_8ef777c7",
     "word": "She'll patch up your tapestry",
     "translation": "ella te remendará el tapiz",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -512,23 +520,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_daef3563",
+    "id": "v_38bbf943",
     "word": "August slipped away into a moment in time",
     "translation": "agosto se desvaneció en un instante",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_72dd630b",
+    "id": "v_b513c69a",
     "word": "August sipped away like a bottle of wine",
     "translation": "agosto se fue como una botella de vino",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_8d744be5",
+    "id": "v_d118ca6a",
     "word": "Look at this godforsaken mess",
     "translation": "mira qué desastre de este lugar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -536,23 +544,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2b3deb1c",
+    "id": "v_4a6d9f4b",
     "word": "Save face (verbo no literal)",
-    "translation": "guardar las apariencias, salvar el honor, cuidar la",
+    "translation": "guardar las apariencias, salvar el honor, cuidar la reputación",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_3d40ec5d",
-    "word": "reputación",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_162f21a9",
+    "id": "v_92882e6b",
     "word": "Battleship (alusivo a un barco)",
     "translation": "acorazado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -560,7 +560,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_db61fe9d",
+    "id": "v_e208afc5",
     "word": "Toss out blame (verbo)",
     "translation": "echar la culpa",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -568,15 +568,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_de3405eb",
+    "id": "v_b7460555",
     "word": "Cross out",
     "translation": "tachar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_009adc0b",
+    "id": "v_aeaf070a",
     "word": "Chill (en clima)",
     "translation": "frío",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -584,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d87d1d5",
+    "id": "v_f93439a3",
     "word": "Swims (sustantivo)",
     "translation": "baños",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -592,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b10938a8",
+    "id": "v_d0a66aef",
     "word": "Go past (verbo)",
     "translation": "pasar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -600,7 +600,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7235e4fb",
+    "id": "v_ab38753a",
     "word": "Up the stairs",
     "translation": "subir las escaleras",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -608,15 +608,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e9a545bd",
+    "id": "v_9865ebaf",
     "word": "Scrap",
     "translation": "pedacito, partícula",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 6
   },
   {
-    "id": "v_61e0e81b",
+    "id": "v_acfbb39e",
     "word": "Backlogged",
     "translation": "pendiente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -624,7 +624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_074432f8",
+    "id": "v_6e82f731",
     "word": "When the ship rolled in",
     "translation": "cuando el barco llegó",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -632,7 +632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_532dbc5c",
+    "id": "v_d9d903c9",
     "word": "Cut through",
     "translation": "atravesar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -640,7 +640,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_d5c578cf",
+    "id": "v_7e511a33",
     "word": "An open-shut case",
     "translation": "un caso claro",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -648,15 +648,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5d193049",
+    "id": "v_45ee6c6b",
     "word": "Wherever you stray",
     "translation": "dondequiera que vayas",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_a1490970",
+    "word": "It count me out time and time again (frase no literal)",
+    "translation": "me deja fuera una y otra vez",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e6cba1a2",
+    "id": "v_dee4947b",
     "word": "Bait-and-switch",
     "translation": "engaño publicitario",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -664,7 +672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5537642d",
+    "id": "v_f93bf92a",
     "word": "Go round and round",
     "translation": "dar vueltas y vueltas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -672,7 +680,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d06ea38",
+    "id": "v_e6753752",
     "word": "Go crashing down",
     "translation": "derrumbarse, caer en picado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -680,15 +688,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d86a60ac",
+    "id": "v_509adeb2",
     "word": "Slicked back",
     "translation": "peinado hacia atrás",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_802cb639",
+    "id": "v_cac4d815",
     "word": "Keep you second guessing (frase no literal)",
     "translation": "te mantendrá en la incertidumbre",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -696,7 +704,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2450b958",
+    "id": "v_b60d01da",
     "word": "I'm lightning on my feet (frase no literal)",
     "translation": "soy rápida como un rayo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -704,15 +712,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bbe9cbaf",
-    "word": "culpa de los mentirosos",
-    "translation": "No registrada",
+    "id": "v_a78cc6be",
+    "word": "You've been getting down and out about the liars",
+    "translation": "te has estado sintiendo muy mal por culpa de los mentirosos",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_4f4ce064",
+    "id": "v_4c8f3576",
     "word": "Get down to this sick beat",
     "translation": "dejarse llevar por este ritmo alucinante",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -720,7 +728,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_94a3bf17",
+    "id": "v_097c8098",
     "word": "Tall and handsome as hell",
     "translation": "altísimo y guapísimo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -728,7 +736,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d1d5c5b",
+    "id": "v_e7073867",
     "word": "In hindsight",
     "translation": "en retrospectiva",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -736,7 +744,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_7b492294",
+    "id": "v_5e54a529",
     "word": "Clutch (verbo)",
     "translation": "aferrarse, agarrarse",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -744,7 +752,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_61a6f3db",
+    "id": "v_10bbcc79",
     "word": "Too high a horse (frase no literal)",
     "translation": "se cree demasiado importante",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -752,15 +760,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1a5a99b",
+    "id": "v_ec35d7bd",
     "word": "Floor (verbo)",
     "translation": "pisar a fondo (el acelerador)",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_aa8c6674",
+    "id": "v_dd9a7bb8",
     "word": "All this bitching and moaning",
     "translation": "tantas quejas y lamentos",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -768,7 +776,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ea6a1bda",
+    "id": "v_ec1d2daf",
+    "word": "It's mine alone to disgrace (frase no literal)",
+    "translation": "la culpa es sólo mía",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_239d5f67",
     "word": "I don't cater to all these vipers",
     "translation": "no voy a hacerles el juego a todas esas víboras",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -776,7 +792,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e217b792",
+    "id": "v_dfde72ec",
     "word": "The most judgmental creeps",
     "translation": "los tipos más críticos y desagradables",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -784,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d743774",
+    "id": "v_fa4bbbe0",
     "word": "Sanctimoniously",
     "translation": "con aire de superioridad moral",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -792,7 +808,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3efdc0aa",
+    "id": "v_92bdfc9f",
     "word": "Counteract (verbo)",
     "translation": "contrarrestar, neutralizar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -800,15 +816,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d95633e",
+    "id": "v_4290e469",
     "word": "Die down",
     "translation": "apaciguar, amainar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_df5d85a5",
+    "id": "v_92935eb1",
     "word": "Scouts honor",
     "translation": "palabra de scout",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -816,7 +832,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d3230f35",
+    "id": "v_7d5a2116",
     "word": "It’s poised",
     "translation": "está listo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -824,7 +840,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bf159358",
+    "id": "v_38d04320",
     "word": "I leap from the gallows",
     "translation": "salto desde la horca",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -832,7 +848,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9ad06f01",
+    "id": "v_9a8be13e",
     "word": "Crash the party like a record scratch",
     "translation": "ir a la fiesta como si fuera un disco rayado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -840,7 +856,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7c3461e3",
+    "id": "v_ab4db323",
     "word": "Cobweb",
     "translation": "telaraña",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -848,7 +864,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cd5aa685",
+    "id": "v_2c949fa9",
     "word": "I'm fearsome and I'm wretched",
     "translation": "soy temible y soy miserable",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -856,7 +872,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fae9fbdc",
+    "id": "v_c2a25c1d",
     "word": "Beam up",
     "translation": "teletransportar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -864,7 +880,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_31daba67",
+    "id": "v_de8e9f7c",
     "word": "I'm down bad (en sentido emocional)",
     "translation": "estoy muy mal",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -872,15 +888,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_83c10054",
-    "word": "adolescente",
-    "translation": "No registrada",
+    "id": "v_b53fa587",
+    "word": "Everything comes out teenage petulance (frase no literal)",
+    "translation": "todo se debe a la rebeldía adolescente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d82ca2c3",
+    "id": "v_2f79c958",
     "word": "Fuck it (expresión)",
     "translation": "que le den",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -888,7 +904,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_056f70e9",
+    "id": "v_f0048014",
     "word": "I took the miracle move-on drug",
     "translation": "tomé el medicamento milagroso para superar el duelo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -896,7 +912,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0234bd41",
+    "id": "v_3c5f2d9d",
     "word": "Gazing at me starry-eyed",
     "translation": "mirándome con ojos de enamorado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -904,23 +920,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a25be594",
+    "id": "v_398ae5d1",
     "word": "If rusting my sparking summer was the goal",
-    "translation": "si el objetivo era que mi brillante verano",
+    "translation": "si el objetivo era que mi brillante verano se oxidara",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_1d2315dd",
-    "word": "se oxidara",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_341cffc6",
+    "id": "v_cbee3a5a",
     "word": "You'll slide into in boxes",
     "translation": "te meterás en cajas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -928,7 +936,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b4acd14",
+    "id": "v_326319ad",
+    "word": "You crashed my party (parcialmente no literal)",
+    "translation": "te colaste a mi fiesta",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4745c3e4",
+    "word": "You kicked out the stage lights (forma no literal)",
+    "translation": "apagaste las luces del escenario",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_07aadc30",
     "word": "Showgirl",
     "translation": "corista, bailarina de cabaret",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -936,15 +960,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1e343716",
+    "id": "v_4f78b4d6",
     "word": "Break down",
     "translation": "derrumbarse, desplomarse, desmayarse",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 3
+    "global_frequency": 11
   },
   {
-    "id": "v_c78be3cd",
+    "id": "v_6f764162",
     "word": "Stilettos",
     "translation": "tacones de aguja",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -952,7 +976,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_06c44b57",
+    "id": "v_7c88cd41",
     "word": "Strumming mellow tune (acotación)",
     "translation": "tocando una melodía suave",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -960,7 +984,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4340e1ef",
+    "id": "v_48af23df",
+    "word": "To get knocked off our feet (frase no literal)",
+    "translation": "quedarnos boquiabiertos",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_72ab3405",
     "word": "Leave me stranded",
     "translation": "déjame tirada",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -968,7 +1000,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b15a01f7",
+    "id": "v_eb541de3",
     "word": "Go wild (verbo no literal)",
     "translation": "volverse loco, desatarse",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -976,15 +1008,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9a4fd633",
+    "id": "v_6a6e3f6e",
     "word": "Read off",
     "translation": "leer en voz alta",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_99139951",
+    "id": "v_e9513c48",
     "word": "Hardwood",
     "translation": "madera noble",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -992,15 +1024,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_88bb2f64",
-    "word": "te estás dando la vuelta",
-    "translation": "No registrada",
+    "id": "v_3453d3cb",
+    "word": "And I'm scared and you're turning away (parcialmente no literal)",
+    "translation": "y tengo miedo y tú te estás dando la vuelta",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_6ee144ef",
+    "id": "v_20875c3c",
     "word": "The actors were hitting their marks",
     "translation": "los actores estaban colocándose en sus marcas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1008,7 +1040,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_04dafb12",
+    "id": "v_ee2b0efb",
     "word": "Alight (adjetivo)",
     "translation": "iluminado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1016,7 +1048,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af78f87b",
+    "id": "v_9e424373",
     "word": "So hold on to spinning around",
     "translation": "así que no dejes de dar vueltas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1024,15 +1056,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_04aa1129",
-    "word": "recuerdos",
-    "translation": "No registrada",
+    "id": "v_894802e3",
+    "word": "They will hold on to you, hold on to the memories",
+    "translation": "te acompañarán, te acompañarán los recuerdos",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_25efa399",
+    "id": "v_467ef293",
     "word": "Background vocalizing (acotación)",
     "translation": "coros",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1040,31 +1072,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3efb6557",
+    "id": "v_9f8ec605",
     "word": "I feel the lavender haze creeping up on me",
-    "translation": "siento cómo la bruma de lavanda se va",
+    "translation": "siento cómo la bruma de lavanda se va apoderando de mí",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_8d869845",
-    "word": "apoderando de mí",
-    "translation": "No registrada",
+    "id": "v_acc4350b",
+    "word": "Dizzying (aparte de lo relacionado con el mareo)",
+    "translation": "abrumador",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_fe75a18b",
+    "id": "v_f6c70de8",
     "word": "Talk your talk",
     "translation": "dí lo que tengas que decir",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_95dfa1bd",
+    "id": "v_c47aa659",
     "word": "Lurch (verbo)",
     "translation": "avanzar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1072,7 +1104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_856227ad",
+    "id": "v_3a456b59",
     "word": "Pierce through",
     "translation": "atravesar",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1080,7 +1112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b4434a80",
+    "id": "v_9db934fe",
     "word": "Covert",
     "translation": "oculto, encubierto",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1088,7 +1120,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_96e092c4",
+    "id": "v_63de23df",
     "word": "Slow-motion",
     "translation": "a cámara lenta",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1096,7 +1128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b93109fe",
+    "id": "v_6974fd63",
     "word": "Jumping off things in the ocean",
     "translation": "saltar desde cosas en el océano",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1104,55 +1136,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4115af78",
+    "id": "v_dffe5de8",
     "word": "Draw the cat eye sharp enough",
-    "translation": "dibuja el delineado de ojo de gato lo suficientemente",
+    "translation": "dibuja el delineado de ojo de gato lo suficientemente marcado",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_150966be",
-    "word": "marcado",
-    "translation": "No registrada",
+    "id": "v_77ccaaa3",
+    "word": "Picture me thick as thieves with your ex-wife",
+    "translation": "imagíname llevándome de maravilla con tu exmujer",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_9761b7a8",
-    "word": "tu exmujer",
-    "translation": "No registrada",
+    "id": "v_06c2e48f",
+    "word": "While he was doing lines and crossing all of mine",
+    "translation": "mientras él se metía rayitas y se cruzaba con todas las mías",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_891be31f",
-    "word": "cruzaba con todas las mías",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_41003845",
+    "id": "v_c560187a",
     "word": "Get even",
     "translation": "vengarse",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_fb32c6e1",
-    "word": "deslumbrando",
-    "translation": "No registrada",
+    "id": "v_d0099d5f",
+    "word": "Best believe I'm still bejeweled (frase no literal)",
+    "translation": "puedes estar seguro de que sigo deslumbrando",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_e01467fa",
+    "id": "v_2778bbcf",
     "word": "Familiarity breeds contempt",
     "translation": "la familiaridad engendra desprecio",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1160,7 +1184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_614c0314",
+    "id": "v_08c6f878",
     "word": "I polish up real nice",
     "translation": "me arreglo muy bien",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1168,15 +1192,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_72f52ac2",
-    "word": "Lit the fuse",
-    "translation": "encendió la mecha",
+    "id": "v_eed8f8f4",
+    "word": "Did all the extra credit then got graded on a curve (no literal)",
+    "translation": "hice todas las tareas extra y luego me calificaron según una curva de calificación",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_74215466",
+    "id": "v_bc560ecb",
+    "word": "Lit the fuse",
+    "translation": "encendió la mecha",
+    "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_7282b4fb",
     "word": "Counter moves",
     "translation": "contramedidas",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1184,23 +1216,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_930fed63",
-    "word": "salió como estaba previsto",
-    "translation": "No registrada",
+    "id": "v_e0750af1",
+    "word": "I laid the groundwork and then just like clockwork",
+    "translation": "preparé el terreno y luego todo salió como estaba previsto",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_db91add1",
-    "word": "cascada formando una fila",
-    "translation": "No registrada",
+    "id": "v_866700b8",
+    "word": "The dominoes cascaded in a line (forma no literal)",
+    "translation": "las fichas de dominó cayeron en cascada formando una fila",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7804f335",
+    "id": "v_e5d7f69f",
     "word": "Our free-flowing sails",
     "translation": "nuestras velas al viento",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1208,7 +1240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3379d80e",
+    "id": "v_f49967c6",
     "word": "I've been schemating like a criminal",
     "translation": "he estado tramando como una delincuente",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -1216,23 +1248,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6d2183ba",
+    "id": "v_870e79c6",
     "word": "Glare",
     "translation": "resplandor",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_09536ebc",
+    "id": "v_a22bd3d4",
     "word": "Rattling your ground",
     "translation": "sacudiendo el suelo",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_4909ef18",
+    "id": "v_0682efa7",
     "word": "In all the land",
     "translation": "de todo el país",
     "source_movie": "Taylor Swift - The Eras Tour Film The Final Show",

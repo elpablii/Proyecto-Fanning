@@ -1,38 +1,46 @@
 [
   {
-    "id": "v_b68888f2",
-    "word": "Bleat (verb)",
+    "id": "v_8171535d",
+    "word": "Bleat (verbo)",
     "translation": "balar",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_a2f68374",
+    "word": "I get that a lot (frase no literal)",
+    "translation": "me lo dicen mucho",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_32367d78",
+    "word": "Engine idles (acotación)",
+    "translation": "motor al ralentí",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_13bfbf8f",
+    "word": "Silverware (no literal en términos de cocina)",
+    "translation": "cubiertos",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0ec9bca5",
+    "word": "Scrap (verbo)",
+    "translation": "raspar",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_95a5d405",
-    "word": "I get that a lot (frame no literal)",
-    "translation": "me lo bien mucho",
-    "source_movie": "Teen Spirit",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_ef2745d5",
-    "word": "Engine idles (acotación)",
-    "translation": "motor al talento",
-    "source_movie": "Teen Spirit",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_8a9dfbfc",
-    "word": "Scrap (verb)",
-    "translation": "raspar",
-    "source_movie": "Teen Spirit",
-    "year_processed": "2025",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_62566b05",
+    "id": "v_5c71b9d1",
     "word": "Captivity",
     "translation": "cautividad, cautiverio",
     "source_movie": "Teen Spirit",
@@ -40,15 +48,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d7cf0af2",
+    "id": "v_8d2bd06f",
     "word": "It's making me numb",
-    "translation": "me esta adormeciendo/entumeciendo",
+    "translation": "me está adormeciendo/entumeciendo",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_25c6c451",
+    "id": "v_34c57836",
     "word": "I've had it up to here (no literal)",
     "translation": "hasta aquí he llegado",
     "source_movie": "Teen Spirit",
@@ -56,15 +64,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6385de90",
+    "id": "v_cbe3c6ab",
     "word": "Today you'll be adjudicating (no literal)",
-    "translation": "hoy ser juez",
+    "translation": "hoy serás juez",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a2511bdd",
+    "id": "v_dfefe40a",
     "word": "Drumbeat",
     "translation": "tambor, batería",
     "source_movie": "Teen Spirit",
@@ -72,31 +80,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1f042fa6",
+    "id": "v_80f607a9",
     "word": "Arpeggios",
-    "translation": "arpegio",
+    "translation": "arpegios",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7e065530",
-    "word": "Off-key (en terminus vocals)",
-    "translation": "desatinado",
+    "id": "v_c260a8e6",
+    "word": "Off-key (en términos vocales)",
+    "translation": "desafinado",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_2eabba28",
+    "word": "Is there a way around that? (pregunta no literal)",
+    "translation": "¿Hay alguna forma de evitarlo?",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0ee06b99",
+    "id": "v_6c39e8c9",
     "word": "Sunshine",
     "translation": "sol",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_b86640b0",
+    "id": "v_7aedc088",
     "word": "From glen to glen",
     "translation": "de cañada a cañada",
     "source_movie": "Teen Spirit",
@@ -104,31 +120,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_054f8f71",
-    "word": "Bide (verb)",
-    "translation": "esperar, quedar",
+    "id": "v_730b1d15",
+    "word": "Bide (verbo)",
+    "translation": "esperar, quedarse",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9e8497f5",
+    "id": "v_03ef8acf",
     "word": "Open-call auditions",
-    "translation": "audiciones abierta",
+    "translation": "audiciones abiertas",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ccc85ae3",
+    "id": "v_f780f7cf",
     "word": "If you make it big",
-    "translation": "si lo hacer a lo grande",
+    "translation": "si lo haces a lo grande",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9d0792da",
+    "id": "v_e1a85ab5",
     "word": "Liquid courage?",
     "translation": "¿Valor líquido?",
     "source_movie": "Teen Spirit",
@@ -136,7 +152,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_679f40a9",
+    "id": "v_9e28dd49",
     "word": "Clunk (acotación)",
     "translation": "ruido, tintineo",
     "source_movie": "Teen Spirit",
@@ -144,47 +160,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a5bdeacf",
+    "id": "v_e208648c",
     "word": "Feedback whistles (acotación)",
-    "translation": "silbido de respuesta",
+    "translation": "silbidos de respuesta",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4c06ff1e",
-    "word": "Get sorted (en terminus de resistencia)",
+    "id": "v_62b8e4cc",
+    "word": "Get sorted (en términos de asistencia)",
     "translation": "arreglar, solucionar",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22ca72f0",
+    "id": "v_a623353f",
     "word": "You're a little bit of a way off that yet",
-    "translation": "estas un poco lejos de eso aun",
+    "translation": "estás un poco lejos de eso aún",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ecfdb1e1",
+    "id": "v_335b2e85",
     "word": "School's out next week",
-    "translation": "las clase terminar la semana que bien",
+    "translation": "las clases terminan la semana que viene",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cb6fb103",
-    "word": "And no monkey business (frame no literal)",
-    "translation": "y nada de monería",
+    "id": "v_d2d0752f",
+    "word": "And no monkey business (frase no literal)",
+    "translation": "y nada de monerías",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_961f669e",
+    "id": "v_7d349a08",
     "word": "My band's playing a gig on (no literal)",
     "translation": "mi banda va a dar un concierto",
     "source_movie": "Teen Spirit",
@@ -192,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1322d5a",
+    "id": "v_93388bbd",
     "word": "Navel",
     "translation": "ombligo",
     "source_movie": "Teen Spirit",
@@ -200,7 +216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9ad9b2d2",
+    "id": "v_c50e989f",
     "word": "Low rumbling (acotación)",
     "translation": "bajo estruendo",
     "source_movie": "Teen Spirit",
@@ -208,7 +224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7cea036b",
+    "id": "v_6c3c22ad",
     "word": "Make through to",
     "translation": "llegar a, pasar a",
     "source_movie": "Teen Spirit",
@@ -216,79 +232,87 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ba5932c0",
-    "word": "Low (verb)",
+    "id": "v_19a16e63",
+    "word": "Low (verbo)",
     "translation": "mugir",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7cab1044",
+    "id": "v_a2a2053d",
     "word": "I’m so shit",
-    "translation": "son una mierda",
+    "translation": "soy una mierda",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_cdf20adb",
-    "word": "Whinnies (substantive y acotación)",
-    "translation": "relincho",
+    "id": "v_498f8e67",
+    "word": "Whinnies (sustantivo y acotación)",
+    "translation": "relinchos",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_11d2b85a",
-    "word": "Glide (verb)",
+    "id": "v_de2df5b9",
+    "word": "Glide (verbo)",
     "translation": "deslizar, planear, surcar",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a22e3e4e",
+    "id": "v_3c68c56b",
     "word": "I feel so low",
-    "translation": "me asiento tan mal",
+    "translation": "me siento tan mal",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22261cdf",
+    "id": "v_f3516e83",
     "word": "We reap what we sow",
-    "translation": "recuperador lo que sembrado",
+    "translation": "recuperamos lo que sembramos",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b0a748b7",
+    "id": "v_201a14fa",
     "word": "Knocker banging",
-    "translation": "aljaba golpeado",
+    "translation": "aldaba golpeando",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e33f162d",
-    "word": "Munch (verb)",
+    "id": "v_2c62f975",
+    "word": "They will have to check in on the lower level",
+    "translation": "tendrán que registrarse en la planta baja",
+    "source_movie": "Teen Spirit",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_757601c7",
+    "word": "Munch (verbo)",
     "translation": "masticar, mascar",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 4
   },
   {
-    "id": "v_231db2e4",
+    "id": "v_e8650937",
     "word": "You're gonna set me off now (no literal)",
-    "translation": "me las a hacer enojar ahora",
+    "translation": "me vas a hacer enojar ahora",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_508c5cae",
+    "id": "v_376ef039",
     "word": "Board committee",
     "translation": "comité del consejo",
     "source_movie": "Teen Spirit",
@@ -296,23 +320,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dc516903",
-    "word": "Posh (adjective)",
-    "translation": "hijo, elegante",
+    "id": "v_cc89b765",
+    "word": "Posh (adjetivo)",
+    "translation": "pijo, elegante",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9183f4ba",
-    "word": "Appeal (verb)",
+    "id": "v_199a38e5",
+    "word": "Appeal (verbo)",
     "translation": "ser atractivo, resultar atractivo",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_7d2cf887",
+    "id": "v_212762c6",
     "word": "Miscreant",
     "translation": "bellaco",
     "source_movie": "Teen Spirit",
@@ -320,31 +344,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0263abac",
-    "word": "Vouch (verb)",
+    "id": "v_6e61014e",
+    "word": "Vouch (verbo)",
     "translation": "responder",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 6
   },
   {
-    "id": "v_122e3e5e",
-    "word": "Piss off (expression respective)",
-    "translation": "veto al carao",
+    "id": "v_349e54e8",
+    "word": "Piss off (expresión despectiva)",
+    "translation": "vete al carajo",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7afe202c",
-    "word": "Ahead of (expression)",
+    "id": "v_26dd4339",
+    "word": "Ahead of (expresión)",
     "translation": "de cara a",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_38f6f308",
+    "id": "v_fc7451d5",
     "word": "Cocoon",
     "translation": "capullo",
     "source_movie": "Teen Spirit",
@@ -352,23 +376,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_aa3e0e10",
+    "id": "v_7a4792f5",
     "word": "Sign it or it's a no-go",
-    "translation": "formal o no ha trato",
+    "translation": "fírmalo o no hay trato",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_22fba7f5",
+    "id": "v_7ef1811d",
     "word": "So, lift over, up",
-    "translation": "así que, levantar, arriba",
+    "translation": "así que, levanta, arriba",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8be8b1a6",
+    "id": "v_37adff20",
     "word": "Over and around",
     "translation": "por delante y por detrás",
     "source_movie": "Teen Spirit",
@@ -376,23 +400,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ae4b92fc",
-    "word": "Lift (substantive en dana)",
+    "id": "v_3e7425f6",
+    "word": "Lift (sustantivo en danza)",
     "translation": "levantamiento",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4c540736",
+    "id": "v_58568df5",
     "word": "What do you reckon?",
-    "translation": "¿Que le parecer?",
+    "translation": "¿Qué le parece?",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_83f97d06",
+    "id": "v_d6c45b0d",
     "word": "She’s grand",
     "translation": "ella es grandiosa, ella es magnífica",
     "source_movie": "Teen Spirit",
@@ -400,15 +424,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d162aafe",
-    "word": "Whoop (verb)",
+    "id": "v_0f5526d2",
+    "word": "Whoop (verbo)",
     "translation": "gritar",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
-    "global_frequency": 7
+    "global_frequency": 9
   },
   {
-    "id": "v_4552b518",
+    "id": "v_d0809aa4",
     "word": "Bimbo",
     "translation": "cabeza hueca, tonta",
     "source_movie": "Teen Spirit",
@@ -416,7 +440,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cd979a9c",
+    "id": "v_dd447d4c",
     "word": "Make tight",
     "translation": "apretar",
     "source_movie": "Teen Spirit",
@@ -424,7 +448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c1d843cc",
+    "id": "v_e030b103",
     "word": "We've got an early start tomorrow",
     "translation": "mañana tendremos que madrugar",
     "source_movie": "Teen Spirit",
@@ -432,15 +456,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5c844426",
+    "id": "v_72cf1945",
     "word": "She’s out of it",
-    "translation": "esta fuera de sí",
+    "translation": "está fuera de sí",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_53c50c7a",
+    "id": "v_4236423c",
     "word": "Shutter",
     "translation": "obturador",
     "source_movie": "Teen Spirit",
@@ -448,7 +472,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c2b7f119",
+    "id": "v_40e72687",
     "word": "Understandably",
     "translation": "comprensivamente",
     "source_movie": "Teen Spirit",
@@ -456,31 +480,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_87be0971",
+    "id": "v_b4f954ff",
     "word": "A competition that relies on the public vote",
-    "translation": "un certamen que se basa en el voto del",
+    "translation": "un certamen que se basa en el voto del público",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a0d5dea3",
-    "word": "public",
-    "translation": "No registrada",
+    "id": "v_aeb6e707",
+    "word": "What's the best-case scenario in that outcome?",
+    "translation": "¿Cuál es el mejor escenario en ese caso?",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2e7b8b74",
-    "word": "case?",
-    "translation": "No registrada",
-    "source_movie": "Teen Spirit",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5f3c43bc",
+    "id": "v_32862c48",
     "word": "Record deal",
     "translation": "contrato discográfico",
     "source_movie": "Teen Spirit",
@@ -488,31 +504,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_be2d396a",
-    "word": "Without further ado (expression)",
-    "translation": "sin más preámbulo, sin más dilación",
+    "id": "v_3030c850",
+    "word": "Without further ado (expresión)",
+    "translation": "sin más preámbulos, sin más dilación",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e56e4abb",
+    "id": "v_7267bad2",
     "word": "Hands up if you're down to get down tonight",
-    "translation": "menos arriba si estas dispuesto a bajar",
+    "translation": "manos arriba si estás dispuesto a bajar esta noche",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_55496d80",
-    "word": "eta niche",
-    "translation": "No registrada",
-    "source_movie": "Teen Spirit",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_ad0b2b7a",
+    "id": "v_e2a913b3",
     "word": "He's buff",
     "translation": "es musculoso",
     "source_movie": "Teen Spirit",
@@ -520,7 +528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_32527aed",
+    "id": "v_980351bd",
     "word": "At twilight",
     "translation": "al crepúsculo",
     "source_movie": "Teen Spirit",
@@ -528,31 +536,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_305cdf4b",
+    "id": "v_a76de917",
     "word": "Checked out of my room",
-    "translation": "sala de mi habitación",
+    "translation": "salí de mi habitación",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_13d4b9f8",
+    "id": "v_9fbad337",
     "word": "Hold tight",
     "translation": "agarrar fuerte",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_03c04660",
-    "word": "I'm way past that (frame no literal)",
-    "translation": "ya lo he superano",
+    "id": "v_3eab481e",
+    "word": "I'm way past that (frase no literal)",
+    "translation": "ya lo he superado",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bb731d7d",
+    "id": "v_108c02fe",
     "word": "Hold back",
     "translation": "contener, retener",
     "source_movie": "Teen Spirit",
@@ -560,7 +568,7 @@
     "global_frequency": 4
   },
   {
-    "id": "v_aa7848db",
+    "id": "v_b1dd6e58",
     "word": "Machinery clunking (acotación)",
     "translation": "traqueteo de la máquina",
     "source_movie": "Teen Spirit",
@@ -568,7 +576,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0c5b8d19",
+    "id": "v_61612c5a",
     "word": "Steady bass pulse echoing",
     "translation": "pulso de bajo constante con eco",
     "source_movie": "Teen Spirit",
@@ -576,15 +584,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8c1fca1d",
+    "id": "v_3f30edac",
     "word": "Try to hold it down",
-    "translation": "trata de aguantar",
+    "translation": "trata de aguantarla",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_19289698",
+    "id": "v_affea563",
     "word": "Play nice (no literal)",
     "translation": "jugar limpio",
     "source_movie": "Teen Spirit",
@@ -592,23 +600,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_96a825c4",
+    "id": "v_7d16e915",
     "word": "Don't break my stride",
-    "translation": "no me ropa el paso",
+    "translation": "no me rompas el paso",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7fcb8a28",
+    "id": "v_712929c9",
     "word": "You love to tear me down",
-    "translation": "te encanto derribar",
+    "translation": "te encanta derribarme",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_76d0cb27",
+    "id": "v_a4906c05",
     "word": "Press room",
     "translation": "sala de prensa",
     "source_movie": "Teen Spirit",
@@ -616,39 +624,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2c02dd9d",
-    "word": "una aspirate de origen polack",
-    "translation": "No registrada",
+    "id": "v_033c22aa",
+    "word": "The winner was Polish-born hopeful, Violet Valenski",
+    "translation": "la ganadora fue Violet Valenski, una aspirante de origen polaco",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d5b18dd3",
+    "id": "v_6ed409c7",
     "word": "Dive in",
-    "translation": "sumergir",
+    "translation": "sumergirse",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_b778013e",
+    "id": "v_5885971d",
     "word": "Wildflowers",
-    "translation": "floreo silvestre",
+    "translation": "flores silvestres",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d91ea15c",
+    "id": "v_cabb7181",
     "word": "Crumpled",
-    "translation": "arrufado",
+    "translation": "arrugado",
     "source_movie": "Teen Spirit",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e496e5df",
+    "id": "v_add12559",
     "word": "Walk down",
     "translation": "bajar, caminar hacia abajo",
     "source_movie": "Teen Spirit",

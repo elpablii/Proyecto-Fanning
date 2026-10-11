@@ -24,7 +24,7 @@
       "translation": "nos está pisando los talones"
     },
     {
-      "word": "He's bugging out",
+      "word": "He’s bugging out",
       "translation": "se está escapando"
     },
     {
@@ -44,7 +44,7 @@
       "translation": "me parto de la risa"
     },
     {
-      "word": "We're getting low on gas",
+      "word": "We’re getting low on gas",
       "translation": "nos estamos quedando sin gasolina"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "word": "And it doesn't bleed energy below 300 knots",
-      "translation": "y no pierde energía por debajo de 300"
+      "translation": "y no pierde energía por debajo de 300 nudos"
     },
     {
       "word": "A negative-g pushover",
@@ -208,7 +208,7 @@
       "translation": "carrera"
     },
     {
-      "word": "He'll fly right by",
+      "word": "He’ll fly right by",
       "translation": "él pasará volando"
     },
     {
@@ -320,7 +320,7 @@
       "translation": "está en un giro plano"
     },
     {
-      "word": "I'm pinned forward",
+      "word": "I’m pinned forward",
       "translation": "estoy clavado hacia delante"
     },
     {
@@ -471,5 +471,7 @@
       "https://image.tmdb.org/t/p/w780/vJU3ggeQQUmmzJ7EXnzeO9JCvgo.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 114,
+  "dialogues": 1395
 }

@@ -1,30 +1,30 @@
 [
   {
-    "id": "v_f3fcca71",
+    "id": "v_97f31080",
     "word": "Built-in",
-    "translation": "incorporar",
+    "translation": "incorporado",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_edf3bdb4",
+    "id": "v_5643ada0",
     "word": "She's on the rampage",
-    "translation": "esta alborotada, esta enloquecida",
+    "translation": "está alborotada, está enloquecida",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_75128435",
+    "id": "v_c11aa70d",
     "word": "Mind if I squeeze in next to you?",
-    "translation": "¿Te importar si me mato a tu lado?",
+    "translation": "¿Te importa si me meto a tu lado?",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2ad8f545",
+    "id": "v_a27825b3",
     "word": "A long shot (no literal)",
     "translation": "una apuesta muy arriesgada",
     "source_movie": "Toy Story III",
@@ -32,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_29f3477f",
+    "id": "v_ebec1ae6",
     "word": "Misfire",
     "translation": "error, fallo (de encendido)",
     "source_movie": "Toy Story III",
@@ -40,15 +40,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d352e61",
-    "word": "Tuck (verb)",
+    "id": "v_8abd0ecc",
+    "word": "Tuck (verbo)",
     "translation": "meter",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_3e7a1f0a",
+    "word": "You're not off the hook either (frase no literal)",
+    "translation": "tú tampoco te libras",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bd4e81a5",
+    "id": "v_e07f0fd1",
     "word": "Daycare",
     "translation": "guardería",
     "source_movie": "Toy Story III",
@@ -56,23 +64,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d532a706",
+    "id": "v_e36ce875",
     "word": "Get thrown out",
     "translation": "tirar (algo a la basura)",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_e21d7640",
+    "id": "v_ff58f0cf",
     "word": "Curb",
     "translation": "acera",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_900d55a8",
+    "id": "v_67f85488",
     "word": "It's triple-ply high-density polyethylene",
     "translation": "es polietileno de alta densidad de triple capa",
     "source_movie": "Toy Story III",
@@ -80,7 +88,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c616e99",
+    "id": "v_999ffb1d",
+    "word": "Have you all lost your marbles? (pregunta no literal)",
+    "translation": "¿Han perdido todos la cabeza?",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_aa007b20",
     "word": "Take forever",
     "translation": "llevar/tomar una eternidad",
     "source_movie": "Toy Story III",
@@ -88,7 +104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_473a4c6a",
+    "id": "v_9430964a",
     "word": "Toots (informal)",
     "translation": "cariño, amigo",
     "source_movie": "Toy Story III",
@@ -96,95 +112,87 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5af322c7",
+    "id": "v_2242687d",
     "word": "Get it through your vinyl noggin",
-    "translation": "modelo en tu cabeza",
+    "translation": "mételo en tu cabeza",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_166078f7",
+    "id": "v_9eccd0f1",
     "word": "Washed-up old toys (no literal)",
-    "translation": "juguete viejo desecador",
+    "translation": "juguetes viejos desechados",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9bce06e5",
-    "word": "Quite the charmer (expression)",
+    "id": "v_6cd6f093",
+    "word": "Quite the charmer (expresión)",
     "translation": "todo un encanto",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_34484a26",
+    "id": "v_ee5aff6d",
     "word": "They never get played with",
-    "translation": "nunca juego con ellos",
+    "translation": "nunca juegan con ellos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3230dbd2",
+    "id": "v_0bd748af",
     "word": "Let's get played with",
-    "translation": "amos a jugar",
+    "translation": "vamos a jugar",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4ffbcb14",
+    "id": "v_121146e2",
     "word": "Castoffs",
-    "translation": "desecador, desahuciados",
+    "translation": "desechados, desahuciados",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_18ab8223",
+    "id": "v_993554a0",
     "word": "Do toys here get played with every day?",
-    "translation": "¿Aquí se juego con los juguete todo los",
+    "translation": "¿Aquí se juega con los juguetes todos los días?",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_33d9b3fe",
-    "word": "dias?",
-    "translation": "No registrada",
+    "id": "v_57614698",
+    "word": "Outgrown (adjetivo)",
+    "translation": "superado",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f8edb39f",
-    "word": "Outgrown (adjective)",
-    "translation": "superano",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b3526dde",
+    "id": "v_9f1bf60f",
     "word": "No owners means no heartbreak",
-    "translation": "sin dueño no ha angustia",
+    "translation": "sin dueños no hay angustia",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3cb1187d",
+    "id": "v_06fe096c",
     "word": "Let's get you all settled in",
-    "translation": "amos a instalarlos",
+    "translation": "vamos a instalarlos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ec8503e9",
+    "id": "v_48c44122",
     "word": "Far out! Down in a jiff",
     "translation": "¡Increíble! Bajo en un santiamén",
     "source_movie": "Toy Story III",
@@ -192,15 +200,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_529c5e22",
+    "id": "v_db27f87b",
     "word": "If you want to step right this way",
-    "translation": "si quien pasar por aquí",
+    "translation": "si quieren pasar por aquí",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_37cb4f91",
+    "id": "v_6787c616",
     "word": "Ascot",
     "translation": "pañuelo",
     "source_movie": "Toy Story III",
@@ -208,55 +216,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1abb3e88",
-    "word": "ligeramente polio",
-    "translation": "No registrada",
+    "id": "v_f4889b45",
+    "word": "It will keep you stuffed, puffed and lightly buffed",
+    "translation": "te mantendrá relleno, hinchado y ligeramente pulido",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f4623471",
+    "id": "v_3d5c791c",
     "word": "Puddles",
-    "translation": "charco",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b240901e",
-    "word": "Let's get a move on",
-    "translation": "pongámonos en marcha",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_77daea5a",
-    "word": "How many you reckon are out there?",
-    "translation": "¿Cuanto creer que ha por ahí?",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5d676f8e",
-    "word": "Bluebells, cockleshells",
-    "translation": "campanilla, caracola",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f868d4b5",
-    "word": "Line up",
-    "translation": "formar fila, hacer cola",
+    "translation": "charcos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_1a39bce6",
+    "id": "v_52f18642",
+    "word": "Let's get a move on",
+    "translation": "pongámonos en marcha",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_99937edf",
+    "word": "How many you reckon are out there?",
+    "translation": "¿Cuántos crees que hay por ahí?",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9dc89863",
+    "word": "Bluebells, cockleshells",
+    "translation": "campanillas, caracolas",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cecab5d4",
+    "word": "Line up",
+    "translation": "formar fila, hacer cola",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_f00d9254",
     "word": "Pricklepants",
     "translation": "calzoncillos",
     "source_movie": "Toy Story III",
@@ -264,31 +272,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_353dbdba",
+    "id": "v_ade71ec0",
     "word": "Jelly beans",
-    "translation": "vomitar",
+    "translation": "gomitas",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7ef3de72",
+    "id": "v_dd701939",
     "word": "Tray tables",
-    "translation": "esas de bandeja",
+    "translation": "mesas de bandejas",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_76588d99",
+    "id": "v_f72fc9a3",
     "word": "Bumpy",
-    "translation": "agitador, accidentado, movido",
+    "translation": "agitado, accidentado, movido",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_fcad5d3c",
+    "id": "v_b9135fdd",
     "word": "I got a kink in my slink",
     "translation": "tengo una torcedura en mi resorte",
     "source_movie": "Toy Story III",
@@ -296,15 +304,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6107b553",
-    "word": "Strenuous",
-    "translation": "agotador, atenuante",
+    "id": "v_879d36e9",
+    "word": "Strenous",
+    "translation": "agotador, extenuante",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8dca9bd5",
+    "id": "v_f50cc1dd",
     "word": "We'll get this straightened out",
     "translation": "arreglaremos esto",
     "source_movie": "Toy Story III",
@@ -312,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c917b3e5",
+    "id": "v_a8209957",
     "word": "Transom",
     "translation": "espejo de popa",
     "source_movie": "Toy Story III",
@@ -320,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f42b9bd9",
+    "id": "v_825b04f5",
     "word": "Any splits?",
     "translation": "¿Alguna división?",
     "source_movie": "Toy Story III",
@@ -328,23 +336,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5a4d48d",
-    "word": "Gobble (verb)",
+    "id": "v_15ff425d",
+    "word": "Gobble (verbo)",
     "translation": "tragar, engullir",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_e6c57d2a",
+    "id": "v_e4b40223",
     "word": "Keeper",
     "translation": "guardián",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_3fa8d580",
+    "id": "v_d5e6c06a",
     "word": "Landfill",
     "translation": "vertedero",
     "source_movie": "Toy Story III",
@@ -352,127 +360,127 @@
     "global_frequency": 5
   },
   {
-    "id": "v_abcac5ed",
+    "id": "v_c989401d",
     "word": "Toddler fodder",
-    "translation": "pienso para niño pequeño",
+    "translation": "pienso para niños pequeños",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f4e8bb1d",
+    "id": "v_6122d139",
     "word": "You got a little keeper yourself",
-    "translation": "tú también tener un pequeño guardián",
+    "translation": "tú también tienes un pequeño guardián",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a009061b",
-    "word": "Lay off (expression)",
-    "translation": "dédalo",
+    "id": "v_9c890894",
+    "word": "Lay off (expresión)",
+    "translation": "déjalo",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_eb813b33",
+    "id": "v_c3151028",
     "word": "Hardships",
-    "translation": "dificultad, penuria",
+    "translation": "dificultades, penurias",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_da323194",
+    "id": "v_e969d45c",
     "word": "Put him back in the timeout chair",
-    "translation": "vuelta a poner en la silla de castigo",
+    "translation": "vuelve a ponerlo en la silla de castigo",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e3694d8e",
+    "id": "v_437d2da2",
     "word": "Unhand me!",
     "translation": "¡Suéltame!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_c10b3b01",
+    "id": "v_2544a9cf",
     "word": "Bookworm",
-    "translation": "comelibros (para efecto de esta película)",
+    "translation": "comelibros (para efectos de esta película)",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_053a7c1c",
+    "id": "v_aeaf0824",
     "word": "We were running low on volunteers",
-    "translation": "nos estados querando sin voluntario",
+    "translation": "nos estamos quedando sin voluntarios",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_fe36ab62",
+    "id": "v_15863a87",
     "word": "We've been drooled on",
-    "translation": "nos ha hablado",
+    "translation": "nos han babeado",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0af8eb3f",
+    "id": "v_7e578db5",
     "word": "Give it back you furry air freshener!",
-    "translation": "¡Devuélvemelo, ambientar peludo!",
+    "translation": "¡Devuélvemelo, ambientador peludo!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a70a3780",
+    "id": "v_8d571164",
     "word": "Prisoners disabled commander!",
-    "translation": "¡Prisionero incapacitado comandante!",
+    "translation": "¡Prisioneros incapacitados comandante!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0bcacdd5",
+    "id": "v_0077ca72",
     "word": "Spare me your lies, temptress",
-    "translation": "ahórrame tus mentira, tentadora",
+    "translation": "ahórrame tus mentiras, tentadora",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0e16f4dd",
+    "id": "v_e2fe05fe",
     "word": "Your bewitching good looks",
-    "translation": "tu encanto, tu rechinante belleza",
+    "translation": "tu encanto, tu hechizante belleza",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_60e0085f",
-    "word": "You drooling doors!",
+    "id": "v_efea9b3f",
+    "word": "You drooling doofus!",
     "translation": "¡Idiota baboso!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f6db8180",
+    "id": "v_8c4e081d",
     "word": "Explain our overnight accommodations",
-    "translation": "explicar nuestro alojamiento nocturno",
+    "translation": "explica nuestro alojamiento nocturno",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_702de79e",
+    "id": "v_3042c56d",
     "word": "At dusk and dawn",
     "translation": "al atardecer y al amanecer",
     "source_movie": "Toy Story III",
@@ -480,15 +488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_902af86c",
+    "id": "v_fa9cc1d0",
     "word": "Unless spoken to",
-    "translation": "a menos que se les habla",
+    "translation": "a menos que se les hable",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e7523d4a",
+    "id": "v_9718a314",
     "word": "Talk back",
     "translation": "contestar, responder (de mala manera)",
     "source_movie": "Toy Story III",
@@ -496,79 +504,71 @@
     "global_frequency": 2
   },
   {
-    "id": "v_6784fa37",
-    "word": "la saharan a goes en la academia",
-    "translation": "No registrada",
+    "id": "v_9d864ea1",
+    "word": "Any doubt I had got pounded out of me at the academy",
+    "translation": "cualquier duda que tenía me la sacaban a golpes en la academia",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_393740e9",
+    "id": "v_b69a6f17",
     "word": "Step out of line",
-    "translation": "salir de la línea",
+    "translation": "salirse de la línea",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bf2800e1",
+    "id": "v_25b0a5a3",
     "word": "I'll see you at the sock hop",
-    "translation": "los ver en el salto del calcetín",
+    "translation": "los veré en el salto del calcetín",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_93ab70dd",
+    "id": "v_2d457212",
     "word": "Despair",
     "translation": "desesperación",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 6
+    "global_frequency": 8
   },
   {
-    "id": "v_27614f3e",
-    "word": "Plush and hummable on the outside",
-    "translation": "afelpado y agradable por fuera",
+    "id": "v_38029368",
+    "word": "Plush and huggable on the outside",
+    "translation": "afelpado y abrazable por fuera",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_994605a6",
+    "id": "v_e45f384f",
     "word": "Hit a rest stop (no literal)",
-    "translation": "amos a una parada de descanso",
+    "translation": "vamos a una parada de descanso",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c7c39b11",
+    "id": "v_821e00c9",
     "word": "We were lost, cast off, unloved, unwanted",
-    "translation": "estábamos perdido, desecador, no",
+    "translation": "estábamos perdidos, desechados, no queridos, no deseados",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1e4378b8",
-    "word": "queries, no desperados",
-    "translation": "No registrada",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_d41ea95e",
+    "id": "v_227d3672",
     "word": "I got broke",
-    "translation": "me arruinar",
+    "translation": "me arruiné",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ca07314e",
+    "id": "v_03b59166",
     "word": "Knock it off! (no literal)",
     "translation": "¡Basta ya!",
     "source_movie": "Toy Story III",
@@ -576,31 +576,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ddc094a3",
-    "word": "campsites!",
-    "translation": "No registrada",
+    "id": "v_3dabd100",
+    "word": "Rise and shine campers! (expresión informal)",
+    "translation": "¡Arriba campistas!, ¡Levántense campistas!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6505dee3",
+    "id": "v_6e110102",
     "word": "They've cracked down hard since you left",
-    "translation": "ha tomado medida enérgica/dura",
+    "translation": "han tomado medidas enérgicas/duras desde que te fuiste",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ad798854",
-    "word": "dead que te quite",
-    "translation": "No registrada",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_37fb8dbc",
+    "id": "v_ba8582de",
     "word": "Dump",
     "translation": "vertedero, basurero",
     "source_movie": "Toy Story III",
@@ -608,7 +600,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b8316bff",
+    "id": "v_f30cddad",
     "word": "Old-timer",
     "translation": "viejo",
     "source_movie": "Toy Story III",
@@ -616,31 +608,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_642e61f3",
+    "id": "v_03e6d495",
     "word": "Eight-feet high",
-    "translation": "ocho pues de altura, dos metro y medio de altura",
+    "translation": "ocho pies de altura, dos metros y medio de altura",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8271de28",
+    "id": "v_d6d74d01",
     "word": "No way through it",
-    "translation": "no ha forma de atravesar",
+    "translation": "no hay forma de atravesarlo",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9e435e91",
+    "id": "v_705561d2",
     "word": "Sneak past guards",
-    "translation": "burlar a los guardia, descabullirse de los guardia",
+    "translation": "burlar a los guardias, escabullirse de los guardias",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6e90818b",
+    "id": "v_b92a8e1d",
     "word": "Hog-tie the mailman!",
     "translation": "¡Ata al cartero!",
     "source_movie": "Toy Story III",
@@ -648,7 +640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6ae949ec",
+    "id": "v_3a44f830",
     "word": "We're busting out of here",
     "translation": "nos largamos de aquí",
     "source_movie": "Toy Story III",
@@ -656,7 +648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c009799f",
+    "id": "v_2db85cc7",
     "word": "Springy dog",
     "translation": "perro saltarín",
     "source_movie": "Toy Story III",
@@ -664,7 +656,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0c53ed57",
+    "id": "v_5ff71fa6",
     "word": "Piggy bank",
     "translation": "alcancía, hucha",
     "source_movie": "Toy Story III",
@@ -672,7 +664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_309baed1",
+    "id": "v_4b4bc683",
     "word": "Tuberous root-man!",
     "translation": "¡Hombre-raíz tuberosa!",
     "source_movie": "Toy Story III",
@@ -680,39 +672,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b8d1b4a9",
+    "id": "v_6c9cc3b0",
     "word": "Smoothie",
     "translation": "batido",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_c0e3cda0",
-    "word": "Troublemaker",
-    "translation": "alborotador, buscapleitos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_e498fa86",
+    "id": "v_0ab00014",
+    "word": "Troublemaker",
+    "translation": "alborotador, buscapleitos",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_6f019a96",
     "word": "Meddling toys",
-    "translation": "juguete entrometido",
+    "translation": "juguetes entrometidos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e65a3dff",
-    "word": "You ascot-wearing pink-nose!",
+    "id": "v_66997506",
+    "word": "You ascot-wearing pink-noser!",
     "translation": "¡Nariz de rosa con pañuelo!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e5c7c073",
+    "id": "v_a28423aa",
     "word": "Well-groomed man",
     "translation": "hombre bien peinado",
     "source_movie": "Toy Story III",
@@ -720,23 +712,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7a23ab23",
+    "id": "v_98662c4b",
     "word": "Campus hero with matching sports pennant",
-    "translation": "héroe universitario con banderín",
+    "translation": "héroe universitario con banderín deportivo a juego",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_65bc3b21",
-    "word": "deporting a judge",
-    "translation": "No registrada",
-    "source_movie": "Toy Story III",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5fe3f824",
+    "id": "v_458b21e3",
     "word": "Break it up!",
     "translation": "¡Sepárense!",
     "source_movie": "Toy Story III",
@@ -744,7 +728,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_4ec24fb2",
+    "id": "v_6ae5b1ef",
     "word": "Take that, walnut-brain",
     "translation": "toma eso cerebro de nuez",
     "source_movie": "Toy Story III",
@@ -752,23 +736,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f3187fde",
+    "id": "v_3e05b776",
     "word": "Hawaiian surf trunks",
-    "translation": "traje de sur hawaianos",
+    "translation": "trajes de surf hawaianos",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2029232c",
-    "word": "They're a dime a dozen (frame no literal)",
-    "translation": "los ha a botones",
+    "id": "v_ea61893b",
+    "word": "They're a dime a dozen (frase no literal)",
+    "translation": "los hay a montones",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_fa3be06b",
+    "id": "v_05efbacd",
     "word": "Glitter tux",
     "translation": "esmoquin con purpurina",
     "source_movie": "Toy Story III",
@@ -776,31 +760,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e3799402",
+    "id": "v_0dc2e5d5",
     "word": "Sequins are tacky (no literal)",
-    "translation": "las lentejuela son de mal gusto",
+    "translation": "las lentejuelas son de mal gusto",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c2a944bc",
+    "id": "v_7a16a486",
     "word": "What's taking so doggone long?",
-    "translation": "¿Por que tardar tanto?",
+    "translation": "¿Por qué tardas tanto?",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b8f6a8a0",
+    "id": "v_d1351e92",
     "word": "Will you be quiet?",
-    "translation": "¿Querer ballarte?",
+    "translation": "¿Quieres callarte?",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c8021301",
+    "id": "v_e7e4927e",
     "word": "Detachable",
     "translation": "desmontable",
     "source_movie": "Toy Story III",
@@ -808,7 +792,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_e011db85",
+    "id": "v_628d146b",
     "word": "I still got a spring in my step",
     "translation": "todavía tengo un resorte en mi paso",
     "source_movie": "Toy Story III",
@@ -816,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6d6f565c",
+    "id": "v_83be347f",
     "word": "Cool and groovy",
     "translation": "guay y genial",
     "source_movie": "Toy Story III",
@@ -824,23 +808,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f7f6497e",
+    "id": "v_38b858cb",
     "word": "He's made us into a pyramid",
-    "translation": "nos ha convertidor en una pirámide",
+    "translation": "nos ha convertido en una pirámide",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b36db746",
-    "word": "Concur (verb)",
+    "id": "v_5ba29cfb",
+    "word": "Concur (verbo)",
     "translation": "coincidir, estar de acuerdo, concordar",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_888f8bf5",
+    "id": "v_0e1f2f12",
     "word": "Garbage truck",
     "translation": "camión de la basura",
     "source_movie": "Toy Story III",
@@ -848,39 +832,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a8c087e7",
-    "word": "I take it all back (frame no literal)",
+    "id": "v_c9b0e6fa",
+    "word": "I take it all back (frase no literal)",
     "translation": "retiro lo dicho",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e84c773c",
+    "id": "v_e8ea9923",
     "word": "You're darn tooting",
-    "translation": "tres un maldito",
+    "translation": "eres un maldito",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8a9c57cf",
+    "id": "v_0a00881a",
     "word": "I'd like to loosen his stitching",
-    "translation": "me gustar aflojar las costura",
+    "translation": "me gustaría aflojarle las costuras",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a777ee9c",
+    "id": "v_32a124ab",
     "word": "Critters",
-    "translation": "criatura",
+    "translation": "criaturas",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_a8c08d2d",
+    "id": "v_cbbd484c",
     "word": "Dastardly",
     "translation": "ruin, temible",
     "source_movie": "Toy Story III",
@@ -888,40 +872,48 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac0df33e",
-    "word": "Scones",
-    "translation": "bollo",
+    "id": "v_ff0fa285",
+    "word": "For as long as I can remember (frase no literal)",
+    "translation": "desde que tengo memoria",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f6693d66",
+    "id": "v_6726b056",
+    "word": "Scones",
+    "translation": "bollos",
+    "source_movie": "Toy Story III",
+    "year_processed": "2025",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_2daf74f3",
     "word": "Cloak",
     "translation": "capa, manto",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_22be2d54",
-    "word": "Golly bob howdy! (expression informal)",
+    "id": "v_e65da560",
+    "word": "Golly bob howdy! (expresión informal)",
     "translation": "¡Caramba!",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_915a9e25",
-    "word": "quell venting?",
-    "translation": "No registrada",
+    "id": "v_9421ebc0",
+    "word": "What light through yonder window breaks? (en inglés antiguo)",
+    "translation": "¿Qué luz atraviesa aquella ventana?",
     "source_movie": "Toy Story III",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_95f7bd00",
-    "word": "Detach (verb)",
+    "id": "v_392307de",
+    "word": "Detach (verbo)",
     "translation": "separar, desprender, despegar",
     "source_movie": "Toy Story III",
     "year_processed": "2025",

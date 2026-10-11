@@ -1,38 +1,38 @@
 [
   {
-    "id": "v_1ecd2f4e",
+    "id": "v_d03394b5",
     "word": "Twig",
-    "translation": "camita, rama",
+    "translation": "ramita, rama",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_454977f4",
+    "id": "v_c1cd6134",
     "word": "Don’t look away",
-    "translation": "no aparte/desvío la mirada",
+    "translation": "no apartes/desvíes la mirada",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_93f8abd0",
+    "id": "v_e0be5f69",
     "word": "Wind’s died down",
-    "translation": "el viento ha amainador, el viento se ha calmado",
+    "translation": "el viento ha amainado, el viento se ha calmado",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1ea935a2",
-    "word": "Hover (verb)",
+    "id": "v_5ca2b699",
+    "word": "Hover (verbo)",
     "translation": "rondar, merodear",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_1ed58009",
+    "id": "v_fdfb8886",
     "word": "That's our lot in life",
     "translation": "esa es nuestra suerte en la vida",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -40,7 +40,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0549299b",
+    "id": "v_396227cb",
     "word": "Aphid",
     "translation": "pulgón",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -48,15 +48,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b91f8eab",
-    "word": "Ditch (verb)",
+    "id": "v_b85cbd5e",
+    "word": "Ditch (verbo)",
     "translation": "tirar, dejar, abandonar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 7
   },
   {
-    "id": "v_8c62e92d",
+    "id": "v_1c59acaa",
     "word": "Harvesting grain",
     "translation": "cosecha de grano/cereal",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -64,23 +64,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4ff738d4",
-    "word": "Stalk (substantive en naturalize)",
+    "id": "v_2a4e21bf",
+    "word": "Kernel (sustantivo en términos de agricultura)",
+    "translation": "grano",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_821e4a5a",
+    "word": "Stalk (sustantivo en naturaleza)",
     "translation": "tallo",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2da00a07",
-    "word": "Oversee (verb)",
+    "id": "v_b16472e2",
+    "word": "Oversee (verbo)",
     "translation": "supervisar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_5d81fa33",
+    "id": "v_1fe68a25",
     "word": "A bead of dew",
     "translation": "una gota de rocío",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -88,23 +96,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_00f28fdc",
+    "id": "v_0e48e317",
     "word": "Harvester",
-    "translation": "cohechadora, cohechador",
+    "translation": "cosechadora, cosechador",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_94d3e4b4",
-    "word": "Harvest (verb)",
+    "id": "v_0504e34e",
+    "word": "Harvest (verbo)",
     "translation": "cosechar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_b20736eb",
+    "id": "v_5d3a4b4b",
     "word": "Pupa",
     "translation": "crisálida",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -112,7 +120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3dd5d43d",
+    "id": "v_0c787829",
     "word": "Offering stone",
     "translation": "piedra de ofrenda",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -120,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_40b459ca",
+    "id": "v_0fac40fb",
     "word": "Anthill",
     "translation": "hormiguero",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -128,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_55edbb32",
+    "id": "v_0c12c439",
     "word": "Blue jay",
     "translation": "arrendajo azul",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -136,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_753109c7",
+    "id": "v_9364a356",
     "word": "Deathbed",
     "translation": "lecho de muerte",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -144,63 +152,63 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aa1009b1",
+    "id": "v_40873da1",
     "word": "If you don't keep your end of the bargain",
-    "translation": "si no cumplir tu parte del trato",
+    "translation": "si no cumples tu parte del trato",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7dc1865a",
+    "id": "v_73cd1e94",
     "word": "Ludicrous",
     "translation": "ridículo, absurdo",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_fbc39fde",
-    "word": "You got a lot of spunk (frame no literal)",
-    "translation": "tener mucha agalla",
+    "id": "v_1382116b",
+    "word": "You got a lot of spunk (frase no literal)",
+    "translation": "tienes muchas agallas",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2c52150f",
+    "id": "v_915f2728",
     "word": "Royal huddle",
-    "translation": "reunión real",
+    "translation": "reunion real",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d618d6e8",
-    "word": "Grant (verb)",
+    "id": "v_e9fc18cf",
+    "word": "Grant (verbo)",
     "translation": "conceder, otorgar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_18166ebd",
+    "id": "v_79c08676",
     "word": "Ease up",
-    "translation": "relajante, relájense",
+    "translation": "relájate, relájense",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_f2e1b2b6",
-    "word": "An owe?",
-    "translation": "¿Un tochuelo?",
+    "id": "v_093552cd",
+    "word": "An owie?",
+    "translation": "¿Un mochuelo?",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5aaa3d22",
+    "id": "v_ef320c10",
     "word": "Outhouse",
     "translation": "dependencia, invernadero",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -208,23 +216,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e39b92ba",
+    "id": "v_7ecdfbcb",
     "word": "Stale popcorn",
-    "translation": "palomita rancia",
+    "translation": "palomitas rancias",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_741378dd",
-    "word": "I'm a prop! (en terminus de un circa)",
-    "translation": "¡Son de añilería!",
+    "id": "v_2acbef86",
+    "word": "I'm a prop! (en términos de un circo)",
+    "translation": "¡Soy de utilería!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2dfbf0c0",
+    "id": "v_3dea7ab0",
     "word": "Splinter",
     "translation": "astilla",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -232,7 +240,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cf5dbf15",
+    "id": "v_dcfa14df",
     "word": "Bumblebee",
     "translation": "abejorro",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -240,15 +248,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_77d79b1f",
-    "word": "Pollinate (verb)",
-    "translation": "colonizar",
+    "id": "v_4aa72428",
+    "word": "Pollinate (verbo)",
+    "translation": "polinizar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_105ce7e2",
+    "id": "v_b63099c2",
     "word": "A dung heap",
     "translation": "un montón de estiércol",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -256,15 +264,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b891cce",
-    "word": "Summon (verb)",
+    "id": "v_e999d927",
+    "word": "Summon (verbo)",
     "translation": "convocar, invocar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_da942c70",
+    "id": "v_4450e8fe",
     "word": "You old hack!",
     "translation": "¡Viejo pirata!",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -272,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_822d97bb",
+    "id": "v_27c9aa86",
     "word": "Trail",
     "translation": "camino, ruta, pista",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -280,31 +288,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1f6054e0",
-    "word": "A sheet flypaper dowsed in lighter fluid",
-    "translation": "una hoja de papel mojada en líquido para",
+    "id": "v_c30e46e5",
+    "word": "A sheet offlypaper dowsed in lighter fluid",
+    "translation": "una hoja de papel mojada en líquido para encendedores",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8ee87f5b",
-    "word": "encendedores",
-    "translation": "No registrada",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_b5dd84b6",
+    "id": "v_d2374ff5",
     "word": "Mistress",
     "translation": "señora",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_2c09ae5f",
+    "id": "v_69999418",
     "word": "Plummet down",
     "translation": "caer en picado, desplomar",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -312,15 +312,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d25d8920",
+    "id": "v_2758e2db",
     "word": "Blindfolded",
-    "translation": "con los ojo vendedor",
+    "translation": "con los ojos vendados",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_600fe9d2",
+    "id": "v_5adf5e1b",
     "word": "Standing water",
     "translation": "agua estancada",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -328,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4ee9a055",
+    "id": "v_0a64dd01",
     "word": "Flea",
     "translation": "pulga",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -336,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7d43bdde",
+    "id": "v_738bbdd1",
     "word": "Quiver",
     "translation": "aljaba",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -344,7 +344,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c89d16ca",
+    "id": "v_11c6080e",
     "word": "Thrust, parry, lunge!",
     "translation": "¡Empujar, parar, embestir!",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -352,31 +352,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ff562cdf",
-    "word": "Me thinkers it's not working!",
-    "translation": "¡Yo crea que no funcionar!",
+    "id": "v_b488de3d",
+    "word": "Me thinketh it's not working!",
+    "translation": "¡Yo creo que no funciona!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c072d39b",
-    "word": "Scout (verb)",
+    "id": "v_65ae3d08",
+    "word": "Scout (verbo)",
     "translation": "buscar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7f9b6e9d",
-    "word": "Scout (substantive)",
+    "id": "v_e5cf3551",
+    "word": "Scout (sustantivo)",
     "translation": "explorador",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8d177133",
+    "id": "v_8ea05405",
     "word": "Quit shoving!",
     "translation": "¡Deja de empujar!",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -384,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_13668ac5",
+    "id": "v_e78267c5",
     "word": "My ticker!",
     "translation": "¡Mi teletipo!",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -392,23 +392,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c0fa7479",
+    "id": "v_7ad85e0b",
     "word": "They are sure hard up for entertainment",
-    "translation": "seguro que son duro para el",
+    "translation": "seguro que son duros para el entretenimiento",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_be353cd8",
-    "word": "entretenimiento",
-    "translation": "No registrada",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_86db4c66",
+    "id": "v_088fa395",
     "word": "Thespian",
     "translation": "actor de teatro",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -416,7 +408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_23a33e93",
+    "id": "v_6ef98a7d",
     "word": "So bold",
     "translation": "tan audaz",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -424,15 +416,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_46bf12b6",
-    "word": "Vanquish (verb)",
+    "id": "v_3543c7d6",
+    "word": "Vanquish (verbo)",
     "translation": "vencer, derrotar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_199d0f7a",
+    "id": "v_d09bbb89",
     "word": "Forthright",
     "translation": "franco, sincero",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -440,15 +432,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7ffb7aaa",
-    "word": "que se american para power trapeze",
-    "translation": "No registrada",
+    "id": "v_19b10a26",
+    "word": "Circumventing the oncoming hordes so they can trapeze",
+    "translation": "circunvalando a las hordas que se acercan para poder trapezar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7e0d43f6",
+    "id": "v_9dcdccd2",
     "word": "With ease",
     "translation": "con facilidad",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -456,7 +448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e3e5068b",
+    "id": "v_00c4067d",
     "word": "Get done",
     "translation": "hacer",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -464,55 +456,55 @@
     "global_frequency": 2
   },
   {
-    "id": "v_1713654a",
+    "id": "v_107639a1",
     "word": "The battle looming",
-    "translation": "la batalla que se vecina",
+    "translation": "la batalla que se avecina",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9767178b",
+    "id": "v_0d24720f",
     "word": "Touting your wares",
-    "translation": "promocionando sus producto",
+    "translation": "promocionando sus productos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_c8f98b53",
+    "id": "v_159a3413",
     "word": "Hapless artists",
-    "translation": "artista desventurado",
+    "translation": "artistas desventurados",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_419e1b2d",
+    "id": "v_a1831870",
     "word": "I will be branded for life",
-    "translation": "ser mercado de por vida",
+    "translation": "seré marcado de por vida",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_90c5b974",
-    "word": "Spawn (substantive respective)",
+    "id": "v_74de1fb4",
+    "word": "Spawn (sustantivo despectivo)",
     "translation": "engendro",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bd65c6a6",
+    "id": "v_17408e99",
     "word": "He’s up to something",
-    "translation": "él esta tratado algo",
+    "translation": "él está tramando algo",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_e782136d",
+    "id": "v_b36401c1",
     "word": "Caterpillar",
     "translation": "oruga",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -520,15 +512,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ce3cf3a2",
+    "id": "v_473e408c",
     "word": "Suck it in",
-    "translation": "chupado, succiónalo",
+    "translation": "chúpalo, succiónalo",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_e670ff65",
+    "id": "v_40d29396",
     "word": "Den mother",
     "translation": "madre de la guarida",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -536,15 +528,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6dc1ade0",
+    "id": "v_8fe9b178",
     "word": "Keisters",
-    "translation": "trasero",
+    "translation": "traseros",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_300ad381",
+    "id": "v_4d992c20",
     "word": "Official aide",
     "translation": "ayudante oficial, asistente oficial",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -552,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bfb428bd",
+    "id": "v_f6a831a6",
     "word": "Rapport",
     "translation": "relación, conexión",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -560,71 +552,71 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d427c1c",
-    "word": "Concoct (verb)",
+    "id": "v_2a973438",
+    "word": "Concoct (verbo)",
     "translation": "preparar, tramar, inventar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_8f13d3da",
-    "word": "Dive-bomb (verb)",
-    "translation": "lanzar en picado, zambullir",
+    "id": "v_4ae951b6",
+    "word": "Dive-bomb (verbo)",
+    "translation": "lanzarse en picado, zambullirse",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2190012e",
+    "id": "v_6a9058ab",
     "word": "I outrank everyone here",
-    "translation": "yo suero a todo aquí",
+    "translation": "yo supero a todos aquí",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a78395a6",
+    "id": "v_5e6d5c5b",
     "word": "Dismissed!",
     "translation": "¡Retírense!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 4
   },
   {
-    "id": "v_ef741c4e",
+    "id": "v_7f146574",
     "word": "A praying mantis",
-    "translation": "una mantisa religiosa",
+    "translation": "una mantis religiosa",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0cdaaeca",
+    "id": "v_73068049",
     "word": "Delightful lads",
-    "translation": "muchacho encantador",
+    "translation": "muchachos encantadores",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3ca1961c",
-    "word": "Hoist (verb)",
+    "id": "v_bcafae2d",
+    "word": "Hoist (verbo)",
     "translation": "izar, levantar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1bb5dd0e",
+    "id": "v_b6e69fe8",
     "word": "Scare off",
     "translation": "asustar, ahuyentar, espantar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_6bdf8d53",
+    "id": "v_8a2522b5",
     "word": "Yarn",
     "translation": "hilo",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -632,15 +624,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_82a07866",
+    "id": "v_6c230844",
     "word": "I'm barefooting!",
-    "translation": "¡Esto descalzo!",
+    "translation": "¡Estoy descalzo!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2b018f63",
+    "id": "v_39cd9332",
     "word": "Get smacked",
     "translation": "recibir una paliza/bofetada",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -648,119 +640,127 @@
     "global_frequency": 1
   },
   {
-    "id": "v_92b09a78",
+    "id": "v_572f2614",
     "word": "They talked fancy to me",
-    "translation": "me hablar de fantasía",
+    "translation": "me hablaron de fantasia",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_107e2a0a",
+    "id": "v_447e4145",
     "word": "They're puny!",
-    "translation": "¡Son insignificante!, ¡Son enclenque!",
+    "translation": "¡Son insignificantes!, ¡Son enclenques!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0a75327a",
-    "word": "Get down, roll boys",
-    "translation": "agáchense, muchacho",
+    "id": "v_91e89c91",
+    "word": "Get down, roly boys",
+    "translation": "agáchense, muchachos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b9d8264a",
+    "id": "v_e135abfd",
     "word": "Quit beating the boys up",
-    "translation": "deja de pegar a los chico",
+    "translation": "deja de pegar a los chicos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5593a4ba",
+    "id": "v_2b0da88e",
     "word": "Raisins",
-    "translation": "pasa",
+    "translation": "pasas",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_964c0cb2",
+    "id": "v_7ab3726d",
     "word": "Word of mouth got around",
-    "translation": "se correr la voz",
+    "translation": "se corrió la voz",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f6752bcf",
+    "id": "v_feeccffa",
     "word": "It must have been a foot long!",
-    "translation": "¡Debla de medir 30 centímetro!",
+    "translation": "¡Debía de medir 30 centímetros!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_39f4f093",
+    "id": "v_332cad06",
     "word": "We'll be the top circus act!",
-    "translation": "¡Sereno el mejor número de circo!",
+    "translation": "¡Seremos el mejor número de circo!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_bfb35e62",
+    "id": "v_9a4d17e3",
     "word": "Scrap",
     "translation": "trozo, pedazo",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_1aac20a6",
+    "word": "Slapstick",
+    "translation": "payasadas, chistes",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b44006f8",
+    "word": "You have rekindled the long-dormant embers of purpose",
+    "translation": "has reavivado las brasas de un propósito que llevaba mucho tiempo dormido",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5c65d7a8",
+    "word": "We’re on!",
+    "translation": "¡Ya estamos!",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2a949beb",
+    "word": "Bonfire",
+    "translation": "fogata, hoguera",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 4
   },
   {
-    "id": "v_e228372e",
-    "word": "Slapstick",
-    "translation": "payasada, chiste",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_1396e467",
-    "word": "un propositi que llevaba much tempo domino",
-    "translation": "No registrada",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5da31323",
-    "word": "We’re on!",
-    "translation": "¡Ya estados!",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_14008194",
-    "word": "Bonfire",
-    "translation": "fogata, hoguera",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_8016c5ed",
+    "id": "v_58191d1a",
     "word": "Rub your legs together",
-    "translation": "frote sus pierna",
+    "translation": "froten sus piernas",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8d894856",
+    "id": "v_4dce4c98",
+    "word": "I think I'm going to wet myself (frase no literal)",
+    "translation": "creo que me voy a hacer pipí",
+    "source_movie": "Bichos Una Aventura en Miniatura",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_61c8cf6f",
     "word": "To screw in a little bulb",
     "translation": "enroscar una bombilla/ampolleta",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -768,15 +768,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_802ce5bd",
+    "id": "v_1c840fb8",
     "word": "They scatter",
-    "translation": "ellos se dispersa",
+    "translation": "ellos se dispersan",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_a1cd4077",
+    "id": "v_269a2f73",
     "word": "The dung beetle",
     "translation": "el escarabajo estercolero",
     "source_movie": "Bichos Una Aventura en Miniatura",
@@ -784,145 +784,137 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c261115",
+    "id": "v_74ee9967",
     "word": "Get ripped to shreds",
-    "translation": "hacer pedazo",
+    "translation": "hacerse pedazos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7653a255",
-    "word": "Get ready to roll (frame no literal)",
-    "translation": "preparado para la acción",
+    "id": "v_db6fe762",
+    "word": "Get ready to roll (frase no literal)",
+    "translation": "preparados para la acción",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_42b561db",
+    "id": "v_5d88d01d",
     "word": "Boysenberry",
-    "translation": "mora de Bolsón",
+    "translation": "mora de Boysen",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3895f168",
+    "id": "v_604a5374",
     "word": "Where do you get the gall to do this to me?",
-    "translation": "¿De donde sacar el descaro para",
+    "translation": "¿De dónde sacas el descaro para hacerme esto?",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_55531c61",
-    "word": "raceme este?",
-    "translation": "No registrada",
-    "source_movie": "Bichos Una Aventura en Miniatura",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f8921f90",
+    "id": "v_c0d2d1dc",
     "word": "When someone gives away the ending",
-    "translation": "cuando alguien revelar el final",
+    "translation": "cuando alguien revela el final",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6d25f205",
+    "id": "v_3637caa8",
     "word": "Mindless, soil-shoving losers",
-    "translation": "perdedor descerebrados y rastrero",
+    "translation": "perdedores descerebrados y rastreros",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_70e8d93c",
+    "id": "v_3b27bdd6",
     "word": "Eyeballs",
-    "translation": "globo ocular, ojo",
+    "translation": "globos oculares, ojos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_f3d682e5",
-    "word": "Rub (verb)",
+    "id": "v_7129cbde",
+    "word": "Rub (verbo)",
     "translation": "frotar",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 3
   },
   {
-    "id": "v_9ee93a25",
+    "id": "v_4dba276f",
     "word": "We got paying customers hatching!",
-    "translation": "¡Tenedor cliente de pago incubando!",
+    "translation": "¡Tenemos clientes de pago incubando!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9ae54c23",
+    "id": "v_21a3e57d",
     "word": "You really goofed up",
-    "translation": "realmente amatiste la pata, realmente la las cagado",
+    "translation": "realmente metiste la pata, realmente la has cagado",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_9811bba3",
-    "word": "Au Wiedersehen! (frame en lemon)",
+    "id": "v_4ff669eb",
+    "word": "Auf Wiedersehen! (frase en alemán)",
     "translation": "¡Hasta la vista!, ¡Adiós!",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_044b9114",
+    "id": "v_cde86d52",
     "word": "Flaws",
-    "translation": "defecto",
+    "translation": "defectos",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1ea8b789",
-    "word": "Tunnel home (verb)",
+    "id": "v_a7f9ae23",
+    "word": "Tunnel home (verbo)",
     "translation": "hacer un túnel hasta casa",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_440dbfd9",
+    "id": "v_1d46d04c",
     "word": "I don't think I'm coming across",
-    "translation": "crea que no me esto entendido",
+    "translation": "creo que no me estoy entendiendo",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_7ad7bfb7",
+    "id": "v_bab95a17",
     "word": "I could lather up a bunch of spit",
-    "translation": "poesía enjabonar un montón de saliva",
+    "translation": "podría enjabonar un montón de saliva",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5505af34",
+    "id": "v_c6fdc5ac",
     "word": "How your fortunes ebb and flow",
-    "translation": "como fluctuar tu fortuna",
+    "translation": "cómo fluctúa tu fortuna",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_615f6ceb",
+    "id": "v_6fe0d9f4",
     "word": "And only to the enterprising",
-    "translation": "y sólo para los emprendedor",
+    "translation": "y sólo para los emprendedores",
     "source_movie": "Bichos Una Aventura en Miniatura",
     "year_processed": "2025",
     "global_frequency": 1

@@ -64,8 +64,8 @@
       "translation": "autovía"
     },
     {
-      "word": "encargas de ese pedido de la zona alta?",
-      "translation": "No registrada"
+      "word": "Why don't you jump on that order from uptown? (pregunta no literal)",
+      "translation": "¿Por qué no te encargas de ese pedido de la zona alta?"
     },
     {
       "word": "Township",
@@ -100,6 +100,10 @@
       "translation": "ondular"
     },
     {
+      "word": "He was going off the handle (frase no literal)",
+      "translation": "se estaba volviendo loco"
+    },
+    {
       "word": "Kicker (en economía)",
       "translation": "complemento, bonificación adicional"
     },
@@ -114,6 +118,10 @@
     {
       "word": "Tailing",
       "translation": "seguir de cerca"
+    },
+    {
+      "word": "I always get so much out of it (frase no literal)",
+      "translation": "siempre aprendo muchísimo de ello"
     },
     {
       "word": "Drumsticks clacking",
@@ -136,12 +144,16 @@
       "translation": "caladas"
     },
     {
-      "word": "It's not lit (parcialmente no literal)",
+      "word": "It’s not lit (parcialmente no literal)",
       "translation": "no es divertido, es aburrido"
     },
     {
       "word": "A virgin-off",
       "translation": "una competencia de virginidad"
+    },
+    {
+      "word": "High school is not lit (parcialmente no literal)",
+      "translation": "la escuela secundaria no es divertida"
     },
     {
       "word": "You fall in?",
@@ -156,8 +168,16 @@
       "translation": "garabatos"
     },
     {
+      "word": "We fall for each other (parcialmente no literal)",
+      "translation": "nos enamoramos el uno del otro"
+    },
+    {
       "word": "Sympathy lilies (no literal)",
       "translation": "lirios de condolencia"
+    },
+    {
+      "word": "To pick up where we left off (frase no literal)",
+      "translation": "retomando donde lo habíamos dejado"
     },
     {
       "word": "Ungentlemanly",
@@ -180,8 +200,8 @@
       "translation": "correduría"
     },
     {
-      "word": "por la puerta",
-      "translation": "No registrada"
+      "word": "It might grow legs and walk out the door (no literal)",
+      "translation": "podría echarse a andar y salir por la puerta"
     },
     {
       "word": "Outlier",
@@ -200,6 +220,10 @@
       "translation": "nos están tomando el pelo"
     },
     {
+      "word": "I will hit you back later (frase no literal en comunicaciones)",
+      "translation": "te llamo más tarde"
+    },
+    {
       "word": "Barbeque (verbo en reputación)",
       "translation": "hacer la vida imposible"
     },
@@ -214,6 +238,10 @@
     {
       "word": "Hit piece (no literal)",
       "translation": "artículo difamatorio"
+    },
+    {
+      "word": "Something's a little off with that (parcialmente no literal)",
+      "translation": "hay algo que no cuadra ahí"
     },
     {
       "word": "Tropane alkaloids",
@@ -296,12 +324,20 @@
       "translation": "chequera, talonario de cheques"
     },
     {
+      "word": "She's in for quite the shock (frase no literal)",
+      "translation": "se va a llevar una buena sorpresa"
+    },
+    {
       "word": "Conniving",
       "translation": "manipuladora, intrigante"
     },
     {
       "word": "Embezzlement and assault",
       "translation": "malversación y agresión"
+    },
+    {
+      "word": "I just couldn't turn you down (frase no literal)",
+      "translation": "no podia decirte que no"
     },
     {
       "word": "Did you bring an appetite?",
@@ -312,8 +348,12 @@
       "translation": "eliminar"
     },
     {
-      "word": "eso?",
-      "translation": "No registrada"
+      "word": "Would you take any of it back? (pregunta no literal)",
+      "translation": "¿Te arrepentirías de algo de eso?"
+    },
+    {
+      "word": "It isn't cut out for everyone (frase no literal)",
+      "translation": "no es para cualquiera"
     },
     {
       "word": "Sharpest of the bunch (no literal)",
@@ -369,19 +409,15 @@
     },
     {
       "word": "May the sentence be recorded by the clerk",
-      "translation": "que el secretario haga constar la"
-    },
-    {
-      "word": "sentencia",
-      "translation": "No registrada"
+      "translation": "que el secretario haga constar la sentencia"
     },
     {
       "word": "Juncture",
       "translation": "coyuntura, situación crítica"
     },
     {
-      "word": "ahí atrás",
-      "translation": "No registrada"
+      "word": "You must be quite the catch back there (no literal)",
+      "translation": "debes de ser todo un partido por ahí atrás"
     },
     {
       "word": "Lump",
@@ -419,5 +455,7 @@
       "https://image.tmdb.org/t/p/w780/yU2Fz8FFcTcblYDHvShJqZ1dTOC.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 110,
+  "dialogues": 1945
 }

@@ -12,8 +12,8 @@
       "translation": "yo"
     },
     {
-      "word": "poco",
-      "translation": "No registrada"
+      "word": "The show is running kinda long (frase no literal)",
+      "translation": "el programa se está alargando un poco"
     },
     {
       "word": "Seashell",
@@ -40,8 +40,12 @@
       "translation": "un poco de la parte de arriba"
     },
     {
-      "word": "performativo más intrépido del mundo",
-      "translation": "No registrada"
+      "word": "Let yourself know (no literal no alusivo a avisar)",
+      "translation": "darte cuenta"
+    },
+    {
+      "word": "The world's most fearless daredevil/performance artist",
+      "translation": "el artista temerario y performativo más intrépido del mundo"
     },
     {
       "word": "Obstacle course",
@@ -97,11 +101,7 @@
     },
     {
       "word": "The show will go off without a hitch",
-      "translation": "el espectáculo se desarrollará sin ningún"
-    },
-    {
-      "word": "contratiempo",
-      "translation": "No registrada"
+      "translation": "el espectáculo se desarrollará sin ningún contratiempo"
     },
     {
       "word": "A few kinks",
@@ -112,8 +112,8 @@
       "translation": "detalle"
     },
     {
-      "word": "moneda de veinticinco centavos",
-      "translation": "No registrada"
+      "word": "And getting my face on the new quarter (frase no literal)",
+      "translation": "y aparecer en la nueva moneda de veinticinco centavos"
     },
     {
       "word": "The day-to-day terrors",
@@ -132,8 +132,8 @@
       "translation": "pareces un poco nervioso"
     },
     {
-      "word": "desequilibrados",
-      "translation": "No registrada"
+      "word": "Your chakras are totally out of whack (frase no literal)",
+      "translation": "tus chakras están totalmente desequilibrados"
     },
     {
       "word": "Thanks for checking in",
@@ -141,11 +141,7 @@
     },
     {
       "word": "I was doing award show patter",
-      "translation": "estaba haciendo comentarios en una entrega de"
-    },
-    {
-      "word": "premios",
-      "translation": "No registrada"
+      "translation": "estaba haciendo comentarios en una entrega de premios"
     },
     {
       "word": "Hard-hitting news",
@@ -153,11 +149,7 @@
     },
     {
       "word": "I set out to get you with a fine tooth comb",
-      "translation": "me propuse atraparte con un peine de"
-    },
-    {
-      "word": "dientes finos",
-      "translation": "No registrada"
+      "translation": "me propuse atraparte con un peine de dientes finos"
     },
     {
       "word": "Sail away",
@@ -168,8 +160,8 @@
       "translation": "remar"
     },
     {
-      "word": "arriba",
-      "translation": "No registrada"
+      "word": "And the world I'll turn it inside out (frase no literal)",
+      "translation": "y el mundo lo pondré patas arriba"
     },
     {
       "word": "Leaping through the sky",
@@ -191,5 +183,7 @@
       "https://image.tmdb.org/t/p/w780/arq0d8pt8qLXtlfGLlsf8ITesSe.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 42,
+  "dialogues": 569
 }

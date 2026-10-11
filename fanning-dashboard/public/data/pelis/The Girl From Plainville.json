@@ -68,7 +68,7 @@
           "translation": "¿Tu novio no acaba de suicidarse?"
         },
         {
-          "word": "You're up (en sentido de estar informado)",
+          "word": "You’re up (en sentido de estar informado)",
           "translation": "estás al dia"
         },
         {
@@ -126,7 +126,7 @@
     },
     {
       "name": "The Girl From Plainville (Episode 2)",
-      "count": 34,
+      "count": 33,
       "vocabulary": [
         {
           "word": "Gush (verbo)",
@@ -246,7 +246,7 @@
         },
         {
           "word": "Grieving",
-          "translation": "duelo, luto She's hopeful, ella tiene esperanzas"
+          "translation": "duelo, luto She’s hopeful, ella tiene esperanzas"
         },
         {
           "word": "Run in",
@@ -263,7 +263,7 @@
       ],
       "englishAnalysis": "Este episodio introduce 34 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Gush (verbo)\", \"Your tugboat towed Sully in off the Hudson\", \"Take in (en algunos contextos)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
       "level": "B2",
-      "dialogues": 738
+      "dialogues": 739
     },
     {
       "name": "The Girl From Plainville (Episode 3)",
@@ -819,7 +819,7 @@
       ],
       "englishAnalysis": "Este episodio introduce 26 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Is there any business either counsel would like to handle?\", \"A bench trial\", \"Stand approach (verbo)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
       "level": "B1",
-      "dialogues": 697
+      "dialogues": 698
     },
     {
       "name": "The Girl From Plainville (Episode 7)",
@@ -982,7 +982,7 @@
           "translation": "una adolescente sinvergüenza"
         },
         {
-          "word": "He's a dick (no literal)",
+          "word": "He’s a dick (no literal)",
           "translation": "él es un idiota"
         },
         {
@@ -1175,5 +1175,7 @@
         "still_path": "https://image.tmdb.org/t/p/w500/h3gwIW7SwSMIZNiKQdJ8fRtCGkP.jpg"
       }
     }
-  }
+  },
+  "count": 264,
+  "dialogues": 5220
 }

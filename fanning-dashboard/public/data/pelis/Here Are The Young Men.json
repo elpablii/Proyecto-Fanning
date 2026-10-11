@@ -33,11 +33,7 @@
     },
     {
       "word": "I worked out me life spreadsheet last night",
-      "translation": "anoche elaboré la hoja de cálculo de mi"
-    },
-    {
-      "word": "vida",
-      "translation": "No registrada"
+      "translation": "anoche elaboré la hoja de cálculo de mi vida"
     },
     {
       "word": "Go for a walk (verbo)",
@@ -54,6 +50,10 @@
     {
       "word": "Tear up",
       "translation": "destrozar"
+    },
+    {
+      "word": "I gotta piss in a proper jacks (frase no literal)",
+      "translation": "tengo que ir a un baño de verdad"
     },
     {
       "word": "Saps",
@@ -92,7 +92,7 @@
       "translation": "descarado, atrevido"
     },
     {
-      "word": "Don't be lame",
+      "word": "Don’t be lame",
       "translation": "no seas patético"
     },
     {
@@ -100,8 +100,8 @@
       "translation": "revelar los secretos"
     },
     {
-      "word": "tanto como sea posible",
-      "translation": "No registrada"
+      "word": "My aim is to fuck up future me as badly as possible",
+      "translation": "mi objetivo es arruinar mi futuro tanto como sea posible"
     },
     {
       "word": "Can you spare any change, lads?",
@@ -126,6 +126,10 @@
     {
       "word": "He wasn't coping",
       "translation": "no estaba pudiendo lidiar con la situación"
+    },
+    {
+      "word": "Did you get your end away at all? (pregunta no literal)",
+      "translation": "¿Te saliste con la tuya?"
     },
     {
       "word": "I'm buzzing",
@@ -165,19 +169,15 @@
     },
     {
       "word": "Not for you, fucking suicide watch!",
-      "translation": "¡No es para ti, puta vigilancia por riesgo de"
-    },
-    {
-      "word": "suicidio!",
-      "translation": "No registrada"
+      "translation": "¡No es para ti, puta vigilancia por riesgo de suicidio!"
     },
     {
       "word": "Mixes wicked with coke",
       "translation": "se mezcla muy bien con Coca-Cola"
     },
     {
-      "word": "estribos el otro día",
-      "translation": "No registrada"
+      "word": "I'm sorry for losing my shit the other day (frase no literal)",
+      "translation": "siento haber perdido los estribos el otro día"
     },
     {
       "word": "Whoops of delight (acotación)",
@@ -243,5 +243,7 @@
       "https://image.tmdb.org/t/p/w780/fB2xhjrIuIvmFxLwZmVqldrquYS.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 57,
+  "dialogues": 1060
 }

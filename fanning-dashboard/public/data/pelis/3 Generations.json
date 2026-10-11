@@ -77,7 +77,7 @@
     },
     {
       "word": "Careful not to get the Rosemary in the eye",
-      "translation": "con cuidado de que no te entre el romero"
+      "translation": "con cuidado de que no te entre el romero en el ojo"
     },
     {
       "word": "It wasn't a big deal (frase no literal)",
@@ -129,7 +129,7 @@
     },
     {
       "word": "I'm trying to show you around as efficently as possible",
-      "translation": "estoy tratando de mostrarte"
+      "translation": "estoy tratando de mostrarte el lugar de la manera más eficiente posible"
     },
     {
       "word": "Kitchen appliances",
@@ -180,7 +180,7 @@
       "translation": "¿Estás así?"
     },
     {
-      "word": "I'm a lot of because of you (frase no literal)",
+      "word": "I’m a lot of because of you (frase no literal)",
       "translation": "tengo muchas cosas gracias a ti"
     },
     {
@@ -233,7 +233,7 @@
     },
     {
       "word": "That was your best being gone for ten years?",
-      "translation": "¿Eso fue lo mejor de estar fuera por"
+      "translation": "¿Eso fue lo mejor de estar fuera por diez años?"
     },
     {
       "word": "I wasn't gone",
@@ -287,5 +287,7 @@
       "https://image.tmdb.org/t/p/w780/mKbe89hzhniZIhqpE6gey4Lwoxy.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 68,
+  "dialogues": 926
 }

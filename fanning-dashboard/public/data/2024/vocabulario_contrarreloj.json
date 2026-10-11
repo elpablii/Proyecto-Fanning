@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_49ae3508",
+    "id": "v_7eb62217",
     "word": "Bit early for you",
     "translation": "un poco pronto para ti",
     "source_movie": "Contrarreloj",
@@ -8,7 +8,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6017ec1f",
+    "id": "v_d1718257",
+    "word": "How about I just live vicariously through you instead?",
+    "translation": "¿Qué tal si vivo a través de ti?",
+    "source_movie": "Contrarreloj",
+    "year_processed": "2024",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a3e5b0c0",
     "word": "Remorse",
     "translation": "remordimiento",
     "source_movie": "Contrarreloj",
@@ -16,7 +24,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f1c70976",
+    "id": "v_390c6898",
     "word": "Mellow music",
     "translation": "música tranquila",
     "source_movie": "Contrarreloj",
@@ -24,23 +32,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_8614071e",
+    "id": "v_a693a48b",
     "word": "You'll fall for it",
-    "translation": "atrás en la trampa",
+    "translation": "caerás en la trampa",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a6af35a7",
+    "id": "v_e870d9c3",
     "word": "Ball thumping",
-    "translation": "golpe de pelota",
+    "translation": "golpes de pelota",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_6c6d9d5d",
+    "id": "v_3d46ffa6",
     "word": "Chiming",
     "translation": "tintineo",
     "source_movie": "Contrarreloj",
@@ -48,7 +56,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fb20cda4",
+    "id": "v_d5f9400d",
+    "word": "You don't run from a challenge, you take it on",
+    "translation": "tú no huyes de un reto, lo asumes",
+    "source_movie": "Contrarreloj",
+    "year_processed": "2024",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_361e02a6",
     "word": "Bystanders",
     "translation": "transéuntes",
     "source_movie": "Contrarreloj",
@@ -56,7 +72,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8f1d3005",
+    "id": "v_0c87c6a0",
     "word": "Steady on",
     "translation": "quieto, tranquilo",
     "source_movie": "Contrarreloj",
@@ -64,15 +80,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c4759ff3",
-    "word": "Get hold of her",
-    "translation": "llamada, monte en contacto con ella",
+    "id": "v_740dd139",
+    "word": "Get ahold of her",
+    "translation": "llámala, ponte en contacto con ella",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_d0277117",
+    "id": "v_b1d94daf",
     "word": "Lay low",
     "translation": "pasar desapercibido",
     "source_movie": "Contrarreloj",
@@ -80,7 +96,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_d4bd2d04",
+    "id": "v_f853015f",
     "word": "Slush fund",
     "translation": "fondo ilícito, caja negra",
     "source_movie": "Contrarreloj",
@@ -88,7 +104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_99a2ad4d",
+    "id": "v_b5dd4167",
     "word": "Tucked away",
     "translation": "escondido",
     "source_movie": "Contrarreloj",
@@ -96,23 +112,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_5359e09f",
-    "word": "Don't patronize me (frame no literal)",
-    "translation": "no esas materialista",
+    "id": "v_96ec4f84",
+    "word": "Don't patronize me (frase no literal)",
+    "translation": "no seas paternalista",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_6fec51b8",
+    "id": "v_fcfd4ea0",
     "word": "Failsafe",
-    "translation": "a prueba de fallo",
+    "translation": "a prueba de fallos",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_88980938",
+    "id": "v_4fbfa12c",
     "word": "Glove box",
     "translation": "guantera",
     "source_movie": "Contrarreloj",
@@ -120,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b9f220c",
+    "id": "v_079d84a4",
     "word": "Rousing music",
     "translation": "música alegre",
     "source_movie": "Contrarreloj",
@@ -128,15 +144,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_13b49b6e",
+    "id": "v_47cc4594",
     "word": "Tires skidding",
-    "translation": "neumático patinador",
+    "translation": "neumáticos patinando",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_6ed5a892",
+    "id": "v_031426db",
     "word": "You scumbag",
     "translation": "cabrón, escoria",
     "source_movie": "Contrarreloj",
@@ -144,31 +160,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4cf75ebe",
+    "id": "v_6acc0812",
     "word": "It’s almost over",
-    "translation": "casi ha acabado/terminajo",
+    "translation": "casi ha acabado/terminado",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a68763b5",
-    "word": "Bomber (en context de un atentado)",
+    "id": "v_c995d4f4",
+    "word": "Bomber (en contexto de un atentado)",
     "translation": "terrorista",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_42e3de6d",
-    "word": "Life",
+    "id": "v_131795b1",
+    "word": "Hilfe",
     "translation": "ayuda",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_e58d7213",
+    "id": "v_0b720211",
     "word": "We'll get her seen to real soon",
     "translation": "la atenderemos muy pronto",
     "source_movie": "Contrarreloj",
@@ -176,87 +192,87 @@
     "global_frequency": 1
   },
   {
-    "id": "v_51f69a59",
-    "word": "Triggers (substantive)",
+    "id": "v_8c5e6cdb",
+    "word": "Triggers (sustantivo)",
     "translation": "activadores, desencadenantes",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_ccca72e4",
+    "id": "v_3ade73da",
     "word": "We've jammed cell signal",
-    "translation": "menos interferir la señal celular",
+    "translation": "hemos interferido la señal celular",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_9ec0e2b3",
+    "id": "v_40b6116c",
     "word": "Hardwired",
-    "translation": "conectador, tableado",
+    "translation": "conectado, cableado",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_36cdaf40",
+    "id": "v_609b165f",
     "word": "Collateral Protection Insurance (CPI)",
-    "translation": "seguro de protección de garantía",
+    "translation": "seguro de protección de garantías",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_90aded71",
+    "id": "v_1c588056",
     "word": "Foreboding music",
     "translation": "música inquietante, música amenazadora",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_79195e05",
+    "id": "v_3cd5f886",
     "word": "He set me up and you all bought it",
-    "translation": "me tenia una trampa y todo se la creyer",
+    "translation": "me tendió una trampa y todos se la creyeron",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_92be3c0f",
+    "id": "v_9ce279a9",
     "word": "Stand down",
-    "translation": "retirar",
+    "translation": "retirarse",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
-    "global_frequency": 4
+    "global_frequency": 8
   },
   {
-    "id": "v_2a1608b9",
+    "id": "v_6301f5b8",
     "word": "And we both go up",
-    "translation": "y subido los dos",
+    "translation": "y subimos los dos",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_f074af60",
+    "id": "v_d4ec5ccb",
     "word": "Misdirection",
-    "translation": "desposte",
+    "translation": "despiste",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_0402e200",
+    "id": "v_dd67e18d",
     "word": "The last blast had a little more kick",
-    "translation": "la última ráfaga tenia un poco más de fuerza",
+    "translation": "la última ráfaga tenía un poco más de fuerza",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_017483a4",
+    "id": "v_6746d1d8",
     "word": "I overcame",
     "translation": "me sobrepuse",
     "source_movie": "Contrarreloj",
@@ -264,15 +280,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_904ae3d6",
-    "word": "Siphon money (verb)",
+    "id": "v_f2e363b1",
+    "word": "Siphon money (verbo)",
     "translation": "desviar dinero",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_602dc038",
+    "id": "v_ceebc11d",
     "word": "Offshore account",
     "translation": "cuenta en el extranjero",
     "source_movie": "Contrarreloj",
@@ -280,40 +296,48 @@
     "global_frequency": 1
   },
   {
-    "id": "v_676104d7",
+    "id": "v_ca16e32e",
     "word": "They don't look kindly on embezzlement",
-    "translation": "no en con bueno ojo la malversación",
+    "translation": "no ven con buenos ojos la malversación",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ce55bd5b",
-    "word": "The bottom line (frame no literal)",
+    "id": "v_407241c7",
+    "word": "The bottom line (frase no literal)",
     "translation": "lo esencial",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_079f2ae3",
-    "word": "Gear lever",
-    "translation": "palanca de marcha/cambio",
+    "id": "v_93332e2d",
+    "word": "Everything I did was above board (frase no literal)",
+    "translation": "todo lo que hice fue legal",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ae775e48",
+    "id": "v_79993fa4",
+    "word": "Gear lever",
+    "translation": "palanca de marchas/cambios",
+    "source_movie": "Contrarreloj",
+    "year_processed": "2024",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b5971876",
     "word": "Music swells",
-    "translation": "buena la música",
+    "translation": "suena la música",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_492d8eb8",
-    "word": "Rock (verb)",
+    "id": "v_9bae1b59",
+    "word": "Rock (verbo)",
     "translation": "sacudir",
     "source_movie": "Contrarreloj",
     "year_processed": "2024",

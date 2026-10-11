@@ -13,7 +13,7 @@
     },
     {
       "word": "Loading and unloading of passengers (frase no literal)",
-      "translation": "embarque y desembarque de"
+      "translation": "embarque y desembarque de pasajeros"
     },
     {
       "word": "Mix-up",
@@ -73,7 +73,7 @@
     },
     {
       "word": "Transportation Security Administration (TSA)",
-      "translation": "Administración de Seguridad del"
+      "translation": "Administración de Seguridad del Transporte"
     },
     {
       "word": "Department of Homeland Security (DHS)",
@@ -289,7 +289,7 @@
     },
     {
       "word": "They'll fish this plane's black box out of the Atlantic Ocean",
-      "translation": "pescarán la caja negra"
+      "translation": "pescarán la caja negra del avión en el Océano Atlántico"
     },
     {
       "word": "Suit up",
@@ -339,5 +339,7 @@
       "https://image.tmdb.org/t/p/w780/A68zd1LjG7Rflv72rTCDZAOf1I3.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 81,
+  "dialogues": 1512
 }

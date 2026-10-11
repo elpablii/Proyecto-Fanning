@@ -16,8 +16,8 @@
       "translation": "tu padre espiritual"
     },
     {
-      "word": "voluntad y lo que será",
-      "translation": "No registrada"
+      "word": "On the wire between will and what will be (no literal)",
+      "translation": "en la cuerda floja entre la voluntad y lo que será"
     },
     {
       "word": "Run along (expresión)",
@@ -28,12 +28,16 @@
       "translation": "pasos pesados"
     },
     {
+      "word": "I can't seem to catch a break (forma no literal)",
+      "translation": "parece que no puedo tener un respiro"
+    },
+    {
       "word": "Word up (expresión)",
       "translation": "palabra"
     },
     {
-      "word": "cierre de resorte",
-      "translation": "No registrada"
+      "word": "Chica tried to shove me into a springlock suit",
+      "translation": "chica intentó meterme en un traje con cierre de resorte"
     },
     {
       "word": "The springlocks went off",
@@ -62,6 +66,10 @@
     {
       "word": "Electrical cracking (acotación)",
       "translation": "chasquido/chisporroteo eléctrico"
+    },
+    {
+      "word": "Otters otter help each other (parcialmente no literal)",
+      "translation": "las nutrias se ayudan entre sí"
     },
     {
       "word": "You're hopeless (frase no literal)",
@@ -104,24 +112,28 @@
       "translation": "ruido del motor"
     },
     {
-      "word": "alfombra",
-      "translation": "No registrada"
+      "word": "No breaking and entering required (no literal)",
+      "translation": "no es necesario forzar la entrada"
+    },
+    {
+      "word": "Whole thing got swept under the rug (parcialmente no literal)",
+      "translation": "todo quedó bajo la alfombra"
     },
     {
       "word": "One of a kind (frase no literal)",
       "translation": "único en su clase"
     },
     {
-      "word": "desarmó y se volvió a armar",
-      "translation": "No registrada"
+      "word": "A failed take-apart, put-back-together attraction",
+      "translation": "una atracción fallida que se desarmó y se volvió a armar"
     },
     {
       "word": "Heartless",
       "translation": "despiadado, cruel"
     },
     {
-      "word": "lugar se apoderará de tu imaginación",
-      "translation": "No registrada"
+      "word": "Fair warning, this place will prey on your imagination (no literal)",
+      "translation": "te lo advierto, este lugar se apoderará de tu imaginación"
     },
     {
       "word": "Staticky clicking and whirring",
@@ -248,16 +260,16 @@
       "translation": "alguien con quien crear un vínculo"
     },
     {
-      "word": "la siguiente",
-      "translation": "No registrada"
+      "word": "I'm afraid it might target Abby next (frase no literal)",
+      "translation": "me temo que Abby podría ser la siguiente"
     },
     {
       "word": "Get working (en electrónica)",
       "translation": "poner en funcionamiento"
     },
     {
-      "word": "tiempo que puedas",
-      "translation": "No registrada"
+      "word": "Try to buy me as much time as you can (parcialmente no literal)",
+      "translation": "intenta ganar todo el tiempo que puedas"
     },
     {
       "word": "Don't be rude",
@@ -280,16 +292,12 @@
       "translation": "delicioso"
     },
     {
-      "word": "estar atento a los osos",
-      "translation": "No registrada"
+      "word": "You may want to be on the lookout for bears (frase no literal)",
+      "translation": "es posible que desee estar atento a los osos"
     },
     {
       "word": "The local grassroots, cultural arts festival",
-      "translation": "el festival cultural y artístico local de"
-    },
-    {
-      "word": "base popular",
-      "translation": "No registrada"
+      "translation": "el festival cultural y artístico local de base popular"
     },
     {
       "word": "Long defunct food",
@@ -316,8 +324,8 @@
       "translation": "gemidos de dolor"
     },
     {
-      "word": "bolsa de gomitas de naranja",
-      "translation": "No registrada"
+      "word": "It's like the bag of orange gummy candies all over again",
+      "translation": "es como volver a tener la bolsa de gomitas de naranja"
     },
     {
       "word": "Rekindle (verbo)",
@@ -325,11 +333,7 @@
     },
     {
       "word": "You thought you could just trade us in?",
-      "translation": "¿Pensabas que podías simplemente"
-    },
-    {
-      "word": "cambiarnos?",
-      "translation": "No registrada"
+      "translation": "¿Pensabas que podías simplemente cambiarnos?"
     },
     {
       "word": "Forcefully",
@@ -365,19 +369,15 @@
     },
     {
       "word": "This message is intended as a warning",
-      "translation": "este mensaje tiene por objeto servir de"
-    },
-    {
-      "word": "advertencia",
-      "translation": "No registrada"
+      "translation": "este mensaje tiene por objeto servir de advertencia"
     },
     {
       "word": "Business partner",
       "translation": "socio comercial"
     },
     {
-      "word": "aquella época está desfasado",
-      "translation": "No registrada"
+      "word": "The equipment I have left over from that time is outdated",
+      "translation": "el equipo que me queda de aquella época está desfasado"
     }
   ],
   "tmdb": {
@@ -391,5 +391,7 @@
       "https://image.tmdb.org/t/p/w780/a8bDH9Gjoxu1ySqqNTRvI5CdCyx.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 94,
+  "dialogues": 1602
 }

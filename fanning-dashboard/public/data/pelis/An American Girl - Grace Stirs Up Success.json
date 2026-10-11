@@ -4,14 +4,6 @@
   "englishAnalysis": "Un inglés muy familiar, optimista y educativo. Al transcurrir en una panadería y en un viaje a Francia, el vocabulario se enriquece con términos de cocina, emprendimiento y repostería, presentados de forma muy accesible para los más jóvenes.",
   "vocabulary": [
     {
-      "word": "Mots et phrases inconnus de An American Girl",
-      "translation": "Grace"
-    },
-    {
-      "word": "mots/phrases)",
-      "translation": "No registrada"
-    },
-    {
       "word": "Patisserie",
       "translation": "pastelería, panadería"
     },
@@ -164,8 +156,8 @@
       "translation": "amigos, compañeros"
     },
     {
-      "word": "entusiasmados",
-      "translation": "No registrada"
+      "word": "They'll be totally psyched about it (parcialmente no literal)",
+      "translation": "estarán totalmente entusiasmados"
     },
     {
       "word": "Tutor (verbo)",
@@ -184,8 +176,8 @@
       "translation": "terciopelo rojo"
     },
     {
-      "word": "maravillas de la pastelería",
-      "translation": "No registrada"
+      "word": "A delicious wonderland of cupcakery goodness (no literal)",
+      "translation": "un delicioso país de las maravillas de la pastelería"
     },
     {
       "word": "Ruckus",
@@ -212,8 +204,8 @@
       "translation": "soy bastante bueno manejando con los perros"
     },
     {
-      "word": "correas!",
-      "translation": "No registrada"
+      "word": "We can bedazzle the leashes! (traducción aproximada)",
+      "translation": "¡Podemos deslumbrar las correas!"
     },
     {
       "word": "A charm bracelet",
@@ -252,8 +244,8 @@
       "translation": "de la entrada"
     },
     {
-      "word": "de la tarta?",
-      "translation": "No registrada"
+      "word": "What if I help roll out the pie crust dough instead?",
+      "translation": "¿Y si ayudo a extender la masa de la tarta?"
     },
     {
       "word": "Housewives",
@@ -276,8 +268,8 @@
       "translation": "mojar, humedecer"
     },
     {
-      "word": "mitad de clientes",
-      "translation": "No registrada"
+      "word": "I wish my grandparents had half as many customers",
+      "translation": "ojalá mis abuelos tuvieran la mitad de clientes"
     },
     {
       "word": "Advertising (sustantivo)",
@@ -288,16 +280,16 @@
       "translation": "proveedor, suministrador"
     },
     {
-      "word": "dedo",
-      "translation": "No registrada"
+      "word": "Those tarts are right up my alley (frase no literal)",
+      "translation": "esas tartas me van como anillo al dedo"
     },
     {
       "word": "No more standing, staring at the ground",
       "translation": "no más estar de pie, mirando al suelo"
     },
     {
-      "word": "encerrada",
-      "translation": "No registrada"
+      "word": "I'm going crazy all cooped up (parcialmente no literal)",
+      "translation": "me estoy volviendo loca encerrada"
     },
     {
       "word": "On speed dial",
@@ -320,6 +312,10 @@
       "translation": "vívelo a tope"
     },
     {
+      "word": "They pulled quite a stunt today (frase no literal)",
+      "translation": "hoy han hecho toda una hazaña"
+    },
+    {
       "word": "Soft peaks",
       "translation": "picos suaves"
     },
@@ -332,7 +328,7 @@
       "translation": "relleno"
     },
     {
-      "word": "I didn't peg you for a dancer",
+      "word": "I didn’t peg you for a dancer",
       "translation": "no te tenía por una bailarina"
     },
     {
@@ -372,6 +368,10 @@
       "translation": "crisper pasivo"
     },
     {
+      "word": "All baked goods will have the same common staples",
+      "translation": "todos los productos horneados tendrán los mismos ingredientes básicos comunes"
+    },
+    {
       "word": "Roulade",
       "translation": "roscón, malambre"
     },
@@ -401,11 +401,7 @@
     },
     {
       "word": "If you can cut me a break (frase no literal)",
-      "translation": "si puedes darme un respiro, si puedes"
-    },
-    {
-      "word": "dejarme en paz",
-      "translation": "No registrada"
+      "translation": "si puedes darme un respiro, si puedes dejarme en paz"
     }
   ],
   "tmdb": {
@@ -418,5 +414,7 @@
       "https://image.tmdb.org/t/p/w780/vNfgEItOpp4PmOXzRRF4a1XGPmh.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 100,
+  "dialogues": 1781
 }

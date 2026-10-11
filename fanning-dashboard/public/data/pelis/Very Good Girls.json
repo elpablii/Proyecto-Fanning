@@ -33,7 +33,7 @@
     },
     {
       "word": "You're tracking sand all over the house (frase no literal)",
-      "translation": "estás dejando arena por"
+      "translation": "estás dejando arena por toda la casa"
     },
     {
       "word": "A straight shot into the masonic lodges",
@@ -65,7 +65,7 @@
     },
     {
       "word": "Please be careful getting of the boat (parcialmente no literal)",
-      "translation": "por favor tenga"
+      "translation": "por favor tenga cuidado al bajar del barco"
     },
     {
       "word": "Matches",
@@ -137,7 +137,7 @@
     },
     {
       "word": "I've been trying to get ahold of you",
-      "translation": "he estado intentando ponerme en contacto"
+      "translation": "he estado intentando ponerme en contacto contigo"
     },
     {
       "word": "I lost it to a swing",
@@ -211,5 +211,7 @@
       "https://image.tmdb.org/t/p/w780/hbvAMVjQPEn5CrW3fJYtd4JhSwD.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 49,
+  "dialogues": 1133
 }

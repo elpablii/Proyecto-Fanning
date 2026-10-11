@@ -1,22 +1,22 @@
 [
   {
-    "id": "v_7c24b883",
-    "word": "sobre el departamento de patadas",
-    "translation": "No registrada",
+    "id": "v_9356e7ac",
+    "word": "It will take some pressure off the kicking department",
+    "translation": "esto aliviará un poco la presión sobre el departamento de patadas",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_7d24b58e",
+    "id": "v_3c7b3682",
     "word": "Box in",
     "translation": "acorralar",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 3
+    "global_frequency": 2
   },
   {
-    "id": "v_fa47e077",
+    "id": "v_edfd252e",
     "word": "Federal court clerk",
     "translation": "secretario del tribunal federal",
     "source_movie": "A Complete Unknown",
@@ -24,7 +24,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6f04abbd",
+    "id": "v_e419758a",
     "word": "Contempt of Congress",
     "translation": "desacato al Congreso",
     "source_movie": "A Complete Unknown",
@@ -32,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_03494343",
+    "id": "v_c28a233f",
     "word": "Gavel banging (acotación)",
     "translation": "golpes de mazo",
     "source_movie": "A Complete Unknown",
@@ -40,15 +40,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8d117740",
-    "word": "justa?",
-    "translation": "No registrada",
+    "id": "v_1c06165d",
+    "word": "Think you got a fair shake? (pregunta no literal)",
+    "translation": "¿Crees que te han tratado de forma justa?",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_d283a245",
+    "id": "v_1a08e3a0",
     "word": "This dusty old dust",
     "translation": "este viejo polvo polvoriento",
     "source_movie": "A Complete Unknown",
@@ -56,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a52e2a90",
+    "id": "v_3a4ae563",
     "word": "I've gotta be drifting along",
     "translation": "tengo que seguir a la deriva",
     "source_movie": "A Complete Unknown",
@@ -64,7 +64,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_303f30e8",
+    "id": "v_91dc239e",
     "word": "Folkway ones",
     "translation": "los populares, los tradicionales",
     "source_movie": "A Complete Unknown",
@@ -72,7 +72,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_072bba53",
+    "id": "v_e1fdcfaa",
     "word": "They struck me down to the ground",
     "translation": "me tiraron al suelo",
     "source_movie": "A Complete Unknown",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9d9e695f",
+    "id": "v_929072a0",
     "word": "I hitched myself here",
     "translation": "llegué aquí haciendo autostop",
     "source_movie": "A Complete Unknown",
@@ -88,7 +88,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_db512e6a",
+    "id": "v_f9cd6567",
+    "word": "Maybe catch a spark (parcialmente no literal)",
+    "translation": "quizás se encienda una chispa",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_213b0c11",
     "word": "That's for damn sure",
     "translation": "eso es seguro",
     "source_movie": "A Complete Unknown",
@@ -96,7 +104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e9201c5",
+    "id": "v_c171f545",
     "word": "Strums guitar (acotación)",
     "translation": "toca la guitarra",
     "source_movie": "A Complete Unknown",
@@ -104,7 +112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_936bb141",
+    "id": "v_ad310b64",
     "word": "Paupers",
     "translation": "pobres, indigentes",
     "source_movie": "A Complete Unknown",
@@ -112,7 +120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_32f27467",
+    "id": "v_cb320a43",
     "word": "A funny ol' world that's a-coming along",
     "translation": "un mundo curioso el que se avecina",
     "source_movie": "A Complete Unknown",
@@ -120,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4efd2eba",
+    "id": "v_7e9c2c62",
     "word": "Torn (adjetivo)",
     "translation": "desgastado, destrozado",
     "source_movie": "A Complete Unknown",
@@ -128,23 +136,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0db3869a",
+    "id": "v_bd0d0e80",
     "word": "Slipping and sliding",
     "translation": "resbalones y deslizamientos",
-    "source_movie": "A Complete Unknown",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_d210d31b",
-    "word": "Peep (verbo)",
-    "translation": "espiar, mirar a escondidas",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_612dcdf2",
+    "id": "v_82ba613e",
+    "word": "Peep (verbo)",
+    "translation": "espiar, mirar a escondidas",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_3cf0b6be",
     "word": "The flipside",
     "translation": "la otra cara de la moneda",
     "source_movie": "A Complete Unknown",
@@ -152,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_10274f6b",
+    "id": "v_b35cac96",
     "word": "It can get the job done without the frills",
     "translation": "puede hacer el trabajo sin florituras",
     "source_movie": "A Complete Unknown",
@@ -160,15 +168,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5f62058",
+    "id": "v_5735a676",
     "word": "Vouch (verbo)",
     "translation": "garantizar, dar fe, asegurar",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_d57d7029",
+    "id": "v_0f390ae9",
     "word": "The toilet's off the hall there",
     "translation": "el baño está al final del pasillo",
     "source_movie": "A Complete Unknown",
@@ -176,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_243e9e28",
+    "id": "v_75b7688f",
     "word": "Composter",
     "translation": "compostador",
     "source_movie": "A Complete Unknown",
@@ -184,7 +192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_21fed88e",
+    "id": "v_d8b469e2",
     "word": "Settle down (en emociones)",
     "translation": "calmarse",
     "source_movie": "A Complete Unknown",
@@ -192,7 +200,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_bc70ccff",
+    "id": "v_00ad83e1",
     "word": "A hell of a song",
     "translation": "una canción increíble",
     "source_movie": "A Complete Unknown",
@@ -200,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8936a46d",
+    "id": "v_3eb4c4c4",
     "word": "Add back in the low",
     "translation": "vuelve a añadir el mínimo",
     "source_movie": "A Complete Unknown",
@@ -208,23 +216,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_57be0fdc",
+    "id": "v_ba21483f",
     "word": "He sends one scurrying to the thesaurus",
-    "translation": "él hace que uno corra a buscar el diccionario",
+    "translation": "él hace que uno corra a buscar el diccionario de sinónimos",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_133943f6",
-    "word": "de sinónimos",
-    "translation": "No registrada",
-    "source_movie": "A Complete Unknown",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_758b4147",
+    "id": "v_9f1b4094",
     "word": "Strum (verbo)",
     "translation": "tocar la guitarra",
     "source_movie": "A Complete Unknown",
@@ -232,15 +232,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7515e669",
+    "id": "v_f4b0c0d5",
     "word": "Foolish",
     "translation": "tonto",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_829a258e",
+    "id": "v_16309a38",
     "word": "Let a rambler, lead me astray",
     "translation": "deja que un vagabundo me desvíe del camino",
     "source_movie": "A Complete Unknown",
@@ -248,15 +248,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5fab93be",
+    "id": "v_35fa0c33",
     "word": "Shun (verbo)",
     "translation": "evitar, eludir, alejarse",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_c640f507",
+    "id": "v_18dabd7d",
     "word": "My race is almost run",
     "translation": "mi carrera está casi terminada",
     "source_movie": "A Complete Unknown",
@@ -264,15 +264,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6e72a4d1",
-    "word": "palabras",
-    "translation": "No registrada",
+    "id": "v_66e3947f",
+    "word": "He kinda just dropped in on us (frase no literal)",
+    "translation": "simplemente se presentó sin avisar",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_0b93c4f6",
+    "id": "v_bf2f374c",
+    "word": "It fairly struck us to the ground (frase no literal)",
+    "translation": "nos dejó completamente sin palabras",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ac2af838",
     "word": "Get a glimpse of",
     "translation": "echar un vistazo a",
     "source_movie": "A Complete Unknown",
@@ -280,31 +288,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b7a613d2",
-    "word": "la ciudad",
-    "translation": "No registrada",
+    "id": "v_515035cd",
+    "word": "He's been playing around town a bit (frase no literal)",
+    "translation": "ha estado saliendo un poco por la ciudad",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_f9fc325b",
-    "word": "escenario",
-    "translation": "No registrada",
+    "id": "v_56be25e3",
+    "word": "It was high time he took the stage (frase no literal)",
+    "translation": "ya era hora de que subiera al escenario",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_3c3a307c",
+    "id": "v_48211143",
+    "word": "That's a lot to live up to (frase no literal)",
+    "translation": "es mucho con lo que estar a la altura",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a6621483",
     "word": "A little something",
     "translation": "algo",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7efd3ed9",
+    "id": "v_6533fba1",
     "word": "I've been a-rambling round",
     "translation": "he estado deambulando por ahí",
     "source_movie": "A Complete Unknown",
@@ -312,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c4353d2f",
+    "id": "v_9b784b4f",
     "word": "Dead and gone",
     "translation": "muerto y desaparecido",
     "source_movie": "A Complete Unknown",
@@ -320,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c37b6cb6",
+    "id": "v_7503c32f",
     "word": "Sister's all gone wrong (no literal)",
     "translation": "mi hermana se ha descarriado",
     "source_movie": "A Complete Unknown",
@@ -328,7 +344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e831d0c1",
+    "id": "v_c24dc3e6",
     "word": "Thisaway",
     "translation": "así",
     "source_movie": "A Complete Unknown",
@@ -336,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9220cf3f",
+    "id": "v_6cd3324c",
     "word": "Are you packing heat? (pregunta no literal)",
     "translation": "¿Llevas un arma?",
     "source_movie": "A Complete Unknown",
@@ -344,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_709312dd",
+    "id": "v_f19d089a",
     "word": "Snub nose",
     "translation": "nariz chata/respingada",
     "source_movie": "A Complete Unknown",
@@ -352,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f2349fe",
+    "id": "v_64861b05",
     "word": "Choirboy",
     "translation": "niño de coro",
     "source_movie": "A Complete Unknown",
@@ -360,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6b2cffa6",
+    "id": "v_423cf9a9",
     "word": "Cherubic look",
     "translation": "mirada angelical",
     "source_movie": "A Complete Unknown",
@@ -368,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b1f1cfe0",
+    "id": "v_038c2c24",
     "word": "A mop of tousled hair",
     "translation": "una mata de pelo revuelto",
     "source_movie": "A Complete Unknown",
@@ -376,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b6b424a2",
+    "id": "v_ba7dbd76",
     "word": "Tailoring",
     "translation": "arreglos",
     "source_movie": "A Complete Unknown",
@@ -384,7 +400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b007e46b",
+    "id": "v_01afdf77",
     "word": "He's bursting at the seams with talent",
     "translation": "rebosa talento por los cuatro costados",
     "source_movie": "A Complete Unknown",
@@ -392,7 +408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_09ce88bd",
+    "id": "v_434cb00b",
     "word": "Rave",
     "translation": "crítica muy positive/favorable",
     "source_movie": "A Complete Unknown",
@@ -400,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a0ebe272",
+    "id": "v_30794c5b",
     "word": "Let's lay one down",
     "translation": "vamos a dejar uno",
     "source_movie": "A Complete Unknown",
@@ -408,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2fc83a35",
+    "id": "v_301e5fef",
     "word": "You keep turning from the mic",
     "translation": "sigues alejándote del micrófono",
     "source_movie": "A Complete Unknown",
@@ -416,15 +432,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_af9e2315",
-    "word": "más joven al folk",
-    "translation": "No registrada",
+    "id": "v_eac33b9b",
+    "word": "We're putting a younger face on folk (parcialmente no literal)",
+    "translation": "estamos dando un aire más joven al folk",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_df52f5a8",
+    "id": "v_3be0f72c",
     "word": "Run for cover (verbo)",
     "translation": "correr a buscar refugio",
     "source_movie": "A Complete Unknown",
@@ -432,23 +448,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8e03c1a0",
+    "id": "v_c5bd1081",
     "word": "Fare",
     "translation": "tarifa",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_f792dda5",
+    "word": "Walk on",
+    "translation": "seguir adelante, pasar de largo",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_7bce00ba",
-    "word": "Walk on",
-    "translation": "seguir adelante, pasar de largo",
-    "source_movie": "A Complete Unknown",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_a1cbc5f0",
+    "id": "v_e6882176",
     "word": "Fire-eaters",
     "translation": "tragafuegos",
     "source_movie": "A Complete Unknown",
@@ -456,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8e5cc4dd",
+    "id": "v_53150248",
     "word": "One lady, her skin was all burnt off",
     "translation": "una mujer tenía toda la piel quemada",
     "source_movie": "A Complete Unknown",
@@ -464,7 +480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_449dd5ed",
+    "id": "v_0b7676f4",
     "word": "Wrinkly",
     "translation": "arrugado",
     "source_movie": "A Complete Unknown",
@@ -472,15 +488,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f4225f30",
+    "id": "v_134ec2d3",
     "word": "Hold the attention",
     "translation": "mantener la atención",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_13ac1163",
+    "id": "v_4090b002",
     "word": "Train wreck",
     "translation": "accidente ferroviario/de tren",
     "source_movie": "A Complete Unknown",
@@ -488,7 +504,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_47e0944b",
+    "id": "v_74e6350c",
     "word": "Ask for",
     "translation": "pedir",
     "source_movie": "A Complete Unknown",
@@ -496,7 +512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_09337653",
+    "id": "v_5a2ee74c",
     "word": "Mousy girl",
     "translation": "chica tímida",
     "source_movie": "A Complete Unknown",
@@ -504,7 +520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_da2eb758",
+    "id": "v_d6a6d277",
     "word": "Domineering",
     "translation": "dominante, autoritaria",
     "source_movie": "A Complete Unknown",
@@ -512,15 +528,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_15251052",
+    "id": "v_537b082b",
     "word": "Make into",
     "translation": "convertirse en",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_369b050b",
+    "id": "v_add78206",
     "word": "Military buildup",
     "translation": "concentración/despliegue militar",
     "source_movie": "A Complete Unknown",
@@ -528,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cb1c0fe7",
+    "id": "v_2e99091a",
     "word": "Rides",
     "translation": "marchas, viajes",
     "source_movie": "A Complete Unknown",
@@ -536,7 +552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0906b608",
+    "id": "v_182580fe",
     "word": "Contrarian",
     "translation": "contrario, rebelde, inconformista",
     "source_movie": "A Complete Unknown",
@@ -544,7 +560,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8e1c8b39",
+    "id": "v_e654d4a6",
     "word": "Amidst",
     "translation": "en medio de",
     "source_movie": "A Complete Unknown",
@@ -552,7 +568,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5e4620a1",
+    "id": "v_c6ea504e",
     "word": "Stand firm",
     "translation": "mantenerse firme",
     "source_movie": "A Complete Unknown",
@@ -560,7 +576,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_aa0fb4d5",
+    "id": "v_83fe1e5c",
     "word": "Nerve (no literal)",
     "translation": "descaro, coraje",
     "source_movie": "A Complete Unknown",
@@ -568,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6606cce6",
+    "id": "v_564cbec6",
     "word": "A bona fide",
     "translation": "un auténtico",
     "source_movie": "A Complete Unknown",
@@ -576,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6df11958",
+    "id": "v_b56bf34a",
     "word": "Move along",
     "translation": "sigue adelante",
     "source_movie": "A Complete Unknown",
@@ -584,7 +600,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_e8654264",
+    "id": "v_d6488aa7",
     "word": "Minstrel",
     "translation": "juglar, trovador",
     "source_movie": "A Complete Unknown",
@@ -592,7 +608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fc8aa6f0",
+    "id": "v_f0b39b7c",
     "word": "Cast (verbo en maldiciones)",
     "translation": "lanzar",
     "source_movie": "A Complete Unknown",
@@ -600,7 +616,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eb5cce5a",
+    "id": "v_5d41d058",
     "word": "Unmistakable evidence",
     "translation": "evidencia/prueba irrefutable",
     "source_movie": "A Complete Unknown",
@@ -608,7 +624,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e5c31c9e",
+    "id": "v_bb511724",
     "word": "Be stepped up",
     "translation": "ser intensificado",
     "source_movie": "A Complete Unknown",
@@ -616,7 +632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_012f2b07",
+    "id": "v_be407611",
     "word": "Retailatory response",
     "translation": "respuesta de represalia",
     "source_movie": "A Complete Unknown",
@@ -624,7 +640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e713c87b",
+    "id": "v_28bb5c6d",
     "word": "If invasion is undertaken",
     "translation": "si se lleva a cabo la invasión",
     "source_movie": "A Complete Unknown",
@@ -632,7 +648,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d3b2a5c",
+    "id": "v_5907fd4f",
     "word": "Retailate (verbo)",
     "translation": "tomar represalias",
     "source_movie": "A Complete Unknown",
@@ -640,7 +656,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e219d1b5",
+    "id": "v_c76ada42",
     "word": "Newscaster",
     "translation": "presentador de noticias",
     "source_movie": "A Complete Unknown",
@@ -648,7 +664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2dfecb7f",
+    "id": "v_82af62e0",
     "word": "Take its toll (verbo)",
     "translation": "pasar factura",
     "source_movie": "A Complete Unknown",
@@ -656,15 +672,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ea182219",
+    "id": "v_4d49dea4",
     "word": "Grave",
     "translation": "tumba",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_268cbefb",
+    "id": "v_16ed1217",
     "word": "It's too early for elation",
     "translation": "es demasiado pronto para alegrarse",
     "source_movie": "A Complete Unknown",
@@ -672,7 +688,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_00a344e6",
+    "id": "v_c169fa40",
     "word": "Statesmanlike",
     "translation": "estadista",
     "source_movie": "A Complete Unknown",
@@ -680,7 +696,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_403505e9",
+    "id": "v_5a6f3865",
     "word": "Armed showdown",
     "translation": "enfrentamiento armado",
     "source_movie": "A Complete Unknown",
@@ -688,7 +704,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8b19e82a",
+    "id": "v_7ec53593",
     "word": "Picked up a few licks (frase no literal)",
     "translation": "aprendí algunos trucos",
     "source_movie": "A Complete Unknown",
@@ -696,7 +712,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ba2cca94",
+    "id": "v_eafa7291",
     "word": "They'd pass through in the shows",
     "translation": "aparecían/pasaban en los programas",
     "source_movie": "A Complete Unknown",
@@ -704,7 +720,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fc6616b8",
+    "id": "v_017c356a",
     "word": "Buttercups",
     "translation": "ranúnculos",
     "source_movie": "A Complete Unknown",
@@ -712,7 +728,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e8d2ce3f",
+    "id": "v_3bc3602d",
     "word": "How many roads must a man walk down?",
     "translation": "¿Cuántos caminos debe recorrer un hombre?",
     "source_movie": "A Complete Unknown",
@@ -720,7 +736,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac77800e",
+    "id": "v_726a4ff0",
     "word": "A white dove",
     "translation": "una paloma blanca",
     "source_movie": "A Complete Unknown",
@@ -728,7 +744,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1db2ac08",
+    "id": "v_14cfe04b",
+    "word": "Before it is washed to the sea (frase no literal)",
+    "translation": "antes de que sea arrastrado al mar",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_77bdb9a0",
     "word": "At the break of dawn",
     "translation": "al amanecer",
     "source_movie": "A Complete Unknown",
@@ -736,7 +760,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_299a3e9f",
+    "id": "v_f61e85ea",
     "word": "Look out your window",
     "translation": "mira por la ventana",
     "source_movie": "A Complete Unknown",
@@ -744,7 +768,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_feda7450",
+    "id": "v_1c61a41e",
     "word": "Shot (en grabaciones)",
     "translation": "toma",
     "source_movie": "A Complete Unknown",
@@ -752,7 +776,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_32bfe994",
+    "id": "v_9d8c336f",
     "word": "Top string got a little buzz to it",
     "translation": "la cuerda superior tiene un ligero zumbido",
     "source_movie": "A Complete Unknown",
@@ -760,7 +784,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7671327e",
+    "id": "v_be5cf9d7",
     "word": "The winds hit heavy (frase no literal)",
     "translation": "los vientos soplan con fuerza",
     "source_movie": "A Complete Unknown",
@@ -768,7 +792,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3f5403ae",
+    "id": "v_81a73559",
     "word": "If her hair hangs long",
     "translation": "si tiene el cabello largo",
     "source_movie": "A Complete Unknown",
@@ -776,7 +800,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_90a1214d",
+    "id": "v_b9c92f41",
     "word": "I won't grope for the words",
     "translation": "no voy a buscar las palabras adecuadas",
     "source_movie": "A Complete Unknown",
@@ -784,15 +808,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_653749d0",
-    "word": "doce montañas brumosas",
-    "translation": "No registrada",
+    "id": "v_63199df4",
+    "word": "I've stumbled on the side of 12 misty mountains",
+    "translation": "me he topado con las laderas de doce montañas brumosas",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_3ecb0147",
+    "id": "v_23c5d1f0",
     "word": "Crooked (no alusivo al engaño)",
     "translation": "sinuoso, tortuoso",
     "source_movie": "A Complete Unknown",
@@ -800,7 +824,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fa664310",
+    "id": "v_f1a5abcf",
     "word": "Famiousity",
     "translation": "fama, notoriedad",
     "source_movie": "A Complete Unknown",
@@ -808,7 +832,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_68563eb2",
+    "id": "v_b7574611",
     "word": "It snuck up on me",
     "translation": "se acercó sigilosamente",
     "source_movie": "A Complete Unknown",
@@ -816,7 +840,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c258fb17",
+    "id": "v_fd22067f",
+    "word": "I sit in the wake of one more hard rain (no literal)",
+    "translation": "me siento tras otra lluvia intensa",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6bcd1437",
     "word": "Chigger",
     "translation": "pulga",
     "source_movie": "A Complete Unknown",
@@ -824,7 +856,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_15032253",
+    "id": "v_0006301e",
     "word": "Track mud (verbo)",
     "translation": "dejar huellas de lodo",
     "source_movie": "A Complete Unknown",
@@ -832,15 +864,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9fc0572f",
+    "id": "v_e08b1de9",
     "word": "Get fancy",
     "translation": "volverse elegante, ponerse sofisticado",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_fd675b2b",
+    "id": "v_f3de68d0",
     "word": "Reed",
     "translation": "lengüeta",
     "source_movie": "A Complete Unknown",
@@ -848,15 +880,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fff9a7be",
+    "id": "v_b3c85f76",
     "word": "Drunkard",
     "translation": "borracho",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_5744c2a7",
+    "id": "v_35a2f96c",
     "word": "As he stumbles out the door",
     "translation": "mientras sale tambaleándose por la puerta",
     "source_movie": "A Complete Unknown",
@@ -864,7 +896,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1e5bbc50",
+    "id": "v_b30c1911",
     "word": "It was economy-sized",
     "translation": "era de tamaño económico",
     "source_movie": "A Complete Unknown",
@@ -872,7 +904,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7011c7a3",
+    "id": "v_728e5c1f",
     "word": "I think I'm up after you (frase no literal)",
     "translation": "creo que voy a seguirte",
     "source_movie": "A Complete Unknown",
@@ -880,7 +912,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c5ae6120",
+    "id": "v_7e844deb",
     "word": "Tie one on",
     "translation": "ponte uno",
     "source_movie": "A Complete Unknown",
@@ -888,7 +920,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8deeda62",
+    "id": "v_d9a8142e",
     "word": "Whistle (sustantivo)",
     "translation": "silbido",
     "source_movie": "A Complete Unknown",
@@ -896,7 +928,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e958fa6b",
+    "id": "v_8414b609",
     "word": "Blow my blues away (frase no literal)",
     "translation": "haz que mi tristeza se esfume",
     "source_movie": "A Complete Unknown",
@@ -904,7 +936,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_22edd1de",
+    "id": "v_546eafea",
     "word": "The next fella up is my pen pal",
     "translation": "el siguiente es mi amigo por correspondencia",
     "source_movie": "A Complete Unknown",
@@ -912,15 +944,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_85433749",
+    "id": "v_0fe0ae72",
     "word": "Rooster crowing",
     "translation": "canto del gallo",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_1f83065c",
+    "id": "v_ae3e193e",
     "word": "You'll be drenched to the bone",
     "translation": "te mojarás hasta los huesos",
     "source_movie": "A Complete Unknown",
@@ -928,7 +960,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e39b3a4c",
+    "id": "v_3a2a5608",
     "word": "Prophesize (verbo)",
     "translation": "profetizar",
     "source_movie": "A Complete Unknown",
@@ -936,7 +968,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_81c5077b",
+    "id": "v_80512841",
     "word": "And there's no telling who that it's naming",
     "translation": "y no se sabe a quién se refiere",
     "source_movie": "A Complete Unknown",
@@ -944,7 +976,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c8c4fc43",
+    "id": "v_0f7fd793",
     "word": "The curse it is cast",
     "translation": "la maldición está echada/lanzada",
     "source_movie": "A Complete Unknown",
@@ -952,7 +984,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3b040f22",
+    "id": "v_626594c8",
     "word": "What'd you pull me into, man?",
     "translation": "¿En qué me has metido, hombre?",
     "source_movie": "A Complete Unknown",
@@ -960,7 +992,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_15ed7d03",
+    "id": "v_0b505f12",
     "word": "Gig (en términos musicales)",
     "translation": "concierto",
     "source_movie": "A Complete Unknown",
@@ -968,7 +1000,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_930ac4f4",
+    "id": "v_3d310811",
     "word": "Prodigal",
     "translation": "pródigo",
     "source_movie": "A Complete Unknown",
@@ -976,7 +1008,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_525766f3",
+    "id": "v_74e738c1",
     "word": "He's putting the lean on you?",
     "translation": "¿Te está presionando?",
     "source_movie": "A Complete Unknown",
@@ -984,7 +1016,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f21f15e5",
+    "id": "v_bdf6b776",
     "word": "Trying to get you to play?",
     "translation": "¿Intentando que juegues?",
     "source_movie": "A Complete Unknown",
@@ -992,7 +1024,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_24baabf0",
+    "id": "v_27adcd61",
     "word": "Don't hold it against him (frase no literal)",
     "translation": "no se lo eches en cara",
     "source_movie": "A Complete Unknown",
@@ -1000,7 +1032,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d0bc868",
+    "id": "v_c1ac63c0",
     "word": "Keep handy (verbo)",
     "translation": "tener a mano",
     "source_movie": "A Complete Unknown",
@@ -1008,7 +1040,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9a520be5",
+    "id": "v_5e5542b3",
     "word": "Gunfighter",
     "translation": "pistolero",
     "source_movie": "A Complete Unknown",
@@ -1016,7 +1048,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_99d56968",
+    "id": "v_2cffc7ea",
     "word": "The breeze will cease to be breathing",
     "translation": "la brisa dejará de soplar",
     "source_movie": "A Complete Unknown",
@@ -1024,7 +1056,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_50333d94",
+    "id": "v_d9cc87a1",
     "word": "Stillness",
     "translation": "quietud",
     "source_movie": "A Complete Unknown",
@@ -1032,7 +1064,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d54fa640",
+    "id": "v_492695c7",
     "word": "Sing out",
     "translation": "cantar",
     "source_movie": "A Complete Unknown",
@@ -1040,7 +1072,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_351397fa",
+    "id": "v_bde9c8c3",
     "word": "Hides",
     "translation": "pieles",
     "source_movie": "A Complete Unknown",
@@ -1048,7 +1080,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ef522001",
+    "id": "v_0679fc74",
     "word": "Discover what you set out to find",
     "translation": "descubre lo que te propusiste encontrar",
     "source_movie": "A Complete Unknown",
@@ -1056,7 +1088,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f7ccc83f",
+    "id": "v_2259a395",
     "word": "You're bound to fall",
     "translation": "estás destinado/condenado a caer",
     "source_movie": "A Complete Unknown",
@@ -1064,15 +1096,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c7d7ed66",
+    "id": "v_6793e9a2",
     "word": "Get it done (expresión)",
     "translation": "hazlo",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_122b104d",
+    "id": "v_99abba04",
     "word": "Hang around a ink well",
     "translation": "pasa el rato alrededor de un tintero",
     "source_movie": "A Complete Unknown",
@@ -1080,7 +1112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6dcd3ea1",
+    "id": "v_a986a0e8",
     "word": "Try hard, get barred",
     "translation": "esfuérzate, te expulsarán",
     "source_movie": "A Complete Unknown",
@@ -1088,7 +1120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f98f9ec",
+    "id": "v_fcedd9f9",
     "word": "Get hit",
     "translation": "pegar, golpear",
     "source_movie": "A Complete Unknown",
@@ -1096,7 +1128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c37ef7d3",
+    "id": "v_0474f26a",
     "word": "Get fitted",
     "translation": "ponerse en forma",
     "source_movie": "A Complete Unknown",
@@ -1104,7 +1136,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_0fdf501f",
+    "id": "v_b7bff642",
     "word": "I was just getting to me (frase no literal)",
     "translation": "me estaba afectando",
     "source_movie": "A Complete Unknown",
@@ -1112,7 +1144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c312f05d",
+    "id": "v_0432a69d",
     "word": "Knock it off (expresión)",
     "translation": "déjalo ya, ya basta",
     "source_movie": "A Complete Unknown",
@@ -1120,7 +1152,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_7e9f049d",
+    "id": "v_a17647b9",
     "word": "Fight a riptide (verbo)",
     "translation": "luchar contra una marea",
     "source_movie": "A Complete Unknown",
@@ -1128,15 +1160,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d640a6b3",
+    "id": "v_3806f110",
     "word": "Get through",
     "translation": "superar",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 5
+    "global_frequency": 10
   },
   {
-    "id": "v_7fb8b03e",
+    "id": "v_3d6fedb8",
     "word": "Put on (en sentido social)",
     "translation": "bromear, tomar el pelo",
     "source_movie": "A Complete Unknown",
@@ -1144,7 +1176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_83502c4f",
+    "id": "v_5a1e7dc0",
     "word": "I do educational",
     "translation": "hago educación",
     "source_movie": "A Complete Unknown",
@@ -1152,7 +1184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3fcad981",
+    "id": "v_c790367b",
     "word": "I play all sorts",
     "translation": "toco todo tipo de música",
     "source_movie": "A Complete Unknown",
@@ -1160,7 +1192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2a36d31b",
+    "id": "v_d6b2862b",
     "word": "Tuning (en música)",
     "translation": "afinación, ajuste",
     "source_movie": "A Complete Unknown",
@@ -1168,15 +1200,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f2b389a8",
+    "id": "v_80493fb8",
     "word": "Squeeze (verbo)",
     "translation": "apretar, estrujar, exprimir",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 7
   },
   {
-    "id": "v_c0554517",
+    "id": "v_90748ea4",
     "word": "Windowsill",
     "translation": "alféizar de la ventana",
     "source_movie": "A Complete Unknown",
@@ -1184,7 +1216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b5e77f5",
+    "id": "v_7ee88ca4",
     "word": "Catch up (no alusivo a ponerse al día)",
     "translation": "alcanzar, alterar",
     "source_movie": "A Complete Unknown",
@@ -1192,7 +1224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b24fa3f",
+    "id": "v_4ed149e0",
     "word": "Mouthpiece of the hollow horn",
     "translation": "boquilla del cuerno hueco",
     "source_movie": "A Complete Unknown",
@@ -1200,7 +1232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5441b9ed",
+    "id": "v_7c0385f4",
     "word": "Plays wasted words",
     "translation": "juega con palabras vacías",
     "source_movie": "A Complete Unknown",
@@ -1208,23 +1240,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ad86876e",
+    "id": "v_18b71bf0",
     "word": "Pointed threats, they bluff with scorn",
-    "translation": "amenazas directas, fanfarronean con",
+    "translation": "amenazas directas, fanfarronean con desprecio",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_ff24fb9b",
-    "word": "desprecio",
-    "translation": "No registrada",
-    "source_movie": "A Complete Unknown",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_a5d57885",
+    "id": "v_bd99d4cc",
     "word": "Suicide remarks are torn",
     "translation": "los comentarios sobre el suicidio son contradictorios",
     "source_movie": "A Complete Unknown",
@@ -1232,23 +1256,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_28a395d2",
+    "id": "v_6adb3114",
     "word": "Mouthpiece",
     "translation": "boquilla",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_c8328f9b",
-    "word": "perdidas, demuestra advertir",
-    "translation": "No registrada",
+    "id": "v_9798a660",
+    "word": "The hollow horn plays wasted words, proves to warn",
+    "translation": "el cuerno hueco toca palabras perdidas, demuestra advertir",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_9b782a99",
+    "id": "v_3856ad94",
     "word": "I don't wanna fake you out",
     "translation": "no quiero engañarte",
     "source_movie": "A Complete Unknown",
@@ -1256,7 +1280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_be70f04b",
+    "id": "v_bb07d934",
     "word": "Take or shake or forsake you out",
     "translation": "tómala, agítala o déjala",
     "source_movie": "A Complete Unknown",
@@ -1264,7 +1288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6d23cd92",
+    "id": "v_bcd8e78f",
     "word": "Two-wheeled gypsy queen",
     "translation": "reina gitana de dos ruedas",
     "source_movie": "A Complete Unknown",
@@ -1272,7 +1296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5c12181c",
+    "id": "v_97f6b3b8",
     "word": "A mighty mean man",
     "translation": "un hombre muy malo",
     "source_movie": "A Complete Unknown",
@@ -1280,7 +1304,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_00fe0a49",
+    "id": "v_30c056c3",
+    "word": "He shot the midnight lantern out of the brakeman's hand",
+    "translation": "le quitó de un tiro la linterna de medianoche de las manos al guardafrenos",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cf5df64d",
     "word": "Fall by",
     "translation": "pasar por su casa",
     "source_movie": "A Complete Unknown",
@@ -1288,7 +1320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_08d8adec",
+    "id": "v_5107479a",
     "word": "Scratch the waltz thing (no literal)",
     "translation": "olvida lo del vals",
     "source_movie": "A Complete Unknown",
@@ -1296,7 +1328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7d9eabd6",
+    "id": "v_4d43a7c0",
     "word": "Middleman (no literal)",
     "translation": "intermediario",
     "source_movie": "A Complete Unknown",
@@ -1304,7 +1336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e092bec5",
+    "id": "v_e4f5481f",
     "word": "Car driving off",
     "translation": "auto alejándose",
     "source_movie": "A Complete Unknown",
@@ -1312,15 +1344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_184453ad",
+    "id": "v_25bd48df",
     "word": "Hold on tight",
     "translation": "agárrate fuerte",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_f2d893dc",
+    "id": "v_bfe76a9c",
     "word": "In the jingle jangle morning",
     "translation": "en la mañana alegre y animada",
     "source_movie": "A Complete Unknown",
@@ -1328,7 +1360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3f7e9b1d",
+    "id": "v_aeab66a2",
     "word": "You're unlike yourself",
     "translation": "no pareces tú mismo",
     "source_movie": "A Complete Unknown",
@@ -1336,7 +1368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_936fda26",
+    "id": "v_94226837",
     "word": "I'm running wild (frase no literal)",
     "translation": "estoy corriendo como un loco",
     "source_movie": "A Complete Unknown",
@@ -1344,7 +1376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_86b19091",
+    "id": "v_df4ac557",
     "word": "Heave rocks",
     "translation": "lanzar piedras/rocas",
     "source_movie": "A Complete Unknown",
@@ -1352,7 +1384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d280a65a",
+    "id": "v_12de6f78",
     "word": "And the fiends nail time bombs",
     "translation": "y los demonios clavan bombas de tiempo",
     "source_movie": "A Complete Unknown",
@@ -1360,7 +1392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fd9b8c6c",
+    "id": "v_97194208",
     "word": "Go lightly from the ledge",
     "translation": "sal con cuidado del saliente/cornisa",
     "source_movie": "A Complete Unknown",
@@ -1368,7 +1400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4f87a559",
+    "id": "v_03ce6299",
     "word": "Bowed down and bent but yet",
     "translation": "inclinado y doblado, pero aún así",
     "source_movie": "A Complete Unknown",
@@ -1376,15 +1408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_173a7ee5",
+    "id": "v_4a80dba4",
     "word": "Polka dots",
     "translation": "lunares",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_eac07f71",
+    "id": "v_c4a7255b",
     "word": "He's not in on this?",
     "translation": "¿Él no está involucrado en esto?",
     "source_movie": "A Complete Unknown",
@@ -1392,7 +1424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_eddb81f7",
+    "id": "v_53994adc",
     "word": "Posse of purity",
     "translation": "banda de la pureza",
     "source_movie": "A Complete Unknown",
@@ -1400,7 +1432,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3d447a04",
+    "id": "v_ce9dbb64",
     "word": "Faithful (sustantivo)",
     "translation": "fieles",
     "source_movie": "A Complete Unknown",
@@ -1408,7 +1440,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6d874318",
+    "id": "v_b522289c",
     "word": "Groupies (sustantivo)",
     "translation": "admiradores, seguidores",
     "source_movie": "A Complete Unknown",
@@ -1416,7 +1448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bb4df179",
+    "id": "v_9472cfd0",
     "word": "Step off",
     "translation": "irse",
     "source_movie": "A Complete Unknown",
@@ -1424,7 +1456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f13038c",
+    "id": "v_9b973ba6",
     "word": "A cup of hot black",
     "translation": "una taza de café negro caliente",
     "source_movie": "A Complete Unknown",
@@ -1432,7 +1464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_64fa5460",
+    "id": "v_c008c7b6",
     "word": "Parable",
     "translation": "parábola",
     "source_movie": "A Complete Unknown",
@@ -1440,15 +1472,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8610b0c4",
-    "word": "amaneciendo, carajo!",
-    "translation": "No registrada",
+    "id": "v_d2c05710",
+    "word": "It's the crack of fucking dawn here! (parcialmente no literal)",
+    "translation": "¡Aquí ya está amaneciendo, carajo!",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_3cf659c9",
+    "id": "v_27b33af3",
     "word": "Seesaw",
     "translation": "balancín",
     "source_movie": "A Complete Unknown",
@@ -1456,7 +1488,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f953f4c6",
+    "id": "v_bc566a5f",
     "word": "Leak out",
     "translation": "salir (algo por una fuga)",
     "source_movie": "A Complete Unknown",
@@ -1464,15 +1496,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6f413c4d",
+    "id": "v_490da8dd",
     "word": "Pitch in",
     "translation": "colaborar, echar una mano",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_fbc01577",
+    "word": "The whole damn thing just goes (frase no literal)",
+    "translation": "todo se va al carajo",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_14addd8b",
+    "id": "v_33aa2c4d",
     "word": "We're on the verge of tipping it",
     "translation": "estamos a punto de inclinarlo",
     "source_movie": "A Complete Unknown",
@@ -1480,7 +1520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_50ebf0e3",
+    "id": "v_adbe9a44",
     "word": "Am I blocking you in?",
     "translation": "¿Te estoy bloqueando?",
     "source_movie": "A Complete Unknown",
@@ -1488,7 +1528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cd84def6",
+    "id": "v_a70b578f",
     "word": "Load out",
     "translation": "cargar (equipaje o cosas)",
     "source_movie": "A Complete Unknown",
@@ -1496,7 +1536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c7f2a981",
+    "id": "v_2ab66681",
     "word": "Gotta prime it up! (no literal)",
     "translation": "¡Hay que prepararlo todo!",
     "source_movie": "A Complete Unknown",
@@ -1504,31 +1544,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_57ab97cf",
-    "word": "fuera",
-    "translation": "No registrada",
+    "id": "v_3bd3f0f4",
+    "word": "It's getting nuts out there (frase no literal)",
+    "translation": "la situación se está volviendo loca ahí fuera",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 3
+    "global_frequency": 1
   },
   {
-    "id": "v_2daa7116",
+    "id": "v_5e112584",
     "word": "Drop a dime in any fucking jokebox",
-    "translation": "echa una moneda en cualquier maldita máquina de",
+    "translation": "echa una moneda en cualquier maldita máquina de discos",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_102a6554",
-    "word": "discos",
-    "translation": "No registrada",
-    "source_movie": "A Complete Unknown",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_fb4fe7c5",
+    "id": "v_26d9249a",
     "word": "Slave (verbo)",
     "translation": "trabajar como un esclavo",
     "source_movie": "A Complete Unknown",
@@ -1536,7 +1568,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c9d1bcf0",
+    "id": "v_7246d214",
     "word": "Board (en sentido de organizaciones)",
     "translation": "junta, comité",
     "source_movie": "A Complete Unknown",
@@ -1544,7 +1576,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_06e2b0ad",
+    "id": "v_1ab44f84",
     "word": "To be scrounging around",
     "translation": "andar mendigando por ahí",
     "source_movie": "A Complete Unknown",
@@ -1552,15 +1584,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a79bb6f4",
-    "word": "boquiabierto!",
-    "translation": "No registrada",
+    "id": "v_dd6cb167",
+    "word": "You broke it down and blew my mind! (frase no literal)",
+    "translation": "¡Lo desglosaste y me dejaste boquiabierto!",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_735630f1",
+    "id": "v_7e65b175",
+    "word": "And let out a little steam (frase no literal)",
+    "translation": "y desahogarse un poco",
+    "source_movie": "A Complete Unknown",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a840385a",
     "word": "Let up",
     "translation": "ceder, dar tregua",
     "source_movie": "A Complete Unknown",
@@ -1568,7 +1608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a446a4b2",
+    "id": "v_1deb0f6c",
     "word": "Yonder stands your orphan",
     "translation": "allá está tu huérfano",
     "source_movie": "A Complete Unknown",
@@ -1576,15 +1616,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bfc66b9c",
+    "id": "v_bfbb8bcd",
     "word": "Tear down",
     "translation": "derribar, destrozar",
     "source_movie": "A Complete Unknown",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 4
   },
   {
-    "id": "v_aa7fcfe6",
+    "id": "v_d94b6715",
     "word": "Stepping stones (no literal)",
     "translation": "peldaños",
     "source_movie": "A Complete Unknown",
@@ -1592,7 +1632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ab249e34",
+    "id": "v_caa66762",
     "word": "Strike another march",
     "translation": "toca/emprende otra marcha",
     "source_movie": "A Complete Unknown",

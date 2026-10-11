@@ -8,6 +8,10 @@
       "translation": "hasta que el avión despegue de forma segura"
     },
     {
+      "word": "Rather than lingering on him (frase no literal)",
+      "translation": "en lugar de seguir pensando en él"
+    },
+    {
       "word": "Molding",
       "translation": "moldeado"
     },
@@ -64,8 +68,8 @@
       "translation": "¿Es por lo de desmayarse?"
     },
     {
-      "word": "alguna chica allí?",
-      "translation": "No registrada"
+      "word": "Are you gonna get with some chick there? (pregunta no literal)",
+      "translation": "¿Te vas a ligar a alguna chica allí?"
     },
     {
       "word": "Media blitz, media hits",
@@ -73,11 +77,7 @@
     },
     {
       "word": "Don't steal your eyes off the TV screen",
-      "translation": "no apartes la vista de la pantalla del"
-    },
-    {
-      "word": "televisor",
-      "translation": "No registrada"
+      "translation": "no apartes la vista de la pantalla del televisor"
     },
     {
       "word": "Play into (no literal)",
@@ -169,11 +169,7 @@
     },
     {
       "word": "They were just stylish, sort of edgy",
-      "translation": "eran simplemente elegantes, con un toque"
-    },
-    {
-      "word": "atrevido",
-      "translation": "No registrada"
+      "translation": "eran simplemente elegantes, con un toque atrevido"
     },
     {
       "word": "Safe deposit box",
@@ -192,8 +188,8 @@
       "translation": "parto, nacimiento"
     },
     {
-      "word": "crecimiento de la personalidad del bebé",
-      "translation": "No registrada"
+      "word": "Home birth stunts the baby's growth personality",
+      "translation": "el parto en casa frena el crecimiento de la personalidad del bebé"
     },
     {
       "word": "Carpeted floor",
@@ -216,12 +212,12 @@
       "translation": "frescura"
     },
     {
-      "word": "universidad",
-      "translation": "No registrada"
+      "word": "He tried to put himself thorugh college (frase no literal)",
+      "translation": "intento pagarse la universidad"
     },
     {
-      "word": "estaba en mejor situación económica",
-      "translation": "No registrada"
+      "word": "She was smart, brave, better off (parcialmente no literal)",
+      "translation": "era inteligente, valiente, estaba en mejor situación económica"
     },
     {
       "word": "Uptight",
@@ -232,27 +228,27 @@
       "translation": "quiero ganarme su confianza"
     },
     {
-      "word": "algunas cosas",
-      "translation": "No registrada"
+      "word": "I needed to beat the crap out of some stuff (frase no literal)",
+      "translation": "necesitaba destrozar algunas cosas"
     },
     {
-      "word": "persona que está tan lejos?",
-      "translation": "No registrada"
+      "word": "How are you gonna get to know a person way over there?",
+      "translation": "¿Cómo vas a conocer a una persona que está tan lejos?"
     },
     {
       "word": "Go up",
       "translation": "subir"
     },
     {
-      "word": "su antojo",
-      "translation": "No registrada"
+      "word": "You can't let her push you around (frase no literal)",
+      "translation": "no puedes dejar que te maneje a su antojo"
     },
     {
       "word": "Going berserk",
       "translation": "volverse loco"
     },
     {
-      "word": "Fac'tries",
+      "word": "Fac’tries",
       "translation": "fábricas"
     },
     {
@@ -308,6 +304,10 @@
       "translation": "cerámica"
     },
     {
+      "word": "They will stay a couple (parcialmente no literal)",
+      "translation": "seguirán siendo pareja"
+    },
+    {
       "word": "Biplane",
       "translation": "biplano, avioneta"
     },
@@ -335,5 +335,7 @@
       "https://image.tmdb.org/t/p/w780/f0VjaquUv3DJjHzovKNhIq4qMiw.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 80,
+  "dialogues": 1572
 }

@@ -85,7 +85,7 @@
     },
     {
       "word": "She's made huge strides since being here",
-      "translation": "ella ha hecho grandes progresos desde que"
+      "translation": "ella ha hecho grandes progresos desde que está aquí"
     },
     {
       "word": "Chili mac",
@@ -101,7 +101,7 @@
     },
     {
       "word": "The driver removed her just off the interstate 5",
-      "translation": "la conductora la sacó de la"
+      "translation": "la conductora la sacó de la interestatal 5"
     },
     {
       "word": "Don't cheat her",
@@ -117,7 +117,7 @@
     },
     {
       "word": "He would so get whatever it is you're talking about",
-      "translation": "él entendería lo que sea de lo que"
+      "translation": "él entendería lo que sea de lo que estás hablando"
     },
     {
       "word": "Mild concussion",
@@ -137,7 +137,7 @@
     },
     {
       "word": "She slipped by the duty nurse (parcialmente no literal)",
-      "translation": "se escabulló de la enfermera"
+      "translation": "se escabulló de la enfermera de guardia"
     },
     {
       "word": "Cradle (verbo)",
@@ -153,7 +153,7 @@
     },
     {
       "word": "Slowly tumbling through the emptiness of space",
-      "translation": "cayendo lentamente por el vacío del"
+      "translation": "cayendo lentamente por el vacío del espacio"
     },
     {
       "word": "Spock",
@@ -161,11 +161,11 @@
     },
     {
       "word": "She's a very resourceful girl (frase no literal)",
-      "translation": "ella es una chica muy ingeniosa/de"
+      "translation": "ella es una chica muy ingeniosa/de muchos recursos"
     },
     {
       "word": "You're holding up the line (parcialmente no literal)",
-      "translation": "estás retrasando/demorando la"
+      "translation": "estás retrasando/demorando la fila"
     },
     {
       "word": "Back in",
@@ -223,5 +223,7 @@
       "https://image.tmdb.org/t/p/w780/1Gjsg6rCQQjlEbNawAb7SvbEUZh.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 52,
+  "dialogues": 1177
 }

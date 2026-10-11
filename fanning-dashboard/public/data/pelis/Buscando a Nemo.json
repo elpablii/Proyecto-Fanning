@@ -53,7 +53,7 @@
     },
     {
       "word": "There's epipelagic, mesopelagic, bathyal, abyssopelagic",
-      "translation": "hay epipelágicos,"
+      "translation": "hay epipelágicos, mesopelágicos, batiales, abisopelágicos"
     },
     {
       "word": "Optical orbits up front",
@@ -69,7 +69,7 @@
     },
     {
       "word": "Mollusca and gastropoda, arthropoda, echinoderma, chordata",
-      "translation": "moluscos y"
+      "translation": "moluscos y gasterópodos, artrópodos, equinodermos, cordados"
     },
     {
       "word": "Seaweed",
@@ -89,7 +89,7 @@
     },
     {
       "word": "There's porifera, coelenterata, hydrozoa, scyphozoa",
-      "translation": "hay poríferos, celenterados,"
+      "translation": "hay poríferos, celenterados, hidrozoos, escifozoos"
     },
     {
       "word": "Anthozoa, ctenophora, bryozoas",
@@ -137,7 +137,7 @@
     },
     {
       "word": "Right then, the meeting has officially come to order (frase no literal)",
-      "translation": "muy bien, se"
+      "translation": "muy bien, se abre oficialmente la sesión"
     },
     {
       "word": "Pledge",
@@ -503,5 +503,7 @@
       "https://image.tmdb.org/t/p/w780/rSGmnKoHuxyjbYY0zIML7NVRy8o.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 122,
+  "dialogues": 1575
 }

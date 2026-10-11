@@ -52,8 +52,8 @@
       "translation": "candado para armas"
     },
     {
-      "word": "alguien",
-      "translation": "No registrada"
+      "word": "Keeps them from accidentally shooting someone",
+      "translation": "evita que disparen accidentalmente a alguien"
     },
     {
       "word": "Benzyls",
@@ -97,11 +97,7 @@
     },
     {
       "word": "I wake up rested and peaceful most mornings",
-      "translation": "la mayoría de los días me despierto"
-    },
-    {
-      "word": "descansado y tranquilo",
-      "translation": "No registrada"
+      "translation": "la mayoría de los días me despierto descansado y tranquilo"
     },
     {
       "word": "Casserole",
@@ -205,11 +201,7 @@
     },
     {
       "word": "Have you felt cut off from people?",
-      "translation": "¿Te has sentido desconectado/aislado de la"
-    },
-    {
-      "word": "gente?",
-      "translation": "No registrada"
+      "translation": "¿Te has sentido desconectado/aislado de la gente?"
     },
     {
       "word": "Babbling (acotación)",
@@ -228,8 +220,8 @@
       "translation": "tráelo aquí"
     },
     {
-      "word": "dolor de cabeza",
-      "translation": "No registrada"
+      "word": "I bet your head's about throbbing (frase no literal)",
+      "translation": "apuesto a que te está dando dolor de cabeza"
     },
     {
       "word": "Pull this boot off",
@@ -248,16 +240,20 @@
       "translation": "tejido blando"
     },
     {
-      "word": "metido en líos o huyendo de alguien",
-      "translation": "No registrada"
+      "word": "If your dad is messed up with something or running from someone",
+      "translation": "si tu papá está metido en líos o huyendo de alguien"
     },
     {
-      "word": "meternos en ningún problema",
-      "translation": "No registrada"
+      "word": "We aren't looking to get mixed up in any trouble (frase no literal)",
+      "translation": "no queremos meternos en ningún problema"
     },
     {
       "word": "RV",
       "translation": "casas rodantes"
+    },
+    {
+      "word": "We'll be out of your way here (frase no literal)",
+      "translation": "no te molestaremos más"
     },
     {
       "word": "Crutches",
@@ -265,11 +261,7 @@
     },
     {
       "word": "I didn't figure he'd stay down for long",
-      "translation": "no pensé que se quedaría abajo por mucho"
-    },
-    {
-      "word": "tiempo",
-      "translation": "No registrada"
+      "translation": "no pensé que se quedaría abajo por mucho tiempo"
     },
     {
       "word": "When somebody's restless",
@@ -288,8 +280,8 @@
       "translation": "el bebé recorre todos los diferentes tonos"
     },
     {
-      "word": "lugar sin tu consentimiento",
-      "translation": "No registrada"
+      "word": "I'm not gonna rent the place out from under you (frase no literal)",
+      "translation": "no voy a alquilar el lugar sin tu consentimiento"
     },
     {
       "word": "Holler",
@@ -315,5 +307,7 @@
       "https://image.tmdb.org/t/p/w780/5iXinal9wmDjId9R8RyqrrBYN6v.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 73,
+  "dialogues": 1000
 }

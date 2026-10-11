@@ -1,6 +1,14 @@
 [
   {
-    "id": "v_80cd59ae",
+    "id": "v_0a798a6f",
+    "word": "You wear an air of queenly grace (frase no literal)",
+    "translation": "tienes un aire de gracia real",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_afce9442",
     "word": "Stately",
     "translation": "majestuoso",
     "source_movie": "Cenicienta",
@@ -8,23 +16,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_206d6527",
+    "id": "v_e8ed053e",
     "word": "Untimely death",
     "translation": "muerte prematura",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_293719f9",
-    "word": "promover los intereses",
-    "translation": "No registrada",
+    "id": "v_653c207d",
+    "word": "She was grimly determined to forward the interests",
+    "translation": "estaba firmemente decidida a promover los intereses",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_839027cd",
+    "id": "v_e54a5f33",
     "word": "The chateau fell into disrepair",
     "translation": "el castillo quedó en ruinas",
     "source_movie": "Cenicienta",
@@ -32,7 +40,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c70e4ec4",
+    "id": "v_c7cfeab7",
+    "word": "The family fortunes were squandered upon the vain and selfish stepsisters",
+    "translation": "la fortuna familiar se dilapidó en las vanidosas y egoístas hermanastras",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6e43c96b",
     "word": "Let's just slip it on for size",
     "translation": "probémoslo para ver si le queda bien",
     "source_movie": "Cenicienta",
@@ -40,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b52323e0",
+    "id": "v_5a5dcd92",
     "word": "Help yourself (frase no literal)",
     "translation": "sírvete tú mismo",
     "source_movie": "Cenicienta",
@@ -48,7 +64,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_63e91b1e",
+    "id": "v_949573ac",
     "word": "Take that ironing",
     "translation": "lleva eso a planchar",
     "source_movie": "Cenicienta",
@@ -56,7 +72,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e2ae1730",
+    "id": "v_f151ca9d",
     "word": "Don't forget the mending",
     "translation": "no olvides los arreglos",
     "source_movie": "Cenicienta",
@@ -64,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e7918ed0",
+    "id": "v_decd249d",
     "word": "Fool (verbo)",
     "translation": "engañar",
     "source_movie": "Cenicienta",
@@ -72,15 +88,15 @@
     "global_frequency": 5
   },
   {
-    "id": "v_5dc2e18d",
+    "id": "v_a43dbcf2",
     "word": "Hold your tongue (frase no literal)",
     "translation": "cállate la boca",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_cebd7f07",
+    "id": "v_8750d44b",
     "word": "Draperies",
     "translation": "cortinas",
     "source_movie": "Cenicienta",
@@ -88,15 +104,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9ccd548c",
-    "word": "coser y lavar la ropa",
-    "translation": "No registrada",
+    "id": "v_1188cd24",
+    "word": "There's the mending and the sewing and the laundry",
+    "translation": "hay que hacer los arreglos, coser y lavar la ropa",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_f332fc1d",
+    "id": "v_60908c10",
     "word": "Pitter-patter",
     "translation": "repiqueteo",
     "source_movie": "Cenicienta",
@@ -104,15 +120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_12965610",
+    "id": "v_b5176285",
     "word": "Maiden",
     "translation": "doncella, señorita, soltera",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_c689c93e",
+    "id": "v_b212059b",
     "word": "He's bound to",
     "translation": "está obligado a",
     "source_movie": "Cenicienta",
@@ -120,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d47810df",
+    "id": "v_80f1e9ed",
     "word": "All the trimmings!",
     "translation": "¡Con todos los adornos!",
     "source_movie": "Cenicienta",
@@ -128,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4d014d16",
+    "id": "v_bd4e999d",
     "word": "The pear-shaped toad",
     "translation": "el sapo con forma de pera",
     "source_movie": "Cenicienta",
@@ -136,7 +152,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b690f280",
+    "id": "v_2d223a8a",
     "word": "You mean old thing",
     "translation": "viejo tonto",
     "source_movie": "Cenicienta",
@@ -144,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0bb63dc3",
+    "id": "v_5702c656",
     "word": "By royal command",
     "translation": "por orden/mandato real",
     "source_movie": "Cenicienta",
@@ -152,7 +168,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_34dc5474",
+    "id": "v_b0b5612e",
     "word": "Sash (en moda)",
     "translation": "faja, banda, fajín",
     "source_movie": "Cenicienta",
@@ -160,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2c0ef40a",
+    "id": "v_193eb130",
     "word": "Ruffle (en moda)",
     "translation": "volante",
     "source_movie": "Cenicienta",
@@ -168,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9ffa3283",
+    "id": "v_fb30e128",
     "word": "The dusting",
     "translation": "el limpiar el polvo",
     "source_movie": "Cenicienta",
@@ -176,7 +192,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_429cfdbc",
+    "id": "v_09af1e8f",
     "word": "Still they holler",
     "translation": "aún así siguen gritando",
     "source_movie": "Cenicienta",
@@ -184,7 +200,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_122118d3",
+    "id": "v_82c96551",
     "word": "Trimmings",
     "translation": "adornos",
     "source_movie": "Cenicienta",
@@ -192,7 +208,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e59c21dc",
+    "id": "v_1a54e7f1",
+    "word": "You go get some trimming (traducción aproximada)",
+    "translation": "ve a comprar algunos adornos",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_efd41e92",
     "word": "Mend the buttonholes",
     "translation": "arregla los ojales",
     "source_movie": "Cenicienta",
@@ -200,7 +224,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0488eaf6",
+    "id": "v_e6d70981",
     "word": "Mind the ruffle (frase no literal)",
     "translation": "cuidado con el volante",
     "source_movie": "Cenicienta",
@@ -208,7 +232,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_51060961",
+    "id": "v_7776a23d",
     "word": "When you're through (no literal)",
     "translation": "cuando termines",
     "source_movie": "Cenicienta",
@@ -216,7 +240,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0054a609",
+    "id": "v_13fffdcc",
+    "word": "I wouldn't be seen dead in it (frase no literal)",
+    "translation": "no me pondría eso ni muerta",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4dcbcf3d",
     "word": "Beads (en moda)",
     "translation": "perlas, bolitas",
     "source_movie": "Cenicienta",
@@ -224,7 +256,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9f0eaae0",
+    "id": "v_f519ab40",
     "word": "Grieving (adjetivo)",
     "translation": "afligido",
     "source_movie": "Cenicienta",
@@ -232,15 +264,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6829d123",
+    "id": "v_9b4b5dc9",
     "word": "Heave (verbo)",
     "translation": "levantar, elevar",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_7c819c5d",
+    "word": "It would be frightfully dull (frase no literal)",
+    "translation": "sería terriblemente aburrido",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_202d5ce7",
+    "id": "v_24bdf926",
     "word": "I won't have you upsetting yourselves",
     "translation": "no voy a permitir que se alteren",
     "source_movie": "Cenicienta",
@@ -248,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fc11bf4d",
+    "id": "v_61775e86",
     "word": "Looky (expresión)",
     "translation": "vaya, qué sorpresa",
     "source_movie": "Cenicienta",
@@ -256,7 +296,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a27ab159",
+    "id": "v_a34f3045",
     "word": "Gracious (expresión)",
     "translation": "Dios mío",
     "source_movie": "Cenicienta",
@@ -264,7 +304,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f6ad4e9f",
+    "id": "v_2a231e24",
     "word": "Reins",
     "translation": "riendas",
     "source_movie": "Cenicienta",
@@ -272,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8ef1c40f",
+    "id": "v_be93e7c9",
     "word": "Coachman",
     "translation": "cochero, conductor",
     "source_movie": "Cenicienta",
@@ -280,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_24ff0c28",
+    "id": "v_8586aafd",
     "word": "Footman",
     "translation": "lacayo, mozo",
     "source_movie": "Cenicienta",
@@ -288,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_54ee394f",
+    "id": "v_f05264c7",
     "word": "On the stroke of 12",
     "translation": "00: al dar las 12 en punto",
     "source_movie": "Cenicienta",
@@ -296,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e885ef58",
+    "id": "v_afc31935",
     "word": "Mademoiselle (en francés)",
     "translation": "señorita",
     "source_movie": "Cenicienta",
@@ -304,23 +344,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b2b3c5c8",
+    "id": "v_e8d443ff",
     "word": "Lo (expresión)",
-    "translation": "he aquí",
+    "translation": "he aquí Whence (en preguntas) de dónde",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c93a783d",
-    "word": "Whence (en preguntas) de dónde",
-    "translation": "No registrada",
-    "source_movie": "Cenicienta",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_0b1b3b9a",
+    "id": "v_9e31d3e7",
     "word": "Foredoomed",
     "translation": "condenado, predestinado",
     "source_movie": "Cenicienta",
@@ -328,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e01301d2",
+    "id": "v_e8b405d3",
     "word": "You pompous windbag",
     "translation": "presuntoso charlatán",
     "source_movie": "Cenicienta",
@@ -336,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0f9344f1",
+    "id": "v_79e090c8",
     "word": "Aglow",
     "translation": "radiante",
     "source_movie": "Cenicienta",
@@ -344,7 +376,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_7a0c52a6",
+    "id": "v_65b3adfd",
     "word": "Coach (alusivo a un vehículo de la realeza)",
     "translation": "carruaje",
     "source_movie": "Cenicienta",
@@ -352,15 +384,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3b857462",
-    "word": "con rodeos",
-    "translation": "No registrada",
+    "id": "v_a6bd5d86",
+    "word": "I see no pount in beating about the bush (frase no literal)",
+    "translation": "no veo sentido en andarme con rodeos",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_5d9dc07a",
+    "id": "v_5c903f6f",
     "word": "Pass out (en sentido de entregas)",
     "translation": "repartir",
     "source_movie": "Cenicienta",
@@ -368,7 +400,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_662b81c6",
+    "id": "v_ddd2eff1",
+    "word": "She vanished into thin air (frase no literal)",
+    "translation": "desapareció sin dejar rastro",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fe0cdfcb",
     "word": "A likely story",
     "translation": "una historia muy probable/verosímil",
     "source_movie": "Cenicienta",
@@ -376,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_56f5fe1e",
+    "id": "v_fcdeb046",
     "word": "We'll hold him to it (frase no literal)",
     "translation": "haremos que cumpla su palabra",
     "source_movie": "Cenicienta",
@@ -384,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_caeaee6c",
+    "id": "v_820f1ab8",
     "word": "Upon bended knee",
     "translation": "de rodillas",
     "source_movie": "Cenicienta",
@@ -392,31 +432,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b4160836",
+    "id": "v_4ac64f6e",
     "word": "Whereupon, should the aforementioned maiden",
-    "translation": "en cuyo caso, si la mencionada",
+    "translation": "en cuyo caso, si la mencionada doncella",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c6c94aaa",
-    "word": "doncella",
-    "translation": "No registrada",
+    "id": "v_abef2caf",
+    "word": "Look with favour, shall the couple pledge their troth",
+    "translation": "mira con agrado, la pareja se compremeterá en matrimonio",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_2cacd85b",
-    "word": "compremeterá en matrimonio",
-    "translation": "No registrada",
-    "source_movie": "Cenicienta",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_9b7f19fe",
+    "id": "v_6660ce7b",
     "word": "Fitting",
     "translation": "ajuste",
     "source_movie": "Cenicienta",
@@ -424,7 +456,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b429d642",
+    "id": "v_3c62a397",
+    "word": "It may be a trifle snug today (frase no literal)",
+    "translation": "hoy puede que haga un poco de calor",
+    "source_movie": "Cenicienta",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e8c04c75",
     "word": "His Grace (en realeza)",
     "translation": "Su Excelencia",
     "source_movie": "Cenicienta",
@@ -432,11 +472,11 @@
     "global_frequency": 1
   },
   {
-    "id": "v_49ff3f71",
+    "id": "v_3b3f44e1",
     "word": "I'm dreadfully sorry",
     "translation": "lo siento muchísimo",
     "source_movie": "Cenicienta",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   }
 ]

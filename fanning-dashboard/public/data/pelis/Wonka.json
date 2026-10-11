@@ -4,10 +4,6 @@
   "englishAnalysis": "Un inglés británico mágico y encantador. Lleno de vocabulario descriptivo relacionado con la confitería, los sueños y la imaginación. Diálogos excéntricos y pronunciación muy clara al estilo teatral.",
   "vocabulary": [
     {
-      "word": "vocabulary (Part 1",
-      "translation": "121 words/phrases)"
-    },
-    {
       "word": "Bid farewell (verbo)",
       "translation": "decir adiós, despedirse"
     },
@@ -17,7 +13,7 @@
     },
     {
       "word": "A tattered overcoat and battered suitcase",
-      "translation": "un abrigo andrajoso y una maleta"
+      "translation": "un abrigo andrajoso y una maleta maltrecha"
     },
     {
       "word": "Au revoir (en francés)",
@@ -61,7 +57,7 @@
     },
     {
       "word": "I'm holding out for someone far superior to that idle peasant",
-      "translation": "estoy esperando a"
+      "translation": "estoy esperando a alguien muy superior a ese campesino ocioso"
     },
     {
       "word": "Stew",
@@ -69,7 +65,7 @@
     },
     {
       "word": "She was dropped down the laundry chute as a bab",
-      "translation": "la tiraron por el conducto de la"
+      "translation": "la tiraron por el conducto de la lavandería como a un bebé"
     },
     {
       "word": "A once-over",
@@ -173,7 +169,7 @@
     },
     {
       "word": "We're going to fart them out of our botties",
-      "translation": "vamos a sacarles los pedos de nuestras"
+      "translation": "vamos a sacarles los pedos de nuestras bocas"
     },
     {
       "word": "You're off your rocker (frase no literal)",
@@ -181,7 +177,7 @@
     },
     {
       "word": "I'm regrettably obliged to move you on",
-      "translation": "lamentablemente me veo obligado a"
+      "translation": "lamentablemente me veo obligado a trasladarte"
     },
     {
       "word": "Cheeky",
@@ -273,7 +269,7 @@
     },
     {
       "word": "I thought they found you down a laundry chute",
-      "translation": "creí que te habían encontrado en un"
+      "translation": "creí que te habían encontrado en un conducto de lavandería"
     },
     {
       "word": "Took me in out of the goodness",
@@ -498,10 +494,6 @@
     {
       "word": "Water down",
       "translation": "regar, diluir"
-    },
-    {
-      "word": "vocabulary (Part 2",
-      "translation": "118 words/phrases)"
     },
     {
       "word": "Sentinel",
@@ -761,7 +753,7 @@
     },
     {
       "word": "It's almost as though you lot had a sneaky little scheme",
-      "translation": "es casi como si tuvieras un"
+      "translation": "es casi como si tuvieras un pequeño plan furtivo"
     },
     {
       "word": "Wriggle out",
@@ -853,7 +845,7 @@
     },
     {
       "word": "You might want to pop the late baron down for a minute",
-      "translation": "puede que quieras bajar al"
+      "translation": "puede que quieras bajar al difunto barón un momento"
     },
     {
       "word": "Scatting (acotación)",
@@ -913,7 +905,7 @@
     },
     {
       "word": "It was a bit of a close shave this morning (frase no literal)",
-      "translation": "esta mañana ha estado"
+      "translation": "esta mañana ha estado muy reñida"
     },
     {
       "word": "Nutty",
@@ -976,7 +968,7 @@
       "translation": "rinoplastía"
     },
     {
-      "word": "They've gone down",
+      "word": "They’ve gone down",
       "translation": "han caído"
     },
     {
@@ -995,5 +987,7 @@
       "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 243,
+  "dialogues": 2606
 }

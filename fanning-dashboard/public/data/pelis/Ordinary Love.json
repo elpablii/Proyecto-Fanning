@@ -56,8 +56,8 @@
       "translation": "¿Puedes comportarte como alguien normal?"
     },
     {
-      "word": "vez más tarde",
-      "translation": "No registrada"
+      "word": "Your man is getting later and later (frase no literal)",
+      "translation": "tu hombre está llegando cada vez más tarde"
     },
     {
       "word": "I'm going off tea",
@@ -66,6 +66,10 @@
     {
       "word": "Cut out caffeine altogether",
       "translation": "elimina la cafeína por completo"
+    },
+    {
+      "word": "How do you get through life? (pregunta no literal)",
+      "translation": "¿Cómo te las arreglas en la vida?"
     },
     {
       "word": "Out of spite",
@@ -82,6 +86,10 @@
     {
       "word": "Juicer",
       "translation": "juguera, exprimidor"
+    },
+    {
+      "word": "I'll be as long as it takes (frase no literal)",
+      "translation": "estaré todo el tiempo necesario"
     },
     {
       "word": "The road ahead",
@@ -144,6 +152,10 @@
       "translation": "te verías digno"
     },
     {
+      "word": "I take it that's him then? (pregunta no literal)",
+      "translation": "¿Entonces supongo que es él?"
+    },
+    {
       "word": "Is your head sore?",
       "translation": "¿Te duele la cabeza?"
     },
@@ -192,6 +204,10 @@
       "translation": "una vez que aparece el dolor"
     },
     {
+      "word": "He's at the end of his tether (frase no literal)",
+      "translation": "él está al límite de su paciencia"
+    },
+    {
       "word": "A blowout",
       "translation": "un cambio radical"
     },
@@ -233,11 +249,7 @@
     },
     {
       "word": "I just took me time working round to it",
-      "translation": "simplemente me tomé mi tiempo para llegar a"
-    },
-    {
-      "word": "ello",
-      "translation": "No registrada"
+      "translation": "simplemente me tomé mi tiempo para llegar a ello"
     },
     {
       "word": "He'll come round (frase no literal)",
@@ -268,16 +280,16 @@
       "translation": "quedarse sin existencias durante las Navidades"
     },
     {
+      "word": "I'm just saying don't get too much (frase no literal)",
+      "translation": "solo digo que no te pases"
+    },
+    {
       "word": "Ditto regarding the sprouts",
       "translation": "lo mismo ocurre con los brotes"
     },
     {
       "word": "A wee bit of tinsel round the goldfish tank",
-      "translation": "un poco de oropel alrededor de la pecera"
-    },
-    {
-      "word": "de los peces de colores",
-      "translation": "No registrada"
+      "translation": "un poco de oropel alrededor de la pecera de los peces de colores"
     },
     {
       "word": "It's an ebb and a flow (frase no literal)",
@@ -311,5 +323,7 @@
       "https://image.tmdb.org/t/p/w780/wLpiODFa4JKZJMB1vbeeC6YljMw.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 77,
+  "dialogues": 1045
 }

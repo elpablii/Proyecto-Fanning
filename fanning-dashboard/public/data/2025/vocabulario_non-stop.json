@@ -1,62 +1,62 @@
 [
   {
-    "id": "v_5cc91a8d",
-    "word": "Allocate (verb)",
+    "id": "v_00dc0738",
+    "word": "Allocate (verbo)",
     "translation": "asignar, designar",
-    "source_movie": "Non-stop",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_403562c9",
-    "word": "Where you off to?",
-    "translation": "¿A donde las?",
-    "source_movie": "Non-stop",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_200bafd8",
-    "word": "pasajeros",
-    "translation": "No registrada",
-    "source_movie": "Non-stop",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_5583a648",
-    "word": "Mix-up",
-    "translation": "confusión, malentendido",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_9e10c875",
+    "id": "v_539833bd",
+    "word": "Where you off to?",
+    "translation": "¿A dónde vas?",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c924ffd3",
+    "word": "Loading and unloading of passengers (frase no literal)",
+    "translation": "embarque y desembarque de pasajeros",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fc4e8087",
+    "word": "Mix-up",
+    "translation": "confusión, malentendido",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_8792acd3",
     "word": "Runway",
     "translation": "pista",
     "source_movie": "Non-stop",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_4e98b1a9",
-    "word": "Make a run for it (verb)",
-    "translation": "salir corrigendo",
+    "id": "v_eeca904b",
+    "word": "Make a run for it (verbo)",
+    "translation": "salir corriendo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_36b889a9",
+    "id": "v_5fe087f7",
     "word": "Overhead bin",
-    "translation": "compartimiento superior",
+    "translation": "compartimento superior",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_178fb6e5",
+    "id": "v_f03713fb",
     "word": "Stowed under the seat",
     "translation": "guardado bajo el asiento",
     "source_movie": "Non-stop",
@@ -64,15 +64,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ccdde0b8",
+    "id": "v_fcf830ed",
     "word": "Eff up",
-    "translation": "poder",
+    "translation": "joder",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_de62cdba",
+    "id": "v_a2d29b4a",
     "word": "Extensive in-flight entertainment",
     "translation": "amplio entretenimiento a bordo",
     "source_movie": "Non-stop",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ae558078",
+    "id": "v_f2930895",
     "word": "At your fingertips",
     "translation": "al alcance de su mano",
     "source_movie": "Non-stop",
@@ -88,7 +88,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b08e4a6",
+    "id": "v_deed03cb",
     "word": "Ground power",
     "translation": "alimentación de tierra",
     "source_movie": "Non-stop",
@@ -96,7 +96,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_52eb89c1",
+    "id": "v_60dde4ca",
+    "word": "Non-stop",
+    "translation": "ininterrumpido, sin escalas (en términos de vuelos)",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_28aff5cd",
     "word": "Seizure",
     "translation": "ataque, convulsión",
     "source_movie": "Non-stop",
@@ -104,23 +112,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_407adc6f",
+    "id": "v_2dbec26f",
     "word": "It's this juice fast I'm on",
-    "translation": "es este ayuno de jugo que esto hacienda",
+    "translation": "es este ayuno de jugo que estoy haciendo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_aeb7b478",
+    "id": "v_f3f4e25a",
     "word": "All the camera feeds live",
-    "translation": "toda las cámara en director",
+    "translation": "todas las cámaras en directo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f6d51386",
+    "id": "v_16c2752d",
     "word": "Galley",
     "translation": "galera, cocina",
     "source_movie": "Non-stop",
@@ -128,23 +136,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dddfcf20",
+    "id": "v_88d19ea4",
     "word": "Transportation Security Administration (TSA)",
-    "translation": "Administración de Seguridad del",
+    "translation": "Administración de Seguridad del Transporte",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_daa6c582",
-    "word": "Transport",
-    "translation": "No registrada",
-    "source_movie": "Non-stop",
-    "year_processed": "2025",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_f3fcba08",
+    "id": "v_a7d2345e",
     "word": "Department of Homeland Security (DHS)",
     "translation": "Departamento de Seguridad Interior",
     "source_movie": "Non-stop",
@@ -152,31 +152,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9fa20697",
+    "id": "v_74d75292",
     "word": "Priors",
-    "translation": "antecedente (pernales)",
+    "translation": "antecedentes (penales)",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_acacd44f",
-    "word": "Sort out (en investigations)",
+    "id": "v_0954dbbe",
+    "word": "Sort out (en investigaciones)",
     "translation": "resolver",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8a1b1d9d",
+    "id": "v_749b32af",
     "word": "Whoever we're looking for knew that",
-    "translation": "quienquiera que estos buscador lo sabia",
+    "translation": "quienquiera que estemos buscando lo sabía",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f260bbb6",
+    "id": "v_472df196",
     "word": "A possible hijacking",
     "translation": "un posible secuestro",
     "source_movie": "Non-stop",
@@ -184,15 +184,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_601d76b0",
-    "word": "Fondle (verb)",
+    "id": "v_adb20678",
+    "word": "Fondle (verbo)",
     "translation": "acariciar",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_3d4592a9",
+    "id": "v_e498c5bf",
     "word": "Fetch up",
     "translation": "buscar, ir a por, ir a buscar",
     "source_movie": "Non-stop",
@@ -200,55 +200,63 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bff9b811",
+    "id": "v_065ad7a6",
     "word": "Can we move this along?",
-    "translation": "¿Poderoso avanzar en esto?",
+    "translation": "¿Podemos avanzar en esto?",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5cb43dd5",
+    "id": "v_250c9d83",
+    "word": "What do you do for a living? (pregunta no literal)",
+    "translation": "¿A qué te dedicas?",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_625bcb41",
     "word": "Shades off",
-    "translation": "sombra apagada",
+    "translation": "sombras apagadas",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_0b593555",
+    "id": "v_13743f2a",
     "word": "Looks a hell of a lot like",
-    "translation": "se parecer muchísimo a",
+    "translation": "se parece muchísimo a",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_2ed98592",
+    "id": "v_1ec4454b",
     "word": "A background check",
-    "translation": "una comprobación de antecedente",
+    "translation": "una comprobación de antecedentes",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6b8e4056",
-    "word": "Subdue (verb)",
+    "id": "v_47bc29dc",
+    "word": "Subdue (verbo)",
     "translation": "someter",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_fa4e0d5d",
+    "id": "v_76e9ae53",
     "word": "An overtime flight",
-    "translation": "un vuelo en hora extra/extraordinaria",
+    "translation": "un vuelo en horas extras/extraordinarias",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_b4056595",
+    "id": "v_71f3218a",
     "word": "Humor me",
     "translation": "compláceme, sígueme la corriente",
     "source_movie": "Non-stop",
@@ -256,15 +264,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_0003e069",
+    "id": "v_316eb3bf",
     "word": "Yoke",
     "translation": "yugo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_7549e585",
+    "id": "v_b7371d83",
     "word": "Anaphylaxis",
     "translation": "anafilaxia",
     "source_movie": "Non-stop",
@@ -272,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_72a66b90",
+    "id": "v_b6f54712",
     "word": "My ringer off",
     "translation": "mi timbre apagado",
     "source_movie": "Non-stop",
@@ -280,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0ec7aa29",
+    "id": "v_5729aa5f",
     "word": "Carrier signal",
     "translation": "señal portadora",
     "source_movie": "Non-stop",
@@ -288,39 +296,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_94795a02",
-    "word": "An intrusion virus",
-    "translation": "un virus intruso",
+    "id": "v_2d0df6ee",
+    "word": "An intrusión virus",
+    "translation": "un virus intrusivo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1c972678",
+    "id": "v_ed2ee16d",
     "word": "Undo his seatbelt",
-    "translation": "desabrochar su cinturón de seguridad",
+    "translation": "desabrocha su cinturón de seguridad",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_3d9b8117",
-    "word": "Let's break this down (frame no literal)",
-    "translation": "amos a desglosar",
+    "id": "v_52b866aa",
+    "word": "Let's break this down (frase no literal)",
+    "translation": "vamos a desglosarlo",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_127a16a9",
+    "id": "v_a3a61aeb",
     "word": "Pick off",
     "translation": "seleccionar, elegir",
     "source_movie": "Non-stop",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_0bb2c424",
+    "id": "v_5a10a60d",
     "word": "Call sign",
     "translation": "distintivo de llamada, código de llamada",
     "source_movie": "Non-stop",
@@ -328,15 +336,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_04a833dc",
+    "id": "v_0a1e1b4c",
     "word": "Imbedded",
-    "translation": "incrustar",
+    "translation": "incrustado",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_603e676d",
+    "id": "v_fae84ab2",
     "word": "Stand by you",
     "translation": "estar a tu lado",
     "source_movie": "Non-stop",
@@ -344,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cf6b833b",
+    "id": "v_99747c1f",
     "word": "Aortic arch aneurysm",
     "translation": "aneurisma del arco aórtico",
     "source_movie": "Non-stop",
@@ -352,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c2d56551",
+    "id": "v_c5060c8e",
     "word": "A folding tray table",
     "translation": "una mesa bandeja plegable",
     "source_movie": "Non-stop",
@@ -360,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_74d3dd2b",
+    "id": "v_119fbd25",
     "word": "In the guise of an everyday passenger",
     "translation": "bajo la apariencia de un pasajero cotidiano",
     "source_movie": "Non-stop",
@@ -368,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9cbeb540",
+    "id": "v_00c8c47d",
     "word": "Concealed handgun",
     "translation": "un arma oculta",
     "source_movie": "Non-stop",
@@ -376,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e5736d6b",
+    "id": "v_a2f1cd81",
     "word": "Mess around",
     "translation": "perder el tiempo",
     "source_movie": "Non-stop",
@@ -384,15 +392,15 @@
     "global_frequency": 4
   },
   {
-    "id": "v_b501e0ba",
+    "id": "v_e480ae7b",
     "word": "Swirling around",
-    "translation": "remolinar",
+    "translation": "arremolinar",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_dfbfb0f4",
+    "id": "v_58a25b9a",
     "word": "Let's talk this through",
     "translation": "hablemos de esto",
     "source_movie": "Non-stop",
@@ -400,15 +408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_14bebc1d",
+    "id": "v_07731a10",
     "word": "Sit tight (no literal)",
-    "translation": "no te nueva",
+    "translation": "no te muevas",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_efb93fc4",
+    "id": "v_b5c06beb",
     "word": "A stark picture",
     "translation": "una imagen cruda",
     "source_movie": "Non-stop",
@@ -416,31 +424,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d226ec5a",
+    "id": "v_18c85edc",
     "word": "He became distraught",
-    "translation": "se angustia, se perturbar",
+    "translation": "se angustió, se perturbó",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_33f9524d",
+    "id": "v_440332cf",
     "word": "He became withdrawn",
-    "translation": "se volver retraído",
+    "translation": "se volvió retraído",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_6b6d99aa",
+    "id": "v_8a15bf2b",
     "word": "Individual retirement account (IRA)",
     "translation": "Cuenta de Jubilación Individual",
     "source_movie": "Non-stop",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_e2888fa4",
+    "id": "v_3028fd77",
     "word": "The final blow",
     "translation": "la estocada final, el golpe final",
     "source_movie": "Non-stop",
@@ -448,7 +456,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_de5e9cc2",
+    "id": "v_53363473",
     "word": "The worst possible outcome",
     "translation": "el peor resultado posible",
     "source_movie": "Non-stop",
@@ -456,31 +464,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_049baa37",
-    "word": "Coach (en terminus de fuels)",
+    "id": "v_1b0386c4",
+    "word": "Coach (en términos de vuelos)",
     "translation": "clase turista",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_d4d83939",
-    "word": "Nullify (verb)",
+    "id": "v_39c79778",
+    "word": "Nullify (verbo)",
     "translation": "anular",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ebc016e3",
-    "word": "Can't you get them to wire the money?",
-    "translation": "¿No pues hacer que te envío el dinero?",
+    "id": "v_517038a5",
+    "word": "You're damn straight you can (frase no literal)",
+    "translation": "claro que puedes",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_8e5ba313",
+    "id": "v_37fbef68",
+    "word": "Can't you get them to wire the money?",
+    "translation": "¿No puedes hacer que te envíen el dinero?",
+    "source_movie": "Non-stop",
+    "year_processed": "2025",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f16ff50a",
     "word": "The lowest pressure deferential",
     "translation": "la presión diferencial más baja",
     "source_movie": "Non-stop",
@@ -488,15 +504,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ed2cea10",
-    "word": "Flank (verb)",
+    "id": "v_6d1af73b",
+    "word": "Flank (verbo)",
     "translation": "flanquear",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_c755f76a",
+    "id": "v_eb32b056",
     "word": "Hold the trigger",
     "translation": "apretar el gatillo",
     "source_movie": "Non-stop",
@@ -504,7 +520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e5a65e3c",
+    "id": "v_c67dd79a",
     "word": "Outward",
     "translation": "hacia afuera",
     "source_movie": "Non-stop",
@@ -512,7 +528,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ba076540",
+    "id": "v_6a783f6a",
     "word": "Let's get this done",
     "translation": "hagámoslo, acabemos con esto",
     "source_movie": "Non-stop",
@@ -520,7 +536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_31a96994",
+    "id": "v_85b70e94",
     "word": "Lighter luggage up front",
     "translation": "equipaje más ligero delante",
     "source_movie": "Non-stop",
@@ -528,15 +544,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1b05f946",
+    "id": "v_91e35cd7",
     "word": "A displaced fracture",
-    "translation": "una fractura despiadada",
+    "translation": "una fractura desplazada",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_5faa1e0e",
+    "id": "v_aca14e77",
     "word": "Air field",
     "translation": "base aérea, campo de aviación",
     "source_movie": "Non-stop",
@@ -544,55 +560,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6403ae9c",
-    "word": "Dive (verb)",
+    "id": "v_7a791a21",
+    "word": "Dive (verbo)",
     "translation": "sumergir",
     "source_movie": "Non-stop",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 4
   },
   {
-    "id": "v_029c0df6",
-    "word": "del avion en el Ocean Atlantic",
-    "translation": "No registrada",
+    "id": "v_a3eb71d8",
+    "word": "They'll fish this plane's black box out of the Atlantic Ocean",
+    "translation": "pescarán la caja negra del avión en el Océano Atlántico",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_ff5baeb0",
+    "id": "v_2a08161f",
     "word": "Suit up",
-    "translation": "destete, monte el traje",
+    "translation": "vístete, ponte el traje",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 2
   },
   {
-    "id": "v_fc951575",
+    "id": "v_46cf2450",
     "word": "And drops us down to 8000 feet",
-    "translation": "y nos baja a 2400 metro",
+    "translation": "y nos baja a 2400 metros",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_1d5329ac",
+    "id": "v_f0f04d29",
     "word": "Come on, you wanker!",
-    "translation": "¡Amos, imbécil!",
+    "translation": "¡Vamos, imbécil!",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_f40ee32a",
+    "id": "v_39343e01",
     "word": "Climb back up to 25000 feet!",
-    "translation": "¡Vuelta a subir a 7600 metro!",
+    "translation": "¡Vuelve a subir a 7600 metros!",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_edf96a9b",
+    "id": "v_3d1a4257",
     "word": "Fuel dump",
     "translation": "descarga de combustible",
     "source_movie": "Non-stop",
@@ -600,31 +616,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c0947703",
-    "word": "Release your seatbelt!",
-    "translation": "¡Suerte sus cinturones!",
+    "id": "v_5413fa98",
+    "word": "Release your seatbelts!",
+    "translation": "¡Suelten sus cinturones!",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_55e1ed93",
+    "id": "v_6ca251b3",
     "word": "All passengers and crew accounted for",
-    "translation": "todo los pasajero y tripulación vocalizador",
+    "translation": "todos los pasajeros y tripulación localizados",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_88b412dc",
+    "id": "v_9d33b6a1",
     "word": "That was a hell of a landing",
-    "translation": "que un gran aterrizaje",
+    "translation": "fue un gran aterrizaje",
     "source_movie": "Non-stop",
     "year_processed": "2025",
     "global_frequency": 1
   },
   {
-    "id": "v_4236ed1c",
+    "id": "v_79205272",
     "word": "Mid-air",
     "translation": "en el aire, en pleno vuelo",
     "source_movie": "Non-stop",

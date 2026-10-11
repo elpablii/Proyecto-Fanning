@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_1fc043c0",
+    "id": "v_c9958171",
     "word": "Showers developing (en meteorología)",
     "translation": "chubascos, lluvias intermitentes",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bafc7874",
+    "id": "v_688fb21e",
     "word": "A half beat",
     "translation": "a medio compás",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -16,15 +16,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ff38625b",
+    "id": "v_35a5dbaf",
     "word": "Tricky",
     "translation": "complicado, difícil",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_c4070afc",
+    "id": "v_4eaff576",
     "word": "Rushed it (expresión)",
     "translation": "me precipité, lo hice con prisa",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -32,7 +32,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1fb0fab8",
+    "id": "v_a5e1ee93",
     "word": "Slate you're name for the camera",
     "translation": "escribe tu nombre para la cámara",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -40,7 +40,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0d0f5047",
+    "id": "v_921f21de",
+    "word": "I thought they were out of business (frase no literal)",
+    "translation": "creía que ya no existían",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_75111ae9",
+    "word": "These are moments of real, honest-to-goodness truth in performance",
+    "translation": "son momentos de verdad auténtica y genuina en la actuación",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_43cd6b29",
     "word": "Crap out (en sentido electrónico)",
     "translation": "fallar",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -48,7 +64,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1f179ca6",
+    "id": "v_2e18edde",
     "word": "So very hard (frase no literal)",
     "translation": "con mucha fuerza, con todas tus fuerzas",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -56,7 +72,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e045b7bd",
+    "id": "v_cf975b0d",
+    "word": "No matter how this plays out (frase no literal)",
+    "translation": "no importa cómo termine esto",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f62d0f47",
     "word": "Mush (en emociones)",
     "translation": "sentimental, blando",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -64,7 +88,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5cf8dc6e",
+    "id": "v_4111891f",
     "word": "Humor me for a second (frase no literal)",
     "translation": "sigueme la corriente por un momento",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -72,7 +96,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_281a3373",
+    "id": "v_c15e7a1a",
     "word": "Mom was homesick (frase no literal)",
     "translation": "mamá extrañaba su hogar",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -80,31 +104,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5eb06ce1",
+    "id": "v_1b583b8f",
     "word": "Sniff (verbo)",
     "translation": "resoplar",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 8
   },
   {
-    "id": "v_9f0ac17e",
+    "id": "v_16172f39",
     "word": "Speck",
     "translation": "mota",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_fb29f248",
-    "word": "aclarado eso",
-    "translation": "No registrada",
+    "id": "v_42d9d332",
+    "word": "I'm glad we got that out of the way (frase no literal)",
+    "translation": "me alegro de que hayamos aclarado eso",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_48bc44b8",
+    "id": "v_31ecb3bd",
+    "word": "Look out (no alusivo a alertar a una persona de tener cuidado)",
+    "translation": "mirar hacia afuera",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d992c8da",
     "word": "Unshelled",
     "translation": "sin cáscara",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -112,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2b7058da",
+    "id": "v_894944b2",
     "word": "Catwalk",
     "translation": "pasarela",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -120,31 +152,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c6b657f",
+    "id": "v_450f025f",
     "word": "Get ahead",
     "translation": "salir adelante, progresar",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_7359ee35",
+    "id": "v_7718e9b6",
     "word": "Clear-eyed and eager, anxious to rise",
-    "translation": "con la mirada clara y ansioso, deseoso de",
+    "translation": "con la mirada clara y ansioso, deseoso de ascender",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_9dfbd7fc",
-    "word": "ascender",
-    "translation": "No registrada",
-    "source_movie": "A Big Bold Beautiful Journey",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_77752794",
+    "id": "v_d82fd2d9",
     "word": "The lead",
     "translation": "el protagonista",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -152,7 +176,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a9d49177",
+    "id": "v_6d3f3b96",
     "word": "You know the bit in",
     "translation": "ya sabes, la parte",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -160,23 +184,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_06a17c11",
+    "id": "v_412ed680",
     "word": "Commute (verbo)",
     "translation": "desplazarse",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_20fe6f2a",
+    "id": "v_1d826cd7",
     "word": "Weary",
     "translation": "cansado",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_aab9d11b",
+    "id": "v_f4b7e839",
     "word": "While he goes onward and upward",
     "translation": "mientras él sigue adelante y hacia arriba",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -184,7 +208,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f545f9dd",
+    "id": "v_fce3ed29",
     "word": "He comes wearily home",
     "translation": "él llega a casa",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -192,7 +216,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_45a3ed21",
+    "id": "v_88a915d0",
     "word": "I care about you",
     "translation": "me preocupo por ti",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -200,15 +224,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_16054d68",
+    "id": "v_90b299fa",
+    "word": "Would you look at that? (parcialmente no literal)",
+    "translation": "¿Te has fijado en eso?",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_54dde643",
     "word": "Clerk",
     "translation": "empleado",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_83834bd9",
+    "id": "v_c201b10b",
     "word": "Tick away",
     "translation": "trabajar sin descanso",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -216,7 +248,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_feb7f912",
+    "id": "v_86e9d630",
     "word": "Quite a thing",
     "translation": "algo importante",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -224,7 +256,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1436f9f3",
+    "id": "v_c498679e",
     "word": "A dear",
     "translation": "un encanto",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -232,7 +264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b3407451",
+    "id": "v_2e531b71",
     "word": "Thanks for the save",
     "translation": "gracias por salvarme",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -240,15 +272,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e4b0afc2",
+    "id": "v_4fbf9e05",
     "word": "Dork",
     "translation": "tonto, idiota",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
-    "id": "v_9632bdb4",
+    "id": "v_4a91caed",
     "word": "Anyone was worth the chase",
     "translation": "cualquiera valía/merecía la pena seguirlo",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -256,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cdd75586",
+    "id": "v_1ebe9e99",
     "word": "Which you kind of nailed",
     "translation": "lo cual has clavado",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -264,7 +296,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2f7b03b1",
+    "id": "v_99dc9803",
+    "word": "I was screwing my professor (frase no literal)",
+    "translation": "estaba acostándome con mi profesora",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_369042b6",
     "word": "Without a hint of annoyance",
     "translation": "sin mostrar ningún indicio de molestia",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -272,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f2ef0024",
+    "id": "v_0f4db4f3",
     "word": "Patent ductus arter",
     "translation": "conducto arterioso persistente",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -280,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d35e9aa",
+    "id": "v_7cc5698a",
     "word": "The overlook scenic",
     "translation": "el mirador panorámico",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -288,15 +328,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91192be0",
+    "id": "v_de128906",
     "word": "No peeking",
     "translation": "sin mirar",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_58a01635",
+    "id": "v_2c010908",
     "word": "She wasn't gone long",
     "translation": "ella no tardo mucho en volver",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -304,7 +344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7090942c",
+    "id": "v_fb13264c",
     "word": "Move forward (verbo)",
     "translation": "avanzar, seguir adelante, progresar",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -312,15 +352,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a464b1c2",
+    "id": "v_715ce141",
     "word": "A smidge",
     "translation": "un poquito",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_502c4af0",
+    "id": "v_59e13a51",
     "word": "Soulful music",
     "translation": "música conmovedora",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -328,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a7fcf8e4",
+    "id": "v_f502f523",
     "word": "A comfort",
     "translation": "un consuelo",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -336,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_986a86c9",
+    "id": "v_94d2c2f3",
     "word": "I would have felt taken care of (no literal)",
     "translation": "me habría sentido bien atendido",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -344,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d248468c",
+    "id": "v_aca37c96",
     "word": "Rulebook",
     "translation": "reglamento",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -352,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a3d7882c",
+    "id": "v_a9984d17",
     "word": "How lovely a time we're having?",
     "translation": "¿Qué tan agradable lo estamos pasando?",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -360,7 +400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7ce30d2c",
+    "id": "v_c5ff874d",
     "word": "I leave you tonight",
     "translation": "esta noche me voy",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -368,15 +408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ebeff95b",
-    "word": "insistencia",
-    "translation": "No registrada",
+    "id": "v_e21285c3",
+    "word": "You chased after me so hard (parcialmente no literal)",
+    "translation": "me perseguiste con tanta insistencia",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c742e984",
+    "id": "v_f8a22c01",
     "word": "Won me over (no literal)",
     "translation": "me convenció",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -384,15 +424,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d2dbf5fb",
-    "word": "literal)",
+    "id": "v_c81e0ac9",
+    "word": "Thought of coming home to you every day made me break out into hives (frase no literal)",
     "translation": "la idea de volver a casa contigo cada día me provocaba urticaria",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 1
   },
   {
-    "id": "v_2e89ecb1",
+    "id": "v_2e486249",
     "word": "We just dug fairly fucking deep",
     "translation": "simplemente cavamos bastante profundo",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -400,7 +440,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e718e63d",
+    "id": "v_8ba1c864",
     "word": "I was really into you (frase no literal)",
     "translation": "estaba realmente enamorado de ti",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -408,23 +448,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8124b80e",
+    "id": "v_4083ddf1",
     "word": "Hard pass (expresión)",
     "translation": "no gracias, ni hablar",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_2974fe7a",
+    "id": "v_50c8b740",
     "word": "Please (verbo)",
     "translation": "complacer",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 5
   },
   {
-    "id": "v_faccdaa5",
+    "id": "v_5248b131",
     "word": "All becomes meaningless",
     "translation": "todo pierde sentido",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -432,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_41e37541",
+    "id": "v_242fadb5",
     "word": "I'm about as fucking empty",
     "translation": "estoy tan jodidamente vacío",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -440,7 +480,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e04ff479",
+    "id": "v_3cc5c28b",
     "word": "With a little bit left",
     "translation": "con un poco restante",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -448,7 +488,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_63239b5b",
+    "id": "v_91f234ad",
     "word": "Drinker",
     "translation": "bebedor",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -456,7 +496,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1c0b94ce",
+    "id": "v_4e5d0b98",
+    "word": "That awful girl crushed him (en sentido emocional)",
+    "translation": "esa horrible chica lo destrozó",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cac27d8f",
     "word": "Break you right back",
     "translation": "te romper de vuelta",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -464,7 +512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_792da03f",
+    "id": "v_b787c9bc",
     "word": "When I’m bent over",
     "translation": "cuando me incline",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -472,23 +520,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_440395d2",
+    "id": "v_2e486782",
     "word": "I'm sorry you're hurtling (frase no literal)",
-    "translation": "lamento que estés pasando por un mal",
+    "translation": "lamento que estés pasando por un mal momento",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_17521b82",
-    "word": "momento",
-    "translation": "No registrada",
-    "source_movie": "A Big Bold Beautiful Journey",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_0bec8cba",
+    "id": "v_d97cf374",
     "word": "You're really getting into it",
     "translation": "realmente te estás metiendo en ello",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -496,15 +536,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_597b6e16",
-    "word": "Tuck in",
-    "translation": "arropar",
+    "id": "v_c34aa638",
+    "word": "You can make yourself crazy (parcialmente no literal)",
+    "translation": "puedes volverte loco/loca",
     "source_movie": "A Big Bold Beautiful Journey",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b45a817c",
+    "id": "v_ec0eb1e4",
+    "word": "Tuck in",
+    "translation": "arropar",
+    "source_movie": "A Big Bold Beautiful Journey",
+    "year_processed": "2026",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_ec545e61",
     "word": "Snuggy bunny",
     "translation": "conejito mimoso",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -512,7 +560,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_78e7ff21",
+    "id": "v_d8c7c4ab",
     "word": "Get so good",
     "translation": "volverse tan bueno",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -520,7 +568,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_87b40d32",
+    "id": "v_521ae975",
     "word": "Match (verbo en parejas)",
     "translation": "emparejar",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -528,7 +576,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2c8a8d04",
+    "id": "v_6f9b35bc",
     "word": "Sarah made a good understudy",
     "translation": "Sarah fue una buena suplente",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -536,7 +584,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e3c9efe5",
+    "id": "v_ebf7e23d",
     "word": "Deep lake diving in",
     "translation": "buceo en lagos profundos",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -544,7 +592,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bdc3995c",
+    "id": "v_599f761e",
     "word": "I long to be held (frase no literal)",
     "translation": "anhelo que me abracen",
     "source_movie": "A Big Bold Beautiful Journey",
@@ -552,7 +600,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_19d1492c",
+    "id": "v_a5066698",
     "word": "Kindred soul",
     "translation": "alma gemela",
     "source_movie": "A Big Bold Beautiful Journey",

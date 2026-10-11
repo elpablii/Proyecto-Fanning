@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_ce505fa3",
+    "id": "v_fcbb2d93",
     "word": "Sputter (verbo en motores)",
     "translation": "petardear",
     "source_movie": "The Motel Life",
@@ -8,7 +8,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_472b24b6",
+    "id": "v_69dc6c54",
     "word": "Fool (verbo)",
     "translation": "engañar",
     "source_movie": "The Motel Life",
@@ -16,7 +16,15 @@
     "global_frequency": 5
   },
   {
-    "id": "v_2d9b0f39",
+    "id": "v_3703692a",
+    "word": "You were on a roll so you got a room and became a shut-in",
+    "translation": "estabas en racha, así que te buscaste una habitación y te convertiste en un recluso",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_06c49a60",
     "word": "But it sure beat working (frase no literal)",
     "translation": "pero era mejor que trabajar",
     "source_movie": "The Motel Life",
@@ -24,15 +32,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ab25442a",
+    "id": "v_ff7b6667",
     "word": "The nerve (no literal)",
     "translation": "el valor",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_d907ae28",
+    "id": "v_318010e1",
     "word": "I'm getting a check for him",
     "translation": "voy a buscar un cheque para él",
     "source_movie": "The Motel Life",
@@ -40,7 +48,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_92b6ab35",
+    "id": "v_3a3175f2",
+    "word": "I'm down a couple grand (informal y no literal)",
+    "translation": "he perdido un par de miles de dólares",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d7e8ef64",
     "word": "Loony bin",
     "translation": "manicomio",
     "source_movie": "The Motel Life",
@@ -48,7 +64,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c3320a20",
+    "id": "v_89460bb6",
     "word": "Cranberry",
     "translation": "arándanos rojos",
     "source_movie": "The Motel Life",
@@ -56,15 +72,15 @@
     "global_frequency": 3
   },
   {
-    "id": "v_02e34e62",
-    "word": "mofeta muerta",
-    "translation": "No registrada",
+    "id": "v_abb01b2b",
+    "word": "We're gonna eat the ass-end out of a dead skunk",
+    "translation": "vamos a comernos el culo de una mofeta muerta",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_8ebbd329",
+    "id": "v_a0b18e69",
     "word": "Can we leave leave?",
     "translation": "¿Podemos irnos?",
     "source_movie": "The Motel Life",
@@ -72,15 +88,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2126d5ad",
-    "word": "tuyo en un atropello con fuga",
-    "translation": "No registrada",
+    "id": "v_e16b64c7",
+    "word": "An old beat-up car like yours in a hit-and-run",
+    "translation": "un coche viejo y destartalado como el tuyo en un atropello con fuga",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b7dad3a6",
+    "id": "v_5e199f8a",
     "word": "Gold-plated",
     "translation": "chapada en oro",
     "source_movie": "The Motel Life",
@@ -88,7 +104,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d8394909",
+    "id": "v_9cbe3d10",
     "word": "Lucky streaks",
     "translation": "rachas de buena suerte",
     "source_movie": "The Motel Life",
@@ -96,7 +112,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9c93972e",
+    "id": "v_f24e315d",
     "word": "Lot (sustantivo)",
     "translation": "parcela, propiedad",
     "source_movie": "The Motel Life",
@@ -104,15 +120,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a349c1a5",
+    "id": "v_017c8502",
     "word": "Set up",
     "translation": "establecer",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 6
   },
   {
-    "id": "v_1e0d0062",
+    "id": "v_6d8b819b",
     "word": "Redneck (informal)",
     "translation": "paleto",
     "source_movie": "The Motel Life",
@@ -120,7 +136,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_57b3ad10",
+    "id": "v_bead246e",
     "word": "Vegetarian joint (no literal)",
     "translation": "restaurante vegetariano",
     "source_movie": "The Motel Life",
@@ -128,7 +144,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d6765ce7",
+    "id": "v_a1165f02",
     "word": "They pushed me down",
     "translation": "me empujaron al suelo",
     "source_movie": "The Motel Life",
@@ -136,15 +152,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_958b76c1",
-    "word": "Curl up",
-    "translation": "acurrucarse",
+    "id": "v_b0ff55f3",
+    "word": "They kicked the shit outta me (frase no literal)",
+    "translation": "me dieron una paliza brutal",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b8641f07",
+    "id": "v_fa2b8e68",
+    "word": "Curl up",
+    "translation": "acurrucarse",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_dd4d6f09",
     "word": "Sick fuck",
     "translation": "enfermo de mierda",
     "source_movie": "The Motel Life",
@@ -152,23 +176,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_58c32a17",
+    "id": "v_eeef9863",
+    "word": "I wouldn't bet dead dick on him (frase no literal)",
+    "translation": "no apostaría ni un centavo por él",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_10bbb07e",
+    "word": "He's gonna bust the shit out of him (frase no literal)",
+    "translation": "él le va a dar una paliza",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_bae00bc2",
     "word": "We're almost ninety seconds in and as yet",
-    "translation": "ya han pasado casi noventa segundos y",
+    "translation": "ya han pasado casi noventa segundos y todavía",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b8ece808",
-    "word": "todavía",
-    "translation": "No registrada",
-    "source_movie": "The Motel Life",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_886e1c23",
+    "id": "v_e4bb442e",
     "word": "Wobble (verbo)",
     "translation": "tambalearse",
     "source_movie": "The Motel Life",
@@ -176,7 +208,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_eedf02f3",
+    "id": "v_9d9d8808",
     "word": "Move out of the way",
     "translation": "quítense del medio",
     "source_movie": "The Motel Life",
@@ -184,23 +216,39 @@
     "global_frequency": 2
   },
   {
-    "id": "v_9d51ddeb",
-    "word": "fuera",
-    "translation": "No registrada",
-    "source_movie": "The Motel Life",
-    "year_processed": "2026",
-    "global_frequency": 3
-  },
-  {
-    "id": "v_d062d69b",
-    "word": "de dólares",
-    "translation": "No registrada",
+    "id": "v_4cbb0c1f",
+    "word": "Now that we've got some dough (frase no literal)",
+    "translation": "ahora que tenemos algo de dinero",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_b06b3624",
+    "id": "v_ceff30e6",
+    "word": "It's goddamned Ice-land out there (frase no literal)",
+    "translation": "hace un frío que te cagas ahí fuera",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3b0e2023",
+    "word": "You have anything in that ballpark? (pregunta no literal)",
+    "translation": "¿Tienes algo por ahí?",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_090d1014",
+    "word": "I'll knock off a couple of hundred (informal y no literal)",
+    "translation": "te dejaré un par de cientos de dólares",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a1f2fba4",
     "word": "A low-life",
     "translation": "un miserable, un don nadie",
     "source_movie": "The Motel Life",
@@ -208,15 +256,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_11f975d9",
+    "id": "v_051f8aba",
     "word": "Broad",
     "translation": "tipa, mujeres",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_921e4960",
+    "id": "v_282a1dd3",
     "word": "His queen smiled low and blissfully",
     "translation": "su reina sonrió con dulzura y felicidad",
     "source_movie": "The Motel Life",
@@ -224,7 +272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_45d5a5f2",
+    "id": "v_2058855a",
     "word": "Let's make some wretched fool to play",
     "translation": "hagamos que algún tonto desgraciado juegue",
     "source_movie": "The Motel Life",
@@ -232,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_721215d1",
+    "id": "v_c046422f",
     "word": "Plain it was she did agree",
     "translation": "es evidente que ella aceptó",
     "source_movie": "The Motel Life",
@@ -240,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1e2cedc2",
+    "id": "v_ae3a2ccb",
     "word": "They voted club the days commander",
     "translation": "votaron al comandante del club ese día",
     "source_movie": "The Motel Life",
@@ -248,15 +296,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b7e36d4",
-    "word": "valet de diamantes",
-    "translation": "No registrada",
+    "id": "v_50d39e93",
+    "word": "All but the outlaw jack of diamonds (traducción aproximada no literal)",
+    "translation": "todos menos el valet de diamantes",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_43751412",
+    "id": "v_fc61adcb",
     "word": "Spirit me a game of stud",
     "translation": "enséñame a jugar al stud",
     "source_movie": "The Motel Life",
@@ -264,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1c4d5c23",
+    "id": "v_d7ad2ce6",
     "word": "Stakes unscarred by limitation",
     "translation": "apuestas sin limitaciones",
     "source_movie": "The Motel Life",
@@ -272,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_308b8dd4",
+    "id": "v_5c3d17aa",
     "word": "Lay them raises down",
     "translation": "déjalos en el suelo",
     "source_movie": "The Motel Life",
@@ -280,15 +328,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c2a88ac0",
+    "id": "v_104f7b73",
     "word": "Mournful",
     "translation": "triste, melancólico",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_34fdb3a6",
+    "id": "v_4e1ed30f",
     "word": "We got shanghaied (no literal)",
     "translation": "nos secuestraron",
     "source_movie": "The Motel Life",
@@ -296,7 +344,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0ca8dbb6",
+    "id": "v_64564974",
     "word": "Swan dive",
     "translation": "zambullida de cisne",
     "source_movie": "The Motel Life",
@@ -304,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_98038d2f",
+    "id": "v_b235b539",
     "word": "We washed ashore (no literal)",
     "translation": "nos arrastró la marea hasta la orilla",
     "source_movie": "The Motel Life",
@@ -312,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b88ab098",
+    "id": "v_fefc56c6",
     "word": "We were nursed back to health",
     "translation": "nos cuidaron hasta que recuperamos la salud",
     "source_movie": "The Motel Life",
@@ -320,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d40fa29d",
+    "id": "v_3483e0bc",
     "word": "Quack (verbo)",
     "translation": "graznar",
     "source_movie": "The Motel Life",
@@ -328,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e8061599",
+    "id": "v_650ce2a8",
     "word": "I'm in so deep",
     "translation": "estoy tan metido en esto",
     "source_movie": "The Motel Life",
@@ -336,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_735fdf57",
+    "id": "v_80bd493f",
     "word": "Your heart is strained",
     "translation": "tu corazón está tenso",
     "source_movie": "The Motel Life",
@@ -344,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c50ff06b",
+    "id": "v_8327d1aa",
     "word": "Tomahawk (sustantivo común)",
     "translation": "hacha de guerra",
     "source_movie": "The Motel Life",
@@ -352,7 +400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_95863488",
+    "id": "v_6c39ce1b",
     "word": "Popsicles",
     "translation": "helados, palitos de hielo",
     "source_movie": "The Motel Life",
@@ -360,7 +408,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e341abeb",
+    "id": "v_783ad940",
     "word": "The real bad-ass (no literal)",
     "translation": "la auténtica rebelde",
     "source_movie": "The Motel Life",
@@ -368,7 +416,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9aad7615",
+    "id": "v_787bfc26",
     "word": "Alright out your head under",
     "translation": "muy bien, saca la cabeza de ahí",
     "source_movie": "The Motel Life",
@@ -376,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e3962dac",
+    "id": "v_38f95d1c",
     "word": "We'll get the back (frase no literal)",
     "translation": "nosotros nos encargaremos de la parte trasera",
     "source_movie": "The Motel Life",
@@ -384,7 +432,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fc1e10b8",
+    "id": "v_a74e0a33",
     "word": "Slashing tires",
     "translation": "cortar los neumáticos",
     "source_movie": "The Motel Life",
@@ -392,7 +440,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bcc6d162",
+    "id": "v_174979d6",
+    "word": "This bombshell Iris walked onto the lot with Biff (frase no literal)",
+    "translation": "esta bomba sexy llamada Iris entró en el aparcamiento con Biff",
+    "source_movie": "The Motel Life",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1e73eed6",
     "word": "A great dane Russian wolf hound cross",
     "translation": "un cruce entre gran danés y perro lobo ruso",
     "source_movie": "The Motel Life",
@@ -400,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_279f5262",
+    "id": "v_9e4695d1",
     "word": "Trickle down",
     "translation": "fluir",
     "source_movie": "The Motel Life",
@@ -408,7 +464,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a968b112",
+    "id": "v_708567c5",
     "word": "Move apart",
     "translation": "separar",
     "source_movie": "The Motel Life",
@@ -416,7 +472,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f29232a3",
+    "id": "v_39bcff18",
     "word": "They pull dover on a dirt road",
     "translation": "se detienen en un camino de tierra",
     "source_movie": "The Motel Life",
@@ -424,15 +480,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b9746abb",
+    "id": "v_f9e6ff66",
     "word": "Crate",
     "translation": "caja, cajón",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 5
   },
   {
-    "id": "v_1c88ba62",
+    "id": "v_a5b62920",
     "word": "The path to righteousness",
     "translation": "el camino hacia la rectitud",
     "source_movie": "The Motel Life",
@@ -440,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_cd36a529",
+    "id": "v_8c44335f",
     "word": "She took dad aside",
     "translation": "ella se llevó a papá aparte",
     "source_movie": "The Motel Life",
@@ -448,7 +504,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c9a56d6",
+    "id": "v_feb96b1e",
     "word": "I'll walk you out (frase no literal)",
     "translation": "te acompaño hasta la salida",
     "source_movie": "The Motel Life",
@@ -456,7 +512,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5d6d55e1",
+    "id": "v_ce9169ca",
     "word": "I gotta take a leak (frase no literal)",
     "translation": "tengo que ir al baño",
     "source_movie": "The Motel Life",
@@ -464,15 +520,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ff87e344",
-    "word": "adentro",
-    "translation": "No registrada",
+    "id": "v_f1c95e76",
+    "word": "It's not good to hold things in (en sentido emocional)",
+    "translation": "no es bueno guardarse las cosas adentro",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_fb4e25bb",
+    "id": "v_43e34298",
     "word": "Bare",
     "translation": "desnudo",
     "source_movie": "The Motel Life",
@@ -480,7 +536,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_42d1f408",
+    "id": "v_706f6448",
     "word": "Her mom's a hooker for chrissakes",
     "translation": "su madre es una puta por el amor de Dios",
     "source_movie": "The Motel Life",
@@ -488,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9708b0a5",
+    "id": "v_ca72e550",
     "word": "We're fuck-ups",
     "translation": "somos unos fracasados",
     "source_movie": "The Motel Life",
@@ -496,7 +552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_245db8c6",
+    "id": "v_a21ee2c8",
     "word": "Your pearl-handled .45",
     "translation": "tu .45 con empuñadura de nácar",
     "source_movie": "The Motel Life",
@@ -504,23 +560,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_37a70731",
-    "word": "Aérea",
-    "translation": "No registrada",
+    "id": "v_bdfb8d58",
+    "word": "You take out your Air Force issue pocket knife",
+    "translation": "sacas tu navaja militar de la Fuerza Aérea",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_c69845cc",
-    "word": "de su culo",
-    "translation": "No registrada",
+    "id": "v_5af0089c",
+    "word": "If he isn't doing a line of cocaine off her ass",
+    "translation": "si no está esnifando una raya de cocaína de su culo",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_6e3acbee",
+    "id": "v_d948a32f",
     "word": "Antler",
     "translation": "cornamenta, cuerno",
     "source_movie": "The Motel Life",
@@ -528,23 +584,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_93d3007c",
+    "id": "v_e931594f",
     "word": "Squirt (verbo)",
     "translation": "salpicar",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_24c7c4a7",
-    "word": "máximos de 100 años",
-    "translation": "No registrada",
+    "id": "v_c6636d24",
+    "word": "Oil starts shooting out 100 years high (no literal)",
+    "translation": "el petróleo comienza a dispararse a máximos de 100 años",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_77ab44ba",
+    "id": "v_13735037",
     "word": "Monitor flatlines (acotación)",
     "translation": "monitor sin actividad",
     "source_movie": "The Motel Life",
@@ -552,7 +608,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_917ffd3c",
+    "id": "v_63da33a8",
     "word": "Lounge",
     "translation": "salón",
     "source_movie": "The Motel Life",
@@ -560,7 +616,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b2b6c84",
+    "id": "v_582cf077",
     "word": "They had busted up (frase no literal)",
     "translation": "ellos habían roto, ellos se habían separado",
     "source_movie": "The Motel Life",
@@ -568,17 +624,17 @@
     "global_frequency": 1
   },
   {
-    "id": "v_037029cc",
+    "id": "v_d13cb865",
     "word": "Grease (verbo)",
     "translation": "engrasar",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_a7df3048",
-    "word": "terraza por los pies",
-    "translation": "No registrada",
+    "id": "v_b2567dd8",
+    "word": "A redhead who's hang me off the deck by my feet",
+    "translation": "una pelirroja que me cuelga de la terraza por los pies",
     "source_movie": "The Motel Life",
     "year_processed": "2026",
     "global_frequency": 1

@@ -36,8 +36,8 @@
       "translation": "ser amable"
     },
     {
-      "word": "dos padrinos aquí presentes",
-      "translation": "No registrada"
+      "word": "I gather from your two godfathers here (parcialmente no literal)",
+      "translation": "por lo que veo, tus dos padrinos aquí presentes"
     },
     {
       "word": "The martyred wife",
@@ -48,8 +48,8 @@
       "translation": "engullir, devorar"
     },
     {
-      "word": "pagar las cuentas",
-      "translation": "No registrada"
+      "word": "I'm scraping to pay the bills (parcialmente no literal)",
+      "translation": "estoy hacienda lo imposible para pagar las cuentas"
     },
     {
       "word": "Sod off (verbo frasal despectivo)",
@@ -62,6 +62,10 @@
     {
       "word": "It makes him think of slippers by the fire",
       "translation": "le hace pensar en pantuflas junto al fuego"
+    },
+    {
+      "word": "She just bursts into tears (frase no literal)",
+      "translation": "ella simplemente se pone a llorar"
     },
     {
       "word": "On an on (no literal)",
@@ -159,5 +163,7 @@
       "https://image.tmdb.org/t/p/w780/6sF6r8zdVeWh1UwHIYiFExzYFCZ.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 37,
+  "dialogues": 904
 }

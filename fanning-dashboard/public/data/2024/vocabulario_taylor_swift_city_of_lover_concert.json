@@ -1,30 +1,30 @@
 [
   {
-    "id": "v_a7d7d520",
+    "id": "v_1aecb8b4",
     "word": "I’m a handful, baby",
-    "translation": "son un poco difícil, cariño",
+    "translation": "soy un poco difícil, cariño",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ff9f3b07",
+    "id": "v_fd94d1e3",
     "word": "Never leave well enough alone",
-    "translation": "nunca dejo las cosa bien hecha",
+    "translation": "nunca dejo las cosas bien hechas",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_fb401d43",
+    "id": "v_c401000c",
     "word": "Walk away",
-    "translation": "alejar, se examinando",
+    "translation": "alejarse, irse caminando",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 4
+    "global_frequency": 6
   },
   {
-    "id": "v_8f8ca559",
+    "id": "v_9cce9d87",
     "word": "Strike the band up",
     "translation": "toca la banda",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -32,15 +32,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a948fdaf",
-    "word": "Snapshot (en terminus fotográficos)",
+    "id": "v_3c063c46",
+    "word": "Snapshot (en términos fotográficos)",
     "translation": "instantánea, foto",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a7ee4de3",
+    "id": "v_8d7e3191",
     "word": "Go along",
     "translation": "acompañar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -48,31 +48,31 @@
     "global_frequency": 4
   },
   {
-    "id": "v_38e89aec",
+    "id": "v_6763b7db",
     "word": "Thrown-out speeches",
-    "translation": "discurso descarado",
+    "translation": "discursos descartados",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_46ed9f23",
+    "id": "v_235fc97b",
     "word": "I ride off alone",
-    "translation": "me hoy sola",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 3
-  },
-  {
-    "id": "v_9a161432",
-    "word": "Hold onto",
-    "translation": "acarrarse, aferrar",
+    "translation": "me voy sola",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_b4167cf7",
+    "id": "v_ab5fd31a",
+    "word": "Hold onto",
+    "translation": "agarrarse, aferrarse",
+    "source_movie": "Taylor Swift City of Lover Concert",
+    "year_processed": "2024",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_2b738f76",
     "word": "Search for",
     "translation": "buscar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8653344c",
+    "id": "v_3d4f8b18",
     "word": "Cut off",
     "translation": "cortar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -88,23 +88,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_8e9900b6",
-    "word": "Spite (verb)",
+    "id": "v_91e2c312",
+    "word": "Spite (verbo)",
     "translation": "fastidiar, mortificar, herir",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 5
   },
   {
-    "id": "v_fc3026a8",
-    "word": "Pace (verb)",
+    "id": "v_0e92808f",
+    "word": "Pace (verbo)",
     "translation": "caminar de un lado a otro",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 3
   },
   {
-    "id": "v_3ddcf67c",
+    "id": "v_232ca438",
     "word": "Board up",
     "translation": "tapiar, tapizar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -112,15 +112,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_68b1e1fc",
+    "id": "v_9d679071",
     "word": "Chandelier’s still flickering here",
-    "translation": "el candelabro sigua parpadeando aquí",
+    "translation": "el candelabro sigue parpadeando aquí",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_5e88d9bc",
+    "id": "v_00ce3013",
     "word": "United we stand",
     "translation": "permanecemos unidos",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -128,7 +128,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_dd2c010b",
+    "id": "v_1c047b61",
     "word": "A lawless land",
     "translation": "una tierra sin ley",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -136,39 +136,31 @@
     "global_frequency": 2
   },
   {
-    "id": "v_3d2b1888",
-    "word": "Quiet (verb)",
+    "id": "v_2cc4a6b4",
+    "word": "Quiet (verbo)",
     "translation": "calmar, apaciguar",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_d9d7ef9d",
+    "id": "v_68003a2c",
     "word": "Paper cut stings from our paper-thin plans",
-    "translation": "las cortadura de papel orden a causa de",
+    "translation": "las cortaduras de papel arden a causa de nuestros planes frágiles como el papel",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_3143d6e4",
-    "word": "maestros planes fragile como el paper",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_efa621b6",
+    "id": "v_dfd50f59",
     "word": "Take up",
     "translation": "tomar (algo)",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_bc22c8ad",
+    "id": "v_50cf84a6",
     "word": "Bathtub",
     "translation": "bañera, tina de baño",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -176,15 +168,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1f03bca2",
+    "id": "v_2fe4b40c",
     "word": "But a lot of the time",
-    "translation": "pero mucha veras",
+    "translation": "pero muchas veces",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_52281fb6",
+    "id": "v_17e6c088",
     "word": "Drunk on something stronger",
     "translation": "borracho de algo más fuerte",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -192,7 +184,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2d4ce936",
+    "id": "v_58cb4f7d",
     "word": "Streetlight",
     "translation": "farola",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -200,7 +192,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_3e791721",
+    "id": "v_195a8372",
     "word": "Arrowhead",
     "translation": "punta de flecha",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -208,23 +200,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9d790df5",
+    "id": "v_281f40a2",
     "word": "Heartbreak",
     "translation": "angustia, desamor",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_fe9ba735",
-    "word": "Mend (verb)",
+    "id": "v_dcf27832",
+    "word": "Mend (verbo)",
     "translation": "arreglar, remediar, reparar",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
-    "id": "v_cae5b53a",
+    "id": "v_b5bdc399",
     "word": "I get mystified",
     "translation": "me quedo desconcertada",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -232,39 +224,39 @@
     "global_frequency": 1
   },
   {
-    "id": "v_13389162",
+    "id": "v_53fed9cf",
     "word": "Windows flung right open",
-    "translation": "ventana abierta de par en par",
+    "translation": "ventanas abiertas de par en par",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a094d1ba",
-    "word": "Creaks (substantive)",
-    "translation": "crujido",
+    "id": "v_78d5bd9e",
+    "word": "Creaks (sustantivo)",
+    "translation": "crujidos",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_fda1dfad",
+    "id": "v_38cb2162",
     "word": "Card sharks",
-    "translation": "tahúr",
+    "translation": "tahúres",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_ccb33385",
+    "id": "v_3179d57c",
     "word": "Lead on",
     "translation": "guiar, dirigir",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_235946e8",
+    "id": "v_17fec7ce",
     "word": "Barefoot",
     "translation": "descalzo",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -272,55 +264,55 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5d5d9b43",
+    "id": "v_fb200d99",
     "word": "Sacred new beginnings",
-    "translation": "nuevo comienzo sagrado",
+    "translation": "nuevos comienzos sagrados",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_2d71094c",
+    "id": "v_4b2d492c",
     "word": "What’s that like?",
-    "translation": "¿Como es eso?",
+    "translation": "¿Cómo es eso?",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_71b68051",
-    "word": "Hustle (verb)",
-    "translation": "dares prisa, apresurar",
+    "id": "v_01b6cb38",
+    "word": "Hustle (verbo)",
+    "translation": "darse prisa, apresurarse",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
-    "id": "v_40402a55",
-    "word": "dares",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_45a7626c",
-    "word": "Flash (verb)",
-    "translation": "mostrar, destellar, brillar",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 3
-  },
-  {
-    "id": "v_603fa696",
-    "word": "Ballet",
-    "translation": "bailarín",
+    "id": "v_3c8618a5",
+    "word": "What’s it like to brag about raking in dollars",
+    "translation": "qué se siente alardear de embolsar dólares",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_6a320feb",
+    "id": "v_dbb242e2",
+    "word": "Flash (verbo)",
+    "translation": "mostrar, destellar, brillar",
+    "source_movie": "Taylor Swift City of Lover Concert",
+    "year_processed": "2024",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_e0592692",
+    "word": "Baller",
+    "translation": "bailarín",
+    "source_movie": "Taylor Swift City of Lover Concert",
+    "year_processed": "2024",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_c818ebec",
     "word": "Paint out",
     "translation": "pintar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -328,7 +320,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_da33ce7b",
+    "id": "v_74d84e66",
     "word": "Unforgiven",
     "translation": "sin perdón",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -336,31 +328,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ad587456",
+    "id": "v_01691d19",
     "word": "Lucky of the draw only draws the unlucky",
-    "translation": "la suerte del sorteo solo atraer a los",
+    "translation": "la suerte del sorteo solo atrae a los desafortunados",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_8aaaf2ea",
-    "word": "desafortunados",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_464e3491",
+    "id": "v_78aecd6c",
     "word": "I became the butt of the joke",
-    "translation": "me convertir en el blanco de la broma",
+    "translation": "me convertí en el blanco de la broma",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_0ff1a5ff",
+    "id": "v_2dde742b",
     "word": "The wicked",
     "translation": "el malvado",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -368,47 +352,47 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bb8d3785",
+    "id": "v_15327edd",
     "word": "Clearing the air",
-    "translation": "limpiador el aire",
+    "translation": "limpiando el aire",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_a2241d41",
+    "id": "v_ad940c23",
     "word": "Wolves",
-    "translation": "lobo",
+    "translation": "lobos",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_015e4a2c",
+    "id": "v_f50633e3",
     "word": "Settle down",
-    "translation": "sentar cabeza, establecer, instalar",
+    "translation": "sentar cabeza, establecerse, instalarse",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 5
+    "global_frequency": 10
   },
   {
-    "id": "v_43f31d3a",
+    "id": "v_9ed6af50",
     "word": "Storm out",
     "translation": "salir furioso",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 2
-  },
-  {
-    "id": "v_18754d69",
-    "word": "Cloak",
-    "translation": "capa",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 3
   },
   {
-    "id": "v_574d77e9",
+    "id": "v_c6c76658",
+    "word": "Cloak",
+    "translation": "capa",
+    "source_movie": "Taylor Swift City of Lover Concert",
+    "year_processed": "2024",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_f7c1359b",
     "word": "Dagger",
     "translation": "daga",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -416,31 +400,31 @@
     "global_frequency": 2
   },
   {
-    "id": "v_f51d47b7",
+    "id": "v_b08aed11",
     "word": "Back and forth",
     "translation": "ida y vuelta",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_02666520",
+    "id": "v_3196c1eb",
     "word": "Sneak in",
-    "translation": "clase en",
+    "translation": "colarse en",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 2
   },
   {
-    "id": "v_5befd7ff",
+    "id": "v_483934e2",
     "word": "Love would be burning red",
-    "translation": "el amor armería en rojo",
+    "translation": "el amor ardería en rojo",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_8896c481",
+    "id": "v_37ad296f",
     "word": "Step into",
     "translation": "salir a",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -448,7 +432,7 @@
     "global_frequency": 5
   },
   {
-    "id": "v_066829b2",
+    "id": "v_12f1e24a",
     "word": "Love is madness",
     "translation": "el amor es locura",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -456,15 +440,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d9d00008",
+    "id": "v_df3075cb",
     "word": "Knockout",
-    "translation": "noca",
+    "translation": "nocaut",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_5763a9fe",
+    "id": "v_62af22c1",
     "word": "That’s a cop-out",
     "translation": "eso es una evasión",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -472,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_5b75a7fb",
+    "id": "v_5a25674e",
     "word": "Sunshine on the street",
     "translation": "sol en la calle",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -480,47 +464,39 @@
     "global_frequency": 2
   },
   {
-    "id": "v_bc5713b5",
-    "word": "Urge (substantive)",
-    "translation": "impulso, ganar",
+    "id": "v_262335b2",
+    "word": "Urge (sustantivo)",
+    "translation": "impulsos, ganas",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_aaba58c4",
+    "id": "v_692922cc",
     "word": "Like, sort of stumbled over to the piano",
-    "translation": "como si tropezar en el piano",
+    "translation": "como si tropezara en el piano",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_09d94065",
-    "word": "Sway (verb)",
-    "translation": "inclinar, balancear",
+    "id": "v_03badf14",
+    "word": "Sway (verbo)",
+    "translation": "inclinarse, balancearse",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 3
   },
   {
-    "id": "v_d13ea3b7",
+    "id": "v_16b5e7e4",
     "word": "We could leave the Christmas lights up",
-    "translation": "podríamos dejar las lunes navideña",
+    "translation": "podríamos dejar las luces navideñas encendidas",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 1
   },
   {
-    "id": "v_8fc53215",
-    "word": "encendidas",
-    "translation": "No registrada",
-    "source_movie": "Taylor Swift City of Lover Concert",
-    "year_processed": "2024",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_80bfea22",
+    "id": "v_99e2e9e7",
     "word": "A dazzling haze",
     "translation": "una neblina deslumbrante",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -528,15 +504,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c03b961b",
-    "word": "Stand (verb)",
-    "translation": "parar, poner de pie, soportar, tolerar",
+    "id": "v_e68de629",
+    "word": "Stand (verbo)",
+    "translation": "pararse, ponerse de pie, soportar, tolerar",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",
     "global_frequency": 7
   },
   {
-    "id": "v_b3c2e826",
+    "id": "v_570cbdda",
     "word": "Walk down",
     "translation": "caminar",
     "source_movie": "Taylor Swift City of Lover Concert",
@@ -544,8 +520,8 @@
     "global_frequency": 3
   },
   {
-    "id": "v_cdd0df7b",
-    "word": "Worship (verb)",
+    "id": "v_e9413d16",
+    "word": "Worship (verbo)",
     "translation": "adorar",
     "source_movie": "Taylor Swift City of Lover Concert",
     "year_processed": "2024",

@@ -41,11 +41,7 @@
     },
     {
       "word": "The journey was dreadfully long and drafty",
-      "translation": "el viaje fue terriblemente largo y con"
-    },
-    {
-      "word": "corrientes de aire",
-      "translation": "No registrada"
+      "translation": "el viaje fue terriblemente largo y con corrientes de aire"
     },
     {
       "word": "Discomfort (sustantivo)",
@@ -53,11 +49,7 @@
     },
     {
       "word": "She has been aching to get her hands on him",
-      "translation": "ella ha estado deseando ponerle las"
-    },
-    {
-      "word": "manos encima",
-      "translation": "No registrada"
+      "translation": "ella ha estado deseando ponerle las manos encima"
     },
     {
       "word": "Come through",
@@ -68,6 +60,10 @@
       "translation": "tu boda"
     },
     {
+      "word": "This painting is already worth a great deal more",
+      "translation": "esa pintura ya vale mucho más"
+    },
+    {
       "word": "This foison",
       "translation": "esta abundancia"
     },
@@ -76,8 +72,8 @@
       "translation": "deseos y necesidades"
     },
     {
-      "word": "mi padre nos han afectado a todos",
-      "translation": "No registrada"
+      "word": "Father's difficulties have put a strain upon us all (frase no literal)",
+      "translation": "las dificultades de mi padre nos han afectado a todos"
     },
     {
       "word": "That strain is gone",
@@ -152,8 +148,8 @@
       "translation": "espantoso"
     },
     {
-      "word": "pila de tu marido",
-      "translation": "No registrada"
+      "word": "And taking your husband's Christian name into the bargain",
+      "translation": "y adoptar el nombre de pila de tu marido"
     },
     {
       "word": "I don't have that cross to bear",
@@ -172,8 +168,8 @@
       "translation": "con una guardería de buen tamaño"
     },
     {
-      "word": "en la alta sociedad",
-      "translation": "No registrada"
+      "word": "To retain some hold of good society (frase no literal)",
+      "translation": "para mantener cierta influencia en la alta sociedad"
     },
     {
       "word": "Mending (sustantivo)",
@@ -212,8 +208,8 @@
       "translation": "alejar/desterrar todos los pensamientos"
     },
     {
-      "word": "de manera natural",
-      "translation": "No registrada"
+      "word": "You know what will set everyhing to rights quite naturally",
+      "translation": "sabes lo que arreglará todo de manera natural"
     },
     {
       "word": "Bind (verbo)",
@@ -264,8 +260,8 @@
       "translation": "el modelo perfecto de la corrección"
     },
     {
-      "word": "aficionadas a chismorrear, se callarán",
-      "translation": "No registrada"
+      "word": "The Venetian tongues so fond of wagging will be muted",
+      "translation": "las lenguas venecianas, tan aficionadas a chismorrear, se callarán"
     },
     {
       "word": "Up you go",
@@ -301,11 +297,7 @@
     },
     {
       "word": "A never-ending succession of minor ailments",
-      "translation": "una sucesión interminable de dolencias"
-    },
-    {
-      "word": "leves",
-      "translation": "No registrada"
+      "translation": "una sucesión interminable de dolencias leves"
     },
     {
       "word": "Growing upon her person",
@@ -340,8 +332,8 @@
       "translation": "una vista más aguda y un oído más fino"
     },
     {
-      "word": "estos pasillos",
-      "translation": "No registrada"
+      "word": "I haven't seen you grace these halls for some time",
+      "translation": "hace tiempo que no te veo por estos pasillos"
     },
     {
       "word": "Heartily",
@@ -539,5 +531,7 @@
       "https://image.tmdb.org/t/p/w780/zDtN28RN0osvvFNFcNkY5E6saLQ.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 129,
+  "dialogues": 1108
 }

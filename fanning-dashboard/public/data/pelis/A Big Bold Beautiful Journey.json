@@ -24,12 +24,24 @@
       "translation": "escribe tu nombre para la cámara"
     },
     {
+      "word": "I thought they were out of business (frase no literal)",
+      "translation": "creía que ya no existían"
+    },
+    {
+      "word": "These are moments of real, honest-to-goodness truth in performance",
+      "translation": "son momentos de verdad auténtica y genuina en la actuación"
+    },
+    {
       "word": "Crap out (en sentido electrónico)",
       "translation": "fallar"
     },
     {
       "word": "So very hard (frase no literal)",
       "translation": "con mucha fuerza, con todas tus fuerzas"
+    },
+    {
+      "word": "No matter how this plays out (frase no literal)",
+      "translation": "no importa cómo termine esto"
     },
     {
       "word": "Mush (en emociones)",
@@ -52,8 +64,12 @@
       "translation": "mota"
     },
     {
-      "word": "aclarado eso",
-      "translation": "No registrada"
+      "word": "I'm glad we got that out of the way (frase no literal)",
+      "translation": "me alegro de que hayamos aclarado eso"
+    },
+    {
+      "word": "Look out (no alusivo a alertar a una persona de tener cuidado)",
+      "translation": "mirar hacia afuera"
     },
     {
       "word": "Unshelled",
@@ -69,11 +85,7 @@
     },
     {
       "word": "Clear-eyed and eager, anxious to rise",
-      "translation": "con la mirada clara y ansioso, deseoso de"
-    },
-    {
-      "word": "ascender",
-      "translation": "No registrada"
+      "translation": "con la mirada clara y ansioso, deseoso de ascender"
     },
     {
       "word": "The lead",
@@ -102,6 +114,10 @@
     {
       "word": "I care about you",
       "translation": "me preocupo por ti"
+    },
+    {
+      "word": "Would you look at that? (parcialmente no literal)",
+      "translation": "¿Te has fijado en eso?"
     },
     {
       "word": "Clerk",
@@ -134,6 +150,10 @@
     {
       "word": "Which you kind of nailed",
       "translation": "lo cual has clavado"
+    },
+    {
+      "word": "I was screwing my professor (frase no literal)",
+      "translation": "estaba acostándome con mi profesora"
     },
     {
       "word": "Without a hint of annoyance",
@@ -188,15 +208,15 @@
       "translation": "esta noche me voy"
     },
     {
-      "word": "insistencia",
-      "translation": "No registrada"
+      "word": "You chased after me so hard (parcialmente no literal)",
+      "translation": "me perseguiste con tanta insistencia"
     },
     {
       "word": "Won me over (no literal)",
       "translation": "me convenció"
     },
     {
-      "word": "literal)",
+      "word": "Thought of coming home to you every day made me break out into hives (frase no literal)",
       "translation": "la idea de volver a casa contigo cada día me provocaba urticaria"
     },
     {
@@ -232,24 +252,28 @@
       "translation": "bebedor"
     },
     {
+      "word": "That awful girl crushed him (en sentido emocional)",
+      "translation": "esa horrible chica lo destrozó"
+    },
+    {
       "word": "Break you right back",
       "translation": "te romper de vuelta"
     },
     {
-      "word": "When I'm bent over",
+      "word": "When I’m bent over",
       "translation": "cuando me incline"
     },
     {
       "word": "I'm sorry you're hurtling (frase no literal)",
-      "translation": "lamento que estés pasando por un mal"
-    },
-    {
-      "word": "momento",
-      "translation": "No registrada"
+      "translation": "lamento que estés pasando por un mal momento"
     },
     {
       "word": "You're really getting into it",
       "translation": "realmente te estás metiendo en ello"
+    },
+    {
+      "word": "You can make yourself crazy (parcialmente no literal)",
+      "translation": "puedes volverte loco/loca"
     },
     {
       "word": "Tuck in",
@@ -295,5 +319,7 @@
       "https://image.tmdb.org/t/p/w780/jXqo6isTmy9VJwu74mu0gU5Jn26.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 76,
+  "dialogues": 1690
 }

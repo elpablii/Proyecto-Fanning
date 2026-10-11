@@ -149,7 +149,7 @@
     },
     {
       "word": "Loud music has showed to trigger seizures (no literal)",
-      "translation": "se ha demostrado que la música"
+      "translation": "se ha demostrado que la música alta desencadena convulsiones"
     },
     {
       "word": "Stakeout",
@@ -233,7 +233,7 @@
     },
     {
       "word": "Consider your mishap last night a dry run (frase no literal)",
-      "translation": "considera tu percance de"
+      "translation": "considera tu percance de anoche como un simulacro"
     },
     {
       "word": "Astonishing",
@@ -319,5 +319,7 @@
       "https://image.tmdb.org/t/p/w780/AjmpXbpMDegWqjK8rW5LQ1V4DR.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 76,
+  "dialogues": 1033
 }

@@ -21,7 +21,7 @@
     },
     {
       "word": "It have been cut down, stirring concerns",
-      "translation": "han sido talado, lo que ha suscitado"
+      "translation": "han sido talado, lo que ha suscitado preocupación"
     },
     {
       "word": "Pressing (adjetivo no literal)",
@@ -249,11 +249,11 @@
     },
     {
       "word": "What became of the halflings? (traducción aproximada y no literal)",
-      "translation": "¿Qué fue de los"
+      "translation": "¿Qué fue de los halcones?"
     },
     {
       "word": "History has deemed their bloodline extinct (frase no literal)",
-      "translation": "la historia ha"
+      "translation": "la historia ha considerado su linaje extinto"
     },
     {
       "word": "But it is yet to be proven (frase no literal)",
@@ -281,7 +281,7 @@
     },
     {
       "word": "Someone where something's just a little off (frase no literal)",
-      "translation": "alguien en quien algo"
+      "translation": "alguien en quien algo está un poco mal"
     }
   ],
   "tmdb": {
@@ -295,5 +295,7 @@
       "https://image.tmdb.org/t/p/w780/eTqhQ9UDmalt3kegTWsbOMOMj4n.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 70,
+  "dialogues": 1390
 }

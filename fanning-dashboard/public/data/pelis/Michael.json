@@ -52,8 +52,8 @@
       "translation": "¡De pie!"
     },
     {
-      "word": "boca a boca",
-      "translation": "No registrada"
+      "word": "I heard it through the grapevine (frase no literal)",
+      "translation": "me enteré por el rumor/por el boca a boca"
     },
     {
       "word": "Perfect pitch",
@@ -64,8 +64,8 @@
       "translation": "dame la misma introducción"
     },
     {
-      "word": "con su horario",
-      "translation": "No registrada"
+      "word": "Keeping the boys on Schedule (parcialmente no literal)",
+      "translation": "hacer que los chicos cumplan con su horario"
     },
     {
       "word": "With my head hanging down",
@@ -101,11 +101,7 @@
     },
     {
       "word": "I own his ass from 9 am to 5 pm",
-      "translation": "de 9 de la mañana a 5 de la tarde, lo tengo bajo mi"
-    },
-    {
-      "word": "control",
-      "translation": "No registrada"
+      "translation": "de 9 de la mañana a 5 de la tarde, lo tengo bajo mi control"
     },
     {
       "word": "Sharp (en tiempo)",
@@ -224,8 +220,8 @@
       "translation": "con mi música"
     },
     {
-      "word": "impresionantes",
-      "translation": "No registrada"
+      "word": "Laying down some killer demos (frase no literal en música)",
+      "translation": "grabar unas demos impresionantes"
     },
     {
       "word": "Tick off",
@@ -264,6 +260,10 @@
       "translation": "pedir algunos favores"
     },
     {
+      "word": "While we travel down this ways (forma no literal)",
+      "translation": "mientras recorremos estos caminos"
+    },
+    {
       "word": "I'm gonna break out",
       "translation": "voy a salir"
     },
@@ -285,11 +285,7 @@
     },
     {
       "word": "Let that ooze into the rest of the chorus",
-      "translation": "deja que eso se impregne en el resto del"
-    },
-    {
-      "word": "estribillo",
-      "translation": "No registrada"
+      "translation": "deja que eso se impregne en el resto del estribillo"
     },
     {
       "word": "Don't kid a kidder now (frase no literal)",
@@ -306,6 +302,10 @@
     {
       "word": "Lock it up!",
       "translation": "¡Cierren todo!"
+    },
+    {
+      "word": "Dramatic sting (acotación parcialmente no literal)",
+      "translation": "música de fondo dramática"
     },
     {
       "word": "Ghoul",
@@ -332,8 +332,8 @@
       "translation": "esfuérzate más"
     },
     {
-      "word": "Pittman de MTV ahora mismo?",
-      "translation": "No registrada"
+      "word": "Can you get me Bob Pittman over at MTV right now?",
+      "translation": "¿Me puedes pasar con Bob Pittman de MTV ahora mismo?"
     },
     {
       "word": "Schmuck",
@@ -344,8 +344,8 @@
       "translation": "poner (una canción)"
     },
     {
-      "word": "CBS de tu lista de reproducción",
-      "translation": "No registrada"
+      "word": "I'm gonna pull every CBS artist from your lineup",
+      "translation": "voy a sacar a todos los artistas de la CBS de tu lista de reproducción"
     },
     {
       "word": "Butthole",
@@ -356,8 +356,8 @@
       "translation": "solo"
     },
     {
-      "word": "Jean en la radio",
-      "translation": "No registrada"
+      "word": "With each spin of Billie Jean on the radio (frase no literal)",
+      "translation": "Cada vez que suena Billie Jean en la radio"
     },
     {
       "word": "Every head turned with eyes",
@@ -447,5 +447,7 @@
       "https://image.tmdb.org/t/p/w780/dVsHY2PPAiFhhPD5x9pmOBZd8tB.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 108,
+  "dialogues": 2380
 }

@@ -257,7 +257,7 @@
     },
     {
       "name": "Dream Productions (Episode 3)",
-      "count": 52,
+      "count": 51,
       "vocabulary": [
         {
           "word": "Come to simmer, to steep, to brew into maturity",
@@ -457,10 +457,10 @@
         },
         {
           "word": "You're dismissed",
-          "translation": "estás despedido, puedes retirarte The most artful, life-changing, epiphany-making, rainbow-popping dream Riley has"
+          "translation": "estás despedido, puedes retirarte"
         },
         {
-          "word": "ever had",
+          "word": "The most artful, life-changing, epiphany-making, rainbow-popping dream Riley has ever had",
           "translation": "el sueño más ingenioso, transformador, epifánico y lleno de arco iris que Riley alguna vez haya tenido"
         }
       ],
@@ -552,5 +552,7 @@
         "still_path": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
       }
     }
-  }
+  },
+  "count": 122,
+  "dialogues": 1513
 }

@@ -49,7 +49,7 @@
     },
     {
       "word": "Why I should stick my neck out for you is quite beyond my capacity",
-      "translation": "no sé por qué"
+      "translation": "no sé por qué debería arriesgarme por ti"
     },
     {
       "word": "Knowledgeable",
@@ -108,7 +108,7 @@
       "translation": "asustar"
     },
     {
-      "word": "I'm done for",
+      "word": "I’m done for",
       "translation": "estoy acabado"
     },
     {
@@ -196,7 +196,7 @@
       "translation": "obra"
     },
     {
-      "word": "Jabba's through with you",
+      "word": "Jabba’s through with you",
       "translation": "Jabba está harto de ti"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "word": "A fighter couldn't get this deep into space on its own",
-      "translation": "un caza no podría adentrarse"
+      "translation": "un caza no podría adentrarse tanto en el espacio por sí solo"
     },
     {
       "word": "Lock in the auxiliary power",
@@ -449,11 +449,11 @@
     },
     {
       "word": "Several fighters have broken off from the main group",
-      "translation": "varios combatientes se han"
+      "translation": "varios combatientes se han separado del grupo principal"
     },
     {
       "word": "Switch all power to front deflector screen",
-      "translation": "desconecte toda la corriente a la pantalla"
+      "translation": "desconecte toda la corriente a la pantalla deflectora delantera"
     },
     {
       "word": "Loosen up!",
@@ -495,5 +495,7 @@
       "https://image.tmdb.org/t/p/w780/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg"
     ],
     "episodes": null
-  }
+  },
+  "count": 120,
+  "dialogues": 1302
 }

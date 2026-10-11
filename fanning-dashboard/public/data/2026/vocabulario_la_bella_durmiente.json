@@ -1,6 +1,6 @@
 [
   {
-    "id": "v_0f325300",
+    "id": "v_51e1ede9",
     "word": "Gleam",
     "translation": "brillo",
     "source_movie": "La Bella Durmiente",
@@ -8,23 +8,31 @@
     "global_frequency": 2
   },
   {
-    "id": "v_80f30e9a",
+    "id": "v_846ef928",
     "word": "Seldom (adverbio)",
     "translation": "rara vez, raramente",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_a460e19d",
+    "id": "v_b86699cf",
     "word": "Throughout",
     "translation": "a través de, a lo largo de",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_4e59b997",
+    "id": "v_cef9b08d",
+    "word": "All of high or low estate (parcialmente no literal)",
+    "translation": "todos los de alta o baja alcurnia",
+    "source_movie": "La Bella Durmiente",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5daa29c9",
     "word": "Replete (verbo)",
     "translation": "repletar, completar, llenar",
     "source_movie": "La Bella Durmiente",
@@ -32,7 +40,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ce926ca7",
+    "id": "v_67c4f353",
     "word": "Hail to (expresión)",
     "translation": "salve a, salve al",
     "source_movie": "La Bella Durmiente",
@@ -40,7 +48,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7b2b721f",
+    "id": "v_c411a97f",
     "word": "Joyous",
     "translation": "alegre, feliz",
     "source_movie": "La Bella Durmiente",
@@ -48,7 +56,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3452b847",
+    "id": "v_08b1b98b",
     "word": "Betrothed",
     "translation": "prometido",
     "source_movie": "La Bella Durmiente",
@@ -56,23 +64,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_4e43e06b",
+    "id": "v_70b7c95b",
     "word": "Their most honored and exalted excellencies",
-    "translation": "sus más honorables y excelsas",
+    "translation": "sus más honorables y excelsas excelencias",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_0483ad2c",
-    "word": "excelencias",
-    "translation": "No registrada",
-    "source_movie": "La Bella Durmiente",
-    "year_processed": "2026",
-    "global_frequency": 1
-  },
-  {
-    "id": "v_500b43e1",
+    "id": "v_c738b45c",
     "word": "Gift (no literal en sentido intangible)",
     "translation": "don",
     "source_movie": "La Bella Durmiente",
@@ -80,7 +80,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_bc9ca700",
+    "id": "v_5377a7e4",
     "word": "Nightingale",
     "translation": "ruiseñor",
     "source_movie": "La Bella Durmiente",
@@ -88,7 +88,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_38e75e9b",
+    "id": "v_1bed4e94",
     "word": "Quite a glittering assemblage",
     "translation": "todo un conjunto brillante",
     "source_movie": "La Bella Durmiente",
@@ -96,7 +96,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4835b510",
+    "id": "v_2cb277f1",
     "word": "Gentry",
     "translation": "alta burguesía",
     "source_movie": "La Bella Durmiente",
@@ -104,7 +104,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_d332d351",
+    "id": "v_3dcbf670",
     "word": "How quaint",
     "translation": "qué pintoresco",
     "source_movie": "La Bella Durmiente",
@@ -112,7 +112,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_c3712420",
+    "id": "v_eb49fc47",
     "word": "Even the rabble",
     "translation": "incluso la chusma",
     "source_movie": "La Bella Durmiente",
@@ -120,7 +120,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_20c88bc5",
+    "id": "v_2eeb90a6",
     "word": "Distressed (no literal)",
     "translation": "angustiado",
     "source_movie": "La Bella Durmiente",
@@ -128,7 +128,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_a8ca46e8",
+    "id": "v_346804f7",
     "word": "Oversight",
     "translation": "vigilancia, descuido, supervision",
     "source_movie": "La Bella Durmiente",
@@ -136,15 +136,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1c30112f",
-    "word": "voluntad",
-    "translation": "No registrada",
+    "id": "v_230117c1",
+    "word": "And to show I bear no ill will (frase no literal)",
+    "translation": "y para demostrar que no tengo mala voluntad",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
     "global_frequency": 2
   },
   {
-    "id": "v_18d6e7a0",
+    "id": "v_744165f5",
     "word": "I, too, shall bestow a gift on the child",
     "translation": "yo también concederé un regalo a la niña",
     "source_movie": "La Bella Durmiente",
@@ -152,7 +152,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_9594d79b",
+    "id": "v_5d072241",
     "word": "Scepter clangs (acotación)",
     "translation": "estruendo del cetro",
     "source_movie": "La Bella Durmiente",
@@ -160,7 +160,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_879ac1ae",
+    "id": "v_ecb7374c",
     "word": "Prick (verbo en sentido no despectivo)",
     "translation": "pinchar",
     "source_movie": "La Bella Durmiente",
@@ -168,7 +168,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cf887362",
+    "id": "v_f1ff07a5",
     "word": "A spindle of a spinning wheel (no literal)",
     "translation": "un huso de una rueca",
     "source_movie": "La Bella Durmiente",
@@ -176,23 +176,23 @@
     "global_frequency": 2
   },
   {
-    "id": "v_9b4fd5a4",
+    "id": "v_f36267ef",
     "word": "Seize (verbo)",
     "translation": "atrapar, agarrar (a alguien)",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 5
   },
   {
-    "id": "v_2b3add74",
+    "id": "v_6ee68b45",
     "word": "Despair (verbo)",
     "translation": "desesperarse",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_caa15798",
+    "id": "v_6894cd94",
     "word": "Spindle",
     "translation": "huso",
     "source_movie": "La Bella Durmiente",
@@ -200,7 +200,7 @@
     "global_frequency": 3
   },
   {
-    "id": "v_64daf69d",
+    "id": "v_3e1cde4f",
     "word": "Fateful",
     "translation": "fatídico",
     "source_movie": "La Bella Durmiente",
@@ -208,15 +208,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_489fa3fd",
+    "id": "v_38adfbf2",
     "word": "Slumber",
     "translation": "sueño, letargo",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
-    "id": "v_34a8b86c",
+    "id": "v_fdef8272",
     "word": "Spinning wheel",
     "translation": "rueca",
     "source_movie": "La Bella Durmiente",
@@ -224,7 +224,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_33841bf3",
+    "id": "v_fff9376c",
     "word": "On that very day",
     "translation": "en ese mismo día",
     "source_movie": "La Bella Durmiente",
@@ -232,15 +232,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7e4eeefe",
+    "id": "v_0dc431f2",
     "word": "Bonfire",
     "translation": "hoguera, fogata",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 2
+    "global_frequency": 4
   },
   {
-    "id": "v_bc58a108",
+    "id": "v_185510ec",
     "word": "A old hop toad",
     "translation": "un viejo sapo de lúpulo",
     "source_movie": "La Bella Durmiente",
@@ -248,7 +248,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8b08137a",
+    "id": "v_e6909a42",
     "word": "Frost",
     "translation": "helada, escarcha",
     "source_movie": "La Bella Durmiente",
@@ -256,7 +256,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e70c5fb1",
+    "id": "v_0f6a1d27",
     "word": "The woodcutter's cottage",
     "translation": "la cabaña/casita del leñador",
     "source_movie": "La Bella Durmiente",
@@ -264,7 +264,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_87eb4906",
+    "id": "v_9818cd32",
     "word": "Foundling child",
     "translation": "niña expósito",
     "source_movie": "La Bella Durmiente",
@@ -272,7 +272,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_98e914cc",
+    "id": "v_723d9481",
     "word": "We'll all pitch in (frase no literal)",
     "translation": "todos colaboraremos, todos echaremos una mano",
     "source_movie": "La Bella Durmiente",
@@ -280,7 +280,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_91412336",
+    "id": "v_d49d6a03",
     "word": "Thunder (verbo)",
     "translation": "resonar",
     "source_movie": "La Bella Durmiente",
@@ -288,7 +288,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4cd7fef2",
+    "id": "v_d7771e76",
     "word": "Into thin air",
     "translation": "en el aire",
     "source_movie": "La Bella Durmiente",
@@ -296,15 +296,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7eeba134",
+    "id": "v_791966dd",
     "word": "Cradle",
     "translation": "cuna",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_b335807a",
+    "id": "v_52f5a591",
     "word": "They're hopeless (no literal)",
     "translation": "están desesperados",
     "source_movie": "La Bella Durmiente",
@@ -312,7 +312,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0b1c3cf5",
+    "id": "v_15dfe8f3",
     "word": "Circle far and wide",
     "translation": "circule a lo largo y ancho",
     "source_movie": "La Bella Durmiente",
@@ -320,7 +320,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3c547839",
+    "id": "v_3d33156e",
     "word": "A well-laid plan",
     "translation": "un plan bien trazado",
     "source_movie": "La Bella Durmiente",
@@ -328,7 +328,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_132a361f",
+    "id": "v_9d9682e9",
     "word": "Rear (verbo)",
     "translation": "criar",
     "source_movie": "La Bella Durmiente",
@@ -336,7 +336,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f7938535",
+    "id": "v_6b1a35a0",
     "word": "Pleats",
     "translation": "pliegues",
     "source_movie": "La Bella Durmiente",
@@ -344,7 +344,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_cb3cdc7d",
+    "id": "v_c1ed685b",
     "word": "What are you three dears up to?",
     "translation": "¿En qué andan ustedes tres queridas?",
     "source_movie": "La Bella Durmiente",
@@ -352,7 +352,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2bef923c",
+    "id": "v_8a6b5bf9",
     "word": "Forget-me-nots (expresión informal)",
     "translation": "nomeolvides",
     "source_movie": "La Bella Durmiente",
@@ -360,7 +360,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0871722d",
+    "id": "v_da52d315",
     "word": "Fold in gently",
     "translation": "doblar suavemente",
     "source_movie": "La Bella Durmiente",
@@ -368,7 +368,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_da8b1689",
+    "id": "v_4d375934",
     "word": "Yeast, 1 teaspoon",
     "translation": "levadura, una cucharadita",
     "source_movie": "La Bella Durmiente",
@@ -376,7 +376,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8f4481f2",
+    "id": "v_bc4f8088",
     "word": "Oh gracious! (frase no literal)",
     "translation": "¡Oh, Dios mío!",
     "source_movie": "La Bella Durmiente",
@@ -384,7 +384,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_d5d7353a",
+    "id": "v_ceb305e7",
     "word": "Good gracious! (frase no literal)",
     "translation": "¡Dios mío!",
     "source_movie": "La Bella Durmiente",
@@ -392,7 +392,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6059f028",
+    "id": "v_816694a4",
     "word": "Ninnies",
     "translation": "bobos, tontos",
     "source_movie": "La Bella Durmiente",
@@ -400,7 +400,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e1d30a9d",
+    "id": "v_cda873e6",
     "word": "A gay, little lark melody (no literal)",
     "translation": "una alegre y pequeña melodía de alondra",
     "source_movie": "La Bella Durmiente",
@@ -408,15 +408,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_db9a0775",
+    "id": "v_9c07f5e5",
     "word": "Wing (verbo)",
     "translation": "volar, salir volando",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_2f5b8a3d",
+    "id": "v_e9367747",
     "word": "A wood sprite (parcialmente no literal)",
     "translation": "un duendecillo de madera",
     "source_movie": "La Bella Durmiente",
@@ -424,7 +424,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a1292ebf",
+    "id": "v_9e2c730b",
     "word": "I'm awfully sorry",
     "translation": "lo siento muchísimo",
     "source_movie": "La Bella Durmiente",
@@ -432,15 +432,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_36dbf81f",
+    "id": "v_e4a6511d",
     "word": "Cottage",
     "translation": "casita, cabaña",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 5
   },
   {
-    "id": "v_fd3aff2c",
+    "id": "v_9ccf3a21",
     "word": "Glen",
     "translation": "cañada",
     "source_movie": "La Bella Durmiente",
@@ -448,7 +448,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9a7157b1",
+    "id": "v_c3c4a861",
     "word": "Stiffing",
     "translation": "rígido",
     "source_movie": "La Bella Durmiente",
@@ -456,7 +456,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3e1d3cfb",
+    "id": "v_780dbdcc",
     "word": "Ruffles",
     "translation": "volantes",
     "source_movie": "La Bella Durmiente",
@@ -464,7 +464,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_c1a28349",
+    "id": "v_75407b7e",
+    "word": "I still think what I thunk before (frase no literal)",
+    "translation": "sigo pensando lo mismo que antes",
+    "source_movie": "La Bella Durmiente",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_31a723c1",
     "word": "Plug up every cranny",
     "translation": "tapona cada grieta, tapa cada rendija",
     "source_movie": "La Bella Durmiente",
@@ -472,15 +480,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_1c688bc3",
-    "word": "digno de una bella princesa",
-    "translation": "No registrada",
+    "id": "v_ac48c41b",
+    "word": "To make a lovely dress fit to grace a fair Princess",
+    "translation": "para hacer un hermoso vestido digno de una bella princesa",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_f2ddc7ba",
+    "id": "v_e96ebc3a",
     "word": "Enough of this foolishness!",
     "translation": "¡Ya basta de tonterías!",
     "source_movie": "La Bella Durmiente",
@@ -488,7 +496,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_b261d543",
+    "id": "v_4be1eff4",
     "word": "Betrothed",
     "translation": "comprometido, prometido",
     "source_movie": "La Bella Durmiente",
@@ -496,15 +504,15 @@
     "global_frequency": 2
   },
   {
-    "id": "v_7388b321",
+    "id": "v_e74b48e2",
     "word": "Buck up!",
     "translation": "¡Ánimo!",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_102e8d63",
+    "id": "v_9134a946",
     "word": "The outlook is rosy",
     "translation": "las perspectivas son halagüeñas",
     "source_movie": "La Bella Durmiente",
@@ -512,7 +520,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_ac431325",
+    "id": "v_93375c33",
     "word": "Vintage (en algunos contextos)",
     "translation": "cosecha, añada",
     "source_movie": "La Bella Durmiente",
@@ -520,15 +528,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8a545d39",
+    "id": "v_a0a803be",
     "word": "Brood",
     "translation": "prole, nidada",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_3ccdda06",
+    "id": "v_dff2eacb",
     "word": "String twangs (acotación)",
     "translation": "cuerdas de torsión",
     "source_movie": "La Bella Durmiente",
@@ -536,7 +544,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_61bc3dd0",
+    "id": "v_be22a36d",
     "word": "Dining hall",
     "translation": "comedor",
     "source_movie": "La Bella Durmiente",
@@ -544,7 +552,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_2c76c8b2",
+    "id": "v_fde8514f",
     "word": "Getting on in years (traducción aproximada)",
     "translation": "entrando en años",
     "source_movie": "La Bella Durmiente",
@@ -552,23 +560,31 @@
     "global_frequency": 1
   },
   {
-    "id": "v_fd924f64",
+    "id": "v_282d95a7",
+    "word": "It may come as quite a shock (frase no literal)",
+    "translation": "puede resultar bastante chocante",
+    "source_movie": "La Bella Durmiente",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_041d76cb",
     "word": "Sputter (verbo)",
     "translation": "balbucear",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 5
   },
   {
-    "id": "v_95cc0825",
-    "word": "pomposo y fanfarrón!",
-    "translation": "No registrada",
+    "id": "v_ec1c4b2f",
+    "word": "You unreasonable, pompous, blustering old windbag!",
+    "translation": "¡Viejo charlatán irrazonable, pomposo y fanfarrón!",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_9ecae4c3",
+    "id": "v_55954efe",
     "word": "Bound to",
     "translation": "destinado a",
     "source_movie": "La Bella Durmiente",
@@ -576,7 +592,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_e9ceb6f2",
+    "id": "v_f2c057bc",
     "word": "Woodcarvers",
     "translation": "talladores de madera",
     "source_movie": "La Bella Durmiente",
@@ -584,15 +600,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_f19efb37",
+    "id": "v_b67bbfa3",
     "word": "Guild",
     "translation": "gremio",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_329e7d16",
+    "id": "v_58344298",
     "word": "Give up (en sentido más formal)",
     "translation": "renunciar, abandonar",
     "source_movie": "La Bella Durmiente",
@@ -600,15 +616,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_a65aec95",
-    "word": "razón",
-    "translation": "No registrada",
+    "id": "v_3fcdbc1f",
+    "word": "I command you to come to your senses (frase no literal)",
+    "translation": "te ordeno a que entres en razón",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
     "global_frequency": 1
   },
   {
-    "id": "v_af06d4c1",
+    "id": "v_22e895fe",
     "word": "Bolt the door",
     "translation": "cerrar la puerta (con pestillo)",
     "source_movie": "La Bella Durmiente",
@@ -616,7 +632,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_e5b371af",
+    "id": "v_a95fa556",
     "word": "Pull the drapes",
     "translation": "correr las cortinas",
     "source_movie": "La Bella Durmiente",
@@ -624,7 +640,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_56123f59",
+    "id": "v_3cbd955b",
     "word": "The mistress of all evil",
     "translation": "la dueña de todos los males",
     "source_movie": "La Bella Durmiente",
@@ -632,7 +648,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6c28ae31",
+    "id": "v_ac1595e2",
+    "word": "We're all to blame! (parcialmente no literal)",
+    "translation": "¡Todos tenemos la culpa!",
+    "source_movie": "La Bella Durmiente",
+    "year_processed": "2026",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3104971a",
     "word": "Fair (significado no literal)",
     "translation": "bella, hermosa",
     "source_movie": "La Bella Durmiente",
@@ -640,7 +664,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_3198d960",
+    "id": "v_c67f3b8a",
     "word": "In slumber repose",
     "translation": "en el sueño reposa",
     "source_movie": "La Bella Durmiente",
@@ -648,7 +672,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_4fafa957",
+    "id": "v_6a71e1bb",
     "word": "Riding out of the dawn",
     "translation": "saliendo del amanecer",
     "source_movie": "La Bella Durmiente",
@@ -656,23 +680,23 @@
     "global_frequency": 1
   },
   {
-    "id": "v_8e8a0d21",
+    "id": "v_c3febb24",
     "word": "Gently",
     "translation": "suavemente",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_5bfd4a95",
+    "id": "v_0cc7df75",
     "word": "Wondrous",
     "translation": "maravilloso",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 3
   },
   {
-    "id": "v_eec901fa",
+    "id": "v_4e71513a",
     "word": "And in yonder topmost tower",
     "translation": "y en la torre más alta",
     "source_movie": "La Bella Durmiente",
@@ -680,15 +704,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_6cd1770e",
+    "id": "v_34162a7c",
     "word": "Whim",
     "translation": "capricho",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_51f206a8",
+    "id": "v_06fde32f",
     "word": "Ageless sleep",
     "translation": "sueño eterno",
     "source_movie": "La Bella Durmiente",
@@ -696,15 +720,15 @@
     "global_frequency": 1
   },
   {
-    "id": "v_9862d5a9",
+    "id": "v_2ad2b475",
     "word": "Steadfast",
     "translation": "firme, inquebrantable",
     "source_movie": "La Bella Durmiente",
     "year_processed": "2026",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
-    "id": "v_433b889f",
+    "id": "v_eebb411a",
     "word": "Off he rides on his noble steed",
     "translation": "sale montado en su noble corcel",
     "source_movie": "La Bella Durmiente",
@@ -712,7 +736,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_7da087fe",
+    "id": "v_d53b78bb",
     "word": "Righteousness",
     "translation": "justicia",
     "source_movie": "La Bella Durmiente",
@@ -720,7 +744,7 @@
     "global_frequency": 2
   },
   {
-    "id": "v_3f848144",
+    "id": "v_11f4c5db",
     "word": "Cast my spell",
     "translation": "lanza mi hechizo",
     "source_movie": "La Bella Durmiente",
@@ -728,7 +752,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_0c9ccef7",
+    "id": "v_65c83917",
     "word": "Endure (verbo en sentido intangible)",
     "translation": "perdurar",
     "source_movie": "La Bella Durmiente",
@@ -736,7 +760,7 @@
     "global_frequency": 1
   },
   {
-    "id": "v_67645aa8",
+    "id": "v_a839c716",
     "word": "Nickers (traducción aproximada)",
     "translation": "mellas",
     "source_movie": "La Bella Durmiente",
