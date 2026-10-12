@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
+import { miles } from '@/lib/formato';
 import { useRouter } from 'next/navigation';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
@@ -19,6 +20,7 @@ interface VocabItem {
 import { tmdbOverrides } from '@/lib/tmdb';
 import Link from 'next/link';
 import MovieCard from '@/components/ui/MovieCard';
+import SearchModal from '@/components/ui/SearchModal';
 
 
 import { ManifestData } from '@/types/manifest';
@@ -27,6 +29,20 @@ export default function DashboardClient({ initialManifestData }: { initialManife
   const router = useRouter();
   const [manifestData, setManifestData] = useState<ManifestData>(initialManifestData);
   const [selectedYear, setSelectedYear] = useState<string>("all");
+  const [showSearch, setShowSearch] = useState(false);
+
+  // Ctrl+K (o Cmd+K) y "/" abren el buscador
+  useEffect(() => {
+    const alTeclear = (e: KeyboardEvent) => {
+      const escribiendo = e.target instanceof HTMLElement && ['INPUT', 'TEXTAREA'].includes(e.target.tagName);
+      if ((e.key.toLowerCase() === 'k' && (e.ctrlKey || e.metaKey)) || (e.key === '/' && !escribiendo)) {
+        e.preventDefault();
+        setShowSearch(true);
+      }
+    };
+    window.addEventListener('keydown', alTeclear);
+    return () => window.removeEventListener('keydown', alTeclear);
+  }, []);
   const [selectedMovie, setSelectedMovie] = useState<{ title: string, count: number, dialogues?: number, posterUrl: string | null, episodes: { name: string, count: number }[] } | null>(null);
 
   const availableYears = ["all", ...Object.keys(initialManifestData || {}).filter(k => k !== 'all' && k !== 'yearlyData').sort()];
@@ -97,11 +113,15 @@ export default function DashboardClient({ initialManifestData }: { initialManife
           <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
             <BookOpen size={16} /> Reglas del Proyecto
           </button>
-          <button className="flex-1 sm:flex-none justify-center bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
+          <button onClick={() => setShowSearch(true)} title="Buscar (Ctrl + K)" className="flex-1 sm:flex-none justify-center bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
             <Search size={16} /> Buscar
           </button>
         </div>
       </header>
+
+      {showSearch && (
+        <SearchModal items={manifestData.all?.movieList || []} onClose={() => setShowSearch(false)} />
+      )}
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
         {availableYears.map((year) => (
@@ -128,7 +148,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
             <h3 className="text-gray-400 font-medium">Total Extraído</h3>
             <div className="p-2 bg-blue-500/10 text-blue-400 rounded-lg"><BookOpen size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">{stats.totalWords.toLocaleString()}</p>
+          <p className="text-3xl font-bold">{miles(stats.totalWords)}</p>
           <p className="text-sm text-green-400 mt-2 flex items-center gap-1">Palabras en {selectedYear === 'all' ? 'total' : selectedYear}</p>
         </div>
 
@@ -137,7 +157,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
             <h3 className="text-gray-400 font-medium">Líneas de Diálogo</h3>
             <div className="p-2 bg-emerald-500/10 text-emerald-400 rounded-lg"><Film size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">{stats.totalDialogues.toLocaleString()}</p>
+          <p className="text-3xl font-bold">{miles(stats.totalDialogues)}</p>
           <p className="text-sm text-emerald-500 mt-2">Líneas totales en {selectedYear === 'all' ? 'histórico' : selectedYear}</p>
         </div>
 
@@ -156,7 +176,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
             <div className="p-2 bg-pink-500/10 text-pink-400 rounded-lg"><TrendingUp size={20} /></div>
           </div>
           <p className="text-2xl font-bold capitalize truncate">{stats.topWord.word}</p>
-          <p className="text-sm text-gray-500 mt-2">{stats.topWord.count} apariciones</p>
+          <p className="text-sm text-gray-500 mt-2">{miles(stats.topWord.count)} apariciones</p>
         </div>
 
         {selectedYear !== 'all' && (
@@ -192,11 +212,12 @@ export default function DashboardClient({ initialManifestData }: { initialManife
               <BarChart data={stats.yearlyData}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                 <XAxis dataKey="year" stroke="#9CA3AF" axisLine={false} tickLine={false} />
-                <YAxis stroke="#9CA3AF" axisLine={false} tickLine={false} />
+                <YAxis stroke="#9CA3AF" axisLine={false} tickLine={false} tickFormatter={(v: number) => miles(v)} />
                 <Tooltip
                   contentStyle={{ backgroundColor: '#1F2937', borderColor: '#374151', borderRadius: '8px', color: '#fff' }}
                   itemStyle={{ color: '#fff' }}
                   cursor={{ fill: '#374151', opacity: 0.4 }}
+                  formatter={(v) => miles(Number(v))}
                 />
                 <Bar name="Líneas de Diálogo" dataKey="dialogues" fill="url(#colorDialogues)" radius={[6, 6, 0, 0]} />
                 <Bar name="Palabras Aprendidas" dataKey="words" fill="url(#colorWords)" radius={[6, 6, 0, 0]} />
@@ -236,7 +257,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
                         <span className="text-gray-500 text-xs italic line-clamp-1">{item.translation}</span>
                       </div>
                     </td>
-                    <td className="py-3 text-right text-purple-400 font-bold">{item.count}</td>
+                    <td className="py-3 text-right text-purple-400 font-bold">{miles(item.count)}</td>
                   </tr>
                 ))}
               </tbody>
@@ -289,10 +310,10 @@ export default function DashboardClient({ initialManifestData }: { initialManife
                 <div className="pb-1 sm:pb-2 overflow-hidden">
                   <h2 className="text-2xl sm:text-3xl font-extrabold text-white leading-tight truncate">{selectedMovie.title}</h2>
                   <div className="flex flex-wrap gap-2 sm:gap-4 mt-2 text-xs sm:text-sm">
-                    <p className="text-purple-400 font-medium">{selectedMovie.count} palabras no entendidas</p>
+                    <p className="text-purple-400 font-medium">{miles(selectedMovie.count)} palabras no entendidas</p>
                     {selectedMovie.dialogues !== undefined && selectedMovie.dialogues > 0 && (
                       <>
-                        <p className="text-emerald-400 font-medium">| {selectedMovie.dialogues} líneas totales</p>
+                        <p className="text-emerald-400 font-medium">| {miles(selectedMovie.dialogues)} líneas totales</p>
                         <p className="text-cyan-400 font-bold bg-cyan-500/10 px-2 py-0.5 rounded border border-cyan-500/20">
                           {(() => {
                             const d = selectedMovie.dialogues;
@@ -330,7 +351,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
                         {ep.name}
                       </span>
                       <span className="bg-purple-900/30 text-purple-300 px-3 py-1 rounded-full text-sm font-bold flex-shrink-0">
-                        {ep.count} palabras
+                        {miles(ep.count)} palabras
                       </span>
                     </div>
                   ))}

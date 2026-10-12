@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { miles } from '@/lib/formato';
 
 interface Flashcard {
     word: string;
@@ -52,7 +53,7 @@ export default function FlashcardViewer({ initialFlashcards, onClose }: Flashcar
             
             <div className="flex-1 flex flex-col items-center justify-center p-4 sm:p-8 relative">
                 <div className="absolute top-8 text-gray-400 text-sm font-medium bg-gray-900/50 px-4 py-1 rounded-full border border-gray-800">
-                    {currentCardIndex + 1} / {flashcards.length} palabras restantes
+                    {miles(currentCardIndex + 1)} / {miles(flashcards.length)} palabras restantes
                 </div>
 
                 <div className="w-full max-w-2xl flex flex-col items-center justify-center h-full">

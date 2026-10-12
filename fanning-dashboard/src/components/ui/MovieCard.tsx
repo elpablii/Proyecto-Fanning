@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react';
+import { miles } from '@/lib/formato';
 import Link from 'next/link';
 import { Film } from 'lucide-react';
 
@@ -67,13 +68,13 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
                 <div className="flex flex-col gap-1 text-[11px] text-gray-300">
                     <div className="flex justify-between items-center">
                         <span className="text-pink-400">Palabras:</span>
-                        <span className="font-medium">{count}</span>
+                        <span className="font-medium">{miles(count)}</span>
                     </div>
                     {validDialogues > 0 && (
                         <>
                             <div className="flex justify-between items-center">
                                 <span className="text-emerald-400">Diálogos:</span>
-                                <span className="font-medium">{validDialogues}</span>
+                                <span className="font-medium">{miles(validDialogues)}</span>
                             </div>
                             <div className="flex justify-between items-center border-t border-gray-700/50 mt-1 pt-1">
                                 <span className="text-cyan-400">Comprensión:</span>

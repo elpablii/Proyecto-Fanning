@@ -19,6 +19,8 @@ export interface MovieStats {
   backdropUrl?: string | null;
   level?: string;
   rating?: string;
+  aliases?: string[];
+  years?: string[];
 }
 
 export interface YearlyData {

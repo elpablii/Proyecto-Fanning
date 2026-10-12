@@ -27,6 +27,8 @@ from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from rutas import ANIOS, CATALOGO, DATA, REPORTE, absoluta  # noqa: E402
+import ranking  # noqa: E402
+from construir_catalogo import base_dialogo  # noqa: E402
 from conteo import (clave_episodio, contar_dialogos, leer_lineas, leer_vocabulario,  # noqa: E402
                     normalizar, sin_repetidas)
 
@@ -212,9 +214,11 @@ def construir_manifest(catalogo, resultados, pelis, viejo):
         else:
             for e in datos['vocabulary']:
                 items.append({'titulo': titulo, 'origen': titulo, 'anio': res['anio'], **e})
-    frecuencia = Counter(normalizar(i['word']) for i in items)
-    for i in items:
-        i['global_frequency'] = frecuencia[normalizar(i['word'])]
+    # Palabras más repetidas: misma palabra con significado relacionado (ver ranking.py).
+    grupos = ranking.agrupar(items)
+    frecuencia = Counter(grupos)
+    for i, g in zip(items, grupos):
+        i['global_frequency'] = frecuencia[g]
 
     def ficha(t, anio=None):
         titulo, res, datos = t['titulo'], resultados[t['titulo']], pelis[t['titulo']]
@@ -245,6 +249,10 @@ def construir_manifest(catalogo, resultados, pelis, viejo):
             'level': datos.get('level') or v.get('level') or 'B2',
             'rating': tmdb.get('rating') or datos.get('rating') or v.get('rating') or 'TE',
             'dialogues': dialogos,
+            # otros nombres (p. ej. el título en inglés del PDF de diálogos) para el buscador
+            'aliases': sorted({base_dialogo(d['ruta']) for d in t['dialogos']} - {titulo}),
+            'years': sorted({res['episodios'][clave_de_nombre(ep['name'])]['anio'] for ep in datos['episodes']}
+                            if res['serie'] else {res['anio']}),
         }
         poster = datos.get('posterUrl') or v.get('posterUrl')
         fondo = datos.get('backdropUrl') or v.get('backdropUrl')
@@ -257,13 +265,9 @@ def construir_manifest(catalogo, resultados, pelis, viejo):
     def estadisticas(anio=None):
         lista = [f for f in (ficha(t, anio) for t in catalogo) if f]
         lista.sort(key=lambda f: f['count'], reverse=True)
-        sus = [i for i in items if anio is None or i['anio'] == anio]
-        top = {}
-        for i in sus:
-            k = i['word'].lower()
-            if k not in top or i['global_frequency'] > top[k]['count']:
-                top[k] = {'word': i['word'], 'count': i['global_frequency'], 'translation': i['translation']}
-        top_list = sorted(top.values(), key=lambda x: x['count'], reverse=True)[:10]
+        # por año se cuenta solo lo de ese año
+        elegidos = [(i, g) for i, g in zip(items, grupos) if anio is None or i['anio'] == anio]
+        top_list = ranking.top([i for i, _ in elegidos], [g for _, g in elegidos])
         return {
             'totalWords': sum(f['count'] for f in lista),
             'uniqueMovies': len(lista),

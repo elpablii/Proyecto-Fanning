@@ -5,14 +5,19 @@
     "totalDialogues": 386956,
     "topWord": {
       "word": "Creepy",
-      "count": 12,
-      "translation": "espeluznante, escalofriante"
+      "count": 14,
+      "translation": "espeluznante"
     },
     "topList": [
       {
         "word": "Creepy",
+        "count": 14,
+        "translation": "espeluznante"
+      },
+      {
+        "word": "Break down",
         "count": 12,
-        "translation": "espeluznante, escalofriante"
+        "translation": "romper, descomponer"
       },
       {
         "word": "Rely (verbo)",
@@ -20,44 +25,39 @@
         "translation": "confiar, depender"
       },
       {
-        "word": "Break down",
-        "count": 11,
-        "translation": "derrumbarse"
-      },
-      {
-        "word": "Get through",
-        "count": 10,
-        "translation": "superar, pasar (algo)"
-      },
-      {
         "word": "Come through",
         "count": 10,
         "translation": "pasar, venir"
       },
       {
-        "word": "Come along",
+        "word": "Get through",
         "count": 10,
-        "translation": "acompañar, venir"
+        "translation": "pasar"
       },
       {
-        "word": "Settle down!",
-        "count": 10,
-        "translation": "¡Cálmense!, ¡Tranquilos!, ¡Relájense!"
+        "word": "Landlord",
+        "count": 9,
+        "translation": "propietario, arrendador, terrateniente"
       },
       {
-        "word": "Settle down",
-        "count": 10,
-        "translation": "cálmense, tranquilos"
-      },
-      {
-        "word": "Settle down?",
-        "count": 10,
-        "translation": "¿Sentar cabeza?"
+        "word": "Snort (verbo)",
+        "count": 9,
+        "translation": "resoplar"
       },
       {
         "word": "Wind up",
         "count": 9,
         "translation": "acabar, terminar"
+      },
+      {
+        "word": "Back up (en algunos contextos)",
+        "count": 8,
+        "translation": "retroceder, dar marcha atrás"
+      },
+      {
+        "word": "Bold",
+        "count": 8,
+        "translation": "audaz, atrevido"
       }
     ],
     "movieList": [
@@ -736,6 +736,11 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 43158,
+        "aliases": [],
+        "years": [
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
       },
@@ -1252,6 +1257,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 46701,
+        "aliases": [],
+        "years": [
+          "2024",
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
       },
@@ -1372,6 +1383,10 @@
         "level": "B2/C1",
         "rating": "+18",
         "dialogues": 14923,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
       },
@@ -1468,6 +1483,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 11753,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
       },
@@ -1540,6 +1559,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 7422,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
       },
@@ -1558,6 +1581,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 3708,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
       },
@@ -1576,6 +1603,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 3255,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
       },
@@ -1594,6 +1625,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 3378,
+        "aliases": [
+          "Taylor Swift – The Eras Tour Film (Taylor's Version)"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
       },
@@ -1654,6 +1691,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 7905,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
       },
@@ -1672,6 +1713,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2083,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
       },
@@ -1690,6 +1735,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2100,
+        "aliases": [
+          "Birds of Prey"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
       },
@@ -1750,6 +1801,13 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 4222,
+        "aliases": [
+          "Creating Queen's Gambit",
+          "Queen's Gambit"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg"
       },
@@ -1768,6 +1826,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1512,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
       },
@@ -1786,6 +1848,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1821,
+        "aliases": [
+          "Suicide Squad"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg"
       },
@@ -1804,6 +1872,10 @@
         "level": "B2-C1",
         "rating": "+18",
         "dialogues": 1587,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
       },
@@ -1864,6 +1936,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 5220,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
       },
@@ -1882,6 +1958,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2051,
+        "aliases": [
+          "The Suicide Squad"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
       },
@@ -1900,6 +1982,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2431,
+        "aliases": [
+          "Amsterdam movie"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
       },
@@ -1948,6 +2036,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 4154,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
       },
@@ -1966,6 +2058,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2160,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
       },
@@ -1984,6 +2080,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1307,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
       },
@@ -2002,6 +2102,10 @@
         "level": "B1-B2",
         "rating": "+14",
         "dialogues": 2260,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
       },
@@ -2020,6 +2124,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1553,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
       },
@@ -2038,6 +2146,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2606,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
       },
@@ -2056,6 +2168,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 2136,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
       },
@@ -2074,6 +2190,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1128,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
       },
@@ -2092,6 +2212,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1334,
+        "aliases": [
+          "The Incredibles"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
       },
@@ -2110,6 +2236,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1903,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
       },
@@ -2128,6 +2258,10 @@
         "level": "C1",
         "rating": "TE+7",
         "dialogues": 2232,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
       },
@@ -2146,6 +2280,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2023,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
       },
@@ -2164,6 +2302,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2161,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg"
       },
@@ -2182,6 +2324,12 @@
         "level": "C1",
         "rating": "TE",
         "dialogues": 1786,
+        "aliases": [
+          "Goodbye  Christopher Robin"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
       },
@@ -2200,6 +2348,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1513,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
       },
@@ -2218,6 +2370,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2352,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
       },
@@ -2236,6 +2392,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1714,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
       },
@@ -2254,6 +2414,10 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1819,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg"
       },
@@ -2272,6 +2436,10 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1497,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg"
       },
@@ -2290,6 +2458,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1546,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
       },
@@ -2308,6 +2480,12 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 1684,
+        "aliases": [
+          "Rocky"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
       },
@@ -2326,6 +2504,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2240,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
       },
@@ -2344,6 +2526,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1514,
+        "aliases": [
+          "Cars movie"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
       },
@@ -2362,6 +2550,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1492,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
       },
@@ -2380,6 +2572,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1263,
+        "aliases": [
+          "Pride and Prejudice"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
       },
@@ -2398,6 +2596,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1653,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
       },
@@ -2416,6 +2618,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2008,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
       },
@@ -2434,6 +2640,10 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1337,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg"
       },
@@ -2452,6 +2662,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 2268,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg"
       },
@@ -2470,6 +2684,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1733,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
       },
@@ -2488,6 +2706,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2420,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
       },
@@ -2506,6 +2728,10 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 1611,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
       },
@@ -2524,6 +2750,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2836,
+        "aliases": [
+          "Taylor Swift - The Eras Tour Film (The Final Show)"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
       },
@@ -2542,6 +2774,10 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1231,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
       },
@@ -2560,6 +2796,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1763,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
       },
@@ -2578,6 +2818,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1996,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
       },
@@ -2596,6 +2840,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1646,
+        "aliases": [
+          "Star Wars Episode I The Phantom Menace"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
       },
@@ -2614,6 +2864,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1360,
+        "aliases": [
+          "The Ice Road"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
       },
@@ -2632,6 +2888,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 922,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
       },
@@ -2650,6 +2910,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1726,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
       },
@@ -2668,6 +2932,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 853,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
       },
@@ -2686,6 +2954,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1745,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
       },
@@ -2704,6 +2976,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1734,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
       },
@@ -2722,6 +2998,12 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 936,
+        "aliases": [
+          "Rambo"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
       },
@@ -2740,6 +3022,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1846,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
       },
@@ -2758,6 +3044,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1554,
+        "aliases": [
+          "Taylor Swift - Folklore The Long Pond Sessions"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
       },
@@ -2776,6 +3068,12 @@
         "level": "A2-B1",
         "rating": "TE",
         "dialogues": 831,
+        "aliases": [
+          "The Polar Express"
+        ],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
       },
@@ -2794,6 +3092,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2517,
+        "aliases": [
+          "Taylor Swift 1989 The World Tour"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
       },
@@ -2812,6 +3116,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1700,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
       },
@@ -2830,6 +3138,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1108,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
       },
@@ -2848,6 +3160,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 1226,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
       },
@@ -2866,6 +3182,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1094,
+        "aliases": [
+          "Kim Possible - So The Drama"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
       },
@@ -2884,6 +3206,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 947,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
       },
@@ -2902,6 +3228,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1697,
+        "aliases": [
+          "Cars 3"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
       },
@@ -2920,6 +3252,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 720,
+        "aliases": [
+          "A Christmas Carol"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg"
       },
@@ -2938,6 +3276,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1575,
+        "aliases": [
+          "Finding Nemo"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
       },
@@ -2974,6 +3318,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1513,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
@@ -2992,6 +3340,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1302,
+        "aliases": [
+          "Star Wars Episode IV A New Hope"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iWEJuiNOlScWVxfNVyXiXf6lCiG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
       },
@@ -3010,6 +3364,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1111,
+        "aliases": [
+          "Honest Thief"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
       },
@@ -3028,6 +3388,10 @@
         "level": "A2",
         "rating": "TE+7",
         "dialogues": 1103,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
       },
@@ -3046,6 +3410,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1424,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
       },
@@ -3064,6 +3432,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1255,
+        "aliases": [
+          "A Bug's Life"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
       },
@@ -3082,6 +3456,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1245,
+        "aliases": [
+          "Toy Story 3"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
       },
@@ -3100,6 +3480,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 2146,
+        "aliases": [
+          "Inside Out II"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
       },
@@ -3118,6 +3504,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1395,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
       },
@@ -3136,6 +3526,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1378,
+        "aliases": [
+          "Inside Out"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
       },
@@ -3154,6 +3550,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1935,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
       },
@@ -3172,6 +3572,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1945,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
       },
@@ -3190,6 +3594,10 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1074,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
       },
@@ -3208,6 +3616,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2380,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
       },
@@ -3226,6 +3638,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1177,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
       },
@@ -3244,6 +3660,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2371,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg"
       },
@@ -3262,6 +3682,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1467,
+        "aliases": [
+          "The Substance"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
       },
@@ -3280,6 +3706,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1146,
+        "aliases": [
+          "Alvin and the Chipmunks"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
       },
@@ -3298,6 +3730,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1781,
+        "aliases": [
+          "An American Success - Girl Stirs Up Success"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
       },
@@ -3316,6 +3754,10 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1293,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
       },
@@ -3334,6 +3776,10 @@
         "level": "C1",
         "rating": "TE",
         "dialogues": 681,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
       },
@@ -3352,6 +3798,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1899,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
       },
@@ -3370,6 +3820,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1143,
+        "aliases": [
+          "Sleeping Beauty"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
       },
@@ -3388,6 +3844,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1526,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
       },
@@ -3406,6 +3866,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1602,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
       },
@@ -3424,6 +3888,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1760,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
       },
@@ -3472,6 +3940,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2439,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
@@ -3490,6 +3962,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1102,
+        "aliases": [
+          "Star Wars Episode III Revenge of the Sith"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
       },
@@ -3508,6 +3986,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1887,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
       },
@@ -3526,6 +4008,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1883,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
       },
@@ -3544,6 +4030,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1888,
+        "aliases": [
+          "Escape from Sobibor"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sAeljrIHTtKgJ2BaVoa9oCTmD4u.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
       },
@@ -3562,6 +4054,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1437,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
       },
@@ -3580,6 +4076,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1287,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
       },
@@ -3598,6 +4098,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1354,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
       },
@@ -3616,6 +4120,10 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 719,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
       },
@@ -3634,6 +4142,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1483,
+        "aliases": [
+          "The Godfather I"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
       },
@@ -3652,6 +4166,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1050,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
       },
@@ -3670,6 +4188,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1005,
+        "aliases": [
+          "Star Wars Episode VI Return of the Jedi"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
       },
@@ -3688,6 +4212,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1423,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
       },
@@ -3706,6 +4234,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 695,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
       },
@@ -3724,6 +4256,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1272,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
       },
@@ -3742,6 +4278,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1285,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
       },
@@ -3760,6 +4300,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1512,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
       },
@@ -3778,6 +4322,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1572,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
       },
@@ -3796,6 +4344,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 974,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
       },
@@ -3814,6 +4366,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 914,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
       },
@@ -3832,6 +4388,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1042,
+        "aliases": [
+          "Olivia Rodrigo driving home to you"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
       },
@@ -3850,6 +4412,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1045,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
       },
@@ -3868,6 +4434,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1690,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
       },
@@ -3886,6 +4456,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1033,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
       },
@@ -3904,6 +4478,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1663,
+        "aliases": [
+          "Olivia Rodrigo Guts World Tour Film"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
       },
@@ -3922,6 +4502,12 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1118,
+        "aliases": [
+          "Barbie The Princess And The Popstar"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
       },
@@ -3940,6 +4526,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1000,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
       },
@@ -3958,6 +4548,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 949,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
       },
@@ -3976,6 +4570,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1609,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
       },
@@ -3994,6 +4592,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1261,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
       },
@@ -4012,6 +4614,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1013,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
       },
@@ -4030,6 +4636,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2071,
+        "aliases": [
+          "Toy Story 4"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
       },
@@ -4048,6 +4660,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1390,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
       },
@@ -4066,6 +4682,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 957,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
       },
@@ -4084,6 +4704,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 926,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
       },
@@ -4102,6 +4726,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1220,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
       },
@@ -4120,6 +4748,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 589,
+        "aliases": [
+          "Taylor Swift - City of Lover Concert"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
       },
@@ -4138,6 +4772,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1251,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
       },
@@ -4156,6 +4794,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1135,
+        "aliases": [
+          "Star Wars Episode V The Empire Strikes Back"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
       },
@@ -4174,6 +4818,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1541,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
       },
@@ -4192,6 +4840,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 967,
+        "aliases": [
+          "Cinderella"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
       },
@@ -4210,6 +4864,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1037,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg"
       },
@@ -4228,6 +4886,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1431,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
       },
@@ -4246,6 +4908,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1155,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
       },
@@ -4264,6 +4930,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1060,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
       },
@@ -4282,6 +4952,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1544,
+        "aliases": [
+          "Super Mario Galaxy The Movie"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
       },
@@ -4300,6 +4976,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 885,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
       },
@@ -4318,6 +4998,12 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1219,
+        "aliases": [
+          "Star Wars Episode II Attack of the Clones"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
       },
@@ -4336,6 +5022,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1177,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
       },
@@ -4354,6 +5044,12 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1166,
+        "aliases": [
+          "All The Bright Places"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
       },
@@ -4372,6 +5068,10 @@
         "level": "A2",
         "rating": "TE+7",
         "dialogues": 1309,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
       },
@@ -4390,6 +5090,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1133,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
       },
@@ -4408,6 +5112,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1194,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
       },
@@ -4426,6 +5134,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1116,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
       },
@@ -4444,6 +5156,10 @@
         "level": "A1",
         "rating": "TE",
         "dialogues": 794,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
       },
@@ -4462,6 +5178,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 440,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
       },
@@ -4480,6 +5200,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1433,
+        "aliases": [
+          "Retribution"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg"
       },
@@ -4498,6 +5224,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 569,
+        "aliases": [
+          "The Muppet Show (with Sabrina Carpenter)"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg"
       },
@@ -4516,6 +5248,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 728,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg"
       },
@@ -4534,6 +5270,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 907,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
       },
@@ -4552,6 +5292,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 940,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
       },
@@ -4570,6 +5314,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 466,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
       },
@@ -4588,6 +5336,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 904,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
       },
@@ -4606,6 +5358,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 363,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
       },
@@ -4624,6 +5380,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1073,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
       },
@@ -4642,6 +5402,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1029,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
       },
@@ -4660,6 +5424,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 638,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
       },
@@ -4678,6 +5446,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 943,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
       },
@@ -4696,6 +5468,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1123,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
       },
@@ -4714,6 +5490,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1074,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
       },
@@ -4732,6 +5512,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 759,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
       },
@@ -4750,6 +5534,12 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 457,
+        "aliases": [
+          "Rambo IV (John Rambo)"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
       },
@@ -4768,6 +5558,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 912,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
       },
@@ -4786,6 +5580,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 825,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
       },
@@ -4804,6 +5602,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 754,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
       },
@@ -4822,6 +5624,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 481,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
       },
@@ -4840,6 +5646,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1015,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
       }
@@ -4850,60 +5660,60 @@
     "uniqueMovies": 5,
     "totalDialogues": 8327,
     "topWord": {
-      "word": "Creepy",
-      "count": 12,
-      "translation": "pervertido(a)"
+      "word": "Bring up",
+      "count": 2,
+      "translation": "criar, educar"
     },
     "topList": [
       {
-        "word": "Creepy",
-        "count": 12,
-        "translation": "pervertido(a)"
+        "word": "Bring up",
+        "count": 2,
+        "translation": "criar, educar"
       },
       {
-        "word": "Come along",
-        "count": 10,
-        "translation": "acompañar"
+        "word": "Crumble",
+        "count": 2,
+        "translation": "desmoronar, derrumbarse"
       },
       {
-        "word": "Pull up",
-        "count": 9,
-        "translation": "mostrar, levantar, acercar, detener"
+        "word": "Diffuse (verbo)",
+        "count": 2,
+        "translation": "difundir, dispersar, esparcir"
       },
       {
-        "word": "Hang on",
-        "count": 8,
-        "translation": "espera un momento"
+        "word": "Drop",
+        "count": 2,
+        "translation": "soltar, dejar caer, caer"
       },
       {
-        "word": "Sniff (verbo)",
-        "count": 8,
-        "translation": "olfatear"
+        "word": "Flip",
+        "count": 2,
+        "translation": "mortal, vuelta (en términos acrobáticos)"
       },
       {
-        "word": "Go over",
-        "count": 8,
-        "translation": "repasar, examinar"
+        "word": "Get into",
+        "count": 2,
+        "translation": "entrar en, ponerse"
       },
       {
-        "word": "Back up",
-        "count": 7,
-        "translation": "respaldar (a alguien o algo)"
+        "word": "Go down",
+        "count": 2,
+        "translation": "bajar, descenderse"
       },
       {
-        "word": "Prayer",
-        "count": 7,
-        "translation": "oración, plegaria"
+        "word": "Hang (verbo)",
+        "count": 2,
+        "translation": "colgar (un objeto)"
       },
       {
-        "word": "Squeeze (verbo)",
-        "count": 7,
-        "translation": "apretar, presionar, estrujar"
+        "word": "Likable",
+        "count": 2,
+        "translation": "agradable"
       },
       {
-        "word": "Set up",
-        "count": 6,
-        "translation": "prepararse"
+        "word": "On top of",
+        "count": 2,
+        "translation": "encima de"
       }
     ],
     "movieList": [
@@ -4922,6 +5732,10 @@
         "level": "B2-C1",
         "rating": "+18",
         "dialogues": 1587,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
       },
@@ -4940,6 +5754,10 @@
         "level": "B1-B2",
         "rating": "+14",
         "dialogues": 2260,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
       },
@@ -4958,6 +5776,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 2136,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
       },
@@ -4976,6 +5798,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1513,
+        "aliases": [],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
       },
@@ -4994,6 +5820,12 @@
         "level": "A2-B1",
         "rating": "TE",
         "dialogues": 831,
+        "aliases": [
+          "The Polar Express"
+        ],
+        "years": [
+          "2023"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
       }
@@ -5004,60 +5836,60 @@
     "uniqueMovies": 49,
     "totalDialogues": 82538,
     "topWord": {
-      "word": "Creepy",
-      "count": 12,
-      "translation": "espeluznante, asqueroso (alusivo a alguien)"
+      "word": "Come through",
+      "count": 7,
+      "translation": "pasar, venir"
     },
     "topList": [
       {
-        "word": "Creepy",
-        "count": 12,
-        "translation": "espeluznante, asqueroso (alusivo a alguien)"
-      },
-      {
-        "word": "Break down",
-        "count": 11,
-        "translation": "acabar con"
-      },
-      {
-        "word": "Rely (verbo)",
-        "count": 11,
-        "translation": "confiar, apostar (en algo no tangible)"
-      },
-      {
-        "word": "Get through",
-        "count": 10,
-        "translation": "pasar"
-      },
-      {
         "word": "Come through",
-        "count": 10,
+        "count": 7,
         "translation": "pasar, venir"
       },
       {
-        "word": "Settle down!",
-        "count": 10,
-        "translation": "¡Cálmense!, ¡Tranquilos!, ¡Relájense!"
+        "word": "Growl (verbo)",
+        "count": 7,
+        "translation": "gruñir"
       },
       {
-        "word": "Come along",
-        "count": 10,
-        "translation": "llegar, aparecer, venir"
+        "word": "Moan (verbo)",
+        "count": 7,
+        "translation": "gemir, gimotear, quejarse"
       },
       {
-        "word": "Settle down",
-        "count": 10,
-        "translation": "cálmense, tranquilos"
+        "word": "Snort (verbo)",
+        "count": 7,
+        "translation": "resoplar"
       },
       {
-        "word": "Settle down?",
-        "count": 10,
-        "translation": "¿Sentar cabeza?"
+        "word": "Gasp (verbo)",
+        "count": 6,
+        "translation": "jadear, respirar hondo"
       },
       {
-        "word": "Whoop (verbo)",
-        "count": 9,
-        "translation": "chillar, gritar"
+        "word": "Snarl (verbo)",
+        "count": 6,
+        "translation": "gruñir"
+      },
+      {
+        "word": "Squeak (verbo)",
+        "count": 6,
+        "translation": "chirriar"
+      },
+      {
+        "word": "Squeal (verbo)",
+        "count": 6,
+        "translation": "chillar, chirriar"
+      },
+      {
+        "word": "Stammer (verbo)",
+        "count": 6,
+        "translation": "tartamudear, balbucear"
+      },
+      {
+        "word": "Stand (verbo)",
+        "count": 6,
+        "translation": "pararse, ponerse de pie, soportar, tolerar"
       }
     ],
     "movieList": [
@@ -5214,6 +6046,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 13383,
+        "aliases": [],
+        "years": [
+          "2024",
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
       },
@@ -5232,6 +6070,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 3708,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
       },
@@ -5250,6 +6092,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 3378,
+        "aliases": [
+          "Taylor Swift – The Eras Tour Film (Taylor's Version)"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
       },
@@ -5268,6 +6116,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2083,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
       },
@@ -5286,6 +6138,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2100,
+        "aliases": [
+          "Birds of Prey"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
       },
@@ -5304,6 +6162,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1512,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
       },
@@ -5322,6 +6184,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1821,
+        "aliases": [
+          "Suicide Squad"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg"
       },
@@ -5340,6 +6208,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2051,
+        "aliases": [
+          "The Suicide Squad"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
       },
@@ -5358,6 +6232,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2431,
+        "aliases": [
+          "Amsterdam movie"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
       },
@@ -5376,6 +6256,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2160,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
       },
@@ -5394,6 +6278,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1128,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
       },
@@ -5412,6 +6300,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1334,
+        "aliases": [
+          "The Incredibles"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
       },
@@ -5430,6 +6324,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1903,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
       },
@@ -5448,6 +6346,10 @@
         "level": "C1",
         "rating": "TE+7",
         "dialogues": 2232,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
       },
@@ -5466,6 +6368,12 @@
         "level": "C1",
         "rating": "TE",
         "dialogues": 1786,
+        "aliases": [
+          "Goodbye  Christopher Robin"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
       },
@@ -5484,6 +6392,10 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1819,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg"
       },
@@ -5502,6 +6414,10 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1497,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg"
       },
@@ -5520,6 +6436,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 1546,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
       },
@@ -5538,6 +6458,12 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 1684,
+        "aliases": [
+          "Rocky"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
       },
@@ -5556,6 +6482,10 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1337,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg"
       },
@@ -5574,6 +6504,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 2268,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg"
       },
@@ -5592,6 +6526,10 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 1611,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
       },
@@ -5610,6 +6548,10 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1231,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
       },
@@ -5628,6 +6570,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1646,
+        "aliases": [
+          "Star Wars Episode I The Phantom Menace"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
       },
@@ -5646,6 +6594,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 922,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
       },
@@ -5664,6 +6616,12 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 936,
+        "aliases": [
+          "Rambo"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
       },
@@ -5682,6 +6640,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 1226,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
       },
@@ -5700,6 +6662,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1111,
+        "aliases": [
+          "Honest Thief"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
       },
@@ -5718,6 +6686,10 @@
         "level": "A2",
         "rating": "TE+7",
         "dialogues": 1103,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
       },
@@ -5736,6 +6708,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 2146,
+        "aliases": [
+          "Inside Out II"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
       },
@@ -5754,6 +6732,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1378,
+        "aliases": [
+          "Inside Out"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
       },
@@ -5772,6 +6756,10 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1074,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
       },
@@ -5790,6 +6778,10 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1293,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
       },
@@ -5808,6 +6800,10 @@
         "level": "C1",
         "rating": "TE",
         "dialogues": 681,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
       },
@@ -5826,6 +6822,10 @@
         "level": "B1",
         "rating": "+14",
         "dialogues": 719,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
       },
@@ -5844,6 +6844,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 695,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
       },
@@ -5862,6 +6866,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1042,
+        "aliases": [
+          "Olivia Rodrigo driving home to you"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
       },
@@ -5880,6 +6890,12 @@
         "level": "A2",
         "rating": "TE",
         "dialogues": 1118,
+        "aliases": [
+          "Barbie The Princess And The Popstar"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
       },
@@ -5898,6 +6914,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 589,
+        "aliases": [
+          "Taylor Swift - City of Lover Concert"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
       },
@@ -5916,6 +6938,12 @@
         "level": "B1",
         "rating": "TE+7",
         "dialogues": 1219,
+        "aliases": [
+          "Star Wars Episode II Attack of the Clones"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
       },
@@ -5934,6 +6962,10 @@
         "level": "A2",
         "rating": "TE+7",
         "dialogues": 1309,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
       },
@@ -5952,6 +6984,10 @@
         "level": "A1",
         "rating": "TE",
         "dialogues": 794,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
       },
@@ -5970,6 +7006,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 440,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
       },
@@ -5988,6 +7028,12 @@
         "level": "B1",
         "rating": "TE",
         "dialogues": 1433,
+        "aliases": [
+          "Retribution"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg"
       },
@@ -6006,6 +7052,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 940,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
       },
@@ -6024,6 +7074,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1029,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
       },
@@ -6042,6 +7096,12 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 457,
+        "aliases": [
+          "Rambo IV (John Rambo)"
+        ],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
       },
@@ -6060,6 +7120,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 754,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
       },
@@ -6078,6 +7142,10 @@
         "level": "B1",
         "rating": "+18",
         "dialogues": 481,
+        "aliases": [],
+        "years": [
+          "2024"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
       }
@@ -6089,59 +7157,59 @@
     "totalDialogues": 133371,
     "topWord": {
       "word": "Creepy",
-      "count": 12,
-      "translation": "espeluznante, escalofriante"
+      "count": 9,
+      "translation": "espeluznante"
     },
     "topList": [
       {
         "word": "Creepy",
-        "count": 12,
-        "translation": "espeluznante, escalofriante"
+        "count": 9,
+        "translation": "espeluznante"
       },
       {
         "word": "Rely (verbo)",
-        "count": 11,
+        "count": 9,
         "translation": "confiar, depender"
       },
       {
         "word": "Break down",
-        "count": 11,
-        "translation": "romper"
+        "count": 8,
+        "translation": "romper, descomponer"
       },
       {
-        "word": "Get through",
-        "count": 10,
-        "translation": "pasar"
+        "word": "Thus (adverbio)",
+        "count": 6,
+        "translation": "así, de este modo, por lo tanto"
       },
       {
-        "word": "Come through",
-        "count": 10,
-        "translation": "pasar, venir"
+        "word": "Apiece",
+        "count": 5,
+        "translation": "cada uno"
       },
       {
-        "word": "Come along",
-        "count": 10,
-        "translation": "acompañar, venir"
+        "word": "Bold",
+        "count": 5,
+        "translation": "audaz, atrevido"
       },
       {
-        "word": "Settle down",
-        "count": 10,
-        "translation": "sentar cabeza"
+        "word": "Crawl (verbo)",
+        "count": 5,
+        "translation": "arrastrarse"
       },
       {
-        "word": "Pull up",
-        "count": 9,
-        "translation": "levantar, subir"
+        "word": "Maid",
+        "count": 5,
+        "translation": "criada, sirvienta"
       },
       {
-        "word": "Bring down",
-        "count": 9,
-        "translation": "hundir, deprimir"
+        "word": "Narrow down",
+        "count": 5,
+        "translation": "acotar"
       },
       {
-        "word": "Whoop (verbo)",
-        "count": 9,
-        "translation": "gritar"
+        "word": "Offspring",
+        "count": 5,
+        "translation": "descendencia"
       }
     ],
     "movieList": [
@@ -6382,6 +7450,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 21006,
+        "aliases": [],
+        "years": [
+          "2024",
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
       },
@@ -6634,6 +7708,11 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 13660,
+        "aliases": [],
+        "years": [
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
       },
@@ -6754,6 +7833,10 @@
         "level": "B2/C1",
         "rating": "+18",
         "dialogues": 14923,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
       },
@@ -6772,6 +7855,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 3255,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
       },
@@ -6832,6 +7919,13 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 4222,
+        "aliases": [
+          "Creating Queen's Gambit",
+          "Queen's Gambit"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg"
       },
@@ -6850,6 +7944,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1307,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
       },
@@ -6868,6 +7966,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1553,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
       },
@@ -6886,6 +7988,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2606,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
       },
@@ -6904,6 +8010,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1714,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
       },
@@ -6922,6 +8032,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1514,
+        "aliases": [
+          "Cars movie"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
       },
@@ -6940,6 +8056,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1492,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
       },
@@ -6958,6 +8078,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1653,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
       },
@@ -6976,6 +8100,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1733,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
       },
@@ -6994,6 +8122,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1360,
+        "aliases": [
+          "The Ice Road"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
       },
@@ -7012,6 +8146,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1726,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
       },
@@ -7030,6 +8168,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1734,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
       },
@@ -7048,6 +8190,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1554,
+        "aliases": [
+          "Taylor Swift - Folklore The Long Pond Sessions"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
       },
@@ -7066,6 +8214,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1094,
+        "aliases": [
+          "Kim Possible - So The Drama"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
       },
@@ -7084,6 +8238,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 720,
+        "aliases": [
+          "A Christmas Carol"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg"
       },
@@ -7102,6 +8262,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1575,
+        "aliases": [
+          "Finding Nemo"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
       },
@@ -7138,6 +8304,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1513,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
       },
@@ -7156,6 +8326,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1302,
+        "aliases": [
+          "Star Wars Episode IV A New Hope"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iWEJuiNOlScWVxfNVyXiXf6lCiG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
       },
@@ -7174,6 +8350,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1424,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
       },
@@ -7192,6 +8372,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1255,
+        "aliases": [
+          "A Bug's Life"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
       },
@@ -7210,6 +8396,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1245,
+        "aliases": [
+          "Toy Story 3"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
       },
@@ -7228,6 +8420,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1395,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
       },
@@ -7246,6 +8442,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1935,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
       },
@@ -7264,6 +8464,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1177,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
       },
@@ -7282,6 +8486,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1467,
+        "aliases": [
+          "The Substance"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
       },
@@ -7300,6 +8510,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1146,
+        "aliases": [
+          "Alvin and the Chipmunks"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
       },
@@ -7318,6 +8534,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1102,
+        "aliases": [
+          "Star Wars Episode III Revenge of the Sith"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
       },
@@ -7336,6 +8558,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1883,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
       },
@@ -7354,6 +8580,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1888,
+        "aliases": [
+          "Escape from Sobibor"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sAeljrIHTtKgJ2BaVoa9oCTmD4u.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
       },
@@ -7372,6 +8604,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1437,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
       },
@@ -7390,6 +8626,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1354,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
       },
@@ -7408,6 +8648,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1483,
+        "aliases": [
+          "The Godfather I"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
       },
@@ -7426,6 +8672,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1050,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
       },
@@ -7444,6 +8694,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1005,
+        "aliases": [
+          "Star Wars Episode VI Return of the Jedi"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
       },
@@ -7462,6 +8718,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1423,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
       },
@@ -7480,6 +8740,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1272,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
       },
@@ -7498,6 +8762,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1512,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
       },
@@ -7516,6 +8784,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 914,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
       },
@@ -7534,6 +8806,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1033,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
       },
@@ -7552,6 +8828,12 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1663,
+        "aliases": [
+          "Olivia Rodrigo Guts World Tour Film"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
       },
@@ -7570,6 +8852,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 949,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
       },
@@ -7588,6 +8874,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1013,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
       },
@@ -7606,6 +8896,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1390,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
       },
@@ -7624,6 +8918,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 957,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
       },
@@ -7642,6 +8940,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 926,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
       },
@@ -7660,6 +8962,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1220,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
       },
@@ -7678,6 +8984,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1135,
+        "aliases": [
+          "Star Wars Episode V The Empire Strikes Back"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
       },
@@ -7696,6 +9008,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1541,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
       },
@@ -7714,6 +9030,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1431,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
       },
@@ -7732,6 +9052,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 885,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
       },
@@ -7750,6 +9074,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1177,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
       },
@@ -7768,6 +9096,12 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1166,
+        "aliases": [
+          "All The Bright Places"
+        ],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
       },
@@ -7786,6 +9120,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1133,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
       },
@@ -7804,6 +9142,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 728,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg"
       },
@@ -7822,6 +9164,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 638,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
       },
@@ -7840,6 +9186,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 943,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
       },
@@ -7858,6 +9208,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1123,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
       },
@@ -7876,6 +9230,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 912,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
       },
@@ -7894,6 +9252,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 825,
+        "aliases": [],
+        "years": [
+          "2025"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
       }
@@ -7904,60 +9266,60 @@
     "uniqueMovies": 62,
     "totalDialogues": 161469,
     "topWord": {
-      "word": "Creepy",
-      "count": 12,
-      "translation": "espeluznante, escalofriante, horripilante"
+      "word": "Landlord",
+      "count": 8,
+      "translation": "propietario, arrendador, terrateniente"
     },
     "topList": [
       {
-        "word": "Creepy",
-        "count": 12,
-        "translation": "espeluznante, escalofriante, horripilante"
-      },
-      {
-        "word": "Break down",
-        "count": 11,
-        "translation": "derrumbarse"
-      },
-      {
-        "word": "Rely (verbo)",
-        "count": 11,
-        "translation": "confiar, contar (con alguien)"
-      },
-      {
-        "word": "Get through",
-        "count": 10,
-        "translation": "superar, pasar (algo)"
-      },
-      {
-        "word": "Come through",
-        "count": 10,
-        "translation": "pasar"
-      },
-      {
-        "word": "Come along",
-        "count": 10,
-        "translation": "ven conmigo"
-      },
-      {
-        "word": "Settle down",
-        "count": 10,
-        "translation": "establecerse, asentarse"
+        "word": "Landlord",
+        "count": 8,
+        "translation": "propietario, arrendador, terrateniente"
       },
       {
         "word": "Wind up",
-        "count": 9,
+        "count": 6,
         "translation": "acabar, terminar"
       },
       {
-        "word": "Whoop (verbo)",
-        "count": 9,
-        "translation": "gritar"
+        "word": "Bug (verbo)",
+        "count": 5,
+        "translation": "molestar"
       },
       {
-        "word": "Bring down",
-        "count": 9,
-        "translation": "bajar"
+        "word": "Fool (verbo)",
+        "count": 5,
+        "translation": "engañar"
+      },
+      {
+        "word": "Get through",
+        "count": 5,
+        "translation": "superar, pasar (algo)"
+      },
+      {
+        "word": "Girdle",
+        "count": 5,
+        "translation": "faja, cremallera, corsé"
+      },
+      {
+        "word": "Layover",
+        "count": 5,
+        "translation": "escala"
+      },
+      {
+        "word": "Outstanding",
+        "count": 5,
+        "translation": "destacado, sobresaliente, excelente"
+      },
+      {
+        "word": "Pull away",
+        "count": 5,
+        "translation": "alejarse"
+      },
+      {
+        "word": "Trim (verbo)",
+        "count": 5,
+        "translation": "recortar"
       }
     ],
     "movieList": [
@@ -8396,6 +9758,11 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 29498,
+        "aliases": [],
+        "years": [
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
       },
@@ -8540,6 +9907,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 12312,
+        "aliases": [],
+        "years": [
+          "2024",
+          "2025",
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
       },
@@ -8636,6 +10009,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 11753,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
       },
@@ -8708,6 +10085,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 7422,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
       },
@@ -8768,6 +10149,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 7905,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
       },
@@ -8828,6 +10213,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 5220,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
       },
@@ -8876,6 +10265,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 4154,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
       },
@@ -8894,6 +10287,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2023,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
       },
@@ -8912,6 +10309,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2161,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg"
       },
@@ -8930,6 +10331,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2352,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
       },
@@ -8948,6 +10353,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2240,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
       },
@@ -8966,6 +10375,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1263,
+        "aliases": [
+          "Pride and Prejudice"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
       },
@@ -8984,6 +10399,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 2008,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
       },
@@ -9002,6 +10421,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 2420,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
       },
@@ -9020,6 +10443,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2836,
+        "aliases": [
+          "Taylor Swift - The Eras Tour Film (The Final Show)"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
       },
@@ -9038,6 +10467,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1763,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
       },
@@ -9056,6 +10489,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1996,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
       },
@@ -9074,6 +10511,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 853,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
       },
@@ -9092,6 +10533,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1745,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
       },
@@ -9110,6 +10555,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1846,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
       },
@@ -9128,6 +10577,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2517,
+        "aliases": [
+          "Taylor Swift 1989 The World Tour"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
       },
@@ -9146,6 +10601,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1700,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
       },
@@ -9164,6 +10623,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1108,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
       },
@@ -9182,6 +10645,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 947,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
       },
@@ -9200,6 +10667,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1697,
+        "aliases": [
+          "Cars 3"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
       },
@@ -9218,6 +10691,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1945,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
       },
@@ -9236,6 +10713,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2380,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
       },
@@ -9254,6 +10735,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2371,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg"
       },
@@ -9272,6 +10757,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1781,
+        "aliases": [
+          "An American Success - Girl Stirs Up Success"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
       },
@@ -9290,6 +10781,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1899,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
       },
@@ -9308,6 +10803,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1143,
+        "aliases": [
+          "Sleeping Beauty"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
       },
@@ -9326,6 +10827,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1526,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
       },
@@ -9344,6 +10849,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1602,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
       },
@@ -9362,6 +10871,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1760,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
       },
@@ -9410,6 +10923,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 2439,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
       },
@@ -9428,6 +10945,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1887,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
       },
@@ -9446,6 +10967,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1287,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
       },
@@ -9464,6 +10989,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1285,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
       },
@@ -9482,6 +11011,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1572,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
       },
@@ -9500,6 +11033,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 974,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
       },
@@ -9518,6 +11055,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1045,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
       },
@@ -9536,6 +11077,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1690,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
       },
@@ -9554,6 +11099,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1000,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
       },
@@ -9572,6 +11121,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1609,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
       },
@@ -9590,6 +11143,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1261,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
       },
@@ -9608,6 +11165,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 2071,
+        "aliases": [
+          "Toy Story 4"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
       },
@@ -9626,6 +11189,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 967,
+        "aliases": [
+          "Cinderella"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
       },
@@ -9644,6 +11213,10 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1037,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg"
       },
@@ -9662,6 +11235,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1155,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
       },
@@ -9680,6 +11257,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1060,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
       },
@@ -9698,6 +11279,12 @@
         "level": "B2",
         "rating": "TE+7",
         "dialogues": 1544,
+        "aliases": [
+          "Super Mario Galaxy The Movie"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
       },
@@ -9716,6 +11303,10 @@
         "level": "B2",
         "rating": "+18",
         "dialogues": 1194,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
       },
@@ -9734,6 +11325,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1116,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
       },
@@ -9752,6 +11347,12 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 569,
+        "aliases": [
+          "The Muppet Show (with Sabrina Carpenter)"
+        ],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg"
       },
@@ -9770,6 +11371,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 907,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
       },
@@ -9788,6 +11393,10 @@
         "level": "C1",
         "rating": "+18",
         "dialogues": 466,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
       },
@@ -9806,6 +11415,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 904,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
       },
@@ -9824,6 +11437,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 363,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
       },
@@ -9842,6 +11459,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1073,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
       },
@@ -9860,6 +11481,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1074,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
       },
@@ -9878,6 +11503,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 759,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
       },
@@ -9896,6 +11525,10 @@
         "level": "B2",
         "rating": "+14",
         "dialogues": 1015,
+        "aliases": [],
+        "years": [
+          "2026"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
       }
@@ -9906,60 +11539,60 @@
     "uniqueMovies": 1,
     "totalDialogues": 1251,
     "topWord": {
-      "word": "Go over",
-      "count": 8,
-      "translation": "ir"
+      "word": "A shooting spree",
+      "count": 1,
+      "translation": "un tiroteo, una balacera"
     },
     "topList": [
       {
-        "word": "Go over",
-        "count": 8,
-        "translation": "ir"
+        "word": "A shooting spree",
+        "count": 1,
+        "translation": "un tiroteo, una balacera"
       },
       {
-        "word": "Wince (verbo)",
-        "count": 6,
-        "translation": "estremecerse, hacer un gesto de dolor"
+        "word": "A shot-caller",
+        "count": 1,
+        "translation": "un lanzador, un tirador"
       },
       {
-        "word": "Bargain (verbo)",
-        "count": 4,
-        "translation": "negociar, regatear"
-      },
-      {
-        "word": "Blow (sustantivo)",
-        "count": 3,
-        "translation": "golpe"
-      },
-      {
-        "word": "Bleed out",
-        "count": 3,
-        "translation": "desangrar"
+        "word": "Any blanks in this batch (no literal)",
+        "count": 1,
+        "translation": "cualquier espacio en blanco en este lote"
       },
       {
         "word": "Backpedal (verbo)",
-        "count": 2,
+        "count": 1,
         "translation": "retroceder, ir marcha atrás"
       },
       {
-        "word": "Trippy",
-        "count": 2,
-        "translation": "alucinante, raro"
+        "word": "Bargain (verbo)",
+        "count": 1,
+        "translation": "negociar, regatear"
       },
       {
-        "word": "On the other end",
-        "count": 2,
-        "translation": "en el otro extremo"
+        "word": "Beat him to a pulp (frase no literal)",
+        "count": 1,
+        "translation": "lo hice papilla"
+      },
+      {
+        "word": "Bit mouthy",
+        "count": 1,
+        "translation": "un poco bocaza/hablador"
+      },
+      {
+        "word": "Bleed out",
+        "count": 1,
+        "translation": "desangrar"
+      },
+      {
+        "word": "Blow (sustantivo)",
+        "count": 1,
+        "translation": "golpe"
       },
       {
         "word": "Crop",
-        "count": 2,
+        "count": 1,
         "translation": "cosecha, cultivo"
-      },
-      {
-        "word": "Rub off",
-        "count": 2,
-        "translation": "contagiar"
       }
     ],
     "movieList": [
@@ -9978,6 +11611,10 @@
         "level": "B2",
         "rating": "TE",
         "dialogues": 1251,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
       }

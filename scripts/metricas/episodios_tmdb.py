@@ -21,11 +21,25 @@ import urllib.parse
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from rutas import CATALOGO, DATA, absoluta  # noqa: E402
+from rutas import CATALOGO, DATA, RAIZ, absoluta  # noqa: E402
 from conteo import MARCADOR, _marcador, leer_lineas, normalizar  # noqa: E402
 from actualizar import clave_de_nombre  # noqa: E402
 
-API_KEY = os.environ.get('NEXT_PUBLIC_TMDB_API_KEY', 'd1765b8dccaf994068c4055e49e80566')
+def _clave_tmdb():
+    """La clave de TMDB sale del entorno o de fanning-dashboard/.env.local, nunca del código."""
+    for nombre in ('TMDB_API_KEY', 'NEXT_PUBLIC_TMDB_API_KEY'):
+        if os.environ.get(nombre):
+            return os.environ[nombre]
+    env = os.path.join(RAIZ, 'fanning-dashboard', '.env.local')
+    if os.path.exists(env):
+        for linea in open(env, encoding='utf-8'):
+            nombre, _, valor = linea.strip().partition('=')
+            if nombre in ('TMDB_API_KEY', 'NEXT_PUBLIC_TMDB_API_KEY') and valor:
+                return valor.strip().strip('"')
+    sys.exit('Falta la clave de TMDB: defínela en TMDB_API_KEY o en fanning-dashboard/.env.local')
+
+
+API_KEY = None
 IMG = 'https://image.tmdb.org/t/p/w500'
 # Nombre con el que se busca la serie en TMDB, cuando difiere del de la página.
 BUSQUEDA = {'Gambito de Dama': "The Queen's Gambit"}
@@ -36,6 +50,8 @@ ESPECIAL_PELICULA = {('Gambito de Dama', 'SP01'): 784047}
 
 
 def tmdb(ruta, **params):
+    global API_KEY
+    API_KEY = API_KEY or _clave_tmdb()
     params['api_key'] = API_KEY
     url = f'https://api.themoviedb.org/3/{ruta}?{urllib.parse.urlencode(params)}'
     try:

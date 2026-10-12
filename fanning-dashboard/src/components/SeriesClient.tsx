@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
+import { miles } from '@/lib/formato';
 import { useRouter } from 'next/navigation';
 import { Loader2, ArrowLeft, Film, PlayCircle, BookOpen, Quote } from 'lucide-react';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
@@ -137,14 +138,14 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
             </h1>
             <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 items-center text-sm sm:text-base md:text-lg">
               <span suppressHydrationWarning className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                <BookOpen size={16} className="sm:w-5 sm:h-5" /> {movieData.count.toLocaleString('en-US')} Palabras Globales
+                <BookOpen size={16} className="sm:w-5 sm:h-5" /> {miles(movieData.count)} Palabras Globales
               </span>
               <span className="flex items-center gap-2 bg-pink-600/30 border border-pink-400/30 text-pink-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                <PlayCircle size={16} className="sm:w-5 sm:h-5" /> {movieData.episodes.length} Episodios Analizados
+                <PlayCircle size={16} className="sm:w-5 sm:h-5" /> {miles(movieData.episodes.length)} Episodios Analizados
               </span>
               {totalDialogues > 0 && (
                 <span className="flex items-center gap-2 bg-emerald-600/30 border border-emerald-400/30 text-emerald-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
-                  <Film size={20} /> {totalDialogues.toLocaleString()} Líneas Totales de la Serie
+                  <Film size={20} /> {miles(totalDialogues)} Líneas Totales de la Serie
                 </span>
               )}
             </div>
@@ -153,7 +154,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
               <div className="flex flex-wrap justify-center md:justify-start gap-2 mt-4">
                 {Object.entries(seasonDialogues).map(([s, val], i) => (
                   <span key={i} className="text-xs sm:text-sm bg-gray-800/80 text-gray-300 px-3 py-1 rounded-full border border-gray-600/50 backdrop-blur-md">
-                    {s}: {val.toLocaleString()} líneas
+                    {s}: {miles(val)} líneas
                   </span>
                 ))}
               </div>
@@ -293,14 +294,14 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                     <div className="flex items-center justify-between">
                       <span className="text-gray-400 text-sm">No entendidas:</span>
                       <span className="text-xl font-black bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-400">
-                        {ep.count} <span className="text-sm font-medium text-gray-500">palabras</span>
+                        {miles(ep.count)} <span className="text-sm font-medium text-gray-500">palabras</span>
                       </span>
                     </div>
                     {ep.dialogues !== undefined && ep.dialogues > 0 && (
                       <>
                         <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/10">
                           <span className="text-gray-400 text-sm">Líneas de diálogo:</span>
-                          <span className="text-emerald-400 font-bold">{ep.dialogues}</span>
+                          <span className="text-emerald-400 font-bold">{miles(ep.dialogues)}</span>
                         </div>
                         <div className="flex items-center justify-between mt-1">
                           <span className="text-gray-400 text-sm">Comprensión:</span>
@@ -419,7 +420,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       {/* Shuffle Button & Progress */}
                       <div className="flex justify-between items-center w-full max-w-2xl mx-auto mb-4 sm:mb-6">
                           <span className="text-gray-400 font-bold bg-gray-800 px-4 py-1 rounded-full shadow-inner border border-gray-700">
-                              {currentCardIndex + 1} / {flashcards.length}
+                              {miles(currentCardIndex + 1)} / {miles(flashcards.length)}
                           </span>
                           <button 
                               onClick={() => {

@@ -3,6 +3,7 @@
 "use client";
 
 import React, { useState } from 'react';
+import { miles } from '@/lib/formato';
 import { useRouter } from 'next/navigation';
 import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info, Edit2 } from 'lucide-react';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
@@ -157,7 +158,7 @@ export default function PeliculaClient({ slug, initialMovieData, initialExtraDat
             <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-6">
               <div className="bg-purple-900/40 border border-purple-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
                 <BookOpen size={24} className="mx-auto text-purple-400 mb-2" />
-                <p className="text-2xl font-bold text-white">{unknownWords.toLocaleString()}</p>
+                <p className="text-2xl font-bold text-white">{miles(unknownWords)}</p>
                 <p className="text-xs text-purple-300 uppercase tracking-wider font-semibold">Palabras</p>
               </div>
 
@@ -165,7 +166,7 @@ export default function PeliculaClient({ slug, initialMovieData, initialExtraDat
                 <>
                   <div className="bg-emerald-900/40 border border-emerald-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
                     <Film size={24} className="mx-auto text-emerald-400 mb-2" />
-                    <p className="text-2xl font-bold text-white">{totalDialogues.toLocaleString()}</p>
+                    <p className="text-2xl font-bold text-white">{miles(totalDialogues)}</p>
                     <p className="text-xs text-emerald-300 uppercase tracking-wider font-semibold">Líneas Diálogo</p>
                   </div>
                   <div className="bg-cyan-900/40 border border-cyan-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
@@ -315,7 +316,7 @@ export default function PeliculaClient({ slug, initialMovieData, initialExtraDat
                       {/* Shuffle Button & Progress */}
                       <div className="flex justify-between items-center w-full max-w-2xl mx-auto mb-4 sm:mb-6">
                           <span className="text-gray-400 font-bold bg-gray-800 px-4 py-1 rounded-full shadow-inner border border-gray-700">
-                              {currentCardIndex + 1} / {flashcards.length}
+                              {miles(currentCardIndex + 1)} / {miles(flashcards.length)}
                           </span>
                           <button 
                               onClick={() => {

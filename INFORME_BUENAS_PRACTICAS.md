@@ -1,12 +1,13 @@
 # Informe de Buenas Prácticas de Ingeniería de Software — Proyecto Fanning
 
-**Fecha:** 2026-10-02
+**Primera versión:** 2026-10-02
+**Actualizado:** 2026-10-12, después de rehacer el conteo de métricas, el catálogo de títulos, los datos de TMDB y el buscador.
 **Alcance:** `fanning-dashboard/` (Next.js 16 + React 19 + TypeScript), scripts de Python (`scripts/`, `fanning-dashboard/scripts/`, `fanning-dashboard/scratch/` y la raíz) y la organización del repositorio.
 **Contexto:** es una aplicación personal, compartida con amigos, sin usuarios anónimos ni datos sensibles. Por eso la severidad se calibra con ese contexto. No se exige lo mismo que a un producto comercial, pero sí lo que ahorra trabajo y evita romper la app.
 
-**Verificaciones ejecutadas:**
+**Verificaciones ejecutadas (2026-10-12):**
 - `npx tsc --noEmit`: ✅ sin errores de tipos.
-- `npx eslint src`: ❌ **59 problemas (38 errores, 21 advertencias)**:
+- `npx eslint src`: ❌ **59 problemas (38 errores, 21 advertencias)**. Son los mismos que el 2 de octubre: los archivos nuevos (`SearchModal.tsx`, `lib/formato.ts`) no agregan ninguno.
 
 | Regla | Cantidad |
 |---|---|
@@ -16,190 +17,186 @@
 | `react-hooks/set-state-in-effect` | 3 |
 | `react-hooks/exhaustive-deps` | 1 |
 
----
-
-## Resumen por severidad
-
-| # | Hallazgo | Severidad |
-|---|---|---|
-| 1 | API key de TMDB escrita en el código (≈12 archivos) y publicada en Git | 🔴 Alta |
-| 2 | La refactorización quedó a medias: `FlashcardViewer` y `useTMDB` existen pero nadie los usa | 🔴 Alta |
-| 3 | Duplicación masiva entre `PeliculaClient` y `SeriesClient` (~500 líneas cada uno) | 🔴 Alta |
-| 4 | Diccionario `tmdbOverrides` duplicado y con valores que ya no coinciden | 🟠 Media |
-| 5 | Lista `special_series` todavía escrita a mano en `generate_manifest.py` | 🟠 Media |
-| 6 | Varias fuentes de verdad para los datos (`manifest.json` editado por scripts distintos) | 🟠 Media |
-| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media |
-| 8 | Tipado débil: `any` en props, datos del manifest y respuestas de TMDB | 🟠 Media |
-| 9 | Código muerto: `mediaStats.ts` (2.012 líneas), imports y botones sin uso | 🟡 Baja |
-| 10 | Antipatrones de React (estado derivado en `useEffect`, `useState` innecesario, `setTimeout` sin limpiar) | 🟡 Baja |
-| 11 | Coincidencia de títulos por subcadena (`includes`), frágil | 🟡 Baja |
-| 12 | Archivos temporales y binarios versionados en Git (repo de 214 MB) | 🟡 Baja |
-| 13 | No hay pruebas, CI ni validación de datos | 🟡 Baja |
-| 14 | Detalles menores: `lang="en"`, README genérico, mensajes de commit, CSS inline, etc. | ⚪ Menor |
+- `python scripts/metricas/test_conteo.py`: ✅ 15 pruebas, todas pasan.
+- `npm run build`: ✅ genera las 183 páginas (177 títulos).
 
 ---
 
-## 1. 🔴 API key de TMDB escrita en el código
+## Qué cambió desde la primera versión
 
-La misma clave (`d1765b8d…`) aparece literal en:
+Entre el 11 y el 12 de octubre se reemplazó el sistema de datos:
 
-- `fanning-dashboard/src/hooks/useTMDB.ts:4`, como *fallback* de `process.env.NEXT_PUBLIC_TMDB_API_KEY`
-- `fanning-dashboard/scripts/fetch_tmdb.ts:120`
-- `fanning-dashboard/scripts/enrich_kim_tmdb.py`, `generate_tbbt_json.py` y `scratch/fetch_tmdb.py`
+- **Un solo flujo de métricas** en `scripts/metricas/`. `catalogo.json` dice qué PDFs son de cada título. `conteo.py` aplica los criterios escritos en `Metodología/`. `actualizar.py` genera `pelis/*.json`, los vocabularios por año y `manifest.json`.
+- **Se archivaron los scripts que reescribían los datos:** `generate_manifest.py`, `count_*`, `fix_*_flat`, `reparse_*`, `generate_json.py` y `find_typos.py`. Este último había dañado el vocabulario con un corrector ortográfico.
+- **El tipo (serie o película) y el cruce de títulos salen del catálogo**, no de listas a mano ni de coincidencias por subcadena.
+- **Se agregaron pruebas** de las reglas de conteo.
+- **El botón "Buscar" ya funciona**: busca por título o por el nombre en inglés, filtra por tipo y se abre con Ctrl + K.
+- **Los números usan punto de miles** mediante una función común, `lib/formato.ts`.
+
+---
+
+## Resumen por severidad y estado
+
+| # | Hallazgo | Severidad | Estado |
+|---|---|---|---|
+| 1 | API key de TMDB escrita en el código y publicada en Git | 🔴 Alta | ❌ Pendiente (11 archivos) |
+| 2 | La refactorización quedó a medias: `FlashcardViewer` y `useTMDB` existen pero nadie los usa | 🔴 Alta | ❌ Pendiente |
+| 3 | Duplicación masiva entre `PeliculaClient` y `SeriesClient` | 🔴 Alta | ❌ Pendiente |
+| 4 | Diccionario `tmdbOverrides` duplicado y con valores que ya no coinciden | 🟠 Media | ❌ Pendiente |
+| 5 | Lista `special_series` y años escritos a mano | 🟠 Media | ✅ Resuelto (queda una lista de años) |
+| 6 | Varias fuentes de verdad para los datos | 🟠 Media | 🟡 Parcial |
+| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media | 🟡 Parcial |
+| 8 | Tipado débil: `any` en props, datos del manifest y respuestas de TMDB | 🟠 Media | ❌ Pendiente |
+| 9 | Código muerto: `mediaStats.ts`, imports y el botón "Buscar" sin uso | 🟡 Baja | 🟡 Parcial (el botón ya funciona) |
+| 10 | Antipatrones de React | 🟡 Baja | ❌ Pendiente |
+| 11 | Coincidencia de títulos por subcadena (`includes`), frágil | 🟡 Baja | 🟡 Parcial |
+| 12 | Archivos temporales y binarios versionados en Git | 🟡 Baja | 🟡 Parcial |
+| 13 | No hay pruebas, CI ni validación de datos | 🟡 Baja | 🟡 Parcial |
+| 14 | Detalles menores: `lang="en"`, README genérico, etc. | ⚪ Menor | ❌ Pendiente |
+| 15 | 🆕 Fotos de episodios guardadas por posición, no por código de episodio | 🟠 Media | ❌ Pendiente |
+| 16 | 🆕 Archivos generados guardados en Git (`verificaciones/`, reportes) | 🟡 Baja | ❌ Pendiente |
+
+---
+
+## 1. 🔴 API key de TMDB escrita en el código — ❌ Pendiente
+
+La misma clave (`d1765b8d…`) sigue literal en 11 archivos:
+
+- `fanning-dashboard/src/hooks/useTMDB.ts`, como *fallback* de `process.env.NEXT_PUBLIC_TMDB_API_KEY`
+- `fanning-dashboard/scripts/fetch_tmdb.ts`, `enrich_kim_tmdb.py` y `generate_tbbt_json.py`
+- `fanning-dashboard/scratch/fetch_tmdb.py`
 - `scripts/fetch_ratings.py`, `fix_tmdb_data.py`, `fix_euphoria_tmdb.py`, `update_episodes_overview.py` y `update_episodes_overview_pc.py`
 - `scripts/archive/test_tmdb.py`
 
-**Por qué importa:** quedó en el historial de Git de `github.com/elpablii/Proyecto-Fanning`. Si el repo es público, cualquiera puede usarla y agotar tu cuota o hacer que TMDB la revoque. Además, el prefijo `NEXT_PUBLIC_` la incluye en el JavaScript que descarga el navegador. En el caso de TMDB v3 eso es casi inevitable si se consulta desde el cliente, pero ahora mismo la app ya no consulta TMDB desde el cliente (ver punto 2).
+Los scripts nuevos (`scripts/metricas/episodios_tmdb.py` y `posters_tmdb.py`) ya hacen lo correcto: leen la clave de `TMDB_API_KEY` o de `fanning-dashboard/.env.local` y se detienen con un mensaje claro si falta. Conviene copiar ese patrón al resto.
+
+**Por qué importa:** la clave quedó en el historial de Git de `github.com/elpablii/Proyecto-Fanning`. Si el repo es público, cualquiera puede usarla y agotar tu cuota, o TMDB puede revocarla.
 
 **Recomendación:**
 1. Regenerar la clave en TMDB, porque la actual ya es pública en el historial.
-2. Guardarla en `.env.local` (ya está ignorado por `.gitignore`) como `TMDB_API_KEY`, sin el prefijo `NEXT_PUBLIC_`.
-3. En Python, leerla con `os.environ["TMDB_API_KEY"]` (o con `python-dotenv`) y fallar con un mensaje claro si falta, nunca con un valor por defecto.
+2. Guardarla solo en `.env.local` (ya ignorado por Git) como `TMDB_API_KEY`. La app ya no consulta TMDB desde el navegador, así que no necesita el prefijo `NEXT_PUBLIC_`.
+3. Borrar el valor por defecto de los 11 archivos.
 
-## 2. 🔴 La refactorización quedó a medias
+## 2. 🔴 La refactorización quedó a medias — ❌ Pendiente
 
-`PLAN_REFACTORIZACION.md` marca como ✅ los puntos 1 y 4, pero el código dice otra cosa:
+Sin cambios:
+- **`FlashcardViewer.tsx`** se importa en `PeliculaClient.tsx` y `SeriesClient.tsx`, pero no se renderiza en ninguno. Los dos siguen con su propio modal de flashcards copiado.
+- **`hooks/useTMDB.ts`** no lo importa ningún archivo. Los pósters, fondos y fotos de episodios ahora los ponen los scripts `posters_tmdb.py` y `episodios_tmdb.py`, así que este hook sobra del todo.
 
-- **`components/ui/FlashcardViewer.tsx`** se importa en `PeliculaClient.tsx:8` y `SeriesClient.tsx:6`, pero **nunca se renderiza**. Los dos componentes siguen teniendo su propio modal de flashcards copiado (~150 líneas cada uno).
-- **`hooks/useTMDB.ts`** (216 líneas) **no lo importa ningún archivo**. Hoy los pósters y sinopsis vienen precalculados en `manifest.json` y en `pelis/*.json`.
+**Recomendación:** usar `<FlashcardViewer>` en las dos páginas, borrar `useTMDB.ts` y corregir `PLAN_REFACTORIZACION.md`, que marca estos puntos como hechos.
 
-**Por qué importa:** un plan que dice "completado" cuando no lo está genera falsa confianza. Si corriges un bug en `FlashcardViewer`, no se arregla en la app.
+## 3. 🔴 Duplicación entre `PeliculaClient.tsx` y `SeriesClient.tsx` — ❌ Pendiente
 
-**Recomendación:** reemplazar los modales copiados por `<FlashcardViewer initialFlashcards={...} onClose={...} />`. Después, borrar `useTMDB.ts` o moverlo a la lógica de scripts si se quiere conservar. Por último, actualizar el plan.
+Se siguen repitiendo en ambos: el aviso +18, el fondo, el póster, el visor de imágenes, el modal de flashcards y el cálculo de comprensión (también en `MovieCard.tsx` y `DashboardClient.tsx`, con el número mágico `99.445`).
 
-## 3. 🔴 Duplicación entre `PeliculaClient.tsx` (471 líneas) y `SeriesClient.tsx` (562 líneas)
+Un avance: el formato de números ya está centralizado en `lib/formato.ts` (`miles()`). Es el mismo camino que conviene seguir con el cálculo de comprensión.
 
-Se repite casi literalmente en ambos:
-- Modal de advertencia +18
-- Fondo con *backdrop* y *glassmorphism*
-- Hero con póster
-- Lightbox de imágenes
-- Modal de flashcards (que además existe en un tercer lugar)
-- Cálculo del porcentaje de comprensión (también en `MovieCard.tsx`, con el número mágico `99.445`)
-- El estado completo de flashcards (`showFlashcards`, `currentCardIndex`, `isFlipped`, `studyMode`…)
+**Recomendación:** extraer `AdultContentGate`, `BackdropLayout`, `MediaHero` e `ImageLightbox`, y llevar el cálculo a `lib/stats.ts` → `calcComprehension(dialogues, unknownWords)`.
 
-Lo mismo pasa en `app/peliculas/[slug]/page.tsx` y `app/series/[slug]/page.tsx`: la lectura del manifest y la aplicación de `vocabularyOverrides` están duplicadas.
+## 4. 🟠 `tmdbOverrides` duplicado y divergente — ❌ Pendiente
 
-**Recomendación:** extraer componentes y utilidades:
-- `AdultContentGate`, `BackdropLayout`, `MediaHero` e `ImageLightbox`
-- `lib/stats.ts` → `calcComprehension(dialogues, unknownWords)`
-- `lib/data.ts` → `getManifest()`, `getMediaByTitle(title)`, `getExtraData(title)` (con los overrides ya aplicados)
+Siguen las dos copias (`src/lib/tmdb.ts` y `fanning-dashboard/scripts/fetch_tmdb.ts`), y ya no coinciden. Además, hay una tercera fuente: los ids que se le pasan a `posters_tmdb.py` y los fijos de `episodios_tmdb.py` (`TMDB_ID`, `ESPECIAL_PELICULA`).
 
-## 4. 🟠 `tmdbOverrides` duplicado y divergente
+**Recomendación:** guardar el id de TMDB de cada título en `scripts/metricas/catalogo.json`, por ejemplo como `"tmdb": {"tipo": "movie", "id": 12}`. Así habría una sola fuente que leen todos los scripts, y `tmdbOverrides` se podría borrar.
 
-Hay dos copias del diccionario: `src/lib/tmdb.ts` (~190 entradas) y `fanning-dashboard/scripts/fetch_tmdb.ts` (~110 entradas, con el comentario "Reusing tmdbOverrides logic"). Además, ya **no coinciden**. Por ejemplo, `"riesgo bajo cero"` usa `y: "2021"` en una copia e `id: "646207"` en la otra, y `"los fantasmas de scrooge"` solo existe en el script.
+## 5. 🟠 Serie o película y años escritos a mano — ✅ Resuelto
 
-**Recomendación:** dejar una sola fuente, idealmente un `tmdb-overrides.json` que lean tanto TypeScript como Python, e importarla desde el script.
+`generate_manifest.py` (con `special_series`) está archivado. Ahora el tipo sale del catálogo: un título es serie si su vocabulario anuncia episodios o si sus diálogos están en `Diálogos Series/`. Tampoco hace falta editar nada para agregar una serie nueva.
 
-## 5. 🟠 Lógica de "serie o película" todavía escrita a mano
+Queda un solo detalle: los años están en una lista, `ANIOS` en `scripts/metricas/rutas.py`. Antes eran cuatro lugares; ahora es uno. Se podría derivar de las carpetas de `Vocabularios/`.
 
-El plan dice que se eliminó el arreglo `specialSeries`. En realidad **se movió** a `scripts/generate_manifest.py:235`:
-```python
-special_series = ['kim possible', 'the big bang theory', 'euphoria', ...]
-```
-Cada serie nueva obliga a editar el script. Si se te olvida, se clasifica mal.
+## 6. 🟠 Varias fuentes de verdad para los datos — 🟡 Parcial
 
-Los años también están escritos a mano en `generate_manifest.py:117, 149-153, 163, 331`: `["2023", "2024", "2025", "2026", "2027"]`. En 2028 habrá que tocar cuatro lugares.
+**Resuelto:**
+- `manifest.json`, `pelis/*.json` y los vocabularios por año salen de un único comando (`actualizar.py`) a partir de los PDFs.
+- Los scripts que editaban el manifest por su cuenta (`fix_*`, `reparse_*`, `generate_manifest.py`) están archivados.
+- Ya no se pierden datos sin aviso: el comando deja un reporte de antes y después.
 
-**Recomendación:** derivar el tipo de los datos, por ejemplo con un campo `"type"` en cada `pelis/<título>.json` o por la carpeta `Diálogos Series/`. Los años se pueden derivar de las carpetas: `sorted(d for d in os.listdir(data_dir) if d.isdigit())`.
+**Pendiente:**
+- `actualizar.py` todavía lee el `manifest.json` anterior para rescatar el nivel, la clasificación y el póster de los títulos que no los tienen en su `pelis/*.json`. El archivo generado sigue funcionando como entrada.
+- `pelis/*.json` mezcla datos que tú editas (nivel, análisis, TMDB) con datos generados (vocabulario, cantidades).
+- `fanning-dashboard/add2027.js`, `old_manifest.json` y `old_manifest2.json` siguen en el repo.
 
-## 6. 🟠 Varias fuentes de verdad para los datos
+**Recomendación:** mover el nivel, la clasificación y los ids de TMDB al catálogo (o a un `metadatos.json`) y dejar de leer el manifest anterior. Después, borrar `add2027.js` y los `old_manifest*.json`.
 
-`public/data/manifest.json` lo modifican al menos:
-- `scripts/generate_manifest.py`, que lo regenera desde PDFs y JSON
-- `fanning-dashboard/add2027.js`, que le agrega títulos a mano
-- los scripts `fix_*`, `reparse_*` y `update_*`
+## 7. 🟠 Scripts de Python — 🟡 Parcial
 
-`generate_manifest.py` lee el manifest anterior para "rescatar" pósters, niveles y clasificaciones (`old_movie_posters`, etc.). Es decir, el archivo generado también funciona como entrada. Eso hace que el resultado dependa del historial y no sea reproducible. Que existan `old_manifest.json` y `old_manifest2.json` en la raíz es un síntoma de esto.
+**Resuelto:**
+- El conteo y la generación viven en `scripts/metricas/`, un paquete pequeño con funciones reutilizables (`conteo.py`, `ranking.py`), un comando principal (`actualizar.py`), rutas relativas al repo (`rutas.py`) y `main()` con argumentos.
+- La lógica de contar diálogos SRT ya no está copiada: hay una sola versión.
+- Hay un `LEEME.md` que explica cómo usarlo.
 
-Además, los vocabularios están dos veces: en `public/data/<año>/*.json` y en `public/data/pelis/*.json`.
+**Pendiente:**
+- 6 scripts sueltos en `scripts/` (`fetch_ratings.py`, `fix_tmdb_data.py`, `rename_episodes.py`, etc.) y 5 en la raíz (`check_missing.py`, `count_words.py`, `dump_names.py`, `read_pdf.py`, `scratch_report.py`), además de `fanning-dashboard/scripts/` y `fanning-dashboard/scratch/`.
+- `scripts/archive/` tiene 76 archivos. Si ya no se usan, el historial de Git los conserva y se pueden borrar.
+- `requirements.txt` no fija versiones y no incluye `PyMuPDF` ni `pyspellchecker`, que ahora sí se usan.
 
-**Recomendación:** separar los **datos fuente** (editados por ti: metadatos por obra, overrides, IDs de TMDB) de los **datos generados** (`manifest.json`). El generador solo debería leer fuentes y nunca editarse a mano. Esto encaja directamente con el punto 3 del plan (panel de administrador).
+## 8. 🟠 Tipado débil — ❌ Pendiente
 
-## 7. 🟠 Scripts de Python de un solo uso y copiados
+Siguen los 35 `any`. Un avance: `types/manifest.ts` ahora describe `aliases` y `years`, y el buscador nuevo usa esos tipos sin `any`.
 
-- Hay 35 scripts en `scripts/` con un patrón por serie: `count_<serie>.py`, `reparse_<serie>.py` y `fix_<serie>_flat.py`. Por ejemplo, `fix_maid_flat.py` y `fix_pan_am_flat.py` **solo difieren en el nombre del archivo**. La lógica de contar diálogos SRT (`re.split(r'\d{2}:\d{2}:\d{2},\d{3} --> ...')`) se repite en al menos 9 archivos, incluido `generate_manifest.py`.
-- Los scripts están repartidos en cinco lugares: la raíz (`check_missing.py`, `count_words.py`, `dump_names.py`, `read_pdf.py`, `scratch_report.py`), `scripts/`, `scripts/archive/`, `fanning-dashboard/scripts/` y `fanning-dashboard/scratch/`. Además hay un `generate_json.py` duplicado en `scripts/` y en `fanning-dashboard/`.
-- Las rutas son absolutas de tu PC (`generate_manifest.py:7-8`: `r'c:\Users\Pablo\Documents\...'`). Fallan en otra máquina o en otra carpeta.
-- Hay `except:` vacíos en `generate_manifest.py:109, 229, 267`, que esconden errores reales, como un JSON corrupto.
-- El código vive en el nivel del módulo, sin `main()` ni argumentos de línea de comandos.
-- `requirements.txt` no fija versiones e incluye `pytest`, pero no hay pruebas.
+**Recomendación:** definir `ExtraData`, `VocabularyItem` y `EpisodeExtra` en `types/` y usarlos en las páginas de detalle. Validar los JSON con `zod` en tiempo de build.
 
-**Recomendación:** crear un paquete pequeño (`scripts/fanning/`) con funciones reutilizables, como `count_dialogues(text)`, `load_json` / `save_json` y `tmdb_client`. Encima, un único CLI parametrizado:
-```bash
-python -m fanning reparse --serie "Maid"
-```
-Para las rutas, usar `pathlib.Path(__file__).resolve().parents[n]`.
+## 9. 🟡 Código muerto — 🟡 Parcial
 
-## 8. 🟠 Tipado débil
+- ✅ El botón **"Buscar"** ya tiene función.
+- ❌ `src/data/mediaStats.ts` (2.012 líneas) sigue sin uso.
+- ❌ `useTMDB.ts` sigue sin uso (punto 2).
+- ❌ Siguen las 13 variables o imports sin uso que marca ESLint.
+- `vocabularyOverrides` sigue vacío, y ahora tiene menos sentido: los errores se corrigen en el PDF y `actualizar.py` regenera todo. Conviene borrarlo para que nadie lo use creyendo que dura.
 
-`tsc` pasa, pero solo porque hay 35 `any` y `PeliculaClient.tsx` desactiva la regla con `/* eslint-disable @typescript-eslint/no-explicit-any */`. Las props principales son `initialMovieData: any, initialExtraData: any`. Los tipos de `types/manifest.ts` existen, pero no se usan en las páginas de detalle. `DashboardClient.tsx` vuelve a declarar en línea el mismo tipo que `MovieStats`, y además declara una interfaz `VocabItem` que no se usa.
+## 10. 🟡 Antipatrones de React — ❌ Pendiente
 
-**Recomendación:** definir `ExtraData`, `VocabularyItem` y `EpisodeExtra` en `types/` y usarlos en todas partes. Para validar los JSON en tiempo de build, `zod` es una buena opción: un JSON mal editado daría un error claro en lugar de una pantalla rota.
+Sin cambios: estado derivado en `useEffect` en `DashboardClient`, `useState` para props fijas, `setTimeout` sin limpiar en las flashcards, barajado sesgado con `sort(() => Math.random() - 0.5)`, `alert()`/`prompt()` y `TimelineClient` cargando datos desde el navegador. Ver la primera versión del informe para el detalle de cada uno.
 
-## 9. 🟡 Código muerto
+## 11. 🟡 Coincidencia de títulos frágil — 🟡 Parcial
 
-- `src/data/mediaStats.ts`: **2.012 líneas** que no importa nadie.
-- `src/hooks/useTMDB.ts`: no se usa (punto 2).
-- 13 variables o imports sin uso, según ESLint: `Loader2`, `tmdbOverrides` y `Link` en `DashboardClient`, `FlashcardViewer`, entre otros.
-- `DashboardClient`: el botón **"Buscar"** no tiene `onClick`, así que no hace nada.
-- `englishAnalysisOverrides` y `vocabularyOverrides` están vacíos. Está bien si se piensan usar, pero el panel de administrador los reemplazaría.
+- ✅ **Datos:** el cruce de PDFs con títulos ya no usa subcadenas. `catalogo.json` lo dice explícitamente. Antes asignaba diálogos equivocados (IO y Star Wars I compartían 759 líneas; Rocky I y Rocky III, 1.177).
+- ✅ **Fotos de episodios:** `episodios_tmdb.py` compara el título de TMDB con el del PDF y avisa si no coinciden.
+- ❌ **Página:** `TimelineClient.tsx` sigue con reglas a mano (`"inside out"`, `"star wars"`, `"ts:"`), y `SeriesClient.tsx` todavía empareja episodios con `ep.name.includes(e.name)`.
 
-## 10. 🟡 Antipatrones de React
+## 12. 🟡 Higiene del repositorio — 🟡 Parcial
 
-- **Estado derivado en `useEffect`** (`DashboardClient.tsx:44-80`): `stats` se calcula con `setStats` dentro de un efecto, lo que provoca un render extra y un parpadeo. Debería ser `useMemo`. El mismo efecto lee `window.location.search` y llama a `setSelectedYear`. Lo idiomático en Next es `useSearchParams()` o leer `searchParams` en el Server Component, y cambiar de año con `<Link href="/?year=2025">` en vez de `history.pushState`.
-- **`useState` para props que nunca cambian:** `const [movieData] = useState(initialMovieData)`. Basta con usar la prop directamente.
-- **`setManifestData`** se declara y nunca se usa.
-- **`setTimeout(..., 150)`** sin limpieza en los cambios de tarjeta: si cierras el modal durante esos 150 ms, se actualiza estado de un componente desmontado.
-- **Barajado sesgado:** `[...flashcards].sort(() => Math.random() - 0.5)` no produce una distribución uniforme. Lo correcto es usar Fisher–Yates.
-- **`alert()` y `window.prompt()`** para mensajes y entrada de datos. "Corregir TMDB" guarda en `localStorage`, pero **ese valor ya no se lee en ningún lado** porque `useTMDB` no se usa, así que el botón no tiene efecto.
-- **ESLint `react-hooks/set-state-in-effect`** marca 3 casos, entre ellos `FlashcardViewer.tsx:21`. Lo habitual es reiniciar el estado con `key={...}` en el componente padre.
-- **`TimelineClient`** obtiene `manifest.json` y `timeline.json` con `fetch` desde el cliente, mientras el resto de páginas los lee en el servidor. Se descargan ~250 KB extra y aparece un spinner innecesario.
-- Se usa **`<img>` en lugar de `next/image`** en 7 lugares, sin lazy-loading ni redimensionado automático. Para pósters de TMDB conviene `next/image` con `remotePatterns`.
+- ✅ `.gitignore` ahora ignora `__pycache__/`, que se había colado en un commit.
+- ❌ Siguen versionados: `old_manifest.json`, `old_manifest2.json`, `out.txt`, `kim_explore*.txt`, `dialogo_names.txt`, `vocab_names.txt`, `temp_report.md`, `tmdb_backup.json`, `prompt_revisión_codigo_proyecto-final.txt` y `fanning-dashboard/scratch/`.
+- ❌ El historial de Git ocupa 219 MB por los PDFs. **Git LFS** sigue siendo la opción.
 
-## 11. 🟡 Coincidencia de títulos frágil
+## 13. 🟡 Pruebas, CI y validación — 🟡 Parcial
 
-En `useTMDB.ts` y `fetch_tmdb.ts`, `lowerTitle.includes(key)` hace que claves cortas como `"io"`, `"home"`, `"emma"`, `"glass"` o `"taken"` coincidan con cualquier título que las contenga. Por ejemplo, "Dil**emma**" o "**Home** Alone". Ordenar por longitud lo mitiga, pero no lo resuelve.
+- ✅ `scripts/metricas/test_conteo.py` prueba las reglas de conteo con los ejemplos de los criterios de `Metodología/`: subtítulos, créditos, marcadores de episodio, frases partidas, repetidas y horas.
+- ✅ `verificar_dialogos.py` permite revisar un PDF página por página, y `revisar_ortografia.py` lista faltas de ortografía y puntuación de los vocabularios.
+- ❌ No hay CI. Los 38 errores de ESLint siguen llegando a Vercel sin aviso.
+- ❌ Nada valida la forma de los JSON antes del despliegue.
 
-En `TimelineClient.tsx:40-46` hay reglas especiales escritas a mano (`"inside out"`, `"star wars"`, `"ts:"`) para emparejar pósters.
+**Recomendación:** un workflow mínimo de GitHub Actions con `npm ci && npm run lint && npx tsc --noEmit && npm run build` y `python scripts/metricas/test_conteo.py`.
 
-En `SeriesClient.tsx:342` los episodios se emparejan con `e.name === ep.name || ep.name.includes(e.name) || displayName.includes(...)`, lo que da el mismo riesgo de coincidencias falsas.
+## 14. ⚪ Detalles menores — ❌ Pendiente
 
-**Recomendación:** usar identificadores estables, como un `slug` o el `tmdbId` en los datos, y comparar por igualdad exacta.
+Sin cambios: `layout.tsx` usa `lang="en"` (debería ser `"es"`), el README del dashboard es el genérico de Next, hay CSS en línea con `dangerouslySetInnerHTML`, mezcla de sintaxis de Tailwind v3 y v4, y un `console.log` de depuración en `app/peliculas/[slug]/page.tsx`.
 
-## 12. 🟡 Higiene del repositorio
+Un detalle nuevo: los porcentajes usan punto decimal ("93.65%") y los miles ahora usan punto ("1.000"). Conviene pasar los decimales a coma ("93,65%") para que no se confundan.
 
-- **Archivos temporales versionados:** `old_manifest.json` (200 KB), `old_manifest2.json`, `out.txt`, `kim_explore*.txt`, `dialogo_names.txt`, `vocab_names.txt`, `scratch_report.py`, `temp_report.md`, `tmdb_backup.json`, `fanning-dashboard/scratch/` y `maid_markers.txt`.
-- **Binarios grandes en Git:** 464 PDFs (~330 MB entre `Diálogos/` y `Vocabularios/`), con `.git` en 214 MB. Cada nueva versión de un PDF hace crecer el historial para siempre. Para esto existe **Git LFS**, o se puede guardar el material fuente fuera del repo de código.
-- **Un `.gitignore` en la raíz casi vacío:** solo ignora `.obsidian/workspace*.json`. No cubre `__pycache__/`, `*.pyc`, `.venv/`, `scratch/` ni `.env`.
-- **Monorepo sin estructura clara:** las notas de Obsidian, los PDFs, los scripts y la web conviven al mismo nivel. Una estructura `content/` (notas + PDFs), `tools/` (Python) y `web/` (Next.js) haría obvio qué es qué.
+## 15. 🆕 🟠 Fotos de episodios guardadas por posición
 
-## 13. 🟡 Sin pruebas, CI ni validación
+`SeriesClient.tsx` busca el título y la foto de cada episodio en `tmdb.episodes["<n>"]`, donde `<n>` es la posición del episodio en la lista (1, 2, 3…), no su código. Si se agrega un episodio en medio (por ejemplo, uno de la temporada 1 cuando ya están la 2 y la 3), todas las fotos siguientes quedan corridas una posición.
 
-- No hay pruebas ni en Python ni en TypeScript, aunque `pytest` figura en `requirements.txt`. Las funciones con más riesgo son puras y muy fáciles de probar: `clean_movie_title`, `extract_movie_name_from_pdf_filename`, el conteo de diálogos SRT y el cálculo de comprensión.
-- No hay `.github/workflows`. Next 16 ya no ejecuta ESLint durante `next build`, así que los 38 errores de lint llegan a Vercel sin aviso. Un workflow mínimo con `npm ci && npm run lint && npx tsc --noEmit && npm run build` lo evitaría.
-- Nada valida la forma de `manifest.json` ni de `pelis/*.json` antes del despliegue. Justamente el plan identifica "romper los JSON y tumbar la app" como un problema real.
+**Recomendación:** guardar los datos de TMDB por código de episodio (`"S02E01"`, `"SP01"`) y buscarlos así en `SeriesClient`. `episodios_tmdb.py` ya calcula ese código, así que el cambio es pequeño.
 
-## 14. ⚪ Detalles menores
+## 16. 🆕 🟡 Archivos generados guardados en Git
 
-- `layout.tsx:27` usa `lang="en"`, pero la interfaz está en español. Eso afecta a lectores de pantalla, al traductor del navegador y al SEO. Debería ser `lang="es"`.
-- `fanning-dashboard/README.md` es el texto genérico de `create-next-app`. No explica cómo regenerar los datos, qué variables de entorno hacen falta ni cómo desplegar.
-- Hay mensajes de commit poco descriptivos (`:>`, `xdd`, `avances`), que hacen difícil volver atrás o encontrar cuándo se introdujo un bug.
-- `PeliculaClient.tsx` define CSS 3D con `<style dangerouslySetInnerHTML>`. Iría mejor en `globals.css`.
-- Hay sintaxis mezclada de Tailwind v3 y v4: `bg-gradient-to-r` / `aspect-[2/3]` en `SeriesClient` y `bg-linear-to-r` / `aspect-2/3` en `PeliculaClient`.
-- `app/peliculas/[slug]/page.tsx:67-68` deja `console.log` de depuración y usa un `!` innecesario (`manifestPath!`).
-- El título de la URL se usa directamente como nombre de archivo (`pelis/${decodedTitle}.json`). El riesgo es bajo porque luego se valida contra el manifest, pero conviene validar **antes** de tocar el disco y declarar `export const dynamicParams = false` para servir solo los slugs generados.
-- El aviso +18 es solo visual, porque los JSON siguen siendo públicos en `/data/pelis/*.json`. Para el uso personal está bien; solo hay que saber que no es un control de acceso.
+`scripts/metricas/verificaciones/` (informes de `verificar_dialogos.py` y `revisar_ortografia.py`) y `reporte_ultima_actualizacion.md` se regeneran en cada ejecución. El informe de Barbie, por ejemplo, copia todos los subtítulos de la película. Versionarlos agrega ruido a cada commit.
+
+**Recomendación:** agregar `scripts/metricas/verificaciones/` al `.gitignore`. El reporte de la última actualización se puede conservar si sirve como registro de cambios.
 
 ---
 
 ## Plan de acción sugerido (orden por impacto/esfuerzo)
 
-1. **Rotar la API key** y moverla a `.env.local` / variables de entorno (1 h).
-2. **Borrar código muerto:** `mediaStats.ts`, `useTMDB.ts`, imports sin uso, `old_manifest*.json` y archivos `*_explore.txt` (30 min).
-3. **Usar `FlashcardViewer`** en Película y Serie, y extraer los demás componentes compartidos (punto 3) (medio día).
-4. **Arreglar el lint** hasta llegar a 0 errores y añadir un workflow de CI con lint + tsc + build (2-3 h).
-5. **Unificar `tmdbOverrides`** y quitar `special_series` y los años escritos a mano en el generador (2 h).
-6. **Consolidar los scripts de Python** en un paquete con CLI, rutas relativas y pruebas de las funciones puras (1-2 días, se puede hacer gradualmente).
-7. **Separar datos fuente de datos generados** y validarlos con un esquema. Esto prepara el terreno para el panel de administrador del plan (1-2 días).
+1. **Rotar la API key** y quitarla de los 11 archivos (1 h).
+2. **Borrar código y archivos muertos:** `mediaStats.ts`, `useTMDB.ts`, `vocabularyOverrides`, imports sin uso, `old_manifest*.json`, `add2027.js`, archivos temporales de la raíz y `fanning-dashboard/scratch/` (30 min).
+3. **Guardar los datos de TMDB por código de episodio** (punto 15) antes de agregar episodios nuevos a las series (1-2 h).
+4. **Usar `FlashcardViewer`** en Película y Serie y extraer los componentes compartidos (punto 3) (medio día).
+5. **Arreglar el lint** hasta 0 errores y agregar CI con lint, tsc, build y las pruebas de Python (2-3 h).
+6. **Mover nivel, clasificación e ids de TMDB al catálogo** y dejar de leer el manifest anterior (puntos 4 y 6) (2-3 h).
+7. **Ordenar los scripts restantes**: llevar a `scripts/metricas/` los que se usan, borrar el resto y fijar `requirements.txt` (medio día).
 8. Evaluar **Git LFS** para los PDFs.
