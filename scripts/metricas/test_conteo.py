@@ -99,6 +99,11 @@ def test_vocabulario_traduccion_en_dos_renglones():
     assert len(e) == 2 and e[0]['translation'] == 'necesitamos un lugar para pasar la noche'
 
 
+def test_hora_no_separa_palabra_de_traduccion():
+    e, _ = leer_vocabulario(['Unknown words and phrases from Algo', '', 'On the stroke of 12:00: al dar las 12 en punto'])
+    assert e[0]['word'] == 'On the stroke of 12:00' and e[0]['translation'] == 'al dar las 12 en punto'
+
+
 def test_repetidas_play():
     e = [{'word': 'play (verbo)', 'translation': 'jugar'}, {'word': 'play (verbo)', 'translation': 'jugar'},
          {'word': 'play (sustantivo)', 'translation': 'obra'}, {'word': 'play it cool', 'translation': 'mantener la calma'}]

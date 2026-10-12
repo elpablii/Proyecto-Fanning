@@ -168,8 +168,8 @@
       "translation": "lacayo, mozo"
     },
     {
-      "word": "On the stroke of 12",
-      "translation": "00: al dar las 12 en punto"
+      "word": "On the stroke of 12:00",
+      "translation": "al dar las 12 en punto"
     },
     {
       "word": "Mademoiselle (en francés)",
@@ -257,5 +257,7 @@
     "episodes": null
   },
   "count": 60,
-  "dialogues": 967
+  "dialogues": 967,
+  "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
 }

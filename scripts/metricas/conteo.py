@@ -294,7 +294,9 @@ def leer_vocabulario(lineas, nombre_archivo=''):
     for ep, renglones in entradas:
         texto = ' '.join(renglones)
         texto = re.sub(r'\s+', ' ', texto)
-        palabra, _, traduccion = texto.partition(':')
+        # Los ':' entre números (una hora, "12:00") no separan la palabra de la traducción.
+        m = re.search(r'(?<!\d):|:(?!\d)', texto)
+        palabra, traduccion = (texto[:m.start()], texto[m.end():]) if m else (texto, '')
         salida.append({'episodio': ep, 'word': palabra.strip(), 'translation': traduccion.strip()})
     if len(esperados) > 1 and any(e['episodio'] is None for e in salida):
         avisos.append('entradas sin episodio (el PDF anuncia varios episodios pero no tiene cabeceras)')
