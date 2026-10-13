@@ -3,7 +3,10 @@
   "tipo": "serie",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "tv",
+    "id": 255868
+  },
   "analisis": "El vocabulario de Dream Productions destaca por su jerga relacionada a la producción audiovisual (guiones, cámaras, dirección), expresiones preadolescentes, y términos del entorno laboral hiperactivo.",
   "sinopsis": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
   "poster": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",

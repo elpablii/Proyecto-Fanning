@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 20760
+  },
   "analisis": "Utilizando como referencia 'Dialogues from Lilo and Stitch II to improve the vocabulary in English.pdf', esta película ofrece un inglés sumamente familiar y relajado. Contiene jerga hawaiana mezclada con términos alienígenas cómicos y vocabulario cotidiano sobre la familia y la amistad.",
   "sinopsis": "Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.",
   "poster": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",

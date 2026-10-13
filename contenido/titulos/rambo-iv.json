@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B1",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 7555
+  },
   "analisis": "Lenguaje extremadamente crudo, parco y violento. Diálogos muy breves, vocabulario relacionado con mercenarios, genocidio, tácticas de guerra modernas y armamento pesado.",
   "sinopsis": "John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendrá más remedio que volver a involucrarse. Se verá obligado a hacer lo que mejor sabe porque, muy a su pesar, lleva la guerra en la sangre.",
   "poster": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",

@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+14",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 338768
+  },
   "analisis": "Una excelente ventana al espectro autista. Lenguaje muy literal, repetitivo y enfocado en rutinas ('schedule', 'rules'), mezclado extensivamente con terminología de fans de Star Trek.",
   "sinopsis": "Wendy Walcott tiene 28 años, le gusta bailar mientras escucha música en su iPod y teje suéteres para objetos inanimados. Ella trabaja en Cinnabon y es autista. Para probarle a su hermana mayor que es capaz de cuidarse por sí misma, se escapa de la clínica en la que vive para ir a presentar su guion de Star Trek en un concurso de escritura. Lo que más anhela, es poder regresar a su hogar y, si su guion gana el concurso, podrá probar que es autosuficiente.",
   "poster": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",

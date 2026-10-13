@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 326285
+  },
   "analisis": "Drama histórico estadounidense. Vocabulario político y social de los años 60, mezclado con lenguaje de negocios de clase media-alta y expresiones de desilusión y protesta.",
   "sinopsis": "Seymour Lvov, “el Sueco”, es un exitoso hombre de negocios con una vida perfecta que ve como su estabilidad familiar peligra por la turbulenta situación política estadounidense de la década de los 60. La tormenta se desata cuando su hija Merry desaparece tras ser acusada de cometer un acto violento. Lvov se dedicará a buscarla y a reunir a su familia. Lo que descubre remueve sus cimientos, forzándole a mirar más allá de la superficie y afrontar el caos que está forjando el mundo a su alrededor: ninguna familia americana volverá a ser la misma.",
   "poster": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",

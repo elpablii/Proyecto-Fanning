@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE+7",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 11544
+  },
   "analisis": "Inglés familiar encantador con un fuerte sabor hawaiano (uso de palabras locales como 'ohana'). Mezclado divertidamente con jerga alienígena y jerga de trabajadores sociales ('probation').",
   "sinopsis": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
   "poster": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",

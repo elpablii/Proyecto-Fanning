@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+14",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 936075
+  },
   "analisis": "Un recorrido por la vida de Michael Jackson, que incluye un extenso vocabulario sobre la industria musical, el escrutinio de la prensa, los procesos legales y la fama. Con mucha terminología ligada al mundo del espectáculo.",
   "sinopsis": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",
   "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",

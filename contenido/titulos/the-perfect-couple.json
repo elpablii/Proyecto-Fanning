@@ -3,7 +3,10 @@
   "tipo": "serie",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "tv",
+    "id": 220564
+  },
   "analisis": "Miniserie de misterio e intriga que destaca por un vocabulario lleno de secretos familiares, jerga de alta sociedad y lenguaje relacionado a investigaciones policiales.",
   "sinopsis": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
   "poster": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",

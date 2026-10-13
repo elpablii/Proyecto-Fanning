@@ -3,7 +3,10 @@
   "tipo": "serie",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "tv",
+    "id": 107114
+  },
   "analisis": "Miniserie que ofrece un vocabulario juvenil combinado con jerga legal y policial. Debido a la temática de los mensajes de texto y la persuasión, encontrarás muchas expresiones relacionadas con la culpa, el estado mental, los tribunales y el lenguaje digital adolescente.",
   "sinopsis": "Basada en la historia real de Michelle Carter, una joven de un pequeño pueblo de Massachusetts que fue acusada de persuadir a su novio para que se suicidara.",
   "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",

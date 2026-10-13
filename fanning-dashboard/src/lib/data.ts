@@ -33,13 +33,31 @@ export function getTitulo(titulo: string, tipo: 'movie' | 'series'): { movieData
   return { movieData, extraData: leer<ExtraData>(path.join('pelis', `${movieData.title}.json`)) };
 }
 
+// En contenido/tandas.json cada ítem es el título exacto de una ficha, o
+// {"texto": "como se muestra", "titulo": "título de la ficha"}.
+type ItemGuardado = string | { texto: string; titulo: string };
+
+export interface ItemTanda {
+  texto: string;          // lo que se muestra
+  titulo: string;         // título de la ficha
+  poster: string | null;
+}
+
 export interface Tanda {
   id: number;
   title: string;
   date: string;
-  items: string[];
+  items: ItemTanda[];
 }
 
 export function getTandas(): Tanda[] {
-  return leer<Tanda[]>('timeline.json') ?? [];
+  const tandas = leer<(Omit<Tanda, 'items'> & { items: ItemGuardado[] })[]>('timeline.json') ?? [];
+  const poster = new Map(getTodos().map(m => [m.title, m.posterUrl ?? null]));
+  return tandas.map(t => ({
+    ...t,
+    items: t.items.map(i => {
+      const { texto, titulo } = typeof i === 'string' ? { texto: i, titulo: i } : i;
+      return { texto, titulo, poster: poster.get(titulo) ?? null };
+    }),
+  }));
 }

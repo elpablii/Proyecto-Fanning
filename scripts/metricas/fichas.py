@@ -146,6 +146,14 @@ def cargar(estricto=True):
             if r in usados and usados[r] != f['titulo']:
                 errores.append(f'El PDF "{r}" está en dos fichas: "{usados[r]}" y "{f["titulo"]}".')
             usados[r] = f['titulo']
+    # Cada ítem de la línea de tiempo apunta a una ficha: "Título" o {"texto": "…", "titulo": "Título"}
+    for tanda in cargar_tandas():
+        for item in tanda.get('items', []):
+            titulo = item if isinstance(item, str) else item.get('titulo')
+            if titulo not in vistos:
+                texto = item if isinstance(item, str) else item.get('texto', titulo)
+                errores.append(f'contenido/tandas.json, "{tanda.get("title")}": "{texto}" no corresponde a ninguna ficha. '
+                               'Escribe el título exacto de la ficha, o usa {"texto": "…", "titulo": "<título de la ficha>"}.')
     if errores and estricto:
         print('No se puede continuar. Corrige esto en contenido/titulos/:')
         for e in errores:

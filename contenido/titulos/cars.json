@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 920
+  },
   "analisis": "Perfecta contraposición entre el vocabulario acelerado, moderno y corporativo de las carreras ('rookie', 'sponsor') y el ritmo relajado, nostálgico y rural de los pueblos de la Ruta 66.",
   "sinopsis": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
   "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",

@@ -54,11 +54,11 @@ El 13 de octubre (etapas 1 a 4):
 | 4 | Diccionario `tmdbOverrides` duplicado y con valores que ya no coinciden | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 5 | Lista `special_series` y años escritos a mano | 🟠 Media | ✅ Resuelto |
 | 6 | Varias fuentes de verdad para los datos | 🟠 Media | ✅ Resuelto (2026-10-13) |
-| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media | 🟡 Parcial (quedan scripts sueltos en la raíz) |
+| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 8 | Tipado débil: `any` en props, datos del manifest y respuestas de TMDB | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 9 | Código muerto: `mediaStats.ts`, imports y el botón "Buscar" sin uso | 🟡 Baja | ✅ Resuelto (2026-10-13) |
 | 10 | Antipatrones de React | 🟡 Baja | ✅ Resuelto (2026-10-13) |
-| 11 | Coincidencia de títulos por subcadena (`includes`), frágil | 🟡 Baja | 🟡 Parcial (queda `TimelineClient`) |
+| 11 | Coincidencia de títulos por subcadena (`includes`), frágil | 🟡 Baja | ✅ Resuelto (2026-10-13) |
 | 12 | Archivos temporales y binarios versionados en Git | 🟡 Baja | 🟡 Parcial (temporales borrados; falta Git LFS) |
 | 13 | No hay pruebas, CI ni validación de datos | 🟡 Baja | ✅ Resuelto (2026-10-13) |
 | 14 | Detalles menores: `lang="en"`, README genérico, etc. | ⚪ Menor | ✅ Resuelto (2026-10-13) |
@@ -388,9 +388,11 @@ El botón de la página de cada película (`PeliculaClient.tsx`) pide un id con 
 12. ✅ Revisión automática en GitHub con pruebas, validación de fichas, lint, tipos y build (punto 13).
 13. ✅ `lang="es"`, coma decimal en los porcentajes ("93,65%"), CSS de las flashcards en `globals.css`, sintaxis de Tailwind v4 en todos los componentes y páginas que solo existen para títulos del manifest (`dynamicParams = false`) (punto 14).
 
-**Pendientes que quedan:**
-- Línea de tiempo: guardar en `contenido/tandas.json` el título exacto de cada ficha para no emparejar por texto (punto 11).
-- Scripts sueltos de la raíz (`check_missing.py`, `count_words.py`, `dump_names.py`, `read_pdf.py`, `scratch_report.py`) y en `scripts/` (punto 7).
-- 120 fichas sin id de TMDB (no afecta a la página).
+**Después de la etapa 4 (2026-10-13):**
+- ✅ Línea de tiempo (punto 11): cada ítem de `contenido/tandas.json` apunta al título exacto de su ficha (`"Título"` o `{"texto": "…", "titulo": "…"}`), y `validar` revisa que exista. Las reglas por texto mostraban pósters equivocados (Star Wars IV y VI con el de V; City of Lover, Reputation y The Eras Tour con el de Folklore; Toy Story II y Cars II con los de la primera parte) y 8 ítems sin póster. Ahora los 148 ítems tienen el póster de su ficha.
+- ✅ Scripts sueltos (punto 7): los 5 de la raíz y `scripts/rename_episodes.py` se archivaron. En la raíz queda solo `fanning.py`.
+- ✅ Ids de TMDB: las 177 fichas tienen id. 111 se confirmaron porque TMDB devuelve el mismo póster que ya tenía la ficha; los otros 9 por título y año exactos. Para títulos nuevos: `python fanning.py ids [--guardar]`.
+
+**Pendiente:** decidir sobre Git LFS (punto 12).
 
 **Más adelante:** evaluar Git LFS para los PDFs.

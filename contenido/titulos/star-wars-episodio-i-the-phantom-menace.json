@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B1",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1893
+  },
   "analisis": "Llena de terminología política, diplomática y de ciencia ficción ('senate', 'treaty', 'Jedi', 'force'). El lenguaje formal y solemne de los Jedi contrasta con los diversos dialectos alienígenas (como el de Jar Jar Binks, que es un reto de comprensión). Mezcla acentos británicos y americanos.",
   "sinopsis": "Ambientada treinta años antes, muestra la infancia de Darth Vader, el pasado de Obi-Wan Kenobi y el resurgimiento de los Sith, los caballeros Jedi dominados por el Lado Oscuro. La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala; se trata de un plan ideado por Sith Darth Sidious, que, manteniéndose en el anonimato, dirige a los neimoidianos, que están al mando de la Federación. El Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi convencen a Amidala para que vaya a Coruscant, la capital de la República y sede del Consejo Jedi, y trate de neutralizar esta amenaza. Pero, al intentar esquivar el bloqueo, la nave real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
   "poster": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",

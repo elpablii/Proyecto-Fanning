@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE+7",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1371
+  },
   "analisis": "Sigue el clásico acento italoamericano arrastrado de Filadelfia. En esta entrega abunda el lenguaje deportivo rudo ('prediction: pain', 'chump', 'eye of the tiger') y la jerga de los 80.",
   "sinopsis": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",
   "poster": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",

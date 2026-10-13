@@ -86,6 +86,7 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `fichas.py` | Lee, valida y guarda las fichas. |
 | `nuevos_titulos.py` | Agrega los PDFs nuevos a las fichas. |
 | `actualizar.py` | Cuenta y genera todo lo que lee la página. |
+| `buscar_ids_tmdb.py` | Busca el id de TMDB de las fichas que no lo tienen (`python fanning.py ids`). |
 | `posters_tmdb.py` / `episodios_tmdb.py` | Traen imágenes y sinopsis de TMDB a las fichas. La clave va en `fanning-dashboard/.env.local`. |
 | `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |

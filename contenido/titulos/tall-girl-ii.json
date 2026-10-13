@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 772272
+  },
   "analisis": "Mantiene el vocabulario adolescente de la primera entrega, pero añade términos relacionados con la presión de estar en el centro de atención, el teatro escolar y la ansiedad, con expresiones juveniles frescas y muy actualizadas.",
   "sinopsis": "Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.",
   "poster": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",

@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 283601
+  },
   "analisis": "Un inglés crudo y oscuro del sur de Estados Unidos (Texas/Louisiana). Acentos fuertes, lenguaje callejero, jerga criminal ('hitman', 'setup') y diálogos melancólicos.",
   "sinopsis": "Después de escapar de una emboscada, un sicario enfermo vuelve a su ciudad natal de Galveston donde planea su venganza. Roy Cady es un asesino a sueldo en New Orleans al que le fue diagnosticado cáncer de pulmón a los 40 años. Ante la sospecha de que su jefe quiere eliminarle, Roy trata de huir hacia el horizonte desconocido. En su camino, se encontrará con una joven desamparada que le da la oportunidad de darle un nuevo sentido a su vida… Basada en la novela del creador de ‘True Detective’.",
   "poster": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",

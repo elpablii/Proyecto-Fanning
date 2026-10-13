@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+14",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 340102
+  },
   "analisis": "Una mezcla única: inglés adolescente moderno (con su respectiva jerga y rebeldía) dentro del contexto de un thriller sobrenatural y un entorno psiquiátrico ('facility', 'mutant', 'powers').",
   "sinopsis": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos .",
   "poster": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",

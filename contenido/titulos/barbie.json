@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B1-B2",
   "clasificacion": "+14",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 346698
+  },
   "analisis": "La película presenta un inglés mayormente americano con un tono muy moderno, optimista y pop. Utiliza vocabulario relacionado con el empoderamiento, conceptos existenciales ('patriarchy', 'cognitive dissonance', 'fascism') mezclados con términos superficiales y corporativos. Destaca por el contraste entre el lenguaje inocente de Barbieland y el inglés del mundo real corporativo.",
   "sinopsis": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
   "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",

@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 279641
+  },
   "analisis": "Inglés periodístico y militar mezclado. Vocabulario de zonas de guerra, jerga de corresponsales, humor negro y términos geopolíticos y militares ('embedded', 'infidel', 'bureau').",
   "sinopsis": "Reporteras en Guerra cuenta la «historia real» de Kim Barker, una productora de televisión que decide cambiar su rutina aceptando un desafiante trabajo en Kabul, Afganistán. Lejos de su estilo de vida, ahora se encuentra en medio de una zona de guerra. Afortunadamente, conoce a Tanya Vanderpoel, otra reportera que le da una mano. En medio de militantes, militares y fiestas nocturnas, Barker intenta descubrir la clave para ser una corresponsal exitosa.",
   "poster": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",

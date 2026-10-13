@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 106646
+  },
   "analisis": "Lenguaje extremadamente explícito, frenético y lleno de jerga financiera, excesos y vulgaridades. Ideal para acostumbrarse a la agresividad y el ritmo de las ventas en inglés americano, con diálogos verborreicos e insultos creativos.",
   "sinopsis": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el apodo de “El lobo de Wall Street”. Dinero, poder, mujeres, drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
   "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",

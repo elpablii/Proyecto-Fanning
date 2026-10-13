@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 260346
+  },
   "analisis": "Sigue la línea de acción directa, pero con más jerga policial y de investigaciones de la policía de Los Ángeles ('LAPD', 'suspect', 'warrant') mientras el protagonista es perseguido.",
   "sinopsis": "La vida del ex-agente especial Bryan Mills (Liam Neeson) se ve inesperadamente truncada tras el brutal asesinato de su ex mujer. Tras ser acusado de su muerte, se ve obligado a huir de la implacable persecución de la CIA, el FBI y la policía. Una vez más, deberá usar sus “habilidades especiales” para hacer justicia, dar caza a los verdaderos asesinos y proteger lo único que le queda en la vida: su hija.",
   "poster": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",

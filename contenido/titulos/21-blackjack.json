@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+14",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 8065
+  },
   "analisis": "Inglés universitario y matemático. Lleno de jerga de casino ('counting cards', 'chips', 'hit me') y expresiones sobre inteligencia, probabilidades y vida estudiantil americana.",
   "sinopsis": "Ben Campbell, un tímido y brillante estudiante del Instituto Tecnológico de Massachussets (MIT), recurre a los naipes para poder pagar la matrícula de la universidad. Se le presenta, además, la oportunidad de unirse a un grupo de estudiantes que viajan a Las Vegas para jugar al blackjack. Bajo la dirección del poco ortodoxo profesor de matemáticas y genio de la estadística Micky Rosa, han conseguido descifrar el código del éxito, mediante el conteo de cartas.",
   "poster": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",

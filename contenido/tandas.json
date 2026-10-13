@@ -20,7 +20,10 @@
     "title": "3° Tanda",
     "date": "Sábado, 16/12/2023",
     "items": [
-      "Taylor Swift: Miss Americana"
+      {
+        "texto": "Taylor Swift: Miss Americana",
+        "titulo": "Taylor Swift Miss Americana"
+      }
     ]
   },
   {
@@ -37,9 +40,18 @@
     "title": "5° Tanda",
     "date": "Sábado, 20/01/2024",
     "items": [
-      "Rambo: First Blood",
-      "Inside Out I",
-      "Honest Thief"
+      {
+        "texto": "Rambo: First Blood",
+        "titulo": "Rambo First Blood"
+      },
+      {
+        "texto": "Inside Out I",
+        "titulo": "Intensamente"
+      },
+      {
+        "texto": "Honest Thief",
+        "titulo": "Venganza Implacable"
+      }
     ]
   },
   {
@@ -47,7 +59,10 @@
     "title": "6° Tanda",
     "date": "Miércoles, 07/02/2024",
     "items": [
-      "I, Tonya",
+      {
+        "texto": "I, Tonya",
+        "titulo": "I-Tonya"
+      },
       "Ratatouille"
     ]
   },
@@ -57,7 +72,10 @@
     "date": "Jueves, 29/02/2024",
     "items": [
       "Terminal",
-      "Five Nights at Freddy's I"
+      {
+        "texto": "Five Nights at Freddy's I",
+        "titulo": "Five Nights at Freddy's"
+      }
     ]
   },
   {
@@ -65,9 +83,18 @@
     "title": "8° Tanda",
     "date": "Viernes, 15/03/2024",
     "items": [
-      "La Leyenda de Tarzán",
-      "Toy Story I",
-      "Monsters Inc."
+      {
+        "texto": "La Leyenda de Tarzán",
+        "titulo": "The Legend of Tarzan"
+      },
+      {
+        "texto": "Toy Story I",
+        "titulo": "Toy Story"
+      },
+      {
+        "texto": "Monsters Inc.",
+        "titulo": "Monsters Inc"
+      }
     ]
   },
   {
@@ -76,9 +103,18 @@
     "date": "Lunes, 01/04/2024",
     "items": [
       "Z for Zachariah",
-      "TS: City of Lover Concert",
-      "Kim Possible (S01E01)",
-      "Suite Française"
+      {
+        "texto": "TS: City of Lover Concert",
+        "titulo": "Taylor Swift City of Lover Concert"
+      },
+      {
+        "texto": "Kim Possible (S01E01)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "Suite Française",
+        "titulo": "Suite Francaise"
+      }
     ]
   },
   {
@@ -87,7 +123,10 @@
     "date": "Jueves, 18/04/2024",
     "items": [
       "Once Upon a Time in Hollywood",
-      "Kim Possible (S01E02)"
+      {
+        "texto": "Kim Possible (S01E02)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -95,8 +134,14 @@
     "title": "11° Tanda",
     "date": "Viernes, 03/05/2024",
     "items": [
-      "Toy Story II",
-      "Kim Possible (S01E03-04)"
+      {
+        "texto": "Toy Story II",
+        "titulo": "Toy Story 2"
+      },
+      {
+        "texto": "Kim Possible (S01E03-04)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -104,7 +149,10 @@
     "title": "12° Tanda",
     "date": "Jueves, 16/05/2024",
     "items": [
-      "Kim Possible (S01E05-09)"
+      {
+        "texto": "Kim Possible (S01E05-09)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -120,7 +168,10 @@
     "title": "14a° Tanda",
     "date": "Sábado, 29/06/2024",
     "items": [
-      "Rambo: First Blood (Part II)"
+      {
+        "texto": "Rambo: First Blood (Part II)",
+        "titulo": "Rambo II"
+      }
     ]
   },
   {
@@ -145,7 +196,10 @@
     "date": "Lunes, 15/07/2024",
     "items": [
       "Kim Possible (2019)",
-      "Kim Possible (S01 EP10-13)"
+      {
+        "texto": "Kim Possible (S01 EP10-13)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -154,8 +208,14 @@
     "date": "Viernes, 02/08/2024",
     "items": [
       "Aves de Presa",
-      "Star Wars Episode I: The Phantom Menace",
-      "Olivia Rodrigo: driving home 2 u"
+      {
+        "texto": "Star Wars Episode I: The Phantom Menace",
+        "titulo": "Star Wars Episodio I The Phantom Menace"
+      },
+      {
+        "texto": "Olivia Rodrigo: driving home 2 u",
+        "titulo": "Olivia Rodrigo driving home 2 u"
+      }
     ]
   },
   {
@@ -165,7 +225,10 @@
     "items": [
       "El Escuadrón Suicida",
       "Rocky I",
-      "Rambo IV (John Rambo)",
+      {
+        "texto": "Rambo IV (John Rambo)",
+        "titulo": "Rambo IV"
+      },
       "WALL-E"
     ]
   },
@@ -174,7 +237,10 @@
     "title": "18° Tanda",
     "date": "Miércoles, 04/09/2024",
     "items": [
-      "Taylor Swift: The Eras Tour (Taylor's Version)",
+      {
+        "texto": "Taylor Swift: The Eras Tour (Taylor's Version)",
+        "titulo": "Taylor Swift The Eras Tour Film"
+      },
       "Dreamland"
     ]
   },
@@ -184,8 +250,14 @@
     "date": "Viernes, 20/09/2024",
     "items": [
       "Mary Queen of Scots",
-      "Los Increíbles",
-      "Kim Possible (S01 EP14-15)"
+      {
+        "texto": "Los Increíbles",
+        "titulo": "Los Increibles"
+      },
+      {
+        "texto": "Kim Possible (S01 EP14-15)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -194,7 +266,10 @@
     "date": "Martes, 08/10/2024",
     "items": [
       "About Time",
-      "Kim Possible (S01 EP16-19)"
+      {
+        "texto": "Kim Possible (S01 EP16-19)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -214,9 +289,18 @@
     "date": "Martes, 12/11/2024",
     "items": [
       "Rocky II",
-      "Retribution",
-      "Barbie: The Princess and The Popstar",
-      "Harold y su Crayón Mágico"
+      {
+        "texto": "Retribution",
+        "titulo": "Contrarreloj"
+      },
+      {
+        "texto": "Barbie: The Princess and The Popstar",
+        "titulo": "Barbie La Princesa y Estrella de Pop"
+      },
+      {
+        "texto": "Harold y su Crayón Mágico",
+        "titulo": "Harold and The Purple Crayon"
+      }
     ]
   },
   {
@@ -224,9 +308,18 @@
     "title": "23° Tanda",
     "date": "Jueves, 28/11/2024",
     "items": [
-      "Goodbye, Christopher Robin",
-      "Star Wars Episode II: Attack of the Clones",
-      "Kim Possible (S01 EP20-21)"
+      {
+        "texto": "Goodbye, Christopher Robin",
+        "titulo": "Goodbye Christopher Robin"
+      },
+      {
+        "texto": "Star Wars Episode II: Attack of the Clones",
+        "titulo": "Star Wars Episodio II Attack of The Clones"
+      },
+      {
+        "texto": "Kim Possible (S01 EP20-21)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -236,7 +329,10 @@
     "items": [
       "Babylon",
       "Marrowbone",
-      "Kim Possible (S02 EP1-3)"
+      {
+        "texto": "Kim Possible (S02 EP1-3)",
+        "titulo": "Kim Possible"
+      }
     ]
   },
   {
@@ -245,7 +341,10 @@
     "date": "Jueves, 26/12/2024",
     "items": [
       "Ámsterdam",
-      "Rambo: Last Blood"
+      {
+        "texto": "Rambo: Last Blood",
+        "titulo": "Rambo Last Blood"
+      }
     ]
   },
   {
@@ -254,7 +353,10 @@
     "date": "Lunes, 30/12/2024",
     "items": [
       "Scarface",
-      "Inside Out II"
+      {
+        "texto": "Inside Out II",
+        "titulo": "Intensamente 2"
+      }
     ]
   },
   {
@@ -263,7 +365,10 @@
     "date": "Viernes, 17/01/2025",
     "items": [
       "The Wolf of Wall Street",
-      "Taylor Swift: Folklore The Long Pond Studio Sessions"
+      {
+        "texto": "Taylor Swift: Folklore The Long Pond Studio Sessions",
+        "titulo": "Taylor Swift Folklore The Long Pond Studio Sessions"
+      }
     ]
   },
   {
@@ -272,7 +377,10 @@
     "date": "Domingo, 02/02/2025",
     "items": [
       "Emma",
-      "Cars I",
+      {
+        "texto": "Cars I",
+        "titulo": "Cars"
+      },
       "Rocky III"
     ]
   },
@@ -283,9 +391,15 @@
     "items": [
       "Playmobil",
       "Top Gun",
-      "Olivia Rodrigo: Guts World Tour Film",
+      {
+        "texto": "Olivia Rodrigo: Guts World Tour Film",
+        "titulo": "Olivia Rodrigo Guts World Tour"
+      },
       "American Pastoral",
-      "Dream Productions (Spinoff Inside Out - 4 partes)"
+      {
+        "texto": "Dream Productions (Spinoff Inside Out - 4 partes)",
+        "titulo": "Dream Productions"
+      }
     ]
   },
   {
@@ -293,9 +407,18 @@
     "title": "29° Tanda",
     "date": "Martes, 04/03/2025",
     "items": [
-      "Kim Possible (T2 EP 4-7)",
-      "Queen's Gambit (EP 1-3)",
-      "The Big Bang Theory (T1 EP 1-4)"
+      {
+        "texto": "Kim Possible (T2 EP 4-7)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "Queen's Gambit (EP 1-3)",
+        "titulo": "Gambito de Dama"
+      },
+      {
+        "texto": "The Big Bang Theory (T1 EP 1-4)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -303,10 +426,22 @@
     "title": "30° Tanda",
     "date": "Miércoles, 19/03/2025",
     "items": [
-      "Kim Possible (T2 EP 8-9)",
-      "Bichos: Una Aventura en Miniatura",
-      "Queen's Gambit (EP 4-7 + Especial)",
-      "The Big Bang Theory (T1 EP 5-7)"
+      {
+        "texto": "Kim Possible (T2 EP 8-9)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "Bichos: Una Aventura en Miniatura",
+        "titulo": "Bichos Una Aventura en Miniatura"
+      },
+      {
+        "texto": "Queen's Gambit (EP 4-7 + Especial)",
+        "titulo": "Gambito de Dama"
+      },
+      {
+        "texto": "The Big Bang Theory (T1 EP 5-7)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -314,7 +449,10 @@
     "title": "31° Tanda",
     "date": "Lunes, 31/03/2025",
     "items": [
-      "Star Wars Episode III: Revenge of the Sith",
+      {
+        "texto": "Star Wars Episode III: Revenge of the Sith",
+        "titulo": "Star Wars Episodio III Revenge of the Sith"
+      },
       "3 Generations",
       "Wonka"
     ]
@@ -325,7 +463,10 @@
     "date": "Martes, 15/04/2025",
     "items": [
       "The Menu",
-      "Super Mario Bros: The Movie",
+      {
+        "texto": "Super Mario Bros: The Movie",
+        "titulo": "Super Mario Bros The Movie"
+      },
       "Taken I",
       "Toy Story III"
     ]
@@ -345,8 +486,14 @@
     "title": "34° Tanda",
     "date": "Domingo, 18/05/2025",
     "items": [
-      "Kim Possible (T2 EP 10-14)",
-      "The Big Bang Theory (T1 EP 8-10)",
+      {
+        "texto": "Kim Possible (T2 EP 10-14)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "The Big Bang Theory (T1 EP 8-10)",
+        "titulo": "The Big Bang Theory"
+      },
       "El Padrino I"
     ]
   },
@@ -355,8 +502,14 @@
     "title": "35° Tanda",
     "date": "Martes, 03/06/2025",
     "items": [
-      "Kim Possible (T2 EP 15-19)",
-      "The Big Bang Theory (T1 EP 11-16)"
+      {
+        "texto": "Kim Possible (T2 EP 15-19)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "The Big Bang Theory (T1 EP 11-16)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -367,7 +520,10 @@
       "Non-stop",
       "Galveston",
       "Rocky IV",
-      "The Big Bang Theory (T1 EP 17 + T2 EP 1-3)"
+      {
+        "texto": "The Big Bang Theory (T1 EP 17 + T2 EP 1-3)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -378,7 +534,10 @@
       "Whiskey Tango Foxtrot",
       "Taken II",
       "21 Blackjack",
-      "The Big Bang Theory (T2 EP 4-5)"
+      {
+        "texto": "The Big Bang Theory (T2 EP 4-5)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -386,10 +545,19 @@
     "title": "38° Tanda",
     "date": "Jueves, 17/07/2025",
     "items": [
-      "Cars II",
+      {
+        "texto": "Cars II",
+        "titulo": "Cars 2"
+      },
       "The Roads Not Taken",
-      "Kim Possible (T2 EP 20-22)",
-      "The Big Bang Theory (T2 EP 6-8)"
+      {
+        "texto": "Kim Possible (T2 EP 20-22)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "The Big Bang Theory (T2 EP 6-8)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -397,9 +565,18 @@
     "title": "39° Tanda",
     "date": "Sábado, 02/08/2025",
     "items": [
-      "Star Wars IV: A New Hope",
-      "Euphoria (T1 EP 1-2)",
-      "The Big Bang Theory (T2 EP 9-13)"
+      {
+        "texto": "Star Wars IV: A New Hope",
+        "titulo": "Star Wars Episodio IV A New Hope"
+      },
+      {
+        "texto": "Euphoria (T1 EP 1-2)",
+        "titulo": "Euphoria"
+      },
+      {
+        "texto": "The Big Bang Theory (T2 EP 9-13)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -407,9 +584,18 @@
     "title": "40° Tanda",
     "date": "Martes, 19/08/2025",
     "items": [
-      "Kim Possible (T2 EP 23-26)",
-      "Euphoria (T1 EP 3-4)",
-      "The Big Bang Theory (T2 EP 14-18)"
+      {
+        "texto": "Kim Possible (T2 EP 23-26)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "Euphoria (T1 EP 3-4)",
+        "titulo": "Euphoria"
+      },
+      {
+        "texto": "The Big Bang Theory (T2 EP 14-18)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -417,10 +603,16 @@
     "title": "41° Tanda",
     "date": "Jueves, 04/09/2025",
     "items": [
-      "Kim Possible (T2 EP 27-30 + T3 EP 1)",
+      {
+        "texto": "Kim Possible (T2 EP 27-30 + T3 EP 1)",
+        "titulo": "Kim Possible"
+      },
       "The Watchers",
       "Thoroughbreds",
-      "Star Wars V: The Empire Strikes Back"
+      {
+        "texto": "Star Wars V: The Empire Strikes Back",
+        "titulo": "Star Wars Episodio V The Empire Strikes Back"
+      }
     ]
   },
   {
@@ -428,8 +620,14 @@
     "title": "42° Tanda",
     "date": "Sábado, 20/09/2025",
     "items": [
-      "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
-      "The Big Bang Theory (T2 EP 19-23)"
+      {
+        "texto": "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
+        "titulo": "Euphoria"
+      },
+      {
+        "texto": "The Big Bang Theory (T2 EP 19-23)",
+        "titulo": "The Big Bang Theory"
+      }
     ]
   },
   {
@@ -437,8 +635,14 @@
     "title": "43° Tanda",
     "date": "Miércoles, 08/10/2025",
     "items": [
-      "Kim Possible (T3 EP 2-8)",
-      "All The Bright Places",
+      {
+        "texto": "Kim Possible (T3 EP 2-8)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "All The Bright Places",
+        "titulo": "All the Bright Places"
+      },
       "Please Stand By",
       "Taken III"
     ]
@@ -448,8 +652,14 @@
     "title": "44° Tanda",
     "date": "Martes, 21/10/2025",
     "items": [
-      "Kim Possible (T3 EP 9-11)",
-      "Euphoria (T2 EP 1-3)",
+      {
+        "texto": "Kim Possible (T3 EP 9-11)",
+        "titulo": "Kim Possible"
+      },
+      {
+        "texto": "Euphoria (T2 EP 1-3)",
+        "titulo": "Euphoria"
+      },
       "Viena and the Fantomes",
       "The Neon Demon"
     ]
@@ -459,8 +669,14 @@
     "title": "45° Tanda",
     "date": "Lunes, 03/11/2025",
     "items": [
-      "Euphoria (T2 EP 4-5)",
-      "The Substance",
+      {
+        "texto": "Euphoria (T2 EP 4-5)",
+        "titulo": "Euphoria"
+      },
+      {
+        "texto": "The Substance",
+        "titulo": "La Sustancia"
+      },
       "Slaughterhouse Rulez"
     ]
   },
@@ -469,7 +685,10 @@
     "title": "46° Tanda",
     "date": "Lunes, 17/11/2025",
     "items": [
-      "TS: Reputation Stadium Tour",
+      {
+        "texto": "TS: Reputation Stadium Tour",
+        "titulo": "Taylor Swift Reputation Stadium Tour"
+      },
       "Last Night in Soho",
       "The Runaways",
       "Teen Spirit",
@@ -481,11 +700,23 @@
     "title": "47° Tanda",
     "date": "Martes, 02/12/2025",
     "items": [
-      "Euphoria (T2 EP 6-8)",
+      {
+        "texto": "Euphoria (T2 EP 6-8)",
+        "titulo": "Euphoria"
+      },
       "Very Good Girls",
-      "I Think We're Alone Now",
-      "Finding Nemo",
-      "The Ice Road"
+      {
+        "texto": "I Think We're Alone Now",
+        "titulo": "I Think Were Alone Now"
+      },
+      {
+        "texto": "Finding Nemo",
+        "titulo": "Buscando a Nemo"
+      },
+      {
+        "texto": "The Ice Road",
+        "titulo": "Riesgo Bajo Cero"
+      }
     ]
   },
   {
@@ -493,7 +724,10 @@
     "title": "48° Tanda",
     "date": "Sábado, 13/12/2025",
     "items": [
-      "Escape from Sobibor",
+      {
+        "texto": "Escape from Sobibor",
+        "titulo": "Escape de Sobibor"
+      },
       "Lilo and Stitch I",
       "Now is Good"
     ]
@@ -503,8 +737,14 @@
     "title": "49a° Tanda",
     "date": "Jueves, 25/12/2025",
     "items": [
-      "Alvin and the Chipmunks",
-      "Sabrina Carpenter: A Nonsense Christmas",
+      {
+        "texto": "Alvin and the Chipmunks",
+        "titulo": "Alvin y las Ardillas"
+      },
+      {
+        "texto": "Sabrina Carpenter: A Nonsense Christmas",
+        "titulo": "A Nonsense Christmas with Sabrina Carpenter"
+      },
       "Los Fantasmas de Scrooge"
     ]
   },
@@ -513,9 +753,15 @@
     "title": "49b° Tanda",
     "date": "Miércoles, 31/12/2025",
     "items": [
-      "Kim Possible: So The Drama",
+      {
+        "texto": "Kim Possible: So The Drama",
+        "titulo": "Kim Possible Todo un Drama"
+      },
       "Vicious",
-      "Star Wars VI: Return of the Jedi"
+      {
+        "texto": "Star Wars VI: Return of the Jedi",
+        "titulo": "Star Wars Episodio VI Return of the Jedi"
+      }
     ]
   }
 ]

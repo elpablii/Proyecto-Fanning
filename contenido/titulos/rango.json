@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE+7",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 44896
+  },
   "analisis": "Ofrece un vocabulario muy rico, casi teatral y filosófico, mezclado con jerga del Lejano Oeste y acentos desérticos arrastrados. Destacan los monólogos introspectivos y el uso de vocabulario arcaico y peculiar.",
   "sinopsis": "Rango es un camaleón ordinario que accidentalmente acaba en la ciudad de Dirt, un pueblo sin ley en el Salvaje Oeste que necesita desesperadamente un nuevo sheriff.",
   "poster": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",

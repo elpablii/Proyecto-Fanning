@@ -50,7 +50,7 @@ Ejemplo: agregar *Intensamente*, vista en 2024.
    ```
    Si algo de una ficha está mal (un PDF que no existe, un nivel no válido, un JSON mal escrito), se detiene y explica qué corregir. Con `--probar` muestra qué cambiaría sin escribir nada.
 
-Para ver qué datos les faltan a las fichas: `python fanning.py pendientes`.
+Para ver qué datos les faltan a las fichas: `python fanning.py pendientes`. Si no sabes el id de TMDB, `python fanning.py ids` lo busca y `python fanning.py ids --guardar` guarda los que confirma (cuando el póster de TMDB es el mismo de la ficha).
 
 ## Quitar una película o serie
 
@@ -79,6 +79,8 @@ python fanning.py actualizar [--probar]
 python fanning.py quitar "Título" [--retirar-pdfs]
 python fanning.py imagenes "Título" [--id N] [--rehacer]
 python fanning.py pendientes
+python fanning.py ids [--guardar]
+python fanning.py validar
 python fanning.py revisar ortografia
 python fanning.py revisar dialogos "ruta.pdf" [--serie]
 python fanning.py probar

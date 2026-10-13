@@ -6,7 +6,7 @@ import { ArrowLeft, Calendar, Image as ImageIcon } from 'lucide-react';
 import type { Tanda } from '@/lib/data';
 
 // Las tandas y los pósters llegan ya cargados desde el servidor (app/timeline/page.tsx).
-export default function TimelineClient({ tandas: events, posters: postersMap }: { tandas: Tanda[]; posters: Record<string, string> }) {
+export default function TimelineClient({ tandas: events }: { tandas: Tanda[] }) {
   const [selectedYear, setSelectedYear] = useState<string>("all");
 
   const years = useMemo(() => {
@@ -107,17 +107,17 @@ export default function TimelineClient({ tandas: events, posters: postersMap }: 
                       <div className="flex flex-col gap-4">
                         <div className="flex flex-wrap gap-3">
                           {event.items.map((item, i) => {
-                            const poster = postersMap[item];
+                            const poster = item.poster;
                             return (
                               <div key={i} className="flex items-center gap-3 bg-gray-950/50 rounded-xl p-2 border border-gray-800/60 hover:border-gray-600 transition-colors flex-1 min-w-[200px] max-w-sm">
                                 {poster ? (
-                                  <img src={poster} alt={item} loading="lazy" className="w-10 h-14 object-cover rounded-md shadow-sm" />
+                                  <img src={poster} alt={item.texto} loading="lazy" className="w-10 h-14 object-cover rounded-md shadow-sm" />
                                 ) : (
                                   <div className="w-10 h-14 bg-gray-800 rounded-md flex items-center justify-center text-gray-600">
                                     <ImageIcon size={18} />
                                   </div>
                                 )}
-                                <span className="text-sm font-medium text-gray-300 flex-1 leading-tight">{item}</span>
+                                <span className="text-sm font-medium text-gray-300 flex-1 leading-tight" title={item.titulo}>{item.texto}</span>
                               </div>
                             );
                           })}

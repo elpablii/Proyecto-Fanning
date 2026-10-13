@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 342737
+  },
   "analisis": "Ubicada a finales de los años 70 en California. Es perfecta para explorar el vocabulario sobre feminismo, cultura punk y la contracultura de la época. El inglés es coloquial e intelectual, reflejando las enormes brechas generacionales.",
   "sinopsis": "La historia de tres mujeres que exploran el amor y la libertad en California durante los años 70.",
   "poster": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",

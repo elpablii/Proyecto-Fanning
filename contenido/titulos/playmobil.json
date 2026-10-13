@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B2",
   "clasificacion": "TE+7",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 366668
+  },
   "analisis": "Inglés familiar, infantil y de aventuras. Vocabulario muy accesible que viaja a través de diferentes escenarios (romanos, vikingos, espías), ideal para exposición a términos básicos variados.",
   "sinopsis": "Cuando su hermano menor Charlie (Gabriel Bateman) desaparece inesperadamente y se introduce en el mágico mundo animado de \"Playmobil\", Marla (Anya Taylor-Joy) se embarca en una aventura para traerlo de vuelta a casa. A medida que descubre los secretos que aguardan en su nuevo mundo, Marla conoce a una serie de heróicos nuevos amigos, como el conductor de camiones Del (Jim Gaffigan), el carismático agente secreto Rex Dasher (Daniel Radcliffe), un hada madrina entrada en años (Meghan Trainor) e incluso a un robot un poco rebelde pero con un gran corazón. La aventura, además de llevarla directamente al corazón del mundo \"Playmobil\", le ayudará a conocerse mejor a sí misma y a entender que, independientemente de qué ofrezca la vida, todo es posible cuando creémos en nosotros mismos.",
   "poster": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",

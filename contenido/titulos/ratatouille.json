@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B1",
   "clasificacion": "TE",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 2062
+  },
   "analisis": "Una película de Pixar que, aunque animada, ofrece un inglés rico, fluido y lleno de vocabulario culinario. Encontrarás palabras como 'recipe', 'flavor', 'chef', mezcladas con un encantador acento francés falso que le da un toque único. Excelente para familiarizarse con vocabulario de cocina.",
   "sinopsis": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",
   "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",

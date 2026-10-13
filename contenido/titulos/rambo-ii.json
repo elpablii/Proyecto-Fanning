@@ -3,7 +3,10 @@
   "tipo": "pelicula",
   "nivel": "B1",
   "clasificacion": "+18",
-  "tmdb": null,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1369
+  },
   "analisis": "Inglés militar táctico de los años 80, muy similar a la primera parte pero más enfocado en el combate activo. Expresiones cortas, jerga de armamento, supervivencia en la selva y acentos eslavos/asiáticos fingidos.",
   "sinopsis": "Rambo, encarcelado por sus antiguos crímenes, recibe por parte del coronel Trautman la misión optativa de ir a Vietnam para comprobar si aún quedan prisioneros de guerra. Si la misión saliera bien, el presidente le concedería el perdón, y así sería libre. Rambo acepta. Está bajo las órdenes de un falso teniente (Murdock), al que muy en el fondo sólo le interesa el dinero y el poder de su nación, y al que le da igual perder a unos cuantos hombres, por muy inocentes que sean, si sigue controlando las cosas como él quiere. Murdock le encarga que sólo saque fotos, y que no ataque al enemigo. Pero al saltar en paracaídas sobre un área selvática prohibida, Rambo pierde todo su equipo, excepto un cuchillo dentado y un arco.",
   "poster": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
