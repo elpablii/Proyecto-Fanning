@@ -1,0 +1,30 @@
+{
+  "titulo": "Toy Story",
+  "tipo": "pelicula",
+  "nivel": "A2",
+  "clasificacion": "TE+7",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 862
+  },
+  "analisis": "La película que lo inició todo. Ofrece un inglés sumamente accesible y amigable. Es perfecto para captar vocabulario del hogar, la habitación de un niño y juegos infantiles. La claridad en la dicción de los actores de voz (Tom Hanks y Tim Allen) la hace ideal para entrenar el oído de forma relajada.",
+  "sinopsis": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+  "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg",
+    "https://image.tmdb.org/t/p/w780/39QpDXKtzVP4gkGxZIkjJNkOTWr.jpg",
+    "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "https://image.tmdb.org/t/p/w780/bSoOThXLrbgtphS2eZjwy2xYwVt.jpg",
+    "https://image.tmdb.org/t/p/w780/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg",
+    "https://image.tmdb.org/t/p/w780/uWEK5ivO2Lyvbf5AgNZ1rBVVfiI.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Toy Story (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Toy Story to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "titulo": "A Minecraft Movie",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE+7",
+  "tmdb": null,
+  "analisis": "Una aventura con un inglés directo, divertido y muy accesible. Cuenta con un vocabulario lleno de términos relacionados a la construcción, la aventura y la fantasía. Al ser una película para toda la familia, la dicción suele ser clara y las expresiones son de uso común.",
+  "sinopsis": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+  "poster": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "https://image.tmdb.org/t/p/w780/56lv8d5yst1SBhw1uR3iGFd1R43.jpg",
+    "https://image.tmdb.org/t/p/w780/ziy2IHPtWMEFVYthyZMguaB4xXp.jpg",
+    "https://image.tmdb.org/t/p/w780/eFnQGCUOkcMJcR1iYU0UZCvpXC6.jpg",
+    "https://image.tmdb.org/t/p/w780/4MWc9Ur80Wo0B1fVVTnV0CoSh6A.jpg",
+    "https://image.tmdb.org/t/p/w780/elv9BNtTrbtiyif8cE02AuK1nQi.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de A Minecraft Movie (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from A Minecraft Movie to improve the vocabulary in English.pdf"
+    ]
+  }
+}

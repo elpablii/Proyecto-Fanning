@@ -2,6 +2,19 @@
   "title": "Here Are The Young Men",
   "level": "B2",
   "englishAnalysis": "Drama crudo situado en Irlanda. El vocabulario incluye fuerte jerga adolescente irlandesa, modismos de Dublín y expresiones de alienación, rebeldía y violencia. Requiere oído afinado para el acento irlandés.",
+  "tmdb": {
+    "overview": "Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
+      "https://image.tmdb.org/t/p/w780/rJCQDs94r65KIAWilAdTjXpoUjU.jpg",
+      "https://image.tmdb.org/t/p/w780/A084ljdG4beM0ve5JhNA9EQSoFk.jpg",
+      "https://image.tmdb.org/t/p/w780/us7PyhvXslCJvu9fddWzq7nfRh2.jpg",
+      "https://image.tmdb.org/t/p/w780/8t8Ii84g7wWGetLp8PUTiplzQD1.jpg",
+      "https://image.tmdb.org/t/p/w780/fB2xhjrIuIvmFxLwZmVqldrquYS.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
   "vocabulary": [
     {
       "word": "Insurance cover",
@@ -232,18 +245,6 @@
       "translation": "destrozar, hacer pedazos"
     }
   ],
-  "tmdb": {
-    "overview": "Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
-      "https://image.tmdb.org/t/p/w780/rJCQDs94r65KIAWilAdTjXpoUjU.jpg",
-      "https://image.tmdb.org/t/p/w780/A084ljdG4beM0ve5JhNA9EQSoFk.jpg",
-      "https://image.tmdb.org/t/p/w780/us7PyhvXslCJvu9fddWzq7nfRh2.jpg",
-      "https://image.tmdb.org/t/p/w780/8t8Ii84g7wWGetLp8PUTiplzQD1.jpg",
-      "https://image.tmdb.org/t/p/w780/fB2xhjrIuIvmFxLwZmVqldrquYS.jpg"
-    ],
-    "episodes": null
-  },
   "count": 57,
   "dialogues": 1060
 }

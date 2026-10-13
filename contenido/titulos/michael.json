@@ -1,0 +1,27 @@
+{
+  "titulo": "Michael",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "Un recorrido por la vida de Michael Jackson, que incluye un extenso vocabulario sobre la industria musical, el escrutinio de la prensa, los procesos legales y la fama. Con mucha terminología ligada al mundo del espectáculo.",
+  "sinopsis": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",
+  "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+    "https://image.tmdb.org/t/p/w780/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+    "https://image.tmdb.org/t/p/w780/q4rkoLp1k5jReEkt21rqMt0oOzO.jpg",
+    "https://image.tmdb.org/t/p/w780/izRUJlYpEruJAWxCsMAlDgaBpUf.jpg",
+    "https://image.tmdb.org/t/p/w780/dVsHY2PPAiFhhPD5x9pmOBZd8tB.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Michael (lista definitiva) .pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Michael to improve the vocabulary in English.pdf"
+    ]
+  }
+}

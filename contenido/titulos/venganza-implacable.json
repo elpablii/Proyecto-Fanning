@@ -1,0 +1,30 @@
+{
+  "titulo": "Venganza Implacable",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 553604
+  },
+  "analisis": "Un thriller de acción moderno protagonizado por Liam Neeson. El inglés es funcional, asertivo y lleno de jerga criminal y policial contemporánea ('feds', 'wire', 'safe house'). Las frases son cortas e imperativas, ideales para aprender a dar órdenes y comprender amenazas sutiles.",
+  "sinopsis": "Un ladrón de bancos se entrega a la policía porque se ha enamorado y decide llevar una vida honrada. Sin embargo, cuando descubre que los federales son aún más corruptos que él, se verá obligado a utilizar todo su entrenamiento y experiencia como ex marine y ladrón profesional para limpiar su nombre.",
+  "poster": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+    "https://image.tmdb.org/t/p/w780/dADKKaTlzK2PFdtd86Mgisi7IKi.jpg",
+    "https://image.tmdb.org/t/p/w780/tYkMtYPNpUdLdzGDUTC5atyMh9X.jpg",
+    "https://image.tmdb.org/t/p/w780/6KQaKloJgPigQ4GQ9uEKnLiSJT6.jpg",
+    "https://image.tmdb.org/t/p/w780/uNe9QgvMlM15evabDMkOz23wwIR.jpg",
+    "https://image.tmdb.org/t/p/w780/6yrqL5VMW18GEOXUj71yNtDXj7C.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Venganza Implacable (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Honest Thief to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -2,6 +2,19 @@
   "title": "WALL-E",
   "level": "A1",
   "englishAnalysis": "Aunque tiene muy poco diálogo al principio, el vocabulario posterior se centra en corporativismo exagerado, automatización y consumismo ('directive', 'auto-pilot', 'plant'). Voces de robots y acentos americanos muy estandarizados.",
+  "tmdb": {
+    "overview": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "https://image.tmdb.org/t/p/w780/pjLdH5VIKirwVUIZ0iDisXoRGo4.jpg",
+      "https://image.tmdb.org/t/p/w780/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+      "https://image.tmdb.org/t/p/w780/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+      "https://image.tmdb.org/t/p/w780/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
+      "https://image.tmdb.org/t/p/w780/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
   "vocabulary": [
     {
       "word": "Way out there this hick town",
@@ -188,18 +201,6 @@
       "translation": "zarpamos hacia el cielo"
     }
   ],
-  "tmdb": {
-    "overview": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "https://image.tmdb.org/t/p/w780/pjLdH5VIKirwVUIZ0iDisXoRGo4.jpg",
-      "https://image.tmdb.org/t/p/w780/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
-      "https://image.tmdb.org/t/p/w780/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
-      "https://image.tmdb.org/t/p/w780/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
-      "https://image.tmdb.org/t/p/w780/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg"
-    ],
-    "episodes": null
-  },
   "count": 46,
   "dialogues": 794
 }

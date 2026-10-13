@@ -1,37 +1,92 @@
-# Métricas de la página
+# Datos de la página
 
-Los PDFs de `Vocabularios/` y `Diálogos/` son la fuente de verdad. Todas las cifras de la página salen de ellos con los criterios de `Metodología/`:
+Hay dos zonas que no se mezclan:
+
+| Zona | Qué hay | ¿Se edita a mano? |
+|---|---|---|
+| `contenido/titulos/*.json` | Una **ficha** por película o serie: nivel, clasificación, id de TMDB, análisis, imágenes, PDFs y datos de cada episodio | **Sí** |
+| `contenido/tandas.json` | La línea de tiempo (tandas y fechas) | **Sí** |
+| `Vocabularios/` y `Diálogos/` | Los PDFs, la fuente de verdad de las palabras y las líneas | Sí (se corrigen los PDFs) |
+| `fanning-dashboard/public/data/` | Todo lo que lee la página | **No**: se genera |
+
+Las palabras y las líneas se cuentan con los criterios de `Metodología/`:
 
 - `Criterio de conteo de líneas de diálogo.txt`
 - `Criterio de conteo de palabras y frases.txt`
 
-## Cada vez que agregues o corrijas un PDF
+## Agregar una película o serie
 
+1. Copia los PDFs a `Vocabularios/<año>/` y `Diálogos/...`.
+2. Corre:
+   ```
+   python scripts/metricas/nuevos_titulos.py
+   ```
+   Crea la ficha en `contenido/titulos/` (o agrega los PDFs a la ficha que ya existe, por ejemplo episodios nuevos de una serie). Si avisa que un PDF de diálogos no coincide con ninguna ficha, agrega su ruta a mano en `"pdfs"` → `"dialogos"` de la ficha que corresponde.
+3. Abre la ficha y completa `nivel`, `clasificacion` (`TE`, `TE+7`, `+14` o `+18`) y `analisis`. Pon el id de TMDB y trae las imágenes:
+   ```
+   python scripts/metricas/posters_tmdb.py "Título" --id 12345            # película
+   python scripts/metricas/posters_tmdb.py "Título" --id 12345 --serie    # serie
+   python scripts/metricas/episodios_tmdb.py --serie "Título"             # fotos de episodios (solo series)
+   ```
+4. Actualiza la página:
+   ```
+   python scripts/metricas/actualizar.py              # muestra qué cambiaría, no escribe
+   python scripts/metricas/actualizar.py --escribir
+   ```
+
+## Quitar una película o serie
+
+Borra su ficha de `contenido/titulos/` y corre `actualizar.py --escribir`. Sus datos generados se borran solos. Los PDFs se pueden dejar o borrar; si se dejan, `nuevos_titulos.py` volverá a ofrecer una ficha para ellos.
+
+## Agregar una tanda
+
+Agrega un bloque al final de `contenido/tandas.json` (igual a los anteriores) y corre `actualizar.py --escribir`.
+
+## Si algo está mal
+
+`actualizar.py` revisa las fichas antes de publicar. Si una tiene un error (un PDF que no existe, un nivel o una clasificación que no es válida, un JSON mal escrito), se detiene y explica en español qué corregir y en qué archivo. Los datos que faltan (por ejemplo, el id de TMDB) no detienen nada: aparecen al final del reporte.
+
+Cada actualización deja `reporte_ultima_actualizacion.md` con el antes y el después.
+
+## Formato de una ficha
+
+```json
+{
+  "titulo": "Intensamente",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": { "tipo": "movie", "id": 150540 },
+  "analisis": "…",
+  "sinopsis": "…",
+  "poster": "https://…",
+  "fondo": "https://…",
+  "fotos": ["https://…"],
+  "pdfs": {
+    "vocabulario": ["Vocabularios/2024/Palabras desconocidas de Intensamente (lista definitiva).pdf"],
+    "dialogos": ["Diálogos/Diálogos pelis 2024/Dialogues from Inside Out to improve the vocabulary in English.pdf"]
+  }
+}
 ```
-python scripts/metricas/construir_catalogo.py
-python scripts/metricas/actualizar.py              # muestra qué cambiaría, no escribe
-python scripts/metricas/actualizar.py --escribir   # actualiza la página
+
+Las series tienen además `"episodios"`, con un bloque por código de episodio (`S01E01`, o `SP01` para especiales):
+
+```json
+"episodios": {
+  "S01E01": { "nombre": "S01E01 - Pilot", "nivel": "B2", "titulo": "Pilot", "foto": "https://…", "sinopsis": "…" }
+}
 ```
 
-Eso actualiza **todas** las métricas de la página:
-
-- totales de palabras, de diálogos y de títulos;
-- cifras por año y el gráfico anual;
-- cifras por título;
-- cifras por episodio y por temporada;
-- % de comprensión;
-- palabras más repetidas.
-
-Al final queda `reporte_ultima_actualizacion.md`, con el antes y el después y los avisos para revisar.
+Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica así: `{ "ruta": "Diálogos/…pdf", "episodio": "SP01" }`.
 
 ## Archivos
 
 | Archivo | Para qué sirve |
 |---|---|
-| `conteo.py` | Las reglas de conteo. Si cambia un criterio, se cambia aquí y en el txt. |
-| `catalogo.json` | Qué PDFs corresponden a cada título. Se puede editar a mano. |
-| `construir_catalogo.py` | Agrega los PDFs nuevos al catálogo. Si un PDF de diálogos no tiene nombre parecido a su vocabulario (por ejemplo, un título en inglés y el otro en español), agrégalo a `TRADUCCIONES` en este archivo. |
-| `actualizar.py` | Cuenta y reescribe `pelis/*.json`, `<año>/vocabulario_*.json` y `manifest.json`. Conserva el nivel, el análisis, TMDB, los pósters y la clasificación. |
-| `test_conteo.py` | Pruebas con los ejemplos de los txt: `python scripts/metricas/test_conteo.py`. |
-
-No edites a mano el vocabulario ni las cifras de los JSON de la página: la próxima actualización los vuelve a calcular desde los PDFs. Los errores de tipeo se corrigen en el PDF.
+| `fichas.py` | Lee, valida y guarda las fichas. |
+| `nuevos_titulos.py` | Agrega los PDFs nuevos a las fichas. |
+| `actualizar.py` | Cuenta y genera todo lo que lee la página. |
+| `posters_tmdb.py` / `episodios_tmdb.py` | Traen imágenes y sinopsis de TMDB a las fichas. La clave va en `fanning-dashboard/.env.local`. |
+| `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". |
+| `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
+| `test_conteo.py` | Pruebas: `python scripts/metricas/test_conteo.py`. |

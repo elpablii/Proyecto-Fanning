@@ -1,0 +1,28 @@
+{
+  "titulo": "Titanic",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "Contrasta vívidamente el inglés elegante y anticuado de la clase alta británica y estadounidense ('proprietor', 'steerage', 'honor') con el lenguaje coloquial e informal de la clase trabajadora ('bloke', 'mate', 'lad'). Incluye vocabulario náutico ('bow', 'stern', 'lifeboat').",
+  "sinopsis": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
+  "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+    "https://image.tmdb.org/t/p/w780/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+    "https://image.tmdb.org/t/p/w780/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+    "https://image.tmdb.org/t/p/w780/4MS3PY7syZUULFGlujYeqQqnIoG.jpg",
+    "https://image.tmdb.org/t/p/w780/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+    "https://image.tmdb.org/t/p/w780/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Titanic (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2024/Palabras desconocidas de Titanic (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Titanic to improve the vocabulary in English.pdf"
+    ]
+  }
+}

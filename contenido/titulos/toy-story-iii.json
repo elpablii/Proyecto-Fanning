@@ -1,0 +1,27 @@
+{
+  "titulo": "Toy Story III",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Sigue el estándar alto de Pixar: inglés americano muy inteligible que combina vocabulario de preescolar con lenguaje dramático de escape de prisión. Ideal para escuchar matices de voz.",
+  "sinopsis": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
+  "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+    "https://image.tmdb.org/t/p/w780/9w40MpsvyxMdtnwu1R4tPVW8Gmb.jpg",
+    "https://image.tmdb.org/t/p/w780/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "https://image.tmdb.org/t/p/w780/csDxOOSjfcJNNRo4ma8ltVynELV.jpg",
+    "https://image.tmdb.org/t/p/w780/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
+    "https://image.tmdb.org/t/p/w780/9KX2pn7AU0qdF2nywtveuxLWdjD.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Toy Story III (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Toy Story 3 to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "titulo": "Rango",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE+7",
+  "tmdb": null,
+  "analisis": "Ofrece un vocabulario muy rico, casi teatral y filosófico, mezclado con jerga del Lejano Oeste y acentos desérticos arrastrados. Destacan los monólogos introspectivos y el uso de vocabulario arcaico y peculiar.",
+  "sinopsis": "Rango es un camaleón ordinario que accidentalmente acaba en la ciudad de Dirt, un pueblo sin ley en el Salvaje Oeste que necesita desesperadamente un nuevo sheriff.",
+  "poster": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
+    "https://image.tmdb.org/t/p/w780/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+    "https://image.tmdb.org/t/p/w780/6B2tOYhaIpv3kPKBkvdebX624Gw.jpg",
+    "https://image.tmdb.org/t/p/w780/zFpubwUpkUpKw71u4KkfJaJ5126.jpg",
+    "https://image.tmdb.org/t/p/w780/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
+    "https://image.tmdb.org/t/p/w780/qXuwcdfjs868pQW1clEUgQpCepZ.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Rango (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2025/Palabras desconocidas de Rango (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Rango to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "Night Moves",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+18",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 157823
+  },
+  "analisis": "Un thriller psicológico protagonizado por eco-terroristas. El vocabulario incluye terminología agrícola, activismo y manipulación de explosivos. El inglés suele ser susurrado, tenso y directo, reflejando la paranoia constante.",
+  "sinopsis": "The story about three radical environmentalists coming together to execute the most intense protest of their lives: the explosion of a hydroelectric dam.",
+  "poster": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/va6SObQdsJV4BmPKts4pTsKIk37.jpg",
+    "https://image.tmdb.org/t/p/w780/20o1xYYtz0DCGyqLj1L2Pr7QMYD.jpg",
+    "https://image.tmdb.org/t/p/w780/m6hUzEwQ5yxUHCEfcSgAZEBOEXm.jpg",
+    "https://image.tmdb.org/t/p/w780/g4Lc4k5i7uJCdfzK9uMQrCuYZtC.jpg",
+    "https://image.tmdb.org/t/p/w780/xxEkFpSmwDJdzviPYxmoZcIiTsm.jpg",
+    "https://image.tmdb.org/t/p/w780/qzNydfEM0jAqVitBmQfxETZusyz.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Night Moves (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Night Moves to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -2,6 +2,19 @@
   "title": "The Vanishing of Sidney Hall",
   "level": "B2",
   "englishAnalysis": "Un drama complejo cuyo vocabulario incluye mucha jerga literaria (el protagonista es un escritor prodigio), temas sobre la fama, la salud mental y la tragedia. El inglés oscila entre coloquialismos adolescentes y diálogos filosóficos muy profundos.",
+  "tmdb": {
+    "overview": "A lo largo de 12 años y tres etapas de la vida, Sidney Hall se enamora, escribe el libro de una generación y luego desaparece sin dejar rastro.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
+      "https://image.tmdb.org/t/p/w780/LWkcQ4diHXnFeJ5irpa8i1KKhR.jpg",
+      "https://image.tmdb.org/t/p/w780/iVSVZ9O9rmCZbfECUEa1vNvgp2K.jpg",
+      "https://image.tmdb.org/t/p/w780/xlNjxslfIUSPpnE1FX1q1BvWYex.jpg",
+      "https://image.tmdb.org/t/p/w780/rKugj2dOL8tUaHqWguxqZOmaxXr.jpg",
+      "https://image.tmdb.org/t/p/w780/bHdloJpE2YMnugQzBORSS8K4cP1.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
   "vocabulary": [
     {
       "word": "Of the power held therein",
@@ -376,18 +389,6 @@
       "translation": "me di cuenta, al observar a todos esos"
     }
   ],
-  "tmdb": {
-    "overview": "A lo largo de 12 años y tres etapas de la vida, Sidney Hall se enamora, escribe el libro de una generación y luego desaparece sin dejar rastro.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
-      "https://image.tmdb.org/t/p/w780/LWkcQ4diHXnFeJ5irpa8i1KKhR.jpg",
-      "https://image.tmdb.org/t/p/w780/iVSVZ9O9rmCZbfECUEa1vNvgp2K.jpg",
-      "https://image.tmdb.org/t/p/w780/xlNjxslfIUSPpnE1FX1q1BvWYex.jpg",
-      "https://image.tmdb.org/t/p/w780/rKugj2dOL8tUaHqWguxqZOmaxXr.jpg",
-      "https://image.tmdb.org/t/p/w780/bHdloJpE2YMnugQzBORSS8K4cP1.jpg"
-    ],
-    "episodes": null
-  },
   "count": 93,
   "dialogues": 1887
 }

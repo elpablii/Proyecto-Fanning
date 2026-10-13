@@ -1,11 +1,7 @@
 {
   "title": "The Big Bang Theory",
-  "overview": "Leonard y Sheldon son dos físicos que comparten trabajo y apartamento. La serie comienza con la mudanza de Penny, su nueva y atractiva vecina, y hace hincapié en la dificultad de los físicos para relacionarse con personas fuera de su entorno para dar lugar a situaciones cómicas.",
-  "englishAnalysis": "El inglés de The Big Bang Theory se caracteriza por un amplio uso de vocabulario científico, términos de la cultura pop y jerga geek. Sheldon y Leonard utilizan estructuras gramaticales complejas y un léxico académico y muy formal, lo que resulta excelente para expandir tu vocabulario avanzado. Por otro lado, Penny aporta expresiones cotidianas y modismos informales comunes. Es una serie ideal para estudiantes que buscan llevar su inglés a un nivel B2/C1, dominando tanto el registro formal técnico como el habla coloquial americana.",
-  "count": 4544,
   "level": "B2",
-  "rating": "TE",
-  "dialogues": 43158,
+  "englishAnalysis": "El inglés de The Big Bang Theory se caracteriza por un amplio uso de vocabulario científico, términos de la cultura pop y jerga geek. Sheldon y Leonard utilizan estructuras gramaticales complejas y un léxico académico y muy formal, lo que resulta excelente para expandir tu vocabulario avanzado. Por otro lado, Penny aporta expresiones cotidianas y modismos informales comunes. Es una serie ideal para estudiantes que buscan llevar su inglés a un nivel B2/C1, dominando tanto el registro formal técnico como el habla coloquial americana.",
   "tmdb": {
     "overview": "Leonard y Sheldon son dos físicos que comparten trabajo y apartamento. La serie comienza con la mudanza de Penny, su nueva y atractiva vecina, y hace hincapié en la dificultad de los físicos para relacionarse con personas fuera de su entorno para dar lugar a situaciones cómicas.",
     "photos": [
@@ -17,549 +13,553 @@
       "https://image.tmdb.org/t/p/w780/8X1BTSaUyF5rc0malaaQovpxC3f.jpg"
     ],
     "episodes": {
-      "1": {
+      "S01E01": {
         "name": "Pilot",
         "still_path": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg"
       },
-      "2": {
+      "S01E02": {
         "name": "The Big Bran Hypothesis",
         "still_path": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg"
       },
-      "3": {
+      "S01E03": {
         "name": "The Fuzzy Boots Corollary",
         "still_path": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg"
       },
-      "4": {
+      "S01E04": {
         "name": "The Luminous Fish Effect",
         "still_path": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg"
       },
-      "5": {
+      "S01E05": {
         "name": "The Hamburger Postulate",
         "still_path": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg"
       },
-      "6": {
+      "S01E06": {
         "name": "The Middle-Earth Paradigm",
         "still_path": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg"
       },
-      "7": {
+      "S01E07": {
         "name": "The Dumpling Paradox",
         "still_path": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg"
       },
-      "8": {
+      "S01E08": {
         "name": "The Grasshopper Experiment",
         "still_path": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg"
       },
-      "9": {
+      "S01E09": {
         "name": "The Cooper-Hofstadter Polarization",
         "still_path": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg"
       },
-      "10": {
+      "S01E10": {
         "name": "The Loobenfeld Decay",
         "still_path": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg"
       },
-      "11": {
+      "S01E11": {
         "name": "The Pancake Batter Anomaly",
         "still_path": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg"
       },
-      "12": {
+      "S01E12": {
         "name": "The Jerusalem Duality",
         "still_path": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg"
       },
-      "13": {
+      "S01E13": {
         "name": "The Bat Jar Conjecture",
         "still_path": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg"
       },
-      "14": {
+      "S01E14": {
         "name": "The Nerdvana Annihilation",
         "still_path": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg"
       },
-      "15": {
+      "S01E15": {
         "name": "The Pork Chop Indeterminacy",
         "still_path": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg"
       },
-      "16": {
+      "S01E16": {
         "name": "The Peanut Reaction",
         "still_path": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg"
       },
-      "17": {
+      "S01E17": {
         "name": "The Tangerine Factor",
         "still_path": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg"
       },
-      "18": {
+      "S02E01": {
         "name": "The Bad Fish Paradigm",
         "still_path": "https://image.tmdb.org/t/p/w500/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg",
         "overview": "La primera cita de Penny con Leonard no fue bien, y Penny encuentra en Sheldon a un confidente poco válido."
       },
-      "19": {
+      "S02E02": {
         "name": "The Codpiece Topology",
         "still_path": "https://image.tmdb.org/t/p/w500/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg",
         "overview": "Un celoso Leonard reacciona ante el nuevo chico de Penny por el problema con Leslie."
       },
-      "20": {
+      "S02E03": {
         "name": "The Barbarian Sublimation",
         "still_path": "https://image.tmdb.org/t/p/w500/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg",
         "overview": "Sheldon crea un mostruo cuando introduce a Penny en los juegos online."
       },
-      "21": {
+      "S02E04": {
         "name": "The Griffin Equivalency",
         "still_path": "https://image.tmdb.org/t/p/w500/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg",
         "overview": "Con la confianza por los cielos tras salir en una revista, Raj empieza a tirarle los trastos a Penny y se vuelve insoportablemente arrogante."
       },
-      "22": {
+      "S02E05": {
         "name": "The Euclid Alternative",
         "still_path": "https://image.tmdb.org/t/p/w500/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg",
         "overview": "Leonard y sus amigos fuerzan a Sheldon a plantar cara a su miedo a conducir."
       },
-      "23": {
+      "S02E06": {
         "name": "The Cooper-Nowitzki Theorem",
         "still_path": "https://image.tmdb.org/t/p/w500/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg",
         "overview": "Sheldon y la cuadrilla están confundidos cuando éste se siente atraído por una estudiante."
       },
-      "24": {
+      "S02E07": {
         "name": "The Panty Piñata Polarization",
         "still_path": "https://image.tmdb.org/t/p/w500/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg",
         "overview": "Cuando Sheldon prohíbe la entrada en el apartamento a Penny por numerosas infracciones menores, ella decide tomas represalias."
       },
-      "25": {
+      "S02E08": {
         "name": "The Lizard-Spock Expansion",
         "still_path": "https://image.tmdb.org/t/p/w500/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg",
         "overview": "Leonard sin querer le roba la nueva chica a Wolowitz, quien cree que es la mujer de su vida."
       },
-      "26": {
+      "S02E09": {
         "name": "The White Asparagus Triangulation",
         "still_path": "https://image.tmdb.org/t/p/w500/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg",
         "overview": "Sheldon se emociona cuando Leonard comienza a salir con una mujer que entiende las rigurosas normas de Sheldon."
       },
-      "27": {
+      "S02E10": {
         "name": "The Vartabedian Conundrum",
         "still_path": "https://image.tmdb.org/t/p/w500/uosBIO5639eeocnvjCxqrLl2HEN.jpg",
         "overview": "Leonard pregunta a Penny cuando se da cuenta que su nueva relación empieza a ir demasiado deprisa."
       },
-      "28": {
+      "S02E11": {
         "name": "The Bath Item Gift Hypothesis",
         "still_path": "https://image.tmdb.org/t/p/w500/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg",
         "overview": "Penny empieza a salir con el atractivo colega de Leonard. La obsesión de Sheldon con la etiqueta del regalo tortura a Leonard y sus amigos."
       },
-      "29": {
+      "S02E12": {
         "name": "The Killer Robot Instability",
         "still_path": "https://image.tmdb.org/t/p/w500/fdo2epxMfOhpAWJ3EWplioQakRK.jpg",
         "overview": "La crítica de Penny a la vida romántica de Wolowitz le empuja a una depresión y abandona la batalla de robots luchadores, para la cual es indispensable."
       },
-      "30": {
+      "S02E13": {
         "name": "The Friendship Algorithm",
         "still_path": "https://image.tmdb.org/t/p/w500/9q49iyMGcO9EIk9vWbnBZgfGNSF.jpg",
         "overview": "Sheldon quiere que Barry Kripke le deje usar su equipo de alta tecnología y desarrolla un proceso científico para hacer amigos que se lo ponga fácil."
       },
-      "31": {
+      "S02E14": {
         "name": "The Financial Permeability",
         "still_path": "https://image.tmdb.org/t/p/w500/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg",
         "overview": "La solución de Sheldon para la dificultad financiera de Penny pasa por una confrontación entre Leonard y el ex novio de Penny."
       },
-      "32": {
+      "S02E15": {
         "name": "The Maternal Capacitance",
         "still_path": "https://image.tmdb.org/t/p/w500/cShchuw3099TXbfav7e9XU6qCoV.jpg",
         "overview": "Leonard y Penny se unen tras la desastrosa visita de la madre de Leonard."
       },
-      "33": {
+      "S02E16": {
         "name": "The Cushion Saturation",
         "still_path": "https://image.tmdb.org/t/p/w500/egK4v3alm6G7cm0CmMRGR3p8Yx3.jpg",
         "overview": "Una partida de paintball supone una confrontación entre Sheldon y Penny, y el romance entre Leslie y Wolowitz."
       },
-      "34": {
+      "S02E17": {
         "name": "The Terminator Decoupling",
         "still_path": "https://image.tmdb.org/t/p/w500/uorhUtKMHkx7EokhUcSBl3q6GRt.jpg",
         "overview": "Leonard, Sheldon y Wolowitz están alucinados al enterarse que una famosa actriz de ciencia ficción (Summer Glau) está a bordo del tren que han tomado a San Francisco."
       },
-      "35": {
+      "S02E18": {
         "name": "The Work Song Nanocluster",
         "still_path": "https://image.tmdb.org/t/p/w500/fkaYEuDqCyBsODp0XYMAZrLULYs.jpg",
         "overview": "El negocio casero de Penny se vuelve una completa pesadilla cuando Sheldon se hace cargo."
       },
-      "36": {
+      "S02E19": {
         "name": "The Dead Hooker Juxtaposition",
         "still_path": "https://image.tmdb.org/t/p/w500/8LL0P42Z8mwyFXfnF3jnaabSZYt.jpg",
         "overview": "Penny se pone al ataque con la nueva vecina hermosa, que puede convertirse en la \"nueva Penny\"."
       },
-      "37": {
+      "S02E20": {
         "name": "The Hofstadter Isotope",
         "still_path": "https://image.tmdb.org/t/p/w500/otMgg5qrM4XfHwbGnpWhPy8R2yD.jpg",
         "overview": "Un amigo de la tienda de cómics que coquetea con Penny, hace que Leonard y Howard vayan al bar a conseguir mujeres."
       },
-      "38": {
+      "S02E21": {
         "name": "The Vegas Renormalization",
         "still_path": "https://image.tmdb.org/t/p/w500/5SRU3ZHSjhdh7MOWHxivvO6p2Xs.jpg",
         "overview": "Leonard y Koothrappali llevan a Wolowitz que tiene el corazón roto a Las Vegas, y Sheldon olvida las llaves de su departamento por lo que debe quedarse en lo de Penny."
       },
-      "39": {
+      "S02E22": {
         "name": "The Classified Materials Turbulence",
         "still_path": "https://image.tmdb.org/t/p/w500/jNdjEnmBwdJiojaG6weilqZPfOn.jpg",
         "overview": "Para la segunda cita con Stuart, Penny le hace un comentario a Leonard que le da esperanza para una relación con ella. Wolowitz se da cuenta que hay un error crucial en un proyecto de la NASA para el que está trabajando."
       },
-      "40": {
+      "S02E23": {
         "name": "The Monopolar Expedition",
         "still_path": "https://image.tmdb.org/t/p/w500/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg",
         "overview": "Los chicos planean trabajar en el verano en el Polo Norte, esto hace que Penny reevalue sus sentimientos por Leonard."
       },
-      "41": {
+      "S03E01": {
         "name": "The Electric Can Opener Fluctuation",
         "still_path": "https://image.tmdb.org/t/p/w500/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg",
         "overview": "Cuando Sheldon descubre que boicotearon sus experimentos en el Artico, huye a Texas con su madre. Como consecuencia, los chicos van detrás suyo para lograr que vuelva a casa."
       },
-      "42": {
+      "S03E02": {
         "name": "The Jiminy Conjecture",
         "still_path": "https://image.tmdb.org/t/p/w500/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg",
         "overview": "Penny y Leonard tratan de recuperarse después de su primer encuentro incómodo, mientras que Sheldon y Howard se apuestan sus mejores cómics para el que logre determinar de qué especie es un grillo."
       },
-      "43": {
+      "S03E03": {
         "name": "The Gothowitz Deviation",
         "still_path": "https://image.tmdb.org/t/p/w500/8iWdGkONXwKYsv73HZr6p80Csaa.jpg",
         "overview": "Howard y Raj visitan una discoteca gótica para cazar mujeres mientras Sheldon intenta mejorar a Penny con una modificación del comportamiento basada en el consumo de chocolate"
       },
-      "44": {
+      "S03E04": {
         "name": "The Pirate Solution",
         "still_path": "https://image.tmdb.org/t/p/w500/doGrzGYbdS9HzjkfROUENBv6gpk.jpg",
         "overview": "Raj debe encontrar un nuevo trabajo o será enviado de regreso a India, pero Sheldon tiene una solución, lo que deja a Leonard y Penny con Howard como mal tercio."
       },
-      "45": {
+      "S03E05": {
         "name": "The Creepy Candy Coating Corollary",
         "still_path": "https://image.tmdb.org/t/p/w500/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg",
         "overview": "Después de enterarse que Wil Wheaton entrara a un concurso de estrategia de cartas, Sheldon decide entrar también. Mientras tanto, Penny arregla una cita para una de sus amigas con Wolowitz."
       },
-      "46": {
+      "S03E06": {
         "name": "The Cornhusker Vortex",
         "still_path": "https://image.tmdb.org/t/p/w500/ethrkqDoGEbXtmN48IhN9aIESfa.jpg",
         "overview": "Sheldon se convierte en maestro de Leonard para ayudarlo a entender el football, mientras un problema ocurrido al volar cometas amenaza la amistad de Howard y Raj."
       },
-      "47": {
+      "S03E07": {
         "name": "The Guitarist Amplification",
         "still_path": "https://image.tmdb.org/t/p/w500/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg",
         "overview": "Una disputa entre Leonard y Penny pone a Sheldon jugando el papel de mediador, aunque por propia conveniencia en vez de altruismo."
       },
-      "48": {
+      "S03E08": {
         "name": "The Adhesive Duck Deficiency",
         "still_path": "https://image.tmdb.org/t/p/w500/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg",
         "overview": "Con Leonard, Howard y Raj fuera acampando en el desierto, Penny herida solo tiene a Sheldon para confiar en."
       },
-      "49": {
+      "S03E09": {
         "name": "The Vengeance Formulation",
         "still_path": "https://image.tmdb.org/t/p/w500/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg",
         "overview": "Después de ser humillado en Radio Pública Nacional, Sheldon jura destruir a Kripke, mientras Wolowitz trata de no destruir su relación con Bernadette."
       },
-      "50": {
+      "S03E10": {
         "name": "The Gorilla Experiment",
         "still_path": "https://image.tmdb.org/t/p/w500/xUaKd5XBnmqny83essybaiQSICd.jpg",
         "overview": "Penny pide ayuda a Sheldon para entender en que trabaja Leonard, mientras Wolowitz siente celos cuando Leonard empieza a llevarse bien con su nueva novia."
       },
-      "51": {
+      "S03E11": {
         "name": "The Maternal Congruence",
         "still_path": "https://image.tmdb.org/t/p/w500/kioeIQpVHRmhILyFGHiiebACdX1.jpg",
         "overview": "Una visita de la madre de Leonard emociona a Sheldon mientras que aterroriza a Leonard."
       },
-      "52": {
+      "S03E12": {
         "name": "The Psychic Vortex",
         "still_path": "https://image.tmdb.org/t/p/w500/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg",
         "overview": "Mientras Sheldon y Koothrappali asisten a una fiesta en la universidad, Leonard se molesta al descubrir que Penny cree en psíquicos."
       },
-      "53": {
+      "S03E13": {
         "name": "The Bozeman Reaction",
         "still_path": "https://image.tmdb.org/t/p/w500/jLh4QS3YkclWPrioytdMbuVjwXL.jpg",
         "overview": "Cuando su apartamento es robado, Leonard y Sheldon recurren a sus amigos para crear un sistema de seguridad de punta."
       },
-      "54": {
+      "S03E14": {
         "name": "The Einstein Approximation",
         "still_path": "https://image.tmdb.org/t/p/w500/7tx6fSRlOn6r5HXVOzOjilaqeZI.jpg",
         "overview": "La búsqueda de Sheldon de la solucion de un problema de física le lleva a trabajar en el restaurante con Penny."
       },
-      "55": {
+      "S03E15": {
         "name": "The Large Hadron Collision",
         "still_path": "https://image.tmdb.org/t/p/w500/X19dpYs9iBJeiqiqb72STdjCg0.jpg",
         "overview": "Leonard tiene que elegir una personaque le acompañe en un viaje a Suiza el día de San Valentín para visitar el Gran Colisionador de Hadrones del CERN."
       },
-      "56": {
+      "S03E16": {
         "name": "The Excelsior Acquisition",
         "still_path": "https://image.tmdb.org/t/p/w500/6waZYJy3LVmnMO6Im6aFuBTDgJg.jpg",
         "overview": "Sheldon termina en el calabozo por una multa de tráfico que recibió mientras ayudaba a Penny, y se pierde la firma de libros de Stan Lee."
       },
-      "57": {
+      "S03E17": {
         "name": "The Precious Fragmentation",
         "still_path": "https://image.tmdb.org/t/p/w500/qwBvS3JV40nWZQOBhxTMhWoSk0Q.jpg",
         "overview": "El hallazgo de un anillo original del rodaje de \"El señor de lo anillos\" amenaza la integridad del grupo, pues cada uno lo quiere para un fin diferente."
       },
-      "58": {
+      "S03E18": {
         "name": "The Pants Alternative",
         "still_path": "https://image.tmdb.org/t/p/w500/lyAMqIxYBlBNk8Brb6CWceltipC.jpg",
         "overview": "Los amigos de Sheldon tratan de ayudarle a superar su miedo a hablar en público cuando este se interpone entre él y un codiciado premio."
       },
-      "59": {
+      "S03E19": {
         "name": "The Wheaton Recurrence",
         "still_path": "https://image.tmdb.org/t/p/w500/oHlOeHU6ruNOCE2yvRYG21r0AB5.jpg",
         "overview": "Una pelea entre Leonard y Penny pone en peligro su relación. Mientras, Sheldon compite con Will Wheaton en la bolera..."
       },
-      "60": {
+      "S03E20": {
         "name": "The Spaghetti Catalyst",
         "still_path": "https://image.tmdb.org/t/p/w500/wztaQvhy4aNNgJmJhs201Qv8zXm.jpg",
         "overview": "Mientras Leonard y Penny siguen sin hablarse, Sheldon intenta complacerlos a los dos para que estén contentos."
       },
-      "61": {
+      "S03E21": {
         "name": "The Plimpton Stimulation",
         "still_path": "https://image.tmdb.org/t/p/w500/cppyrsh201R39yrlQrBk7ShYpQ3.jpg",
         "overview": "Leonard y Sheldon compiten por la atención de una física de renombre."
       },
-      "62": {
+      "S03E22": {
         "name": "The Staircase Implementation",
         "still_path": "https://image.tmdb.org/t/p/w500/cGQf2br0gTknsDtj71CGrrX1Gg6.jpg",
         "overview": "Leonard le cuenta a Penny como se conocieron él y Sheldon, y lo que pasó con el ascensor."
       },
-      "63": {
+      "S03E23": {
         "name": "The Lunar Excitation",
         "still_path": "https://image.tmdb.org/t/p/w500/7wpXVU3zqGj9QMOtrdLDWRanGxP.jpg",
         "overview": "Howard y Raj intentan encontrar a la media naranja de Sheldon en una página de contactos en internet. Penny comienza a preocuparse con el hecho de que, tras haber salido con Leonard, quizá no sea capaz de salir con los chicos \"normales\" de siempre."
       },
-      "64": {
+      "S04E01": {
         "name": "The Robotic Manipulation",
         "still_path": "https://image.tmdb.org/t/p/w500/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg",
         "overview": "Howard utiliza su brazo robotizado para su propio bienestar. Penny está dispuesta a ayudar a Sheldon con la que va a ser su primera cita romántica."
       },
-      "65": {
+      "S04E02": {
         "name": "The Cruciferous Vegetable Amplification",
         "still_path": "https://image.tmdb.org/t/p/w500/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg",
         "overview": "Sheldon se da cuenta de que no vivirá lo suficiente como para descargar su conciencia a un robot, por lo que intenta prolongar su vida"
       },
-      "66": {
+      "S04E03": {
         "name": "The Zazzy Substitution",
         "still_path": "https://image.tmdb.org/t/p/w500/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg",
         "overview": "Penny comienza a referirse a Sheldon y Amy como Shamey, lo que no le gusta a ninguno de los dos. Sheldon descubrirá su pasión por los gatos."
       },
-      "67": {
+      "S04E04": {
         "name": "The Hot Troll Deviation",
         "still_path": "https://image.tmdb.org/t/p/w500/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg",
         "overview": "Cierta información sobre Wolowitz sale a la luz, quien intenta retomar su relación con Bernadette. Sheldon y Raj van a la guerra en la Universidad."
       },
-      "68": {
+      "S04E05": {
         "name": "The Desperation Emanation",
         "still_path": "https://image.tmdb.org/t/p/w500/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg",
         "overview": "Leonard se deprime al ver que todos tienen novia menos él. Mientras, Sheldon quiere deshacerse de la suya y Amy intenta presentarle a su madre."
       },
-      "69": {
+      "S04E06": {
         "name": "The Irish Pub Formulation",
         "still_path": "https://image.tmdb.org/t/p/w500/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg",
         "overview": "Leonard intenta mantener oculta a Sheldon, Howard y Raj una aventura amorosa… Justo cuando la hermana de este último llega de visita."
       },
-      "70": {
+      "S04E07": {
         "name": "The Apology Insufficiency",
         "still_path": "https://image.tmdb.org/t/p/w500/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg",
         "overview": "Para darle una autorización a Wolowitz, el FBI entrevista a toda la pandilla, y Sheldon, accidentalmente, deja caer alguna información inapropiada."
       },
-      "71": {
+      "S04E08": {
         "name": "The 21-Second Excitation",
         "still_path": "https://image.tmdb.org/t/p/w500/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg",
         "overview": "Mientas los chicos esperan para una película muy esperada, Penny y Bernadette invitan a Amy (Mayim Bialik) a su primer pijama party."
       },
-      "72": {
+      "S04E09": {
         "name": "The Boyfriend Complexity",
         "still_path": "https://image.tmdb.org/t/p/w500/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg",
         "overview": "Penny le pide a Leonard que finja ser su novio para engañar a su padre, que ha venido a Pasadena."
       },
-      "73": {
+      "S04E10": {
         "name": "The Alien Parasite Hypothesis",
         "still_path": "https://image.tmdb.org/t/p/w500/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg",
         "overview": "Amy se da cuenta que siente atracción sexual por un exnovio de Penny. Por otro lado, Koothrappali y Wolowitz intentan probar quien de los dos seria el mejor superhéroe."
       },
-      "74": {
+      "S04E11": {
         "name": "The Justice League Recombination",
         "still_path": "https://image.tmdb.org/t/p/w500/uUUUozntwqQiivWD7qsuyV8hg2O.jpg",
         "overview": "Los chicos encuentran un \"Super\" uso para el nuevo novio de Penny, Zack, cuando entran en un concurso de disfraces como la Liga de la Justicia."
       },
-      "75": {
+      "S04E12": {
         "name": "The Bus Pants Utilization",
         "still_path": "https://image.tmdb.org/t/p/w500/ksC48YK2UFV8GeBETu11fTM7r0a.jpg",
         "overview": "La idea de Leonard para crear una aplicación de Smartphone hará peligrar su amistad con Sheldon"
       },
-      "76": {
+      "S04E13": {
         "name": "The Love Car Displacement",
         "still_path": "https://image.tmdb.org/t/p/w500/dBYcZAs8g77jjvyHGXClQIluFwc.jpg",
         "overview": "Bernadette se encuentra con su ex-novio mientras asiste a un evento científico con Wolowitz."
       },
-      "77": {
+      "S04E14": {
         "name": "The Thespian Catalyst",
         "still_path": "https://image.tmdb.org/t/p/w500/oOd0acUQiDF7CyoJf9z52JyGBA5.jpg",
         "overview": "Con la esperanza de ser un mejor maestro, Sheldon pide a Penny que le dé lecciones de actuación. Raj tiene fantasías con la novia de un amigo."
       },
-      "78": {
+      "S04E15": {
         "name": "The Benefactor Factor",
         "still_path": "https://image.tmdb.org/t/p/w500/mRo77oUOj2kq4DLqOdpXkmtBjOv.jpg",
         "overview": "Una suculenta donación para la universidad hace que Leonard reconsidere hasta qué punto está dispuesto a ir por el bien de la ciencia."
       },
-      "79": {
+      "S04E16": {
         "name": "The Cohabitation Formulation",
         "still_path": "https://image.tmdb.org/t/p/w500/lwHPcYlrCFfRO5UEJ7oFfhg84me.jpg",
         "overview": "Bernadette le notifica a Howard que ya es tiempo de escoger entre vivir juntos o seguir viviendo con su madre. Leonard, por su lado se entera de que la hermana de Raj está de vuelta y hará todo lo posible por reencontrarse con ella. Amy, más adelante, intentará consolar a Penny cuando esta se entera de la noticia."
       },
-      "80": {
+      "S04E17": {
         "name": "The Toast Derivation",
         "still_path": "https://image.tmdb.org/t/p/w500/WeOnAUVBQn5VrT409KoZUh19HY.jpg",
         "overview": "Al darse cuenta de que Leonard es el alma del grupo, Sheldon buscará un nuevo grupo de amigos en donde él pueda ser el centro de atracción."
       },
-      "81": {
+      "S04E18": {
         "name": "The Prestidigitation Approximation",
         "still_path": "https://image.tmdb.org/t/p/w500/lxpNNW7buxaTnWDtPAnqpc6ly7g.jpg",
         "overview": "Sheldon quedará perplejo al ver el nuevo truco de magia de Wolowitz. Leonard, más adelante, se da cuenta de que si sigue saliendo con Priya, se hará cada vez más difícil que continúe su amistad con Penny."
       },
-      "82": {
+      "S04E19": {
         "name": "The Zarnecki Incursion",
         "still_path": "https://image.tmdb.org/t/p/w500/zoY6h6LtJCShaLfuPUSnBCNRdHN.jpg",
         "overview": "La cuenta de juegos de Sheldon es \"hackeada\" y su identidad robada; ahora los chicos se unirán para descubrir quién es el responsable del terrible robo."
       },
-      "83": {
+      "S04E20": {
         "name": "The Herb Garden Germination",
         "still_path": "https://image.tmdb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg",
         "overview": "A manera de experimento, Sheldon y Amy deciden divulgar varios rumores acerca del resto de los chicos. Howard, por su parte llevará a un nivel más alto aún su relación con Bernadette."
       },
-      "84": {
+      "S04E21": {
         "name": "The Agreement Dissection",
         "still_path": "https://image.tmdb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg",
         "overview": "Leonard y Priya pasan demasiado tiempo en la ducha, lo que hace que Sheldon amoneste a Leonard por el contrato de compañeros de piso, pero antes de llegar mas lejos, Priya usa sus habilidades como abogado para anular todos los cargos, lo que hara a Sheldon desesperarse."
       },
-      "85": {
+      "S04E22": {
         "name": "The Wildebeest Implementation",
         "still_path": "https://image.tmdb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg",
         "overview": "Raj intenta curar su trastorno de ansiedad social, mientras que Penny utiliza a Bernadette para espiar a Leonard y su novia."
       },
-      "86": {
+      "S04E23": {
         "name": "The Engagement Reaction",
         "still_path": "https://image.tmdb.org/t/p/w500/1hlDFTRY9MLfMB3AKhaX0dEEreK.jpg",
         "overview": "Cuando Howard, finalmente, da la noticia a su madre de que está comprometido con Bernadette, ella termina en el hospital."
       },
-      "87": {
+      "S04E24": {
         "name": "The Roommate Transmogrification",
         "still_path": "https://image.tmdb.org/t/p/w500/a3VbByTzFL1ew0gmdQVzFXF9mmz.jpg",
         "overview": "Cuando Bernadette recibe su doctorado, los chicos se burlan de Wolowitz, que es el único de su grupo sin doctorado. Raj se convierte en el nuevo compañero de Sheldon, después de escuchar a Leonard y Priya participar en una fantasía de \"Star Trek\" en su dormitorio."
       },
-      "88": {
+      "S05E01": {
         "name": "The Skank Reflex Analysis",
         "still_path": "https://image.tmdb.org/t/p/w500/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg",
         "overview": "Penny está preocupada con el grado de daño que sufrirá su amistad con los chicos como secuela de su noche con Raj, mientras Sheldon se convierte en el líder del equipo de paintball."
       },
-      "89": {
+      "S05E02": {
         "name": "The Infestation Hypothesis",
         "still_path": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg",
         "overview": "Amy queda atrapada en medio de una pelea entre Sheldon y Penny, mientras Leonard trata de darle vida a su relación a larga distancia con Priya."
       },
-      "90": {
+      "S05E03": {
         "name": "The Pulled Groin Extrapolation",
         "still_path": "https://image.tmdb.org/t/p/w500/wEdMYpz2tWAmp626nAWq0l44ltA.jpg",
         "overview": "Leonard y Amy intentan conocerse mejor, mientras Howard y Bernadette pasan el fin de semana con la señora Wolowitz."
       },
-      "91": {
+      "S05E04": {
         "name": "The Wiggly Finger Catalyst",
         "still_path": "https://image.tmdb.org/t/p/w500/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg",
         "overview": "Penny encuentra a la chica perfecta para salir con Raj. Mientras, Sheldon utiliza los dados de Dragones y Mazmorras para tomar decisiones triviales."
       },
-      "92": {
+      "S05E05": {
         "name": "The Russian Rocket Reaction",
         "still_path": "https://image.tmdb.org/t/p/w500/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg",
         "overview": "Sheldon y Leonard son invitados a una fiesta en la casa de Wil Wheaton, y Howard tiene una oportunidad fuera de este mundo."
       },
-      "93": {
+      "S05E06": {
         "name": "The Rhinitis Revelation",
         "still_path": "https://image.tmdb.org/t/p/w500/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg",
         "overview": "La madre de Sheldon, Mary Cooper, viene de visita, pero a Sheldon le molesta que ella también pase tiempo con el resto de la banda, en lugar de atender a sus necesidades."
       },
-      "94": {
+      "S05E07": {
         "name": "The Good Guy Fluctuation",
         "still_path": "https://image.tmdb.org/t/p/w500/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg",
         "overview": "Un artista de cómic pone la relación entre Leonard y Priya a prueba, mientras Sheldon trata de asustar a los chicos para Halloween."
       },
-      "95": {
+      "S05E08": {
         "name": "The Isolation Permutation",
         "still_path": "https://image.tmdb.org/t/p/w500/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg",
         "overview": "A Amy se le rompe el corazón cuando descubre que Penny y Bernadette fueron a comprar el vestido de novia sin ella."
       },
-      "96": {
+      "S05E09": {
         "name": "The Ornithophobia Diffusion",
         "still_path": "https://image.tmdb.org/t/p/w500/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg",
         "overview": "Leonard y Penny tratan de salir como amigos en una \"no cita\", pero al final terminan estropeándolo. Mientras tanto, Sheldon solicita la ayuda de Bernadette y Amy para superar su miedo a los pájaros."
       },
-      "97": {
+      "S05E10": {
         "name": "The Flaming Spittoon Acquisition",
         "still_path": "https://image.tmdb.org/t/p/w500/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg",
         "overview": "Sheldon considera llevar su relación con Amy a un nivel superior cuando Stuart, de la tienda de cómics, le pide una cita."
       },
-      "98": {
+      "S05E11": {
         "name": "The Speckerman Recurrence",
         "still_path": "https://image.tmdb.org/t/p/w500/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg",
         "overview": "Leonard tiene que enfrentarse a sus miedos después de haber sido contactado por un matón de la escuela de secundaria."
       },
-      "99": {
+      "S05E12": {
         "name": "The Shiny Trinket Maneuver",
         "still_path": "https://image.tmdb.org/t/p/w500/dHAL94ft1SipqmaHL6uNAsegots.jpg",
         "overview": "Sheldon acabará escaldado al no apreciar un logro de Amy. Mientras Howard intenta cambiar la opinión de Bernadette respecto a los niños."
       },
-      "100": {
+      "S05E13": {
         "name": "The Recombination Hypothesis",
         "still_path": "https://image.tmdb.org/t/p/w500/7GZNVew1Fw24MKcCUKlGuvGJ2LR.jpg",
         "overview": "En el episodio número 100 de la serie Penny y Leonard se plantearán revivir su relación amorosa"
       },
-      "101": {
+      "S05E14": {
         "name": "The Beta Test Initiation",
         "still_path": "https://image.tmdb.org/t/p/w500/dZTRt2pZ2Ty5kka8iPqXocXO779.jpg",
         "overview": "Leonard y Penny acuerdan empezar una relación de nuevo y Raj finalmente encuentra una \"mujer\" con la que puede hablar sin estar borracho, en la forma de Siri en su nuevo teléfono. Mientras tanto, Sheldon decide iniciar una serie de YouTube titulada \"Sheldon Cooper presenta Diversión con las banderas\" con la ayuda de Amy."
       },
-      "102": {
+      "S05E15": {
         "name": "The Friendship Contraction",
         "still_path": "https://image.tmdb.org/t/p/w500/aTgjYCtHKEoR0meeXcd2tEXdAkl.jpg",
         "overview": "Las exigencias egoístas de Sheldon sobre Leonard obligan a reconsiderar su amistad. Mientras tanto, Wolowitz trata de escoger su apodo de astronauta."
       },
-      "103": {
+      "S05E16": {
         "name": "The Vacation Solution",
         "still_path": "https://image.tmdb.org/t/p/w500/k6a9X7SdwEwzFlt7mx6gAkjlgTu.jpg",
         "overview": "Sheldon se toma con bastante calma el hecho de trabajar con Amy en su laboratorio de neurobiología, hasta que la directiva le pide que tome unas vacaciones forzadas. Más adelante, Howard no sabrá qué hacer cuando Bernadette le pida firmar un acuerdo prenupcial."
       },
-      "104": {
+      "S05E17": {
         "name": "The Rothman Disintegration",
         "still_path": "https://image.tmdb.org/t/p/w500/bcs07iCu9l2yP6HfjcrPUViXouG.jpg",
         "overview": "Sheldon y Kipke compiten por la la mejor oficina en la Universidad. Más adelante Penny se sentirá incómoda al aceptar un regalo de Amy."
       },
-      "105": {
+      "S05E18": {
         "name": "The Werewolf Transformation",
         "still_path": "https://image.tmdb.org/t/p/w500/1gdddSpcbY8Eh98Hg6xCFPoDWpu.jpg",
         "overview": "Cuando el barbero de Sheldon es hospitalizado, toda la rutina de cuidados del cabello del científico es trastocada y Sheldon no sabe qué hacer con su vida. Mientras tanto, Howard seguirá caminando entre las nubes de la emoción mientras continúa su entrenamiento para ser astronauta."
       },
-      "106": {
+      "S05E19": {
         "name": "The Weekend Vortex",
         "still_path": "https://image.tmdb.org/t/p/w500/gN7RrKwH3pmL8u1sJiOlzChZBAb.jpg",
         "overview": "Sheldon desata la ira de Amy cuando elige pasar un fin de semana de videojuegos con sus amigos, en vez de ir a la fiesta de cumpleaños de su tía."
       },
-      "107": {
+      "S05E20": {
         "name": "The Transporter Malfunction",
         "still_path": "https://image.tmdb.org/t/p/w500/wcPVenMYOg1IGGcwgSPzWAjdAkO.jpg",
         "overview": "Raj da una sorpresa a sus padres cuando les pide que le preparen una cita. Penny compra a Leonard y Sheldon un par de juguetes de coleccionista de Star Trek, sin saber el efecto que tendrá sobre Sheldon."
       },
-      "108": {
+      "S05E21": {
         "name": "The Hawking Excitation",
         "still_path": "https://image.tmdb.org/t/p/w500/dh75Gnq9vlvTIxvheYo3D86lSnm.jpg",
         "overview": "Sheldon intenta por todos los medios conocer a su héroe, el doctor Stephen Hawking."
       },
-      "109": {
+      "S05E22": {
         "name": "The Stag Convergence",
         "still_path": "https://image.tmdb.org/t/p/w500/FDRRgbb4PkOljdmEjKawpnyFlK.jpg",
         "overview": "Los chicos preparan la despedida de soltero de Howard, y algunos detalles de su vida privada son publicados en internet."
       },
-      "110": {
+      "S05E23": {
         "name": "The Launch Acceleration",
         "still_path": "https://image.tmdb.org/t/p/w500/aGhOWNabAScjiHEzs1TebXH1kVa.jpg",
         "overview": "Howard se enfrenta a un doble problema cuando la NASA aplaza su lanzamiento y tiene que conocer al padre de Bernadette. Una incómoda conversación de alcoba de Leonard puede hacer cambiar su relación con Penny."
       },
-      "111": {
+      "S05E24": {
         "name": "The Countdown Reflection",
         "still_path": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg",
         "overview": "La banda se da prisa en proporcionar a Howard y Bernadette una boda antes de la misión de Howard en el espacio."
       }
     }
   },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "S01E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Slit",
@@ -730,7 +730,9 @@
       "dialogues": 397
     },
     {
+      "code": "S01E02",
       "name": "S01E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Swell up",
@@ -897,7 +899,9 @@
       "dialogues": 353
     },
     {
+      "code": "S01E03",
       "name": "S01E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Frosty",
@@ -1144,7 +1148,9 @@
       "dialogues": 363
     },
     {
+      "code": "S01E04",
       "name": "S01E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Burner",
@@ -1347,7 +1353,9 @@
       "dialogues": 324
     },
     {
+      "code": "S01E05",
       "name": "S01E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Augmented",
@@ -1470,7 +1478,9 @@
       "dialogues": 310
     },
     {
+      "code": "S01E06",
       "name": "S01E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Yarmulke",
@@ -1621,7 +1631,9 @@
       "dialogues": 328
     },
     {
+      "code": "S01E07",
       "name": "S01E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Yakking about every guy",
@@ -1840,7 +1852,9 @@
       "dialogues": 348
     },
     {
+      "code": "S01E08",
       "name": "S01E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Misleading",
@@ -1983,7 +1997,9 @@
       "dialogues": 352
     },
     {
+      "code": "S01E09",
       "name": "S01E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Race (verbo)",
@@ -2150,7 +2166,9 @@
       "dialogues": 322
     },
     {
+      "code": "S01E10",
       "name": "S01E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Riddle (verbo)",
@@ -2329,7 +2347,9 @@
       "dialogues": 337
     },
     {
+      "code": "S01E11",
       "name": "S01E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Humbling (en algunos contextos)",
@@ -2552,7 +2572,9 @@
       "dialogues": 307
     },
     {
+      "code": "S01E12",
       "name": "S01E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Lay it on me",
@@ -2735,7 +2757,9 @@
       "dialogues": 322
     },
     {
+      "code": "S01E13",
       "name": "S01E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Depict (verbo)",
@@ -2922,7 +2946,9 @@
       "dialogues": 345
     },
     {
+      "code": "S01E14",
       "name": "S01E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Moisture barrier",
@@ -3085,7 +3111,9 @@
       "dialogues": 304
     },
     {
+      "code": "S01E15",
       "name": "S01E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bulletin board",
@@ -3216,7 +3244,9 @@
       "dialogues": 343
     },
     {
+      "code": "S01E16",
       "name": "S01E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "School (verbo)",
@@ -3347,7 +3377,9 @@
       "dialogues": 319
     },
     {
+      "code": "S01E17",
       "name": "S01E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Subject",
@@ -3490,7 +3522,9 @@
       "dialogues": 327
     },
     {
+      "code": "S02E01",
       "name": "S02E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Acidophilus",
@@ -3669,7 +3703,9 @@
       "dialogues": 321
     },
     {
+      "code": "S02E02",
       "name": "S02E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Rife",
@@ -3840,7 +3876,9 @@
       "dialogues": 344
     },
     {
+      "code": "S02E03",
       "name": "S02E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A long run",
@@ -4031,7 +4069,9 @@
       "dialogues": 325
     },
     {
+      "code": "S02E04",
       "name": "S02E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "I’m the dumplings",
@@ -4246,7 +4286,9 @@
       "dialogues": 334
     },
     {
+      "code": "S02E05",
       "name": "S02E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Pottery barn",
@@ -4445,7 +4487,9 @@
       "dialogues": 394
     },
     {
+      "code": "S02E06",
       "name": "S02E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Lowly",
@@ -4620,7 +4664,9 @@
       "dialogues": 307
     },
     {
+      "code": "S02E07",
       "name": "S02E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Dumpling",
@@ -4815,7 +4861,9 @@
       "dialogues": 359
     },
     {
+      "code": "S02E08",
       "name": "S02E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Partway",
@@ -4990,7 +5038,9 @@
       "dialogues": 341
     },
     {
+      "code": "S02E09",
       "name": "S02E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Strike up a conversation",
@@ -5177,7 +5227,9 @@
       "dialogues": 326
     },
     {
+      "code": "S02E10",
       "name": "S02E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Relentless",
@@ -5288,7 +5340,9 @@
       "dialogues": 318
     },
     {
+      "code": "S02E11",
       "name": "S02E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Your argument is lacking in all scientific merit",
@@ -5435,7 +5489,9 @@
       "dialogues": 306
     },
     {
+      "code": "S02E12",
       "name": "S02E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Featuring one articulated razor-sharp killing saw",
@@ -5630,7 +5686,9 @@
       "dialogues": 364
     },
     {
+      "code": "S02E13",
       "name": "S02E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A jiggling bowl",
@@ -5821,7 +5879,9 @@
       "dialogues": 353
     },
     {
+      "code": "S02E14",
       "name": "S02E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Icee machines",
@@ -5980,7 +6040,9 @@
       "dialogues": 349
     },
     {
+      "code": "S02E15",
       "name": "S02E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A cat being run over by a lawn mower",
@@ -6175,7 +6237,9 @@
       "dialogues": 420
     },
     {
+      "code": "S02E16",
       "name": "S02E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ridge",
@@ -6322,7 +6386,9 @@
       "dialogues": 344
     },
     {
+      "code": "S02E17",
       "name": "S02E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Void (verbo)",
@@ -6585,7 +6651,9 @@
       "dialogues": 341
     },
     {
+      "code": "S02E18",
       "name": "S02E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Forfeit (verbo)",
@@ -6792,7 +6860,9 @@
       "dialogues": 319
     },
     {
+      "code": "S02E19",
       "name": "S02E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Stray arachnids",
@@ -6951,7 +7021,9 @@
       "dialogues": 333
     },
     {
+      "code": "S02E20",
       "name": "S02E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Startle (verbo)",
@@ -7134,7 +7206,9 @@
       "dialogues": 329
     },
     {
+      "code": "S02E21",
       "name": "S02E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "That's preposterous",
@@ -7249,7 +7323,9 @@
       "dialogues": 341
     },
     {
+      "code": "S02E22",
       "name": "S02E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Waste disposal system",
@@ -7448,7 +7524,9 @@
       "dialogues": 325
     },
     {
+      "code": "S02E23",
       "name": "S02E23",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Restraint",
@@ -7627,7 +7705,9 @@
       "dialogues": 466
     },
     {
+      "code": "S03E01",
       "name": "S03E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "But I thought it was a hoot and a half (frase no literal)",
@@ -7750,7 +7830,9 @@
       "dialogues": 368
     },
     {
+      "code": "S03E02",
       "name": "S03E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bouncy naked yum-y night",
@@ -7881,7 +7963,9 @@
       "dialogues": 486
     },
     {
+      "code": "S03E03",
       "name": "S03E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Oatmeal",
@@ -7996,7 +8080,9 @@
       "dialogues": 333
     },
     {
+      "code": "S03E04",
       "name": "S03E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Baffle (verbo)",
@@ -8139,7 +8225,9 @@
       "dialogues": 356
     },
     {
+      "code": "S03E05",
       "name": "S03E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Sucker (despectivo)",
@@ -8270,7 +8358,9 @@
       "dialogues": 326
     },
     {
+      "code": "S03E06",
       "name": "S03E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The flexible urinary catheter",
@@ -8445,7 +8535,9 @@
       "dialogues": 323
     },
     {
+      "code": "S03E07",
       "name": "S03E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Grant (sustantivo)",
@@ -8556,7 +8648,9 @@
       "dialogues": 339
     },
     {
+      "code": "S03E08",
       "name": "S03E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "To onset of",
@@ -8683,7 +8777,9 @@
       "dialogues": 317
     },
     {
+      "code": "S03E09",
       "name": "S03E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A one-night stand",
@@ -8786,7 +8882,9 @@
       "dialogues": 303
     },
     {
+      "code": "S03E10",
       "name": "S03E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "When she willy-nilly takes it from the containers",
@@ -8885,7 +8983,9 @@
       "dialogues": 333
     },
     {
+      "code": "S03E11",
       "name": "S03E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Tear up",
@@ -9032,7 +9132,9 @@
       "dialogues": 306
     },
     {
+      "code": "S03E12",
       "name": "S03E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Some making out",
@@ -9199,7 +9301,9 @@
       "dialogues": 414
     },
     {
+      "code": "S03E13",
       "name": "S03E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Seems like forever, since the four of us have been out to eat",
@@ -9362,7 +9466,9 @@
       "dialogues": 383
     },
     {
+      "code": "S03E14",
       "name": "S03E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Crate (en algunos contextos)",
@@ -9553,7 +9659,9 @@
       "dialogues": 309
     },
     {
+      "code": "S03E15",
       "name": "S03E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Lovey-dovey stuff",
@@ -9732,7 +9840,9 @@
       "dialogues": 477
     },
     {
+      "code": "S03E16",
       "name": "S03E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Will you please turn it off?",
@@ -9919,7 +10029,9 @@
       "dialogues": 321
     },
     {
+      "code": "S03E17",
       "name": "S03E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ragtag",
@@ -10070,7 +10182,9 @@
       "dialogues": 303
     },
     {
+      "code": "S03E18",
       "name": "S03E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "I happened to overhear the name",
@@ -10229,7 +10343,9 @@
       "dialogues": 342
     },
     {
+      "code": "S03E19",
       "name": "S03E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Where do you come down on giant ants? (pregunta no literal)",
@@ -10408,7 +10524,9 @@
       "dialogues": 318
     },
     {
+      "code": "S03E20",
       "name": "S03E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Judgmental overtones",
@@ -10503,7 +10621,9 @@
       "dialogues": 318
     },
     {
+      "code": "S03E21",
       "name": "S03E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Buckle (verbo)",
@@ -10650,7 +10770,9 @@
       "dialogues": 388
     },
     {
+      "code": "S03E22",
       "name": "S03E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You don't screw the roommate agreement (no literal)",
@@ -10765,7 +10887,9 @@
       "dialogues": 435
     },
     {
+      "code": "S03E23",
       "name": "S03E23",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "To double-check the equatorial mount",
@@ -10908,7 +11032,9 @@
       "dialogues": 448
     },
     {
+      "code": "S04E01",
       "name": "S04E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "It's a Chinese food retrieval robot",
@@ -11051,7 +11177,9 @@
       "dialogues": 467
     },
     {
+      "code": "S04E02",
       "name": "S04E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Backfire (verbo)",
@@ -11202,7 +11330,9 @@
       "dialogues": 422
     },
     {
+      "code": "S04E03",
       "name": "S04E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Tuned bayonets",
@@ -11437,7 +11567,9 @@
       "dialogues": 492
     },
     {
+      "code": "S04E04",
       "name": "S04E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Derriere",
@@ -11592,7 +11724,9 @@
       "dialogues": 431
     },
     {
+      "code": "S04E05",
       "name": "S04E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Apt",
@@ -11731,7 +11865,9 @@
       "dialogues": 464
     },
     {
+      "code": "S04E06",
       "name": "S04E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Cobbler (en comida)",
@@ -11934,7 +12070,9 @@
       "dialogues": 483
     },
     {
+      "code": "S04E07",
       "name": "S04E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The mantle of self-assurance",
@@ -12117,7 +12255,9 @@
       "dialogues": 475
     },
     {
+      "code": "S04E08",
       "name": "S04E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "How does he get that good",
@@ -12332,7 +12472,9 @@
       "dialogues": 410
     },
     {
+      "code": "S04E09",
       "name": "S04E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Wax (sustantivo en belleza)",
@@ -12523,7 +12665,9 @@
       "dialogues": 487
     },
     {
+      "code": "S04E10",
       "name": "S04E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You just kind of put a damper on things",
@@ -12682,7 +12826,9 @@
       "dialogues": 411
     },
     {
+      "code": "S04E11",
       "name": "S04E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ponder (verbo)",
@@ -12777,7 +12923,9 @@
       "dialogues": 402
     },
     {
+      "code": "S04E12",
       "name": "S04E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A salad spinner",
@@ -12960,7 +13108,9 @@
       "dialogues": 495
     },
     {
+      "code": "S04E13",
       "name": "S04E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "It also stands alingside such other nonsensical queries",
@@ -13095,7 +13245,9 @@
       "dialogues": 435
     },
     {
+      "code": "S04E14",
       "name": "S04E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Lecturer",
@@ -13270,7 +13422,9 @@
       "dialogues": 463
     },
     {
+      "code": "S04E15",
       "name": "S04E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Well-groomed",
@@ -13461,7 +13615,9 @@
       "dialogues": 427
     },
     {
+      "code": "S04E16",
       "name": "S04E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "It's pinning her hair up",
@@ -13636,7 +13792,9 @@
       "dialogues": 449
     },
     {
+      "code": "S04E17",
       "name": "S04E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Isguided and oronic",
@@ -13887,7 +14045,9 @@
       "dialogues": 503
     },
     {
+      "code": "S04E18",
       "name": "S04E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The coolest president ever to be stuffed into his own cello case",
@@ -13998,7 +14158,9 @@
       "dialogues": 424
     },
     {
+      "code": "S04E19",
       "name": "S04E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Why hast thou forsaken me? (en inglés antiguo)",
@@ -14209,7 +14371,9 @@
       "dialogues": 478
     },
     {
+      "code": "S04E20",
       "name": "S04E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Goof off",
@@ -14396,7 +14560,9 @@
       "dialogues": 438
     },
     {
+      "code": "S04E21",
       "name": "S04E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Moot (expresión)",
@@ -14559,7 +14725,9 @@
       "dialogues": 412
     },
     {
+      "code": "S04E22",
       "name": "S04E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Off-put",
@@ -14746,7 +14914,9 @@
       "dialogues": 436
     },
     {
+      "code": "S04E23",
       "name": "S04E23",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "With my 118-pound rock-hard stud of a fiancé",
@@ -14893,7 +15063,9 @@
       "dialogues": 425
     },
     {
+      "code": "S04E24",
       "name": "S04E24",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Taters",
@@ -15092,7 +15264,9 @@
       "dialogues": 443
     },
     {
+      "code": "S05E01",
       "name": "S05E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "What are you grinding about? (pregunta no literal)",
@@ -15259,7 +15433,9 @@
       "dialogues": 443
     },
     {
+      "code": "S05E02",
       "name": "S05E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You'd open yourself to peer-based mocking (frase no literal)",
@@ -15454,7 +15630,9 @@
       "dialogues": 392
     },
     {
+      "code": "S05E03",
       "name": "S05E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Dumpling",
@@ -15653,7 +15831,9 @@
       "dialogues": 381
     },
     {
+      "code": "S05E04",
       "name": "S05E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Moss",
@@ -15812,7 +15992,9 @@
       "dialogues": 401
     },
     {
+      "code": "S05E05",
       "name": "S05E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Off the top of my head (frase no literal)",
@@ -15955,7 +16137,9 @@
       "dialogues": 490
     },
     {
+      "code": "S05E06",
       "name": "S05E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Thorny",
@@ -16158,7 +16342,9 @@
       "dialogues": 440
     },
     {
+      "code": "S05E07",
       "name": "S05E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Spin (sustantivo)",
@@ -16341,7 +16527,9 @@
       "dialogues": 401
     },
     {
+      "code": "S05E08",
       "name": "S05E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Cap sleeve",
@@ -16568,7 +16756,9 @@
       "dialogues": 431
     },
     {
+      "code": "S05E09",
       "name": "S05E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Iffy",
@@ -16699,7 +16889,9 @@
       "dialogues": 418
     },
     {
+      "code": "S05E10",
       "name": "S05E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Opium den",
@@ -16914,7 +17106,9 @@
       "dialogues": 437
     },
     {
+      "code": "S05E11",
       "name": "S05E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Was he the one who wedgied you so hard?",
@@ -17097,7 +17291,9 @@
       "dialogues": 421
     },
     {
+      "code": "S05E12",
       "name": "S05E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Snarky",
@@ -17268,7 +17464,9 @@
       "dialogues": 426
     },
     {
+      "code": "S05E13",
       "name": "S05E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Sluggishly",
@@ -17411,7 +17609,9 @@
       "dialogues": 426
     },
     {
+      "code": "S05E14",
       "name": "S05E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Vexillology",
@@ -17538,7 +17738,9 @@
       "dialogues": 405
     },
     {
+      "code": "S05E15",
       "name": "S05E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Preparedness",
@@ -17797,7 +17999,9 @@
       "dialogues": 474
     },
     {
+      "code": "S05E16",
       "name": "S05E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Muon",
@@ -17996,7 +18200,9 @@
       "dialogues": 480
     },
     {
+      "code": "S05E17",
       "name": "S05E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Step down",
@@ -18231,7 +18437,9 @@
       "dialogues": 456
     },
     {
+      "code": "S05E18",
       "name": "S05E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "How I like my hair done",
@@ -18406,7 +18614,9 @@
       "dialogues": 431
     },
     {
+      "code": "S05E19",
       "name": "S05E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "I'd get off the computer",
@@ -18633,7 +18843,9 @@
       "dialogues": 475
     },
     {
+      "code": "S05E20",
       "name": "S05E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Raid (verbo)",
@@ -18788,7 +19000,9 @@
       "dialogues": 452
     },
     {
+      "code": "S05E21",
       "name": "S05E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Penile enlargement pills",
@@ -18983,7 +19197,9 @@
       "dialogues": 402
     },
     {
+      "code": "S05E22",
       "name": "S05E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The conversation is sparking (no literal)",
@@ -19230,7 +19446,9 @@
       "dialogues": 460
     },
     {
+      "code": "S05E23",
       "name": "S05E23",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Push-ups",
@@ -19377,7 +19595,9 @@
       "dialogues": 515
     },
     {
+      "code": "S05E24",
       "name": "S05E24",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Earlier launch",
@@ -19511,5 +19731,7 @@
       "count": 32,
       "dialogues": 423
     }
-  ]
+  ],
+  "count": 4544,
+  "dialogues": 43158
 }

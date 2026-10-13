@@ -2,6 +2,19 @@
   "title": "Home",
   "level": "B2",
   "englishAnalysis": "De acuerdo con el documento de estudio 'Dialogues from Home to improve the vocabulary in English.pdf', el inglés aquí es muy claro y amigable. Destaca el habla del alienígena Oh, quien comete errores gramaticales intencionales que resultan en lecciones excelentes para entender la estructura del idioma al ver cómo se rompe.",
+  "tmdb": {
+    "overview": "In 200,000 years of existence, man has upset the balance on which the Earth had lived for 4 billion years. Global warming, resource depletion, species extinction: man has endangered his own home. But it is too late to be pessimistic: humanity has barely ten years left to reverse the trend, become aware of its excessive exploitation of the Earth's riches, and change its consumption pattern.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
+      "https://image.tmdb.org/t/p/w780/bXdZtDtFH4Hyri0gZPzkJi5nwzU.jpg",
+      "https://image.tmdb.org/t/p/w780/78kinIgDGZ8KiKrK1BJBEiwNeBi.jpg",
+      "https://image.tmdb.org/t/p/w780/89l6PrNDvOFGa2oGx49yfsgwB8Y.jpg",
+      "https://image.tmdb.org/t/p/w780/aZwaEpquhFpzZAufwire8pbjJIX.jpg",
+      "https://image.tmdb.org/t/p/w780/roenM08pQaFidPcdWReAGsPzu5o.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
   "vocabulary": [
     {
       "word": "Disrupt (verbo)",
@@ -568,18 +581,6 @@
       "translation": "especies prósperas"
     }
   ],
-  "tmdb": {
-    "overview": "In 200,000 years of existence, man has upset the balance on which the Earth had lived for 4 billion years. Global warming, resource depletion, species extinction: man has endangered his own home. But it is too late to be pessimistic: humanity has barely ten years left to reverse the trend, become aware of its excessive exploitation of the Earth's riches, and change its consumption pattern.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
-      "https://image.tmdb.org/t/p/w780/bXdZtDtFH4Hyri0gZPzkJi5nwzU.jpg",
-      "https://image.tmdb.org/t/p/w780/78kinIgDGZ8KiKrK1BJBEiwNeBi.jpg",
-      "https://image.tmdb.org/t/p/w780/89l6PrNDvOFGa2oGx49yfsgwB8Y.jpg",
-      "https://image.tmdb.org/t/p/w780/aZwaEpquhFpzZAufwire8pbjJIX.jpg",
-      "https://image.tmdb.org/t/p/w780/roenM08pQaFidPcdWReAGsPzu5o.jpg"
-    ],
-    "episodes": null
-  },
   "count": 141,
   "dialogues": 853
 }

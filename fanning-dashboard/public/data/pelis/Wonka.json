@@ -2,6 +2,19 @@
   "title": "Wonka",
   "level": "B2",
   "englishAnalysis": "Un inglés británico mágico y encantador. Lleno de vocabulario descriptivo relacionado con la confitería, los sueños y la imaginación. Diálogos excéntricos y pronunciación muy clara al estilo teatral.",
+  "tmdb": {
+    "overview": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+      "https://image.tmdb.org/t/p/w780/xwzJiqdDIlXYeUkPjbOvXZicig2.jpg",
+      "https://image.tmdb.org/t/p/w780/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+      "https://image.tmdb.org/t/p/w780/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+      "https://image.tmdb.org/t/p/w780/r1eCvALF6fN7anVYL8Zn7PaceD1.jpg",
+      "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
   "vocabulary": [
     {
       "word": "Bid farewell (verbo)",
@@ -976,18 +989,6 @@
       "translation": "toallita, trapo, pasada"
     }
   ],
-  "tmdb": {
-    "overview": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
-      "https://image.tmdb.org/t/p/w780/xwzJiqdDIlXYeUkPjbOvXZicig2.jpg",
-      "https://image.tmdb.org/t/p/w780/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
-      "https://image.tmdb.org/t/p/w780/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
-      "https://image.tmdb.org/t/p/w780/r1eCvALF6fN7anVYL8Zn7PaceD1.jpg",
-      "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg"
-    ],
-    "episodes": null
-  },
   "count": 243,
   "dialogues": 2606
 }

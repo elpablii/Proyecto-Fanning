@@ -2,6 +2,19 @@
   "title": "A Rainy Day in New York",
   "level": "B2",
   "englishAnalysis": "En esta película, podrás familiarizarte con un vocabulario culto y ocasionalmente pretencioso, propio de la élite de Manhattan. El inglés es fluido, salpicado con referencias al arte, literatura y al cine clásico, ideal para aprender modismos sofisticados y coloquialismos neoyorquinos.",
+  "tmdb": {
+    "overview": "Dos jóvenes llegan a Nueva York durante un fin de semana y viven una serie de aventuras con el mal tiempo como telón de fondo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
+      "https://image.tmdb.org/t/p/w780/k06VKWilEJKrwsuAAvfinwtdXiI.jpg",
+      "https://image.tmdb.org/t/p/w780/3C6hamStn5HHTNmGmXmmGKHFWhT.jpg",
+      "https://image.tmdb.org/t/p/w780/vX9VJBdpXWvDTH920AY37xXzNjz.jpg",
+      "https://image.tmdb.org/t/p/w780/6fkqwqLEcDZOEAnBBfKAniwNxtx.jpg",
+      "https://image.tmdb.org/t/p/w780/iNcPZnBbQoMT2pFOdvPJmuY63hh.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
   "vocabulary": [
     {
       "word": "And definitely tony enough (frase no literal)",
@@ -840,18 +853,6 @@
       "translation": "estropear, echar a perder"
     }
   ],
-  "tmdb": {
-    "overview": "Dos jóvenes llegan a Nueva York durante un fin de semana y viven una serie de aventuras con el mal tiempo como telón de fondo.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
-      "https://image.tmdb.org/t/p/w780/k06VKWilEJKrwsuAAvfinwtdXiI.jpg",
-      "https://image.tmdb.org/t/p/w780/3C6hamStn5HHTNmGmXmmGKHFWhT.jpg",
-      "https://image.tmdb.org/t/p/w780/vX9VJBdpXWvDTH920AY37xXzNjz.jpg",
-      "https://image.tmdb.org/t/p/w780/6fkqwqLEcDZOEAnBBfKAniwNxtx.jpg",
-      "https://image.tmdb.org/t/p/w780/iNcPZnBbQoMT2pFOdvPJmuY63hh.jpg"
-    ],
-    "episodes": null
-  },
   "count": 209,
   "dialogues": 2161
 }

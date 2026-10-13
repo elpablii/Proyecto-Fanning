@@ -1,0 +1,27 @@
+{
+  "titulo": "Interestellar",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Una película imperdible para quienes buscan vocabulario técnico. Está llena de terminología científica relacionada con la astrofísica, la relatividad, la exploración espacial y la supervivencia. El tono es serio, con un acento estadounidense claro y firme.",
+  "sinopsis": "Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar.",
+  "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+    "https://image.tmdb.org/t/p/w780/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+    "https://image.tmdb.org/t/p/w780/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+    "https://image.tmdb.org/t/p/w780/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "https://image.tmdb.org/t/p/w780/wQxPlS65wgy6Ik7N80bsMpAkjyf.jpg",
+    "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Interestellar (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Interestellar to improve the vocabulary in English.pdf"
+    ]
+  }
+}

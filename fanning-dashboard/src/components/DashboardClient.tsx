@@ -6,19 +6,8 @@ import { useRouter } from 'next/navigation';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 } from 'recharts';
-import { Film, BookOpen, Crown, TrendingUp, Search, Loader2, Calendar } from 'lucide-react';
+import { Film, BookOpen, Crown, TrendingUp, Search, Calendar } from 'lucide-react';
 
-interface VocabItem {
-  id: string;
-  word: string;
-  translation: string;
-  source_movie: string;
-  year_processed: string;
-  global_frequency: number;
-}
-
-import { tmdbOverrides } from '@/lib/tmdb';
-import Link from 'next/link';
 import MovieCard from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
 
@@ -27,7 +16,7 @@ import { ManifestData } from '@/types/manifest';
 
 export default function DashboardClient({ initialManifestData }: { initialManifestData: ManifestData }) {
   const router = useRouter();
-  const [manifestData, setManifestData] = useState<ManifestData>(initialManifestData);
+  const [manifestData] = useState<ManifestData>(initialManifestData);
   const [selectedYear, setSelectedYear] = useState<string>("all");
   const [showSearch, setShowSearch] = useState(false);
 
@@ -273,7 +262,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
         </h2>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-          {stats.movieList.map((item, idx) => {
+          {stats.movieList.map((item) => {
             return (
                 <MovieCard 
                   key={item.title} 

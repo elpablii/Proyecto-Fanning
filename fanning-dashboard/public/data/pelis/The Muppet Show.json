@@ -2,6 +2,19 @@
   "title": "The Muppet Show",
   "level": "B2",
   "englishAnalysis": "Basado en los diálogos del episodio (como se refleja en 'Dialogues from The Muppet Show (with Sabrina Carpenter) to improve the vocabulary in English.pdf'), este vocabulario te expone a las ocurrencias cómicas, juegos de palabras teatrales y el ritmo acelerado típico de los Muppets mezclado con el inglés contemporáneo de Sabrina.",
+  "tmdb": {
+    "overview": "Go behind the curtains as Kermit the Frog and his muppet friends struggle to put on a weekly variety show.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
+      "https://image.tmdb.org/t/p/w780/84BFgc17SEgHaKOfueXEEhbZCg3.jpg",
+      "https://image.tmdb.org/t/p/w780/r2WWs8SyY2H2aPY1bcCigDQ9GOd.jpg",
+      "https://image.tmdb.org/t/p/w780/h76QUsFV1f0Nx3RiDrq4WsepyRt.jpg",
+      "https://image.tmdb.org/t/p/w780/wplU0XzuelmYzMSeGZxWMZl4OvJ.jpg",
+      "https://image.tmdb.org/t/p/w780/arq0d8pt8qLXtlfGLlsf8ITesSe.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg",
   "vocabulary": [
     {
       "word": "Get on stage (verbo)",
@@ -172,20 +185,6 @@
       "translation": "pitido"
     }
   ],
-  "tmdb": {
-    "overview": "Go behind the curtains as Kermit the Frog and his muppet friends struggle to put on a weekly variety show.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/9UyPl2zR9dckpnmBWP6Xz4E6P3G.jpg",
-      "https://image.tmdb.org/t/p/w780/84BFgc17SEgHaKOfueXEEhbZCg3.jpg",
-      "https://image.tmdb.org/t/p/w780/r2WWs8SyY2H2aPY1bcCigDQ9GOd.jpg",
-      "https://image.tmdb.org/t/p/w780/h76QUsFV1f0Nx3RiDrq4WsepyRt.jpg",
-      "https://image.tmdb.org/t/p/w780/wplU0XzuelmYzMSeGZxWMZl4OvJ.jpg",
-      "https://image.tmdb.org/t/p/w780/arq0d8pt8qLXtlfGLlsf8ITesSe.jpg"
-    ],
-    "episodes": null
-  },
   "count": 42,
-  "dialogues": 569,
-  "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg"
+  "dialogues": 569
 }

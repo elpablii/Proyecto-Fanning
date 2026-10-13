@@ -1,0 +1,27 @@
+{
+  "titulo": "WALL-E",
+  "tipo": "pelicula",
+  "nivel": "A1",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Aunque tiene muy poco diálogo al principio, el vocabulario posterior se centra en corporativismo exagerado, automatización y consumismo ('directive', 'auto-pilot', 'plant'). Voces de robots y acentos americanos muy estandarizados.",
+  "sinopsis": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",
+  "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+    "https://image.tmdb.org/t/p/w780/pjLdH5VIKirwVUIZ0iDisXoRGo4.jpg",
+    "https://image.tmdb.org/t/p/w780/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+    "https://image.tmdb.org/t/p/w780/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+    "https://image.tmdb.org/t/p/w780/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
+    "https://image.tmdb.org/t/p/w780/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de WALL-E (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from WALL-E to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -2,6 +2,19 @@
   "title": "Mary Queen of Scots",
   "level": "C1",
   "englishAnalysis": "Una excelente oportunidad para exponerse al inglés antiguo, formal y monárquico del siglo XVI ('treason', 'sovereign', 'heir', 'realm'). Predominan los acentos británicos y escoceses, lo que supone un reto fantástico para el oído, lleno de intrigas políticas y religiosas.",
+  "tmdb": {
+    "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+      "https://image.tmdb.org/t/p/w780/vTRNPsgi8vNfuJ75QxTZdHF6oH9.jpg",
+      "https://image.tmdb.org/t/p/w780/cDqZsAVrQnSvLrcwnlMd3ZszZnX.jpg",
+      "https://image.tmdb.org/t/p/w780/7NWHRltitkMjTfgsTJP9XnptaKt.jpg",
+      "https://image.tmdb.org/t/p/w780/lnr1xk6d7xCUzAEiaVoCciFpK5e.jpg",
+      "https://image.tmdb.org/t/p/w780/nmfu1zabVG49lFMQ4osBBF7tJ1I.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
   "vocabulary": [
     {
       "word": "Supper (sustantivo)",
@@ -896,18 +909,6 @@
       "translation": "soberano, señor supremo"
     }
   ],
-  "tmdb": {
-    "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
-      "https://image.tmdb.org/t/p/w780/vTRNPsgi8vNfuJ75QxTZdHF6oH9.jpg",
-      "https://image.tmdb.org/t/p/w780/cDqZsAVrQnSvLrcwnlMd3ZszZnX.jpg",
-      "https://image.tmdb.org/t/p/w780/7NWHRltitkMjTfgsTJP9XnptaKt.jpg",
-      "https://image.tmdb.org/t/p/w780/lnr1xk6d7xCUzAEiaVoCciFpK5e.jpg",
-      "https://image.tmdb.org/t/p/w780/nmfu1zabVG49lFMQ4osBBF7tJ1I.jpg"
-    ],
-    "episodes": null
-  },
   "count": 223,
   "dialogues": 1128
 }

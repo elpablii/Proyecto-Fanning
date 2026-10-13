@@ -1,0 +1,27 @@
+{
+  "titulo": "Rocky IV",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "Lenguaje icónico de la Guerra Fría. Contrastes entre el inglés motivacional americano de Rocky y Apollo, contra el inglés robótico y rígido de Drago ('I must break you').",
+  "sinopsis": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
+  "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg",
+    "https://image.tmdb.org/t/p/w780/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+    "https://image.tmdb.org/t/p/w780/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+    "https://image.tmdb.org/t/p/w780/uI9YwSYfO6CuXJCdYfUW0CPI7TU.jpg",
+    "https://image.tmdb.org/t/p/w780/fS3ikNlqWtTQhxpRnOQV2E9AdSk.jpg",
+    "https://image.tmdb.org/t/p/w780/zjDaVyUQqtApdRE0LBoZ6lbPlgP.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Rocky IV (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Rocky IV to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,14 +1,109 @@
 {
   "title": "Euphoria",
-  "original_title": "Euphoria",
-  "overview": "Un grupo de estudiantes de secundaria navega entre drogas, relaciones sexuales, traumas, redes sociales, amor y amistad.",
-  "englishAnalysis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a la rapidez de los diálogos, las interrupciones constantes, murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para nivel B2-C1 que busque entender el inglés de la calle y de la Generación Z.",
   "level": "B2/C1",
-  "count": 924,
+  "englishAnalysis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a la rapidez de los diálogos, las interrupciones constantes, murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para nivel B2-C1 que busque entender el inglés de la calle y de la Generación Z.",
+  "tmdb": {
+    "overview": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+      "https://image.tmdb.org/t/p/w780/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
+      "https://image.tmdb.org/t/p/w780/oKt4J3TFjWirVwBqoHyIvv5IImd.jpg",
+      "https://image.tmdb.org/t/p/w780/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+      "https://image.tmdb.org/t/p/w780/lcJ8S992xGr20KfNCbY4Fg3Xz6s.jpg",
+      "https://image.tmdb.org/t/p/w780/lTbCXhFiP0bMWelvGxfeiSoF4gP.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Pilot",
+        "still_path": "https://image.tmdb.org/t/p/w500/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg"
+      },
+      "S01E02": {
+        "name": "Stuntin' Like My Daddy",
+        "still_path": "https://image.tmdb.org/t/p/w500/4NCKs8RMxevYrBzuqGI4usEprUL.jpg"
+      },
+      "S01E03": {
+        "name": "Made You Look",
+        "still_path": "https://image.tmdb.org/t/p/w500/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg"
+      },
+      "S01E04": {
+        "name": "Shook Ones Pt. II",
+        "still_path": "https://image.tmdb.org/t/p/w500/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg"
+      },
+      "S01E05": {
+        "name": "'03 Bonnie and Clyde",
+        "still_path": "https://image.tmdb.org/t/p/w500/3ff187LdnqgrrOQWlzGShPR5sLS.jpg"
+      },
+      "S01E06": {
+        "name": "The Next Episode",
+        "still_path": "https://image.tmdb.org/t/p/w500/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg"
+      },
+      "S01E07": {
+        "name": "The Trials and Tribulations of Trying to Pee While Depressed",
+        "still_path": "https://image.tmdb.org/t/p/w500/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg"
+      },
+      "S01E08": {
+        "name": "And Salt the Earth Behind You",
+        "still_path": "https://image.tmdb.org/t/p/w500/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg"
+      },
+      "SP01": {
+        "name": "Trouble Don't Last Always",
+        "still_path": "https://image.tmdb.org/t/p/w500/dCsnXTTON8okknDoMyhxQJEdcFm.jpg",
+        "overview": "Después de que Jules la dejara en la estación de tren y recayera, Rue celebra la Navidad."
+      },
+      "SP02": {
+        "name": "F**k Anyone Who's Not a Sea Blob",
+        "still_path": "https://image.tmdb.org/t/p/w500/8aRLfI2AfZZPHISaGqPkrrj0xwH.jpg",
+        "overview": "Durante las vacaciones de Navidad, Jules reflexiona sobre el año."
+      },
+      "S02E01": {
+        "name": "Trying to Get to Heaven Before They Close the Door",
+        "still_path": "https://image.tmdb.org/t/p/w500/8rW1LANR14YRkT8poSziWOiRa5U.jpg",
+        "overview": "En la víspera de Año Nuevo se saldan viejas cuentas y se establecen nuevas conexiones."
+      },
+      "S02E02": {
+        "name": "Out of Touch",
+        "still_path": "https://image.tmdb.org/t/p/w500/nee4LaQLFGSiMeBomd3xKjj9ysI.jpg",
+        "overview": "Con el inicio del nuevo semestre, Jules cuestiona la nueva amistad de Rue y Elliot mientras Cal busca respuestas."
+      },
+      "S02E03": {
+        "name": "Ruminations: Big and Little Bullys",
+        "still_path": "https://image.tmdb.org/t/p/w500/nibFSc6mQLHeFAkfKEifnObtYRR.jpg",
+        "overview": "Rue emprende un nuevo negocio, Cassie se adapta a la rutina y Cal encuentra un objetivo."
+      },
+      "S02E04": {
+        "name": "You Who Cannot See, Think of Those Who Can",
+        "still_path": "https://image.tmdb.org/t/p/w500/nuTsLlLNacklbITyQPRvKOAtXlg.jpg",
+        "overview": "Jules y Elliot se acercan, Maddy celebra su cumpleaños y Cal hace un viaje por el callejón de los recuerdos."
+      },
+      "S02E05": {
+        "name": "Stand Still Like the Hummingbird",
+        "still_path": "https://image.tmdb.org/t/p/w500/muzj1UxcvashpXQGwpAXDtRJf98.jpg",
+        "overview": "El destino tiene una forma de alcanzar a aquellos que intentan escapar de él."
+      },
+      "S02E06": {
+        "name": "A Thousand Little Trees of Blood",
+        "still_path": "https://image.tmdb.org/t/p/w500/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg",
+        "overview": "Rue intenta recuperarse, Lexi se cuestiona la puesta en escena de su obra y Nate celebra su nueva libertad."
+      },
+      "S02E07": {
+        "name": "The Theater and Its Double",
+        "still_path": "https://image.tmdb.org/t/p/w500/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg",
+        "overview": "El arte imita a la vida cuando todos en East Highland ven reflejada su complicada dinámica en la esperada obra de Lexi."
+      },
+      "S02E08": {
+        "name": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
+        "still_path": "https://image.tmdb.org/t/p/w500/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
+        "overview": "A medida que avanza el espectáculo, fragmentos de recuerdos chocan con el presente y el futuro."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "S01E01 - Pilot",
-      "count": 99,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Fluid whooshing (acotación)",
@@ -407,12 +502,13 @@
           "translation": "ocultar, disimular"
         }
       ],
-      "dialogues": 948,
-      "level": "B2"
+      "count": 99,
+      "dialogues": 948
     },
     {
+      "code": "S01E02",
       "name": "S01E02 - Stunting Like My Daddy",
-      "count": 73,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Psychic",
@@ -707,12 +803,13 @@
           "translation": "no hay nadie que valga la pena"
         }
       ],
-      "dialogues": 839,
-      "level": "B2"
+      "count": 73,
+      "dialogues": 839
     },
     {
+      "code": "S01E03",
       "name": "S01E03 - Made Y ou Look",
-      "count": 57,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Jinx (verbo)",
@@ -943,12 +1040,13 @@
           "translation": "desertor"
         }
       ],
-      "dialogues": 947,
-      "level": "B2"
+      "count": 57,
+      "dialogues": 947
     },
     {
+      "code": "S01E04",
       "name": "S01E04 - Shook One Part II",
-      "count": 23,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You fucking cunt!",
@@ -1043,12 +1141,13 @@
           "translation": "quedarse a dormir"
         }
       ],
-      "dialogues": 702,
-      "level": "B2"
+      "count": 23,
+      "dialogues": 702
     },
     {
+      "code": "S01E05",
       "name": "S01E05 - ‘03 Bonnie and Clyde",
-      "count": 50,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Pageantry",
@@ -1251,12 +1350,13 @@
           "translation": "socio, compañero, pareja"
         }
       ],
-      "dialogues": 869,
-      "level": "B2"
+      "count": 50,
+      "dialogues": 869
     },
     {
+      "code": "S01E06",
       "name": "S01E06 - The Next Episode",
-      "count": 71,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bitterness",
@@ -1543,12 +1643,13 @@
           "translation": "alejarse, apartarse"
         }
       ],
-      "dialogues": 698,
-      "level": "B2"
+      "count": 71,
+      "dialogues": 698
     },
     {
+      "code": "S01E07",
       "name": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
-      "count": 57,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Fill out",
@@ -1779,12 +1880,13 @@
           "translation": "yema"
         }
       ],
-      "dialogues": 851,
-      "level": "B2"
+      "count": 57,
+      "dialogues": 851
     },
     {
+      "code": "S01E08",
       "name": "S01E08 - And Salt the Earth Behind You",
-      "count": 57,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Subdue (verbo)",
@@ -2015,12 +2117,13 @@
           "translation": "mis paisanos, los de mi tierra"
         }
       ],
-      "dialogues": 855,
-      "level": "B2"
+      "count": 57,
+      "dialogues": 855
     },
     {
+      "code": "SP01",
       "name": "Special 1 - Trouble Don't Last Always",
-      "count": 50,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "I can't fuck this up",
@@ -2223,12 +2326,13 @@
           "translation": "por el desagüe"
         }
       ],
-      "dialogues": 868,
-      "level": "B2"
+      "count": 50,
+      "dialogues": 868
     },
     {
+      "code": "SP02",
       "name": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
-      "count": 24,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A dumb, not-well-thought-out plan",
@@ -2327,12 +2431,13 @@
           "translation": "son unas fiestas mucho mejores"
         }
       ],
-      "dialogues": 543,
-      "level": "B2"
+      "count": 24,
+      "dialogues": 543
     },
     {
+      "code": "S02E01",
       "name": "S02E01 - Trying to Get to Heaven Before They Close the Door",
-      "count": 47,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bag up",
@@ -2523,12 +2628,13 @@
           "translation": "¿Has hecho algún propósito para el Año Nuevo?"
         }
       ],
-      "dialogues": 918,
-      "level": "B2"
+      "count": 47,
+      "dialogues": 918
     },
     {
+      "code": "S02E02",
       "name": "S02E02 - Out of Touch",
-      "count": 35,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Overlook (verbo)",
@@ -2671,12 +2777,13 @@
           "translation": "pastel que se toma y se engulle"
         }
       ],
-      "dialogues": 710,
-      "level": "B2"
+      "count": 35,
+      "dialogues": 710
     },
     {
+      "code": "S02E03",
       "name": "S02E03 - Ruminations: Big and Little Bullys",
-      "count": 49,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Dingleberry (en sentido connotativo)",
@@ -2875,12 +2982,13 @@
           "translation": "ojos de acuarela"
         }
       ],
-      "dialogues": 1030,
-      "level": "B2"
+      "count": 49,
+      "dialogues": 1030
     },
     {
+      "code": "S02E04",
       "name": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
-      "count": 47,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bird tweeting",
@@ -3071,12 +3179,13 @@
           "translation": "idiotas, imbéciles"
         }
       ],
-      "dialogues": 886,
-      "level": "B2"
+      "count": 47,
+      "dialogues": 886
     },
     {
+      "code": "S02E05",
       "name": "S02E05 - Stand Still Like a Hummingbird",
-      "count": 37,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Rat out",
@@ -3227,12 +3336,13 @@
           "translation": "tablones, tablas del suelo"
         }
       ],
-      "dialogues": 786,
-      "level": "B2"
+      "count": 37,
+      "dialogues": 786
     },
     {
+      "code": "S02E06",
       "name": "S02E06 - A Thousand Little Trees of Blood",
-      "count": 57,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Overflow (verbo)",
@@ -3463,12 +3573,13 @@
           "translation": "en hospitalización"
         }
       ],
-      "dialogues": 935,
-      "level": "B2"
+      "count": 57,
+      "dialogues": 935
     },
     {
+      "code": "S02E07",
       "name": "S02E07 - The Theater and It’s Double",
-      "count": 51,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A lovely memorial",
@@ -3675,12 +3786,13 @@
           "translation": "ruidos de azotes"
         }
       ],
-      "dialogues": 718,
-      "level": "B2"
+      "count": 51,
+      "dialogues": 718
     },
     {
+      "code": "S02E08",
       "name": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
-      "count": 40,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Text whooshes (acotación)",
@@ -3843,106 +3955,10 @@
           "translation": "Técnico en Emergencias Médicas"
         }
       ],
-      "dialogues": 820,
-      "level": "B2"
+      "count": 40,
+      "dialogues": 820
     }
   ],
-  "tmdb": {
-    "overview": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-      "https://image.tmdb.org/t/p/w780/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
-      "https://image.tmdb.org/t/p/w780/oKt4J3TFjWirVwBqoHyIvv5IImd.jpg",
-      "https://image.tmdb.org/t/p/w780/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
-      "https://image.tmdb.org/t/p/w780/lcJ8S992xGr20KfNCbY4Fg3Xz6s.jpg",
-      "https://image.tmdb.org/t/p/w780/lTbCXhFiP0bMWelvGxfeiSoF4gP.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Pilot",
-        "still_path": "https://image.tmdb.org/t/p/w500/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg"
-      },
-      "2": {
-        "name": "Stuntin' Like My Daddy",
-        "still_path": "https://image.tmdb.org/t/p/w500/4NCKs8RMxevYrBzuqGI4usEprUL.jpg"
-      },
-      "3": {
-        "name": "Made You Look",
-        "still_path": "https://image.tmdb.org/t/p/w500/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg"
-      },
-      "4": {
-        "name": "Shook Ones Pt. II",
-        "still_path": "https://image.tmdb.org/t/p/w500/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg"
-      },
-      "5": {
-        "name": "'03 Bonnie and Clyde",
-        "still_path": "https://image.tmdb.org/t/p/w500/3ff187LdnqgrrOQWlzGShPR5sLS.jpg"
-      },
-      "6": {
-        "name": "The Next Episode",
-        "still_path": "https://image.tmdb.org/t/p/w500/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg"
-      },
-      "7": {
-        "name": "The Trials and Tribulations of Trying to Pee While Depressed",
-        "still_path": "https://image.tmdb.org/t/p/w500/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg"
-      },
-      "8": {
-        "name": "And Salt the Earth Behind You",
-        "still_path": "https://image.tmdb.org/t/p/w500/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg"
-      },
-      "9": {
-        "name": "Trouble Don't Last Always",
-        "still_path": "https://image.tmdb.org/t/p/w500/dCsnXTTON8okknDoMyhxQJEdcFm.jpg",
-        "overview": "Después de que Jules la dejara en la estación de tren y recayera, Rue celebra la Navidad."
-      },
-      "10": {
-        "name": "F**k Anyone Who's Not a Sea Blob",
-        "still_path": "https://image.tmdb.org/t/p/w500/8aRLfI2AfZZPHISaGqPkrrj0xwH.jpg",
-        "overview": "Durante las vacaciones de Navidad, Jules reflexiona sobre el año."
-      },
-      "11": {
-        "name": "Trying to Get to Heaven Before They Close the Door",
-        "still_path": "https://image.tmdb.org/t/p/w500/8rW1LANR14YRkT8poSziWOiRa5U.jpg",
-        "overview": "En la víspera de Año Nuevo se saldan viejas cuentas y se establecen nuevas conexiones."
-      },
-      "12": {
-        "name": "Out of Touch",
-        "still_path": "https://image.tmdb.org/t/p/w500/nee4LaQLFGSiMeBomd3xKjj9ysI.jpg",
-        "overview": "Con el inicio del nuevo semestre, Jules cuestiona la nueva amistad de Rue y Elliot mientras Cal busca respuestas."
-      },
-      "13": {
-        "name": "Ruminations: Big and Little Bullys",
-        "still_path": "https://image.tmdb.org/t/p/w500/nibFSc6mQLHeFAkfKEifnObtYRR.jpg",
-        "overview": "Rue emprende un nuevo negocio, Cassie se adapta a la rutina y Cal encuentra un objetivo."
-      },
-      "14": {
-        "name": "You Who Cannot See, Think of Those Who Can",
-        "still_path": "https://image.tmdb.org/t/p/w500/nuTsLlLNacklbITyQPRvKOAtXlg.jpg",
-        "overview": "Jules y Elliot se acercan, Maddy celebra su cumpleaños y Cal hace un viaje por el callejón de los recuerdos."
-      },
-      "15": {
-        "name": "Stand Still Like the Hummingbird",
-        "still_path": "https://image.tmdb.org/t/p/w500/muzj1UxcvashpXQGwpAXDtRJf98.jpg",
-        "overview": "El destino tiene una forma de alcanzar a aquellos que intentan escapar de él."
-      },
-      "16": {
-        "name": "A Thousand Little Trees of Blood",
-        "still_path": "https://image.tmdb.org/t/p/w500/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg",
-        "overview": "Rue intenta recuperarse, Lexi se cuestiona la puesta en escena de su obra y Nate celebra su nueva libertad."
-      },
-      "17": {
-        "name": "The Theater and Its Double",
-        "still_path": "https://image.tmdb.org/t/p/w500/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg",
-        "overview": "El arte imita a la vida cuando todos en East Highland ven reflejada su complicada dinámica en la esperada obra de Lexi."
-      },
-      "18": {
-        "name": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
-        "still_path": "https://image.tmdb.org/t/p/w500/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
-        "overview": "A medida que avanza el espectáculo, fragmentos de recuerdos chocan con el presente y el futuro."
-      }
-    }
-  },
-  "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+  "count": 924,
   "dialogues": 14923
 }

@@ -1,0 +1,30 @@
+{
+  "titulo": "Grand Theft Auto VI An Extended Look",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "+18",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1744462
+  },
+  "analisis": "Un adelanto (extended look) a Grand Theft Auto VI. El vocabulario es muy callejero e informal.",
+  "sinopsis": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
+  "poster": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+    "https://image.tmdb.org/t/p/w780/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
+    "https://image.tmdb.org/t/p/w780/AqTOMCZQrgn23pSalwXH5apppFB.jpg",
+    "https://image.tmdb.org/t/p/w780/phklYnfuENdivk4edstIb8VqGrv.jpg",
+    "https://image.tmdb.org/t/p/w780/i3ARXnPuuKhqXigx79fnRpyIxdc.jpg",
+    "https://image.tmdb.org/t/p/w780/cZUXJgPVBfURqYf95DgDO8DTKtD.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Grand Theft Auto VI An Extended Look (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Grand Theft Auto VI An Extended Look to improve the vocabulary in English.pdf"
+    ]
+  }
+}

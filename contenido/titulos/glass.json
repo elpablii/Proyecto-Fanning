@@ -1,0 +1,27 @@
+{
+  "titulo": "Glass",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "El vocabulario incluye jerga médica y psiquiátrica debido al entorno institucional, así como términos de cómics y superhéroes tratados desde una perspectiva clínica. El diálogo oscila entre tonos analíticos y fuertemente dramáticos.",
+  "sinopsis": "Un guardia de seguridad utiliza sus habilidades sobrehumanas para dar con un hombre perturbado que tiene veinticuatro personalidades.",
+  "poster": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+    "https://image.tmdb.org/t/p/w780/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+    "https://image.tmdb.org/t/p/w780/iRJnw5OpueLhrYMnCxdydogVHUg.jpg",
+    "https://image.tmdb.org/t/p/w780/8nGGk6pmmMfVrUFHrQvBQlWEvh4.jpg",
+    "https://image.tmdb.org/t/p/w780/oAhIC1m7YhmB4Vtn1V3KghfjlRx.jpg",
+    "https://image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Glass (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Glass to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "titulo": "Suite Francaise",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Ambientada en la Segunda Guerra Mundial, presenta un inglés británico y europeo formal de la década de 1940. El lenguaje es pulcro, contenido y lleno de sutilezas emocionales y vocabulario bélico/doméstico.",
+  "sinopsis": "France, 1940. In the first days of occupation, beautiful Lucile Angellier is trapped in a stifled existence with her controlling mother-in-law as they both await news of her husband: a prisoner of war. Parisian refugees start to pour into their small town, soon followed by a regiment of German soldiers who take up residence in the villagers' own homes. Lucile initially tries to ignore Bruno von Falk, the handsome and refined German officer staying with them. But soon, a powerful love draws them together and leads them into the tragedy of war.",
+  "poster": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+    "https://image.tmdb.org/t/p/w780/zFVv2KC9HqNkq3UAGdjhTlvqzyI.jpg",
+    "https://image.tmdb.org/t/p/w780/AfELTA3Wsn3B33Tz5UywHECAX9H.jpg",
+    "https://image.tmdb.org/t/p/w780/jMsusZ8i9AvsHtBQvKkNmhFmk5h.jpg",
+    "https://image.tmdb.org/t/p/w780/n3b9wV9zbn2O7aHxfeXgzMruFCs.jpg",
+    "https://image.tmdb.org/t/p/w780/rnxehuWNDvEEGntsdte0iwHZavy.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Suite Francaise (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Suite Francaise to improve the vocabulary in English.pdf"
+    ]
+  }
+}

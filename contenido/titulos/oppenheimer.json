@@ -1,0 +1,28 @@
+{
+  "titulo": "Oppenheimer",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "+18",
+  "tmdb": null,
+  "analisis": "La película presenta un inglés americano culto y académico, ambientado en las décadas de 1930 a 1950. Utiliza mucho vocabulario científico y de física cuántica ('fission', 'isotope', 'uranium'), además de terminología militar y política ('clearance', 'communist', 'security'). Excelente para practicar inglés formal, debates éticos y vocabulario técnico avanzado.",
+  "sinopsis": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+  "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
+    "https://image.tmdb.org/t/p/w780/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "https://image.tmdb.org/t/p/w780/7CENyUim29IEsaJhUxIGymCRvPu.jpg",
+    "https://image.tmdb.org/t/p/w780/ycnO0cjsAROSGJKuMODgRtWsHQw.jpg",
+    "https://image.tmdb.org/t/p/w780/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+    "https://image.tmdb.org/t/p/w780/8ohejkcQkNgkJgLn71Ws6Kd35g0.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Oppenheimer (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2024/Palabras desconocidas de Oppenheimer (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Oppenheimer to improve the vocabulary in English.pdf"
+    ]
+  }
+}

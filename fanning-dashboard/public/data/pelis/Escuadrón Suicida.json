@@ -2,6 +2,19 @@
   "title": "Escuadrón Suicida",
   "level": "B2",
   "englishAnalysis": "El lenguaje de esta película de 2016 está lleno de jerga callejera, términos criminales, sarcasmo y lenguaje militar táctico ('task force', 'lethal', 'warden', 'freaks'). Es ideal para familiarizarse con expresiones informales agresivas, insultos suaves y acentos americanos diversos (desde el estilo urbano de Harley Quinn hasta el militar sureño de Rick Flag).",
+  "tmdb": {
+    "overview": "La agencia secreta gubernamental A.R.G.U.S., liderada por Amanda Waller, crea una fuerza especial con los peores villanos del mundo: el «Escuadrón Suicida», un equipo asignado a misiones mortales a cambio de acortar sus estancias en prisión.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+      "https://image.tmdb.org/t/p/w780/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
+      "https://image.tmdb.org/t/p/w780/zC70x9wqPPtxU99HsoGsxQ8IhSw.jpg",
+      "https://image.tmdb.org/t/p/w780/dpoIQ9MN54cxuLZxDABEUOSFGY3.jpg",
+      "https://image.tmdb.org/t/p/w780/3wIn53fLeP09RyRosAk9Luq7U6q.jpg",
+      "https://image.tmdb.org/t/p/w780/Ls081Fjb8EyQLT0X2EXkQZ9HNX.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
   "vocabulary": [
     {
       "word": "Chow time!",
@@ -1140,20 +1153,6 @@
       "translation": "yo creo en el apalancamiento"
     }
   ],
-  "tmdb": {
-    "overview": "La agencia secreta gubernamental A.R.G.U.S., liderada por Amanda Waller, crea una fuerza especial con los peores villanos del mundo: el «Escuadrón Suicida», un equipo asignado a misiones mortales a cambio de acortar sus estancias en prisión.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
-      "https://image.tmdb.org/t/p/w780/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
-      "https://image.tmdb.org/t/p/w780/zC70x9wqPPtxU99HsoGsxQ8IhSw.jpg",
-      "https://image.tmdb.org/t/p/w780/dpoIQ9MN54cxuLZxDABEUOSFGY3.jpg",
-      "https://image.tmdb.org/t/p/w780/3wIn53fLeP09RyRosAk9Luq7U6q.jpg",
-      "https://image.tmdb.org/t/p/w780/Ls081Fjb8EyQLT0X2EXkQZ9HNX.jpg"
-    ],
-    "episodes": null
-  },
   "count": 284,
-  "dialogues": 1821,
-  "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg"
+  "dialogues": 1821
 }

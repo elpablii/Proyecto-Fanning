@@ -1,8 +1,20 @@
 {
   "title": "Grand Theft Auto VI An Extended Look",
-  "year": "2026",
   "level": "C1",
   "englishAnalysis": "Un adelanto (extended look) a Grand Theft Auto VI. El vocabulario es muy callejero e informal.",
+  "tmdb": {
+    "overview": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+      "https://image.tmdb.org/t/p/w780/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
+      "https://image.tmdb.org/t/p/w780/AqTOMCZQrgn23pSalwXH5apppFB.jpg",
+      "https://image.tmdb.org/t/p/w780/phklYnfuENdivk4edstIb8VqGrv.jpg",
+      "https://image.tmdb.org/t/p/w780/i3ARXnPuuKhqXigx79fnRpyIxdc.jpg",
+      "https://image.tmdb.org/t/p/w780/cZUXJgPVBfURqYf95DgDO8DTKtD.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
   "vocabulary": [
     {
       "word": "Yo! Crackheads! (informal)",
@@ -161,18 +173,6 @@
       "translation": "todas las mierdas que se avecinan"
     }
   ],
-  "dialogues": 466,
-  "tmdb": {
-    "overview": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
-      "https://image.tmdb.org/t/p/w780/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
-      "https://image.tmdb.org/t/p/w780/AqTOMCZQrgn23pSalwXH5apppFB.jpg",
-      "https://image.tmdb.org/t/p/w780/phklYnfuENdivk4edstIb8VqGrv.jpg",
-      "https://image.tmdb.org/t/p/w780/i3ARXnPuuKhqXigx79fnRpyIxdc.jpg",
-      "https://image.tmdb.org/t/p/w780/cZUXJgPVBfURqYf95DgDO8DTKtD.jpg"
-    ],
-    "episodes": null
-  },
-  "count": 39
+  "count": 39,
+  "dialogues": 466
 }

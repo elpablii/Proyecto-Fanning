@@ -2,6 +2,19 @@
   "title": "Rocky II",
   "level": "B1",
   "englishAnalysis": "El inglés de Rocky es muy representativo del acento de clase trabajadora de Filadelfia. Caracterizado por oraciones cortas, pronunciación arrastrada y vocabulario directo. Abunda la jerga de boxeo ('heavyweight', 'southpaw', 'jab') y expresiones motivacionales crudas.",
+  "tmdb": {
+    "overview": "Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pronto, el «Maestro del Desastre» y el «Semental italiano» se pone en un camino del enfrentamiento para una batalla culminante que es brutal e inolvidable.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/78jvhi792WFjk1zSwqpfDOudO78.jpg",
+      "https://image.tmdb.org/t/p/w780/fYYhjhTzDhk5R7wlVn2iEubxypC.jpg",
+      "https://image.tmdb.org/t/p/w780/hIfe7FBKGO19weOV5Vgf9CaX6t6.jpg",
+      "https://image.tmdb.org/t/p/w780/5aZ2PDpNhjTdk77uSAIDzrpsAUr.jpg",
+      "https://image.tmdb.org/t/p/w780/5tLusfAXiRrpaWL6mxHV9BJTzVZ.jpg",
+      "https://image.tmdb.org/t/p/w780/fme9tbOuSv5JjfrAD9JVkXFBsNd.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg",
   "vocabulary": [
     {
       "word": "Wipe off",
@@ -820,18 +833,6 @@
       "translation": "en una sorprendente sorpresa"
     }
   ],
-  "tmdb": {
-    "overview": "Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pronto, el «Maestro del Desastre» y el «Semental italiano» se pone en un camino del enfrentamiento para una batalla culminante que es brutal e inolvidable.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/78jvhi792WFjk1zSwqpfDOudO78.jpg",
-      "https://image.tmdb.org/t/p/w780/fYYhjhTzDhk5R7wlVn2iEubxypC.jpg",
-      "https://image.tmdb.org/t/p/w780/hIfe7FBKGO19weOV5Vgf9CaX6t6.jpg",
-      "https://image.tmdb.org/t/p/w780/5aZ2PDpNhjTdk77uSAIDzrpsAUr.jpg",
-      "https://image.tmdb.org/t/p/w780/5tLusfAXiRrpaWL6mxHV9BJTzVZ.jpg",
-      "https://image.tmdb.org/t/p/w780/fme9tbOuSv5JjfrAD9JVkXFBsNd.jpg"
-    ],
-    "episodes": null
-  },
   "count": 204,
   "dialogues": 1819
 }

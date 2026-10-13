@@ -1,0 +1,27 @@
+{
+  "titulo": "Toy Story 2",
+  "tipo": "pelicula",
+  "nivel": "A2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Un inglés americano muy claro y fácil de seguir, ideal para nivel intermedio. Combina lenguaje cotidiano ('garage sale', 'collector') con terminología espacial ('galaxy', 'laser') y del viejo oeste ('sheriff', 'prospector'). Los diálogos son rápidos pero perfectamente articulados.",
+  "sinopsis": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+  "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+    "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+    "https://image.tmdb.org/t/p/w780/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+    "https://image.tmdb.org/t/p/w780/cmyDcJLkWjIBsB74K7BMA5DL5QU.jpg",
+    "https://image.tmdb.org/t/p/w780/1dvOCqKgBcXvfqzVPmAAM5Rv4PP.jpg",
+    "https://image.tmdb.org/t/p/w780/1M40AHTjggFkRs9tbvHzFpgCPAG.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Toy Story 2 (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Toy Story 2 to improve the vocabulary in English.pdf"
+    ]
+  }
+}

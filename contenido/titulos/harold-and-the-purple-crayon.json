@@ -1,0 +1,30 @@
+{
+  "titulo": "Harold and The Purple Crayon",
+  "tipo": "pelicula",
+  "nivel": "A2",
+  "clasificacion": "TE+7",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 826510
+  },
+  "analisis": "Lenguaje sumamente claro, imaginativo y accesible. Al estar orientado a un público familiar, el inglés es muy descriptivo y enfocado en colores, creatividad y emociones básicas.",
+  "sinopsis": "Dentro de su libro, el aventurero Harold puede hacer que cualquier cosa cobre vida simplemente dibujándola. Cuando crece y se dibuja a sí mismo fuera de las páginas del libro, Harold descubre que tiene mucho que aprender sobre la vida real.",
+  "poster": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg",
+    "https://image.tmdb.org/t/p/w780/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",
+    "https://image.tmdb.org/t/p/w780/e8dWNHsxrSeJ4vJ95GRxzl0uywO.jpg",
+    "https://image.tmdb.org/t/p/w780/u6sJkZ993gRhKzBUSMk9O50pVaW.jpg",
+    "https://image.tmdb.org/t/p/w780/iURqo6oIwbeegIwWXx5qrBsDcPk.jpg",
+    "https://image.tmdb.org/t/p/w780/vJk9DOLgP23jO5mBnPHE93MFgYu.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Harold and The Purple Crayon (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Harold and The Purple Crayon to improve the vocabulary in English.pdf"
+    ]
+  }
+}

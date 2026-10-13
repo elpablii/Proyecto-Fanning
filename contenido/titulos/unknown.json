@@ -1,0 +1,30 @@
+{
+  "titulo": "Unknown",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 48138
+  },
+  "analisis": "Con base en los diálogos del documento 'Dialogues from Unknown to improve the vocabulary in English.pdf', este thriller presenta un vocabulario lleno de tensión y lenguaje relacionado con la identidad. Encontrarás diálogos directos, expresiones de misterio y términos vinculados a la investigación criminal.",
+  "sinopsis": "Un hombre se despierta de un coma, solo para descubrir que alguien ha tomado su identidad y que nadie, ni siquiera su esposa, le cree. Con la ayuda de una joven, se propone probar quién es.",
+  "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+    "https://image.tmdb.org/t/p/w780/nIrqVdM099OXtTzdVgt3ZUfcKsO.jpg",
+    "https://image.tmdb.org/t/p/w780/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
+    "https://image.tmdb.org/t/p/w780/gbvBmlv8b1lIDQWomxZKViWFUWM.jpg",
+    "https://image.tmdb.org/t/p/w780/hH7MQ4cHtWvHlKQMDvUz95eNFrr.jpg",
+    "https://image.tmdb.org/t/p/w780/vkWLFntfP0lgUw3y9ucNKd4Vj3e.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Unknown (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Unknown to improve the vocabulary in English.pdf"
+    ]
+  }
+}

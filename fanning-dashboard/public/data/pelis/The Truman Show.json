@@ -2,6 +2,19 @@
   "title": "The Truman Show",
   "level": "B2",
   "englishAnalysis": "Una cápsula del tiempo del idílico y prefabricado inglés americano de los suburbios de los años 90. Diálogos exageradamente amables, vocabulario de vecindario y expresiones de publicidad encubierta. Excelente para el inglés 'perfecto' y cotidiano.",
+  "tmdb": {
+    "overview": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+      "https://image.tmdb.org/t/p/w780/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "https://image.tmdb.org/t/p/w780/kjWIp6COK4MKF0KSffzUD8l9Kuo.jpg",
+      "https://image.tmdb.org/t/p/w780/1szsl8P3zzvb9O4WJM7B3CLQ7r4.jpg",
+      "https://image.tmdb.org/t/p/w780/1xWHfZH4Fapu6Yrkv4oOk2rEUTx.jpg",
+      "https://image.tmdb.org/t/p/w780/rVOHeP2uU4jtCunXWAWE6Xn5xam.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
   "vocabulary": [
     {
       "word": "Phoney emotions",
@@ -336,18 +349,6 @@
       "translation": "engaño"
     }
   ],
-  "tmdb": {
-    "overview": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
-      "https://image.tmdb.org/t/p/w780/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
-      "https://image.tmdb.org/t/p/w780/kjWIp6COK4MKF0KSffzUD8l9Kuo.jpg",
-      "https://image.tmdb.org/t/p/w780/1szsl8P3zzvb9O4WJM7B3CLQ7r4.jpg",
-      "https://image.tmdb.org/t/p/w780/1xWHfZH4Fapu6Yrkv4oOk2rEUTx.jpg",
-      "https://image.tmdb.org/t/p/w780/rVOHeP2uU4jtCunXWAWE6Xn5xam.jpg"
-    ],
-    "episodes": null
-  },
   "count": 83,
   "dialogues": 695
 }

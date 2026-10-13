@@ -1,0 +1,30 @@
+{
+  "titulo": "Intensamente",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 150540
+  },
+  "analisis": "Una joya para aprender vocabulario emocional. El inglés es cotidiano, veloz y aborda directamente terminología sobre la mente humana, sentimientos abstractos (alegría, tristeza) y dinámicas familiares.",
+  "sinopsis": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
+  "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+    "https://image.tmdb.org/t/p/w780/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+    "https://image.tmdb.org/t/p/w780/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+    "https://image.tmdb.org/t/p/w780/okJXzeIpbdx7q8rQjJwBNr8VTEk.jpg",
+    "https://image.tmdb.org/t/p/w780/2IwDbObOTG0Qc2YIK6lXa1wQ4xe.jpg",
+    "https://image.tmdb.org/t/p/w780/9cGSFGZVVLsrnbs0AFPDh6X2ynl.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Intensamente (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Inside Out to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -11,11 +11,6 @@ interface TimelineItem {
   items: string[];
 }
 
-interface ManifestItem {
-  title: string;
-  posterUrl?: string;
-}
-
 export default function TimelineClient() {
   const [events, setEvents] = useState<TimelineItem[]>([]);
   const [postersMap, setPostersMap] = useState<Record<string, string>>({});

@@ -1,0 +1,27 @@
+{
+  "titulo": "Scarface",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "+18",
+  "tmdb": null,
+  "analisis": "Un clásico del cine criminal de los años 80. El lenguaje es extremadamente explícito, agresivo y dominado por el denso acento cubano-americano de Tony Montana. Abunda la jerga criminal, los insultos creativos y expresiones de poder. No apta para oídos sensibles, pero excelente para captar acentos fuertes.",
+  "sinopsis": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+  "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+    "https://image.tmdb.org/t/p/w780/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+    "https://image.tmdb.org/t/p/w780/9DnGZGDpVAXcEqgizssx5OckJIK.jpg",
+    "https://image.tmdb.org/t/p/w780/58xwzOzusEBR0IVmrSf4DKvjAaz.jpg",
+    "https://image.tmdb.org/t/p/w780/6BrWQn3Mk5SgXYNlGk7U6VQwHOW.jpg",
+    "https://image.tmdb.org/t/p/w780/6YIGVHSsGe16zogHNNoIc6gKmcO.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Scarface (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Scarface to improve the vocabulary in English.pdf"
+    ]
+  }
+}

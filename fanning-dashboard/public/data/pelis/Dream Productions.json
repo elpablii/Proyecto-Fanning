@@ -2,10 +2,42 @@
   "title": "Dream Productions",
   "level": "B2",
   "englishAnalysis": "El vocabulario de Dream Productions destaca por su jerga relacionada a la producción audiovisual (guiones, cámaras, dirección), expresiones preadolescentes, y términos del entorno laboral hiperactivo.",
+  "tmdb": {
+    "overview": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
+      "https://image.tmdb.org/t/p/w780/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
+      "https://image.tmdb.org/t/p/w780/tdqzcZnoEQCFsk6x82RKPQmTPOh.jpg",
+      "https://image.tmdb.org/t/p/w780/dti0HcKrhUYBwbXQWIOwob1Yoll.jpg",
+      "https://image.tmdb.org/t/p/w780/bsDgqLeu9QriM5yuIv1d3nbTezo.jpg",
+      "https://image.tmdb.org/t/p/w780/1mkLECtsUghchZSI1jJFw4mwIm1.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Part 1: The Dream Team",
+        "still_path": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
+      },
+      "S01E02": {
+        "name": "Part 2: Out of Body",
+        "still_path": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
+      },
+      "S01E03": {
+        "name": "Part 3: Romance!",
+        "still_path": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
+      },
+      "S01E04": {
+        "name": "Part 4: A Night to Remember",
+        "still_path": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "Dream Productions (Episode 1)",
-      "count": 30,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "And cue glitter",
@@ -128,12 +160,13 @@
           "translation": "señal, entrada"
         }
       ],
-      "dialogues": 389,
-      "level": "B2"
+      "count": 30,
+      "dialogues": 389
     },
     {
+      "code": "S01E02",
       "name": "Dream Productions (Episode 2)",
-      "count": 29,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Wake-ups",
@@ -252,12 +285,13 @@
           "translation": "¿Viste el sueño de Janelle anoche?"
         }
       ],
-      "dialogues": 360,
-      "level": "B1"
+      "count": 29,
+      "dialogues": 360
     },
     {
+      "code": "S01E03",
       "name": "Dream Productions (Episode 3)",
-      "count": 51,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Come to simmer, to steep, to brew into maturity",
@@ -464,12 +498,13 @@
           "translation": "el sueño más ingenioso, transformador, epifánico y lleno de arco iris que Riley alguna vez haya tenido"
         }
       ],
-      "dialogues": 422,
-      "level": "C1"
+      "count": 51,
+      "dialogues": 422
     },
     {
+      "code": "S01E04",
       "name": "Dream Productions (Episode 4)",
-      "count": 12,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Sleepwalker",
@@ -520,39 +555,10 @@
           "translation": "¡Encubre la ostra!"
         }
       ],
-      "dialogues": 342,
-      "level": "B1"
+      "count": 12,
+      "dialogues": 342
     }
   ],
-  "tmdb": {
-    "overview": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
-      "https://image.tmdb.org/t/p/w780/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
-      "https://image.tmdb.org/t/p/w780/tdqzcZnoEQCFsk6x82RKPQmTPOh.jpg",
-      "https://image.tmdb.org/t/p/w780/dti0HcKrhUYBwbXQWIOwob1Yoll.jpg",
-      "https://image.tmdb.org/t/p/w780/bsDgqLeu9QriM5yuIv1d3nbTezo.jpg",
-      "https://image.tmdb.org/t/p/w780/1mkLECtsUghchZSI1jJFw4mwIm1.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Part 1: The Dream Team",
-        "still_path": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
-      },
-      "2": {
-        "name": "Part 2: Out of Body",
-        "still_path": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
-      },
-      "3": {
-        "name": "Part 3: Romance!",
-        "still_path": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
-      },
-      "4": {
-        "name": "Part 4: A Night to Remember",
-        "still_path": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
-      }
-    }
-  },
   "count": 122,
   "dialogues": 1513
 }

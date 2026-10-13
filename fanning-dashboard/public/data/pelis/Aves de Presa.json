@@ -2,6 +2,19 @@
   "title": "Aves de Presa",
   "level": "B2",
   "englishAnalysis": "Presenta un inglés americano crudo, sarcástico y lleno de jerga callejera ('goon', 'mercenary', 'bounty', 'psycho'). El ritmo es frenético, con mucho humor negro y lenguaje explícito, excelente para exponerse al argot urbano moderno y expresiones criminales informales.",
+  "tmdb": {
+    "overview": "Después de separarse de Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña (Cassandra Cain) del malvado rey del crimen Máscara Negra.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+      "https://image.tmdb.org/t/p/w780/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+      "https://image.tmdb.org/t/p/w780/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
+      "https://image.tmdb.org/t/p/w780/cACIHw25SPdvsXYWGA6RJuhqROt.jpg",
+      "https://image.tmdb.org/t/p/w780/P70lB9FQ8cYvRFbxzqwZOexe7S.jpg",
+      "https://image.tmdb.org/t/p/w780/hcvM4RO3k493KqU7JzqmPc0wpFi.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
   "vocabulary": [
     {
       "word": "Ditch (verbo)",
@@ -1192,20 +1205,6 @@
       "translation": "ya que has aguantado tanto tiempo"
     }
   ],
-  "tmdb": {
-    "overview": "Después de separarse de Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña (Cassandra Cain) del malvado rey del crimen Máscara Negra.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
-      "https://image.tmdb.org/t/p/w780/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
-      "https://image.tmdb.org/t/p/w780/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
-      "https://image.tmdb.org/t/p/w780/cACIHw25SPdvsXYWGA6RJuhqROt.jpg",
-      "https://image.tmdb.org/t/p/w780/P70lB9FQ8cYvRFbxzqwZOexe7S.jpg",
-      "https://image.tmdb.org/t/p/w780/hcvM4RO3k493KqU7JzqmPc0wpFi.jpg"
-    ],
-    "episodes": null
-  },
   "count": 297,
-  "dialogues": 2100,
-  "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
+  "dialogues": 2100
 }

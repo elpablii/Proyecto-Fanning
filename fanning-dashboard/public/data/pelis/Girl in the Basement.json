@@ -1,8 +1,19 @@
 {
   "title": "Girl in the Basement",
-  "year": "2026",
   "level": "B2",
   "englishAnalysis": "Thriller dramático basado en hechos reales. El inglés es cotidiano y directo, con diálogos breves cargados de tensión: órdenes, súplicas y discusiones familiares sobre control y obediencia. Destacan las expresiones coloquiales y no literales ('keep your head down', 'done a number', 'hold tight') junto a vocabulario de emergencias médicas y vida doméstica.",
+  "tmdb": {
+    "overview": "Sara es una adolescente que está deseando que cumpla 18 años para alejarse de su padre controlador Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+      "https://image.tmdb.org/t/p/w780/sJ0t39ihFeBx84FK1LLU51BobgN.jpg",
+      "https://image.tmdb.org/t/p/w780/fvUmnxS9xaUUl0eWygvcA1hPdTV.jpg",
+      "https://image.tmdb.org/t/p/w780/i1cnjR9yl4VNtc382qxr5BjWQLx.jpg",
+      "https://image.tmdb.org/t/p/w780/k8mP4Js4XIFv7pdDQe6nQBzKZjJ.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
   "vocabulary": [
     {
       "word": "All mapped out (no literal)",
@@ -65,18 +76,6 @@
       "translation": "respira profundamente, inhalando y exhalando"
     }
   ],
-  "tmdb": {
-    "overview": "Sara es una adolescente que está deseando que cumpla 18 años para alejarse de su padre controlador Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
-      "https://image.tmdb.org/t/p/w780/sJ0t39ihFeBx84FK1LLU51BobgN.jpg",
-      "https://image.tmdb.org/t/p/w780/fvUmnxS9xaUUl0eWygvcA1hPdTV.jpg",
-      "https://image.tmdb.org/t/p/w780/i1cnjR9yl4VNtc382qxr5BjWQLx.jpg",
-      "https://image.tmdb.org/t/p/w780/k8mP4Js4XIFv7pdDQe6nQBzKZjJ.jpg"
-    ],
-    "episodes": null,
-    "rating": "+14"
-  },
   "count": 15,
   "dialogues": 1015
 }

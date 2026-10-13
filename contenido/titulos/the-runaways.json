@@ -1,0 +1,30 @@
+{
+  "titulo": "The Runaways",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 27586
+  },
+  "analisis": "Inglés musical de los años 70 en California. Lenguaje callejero, rebelde y enfocado en la industria del rock ('gigs', 'record deal', 'band'). Acentos juveniles con mucha actitud.",
+  "sinopsis": "Joan Jett and Cherie Currie, two rebellious teenagers from Southern California, become the frontwomen for The Runaways -- the now-legendary group that paved the way for future generations of female rockers. Under the Svengali-like influence of impresario Kim Fowley, the band becomes a huge success.",
+  "poster": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+    "https://image.tmdb.org/t/p/w780/368rw036l155gmmmxPcGoXdBQK0.jpg",
+    "https://image.tmdb.org/t/p/w780/3aFlgNH91r4IPW8Zoh6FDewEsB9.jpg",
+    "https://image.tmdb.org/t/p/w780/dvBwDeWTAQdnCyQ20Zdu9exMmrK.jpg",
+    "https://image.tmdb.org/t/p/w780/ykgdO6R63On0qgbGVKHg3U8YgTm.jpg",
+    "https://image.tmdb.org/t/p/w780/ameAZr4sYd66FosUbF4O2n8HoCp.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de The Runaways (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from The Runaways to improve the vocabulary in English.pdf"
+    ]
+  }
+}

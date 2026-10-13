@@ -2,6 +2,19 @@
   "title": "Morgan",
   "level": "B2",
   "englishAnalysis": "Una cinta de ciencia ficción sobre inteligencia artificial. El vocabulario es corporativo y científico, con terminología de laboratorios, ética genética y seguridad. El diálogo es frío, calculador y muy técnico.",
+  "tmdb": {
+    "overview": "Una compañía tecnológica crea un ser artificial, sin ser conscientes de su verdadero potencial. Cuando las cosas comienzan a salirse de su control, deciden contratar a una especialista para determinar si acabar con la criatura o mantenerla viva.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
+      "https://image.tmdb.org/t/p/w780/eG8LC5qVHmvNxVjivIMmflKwQkM.jpg",
+      "https://image.tmdb.org/t/p/w780/fxqgUjeRdhbEtbtIITQgVaVDFtw.jpg",
+      "https://image.tmdb.org/t/p/w780/4lC8it2HF0Ir5hyQfegCFN696oP.jpg",
+      "https://image.tmdb.org/t/p/w780/5VtwzMnMLkbkxPI1uTa6dKj6NYM.jpg",
+      "https://image.tmdb.org/t/p/w780/1YTvlrEJGiPmLqs1KZZWrwXXCFB.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
   "vocabulary": [
     {
       "word": "Sketchy",
@@ -196,18 +209,6 @@
       "translation": "creo que estos eventos lo dejan muy claro"
     }
   ],
-  "tmdb": {
-    "overview": "Una compañía tecnológica crea un ser artificial, sin ser conscientes de su verdadero potencial. Cuando las cosas comienzan a salirse de su control, deciden contratar a una especialista para determinar si acabar con la criatura o mantenerla viva.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
-      "https://image.tmdb.org/t/p/w780/eG8LC5qVHmvNxVjivIMmflKwQkM.jpg",
-      "https://image.tmdb.org/t/p/w780/fxqgUjeRdhbEtbtIITQgVaVDFtw.jpg",
-      "https://image.tmdb.org/t/p/w780/4lC8it2HF0Ir5hyQfegCFN696oP.jpg",
-      "https://image.tmdb.org/t/p/w780/5VtwzMnMLkbkxPI1uTa6dKj6NYM.jpg",
-      "https://image.tmdb.org/t/p/w780/1YTvlrEJGiPmLqs1KZZWrwXXCFB.jpg"
-    ],
-    "episodes": null
-  },
   "count": 48,
   "dialogues": 1194
 }

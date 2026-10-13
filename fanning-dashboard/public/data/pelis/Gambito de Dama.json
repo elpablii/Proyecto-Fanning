@@ -2,10 +2,59 @@
   "title": "Gambito de Dama",
   "level": "B2",
   "englishAnalysis": "El vocabulario de Gambito de Dama se centra en el ajedrez competitivo (aperturas, defensas, jugadas), combinado con el lenguaje de los años 60, internados, adopción y la lucha contra las adicciones.",
+  "tmdb": {
+    "overview": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
+      "https://image.tmdb.org/t/p/w780/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+      "https://image.tmdb.org/t/p/w780/5N5dSOrysuquExvn8Gpp5jMEf6u.jpg",
+      "https://image.tmdb.org/t/p/w780/7KplWFcstl85sLfiwI6NMIzemyF.jpg",
+      "https://image.tmdb.org/t/p/w780/jweDN93wtbUgg2eO8eYTWV6QriS.jpg",
+      "https://image.tmdb.org/t/p/w780/fh6vgXAvAMiqcpBwo2KK1VMhD4V.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Openings",
+        "still_path": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg"
+      },
+      "S01E02": {
+        "name": "Exchanges",
+        "still_path": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg"
+      },
+      "S01E03": {
+        "name": "Doubled Pawns",
+        "still_path": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg"
+      },
+      "S01E04": {
+        "name": "Middle Game",
+        "still_path": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg"
+      },
+      "S01E05": {
+        "name": "Fork",
+        "still_path": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg"
+      },
+      "S01E06": {
+        "name": "Adjournment",
+        "still_path": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg"
+      },
+      "S01E07": {
+        "name": "End Game",
+        "still_path": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg"
+      },
+      "SP01": {
+        "name": "Creating The Queen's Gambit",
+        "still_path": "https://image.tmdb.org/t/p/w500/4aTonMQCSEgu5PV3n3xRaNMZmG1.jpg",
+        "overview": "No se trata de un juego, se trata del costo de la genialidad. Eche un vistazo más profundo a cómo Scott Frank, Anya Taylor-Joy y el equipo detrás de \"The Queen's Gambit\" dieron vida a esta aclamada serie sobre una maestra del ajedrez."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "Gambito de Dama (Episode 1)",
-      "count": 40,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Scratch",
@@ -168,12 +217,13 @@
           "translation": "en cuanto a mí, en lo que a mí me respecta"
         }
       ],
-      "dialogues": 516,
-      "level": "B2"
+      "count": 40,
+      "dialogues": 516
     },
     {
+      "code": "S01E02",
       "name": "Gambito de Dama (Episode 2)",
-      "count": 44,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Stool",
@@ -352,12 +402,13 @@
           "translation": "cada uno"
         }
       ],
-      "dialogues": 661,
-      "level": "B2"
+      "count": 44,
+      "dialogues": 661
     },
     {
+      "code": "S01E03",
       "name": "Gambito de Dama (Episode 3)",
-      "count": 42,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Pleasant",
@@ -528,12 +579,13 @@
           "translation": "ser delicado"
         }
       ],
-      "dialogues": 530,
-      "level": "B2"
+      "count": 42,
+      "dialogues": 530
     },
     {
+      "code": "S01E04",
       "name": "Gambito de Dama (Episode 4)",
-      "count": 26,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Stoned",
@@ -640,12 +692,13 @@
           "translation": "estoy corto de dinero, no tengo dinero"
         }
       ],
-      "dialogues": 443,
-      "level": "B1"
+      "count": 26,
+      "dialogues": 443
     },
     {
+      "code": "S01E05",
       "name": "Gambito de Dama (Episode 5)",
-      "count": 32,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Drop (verbo en términos de partidas)",
@@ -776,12 +829,13 @@
           "translation": "acabarás acabado a los 21 años"
         }
       ],
-      "dialogues": 526,
-      "level": "B2"
+      "count": 32,
+      "dialogues": 526
     },
     {
+      "code": "S01E06",
       "name": "Gambito de Dama (Episode 6)",
-      "count": 38,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You just let them blow by",
@@ -936,12 +990,13 @@
           "translation": "estás sintiendo lástima por mí"
         }
       ],
-      "dialogues": 630,
-      "level": "B2"
+      "count": 38,
+      "dialogues": 630
     },
     {
+      "code": "S01E07",
       "name": "Gambito de Dama (Episode 7)",
-      "count": 45,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "A rounding error",
@@ -1124,12 +1179,13 @@
           "translation": "temas de debate, puntos de"
         }
       ],
-      "dialogues": 634,
-      "level": "C1"
+      "count": 45,
+      "dialogues": 634
     },
     {
+      "code": "SP01",
       "name": "Gambito de Dama (Special Episode)",
-      "count": 28,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "What really struck me",
@@ -1244,58 +1300,10 @@
           "translation": "un libro de paletas"
         }
       ],
-      "dialogues": 282,
-      "level": "B1"
+      "count": 28,
+      "dialogues": 282
     }
   ],
-  "tmdb": {
-    "overview": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
-      "https://image.tmdb.org/t/p/w780/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
-      "https://image.tmdb.org/t/p/w780/5N5dSOrysuquExvn8Gpp5jMEf6u.jpg",
-      "https://image.tmdb.org/t/p/w780/7KplWFcstl85sLfiwI6NMIzemyF.jpg",
-      "https://image.tmdb.org/t/p/w780/jweDN93wtbUgg2eO8eYTWV6QriS.jpg",
-      "https://image.tmdb.org/t/p/w780/fh6vgXAvAMiqcpBwo2KK1VMhD4V.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Openings",
-        "still_path": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg"
-      },
-      "2": {
-        "name": "Exchanges",
-        "still_path": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg"
-      },
-      "3": {
-        "name": "Doubled Pawns",
-        "still_path": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg"
-      },
-      "4": {
-        "name": "Middle Game",
-        "still_path": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg"
-      },
-      "5": {
-        "name": "Fork",
-        "still_path": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg"
-      },
-      "6": {
-        "name": "Adjournment",
-        "still_path": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg"
-      },
-      "7": {
-        "name": "End Game",
-        "still_path": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg"
-      },
-      "8": {
-        "name": "Creating The Queen's Gambit",
-        "still_path": "https://image.tmdb.org/t/p/w500/4aTonMQCSEgu5PV3n3xRaNMZmG1.jpg",
-        "overview": "No se trata de un juego, se trata del costo de la genialidad. Eche un vistazo más profundo a cómo Scott Frank, Anya Taylor-Joy y el equipo detrás de \"The Queen's Gambit\" dieron vida a esta aclamada serie sobre una maestra del ajedrez."
-      }
-    }
-  },
   "count": 295,
-  "dialogues": 4222,
-  "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg"
+  "dialogues": 4222
 }

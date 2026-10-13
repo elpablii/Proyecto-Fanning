@@ -2,6 +2,19 @@
   "title": "Whiskey Tango Foxtrot",
   "level": "B2",
   "englishAnalysis": "Inglés periodístico y militar mezclado. Vocabulario de zonas de guerra, jerga de corresponsales, humor negro y términos geopolíticos y militares ('embedded', 'infidel', 'bureau').",
+  "tmdb": {
+    "overview": "Reporteras en Guerra cuenta la «historia real» de Kim Barker, una productora de televisión que decide cambiar su rutina aceptando un desafiante trabajo en Kabul, Afganistán. Lejos de su estilo de vida, ahora se encuentra en medio de una zona de guerra. Afortunadamente, conoce a Tanya Vanderpoel, otra reportera que le da una mano. En medio de militantes, militares y fiestas nocturnas, Barker intenta descubrir la clave para ser una corresponsal exitosa.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg",
+      "https://image.tmdb.org/t/p/w780/7295GnkwMbNcHLEXkQkLNIWNa39.jpg",
+      "https://image.tmdb.org/t/p/w780/lGTFeQ40L9f1Wim77XrG0BzSQ8h.jpg",
+      "https://image.tmdb.org/t/p/w780/oORgQxk86gZKKMJTpbKp4w8SAIf.jpg",
+      "https://image.tmdb.org/t/p/w780/bUql0jf0LOz0U9OlbwlU0tPNcrQ.jpg",
+      "https://image.tmdb.org/t/p/w780/1vs9lbjKBNAGnZy3E5rBA3SBsyK.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg",
   "vocabulary": [
     {
       "word": "No word as to whether",
@@ -752,18 +765,6 @@
       "translation": "si te apetece un café"
     }
   ],
-  "tmdb": {
-    "overview": "Reporteras en Guerra cuenta la «historia real» de Kim Barker, una productora de televisión que decide cambiar su rutina aceptando un desafiante trabajo en Kabul, Afganistán. Lejos de su estilo de vida, ahora se encuentra en medio de una zona de guerra. Afortunadamente, conoce a Tanya Vanderpoel, otra reportera que le da una mano. En medio de militantes, militares y fiestas nocturnas, Barker intenta descubrir la clave para ser una corresponsal exitosa.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg",
-      "https://image.tmdb.org/t/p/w780/7295GnkwMbNcHLEXkQkLNIWNa39.jpg",
-      "https://image.tmdb.org/t/p/w780/lGTFeQ40L9f1Wim77XrG0BzSQ8h.jpg",
-      "https://image.tmdb.org/t/p/w780/oORgQxk86gZKKMJTpbKp4w8SAIf.jpg",
-      "https://image.tmdb.org/t/p/w780/bUql0jf0LOz0U9OlbwlU0tPNcrQ.jpg",
-      "https://image.tmdb.org/t/p/w780/1vs9lbjKBNAGnZy3E5rBA3SBsyK.jpg"
-    ],
-    "episodes": null
-  },
   "count": 187,
   "dialogues": 1492
 }

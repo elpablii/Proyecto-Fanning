@@ -2,6 +2,19 @@
   "title": "Glass",
   "level": "B2",
   "englishAnalysis": "El vocabulario incluye jerga médica y psiquiátrica debido al entorno institucional, así como términos de cómics y superhéroes tratados desde una perspectiva clínica. El diálogo oscila entre tonos analíticos y fuertemente dramáticos.",
+  "tmdb": {
+    "overview": "Un guardia de seguridad utiliza sus habilidades sobrehumanas para dar con un hombre perturbado que tiene veinticuatro personalidades.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+      "https://image.tmdb.org/t/p/w780/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+      "https://image.tmdb.org/t/p/w780/iRJnw5OpueLhrYMnCxdydogVHUg.jpg",
+      "https://image.tmdb.org/t/p/w780/8nGGk6pmmMfVrUFHrQvBQlWEvh4.jpg",
+      "https://image.tmdb.org/t/p/w780/oAhIC1m7YhmB4Vtn1V3KghfjlRx.jpg",
+      "https://image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
   "vocabulary": [
     {
       "word": "Bump into",
@@ -356,18 +369,6 @@
       "translation": "totalmente, completamente"
     }
   ],
-  "tmdb": {
-    "overview": "Un guardia de seguridad utiliza sus habilidades sobrehumanas para dar con un hombre perturbado que tiene veinticuatro personalidades.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
-      "https://image.tmdb.org/t/p/w780/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
-      "https://image.tmdb.org/t/p/w780/iRJnw5OpueLhrYMnCxdydogVHUg.jpg",
-      "https://image.tmdb.org/t/p/w780/8nGGk6pmmMfVrUFHrQvBQlWEvh4.jpg",
-      "https://image.tmdb.org/t/p/w780/oAhIC1m7YhmB4Vtn1V3KghfjlRx.jpg",
-      "https://image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg"
-    ],
-    "episodes": null
-  },
   "count": 88,
   "dialogues": 1287
 }

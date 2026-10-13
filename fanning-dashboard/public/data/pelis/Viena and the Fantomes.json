@@ -2,6 +2,14 @@
   "title": "Viena and the Fantomes",
   "level": "B2",
   "englishAnalysis": "Inglés de la escena musical underground/punk de los años 80. Lenguaje nómada, drogas, rebelión y arte, con acentos americanos desaliñados y poco articulados.",
+  "tmdb": {
+    "overview": "Una adolescente inicia un viaje de autodescubrimiento y supervivencia como parte de un convoy de una banda de punk, a través de Estados Unidos en los años 80.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg",
   "vocabulary": [
     {
       "word": "Leeches",
@@ -104,13 +112,6 @@
       "translation": "afianzar"
     }
   ],
-  "tmdb": {
-    "overview": "Una adolescente inicia un viaje de autodescubrimiento y supervivencia como parte de un convoy de una banda de punk, a través de Estados Unidos en los años 80.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
-    ],
-    "episodes": null
-  },
   "count": 25,
   "dialogues": 912
 }

@@ -2,9 +2,10 @@ import os
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
 DATA = os.path.join(RAIZ, 'fanning-dashboard', 'public', 'data')
-CATALOGO = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'catalogo.json')
 REPORTE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'reporte_ultima_actualizacion.md')
-ANIOS = ['2023', '2024', '2025', '2026', '2027']
+# Los años salen de las carpetas de Vocabularios/ (2023, 2024, ...): un año nuevo no requiere tocar código.
+ANIOS = sorted(d for d in os.listdir(os.path.join(RAIZ, 'Vocabularios'))
+               if d.isdigit() and os.path.isdir(os.path.join(RAIZ, 'Vocabularios', d)))
 
 
 def rel(ruta):

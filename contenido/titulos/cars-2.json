@@ -1,0 +1,28 @@
+{
+  "titulo": "Cars 2",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Inglés dinámico que combina el acento sureño y campechano ('redneck') de Mater con vocabulario internacional de espionaje, tácticas, armas secretas y expresiones británicas.",
+  "sinopsis": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+  "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "https://image.tmdb.org/t/p/w780/jrlq8lWxB3OKjKwJ0kCjtg5fIII.jpg",
+    "https://image.tmdb.org/t/p/w780/8T4Cc2Cq5xkYcKHoiVlhvIjOeIA.jpg",
+    "https://image.tmdb.org/t/p/w780/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+    "https://image.tmdb.org/t/p/w780/2SSZlcXtliCi45Nd2LAs6tec0oc.jpg",
+    "https://image.tmdb.org/t/p/w780/mDb6HtfFYe8gzxo8d6S1mFkzoBW.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Cars II (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2025/Palabras desconocidas de Cars II (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Cars 2 to improve the vocabulary in English.pdf"
+    ]
+  }
+}

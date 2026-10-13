@@ -1,0 +1,27 @@
+{
+  "titulo": "Schindler's List",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+18",
+  "tmdb": null,
+  "analisis": "Una obra que maneja un tono serio y solemne. El vocabulario es formal y cargado de terminología histórica, empresarial y militar de la Segunda Guerra Mundial. Requiere un nivel más avanzado debido a la carga dramática y a los variados acentos europeos.",
+  "sinopsis": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.",
+  "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "https://image.tmdb.org/t/p/w780/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+    "https://image.tmdb.org/t/p/w780/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+    "https://image.tmdb.org/t/p/w780/zZtNb5DZ9QXTh3I4HXq9o9Phbs9.jpg",
+    "https://image.tmdb.org/t/p/w780/gXvNfaetPlZt3PUPsBFcfZuoUFe.jpg",
+    "https://image.tmdb.org/t/p/w780/rCfpnBNbPZ9UIkl3ktg48suWuf1.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Schindler's List (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Schindler's List to improve the vocabulary in English.pdf"
+    ]
+  }
+}

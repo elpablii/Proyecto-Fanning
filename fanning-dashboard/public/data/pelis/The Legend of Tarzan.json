@@ -2,6 +2,19 @@
   "title": "The Legend of Tarzan",
   "level": "B2",
   "englishAnalysis": "Ofrece una interesante dicotomía: por un lado, el inglés aristocrático británico de la Inglaterra victoriana ('lord', 'civilized', 'estate'); por otro, un lenguaje más crudo, primitivo y táctico relacionado con la supervivencia y el imperialismo en la selva africana.",
+  "tmdb": {
+    "overview": "Tarzán, ya acostumbrado a la vida en Londres, es llamado de vuelta a su antiguo hogar en la selva para investigar las actividades que se llevan a cabo en un campamento minero.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+      "https://image.tmdb.org/t/p/w780/uFKCqo7Ak7mnsHhpaYjMZQEiMdg.jpg",
+      "https://image.tmdb.org/t/p/w780/d9H2nXfKslf6B1cm7UtPBKhtUgA.jpg",
+      "https://image.tmdb.org/t/p/w780/kv2pCPUewLEcYk1jArn3HmyvSRn.jpg",
+      "https://image.tmdb.org/t/p/w780/Afi8IUQUGynmhPMEyFdyGiQft1a.jpg",
+      "https://image.tmdb.org/t/p/w780/sIZUWHQvrDzVcgBbJcjs3LUtbUp.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
   "vocabulary": [
     {
       "word": "Guns cocking",
@@ -596,18 +609,6 @@
       "translation": "meterse en"
     }
   ],
-  "tmdb": {
-    "overview": "Tarzán, ya acostumbrado a la vida en Londres, es llamado de vuelta a su antiguo hogar en la selva para investigar las actividades que se llevan a cabo en un campamento minero.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
-      "https://image.tmdb.org/t/p/w780/uFKCqo7Ak7mnsHhpaYjMZQEiMdg.jpg",
-      "https://image.tmdb.org/t/p/w780/d9H2nXfKslf6B1cm7UtPBKhtUgA.jpg",
-      "https://image.tmdb.org/t/p/w780/kv2pCPUewLEcYk1jArn3HmyvSRn.jpg",
-      "https://image.tmdb.org/t/p/w780/Afi8IUQUGynmhPMEyFdyGiQft1a.jpg",
-      "https://image.tmdb.org/t/p/w780/sIZUWHQvrDzVcgBbJcjs3LUtbUp.jpg"
-    ],
-    "episodes": null
-  },
   "count": 148,
   "dialogues": 922
 }

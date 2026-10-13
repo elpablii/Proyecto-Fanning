@@ -1,0 +1,27 @@
+{
+  "titulo": "Coraline",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE+7",
+  "tmdb": null,
+  "analisis": "Ofrece un inglés encantador pero inquietante. Destacan las estructuras curiosas, modismos ligeramente pasados de moda y el tono de fantasía oscura. Muy útil para vocabulario doméstico y descriptivo inusual.",
+  "sinopsis": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+  "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "https://image.tmdb.org/t/p/w780/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
+    "https://image.tmdb.org/t/p/w780/91BAmpop4AJ5Pf7E0zuQiHdSV4Q.jpg",
+    "https://image.tmdb.org/t/p/w780/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+    "https://image.tmdb.org/t/p/w780/rExCWJXzGYIZduVikBzhBEMPMLM.jpg",
+    "https://image.tmdb.org/t/p/w780/dcGsw5wY5vgpkcOLZnvl8OUNf0A.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Coraline (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Coraline to improve the vocabulary in English.pdf"
+    ]
+  }
+}

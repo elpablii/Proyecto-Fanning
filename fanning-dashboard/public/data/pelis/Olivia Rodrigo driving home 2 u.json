@@ -2,6 +2,19 @@
   "title": "Olivia Rodrigo driving home 2 u",
   "level": "B2",
   "englishAnalysis": "Inglés juvenil contemporáneo, muy documental e introspectivo. Está lleno de lenguaje emocional real sobre la composición musical, las presiones de la fama y reflexiones adolescentes.",
+  "tmdb": {
+    "overview": "Documental sobre la producción del álbum \"SOUR\" de Olivia Rodrigo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
+      "https://image.tmdb.org/t/p/w780/bSkwdGOurHVHMuuXtdISSpaR4Ke.jpg",
+      "https://image.tmdb.org/t/p/w780/6NtVCArU9ui5BcvomxjeOkzuvdA.jpg",
+      "https://image.tmdb.org/t/p/w780/odjR9ztbhZKYVatzbRABoREB2V5.jpg",
+      "https://image.tmdb.org/t/p/w780/aDkDDo6OEnfys5fK9yq8AokboQ7.jpg",
+      "https://image.tmdb.org/t/p/w780/m0ec6o8cMtkv1ywNIOMbeWmk2LO.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
   "vocabulary": [
     {
       "word": "Super angsty songs",
@@ -316,18 +329,6 @@
       "translation": "de cabello claro"
     }
   ],
-  "tmdb": {
-    "overview": "Documental sobre la producción del álbum \"SOUR\" de Olivia Rodrigo.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
-      "https://image.tmdb.org/t/p/w780/bSkwdGOurHVHMuuXtdISSpaR4Ke.jpg",
-      "https://image.tmdb.org/t/p/w780/6NtVCArU9ui5BcvomxjeOkzuvdA.jpg",
-      "https://image.tmdb.org/t/p/w780/odjR9ztbhZKYVatzbRABoREB2V5.jpg",
-      "https://image.tmdb.org/t/p/w780/aDkDDo6OEnfys5fK9yq8AokboQ7.jpg",
-      "https://image.tmdb.org/t/p/w780/m0ec6o8cMtkv1ywNIOMbeWmk2LO.jpg"
-    ],
-    "episodes": null
-  },
   "count": 78,
   "dialogues": 1042
 }

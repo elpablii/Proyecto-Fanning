@@ -1,0 +1,65 @@
+{
+  "titulo": "Obi-Wan Kenobi",
+  "tipo": "serie",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "El vocabulario de Obi-Wan Kenobi se sumerge en el lenguaje militar imperial, terminología de ciencia ficción intergaláctica, jerga de los bajos fondos de la galaxia y un tono solemne Jedi.",
+  "sinopsis": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
+  "poster": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+    "https://image.tmdb.org/t/p/w780/vNPm1WG15IJHpsemb9ZRurm4ZC4.jpg",
+    "https://image.tmdb.org/t/p/w780/7huDoLPgTumapij4WJQUvNwXEJh.jpg",
+    "https://image.tmdb.org/t/p/w780/oJ1KKAKiIuBA3s1tvtEa7NlQ2XM.jpg",
+    "https://image.tmdb.org/t/p/w780/a69aEVkHifkL154uUpZbLgSDmB0.jpg",
+    "https://image.tmdb.org/t/p/w780/8H64YmIYxpRJgSTuLUGRUSyi2kN.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Obi-Wan Kenobi (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from Obi-Wan Kenobi to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "Obi-Wan Kenobi (Part I)",
+      "nivel": "B1",
+      "titulo": "Part I",
+      "foto": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
+    },
+    "S01E02": {
+      "nombre": "Obi-Wan Kenobi (Part II)",
+      "nivel": "B1",
+      "titulo": "Part II",
+      "foto": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
+    },
+    "S01E03": {
+      "nombre": "Obi-Wan Kenobi (Part III)",
+      "nivel": "B1",
+      "titulo": "Part III",
+      "foto": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
+    },
+    "S01E04": {
+      "nombre": "Obi-Wan Kenobi (Part IV)",
+      "nivel": "B1",
+      "titulo": "Part IV",
+      "foto": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
+    },
+    "S01E05": {
+      "nombre": "Obi-Wan Kenobi (Part V)",
+      "nivel": "B1",
+      "titulo": "Part V",
+      "foto": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
+    },
+    "S01E06": {
+      "nombre": "Obi-Wan Kenobi (Part VI)",
+      "nivel": "B1",
+      "titulo": "Part VI",
+      "foto": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "Cenicienta",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 11224
+  },
+  "analisis": "El clásico de Disney ofrece un inglés pulcro, melódico y extremadamente poético. Las expresiones formales de la nobleza se mezclan con diálogos musicales juguetones. Ideal para aprender vocabulario de los cuentos de hadas tradicionales.",
+  "sinopsis": "Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.",
+  "poster": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+    "https://image.tmdb.org/t/p/w780/wQraxOsaq0NwTO9rSwLo4Nc8hVG.jpg",
+    "https://image.tmdb.org/t/p/w780/nFp75h4AjvzvqB7RiGW6NtdcYMl.jpg",
+    "https://image.tmdb.org/t/p/w780/rH0DPF7pB35jxLxKb3JRUgCrrnp.jpg",
+    "https://image.tmdb.org/t/p/w780/ddKw1KuPPa0WkZDLMeJ1swJaera.jpg",
+    "https://image.tmdb.org/t/p/w780/uwp72z4UR1SDUXgkE8OBis2TdKB.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Cenicienta (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Cinderella to improve the vocabulary in English.pdf"
+    ]
+  }
+}

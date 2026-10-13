@@ -1,0 +1,30 @@
+{
+  "titulo": "Emergency",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 819309
+  },
+  "analisis": "",
+  "sinopsis": "Listos para una noche de fiesta, un grupo de estudiantes universitarios latinos debe sopesar los pros y los contras de llamar a la policía cuando se enfrenta a una emergencia.",
+  "poster": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jduyPEJitZ26m857yx4i1nee7C5.jpg",
+    "https://image.tmdb.org/t/p/w780/g28iL4BH39VT9Kb74U0WICZQZwd.jpg",
+    "https://image.tmdb.org/t/p/w780/tikziKNfl2yMFnq6dA8nRwmGYS6.jpg",
+    "https://image.tmdb.org/t/p/w780/ciuEUB7TAHQr60QG5XRlQYgnio5.jpg",
+    "https://image.tmdb.org/t/p/w780/y7dctTtg48evBhkT07KNikYmuGi.jpg",
+    "https://image.tmdb.org/t/p/w780/t9pmSqiQKn8kVLMvLBK89FSJ5tn.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Emergency (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Emergency to improve the vocabulary in English.pdf"
+    ]
+  }
+}

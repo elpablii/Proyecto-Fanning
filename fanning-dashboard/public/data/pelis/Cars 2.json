@@ -2,6 +2,19 @@
   "title": "Cars 2",
   "level": "B2",
   "englishAnalysis": "Inglés dinámico que combina el acento sureño y campechano ('redneck') de Mater con vocabulario internacional de espionaje, tácticas, armas secretas y expresiones británicas.",
+  "tmdb": {
+    "overview": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/robYRZk9LxJTwD7GlZCginji5k.jpg",
+      "https://image.tmdb.org/t/p/w780/jrlq8lWxB3OKjKwJ0kCjtg5fIII.jpg",
+      "https://image.tmdb.org/t/p/w780/8T4Cc2Cq5xkYcKHoiVlhvIjOeIA.jpg",
+      "https://image.tmdb.org/t/p/w780/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+      "https://image.tmdb.org/t/p/w780/2SSZlcXtliCi45Nd2LAs6tec0oc.jpg",
+      "https://image.tmdb.org/t/p/w780/mDb6HtfFYe8gzxo8d6S1mFkzoBW.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
   "vocabulary": [
     {
       "word": "A flash transmission",
@@ -976,18 +989,6 @@
       "translation": "¡Que me parta un rayo!, ¡Me cago en la leche!"
     }
   ],
-  "tmdb": {
-    "overview": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/robYRZk9LxJTwD7GlZCginji5k.jpg",
-      "https://image.tmdb.org/t/p/w780/jrlq8lWxB3OKjKwJ0kCjtg5fIII.jpg",
-      "https://image.tmdb.org/t/p/w780/8T4Cc2Cq5xkYcKHoiVlhvIjOeIA.jpg",
-      "https://image.tmdb.org/t/p/w780/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
-      "https://image.tmdb.org/t/p/w780/2SSZlcXtliCi45Nd2LAs6tec0oc.jpg",
-      "https://image.tmdb.org/t/p/w780/mDb6HtfFYe8gzxo8d6S1mFkzoBW.jpg"
-    ],
-    "episodes": null
-  },
   "count": 243,
   "dialogues": 1553
 }

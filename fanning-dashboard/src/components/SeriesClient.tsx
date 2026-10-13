@@ -3,8 +3,7 @@
 import React, { useState } from 'react';
 import { miles } from '@/lib/formato';
 import { useRouter } from 'next/navigation';
-import { Loader2, ArrowLeft, Film, PlayCircle, BookOpen, Quote } from 'lucide-react';
-import FlashcardViewer from '@/components/ui/FlashcardViewer';
+import { ArrowLeft, Film, PlayCircle, BookOpen, Quote } from 'lucide-react';
 
 export default function SeriesClient({ slug, initialMovieData, initialExtraData }: { slug: string, initialMovieData: any, initialExtraData: any }) {
   const router = useRouter();
@@ -238,8 +237,9 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                   }
               }
               
-              // Map to TMDB (TMDB specials might use the special number directly)
-              const tmdbEp = episodes[globalEpNum];
+              // Datos de TMDB y del episodio, buscados por su código ("S02E01"), no por posición
+              const tmdbEp = ep.code ? episodes[ep.code] : undefined;
+              const extraEp = extraData?.episodes?.find((e: any) => (ep.code && e.code === ep.code) || e.name === ep.name);
               
               let displayName = ep.name.replace(decodedTitle, "").replace(/[()]/g, "").trim() || ep.name;
               if (tmdbEp && tmdbEp.name && !tmdbEp.name.startsWith("Episodio")) {
@@ -320,7 +320,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                   </div>
 
                   {/* Expand / Collapse Button */}
-                  {(tmdbEp?.overview || (extraData?.episodes && extraData.episodes.find((e: any) => e.name === ep.name)?.englishAnalysis)) && (
+                  {(tmdbEp?.overview || extraEp?.englishAnalysis) && (
                     <button 
                       onClick={() => setExpandedEp(expandedEp === idx ? null : idx)}
                       className="mt-4 text-sm text-purple-300 hover:text-purple-200 flex items-center justify-center gap-1 transition-colors"
@@ -340,7 +340,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       )}
                       
                       {(() => {
-                        const match = extraData?.episodes?.find((e: any) => e.name === ep.name || ep.name.includes(e.name) || displayName.includes(e.name));
+                        const match = extraEp;
                         return match?.englishAnalysis ? (
                           <div className="bg-purple-900/20 border border-purple-500/20 p-3 rounded-xl mt-2">
                             <strong className="text-purple-300 block mb-1">Análisis del Inglés:</strong>
@@ -356,7 +356,7 @@ export default function SeriesClient({ slug, initialMovieData, initialExtraData 
                       <div className="mt-4 pt-4 border-t border-white/10">
                           <button
                               onClick={() => {
-                                  const match = extraData.episodes.find((e: any) => e.name === ep.name || ep.name.includes(e.name) || displayName.includes(e.name));
+                                  const match = extraEp;
                                   if (match && match.vocabulary && match.vocabulary.length > 0) {
                                       setFlashcards(match.vocabulary);
                                       setCurrentCardIndex(0);

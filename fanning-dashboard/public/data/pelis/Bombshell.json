@@ -2,6 +2,19 @@
   "title": "Bombshell",
   "level": "C1",
   "englishAnalysis": "Presenta un inglés americano corporativo y periodístico ('newsroom'). El lenguaje es rápido, incisivo e incluye mucha jerga de los medios de comunicación, política y televisión ('anchor', 'network', 'harassment', 'NDA'). Es ideal para familiarizarse con el inglés del entorno profesional.",
+  "tmdb": {
+    "overview": "Cuando Gretchen Carlson golpea al fundador de Fox News, Roger Ailes, con una demanda alegando acoso sexual, nadie podía predecir lo que sucedería después. Su decisión lleva a la corresponsal de Fox News, Megyn Kelly, a presentar su propia historia, así como a muchas otras mujeres, incitando a un movimiento que reverbera en todo el mundo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+      "https://image.tmdb.org/t/p/w780/gfBEe58moFHxr79kyauGspUJg2v.jpg",
+      "https://image.tmdb.org/t/p/w780/k478iJUKiqrxwJLOlMmZaaSlukr.jpg",
+      "https://image.tmdb.org/t/p/w780/ecIbWpSls6VQWZcwrXLRiHsjORv.jpg",
+      "https://image.tmdb.org/t/p/w780/j9hNv87BYpqTRFRcho0AyFiw4Vb.jpg",
+      "https://image.tmdb.org/t/p/w780/9DRyyMRczogOZh8uNiYIZzC6VQF.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
   "vocabulary": [
     {
       "word": "Get away with it",
@@ -972,18 +985,6 @@
       "translation": "amordazar"
     }
   ],
-  "tmdb": {
-    "overview": "Cuando Gretchen Carlson golpea al fundador de Fox News, Roger Ailes, con una demanda alegando acoso sexual, nadie podía predecir lo que sucedería después. Su decisión lleva a la corresponsal de Fox News, Megyn Kelly, a presentar su propia historia, así como a muchas otras mujeres, incitando a un movimiento que reverbera en todo el mundo.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
-      "https://image.tmdb.org/t/p/w780/gfBEe58moFHxr79kyauGspUJg2v.jpg",
-      "https://image.tmdb.org/t/p/w780/k478iJUKiqrxwJLOlMmZaaSlukr.jpg",
-      "https://image.tmdb.org/t/p/w780/ecIbWpSls6VQWZcwrXLRiHsjORv.jpg",
-      "https://image.tmdb.org/t/p/w780/j9hNv87BYpqTRFRcho0AyFiw4Vb.jpg",
-      "https://image.tmdb.org/t/p/w780/9DRyyMRczogOZh8uNiYIZzC6VQF.jpg"
-    ],
-    "episodes": null
-  },
   "count": 242,
   "dialogues": 2136
 }

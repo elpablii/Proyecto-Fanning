@@ -1,0 +1,27 @@
+{
+  "titulo": "Split",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "Un desafío fascinante: el actor principal cambia constantemente de acento, vocabulario y tono de voz (desde un niño hasta un líder culto y una bestia). Excelente para la psicología y la inflexión de voz.",
+  "sinopsis": "Tres niñas son secuestradas por un hombre al que se le diagnosticó 23 personalidades distintas. Deben tratar de escapar antes de la aparente aparición de un espantoso nuevo 24.",
+  "poster": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+    "https://image.tmdb.org/t/p/w780/bdUzIGXTSclcX2ELHS9HHbmQmMI.jpg",
+    "https://image.tmdb.org/t/p/w780/kEfArFlXYSCftxthwjn91ih3vyW.jpg",
+    "https://image.tmdb.org/t/p/w780/cw7HFI2szsPJLXZ3NexgCYR4sJW.jpg",
+    "https://image.tmdb.org/t/p/w780/t5Vs3e4kDflQHJKDw3S2y3F8avI.jpg",
+    "https://image.tmdb.org/t/p/w780/hKLn675wD7KrKuYFMwUHAIt6cn7.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Split (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Split to improve the vocabulary in English.pdf"
+    ]
+  }
+}

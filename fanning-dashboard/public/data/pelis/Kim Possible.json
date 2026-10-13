@@ -1,10 +1,447 @@
 {
   "title": "Kim Possible",
-  "overview": "Serie que narra las aventuras de esta heroína en miniatura que compagina sus hazañas con las clases en el instituto. Todo comienza cuando Kim publica en su web que es capaz de enfrentarse a todo. Aunque ella se refería a tareas como hacer de canguro o cortar el césped, pronto comenzará a recibir e-mails desde todos los rincones del mundo para enfrentarse a los peores villanos que intentan hacerse con el control del planeta.",
+  "level": "B2",
   "englishAnalysis": "El lenguaje de Kim Possible presenta un vocabulario adolescente propio de la década de los 2000s, incluyendo expresiones de instituto (slang) combinadas con jerga de agentes secretos, misiones tácticas y planes malvados. Es ideal para practicar un inglés dinámico, juvenil y lleno de modismos informales.",
+  "tmdb": {
+    "overview": "Serie que narra las aventuras de esta heroína en miniatura que compagina sus hazañas con las clases en el instituto. Todo comienza cuando Kim publica en su web que es capaz de enfrentarse a todo. Aunque ella se refería a tareas como hacer de canguro o cortar el césped, pronto comenzará a recibir e-mails desde todos los rincones del mundo para enfrentarse a los peores villanos que intentan hacerse con el control del planeta.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
+      "https://image.tmdb.org/t/p/w780/olYeeEi5aa197P0s8ETXyriP9Ih.jpg",
+      "https://image.tmdb.org/t/p/w780/mvqepnp9MMBBRkgQ7Kt6kcFbBHu.jpg",
+      "https://image.tmdb.org/t/p/w780/wCdCMP4RQ5kuEdk9zwZF4p4p7wg.jpg",
+      "https://image.tmdb.org/t/p/w780/3wVv1UQNQVBb2d22oOo4WDwkFTV.jpg",
+      "https://image.tmdb.org/t/p/w780/9rNRstq0ZLnPNifxom4zMmwVXcb.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Crush",
+        "still_path": "https://image.tmdb.org/t/p/w500/uSyWkqkmlk5YzTu4dq4ctEhlx9K.jpg",
+        "overview": "Kim intenta evitar que el Dr. Drakken utilice tecnología de juegos japonesa robada para construir un robot gigante. Sin embargo, luchar contra los malos no es nada comparado con invitar a su crush, Josh Mankey ( Breckin Meyer ), a un próximo baile escolar."
+      },
+      "S01E02": {
+        "name": "Sink or Swim",
+        "still_path": "https://image.tmdb.org/t/p/w500/pmHQgxgx6oaYzaFvgX6KayKTDW7.jpg",
+        "overview": "De camino a una competencia de porristas, el equipo de porristas de Middleton se queda varado en un antiguo campamento con el que Ron tiene una larga y mala historia. Se enfrenta a Gill, un mutante anfibio que, cuando era humano, constantemente molestaba a Ron, pero que ahora está decidido a vengarse de él por haber provocado su transformación sin darse cuenta."
+      },
+      "S01E03": {
+        "name": "The New Ron",
+        "still_path": "https://image.tmdb.org/t/p/w500/sPOKheqW0jsbvmon35loCHR7oOm.jpg",
+        "overview": "Cuando Ron se encuentra atrayendo la atención con un corte de pelo que Kim lo convenció de hacerse, intenta transformar su personalidad también, pero desarrolla una obsesión malsana con su cabello. Cuando él y Kim van a Francia a comprar más gel para el cabello, Ron, sin saberlo, inspira al solitario multimillonario Señor Senior, Jr. a emprender una vida delictiva, y ahora Kim y el recién cambiado Ron deben salvar a Francia de un apagón."
+      },
+      "S01E04": {
+        "name": "Tick-Tick-Tick",
+        "still_path": "https://image.tmdb.org/t/p/w500/fn9wuXIuqutrUBOnZfwotThHgDi.jpg",
+        "overview": "Kim tiene que encajar en su vida frustrando el plan de Drakken de usar tecnología nano-explosiva robada y la detención después de que Ron, inadvertidamente, la hace reprobar la política de tardanza de \"tres strikes\" del maestro sustituto Sr. Barkin."
+      },
+      "S01E05": {
+        "name": "Downhill",
+        "still_path": "https://image.tmdb.org/t/p/w500/rTkxBNwQmmzlEZVJv1W9BfWn4MD.jpg",
+        "overview": "Un viaje de esquí de la escuela conduce a la \"nación de la humillación\" cuando Bonnie logra colocar a los padres de Kim como acompañantes. Mientras lucha con la presencia de sus padres, Kim también tiene que enfrentarse a un genetista deshonesto llamado DNAmy y sus monstruos mutantes."
+      },
+      "S01E06": {
+        "name": "Bueno Nacho",
+        "still_path": "https://image.tmdb.org/t/p/w500/fr3mA50t8s8NxQA97bPLzjOH543.jpg",
+        "overview": "Kim acepta un trabajo en Bueno Nacho para pagar una chaqueta de moda, convenciendo al reacio Ron de que le haga compañía solicitándolo también. Cuando la carrera de Ron comienza y se convierte en asistente del gerente, Drakken planea destruir Wisconsin desde el interior de una rueda gigante de queso , capturando a Kim en el proceso. Para salvarla, Ron debe elegir entre su carrera o su deber como compañero."
+      },
+      "S01E07": {
+        "name": "Number One",
+        "still_path": "https://image.tmdb.org/t/p/w500/kb96LKRLXYRGd5AmOgD2S1rPxtJ.jpg",
+        "overview": "La organización internacional de lucha contra el crimen, Global Justice, empareja a Kim con su principal agente snob para perseguir al secuestrador de un destacado científico, que se reveló como el malvado golfista escocés Duff Killigan. Sintiendo debilidad, Bonnie aprovecha la oportunidad para hacer una jugada para reemplazar a Kim como capitana de porristas."
+      },
+      "S01E08": {
+        "name": "Mind Games",
+        "still_path": "https://image.tmdb.org/t/p/w500/u2HphgAKcqLoqHz2KZxxn41G7JJ.jpg",
+        "overview": "El último plan de Drakken lleva accidentalmente a que Kim y Ron cambien de cuerpo . Kim tiene una idea de lo que es ser un paria impopular mientras Ron descubre la vida con el peso de la responsabilidad real."
+      },
+      "S01E09": {
+        "name": "Attack of the Killer Bebes",
+        "still_path": "https://image.tmdb.org/t/p/w500/gAhvcwS8sTCObeq0btXdwhmn0RT.jpg",
+        "overview": "Los robots que son sospechosamente similares a los diseñados por Drew Lipsky (Dr. Drakken), uno de los antiguos compañeros de universidad del Dr. Possible, secuestran a sus amigos uno por uno. Mientras tanto, Ron se une al equipo de porristas como mascota, para disgusto de Kim."
+      },
+      "S01E10": {
+        "name": "Royal Pain",
+        "still_path": "https://image.tmdb.org/t/p/w500/7GsCdMXtQ1NuacJnjyWbPCmG0on.jpg",
+        "overview": "Kim permite que el esnob Príncipe de Rodeghan se esconda en Middleton para protegerse, y termina compitiendo contra ella en las elecciones escolares, que se complican por la llegada de una organización empeñada en derrocar a la monarquía de Rodeghan."
+      },
+      "S01E11": {
+        "name": "Coach Possible",
+        "still_path": "https://image.tmdb.org/t/p/w500/p6nvBOaWx1Z1NiarXWW9mlBq9JZ.jpg",
+        "overview": "Después de que el Dr. James Possible se rompe la pierna, Kim se hace cargo de entrenar a su equipo de fútbol y vuelve locos a los gemelos y a los otros jugadores con su ultracompetitividad. Entre la práctica, ella y Ron intentan recuperar animales animatrónicos de última generación y un gas estilo neón de los mayores ladrones, uno de los cuales está ideando su propio plan malvado por primera vez."
+      },
+      "S01E12": {
+        "name": "Pain King vs. Cleopatra",
+        "still_path": "https://image.tmdb.org/t/p/w500/vpHFW3A8yZKRSbHidXLAudVIVYE.jpg",
+        "overview": "Kim y Ron obtienen entradas para el gran partido entre los luchadores Pain King y Steel Toe. Ron, incapaz de entusiasmar a Kim con el evento, teme que un nuevo amigo se haya interpuesto entre ellos. Sin embargo, un nuevo retador planea estrellar el partido con un amuleto mágico que lo imbuirá con los poderes de Anubis."
+      },
+      "S01E13": {
+        "name": "Monkey Fist Strikes",
+        "still_path": "https://image.tmdb.org/t/p/w500/zwU4BVSxBAMvb0LkUgE1kkZLgjh.jpg",
+        "overview": "Kim y Ron ayudan al aventurero Lord Monty Fiske a recuperar una estatua de mono, aparentemente para regalar a un museo. Fiske, sin embargo, lo usa junto con el resto del set para transformarse en un temible maestro de kung fu. Cuando Kim se ve obligada a visitar a su primo nerd Larry, todo depende de Ron para detener a Monkey Fist."
+      },
+      "S01E14": {
+        "name": "October 31st",
+        "still_path": "https://image.tmdb.org/t/p/w500/uWSDOSqevjNrmeGGVI6E4gfSOal.jpg",
+        "overview": "Mientras lucha contra Drakken, Shego y Duff Killigan, Kim accidentalmente tiene un extraño brazalete unido a su muñeca. Ella descubre que la pulsera crece cada vez que miente, lo que la lleva a la vergüenza cuando intenta salirse de una serie de compromisos para asistir a una fiesta de Halloween con Josh Mankey."
+      },
+      "S01E15": {
+        "name": "All the News",
+        "still_path": "https://image.tmdb.org/t/p/w500/7odiPUzbBnyR3dxRLEwJ6KnZSpV.jpg",
+        "overview": "Ron manipula una cita para convertirla en una primicia, lo que lleva a Kim a una cita obligada con el mariscal de campo estrella de Middleton High, Brick Flagg, y se da a sí mismo un punto dulce en el periódico escolar. Sin embargo, su carrera periodística se mete en problemas cuando acusa a la temeraria televisiva Adrena Lynn de fingir sus acrobacias y ella jura venganza."
+      },
+      "S01E16": {
+        "name": "Kimitation Nation",
+        "still_path": "https://image.tmdb.org/t/p/w500/2TQOEVoqayskwPHRGVNy9PIArAq.jpg",
+        "overview": "Un diseñador copia el atuendo de la misión de Kim y lo convierte en la próxima tendencia de moda. Aunque inicialmente tenía la esperanza de que la repentina popularidad de su ropa le permitiera ser aceptada por las personas mayores, Kim Style finalmente es copiada por todas las niñas e incluso algunos niños. Drakken, impresionado por esta inspiración, intenta crear un ejército de clones de Kim Possible para destruir a su enemigo adolescente."
+      },
+      "S01E17": {
+        "name": "The Twin Factor",
+        "still_path": "https://image.tmdb.org/t/p/w500/irQfrP5rWaVyMQmsAFw27fb1Pn4.jpg",
+        "overview": "Drakken roba tecnología de control mental que tiene la intención de replicar para apoderarse del mundo. Cuando sus padres se van de retiro, Kim se ve obligada a llevar a sus hermanos gemelos para detener a Drakken."
+      },
+      "S01E18": {
+        "name": "Animal Attraction",
+        "still_path": "https://image.tmdb.org/t/p/w500/jUusmbUsM2vier7M41gc5YSSKi2.jpg",
+        "overview": "Kim se enamora de la última moda de Middleton High, Animology, que pretende predecir la personalidad y la compatibilidad romántica. En el camino, tiene que detener el plan de Señor Senior, Sr. para destruir el club de multimillonarios del que fue expulsado y también lidiar con la predicción de Animology de que Señor Senior, Jr. es su alma gemela."
+      },
+      "S01E19": {
+        "name": "Monkey Ninjas in Space",
+        "still_path": "https://image.tmdb.org/t/p/w500/uKgsgVkp9MgZ92o33FdGqf3nyqx.jpg",
+        "overview": "Basado en la predicción del Monkey Monk, Monkey Fist secuestra al mono más inteligente del mundo y usa el centro espacial Middleton para lanzarse al espacio mientras Kim enfrenta el comportamiento humillante de su padre y Ron enfrenta su miedo a los monos."
+      },
+      "S01E20": {
+        "name": "Ron the Man",
+        "still_path": "https://image.tmdb.org/t/p/w500/hyyt8KeQkUnn2NpAmq5eoCvDJcZ.jpg",
+        "overview": "Ron se sorprende al descubrir frente a toda la clase del Sr. Barkin que su rabino nunca firmó su certificado de bar mitzvah. Para demostrar su hombría, usa un anillo que aumenta la fuerza creado por Hench Co. Industries. Mientras tanto, Drakken usa los otros anillos para intentar robar un invento al que el profesor Dementor ha llegado primero."
+      },
+      "S01E21": {
+        "name": "Low Budget",
+        "still_path": "https://image.tmdb.org/t/p/w500/7ncHgZBsJwIcsXP15nqQh5mbKj6.jpg",
+        "overview": "Cuando sus elegantes jeans se arruinan durante una misión, Kim se ve obligada a saltarse su ropa de diseñador de Club Banana y comprar en los grandes almacenes Smarty Mart. Mientras están allí, ella y Ron descubren el plan del empleado Frugal Lucre para usar los códigos de barras de productos caducados para destruir Internet."
+      },
+      "S02E01": {
+        "name": "Naked Genius",
+        "still_path": "https://image.tmdb.org/t/p/w500/bxRmjZX39y2B96Ml7gmEzQ5wRaK.jpg",
+        "overview": "Después de una misión para evitar que Drakken use una máquina ultrasecreta, Ron de repente comienza a exhibir un profundo conocimiento e inteligencia en su escritura de álgebra. Sin embargo, cuando Drakken lo secuestra y lo obliga a construir un dispositivo apocalíptico, Kim y el sutilmente cambiado Rufus deben salvarlo."
+      },
+      "S02E02": {
+        "name": "Grudge Match",
+        "still_path": "https://image.tmdb.org/t/p/w500/4l5n2gOfPRq05mkBtikvDUGokdo.jpg",
+        "overview": "Ron hace todo lo posible para llamar la atención de una chica bonita en el teatro. Mientras tanto, Kim descubre una conspiración en el Centro Espacial que involucra tecnología ultrasecreta, robots de batalla y un ex empleado descontento."
+      },
+      "S02E03": {
+        "name": "Two to Tutor",
+        "still_path": "https://image.tmdb.org/t/p/w500/aTmlwNvPZXciFibrhpj4X1bsyEg.jpg",
+        "overview": "Un Ron absurdamente habilidoso enseña a un Kim irremediablemente despistado en el arte de cocinar en su nueva clase electiva mientras Shego enseña a Señor Senior, Jr. en el arte de la villanía. Cuando el dúo se propuso robar una receta valiosa, Kim tiene que poner a prueba las lecciones que ha aprendido."
+      },
+      "S02E04": {
+        "name": "The Ron Factor",
+        "still_path": "https://image.tmdb.org/t/p/w500/fQ0o8f9HkhMgMpYoaBGe1lW4Vsk.jpg",
+        "overview": "Global Justice realiza un estudio intensivo de Ron para determinar si él es el secreto del éxito de Kim. Desafortunadamente, una organización rival malvada llamada WEE tiene sus propios planes para él."
+      },
+      "S02E05": {
+        "name": "Car Trouble",
+        "still_path": "https://image.tmdb.org/t/p/w500/cN4mnAajH1li8WwcnanEOfICaY.jpg",
+        "overview": "Después de suspender la educación del conductor, Kim recibe la visita de un vehículo artificialmente inteligente llamado Sadie, cuyo creador, el Dr. Freeman, ha sido secuestrado por Drakken para mejorar su ejército de robots."
+      },
+      "S02E06": {
+        "name": "Rufus in Show",
+        "still_path": "https://image.tmdb.org/t/p/w500/rEwj3DXGjpjG1KJtWY05n82QiyZ.jpg",
+        "overview": "Rufus se hace pasar por un perro de exhibición sin pelo peruano para que Kim pueda investigar la mansión de un maestro ladrón de joyas."
+      },
+      "S02E07": {
+        "name": "Job Unfair",
+        "still_path": "https://image.tmdb.org/t/p/w500/tYLJFbTir4kWTfr0MeBNPEqWiA.jpg",
+        "overview": "Kim sigue la pista de Drakken y Shego después de que robaron una máquina meteorológica voladora en un extraño complot para atacar Canadá. Al mismo tiempo, un desastroso asunto de trabajo la deja para lidiar con un conserje obsesivo y el misterioso maestro espía de Ron."
+      },
+      "S02E08": {
+        "name": "The Golden Years",
+        "still_path": "https://image.tmdb.org/t/p/w500/vtJa8JYzAmnGDqIXDqGVTGwZZWW.jpg",
+        "overview": "Kim intenta eludir la sobreprotección anticuada de su anciana abuela paterna 'Nana' Possible durante una visita a Florida mientras desentraña el último plan de control mental de Drakken."
+      },
+      "S02E09": {
+        "name": "Vir-Tu-Ron",
+        "still_path": "https://image.tmdb.org/t/p/w500/xO3o6R8XDYatju4C4392pXbHkaU.jpg",
+        "overview": "El mundo MMORPG de Everlot está bajo las garras de hierro de una figura malvada conocida solo como el Wraithmaster. Para impresionar a Zita, Ron juega y sobresale con los consejos expertos de Wade. Sin embargo, cuando él y Zita quedan atrapados dentro del juego, se cruza con el Wraithmaster, que también compite por sus afectos. La única esperanza de Ron es el regreso del enigmático Señor del Túnel, el único lo suficientemente fuerte como para luchar directamente contra el Maestro Espectro."
+      },
+      "S02E10": {
+        "name": "The Fearless Ferret",
+        "still_path": "https://image.tmdb.org/t/p/w500/qwkz5V5gVdpkqY3P4KwqErbaThO.jpg",
+        "overview": "En un viaje para su trabajo voluntario en el hospital, Ron se involucra en la vida de un viejo ermitaño adinerado (con la voz de Adam West ) y asume su disfraz y herramientas como el próximo Fearless Ferret luchador contra el crimen. Sin embargo, White Stripe, uno de los viejos enemigos de Fearless Ferret, regresa para vengarse. Al descubrir la nueva vida secreta de Ron, Kim descubre que hay más en su nuevo mentor de lo que parece."
+      },
+      "S02E11": {
+        "name": "Exchange",
+        "still_path": "https://image.tmdb.org/t/p/w500/h4FnGEHNbKDdBM82yrIhq1VFBep.jpg",
+        "overview": "Middleton High le da la bienvenida al misterioso Hirotaka nativo de Japón, mientras que Ron se traslada a una escuela ninja igualmente secreta en un intercambio de estudiantes. Mientras se siente como en casa, Kim y Monique se involucran en una competencia que se intensifica constantemente para ganarse el afecto del estudiante de intercambio. Mientras tanto, en Japón, Ron debe frustrar los intentos de Monkey Fist de robar el inmensamente poderoso Lotus Blade."
+      },
+      "S02E12": {
+        "name": "Rufus vs. Commodore Puddles",
+        "still_path": "https://image.tmdb.org/t/p/w500/fWH8X3PFZ2FxoAyf4qpl7M3dCT2.jpg",
+        "overview": "Drakken y Shego intentan atravesar el Área 51 con un caniche gigante contra el que un Rufus también gigantesco debe luchar, mientras que Ron usa el ataque para filmar su película de monstruos."
+      },
+      "S02E13": {
+        "name": "A Sitch in Time (Part 1: Present)",
+        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
+        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
+      },
+      "S02E14": {
+        "name": "A Sitch in Time (Part 2: Past)",
+        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
+        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
+      },
+      "S02E15": {
+        "name": "A Sitch in Time (Part 3: Future)",
+        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
+        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
+      },
+      "S02E16": {
+        "name": "A Very Possible Christmas",
+        "still_path": "https://image.tmdb.org/t/p/w500/yKadez652uYFqFsY5UCAGFw7cuD.jpg",
+        "overview": "Ron está decepcionado de que su especial de Navidad favorito , Snowman Hank , haya sido cancelado y reemplazado. Mientras tanto, como regalo para Kim, Ron decide frustrar él mismo el último plan de conquista del mundo de Drakken para que ella pueda disfrutar de las festividades con su familia. Pero cuando él y Drakken terminan varados en el Polo Norte, Kim, su familia y Shego tienen que buscarlos."
+      },
+      "S02E17": {
+        "name": "Queen Bebe",
+        "still_path": "https://image.tmdb.org/t/p/w500/6loNRzZM03P0MkzvF8HIGI49JAG.jpg",
+        "overview": "Kim se ve abrumada por compromisos y obligaciones con todos sus clubes y organizaciones escolares. Para empeorar las cosas, los Bebes robóticos de Drakken han regresado y han ganado súper velocidad."
+      },
+      "S02E18": {
+        "name": "Hidden Talent",
+        "still_path": "https://image.tmdb.org/t/p/w500/wSV5ZnwWCqPjLIi1A2DW9pZB7Di.jpg",
+        "overview": "Ron inscribe a una Kim reacia para el programa de talentos de la escuela después de que Bonnie anuncia su intención de aplastar cualquier competencia. Sus planes de cantar se interrumpen cuando Wade comienza a actuar de forma errática y hace que Kim y Ron recuperen un dispositivo de teletransportación supuestamente robado del profesor Dementor, el dúo sin saber que están siendo manipulados en secreto por Drakken y Shego."
+      },
+      "S02E19": {
+        "name": "Return to Wannaweep",
+        "still_path": "https://image.tmdb.org/t/p/w500/45ie9YJXgIogY8rrbdo27bapwAr.jpg",
+        "overview": "De camino al campamento de porristas, el equipo se encuentra nuevamente en el campamento Wannaweep para la competencia Spirit Stick. Kim se ocupa de tener a Bonnie como su compañera de literas, mientras que Ron no puede superar sus fuertes sospechas sobre una Gill aparentemente reformada y curada."
+      },
+      "S02E20": {
+        "name": "Go Team Go",
+        "still_path": "https://image.tmdb.org/t/p/w500/donkNbzkVHaupuALFrk5lrQz0y5.jpg",
+        "overview": "En un viaje a la bulliciosa Go City, un supervillano con temática de aves llamado Aviarius ataca al Bueno Nacho que Ron y Kim están de visita, y Kim gana inadvertidamente una gran fuerza cuando intenta frustrar al villano. Los dos adolescentes se involucran rápidamente con el grupo de superhéroes retirado, Team Go, quienes, Kim se entera rápidamente, son los hermanos de Shego. Pero con el Equipo Go impotente contra Aviarius y sus dos miembros más jóvenes capturados, deben contar con la ayuda de la propia Shego."
+      },
+      "S02E21": {
+        "name": "The Full Monkey",
+        "still_path": "https://image.tmdb.org/t/p/w500/mdcdYxUyCLpTNwo1IyDtXwvsjX8.jpg",
+        "overview": "Kim se une accidentalmente con un amuleto místico mientras lucha contra Monkey Fist, y comienza a transformarse en un mono. Ron debe encontrar una manera de cambiar su espalda mientras evita las complicaciones que la atención de Josh Mankey puede proporcionar."
+      },
+      "S02E22": {
+        "name": "Blush",
+        "still_path": "https://image.tmdb.org/t/p/w500/qGoVuXaci4Z1BV8f9uh2u7ENDVJ.jpg",
+        "overview": "Justo a tiempo para complicar su creciente enamoramiento por Josh Mankey, Drakken rocía a Kim con un polen raro que crea un agujero en su ombligo que la hace desaparecer cada vez más cada vez que se avergüenza. Los intentos de Ron y Wade de encontrar otra dosis de polen se complican cuando Josh invita a Kim a salir, y ahora Kim debe luchar contra Drakken y Shego sin que Josh se entere de ellos."
+      },
+      "S02E23": {
+        "name": "Partners",
+        "still_path": "https://image.tmdb.org/t/p/w500/p025I2Ey9dMtHDr7OA8rbIAPqWy.jpg",
+        "overview": "Kim, con la esperanza de no quedarse con Ron como su socio en el proyecto de ciencia, en su lugar obtiene un cerebrito que no la deja hacer nada en absoluto. Monique atrapa a Ron y rápidamente se exaspera por su pereza característica. Mientras tanto, Drakken encanta a DNAmy para que cree un monstruo gigante para él."
+      },
+      "S02E24": {
+        "name": "Oh Boyz",
+        "still_path": "https://image.tmdb.org/t/p/w500/ti1HJ7fF4tTYfevGU2xnvISlx7k.jpg",
+        "overview": "Para ayudar en la búsqueda continua de su hijo para convertirse en una sensación de la música pop, Señor Senior, Sr. secuestra a la banda Oh Boyz para chantajear a su compañía discográfica. El plan fracasa cuando Ron termina capturado junto con ellos. El ejecutivo discográfico, que considera que la desaparición de Oh Boyz es una ganancia inesperada, no tiene prisa por ayudar, por lo que Kim debe rescatar a Ron y a la banda por su cuenta."
+      },
+      "S02E25": {
+        "name": "Sick Day",
+        "still_path": "https://image.tmdb.org/t/p/w500/w6cuzsgGXbkyrmlJsCsYvyReXs.jpg",
+        "overview": "Kim coge un resfriado desagradable de los Tweebs, pero aún acepta una misión para proteger una máquina misteriosa. Después de que Drakken y Shego roban el dispositivo, su madre insiste en que se quede en la cama para descansar mientras Ron y los Tweebs asumen sus funciones. Para cuando se resuelvan los asuntos, todos en ambos lados del conflicto se han resfriado."
+      },
+      "S02E26": {
+        "name": "Mother's Day",
+        "still_path": "https://image.tmdb.org/t/p/w500/bwwL5I0dDgF46EBpUkwHjUnQyYl.jpg",
+        "overview": "Como parte del vínculo madre-hija del Día de la Madre, Kim y su madre, la Dra. Possible, deciden frustrar juntas el último plan de Drakken. Drakken, por su parte, se ve obligado a lidiar con la inesperada visita de su madre mientras intenta robar un lote de Syntho-Plasma."
+      },
+      "S02E27": {
+        "name": "Motor Ed",
+        "still_path": "https://image.tmdb.org/t/p/w500/ve25prMP5THuySV3Av1CtY895Da.jpg",
+        "overview": "Después de una serie de robos de alta tecnología, Kim debe detener la trama de un científico rebelde convertido en camionero llamado Motor Ed, con un poco de ayuda de su nuevo amigo Felix."
+      },
+      "S02E28": {
+        "name": "Ron Millionaire",
+        "still_path": "https://image.tmdb.org/t/p/w500/ibyuyv1mRSaTUN3UjFZNluTUlos.jpg",
+        "overview": "Las regalías de Naco de repente convierten a Ron en un multimillonario tremendamente rico, luego procede a derrochar su nueva fortuna en una pandilla de amigos falsos y borracheras de gastos. Por codicia, Drakken roba el dinero de Ron para completar su último plan del fin del mundo."
+      },
+      "S02E29": {
+        "name": "Triple S",
+        "still_path": "https://image.tmdb.org/t/p/w500/mIhjDehFqt0xydpAm55YOC2k4Sa.jpg",
+        "overview": "Después de una larga lista de intentos de convertirse en un deportista, Ron tiene una nueva oportunidad de competir en los juegos X cuando él y Kim son enviados a investigar una serie de robos que aparentemente involucran a los mayores, quienes recientemente perdieron su riqueza por un criminal de cuello blanco."
+      },
+      "S02E30": {
+        "name": "Rewriting History",
+        "still_path": "https://image.tmdb.org/t/p/w500/c6zOzoNRRKrHda4iVa9LrA2rRRA.jpg",
+        "overview": "Kim descubre un escándalo centenario que involucra el robo de un maravilloso dispositivo de almacenamiento de energía, su tía tatarabuela paterna Miriam \"Mim\" y, curiosamente, los ancestros de muchos de sus amigos y enemigos, incluidos Ron, el profesor Dementor, el Dr. Drakken, Shego y el tío bisabuelo de Wade, Wayne. Kim debe trabajar rápidamente para limpiar el nombre de su tía abuela abuela paterna \"Mim\" y encontrar el dispositivo a tiempo antes de que Tri City sea destruida por completo por la explosión masiva que creará."
+      },
+      "S03E01": {
+        "name": "Steal Wheels",
+        "still_path": "https://image.tmdb.org/t/p/w500/wx6IzNaQJsE3eN6bWH24kQiuGQV.jpg",
+        "overview": "En un intento por reformar a Eddie Lipsky (también conocido como Motor Ed), su tía lo pone bajo el cuidado de su primo, Drakken. Juntos, los dos planean robar la tecnología que impulsa la silla de ruedas de Felix para construir un vehículo destructivo. Mientras tanto, Kim está celosa de todo el tiempo que Ron pasa con Félix, por lo que intenta unirse a su diversión."
+      },
+      "S03E02": {
+        "name": "Emotion Sickness",
+        "still_path": "https://image.tmdb.org/t/p/w500/yDKwcN8xi5KQxqf1mQSaXyFtCXX.jpg",
+        "overview": "En un intento por frustrar otro plan de Drakken para robar un acelerador electromagnético, los dispositivos experimentales que alteran el estado de ánimo se unen accidentalmente a Kim y Shego. Como resultado, se produce confusión y caos tanto para Ron como para Drakken, ya que los dispositivos envían a las chicas a toda velocidad a través de una variedad de emociones, que incluyen ira, dolor e incluso amor."
+      },
+      "S03E03": {
+        "name": "Bonding",
+        "still_path": "https://image.tmdb.org/t/p/w500/wheumJfrvisXeYOPwA59bUek8xE.jpg",
+        "overview": "Después de una misión fallida para detener a Dementor, Kim y Ron son golpeados con un adhesivo experimental y deben aprender a vivir la vida unidos a Bonnie y Barkin, respectivamente."
+      },
+      "S03E04": {
+        "name": "Bad Boy",
+        "still_path": "https://image.tmdb.org/t/p/w500/sufO2HuXt3lbZQXBTOy2sUSK94J.jpg",
+        "overview": "Cuando Ron quiere evitar a su primo Sean endiabladamente deformado en una boda, Kim sugiere sutilmente que Ron la tome como una cita amistosa. Mientras tanto, Drakken intenta utilizar un HenchCo. dispositivo llamado Attitudinator para hacerse más malvado. El plan falla cuando Kim y Ron rompen la máquina, transfiriendo la maldad de Drakken a Ron y la bondad de Ron a Drakken."
+      },
+      "S03E05": {
+        "name": "Showdown at the Crooked D",
+        "still_path": "https://image.tmdb.org/t/p/w500/pyk2yTZ7imxUXgGlLdPgTaj7wf7.jpg",
+        "overview": "Cuando Kim y su familia visitan a su tío paterno en Montana, se encuentra lidiando con Joss, su primo y mayor admirador, que quiere ser como ella. Juntos, los dos deben frustrar el último plan de Drakken para poner fuera de servicio a las mentes científicas más brillantes del planeta."
+      },
+      "S03E06": {
+        "name": "Dimension Twist",
+        "still_path": "https://image.tmdb.org/t/p/w500/y4psvKUonsRPe400T6BFt9lPrL3.jpg",
+        "overview": "El último invento robado de Drakken hace que él, Shego, Kim, Ron y Rufus sean absorbidos por el mundo de la televisión por cable."
+      },
+      "S03E07": {
+        "name": "Overdue",
+        "still_path": "https://image.tmdb.org/t/p/w500/qFMpQduqKAoWmQfDLMyObifc2cm.jpg",
+        "overview": "Ron corre a través de las guaridas de varios de los enemigos de Kim con el fin de recuperar un libro atrasado suyo que él perdió y ella asumió la culpa."
+      },
+      "S03E08": {
+        "name": "Rappin' Drakken",
+        "still_path": "https://image.tmdb.org/t/p/w500/cfmlEn0ICZwzXKPgszog6oXGX46.jpg",
+        "overview": "Después del dramático fracaso de su última trama, Drakken recurre a un concurso de música televisado para promover su propia línea de champú para controlar la mente. Para frustrar sus planes, Kim decide participar ella misma en el programa."
+      },
+      "S03E09": {
+        "name": "Team Impossible",
+        "still_path": "https://image.tmdb.org/t/p/w500/1sEHyaMbuvtniTtExQvUYJrmHH7.jpg",
+        "overview": "Team Impossible, el equipo de acción y rescate más importante del mundo, se enfrenta a Kim y le exige que ponga fin a su carrera como salvadora del mundo, que está recortando su margen de beneficio. Cuando Kim se niega a hacerlo, de repente descubre que falta la red de conexiones que le permiten viajar por el mundo, lo que lleva a una confrontación con sus competitivos rivales."
+      },
+      "S03E10": {
+        "name": "Gorilla Fist",
+        "still_path": "https://image.tmdb.org/t/p/w500/4q42lMdO7kUvODYhDJOUbVBJm9U.jpg",
+        "overview": "Ron es reclutado por Yori, su amiga y compañera de clase de la Escuela Ninja Yamanuchi para ayudar a encontrar a su Sensei desaparecido, quien supuestamente ha sido secuestrado por Monkey Fist. Una Kim suspicaz y celosa los persigue."
+      },
+      "S03E11": {
+        "name": "And the Molerat Will Be CGI",
+        "still_path": "https://image.tmdb.org/t/p/w500/hywm9CzD4Ue3ZHVCcaIefKxZVHp.jpg",
+        "overview": "Después de llamar la atención de un director de cine, Kim y Ron son seguidos por dos estrellas de cine glamorosas, una de ellas intentando aprender sobre sus vidas para una próxima película de Kim Possible. Kim pronto se ve apartada por las payasadas de imitador de su estrella, mientras que Ron no puede hacer que él actúe en absoluto. La película queda en suspenso cuando Señor Senior, Jr.se estrella en el set y exige ser elegido como el villano de la película."
+      },
+      "S04E01": {
+        "name": "Ill-Suited",
+        "still_path": "https://image.tmdb.org/t/p/w500/d6uDaDaS8tI5LSC5vG1lztptv2R.jpg",
+        "overview": "Es el comienzo del cuarto y último año de Kim y Ron en Middleton High School como estudiantes del último año, y todavía están en una relación después de los eventos de So the Drama . Ron, sin embargo, comienza a creer que Kim lo dejará por un deportista, y \"en secreto toma prestado\" el traje de batalla mejorado experimental de Kim para unirse al equipo de fútbol. Mientras tanto, Dementor intenta robar el traje de batalla para su propio uso."
+      },
+      "S04E02": {
+        "name": "The Big Job",
+        "still_path": "https://image.tmdb.org/t/p/w500/x6wXQCUl1A3v7cKvhhgSKKR6GD8.jpg",
+        "overview": "Después de que Kim se cansa de las fechas financiadas con cupones, ella y Ron deciden conseguir trabajo. Mientras tanto, Señor Senior, Jr. saca a Shego de la cárcel para ayudarlo a cometer una serie de crímenes para honrar el cumpleaños del Señor Senior, Sr."
+      },
+      "S04E03": {
+        "name": "Trading Faces",
+        "still_path": "https://image.tmdb.org/t/p/w500/x1lmm0ZAWzGMyrXTyYQF8pJ5GF1.jpg",
+        "overview": "Los amigos famosos de la heredera Camille Léon cometen crímenes misteriosos y Kim tiene que averiguar por qué. Mientras tanto, los hermanos de Kim avanzan en la escuela y se unen a ella en la escuela secundaria y, para su consternación, en sus misiones."
+      },
+      "S04E04": {
+        "name": "The Cupid Effect",
+        "still_path": "https://image.tmdb.org/t/p/w500/jmoEZK4JaV0ZYPrsrnhQtWAS8d8.jpg",
+        "overview": "Es el día de San Valentín y Wade se enamora mucho de Monique, lo que le hace inventar un rayo de amor para que ella le devuelva sus afectos. Mientras tanto, Ron lleva a Kim y Monique a París, Francia, y los Seniors intentan conquistar la mitad del mundo utilizando el nuevo invento de Wade para que todas las chicas se enamoren perdidamente de Jr."
+      },
+      "S04E05": {
+        "name": "Car Alarm",
+        "still_path": "https://image.tmdb.org/t/p/w500/kGtauhFlaRyYNuPXDijOtoTO3QS.jpg",
+        "overview": "Kim finalmente se las arregla para conseguir su propio auto: un reparador literal que alguna vez tuvo su padre. Sin embargo, se produce el caos cuando los Tweebs se ofrecen como voluntarios para engañarlo. Mientras tanto, Shego sale de prisión a través de Motor Ed y ayuda en su última travesura."
+      },
+      "S04E06": {
+        "name": "Mad Dogs and Aliens",
+        "still_path": "https://image.tmdb.org/t/p/w500/bEted7L1AqTz0XVVt1YotdGeEEY.jpg",
+        "overview": "Jim y Tim se hacen cargo de los deberes de Middleton Mad Dog en la escuela secundaria, para disgusto de Ron. Drakken finalmente sale de la prisión por una mujer alienígena imponente llamada Warmonga, que cree que él es \"el Gran Azul\", profetizado por su gente, los lorwardianos, para llevarlos a la conquista universal."
+      },
+      "S04E07": {
+        "name": "Grande Size Me",
+        "still_path": "https://image.tmdb.org/t/p/w500/oME4swMS4GXlG1T2dfW4CCvxOED.jpg",
+        "overview": "En un intento por demostrar que la Rueda del Buen Comer está mal, Ron gana una cantidad peligrosa de peso comiendo nada más que Bueno Nacho, pero pronto este acto rebelde se vuelve mortal cuando cae en una tina de suero durante una investigación en HenchCo. y lo transforma en un mutante salvaje gigante, mientras que Kim debe proteger a HenchCo. dispositivo de caer en las manos equivocadas."
+      },
+      "S04E08": {
+        "name": "Clothes Minded",
+        "still_path": "https://image.tmdb.org/t/p/w500/4oubvqc5j6PkAjbWPA5dmulkrCs.jpg",
+        "overview": "Cuando el atuendo de misión habitual de Kim ya no está disponible para su compra en Club Banana , intenta buscar uno nuevo, todo mientras se preocupa por las admisiones a la universidad y el último plan de Drakken para reformar los continentes en el próximo Pangea"
+      },
+      "S04E09": {
+        "name": "Big Bother",
+        "still_path": "https://image.tmdb.org/t/p/w500/x4ggjQt3TYg4AcFCneSciU3IW9Z.jpg",
+        "overview": "Ron tiene las manos ocupadas cuando tiene que cuidar tanto de un saco de harina (como parte de un proyecto escolar) como de su nueva hermanita adoptada Hana, sin mencionar la ayuda para localizar a Monkey Fist, que está en busca de tres llaves de piedra que lo llevará a un arma secreta. Para empeorar las cosas, también tiene que darle la noticia a su antiguo enamoramiento, Yori, de que él y Kim están saliendo ahora."
+      },
+      "S04E10": {
+        "name": "Fashion Victim",
+        "still_path": "https://image.tmdb.org/t/p/w500/f2zrlUFpihKrDNVO3iMAdAFzunn.jpg",
+        "overview": "Un trío de criminales obsesionados con la moda, los Fashionistas, buscan hacerse con los diseños de moda más nuevos de Club Banana . Camille Léon , habiéndose aliado con ellos, también aprovecha la oportunidad para vengarse de Kim incrimándola por el robo. Con Ron actualmente soportando al Sr. Barkin, quien también trabaja en Smarty Mart , su última esperanza está en Monique."
+      },
+      "S04E11": {
+        "name": "Odds Man In",
+        "still_path": "https://image.tmdb.org/t/p/w500/30BWk1bVGsXhQRqq8v5bHAj8j2e.jpg",
+        "overview": "Ron decide hacer algunos cálculos de lucha contra el crimen para ver cuánto peligro corren él y Kim durante sus misiones. Mientras tanto, Drakken es ayudado por el consultor corporativo Hank Perkins con su último plan para conquistar el mundo para traer la próxima Edad de Hielo."
+      },
+      "S04E12": {
+        "name": "Stop Team Go",
+        "still_path": "https://image.tmdb.org/t/p/w500/aLUgBBlGGmOUuQuPoxQ4G0QvUV7.jpg",
+        "overview": "Cuando Shego aparece en Middleton High School como maestra sustituta, Kim se sorprende al saber que su antiguo rival en realidad está actuando bien por una vez. Sin embargo, no es una decisión voluntaria por parte de Shego. Más bien, ella y sus hermanos, Team Go, se han visto afectados por su antiguo enemigo Electronique con su Attitudinator nuevo, recientemente robado y mejorado."
+      },
+      "S04E13": {
+        "name": "Cap'n Drakken",
+        "still_path": "https://image.tmdb.org/t/p/w500/6a5sSbhPXAxyT431k2ZXFS45nJx.jpg",
+        "overview": "Kim y Ron son obligados por el Sr. Barkin a pasar una semana en el puerto marítimo (sin ningún artículo moderno de ningún tipo), donde Drakken abre un cofre del tesoro y es poseído por el espíritu de un capitán pirata."
+      },
+      "S04E14": {
+        "name": "Mathter and Fervent",
+        "still_path": "https://image.tmdb.org/t/p/w500/zHQMAmtUA7EJPK3bb0r509xYUQ0.jpg",
+        "overview": "Un extraño altercado con el enemigo centrado en los números del Team Go, Mathter, deja a Ron afectado por su poder. Ahora, Ron está destruyendo todo lo que toca, y Kim y Hego necesitan hacer algo."
+      },
+      "S04E15": {
+        "name": "The Mentor of Our Discontent",
+        "still_path": "https://image.tmdb.org/t/p/w500/bfaGnUzkIzeI7pyBXenuKhuafXl.jpg",
+        "overview": "Martin Smarty le da a Ron un nuevo trabajo en Smarty Mart: sé un modelo a seguir para su rebelde hijo Artie. Mientras tanto, Drakken y Frugal Lucre se unen para tomar el control de los nuevos stockbots de Smarty Mart."
+      },
+      "S04E16": {
+        "name": "Oh No! Yono!",
+        "still_path": "https://image.tmdb.org/t/p/w500/lCwpwtofg4WkE3q6x5blBSRuNZj.jpg",
+        "overview": "Después de descubrir a la bebé Hana caminando por el techo, Kim y Ron intentan llegar al fondo de sus secretos. Pronto, son llamados por el Maestro Sensei y Yori, quienes les piden que ayuden a detener a Monkey Fist, quien ha encontrado un nuevo aliado en Yono the Destroyer mientras continúa su búsqueda del arma secreta."
+      },
+      "S04E17": {
+        "name": "Clean Slate",
+        "still_path": "https://image.tmdb.org/t/p/w500/XTi8WPJQd2dJL2cWV511JeVhUG.jpg",
+        "overview": "Kim sufre amnesia durante una misión, mientras Drakken intenta hacerse con el control del ejército. Kim pronto recuerda todo sobre su vida de nuevo, excepto el hecho de que ella y Ron son pareja."
+      },
+      "S04E18": {
+        "name": "Homecoming Upset",
+        "still_path": "https://image.tmdb.org/t/p/w500/qq5tb0mSVorVUj3YdM1UIJKVLAe.jpg",
+        "overview": "Las cosas se salen de control cuando Ron y Bonnie se convierten en el rey y la reina del baile. Ahora Kim tiene dos problemas con los que lidiar: un experto en computación aparentemente secuestrado por Señor Senior, Jr. y Bonnie haciendo un movimiento con su novio."
+      },
+      "S04E19": {
+        "name": "Chasing Rufus",
+        "still_path": "https://image.tmdb.org/t/p/w500/4HKU31Lmr0oYsZNIPwaTEGJh16x.jpg",
+        "overview": "Después de que Ron Stoppable y Camille Léon perdieran accidentalmente a sus mascotas durante una pelea, Rufus y Debutante emprenden una aventura por todo el mundo para encontrar a sus respectivos dueños."
+      },
+      "S04E20": {
+        "name": "Larry's Birthday",
+        "still_path": "https://image.tmdb.org/t/p/w500/oJMvFiO80EuDUQCjjHj3Pi0Hnxc.jpg",
+        "overview": "Kim debe mantener alejado a su primo Larry hasta que su fiesta sorpresa de cumpleaños esté lista, además de evitar que Dementor le robe su traje de batalla."
+      },
+      "S04E21": {
+        "name": "Graduation, Part 1",
+        "still_path": "https://image.tmdb.org/t/p/w500/kvhVNGBFiPkc482Vd83vqT2OhpS.jpg",
+        "overview": "Mientras a Ron le preocupa que la graduación signifique el fin de su relación romántica con Kim, una vengativa Warmonga regresa con su compañero de batalla, Warhawk the Conqueror, para invadir la Tierra."
+      },
+      "S04E22": {
+        "name": "Graduation, Part 2",
+        "still_path": "https://image.tmdb.org/t/p/w500/qgeCZdKnWjghwPEoseopHOGPkKG.jpg",
+        "overview": "El día de la graduación, Kim es secuestrado junto con Drakken por los invasores alienígenas, y debe trabajar junto a él, Ron y Shego para frustrar el asalto planetario de los lorwardianos."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "S01E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Likely",
@@ -288,11 +725,12 @@
         }
       ],
       "count": 70,
-      "level": "B2",
       "dialogues": 581
     },
     {
+      "code": "S01E02",
       "name": "S01E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Grow (verbo)",
@@ -608,11 +1046,12 @@
         }
       ],
       "count": 78,
-      "level": "B2",
       "dialogues": 576
     },
     {
+      "code": "S01E03",
       "name": "S01E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Dog-nappers",
@@ -960,11 +1399,12 @@
         }
       ],
       "count": 86,
-      "level": "B2",
       "dialogues": 559
     },
     {
+      "code": "S01E04",
       "name": "S01E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Steel-toe cyber-slam",
@@ -1196,11 +1636,12 @@
         }
       ],
       "count": 57,
-      "level": "B2",
       "dialogues": 535
     },
     {
+      "code": "S01E05",
       "name": "S01E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Stow that gear",
@@ -1528,11 +1969,12 @@
         }
       ],
       "count": 81,
-      "level": "B2",
       "dialogues": 565
     },
     {
+      "code": "S01E06",
       "name": "S01E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Major style denial",
@@ -1792,11 +2234,12 @@
         }
       ],
       "count": 64,
-      "level": "B2",
       "dialogues": 542
     },
     {
+      "code": "S01E07",
       "name": "S01E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ish (informal)",
@@ -2068,11 +2511,12 @@
         }
       ],
       "count": 67,
-      "level": "B2",
       "dialogues": 587
     },
     {
+      "code": "S01E08",
       "name": "S01E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Fussy routine",
@@ -2296,11 +2740,12 @@
         }
       ],
       "count": 55,
-      "level": "B2",
       "dialogues": 525
     },
     {
+      "code": "S01E09",
       "name": "S01E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Slam (verbo)",
@@ -2508,11 +2953,12 @@
         }
       ],
       "count": 51,
-      "level": "B2",
       "dialogues": 484
     },
     {
+      "code": "S01E10",
       "name": "S01E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Excruciating",
@@ -2756,11 +3202,12 @@
         }
       ],
       "count": 60,
-      "level": "B2",
       "dialogues": 566
     },
     {
+      "code": "S01E11",
       "name": "S01E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Your lack of protective gear gave it away",
@@ -3004,11 +3451,12 @@
         }
       ],
       "count": 60,
-      "level": "B2",
       "dialogues": 618
     },
     {
+      "code": "S01E12",
       "name": "S01E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Slobber",
@@ -3220,11 +3668,12 @@
         }
       ],
       "count": 52,
-      "level": "B2",
       "dialogues": 562
     },
     {
+      "code": "S01E13",
       "name": "S01E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "This is a setback",
@@ -3452,11 +3901,12 @@
         }
       ],
       "count": 56,
-      "level": "B2",
       "dialogues": 530
     },
     {
+      "code": "S01E14",
       "name": "S01E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Haggle (verbo)",
@@ -3636,11 +4086,12 @@
         }
       ],
       "count": 44,
-      "level": "B2",
       "dialogues": 553
     },
     {
+      "code": "S01E15",
       "name": "S01E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Turn down (en términos sociales)",
@@ -3900,11 +4351,12 @@
         }
       ],
       "count": 64,
-      "level": "B2",
       "dialogues": 583
     },
     {
+      "code": "S01E16",
       "name": "S01E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Entree compartment",
@@ -4088,11 +4540,12 @@
         }
       ],
       "count": 45,
-      "level": "B2",
       "dialogues": 508
     },
     {
+      "code": "S01E17",
       "name": "S01E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "My iced mocha",
@@ -4300,11 +4753,12 @@
         }
       ],
       "count": 51,
-      "level": "B2",
       "dialogues": 566
     },
     {
+      "code": "S01E18",
       "name": "S01E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The old-fashioned way",
@@ -4576,11 +5030,12 @@
         }
       ],
       "count": 67,
-      "level": "B2",
       "dialogues": 495
     },
     {
+      "code": "S01E19",
       "name": "S01E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Stand ready",
@@ -4736,11 +5191,12 @@
         }
       ],
       "count": 38,
-      "level": "B2",
       "dialogues": 515
     },
     {
+      "code": "S01E20",
       "name": "S01E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "I’ll wreck much havoc",
@@ -4984,11 +5440,12 @@
         }
       ],
       "count": 60,
-      "level": "B2",
       "dialogues": 586
     },
     {
+      "code": "S01E21",
       "name": "S01E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bellows gently",
@@ -5240,11 +5697,12 @@
         }
       ],
       "count": 62,
-      "level": "B2",
       "dialogues": 623
     },
     {
+      "code": "S02E01",
       "name": "S02E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Overall",
@@ -5396,11 +5854,12 @@
         }
       ],
       "count": 37,
-      "level": "B2",
       "dialogues": 583
     },
     {
+      "code": "S02E02",
       "name": "S02E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ticket booth",
@@ -5544,11 +6003,12 @@
         }
       ],
       "count": 35,
-      "level": "B2",
       "dialogues": 576
     },
     {
+      "code": "S02E03",
       "name": "S02E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Ruthless",
@@ -5724,11 +6184,12 @@
         }
       ],
       "count": 43,
-      "level": "B2",
       "dialogues": 565
     },
     {
+      "code": "S02E04",
       "name": "S02E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Yowl (sustantivo)",
@@ -5872,11 +6333,12 @@
         }
       ],
       "count": 35,
-      "level": "B2",
       "dialogues": 555
     },
     {
+      "code": "S02E05",
       "name": "S02E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Flunk (verbo)",
@@ -6072,11 +6534,12 @@
         }
       ],
       "count": 48,
-      "level": "B2",
       "dialogues": 575
     },
     {
+      "code": "S02E06",
       "name": "S02E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Wolfbound",
@@ -6176,11 +6639,12 @@
         }
       ],
       "count": 24,
-      "level": "B2",
       "dialogues": 421
     },
     {
+      "code": "S02E07",
       "name": "S02E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Don't be fooled by chrome plating",
@@ -6404,11 +6868,12 @@
         }
       ],
       "count": 55,
-      "level": "B2",
       "dialogues": 607
     },
     {
+      "code": "S02E08",
       "name": "S02E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Racetrack",
@@ -6616,11 +7081,12 @@
         }
       ],
       "count": 51,
-      "level": "B2",
       "dialogues": 544
     },
     {
+      "code": "S02E09",
       "name": "S02E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "High manor",
@@ -6792,11 +7258,12 @@
         }
       ],
       "count": 42,
-      "level": "B2",
       "dialogues": 554
     },
     {
+      "code": "S02E10",
       "name": "S02E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Hiker",
@@ -7012,11 +7479,12 @@
         }
       ],
       "count": 53,
-      "level": "B2",
       "dialogues": 551
     },
     {
+      "code": "S02E11",
       "name": "S02E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "International touchy-feelyness",
@@ -7168,11 +7636,12 @@
         }
       ],
       "count": 37,
-      "level": "B2",
       "dialogues": 463
     },
     {
+      "code": "S02E12",
       "name": "S02E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Recast (verbo en términos actorales)",
@@ -7328,11 +7797,12 @@
         }
       ],
       "count": 38,
-      "level": "B2",
       "dialogues": 504
     },
     {
+      "code": "S02E13",
       "name": "S02E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You bow low",
@@ -7484,11 +7954,12 @@
         }
       ],
       "count": 37,
-      "level": "B2",
       "dialogues": 585
     },
     {
+      "code": "S02E14",
       "name": "S02E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Sitch (sustantivo informal)",
@@ -7604,11 +8075,12 @@
         }
       ],
       "count": 28,
-      "level": "B2",
       "dialogues": 573
     },
     {
+      "code": "S02E15",
       "name": "S02E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Just run it down for Kim's sake",
@@ -7808,11 +8280,12 @@
         }
       ],
       "count": 49,
-      "level": "B2",
       "dialogues": 523
     },
     {
+      "code": "S02E16",
       "name": "S02E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Just run it down for Kim's sake",
@@ -7984,11 +8457,12 @@
         }
       ],
       "count": 42,
-      "level": "B2",
       "dialogues": 572
     },
     {
+      "code": "S02E17",
       "name": "S02E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Beyond spotless",
@@ -8144,11 +8618,12 @@
         }
       ],
       "count": 38,
-      "level": "B2",
       "dialogues": 521
     },
     {
+      "code": "S02E18",
       "name": "S02E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Thermal-imaging sunglasses",
@@ -8264,11 +8739,12 @@
         }
       ],
       "count": 28,
-      "level": "B2",
       "dialogues": 482
     },
     {
+      "code": "S02E19",
       "name": "S02E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Cue",
@@ -8408,11 +8884,12 @@
         }
       ],
       "count": 34,
-      "level": "B2",
       "dialogues": 543
     },
     {
+      "code": "S02E20",
       "name": "S02E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Cash in",
@@ -8544,11 +9021,12 @@
         }
       ],
       "count": 32,
-      "level": "B2",
       "dialogues": 546
     },
     {
+      "code": "S02E21",
       "name": "S02E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The big cheer-off",
@@ -8720,11 +9198,12 @@
         }
       ],
       "count": 42,
-      "level": "B2",
       "dialogues": 603
     },
     {
+      "code": "S02E22",
       "name": "S02E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Watch helplessly",
@@ -8936,11 +9415,12 @@
         }
       ],
       "count": 52,
-      "level": "B2",
       "dialogues": 554
     },
     {
+      "code": "S02E23",
       "name": "S02E23",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "There wouldn't be much point in me stealing it",
@@ -9120,11 +9600,12 @@
         }
       ],
       "count": 44,
-      "level": "B2",
       "dialogues": 507
     },
     {
+      "code": "S02E24",
       "name": "S02E24",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Mondo-morphing melt monsters?",
@@ -9272,11 +9753,12 @@
         }
       ],
       "count": 36,
-      "level": "B2",
       "dialogues": 589
     },
     {
+      "code": "S02E25",
       "name": "S02E25",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Gasping breaths",
@@ -9536,11 +10018,12 @@
         }
       ],
       "count": 64,
-      "level": "B2",
       "dialogues": 578
     },
     {
+      "code": "S02E26",
       "name": "S02E26",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Strain of honey",
@@ -9728,11 +10211,12 @@
         }
       ],
       "count": 46,
-      "level": "B2",
       "dialogues": 538
     },
     {
+      "code": "S02E27",
       "name": "S02E27",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Who's up for some chow fun?",
@@ -9984,11 +10468,12 @@
         }
       ],
       "count": 62,
-      "level": "B2",
       "dialogues": 508
     },
     {
+      "code": "S02E28",
       "name": "S02E28",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Right back at you (expresión)",
@@ -10228,11 +10713,12 @@
         }
       ],
       "count": 59,
-      "level": "B2",
       "dialogues": 570
     },
     {
+      "code": "S02E29",
       "name": "S02E29",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Visual aids",
@@ -10448,11 +10934,12 @@
         }
       ],
       "count": 53,
-      "level": "B2",
       "dialogues": 502
     },
     {
+      "code": "S02E30",
       "name": "S02E30",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Field-trippers",
@@ -10836,11 +11323,12 @@
         }
       ],
       "count": 95,
-      "level": "B2",
       "dialogues": 577
     },
     {
+      "code": "S03E01",
       "name": "S03E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Let’s nix it (frase informal)",
@@ -11008,11 +11496,12 @@
         }
       ],
       "count": 41,
-      "level": "B2",
       "dialogues": 548
     },
     {
+      "code": "S03E02",
       "name": "S03E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "In a frenzied outpouring of community pride",
@@ -11180,11 +11669,12 @@
         }
       ],
       "count": 41,
-      "level": "B2",
       "dialogues": 528
     },
     {
+      "code": "S03E03",
       "name": "S03E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Dismiss (verbo)",
@@ -11408,11 +11898,12 @@
         }
       ],
       "count": 55,
-      "level": "B2",
       "dialogues": 586
     },
     {
+      "code": "S03E04",
       "name": "S03E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Warbling",
@@ -11616,11 +12107,12 @@
         }
       ],
       "count": 50,
-      "level": "B2",
       "dialogues": 583
     },
     {
+      "code": "S03E05",
       "name": "S03E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Marinate (verbo)",
@@ -11828,11 +12320,12 @@
         }
       ],
       "count": 51,
-      "level": "B2",
       "dialogues": 616
     },
     {
+      "code": "S03E06",
       "name": "S03E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Give in",
@@ -12012,11 +12505,12 @@
         }
       ],
       "count": 44,
-      "level": "B2",
       "dialogues": 574
     },
     {
+      "code": "S03E07",
       "name": "S03E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "You have an overdue library book",
@@ -12236,11 +12730,12 @@
         }
       ],
       "count": 54,
-      "level": "B2",
       "dialogues": 615
     },
     {
+      "code": "S03E08",
       "name": "S03E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Do you have any idea the bureaucratic nightmare entailed in having class outside?",
@@ -12452,11 +12947,12 @@
         }
       ],
       "count": 52,
-      "level": "B2",
       "dialogues": 602
     },
     {
+      "code": "S03E09",
       "name": "S03E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Disgruntled",
@@ -12692,11 +13188,12 @@
         }
       ],
       "count": 58,
-      "level": "B2",
       "dialogues": 621
     },
     {
+      "code": "S03E10",
       "name": "S03E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Face stuffing",
@@ -12860,11 +13357,12 @@
         }
       ],
       "count": 40,
-      "level": "B2",
       "dialogues": 488
     },
     {
+      "code": "S03E11",
       "name": "S03E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Scout a target location",
@@ -13100,11 +13598,12 @@
         }
       ],
       "count": 58,
-      "level": "B2",
       "dialogues": 600
     },
     {
+      "code": "S04E01",
       "name": "S04E01",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Smug villain",
@@ -13288,11 +13787,12 @@
         }
       ],
       "count": 45,
-      "level": "B2",
       "dialogues": 527
     },
     {
+      "code": "S04E02",
       "name": "S04E02",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The griddled fromage",
@@ -13512,11 +14012,12 @@
         }
       ],
       "count": 54,
-      "level": "B2",
       "dialogues": 585
     },
     {
+      "code": "S04E03",
       "name": "S04E03",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Appliances",
@@ -13720,11 +14221,12 @@
         }
       ],
       "count": 50,
-      "level": "B2",
       "dialogues": 644
     },
     {
+      "code": "S04E04",
       "name": "S04E04",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Drive-thru (en pedir comida)",
@@ -13868,11 +14370,12 @@
         }
       ],
       "count": 35,
-      "level": "B2",
       "dialogues": 657
     },
     {
+      "code": "S04E05",
       "name": "S04E05",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Heart (verbo en algunos contexto)",
@@ -14048,11 +14551,12 @@
         }
       ],
       "count": 43,
-      "level": "B2",
       "dialogues": 519
     },
     {
+      "code": "S04E06",
       "name": "S04E06",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "The moment where you get squad slapped into next week?",
@@ -14220,11 +14724,12 @@
         }
       ],
       "count": 41,
-      "level": "B2",
       "dialogues": 548
     },
     {
+      "code": "S04E07",
       "name": "S04E07",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Neglected to notice",
@@ -14396,11 +14901,12 @@
         }
       ],
       "count": 42,
-      "level": "B2",
       "dialogues": 522
     },
     {
+      "code": "S04E08",
       "name": "S04E08",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Off the rack (no literal)",
@@ -14636,11 +15142,12 @@
         }
       ],
       "count": 58,
-      "level": "B2",
       "dialogues": 546
     },
     {
+      "code": "S04E09",
       "name": "S04E09",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bundle",
@@ -14836,11 +15343,12 @@
         }
       ],
       "count": 48,
-      "level": "B2",
       "dialogues": 536
     },
     {
+      "code": "S04E10",
       "name": "S04E10",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Wingman me (no literal)",
@@ -15116,11 +15624,12 @@
         }
       ],
       "count": 68,
-      "level": "B2",
       "dialogues": 620
     },
     {
+      "code": "S04E11",
       "name": "S04E11",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Our date night has hit a rut (frase no literal en ciertos contextos)",
@@ -15360,11 +15869,12 @@
         }
       ],
       "count": 59,
-      "level": "B2",
       "dialogues": 654
     },
     {
+      "code": "S04E12",
       "name": "S04E12",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "My free coconut scrub and herbal wrap",
@@ -15484,11 +15994,12 @@
         }
       ],
       "count": 29,
-      "level": "B2",
       "dialogues": 523
     },
     {
+      "code": "S04E13",
       "name": "S04E13",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Outing",
@@ -15776,11 +16287,12 @@
         }
       ],
       "count": 71,
-      "level": "B2",
       "dialogues": 503
     },
     {
+      "code": "S04E14",
       "name": "S04E14",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Big-time",
@@ -16012,11 +16524,12 @@
         }
       ],
       "count": 57,
-      "level": "B2",
       "dialogues": 655
     },
     {
+      "code": "S04E15",
       "name": "S04E15",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Keep down",
@@ -16152,11 +16665,12 @@
         }
       ],
       "count": 33,
-      "level": "B2",
       "dialogues": 536
     },
     {
+      "code": "S04E16",
       "name": "S04E16",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Jammies",
@@ -16316,11 +16830,12 @@
         }
       ],
       "count": 39,
-      "level": "B2",
       "dialogues": 557
     },
     {
+      "code": "S04E17",
       "name": "S04E17",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "A little grapple trouble",
@@ -16464,11 +16979,12 @@
         }
       ],
       "count": 35,
-      "level": "B2",
       "dialogues": 619
     },
     {
+      "code": "S04E18",
       "name": "S04E18",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Bookmark",
@@ -16668,11 +17184,12 @@
         }
       ],
       "count": 49,
-      "level": "B2",
       "dialogues": 570
     },
     {
+      "code": "S04E19",
       "name": "S04E19",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Swank party",
@@ -16832,11 +17349,12 @@
         }
       ],
       "count": 39,
-      "level": "B2",
       "dialogues": 449
     },
     {
+      "code": "S04E20",
       "name": "S04E20",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Nothing says battlesuit mission like a puma on the edge",
@@ -16980,11 +17498,12 @@
         }
       ],
       "count": 35,
-      "level": "B2",
       "dialogues": 554
     },
     {
+      "code": "S04E21",
       "name": "S04E21",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Feels sort of repeatish",
@@ -17188,11 +17707,12 @@
         }
       ],
       "count": 50,
-      "level": "B2",
       "dialogues": 507
     },
     {
+      "code": "S04E22",
       "name": "S04E22",
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Everyone is accounted for",
@@ -17340,443 +17860,9 @@
         }
       ],
       "count": 36,
-      "level": "B2",
       "dialogues": 481
     }
   ],
-  "tmdb": {
-    "overview": "Serie que narra las aventuras de esta heroína en miniatura que compagina sus hazañas con las clases en el instituto. Todo comienza cuando Kim publica en su web que es capaz de enfrentarse a todo. Aunque ella se refería a tareas como hacer de canguro o cortar el césped, pronto comenzará a recibir e-mails desde todos los rincones del mundo para enfrentarse a los peores villanos que intentan hacerse con el control del planeta.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
-      "https://image.tmdb.org/t/p/w780/olYeeEi5aa197P0s8ETXyriP9Ih.jpg",
-      "https://image.tmdb.org/t/p/w780/mvqepnp9MMBBRkgQ7Kt6kcFbBHu.jpg",
-      "https://image.tmdb.org/t/p/w780/wCdCMP4RQ5kuEdk9zwZF4p4p7wg.jpg",
-      "https://image.tmdb.org/t/p/w780/3wVv1UQNQVBb2d22oOo4WDwkFTV.jpg",
-      "https://image.tmdb.org/t/p/w780/9rNRstq0ZLnPNifxom4zMmwVXcb.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Crush",
-        "still_path": "https://image.tmdb.org/t/p/w500/uSyWkqkmlk5YzTu4dq4ctEhlx9K.jpg",
-        "overview": "Kim intenta evitar que el Dr. Drakken utilice tecnología de juegos japonesa robada para construir un robot gigante. Sin embargo, luchar contra los malos no es nada comparado con invitar a su crush, Josh Mankey ( Breckin Meyer ), a un próximo baile escolar."
-      },
-      "2": {
-        "name": "Sink or Swim",
-        "still_path": "https://image.tmdb.org/t/p/w500/pmHQgxgx6oaYzaFvgX6KayKTDW7.jpg",
-        "overview": "De camino a una competencia de porristas, el equipo de porristas de Middleton se queda varado en un antiguo campamento con el que Ron tiene una larga y mala historia. Se enfrenta a Gill, un mutante anfibio que, cuando era humano, constantemente molestaba a Ron, pero que ahora está decidido a vengarse de él por haber provocado su transformación sin darse cuenta."
-      },
-      "3": {
-        "name": "The New Ron",
-        "still_path": "https://image.tmdb.org/t/p/w500/sPOKheqW0jsbvmon35loCHR7oOm.jpg",
-        "overview": "Cuando Ron se encuentra atrayendo la atención con un corte de pelo que Kim lo convenció de hacerse, intenta transformar su personalidad también, pero desarrolla una obsesión malsana con su cabello. Cuando él y Kim van a Francia a comprar más gel para el cabello, Ron, sin saberlo, inspira al solitario multimillonario Señor Senior, Jr. a emprender una vida delictiva, y ahora Kim y el recién cambiado Ron deben salvar a Francia de un apagón."
-      },
-      "4": {
-        "name": "Tick-Tick-Tick",
-        "still_path": "https://image.tmdb.org/t/p/w500/fn9wuXIuqutrUBOnZfwotThHgDi.jpg",
-        "overview": "Kim tiene que encajar en su vida frustrando el plan de Drakken de usar tecnología nano-explosiva robada y la detención después de que Ron, inadvertidamente, la hace reprobar la política de tardanza de \"tres strikes\" del maestro sustituto Sr. Barkin."
-      },
-      "5": {
-        "name": "Downhill",
-        "still_path": "https://image.tmdb.org/t/p/w500/rTkxBNwQmmzlEZVJv1W9BfWn4MD.jpg",
-        "overview": "Un viaje de esquí de la escuela conduce a la \"nación de la humillación\" cuando Bonnie logra colocar a los padres de Kim como acompañantes. Mientras lucha con la presencia de sus padres, Kim también tiene que enfrentarse a un genetista deshonesto llamado DNAmy y sus monstruos mutantes."
-      },
-      "6": {
-        "name": "Bueno Nacho",
-        "still_path": "https://image.tmdb.org/t/p/w500/fr3mA50t8s8NxQA97bPLzjOH543.jpg",
-        "overview": "Kim acepta un trabajo en Bueno Nacho para pagar una chaqueta de moda, convenciendo al reacio Ron de que le haga compañía solicitándolo también. Cuando la carrera de Ron comienza y se convierte en asistente del gerente, Drakken planea destruir Wisconsin desde el interior de una rueda gigante de queso , capturando a Kim en el proceso. Para salvarla, Ron debe elegir entre su carrera o su deber como compañero."
-      },
-      "7": {
-        "name": "Number One",
-        "still_path": "https://image.tmdb.org/t/p/w500/kb96LKRLXYRGd5AmOgD2S1rPxtJ.jpg",
-        "overview": "La organización internacional de lucha contra el crimen, Global Justice, empareja a Kim con su principal agente snob para perseguir al secuestrador de un destacado científico, que se reveló como el malvado golfista escocés Duff Killigan. Sintiendo debilidad, Bonnie aprovecha la oportunidad para hacer una jugada para reemplazar a Kim como capitana de porristas."
-      },
-      "8": {
-        "name": "Mind Games",
-        "still_path": "https://image.tmdb.org/t/p/w500/u2HphgAKcqLoqHz2KZxxn41G7JJ.jpg",
-        "overview": "El último plan de Drakken lleva accidentalmente a que Kim y Ron cambien de cuerpo . Kim tiene una idea de lo que es ser un paria impopular mientras Ron descubre la vida con el peso de la responsabilidad real."
-      },
-      "9": {
-        "name": "Attack of the Killer Bebes",
-        "still_path": "https://image.tmdb.org/t/p/w500/gAhvcwS8sTCObeq0btXdwhmn0RT.jpg",
-        "overview": "Los robots que son sospechosamente similares a los diseñados por Drew Lipsky (Dr. Drakken), uno de los antiguos compañeros de universidad del Dr. Possible, secuestran a sus amigos uno por uno. Mientras tanto, Ron se une al equipo de porristas como mascota, para disgusto de Kim."
-      },
-      "10": {
-        "name": "Royal Pain",
-        "still_path": "https://image.tmdb.org/t/p/w500/7GsCdMXtQ1NuacJnjyWbPCmG0on.jpg",
-        "overview": "Kim permite que el esnob Príncipe de Rodeghan se esconda en Middleton para protegerse, y termina compitiendo contra ella en las elecciones escolares, que se complican por la llegada de una organización empeñada en derrocar a la monarquía de Rodeghan."
-      },
-      "11": {
-        "name": "Coach Possible",
-        "still_path": "https://image.tmdb.org/t/p/w500/p6nvBOaWx1Z1NiarXWW9mlBq9JZ.jpg",
-        "overview": "Después de que el Dr. James Possible se rompe la pierna, Kim se hace cargo de entrenar a su equipo de fútbol y vuelve locos a los gemelos y a los otros jugadores con su ultracompetitividad. Entre la práctica, ella y Ron intentan recuperar animales animatrónicos de última generación y un gas estilo neón de los mayores ladrones, uno de los cuales está ideando su propio plan malvado por primera vez."
-      },
-      "12": {
-        "name": "Pain King vs. Cleopatra",
-        "still_path": "https://image.tmdb.org/t/p/w500/vpHFW3A8yZKRSbHidXLAudVIVYE.jpg",
-        "overview": "Kim y Ron obtienen entradas para el gran partido entre los luchadores Pain King y Steel Toe. Ron, incapaz de entusiasmar a Kim con el evento, teme que un nuevo amigo se haya interpuesto entre ellos. Sin embargo, un nuevo retador planea estrellar el partido con un amuleto mágico que lo imbuirá con los poderes de Anubis."
-      },
-      "13": {
-        "name": "Monkey Fist Strikes",
-        "still_path": "https://image.tmdb.org/t/p/w500/zwU4BVSxBAMvb0LkUgE1kkZLgjh.jpg",
-        "overview": "Kim y Ron ayudan al aventurero Lord Monty Fiske a recuperar una estatua de mono, aparentemente para regalar a un museo. Fiske, sin embargo, lo usa junto con el resto del set para transformarse en un temible maestro de kung fu. Cuando Kim se ve obligada a visitar a su primo nerd Larry, todo depende de Ron para detener a Monkey Fist."
-      },
-      "14": {
-        "name": "October 31st",
-        "still_path": "https://image.tmdb.org/t/p/w500/uWSDOSqevjNrmeGGVI6E4gfSOal.jpg",
-        "overview": "Mientras lucha contra Drakken, Shego y Duff Killigan, Kim accidentalmente tiene un extraño brazalete unido a su muñeca. Ella descubre que la pulsera crece cada vez que miente, lo que la lleva a la vergüenza cuando intenta salirse de una serie de compromisos para asistir a una fiesta de Halloween con Josh Mankey."
-      },
-      "15": {
-        "name": "All the News",
-        "still_path": "https://image.tmdb.org/t/p/w500/7odiPUzbBnyR3dxRLEwJ6KnZSpV.jpg",
-        "overview": "Ron manipula una cita para convertirla en una primicia, lo que lleva a Kim a una cita obligada con el mariscal de campo estrella de Middleton High, Brick Flagg, y se da a sí mismo un punto dulce en el periódico escolar. Sin embargo, su carrera periodística se mete en problemas cuando acusa a la temeraria televisiva Adrena Lynn de fingir sus acrobacias y ella jura venganza."
-      },
-      "16": {
-        "name": "Kimitation Nation",
-        "still_path": "https://image.tmdb.org/t/p/w500/2TQOEVoqayskwPHRGVNy9PIArAq.jpg",
-        "overview": "Un diseñador copia el atuendo de la misión de Kim y lo convierte en la próxima tendencia de moda. Aunque inicialmente tenía la esperanza de que la repentina popularidad de su ropa le permitiera ser aceptada por las personas mayores, Kim Style finalmente es copiada por todas las niñas e incluso algunos niños. Drakken, impresionado por esta inspiración, intenta crear un ejército de clones de Kim Possible para destruir a su enemigo adolescente."
-      },
-      "17": {
-        "name": "The Twin Factor",
-        "still_path": "https://image.tmdb.org/t/p/w500/irQfrP5rWaVyMQmsAFw27fb1Pn4.jpg",
-        "overview": "Drakken roba tecnología de control mental que tiene la intención de replicar para apoderarse del mundo. Cuando sus padres se van de retiro, Kim se ve obligada a llevar a sus hermanos gemelos para detener a Drakken."
-      },
-      "18": {
-        "name": "Animal Attraction",
-        "still_path": "https://image.tmdb.org/t/p/w500/jUusmbUsM2vier7M41gc5YSSKi2.jpg",
-        "overview": "Kim se enamora de la última moda de Middleton High, Animology, que pretende predecir la personalidad y la compatibilidad romántica. En el camino, tiene que detener el plan de Señor Senior, Sr. para destruir el club de multimillonarios del que fue expulsado y también lidiar con la predicción de Animology de que Señor Senior, Jr. es su alma gemela."
-      },
-      "19": {
-        "name": "Monkey Ninjas in Space",
-        "still_path": "https://image.tmdb.org/t/p/w500/uKgsgVkp9MgZ92o33FdGqf3nyqx.jpg",
-        "overview": "Basado en la predicción del Monkey Monk, Monkey Fist secuestra al mono más inteligente del mundo y usa el centro espacial Middleton para lanzarse al espacio mientras Kim enfrenta el comportamiento humillante de su padre y Ron enfrenta su miedo a los monos."
-      },
-      "20": {
-        "name": "Ron the Man",
-        "still_path": "https://image.tmdb.org/t/p/w500/hyyt8KeQkUnn2NpAmq5eoCvDJcZ.jpg",
-        "overview": "Ron se sorprende al descubrir frente a toda la clase del Sr. Barkin que su rabino nunca firmó su certificado de bar mitzvah. Para demostrar su hombría, usa un anillo que aumenta la fuerza creado por Hench Co. Industries. Mientras tanto, Drakken usa los otros anillos para intentar robar un invento al que el profesor Dementor ha llegado primero."
-      },
-      "21": {
-        "name": "Low Budget",
-        "still_path": "https://image.tmdb.org/t/p/w500/7ncHgZBsJwIcsXP15nqQh5mbKj6.jpg",
-        "overview": "Cuando sus elegantes jeans se arruinan durante una misión, Kim se ve obligada a saltarse su ropa de diseñador de Club Banana y comprar en los grandes almacenes Smarty Mart. Mientras están allí, ella y Ron descubren el plan del empleado Frugal Lucre para usar los códigos de barras de productos caducados para destruir Internet."
-      },
-      "22": {
-        "name": "Naked Genius",
-        "still_path": "https://image.tmdb.org/t/p/w500/bxRmjZX39y2B96Ml7gmEzQ5wRaK.jpg",
-        "overview": "Después de una misión para evitar que Drakken use una máquina ultrasecreta, Ron de repente comienza a exhibir un profundo conocimiento e inteligencia en su escritura de álgebra. Sin embargo, cuando Drakken lo secuestra y lo obliga a construir un dispositivo apocalíptico, Kim y el sutilmente cambiado Rufus deben salvarlo."
-      },
-      "23": {
-        "name": "Grudge Match",
-        "still_path": "https://image.tmdb.org/t/p/w500/4l5n2gOfPRq05mkBtikvDUGokdo.jpg",
-        "overview": "Ron hace todo lo posible para llamar la atención de una chica bonita en el teatro. Mientras tanto, Kim descubre una conspiración en el Centro Espacial que involucra tecnología ultrasecreta, robots de batalla y un ex empleado descontento."
-      },
-      "24": {
-        "name": "Two to Tutor",
-        "still_path": "https://image.tmdb.org/t/p/w500/aTmlwNvPZXciFibrhpj4X1bsyEg.jpg",
-        "overview": "Un Ron absurdamente habilidoso enseña a un Kim irremediablemente despistado en el arte de cocinar en su nueva clase electiva mientras Shego enseña a Señor Senior, Jr. en el arte de la villanía. Cuando el dúo se propuso robar una receta valiosa, Kim tiene que poner a prueba las lecciones que ha aprendido."
-      },
-      "25": {
-        "name": "The Ron Factor",
-        "still_path": "https://image.tmdb.org/t/p/w500/fQ0o8f9HkhMgMpYoaBGe1lW4Vsk.jpg",
-        "overview": "Global Justice realiza un estudio intensivo de Ron para determinar si él es el secreto del éxito de Kim. Desafortunadamente, una organización rival malvada llamada WEE tiene sus propios planes para él."
-      },
-      "26": {
-        "name": "Car Trouble",
-        "still_path": "https://image.tmdb.org/t/p/w500/cN4mnAajH1li8WwcnanEOfICaY.jpg",
-        "overview": "Después de suspender la educación del conductor, Kim recibe la visita de un vehículo artificialmente inteligente llamado Sadie, cuyo creador, el Dr. Freeman, ha sido secuestrado por Drakken para mejorar su ejército de robots."
-      },
-      "27": {
-        "name": "Rufus in Show",
-        "still_path": "https://image.tmdb.org/t/p/w500/rEwj3DXGjpjG1KJtWY05n82QiyZ.jpg",
-        "overview": "Rufus se hace pasar por un perro de exhibición sin pelo peruano para que Kim pueda investigar la mansión de un maestro ladrón de joyas."
-      },
-      "28": {
-        "name": "Job Unfair",
-        "still_path": "https://image.tmdb.org/t/p/w500/tYLJFbTir4kWTfr0MeBNPEqWiA.jpg",
-        "overview": "Kim sigue la pista de Drakken y Shego después de que robaron una máquina meteorológica voladora en un extraño complot para atacar Canadá. Al mismo tiempo, un desastroso asunto de trabajo la deja para lidiar con un conserje obsesivo y el misterioso maestro espía de Ron."
-      },
-      "29": {
-        "name": "The Golden Years",
-        "still_path": "https://image.tmdb.org/t/p/w500/vtJa8JYzAmnGDqIXDqGVTGwZZWW.jpg",
-        "overview": "Kim intenta eludir la sobreprotección anticuada de su anciana abuela paterna 'Nana' Possible durante una visita a Florida mientras desentraña el último plan de control mental de Drakken."
-      },
-      "30": {
-        "name": "Vir-Tu-Ron",
-        "still_path": "https://image.tmdb.org/t/p/w500/xO3o6R8XDYatju4C4392pXbHkaU.jpg",
-        "overview": "El mundo MMORPG de Everlot está bajo las garras de hierro de una figura malvada conocida solo como el Wraithmaster. Para impresionar a Zita, Ron juega y sobresale con los consejos expertos de Wade. Sin embargo, cuando él y Zita quedan atrapados dentro del juego, se cruza con el Wraithmaster, que también compite por sus afectos. La única esperanza de Ron es el regreso del enigmático Señor del Túnel, el único lo suficientemente fuerte como para luchar directamente contra el Maestro Espectro."
-      },
-      "31": {
-        "name": "The Fearless Ferret",
-        "still_path": "https://image.tmdb.org/t/p/w500/qwkz5V5gVdpkqY3P4KwqErbaThO.jpg",
-        "overview": "En un viaje para su trabajo voluntario en el hospital, Ron se involucra en la vida de un viejo ermitaño adinerado (con la voz de Adam West ) y asume su disfraz y herramientas como el próximo Fearless Ferret luchador contra el crimen. Sin embargo, White Stripe, uno de los viejos enemigos de Fearless Ferret, regresa para vengarse. Al descubrir la nueva vida secreta de Ron, Kim descubre que hay más en su nuevo mentor de lo que parece."
-      },
-      "32": {
-        "name": "Exchange",
-        "still_path": "https://image.tmdb.org/t/p/w500/h4FnGEHNbKDdBM82yrIhq1VFBep.jpg",
-        "overview": "Middleton High le da la bienvenida al misterioso Hirotaka nativo de Japón, mientras que Ron se traslada a una escuela ninja igualmente secreta en un intercambio de estudiantes. Mientras se siente como en casa, Kim y Monique se involucran en una competencia que se intensifica constantemente para ganarse el afecto del estudiante de intercambio. Mientras tanto, en Japón, Ron debe frustrar los intentos de Monkey Fist de robar el inmensamente poderoso Lotus Blade."
-      },
-      "33": {
-        "name": "Rufus vs. Commodore Puddles",
-        "still_path": "https://image.tmdb.org/t/p/w500/fWH8X3PFZ2FxoAyf4qpl7M3dCT2.jpg",
-        "overview": "Drakken y Shego intentan atravesar el Área 51 con un caniche gigante contra el que un Rufus también gigantesco debe luchar, mientras que Ron usa el ataque para filmar su película de monstruos."
-      },
-      "34": {
-        "name": "A Sitch in Time (Part 1: Present)",
-        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
-        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
-      },
-      "35": {
-        "name": "A Sitch in Time (Part 2: Past)",
-        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
-        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
-      },
-      "36": {
-        "name": "A Sitch in Time (Part 3: Future)",
-        "still_path": "https://image.tmdb.org/t/p/w500/t2z1RdXlN4R7EG5hFmaES6rr9M.jpg",
-        "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?"
-      },
-      "37": {
-        "name": "A Very Possible Christmas",
-        "still_path": "https://image.tmdb.org/t/p/w500/yKadez652uYFqFsY5UCAGFw7cuD.jpg",
-        "overview": "Ron está decepcionado de que su especial de Navidad favorito , Snowman Hank , haya sido cancelado y reemplazado. Mientras tanto, como regalo para Kim, Ron decide frustrar él mismo el último plan de conquista del mundo de Drakken para que ella pueda disfrutar de las festividades con su familia. Pero cuando él y Drakken terminan varados en el Polo Norte, Kim, su familia y Shego tienen que buscarlos."
-      },
-      "38": {
-        "name": "Queen Bebe",
-        "still_path": "https://image.tmdb.org/t/p/w500/6loNRzZM03P0MkzvF8HIGI49JAG.jpg",
-        "overview": "Kim se ve abrumada por compromisos y obligaciones con todos sus clubes y organizaciones escolares. Para empeorar las cosas, los Bebes robóticos de Drakken han regresado y han ganado súper velocidad."
-      },
-      "39": {
-        "name": "Hidden Talent",
-        "still_path": "https://image.tmdb.org/t/p/w500/wSV5ZnwWCqPjLIi1A2DW9pZB7Di.jpg",
-        "overview": "Ron inscribe a una Kim reacia para el programa de talentos de la escuela después de que Bonnie anuncia su intención de aplastar cualquier competencia. Sus planes de cantar se interrumpen cuando Wade comienza a actuar de forma errática y hace que Kim y Ron recuperen un dispositivo de teletransportación supuestamente robado del profesor Dementor, el dúo sin saber que están siendo manipulados en secreto por Drakken y Shego."
-      },
-      "40": {
-        "name": "Return to Wannaweep",
-        "still_path": "https://image.tmdb.org/t/p/w500/45ie9YJXgIogY8rrbdo27bapwAr.jpg",
-        "overview": "De camino al campamento de porristas, el equipo se encuentra nuevamente en el campamento Wannaweep para la competencia Spirit Stick. Kim se ocupa de tener a Bonnie como su compañera de literas, mientras que Ron no puede superar sus fuertes sospechas sobre una Gill aparentemente reformada y curada."
-      },
-      "41": {
-        "name": "Go Team Go",
-        "still_path": "https://image.tmdb.org/t/p/w500/donkNbzkVHaupuALFrk5lrQz0y5.jpg",
-        "overview": "En un viaje a la bulliciosa Go City, un supervillano con temática de aves llamado Aviarius ataca al Bueno Nacho que Ron y Kim están de visita, y Kim gana inadvertidamente una gran fuerza cuando intenta frustrar al villano. Los dos adolescentes se involucran rápidamente con el grupo de superhéroes retirado, Team Go, quienes, Kim se entera rápidamente, son los hermanos de Shego. Pero con el Equipo Go impotente contra Aviarius y sus dos miembros más jóvenes capturados, deben contar con la ayuda de la propia Shego."
-      },
-      "42": {
-        "name": "The Full Monkey",
-        "still_path": "https://image.tmdb.org/t/p/w500/mdcdYxUyCLpTNwo1IyDtXwvsjX8.jpg",
-        "overview": "Kim se une accidentalmente con un amuleto místico mientras lucha contra Monkey Fist, y comienza a transformarse en un mono. Ron debe encontrar una manera de cambiar su espalda mientras evita las complicaciones que la atención de Josh Mankey puede proporcionar."
-      },
-      "43": {
-        "name": "Blush",
-        "still_path": "https://image.tmdb.org/t/p/w500/qGoVuXaci4Z1BV8f9uh2u7ENDVJ.jpg",
-        "overview": "Justo a tiempo para complicar su creciente enamoramiento por Josh Mankey, Drakken rocía a Kim con un polen raro que crea un agujero en su ombligo que la hace desaparecer cada vez más cada vez que se avergüenza. Los intentos de Ron y Wade de encontrar otra dosis de polen se complican cuando Josh invita a Kim a salir, y ahora Kim debe luchar contra Drakken y Shego sin que Josh se entere de ellos."
-      },
-      "44": {
-        "name": "Partners",
-        "still_path": "https://image.tmdb.org/t/p/w500/p025I2Ey9dMtHDr7OA8rbIAPqWy.jpg",
-        "overview": "Kim, con la esperanza de no quedarse con Ron como su socio en el proyecto de ciencia, en su lugar obtiene un cerebrito que no la deja hacer nada en absoluto. Monique atrapa a Ron y rápidamente se exaspera por su pereza característica. Mientras tanto, Drakken encanta a DNAmy para que cree un monstruo gigante para él."
-      },
-      "45": {
-        "name": "Oh Boyz",
-        "still_path": "https://image.tmdb.org/t/p/w500/ti1HJ7fF4tTYfevGU2xnvISlx7k.jpg",
-        "overview": "Para ayudar en la búsqueda continua de su hijo para convertirse en una sensación de la música pop, Señor Senior, Sr. secuestra a la banda Oh Boyz para chantajear a su compañía discográfica. El plan fracasa cuando Ron termina capturado junto con ellos. El ejecutivo discográfico, que considera que la desaparición de Oh Boyz es una ganancia inesperada, no tiene prisa por ayudar, por lo que Kim debe rescatar a Ron y a la banda por su cuenta."
-      },
-      "46": {
-        "name": "Sick Day",
-        "still_path": "https://image.tmdb.org/t/p/w500/w6cuzsgGXbkyrmlJsCsYvyReXs.jpg",
-        "overview": "Kim coge un resfriado desagradable de los Tweebs, pero aún acepta una misión para proteger una máquina misteriosa. Después de que Drakken y Shego roban el dispositivo, su madre insiste en que se quede en la cama para descansar mientras Ron y los Tweebs asumen sus funciones. Para cuando se resuelvan los asuntos, todos en ambos lados del conflicto se han resfriado."
-      },
-      "47": {
-        "name": "Mother's Day",
-        "still_path": "https://image.tmdb.org/t/p/w500/bwwL5I0dDgF46EBpUkwHjUnQyYl.jpg",
-        "overview": "Como parte del vínculo madre-hija del Día de la Madre, Kim y su madre, la Dra. Possible, deciden frustrar juntas el último plan de Drakken. Drakken, por su parte, se ve obligado a lidiar con la inesperada visita de su madre mientras intenta robar un lote de Syntho-Plasma."
-      },
-      "48": {
-        "name": "Motor Ed",
-        "still_path": "https://image.tmdb.org/t/p/w500/ve25prMP5THuySV3Av1CtY895Da.jpg",
-        "overview": "Después de una serie de robos de alta tecnología, Kim debe detener la trama de un científico rebelde convertido en camionero llamado Motor Ed, con un poco de ayuda de su nuevo amigo Felix."
-      },
-      "49": {
-        "name": "Ron Millionaire",
-        "still_path": "https://image.tmdb.org/t/p/w500/ibyuyv1mRSaTUN3UjFZNluTUlos.jpg",
-        "overview": "Las regalías de Naco de repente convierten a Ron en un multimillonario tremendamente rico, luego procede a derrochar su nueva fortuna en una pandilla de amigos falsos y borracheras de gastos. Por codicia, Drakken roba el dinero de Ron para completar su último plan del fin del mundo."
-      },
-      "50": {
-        "name": "Triple S",
-        "still_path": "https://image.tmdb.org/t/p/w500/mIhjDehFqt0xydpAm55YOC2k4Sa.jpg",
-        "overview": "Después de una larga lista de intentos de convertirse en un deportista, Ron tiene una nueva oportunidad de competir en los juegos X cuando él y Kim son enviados a investigar una serie de robos que aparentemente involucran a los mayores, quienes recientemente perdieron su riqueza por un criminal de cuello blanco."
-      },
-      "51": {
-        "name": "Rewriting History",
-        "still_path": "https://image.tmdb.org/t/p/w500/c6zOzoNRRKrHda4iVa9LrA2rRRA.jpg",
-        "overview": "Kim descubre un escándalo centenario que involucra el robo de un maravilloso dispositivo de almacenamiento de energía, su tía tatarabuela paterna Miriam \"Mim\" y, curiosamente, los ancestros de muchos de sus amigos y enemigos, incluidos Ron, el profesor Dementor, el Dr. Drakken, Shego y el tío bisabuelo de Wade, Wayne. Kim debe trabajar rápidamente para limpiar el nombre de su tía abuela abuela paterna \"Mim\" y encontrar el dispositivo a tiempo antes de que Tri City sea destruida por completo por la explosión masiva que creará."
-      },
-      "52": {
-        "name": "Steal Wheels",
-        "still_path": "https://image.tmdb.org/t/p/w500/wx6IzNaQJsE3eN6bWH24kQiuGQV.jpg",
-        "overview": "En un intento por reformar a Eddie Lipsky (también conocido como Motor Ed), su tía lo pone bajo el cuidado de su primo, Drakken. Juntos, los dos planean robar la tecnología que impulsa la silla de ruedas de Felix para construir un vehículo destructivo. Mientras tanto, Kim está celosa de todo el tiempo que Ron pasa con Félix, por lo que intenta unirse a su diversión."
-      },
-      "53": {
-        "name": "Emotion Sickness",
-        "still_path": "https://image.tmdb.org/t/p/w500/yDKwcN8xi5KQxqf1mQSaXyFtCXX.jpg",
-        "overview": "En un intento por frustrar otro plan de Drakken para robar un acelerador electromagnético, los dispositivos experimentales que alteran el estado de ánimo se unen accidentalmente a Kim y Shego. Como resultado, se produce confusión y caos tanto para Ron como para Drakken, ya que los dispositivos envían a las chicas a toda velocidad a través de una variedad de emociones, que incluyen ira, dolor e incluso amor."
-      },
-      "54": {
-        "name": "Bonding",
-        "still_path": "https://image.tmdb.org/t/p/w500/wheumJfrvisXeYOPwA59bUek8xE.jpg",
-        "overview": "Después de una misión fallida para detener a Dementor, Kim y Ron son golpeados con un adhesivo experimental y deben aprender a vivir la vida unidos a Bonnie y Barkin, respectivamente."
-      },
-      "55": {
-        "name": "Bad Boy",
-        "still_path": "https://image.tmdb.org/t/p/w500/sufO2HuXt3lbZQXBTOy2sUSK94J.jpg",
-        "overview": "Cuando Ron quiere evitar a su primo Sean endiabladamente deformado en una boda, Kim sugiere sutilmente que Ron la tome como una cita amistosa. Mientras tanto, Drakken intenta utilizar un HenchCo. dispositivo llamado Attitudinator para hacerse más malvado. El plan falla cuando Kim y Ron rompen la máquina, transfiriendo la maldad de Drakken a Ron y la bondad de Ron a Drakken."
-      },
-      "56": {
-        "name": "Showdown at the Crooked D",
-        "still_path": "https://image.tmdb.org/t/p/w500/pyk2yTZ7imxUXgGlLdPgTaj7wf7.jpg",
-        "overview": "Cuando Kim y su familia visitan a su tío paterno en Montana, se encuentra lidiando con Joss, su primo y mayor admirador, que quiere ser como ella. Juntos, los dos deben frustrar el último plan de Drakken para poner fuera de servicio a las mentes científicas más brillantes del planeta."
-      },
-      "57": {
-        "name": "Dimension Twist",
-        "still_path": "https://image.tmdb.org/t/p/w500/y4psvKUonsRPe400T6BFt9lPrL3.jpg",
-        "overview": "El último invento robado de Drakken hace que él, Shego, Kim, Ron y Rufus sean absorbidos por el mundo de la televisión por cable."
-      },
-      "58": {
-        "name": "Overdue",
-        "still_path": "https://image.tmdb.org/t/p/w500/qFMpQduqKAoWmQfDLMyObifc2cm.jpg",
-        "overview": "Ron corre a través de las guaridas de varios de los enemigos de Kim con el fin de recuperar un libro atrasado suyo que él perdió y ella asumió la culpa."
-      },
-      "59": {
-        "name": "Rappin' Drakken",
-        "still_path": "https://image.tmdb.org/t/p/w500/cfmlEn0ICZwzXKPgszog6oXGX46.jpg",
-        "overview": "Después del dramático fracaso de su última trama, Drakken recurre a un concurso de música televisado para promover su propia línea de champú para controlar la mente. Para frustrar sus planes, Kim decide participar ella misma en el programa."
-      },
-      "60": {
-        "name": "Team Impossible",
-        "still_path": "https://image.tmdb.org/t/p/w500/1sEHyaMbuvtniTtExQvUYJrmHH7.jpg",
-        "overview": "Team Impossible, el equipo de acción y rescate más importante del mundo, se enfrenta a Kim y le exige que ponga fin a su carrera como salvadora del mundo, que está recortando su margen de beneficio. Cuando Kim se niega a hacerlo, de repente descubre que falta la red de conexiones que le permiten viajar por el mundo, lo que lleva a una confrontación con sus competitivos rivales."
-      },
-      "61": {
-        "name": "Gorilla Fist",
-        "still_path": "https://image.tmdb.org/t/p/w500/4q42lMdO7kUvODYhDJOUbVBJm9U.jpg",
-        "overview": "Ron es reclutado por Yori, su amiga y compañera de clase de la Escuela Ninja Yamanuchi para ayudar a encontrar a su Sensei desaparecido, quien supuestamente ha sido secuestrado por Monkey Fist. Una Kim suspicaz y celosa los persigue."
-      },
-      "62": {
-        "name": "And the Molerat Will Be CGI",
-        "still_path": "https://image.tmdb.org/t/p/w500/hywm9CzD4Ue3ZHVCcaIefKxZVHp.jpg",
-        "overview": "Después de llamar la atención de un director de cine, Kim y Ron son seguidos por dos estrellas de cine glamorosas, una de ellas intentando aprender sobre sus vidas para una próxima película de Kim Possible. Kim pronto se ve apartada por las payasadas de imitador de su estrella, mientras que Ron no puede hacer que él actúe en absoluto. La película queda en suspenso cuando Señor Senior, Jr.se estrella en el set y exige ser elegido como el villano de la película."
-      },
-      "63": {
-        "name": "Ill-Suited",
-        "still_path": "https://image.tmdb.org/t/p/w500/d6uDaDaS8tI5LSC5vG1lztptv2R.jpg",
-        "overview": "Es el comienzo del cuarto y último año de Kim y Ron en Middleton High School como estudiantes del último año, y todavía están en una relación después de los eventos de So the Drama . Ron, sin embargo, comienza a creer que Kim lo dejará por un deportista, y \"en secreto toma prestado\" el traje de batalla mejorado experimental de Kim para unirse al equipo de fútbol. Mientras tanto, Dementor intenta robar el traje de batalla para su propio uso."
-      },
-      "64": {
-        "name": "The Big Job",
-        "still_path": "https://image.tmdb.org/t/p/w500/x6wXQCUl1A3v7cKvhhgSKKR6GD8.jpg",
-        "overview": "Después de que Kim se cansa de las fechas financiadas con cupones, ella y Ron deciden conseguir trabajo. Mientras tanto, Señor Senior, Jr. saca a Shego de la cárcel para ayudarlo a cometer una serie de crímenes para honrar el cumpleaños del Señor Senior, Sr."
-      },
-      "65": {
-        "name": "Trading Faces",
-        "still_path": "https://image.tmdb.org/t/p/w500/x1lmm0ZAWzGMyrXTyYQF8pJ5GF1.jpg",
-        "overview": "Los amigos famosos de la heredera Camille Léon cometen crímenes misteriosos y Kim tiene que averiguar por qué. Mientras tanto, los hermanos de Kim avanzan en la escuela y se unen a ella en la escuela secundaria y, para su consternación, en sus misiones."
-      },
-      "66": {
-        "name": "The Cupid Effect",
-        "still_path": "https://image.tmdb.org/t/p/w500/jmoEZK4JaV0ZYPrsrnhQtWAS8d8.jpg",
-        "overview": "Es el día de San Valentín y Wade se enamora mucho de Monique, lo que le hace inventar un rayo de amor para que ella le devuelva sus afectos. Mientras tanto, Ron lleva a Kim y Monique a París, Francia, y los Seniors intentan conquistar la mitad del mundo utilizando el nuevo invento de Wade para que todas las chicas se enamoren perdidamente de Jr."
-      },
-      "67": {
-        "name": "Car Alarm",
-        "still_path": "https://image.tmdb.org/t/p/w500/kGtauhFlaRyYNuPXDijOtoTO3QS.jpg",
-        "overview": "Kim finalmente se las arregla para conseguir su propio auto: un reparador literal que alguna vez tuvo su padre. Sin embargo, se produce el caos cuando los Tweebs se ofrecen como voluntarios para engañarlo. Mientras tanto, Shego sale de prisión a través de Motor Ed y ayuda en su última travesura."
-      },
-      "68": {
-        "name": "Mad Dogs and Aliens",
-        "still_path": "https://image.tmdb.org/t/p/w500/bEted7L1AqTz0XVVt1YotdGeEEY.jpg",
-        "overview": "Jim y Tim se hacen cargo de los deberes de Middleton Mad Dog en la escuela secundaria, para disgusto de Ron. Drakken finalmente sale de la prisión por una mujer alienígena imponente llamada Warmonga, que cree que él es \"el Gran Azul\", profetizado por su gente, los lorwardianos, para llevarlos a la conquista universal."
-      },
-      "69": {
-        "name": "Grande Size Me",
-        "still_path": "https://image.tmdb.org/t/p/w500/oME4swMS4GXlG1T2dfW4CCvxOED.jpg",
-        "overview": "En un intento por demostrar que la Rueda del Buen Comer está mal, Ron gana una cantidad peligrosa de peso comiendo nada más que Bueno Nacho, pero pronto este acto rebelde se vuelve mortal cuando cae en una tina de suero durante una investigación en HenchCo. y lo transforma en un mutante salvaje gigante, mientras que Kim debe proteger a HenchCo. dispositivo de caer en las manos equivocadas."
-      },
-      "70": {
-        "name": "Clothes Minded",
-        "still_path": "https://image.tmdb.org/t/p/w500/4oubvqc5j6PkAjbWPA5dmulkrCs.jpg",
-        "overview": "Cuando el atuendo de misión habitual de Kim ya no está disponible para su compra en Club Banana , intenta buscar uno nuevo, todo mientras se preocupa por las admisiones a la universidad y el último plan de Drakken para reformar los continentes en el próximo Pangea"
-      },
-      "71": {
-        "name": "Big Bother",
-        "still_path": "https://image.tmdb.org/t/p/w500/x4ggjQt3TYg4AcFCneSciU3IW9Z.jpg",
-        "overview": "Ron tiene las manos ocupadas cuando tiene que cuidar tanto de un saco de harina (como parte de un proyecto escolar) como de su nueva hermanita adoptada Hana, sin mencionar la ayuda para localizar a Monkey Fist, que está en busca de tres llaves de piedra que lo llevará a un arma secreta. Para empeorar las cosas, también tiene que darle la noticia a su antiguo enamoramiento, Yori, de que él y Kim están saliendo ahora."
-      },
-      "72": {
-        "name": "Fashion Victim",
-        "still_path": "https://image.tmdb.org/t/p/w500/f2zrlUFpihKrDNVO3iMAdAFzunn.jpg",
-        "overview": "Un trío de criminales obsesionados con la moda, los Fashionistas, buscan hacerse con los diseños de moda más nuevos de Club Banana . Camille Léon , habiéndose aliado con ellos, también aprovecha la oportunidad para vengarse de Kim incrimándola por el robo. Con Ron actualmente soportando al Sr. Barkin, quien también trabaja en Smarty Mart , su última esperanza está en Monique."
-      },
-      "73": {
-        "name": "Odds Man In",
-        "still_path": "https://image.tmdb.org/t/p/w500/30BWk1bVGsXhQRqq8v5bHAj8j2e.jpg",
-        "overview": "Ron decide hacer algunos cálculos de lucha contra el crimen para ver cuánto peligro corren él y Kim durante sus misiones. Mientras tanto, Drakken es ayudado por el consultor corporativo Hank Perkins con su último plan para conquistar el mundo para traer la próxima Edad de Hielo."
-      },
-      "74": {
-        "name": "Stop Team Go",
-        "still_path": "https://image.tmdb.org/t/p/w500/aLUgBBlGGmOUuQuPoxQ4G0QvUV7.jpg",
-        "overview": "Cuando Shego aparece en Middleton High School como maestra sustituta, Kim se sorprende al saber que su antiguo rival en realidad está actuando bien por una vez. Sin embargo, no es una decisión voluntaria por parte de Shego. Más bien, ella y sus hermanos, Team Go, se han visto afectados por su antiguo enemigo Electronique con su Attitudinator nuevo, recientemente robado y mejorado."
-      },
-      "75": {
-        "name": "Cap'n Drakken",
-        "still_path": "https://image.tmdb.org/t/p/w500/6a5sSbhPXAxyT431k2ZXFS45nJx.jpg",
-        "overview": "Kim y Ron son obligados por el Sr. Barkin a pasar una semana en el puerto marítimo (sin ningún artículo moderno de ningún tipo), donde Drakken abre un cofre del tesoro y es poseído por el espíritu de un capitán pirata."
-      },
-      "76": {
-        "name": "Mathter and Fervent",
-        "still_path": "https://image.tmdb.org/t/p/w500/zHQMAmtUA7EJPK3bb0r509xYUQ0.jpg",
-        "overview": "Un extraño altercado con el enemigo centrado en los números del Team Go, Mathter, deja a Ron afectado por su poder. Ahora, Ron está destruyendo todo lo que toca, y Kim y Hego necesitan hacer algo."
-      },
-      "77": {
-        "name": "The Mentor of Our Discontent",
-        "still_path": "https://image.tmdb.org/t/p/w500/bfaGnUzkIzeI7pyBXenuKhuafXl.jpg",
-        "overview": "Martin Smarty le da a Ron un nuevo trabajo en Smarty Mart: sé un modelo a seguir para su rebelde hijo Artie. Mientras tanto, Drakken y Frugal Lucre se unen para tomar el control de los nuevos stockbots de Smarty Mart."
-      },
-      "78": {
-        "name": "Oh No! Yono!",
-        "still_path": "https://image.tmdb.org/t/p/w500/lCwpwtofg4WkE3q6x5blBSRuNZj.jpg",
-        "overview": "Después de descubrir a la bebé Hana caminando por el techo, Kim y Ron intentan llegar al fondo de sus secretos. Pronto, son llamados por el Maestro Sensei y Yori, quienes les piden que ayuden a detener a Monkey Fist, quien ha encontrado un nuevo aliado en Yono the Destroyer mientras continúa su búsqueda del arma secreta."
-      },
-      "79": {
-        "name": "Clean Slate",
-        "still_path": "https://image.tmdb.org/t/p/w500/XTi8WPJQd2dJL2cWV511JeVhUG.jpg",
-        "overview": "Kim sufre amnesia durante una misión, mientras Drakken intenta hacerse con el control del ejército. Kim pronto recuerda todo sobre su vida de nuevo, excepto el hecho de que ella y Ron son pareja."
-      },
-      "80": {
-        "name": "Homecoming Upset",
-        "still_path": "https://image.tmdb.org/t/p/w500/qq5tb0mSVorVUj3YdM1UIJKVLAe.jpg",
-        "overview": "Las cosas se salen de control cuando Ron y Bonnie se convierten en el rey y la reina del baile. Ahora Kim tiene dos problemas con los que lidiar: un experto en computación aparentemente secuestrado por Señor Senior, Jr. y Bonnie haciendo un movimiento con su novio."
-      },
-      "81": {
-        "name": "Chasing Rufus",
-        "still_path": "https://image.tmdb.org/t/p/w500/4HKU31Lmr0oYsZNIPwaTEGJh16x.jpg",
-        "overview": "Después de que Ron Stoppable y Camille Léon perdieran accidentalmente a sus mascotas durante una pelea, Rufus y Debutante emprenden una aventura por todo el mundo para encontrar a sus respectivos dueños."
-      },
-      "82": {
-        "name": "Larry's Birthday",
-        "still_path": "https://image.tmdb.org/t/p/w500/oJMvFiO80EuDUQCjjHj3Pi0Hnxc.jpg",
-        "overview": "Kim debe mantener alejado a su primo Larry hasta que su fiesta sorpresa de cumpleaños esté lista, además de evitar que Dementor le robe su traje de batalla."
-      },
-      "83": {
-        "name": "Graduation, Part 1",
-        "still_path": "https://image.tmdb.org/t/p/w500/kvhVNGBFiPkc482Vd83vqT2OhpS.jpg",
-        "overview": "Mientras a Ron le preocupa que la graduación signifique el fin de su relación romántica con Kim, una vengativa Warmonga regresa con su compañero de batalla, Warhawk the Conqueror, para invadir la Tierra."
-      },
-      "84": {
-        "name": "Graduation, Part 2",
-        "still_path": "https://image.tmdb.org/t/p/w500/qgeCZdKnWjghwPEoseopHOGPkKG.jpg",
-        "overview": "El día de la graduación, Kim es secuestrado junto con Drakken por los invasores alienígenas, y debe trabajar junto a él, Ron y Shego para frustrar el asalto planetario de los lorwardianos."
-      }
-    }
-  },
   "count": 4167,
   "dialogues": 46701
 }

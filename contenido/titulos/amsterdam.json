@@ -1,0 +1,31 @@
+{
+  "titulo": "Ámsterdam",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 664469
+  },
+  "analisis": "Ambientada en los años 30, presenta un inglés de época con diálogos rápidos, verborreicos e intelectuales. Encontrarás mucho vocabulario médico, legal y político ('autopsy', 'veteran', 'conspiracy', 'fascism'). Excelente para practicar comprensión auditiva de ritmo rápido y humor satírico.",
+  "sinopsis": "Una épica historia de un crimen romántico sobre tres íntimos amigos que se ven envueltos en el medio de una de las tramas secretas más escandalosas de la historia norteamericana. Epopeya romántica sobre tres amigos que se ven envueltos en una de las tramas secretas más impactantes de la historia de Estados Unidos. Basada en hechos que se mezclan con ficción.",
+  "poster": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+    "https://image.tmdb.org/t/p/w780/4ASjFQZQtGfaDoPPvy0UIZMmuH5.jpg",
+    "https://image.tmdb.org/t/p/w780/79PcXPpbDWql74h8Y00mNwbYMbS.jpg",
+    "https://image.tmdb.org/t/p/w780/lB41VF8VM7sCj1BDXufRKjZt1Oj.jpg",
+    "https://image.tmdb.org/t/p/w780/k1X6LX4JOlvxOrpJuLrYZfFiWVs.jpg",
+    "https://image.tmdb.org/t/p/w780/xCpblyOKDcPg1DZmYdLXgIZ77pH.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Ámsterdam (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2024/Palabras desconocidas de Ámsterdam (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Amsterdam movie to improve the vocabulary in English.pdf"
+    ]
+  }
+}

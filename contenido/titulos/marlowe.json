@@ -1,0 +1,30 @@
+{
+  "titulo": "Marlowe",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 844417
+  },
+  "analisis": "Ambientada en la década de 1930, esta cinta noir ofrece un vocabulario típico del cine de detectives: términos criminales, jerga callejera de la época, sarcasmo y un lenguaje formal pero crudo. El acento estadounidense clásico de Liam Neeson añade un tono rasposo y cínico.",
+  "sinopsis": "A finales de los años 30, en los bajos fondos de Los Ángeles, una rica y bella heredera encarga a Marlowe que busque a su antiguo amante, que ha desaparecido. Pronto descubre que tras la desaparición de ese hombre hay una red corrupta que le pone en el punto de mira de algunos de los mandatarios más acomodados y peligrosos de la ciudad.",
+  "poster": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg",
+    "https://image.tmdb.org/t/p/w780/1KpCjh3hedCEX8mvxtldU0Z2IiE.jpg",
+    "https://image.tmdb.org/t/p/w780/k88X6FXbypxL6OeoV5bDcTK1gfM.jpg",
+    "https://image.tmdb.org/t/p/w780/gNVo4cuK7NoEYHJY2Cp8sfStxKm.jpg",
+    "https://image.tmdb.org/t/p/w780/ipy6YEHhqwsEsLX61i6aidaPNOl.jpg",
+    "https://image.tmdb.org/t/p/w780/sfAuUIILBYilmtFF3AuF3YMkYj0.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Marlowe (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Marlowe to improve the vocabulary in English.pdf"
+    ]
+  }
+}

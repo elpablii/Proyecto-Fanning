@@ -2,6 +2,19 @@
   "title": "Olivia Rodrigo Guts World Tour",
   "level": "B2",
   "englishAnalysis": "Inglés de concierto en vivo. Interacción con multitudes ('crowd work'), jerga generacional, y letras musicales crudas y emocionales sobre la transición a la adultez.",
+  "tmdb": {
+    "overview": "At a sold-out concert in her hometown of LA, Olivia Rodrigo pours her heart into an electrifying night of chart-topping hits and pop-rock power ballads.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
+      "https://image.tmdb.org/t/p/w780/pLIltECW72W9aRlXANeGzXsWRBc.jpg",
+      "https://image.tmdb.org/t/p/w780/sn3AWhWlkHVjIJVh7s8t5DRaxLD.jpg",
+      "https://image.tmdb.org/t/p/w780/iGsg3wEhypZjJD2GqwgL4i0OWFL.jpg",
+      "https://image.tmdb.org/t/p/w780/5lqA9X08WeqO57IEH3ikZMJq1mZ.jpg",
+      "https://image.tmdb.org/t/p/w780/iunYfStBvMzd0Oxdpk7hWldq1Jc.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
   "vocabulary": [
     {
       "word": "Match strikes",
@@ -308,18 +321,6 @@
       "translation": "captores, secuestradores, capturadores"
     }
   ],
-  "tmdb": {
-    "overview": "At a sold-out concert in her hometown of LA, Olivia Rodrigo pours her heart into an electrifying night of chart-topping hits and pop-rock power ballads.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
-      "https://image.tmdb.org/t/p/w780/pLIltECW72W9aRlXANeGzXsWRBc.jpg",
-      "https://image.tmdb.org/t/p/w780/sn3AWhWlkHVjIJVh7s8t5DRaxLD.jpg",
-      "https://image.tmdb.org/t/p/w780/iGsg3wEhypZjJD2GqwgL4i0OWFL.jpg",
-      "https://image.tmdb.org/t/p/w780/5lqA9X08WeqO57IEH3ikZMJq1mZ.jpg",
-      "https://image.tmdb.org/t/p/w780/iunYfStBvMzd0Oxdpk7hWldq1Jc.jpg"
-    ],
-    "episodes": null
-  },
   "count": 76,
   "dialogues": 1663
 }

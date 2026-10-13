@@ -2,6 +2,19 @@
   "title": "Z for Zachariah",
   "level": "B1",
   "englishAnalysis": "Drama post-apocalíptico con pocos personajes. El inglés es tenso, pausado y con un fuerte acento rural del sur profundo de EE.UU. Vocabulario centrado en la supervivencia, la religión y el trabajo agrícola.",
+  "tmdb": {
+    "overview": "In the wake of a nuclear war, a young woman survives on her own, fearing she may actually be the proverbial last woman on earth, until she discovers the most astonishing sight of her life: another human being. A distraught scientist, he’s nearly been driven mad by radiation exposure and his desperate search for others. A fragile, imperative strand of trust connects them. But when a stranger enters the valley, their precarious bond begins to unravel.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
+      "https://image.tmdb.org/t/p/w780/kTifWnXRTh3Y8axz7WVeGgo2r3H.jpg",
+      "https://image.tmdb.org/t/p/w780/uLa4bLfpo0UTQmFy7NcVFAtLACn.jpg",
+      "https://image.tmdb.org/t/p/w780/kOnZUUP2JSEdJIkEkhz639O6gsX.jpg",
+      "https://image.tmdb.org/t/p/w780/5Yv1DDsikHSkVX3xkpT9d4PoCX8.jpg",
+      "https://image.tmdb.org/t/p/w780/ryoTHRHrTy4nSuwyjol7GtUpWsA.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
   "vocabulary": [
     {
       "word": "Wagon",
@@ -348,18 +361,6 @@
       "translation": "traje de seguridad, traje antirradiación"
     }
   ],
-  "tmdb": {
-    "overview": "In the wake of a nuclear war, a young woman survives on her own, fearing she may actually be the proverbial last woman on earth, until she discovers the most astonishing sight of her life: another human being. A distraught scientist, he’s nearly been driven mad by radiation exposure and his desperate search for others. A fragile, imperative strand of trust connects them. But when a stranger enters the valley, their precarious bond begins to unravel.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
-      "https://image.tmdb.org/t/p/w780/kTifWnXRTh3Y8axz7WVeGgo2r3H.jpg",
-      "https://image.tmdb.org/t/p/w780/uLa4bLfpo0UTQmFy7NcVFAtLACn.jpg",
-      "https://image.tmdb.org/t/p/w780/kOnZUUP2JSEdJIkEkhz639O6gsX.jpg",
-      "https://image.tmdb.org/t/p/w780/5Yv1DDsikHSkVX3xkpT9d4PoCX8.jpg",
-      "https://image.tmdb.org/t/p/w780/ryoTHRHrTy4nSuwyjol7GtUpWsA.jpg"
-    ],
-    "episodes": null
-  },
   "count": 86,
   "dialogues": 719
 }

@@ -2,6 +2,19 @@
   "title": "Taylor Swift The Eras Tour Film",
   "level": "B2",
   "englishAnalysis": "Muestra un inglés íntimo, musical y expresivo. Combina monólogos poéticos con el argot del mundo del espectáculo y de los fans ('eras', 'stadium', 'bridge', 'acoustic'). Es un lenguaje moderno y cercano, ideal para acostumbrarse al ritmo conversacional contemporáneo y expresiones idiomáticas de sentimientos.",
+  "tmdb": {
+    "overview": "¡El fenómeno cultural continúa en la pantalla grande! Sumérgete en esta experiencia cinematográfica de concierto única en la vida con una vista cinematográfica impresionante de la gira histórica.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
+      "https://image.tmdb.org/t/p/w780/fn0bRHELeylB452pL2Mlo76YEzI.jpg",
+      "https://image.tmdb.org/t/p/w780/uRKhh7JYMD6QWNt0NjmMfh7uLdm.jpg",
+      "https://image.tmdb.org/t/p/w780/mowTk9LFSr8rW3EG2CUSwzuvx0g.jpg",
+      "https://image.tmdb.org/t/p/w780/x9tsSyltV2N814LtABb41NjVMd7.jpg",
+      "https://image.tmdb.org/t/p/w780/wCZfWZ09GW9YiHdu1BH6WWI0JKl.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
   "vocabulary": [
     {
       "word": "Timer ticking",
@@ -1512,20 +1525,6 @@
       "translation": "claveles"
     }
   ],
-  "tmdb": {
-    "overview": "¡El fenómeno cultural continúa en la pantalla grande! Sumérgete en esta experiencia cinematográfica de concierto única en la vida con una vista cinematográfica impresionante de la gira histórica.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
-      "https://image.tmdb.org/t/p/w780/fn0bRHELeylB452pL2Mlo76YEzI.jpg",
-      "https://image.tmdb.org/t/p/w780/uRKhh7JYMD6QWNt0NjmMfh7uLdm.jpg",
-      "https://image.tmdb.org/t/p/w780/mowTk9LFSr8rW3EG2CUSwzuvx0g.jpg",
-      "https://image.tmdb.org/t/p/w780/x9tsSyltV2N814LtABb41NjVMd7.jpg",
-      "https://image.tmdb.org/t/p/w780/wCZfWZ09GW9YiHdu1BH6WWI0JKl.jpg"
-    ],
-    "episodes": null
-  },
   "count": 377,
-  "dialogues": 3378,
-  "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
+  "dialogues": 3378
 }

@@ -2,6 +2,19 @@
   "title": "I-Tonya",
   "level": "C1",
   "englishAnalysis": "Un festín de acentos regionales americanos, específicamente de clase trabajadora. El lenguaje es muy coloquial, a menudo explícito, y está lleno de justificaciones, sarcasmo y jerga de patinaje artístico ('triple axel', 'landing', 'judges'). Un gran reto para entender inglés no estándar.",
+  "tmdb": {
+    "overview": "Década de los años 90. Tonya Harding es una prometedora patinadora artística estadounidense, la segunda en la historia capaz de completar en competición un salto de triple axel. Claro que, Tonya también se hizo famosa por uno de los escándalos más sensacionales en la historia del deporte. En 1994 su principal rival para los Juegos Olímpicos de Lillehammer era su compatriota Nancy Kerrigan. Poco antes del inicio de la competición, Kerrigan sufrió un infame ataque por un matón a sueldo, que intentó romperle la rodilla. La sombra de la sospecha recae entonces sobre el entorno de Tonya, desde su ex marido Jeff Gillooly hasta su guardaespaldas, Shawn Eckhardt. El matrimonio se verá entonces envuelto en problemas legales y fue así como comenzó la decadencia de la carrera de Harding.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+      "https://image.tmdb.org/t/p/w780/jK3EAFk3GdOaQfUDCOiTujzMpwH.jpg",
+      "https://image.tmdb.org/t/p/w780/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg",
+      "https://image.tmdb.org/t/p/w780/cW2tkTM1RoCTE4Orbx5ELNThlvq.jpg",
+      "https://image.tmdb.org/t/p/w780/hOMw4TyUTWuso6qxyxlDUGaIQIg.jpg",
+      "https://image.tmdb.org/t/p/w780/jDai0rdlBHhcY8vpJ4XmTIDQU5i.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
   "vocabulary": [
     {
       "word": "Right there",
@@ -808,18 +821,6 @@
       "translation": "ojalá"
     }
   ],
-  "tmdb": {
-    "overview": "Década de los años 90. Tonya Harding es una prometedora patinadora artística estadounidense, la segunda en la historia capaz de completar en competición un salto de triple axel. Claro que, Tonya también se hizo famosa por uno de los escándalos más sensacionales en la historia del deporte. En 1994 su principal rival para los Juegos Olímpicos de Lillehammer era su compatriota Nancy Kerrigan. Poco antes del inicio de la competición, Kerrigan sufrió un infame ataque por un matón a sueldo, que intentó romperle la rodilla. La sombra de la sospecha recae entonces sobre el entorno de Tonya, desde su ex marido Jeff Gillooly hasta su guardaespaldas, Shawn Eckhardt. El matrimonio se verá entonces envuelto en problemas legales y fue así como comenzó la decadencia de la carrera de Harding.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
-      "https://image.tmdb.org/t/p/w780/jK3EAFk3GdOaQfUDCOiTujzMpwH.jpg",
-      "https://image.tmdb.org/t/p/w780/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg",
-      "https://image.tmdb.org/t/p/w780/cW2tkTM1RoCTE4Orbx5ELNThlvq.jpg",
-      "https://image.tmdb.org/t/p/w780/hOMw4TyUTWuso6qxyxlDUGaIQIg.jpg",
-      "https://image.tmdb.org/t/p/w780/jDai0rdlBHhcY8vpJ4XmTIDQU5i.jpg"
-    ],
-    "episodes": null
-  },
   "count": 201,
   "dialogues": 1546
 }

@@ -1,0 +1,30 @@
+{
+  "titulo": "Bichos Una Aventura en Miniatura",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 9487
+  },
+  "analisis": "Inglés infantil de los años 90 con pronunciación muy nítida. Aborda vocabulario sobre la naturaleza, insectos, opresión y rebelión en un formato muy amigable y fácil de seguir.",
+  "sinopsis": "Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grupo de saltamontes comandados por Hopper. Pero cuando la caballería de Flik resulta ser un conjunto de artistas de circo, comienzan las cómicas confusiones.",
+  "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "https://image.tmdb.org/t/p/w780/pWd09ohdwOSNF4IWG8a25qORc2O.jpg",
+    "https://image.tmdb.org/t/p/w780/s0eIBHJROgDWO3IoOt8FfQCFPGh.jpg",
+    "https://image.tmdb.org/t/p/w780/u2HrA8BMvvHURz5mVOIe9EM1zGx.jpg",
+    "https://image.tmdb.org/t/p/w780/vhJfI0UaV43FTJec7r5KJMPSWoH.jpg",
+    "https://image.tmdb.org/t/p/w780/uPaYMfkKG1ZHz2mQPykrnyCYDdG.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Bichos Una Aventura en Miniatura (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from A Bug's Life to improve the vocabulary in English.pdf"
+    ]
+  }
+}

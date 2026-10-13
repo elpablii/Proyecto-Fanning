@@ -5,6 +5,7 @@ export interface TopWord {
 }
 
 export interface Episode {
+  code?: string;   // código del episodio en las series: "S01E01", "SP01"
   name: string;
   count: number;
 }

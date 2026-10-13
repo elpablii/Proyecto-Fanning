@@ -1,0 +1,30 @@
+{
+  "titulo": "El Expreso Polar",
+  "tipo": "pelicula",
+  "nivel": "A2-B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 5255
+  },
+  "analisis": "Un vocabulario mágico y clásico centrado en la Navidad, trenes y la infancia. El inglés utilizado es claro, evocador y lleno de adjetivos descriptivos ideales para principiantes e intermedios.",
+  "sinopsis": "En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Expreso Polar, mientras aprende sobre la amistad, la valentía y el espíritu de la Navidad.",
+  "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+    "https://image.tmdb.org/t/p/w780/y8Mabq84N0d5fm83CWb9Zkltkwr.jpg",
+    "https://image.tmdb.org/t/p/w780/xxH7s4o2ED9qrGxADOp627Txq7o.jpg",
+    "https://image.tmdb.org/t/p/w780/j5bNVfWgbbb36cUSVqSwcbIspOh.jpg",
+    "https://image.tmdb.org/t/p/w780/vQuIi5iOCN3V6yg7nbP5HUiVnpK.jpg",
+    "https://image.tmdb.org/t/p/w780/QKOADxDmh479WYtrsaVh0RA5sH.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2023/Palabras desconocidas de El Expreso Polar (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2023/Dialogues from The Polar Express to improve the vocabulary in English.pdf"
+    ]
+  }
+}

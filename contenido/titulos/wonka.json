@@ -1,0 +1,28 @@
+{
+  "titulo": "Wonka",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE+7",
+  "tmdb": null,
+  "analisis": "Un inglés británico mágico y encantador. Lleno de vocabulario descriptivo relacionado con la confitería, los sueños y la imaginación. Diálogos excéntricos y pronunciación muy clara al estilo teatral.",
+  "sinopsis": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+  "poster": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+    "https://image.tmdb.org/t/p/w780/xwzJiqdDIlXYeUkPjbOvXZicig2.jpg",
+    "https://image.tmdb.org/t/p/w780/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+    "https://image.tmdb.org/t/p/w780/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+    "https://image.tmdb.org/t/p/w780/r1eCvALF6fN7anVYL8Zn7PaceD1.jpg",
+    "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Wonka (Parte 1 - lista definitiva).pdf",
+      "Vocabularios/2025/Palabras desconocidas de Wonka (Parte 2 - lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Wonka to improve the vocabulary in English.pdf"
+    ]
+  }
+}

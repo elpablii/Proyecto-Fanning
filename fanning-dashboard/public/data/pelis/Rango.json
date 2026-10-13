@@ -2,6 +2,19 @@
   "title": "Rango",
   "level": "B2",
   "englishAnalysis": "Ofrece un vocabulario muy rico, casi teatral y filosófico, mezclado con jerga del Lejano Oeste y acentos desérticos arrastrados. Destacan los monólogos introspectivos y el uso de vocabulario arcaico y peculiar.",
+  "tmdb": {
+    "overview": "Rango es un camaleón ordinario que accidentalmente acaba en la ciudad de Dirt, un pueblo sin ley en el Salvaje Oeste que necesita desesperadamente un nuevo sheriff.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
+      "https://image.tmdb.org/t/p/w780/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+      "https://image.tmdb.org/t/p/w780/6B2tOYhaIpv3kPKBkvdebX624Gw.jpg",
+      "https://image.tmdb.org/t/p/w780/zFpubwUpkUpKw71u4KkfJaJ5126.jpg",
+      "https://image.tmdb.org/t/p/w780/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
+      "https://image.tmdb.org/t/p/w780/qXuwcdfjs868pQW1clEUgQpCepZ.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
   "vocabulary": [
     {
       "word": "Untimely death",
@@ -1004,18 +1017,6 @@
       "translation": "empecemos desde el principio"
     }
   ],
-  "tmdb": {
-    "overview": "Rango es un camaleón ordinario que accidentalmente acaba en la ciudad de Dirt, un pueblo sin ley en el Salvaje Oeste que necesita desesperadamente un nuevo sheriff.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
-      "https://image.tmdb.org/t/p/w780/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
-      "https://image.tmdb.org/t/p/w780/6B2tOYhaIpv3kPKBkvdebX624Gw.jpg",
-      "https://image.tmdb.org/t/p/w780/zFpubwUpkUpKw71u4KkfJaJ5126.jpg",
-      "https://image.tmdb.org/t/p/w780/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
-      "https://image.tmdb.org/t/p/w780/qXuwcdfjs868pQW1clEUgQpCepZ.jpg"
-    ],
-    "episodes": null
-  },
   "count": 250,
   "dialogues": 1307
 }

@@ -2,6 +2,19 @@
   "title": "Five Nights at Freddy's II",
   "level": "B2",
   "englishAnalysis": "Vocabulario de terror centrado en la supervivencia, el pánico y la seguridad. Incluye jerga laboral (turnos de noche, monitores, animatrónicos) y expresiones asociadas a la investigación de misterios perturbadores, con diálogos intensos.",
+  "tmdb": {
+    "overview": "Un año después de los sucesos de Freddy Fazbear's Pizza, y con la llegada de un nuevo Faszfest al pueblo. Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy con oscuros secretos revelándose.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "https://image.tmdb.org/t/p/w780/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
+      "https://image.tmdb.org/t/p/w780/igxgTccNiUGmIBVO9kjivuVPp52.jpg",
+      "https://image.tmdb.org/t/p/w780/1Z0nATltcUBA3Hvr4kWwptZJrPa.jpg",
+      "https://image.tmdb.org/t/p/w780/uuvN5g4hnl1DDVJH2gJz8euSTYP.jpg",
+      "https://image.tmdb.org/t/p/w780/a8bDH9Gjoxu1ySqqNTRvI5CdCyx.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
   "vocabulary": [
     {
       "word": "Feedback (en electrónica)",
@@ -380,18 +393,6 @@
       "translation": "el equipo que me queda de aquella época está desfasado"
     }
   ],
-  "tmdb": {
-    "overview": "Un año después de los sucesos de Freddy Fazbear's Pizza, y con la llegada de un nuevo Faszfest al pueblo. Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy con oscuros secretos revelándose.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-      "https://image.tmdb.org/t/p/w780/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
-      "https://image.tmdb.org/t/p/w780/igxgTccNiUGmIBVO9kjivuVPp52.jpg",
-      "https://image.tmdb.org/t/p/w780/1Z0nATltcUBA3Hvr4kWwptZJrPa.jpg",
-      "https://image.tmdb.org/t/p/w780/uuvN5g4hnl1DDVJH2gJz8euSTYP.jpg",
-      "https://image.tmdb.org/t/p/w780/a8bDH9Gjoxu1ySqqNTRvI5CdCyx.jpg"
-    ],
-    "episodes": null
-  },
   "count": 94,
   "dialogues": 1602
 }

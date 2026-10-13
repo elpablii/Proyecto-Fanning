@@ -1,0 +1,30 @@
+{
+  "titulo": "Teen Spirit",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 440918
+  },
+  "analisis": "En esta película protagonizada por Elle Fanning, se destaca el acento británico (particularmente el de la Isla de Wight) combinado con algo de vocabulario de la industria musical y los concursos de talentos. Es una buena oportunidad para acostumbrar el oído al acento inglés más rural y coloquial frente al estándar, además de captar la jerga juvenil de los aspirantes a cantantes.",
+  "sinopsis": "Violet (Fanning) es una introvertida adolescente que vive en la Isla de Wight (Inglaterra) y que sueña con convertise en una estrella del Pop para poder así alejarse de tu triste panorama familiar. Con la ayuda de un inesperado mentor, Violet se inscribe en un concurso de canto que pondrá a prueba su integridad, talento y ambición.",
+  "poster": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+    "https://image.tmdb.org/t/p/w780/xEFt3DBxXW01eiSsh4SzbF9Nvgm.jpg",
+    "https://image.tmdb.org/t/p/w780/ic38JoDDcwns4SXqrLT93Wh6sSy.jpg",
+    "https://image.tmdb.org/t/p/w780/ecyI5NpwPAhsMSPFUZVxqZeL8nh.jpg",
+    "https://image.tmdb.org/t/p/w780/46iXerKPKwOefdMRcwhh2JtGoOQ.jpg",
+    "https://image.tmdb.org/t/p/w780/4hjyosidHta4BecvLm2APOXaSzE.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Teen Spirit (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Teen Spirit to improve the vocabulary in English.pdf"
+    ]
+  }
+}

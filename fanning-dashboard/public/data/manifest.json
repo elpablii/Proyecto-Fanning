@@ -67,666 +67,777 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01",
             "count": 41,
             "dialogues": 397,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02",
             "count": 40,
             "dialogues": 353,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03",
             "count": 60,
             "dialogues": 363,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04",
             "count": 49,
             "dialogues": 324,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05",
             "count": 29,
             "dialogues": 310,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06",
             "count": 36,
             "dialogues": 328,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07",
             "count": 53,
             "dialogues": 348,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08",
             "count": 34,
             "dialogues": 352,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "S01E09",
             "count": 40,
             "dialogues": 322,
             "level": "B2"
           },
           {
+            "code": "S01E10",
             "name": "S01E10",
             "count": 43,
             "dialogues": 337,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "S01E11",
             "count": 54,
             "dialogues": 307,
             "level": "B2"
           },
           {
+            "code": "S01E12",
             "name": "S01E12",
             "count": 44,
             "dialogues": 322,
             "level": "B2"
           },
           {
+            "code": "S01E13",
             "name": "S01E13",
             "count": 45,
             "dialogues": 345,
             "level": "B2"
           },
           {
+            "code": "S01E14",
             "name": "S01E14",
             "count": 39,
             "dialogues": 304,
             "level": "B2"
           },
           {
+            "code": "S01E15",
             "name": "S01E15",
             "count": 31,
             "dialogues": 343,
             "level": "B2"
           },
           {
+            "code": "S01E16",
             "name": "S01E16",
             "count": 31,
             "dialogues": 319,
             "level": "B2"
           },
           {
+            "code": "S01E17",
             "name": "S01E17",
             "count": 34,
             "dialogues": 327,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01",
             "count": 43,
             "dialogues": 321,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02",
             "count": 41,
             "dialogues": 344,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03",
             "count": 46,
             "dialogues": 325,
             "level": "B2"
           },
           {
+            "code": "S02E04",
             "name": "S02E04",
             "count": 52,
             "dialogues": 334,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05",
             "count": 48,
             "dialogues": 394,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06",
             "count": 42,
             "dialogues": 307,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07",
             "count": 47,
             "dialogues": 359,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08",
             "count": 42,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E09",
             "name": "S02E09",
             "count": 45,
             "dialogues": 326,
             "level": "B2"
           },
           {
+            "code": "S02E10",
             "name": "S02E10",
             "count": 26,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S02E11",
             "name": "S02E11",
             "count": 35,
             "dialogues": 306,
             "level": "B2"
           },
           {
+            "code": "S02E12",
             "name": "S02E12",
             "count": 47,
             "dialogues": 364,
             "level": "B2"
           },
           {
+            "code": "S02E13",
             "name": "S02E13",
             "count": 46,
             "dialogues": 353,
             "level": "B2"
           },
           {
+            "code": "S02E14",
             "name": "S02E14",
             "count": 38,
             "dialogues": 349,
             "level": "B2"
           },
           {
+            "code": "S02E15",
             "name": "S02E15",
             "count": 47,
             "dialogues": 420,
             "level": "B2"
           },
           {
+            "code": "S02E16",
             "name": "S02E16",
             "count": 35,
             "dialogues": 344,
             "level": "B2"
           },
           {
+            "code": "S02E17",
             "name": "S02E17",
             "count": 64,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E18",
             "name": "S02E18",
             "count": 50,
             "dialogues": 319,
             "level": "B2"
           },
           {
+            "code": "S02E19",
             "name": "S02E19",
             "count": 38,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S02E20",
             "name": "S02E20",
             "count": 44,
             "dialogues": 329,
             "level": "B2"
           },
           {
+            "code": "S02E21",
             "name": "S02E21",
             "count": 27,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E22",
             "name": "S02E22",
             "count": 48,
             "dialogues": 325,
             "level": "B2"
           },
           {
+            "code": "S02E23",
             "name": "S02E23",
             "count": 43,
             "dialogues": 466,
             "level": "B2"
           },
           {
+            "code": "S03E01",
             "name": "S03E01",
             "count": 29,
             "dialogues": 368,
             "level": "B2"
           },
           {
+            "code": "S03E02",
             "name": "S03E02",
             "count": 31,
             "dialogues": 486,
             "level": "B2"
           },
           {
+            "code": "S03E03",
             "name": "S03E03",
             "count": 27,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S03E04",
             "name": "S03E04",
             "count": 34,
             "dialogues": 356,
             "level": "B2"
           },
           {
+            "code": "S03E05",
             "name": "S03E05",
             "count": 31,
             "dialogues": 326,
             "level": "B2"
           },
           {
+            "code": "S03E06",
             "name": "S03E06",
             "count": 42,
             "dialogues": 323,
             "level": "B2"
           },
           {
+            "code": "S03E07",
             "name": "S03E07",
             "count": 26,
             "dialogues": 339,
             "level": "B2"
           },
           {
+            "code": "S03E08",
             "name": "S03E08",
             "count": 30,
             "dialogues": 317,
             "level": "B2"
           },
           {
+            "code": "S03E09",
             "name": "S03E09",
             "count": 24,
             "dialogues": 303,
             "level": "B2"
           },
           {
+            "code": "S03E10",
             "name": "S03E10",
             "count": 23,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S03E11",
             "name": "S03E11",
             "count": 35,
             "dialogues": 306,
             "level": "B2"
           },
           {
+            "code": "S03E12",
             "name": "S03E12",
             "count": 40,
             "dialogues": 414,
             "level": "B2"
           },
           {
+            "code": "S03E13",
             "name": "S03E13",
             "count": 39,
             "dialogues": 383,
             "level": "B2"
           },
           {
+            "code": "S03E14",
             "name": "S03E14",
             "count": 46,
             "dialogues": 309,
             "level": "B2"
           },
           {
+            "code": "S03E15",
             "name": "S03E15",
             "count": 43,
             "dialogues": 477,
             "level": "B2"
           },
           {
+            "code": "S03E16",
             "name": "S03E16",
             "count": 45,
             "dialogues": 321,
             "level": "B2"
           },
           {
+            "code": "S03E17",
             "name": "S03E17",
             "count": 36,
             "dialogues": 303,
             "level": "B2"
           },
           {
+            "code": "S03E18",
             "name": "S03E18",
             "count": 38,
             "dialogues": 342,
             "level": "B2"
           },
           {
+            "code": "S03E19",
             "name": "S03E19",
             "count": 43,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S03E20",
             "name": "S03E20",
             "count": 22,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S03E21",
             "name": "S03E21",
             "count": 35,
             "dialogues": 388,
             "level": "B2"
           },
           {
+            "code": "S03E22",
             "name": "S03E22",
             "count": 27,
             "dialogues": 435,
             "level": "B2"
           },
           {
+            "code": "S03E23",
             "name": "S03E23",
             "count": 34,
             "dialogues": 448,
             "level": "B2"
           },
           {
+            "code": "S04E01",
             "name": "S04E01",
             "count": 34,
             "dialogues": 467,
             "level": "B2"
           },
           {
+            "code": "S04E02",
             "name": "S04E02",
             "count": 36,
             "dialogues": 422,
             "level": "B2"
           },
           {
+            "code": "S04E03",
             "name": "S04E03",
             "count": 57,
             "dialogues": 492,
             "level": "B2"
           },
           {
+            "code": "S04E04",
             "name": "S04E04",
             "count": 37,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S04E05",
             "name": "S04E05",
             "count": 33,
             "dialogues": 464,
             "level": "B2"
           },
           {
+            "code": "S04E06",
             "name": "S04E06",
             "count": 49,
             "dialogues": 483,
             "level": "B2"
           },
           {
+            "code": "S04E07",
             "name": "S04E07",
             "count": 44,
             "dialogues": 475,
             "level": "B2"
           },
           {
+            "code": "S04E08",
             "name": "S04E08",
             "count": 52,
             "dialogues": 410,
             "level": "B2"
           },
           {
+            "code": "S04E09",
             "name": "S04E09",
             "count": 46,
             "dialogues": 487,
             "level": "B2"
           },
           {
+            "code": "S04E10",
             "name": "S04E10",
             "count": 38,
             "dialogues": 411,
             "level": "B2"
           },
           {
+            "code": "S04E11",
             "name": "S04E11",
             "count": 22,
             "dialogues": 402,
             "level": "B2"
           },
           {
+            "code": "S04E12",
             "name": "S04E12",
             "count": 44,
             "dialogues": 495,
             "level": "B2"
           },
           {
+            "code": "S04E13",
             "name": "S04E13",
             "count": 32,
             "dialogues": 435,
             "level": "B2"
           },
           {
+            "code": "S04E14",
             "name": "S04E14",
             "count": 42,
             "dialogues": 463,
             "level": "B2"
           },
           {
+            "code": "S04E15",
             "name": "S04E15",
             "count": 46,
             "dialogues": 427,
             "level": "B2"
           },
           {
+            "code": "S04E16",
             "name": "S04E16",
             "count": 42,
             "dialogues": 449,
             "level": "B2"
           },
           {
+            "code": "S04E17",
             "name": "S04E17",
             "count": 61,
             "dialogues": 503,
             "level": "B2"
           },
           {
+            "code": "S04E18",
             "name": "S04E18",
             "count": 26,
             "dialogues": 424,
             "level": "B2"
           },
           {
+            "code": "S04E19",
             "name": "S04E19",
             "count": 51,
             "dialogues": 478,
             "level": "B2"
           },
           {
+            "code": "S04E20",
             "name": "S04E20",
             "count": 45,
             "dialogues": 438,
             "level": "B2"
           },
           {
+            "code": "S04E21",
             "name": "S04E21",
             "count": 39,
             "dialogues": 412,
             "level": "B2"
           },
           {
+            "code": "S04E22",
             "name": "S04E22",
             "count": 45,
             "dialogues": 436,
             "level": "B2"
           },
           {
+            "code": "S04E23",
             "name": "S04E23",
             "count": 35,
             "dialogues": 425,
             "level": "B2"
           },
           {
+            "code": "S04E24",
             "name": "S04E24",
             "count": 48,
             "dialogues": 443,
             "level": "B2"
           },
           {
+            "code": "S05E01",
             "name": "S05E01",
             "count": 40,
             "dialogues": 443,
             "level": "B2"
           },
           {
+            "code": "S05E02",
             "name": "S05E02",
             "count": 47,
             "dialogues": 392,
             "level": "B2"
           },
           {
+            "code": "S05E03",
             "name": "S05E03",
             "count": 48,
             "dialogues": 381,
             "level": "B2"
           },
           {
+            "code": "S05E04",
             "name": "S05E04",
             "count": 38,
             "dialogues": 401,
             "level": "B2"
           },
           {
+            "code": "S05E05",
             "name": "S05E05",
             "count": 34,
             "dialogues": 490,
             "level": "B2"
           },
           {
+            "code": "S05E06",
             "name": "S05E06",
             "count": 49,
             "dialogues": 440,
             "level": "B2"
           },
           {
+            "code": "S05E07",
             "name": "S05E07",
             "count": 44,
             "dialogues": 401,
             "level": "B2"
           },
           {
+            "code": "S05E08",
             "name": "S05E08",
             "count": 55,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S05E09",
             "name": "S05E09",
             "count": 31,
             "dialogues": 418,
             "level": "B2"
           },
           {
+            "code": "S05E10",
             "name": "S05E10",
             "count": 52,
             "dialogues": 437,
             "level": "B2"
           },
           {
+            "code": "S05E11",
             "name": "S05E11",
             "count": 44,
             "dialogues": 421,
             "level": "B2"
           },
           {
+            "code": "S05E12",
             "name": "S05E12",
             "count": 41,
             "dialogues": 426,
             "level": "B2"
           },
           {
+            "code": "S05E13",
             "name": "S05E13",
             "count": 34,
             "dialogues": 426,
             "level": "B2"
           },
           {
+            "code": "S05E14",
             "name": "S05E14",
             "count": 30,
             "dialogues": 405,
             "level": "B2"
           },
           {
+            "code": "S05E15",
             "name": "S05E15",
             "count": 63,
             "dialogues": 474,
             "level": "B2"
           },
           {
+            "code": "S05E16",
             "name": "S05E16",
             "count": 48,
             "dialogues": 480,
             "level": "B2"
           },
           {
+            "code": "S05E17",
             "name": "S05E17",
             "count": 57,
             "dialogues": 456,
             "level": "B2"
           },
           {
+            "code": "S05E18",
             "name": "S05E18",
             "count": 42,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S05E19",
             "name": "S05E19",
             "count": 55,
             "dialogues": 475,
             "level": "B2"
           },
           {
+            "code": "S05E20",
             "name": "S05E20",
             "count": 37,
             "dialogues": 452,
             "level": "B2"
           },
           {
+            "code": "S05E21",
             "name": "S05E21",
             "count": 47,
             "dialogues": 402,
             "level": "B2"
           },
           {
+            "code": "S05E22",
             "name": "S05E22",
             "count": 60,
             "dialogues": 460,
             "level": "B2"
           },
           {
+            "code": "S05E23",
             "name": "S05E23",
             "count": 35,
             "dialogues": 515,
             "level": "B2"
           },
           {
+            "code": "S05E24",
             "name": "S05E24",
             "count": 32,
             "dialogues": 423,
@@ -750,504 +861,588 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01",
             "count": 70,
             "dialogues": 581,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02",
             "count": 78,
             "dialogues": 576,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03",
             "count": 86,
             "dialogues": 559,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04",
             "count": 57,
             "dialogues": 535,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05",
             "count": 81,
             "dialogues": 565,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06",
             "count": 64,
             "dialogues": 542,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07",
             "count": 67,
             "dialogues": 587,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08",
             "count": 55,
             "dialogues": 525,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "S01E09",
             "count": 51,
             "dialogues": 484,
             "level": "B2"
           },
           {
+            "code": "S01E10",
             "name": "S01E10",
             "count": 60,
             "dialogues": 566,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "S01E11",
             "count": 60,
             "dialogues": 618,
             "level": "B2"
           },
           {
+            "code": "S01E12",
             "name": "S01E12",
             "count": 52,
             "dialogues": 562,
             "level": "B2"
           },
           {
+            "code": "S01E13",
             "name": "S01E13",
             "count": 56,
             "dialogues": 530,
             "level": "B2"
           },
           {
+            "code": "S01E14",
             "name": "S01E14",
             "count": 44,
             "dialogues": 553,
             "level": "B2"
           },
           {
+            "code": "S01E15",
             "name": "S01E15",
             "count": 64,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S01E16",
             "name": "S01E16",
             "count": 45,
             "dialogues": 508,
             "level": "B2"
           },
           {
+            "code": "S01E17",
             "name": "S01E17",
             "count": 51,
             "dialogues": 566,
             "level": "B2"
           },
           {
+            "code": "S01E18",
             "name": "S01E18",
             "count": 67,
             "dialogues": 495,
             "level": "B2"
           },
           {
+            "code": "S01E19",
             "name": "S01E19",
             "count": 38,
             "dialogues": 515,
             "level": "B2"
           },
           {
+            "code": "S01E20",
             "name": "S01E20",
             "count": 60,
             "dialogues": 586,
             "level": "B2"
           },
           {
+            "code": "S01E21",
             "name": "S01E21",
             "count": 62,
             "dialogues": 623,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01",
             "count": 37,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02",
             "count": 35,
             "dialogues": 576,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03",
             "count": 43,
             "dialogues": 565,
             "level": "B2"
           },
           {
+            "code": "S02E04",
             "name": "S02E04",
             "count": 35,
             "dialogues": 555,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05",
             "count": 48,
             "dialogues": 575,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06",
             "count": 24,
             "dialogues": 421,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07",
             "count": 55,
             "dialogues": 607,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08",
             "count": 51,
             "dialogues": 544,
             "level": "B2"
           },
           {
+            "code": "S02E09",
             "name": "S02E09",
             "count": 42,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S02E10",
             "name": "S02E10",
             "count": 53,
             "dialogues": 551,
             "level": "B2"
           },
           {
+            "code": "S02E11",
             "name": "S02E11",
             "count": 37,
             "dialogues": 463,
             "level": "B2"
           },
           {
+            "code": "S02E12",
             "name": "S02E12",
             "count": 38,
             "dialogues": 504,
             "level": "B2"
           },
           {
+            "code": "S02E13",
             "name": "S02E13",
             "count": 37,
             "dialogues": 585,
             "level": "B2"
           },
           {
+            "code": "S02E14",
             "name": "S02E14",
             "count": 28,
             "dialogues": 573,
             "level": "B2"
           },
           {
+            "code": "S02E15",
             "name": "S02E15",
             "count": 49,
             "dialogues": 523,
             "level": "B2"
           },
           {
+            "code": "S02E16",
             "name": "S02E16",
             "count": 42,
             "dialogues": 572,
             "level": "B2"
           },
           {
+            "code": "S02E17",
             "name": "S02E17",
             "count": 38,
             "dialogues": 521,
             "level": "B2"
           },
           {
+            "code": "S02E18",
             "name": "S02E18",
             "count": 28,
             "dialogues": 482,
             "level": "B2"
           },
           {
+            "code": "S02E19",
             "name": "S02E19",
             "count": 34,
             "dialogues": 543,
             "level": "B2"
           },
           {
+            "code": "S02E20",
             "name": "S02E20",
             "count": 32,
             "dialogues": 546,
             "level": "B2"
           },
           {
+            "code": "S02E21",
             "name": "S02E21",
             "count": 42,
             "dialogues": 603,
             "level": "B2"
           },
           {
+            "code": "S02E22",
             "name": "S02E22",
             "count": 52,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S02E23",
             "name": "S02E23",
             "count": 44,
             "dialogues": 507,
             "level": "B2"
           },
           {
+            "code": "S02E24",
             "name": "S02E24",
             "count": 36,
             "dialogues": 589,
             "level": "B2"
           },
           {
+            "code": "S02E25",
             "name": "S02E25",
             "count": 64,
             "dialogues": 578,
             "level": "B2"
           },
           {
+            "code": "S02E26",
             "name": "S02E26",
             "count": 46,
             "dialogues": 538,
             "level": "B2"
           },
           {
+            "code": "S02E27",
             "name": "S02E27",
             "count": 62,
             "dialogues": 508,
             "level": "B2"
           },
           {
+            "code": "S02E28",
             "name": "S02E28",
             "count": 59,
             "dialogues": 570,
             "level": "B2"
           },
           {
+            "code": "S02E29",
             "name": "S02E29",
             "count": 53,
             "dialogues": 502,
             "level": "B2"
           },
           {
+            "code": "S02E30",
             "name": "S02E30",
             "count": 95,
             "dialogues": 577,
             "level": "B2"
           },
           {
+            "code": "S03E01",
             "name": "S03E01",
             "count": 41,
             "dialogues": 548,
             "level": "B2"
           },
           {
+            "code": "S03E02",
             "name": "S03E02",
             "count": 41,
             "dialogues": 528,
             "level": "B2"
           },
           {
+            "code": "S03E03",
             "name": "S03E03",
             "count": 55,
             "dialogues": 586,
             "level": "B2"
           },
           {
+            "code": "S03E04",
             "name": "S03E04",
             "count": 50,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S03E05",
             "name": "S03E05",
             "count": 51,
             "dialogues": 616,
             "level": "B2"
           },
           {
+            "code": "S03E06",
             "name": "S03E06",
             "count": 44,
             "dialogues": 574,
             "level": "B2"
           },
           {
+            "code": "S03E07",
             "name": "S03E07",
             "count": 54,
             "dialogues": 615,
             "level": "B2"
           },
           {
+            "code": "S03E08",
             "name": "S03E08",
             "count": 52,
             "dialogues": 602,
             "level": "B2"
           },
           {
+            "code": "S03E09",
             "name": "S03E09",
             "count": 58,
             "dialogues": 621,
             "level": "B2"
           },
           {
+            "code": "S03E10",
             "name": "S03E10",
             "count": 40,
             "dialogues": 488,
             "level": "B2"
           },
           {
+            "code": "S03E11",
             "name": "S03E11",
             "count": 58,
             "dialogues": 600,
             "level": "B2"
           },
           {
+            "code": "S04E01",
             "name": "S04E01",
             "count": 45,
             "dialogues": 527,
             "level": "B2"
           },
           {
+            "code": "S04E02",
             "name": "S04E02",
             "count": 54,
             "dialogues": 585,
             "level": "B2"
           },
           {
+            "code": "S04E03",
             "name": "S04E03",
             "count": 50,
             "dialogues": 644,
             "level": "B2"
           },
           {
+            "code": "S04E04",
             "name": "S04E04",
             "count": 35,
             "dialogues": 657,
             "level": "B2"
           },
           {
+            "code": "S04E05",
             "name": "S04E05",
             "count": 43,
             "dialogues": 519,
             "level": "B2"
           },
           {
+            "code": "S04E06",
             "name": "S04E06",
             "count": 41,
             "dialogues": 548,
             "level": "B2"
           },
           {
+            "code": "S04E07",
             "name": "S04E07",
             "count": 42,
             "dialogues": 522,
             "level": "B2"
           },
           {
+            "code": "S04E08",
             "name": "S04E08",
             "count": 58,
             "dialogues": 546,
             "level": "B2"
           },
           {
+            "code": "S04E09",
             "name": "S04E09",
             "count": 48,
             "dialogues": 536,
             "level": "B2"
           },
           {
+            "code": "S04E10",
             "name": "S04E10",
             "count": 68,
             "dialogues": 620,
             "level": "B2"
           },
           {
+            "code": "S04E11",
             "name": "S04E11",
             "count": 59,
             "dialogues": 654,
             "level": "B2"
           },
           {
+            "code": "S04E12",
             "name": "S04E12",
             "count": 29,
             "dialogues": 523,
             "level": "B2"
           },
           {
+            "code": "S04E13",
             "name": "S04E13",
             "count": 71,
             "dialogues": 503,
             "level": "B2"
           },
           {
+            "code": "S04E14",
             "name": "S04E14",
             "count": 57,
             "dialogues": 655,
             "level": "B2"
           },
           {
+            "code": "S04E15",
             "name": "S04E15",
             "count": 33,
             "dialogues": 536,
             "level": "B2"
           },
           {
+            "code": "S04E16",
             "name": "S04E16",
             "count": 39,
             "dialogues": 557,
             "level": "B2"
           },
           {
+            "code": "S04E17",
             "name": "S04E17",
             "count": 35,
             "dialogues": 619,
             "level": "B2"
           },
           {
+            "code": "S04E18",
             "name": "S04E18",
             "count": 49,
             "dialogues": 570,
             "level": "B2"
           },
           {
+            "code": "S04E19",
             "name": "S04E19",
             "count": 39,
             "dialogues": 449,
             "level": "B2"
           },
           {
+            "code": "S04E20",
             "name": "S04E20",
             "count": 35,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S04E21",
             "name": "S04E21",
             "count": 50,
             "dialogues": 507,
             "level": "B2"
           },
           {
+            "code": "S04E22",
             "name": "S04E22",
             "count": 36,
             "dialogues": 481,
@@ -1272,108 +1467,126 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01 - Pilot",
             "count": 99,
             "dialogues": 948,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02 - Stunting Like My Daddy",
             "count": 73,
             "dialogues": 839,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03 - Made Y ou Look",
             "count": 57,
             "dialogues": 947,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04 - Shook One Part II",
             "count": 23,
             "dialogues": 702,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05 - ‘03 Bonnie and Clyde",
             "count": 50,
             "dialogues": 869,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06 - The Next Episode",
             "count": 71,
             "dialogues": 698,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
             "count": 57,
             "dialogues": 851,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08 - And Salt the Earth Behind You",
             "count": 57,
             "dialogues": 855,
             "level": "B2"
           },
           {
+            "code": "SP01",
             "name": "Special 1 - Trouble Don't Last Always",
             "count": 50,
             "dialogues": 868,
             "level": "B2"
           },
           {
+            "code": "SP02",
             "name": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
             "count": 24,
             "dialogues": 543,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01 - Trying to Get to Heaven Before They Close the Door",
             "count": 47,
             "dialogues": 918,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02 - Out of Touch",
             "count": 35,
             "dialogues": 710,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03 - Ruminations: Big and Little Bullys",
             "count": 49,
             "dialogues": 1030,
             "level": "B2"
           },
           {
+            "code": "S02E04",
             "name": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
             "count": 47,
             "dialogues": 886,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05 - Stand Still Like a Hummingbird",
             "count": 37,
             "dialogues": 786,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06 - A Thousand Little Trees of Blood",
             "count": 57,
             "dialogues": 935,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07 - The Theater and It’s Double",
             "count": 51,
             "dialogues": 718,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
             "count": 40,
             "dialogues": 820,
@@ -1396,84 +1609,98 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Pan Am (Episode 1)",
             "count": 65,
             "dialogues": 922,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "Pan Am (Episode 2)",
             "count": 48,
             "dialogues": 878,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "Pan Am (Episode 3)",
             "count": 43,
             "dialogues": 821,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "Pan Am (Episode 4)",
             "count": 71,
             "dialogues": 839,
             "level": "C1"
           },
           {
+            "code": "S01E05",
             "name": "Pan Am (Episode 5)",
             "count": 74,
             "dialogues": 835,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "Pan Am (Episode 6)",
             "count": 68,
             "dialogues": 844,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "Pan Am (Episode 7)",
             "count": 61,
             "dialogues": 788,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "Pan Am (Episode 8)",
             "count": 38,
             "dialogues": 750,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "Pan Am (Episode 9)",
             "count": 73,
             "dialogues": 882,
             "level": "C1"
           },
           {
+            "code": "S01E10",
             "name": "Pan Am (Episode 10)",
             "count": 45,
             "dialogues": 875,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "Pan Am (Episode 11)",
             "count": 62,
             "dialogues": 825,
             "level": "C1"
           },
           {
+            "code": "S01E12",
             "name": "Pan Am (Episode 12)",
             "count": 53,
             "dialogues": 817,
             "level": "C1"
           },
           {
+            "code": "S01E13",
             "name": "Pan Am (Episode 13)",
             "count": 53,
             "dialogues": 807,
             "level": "C1"
           },
           {
+            "code": "S01E14",
             "name": "Pan Am (Episode 14)",
             "count": 42,
             "dialogues": 870,
@@ -1496,60 +1723,70 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Maid (Episode 1)",
             "count": 57,
             "dialogues": 551,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "Maid (Episode 2)",
             "count": 62,
             "dialogues": 746,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "Maid (Episode 3)",
             "count": 71,
             "dialogues": 704,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "Maid (Episode 4)",
             "count": 43,
             "dialogues": 596,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "Maid (Episode 5)",
             "count": 52,
             "dialogues": 742,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "Maid (Episode 6)",
             "count": 86,
             "dialogues": 958,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "Maid (Episode 7)",
             "count": 67,
             "dialogues": 777,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "Maid (Episode 8)",
             "count": 65,
             "dialogues": 767,
             "level": "C1"
           },
           {
+            "code": "S01E09",
             "name": "Maid (Episode 9)",
             "count": 72,
             "dialogues": 772,
             "level": "C1"
           },
           {
+            "code": "S01E10",
             "name": "Maid (Episode 10)",
             "count": 66,
             "dialogues": 809,
@@ -1640,48 +1877,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "All Her Fault (Episode 1)",
             "count": 54,
             "dialogues": 932,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "All Her Fault (Episode 2)",
             "count": 46,
             "dialogues": 1028,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "All Her Fault (Episode 3)",
             "count": 56,
             "dialogues": 1031,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "All Her Fault (Episode 4)",
             "count": 59,
             "dialogues": 993,
             "level": "C1"
           },
           {
+            "code": "S01E05",
             "name": "All Her Fault (Episode 5)",
             "count": 41,
             "dialogues": 1218,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "All Her Fault (Episode 6)",
             "count": 53,
             "dialogues": 830,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "All Her Fault (Episode 7)",
             "count": 33,
             "dialogues": 862,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "All Her Fault (Episode 8)",
             "count": 31,
             "dialogues": 1011,
@@ -1750,48 +1995,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Gambito de Dama (Episode 1)",
             "count": 40,
             "dialogues": 516,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "Gambito de Dama (Episode 2)",
             "count": 44,
             "dialogues": 661,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "Gambito de Dama (Episode 3)",
             "count": 42,
             "dialogues": 530,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "Gambito de Dama (Episode 4)",
             "count": 26,
             "dialogues": 443,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "Gambito de Dama (Episode 5)",
             "count": 32,
             "dialogues": 526,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "Gambito de Dama (Episode 6)",
             "count": 38,
             "dialogues": 630,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "Gambito de Dama (Episode 7)",
             "count": 45,
             "dialogues": 634,
             "level": "C1"
           },
           {
+            "code": "SP01",
             "name": "Gambito de Dama (Special Episode)",
             "count": 28,
             "dialogues": 282,
@@ -1885,48 +2138,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "The Girl From Plainville (Episode 1)",
             "count": 28,
             "dialogues": 597,
             "level": "B1"
           },
           {
+            "code": "S01E02",
             "name": "The Girl From Plainville (Episode 2)",
             "count": 33,
             "dialogues": 739,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "The Girl From Plainville (Episode 3)",
             "count": 44,
             "dialogues": 723,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "The Girl From Plainville (Episode 4)",
             "count": 34,
             "dialogues": 698,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "The Girl From Plainville (Episode 5)",
             "count": 26,
             "dialogues": 577,
             "level": "B1"
           },
           {
+            "code": "S01E06",
             "name": "The Girl From Plainville (Episode 6)",
             "count": 26,
             "dialogues": 698,
             "level": "B1"
           },
           {
+            "code": "S01E07",
             "name": "The Girl From Plainville (Episode 7)",
             "count": 41,
             "dialogues": 732,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "The Girl From Plainville (Episode 8)",
             "count": 32,
             "dialogues": 456,
@@ -1997,36 +2258,42 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "The Perfect Couple (Episode 1)",
             "count": 53,
             "dialogues": 730,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "The Perfect Couple (Episode 2)",
             "count": 42,
             "dialogues": 541,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "The Perfect Couple (Episode 3)",
             "count": 36,
             "dialogues": 694,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "The Perfect Couple (Episode 4)",
             "count": 17,
             "dialogues": 533,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "The Perfect Couple (Episode 5)",
             "count": 50,
             "dialogues": 753,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "The Perfect Couple (Episode 6)",
             "count": 61,
             "dialogues": 903,
@@ -3291,24 +3558,28 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Dream Productions (Episode 1)",
             "count": 30,
             "dialogues": 389,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "Dream Productions (Episode 2)",
             "count": 29,
             "dialogues": 360,
             "level": "B1"
           },
           {
+            "code": "S01E03",
             "name": "Dream Productions (Episode 3)",
             "count": 51,
             "dialogues": 422,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "Dream Productions (Episode 4)",
             "count": 12,
             "dialogues": 342,
@@ -3901,36 +4172,42 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Obi-Wan Kenobi (Part I)",
             "count": 23,
             "dialogues": 476,
             "level": "B1"
           },
           {
+            "code": "S01E02",
             "name": "Obi-Wan Kenobi (Part II)",
             "count": 14,
             "dialogues": 396,
             "level": "B1"
           },
           {
+            "code": "S01E03",
             "name": "Obi-Wan Kenobi (Part III)",
             "count": 17,
             "dialogues": 465,
             "level": "B1"
           },
           {
+            "code": "S01E04",
             "name": "Obi-Wan Kenobi (Part IV)",
             "count": 12,
             "dialogues": 303,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "Obi-Wan Kenobi (Part V)",
             "count": 17,
             "dialogues": 344,
             "level": "B1"
           },
           {
+            "code": "S01E06",
             "name": "Obi-Wan Kenobi (Part VI)",
             "count": 11,
             "dialogues": 455,
@@ -5662,18 +5939,18 @@
     "topWord": {
       "word": "Bring up",
       "count": 2,
-      "translation": "criar, educar"
+      "translation": "criar, educar, mencionar"
     },
     "topList": [
       {
         "word": "Bring up",
         "count": 2,
-        "translation": "criar, educar"
+        "translation": "criar, educar, mencionar"
       },
       {
         "word": "Crumble",
         "count": 2,
-        "translation": "desmoronar, derrumbarse"
+        "translation": "desmoronarse, derrumbarse"
       },
       {
         "word": "Diffuse (verbo)",
@@ -5693,7 +5970,7 @@
       {
         "word": "Get into",
         "count": 2,
-        "translation": "entrar en, ponerse"
+        "translation": "entrar en, meterse en, involucrarse en"
       },
       {
         "word": "Go down",
@@ -5703,12 +5980,12 @@
       {
         "word": "Hang (verbo)",
         "count": 2,
-        "translation": "colgar (un objeto)"
+        "translation": "colgar, suspender, ahorcar"
       },
       {
         "word": "Likable",
         "count": 2,
-        "translation": "agradable"
+        "translation": "agradable, simpático"
       },
       {
         "word": "On top of",
@@ -5838,13 +6115,13 @@
     "topWord": {
       "word": "Come through",
       "count": 7,
-      "translation": "pasar, venir"
+      "translation": "pasar (un lugar)"
     },
     "topList": [
       {
         "word": "Come through",
         "count": 7,
-        "translation": "pasar, venir"
+        "translation": "pasar (un lugar)"
       },
       {
         "word": "Growl (verbo)",
@@ -5874,7 +6151,7 @@
       {
         "word": "Squeak (verbo)",
         "count": 6,
-        "translation": "chirriar"
+        "translation": "chillar, crujir, chirriar"
       },
       {
         "word": "Squeal (verbo)",
@@ -5899,144 +6176,168 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01",
             "count": 70,
             "dialogues": 581,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02",
             "count": 78,
             "dialogues": 576,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03",
             "count": 86,
             "dialogues": 559,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04",
             "count": 57,
             "dialogues": 535,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05",
             "count": 81,
             "dialogues": 565,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06",
             "count": 64,
             "dialogues": 542,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07",
             "count": 67,
             "dialogues": 587,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08",
             "count": 55,
             "dialogues": 525,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "S01E09",
             "count": 51,
             "dialogues": 484,
             "level": "B2"
           },
           {
+            "code": "S01E10",
             "name": "S01E10",
             "count": 60,
             "dialogues": 566,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "S01E11",
             "count": 60,
             "dialogues": 618,
             "level": "B2"
           },
           {
+            "code": "S01E12",
             "name": "S01E12",
             "count": 52,
             "dialogues": 562,
             "level": "B2"
           },
           {
+            "code": "S01E13",
             "name": "S01E13",
             "count": 56,
             "dialogues": 530,
             "level": "B2"
           },
           {
+            "code": "S01E14",
             "name": "S01E14",
             "count": 44,
             "dialogues": 553,
             "level": "B2"
           },
           {
+            "code": "S01E15",
             "name": "S01E15",
             "count": 64,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S01E16",
             "name": "S01E16",
             "count": 45,
             "dialogues": 508,
             "level": "B2"
           },
           {
+            "code": "S01E17",
             "name": "S01E17",
             "count": 51,
             "dialogues": 566,
             "level": "B2"
           },
           {
+            "code": "S01E18",
             "name": "S01E18",
             "count": 67,
             "dialogues": 495,
             "level": "B2"
           },
           {
+            "code": "S01E19",
             "name": "S01E19",
             "count": 38,
             "dialogues": 515,
             "level": "B2"
           },
           {
+            "code": "S01E20",
             "name": "S01E20",
             "count": 60,
             "dialogues": 586,
             "level": "B2"
           },
           {
+            "code": "S01E21",
             "name": "S01E21",
             "count": 62,
             "dialogues": 623,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01",
             "count": 37,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02",
             "count": 35,
             "dialogues": 576,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03",
             "count": 43,
             "dialogues": 565,
@@ -7204,7 +7505,7 @@
       {
         "word": "Narrow down",
         "count": 5,
-        "translation": "acotar"
+        "translation": "reducir, estrechar, acotar, achicar"
       },
       {
         "word": "Offspring",
@@ -7219,228 +7520,266 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S02E04",
             "name": "S02E04",
             "count": 35,
             "dialogues": 555,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05",
             "count": 48,
             "dialogues": 575,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06",
             "count": 24,
             "dialogues": 421,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07",
             "count": 55,
             "dialogues": 607,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08",
             "count": 51,
             "dialogues": 544,
             "level": "B2"
           },
           {
+            "code": "S02E09",
             "name": "S02E09",
             "count": 42,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S02E10",
             "name": "S02E10",
             "count": 53,
             "dialogues": 551,
             "level": "B2"
           },
           {
+            "code": "S02E11",
             "name": "S02E11",
             "count": 37,
             "dialogues": 463,
             "level": "B2"
           },
           {
+            "code": "S02E12",
             "name": "S02E12",
             "count": 38,
             "dialogues": 504,
             "level": "B2"
           },
           {
+            "code": "S02E13",
             "name": "S02E13",
             "count": 37,
             "dialogues": 585,
             "level": "B2"
           },
           {
+            "code": "S02E14",
             "name": "S02E14",
             "count": 28,
             "dialogues": 573,
             "level": "B2"
           },
           {
+            "code": "S02E15",
             "name": "S02E15",
             "count": 49,
             "dialogues": 523,
             "level": "B2"
           },
           {
+            "code": "S02E16",
             "name": "S02E16",
             "count": 42,
             "dialogues": 572,
             "level": "B2"
           },
           {
+            "code": "S02E17",
             "name": "S02E17",
             "count": 38,
             "dialogues": 521,
             "level": "B2"
           },
           {
+            "code": "S02E18",
             "name": "S02E18",
             "count": 28,
             "dialogues": 482,
             "level": "B2"
           },
           {
+            "code": "S02E19",
             "name": "S02E19",
             "count": 34,
             "dialogues": 543,
             "level": "B2"
           },
           {
+            "code": "S02E20",
             "name": "S02E20",
             "count": 32,
             "dialogues": 546,
             "level": "B2"
           },
           {
+            "code": "S02E21",
             "name": "S02E21",
             "count": 42,
             "dialogues": 603,
             "level": "B2"
           },
           {
+            "code": "S02E22",
             "name": "S02E22",
             "count": 52,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S02E23",
             "name": "S02E23",
             "count": 44,
             "dialogues": 507,
             "level": "B2"
           },
           {
+            "code": "S02E24",
             "name": "S02E24",
             "count": 36,
             "dialogues": 589,
             "level": "B2"
           },
           {
+            "code": "S02E25",
             "name": "S02E25",
             "count": 64,
             "dialogues": 578,
             "level": "B2"
           },
           {
+            "code": "S02E26",
             "name": "S02E26",
             "count": 46,
             "dialogues": 538,
             "level": "B2"
           },
           {
+            "code": "S02E27",
             "name": "S02E27",
             "count": 62,
             "dialogues": 508,
             "level": "B2"
           },
           {
+            "code": "S02E28",
             "name": "S02E28",
             "count": 59,
             "dialogues": 570,
             "level": "B2"
           },
           {
+            "code": "S02E29",
             "name": "S02E29",
             "count": 53,
             "dialogues": 502,
             "level": "B2"
           },
           {
+            "code": "S02E30",
             "name": "S02E30",
             "count": 95,
             "dialogues": 577,
             "level": "B2"
           },
           {
+            "code": "S03E01",
             "name": "S03E01",
             "count": 41,
             "dialogues": 548,
             "level": "B2"
           },
           {
+            "code": "S03E02",
             "name": "S03E02",
             "count": 41,
             "dialogues": 528,
             "level": "B2"
           },
           {
+            "code": "S03E03",
             "name": "S03E03",
             "count": 55,
             "dialogues": 586,
             "level": "B2"
           },
           {
+            "code": "S03E04",
             "name": "S03E04",
             "count": 50,
             "dialogues": 583,
             "level": "B2"
           },
           {
+            "code": "S03E05",
             "name": "S03E05",
             "count": 51,
             "dialogues": 616,
             "level": "B2"
           },
           {
+            "code": "S03E06",
             "name": "S03E06",
             "count": 44,
             "dialogues": 574,
             "level": "B2"
           },
           {
+            "code": "S03E07",
             "name": "S03E07",
             "count": 54,
             "dialogues": 615,
             "level": "B2"
           },
           {
+            "code": "S03E08",
             "name": "S03E08",
             "count": 52,
             "dialogues": 602,
             "level": "B2"
           },
           {
+            "code": "S03E09",
             "name": "S03E09",
             "count": 58,
             "dialogues": 621,
             "level": "B2"
           },
           {
+            "code": "S03E10",
             "name": "S03E10",
             "count": 40,
             "dialogues": 488,
             "level": "B2"
           },
           {
+            "code": "S03E11",
             "name": "S03E11",
             "count": 58,
             "dialogues": 600,
@@ -7465,240 +7804,280 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01",
             "count": 41,
             "dialogues": 397,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02",
             "count": 40,
             "dialogues": 353,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03",
             "count": 60,
             "dialogues": 363,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04",
             "count": 49,
             "dialogues": 324,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05",
             "count": 29,
             "dialogues": 310,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06",
             "count": 36,
             "dialogues": 328,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07",
             "count": 53,
             "dialogues": 348,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08",
             "count": 34,
             "dialogues": 352,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "S01E09",
             "count": 40,
             "dialogues": 322,
             "level": "B2"
           },
           {
+            "code": "S01E10",
             "name": "S01E10",
             "count": 43,
             "dialogues": 337,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "S01E11",
             "count": 54,
             "dialogues": 307,
             "level": "B2"
           },
           {
+            "code": "S01E12",
             "name": "S01E12",
             "count": 44,
             "dialogues": 322,
             "level": "B2"
           },
           {
+            "code": "S01E13",
             "name": "S01E13",
             "count": 45,
             "dialogues": 345,
             "level": "B2"
           },
           {
+            "code": "S01E14",
             "name": "S01E14",
             "count": 39,
             "dialogues": 304,
             "level": "B2"
           },
           {
+            "code": "S01E15",
             "name": "S01E15",
             "count": 31,
             "dialogues": 343,
             "level": "B2"
           },
           {
+            "code": "S01E16",
             "name": "S01E16",
             "count": 31,
             "dialogues": 319,
             "level": "B2"
           },
           {
+            "code": "S01E17",
             "name": "S01E17",
             "count": 34,
             "dialogues": 327,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01",
             "count": 43,
             "dialogues": 321,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02",
             "count": 41,
             "dialogues": 344,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03",
             "count": 46,
             "dialogues": 325,
             "level": "B2"
           },
           {
+            "code": "S02E04",
             "name": "S02E04",
             "count": 52,
             "dialogues": 334,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05",
             "count": 48,
             "dialogues": 394,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06",
             "count": 42,
             "dialogues": 307,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07",
             "count": 47,
             "dialogues": 359,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08",
             "count": 42,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E09",
             "name": "S02E09",
             "count": 45,
             "dialogues": 326,
             "level": "B2"
           },
           {
+            "code": "S02E10",
             "name": "S02E10",
             "count": 26,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S02E11",
             "name": "S02E11",
             "count": 35,
             "dialogues": 306,
             "level": "B2"
           },
           {
+            "code": "S02E12",
             "name": "S02E12",
             "count": 47,
             "dialogues": 364,
             "level": "B2"
           },
           {
+            "code": "S02E13",
             "name": "S02E13",
             "count": 46,
             "dialogues": 353,
             "level": "B2"
           },
           {
+            "code": "S02E14",
             "name": "S02E14",
             "count": 38,
             "dialogues": 349,
             "level": "B2"
           },
           {
+            "code": "S02E15",
             "name": "S02E15",
             "count": 47,
             "dialogues": 420,
             "level": "B2"
           },
           {
+            "code": "S02E16",
             "name": "S02E16",
             "count": 35,
             "dialogues": 344,
             "level": "B2"
           },
           {
+            "code": "S02E17",
             "name": "S02E17",
             "count": 64,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E18",
             "name": "S02E18",
             "count": 50,
             "dialogues": 319,
             "level": "B2"
           },
           {
+            "code": "S02E19",
             "name": "S02E19",
             "count": 38,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S02E20",
             "name": "S02E20",
             "count": 44,
             "dialogues": 329,
             "level": "B2"
           },
           {
+            "code": "S02E21",
             "name": "S02E21",
             "count": 27,
             "dialogues": 341,
             "level": "B2"
           },
           {
+            "code": "S02E22",
             "name": "S02E22",
             "count": 48,
             "dialogues": 325,
             "level": "B2"
           },
           {
+            "code": "S02E23",
             "name": "S02E23",
             "count": 43,
             "dialogues": 466,
@@ -7722,108 +8101,126 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "S01E01 - Pilot",
             "count": 99,
             "dialogues": 948,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "S01E02 - Stunting Like My Daddy",
             "count": 73,
             "dialogues": 839,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "S01E03 - Made Y ou Look",
             "count": 57,
             "dialogues": 947,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "S01E04 - Shook One Part II",
             "count": 23,
             "dialogues": 702,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "S01E05 - ‘03 Bonnie and Clyde",
             "count": 50,
             "dialogues": 869,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "S01E06 - The Next Episode",
             "count": 71,
             "dialogues": 698,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
             "count": 57,
             "dialogues": 851,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "S01E08 - And Salt the Earth Behind You",
             "count": 57,
             "dialogues": 855,
             "level": "B2"
           },
           {
+            "code": "SP01",
             "name": "Special 1 - Trouble Don't Last Always",
             "count": 50,
             "dialogues": 868,
             "level": "B2"
           },
           {
+            "code": "SP02",
             "name": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
             "count": 24,
             "dialogues": 543,
             "level": "B2"
           },
           {
+            "code": "S02E01",
             "name": "S02E01 - Trying to Get to Heaven Before They Close the Door",
             "count": 47,
             "dialogues": 918,
             "level": "B2"
           },
           {
+            "code": "S02E02",
             "name": "S02E02 - Out of Touch",
             "count": 35,
             "dialogues": 710,
             "level": "B2"
           },
           {
+            "code": "S02E03",
             "name": "S02E03 - Ruminations: Big and Little Bullys",
             "count": 49,
             "dialogues": 1030,
             "level": "B2"
           },
           {
+            "code": "S02E04",
             "name": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
             "count": 47,
             "dialogues": 886,
             "level": "B2"
           },
           {
+            "code": "S02E05",
             "name": "S02E05 - Stand Still Like a Hummingbird",
             "count": 37,
             "dialogues": 786,
             "level": "B2"
           },
           {
+            "code": "S02E06",
             "name": "S02E06 - A Thousand Little Trees of Blood",
             "count": 57,
             "dialogues": 935,
             "level": "B2"
           },
           {
+            "code": "S02E07",
             "name": "S02E07 - The Theater and It’s Double",
             "count": 51,
             "dialogues": 718,
             "level": "B2"
           },
           {
+            "code": "S02E08",
             "name": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
             "count": 40,
             "dialogues": 820,
@@ -7868,48 +8265,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Gambito de Dama (Episode 1)",
             "count": 40,
             "dialogues": 516,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "Gambito de Dama (Episode 2)",
             "count": 44,
             "dialogues": 661,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "Gambito de Dama (Episode 3)",
             "count": 42,
             "dialogues": 530,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "Gambito de Dama (Episode 4)",
             "count": 26,
             "dialogues": 443,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "Gambito de Dama (Episode 5)",
             "count": 32,
             "dialogues": 526,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "Gambito de Dama (Episode 6)",
             "count": 38,
             "dialogues": 630,
             "level": "B2"
           },
           {
+            "code": "S01E07",
             "name": "Gambito de Dama (Episode 7)",
             "count": 45,
             "dialogues": 634,
             "level": "C1"
           },
           {
+            "code": "SP01",
             "name": "Gambito de Dama (Special Episode)",
             "count": 28,
             "dialogues": 282,
@@ -8277,24 +8682,28 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Dream Productions (Episode 1)",
             "count": 30,
             "dialogues": 389,
             "level": "B2"
           },
           {
+            "code": "S01E02",
             "name": "Dream Productions (Episode 2)",
             "count": 29,
             "dialogues": 360,
             "level": "B1"
           },
           {
+            "code": "S01E03",
             "name": "Dream Productions (Episode 3)",
             "count": 51,
             "dialogues": 422,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "Dream Productions (Episode 4)",
             "count": 12,
             "dialogues": 342,
@@ -9294,7 +9703,7 @@
       {
         "word": "Get through",
         "count": 5,
-        "translation": "superar, pasar (algo)"
+        "translation": "pasar, superar, terminar"
       },
       {
         "word": "Girdle",
@@ -9329,426 +9738,497 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S03E01",
             "name": "S03E01",
             "count": 29,
             "dialogues": 368,
             "level": "B2"
           },
           {
+            "code": "S03E02",
             "name": "S03E02",
             "count": 31,
             "dialogues": 486,
             "level": "B2"
           },
           {
+            "code": "S03E03",
             "name": "S03E03",
             "count": 27,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S03E04",
             "name": "S03E04",
             "count": 34,
             "dialogues": 356,
             "level": "B2"
           },
           {
+            "code": "S03E05",
             "name": "S03E05",
             "count": 31,
             "dialogues": 326,
             "level": "B2"
           },
           {
+            "code": "S03E06",
             "name": "S03E06",
             "count": 42,
             "dialogues": 323,
             "level": "B2"
           },
           {
+            "code": "S03E07",
             "name": "S03E07",
             "count": 26,
             "dialogues": 339,
             "level": "B2"
           },
           {
+            "code": "S03E08",
             "name": "S03E08",
             "count": 30,
             "dialogues": 317,
             "level": "B2"
           },
           {
+            "code": "S03E09",
             "name": "S03E09",
             "count": 24,
             "dialogues": 303,
             "level": "B2"
           },
           {
+            "code": "S03E10",
             "name": "S03E10",
             "count": 23,
             "dialogues": 333,
             "level": "B2"
           },
           {
+            "code": "S03E11",
             "name": "S03E11",
             "count": 35,
             "dialogues": 306,
             "level": "B2"
           },
           {
+            "code": "S03E12",
             "name": "S03E12",
             "count": 40,
             "dialogues": 414,
             "level": "B2"
           },
           {
+            "code": "S03E13",
             "name": "S03E13",
             "count": 39,
             "dialogues": 383,
             "level": "B2"
           },
           {
+            "code": "S03E14",
             "name": "S03E14",
             "count": 46,
             "dialogues": 309,
             "level": "B2"
           },
           {
+            "code": "S03E15",
             "name": "S03E15",
             "count": 43,
             "dialogues": 477,
             "level": "B2"
           },
           {
+            "code": "S03E16",
             "name": "S03E16",
             "count": 45,
             "dialogues": 321,
             "level": "B2"
           },
           {
+            "code": "S03E17",
             "name": "S03E17",
             "count": 36,
             "dialogues": 303,
             "level": "B2"
           },
           {
+            "code": "S03E18",
             "name": "S03E18",
             "count": 38,
             "dialogues": 342,
             "level": "B2"
           },
           {
+            "code": "S03E19",
             "name": "S03E19",
             "count": 43,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S03E20",
             "name": "S03E20",
             "count": 22,
             "dialogues": 318,
             "level": "B2"
           },
           {
+            "code": "S03E21",
             "name": "S03E21",
             "count": 35,
             "dialogues": 388,
             "level": "B2"
           },
           {
+            "code": "S03E22",
             "name": "S03E22",
             "count": 27,
             "dialogues": 435,
             "level": "B2"
           },
           {
+            "code": "S03E23",
             "name": "S03E23",
             "count": 34,
             "dialogues": 448,
             "level": "B2"
           },
           {
+            "code": "S04E01",
             "name": "S04E01",
             "count": 34,
             "dialogues": 467,
             "level": "B2"
           },
           {
+            "code": "S04E02",
             "name": "S04E02",
             "count": 36,
             "dialogues": 422,
             "level": "B2"
           },
           {
+            "code": "S04E03",
             "name": "S04E03",
             "count": 57,
             "dialogues": 492,
             "level": "B2"
           },
           {
+            "code": "S04E04",
             "name": "S04E04",
             "count": 37,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S04E05",
             "name": "S04E05",
             "count": 33,
             "dialogues": 464,
             "level": "B2"
           },
           {
+            "code": "S04E06",
             "name": "S04E06",
             "count": 49,
             "dialogues": 483,
             "level": "B2"
           },
           {
+            "code": "S04E07",
             "name": "S04E07",
             "count": 44,
             "dialogues": 475,
             "level": "B2"
           },
           {
+            "code": "S04E08",
             "name": "S04E08",
             "count": 52,
             "dialogues": 410,
             "level": "B2"
           },
           {
+            "code": "S04E09",
             "name": "S04E09",
             "count": 46,
             "dialogues": 487,
             "level": "B2"
           },
           {
+            "code": "S04E10",
             "name": "S04E10",
             "count": 38,
             "dialogues": 411,
             "level": "B2"
           },
           {
+            "code": "S04E11",
             "name": "S04E11",
             "count": 22,
             "dialogues": 402,
             "level": "B2"
           },
           {
+            "code": "S04E12",
             "name": "S04E12",
             "count": 44,
             "dialogues": 495,
             "level": "B2"
           },
           {
+            "code": "S04E13",
             "name": "S04E13",
             "count": 32,
             "dialogues": 435,
             "level": "B2"
           },
           {
+            "code": "S04E14",
             "name": "S04E14",
             "count": 42,
             "dialogues": 463,
             "level": "B2"
           },
           {
+            "code": "S04E15",
             "name": "S04E15",
             "count": 46,
             "dialogues": 427,
             "level": "B2"
           },
           {
+            "code": "S04E16",
             "name": "S04E16",
             "count": 42,
             "dialogues": 449,
             "level": "B2"
           },
           {
+            "code": "S04E17",
             "name": "S04E17",
             "count": 61,
             "dialogues": 503,
             "level": "B2"
           },
           {
+            "code": "S04E18",
             "name": "S04E18",
             "count": 26,
             "dialogues": 424,
             "level": "B2"
           },
           {
+            "code": "S04E19",
             "name": "S04E19",
             "count": 51,
             "dialogues": 478,
             "level": "B2"
           },
           {
+            "code": "S04E20",
             "name": "S04E20",
             "count": 45,
             "dialogues": 438,
             "level": "B2"
           },
           {
+            "code": "S04E21",
             "name": "S04E21",
             "count": 39,
             "dialogues": 412,
             "level": "B2"
           },
           {
+            "code": "S04E22",
             "name": "S04E22",
             "count": 45,
             "dialogues": 436,
             "level": "B2"
           },
           {
+            "code": "S04E23",
             "name": "S04E23",
             "count": 35,
             "dialogues": 425,
             "level": "B2"
           },
           {
+            "code": "S04E24",
             "name": "S04E24",
             "count": 48,
             "dialogues": 443,
             "level": "B2"
           },
           {
+            "code": "S05E01",
             "name": "S05E01",
             "count": 40,
             "dialogues": 443,
             "level": "B2"
           },
           {
+            "code": "S05E02",
             "name": "S05E02",
             "count": 47,
             "dialogues": 392,
             "level": "B2"
           },
           {
+            "code": "S05E03",
             "name": "S05E03",
             "count": 48,
             "dialogues": 381,
             "level": "B2"
           },
           {
+            "code": "S05E04",
             "name": "S05E04",
             "count": 38,
             "dialogues": 401,
             "level": "B2"
           },
           {
+            "code": "S05E05",
             "name": "S05E05",
             "count": 34,
             "dialogues": 490,
             "level": "B2"
           },
           {
+            "code": "S05E06",
             "name": "S05E06",
             "count": 49,
             "dialogues": 440,
             "level": "B2"
           },
           {
+            "code": "S05E07",
             "name": "S05E07",
             "count": 44,
             "dialogues": 401,
             "level": "B2"
           },
           {
+            "code": "S05E08",
             "name": "S05E08",
             "count": 55,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S05E09",
             "name": "S05E09",
             "count": 31,
             "dialogues": 418,
             "level": "B2"
           },
           {
+            "code": "S05E10",
             "name": "S05E10",
             "count": 52,
             "dialogues": 437,
             "level": "B2"
           },
           {
+            "code": "S05E11",
             "name": "S05E11",
             "count": 44,
             "dialogues": 421,
             "level": "B2"
           },
           {
+            "code": "S05E12",
             "name": "S05E12",
             "count": 41,
             "dialogues": 426,
             "level": "B2"
           },
           {
+            "code": "S05E13",
             "name": "S05E13",
             "count": 34,
             "dialogues": 426,
             "level": "B2"
           },
           {
+            "code": "S05E14",
             "name": "S05E14",
             "count": 30,
             "dialogues": 405,
             "level": "B2"
           },
           {
+            "code": "S05E15",
             "name": "S05E15",
             "count": 63,
             "dialogues": 474,
             "level": "B2"
           },
           {
+            "code": "S05E16",
             "name": "S05E16",
             "count": 48,
             "dialogues": 480,
             "level": "B2"
           },
           {
+            "code": "S05E17",
             "name": "S05E17",
             "count": 57,
             "dialogues": 456,
             "level": "B2"
           },
           {
+            "code": "S05E18",
             "name": "S05E18",
             "count": 42,
             "dialogues": 431,
             "level": "B2"
           },
           {
+            "code": "S05E19",
             "name": "S05E19",
             "count": 55,
             "dialogues": 475,
             "level": "B2"
           },
           {
+            "code": "S05E20",
             "name": "S05E20",
             "count": 37,
             "dialogues": 452,
             "level": "B2"
           },
           {
+            "code": "S05E21",
             "name": "S05E21",
             "count": 47,
             "dialogues": 402,
             "level": "B2"
           },
           {
+            "code": "S05E22",
             "name": "S05E22",
             "count": 60,
             "dialogues": 460,
             "level": "B2"
           },
           {
+            "code": "S05E23",
             "name": "S05E23",
             "count": 35,
             "dialogues": 515,
             "level": "B2"
           },
           {
+            "code": "S05E24",
             "name": "S05E24",
             "count": 32,
             "dialogues": 423,
@@ -9772,132 +10252,154 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S04E01",
             "name": "S04E01",
             "count": 45,
             "dialogues": 527,
             "level": "B2"
           },
           {
+            "code": "S04E02",
             "name": "S04E02",
             "count": 54,
             "dialogues": 585,
             "level": "B2"
           },
           {
+            "code": "S04E03",
             "name": "S04E03",
             "count": 50,
             "dialogues": 644,
             "level": "B2"
           },
           {
+            "code": "S04E04",
             "name": "S04E04",
             "count": 35,
             "dialogues": 657,
             "level": "B2"
           },
           {
+            "code": "S04E05",
             "name": "S04E05",
             "count": 43,
             "dialogues": 519,
             "level": "B2"
           },
           {
+            "code": "S04E06",
             "name": "S04E06",
             "count": 41,
             "dialogues": 548,
             "level": "B2"
           },
           {
+            "code": "S04E07",
             "name": "S04E07",
             "count": 42,
             "dialogues": 522,
             "level": "B2"
           },
           {
+            "code": "S04E08",
             "name": "S04E08",
             "count": 58,
             "dialogues": 546,
             "level": "B2"
           },
           {
+            "code": "S04E09",
             "name": "S04E09",
             "count": 48,
             "dialogues": 536,
             "level": "B2"
           },
           {
+            "code": "S04E10",
             "name": "S04E10",
             "count": 68,
             "dialogues": 620,
             "level": "B2"
           },
           {
+            "code": "S04E11",
             "name": "S04E11",
             "count": 59,
             "dialogues": 654,
             "level": "B2"
           },
           {
+            "code": "S04E12",
             "name": "S04E12",
             "count": 29,
             "dialogues": 523,
             "level": "B2"
           },
           {
+            "code": "S04E13",
             "name": "S04E13",
             "count": 71,
             "dialogues": 503,
             "level": "B2"
           },
           {
+            "code": "S04E14",
             "name": "S04E14",
             "count": 57,
             "dialogues": 655,
             "level": "B2"
           },
           {
+            "code": "S04E15",
             "name": "S04E15",
             "count": 33,
             "dialogues": 536,
             "level": "B2"
           },
           {
+            "code": "S04E16",
             "name": "S04E16",
             "count": 39,
             "dialogues": 557,
             "level": "B2"
           },
           {
+            "code": "S04E17",
             "name": "S04E17",
             "count": 35,
             "dialogues": 619,
             "level": "B2"
           },
           {
+            "code": "S04E18",
             "name": "S04E18",
             "count": 49,
             "dialogues": 570,
             "level": "B2"
           },
           {
+            "code": "S04E19",
             "name": "S04E19",
             "count": 39,
             "dialogues": 449,
             "level": "B2"
           },
           {
+            "code": "S04E20",
             "name": "S04E20",
             "count": 35,
             "dialogues": 554,
             "level": "B2"
           },
           {
+            "code": "S04E21",
             "name": "S04E21",
             "count": 50,
             "dialogues": 507,
             "level": "B2"
           },
           {
+            "code": "S04E22",
             "name": "S04E22",
             "count": 36,
             "dialogues": 481,
@@ -9922,84 +10424,98 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Pan Am (Episode 1)",
             "count": 65,
             "dialogues": 922,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "Pan Am (Episode 2)",
             "count": 48,
             "dialogues": 878,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "Pan Am (Episode 3)",
             "count": 43,
             "dialogues": 821,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "Pan Am (Episode 4)",
             "count": 71,
             "dialogues": 839,
             "level": "C1"
           },
           {
+            "code": "S01E05",
             "name": "Pan Am (Episode 5)",
             "count": 74,
             "dialogues": 835,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "Pan Am (Episode 6)",
             "count": 68,
             "dialogues": 844,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "Pan Am (Episode 7)",
             "count": 61,
             "dialogues": 788,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "Pan Am (Episode 8)",
             "count": 38,
             "dialogues": 750,
             "level": "B2"
           },
           {
+            "code": "S01E09",
             "name": "Pan Am (Episode 9)",
             "count": 73,
             "dialogues": 882,
             "level": "C1"
           },
           {
+            "code": "S01E10",
             "name": "Pan Am (Episode 10)",
             "count": 45,
             "dialogues": 875,
             "level": "B2"
           },
           {
+            "code": "S01E11",
             "name": "Pan Am (Episode 11)",
             "count": 62,
             "dialogues": 825,
             "level": "C1"
           },
           {
+            "code": "S01E12",
             "name": "Pan Am (Episode 12)",
             "count": 53,
             "dialogues": 817,
             "level": "C1"
           },
           {
+            "code": "S01E13",
             "name": "Pan Am (Episode 13)",
             "count": 53,
             "dialogues": 807,
             "level": "C1"
           },
           {
+            "code": "S01E14",
             "name": "Pan Am (Episode 14)",
             "count": 42,
             "dialogues": 870,
@@ -10022,60 +10538,70 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Maid (Episode 1)",
             "count": 57,
             "dialogues": 551,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "Maid (Episode 2)",
             "count": 62,
             "dialogues": 746,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "Maid (Episode 3)",
             "count": 71,
             "dialogues": 704,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "Maid (Episode 4)",
             "count": 43,
             "dialogues": 596,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "Maid (Episode 5)",
             "count": 52,
             "dialogues": 742,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "Maid (Episode 6)",
             "count": 86,
             "dialogues": 958,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "Maid (Episode 7)",
             "count": 67,
             "dialogues": 777,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "Maid (Episode 8)",
             "count": 65,
             "dialogues": 767,
             "level": "C1"
           },
           {
+            "code": "S01E09",
             "name": "Maid (Episode 9)",
             "count": 72,
             "dialogues": 772,
             "level": "C1"
           },
           {
+            "code": "S01E10",
             "name": "Maid (Episode 10)",
             "count": 66,
             "dialogues": 809,
@@ -10098,48 +10624,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "All Her Fault (Episode 1)",
             "count": 54,
             "dialogues": 932,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "All Her Fault (Episode 2)",
             "count": 46,
             "dialogues": 1028,
             "level": "C1"
           },
           {
+            "code": "S01E03",
             "name": "All Her Fault (Episode 3)",
             "count": 56,
             "dialogues": 1031,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "All Her Fault (Episode 4)",
             "count": 59,
             "dialogues": 993,
             "level": "C1"
           },
           {
+            "code": "S01E05",
             "name": "All Her Fault (Episode 5)",
             "count": 41,
             "dialogues": 1218,
             "level": "B2"
           },
           {
+            "code": "S01E06",
             "name": "All Her Fault (Episode 6)",
             "count": 53,
             "dialogues": 830,
             "level": "C1"
           },
           {
+            "code": "S01E07",
             "name": "All Her Fault (Episode 7)",
             "count": 33,
             "dialogues": 862,
             "level": "B2"
           },
           {
+            "code": "S01E08",
             "name": "All Her Fault (Episode 8)",
             "count": 31,
             "dialogues": 1011,
@@ -10162,48 +10696,56 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "The Girl From Plainville (Episode 1)",
             "count": 28,
             "dialogues": 597,
             "level": "B1"
           },
           {
+            "code": "S01E02",
             "name": "The Girl From Plainville (Episode 2)",
             "count": 33,
             "dialogues": 739,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "The Girl From Plainville (Episode 3)",
             "count": 44,
             "dialogues": 723,
             "level": "C1"
           },
           {
+            "code": "S01E04",
             "name": "The Girl From Plainville (Episode 4)",
             "count": 34,
             "dialogues": 698,
             "level": "B2"
           },
           {
+            "code": "S01E05",
             "name": "The Girl From Plainville (Episode 5)",
             "count": 26,
             "dialogues": 577,
             "level": "B1"
           },
           {
+            "code": "S01E06",
             "name": "The Girl From Plainville (Episode 6)",
             "count": 26,
             "dialogues": 698,
             "level": "B1"
           },
           {
+            "code": "S01E07",
             "name": "The Girl From Plainville (Episode 7)",
             "count": 41,
             "dialogues": 732,
             "level": "C1"
           },
           {
+            "code": "S01E08",
             "name": "The Girl From Plainville (Episode 8)",
             "count": 32,
             "dialogues": 456,
@@ -10226,36 +10768,42 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "The Perfect Couple (Episode 1)",
             "count": 53,
             "dialogues": 730,
             "level": "C1"
           },
           {
+            "code": "S01E02",
             "name": "The Perfect Couple (Episode 2)",
             "count": 42,
             "dialogues": 541,
             "level": "B2"
           },
           {
+            "code": "S01E03",
             "name": "The Perfect Couple (Episode 3)",
             "count": 36,
             "dialogues": 694,
             "level": "B2"
           },
           {
+            "code": "S01E04",
             "name": "The Perfect Couple (Episode 4)",
             "count": 17,
             "dialogues": 533,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "The Perfect Couple (Episode 5)",
             "count": 50,
             "dialogues": 753,
             "level": "C1"
           },
           {
+            "code": "S01E06",
             "name": "The Perfect Couple (Episode 6)",
             "count": 61,
             "dialogues": 903,
@@ -10884,36 +11432,42 @@
         "type": "series",
         "episodes": [
           {
+            "code": "S01E01",
             "name": "Obi-Wan Kenobi (Part I)",
             "count": 23,
             "dialogues": 476,
             "level": "B1"
           },
           {
+            "code": "S01E02",
             "name": "Obi-Wan Kenobi (Part II)",
             "count": 14,
             "dialogues": 396,
             "level": "B1"
           },
           {
+            "code": "S01E03",
             "name": "Obi-Wan Kenobi (Part III)",
             "count": 17,
             "dialogues": 465,
             "level": "B1"
           },
           {
+            "code": "S01E04",
             "name": "Obi-Wan Kenobi (Part IV)",
             "count": 12,
             "dialogues": 303,
             "level": "B1"
           },
           {
+            "code": "S01E05",
             "name": "Obi-Wan Kenobi (Part V)",
             "count": 17,
             "dialogues": 344,
             "level": "B1"
           },
           {
+            "code": "S01E06",
             "name": "Obi-Wan Kenobi (Part VI)",
             "count": 11,
             "dialogues": 455,

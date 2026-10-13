@@ -1,0 +1,30 @@
+{
+  "titulo": "Goodbye Christopher Robin",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 418680
+  },
+  "analisis": "Una película británica con un inglés elegante, formal y nostálgico. Ideal para sumergirse en acentos de clase alta de principios del siglo XX ('RP' o Received Pronunciation), vocabulario relacionado con la literatura, la infancia y las secuelas psicológicas de la guerra.",
+  "sinopsis": "Entre bastidores la historia de la vida de A.A. Milne y la creación de Winnie ¡Qué va! las historias inspiradas por su hijo Christopher Robin.",
+  "poster": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
+    "https://image.tmdb.org/t/p/w780/oEmfCUoXlnC6xP8Jta6NPzIwF8L.jpg",
+    "https://image.tmdb.org/t/p/w780/pSMK0FEpd1uX1D4p4ulyj4N71hR.jpg",
+    "https://image.tmdb.org/t/p/w780/lrbaokpZoFGdsSmJaeqMAyqNrOG.jpg",
+    "https://image.tmdb.org/t/p/w780/bo49lG8ix46wjYDAP1jpLFEO6DE.jpg",
+    "https://image.tmdb.org/t/p/w780/kBYNbKTi5qntp2MT9DKkrsyc6BI.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Goodbye Christopher Robin (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from “Goodbye  Christopher Robin” to improve the vocabulary in English.pdf"
+    ]
+  }
+}

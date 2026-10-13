@@ -2,6 +2,19 @@
   "title": "Rambo First Blood",
   "level": "B1",
   "englishAnalysis": "El lenguaje es parco, tenso y muy directo. Destaca la jerga policial de pueblo pequeño ('sheriff', 'drifter', 'backup') combinada con fuerte terminología militar de la guerra de Vietnam ('guerrilla', 'POW', 'casualty'). Perfecto para practicar comprensión en situaciones de alta presión.",
+  "tmdb": {
+    "overview": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "https://image.tmdb.org/t/p/w780/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
+      "https://image.tmdb.org/t/p/w780/3DbGzV5IiOCmwYMFsQU3m3hIDvy.jpg",
+      "https://image.tmdb.org/t/p/w780/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+      "https://image.tmdb.org/t/p/w780/AeXX4mzpXIRrB0EHXNjbno2woWe.jpg",
+      "https://image.tmdb.org/t/p/w780/yF4FRvp1cFYVGxLChA8yKfruZpL.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg",
   "vocabulary": [
     {
       "word": "Junk",
@@ -552,18 +565,6 @@
       "translation": "entrar, meter"
     }
   ],
-  "tmdb": {
-    "overview": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/hCxxOJojCUFyuahDx167glJgp7E.jpg",
-      "https://image.tmdb.org/t/p/w780/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
-      "https://image.tmdb.org/t/p/w780/3DbGzV5IiOCmwYMFsQU3m3hIDvy.jpg",
-      "https://image.tmdb.org/t/p/w780/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
-      "https://image.tmdb.org/t/p/w780/AeXX4mzpXIRrB0EHXNjbno2woWe.jpg",
-      "https://image.tmdb.org/t/p/w780/yF4FRvp1cFYVGxLChA8yKfruZpL.jpg"
-    ],
-    "episodes": null
-  },
   "count": 137,
   "dialogues": 936
 }

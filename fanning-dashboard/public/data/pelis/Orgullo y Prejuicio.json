@@ -2,6 +2,19 @@
   "title": "Orgullo y Prejuicio",
   "level": "B2",
   "englishAnalysis": "Un escaparate del inglés británico del siglo XIX. El lenguaje es muy formal, educado y lleno de cortesías elaboradas. Es perfecto para sumergirse en una gramática más compleja, vocabulario avanzado de época y las sutilezas del romance clásico de alta cuna.",
+  "tmdb": {
+    "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+      "https://image.tmdb.org/t/p/w780/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
+      "https://image.tmdb.org/t/p/w780/ilgqNJgcfY4mXz8IKPIwCq4ovjU.jpg",
+      "https://image.tmdb.org/t/p/w780/2OZ2pTZNjso16ZnXEgyBW6ocENz.jpg",
+      "https://image.tmdb.org/t/p/w780/q4jf2bwTHPJakXKS12lhICWX0Np.jpg",
+      "https://image.tmdb.org/t/p/w780/5eOPzKm2xGUXwfs6pa7Goap4vWF.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
   "vocabulary": [
     {
       "word": "Tiresome",
@@ -744,18 +757,6 @@
       "translation": "¿Qué términos cariñosos puedo usar?"
     }
   ],
-  "tmdb": {
-    "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
-      "https://image.tmdb.org/t/p/w780/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
-      "https://image.tmdb.org/t/p/w780/ilgqNJgcfY4mXz8IKPIwCq4ovjU.jpg",
-      "https://image.tmdb.org/t/p/w780/2OZ2pTZNjso16ZnXEgyBW6ocENz.jpg",
-      "https://image.tmdb.org/t/p/w780/q4jf2bwTHPJakXKS12lhICWX0Np.jpg",
-      "https://image.tmdb.org/t/p/w780/5eOPzKm2xGUXwfs6pa7Goap4vWF.jpg"
-    ],
-    "episodes": null
-  },
   "count": 185,
   "dialogues": 1263
 }

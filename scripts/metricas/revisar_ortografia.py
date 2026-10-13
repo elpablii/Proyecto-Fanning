@@ -15,7 +15,8 @@ import sys
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from rutas import CATALOGO, absoluta  # noqa: E402
+from rutas import absoluta  # noqa: E402
+import fichas as F  # noqa: E402
 from conteo import leer_lineas, leer_vocabulario  # noqa: E402
 
 from spellchecker import SpellChecker  # pip install pyspellchecker
@@ -166,10 +167,10 @@ def conocida_es(w):
 
 
 def main():
-    catalogo = json.load(open(CATALOGO, encoding='utf-8'))
+    catalogo, _, _ = F.cargar()
     todas = []
     for t in catalogo:
-        for ruta in t['vocabulario']:
+        for ruta in t['pdfs']['vocabulario']:
             nombre = os.path.basename(ruta)
             entradas, _ = leer_vocabulario(leer_lineas(absoluta(ruta)), nombre if t['tipo'] == 'serie' else '')
             todas += [(t, ruta, e) for e in entradas]

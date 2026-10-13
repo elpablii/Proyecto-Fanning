@@ -2,6 +2,15 @@
   "title": "Barry",
   "level": "B2",
   "englishAnalysis": "Centrada en los años universitarios de Barack Obama, ofrece un vistazo a la vida en los campus estadounidenses en los 80. Presenta vocabulario académico, discusiones sobre identidad, y un marcado contraste entre el habla intelectual y la jerga de Nueva York.",
+  "tmdb": {
+    "overview": "A young Barack Obama forges his identity while dealing with race, divergent cultures and ordinary life as a New York City college student.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/4hfR16UNtwVILhUCl1UPNg71VWC.jpg",
+      "https://image.tmdb.org/t/p/w780/5SJdWsNNrWDBCSyf7KUdBTzGMmr.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg",
   "vocabulary": [
     {
       "word": "Chiming (acotación)",
@@ -328,14 +337,6 @@
       "translation": "relevo, testigo"
     }
   ],
-  "tmdb": {
-    "overview": "A young Barack Obama forges his identity while dealing with race, divergent cultures and ordinary life as a New York City college student.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/4hfR16UNtwVILhUCl1UPNg71VWC.jpg",
-      "https://image.tmdb.org/t/p/w780/5SJdWsNNrWDBCSyf7KUdBTzGMmr.jpg"
-    ],
-    "episodes": null
-  },
   "count": 81,
   "dialogues": 1285
 }

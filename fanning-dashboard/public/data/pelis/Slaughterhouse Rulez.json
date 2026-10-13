@@ -2,6 +2,19 @@
   "title": "Slaughterhouse Rulez",
   "level": "B2",
   "englishAnalysis": "Jerga juvenil británica moderna de internado ('posh' y popular) mezclada absurdamente con terminología de terror, monstruos y gore. Excelente para entender la irreverencia británica.",
+  "tmdb": {
+    "overview": "Slaughterhouse es un internado de élite en el que se prepara a los jóvenes para el poder y la grandeza. Sin embargo, un inesperado acontecimiento sacudirá literalmente los cimientos de su mundo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
+      "https://image.tmdb.org/t/p/w780/b75lipPhMAS9UJ8PVxx7nnRvVOj.jpg",
+      "https://image.tmdb.org/t/p/w780/bCRw8gTMXhlY4rXN7LwMYn9x4Vt.jpg",
+      "https://image.tmdb.org/t/p/w780/GCpxm9p0uyRPcgSKr49CUz6HLI.jpg",
+      "https://image.tmdb.org/t/p/w780/zjWxnksSxj6OFXAkISf1kZAAETF.jpg",
+      "https://image.tmdb.org/t/p/w780/tAfpPscp0AxzWNxI93fwslXaowT.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
   "vocabulary": [
     {
       "word": "Unashamedly",
@@ -740,18 +753,6 @@
       "translation": "a través de la matanza a las estrellas"
     }
   ],
-  "tmdb": {
-    "overview": "Slaughterhouse es un internado de élite en el que se prepara a los jóvenes para el poder y la grandeza. Sin embargo, un inesperado acontecimiento sacudirá literalmente los cimientos de su mundo.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
-      "https://image.tmdb.org/t/p/w780/b75lipPhMAS9UJ8PVxx7nnRvVOj.jpg",
-      "https://image.tmdb.org/t/p/w780/bCRw8gTMXhlY4rXN7LwMYn9x4Vt.jpg",
-      "https://image.tmdb.org/t/p/w780/GCpxm9p0uyRPcgSKr49CUz6HLI.jpg",
-      "https://image.tmdb.org/t/p/w780/zjWxnksSxj6OFXAkISf1kZAAETF.jpg",
-      "https://image.tmdb.org/t/p/w780/tAfpPscp0AxzWNxI93fwslXaowT.jpg"
-    ],
-    "episodes": null
-  },
   "count": 184,
   "dialogues": 1653
 }

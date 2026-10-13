@@ -1,0 +1,27 @@
+{
+  "titulo": "Ginger & Rosa",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+14",
+  "tmdb": null,
+  "analisis": "Drama ambientado en el Londres de la década de 1960. El inglés destaca por el acento británico juvenil y bohemio de la época, abordando vocabulario relacionado con el pacifismo, la política, la poesía y el activismo antinuclear.",
+  "sinopsis": "Una mirada a las vidas de dos adolescentes, amigas inseparables Ginger y Rosa, que crecieron en el Londres de los años sesenta mientras se avecina la Crisis de los Misiles en Cuba, y el evento fundamental que viene a redefinir su relación.",
+  "poster": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+    "https://image.tmdb.org/t/p/w780/aetiCCj6spSj3YffBxW9eDgktiq.jpg",
+    "https://image.tmdb.org/t/p/w780/z6M4winiueBx03471F1EZ0xwwin.jpg",
+    "https://image.tmdb.org/t/p/w780/bVzRObcLYRD4urwlReFO50cl45.jpg",
+    "https://image.tmdb.org/t/p/w780/l6kk5zOFJwnA915tGGsUOKCao0q.jpg",
+    "https://image.tmdb.org/t/p/w780/6sF6r8zdVeWh1UwHIYiFExzYFCZ.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Ginger & Rosa (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Ginger & Rosa to improve the vocabulary in English.pdf"
+    ]
+  }
+}

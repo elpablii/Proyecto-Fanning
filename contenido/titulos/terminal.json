@@ -1,0 +1,30 @@
+{
+  "titulo": "Terminal",
+  "tipo": "pelicula",
+  "nivel": "C1",
+  "clasificacion": "+18",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 385332
+  },
+  "analisis": "Destaca por su estética noir y un uso del idioma poético, críptico y a menudo lleno de doble sentido. Los personajes utilizan metáforas oscuras, términos de asesinatos a sueldo e interrogatorios ('assassin', 'contract', 'job', 'leverage'). El acento británico le añade una capa de sofisticación al lenguaje criminal.",
+  "sinopsis": "A dos sicarios se les encomienda una siniestra misión. En el camino se encontrarán con una mujer que convertirá la tarea a realizar en algo todavía más difícil de lo que esperaban.",
+  "poster": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
+    "https://image.tmdb.org/t/p/w780/pIRrWfRdx5rICNQa960YgOQEgtA.jpg",
+    "https://image.tmdb.org/t/p/w780/bwvxvrHH3nTbcwpEcJhA72kkI94.jpg",
+    "https://image.tmdb.org/t/p/w780/k00wJ1PiF3Q1439zEQKIfZxcN3M.jpg",
+    "https://image.tmdb.org/t/p/w780/mIQ59rId4zysUQre6kQIyRM9JG6.jpg",
+    "https://image.tmdb.org/t/p/w780/ezUzV9LqS9fEek3KkpPacMFX5HQ.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Terminal (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Guion de la película Terminal para aumentar el vocabulario.pdf"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "Kim Possible (2019)",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 520720
+  },
+  "analisis": "Inglés adolescente moderno mezclado con terminología de espías y agentes secretos. Gran uso de jerga escolar ('drama', 'locker', 'cheerleader') y frases de acción tipo superhéroe.",
+  "sinopsis": "Kim Possible (Sadie Stanley) es una chica normal y corriente que se dedica a salvar al mundo en su tiempo libre. Con la ayuda de su mejor amigo, Ron Stoppable (Sean Giambrone), pelea contra villanos y hace frente a un sinfín de amenazas.",
+  "poster": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg",
+    "https://image.tmdb.org/t/p/w780/5s0tk9AXv80Tsuox6a2Aa6Qpgn8.jpg",
+    "https://image.tmdb.org/t/p/w780/ypYyAKGwY5FCm38VsPjLqxXfYUC.jpg",
+    "https://image.tmdb.org/t/p/w780/bix0qXneOBZAUrnWQVcBkIp9rVA.jpg",
+    "https://image.tmdb.org/t/p/w780/iedHXSh8En1sihDqAqzGKzFe9Jb.jpg",
+    "https://image.tmdb.org/t/p/w780/oNXxilwcBN9fBk1BaWoDnQfLaXJ.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Kim Possible (2019) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Kim Possible (2019) to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -2,6 +2,19 @@
   "title": "A Complete Unknown",
   "level": "B2",
   "englishAnalysis": "Situada en los años 60 y centrada en la vida de Bob Dylan, esta película ofrece un rico vocabulario musical y poético, así como expresiones propias de la contracultura, el folk y los artistas de la época. Excelente para aprender modismos históricos y la jerga bohemia.",
+  "tmdb": {
+    "overview": "Ambientada en la influyente escena musical de Nueva York de principios de los años 60, sigue el meteórico ascenso del músico de Minnesota de 19 años Bob Dylan como cantante folk en las salas de conciertos y la cima de las listas de éxitos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
+      "https://image.tmdb.org/t/p/w780/r8YfVJu9OAzWbTAuuc86CIs1DYN.jpg",
+      "https://image.tmdb.org/t/p/w780/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
+      "https://image.tmdb.org/t/p/w780/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
+      "https://image.tmdb.org/t/p/w780/6nVhMkR5cbATip5vw4nAptAC4qX.jpg",
+      "https://image.tmdb.org/t/p/w780/wHOeF5ZmjDRUhd1Kz2ULTrzQFH4.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
   "vocabulary": [
     {
       "word": "It will take some pressure off the kicking department",
@@ -824,18 +837,6 @@
       "translation": "toca/emprende otra marcha"
     }
   ],
-  "tmdb": {
-    "overview": "Ambientada en la influyente escena musical de Nueva York de principios de los años 60, sigue el meteórico ascenso del músico de Minnesota de 19 años Bob Dylan como cantante folk en las salas de conciertos y la cima de las listas de éxitos.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
-      "https://image.tmdb.org/t/p/w780/r8YfVJu9OAzWbTAuuc86CIs1DYN.jpg",
-      "https://image.tmdb.org/t/p/w780/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
-      "https://image.tmdb.org/t/p/w780/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
-      "https://image.tmdb.org/t/p/w780/6nVhMkR5cbATip5vw4nAptAC4qX.jpg",
-      "https://image.tmdb.org/t/p/w780/wHOeF5ZmjDRUhd1Kz2ULTrzQFH4.jpg"
-    ],
-    "episodes": null
-  },
   "count": 205,
   "dialogues": 2352
 }

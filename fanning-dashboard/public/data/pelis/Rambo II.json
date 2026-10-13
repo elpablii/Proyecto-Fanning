@@ -2,6 +2,19 @@
   "title": "Rambo II",
   "level": "B1",
   "englishAnalysis": "Inglés militar táctico de los años 80, muy similar a la primera parte pero más enfocado en el combate activo. Expresiones cortas, jerga de armamento, supervivencia en la selva y acentos eslavos/asiáticos fingidos.",
+  "tmdb": {
+    "overview": "Rambo, encarcelado por sus antiguos crímenes, recibe por parte del coronel Trautman la misión optativa de ir a Vietnam para comprobar si aún quedan prisioneros de guerra. Si la misión saliera bien, el presidente le concedería el perdón, y así sería libre. Rambo acepta. Está bajo las órdenes de un falso teniente (Murdock), al que muy en el fondo sólo le interesa el dinero y el poder de su nación, y al que le da igual perder a unos cuantos hombres, por muy inocentes que sean, si sigue controlando las cosas como él quiere. Murdock le encarga que sólo saque fotos, y que no ataque al enemigo. Pero al saltar en paracaídas sobre un área selvática prohibida, Rambo pierde todo su equipo, excepto un cuchillo dentado y un arco.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+      "https://image.tmdb.org/t/p/w780/tYwkQigtc8afw0XeEogSSG0YcYQ.jpg",
+      "https://image.tmdb.org/t/p/w780/oPWxyDC9MY5c00IjhDrQsdUoqq3.jpg",
+      "https://image.tmdb.org/t/p/w780/ckLvbtslkBnkRivTVEZ5TFfEkDH.jpg",
+      "https://image.tmdb.org/t/p/w780/dS01Xp8SqT3lkErO6xpKD380w9J.jpg",
+      "https://image.tmdb.org/t/p/w780/jSMNXznO7Y5bGCDXcKYAGF52AGr.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
   "vocabulary": [
     {
       "word": "A covert operation is being geared up",
@@ -180,18 +193,6 @@
       "translation": "derramar"
     }
   ],
-  "tmdb": {
-    "overview": "Rambo, encarcelado por sus antiguos crímenes, recibe por parte del coronel Trautman la misión optativa de ir a Vietnam para comprobar si aún quedan prisioneros de guerra. Si la misión saliera bien, el presidente le concedería el perdón, y así sería libre. Rambo acepta. Está bajo las órdenes de un falso teniente (Murdock), al que muy en el fondo sólo le interesa el dinero y el poder de su nación, y al que le da igual perder a unos cuantos hombres, por muy inocentes que sean, si sigue controlando las cosas como él quiere. Murdock le encarga que sólo saque fotos, y que no ataque al enemigo. Pero al saltar en paracaídas sobre un área selvática prohibida, Rambo pierde todo su equipo, excepto un cuchillo dentado y un arco.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
-      "https://image.tmdb.org/t/p/w780/tYwkQigtc8afw0XeEogSSG0YcYQ.jpg",
-      "https://image.tmdb.org/t/p/w780/oPWxyDC9MY5c00IjhDrQsdUoqq3.jpg",
-      "https://image.tmdb.org/t/p/w780/ckLvbtslkBnkRivTVEZ5TFfEkDH.jpg",
-      "https://image.tmdb.org/t/p/w780/dS01Xp8SqT3lkErO6xpKD380w9J.jpg",
-      "https://image.tmdb.org/t/p/w780/jSMNXznO7Y5bGCDXcKYAGF52AGr.jpg"
-    ],
-    "episodes": null
-  },
   "count": 44,
   "dialogues": 440
 }

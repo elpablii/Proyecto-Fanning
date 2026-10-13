@@ -1,0 +1,30 @@
+{
+  "titulo": "La Sustancia",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 933260
+  },
+  "analisis": "Lenguaje corporativo, superficial y centrado en la belleza estética de Los Ángeles, contrastado con terminología médica cruda de ciencia ficción ('matrix', 'stabilize').",
+  "sinopsis": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+  "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+    "https://image.tmdb.org/t/p/w780/oBviuwvB1DyYwiNyVUdfXWn9El3.jpg",
+    "https://image.tmdb.org/t/p/w780/cL519xfEtR8NzE6UmUHyTpNO68I.jpg",
+    "https://image.tmdb.org/t/p/w780/wMEhptvj6pcp2QSzHYcl4DFA5Pz.jpg",
+    "https://image.tmdb.org/t/p/w780/9Whl7RAzes0oMaFAeSqD8ttN3fl.jpg",
+    "https://image.tmdb.org/t/p/w780/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de La Sustancia (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from The Substance to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "titulo": "Dream Productions",
+  "tipo": "serie",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "El vocabulario de Dream Productions destaca por su jerga relacionada a la producción audiovisual (guiones, cámaras, dirección), expresiones preadolescentes, y términos del entorno laboral hiperactivo.",
+  "sinopsis": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
+  "poster": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
+    "https://image.tmdb.org/t/p/w780/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
+    "https://image.tmdb.org/t/p/w780/tdqzcZnoEQCFsk6x82RKPQmTPOh.jpg",
+    "https://image.tmdb.org/t/p/w780/dti0HcKrhUYBwbXQWIOwob1Yoll.jpg",
+    "https://image.tmdb.org/t/p/w780/bsDgqLeu9QriM5yuIv1d3nbTezo.jpg",
+    "https://image.tmdb.org/t/p/w780/1mkLECtsUghchZSI1jJFw4mwIm1.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Dream Productions (de Intensamente) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from Dream Productions to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "Dream Productions (Episode 1)",
+      "nivel": "B2",
+      "titulo": "Part 1: The Dream Team",
+      "foto": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
+    },
+    "S01E02": {
+      "nombre": "Dream Productions (Episode 2)",
+      "nivel": "B1",
+      "titulo": "Part 2: Out of Body",
+      "foto": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
+    },
+    "S01E03": {
+      "nombre": "Dream Productions (Episode 3)",
+      "nivel": "C1",
+      "titulo": "Part 3: Romance!",
+      "foto": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
+    },
+    "S01E04": {
+      "nombre": "Dream Productions (Episode 4)",
+      "nivel": "B1",
+      "titulo": "Part 4: A Night to Remember",
+      "foto": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
+    }
+  }
+}

@@ -2,6 +2,19 @@
   "title": "3 Generations",
   "level": "B2",
   "englishAnalysis": "Drama familiar de Nueva York. Inglés urbano rápido y sobrepuesto, con un fuerte enfoque en vocabulario de identidad de género, tratamientos médicos y complejas dinámicas intergeneracionales.",
+  "tmdb": {
+    "overview": "la película muestra la historia familiar de tres generaciones de mujeres. Ray (Fanning) es un adolescente transexual al comienzo de su transición de género, una decisión que cambiará el día a día de su familia. Su madre, Maggie (Watts), deberá localizar al padre biológico de Ray (Tate Donovan) para obtener el consentimiento legal que permita la transición de su hijo. Dolly (Sarandon), abuela de Ray, tendrá que aceptar que ahora tiene un nieto en vez de una nieta.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
+      "https://image.tmdb.org/t/p/w780/qas5wFbmcG8XuZx64iRje2dgOTs.jpg",
+      "https://image.tmdb.org/t/p/w780/nSzAZ7q3f73guCgxRMmMCGxAQgR.jpg",
+      "https://image.tmdb.org/t/p/w780/tBFlv2F0dcgoT3JZNmk6TVpl41z.jpg",
+      "https://image.tmdb.org/t/p/w780/xAkLqqRCOpLV0XViRYxyRMwiJh6.jpg",
+      "https://image.tmdb.org/t/p/w780/mKbe89hzhniZIhqpE6gey4Lwoxy.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
   "vocabulary": [
     {
       "word": "I wish I was a boy (no literal)",
@@ -276,18 +289,6 @@
       "translation": "lo que hay que hacer y lo que no hay que hacer"
     }
   ],
-  "tmdb": {
-    "overview": "la película muestra la historia familiar de tres generaciones de mujeres. Ray (Fanning) es un adolescente transexual al comienzo de su transición de género, una decisión que cambiará el día a día de su familia. Su madre, Maggie (Watts), deberá localizar al padre biológico de Ray (Tate Donovan) para obtener el consentimiento legal que permita la transición de su hijo. Dolly (Sarandon), abuela de Ray, tendrá que aceptar que ahora tiene un nieto en vez de una nieta.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
-      "https://image.tmdb.org/t/p/w780/qas5wFbmcG8XuZx64iRje2dgOTs.jpg",
-      "https://image.tmdb.org/t/p/w780/nSzAZ7q3f73guCgxRMmMCGxAQgR.jpg",
-      "https://image.tmdb.org/t/p/w780/tBFlv2F0dcgoT3JZNmk6TVpl41z.jpg",
-      "https://image.tmdb.org/t/p/w780/xAkLqqRCOpLV0XViRYxyRMwiJh6.jpg",
-      "https://image.tmdb.org/t/p/w780/mKbe89hzhniZIhqpE6gey4Lwoxy.jpg"
-    ],
-    "episodes": null
-  },
   "count": 68,
   "dialogues": 926
 }

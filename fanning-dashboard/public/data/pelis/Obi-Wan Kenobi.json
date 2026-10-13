@@ -2,10 +2,50 @@
   "title": "Obi-Wan Kenobi",
   "level": "B2",
   "englishAnalysis": "El vocabulario de Obi-Wan Kenobi se sumerge en el lenguaje militar imperial, terminología de ciencia ficción intergaláctica, jerga de los bajos fondos de la galaxia y un tono solemne Jedi.",
+  "tmdb": {
+    "overview": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+      "https://image.tmdb.org/t/p/w780/vNPm1WG15IJHpsemb9ZRurm4ZC4.jpg",
+      "https://image.tmdb.org/t/p/w780/7huDoLPgTumapij4WJQUvNwXEJh.jpg",
+      "https://image.tmdb.org/t/p/w780/oJ1KKAKiIuBA3s1tvtEa7NlQ2XM.jpg",
+      "https://image.tmdb.org/t/p/w780/a69aEVkHifkL154uUpZbLgSDmB0.jpg",
+      "https://image.tmdb.org/t/p/w780/8H64YmIYxpRJgSTuLUGRUSyi2kN.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Part I",
+        "still_path": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
+      },
+      "S01E02": {
+        "name": "Part II",
+        "still_path": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
+      },
+      "S01E03": {
+        "name": "Part III",
+        "still_path": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
+      },
+      "S01E04": {
+        "name": "Part IV",
+        "still_path": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
+      },
+      "S01E05": {
+        "name": "Part V",
+        "still_path": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
+      },
+      "S01E06": {
+        "name": "Part VI",
+        "still_path": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "Obi-Wan Kenobi (Part I)",
-      "count": 23,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Rumors run rampant",
@@ -100,12 +140,13 @@
           "translation": "terminemos con esto"
         }
       ],
-      "dialogues": 476,
-      "level": "B1"
+      "count": 23,
+      "dialogues": 476
     },
     {
+      "code": "S01E02",
       "name": "Obi-Wan Kenobi (Part II)",
-      "count": 14,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Break it up (en discusiones)",
@@ -164,12 +205,13 @@
           "translation": "hedor"
         }
       ],
-      "dialogues": 396,
-      "level": "B1"
+      "count": 14,
+      "dialogues": 396
     },
     {
+      "code": "S01E03",
       "name": "Obi-Wan Kenobi (Part III)",
-      "count": 17,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "A rat who preys on weakness",
@@ -240,12 +282,13 @@
           "translation": "¡Dispárale!"
         }
       ],
-      "dialogues": 465,
-      "level": "B1"
+      "count": 17,
+      "dialogues": 465
     },
     {
+      "code": "S01E04",
       "name": "Obi-Wan Kenobi (Part IV)",
-      "count": 12,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Strays",
@@ -296,12 +339,13 @@
           "translation": "es obra de ella"
         }
       ],
-      "dialogues": 303,
-      "level": "B1"
+      "count": 12,
+      "dialogues": 303
     },
     {
+      "code": "S01E05",
       "name": "Obi-Wan Kenobi (Part V)",
-      "count": 17,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Maybe I stand more of a chance this time",
@@ -372,12 +416,13 @@
           "translation": "cuneta, alcantarilla"
         }
       ],
-      "dialogues": 344,
-      "level": "B1"
+      "count": 17,
+      "dialogues": 344
     },
     {
+      "code": "S01E06",
       "name": "Obi-Wan Kenobi (Part VI)",
-      "count": 11,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Rear",
@@ -424,47 +469,10 @@
           "translation": "te tomó bastante tiempo, tardaste mucho"
         }
       ],
-      "dialogues": 455,
-      "level": "B1"
+      "count": 11,
+      "dialogues": 455
     }
   ],
-  "tmdb": {
-    "overview": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
-      "https://image.tmdb.org/t/p/w780/vNPm1WG15IJHpsemb9ZRurm4ZC4.jpg",
-      "https://image.tmdb.org/t/p/w780/7huDoLPgTumapij4WJQUvNwXEJh.jpg",
-      "https://image.tmdb.org/t/p/w780/oJ1KKAKiIuBA3s1tvtEa7NlQ2XM.jpg",
-      "https://image.tmdb.org/t/p/w780/a69aEVkHifkL154uUpZbLgSDmB0.jpg",
-      "https://image.tmdb.org/t/p/w780/8H64YmIYxpRJgSTuLUGRUSyi2kN.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Part I",
-        "still_path": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
-      },
-      "2": {
-        "name": "Part II",
-        "still_path": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
-      },
-      "3": {
-        "name": "Part III",
-        "still_path": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
-      },
-      "4": {
-        "name": "Part IV",
-        "still_path": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
-      },
-      "5": {
-        "name": "Part V",
-        "still_path": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
-      },
-      "6": {
-        "name": "Part VI",
-        "still_path": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
-      }
-    }
-  },
   "count": 94,
   "dialogues": 2439
 }

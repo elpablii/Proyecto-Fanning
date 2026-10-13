@@ -2,10 +2,57 @@
   "title": "The Girl From Plainville",
   "level": "B2",
   "englishAnalysis": "Miniserie que ofrece un vocabulario juvenil combinado con jerga legal y policial. Debido a la temática de los mensajes de texto y la persuasión, encontrarás muchas expresiones relacionadas con la culpa, el estado mental, los tribunales y el lenguaje digital adolescente.",
+  "tmdb": {
+    "overview": "Basada en la historia real de Michelle Carter, una joven de un pequeño pueblo de Massachusetts que fue acusada de persuadir a su novio para que se suicidara.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1DsFJnBslB5dYewXXm51CIub9Fo.jpg",
+      "https://image.tmdb.org/t/p/w780/dY5ZGxbYpE1DpkFGxW9G1rZKOrF.jpg",
+      "https://image.tmdb.org/t/p/w780/gtaJ3VItQSILrMGlm2brSPJtnwI.jpg",
+      "https://image.tmdb.org/t/p/w780/8a2gYWvRqUJwqpvYpEmP4DgiDXv.jpg",
+      "https://image.tmdb.org/t/p/w780/c5Tag37CkqbEb1xTzOQAqAwAKV7.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Star-Crossed Lovers and Things Like That",
+        "still_path": "https://image.tmdb.org/t/p/w500/kIfABFMoRBlCddKPvnSb6F5LjBw.jpg"
+      },
+      "S01E02": {
+        "name": "Turtle",
+        "still_path": "https://image.tmdb.org/t/p/w500/yeDDqaxZ2EvPVv5Aw13qFLplVlB.jpg"
+      },
+      "S01E03": {
+        "name": "Never Have I Ever",
+        "still_path": "https://image.tmdb.org/t/p/w500/acExa6kO7LjLIoAX26rxKTsZias.jpg"
+      },
+      "S01E04": {
+        "name": "Can't Fight This Feeling",
+        "still_path": "https://image.tmdb.org/t/p/w500/k9YF4RYaq3mhw32NrNx42xNuFpr.jpg"
+      },
+      "S01E05": {
+        "name": "Mirrorball",
+        "still_path": "https://image.tmdb.org/t/p/w500/8JIkYrDGFUkCyBmEsqGXSRpUWkz.jpg"
+      },
+      "S01E06": {
+        "name": "Talking Is Healing",
+        "still_path": "https://image.tmdb.org/t/p/w500/9JLte3nDwZFwPFc8PojszvBJrS0.jpg"
+      },
+      "S01E07": {
+        "name": "Teenage Dirtbag",
+        "still_path": "https://image.tmdb.org/t/p/w500/7Di4HpT45pPbOPjGA2qfokwPbFE.jpg"
+      },
+      "S01E08": {
+        "name": "Blank Spaces",
+        "still_path": "https://image.tmdb.org/t/p/w500/h3gwIW7SwSMIZNiKQdJ8fRtCGkP.jpg"
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "The Girl From Plainville (Episode 1)",
-      "count": 28,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Any reason he'd up and disappear?",
@@ -120,13 +167,14 @@
           "translation": "las tormentas arrecian en el mar ondulante"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 28 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Any reason he'd up and disappear?\", \"Pot (alusivo a la sustancia)\", \"Dispatch (verbo)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B1",
-      "dialogues": 597
+      "count": 28,
+      "dialogues": 597,
+      "englishAnalysis": "Este episodio introduce 28 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Any reason he'd up and disappear?\", \"Pot (alusivo a la sustancia)\", \"Dispatch (verbo)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E02",
       "name": "The Girl From Plainville (Episode 2)",
-      "count": 33,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Gush (verbo)",
@@ -261,13 +309,14 @@
           "translation": "tembloroso"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 34 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Gush (verbo)\", \"Your tugboat towed Sully in off the Hudson\", \"Take in (en algunos contextos)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B2",
-      "dialogues": 739
+      "count": 33,
+      "dialogues": 739,
+      "englishAnalysis": "Este episodio introduce 34 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Gush (verbo)\", \"Your tugboat towed Sully in off the Hudson\", \"Take in (en algunos contextos)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E03",
       "name": "The Girl From Plainville (Episode 3)",
-      "count": 44,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Warrant",
@@ -446,13 +495,14 @@
           "translation": "desenfrenado"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 44 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Warrant\", \"A cover-up\", \"Fill her in (no literal)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "C1",
-      "dialogues": 723
+      "count": 44,
+      "dialogues": 723,
+      "englishAnalysis": "Este episodio introduce 44 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Warrant\", \"A cover-up\", \"Fill her in (no literal)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E04",
       "name": "The Girl From Plainville (Episode 4)",
-      "count": 34,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Commit (verbo en salud)",
@@ -591,13 +641,14 @@
           "translation": "vidente"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 34 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Commit (verbo en salud)\", \"Stemming from\", \"Homelife\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B2",
-      "dialogues": 698
+      "count": 34,
+      "dialogues": 698,
+      "englishAnalysis": "Este episodio introduce 34 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Commit (verbo en salud)\", \"Stemming from\", \"Homelife\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E05",
       "name": "The Girl From Plainville (Episode 5)",
-      "count": 26,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Get the case dismissed",
@@ -704,13 +755,14 @@
           "translation": "cinta para correr"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 26 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Get the case dismissed\", \"They've got too much evidence for dismissal\", \"She sounds heartbroken to me\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B1",
-      "dialogues": 577
+      "count": 26,
+      "dialogues": 577,
+      "englishAnalysis": "Este episodio introduce 26 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Get the case dismissed\", \"They've got too much evidence for dismissal\", \"She sounds heartbroken to me\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E06",
       "name": "The Girl From Plainville (Episode 6)",
-      "count": 26,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Is there any business either counsel would like to handle?",
@@ -817,13 +869,14 @@
           "translation": "telaraña"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 26 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Is there any business either counsel would like to handle?\", \"A bench trial\", \"Stand approach (verbo)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B1",
-      "dialogues": 698
+      "count": 26,
+      "dialogues": 698,
+      "englishAnalysis": "Este episodio introduce 26 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Is there any business either counsel would like to handle?\", \"A bench trial\", \"Stand approach (verbo)\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E07",
       "name": "The Girl From Plainville (Episode 7)",
-      "count": 41,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "I'm left crying in bed (parcialmente no literal)",
@@ -990,13 +1043,14 @@
           "translation": "un canalla"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 41 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"I'm left crying in bed (parcialmente no literal)\", \"Waive (verbo en sentido legal)\", \"Your educational background\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "C1",
-      "dialogues": 732
+      "count": 41,
+      "dialogues": 732,
+      "englishAnalysis": "Este episodio introduce 41 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"I'm left crying in bed (parcialmente no literal)\", \"Waive (verbo en sentido legal)\", \"Your educational background\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     },
     {
+      "code": "S01E08",
       "name": "The Girl From Plainville (Episode 8)",
-      "count": 32,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Waive (verbo en sentido legal)",
@@ -1127,55 +1181,11 @@
           "translation": "se levanta la sesión"
         }
       ],
-      "englishAnalysis": "Este episodio introduce 32 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Waive (verbo en sentido legal)\", \"Overdosing (sustantivo)\", \"I'm too messed up to\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama.",
-      "level": "B2",
-      "dialogues": 456
+      "count": 32,
+      "dialogues": 456,
+      "englishAnalysis": "Este episodio introduce 32 palabras y frases clave para comprender los diálogos. Entre ellas destacan expresiones como \"Waive (verbo en sentido legal)\", \"Overdosing (sustantivo)\", \"I'm too messed up to\", las cuales son fundamentales para captar el contexto emocional y judicial de la trama."
     }
   ],
-  "tmdb": {
-    "overview": "Basada en la historia real de Michelle Carter, una joven de un pequeño pueblo de Massachusetts que fue acusada de persuadir a su novio para que se suicidara.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/1DsFJnBslB5dYewXXm51CIub9Fo.jpg",
-      "https://image.tmdb.org/t/p/w780/dY5ZGxbYpE1DpkFGxW9G1rZKOrF.jpg",
-      "https://image.tmdb.org/t/p/w780/gtaJ3VItQSILrMGlm2brSPJtnwI.jpg",
-      "https://image.tmdb.org/t/p/w780/8a2gYWvRqUJwqpvYpEmP4DgiDXv.jpg",
-      "https://image.tmdb.org/t/p/w780/c5Tag37CkqbEb1xTzOQAqAwAKV7.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Star-Crossed Lovers and Things Like That",
-        "still_path": "https://image.tmdb.org/t/p/w500/kIfABFMoRBlCddKPvnSb6F5LjBw.jpg"
-      },
-      "2": {
-        "name": "Turtle",
-        "still_path": "https://image.tmdb.org/t/p/w500/yeDDqaxZ2EvPVv5Aw13qFLplVlB.jpg"
-      },
-      "3": {
-        "name": "Never Have I Ever",
-        "still_path": "https://image.tmdb.org/t/p/w500/acExa6kO7LjLIoAX26rxKTsZias.jpg"
-      },
-      "4": {
-        "name": "Can't Fight This Feeling",
-        "still_path": "https://image.tmdb.org/t/p/w500/k9YF4RYaq3mhw32NrNx42xNuFpr.jpg"
-      },
-      "5": {
-        "name": "Mirrorball",
-        "still_path": "https://image.tmdb.org/t/p/w500/8JIkYrDGFUkCyBmEsqGXSRpUWkz.jpg"
-      },
-      "6": {
-        "name": "Talking Is Healing",
-        "still_path": "https://image.tmdb.org/t/p/w500/9JLte3nDwZFwPFc8PojszvBJrS0.jpg"
-      },
-      "7": {
-        "name": "Teenage Dirtbag",
-        "still_path": "https://image.tmdb.org/t/p/w500/7Di4HpT45pPbOPjGA2qfokwPbFE.jpg"
-      },
-      "8": {
-        "name": "Blank Spaces",
-        "still_path": "https://image.tmdb.org/t/p/w500/h3gwIW7SwSMIZNiKQdJ8fRtCGkP.jpg"
-      }
-    }
-  },
   "count": 264,
   "dialogues": 5220
 }

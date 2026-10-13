@@ -1,0 +1,30 @@
+{
+  "titulo": "The Legend of Tarzan",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 258489
+  },
+  "analisis": "Ofrece una interesante dicotomía: por un lado, el inglés aristocrático británico de la Inglaterra victoriana ('lord', 'civilized', 'estate'); por otro, un lenguaje más crudo, primitivo y táctico relacionado con la supervivencia y el imperialismo en la selva africana.",
+  "sinopsis": "Tarzán, ya acostumbrado a la vida en Londres, es llamado de vuelta a su antiguo hogar en la selva para investigar las actividades que se llevan a cabo en un campamento minero.",
+  "poster": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+    "https://image.tmdb.org/t/p/w780/uFKCqo7Ak7mnsHhpaYjMZQEiMdg.jpg",
+    "https://image.tmdb.org/t/p/w780/d9H2nXfKslf6B1cm7UtPBKhtUgA.jpg",
+    "https://image.tmdb.org/t/p/w780/kv2pCPUewLEcYk1jArn3HmyvSRn.jpg",
+    "https://image.tmdb.org/t/p/w780/Afi8IUQUGynmhPMEyFdyGiQft1a.jpg",
+    "https://image.tmdb.org/t/p/w780/sIZUWHQvrDzVcgBbJcjs3LUtbUp.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de The Legend of Tarzan (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from The Legend of Tarzan to improve the vocabulary in English.pdf"
+    ]
+  }
+}

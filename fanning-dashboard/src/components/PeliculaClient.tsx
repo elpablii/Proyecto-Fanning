@@ -5,8 +5,7 @@
 import React, { useState } from 'react';
 import { miles } from '@/lib/formato';
 import { useRouter } from 'next/navigation';
-import { Loader2, ArrowLeft, Film, BookOpen, Quote, Info, Edit2 } from 'lucide-react';
-import FlashcardViewer from '@/components/ui/FlashcardViewer';
+import { ArrowLeft, Film, BookOpen, Quote, Info } from 'lucide-react';
 
 export default function PeliculaClient({ slug, initialMovieData, initialExtraData }: { slug: string, initialMovieData: any, initialExtraData: any }) {
   const router = useRouter();
@@ -112,27 +111,6 @@ export default function PeliculaClient({ slug, initialMovieData, initialExtraDat
             >
                 <ArrowLeft size={18} /> Volver al Dashboard
             </button>
-            
-            <div className="flex items-center gap-2">
-                <button 
-                    onClick={() => {
-                        const tmdbId = window.prompt(`[SISTEMA MANUAL]\nIntroduce el ID de TMDB para la película "${decodedTitle}":`);
-                        if (tmdbId && tmdbId.trim() !== '') {
-                            let saved: Record<string, string> = {};
-                            try {
-                                const str = localStorage.getItem('tmdb_manual_overrides');
-                                if (str) saved = JSON.parse(str);
-                            } catch(_) {}
-                            saved[decodedTitle] = tmdbId.trim();
-                            localStorage.setItem('tmdb_manual_overrides', JSON.stringify(saved));
-                            window.location.reload();
-                        }
-                    }} 
-                    className="flex items-center gap-2 text-gray-300 hover:text-white bg-white/5 hover:bg-white/10 px-3 py-1.5 rounded-full backdrop-blur-sm border border-white/5 hover:border-white/20 transition-all text-xs"
-                >
-                    <Edit2 size={14} /> Corregir TMDB
-                </button>
-            </div>
         </div>
 
         {/* Hero Section */}

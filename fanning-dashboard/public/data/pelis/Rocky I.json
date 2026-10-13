@@ -2,6 +2,19 @@
   "title": "Rocky I",
   "level": "B1",
   "englishAnalysis": "El origen de la saga ofrece el acento inconfundible italoamericano de Filadelfia. Diálogos sencillos, directos, con jerga callejera de los años 70 y vocabulario del mundo del boxeo. Ideal para acostumbrar el oído a pronunciaciones cerradas.",
+  "tmdb": {
+    "overview": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+      "https://image.tmdb.org/t/p/w780/xUZ2G8MRGEljqgqLxMJItK4iHfY.jpg",
+      "https://image.tmdb.org/t/p/w780/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+      "https://image.tmdb.org/t/p/w780/eXY0igZNSmjBxEdC6uWIWjItNG3.jpg",
+      "https://image.tmdb.org/t/p/w780/4bwsjrKcmIxHcKJlbxrqGkLVbvL.jpg",
+      "https://image.tmdb.org/t/p/w780/nKrbDOaTiRk4BdZD5nmmYTIArAA.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
   "vocabulary": [
     {
       "word": "Mouthpiece",
@@ -788,18 +801,6 @@
       "translation": "¿No hay planes para una revancha?"
     }
   ],
-  "tmdb": {
-    "overview": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
-      "https://image.tmdb.org/t/p/w780/xUZ2G8MRGEljqgqLxMJItK4iHfY.jpg",
-      "https://image.tmdb.org/t/p/w780/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
-      "https://image.tmdb.org/t/p/w780/eXY0igZNSmjBxEdC6uWIWjItNG3.jpg",
-      "https://image.tmdb.org/t/p/w780/4bwsjrKcmIxHcKJlbxrqGkLVbvL.jpg",
-      "https://image.tmdb.org/t/p/w780/nKrbDOaTiRk4BdZD5nmmYTIArAA.jpg"
-    ],
-    "episodes": null
-  },
   "count": 196,
   "dialogues": 1684
 }

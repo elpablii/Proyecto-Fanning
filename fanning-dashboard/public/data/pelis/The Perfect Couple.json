@@ -2,10 +2,50 @@
   "title": "The Perfect Couple",
   "level": "B2",
   "englishAnalysis": "Miniserie de misterio e intriga que destaca por un vocabulario lleno de secretos familiares, jerga de alta sociedad y lenguaje relacionado a investigaciones policiales.",
+  "tmdb": {
+    "overview": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
+      "https://image.tmdb.org/t/p/w780/9Ow1qS0AYBKcNamvUmaFIOahGW8.jpg",
+      "https://image.tmdb.org/t/p/w780/dcpHWIhDBPLyP6WyAokJp65vZaE.jpg",
+      "https://image.tmdb.org/t/p/w780/xD7DGNCrhLfcgIgBkD0FYTlFm5z.jpg",
+      "https://image.tmdb.org/t/p/w780/3buRSGVnutw8x4Lww0t70k5dG6R.jpg",
+      "https://image.tmdb.org/t/p/w780/k7TMh6V5C1i1DrVORvABwnOfs78.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Happy Wedding Eve",
+        "still_path": "https://image.tmdb.org/t/p/w500/nxFWYtGhk8rERddq0TWihtHjsuG.jpg"
+      },
+      "S01E02": {
+        "name": "She Would Never Do That",
+        "still_path": "https://image.tmdb.org/t/p/w500/2wzelcbQ6hDPrkn9OgsYDIoAp6d.jpg"
+      },
+      "S01E03": {
+        "name": "The Perfect Family",
+        "still_path": "https://image.tmdb.org/t/p/w500/jfQgl6OFEDWtOnoPNUgEtAJWb80.jpg"
+      },
+      "S01E04": {
+        "name": "Someone Could Get Hurt",
+        "still_path": "https://image.tmdb.org/t/p/w500/dtkcyk1TU4q1OcaKNF9LxKnoMOh.jpg"
+      },
+      "S01E05": {
+        "name": "Never Gonna Give You Up",
+        "still_path": "https://image.tmdb.org/t/p/w500/iUrLRbaQ8YGcym0JGiqAKCXLmOo.jpg"
+      },
+      "S01E06": {
+        "name": "That Feels Better",
+        "still_path": "https://image.tmdb.org/t/p/w500/aFHJyNQUoYCNsGqyaZLnWU8BjvE.jpg"
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "The Perfect Couple (Episode 1)",
-      "count": 53,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Whiny bedwetters",
@@ -220,13 +260,14 @@
           "translation": "refrescarse"
         }
       ],
-      "level": "C1",
-      "englishAnalysis": "Este episodio contiene 48 términos clave. Presta atención a palabras como \"Whiny bedwetters\", \"She has a higher price-to-earning ratio\", \"You wannd mind your charge?\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 730
+      "count": 53,
+      "dialogues": 730,
+      "englishAnalysis": "Este episodio contiene 48 términos clave. Presta atención a palabras como \"Whiny bedwetters\", \"She has a higher price-to-earning ratio\", \"You wannd mind your charge?\", muy comunes en contextos de drama e investigaciones."
     },
     {
+      "code": "S01E02",
       "name": "The Perfect Couple (Episode 2)",
-      "count": 42,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Deep gash",
@@ -397,13 +438,14 @@
           "translation": "estallidos de violencia"
         }
       ],
-      "level": "B2",
-      "englishAnalysis": "Este episodio contiene 42 términos clave. Presta atención a palabras como \"Deep gash\", \"Tech found it tangled up in seaweed down the beach\", \"You think she flipped? (pregunta no literal)\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 541
+      "count": 42,
+      "dialogues": 541,
+      "englishAnalysis": "Este episodio contiene 42 términos clave. Presta atención a palabras como \"Deep gash\", \"Tech found it tangled up in seaweed down the beach\", \"You think she flipped? (pregunta no literal)\", muy comunes en contextos de drama e investigaciones."
     },
     {
+      "code": "S01E03",
       "name": "The Perfect Couple (Episode 3)",
-      "count": 36,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Gave you the shirt off my back",
@@ -550,13 +592,14 @@
           "translation": "celestial"
         }
       ],
-      "level": "B2",
-      "englishAnalysis": "Este episodio contiene 36 términos clave. Presta atención a palabras como \"Gave you the shirt off my back\", \"Parkway\", \"Guys are always falling all over her (frase no literal)\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 694
+      "count": 36,
+      "dialogues": 694,
+      "englishAnalysis": "Este episodio contiene 36 términos clave. Presta atención a palabras como \"Gave you the shirt off my back\", \"Parkway\", \"Guys are always falling all over her (frase no literal)\", muy comunes en contextos de drama e investigaciones."
     },
     {
+      "code": "S01E04",
       "name": "The Perfect Couple (Episode 4)",
-      "count": 17,
+      "level": "B1",
       "vocabulary": [
         {
           "word": "Call in",
@@ -627,13 +670,14 @@
           "translation": "sebo"
         }
       ],
-      "level": "B1",
-      "englishAnalysis": "Este episodio contiene 17 términos clave. Presta atención a palabras como \"Call in\", \"Get pushed (en fechas)\", \"But it'll never be old hat (frase no literal)\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 533
+      "count": 17,
+      "dialogues": 533,
+      "englishAnalysis": "Este episodio contiene 17 términos clave. Presta atención a palabras como \"Call in\", \"Get pushed (en fechas)\", \"But it'll never be old hat (frase no literal)\", muy comunes en contextos de drama e investigaciones."
     },
     {
+      "code": "S01E05",
       "name": "The Perfect Couple (Episode 5)",
-      "count": 50,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "You're tethered to terra firma",
@@ -836,13 +880,14 @@
           "translation": "se dedican al tráfico de armas"
         }
       ],
-      "level": "C1",
-      "englishAnalysis": "Este episodio contiene 47 términos clave. Presta atención a palabras como \"You're tethered to terra firma\", \"I don't want tongues wagging about anything, but my book (frase no literal)\", \"Bridge (verbo no alusivo a puentes)\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 753
+      "count": 50,
+      "dialogues": 753,
+      "englishAnalysis": "Este episodio contiene 47 términos clave. Presta atención a palabras como \"You're tethered to terra firma\", \"I don't want tongues wagging about anything, but my book (frase no literal)\", \"Bridge (verbo no alusivo a puentes)\", muy comunes en contextos de drama e investigaciones."
     },
     {
+      "code": "S01E06",
       "name": "The Perfect Couple (Episode 6)",
-      "count": 61,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Deeply and profoundly and terminally (no literal)",
@@ -1089,48 +1134,11 @@
           "translation": "terriblemente"
         }
       ],
-      "level": "C1",
-      "englishAnalysis": "Este episodio contiene 61 términos clave. Presta atención a palabras como \"Deeply and profoundly and terminally (no literal)\", \"Frame (verbo no literal)\", \"He's commited to a publicity triage\", muy comunes en contextos de drama e investigaciones.",
-      "dialogues": 903
+      "count": 61,
+      "dialogues": 903,
+      "englishAnalysis": "Este episodio contiene 61 términos clave. Presta atención a palabras como \"Deeply and profoundly and terminally (no literal)\", \"Frame (verbo no literal)\", \"He's commited to a publicity triage\", muy comunes en contextos de drama e investigaciones."
     }
   ],
-  "tmdb": {
-    "overview": "Amelia está por casarse con el heredero de una de las fortunas más grandes de Nantucket, pero una muerte repentina arruina los planes de la boda... y pone a todos bajo sospecha.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
-      "https://image.tmdb.org/t/p/w780/9Ow1qS0AYBKcNamvUmaFIOahGW8.jpg",
-      "https://image.tmdb.org/t/p/w780/dcpHWIhDBPLyP6WyAokJp65vZaE.jpg",
-      "https://image.tmdb.org/t/p/w780/xD7DGNCrhLfcgIgBkD0FYTlFm5z.jpg",
-      "https://image.tmdb.org/t/p/w780/3buRSGVnutw8x4Lww0t70k5dG6R.jpg",
-      "https://image.tmdb.org/t/p/w780/k7TMh6V5C1i1DrVORvABwnOfs78.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Happy Wedding Eve",
-        "still_path": "https://image.tmdb.org/t/p/w500/nxFWYtGhk8rERddq0TWihtHjsuG.jpg"
-      },
-      "2": {
-        "name": "She Would Never Do That",
-        "still_path": "https://image.tmdb.org/t/p/w500/2wzelcbQ6hDPrkn9OgsYDIoAp6d.jpg"
-      },
-      "3": {
-        "name": "The Perfect Family",
-        "still_path": "https://image.tmdb.org/t/p/w500/jfQgl6OFEDWtOnoPNUgEtAJWb80.jpg"
-      },
-      "4": {
-        "name": "Someone Could Get Hurt",
-        "still_path": "https://image.tmdb.org/t/p/w500/dtkcyk1TU4q1OcaKNF9LxKnoMOh.jpg"
-      },
-      "5": {
-        "name": "Never Gonna Give You Up",
-        "still_path": "https://image.tmdb.org/t/p/w500/iUrLRbaQ8YGcym0JGiqAKCXLmOo.jpg"
-      },
-      "6": {
-        "name": "That Feels Better",
-        "still_path": "https://image.tmdb.org/t/p/w500/aFHJyNQUoYCNsGqyaZLnWU8BjvE.jpg"
-      }
-    }
-  },
   "count": 259,
   "dialogues": 4154
 }

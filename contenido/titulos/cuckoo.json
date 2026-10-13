@@ -1,0 +1,30 @@
+{
+  "titulo": "Cuckoo",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "+18",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 869291
+  },
+  "analisis": "Terror psicológico con una interesante mezcla de inglés hablado por europeos (alemanes). Vocabulario de aislamiento, misterio biológico y jerga adolescente americana desubicada.",
+  "sinopsis": "Después de verse obligada a mudarse a los Alpes alemanes con su padre y su nueva familia, Gretchen, una joven de 17 años,  descubre que su nueva ciudad no es lo que parece, ya que está plagada de ruidos extraños y visiones aterradoras de una mujer que la persigue.",
+  "poster": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg",
+    "https://image.tmdb.org/t/p/w780/ndZ0rmPqY8AtXLdvF14hjBhkuDj.jpg",
+    "https://image.tmdb.org/t/p/w780/qzTypZlFlBNRBBYJgGW4KVdCReE.jpg",
+    "https://image.tmdb.org/t/p/w780/5K9wEVASUXg0Oj2uvt4mlKSHcQ4.jpg",
+    "https://image.tmdb.org/t/p/w780/uLGhGywlfm7MlRjzvAppQFuMDFR.jpg",
+    "https://image.tmdb.org/t/p/w780/AjmpXbpMDegWqjK8rW5LQ1V4DR.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Cuckoo (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Cuckoo to improve the vocabulary in English.pdf"
+    ]
+  }
+}

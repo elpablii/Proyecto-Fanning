@@ -2,6 +2,19 @@
   "title": "Monsters Inc",
   "level": "A2",
   "englishAnalysis": "Un clásico de Pixar. Presenta un inglés laboral/corporativo ('scare floor', 'quota', 'report') mezclado de forma magistral con humor de comedia física. Diálogos rápidos y sarcásticos.",
+  "tmdb": {
+    "overview": "Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "https://image.tmdb.org/t/p/w780/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+      "https://image.tmdb.org/t/p/w780/puo6orN2BjQt1g4K0umVlooVff9.jpg",
+      "https://image.tmdb.org/t/p/w780/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
+      "https://image.tmdb.org/t/p/w780/uCeuBenA2XlGegJYvMq0xs1TFL7.jpg",
+      "https://image.tmdb.org/t/p/w780/28uegn2HdGhrcnoiMw8EdyCcjhm.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
   "vocabulary": [
     {
       "word": "Draught",
@@ -444,18 +457,6 @@
       "translation": "sonido sensual"
     }
   ],
-  "tmdb": {
-    "overview": "Para alimentar la ciudad, los monstruos tienen que asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño pasa, dos monstruos se dan cuenta de que las cosas pueden no ser lo que ellos piensan.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
-      "https://image.tmdb.org/t/p/w780/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
-      "https://image.tmdb.org/t/p/w780/puo6orN2BjQt1g4K0umVlooVff9.jpg",
-      "https://image.tmdb.org/t/p/w780/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
-      "https://image.tmdb.org/t/p/w780/uCeuBenA2XlGegJYvMq0xs1TFL7.jpg",
-      "https://image.tmdb.org/t/p/w780/28uegn2HdGhrcnoiMw8EdyCcjhm.jpg"
-    ],
-    "episodes": null
-  },
   "count": 110,
   "dialogues": 1074
 }

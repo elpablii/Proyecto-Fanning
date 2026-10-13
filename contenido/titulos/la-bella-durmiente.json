@@ -1,0 +1,30 @@
+{
+  "titulo": "La Bella Durmiente",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 10882
+  },
+  "analisis": "Un clásico de Disney que ofrece un inglés atemporal, pausado y poético. Al incluir reyes y hadas, el vocabulario es ligeramente arcaico, majestuoso y muy formal, ideal para aprender la entonación de los cuentos de hadas tradicionales.",
+  "sinopsis": "Tras ser desairada por la familia real, un hada malévola lanza una maldición sobre una princesa que solo un príncipe puede romper, junto con la ayuda de tres hadas buenas.",
+  "poster": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+    "https://image.tmdb.org/t/p/w780/4CryneVBqNPqmXR206snm7491gT.jpg",
+    "https://image.tmdb.org/t/p/w780/slPsf3cQFt8ffQSQbuOlpYlV84s.jpg",
+    "https://image.tmdb.org/t/p/w780/lAxBxNUyXSeHKDw1QoyUAMlUFaF.jpg",
+    "https://image.tmdb.org/t/p/w780/kfuk1YakemC57o9RcvU9N82Mgyz.jpg",
+    "https://image.tmdb.org/t/p/w780/tpAvWkO8vbaKBApflTpIuHPHG0c.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de La Bella Durmiente (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Sleeping Beauty to improve the vocabulary in English.pdf"
+    ]
+  }
+}

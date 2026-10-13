@@ -2,6 +2,19 @@
   "title": "20th Century Women",
   "level": "B2",
   "englishAnalysis": "Ubicada a finales de los años 70 en California. Es perfecta para explorar el vocabulario sobre feminismo, cultura punk y la contracultura de la época. El inglés es coloquial e intelectual, reflejando las enormes brechas generacionales.",
+  "tmdb": {
+    "overview": "La historia de tres mujeres que exploran el amor y la libertad en California durante los años 70.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+      "https://image.tmdb.org/t/p/w780/afwr0TwMrbTSS11totkqWk0xCsO.jpg",
+      "https://image.tmdb.org/t/p/w780/fz08hItuOhXiYew7gaZIZ3BHBRM.jpg",
+      "https://image.tmdb.org/t/p/w780/x3mFfOKOzIi1ROSgy9bgyYq7zDH.jpg",
+      "https://image.tmdb.org/t/p/w780/tcViplakmoJN5GGD8FDyUfbHQGU.jpg",
+      "https://image.tmdb.org/t/p/w780/f0VjaquUv3DJjHzovKNhIq4qMiw.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
   "vocabulary": [
     {
       "word": "Until the plane gets safely away",
@@ -324,18 +337,6 @@
       "translation": "un caso de vida o muerte"
     }
   ],
-  "tmdb": {
-    "overview": "La historia de tres mujeres que exploran el amor y la libertad en California durante los años 70.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
-      "https://image.tmdb.org/t/p/w780/afwr0TwMrbTSS11totkqWk0xCsO.jpg",
-      "https://image.tmdb.org/t/p/w780/fz08hItuOhXiYew7gaZIZ3BHBRM.jpg",
-      "https://image.tmdb.org/t/p/w780/x3mFfOKOzIi1ROSgy9bgyYq7zDH.jpg",
-      "https://image.tmdb.org/t/p/w780/tcViplakmoJN5GGD8FDyUfbHQGU.jpg",
-      "https://image.tmdb.org/t/p/w780/f0VjaquUv3DJjHzovKNhIq4qMiw.jpg"
-    ],
-    "episodes": null
-  },
   "count": 80,
   "dialogues": 1572
 }

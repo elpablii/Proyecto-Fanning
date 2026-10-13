@@ -1,0 +1,117 @@
+{
+  "titulo": "Pan Am",
+  "tipo": "serie",
+  "nivel": "B2",
+  "clasificacion": "TE+7",
+  "tmdb": null,
+  "analisis": "El vocabulario de Pan Am se sumerge en la década de los 60, combinando terminología de la aviación comercial (cabinas de vuelo, servicios a bordo) con lenguaje de espionaje internacional y política de la Guerra Fría.",
+  "sinopsis": "Un viaje a los años 60 cuando la Pan American era la empresa líder de la aviación. Sus aviones son los más glamurosos, sus pilotos son estrellas de rock y sus azafatas son las mujeres más deseadas del mundo. Pero no sólo tienen que ser jóvenes y atractivos, sino que los representantes de la Pan Am tienen que ser educados, cultos y refinados.",
+  "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/l0fIRSyi8QbovnhVYPopF79zGDK.jpg",
+    "https://image.tmdb.org/t/p/w780/vo2mUuYtGHYnDqzFQOoHd35IyEp.jpg",
+    "https://image.tmdb.org/t/p/w780/e9JP9XxZHVNYgon8ZhbFA9pWJFd.jpg",
+    "https://image.tmdb.org/t/p/w780/svl9m6enKnMQ16cYGZd07KNZxjy.jpg",
+    "https://image.tmdb.org/t/p/w780/icgGq79zCCBX1exVUlSNArMxLTR.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 1-2) (lista definitiva).pdf",
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 10-11) (lista definitiva).pdf",
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 12-14) (lista definitiva).pdf",
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 3-5) (lista definitiva).pdf",
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 6-7) (lista definitiva).pdf",
+      "Vocabularios/2026/Palabras desconocidas de Pan Am (EP 8-9) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from Pan Am to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "Pan Am (Episode 1)",
+      "nivel": "C1",
+      "titulo": "Pilot",
+      "foto": "https://image.tmdb.org/t/p/w500/kPfqCdmiPEKN45GU8uH5m0yLCXr.jpg"
+    },
+    "S01E02": {
+      "nombre": "Pan Am (Episode 2)",
+      "nivel": "C1",
+      "titulo": "We'll Always Have Paris",
+      "foto": "https://image.tmdb.org/t/p/w500/6G1n620z6hpI3xu8GSm6tJH8rU9.jpg"
+    },
+    "S01E03": {
+      "nombre": "Pan Am (Episode 3)",
+      "nivel": "B2",
+      "titulo": "Ich Bin Ein Berliner",
+      "foto": "https://image.tmdb.org/t/p/w500/d1iUAbBnh0Phd7MCgU36I0hdOhT.jpg"
+    },
+    "S01E04": {
+      "nombre": "Pan Am (Episode 4)",
+      "nivel": "C1",
+      "titulo": "Eastern Exposure",
+      "foto": "https://image.tmdb.org/t/p/w500/Abn7vhJKcrPIpMZc8MMHoFRBcDL.jpg"
+    },
+    "S01E05": {
+      "nombre": "Pan Am (Episode 5)",
+      "nivel": "C1",
+      "titulo": "One Coin in a Fountain",
+      "foto": "https://image.tmdb.org/t/p/w500/iLmHhSB2gZpnGtPJrfdtkyWxwA5.jpg"
+    },
+    "S01E06": {
+      "nombre": "Pan Am (Episode 6)",
+      "nivel": "C1",
+      "titulo": "The Genuine Article",
+      "foto": "https://image.tmdb.org/t/p/w500/4HQGrdTribcv6bAmbVK9KwuqkBf.jpg"
+    },
+    "S01E07": {
+      "nombre": "Pan Am (Episode 7)",
+      "nivel": "C1",
+      "titulo": "Truth or Dare",
+      "foto": "https://image.tmdb.org/t/p/w500/o3EsaXqNYbV2ShkgJrqPSGZlSll.jpg"
+    },
+    "S01E08": {
+      "nombre": "Pan Am (Episode 8)",
+      "nivel": "B2",
+      "titulo": "Unscheduled Departure",
+      "foto": "https://image.tmdb.org/t/p/w500/fVZNbK7ag5Z3sG0tnXK83bPKhkX.jpg"
+    },
+    "S01E09": {
+      "nombre": "Pan Am (Episode 9)",
+      "nivel": "C1",
+      "titulo": "Kiss Kiss Bang Bang",
+      "foto": "https://image.tmdb.org/t/p/w500/nnEBcU4d8JwqMFFxX0TrF9MVs1B.jpg"
+    },
+    "S01E10": {
+      "nombre": "Pan Am (Episode 10)",
+      "nivel": "B2",
+      "titulo": "Secrets and Lies",
+      "foto": "https://image.tmdb.org/t/p/w500/kwkWo2bAbLl3iu0yjA4knZBd2pX.jpg"
+    },
+    "S01E11": {
+      "nombre": "Pan Am (Episode 11)",
+      "nivel": "C1",
+      "titulo": "Diplomatic Relations",
+      "foto": "https://image.tmdb.org/t/p/w500/rAow048aQWiWz3hGkISMP6uZnnr.jpg"
+    },
+    "S01E12": {
+      "nombre": "Pan Am (Episode 12)",
+      "nivel": "C1",
+      "titulo": "New Frontiers",
+      "foto": "https://image.tmdb.org/t/p/w500/2vdL4CiuSrpsG2JSKH9DZzvVFTK.jpg"
+    },
+    "S01E13": {
+      "nombre": "Pan Am (Episode 13)",
+      "nivel": "C1",
+      "titulo": "Romance Languages",
+      "foto": "https://image.tmdb.org/t/p/w500/eDti04ymxGJViQJ6WtuFUKsHlz3.jpg"
+    },
+    "S01E14": {
+      "nombre": "Pan Am (Episode 14)",
+      "nivel": "B2",
+      "titulo": "1964",
+      "foto": "https://image.tmdb.org/t/p/w500/eTWCdP7U9ERiOqDkGCL8QqGLDtc.jpg"
+    }
+  }
+}

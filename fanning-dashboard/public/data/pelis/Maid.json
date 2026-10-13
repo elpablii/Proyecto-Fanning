@@ -2,10 +2,66 @@
   "title": "Maid",
   "level": "B2",
   "englishAnalysis": "El vocabulario de Maid se caracteriza por lenguaje informal, expresiones cotidianas de supervivencia económica, terminología legal básica sobre custodia y asistencia del gobierno, y un uso frecuente de jerga cruda o 'slang' estadounidense.",
+  "tmdb": {
+    "overview": "Tras librarse de una relación abusiva, una joven madre hace trabajos domésticos, mientras lucha por construir un mejor futuro para ella y su hija.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
+      "https://image.tmdb.org/t/p/w780/eX0tVkoLokMQGne4lBHqUgJUE6o.jpg",
+      "https://image.tmdb.org/t/p/w780/u4ydZotyPdOxSGAVUBiQnKLVwmz.jpg",
+      "https://image.tmdb.org/t/p/w780/rqcz38MxiaCgi2N4jFAwME2ZMqz.jpg",
+      "https://image.tmdb.org/t/p/w780/yv5oliNUwu82JT1XUbz1WSKm18E.jpg",
+      "https://image.tmdb.org/t/p/w780/i65eDmzPilc9FSVboIKdSSZ8Q0E.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Dollar Store",
+        "still_path": "https://image.tmdb.org/t/p/w500/eT1iikHCvdDdK44RJdsaBCvCFES.jpg"
+      },
+      "S01E02": {
+        "name": "Ponies",
+        "still_path": "https://image.tmdb.org/t/p/w500/j7nIfAMiVF88layu4O3oUocLdEy.jpg"
+      },
+      "S01E03": {
+        "name": "Sea Glass",
+        "still_path": "https://image.tmdb.org/t/p/w500/G9aF7CouxyHhkoOIafEgFzCSc2.jpg"
+      },
+      "S01E04": {
+        "name": "Cashmere",
+        "still_path": "https://image.tmdb.org/t/p/w500/4nXVSsIW7HHr0VxlrTkan2ans2S.jpg"
+      },
+      "S01E05": {
+        "name": "Thief",
+        "still_path": "https://image.tmdb.org/t/p/w500/zGuBOOED7VZne0JlhBPSqCpx6mB.jpg"
+      },
+      "S01E06": {
+        "name": "M",
+        "still_path": "https://image.tmdb.org/t/p/w500/pWVVfP0Dj3qJfXiHTgxzGAKAxY3.jpg"
+      },
+      "S01E07": {
+        "name": "String Cheese",
+        "still_path": "https://image.tmdb.org/t/p/w500/mAEMjStdIDNO0Jb9gOxZXcqUpGq.jpg"
+      },
+      "S01E08": {
+        "name": "Bear Hunt",
+        "still_path": "https://image.tmdb.org/t/p/w500/hsvarVhEVnm58gpavdM3i3xRNnY.jpg"
+      },
+      "S01E09": {
+        "name": "Sky Blue",
+        "still_path": "https://image.tmdb.org/t/p/w500/cCDqFu6USJapxSSjEb3l3XFKbWM.jpg"
+      },
+      "S01E10": {
+        "name": "Snaps",
+        "still_path": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg"
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
   "episodes": [
     {
+      "code": "S01E01",
       "name": "Maid (Episode 1)",
-      "count": 57,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Barge in",
@@ -236,12 +292,13 @@
           "translation": "desenganchar"
         }
       ],
-      "dialogues": 551,
-      "level": "C1"
+      "count": 57,
+      "dialogues": 551
     },
     {
+      "code": "S01E02",
       "name": "Maid (Episode 2)",
-      "count": 62,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Pool (verbo)",
@@ -492,12 +549,13 @@
           "translation": "voy a seguir adelante"
         }
       ],
-      "dialogues": 746,
-      "level": "C1"
+      "count": 62,
+      "dialogues": 746
     },
     {
+      "code": "S01E03",
       "name": "Maid (Episode 3)",
-      "count": 71,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Celery sticks",
@@ -784,12 +842,13 @@
           "translation": "hacerse daño, hacerse un moretón"
         }
       ],
-      "dialogues": 704,
-      "level": "C1"
+      "count": 71,
+      "dialogues": 704
     },
     {
+      "code": "S01E04",
       "name": "Maid (Episode 4)",
-      "count": 43,
+      "level": "B2",
       "vocabulary": [
         {
           "word": "Pretend syrup (no literal)",
@@ -964,12 +1023,13 @@
           "translation": "salsa de arándanos rojos"
         }
       ],
-      "dialogues": 596,
-      "level": "B2"
+      "count": 43,
+      "dialogues": 596
     },
     {
+      "code": "S01E05",
       "name": "Maid (Episode 5)",
-      "count": 52,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "You're not calling out sick (frase no literal)",
@@ -1180,12 +1240,13 @@
           "translation": "excursión"
         }
       ],
-      "dialogues": 742,
-      "level": "C1"
+      "count": 52,
+      "dialogues": 742
     },
     {
+      "code": "S01E06",
       "name": "Maid (Episode 6)",
-      "count": 86,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "I wanna shoop",
@@ -1532,12 +1593,13 @@
           "translation": "es un maldito escándalo"
         }
       ],
-      "dialogues": 958,
-      "level": "C1"
+      "count": 86,
+      "dialogues": 958
     },
     {
+      "code": "S01E07",
       "name": "Maid (Episode 7)",
-      "count": 67,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "I can't afford to get stiffed today",
@@ -1808,12 +1870,13 @@
           "translation": "creo que te llené de babas cuando mi mamá tuvo una recaída"
         }
       ],
-      "dialogues": 777,
-      "level": "C1"
+      "count": 67,
+      "dialogues": 777
     },
     {
+      "code": "S01E08",
       "name": "Maid (Episode 8)",
-      "count": 65,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "I've got to get home to Maddy",
@@ -2076,12 +2139,13 @@
           "translation": "como si lo que haces no fuera suficiente"
         }
       ],
-      "dialogues": 767,
-      "level": "C1"
+      "count": 65,
+      "dialogues": 767
     },
     {
+      "code": "S01E09",
       "name": "Maid (Episode 9)",
-      "count": 72,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "Do you know when she's due back?",
@@ -2372,12 +2436,13 @@
           "translation": "tengo derecho a presumir"
         }
       ],
-      "dialogues": 772,
-      "level": "C1"
+      "count": 72,
+      "dialogues": 772
     },
     {
+      "code": "S01E10",
       "name": "Maid (Episode 10)",
-      "count": 66,
+      "level": "C1",
       "vocabulary": [
         {
           "word": "I'll turn this over to Alex (no literal)",
@@ -2644,63 +2709,10 @@
           "translation": "en la cima, en lo más alto"
         }
       ],
-      "dialogues": 809,
-      "level": "C1"
+      "count": 66,
+      "dialogues": 809
     }
   ],
-  "tmdb": {
-    "overview": "Tras librarse de una relación abusiva, una joven madre hace trabajos domésticos, mientras lucha por construir un mejor futuro para ella y su hija.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
-      "https://image.tmdb.org/t/p/w780/eX0tVkoLokMQGne4lBHqUgJUE6o.jpg",
-      "https://image.tmdb.org/t/p/w780/u4ydZotyPdOxSGAVUBiQnKLVwmz.jpg",
-      "https://image.tmdb.org/t/p/w780/rqcz38MxiaCgi2N4jFAwME2ZMqz.jpg",
-      "https://image.tmdb.org/t/p/w780/yv5oliNUwu82JT1XUbz1WSKm18E.jpg",
-      "https://image.tmdb.org/t/p/w780/i65eDmzPilc9FSVboIKdSSZ8Q0E.jpg"
-    ],
-    "episodes": {
-      "1": {
-        "name": "Dollar Store",
-        "still_path": "https://image.tmdb.org/t/p/w500/eT1iikHCvdDdK44RJdsaBCvCFES.jpg"
-      },
-      "2": {
-        "name": "Ponies",
-        "still_path": "https://image.tmdb.org/t/p/w500/j7nIfAMiVF88layu4O3oUocLdEy.jpg"
-      },
-      "3": {
-        "name": "Sea Glass",
-        "still_path": "https://image.tmdb.org/t/p/w500/G9aF7CouxyHhkoOIafEgFzCSc2.jpg"
-      },
-      "4": {
-        "name": "Cashmere",
-        "still_path": "https://image.tmdb.org/t/p/w500/4nXVSsIW7HHr0VxlrTkan2ans2S.jpg"
-      },
-      "5": {
-        "name": "Thief",
-        "still_path": "https://image.tmdb.org/t/p/w500/zGuBOOED7VZne0JlhBPSqCpx6mB.jpg"
-      },
-      "6": {
-        "name": "M",
-        "still_path": "https://image.tmdb.org/t/p/w500/pWVVfP0Dj3qJfXiHTgxzGAKAxY3.jpg"
-      },
-      "7": {
-        "name": "String Cheese",
-        "still_path": "https://image.tmdb.org/t/p/w500/mAEMjStdIDNO0Jb9gOxZXcqUpGq.jpg"
-      },
-      "8": {
-        "name": "Bear Hunt",
-        "still_path": "https://image.tmdb.org/t/p/w500/hsvarVhEVnm58gpavdM3i3xRNnY.jpg"
-      },
-      "9": {
-        "name": "Sky Blue",
-        "still_path": "https://image.tmdb.org/t/p/w500/cCDqFu6USJapxSSjEb3l3XFKbWM.jpg"
-      },
-      "10": {
-        "name": "Snaps",
-        "still_path": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg"
-      }
-    }
-  },
   "count": 641,
   "dialogues": 7422
 }

@@ -2,6 +2,19 @@
   "title": "A Nonsense Christmas with Sabrina Carpenter",
   "level": "B2",
   "englishAnalysis": "Inglés juvenil contemporáneo, festivo y muy sarcástico. Lleno de juegos de palabras, jerga pop actual ('slang') y expresiones modernas de la Generación Z en un contexto navideño.",
+  "tmdb": {
+    "overview": "¡Que suenen las campanas! La estrella pop Sabrina Carpenter nos deleita con su primer especial lleno de canciones navideñas, duetos inesperados y cameos divertidísimos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+      "https://image.tmdb.org/t/p/w780/bksb4IPOKNxVv9q7di62O33vw3X.jpg",
+      "https://image.tmdb.org/t/p/w780/4rjgXajcmvdlFHH6sNUsNVPBaYF.jpg",
+      "https://image.tmdb.org/t/p/w780/yYYNQwJx9OQfk6y89Lo4YhPaZCc.jpg",
+      "https://image.tmdb.org/t/p/w780/ep0SYx9tCLyZjUn18UN0KdvOpmx.jpg",
+      "https://image.tmdb.org/t/p/w780/pHF3BZOP5gI6FYCumIwy1c3Oddp.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
   "vocabulary": [
     {
       "word": "Dough",
@@ -320,18 +333,6 @@
       "translation": "desliza un establo"
     }
   ],
-  "tmdb": {
-    "overview": "¡Que suenen las campanas! La estrella pop Sabrina Carpenter nos deleita con su primer especial lleno de canciones navideñas, duetos inesperados y cameos divertidísimos.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
-      "https://image.tmdb.org/t/p/w780/bksb4IPOKNxVv9q7di62O33vw3X.jpg",
-      "https://image.tmdb.org/t/p/w780/4rjgXajcmvdlFHH6sNUsNVPBaYF.jpg",
-      "https://image.tmdb.org/t/p/w780/yYYNQwJx9OQfk6y89Lo4YhPaZCc.jpg",
-      "https://image.tmdb.org/t/p/w780/ep0SYx9tCLyZjUn18UN0KdvOpmx.jpg",
-      "https://image.tmdb.org/t/p/w780/pHF3BZOP5gI6FYCumIwy1c3Oddp.jpg"
-    ],
-    "episodes": null
-  },
   "count": 79,
   "dialogues": 914
 }

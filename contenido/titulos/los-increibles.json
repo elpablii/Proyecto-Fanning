@@ -1,0 +1,30 @@
+{
+  "titulo": "Los Increibles",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 9806
+  },
+  "analisis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework', 'grounded', 'allowance') con terminología de superhéroes y espionaje ('secret identity', 'gadget', 'monologue', 'syndrome').",
+  "sinopsis": "Una familia de superhéroes encubiertos, mientras intentan vivir la tranquila vida suburbana, se ven obligados a entrar en acción para salvar el mundo.",
+  "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+    "https://image.tmdb.org/t/p/w780/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+    "https://image.tmdb.org/t/p/w780/7bQNyDNvnBMAkRw5Hq9An0CUh0r.jpg",
+    "https://image.tmdb.org/t/p/w780/8ITl6ukrpwlavJhdribfSKQI6ku.jpg",
+    "https://image.tmdb.org/t/p/w780/AtXtk99bZQb4L3oxNjpC3u9HzQw.jpg",
+    "https://image.tmdb.org/t/p/w780/s9mdsiIl9PpMd2JJwbJtGAHWBUQ.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Los Increibles (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from The Incredibles to improve the vocabulary in English.pdf"
+    ]
+  }
+}

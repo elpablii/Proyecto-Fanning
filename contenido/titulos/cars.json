@@ -1,0 +1,27 @@
+{
+  "titulo": "Cars",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": null,
+  "analisis": "Perfecta contraposición entre el vocabulario acelerado, moderno y corporativo de las carreras ('rookie', 'sponsor') y el ritmo relajado, nostálgico y rural de los pueblos de la Ruta 66.",
+  "sinopsis": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",
+  "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+    "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+    "https://image.tmdb.org/t/p/w780/wZiUsAI939lOKgs0u3qA3zSW7zx.jpg",
+    "https://image.tmdb.org/t/p/w780/a1QsuXuaUu1w4zLJEgOW1pXs9U6.jpg",
+    "https://image.tmdb.org/t/p/w780/vABOhCPfvm1g0cKNzQXwK8EyQ5z.jpg",
+    "https://image.tmdb.org/t/p/w780/w5nE0dUFEecbGIqXda00aaUTz0r.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2025/Palabras desconocidas de Cars I (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2025/Dialogues from Cars movie to improve the vocabulary in English.pdf"
+    ]
+  }
+}

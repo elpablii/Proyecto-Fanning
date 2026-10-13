@@ -2,6 +2,19 @@
   "title": "Effie Gray",
   "level": "B2",
   "englishAnalysis": "Un drama de época victoriano con un inglés sumamente refinado, poético y muy formal. Incluye vocabulario avanzado relacionado con el arte, el matrimonio en la alta sociedad, la arquitectura y las presiones sociales. Recomendado para un nivel literario avanzado.",
+  "tmdb": {
+    "overview": "Inglaterra: era victoriana, con 19 años Eufemia \"Effie\" Gray se ha casado con el historiador de arte y crítico John Ruskin, pero se niega a consumar su matrimonio. Solitaria y frustrada Effie se ve atraída por el pintor pre-Rafaelita John Everett Millais, y encuentra un amiga y defensora en Lady Elizabeth Eastlake. Después de cinco años atrapados en un matrimonio sin amor, Effie desafiará las reglas de la sociedad victoriana.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg",
+      "https://image.tmdb.org/t/p/w780/cAt1tiHBAJmoVPXmW9tXgLqc6Ku.jpg",
+      "https://image.tmdb.org/t/p/w780/28oNcmvDr2vkt4ofVqAx6ifOpal.jpg",
+      "https://image.tmdb.org/t/p/w780/rsIxEoZv7BU9bljKxmjoYH3GFie.jpg",
+      "https://image.tmdb.org/t/p/w780/k097P8fbzNUD0GWQVTc6G3eIeF.jpg",
+      "https://image.tmdb.org/t/p/w780/zDtN28RN0osvvFNFcNkY5E6saLQ.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg",
   "vocabulary": [
     {
       "word": "I'm leaving dreary old Scotland at last",
@@ -520,18 +533,6 @@
       "translation": "la espero con ansias"
     }
   ],
-  "tmdb": {
-    "overview": "Inglaterra: era victoriana, con 19 años Eufemia \"Effie\" Gray se ha casado con el historiador de arte y crítico John Ruskin, pero se niega a consumar su matrimonio. Solitaria y frustrada Effie se ve atraída por el pintor pre-Rafaelita John Everett Millais, y encuentra un amiga y defensora en Lady Elizabeth Eastlake. Después de cinco años atrapados en un matrimonio sin amor, Effie desafiará las reglas de la sociedad victoriana.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg",
-      "https://image.tmdb.org/t/p/w780/cAt1tiHBAJmoVPXmW9tXgLqc6Ku.jpg",
-      "https://image.tmdb.org/t/p/w780/28oNcmvDr2vkt4ofVqAx6ifOpal.jpg",
-      "https://image.tmdb.org/t/p/w780/rsIxEoZv7BU9bljKxmjoYH3GFie.jpg",
-      "https://image.tmdb.org/t/p/w780/k097P8fbzNUD0GWQVTc6G3eIeF.jpg",
-      "https://image.tmdb.org/t/p/w780/zDtN28RN0osvvFNFcNkY5E6saLQ.jpg"
-    ],
-    "episodes": null
-  },
   "count": 129,
   "dialogues": 1108
 }

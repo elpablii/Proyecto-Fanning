@@ -2,6 +2,19 @@
   "title": "Please Stand By",
   "level": "B2",
   "englishAnalysis": "Una excelente ventana al espectro autista. Lenguaje muy literal, repetitivo y enfocado en rutinas ('schedule', 'rules'), mezclado extensivamente con terminología de fans de Star Trek.",
+  "tmdb": {
+    "overview": "Wendy Walcott tiene 28 años, le gusta bailar mientras escucha música en su iPod y teje suéteres para objetos inanimados. Ella trabaja en Cinnabon y es autista. Para probarle a su hermana mayor que es capaz de cuidarse por sí misma, se escapa de la clínica en la que vive para ir a presentar su guion de Star Trek en un concurso de escritura. Lo que más anhela, es poder regresar a su hogar y, si su guion gana el concurso, podrá probar que es autosuficiente.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
+      "https://image.tmdb.org/t/p/w780/np7OqT3CPlm5FF0wMKIKAFqIfFn.jpg",
+      "https://image.tmdb.org/t/p/w780/wlyOTLGF82z6NMUSR2ge07kLSnm.jpg",
+      "https://image.tmdb.org/t/p/w780/tCi5m2ZWEafMHkLmHvHWxn0jDaW.jpg",
+      "https://image.tmdb.org/t/p/w780/byY9Z5D0sW13QlGciN0oD7z1eEQ.jpg",
+      "https://image.tmdb.org/t/p/w780/1Gjsg6rCQQjlEbNawAb7SvbEUZh.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
   "vocabulary": [
     {
       "word": "Shields are down to 60 percent",
@@ -212,18 +225,6 @@
       "translation": "larga vida y prosperidad"
     }
   ],
-  "tmdb": {
-    "overview": "Wendy Walcott tiene 28 años, le gusta bailar mientras escucha música en su iPod y teje suéteres para objetos inanimados. Ella trabaja en Cinnabon y es autista. Para probarle a su hermana mayor que es capaz de cuidarse por sí misma, se escapa de la clínica en la que vive para ir a presentar su guion de Star Trek en un concurso de escritura. Lo que más anhela, es poder regresar a su hogar y, si su guion gana el concurso, podrá probar que es autosuficiente.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
-      "https://image.tmdb.org/t/p/w780/np7OqT3CPlm5FF0wMKIKAFqIfFn.jpg",
-      "https://image.tmdb.org/t/p/w780/wlyOTLGF82z6NMUSR2ge07kLSnm.jpg",
-      "https://image.tmdb.org/t/p/w780/tCi5m2ZWEafMHkLmHvHWxn0jDaW.jpg",
-      "https://image.tmdb.org/t/p/w780/byY9Z5D0sW13QlGciN0oD7z1eEQ.jpg",
-      "https://image.tmdb.org/t/p/w780/1Gjsg6rCQQjlEbNawAb7SvbEUZh.jpg"
-    ],
-    "episodes": null
-  },
   "count": 52,
   "dialogues": 1177
 }

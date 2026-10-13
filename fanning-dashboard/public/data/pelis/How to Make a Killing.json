@@ -2,6 +2,19 @@
   "title": "How to Make a Killing",
   "level": "B2",
   "englishAnalysis": "Una comedia oscura y criminal donde el inglés está repleto de dobles sentidos, sarcasmo y jerga relacionada con el engaño, la avaricia y el asesinato. El tono suele ser irónico y rápido, requiriendo atención a las sutilezas.",
+  "tmdb": {
+    "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+      "https://image.tmdb.org/t/p/w780/n2u71qKzc5t3LRwdKbDeJv4JSYj.jpg",
+      "https://image.tmdb.org/t/p/w780/2ehYIUJbQMOKXojAcy7wga7vKjw.jpg",
+      "https://image.tmdb.org/t/p/w780/dS8GMiwJqmrBRhouk8b8sLoJxDg.jpg",
+      "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
+      "https://image.tmdb.org/t/p/w780/yU2Fz8FFcTcblYDHvShJqZ1dTOC.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
   "vocabulary": [
     {
       "word": "Rumbling",
@@ -444,18 +457,6 @@
       "translation": "música estimulante/emocionante"
     }
   ],
-  "tmdb": {
-    "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
-      "https://image.tmdb.org/t/p/w780/n2u71qKzc5t3LRwdKbDeJv4JSYj.jpg",
-      "https://image.tmdb.org/t/p/w780/2ehYIUJbQMOKXojAcy7wga7vKjw.jpg",
-      "https://image.tmdb.org/t/p/w780/dS8GMiwJqmrBRhouk8b8sLoJxDg.jpg",
-      "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
-      "https://image.tmdb.org/t/p/w780/yU2Fz8FFcTcblYDHvShJqZ1dTOC.jpg"
-    ],
-    "episodes": null
-  },
   "count": 110,
   "dialogues": 1945
 }

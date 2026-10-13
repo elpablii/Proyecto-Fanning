@@ -1,0 +1,30 @@
+{
+  "titulo": "Intensamente 2",
+  "tipo": "pelicula",
+  "nivel": "B1",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1022789
+  },
+  "analisis": "Sigue la línea de la primera parte pero introduce jerga adolescente y nuevas emociones más complejas (ansiedad, envidia, aburrimiento). El lenguaje refleja la pubertad, con expresiones típicas del instituto.",
+  "sinopsis": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
+  "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "https://image.tmdb.org/t/p/w780/xg27NrXi7VXCGUr7MG75UqLl6Vg.jpg",
+    "https://image.tmdb.org/t/p/w780/uVu2fBc114un7F1GD76RBouWyBP.jpg",
+    "https://image.tmdb.org/t/p/w780/coATv42PoiLqAFKStJiMZs2r6Zb.jpg",
+    "https://image.tmdb.org/t/p/w780/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+    "https://image.tmdb.org/t/p/w780/pI5jxew0I9kub4IXrtsOB8F40dw.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2024/Palabras desconocidas de Intensamente 2 (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2024/Dialogues from Inside Out II to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "titulo": "Work It",
+  "tipo": "pelicula",
+  "nivel": "B2",
+  "clasificacion": "TE",
+  "tmdb": {
+    "tipo": "movie",
+    "id": 612706
+  },
+  "analisis": "Una excelente opción para familiarizarse con el inglés adolescente y la jerga escolar. Está llena de modismos contemporáneos, expresiones de entusiasmo y frustración, y un vocabulario centrado en la competición, la música urbana y la superación personal.",
+  "sinopsis": "La joven Quinn Ackerman tiene grandes planes cuando salga de la preparatoria y el primero de ellos es poder conseguir un sitio en una de las universidades más reputadas del país. Entendiendo que cuanto más actividades extracurriculares tenga, mejores notas presenta en sus aplicaciones, Quinn decide que precisa una actividad más a fin de que su resumen sea tomado en cuenta y determina que su opción mejor es formar parte del escuadrón elite de baile de su escuela.  Mas hay una grave complicación: carece de cualquier habilidad para danzar, peor todavía intentar hacerlo a nivel de competencia. Cuando es rechazada en el equipo oficial, Quinn decide armar su conjunto de baile, con todos aquellos rechazados y talentosos estudiantes para transformarse en el equipo oficial de la escuela y representarla en la competencia estatal.",
+  "poster": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+    "https://image.tmdb.org/t/p/w780/ishzDCZIv9iWfI70nv5E4ZreYUD.jpg",
+    "https://image.tmdb.org/t/p/w780/5vcsQC3re7WNK3KyD96R4SqYb4U.jpg",
+    "https://image.tmdb.org/t/p/w780/qhQrnD4yK11hRBHp4GeBImXjixo.jpg",
+    "https://image.tmdb.org/t/p/w780/6nI4yXwzWxSbbWeFFH2uO5LimyN.jpg",
+    "https://image.tmdb.org/t/p/w780/NRbj8ovGhD88xR67qr66BeTr8l.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2026/Palabras desconocidas de Work It (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2026/Dialogues from Work It to improve the vocabulary in English.pdf"
+    ]
+  }
+}

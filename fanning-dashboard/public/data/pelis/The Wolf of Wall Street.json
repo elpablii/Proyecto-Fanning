@@ -2,6 +2,19 @@
   "title": "The Wolf of Wall Street",
   "level": "B2",
   "englishAnalysis": "Lenguaje extremadamente explícito, frenético y lleno de jerga financiera, excesos y vulgaridades. Ideal para acostumbrarse a la agresividad y el ritmo de las ventas en inglés americano, con diálogos verborreicos e insultos creativos.",
+  "tmdb": {
+    "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el apodo de “El lobo de Wall Street”. Dinero, poder, mujeres, drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "https://image.tmdb.org/t/p/w780/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
+      "https://image.tmdb.org/t/p/w780/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg",
+      "https://image.tmdb.org/t/p/w780/gdavHcRqZYOaOprdGoMccgxMhQX.jpg",
+      "https://image.tmdb.org/t/p/w780/2P0toWq3feNvFAzf28j7vNc1IuZ.jpg",
+      "https://image.tmdb.org/t/p/w780/74pgiTEwbgKdPBkhR000wQd1ywI.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
   "vocabulary": [
     {
       "word": "The financial wilderness",
@@ -1692,18 +1705,6 @@
       "translation": "el pollo llega a casa para asarse"
     }
   ],
-  "tmdb": {
-    "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el apodo de “El lobo de Wall Street”. Dinero, poder, mujeres, drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-      "https://image.tmdb.org/t/p/w780/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
-      "https://image.tmdb.org/t/p/w780/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg",
-      "https://image.tmdb.org/t/p/w780/gdavHcRqZYOaOprdGoMccgxMhQX.jpg",
-      "https://image.tmdb.org/t/p/w780/2P0toWq3feNvFAzf28j7vNc1IuZ.jpg",
-      "https://image.tmdb.org/t/p/w780/74pgiTEwbgKdPBkhR000wQd1ywI.jpg"
-    ],
-    "episodes": null
-  },
   "count": 422,
   "dialogues": 3255
 }

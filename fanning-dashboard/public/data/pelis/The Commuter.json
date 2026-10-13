@@ -2,6 +2,19 @@
   "title": "The Commuter",
   "level": "B2",
   "englishAnalysis": "Un thriller de acción que transcurre en un tren. El inglés es rápido, cotidiano e incluye lenguaje propio de neoyorquinos de clase trabajadora, así como terminología policial, de extorsión y diálogos directos de alta intensidad emocional.",
+  "tmdb": {
+    "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+      "https://image.tmdb.org/t/p/w780/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg",
+      "https://image.tmdb.org/t/p/w780/gBtVKG6ZjWxAIUAekYE5lA8Q7nc.jpg",
+      "https://image.tmdb.org/t/p/w780/hnBrLNs2DsMFETa7KIpGqODY6Fy.jpg",
+      "https://image.tmdb.org/t/p/w780/nlsNr1BEmRgRYYOO24NSHm6BXYb.jpg",
+      "https://image.tmdb.org/t/p/w780/pQXUSBhxpWgn2ft4LpU6X2OS0Zs.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
   "vocabulary": [
     {
       "word": "Be held (verbo)",
@@ -388,18 +401,6 @@
       "translation": "tiene un final increíble"
     }
   ],
-  "tmdb": {
-    "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
-      "https://image.tmdb.org/t/p/w780/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg",
-      "https://image.tmdb.org/t/p/w780/gBtVKG6ZjWxAIUAekYE5lA8Q7nc.jpg",
-      "https://image.tmdb.org/t/p/w780/hnBrLNs2DsMFETa7KIpGqODY6Fy.jpg",
-      "https://image.tmdb.org/t/p/w780/nlsNr1BEmRgRYYOO24NSHm6BXYb.jpg",
-      "https://image.tmdb.org/t/p/w780/pQXUSBhxpWgn2ft4LpU6X2OS0Zs.jpg"
-    ],
-    "episodes": null
-  },
   "count": 96,
   "dialogues": 1526
 }

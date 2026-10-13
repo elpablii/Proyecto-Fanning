@@ -2,6 +2,19 @@
   "title": "Five Nights at Freddy's",
   "level": "B1",
   "englishAnalysis": "Ofrece un inglés moderno e informal. Encontrarás vocabulario técnico relacionado con la seguridad, animatrónicos y jerga adolescente de los años 2000. El tono varía entre conversaciones familiares cotidianas y momentos de gran tensión y suspenso.",
+  "tmdb": {
+    "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "https://image.tmdb.org/t/p/w780/dkjaqMEBmFqlGHWfAZiJCJY8h1W.jpg",
+      "https://image.tmdb.org/t/p/w780/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+      "https://image.tmdb.org/t/p/w780/gGgDMV1vN20q8qEdxV0K43UrK0y.jpg",
+      "https://image.tmdb.org/t/p/w780/whB2PJfxrDWwwksprliJTjYbcZJ.jpg",
+      "https://image.tmdb.org/t/p/w780/buoGUnmbkkIx74yJSC0wi7D3dHv.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
   "vocabulary": [
     {
       "word": "Static crackling",
@@ -664,18 +677,6 @@
       "translation": "pareces conocido"
     }
   ],
-  "tmdb": {
-    "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
-      "https://image.tmdb.org/t/p/w780/dkjaqMEBmFqlGHWfAZiJCJY8h1W.jpg",
-      "https://image.tmdb.org/t/p/w780/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
-      "https://image.tmdb.org/t/p/w780/gGgDMV1vN20q8qEdxV0K43UrK0y.jpg",
-      "https://image.tmdb.org/t/p/w780/whB2PJfxrDWwwksprliJTjYbcZJ.jpg",
-      "https://image.tmdb.org/t/p/w780/buoGUnmbkkIx74yJSC0wi7D3dHv.jpg"
-    ],
-    "episodes": null
-  },
   "count": 165,
   "dialogues": 1611
 }

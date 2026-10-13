@@ -98,8 +98,9 @@ def top(items, grupos, cantidad=10):
         traducciones[g][it['translation']] += 1
     lista = []
     for g, n in cuenta.most_common():
-        palabra = max(variantes[g].items(), key=lambda x: (x[1], -len(x[0])))[0]
-        traduccion = traducciones[g].most_common(1)[0][0]
+        palabra = min(variantes[g].items(), key=lambda x: (-x[1], len(x[0]), x[0]))[0]
+        # la traducción más usada; si hay empate, la más completa (no depende del orden de los archivos)
+        traduccion = min(traducciones[g].items(), key=lambda x: (-x[1], -len(x[0]), x[0]))[0]
         lista.append({'word': palabra, 'count': n, 'translation': traduccion})
     lista.sort(key=lambda x: (-x['count'], x['word'].lower()))
     return lista[:cantidad]

@@ -2,6 +2,19 @@
   "title": "Lilo and Stitch I",
   "level": "B2",
   "englishAnalysis": "Inglés familiar encantador con un fuerte sabor hawaiano (uso de palabras locales como 'ohana'). Mezclado divertidamente con jerga alienígena y jerga de trabajadores sociales ('probation').",
+  "tmdb": {
+    "overview": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+      "https://image.tmdb.org/t/p/w780/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+      "https://image.tmdb.org/t/p/w780/aIglP9Z5gtkQf7Fidb4NRv2gfDj.jpg",
+      "https://image.tmdb.org/t/p/w780/5sVRFsfqWIlN8MGzZks9yDSinvu.jpg",
+      "https://image.tmdb.org/t/p/w780/5by1um4VfkHKCL8rlpxwxQhedOT.jpg",
+      "https://image.tmdb.org/t/p/w780/7y6dJrcI83D1VzQ6c7ctNsgbl3R.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
   "vocabulary": [
     {
       "word": "Plead (verbo en juicios)",
@@ -292,18 +305,6 @@
       "translation": "iremos comprobando de vez en cuando"
     }
   ],
-  "tmdb": {
-    "overview": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
-    "photos": [
-      "https://image.tmdb.org/t/p/w780/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
-      "https://image.tmdb.org/t/p/w780/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
-      "https://image.tmdb.org/t/p/w780/aIglP9Z5gtkQf7Fidb4NRv2gfDj.jpg",
-      "https://image.tmdb.org/t/p/w780/5sVRFsfqWIlN8MGzZks9yDSinvu.jpg",
-      "https://image.tmdb.org/t/p/w780/5by1um4VfkHKCL8rlpxwxQhedOT.jpg",
-      "https://image.tmdb.org/t/p/w780/7y6dJrcI83D1VzQ6c7ctNsgbl3R.jpg"
-    ],
-    "episodes": null
-  },
   "count": 72,
   "dialogues": 949
 }
