@@ -8,6 +8,8 @@ export interface Episode {
   code?: string;   // código del episodio en las series: "S01E01", "SP01"
   name: string;
   count: number;
+  dialogues?: number;
+  level?: string;
 }
 
 export interface MovieStats {
@@ -32,6 +34,7 @@ export interface YearlyData {
 
 export interface ManifestYear {
   totalWords: number;
+  totalDialogues: number;
   uniqueMovies: number;
   topWord: TopWord;
   topList: TopWord[];

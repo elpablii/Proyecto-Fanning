@@ -5,7 +5,7 @@ import re
 import urllib.request
 import difflib
 
-API_KEY = "d1765b8dccaf994068c4055e49e80566"
+API_KEY = __import__('os').environ.get('TMDB_API_KEY', '')  # la clave va en el entorno, nunca en el código
 TMDB_ID = 2345
 
 def get_json(url):

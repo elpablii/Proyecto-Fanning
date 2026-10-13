@@ -2,7 +2,7 @@ import urllib.request
 import json
 import os
 
-api_key = 'd1765b8dccaf994068c4055e49e80566'
+api_key = __import__('os').environ.get('TMDB_API_KEY', '')  # la clave va en el entorno, nunca en el código
 
 def get_tv_season(tv_id, season_number, language="es-MX"):
     try:

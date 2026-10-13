@@ -5,7 +5,7 @@ import os
 import glob
 import time
 
-api_key = 'd1765b8dccaf994068c4055e49e80566'
+api_key = __import__('os').environ.get('TMDB_API_KEY', '')  # la clave va en el entorno, nunca en el código
 
 def map_rating_to_chile(us_rating):
     if not us_rating:

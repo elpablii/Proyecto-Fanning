@@ -1,63 +1,13 @@
 "use client";
 
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, Calendar, Loader2, Image as ImageIcon } from 'lucide-react';
+import { ArrowLeft, Calendar, Image as ImageIcon } from 'lucide-react';
+import type { Tanda } from '@/lib/data';
 
-interface TimelineItem {
-  id: number;
-  title: string;
-  date: string;
-  items: string[];
-}
-
-export default function TimelineClient() {
-  const [events, setEvents] = useState<TimelineItem[]>([]);
-  const [postersMap, setPostersMap] = useState<Record<string, string>>({});
-  const [loading, setLoading] = useState(true);
+// Las tandas y los pósters llegan ya cargados desde el servidor (app/timeline/page.tsx).
+export default function TimelineClient({ tandas: events, posters: postersMap }: { tandas: Tanda[]; posters: Record<string, string> }) {
   const [selectedYear, setSelectedYear] = useState<string>("all");
-
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const [timelineRes, manifestRes] = await Promise.all([
-          fetch('/data/timeline.json'),
-          fetch('/data/manifest.json')
-        ]);
-        
-        const timelineData: TimelineItem[] = await timelineRes.json();
-        const manifestData = await manifestRes.json();
-        
-        const map: Record<string, string> = {};
-        if (manifestData.all && manifestData.all.movieList) {
-          const sortedList = [...manifestData.all.movieList].sort((a: any, b: any) => b.title.length - a.title.length);
-          for (const item of timelineData) {
-            for (const timelineStr of item.items) {
-              const strLower = timelineStr.toLowerCase();
-              const matched = sortedList.find(m => 
-                strLower.includes(m.title.toLowerCase()) || 
-                (m.title.toLowerCase().includes("inside out") && strLower.includes("inside out")) ||
-                (m.title.toLowerCase().includes("star wars") && strLower.includes("star wars")) ||
-                (m.title.toLowerCase().includes("taylor swift") && strLower.includes("ts:")) ||
-                (m.title.toLowerCase().includes("taylor swift") && strLower.includes("taylor swift"))
-              );
-              if (matched && matched.posterUrl) {
-                map[timelineStr] = matched.posterUrl;
-              }
-            }
-          }
-        }
-        
-        setEvents(timelineData);
-        setPostersMap(map);
-        setLoading(false);
-      } catch (err) {
-        console.error("Error fetching timeline:", err);
-        setLoading(false);
-      }
-    };
-    fetchData();
-  }, []);
 
   const years = useMemo(() => {
     const ySet = new Set<string>();
@@ -82,7 +32,7 @@ export default function TimelineClient() {
             <ArrowLeft size={16} className="mr-2" />
             Volver al Dashboard
           </Link>
-          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3">
+          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3">
             <Calendar className="text-blue-500" size={32} />
             Línea de Tiempo
           </h1>
@@ -92,7 +42,7 @@ export default function TimelineClient() {
         </div>
         
         {/* Filters */}
-        {!loading && years.length > 1 && (
+        {years.length > 1 && (
           <div className="flex flex-wrap gap-2">
             {years.map(y => (
               <button
@@ -113,11 +63,7 @@ export default function TimelineClient() {
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto">
-        {loading ? (
-          <div className="flex justify-center items-center py-20">
-            <Loader2 className="w-10 h-10 animate-spin text-blue-500" />
-          </div>
-        ) : filteredEvents.length === 0 ? (
+        {filteredEvents.length === 0 ? (
           <div className="text-center text-gray-500 py-10">
             No se encontraron eventos.
           </div>
@@ -138,7 +84,7 @@ export default function TimelineClient() {
                       <div className="w-12 h-12 rounded-full bg-gray-900 border-4 border-blue-500/50 flex items-center justify-center shadow-[0_0_15px_rgba(59,130,246,0.5)] z-10">
                         <span className="text-sm font-bold text-blue-400">{eventYear}</span>
                       </div>
-                      <div className="h-px bg-gradient-to-r from-blue-500/50 to-transparent flex-1"></div>
+                      <div className="h-px bg-linear-to-r from-blue-500/50 to-transparent flex-1"></div>
                     </div>
                   )}
                   
@@ -149,7 +95,7 @@ export default function TimelineClient() {
                     {/* Event Content - Glassmorphism */}
                     <div className="bg-gray-900/40 backdrop-blur-md border border-gray-700/50 rounded-2xl p-5 md:p-6 shadow-xl shadow-black/40 hover:bg-gray-800/60 hover:border-purple-500/40 hover:-translate-y-1 transition-all duration-300">
                       <div className="flex flex-col md:flex-row md:items-center justify-between gap-2 mb-5">
-                        <h3 className="text-2xl font-extrabold text-white group-hover:bg-gradient-to-r group-hover:from-blue-400 group-hover:to-purple-400 group-hover:bg-clip-text group-hover:text-transparent transition-all">
+                        <h3 className="text-2xl font-extrabold text-white group-hover:bg-linear-to-r group-hover:from-blue-400 group-hover:to-purple-400 group-hover:bg-clip-text group-hover:text-transparent transition-all">
                           {event.title}
                         </h3>
                         <span className="text-sm font-semibold text-blue-300 bg-blue-950/50 border border-blue-800/50 px-3 py-1 rounded-full w-fit">
@@ -165,7 +111,7 @@ export default function TimelineClient() {
                             return (
                               <div key={i} className="flex items-center gap-3 bg-gray-950/50 rounded-xl p-2 border border-gray-800/60 hover:border-gray-600 transition-colors flex-1 min-w-[200px] max-w-sm">
                                 {poster ? (
-                                  <img src={poster} alt={item} className="w-10 h-14 object-cover rounded-md shadow-sm" />
+                                  <img src={poster} alt={item} loading="lazy" className="w-10 h-14 object-cover rounded-md shadow-sm" />
                                 ) : (
                                   <div className="w-10 h-14 bg-gray-800 rounded-md flex items-center justify-center text-gray-600">
                                     <ImageIcon size={18} />

@@ -118,7 +118,7 @@ const tmdbOverrides: Record<string, { q: string, y?: string, id?: string, tv?: b
     "grand theft auto vi an extended look": { q: "Grand Theft Auto VI", id: "1744462" }
 };
 
-const TMDB_API_KEY = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'd1765b8dccaf994068c4055e49e80566';
+const TMDB_API_KEY = process.env.TMDB_API_KEY || process.env.NEXT_PUBLIC_TMDB_API_KEY || '';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 async function fetchTMDB(title: string, type: 'movie' | 'series') {

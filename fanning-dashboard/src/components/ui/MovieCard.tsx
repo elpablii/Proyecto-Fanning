@@ -1,6 +1,6 @@
-/* eslint-disable @next/next/no-img-element */
 import React from 'react';
-import { miles } from '@/lib/formato';
+import { miles, porcentaje } from '@/lib/formato';
+import { comprension } from '@/lib/stats';
 import Link from 'next/link';
 import { Film } from 'lucide-react';
 
@@ -17,12 +17,7 @@ interface MovieCardProps {
 export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE' }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
-    let pct = 0;
-    if (validDialogues > 0) {
-        pct = ((validDialogues - count) / validDialogues) * 100;
-        if (pct >= 99.445) pct = 100;
-        pct = Math.max(0, pct);
-    }
+    const pct = comprension(validDialogues, count);
     
     // Asignar colores según nivel (MCER)
     let levelColors = "bg-gray-500/20 text-gray-300 border-gray-500/30";
@@ -78,7 +73,7 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
                             </div>
                             <div className="flex justify-between items-center border-t border-gray-700/50 mt-1 pt-1">
                                 <span className="text-cyan-400">Comprensión:</span>
-                                <span className="font-bold text-white">{pct.toFixed(2)}%</span>
+                                <span className="font-bold text-white">{porcentaje(pct)}</span>
                             </div>
                         </>
                     )}

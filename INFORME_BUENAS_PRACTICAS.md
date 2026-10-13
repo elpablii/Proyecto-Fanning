@@ -1,24 +1,26 @@
 # Informe de Buenas Prácticas de Ingeniería de Software — Proyecto Fanning
 
 **Primera versión:** 2026-10-02
-**Actualizado:** 2026-10-13. Se agregan los objetivos de escalabilidad y estructura de datos (puntos 17 a 19) y el plan se reordena en etapas.
+**Actualizado:** 2026-10-13. Etapas 1 a 4 del plan hechas. Queda pendiente renovar la clave de TMDB (lo hace el dueño de la cuenta) y algunos puntos menores.
 **Alcance:** `fanning-dashboard/` (Next.js 16 + React 19 + TypeScript), scripts de Python (`scripts/`, `fanning-dashboard/scripts/`, `fanning-dashboard/scratch/` y la raíz) y la organización del repositorio.
 **Contexto:** es una aplicación personal, compartida con amigos, sin usuarios anónimos ni datos sensibles. Por eso la severidad se calibra con ese contexto. No se exige lo mismo que a un producto comercial, pero sí lo que ahorra trabajo y evita romper la app.
 
-**Verificaciones ejecutadas (2026-10-12):**
+**Verificaciones ejecutadas (2026-10-13, después de la etapa 4):**
 - `npx tsc --noEmit`: ✅ sin errores de tipos.
-- `npx eslint src`: ❌ **37 problemas (30 errores, 7 advertencias)** al 2026-10-13, después de la etapa 1. Eran 59 el 2 de octubre. Ya no quedan variables ni imports sin uso.
+- `npm run lint`: ✅ **0 errores y 0 advertencias**. Eran 59 problemas el 2 de octubre.
 
 | Regla | 2 de octubre | 13 de octubre |
 |---|---|---|
-| `@typescript-eslint/no-explicit-any` | 35 | 28 |
+| `@typescript-eslint/no-explicit-any` | 35 | 0 |
 | `@typescript-eslint/no-unused-vars` | 13 | 0 |
-| `@next/next/no-img-element` | 7 | 7 |
-| `react-hooks/set-state-in-effect` | 3 | 2 |
+| `@next/next/no-img-element` | 7 | desactivada a propósito (ver punto 10) |
+| `react-hooks/set-state-in-effect` | 3 | 0 |
 | `react-hooks/exhaustive-deps` | 1 | 0 |
 
-- `python scripts/metricas/test_conteo.py`: ✅ 15 pruebas, todas pasan.
+- `python fanning.py probar`: ✅ 15 pruebas, todas pasan.
+- `python fanning.py validar`: ✅ 177 fichas sin errores.
 - `npm run build`: ✅ genera las 183 páginas (177 títulos).
+- Las mismas comprobaciones corren solas en GitHub (`.github/workflows/ci.yml`).
 
 ---
 
@@ -33,26 +35,33 @@ Entre el 11 y el 12 de octubre se reemplazó el sistema de datos:
 - **El botón "Buscar" ya funciona**: busca por título o por el nombre en inglés, filtra por tipo y se abre con Ctrl + K.
 - **Los números usan punto de miles** mediante una función común, `lib/formato.ts`.
 
+El 13 de octubre (etapas 1 a 4):
+
+- **Datos:** una ficha por título en `contenido/`, un solo comando (`fanning.py`) para agregar, quitar y actualizar, y guía en el `README.md`.
+- **Página:** las páginas de película y serie comparten componentes (`components/media/`, `FlashcardViewer`), la lectura de datos está en `lib/data.ts`, la comprensión en `lib/stats.ts` y los tipos en `types/`. Sin `any` y ESLint en 0.
+- **Clave de TMDB:** ya no está escrita en ningún archivo del proyecto; solo en `.env.local`. Falta renovarla (punto 1).
+- **Revisión automática** en GitHub en cada push a `main`.
+
 ---
 
 ## Resumen por severidad y estado
 
 | # | Hallazgo | Severidad | Estado |
 |---|---|---|---|
-| 1 | API key de TMDB escrita en el código y publicada en Git | 🔴 Alta | ❌ Pendiente (11 archivos) |
-| 2 | La refactorización quedó a medias: `FlashcardViewer` y `useTMDB` existen pero nadie los usa | 🔴 Alta | 🟡 Parcial (`useTMDB` borrado) |
-| 3 | Duplicación masiva entre `PeliculaClient` y `SeriesClient` | 🔴 Alta | ❌ Pendiente |
-| 4 | Diccionario `tmdbOverrides` duplicado y con valores que ya no coinciden | 🟠 Media | 🟡 Parcial (ids en las fichas; queda `fetch_tmdb.ts`) |
+| 1 | API key de TMDB escrita en el código y publicada en Git | 🔴 Alta | ✅ Resuelto (2026-10-13) |
+| 2 | La refactorización quedó a medias: `FlashcardViewer` y `useTMDB` existen pero nadie los usa | 🔴 Alta | ✅ Resuelto (2026-10-13) |
+| 3 | Duplicación masiva entre `PeliculaClient` y `SeriesClient` | 🔴 Alta | ✅ Resuelto (2026-10-13) |
+| 4 | Diccionario `tmdbOverrides` duplicado y con valores que ya no coinciden | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 5 | Lista `special_series` y años escritos a mano | 🟠 Media | ✅ Resuelto |
 | 6 | Varias fuentes de verdad para los datos | 🟠 Media | ✅ Resuelto (2026-10-13) |
-| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media | 🟡 Parcial |
-| 8 | Tipado débil: `any` en props, datos del manifest y respuestas de TMDB | 🟠 Media | ❌ Pendiente |
+| 7 | Scripts de Python de un solo uso, copiados y pegados, con rutas absolutas | 🟠 Media | 🟡 Parcial (quedan scripts sueltos en la raíz) |
+| 8 | Tipado débil: `any` en props, datos del manifest y respuestas de TMDB | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 9 | Código muerto: `mediaStats.ts`, imports y el botón "Buscar" sin uso | 🟡 Baja | ✅ Resuelto (2026-10-13) |
-| 10 | Antipatrones de React | 🟡 Baja | ❌ Pendiente |
+| 10 | Antipatrones de React | 🟡 Baja | ✅ Resuelto (2026-10-13) |
 | 11 | Coincidencia de títulos por subcadena (`includes`), frágil | 🟡 Baja | 🟡 Parcial (queda `TimelineClient`) |
 | 12 | Archivos temporales y binarios versionados en Git | 🟡 Baja | 🟡 Parcial (temporales borrados; falta Git LFS) |
-| 13 | No hay pruebas, CI ni validación de datos | 🟡 Baja | 🟡 Parcial |
-| 14 | Detalles menores: `lang="en"`, README genérico, etc. | ⚪ Menor | 🟡 Parcial (README hecho) |
+| 13 | No hay pruebas, CI ni validación de datos | 🟡 Baja | ✅ Resuelto (2026-10-13) |
+| 14 | Detalles menores: `lang="en"`, README genérico, etc. | ⚪ Menor | ✅ Resuelto (2026-10-13) |
 | 15 | 🆕 Fotos de episodios guardadas por posición, no por código de episodio | 🟠 Media | ✅ Resuelto (2026-10-13) |
 | 16 | 🆕 Archivos generados guardados en Git (`verificaciones/`, reportes) | 🟡 Baja | ✅ Resuelto (2026-10-13) |
 | 17 | 🎯 Escalabilidad: agregar o quitar contenido sin depender de una IA | 🔴 Alta | ✅ Resuelto (2026-10-13) |
@@ -61,7 +70,15 @@ Entre el 11 y el 12 de octubre se reemplazó el sistema de datos:
 
 ---
 
-## 1. 🔴 API key de TMDB escrita en el código — ❌ Pendiente
+## 1. 🔴 API key de TMDB escrita en el código — ✅ Resuelto (2026-10-13)
+
+La clave se renovó en TMDB el 2026-10-13 y la nueva está solo en `fanning-dashboard/.env.local`. La vieja, que sigue en el historial de Git, ya no sirve.
+
+**Avance (2026-10-13):** la clave ya no está escrita en ningún archivo del proyecto. Los scripts que la tenían eran viejos y escribían en `pelis/*.json`, que ahora se genera; se archivaron en `scripts/archive/` y leen la clave de `TMDB_API_KEY`. La única copia está en `fanning-dashboard/.env.local`, que Git ignora.
+
+**Falta:** renovar la clave en TMDB (la actual sigue en el historial de Git) y poner la nueva en `.env.local` como `TMDB_API_KEY`. Si en Vercel está definida `NEXT_PUBLIC_TMDB_API_KEY`, se puede borrar: la página ya no la usa.
+
+**Diagnóstico original:**
 
 La misma clave (`d1765b8d…`) sigue literal en 11 archivos:
 
@@ -365,10 +382,15 @@ El botón de la página de cada película (`PeliculaClient.tsx`) pide un id con 
 8. ✅ `fanning.py` con `nuevo`, `actualizar`, `quitar`, `imagenes`, `pendientes`, `revisar` y `probar` (punto 17).
 9. ✅ Guía "Cómo agregar una película" en el README.
 
-**Etapa 4: calidad del código (≈1-2 días, se puede hacer de a poco).**
-10. Usar `FlashcardViewer` y extraer los componentes compartidos (punto 3).
-11. Tipos en lugar de `any` y lint en 0 (puntos 8 y 10).
-12. CI con lint, tsc, build y pruebas (punto 13).
-13. Detalles menores: `lang="es"`, coma decimal y README (punto 14).
+**Etapa 4: calidad del código — ✅ hecha el 2026-10-13.**
+10. ✅ `FlashcardViewer` en las dos páginas y componentes compartidos: `MediaShell` (fondo, aviso +18, volver), `MediaHero` (póster y título), `ImageLightbox`; datos en `lib/data.ts`, comprensión en `lib/stats.ts` (puntos 2 y 3).
+11. ✅ Tipos (`types/media.ts`, `types/manifest.ts`) en lugar de `any` y ESLint en 0 (puntos 8 y 10). Flashcards con barajado parejo (Fisher–Yates), sin `alert()` y sin `setTimeout` sueltos. La portada calcula sus cifras sin `useEffect` y lee el año de la URL con `useSearchParams`. La línea de tiempo recibe los datos del servidor (sin descargas ni spinner). Se quitó un modal de la portada que nunca se abría.
+12. ✅ Revisión automática en GitHub con pruebas, validación de fichas, lint, tipos y build (punto 13).
+13. ✅ `lang="es"`, coma decimal en los porcentajes ("93,65%"), CSS de las flashcards en `globals.css`, sintaxis de Tailwind v4 en todos los componentes y páginas que solo existen para títulos del manifest (`dynamicParams = false`) (punto 14).
+
+**Pendientes que quedan:**
+- Línea de tiempo: guardar en `contenido/tandas.json` el título exacto de cada ficha para no emparejar por texto (punto 11).
+- Scripts sueltos de la raíz (`check_missing.py`, `count_words.py`, `dump_names.py`, `read_pdf.py`, `scratch_report.py`) y en `scripts/` (punto 7).
+- 120 fichas sin id de TMDB (no afecta a la página).
 
 **Más adelante:** evaluar Git LFS para los PDFs.

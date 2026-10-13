@@ -1,24 +1,48 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
-import { miles } from '@/lib/formato';
-import { useRouter } from 'next/navigation';
+import React, { useEffect, useMemo, useState } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 } from 'recharts';
 import { Film, BookOpen, Crown, TrendingUp, Search, Calendar } from 'lucide-react';
 
+import { miles, porcentaje } from '@/lib/formato';
+import { comprension } from '@/lib/stats';
 import MovieCard from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
+import { ManifestData, ManifestYear, YearlyData } from '@/types/manifest';
 
+const VACIO: ManifestYear = {
+  totalWords: 0, totalDialogues: 0, uniqueMovies: 0,
+  topWord: { word: 'N/A', count: 0, translation: '' }, topList: [], movieList: [],
+};
 
-import { ManifestData } from '@/types/manifest';
+function aniosDisponibles(manifestData: ManifestData): string[] {
+  return ['all', ...Object.keys(manifestData).filter(k => k !== 'all' && k !== 'yearlyData').sort()];
+}
 
-export default function DashboardClient({ initialManifestData }: { initialManifestData: ManifestData }) {
+// Lee el año elegido de la URL (?year=2025), así se puede compartir o recargar.
+// Necesita estar dentro de <Suspense> (ver app/page.tsx).
+export default function DashboardClient({ manifestData }: { manifestData: ManifestData }) {
+  const pedido = useSearchParams().get('year') ?? 'all';
+  const anio = aniosDisponibles(manifestData).includes(pedido) ? pedido : 'all';
+  return <DashboardVista manifestData={manifestData} selectedYear={anio} />;
+}
+
+// La portada para un año dado. También es lo que se genera en el build (con el histórico).
+export function DashboardVista({ manifestData, selectedYear }: { manifestData: ManifestData; selectedYear: string }) {
   const router = useRouter();
-  const [manifestData] = useState<ManifestData>(initialManifestData);
-  const [selectedYear, setSelectedYear] = useState<string>("all");
   const [showSearch, setShowSearch] = useState(false);
+  const availableYears = useMemo(() => aniosDisponibles(manifestData), [manifestData]);
+
+  const stats = (manifestData[selectedYear] as ManifestYear | undefined) ?? VACIO;
+  const yearlyData = (manifestData.yearlyData as YearlyData[] | undefined) ?? [];
+  const pctAnual = comprension(stats.totalDialogues, stats.totalWords);
+
+  const elegirAnio = (year: string) => {
+    router.replace(year === 'all' ? '/' : `/?year=${year}`, { scroll: false });
+  };
 
   // Ctrl+K (o Cmd+K) y "/" abren el buscador
   useEffect(() => {
@@ -32,65 +56,13 @@ export default function DashboardClient({ initialManifestData }: { initialManife
     window.addEventListener('keydown', alTeclear);
     return () => window.removeEventListener('keydown', alTeclear);
   }, []);
-  const [selectedMovie, setSelectedMovie] = useState<{ title: string, count: number, dialogues?: number, posterUrl: string | null, episodes: { name: string, count: number }[] } | null>(null);
-
-  const availableYears = ["all", ...Object.keys(initialManifestData || {}).filter(k => k !== 'all' && k !== 'yearlyData').sort()];
-
-  const [stats, setStats] = useState({
-    totalWords: 0,
-    uniqueMovies: 0,
-    topWord: { word: "N/A", count: 0, translation: "" },
-    yearlyData: [] as { year: string, words: number, dialogues?: number }[],
-    topList: [] as { word: string, count: number, translation: string }[],
-    movieList: [] as { title: string, count: number, type?: 'series' | 'movie', dialogues?: number, episodes: { name: string, count: number }[], posterUrl?: string | null, backdropUrl?: string | null, level?: string, rating?: string }[],
-    totalDialogues: 0
-  });
-
-  useEffect(() => {
-    if (manifestData) {
-      const yearData = (manifestData[selectedYear] || manifestData["all"]) as any;
-
-      let totalDialogues = 0;
-      if (selectedYear === 'all') {
-        // Use the pre-computed total from the manifest (includes series with no year)
-        totalDialogues = (manifestData as any).all?.totalDialogues || 
-          (manifestData.yearlyData || []).reduce((acc: number, y: any) => acc + (y.dialogues || 0), 0);
-      } else {
-        // For a specific year, use the year object's totalDialogues (computed from its movie list)
-        const yearObj = (manifestData[selectedYear] || {}) as any;
-        totalDialogues = yearObj?.totalDialogues || 0;
-        // Fallback to yearlyData if not present
-        if (!totalDialogues) {
-          const found = (manifestData.yearlyData || []).find((y: any) => y.year === selectedYear);
-          totalDialogues = found ? (found.dialogues || 0) : 0;
-        }
-      }
-
-      setStats({
-        totalWords: yearData?.totalWords || 0,
-        uniqueMovies: yearData?.uniqueMovies || 0,
-        topWord: yearData?.topWord || { word: "N/A", count: 0, translation: "" },
-        yearlyData: manifestData.yearlyData || [],
-        topList: yearData?.topList || [],
-        movieList: yearData?.movieList || [],
-        totalDialogues: totalDialogues
-      });
-    }
-
-    // Recuperar el ciclo desde la URL al cargar
-    if (typeof window !== 'undefined') {
-      const params = new URLSearchParams(window.location.search);
-      const y = params.get('year');
-      if (y) setSelectedYear(y);
-    }
-  }, [manifestData, selectedYear]);
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-4 sm:p-6 md:p-8">
       {/* Header */}
       <header className="mb-6 md:mb-8 flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4 pb-4 md:pb-6">
         <div>
-          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
+          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-linear-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
             Dashboard del Proyecto Fanning
           </h1>
           <p className="text-gray-400 mt-2 text-sm md:text-lg">Métricas de inmersión y adquisición de vocabulario</p>
@@ -109,17 +81,14 @@ export default function DashboardClient({ initialManifestData }: { initialManife
       </header>
 
       {showSearch && (
-        <SearchModal items={manifestData.all?.movieList || []} onClose={() => setShowSearch(false)} />
+        <SearchModal items={(manifestData.all as ManifestYear | undefined)?.movieList ?? []} onClose={() => setShowSearch(false)} />
       )}
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
         {availableYears.map((year) => (
           <button
             key={year}
-            onClick={() => {
-              setSelectedYear(year);
-              window.history.pushState(null, '', `/?year=${year}`);
-            }}
+            onClick={() => elegirAnio(year)}
             className={`px-5 py-2 rounded-full font-medium transition ${selectedYear === year
               ? "bg-purple-600 text-white shadow-lg shadow-purple-900/40"
               : "bg-gray-900 text-gray-400 hover:text-white hover:bg-gray-800"
@@ -155,7 +124,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
             <h3 className="text-gray-400 font-medium">Películas / Series</h3>
             <div className="p-2 bg-purple-500/10 text-purple-400 rounded-lg"><Film size={20} /></div>
           </div>
-          <p className="text-3xl font-bold">{stats.uniqueMovies}</p>
+          <p className="text-3xl font-bold">{miles(stats.uniqueMovies)}</p>
           <p className="text-sm text-gray-500 mt-2">Obras únicas visualizadas</p>
         </div>
 
@@ -174,15 +143,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
               <h3 className="text-gray-400 font-medium">Comprensión Global</h3>
               <div className="p-2 bg-cyan-500/10 text-cyan-400 rounded-lg"><Crown size={20} /></div>
             </div>
-            <p className="text-3xl font-bold">
-              {stats.totalDialogues > 0
-                ? `${(() => {
-                  let pct = ((stats.totalDialogues - stats.totalWords) / stats.totalDialogues) * 100;
-                  if (pct >= 99.445) pct = 100;
-                  return Math.max(0, pct).toFixed(2);
-                })()}%`
-                : 'N/A'}
-            </p>
+            <p className="text-3xl font-bold">{porcentaje(pctAnual)}</p>
             <p className="text-sm text-cyan-500 mt-2">Porcentaje en {selectedYear}</p>
           </div>
         )}
@@ -198,7 +159,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
           </h3>
           <div className="h-80 w-full">
             <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={stats.yearlyData}>
+              <BarChart data={yearlyData}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                 <XAxis dataKey="year" stroke="#9CA3AF" axisLine={false} tickLine={false} />
                 <YAxis stroke="#9CA3AF" axisLine={false} tickLine={false} tickFormatter={(v: number) => miles(v)} />
@@ -238,7 +199,7 @@ export default function DashboardClient({ initialManifestData }: { initialManife
               </thead>
               <tbody className="divide-y divide-gray-800">
                 {stats.topList.map((item, index) => (
-                  <tr key={index} className="hover:bg-gray-800/50 transition">
+                  <tr key={item.word} className="hover:bg-gray-800/50 transition">
                     <td className="py-3 font-medium flex items-center gap-3">
                       <span className="text-gray-500 text-sm w-4">{index + 1}.</span>
                       <div className="flex flex-col">
@@ -262,95 +223,20 @@ export default function DashboardClient({ initialManifestData }: { initialManife
         </h2>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-          {stats.movieList.map((item) => {
-            return (
-                <MovieCard 
-                  key={item.title} 
-                  title={item.title} 
-                  count={item.count} 
-                  dialogues={item.dialogues}
-                  posterUrl={item.posterUrl}
-                  level={item.level}
-                  rating={item.rating}
-                  href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`} 
-                />);
-          })}
+          {stats.movieList.map((item) => (
+            <MovieCard
+              key={item.title}
+              title={item.title}
+              count={item.count}
+              dialogues={item.dialogues}
+              posterUrl={item.posterUrl}
+              level={item.level}
+              rating={item.rating}
+              href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
+            />
+          ))}
         </div>
       </div>
-
-      {/* Modal Interactivo de Episodios */}
-      {selectedMovie && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" onClick={() => setSelectedMovie(null)}>
-          <div className="bg-gray-900 border border-gray-800 rounded-2xl max-w-2xl w-full max-h-[85vh] overflow-hidden flex flex-col shadow-2xl" onClick={e => e.stopPropagation()}>
-            {/* Header con poster */}
-            <div className="relative h-48 bg-gray-800 flex-shrink-0">
-              {selectedMovie.posterUrl && (
-                <img src={selectedMovie.posterUrl} alt="Backdrop" className="w-full h-full object-cover opacity-30 blur-md" />
-              )}
-              <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/60 to-transparent"></div>
-              <div className="absolute bottom-4 left-4 sm:left-6 flex items-end gap-4 sm:gap-6 w-[calc(100%-2rem)]">
-                {selectedMovie.posterUrl ? (
-                  <img src={selectedMovie.posterUrl} alt="Poster" className="w-20 h-32 sm:w-24 sm:h-36 rounded-lg shadow-xl object-cover border border-gray-700 flex-shrink-0" />
-                ) : (
-                  <div className="w-20 h-32 sm:w-24 sm:h-36 bg-gray-800 rounded-lg shadow-xl border border-gray-700 flex items-center justify-center flex-shrink-0">
-                    <Film className="text-gray-600" size={32} />
-                  </div>
-                )}
-                <div className="pb-1 sm:pb-2 overflow-hidden">
-                  <h2 className="text-2xl sm:text-3xl font-extrabold text-white leading-tight truncate">{selectedMovie.title}</h2>
-                  <div className="flex flex-wrap gap-2 sm:gap-4 mt-2 text-xs sm:text-sm">
-                    <p className="text-purple-400 font-medium">{miles(selectedMovie.count)} palabras no entendidas</p>
-                    {selectedMovie.dialogues !== undefined && selectedMovie.dialogues > 0 && (
-                      <>
-                        <p className="text-emerald-400 font-medium">| {miles(selectedMovie.dialogues)} líneas totales</p>
-                        <p className="text-cyan-400 font-bold bg-cyan-500/10 px-2 py-0.5 rounded border border-cyan-500/20">
-                          {(() => {
-                            const d = selectedMovie.dialogues;
-                            const w = selectedMovie.count;
-                            let pct = ((d - w) / d) * 100;
-                            if (pct >= 99.445) pct = 100;
-                            return Math.max(0, pct).toFixed(2);
-                          })()}% Comprensión
-                        </p>
-                      </>
-                    )}
-                  </div>
-                </div>
-              </div>
-              <button onClick={() => setSelectedMovie(null)} className="absolute top-4 right-4 bg-black/50 hover:bg-black text-white rounded-full p-2 transition">
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path>
-                </svg>
-              </button>
-            </div>
-
-            {/* Lista de episodios */}
-            <div className="p-6 overflow-y-auto">
-              <h3 className="text-lg font-bold text-gray-300 mb-4">Desglose por Archivo / Episodio</h3>
-              {selectedMovie.episodes.length === 1 ? (
-                <div className="text-center py-10 text-gray-500">
-                  <Film size={48} className="mx-auto mb-4 opacity-20" />
-                  <p>Obra única. No hay episodios adicionales divididos.</p>
-                </div>
-              ) : (
-                <div className="space-y-3">
-                  {selectedMovie.episodes.map((ep: any, i: number) => (
-                    <div key={i} className="flex justify-between items-center bg-gray-800/40 p-4 rounded-xl border border-gray-800/80 hover:border-purple-900/50 hover:bg-gray-800 transition">
-                      <span className="text-gray-200 font-medium truncate pr-4" title={ep.name}>
-                        {ep.name}
-                      </span>
-                      <span className="bg-purple-900/30 text-purple-300 px-3 py-1 rounded-full text-sm font-bold flex-shrink-0">
-                        {miles(ep.count)} palabras
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
-
     </div>
   );
 }

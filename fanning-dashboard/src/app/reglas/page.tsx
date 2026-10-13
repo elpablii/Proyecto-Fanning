@@ -15,7 +15,7 @@ export default function RulesPage() {
           >
             <ArrowLeft className="w-5 h-5 sm:w-6 sm:h-6 text-gray-400" />
           </Link>
-          <h1 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent flex items-center gap-2 sm:gap-3">
+          <h1 className="text-2xl sm:text-3xl font-bold bg-linear-to-r from-white to-gray-400 bg-clip-text text-transparent flex items-center gap-2 sm:gap-3">
             <BookOpen className="w-6 h-6 sm:w-8 sm:h-8 text-purple-400" />
             Constitución y Reglas
           </h1>
@@ -33,7 +33,7 @@ export default function RulesPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           
           {/* Pilares */}
-          <section className="bg-gradient-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-purple-500/30 transition-colors">
+          <section className="bg-linear-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-purple-500/30 transition-colors">
             <h2 className="text-2xl font-bold mb-6 flex items-center gap-3 text-purple-300">
               <Crown className="w-7 h-7" />
               1. Pilares de Inmersión y Elegibilidad
@@ -66,7 +66,7 @@ export default function RulesPage() {
           </section>
 
           {/* Filtros Éticos */}
-          <section className="bg-gradient-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-red-500/30 transition-colors">
+          <section className="bg-linear-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-red-500/30 transition-colors">
             <h2 className="text-2xl font-bold mb-6 flex items-center gap-3 text-red-400">
               <ShieldAlert className="w-7 h-7" />
               2. Filtros Éticos e Indultos Reales
@@ -89,7 +89,7 @@ export default function RulesPage() {
           </section>
 
           {/* Métricas y Sesiones */}
-          <section className="bg-gradient-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-blue-500/30 transition-colors">
+          <section className="bg-linear-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-blue-500/30 transition-colors">
             <h2 className="text-2xl font-bold mb-6 flex items-center gap-3 text-blue-400">
               <Clock className="w-7 h-7" />
               3. Métricas, Ritmo y Sesiones
@@ -123,7 +123,7 @@ export default function RulesPage() {
           </section>
 
           {/* Métrica Matemática */}
-          <section className="bg-gradient-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-emerald-500/30 transition-colors">
+          <section className="bg-linear-to-b from-white/5 to-transparent border border-white/10 rounded-3xl p-8 backdrop-blur-xl hover:border-emerald-500/30 transition-colors">
             <h2 className="text-2xl font-bold mb-6 flex items-center gap-3 text-emerald-400">
               <Calculator className="w-7 h-7" />
               4. Métrica de Comprensión
@@ -143,7 +143,7 @@ export default function RulesPage() {
 
               <div>
                 <h3 className="font-semibold text-emerald-300 mb-2">Regla del Redondeo Estratégico</h3>
-                <p className="text-gray-400 text-sm">Si el porcentaje final de comprensión post-estudio alcanza un valor numérico <strong>≥ 99.445%</strong>, el sistema lo aproximará automáticamente al <strong>100%</strong> en los registros oficiales del informe.</p>
+                <p className="text-gray-400 text-sm">Si el porcentaje final de comprensión post-estudio alcanza un valor numérico <strong>≥ 99,445%</strong>, el sistema lo aproximará automáticamente al <strong>100%</strong> en los registros oficiales del informe.</p>
               </div>
 
               <div>

@@ -8,7 +8,7 @@ with open(json_path, 'r', encoding='utf-8') as f:
     d = json.load(f)
 
 # TMDB info fetching
-api_key = 'd1765b8dccaf994068c4055e49e80566'
+api_key = __import__('os').environ.get('TMDB_API_KEY', '')  # la clave va en el entorno, nunca en el código
 query = 'The Perfect Couple'
 url = f'https://api.themoviedb.org/3/search/multi?api_key={api_key}&query={urllib.parse.quote(query)}&language=es-MX'
 

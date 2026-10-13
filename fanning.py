@@ -8,6 +8,7 @@
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
   python fanning.py revisar dialogos "ruta.pdf"    conteo de un PDF de diálogos, página por página
   python fanning.py probar                         corre las pruebas del conteo
+  python fanning.py validar                        revisa las fichas (sin contar nada); falla si hay errores
 
 Los detalles de cada paso están en README.md.
 """
@@ -139,6 +140,11 @@ def cmd_revisar(args):
         correr(verificar_dialogos, args.pdf, *(['--serie'] if args.serie else []))
 
 
+def cmd_validar(args):
+    lista, _, avisos = F.cargar()  # se detiene con exit 1 y explica qué corregir si hay errores
+    print(f'{len(lista)} fichas sin errores ({len(avisos)} datos pendientes: python fanning.py pendientes).')
+
+
 def cmd_probar(args):
     import test_conteo
     pruebas = [f for n, f in vars(test_conteo).items() if n.startswith('test_')]
@@ -187,6 +193,9 @@ def main():
 
     p = sub.add_parser('probar', help='corre las pruebas del conteo')
     p.set_defaults(fn=cmd_probar)
+
+    p = sub.add_parser('validar', help='revisa las fichas sin contar nada (lo usa la revisión automática)')
+    p.set_defaults(fn=cmd_validar)
 
     args = ap.parse_args()
     args.fn(args)
