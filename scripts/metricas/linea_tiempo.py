@@ -7,11 +7,23 @@ rápido: se puede correr solo después de agregar una tanda (python fanning.py t
 Por cada tanda calcula sus palabras, líneas de diálogo, % de comprensión y duración (minutos),
 sumando los títulos (o, en las series, solo los episodios que entraron en esa tanda). Por cada
 ciclo (año), los totales.
+
+Una tanda puede estar dividida en partes ("14a° Tanda", "14b° Tanda"): son UNA sola tanda.
+Cada parte sale por separado, con su "numero" (14) y su "parte" ("a"), y los conteos de tandas
+cuentan números, no partes.
+
+Horas de inglés de cada parte (minutos), ver Reglas:
+  - vista: ver el contenido por primera vez (su duración).
+  - repaso: leer el vocabulario en voz alta una vez al día, desde la fecha de la parte hasta la
+    siguiente tanda (con otro número). Cada lectura dura lo que toma decir cada entrada
+    (palabra o frase + traducción) a VELOCIDAD_LECTURA palabras por minuto.
+  - revision: volver a ver el contenido después de estudiar el vocabulario (su duración).
 """
 import json
 import os
 import re
 import sys
+from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from rutas import DATA, RAIZ  # noqa: E402
@@ -22,6 +34,22 @@ import tandas as T  # noqa: E402
 CICLOS = os.path.join(RAIZ, 'contenido', 'ciclos.json')
 # Reglas: si los contenidos de una tanda suman más de 5 horas, se divide en dos sesiones (Día n-1 y Día n)
 LIMITE_SESION = 5 * 60
+# Lectura en voz alta a velocidad normal y con buena dicción (palabras por minuto)
+VELOCIDAD_LECTURA = 140
+PALABRA = re.compile(r"[^\W\d_]+(?:'[^\W\d_]+)?|\d+")
+
+
+def numero_y_parte(titulo_tanda):
+    """'14a° Tanda' -> (14, 'a'); '25b° Tanda (Fin de Año)' -> (25, 'b'); '50° Tanda' -> (50, None)."""
+    m = re.match(r'\s*(\d+)\s*([a-z])?', titulo_tanda)
+    if not m:
+        raise ValueError(f'La tanda "{titulo_tanda}" no empieza con su número.')
+    return int(m.group(1)), m.group(2)
+
+
+def palabras_texto(entradas):
+    """Palabras que se dicen al leer las entradas en voz alta (término + traducción)."""
+    return sum(len(PALABRA.findall(f"{e.get('word', '')} {e.get('translation', '')}")) for e in entradas)
 
 
 def _comprension(lineas, palabras):
@@ -80,30 +108,59 @@ def generar():
                 nivel = N.nivel_texto(sum(e['levelDetail']['puntaje'] * max(e['dialogues'], 1) for e in con_nivel) / peso) if peso else None
                 duracion = sum(e.get('duration') or 0 for e in eps) or None
                 estimada = any(e.get('durationEstimated') or not e.get('duration') for e in eps)
+                texto_vocab = palabras_texto([v for e in eps for v in e.get('vocabulary') or []])
             else:
                 palabras, lineas, nivel = d.get('count', 0), d.get('dialogues', 0), d.get('level')
                 duracion, estimada = d.get('duration'), bool(d.get('durationEstimated') or not d.get('duration'))
+                texto_vocab = palabras_texto(d.get('vocabulary') or [])
             items.append({
                 'texto': texto, 'titulo': titulo, 'tipo': m.get('type', 'movie'),
                 'poster': m.get('posterUrl'), 'nivel': nivel, 'clasificacion': m.get('rating'),
                 'episodios': len(codigos) if codigos else None,
                 'palabras': palabras, 'lineas': lineas, 'comprension': _comprension(lineas, palabras),
                 'duracion': duracion, 'duracionEstimada': estimada,
+                '_texto': texto_vocab,
             })
         palabras = sum(x['palabras'] for x in items)
         lineas = sum(x['lineas'] for x in items)
         duracion = sum(x['duracion'] or 0 for x in items)
         fecha = T.fecha_de(t['date'])
+        numero, parte = numero_y_parte(t['title'])
+        texto = sum(x.pop('_texto') for x in items)
         salida_tandas.append({
-            'id': t['id'], 'title': t['title'], 'date': t['date'], 'fecha': fecha.isoformat(),
+            'id': t['id'], 'title': t['title'], 'numero': numero, 'parte': parte,
+            'date': t['date'], 'fecha': fecha.isoformat(),
             # el ciclo es el año de la fecha, salvo que la tanda diga otro ("ciclo": "2023" para una
             # tanda de comienzos de enero que cierra el ciclo anterior)
             'anio': str(t.get('ciclo') or fecha.year), 'etiqueta': etiqueta(t['title']),
             'palabras': palabras, 'lineas': lineas, 'comprension': _comprension(lineas, palabras),
             'duracion': duracion, 'duracionEstimada': any(x['duracionEstimada'] for x in items),
             'dosSesiones': duracion > LIMITE_SESION,
+            '_texto': texto,
             'items': items,
         })
+
+    # Días de repaso: hasta la siguiente tanda con otro número. La última tanda aún no tiene
+    # siguiente: se supone que llega a la separación típica (mediana) después de su última parte.
+    inicios, finales = {}, {}
+    for t in salida_tandas:
+        inicios.setdefault(t['numero'], date.fromisoformat(t['fecha']))
+        finales[t['numero']] = date.fromisoformat(t['fecha'])
+    orden = sorted(inicios)
+    brechas = sorted((inicios[b] - inicios[a]).days for a, b in zip(orden, orden[1:]))
+    tipica = brechas[len(brechas) // 2] if brechas else 15
+    siguiente = {a: inicios[b] for a, b in zip(orden, orden[1:])}
+    if orden:
+        siguiente[orden[-1]] = finales[orden[-1]] + timedelta(days=tipica)
+    for t in salida_tandas:
+        dias = (siguiente[t['numero']] - date.fromisoformat(t['fecha'])).days
+        lectura = t.pop('_texto') / VELOCIDAD_LECTURA
+        t['ingles'] = {
+            'vista': t['duracion'],
+            'repaso': round(lectura * max(dias, 1)),
+            'revision': t['duracion'],
+            'diasRepaso': max(dias, 1),
+        }
 
     anios = sorted({t['anio'] for t in salida_tandas})
     salida_ciclos = []
@@ -114,9 +171,10 @@ def generar():
         c = ciclos.get(a, {})
         salida_ciclos.append({
             'anio': a, 'nombre': c.get('nombre', ''), 'descripcion': c.get('descripcion', ''),
-            'tandas': len(del_anio), 'titulos': sum(len(t['items']) for t in del_anio),
+            'tandas': len({t['numero'] for t in del_anio}), 'titulos': sum(len(t['items']) for t in del_anio),
             'palabras': palabras, 'lineas': lineas, 'comprension': _comprension(lineas, palabras),
             'duracion': sum(t['duracion'] for t in del_anio),
+            'minutosIngles': sum(t['ingles']['vista'] + t['ingles']['repaso'] + t['ingles']['revision'] for t in del_anio),
         })
 
     with open(os.path.join(DATA, 'timeline.json'), 'w', encoding='utf-8') as f:
@@ -127,12 +185,13 @@ def generar():
 def main():
     F.cargar()  # valida fichas y tandas antes de escribir
     ciclos, tandas = generar()
-    print(f'Línea de tiempo: {len(tandas)} tandas en {len(ciclos)} ciclos.')
+    print(f"Línea de tiempo: {len({t['numero'] for t in tandas})} tandas ({len(tandas)} con sus partes) en {len(ciclos)} ciclos.")
     for c in ciclos:
         miles = lambda n: f'{n:,}'.replace(',', '.')  # noqa: E731
         print(f"  {c['anio']} {c['nombre']}: {c['tandas']} tandas, {miles(c['palabras'])} palabras, "
               f"{miles(c['lineas'])} líneas, comprensión {c['comprension']} %, "
-              f"{c['duracion'] // 60} h {c['duracion'] % 60} min")
+              f"{c['duracion'] // 60} h {c['duracion'] % 60} min de contenido, "
+              f"{c['minutosIngles'] // 60} h de inglés en total")
     estimadas = sorted({x['titulo'] for t in tandas for x in t['items'] if x['duracionEstimada']})
     if estimadas:
         print('Duración estimada con los subtítulos (falta en la ficha):', ', '.join(estimadas))

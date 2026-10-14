@@ -2,16 +2,14 @@
 
 import React, { useEffect, useMemo, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import {
-  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
-} from 'recharts';
 import { Film, BookOpen, Crown, TrendingUp, Search, Calendar } from 'lucide-react';
 
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import MovieCard from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
-import { ManifestData, ManifestYear, YearlyData } from '@/types/manifest';
+import EvolucionComprension, { type TandaResumen } from '@/components/charts/EvolucionComprension';
+import { ManifestData, ManifestYear } from '@/types/manifest';
 
 const VACIO: ManifestYear = {
   totalWords: 0, totalDialogues: 0, uniqueMovies: 0,
@@ -24,20 +22,19 @@ function aniosDisponibles(manifestData: ManifestData): string[] {
 
 // Lee el año elegido de la URL (?year=2025), así se puede compartir o recargar.
 // Necesita estar dentro de <Suspense> (ver app/page.tsx).
-export default function DashboardClient({ manifestData }: { manifestData: ManifestData }) {
+export default function DashboardClient({ manifestData, tandas }: { manifestData: ManifestData; tandas: TandaResumen[] }) {
   const pedido = useSearchParams().get('year') ?? 'all';
   const anio = aniosDisponibles(manifestData).includes(pedido) ? pedido : 'all';
-  return <DashboardVista manifestData={manifestData} selectedYear={anio} />;
+  return <DashboardVista manifestData={manifestData} tandas={tandas} selectedYear={anio} />;
 }
 
 // La portada para un año dado. También es lo que se genera en el build (con el histórico).
-export function DashboardVista({ manifestData, selectedYear }: { manifestData: ManifestData; selectedYear: string }) {
+export function DashboardVista({ manifestData, tandas, selectedYear }: { manifestData: ManifestData; tandas: TandaResumen[]; selectedYear: string }) {
   const router = useRouter();
   const [showSearch, setShowSearch] = useState(false);
   const availableYears = useMemo(() => aniosDisponibles(manifestData), [manifestData]);
 
   const stats = (manifestData[selectedYear] as ManifestYear | undefined) ?? VACIO;
-  const yearlyData = (manifestData.yearlyData as YearlyData[] | undefined) ?? [];
   const pctAnual = comprension(stats.totalDialogues, stats.totalWords);
 
   const elegirAnio = (year: string) => {
@@ -152,38 +149,12 @@ export function DashboardVista({ manifestData, selectedYear }: { manifestData: M
       {/* Grid Principal */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
 
-        {/* Chart Section */}
+        {/* Evolución de la comprensión */}
         <div className="lg:col-span-2 bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
           <h3 className="text-xl font-bold mb-6 flex items-center gap-2">
-            <Calendar className="text-purple-500" size={24} /> Evolución del Vocabulario
+            <TrendingUp className="text-purple-500" size={24} /> ¿Entiendes cada vez más?
           </h3>
-          <div className="h-80 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={yearlyData}>
-                <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
-                <XAxis dataKey="year" stroke="#9CA3AF" axisLine={false} tickLine={false} />
-                <YAxis stroke="#9CA3AF" axisLine={false} tickLine={false} tickFormatter={(v: number) => miles(v)} />
-                <Tooltip
-                  contentStyle={{ backgroundColor: '#1F2937', borderColor: '#374151', borderRadius: '8px', color: '#fff' }}
-                  itemStyle={{ color: '#fff' }}
-                  cursor={{ fill: '#374151', opacity: 0.4 }}
-                  formatter={(v) => miles(Number(v))}
-                />
-                <Bar name="Líneas de Diálogo" dataKey="dialogues" fill="url(#colorDialogues)" radius={[6, 6, 0, 0]} />
-                <Bar name="Palabras Aprendidas" dataKey="words" fill="url(#colorWords)" radius={[6, 6, 0, 0]} />
-                <defs>
-                  <linearGradient id="colorWords" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor="#9333EA" stopOpacity={0.8} />
-                    <stop offset="95%" stopColor="#EC4899" stopOpacity={0.8} />
-                  </linearGradient>
-                  <linearGradient id="colorDialogues" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor="#10B981" stopOpacity={0.8} />
-                    <stop offset="95%" stopColor="#047857" stopOpacity={0.8} />
-                  </linearGradient>
-                </defs>
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
+          <EvolucionComprension tandas={tandas} anio={selectedYear} />
         </div>
 
         {/* Top Words Table */}

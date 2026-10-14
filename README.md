@@ -77,6 +77,8 @@ Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y 
 ```
 
 - Cada ítem es el **título exacto de su ficha**, o `{"texto": "…", "titulo": "…"}` si quieres mostrarlo con otro nombre.
+- Una tanda dividida en partes se escribe con letra (`"14a° Tanda"`, `"14b° Tanda"`): las partes son **una sola tanda** y la página las cuenta y las grafica juntas.
+- Las **horas de inglés** de cada tanda son: primera vista + repaso diario del vocabulario (leído en voz alta a 140 palabras por minuto, una vez al día hasta la siguiente tanda) + segunda vista. Las calcula `scripts/metricas/linea_tiempo.py`.
 - En las series, `"episodios"` dice qué episodios entraron en la tanda (sin eso se entiende la serie completa). Las palabras, líneas, comprensión y duración de la tanda se calculan solas; si la duración supera las 5 horas, la tanda se marca como «Dos sesiones» (ver Reglas).
 - Las tandas de Gala llevan `(Gala)`, `(Navidad)` o `(Fin de Año)` en el título.
 - Si una tanda de comienzos de enero cierra el ciclo anterior, agrega `"ciclo": "2026"`.

@@ -183,7 +183,9 @@ export default function TimelineClient({ ciclos, tandas, hoy }: { ciclos: Ciclo[
     const lineas = tandas.reduce((s, t) => s + t.lineas, 0);
     const titulos = tandas.reduce((s, t) => s + t.items.length, 0);
     const minutos = tandas.reduce((s, t) => s + t.duracion, 0);
-    return { palabras, lineas, titulos, minutos, comprension: lineas ? ((lineas - palabras) / lineas) * 100 : null };
+    // las partes de una tanda (14a°, 14b°) son una sola tanda
+    const cantidad = new Set(tandas.map(t => t.numero)).size;
+    return { palabras, lineas, titulos, minutos, cantidad, comprension: lineas ? ((lineas - palabras) / lineas) * 100 : null };
   }, [tandas]);
 
   return (
@@ -201,7 +203,7 @@ export default function TimelineClient({ ciclos, tandas, hoy }: { ciclos: Ciclo[
 
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mt-6">
           {[
-            { v: miles(tandas.length), t: 'tandas', icono: Calendar },
+            { v: miles(total.cantidad), t: 'tandas', icono: Calendar },
             { v: miles(total.titulos), t: 'títulos', icono: Film },
             { v: `${miles(Math.round(total.minutos / 60))} h`, t: 'de contenido', icono: Clock },
             { v: miles(total.palabras), t: 'palabras', icono: BookOpen },
@@ -219,7 +221,7 @@ export default function TimelineClient({ ciclos, tandas, hoy }: { ciclos: Ciclo[
         </div>
 
         <div className="flex flex-wrap gap-2 mt-6">
-          {[{ anio: 'all', tandas: tandas.length }, ...ciclos].map(c => (
+          {[{ anio: 'all', tandas: total.cantidad }, ...ciclos].map(c => (
             <button
               key={c.anio}
               onClick={() => setAnio(c.anio)}

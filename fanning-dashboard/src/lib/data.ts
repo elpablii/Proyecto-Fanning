@@ -50,9 +50,19 @@ export interface ItemTanda {
   duracionEstimada: boolean;  // sin dato de TMDB: se usó el último subtítulo
 }
 
+// Horas de inglés de una tanda, en minutos (ver scripts/metricas/linea_tiempo.py y Reglas).
+export interface MinutosIngles {
+  vista: number;              // ver el contenido por primera vez
+  repaso: number;             // leer el vocabulario en voz alta una vez al día hasta la siguiente tanda
+  revision: number;           // volver a verlo después de estudiar el vocabulario
+  diasRepaso: number;
+}
+
 export interface Tanda {
   id: number;
   title: string;
+  numero: number;             // "14a° Tanda" -> 14: las partes a, b, c son UNA sola tanda
+  parte: string | null;       // "a", "b"… o null si la tanda no está dividida
   date: string;               // "Sábado, 17/01/2026"
   fecha: string;              // "2026-01-17"
   anio: string;               // ciclo al que pertenece
@@ -63,6 +73,7 @@ export interface Tanda {
   duracion: number;           // minutos
   duracionEstimada: boolean;
   dosSesiones: boolean;       // más de 5 horas: se divide en Día n-1 y Día n (ver Reglas)
+  ingles: MinutosIngles;
   items: ItemTanda[];
 }
 
@@ -76,8 +87,48 @@ export interface Ciclo {
   lineas: number;
   comprension: number | null;
   duracion: number;           // minutos
+  minutosIngles: number;      // vista + repaso + revisión de todas sus tandas
 }
 
 export function getLineaDeTiempo(): { ciclos: Ciclo[]; tandas: Tanda[] } {
   return leer<{ ciclos: Ciclo[]; tandas: Tanda[] }>('timeline.json') ?? { ciclos: [], tandas: [] };
+}
+
+// Una tanda completa: junta sus partes ("14a°" y "14b°" son la 14° Tanda).
+export interface TandaCompleta {
+  numero: number;
+  title: string;              // "14° Tanda"
+  date: string;               // fecha de la primera parte
+  fecha: string;
+  anio: string;
+  partes: Tanda[];
+  palabras: number;
+  lineas: number;
+  duracion: number;
+  ingles: MinutosIngles;
+}
+
+export function agruparTandas(tandas: Tanda[]): TandaCompleta[] {
+  const grupos = new Map<number, Tanda[]>();
+  for (const t of tandas) grupos.set(t.numero, [...(grupos.get(t.numero) ?? []), t]);
+  return [...grupos.entries()].map(([numero, partes]) => {
+    const suma = (f: (t: Tanda) => number) => partes.reduce((s, t) => s + f(t), 0);
+    return {
+      numero,
+      title: `${numero}° Tanda`,
+      date: partes[0].date,
+      fecha: partes[0].fecha,
+      anio: partes[0].anio,
+      partes,
+      palabras: suma(t => t.palabras),
+      lineas: suma(t => t.lineas),
+      duracion: suma(t => t.duracion),
+      ingles: {
+        vista: suma(t => t.ingles.vista),
+        repaso: suma(t => t.ingles.repaso),
+        revision: suma(t => t.ingles.revision),
+        diasRepaso: Math.max(...partes.map(t => t.ingles.diasRepaso)),
+      },
+    };
+  });
 }

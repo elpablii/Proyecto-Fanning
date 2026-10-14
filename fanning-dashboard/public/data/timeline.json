@@ -9,46 +9,52 @@
       "palabras": 1093,
       "lineas": 8327,
       "comprension": 86.87,
-      "duracion": 513
+      "duracion": 513,
+      "minutosIngles": 1751
     },
     {
       "anio": "2024",
       "nombre": "Fase de Expansión",
       "descripcion": "Se consolida la metodología con tandas periódicas, desde clásicos de la animación hasta thrillers de acción y dramas históricos.",
-      "tandas": 24,
+      "tandas": 21,
       "titulos": 57,
       "palabras": 8831,
       "lineas": 82538,
       "comprension": 89.3,
-      "duracion": 5924
+      "duracion": 5924,
+      "minutosIngles": 18629
     },
     {
       "anio": "2025",
       "nombre": "Fase de Profundización",
       "descripcion": "Series como The Big Bang Theory y Kim Possible pasan a ser el mantenimiento diario del idioma, alternadas con largometrajes.",
-      "tandas": 25,
+      "tandas": 24,
       "titulos": 86,
       "palabras": 11018,
       "lineas": 133371,
       "comprension": 91.74,
-      "duracion": 9431
+      "duracion": 9431,
+      "minutosIngles": 26782
     },
     {
       "anio": "2026",
       "nombre": "Fase de Ejecución Avanzada",
       "descripcion": "Tandas quincenales que mezclan inglés técnico, histórico y coloquial a través de largometrajes y series de estreno.",
-      "tandas": 26,
+      "tandas": 24,
       "titulos": 100,
       "palabras": 11613,
       "lineas": 161469,
       "comprension": 92.81,
-      "duracion": 10083
+      "duracion": 10083,
+      "minutosIngles": 29815
     }
   ],
   "tandas": [
     {
       "id": 1,
       "title": "1° Tanda",
+      "numero": 1,
+      "parte": null,
       "date": "Jueves, 02/11/2023",
       "fecha": "2023-11-02",
       "anio": "2023",
@@ -74,11 +80,19 @@
           "duracion": 114,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 114,
+        "repaso": 161,
+        "revision": 114,
+        "diasRepaso": 21
+      }
     },
     {
       "id": 2,
       "title": "2° Tanda",
+      "numero": 2,
+      "parte": null,
       "date": "Jueves, 23/11/2023",
       "fecha": "2023-11-23",
       "anio": "2023",
@@ -104,11 +118,19 @@
           "duracion": 109,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 109,
+        "repaso": 169,
+        "revision": 109,
+        "diasRepaso": 23
+      }
     },
     {
       "id": 3,
       "title": "3° Tanda",
+      "numero": 3,
+      "parte": null,
       "date": "Sábado, 16/12/2023",
       "fecha": "2023-12-16",
       "anio": "2023",
@@ -134,11 +156,19 @@
           "duracion": 85,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 85,
+        "repaso": 120,
+        "revision": 85,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 4,
       "title": "4° Tanda",
+      "numero": 4,
+      "parte": null,
       "date": "Martes, 02/01/2024",
       "fecha": "2024-01-02",
       "anio": "2023",
@@ -178,11 +208,19 @@
           "duracion": 105,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 205,
+        "repaso": 275,
+        "revision": 205,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 5,
       "title": "5° Tanda",
+      "numero": 5,
+      "parte": null,
       "date": "Sábado, 20/01/2024",
       "fecha": "2024-01-20",
       "anio": "2024",
@@ -236,11 +274,19 @@
           "duracion": 99,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 287,
+        "repaso": 313,
+        "revision": 287,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 6,
       "title": "6° Tanda",
+      "numero": 6,
+      "parte": null,
       "date": "Miércoles, 07/02/2024",
       "fecha": "2024-02-07",
       "anio": "2024",
@@ -280,11 +326,19 @@
           "duracion": 111,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 231,
+        "repaso": 355,
+        "revision": 231,
+        "diasRepaso": 22
+      }
     },
     {
       "id": 7,
       "title": "7° Tanda",
+      "numero": 7,
+      "parte": null,
       "date": "Jueves, 29/02/2024",
       "fecha": "2024-02-29",
       "anio": "2024",
@@ -324,11 +378,19 @@
           "duracion": 110,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 205,
+        "repaso": 280,
+        "revision": 205,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 8,
       "title": "8° Tanda",
+      "numero": 8,
+      "parte": null,
       "date": "Viernes, 15/03/2024",
       "fecha": "2024-03-15",
       "anio": "2024",
@@ -382,11 +444,19 @@
           "duracion": 92,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 282,
+        "repaso": 249,
+        "revision": 282,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 9,
       "title": "9° Tanda",
+      "numero": 9,
+      "parte": null,
       "date": "Lunes, 01/04/2024",
       "fecha": "2024-04-01",
       "anio": "2024",
@@ -454,11 +524,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 264,
+        "repaso": 239,
+        "revision": 264,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 10,
       "title": "10° Tanda",
+      "numero": 10,
+      "parte": null,
       "date": "Jueves, 18/04/2024",
       "fecha": "2024-04-18",
       "anio": "2024",
@@ -498,11 +576,19 @@
           "duracion": 22,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 184,
+        "repaso": 214,
+        "revision": 184,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 11,
       "title": "11° Tanda",
+      "numero": 11,
+      "parte": null,
       "date": "Viernes, 03/05/2024",
       "fecha": "2024-05-03",
       "anio": "2024",
@@ -542,11 +628,19 @@
           "duracion": 44,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 136,
+        "repaso": 156,
+        "revision": 136,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 12,
       "title": "12° Tanda",
+      "numero": 12,
+      "parte": null,
       "date": "Jueves, 16/05/2024",
       "fecha": "2024-05-16",
       "anio": "2024",
@@ -572,11 +666,19 @@
           "duracion": 110,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 110,
+        "repaso": 340,
+        "revision": 110,
+        "diasRepaso": 26
+      }
     },
     {
       "id": 13,
       "title": "13° Tanda",
+      "numero": 13,
+      "parte": null,
       "date": "Martes, 11/06/2024",
       "fecha": "2024-06-11",
       "anio": "2024",
@@ -602,11 +704,19 @@
           "duracion": 181,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 181,
+        "repaso": 355,
+        "revision": 181,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 14,
       "title": "14a° Tanda",
+      "numero": 14,
+      "parte": "a",
       "date": "Sábado, 29/06/2024",
       "fecha": "2024-06-29",
       "anio": "2024",
@@ -632,11 +742,19 @@
           "duracion": 96,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 96,
+        "repaso": 23,
+        "revision": 96,
+        "diasRepaso": 11
+      }
     },
     {
       "id": 15,
       "title": "14b° Tanda",
+      "numero": 14,
+      "parte": "b",
       "date": "Martes, 02/07/2024",
       "fecha": "2024-07-02",
       "anio": "2024",
@@ -662,11 +780,19 @@
           "duracion": 122,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 122,
+        "repaso": 112,
+        "revision": 122,
+        "diasRepaso": 8
+      }
     },
     {
       "id": 16,
       "title": "15a° Tanda",
+      "numero": 15,
+      "parte": "a",
       "date": "Miércoles, 10/07/2024",
       "fecha": "2024-07-10",
       "anio": "2024",
@@ -692,11 +818,19 @@
           "duracion": 102,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 102,
+        "repaso": 23,
+        "revision": 102,
+        "diasRepaso": 23
+      }
     },
     {
       "id": 17,
       "title": "15b° Tanda",
+      "numero": 15,
+      "parte": "b",
       "date": "Lunes, 15/07/2024",
       "fecha": "2024-07-15",
       "anio": "2024",
@@ -736,11 +870,19 @@
           "duracion": 88,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 174,
+        "repaso": 381,
+        "revision": 174,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 18,
       "title": "16° Tanda",
+      "numero": 16,
+      "parte": null,
       "date": "Viernes, 02/08/2024",
       "fecha": "2024-08-02",
       "anio": "2024",
@@ -794,11 +936,19 @@
           "duracion": 76,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 321,
+        "repaso": 398,
+        "revision": 321,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 19,
       "title": "17° Tanda",
+      "numero": 17,
+      "parte": null,
       "date": "Domingo, 18/08/2024",
       "fecha": "2024-08-18",
       "anio": "2024",
@@ -866,11 +1016,19 @@
           "duracion": 98,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 442,
+        "repaso": 406,
+        "revision": 442,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 20,
       "title": "18° Tanda",
+      "numero": 18,
+      "parte": null,
       "date": "Miércoles, 04/09/2024",
       "fecha": "2024-09-04",
       "anio": "2024",
@@ -910,11 +1068,19 @@
           "duracion": 98,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 267,
+        "repaso": 375,
+        "revision": 267,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 21,
       "title": "19° Tanda",
+      "numero": 19,
+      "parte": null,
       "date": "Viernes, 20/09/2024",
       "fecha": "2024-09-20",
       "anio": "2024",
@@ -968,11 +1134,19 @@
           "duracion": 44,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 283,
+        "repaso": 460,
+        "revision": 283,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 22,
       "title": "20° Tanda",
+      "numero": 20,
+      "parte": null,
       "date": "Martes, 08/10/2024",
       "fecha": "2024-10-08",
       "anio": "2024",
@@ -1012,11 +1186,19 @@
           "duracion": 88,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 211,
+        "repaso": 387,
+        "revision": 211,
+        "diasRepaso": 19
+      }
     },
     {
       "id": 23,
       "title": "21° Tanda",
+      "numero": 21,
+      "parte": null,
       "date": "Domingo, 27/10/2024",
       "fecha": "2024-10-27",
       "anio": "2024",
@@ -1084,11 +1266,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 491,
+        "repaso": 403,
+        "revision": 491,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 24,
       "title": "22° Tanda",
+      "numero": 22,
+      "parte": null,
       "date": "Martes, 12/11/2024",
       "fecha": "2024-11-12",
       "anio": "2024",
@@ -1156,11 +1346,19 @@
           "duracion": 90,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 386,
+        "repaso": 292,
+        "revision": 386,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 25,
       "title": "23° Tanda",
+      "numero": 23,
+      "parte": null,
       "date": "Jueves, 28/11/2024",
       "fecha": "2024-11-28",
       "anio": "2024",
@@ -1214,11 +1412,19 @@
           "duracion": 44,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 293,
+        "repaso": 239,
+        "revision": 293,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 26,
       "title": "24° Tanda",
+      "numero": 24,
+      "parte": null,
       "date": "Miércoles, 11/12/2024",
       "fecha": "2024-12-11",
       "anio": "2024",
@@ -1272,11 +1478,19 @@
           "duracion": 66,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 366,
+        "repaso": 257,
+        "revision": 366,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 27,
       "title": "25a° Tanda (Gala)",
+      "numero": 25,
+      "parte": "a",
       "date": "Jueves, 26/12/2024",
       "fecha": "2024-12-26",
       "anio": "2024",
@@ -1316,11 +1530,19 @@
           "duracion": 89,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 223,
+        "repaso": 286,
+        "revision": 223,
+        "diasRepaso": 22
+      }
     },
     {
       "id": 28,
       "title": "25b° Tanda (Fin de Año)",
+      "numero": 25,
+      "parte": "b",
       "date": "Lunes, 30/12/2024",
       "fecha": "2024-12-30",
       "anio": "2024",
@@ -1360,11 +1582,19 @@
           "duracion": 97,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 267,
+        "repaso": 238,
+        "revision": 267,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 29,
       "title": "26° Tanda",
+      "numero": 26,
+      "parte": null,
       "date": "Viernes, 17/01/2025",
       "fecha": "2025-01-17",
       "anio": "2025",
@@ -1404,11 +1634,19 @@
           "duracion": 106,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 286,
+        "repaso": 431,
+        "revision": 286,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 30,
       "title": "27° Tanda",
+      "numero": 27,
+      "parte": null,
       "date": "Domingo, 02/02/2025",
       "fecha": "2025-02-02",
       "anio": "2025",
@@ -1462,11 +1700,19 @@
           "duracion": 100,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 342,
+        "repaso": 347,
+        "revision": 342,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 31,
       "title": "28° Tanda",
+      "numero": 28,
+      "parte": null,
       "date": "Lunes, 17/02/2025",
       "fecha": "2025-02-17",
       "anio": "2025",
@@ -1548,11 +1794,19 @@
           "duracion": 113,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 535,
+        "repaso": 372,
+        "revision": 535,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 32,
       "title": "29° Tanda",
+      "numero": 29,
+      "parte": null,
       "date": "Martes, 04/03/2025",
       "fecha": "2025-03-04",
       "anio": "2025",
@@ -1606,11 +1860,19 @@
           "duracion": 87,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 345,
+        "repaso": 267,
+        "revision": 345,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 33,
       "title": "30° Tanda",
+      "numero": 30,
+      "parte": null,
       "date": "Miércoles, 19/03/2025",
       "fecha": "2025-03-19",
       "anio": "2025",
@@ -1678,11 +1940,19 @@
           "duracion": 62,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 440,
+        "repaso": 274,
+        "revision": 440,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 34,
       "title": "31° Tanda",
+      "numero": 31,
+      "parte": null,
       "date": "Lunes, 31/03/2025",
       "fecha": "2025-03-31",
       "anio": "2025",
@@ -1736,11 +2006,19 @@
           "duracion": 117,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 344,
+        "repaso": 285,
+        "revision": 344,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 35,
       "title": "32° Tanda",
+      "numero": 32,
+      "parte": null,
       "date": "Martes, 15/04/2025",
       "fecha": "2025-04-15",
       "anio": "2025",
@@ -1808,11 +2086,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 397,
+        "repaso": 342,
+        "revision": 397,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 36,
       "title": "33° Tanda",
+      "numero": 33,
+      "parte": null,
       "date": "Sábado, 03/05/2025",
       "fecha": "2025-05-03",
       "anio": "2025",
@@ -1866,11 +2152,19 @@
           "duracion": 107,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 327,
+        "repaso": 293,
+        "revision": 327,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 37,
       "title": "34° Tanda",
+      "numero": 34,
+      "parte": null,
       "date": "Domingo, 18/05/2025",
       "fecha": "2025-05-18",
       "anio": "2025",
@@ -1924,11 +2218,19 @@
           "duracion": 175,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 312,
+        "repaso": 276,
+        "revision": 312,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 38,
       "title": "35° Tanda",
+      "numero": 35,
+      "parte": null,
       "date": "Martes, 03/06/2025",
       "fecha": "2025-06-03",
       "anio": "2025",
@@ -1968,11 +2270,19 @@
           "duracion": 126,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 236,
+        "repaso": 218,
+        "revision": 236,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 39,
       "title": "36° Tanda",
+      "numero": 36,
+      "parte": null,
       "date": "Domingo, 15/06/2025",
       "fecha": "2025-06-15",
       "anio": "2025",
@@ -2040,11 +2350,19 @@
           "duracion": 84,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 373,
+        "repaso": 326,
+        "revision": 373,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 40,
       "title": "37° Tanda",
+      "numero": 37,
+      "parte": null,
       "date": "Miércoles, 02/07/2025",
       "fecha": "2025-07-02",
       "anio": "2025",
@@ -2112,11 +2430,19 @@
           "duracion": 41,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 367,
+        "repaso": 301,
+        "revision": 367,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 41,
       "title": "38° Tanda",
+      "numero": 38,
+      "parte": null,
       "date": "Jueves, 17/07/2025",
       "fecha": "2025-07-17",
       "anio": "2025",
@@ -2184,11 +2510,19 @@
           "duracion": 62,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 319,
+        "repaso": 400,
+        "revision": 319,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 42,
       "title": "39° Tanda",
+      "numero": 39,
+      "parte": null,
       "date": "Sábado, 02/08/2025",
       "fecha": "2025-08-02",
       "anio": "2025",
@@ -2242,11 +2576,19 @@
           "duracion": 105,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 341,
+        "repaso": 397,
+        "revision": 341,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 43,
       "title": "40° Tanda",
+      "numero": 40,
+      "parte": null,
       "date": "Martes, 19/08/2025",
       "fecha": "2025-08-19",
       "anio": "2025",
@@ -2300,11 +2642,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 305,
+        "repaso": 386,
+        "revision": 305,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 44,
       "title": "41° Tanda",
+      "numero": 41,
+      "parte": null,
       "date": "Jueves, 04/09/2025",
       "fecha": "2025-09-04",
       "anio": "2025",
@@ -2372,11 +2722,19 @@
           "duracion": 124,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 428,
+        "repaso": 363,
+        "revision": 428,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 45,
       "title": "42° Tanda",
+      "numero": 42,
+      "parte": null,
       "date": "Sábado, 20/09/2025",
       "fecha": "2025-09-20",
       "anio": "2025",
@@ -2416,11 +2774,19 @@
           "duracion": 102,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 436,
+        "repaso": 454,
+        "revision": 436,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 46,
       "title": "43° Tanda",
+      "numero": 43,
+      "parte": null,
       "date": "Miércoles, 08/10/2025",
       "fecha": "2025-10-08",
       "anio": "2025",
@@ -2488,11 +2854,19 @@
           "duracion": 109,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 464,
+        "repaso": 322,
+        "revision": 464,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 47,
       "title": "44° Tanda",
+      "numero": 44,
+      "parte": null,
       "date": "Martes, 21/10/2025",
       "fecha": "2025-10-21",
       "anio": "2025",
@@ -2560,11 +2934,19 @@
           "duracion": 118,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 470,
+        "repaso": 244,
+        "revision": 470,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 48,
       "title": "45° Tanda",
+      "numero": 45,
+      "parte": null,
       "date": "Lunes, 03/11/2025",
       "fecha": "2025-11-03",
       "anio": "2025",
@@ -2618,11 +3000,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 361,
+        "repaso": 233,
+        "revision": 361,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 49,
       "title": "46° Tanda",
+      "numero": 46,
+      "parte": null,
       "date": "Lunes, 17/11/2025",
       "fecha": "2025-11-17",
       "anio": "2025",
@@ -2704,11 +3094,19 @@
           "duracion": 85,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 526,
+        "repaso": 405,
+        "revision": 526,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 50,
       "title": "47° Tanda",
+      "numero": 47,
+      "parte": null,
       "date": "Martes, 02/12/2025",
       "fecha": "2025-12-02",
       "anio": "2025",
@@ -2790,11 +3188,19 @@
           "duracion": 108,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 581,
+        "repaso": 288,
+        "revision": 581,
+        "diasRepaso": 11
+      }
     },
     {
       "id": 51,
       "title": "48° Tanda",
+      "numero": 48,
+      "parte": null,
       "date": "Sábado, 13/12/2025",
       "fecha": "2025-12-13",
       "anio": "2025",
@@ -2848,11 +3254,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 357,
+        "repaso": 175,
+        "revision": 357,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 52,
       "title": "49a° Tanda",
+      "numero": 49,
+      "parte": "a",
       "date": "Jueves, 25/12/2025",
       "fecha": "2025-12-25",
       "anio": "2025",
@@ -2906,11 +3320,19 @@
           "duracion": 96,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 238,
+        "repaso": 306,
+        "revision": 238,
+        "diasRepaso": 23
+      }
     },
     {
       "id": 53,
       "title": "49b° Tanda",
+      "numero": 49,
+      "parte": "b",
       "date": "Miércoles, 31/12/2025",
       "fecha": "2025-12-31",
       "anio": "2025",
@@ -2964,11 +3386,19 @@
           "duracion": 132,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 301,
+        "repaso": 215,
+        "revision": 301,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 54,
       "title": "50° Tanda",
+      "numero": 50,
+      "parte": null,
       "date": "Sábado, 17/01/2026",
       "fecha": "2026-01-17",
       "anio": "2026",
@@ -3036,11 +3466,19 @@
           "duracion": 43,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 379,
+        "repaso": 283,
+        "revision": 379,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 55,
       "title": "51° Tanda",
+      "numero": 51,
+      "parte": null,
       "date": "Sábado, 31/01/2026",
       "fecha": "2026-01-31",
       "anio": "2026",
@@ -3108,11 +3546,19 @@
           "duracion": 41,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 318,
+        "repaso": 282,
+        "revision": 318,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 56,
       "title": "52° Tanda",
+      "numero": 52,
+      "parte": null,
       "date": "Sábado, 14/02/2026",
       "fecha": "2026-02-14",
       "anio": "2026",
@@ -3180,11 +3626,19 @@
           "duracion": 120,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 428,
+        "repaso": 296,
+        "revision": 428,
+        "diasRepaso": 15
+      }
     },
     {
       "id": 57,
       "title": "53° Tanda",
+      "numero": 53,
+      "parte": null,
       "date": "Domingo, 01/03/2026",
       "fecha": "2026-03-01",
       "anio": "2026",
@@ -3252,11 +3706,19 @@
           "duracion": 121,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 415,
+        "repaso": 341,
+        "revision": 415,
+        "diasRepaso": 19
+      }
     },
     {
       "id": 58,
       "title": "54° Tanda",
+      "numero": 54,
+      "parte": null,
       "date": "Viernes, 20/03/2026",
       "fecha": "2026-03-20",
       "anio": "2026",
@@ -3324,11 +3786,19 @@
           "duracion": 59,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 523,
+        "repaso": 434,
+        "revision": 523,
+        "diasRepaso": 18
+      }
     },
     {
       "id": 59,
       "title": "55° Tanda",
+      "numero": 55,
+      "parte": null,
       "date": "Martes, 07/04/2026",
       "fecha": "2026-04-07",
       "anio": "2026",
@@ -3382,11 +3852,19 @@
           "duracion": 102,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 247,
+        "repaso": 324,
+        "revision": 247,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 60,
       "title": "56° Tanda",
+      "numero": 56,
+      "parte": null,
       "date": "Domingo, 19/04/2026",
       "fecha": "2026-04-19",
       "anio": "2026",
@@ -3454,11 +3932,19 @@
           "duracion": 129,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 440,
+        "repaso": 469,
+        "revision": 440,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 61,
       "title": "57° Tanda",
+      "numero": 57,
+      "parte": null,
       "date": "Miércoles, 06/05/2026",
       "fecha": "2026-05-06",
       "anio": "2026",
@@ -3526,11 +4012,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 399,
+        "repaso": 626,
+        "revision": 399,
+        "diasRepaso": 23
+      }
     },
     {
       "id": 62,
       "title": "58° Tanda",
+      "numero": 58,
+      "parte": null,
       "date": "Viernes, 29/05/2026",
       "fecha": "2026-05-29",
       "anio": "2026",
@@ -3584,11 +4078,19 @@
           "duracion": 102,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 323,
+        "repaso": 484,
+        "revision": 323,
+        "diasRepaso": 16
+      }
     },
     {
       "id": 63,
       "title": "59° Tanda",
+      "numero": 59,
+      "parte": null,
       "date": "Domingo, 14/06/2026",
       "fecha": "2026-06-14",
       "anio": "2026",
@@ -3642,11 +4144,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 365,
+        "repaso": 392,
+        "revision": 365,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 64,
       "title": "60° Tanda",
+      "numero": 60,
+      "parte": null,
       "date": "Domingo, 28/06/2026",
       "fecha": "2026-06-28",
       "anio": "2026",
@@ -3700,11 +4210,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 306,
+        "repaso": 335,
+        "revision": 306,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 65,
       "title": "61° Tanda",
+      "numero": 61,
+      "parte": null,
       "date": "Domingo, 12/07/2026",
       "fecha": "2026-07-12",
       "anio": "2026",
@@ -3772,11 +4290,19 @@
           "duracion": 103,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 393,
+        "repaso": 426,
+        "revision": 393,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 66,
       "title": "62° Tanda",
+      "numero": 62,
+      "parte": null,
       "date": "Domingo, 26/07/2026",
       "fecha": "2026-07-26",
       "anio": "2026",
@@ -3844,11 +4370,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 425,
+        "repaso": 379,
+        "revision": 425,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 67,
       "title": "63° Tanda",
+      "numero": 63,
+      "parte": null,
       "date": "Sábado, 08/08/2026",
       "fecha": "2026-08-08",
       "anio": "2026",
@@ -3944,11 +4478,19 @@
           "duracion": 83,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 590,
+        "repaso": 510,
+        "revision": 590,
+        "diasRepaso": 17
+      }
     },
     {
       "id": 68,
       "title": "64° Tanda",
+      "numero": 64,
+      "parte": null,
       "date": "Martes, 25/08/2026",
       "fecha": "2026-08-25",
       "anio": "2026",
@@ -4030,11 +4572,19 @@
           "duracion": 61,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 453,
+        "repaso": 355,
+        "revision": 453,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 69,
       "title": "65° Tanda",
+      "numero": 65,
+      "parte": null,
       "date": "Lunes, 07/09/2026",
       "fecha": "2026-09-07",
       "anio": "2026",
@@ -4116,11 +4666,19 @@
           "duracion": 109,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 358,
+        "repaso": 437,
+        "revision": 358,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 70,
       "title": "66° Tanda",
+      "numero": 66,
+      "parte": null,
       "date": "Lunes, 21/09/2026",
       "fecha": "2026-09-21",
       "anio": "2026",
@@ -4202,11 +4760,19 @@
           "duracion": 119,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 488,
+        "repaso": 436,
+        "revision": 488,
+        "diasRepaso": 14
+      }
     },
     {
       "id": 71,
       "title": "67° Tanda",
+      "numero": 67,
+      "parte": null,
       "date": "Lunes, 05/10/2026",
       "fecha": "2026-10-05",
       "anio": "2026",
@@ -4274,11 +4840,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 367,
+        "repaso": 342,
+        "revision": 367,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 72,
       "title": "68° Tanda",
+      "numero": 68,
+      "parte": null,
       "date": "Sábado, 17/10/2026",
       "fecha": "2026-10-17",
       "anio": "2026",
@@ -4346,11 +4920,19 @@
           "duracion": 118,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 469,
+        "repaso": 376,
+        "revision": 469,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 73,
       "title": "69° Tanda",
+      "numero": 69,
+      "parte": null,
       "date": "Jueves, 29/10/2026",
       "fecha": "2026-10-29",
       "anio": "2026",
@@ -4432,11 +5014,19 @@
           "duracion": 104,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 451,
+        "repaso": 374,
+        "revision": 451,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 74,
       "title": "70° Tanda",
+      "numero": 70,
+      "parte": null,
       "date": "Miércoles, 11/11/2026",
       "fecha": "2026-11-11",
       "anio": "2026",
@@ -4504,11 +5094,19 @@
           "duracion": 123,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 416,
+        "repaso": 339,
+        "revision": 416,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 75,
       "title": "71° Tanda",
+      "numero": 71,
+      "parte": null,
       "date": "Martes, 24/11/2026",
       "fecha": "2026-11-24",
       "anio": "2026",
@@ -4590,11 +5188,19 @@
           "duracion": 123,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 506,
+        "repaso": 373,
+        "revision": 506,
+        "diasRepaso": 13
+      }
     },
     {
       "id": 76,
       "title": "72° Tanda",
+      "numero": 72,
+      "parte": null,
       "date": "Lunes, 07/12/2026",
       "fecha": "2026-12-07",
       "anio": "2026",
@@ -4676,11 +5282,19 @@
           "duracion": 68,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 645,
+        "repaso": 312,
+        "revision": 645,
+        "diasRepaso": 12
+      }
     },
     {
       "id": 77,
       "title": "73a° Tanda",
+      "numero": 73,
+      "parte": "a",
       "date": "Sábado, 19/12/2026",
       "fecha": "2026-12-19",
       "anio": "2026",
@@ -4706,11 +5320,19 @@
           "duracion": 41,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 41,
+        "repaso": 99,
+        "revision": 41,
+        "diasRepaso": 27
+      }
     },
     {
       "id": 78,
       "title": "73b° Tanda (Navidad)",
+      "numero": 73,
+      "parte": "b",
       "date": "Viernes, 25/12/2026",
       "fecha": "2026-12-25",
       "anio": "2026",
@@ -4750,11 +5372,19 @@
           "duracion": 106,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 241,
+        "repaso": 541,
+        "revision": 241,
+        "diasRepaso": 21
+      }
     },
     {
       "id": 79,
       "title": "73c° Tanda (Fin de Año)",
+      "numero": 73,
+      "parte": "c",
       "date": "Jueves, 31/12/2026",
       "fecha": "2026-12-31",
       "anio": "2026",
@@ -4780,7 +5410,13 @@
           "duracion": 97,
           "duracionEstimada": false
         }
-      ]
+      ],
+      "ingles": {
+        "vista": 97,
+        "repaso": 84,
+        "revision": 97,
+        "diasRepaso": 15
+      }
     }
   ]
 }

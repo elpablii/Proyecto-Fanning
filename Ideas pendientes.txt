@@ -1,0 +1,73 @@
+IDEAS PENDIENTES DEL PROYECTO FANNING
+(anotadas el 14/10/2026)
+
+============================================================
+1. REFORMAR LA PÁGINA DE REGLAS  [HECHO el 14/10/2026]
+============================================================
+Hoy /reglas solo enumera las reglas. La idea es convertirla en algo más
+completo, por ejemplo:
+- Explicar el porqué de cada regla, no solo cuál es.
+- Explicar la metodología: cómo se cuentan las líneas de diálogo y las
+  palabras, y cómo se calcula el nivel MCER (ya está escrito en Metodología/).
+- Contar la historia del proyecto: cuándo empezó, los ciclos y las tandas.
+- Explicar la realeza: reyes, reinas, reyes supremos, amores platónicos y el
+  "Indulto Real".
+- Explicar el orden canónico de las tandas y la regla de las "Dos sesiones"
+  (más de 5 horas).
+- Hacerla navegable: índice lateral, secciones plegables y ejemplos con
+  títulos reales.
+
+============================================================
+2. REFORMAR EL GRÁFICO "EVOLUCIÓN DEL VOCABULARIO" (inicio)  [HECHO el 14/10/2026]
+============================================================
+Problema: muestra por año las barras "Líneas de Diálogo" (verde) y "Palabras
+Aprendidas" (morado) en el mismo eje. Las líneas son unas 160.000 y las
+palabras unas 10.000, así que la barra morada casi no se ve. Además, 2027
+sale casi vacío y no dice nada útil.
+Ideas:
+- Separar las dos métricas en ejes o gráficos distintos, o mostrar un
+  cociente (palabras nuevas por cada 1.000 líneas = qué tan "difícil" fue
+  el año).
+- Hacerlo por tanda o por mes en vez de por año, con una línea acumulada de
+  palabras aprendidas.
+- Mostrar la evolución del nivel MCER promedio en el tiempo.
+- Mostrar el año en curso como parcial ("en curso") o proyectado.
+
+============================================================
+3. REYES Y REINAS EN LA PÁGINA
+============================================================
+Base:
+- contenido/realeza.json: nombre, si es rey o reina, rango (rey supremo o
+  amor platónico), id de TMDB de la persona y foto.
+- "python fanning.py reparto": pide a TMDB el reparto de cada título, lo
+  cruza con la lista y deja "realeza": [...] en cada ficha. Los cantantes
+  (documentales y conciertos) se agregan a mano.
+Ideas para mostrarlos:
+1. Página /realeza: galería por secciones (reyes supremos, amores
+   platónicos, el resto), con los títulos, palabras y horas de cada artista.
+2. Página por artista (/realeza/margot-robbie): su filmografía en el
+   proyecto, sus métricas, flashcards con todo su vocabulario y el contenido
+   de Contenidos/*.md.
+3. Insignias con corona o corazón en cada película o serie, que llevan a la
+   página del artista.
+4. Filtro en el inicio y en el buscador por artista; el buscador también
+   encuentra personas.
+5. Marcar en la línea de tiempo las tandas con alguien de la realeza
+   ("Tanda real").
+6. Grafo de conexiones entre artistas por los títulos que comparten.
+7. "Reina o rey del día" en el inicio.
+8. Ranking: quién te enseñó más palabras, quién habla más rápido y quién
+   tiene el inglés más difícil.
+
+============================================================
+4. OTRAS IDEAS PARA LA PÁGINA
+============================================================
+- Flashcards con repetición espaciada y repaso diario mezclando títulos.
+- Modo quiz: una línea del diálogo con una palabra marcada y opciones de
+  significado.
+- Palabra en contexto: mostrar la frase de los subtítulos donde apareció.
+- Gráfico de la evolución del nivel MCER y de las palabras nuevas por tanda.
+- Rachas y logros ("10 tandas seguidas", "1.000 palabras", "primera C1").
+- Lista de pendientes (lo proyectado o tentativo de Contenidos/*.md).
+- Comparar dos títulos lado a lado.
+- Paleta de color por título sacada de su póster.
