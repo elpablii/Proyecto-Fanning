@@ -1,6 +1,31 @@
 {
   "title": "Taylor Swift Miss Americana",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.67,
+    "senales": {
+      "vocabulario": 3.94,
+      "dialogos": 3.16,
+      "temas": 3.44
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.5,
+        "A2": 11.5,
+        "B1": 24.0,
+        "B2": 35.1,
+        "C1": 10.1,
+        "C2": 7.7
+      },
+      "densidad": 13.7
+    },
+    "dialogos": {
+      "cobertura95": 2.86,
+      "ppm": 179.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "Muestra un inglés americano contemporáneo muy personal e íntimo. El vocabulario incluye términos del mundo de la música, la fama, redes sociales y política ('songwriting', 'backlash', 'approval', 'midterms'). Además, se utiliza mucha jerga de internet y expresiones de vulnerabilidad emocional.",
   "tmdb": {
     "overview": "En este revelador documental, Taylor Swift asume plenamente su rol de compositora y artista, y deja en evidencia su capacidad de expresarse sin mordaza.",

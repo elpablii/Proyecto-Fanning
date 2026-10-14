@@ -1,6 +1,31 @@
 {
   "title": "Barry",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.69,
+    "senales": {
+      "vocabulario": 3.76,
+      "dialogos": 3.37,
+      "temas": 3.93
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.9,
+        "A2": 7.6,
+        "B1": 15.2,
+        "B2": 35.5,
+        "C1": 16.0,
+        "C2": 16.9
+      },
+      "densidad": 6.3
+    },
+    "dialogos": {
+      "cobertura95": 3.14,
+      "ppm": 173.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Centrada en los años universitarios de Barack Obama, ofrece un vistazo a la vida en los campus estadounidenses en los 80. Presenta vocabulario académico, discusiones sobre identidad, y un marcado contraste entre el habla intelectual y la jerga de Nueva York.",
   "tmdb": {
     "overview": "A young Barack Obama forges his identity while dealing with race, divergent cultures and ordinary life as a New York City college student.",

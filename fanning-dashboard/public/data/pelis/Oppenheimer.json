@@ -1,6 +1,34 @@
 {
   "title": "Oppenheimer",
-  "level": "C1",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.42,
+    "senales": {
+      "vocabulario": 4.36,
+      "dialogos": 3.7,
+      "temas": 5.83
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.2,
+        "A2": 6.7,
+        "B1": 22.6,
+        "B2": 26.1,
+        "C1": 16.2,
+        "C2": 18.2
+      },
+      "densidad": 11.7
+    },
+    "dialogos": {
+      "cobertura95": 3.65,
+      "ppm": 158.8
+    },
+    "temas": [
+      "científica y técnica",
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "La película presenta un inglés americano culto y académico, ambientado en las décadas de 1930 a 1950. Utiliza mucho vocabulario científico y de física cuántica ('fission', 'isotope', 'uranium'), además de terminología militar y política ('clearance', 'communist', 'security'). Excelente para practicar inglés formal, debates éticos y vocabulario técnico avanzado.",
   "tmdb": {
     "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",

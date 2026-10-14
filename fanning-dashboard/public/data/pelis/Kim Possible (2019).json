@@ -1,6 +1,31 @@
 {
   "title": "Kim Possible (2019)",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.88,
+    "senales": {
+      "vocabulario": 4.16,
+      "dialogos": 3.33,
+      "temas": 3.66
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.8,
+        "A2": 11.3,
+        "B1": 14.3,
+        "B2": 26.6,
+        "C1": 13.8,
+        "C2": 18.2
+      },
+      "densidad": 13.6
+    },
+    "dialogos": {
+      "cobertura95": 3.66,
+      "ppm": 128.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés adolescente moderno mezclado con terminología de espías y agentes secretos. Gran uso de jerga escolar ('drama', 'locker', 'cheerleader') y frases de acción tipo superhéroe.",
   "tmdb": {
     "overview": "Kim Possible (Sadie Stanley) es una chica normal y corriente que se dedica a salvar al mundo en su tiempo libre. Con la ayuda de su mejor amigo, Ron Stoppable (Sean Giambrone), pelea contra villanos y hace frente a un sinfín de amenazas.",

@@ -1,6 +1,33 @@
 {
   "title": "Rambo Last Blood",
   "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 2.86,
+    "senales": {
+      "vocabulario": 2.86,
+      "dialogos": 2.01,
+      "temas": 4.24
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.6,
+        "A2": 22.7,
+        "B1": 13.6,
+        "B2": 22.7,
+        "C1": 18.2,
+        "C2": 9.1
+      },
+      "densidad": 2.9
+    },
+    "dialogos": {
+      "cobertura95": 1.85,
+      "ppm": 167.8
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Una evolución del personaje hacia un entorno de rancho y carteles fronterizos. Mezcla de inglés texano/fronterizo, Spanglish ('cartel', 'border', 'tunnels') y el clásico lenguaje táctico y de venganza.",
   "tmdb": {
     "overview": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla.",

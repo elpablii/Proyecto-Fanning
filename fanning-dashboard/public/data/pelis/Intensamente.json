@@ -1,6 +1,31 @@
 {
   "title": "Intensamente",
   "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.33,
+    "senales": {
+      "vocabulario": 3.37,
+      "dialogos": 3.27,
+      "temas": 3.29
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 18.6,
+        "A2": 14.2,
+        "B1": 19.5,
+        "B2": 26.5,
+        "C1": 9.7,
+        "C2": 11.5
+      },
+      "densidad": 8.2
+    },
+    "dialogos": {
+      "cobertura95": 2.86,
+      "ppm": 187.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una joya para aprender vocabulario emocional. El inglés es cotidiano, veloz y aborda directamente terminología sobre la mente humana, sentimientos abstractos (alegría, tristeza) y dinámicas familiares.",
   "tmdb": {
     "overview": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",

@@ -1,6 +1,31 @@
 {
   "title": "Rocky II",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.69,
+    "senales": {
+      "vocabulario": 3.98,
+      "dialogos": 3.1,
+      "temas": 3.53
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.2,
+        "A2": 10.3,
+        "B1": 24.5,
+        "B2": 22.1,
+        "C1": 17.2,
+        "C2": 11.8
+      },
+      "densidad": 11.2
+    },
+    "dialogos": {
+      "cobertura95": 2.74,
+      "ppm": 183.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "El inglés de Rocky es muy representativo del acento de clase trabajadora de Filadelfia. Caracterizado por oraciones cortas, pronunciación arrastrada y vocabulario directo. Abunda la jerga de boxeo ('heavyweight', 'southpaw', 'jab') y expresiones motivacionales crudas.",
   "tmdb": {
     "overview": "Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pronto, el «Maestro del Desastre» y el «Semental italiano» se pone en un camino del enfrentamiento para una batalla culminante que es brutal e inolvidable.",

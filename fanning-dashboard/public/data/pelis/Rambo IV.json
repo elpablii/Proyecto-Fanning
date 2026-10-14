@@ -1,6 +1,31 @@
 {
   "title": "Rambo IV",
-  "level": "B1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.43,
+    "senales": {
+      "vocabulario": 3.73,
+      "dialogos": 2.36,
+      "temas": 4.0
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.0,
+        "A2": 8.0,
+        "B1": 8.0,
+        "B2": 32.0,
+        "C1": 20.0,
+        "C2": 20.0
+      },
+      "densidad": 5.5
+    },
+    "dialogos": {
+      "cobertura95": 2.74,
+      "ppm": 124.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Lenguaje extremadamente crudo, parco y violento. Diálogos muy breves, vocabulario relacionado con mercenarios, genocidio, tácticas de guerra modernas y armamento pesado.",
   "tmdb": {
     "overview": "John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendrá más remedio que volver a involucrarse. Se verá obligado a hacer lo que mejor sabe porque, muy a su pesar, lleva la guerra en la sangre.",

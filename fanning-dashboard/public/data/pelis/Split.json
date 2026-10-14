@@ -1,6 +1,31 @@
 {
   "title": "Split",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.54,
+    "senales": {
+      "vocabulario": 3.76,
+      "dialogos": 2.8,
+      "temas": 3.9
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.8,
+        "A2": 14.6,
+        "B1": 11.0,
+        "B2": 24.4,
+        "C1": 20.7,
+        "C2": 19.5
+      },
+      "densidad": 6.4
+    },
+    "dialogos": {
+      "cobertura95": 2.78,
+      "ppm": 156.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un desafío fascinante: el actor principal cambia constantemente de acento, vocabulario y tono de voz (desde un niño hasta un líder culto y una bestia). Excelente para la psicología y la inflexión de voz.",
   "tmdb": {
     "overview": "Tres niñas son secuestradas por un hombre al que se le diagnosticó 23 personalidades distintas. Deben tratar de escapar antes de la aparente aparición de un espantoso nuevo 24.",

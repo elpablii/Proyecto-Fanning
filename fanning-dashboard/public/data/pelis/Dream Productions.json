@@ -1,6 +1,35 @@
 {
   "title": "Dream Productions",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.01,
+    "senales": {
+      "vocabulario": 4.26,
+      "dialogos": 3.39,
+      "temas": 4.2
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.4,
+        "A2": 6.6,
+        "B1": 13.9,
+        "B2": 27.9,
+        "C1": 18.9,
+        "C2": 25.4
+      },
+      "densidad": 8.1
+    },
+    "dialogos": {
+      "cobertura95": 3.14,
+      "ppm": 174.8
+    },
+    "temas": [],
+    "rango": [
+      "B1-B2",
+      "B2-C1"
+    ]
+  },
   "englishAnalysis": "El vocabulario de Dream Productions destaca por su jerga relacionada a la producción audiovisual (guiones, cámaras, dirección), expresiones preadolescentes, y términos del entorno laboral hiperactivo.",
   "tmdb": {
     "overview": "Riley crece y cuando sus recuerdos necesitan un procesamiento extra, Joy y el resto de las emociones los envían a Producciones de Ensueño. Ahí, la aclamada directora Paula Persimmon se enfrenta a su propia pesadilla: crear el próximo sueño de éxito trabajando en equipo con Xeni, un presumido director de sueños despiertos que busca dar el salto a las grandes ligas de los sueños nocturnos.",
@@ -37,7 +66,32 @@
     {
       "code": "S01E01",
       "name": "Dream Productions (Episode 1)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.58,
+        "senales": {
+          "vocabulario": 3.68,
+          "dialogos": 3.3,
+          "temas": 3.67
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.3,
+            "A2": 13.3,
+            "B1": 13.3,
+            "B2": 30.0,
+            "C1": 13.3,
+            "C2": 16.7
+          },
+          "densidad": 7.7
+        },
+        "dialogos": {
+          "cobertura95": 3.02,
+          "ppm": 177.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "And cue glitter",
@@ -166,7 +220,32 @@
     {
       "code": "S01E02",
       "name": "Dream Productions (Episode 2)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.91,
+        "senales": {
+          "vocabulario": 4.06,
+          "dialogos": 3.52,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.3,
+            "A2": 10.3,
+            "B1": 10.3,
+            "B2": 24.1,
+            "C1": 27.6,
+            "C2": 17.2
+          },
+          "densidad": 8.1
+        },
+        "dialogos": {
+          "cobertura95": 3.27,
+          "ppm": 175.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Wake-ups",
@@ -291,7 +370,34 @@
     {
       "code": "S01E03",
       "name": "Dream Productions (Episode 3)",
-      "level": "C1",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.59,
+        "senales": {
+          "vocabulario": 5.07,
+          "dialogos": 3.47,
+          "temas": 4.57
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.9,
+            "A2": 2.0,
+            "B1": 15.7,
+            "B2": 25.5,
+            "C1": 17.6,
+            "C2": 35.3
+          },
+          "densidad": 12.1
+        },
+        "dialogos": {
+          "cobertura95": 3.14,
+          "ppm": 181.5
+        },
+        "temas": [
+          "inglés de época o antiguo"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Come to simmer, to steep, to brew into maturity",
@@ -504,7 +610,32 @@
     {
       "code": "S01E04",
       "name": "Dream Productions (Episode 4)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.87,
+        "senales": {
+          "vocabulario": 4.0,
+          "dialogos": 3.19,
+          "temas": 4.5
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 0.0,
+            "B1": 16.7,
+            "B2": 41.7,
+            "C1": 16.7,
+            "C2": 25.0
+          },
+          "densidad": 3.5
+        },
+        "dialogos": {
+          "cobertura95": 3.09,
+          "ppm": 163.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Sleepwalker",

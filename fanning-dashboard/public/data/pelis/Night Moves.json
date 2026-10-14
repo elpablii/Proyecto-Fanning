@@ -1,6 +1,31 @@
 {
   "title": "Night Moves",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.68,
+    "senales": {
+      "vocabulario": 4.04,
+      "dialogos": 2.47,
+      "temas": 4.27
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.2,
+        "A2": 2.9,
+        "B1": 14.6,
+        "B2": 21.3,
+        "C1": 23.4,
+        "C2": 27.6
+      },
+      "densidad": 5.7
+    },
+    "dialogos": {
+      "cobertura95": 2.8,
+      "ppm": 128.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un thriller psicológico protagonizado por eco-terroristas. El vocabulario incluye terminología agrícola, activismo y manipulación de explosivos. El inglés suele ser susurrado, tenso y directo, reflejando la paranoia constante.",
   "tmdb": {
     "overview": "The story about three radical environmentalists coming together to execute the most intense protest of their lives: the explosion of a hydroelectric dam.",

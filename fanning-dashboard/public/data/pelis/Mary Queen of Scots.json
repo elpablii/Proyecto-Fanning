@@ -1,6 +1,33 @@
 {
   "title": "Mary Queen of Scots",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.16,
+    "senales": {
+      "vocabulario": 4.37,
+      "dialogos": 3.85,
+      "temas": 3.87
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.7,
+        "A2": 9.9,
+        "B1": 22.5,
+        "B2": 26.6,
+        "C1": 14.4,
+        "C2": 18.9
+      },
+      "densidad": 19.8
+    },
+    "dialogos": {
+      "cobertura95": 3.56,
+      "ppm": 178.1
+    },
+    "temas": [
+      "inglés de época o antiguo"
+    ]
+  },
   "englishAnalysis": "Una excelente oportunidad para exponerse al inglés antiguo, formal y monárquico del siglo XVI ('treason', 'sovereign', 'heir', 'realm'). Predominan los acentos británicos y escoceses, lo que supone un reto fantástico para el oído, lleno de intrigas políticas y religiosas.",
   "tmdb": {
     "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",

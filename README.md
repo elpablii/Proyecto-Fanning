@@ -8,7 +8,7 @@ Registro de inmersión en inglés: películas y series vistas, sus líneas de di
 |---|---|---|
 | `Vocabularios/<año>/` | PDFs con las palabras y frases desconocidas de cada título | Sí |
 | `Diálogos/` | PDFs con los subtítulos de cada título | Sí |
-| `contenido/titulos/` | Una **ficha** por película o serie: nivel, clasificación, id de TMDB, análisis, imágenes y qué PDFs le corresponden | Sí |
+| `contenido/titulos/` | Una **ficha** por película o serie: clasificación, id de TMDB, análisis, imágenes y qué PDFs le corresponden. El nivel de inglés **no** se escribe: se calcula (ver `Metodología/Criterio de nivel de inglés (MCER).txt`) | Sí |
 | `contenido/tandas.json` | La línea de tiempo | Sí |
 | `Metodología/` | Cómo se cuentan las líneas de diálogo y las palabras | Sí |
 | `fanning-dashboard/public/data/` | Todo lo que lee la página | **No**: lo genera `fanning.py` |
@@ -38,7 +38,7 @@ Ejemplo: agregar *Intensamente*, vista en 2024.
 
 3. **Completar la ficha y traer las imágenes**
 
-   Abre la ficha y completa `"nivel"` (A1 a C2, o un rango como `"B1-B2"`), `"clasificacion"` (`TE`, `TE+7`, `+14` o `+18`) y `"analisis"`. Busca el id en [themoviedb.org](https://www.themoviedb.org) (es el número de la dirección de la película) y trae las imágenes:
+   Abre la ficha y completa `"clasificacion"` (`TE`, `TE+7`, `+14` o `+18`) y `"analisis"`. Busca el id en [themoviedb.org](https://www.themoviedb.org) (es el número de la dirección de la película) y trae las imágenes:
    ```
    python fanning.py imagenes "Intensamente" --id 150540
    ```
@@ -48,7 +48,7 @@ Ejemplo: agregar *Intensamente*, vista en 2024.
    ```
    python fanning.py actualizar
    ```
-   Si algo de una ficha está mal (un PDF que no existe, un nivel no válido, un JSON mal escrito), se detiene y explica qué corregir. Con `--probar` muestra qué cambiaría sin escribir nada.
+   Cuenta las palabras y las líneas y calcula el nivel de inglés (MCER) de cada película, serie y episodio. Si algo de una ficha está mal (un PDF que no existe, un JSON mal escrito), se detiene y explica qué corregir. Con `--probar` muestra qué cambiaría sin escribir nada.
 
 Para ver qué datos les faltan a las fichas: `python fanning.py pendientes`. Si no sabes el id de TMDB, `python fanning.py ids` lo busca y `python fanning.py ids --guardar` guarda los que confirma (cuando el póster de TMDB es el mismo de la ficha).
 

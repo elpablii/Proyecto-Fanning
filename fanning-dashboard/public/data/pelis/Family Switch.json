@@ -1,6 +1,33 @@
 {
   "title": "Family Switch",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.15,
+    "senales": {
+      "vocabulario": 4.35,
+      "dialogos": 3.76,
+      "temas": 4.0
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.0,
+        "A2": 7.7,
+        "B1": 10.2,
+        "B2": 33.4,
+        "C1": 12.0,
+        "C2": 24.6
+      },
+      "densidad": 10.4
+    },
+    "dialogos": {
+      "cobertura95": 3.42,
+      "ppm": 182.2
+    },
+    "temas": [
+      "científica y técnica"
+    ]
+  },
   "englishAnalysis": "Una comedia familiar llena de humor situacional y un inglés muy cotidiano y coloquial. Es ideal para aprender jerga moderna, modismos familiares y expresiones adolescentes, ya que los personajes se ven forzados a usar vocabulario de diferentes generaciones.",
   "tmdb": {
     "overview": "Una familia se hunde en el caos cuando un suceso cósmico intercambia el cuerpo de los padres con los de sus hijos adolescentes poco antes de Navidad.",

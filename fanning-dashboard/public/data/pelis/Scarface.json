@@ -1,6 +1,31 @@
 {
   "title": "Scarface",
-  "level": "C1",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.04,
+    "senales": {
+      "vocabulario": 3.24,
+      "dialogos": 2.36,
+      "temas": 3.42
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 22.5,
+        "A2": 11.2,
+        "B1": 13.6,
+        "B2": 32.5,
+        "C1": 11.2,
+        "C2": 8.9
+      },
+      "densidad": 7.5
+    },
+    "dialogos": {
+      "cobertura95": 2.24,
+      "ppm": 164.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un clásico del cine criminal de los años 80. El lenguaje es extremadamente explícito, agresivo y dominado por el denso acento cubano-americano de Tony Montana. Abunda la jerga criminal, los insultos creativos y expresiones de poder. No apta para oídos sensibles, pero excelente para captar acentos fuertes.",
   "tmdb": {
     "overview": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",

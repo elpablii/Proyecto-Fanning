@@ -1,6 +1,31 @@
 {
   "title": "Alvin y las Ardillas",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.63,
+    "senales": {
+      "vocabulario": 3.85,
+      "dialogos": 3.06,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.9,
+        "A2": 10.9,
+        "B1": 16.8,
+        "B2": 21.8,
+        "C1": 17.8,
+        "C2": 17.8
+      },
+      "densidad": 8.8
+    },
+    "dialogos": {
+      "cobertura95": 3.1,
+      "ppm": 151.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Gran desafío auditivo por las voces agudas distorsionadas de las ardillas. Vocabulario de la industria musical, fama rápida y lenguaje cotidiano de la costa oeste americana.",
   "tmdb": {
     "overview": "Después de probar suerte con un desesperanzado compositor, tres ardillas muy peculiares, Alvin, Simon y Theodore, deciden hacer de la casa de Dave la suya propia. Enseguida las ardillas se dan cuenta de la necesidad de convencer a Dave de que las deje vivir en su casa para demostrarle que no sólo pueden andar como una persona…¡sino que pueden cantar! No tardarán en revelarse como la sensación musical del momento, mientras Dave se convierte en algo más que en su compositor; en su padre. Los problemas comienzan cuando las ardillas comienzan a darse cuenta de su éxito y se rebelan contra Dave.",

@@ -1,6 +1,31 @@
 {
   "title": "Wonka",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.21,
+    "senales": {
+      "vocabulario": 4.35,
+      "dialogos": 3.94,
+      "temas": 4.13
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.4,
+        "A2": 9.1,
+        "B1": 10.0,
+        "B2": 24.5,
+        "C1": 19.5,
+        "C2": 26.4
+      },
+      "densidad": 9.3
+    },
+    "dialogos": {
+      "cobertura95": 3.96,
+      "ppm": 153.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un inglés británico mágico y encantador. Lleno de vocabulario descriptivo relacionado con la confitería, los sueños y la imaginación. Diálogos excéntricos y pronunciación muy clara al estilo teatral.",
   "tmdb": {
     "overview": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",

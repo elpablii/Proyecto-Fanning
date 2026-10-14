@@ -1,6 +1,33 @@
 {
   "title": "Taken II",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 2.84,
+    "senales": {
+      "vocabulario": 2.94,
+      "dialogos": 2.19,
+      "temas": 3.54
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.6,
+        "A2": 18.8,
+        "B1": 6.2,
+        "B2": 37.5,
+        "C1": 9.4,
+        "C2": 12.5
+      },
+      "densidad": 3.5
+    },
+    "dialogos": {
+      "cobertura95": 2.15,
+      "ppm": 158.2
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Ambientada en Estambul, mantiene la jerga de espionaje, tácticas evasivas y comunicación por radio ('coordinates', 'radius', 'grenade') bajo presión extrema.",
   "tmdb": {
     "overview": "Aunque ya está retirado, Bryan Mills se ve obligado a utilizar todos sus recursos y habilidades de agente de la CIA para salvar tanto la vida de su mujer y de su hija como la suya propia. El padre de uno de los secuestradores albaneses que lo tuvieron en jaque en el primer film jura vengarse y aprovecha las vacaciones de la familia Mills en Estambul para llevar a cabo su plan. Una vez más parece que subestiman al ex agente de la CIA.",

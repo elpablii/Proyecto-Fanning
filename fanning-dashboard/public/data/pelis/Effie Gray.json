@@ -1,6 +1,31 @@
 {
   "title": "Effie Gray",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.4,
+    "senales": {
+      "vocabulario": 4.84,
+      "dialogos": 3.36,
+      "temas": 4.34
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 4.7,
+        "A2": 5.5,
+        "B1": 16.0,
+        "B2": 27.6,
+        "C1": 16.6,
+        "C2": 29.5
+      },
+      "densidad": 11.6
+    },
+    "dialogos": {
+      "cobertura95": 3.15,
+      "ppm": 171.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un drama de época victoriano con un inglés sumamente refinado, poético y muy formal. Incluye vocabulario avanzado relacionado con el arte, el matrimonio en la alta sociedad, la arquitectura y las presiones sociales. Recomendado para un nivel literario avanzado.",
   "tmdb": {
     "overview": "Inglaterra: era victoriana, con 19 años Eufemia \"Effie\" Gray se ha casado con el historiador de arte y crítico John Ruskin, pero se niega a consumar su matrimonio. Solitaria y frustrada Effie se ve atraída por el pintor pre-Rafaelita John Everett Millais, y encuentra un amiga y defensora en Lady Elizabeth Eastlake. Después de cinco años atrapados en un matrimonio sin amor, Effie desafiará las reglas de la sociedad victoriana.",

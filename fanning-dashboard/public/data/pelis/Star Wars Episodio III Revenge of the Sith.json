@@ -1,6 +1,33 @@
 {
   "title": "Star Wars Episodio III Revenge of the Sith",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.6,
+    "senales": {
+      "vocabulario": 3.75,
+      "dialogos": 3.13,
+      "temas": 3.78
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.8,
+        "A2": 8.6,
+        "B1": 19.4,
+        "B2": 35.5,
+        "C1": 12.9,
+        "C2": 11.8
+      },
+      "densidad": 8.4
+    },
+    "dialogos": {
+      "cobertura95": 3.25,
+      "ppm": 145.7
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "El punto álgido del lenguaje diplomático, trágico y oscuro de las precuelas. Diálogos casi shakesperianos ('treason', 'absolutes', 'democracy') y confrontaciones intensas.",
   "tmdb": {
     "overview": "Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus cenizas surge el malvado Imperio Galáctico. El héroe Jedi Anakin Skywalker es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador: Darth Vader. Los Jedi están diezmados, mientras Obi-Wan Kenobi y el Maestro Jedi Yoda son forzados a esconderse. La única esperanza para la galaxia es la descendencia de Anakin: los hijos gemelos nacidos en secreto que crecerán y se convertirán en héroes.",

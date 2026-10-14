@@ -1,6 +1,31 @@
 {
   "title": "Unknown",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.55,
+    "senales": {
+      "vocabulario": 3.62,
+      "dialogos": 3.06,
+      "temas": 4.12
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.5,
+        "A2": 11.5,
+        "B1": 11.5,
+        "B2": 15.4,
+        "C1": 19.2,
+        "C2": 30.8
+      },
+      "densidad": 2.4
+    },
+    "dialogos": {
+      "cobertura95": 3.08,
+      "ppm": 153.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Con base en los diálogos del documento 'Dialogues from Unknown to improve the vocabulary in English.pdf', este thriller presenta un vocabulario lleno de tensión y lenguaje relacionado con la identidad. Encontrarás diálogos directos, expresiones de misterio y términos vinculados a la investigación criminal.",
   "tmdb": {
     "overview": "Un hombre se despierta de un coma, solo para descubrir que alguien ha tomado su identidad y que nadie, ni siquiera su esposa, le cree. Con la ayuda de una joven, se propone probar quién es.",

@@ -1,6 +1,33 @@
 {
   "title": "Viena and the Fantomes",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.13,
+    "senales": {
+      "vocabulario": 3.03,
+      "dialogos": 2.77,
+      "temas": 4.13
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 17.5,
+        "A2": 13.1,
+        "B1": 4.4,
+        "B2": 40.6,
+        "C1": 13.1,
+        "C2": 11.4
+      },
+      "densidad": 2.7
+    },
+    "dialogos": {
+      "cobertura95": 2.98,
+      "ppm": 138.5
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Inglés de la escena musical underground/punk de los años 80. Lenguaje nómada, drogas, rebelión y arte, con acentos americanos desaliñados y poco articulados.",
   "tmdb": {
     "overview": "Una adolescente inicia un viaje de autodescubrimiento y supervivencia como parte de un convoy de una banda de punk, a través de Estados Unidos en los años 80.",

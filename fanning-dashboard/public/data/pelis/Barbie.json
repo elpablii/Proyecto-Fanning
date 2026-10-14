@@ -1,6 +1,31 @@
 {
   "title": "Barbie",
-  "level": "B1-B2",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.65,
+    "senales": {
+      "vocabulario": 4.01,
+      "dialogos": 2.83,
+      "temas": 3.61
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.0,
+        "A2": 10.3,
+        "B1": 19.8,
+        "B2": 33.1,
+        "C1": 12.0,
+        "C2": 12.8
+      },
+      "densidad": 10.8
+    },
+    "dialogos": {
+      "cobertura95": 2.74,
+      "ppm": 161.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "La película presenta un inglés mayormente americano con un tono muy moderno, optimista y pop. Utiliza vocabulario relacionado con el empoderamiento, conceptos existenciales ('patriarchy', 'cognitive dissonance', 'fascism') mezclados con términos superficiales y corporativos. Destaca por el contraste entre el lenguaje inocente de Barbieland y el inglés del mundo real corporativo.",
   "tmdb": {
     "overview": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",

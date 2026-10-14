@@ -1,6 +1,33 @@
 {
   "title": "Los Increibles",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.06,
+    "senales": {
+      "vocabulario": 4.37,
+      "dialogos": 3.45,
+      "temas": 3.87
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.7,
+        "A2": 10.6,
+        "B1": 15.7,
+        "B2": 29.2,
+        "C1": 16.7,
+        "C2": 18.1
+      },
+      "densidad": 16.2
+    },
+    "dialogos": {
+      "cobertura95": 3.37,
+      "ppm": 161.7
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework', 'grounded', 'allowance') con terminología de superhéroes y espionaje ('secret identity', 'gadget', 'monologue', 'syndrome').",
   "tmdb": {
     "overview": "Una familia de superhéroes encubiertos, mientras intentan vivir la tranquila vida suburbana, se ven obligados a entrar en acción para salvar el mundo.",

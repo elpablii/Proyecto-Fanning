@@ -1,6 +1,31 @@
 {
   "title": "Z for Zachariah",
-  "level": "B1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.37,
+    "senales": {
+      "vocabulario": 3.92,
+      "dialogos": 2.04,
+      "temas": 3.42
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.8,
+        "A2": 14.0,
+        "B1": 20.9,
+        "B2": 32.6,
+        "C1": 10.5,
+        "C2": 9.3
+      },
+      "densidad": 12.0
+    },
+    "dialogos": {
+      "cobertura95": 2.13,
+      "ppm": 147.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama post-apocalíptico con pocos personajes. El inglés es tenso, pausado y con un fuerte acento rural del sur profundo de EE.UU. Vocabulario centrado en la supervivencia, la religión y el trabajo agrícola.",
   "tmdb": {
     "overview": "In the wake of a nuclear war, a young woman survives on her own, fearing she may actually be the proverbial last woman on earth, until she discovers the most astonishing sight of her life: another human being. A distraught scientist, he’s nearly been driven mad by radiation exposure and his desperate search for others. A fragile, imperative strand of trust connects them. But when a stranger enters the valley, their precarious bond begins to unravel.",

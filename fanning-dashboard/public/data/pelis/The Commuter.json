@@ -1,6 +1,34 @@
 {
   "title": "The Commuter",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.52,
+    "senales": {
+      "vocabulario": 3.38,
+      "dialogos": 3.62,
+      "temas": 3.91
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 18.8,
+        "A2": 11.5,
+        "B1": 14.6,
+        "B2": 22.9,
+        "C1": 16.7,
+        "C2": 15.6
+      },
+      "densidad": 6.3
+    },
+    "dialogos": {
+      "cobertura95": 3.12,
+      "ppm": 196.3
+    },
+    "temas": [
+      "militar y policial",
+      "financiera y empresarial"
+    ]
+  },
   "englishAnalysis": "Un thriller de acción que transcurre en un tren. El inglés es rápido, cotidiano e incluye lenguaje propio de neoyorquinos de clase trabajadora, así como terminología policial, de extorsión y diálogos directos de alta intensidad emocional.",
   "tmdb": {
     "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",

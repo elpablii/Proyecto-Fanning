@@ -1,6 +1,31 @@
 {
   "title": "Tall Girl II",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.44,
+    "senales": {
+      "vocabulario": 3.44,
+      "dialogos": 3.26,
+      "temas": 3.75
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.4,
+        "A2": 11.4,
+        "B1": 9.3,
+        "B2": 38.4,
+        "C1": 17.7,
+        "C2": 11.7
+      },
+      "densidad": 5.1
+    },
+    "dialogos": {
+      "cobertura95": 3.02,
+      "ppm": 174.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Mantiene el vocabulario adolescente de la primera entrega, pero añade términos relacionados con la presión de estar en el centro de atención, el teatro escolar y la ansiedad, con expresiones juveniles frescas y muy actualizadas.",
   "tmdb": {
     "overview": "Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.",

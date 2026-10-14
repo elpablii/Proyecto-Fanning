@@ -1,6 +1,31 @@
 {
   "title": "Slaughterhouse Rulez",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.3,
+    "senales": {
+      "vocabulario": 4.59,
+      "dialogos": 3.7,
+      "temas": 4.15
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.3,
+        "A2": 4.9,
+        "B1": 13.0,
+        "B2": 27.2,
+        "C1": 20.1,
+        "C2": 24.5
+      },
+      "densidad": 11.1
+    },
+    "dialogos": {
+      "cobertura95": 3.73,
+      "ppm": 152.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Jerga juvenil británica moderna de internado ('posh' y popular) mezclada absurdamente con terminología de terror, monstruos y gore. Excelente para entender la irreverencia británica.",
   "tmdb": {
     "overview": "Slaughterhouse es un internado de élite en el que se prepara a los jóvenes para el poder y la grandeza. Sin embargo, un inesperado acontecimiento sacudirá literalmente los cimientos de su mundo.",

@@ -1,6 +1,31 @@
 {
   "title": "Taken III",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.17,
+    "senales": {
+      "vocabulario": 3.17,
+      "dialogos": 2.89,
+      "temas": 3.6
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 20.0,
+        "A2": 6.7,
+        "B1": 15.0,
+        "B2": 28.3,
+        "C1": 11.7,
+        "C2": 18.3
+      },
+      "densidad": 4.2
+    },
+    "dialogos": {
+      "cobertura95": 2.64,
+      "ppm": 175.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "Sigue la línea de acción directa, pero con más jerga policial y de investigaciones de la policía de Los Ángeles ('LAPD', 'suspect', 'warrant') mientras el protagonista es perseguido.",
   "tmdb": {
     "overview": "La vida del ex-agente especial Bryan Mills (Liam Neeson) se ve inesperadamente truncada tras el brutal asesinato de su ex mujer. Tras ser acusado de su muerte, se ve obligado a huir de la implacable persecución de la CIA, el FBI y la policía. Una vez más, deberá usar sus “habilidades especiales” para hacer justicia, dar caza a los verdaderos asesinos y proteger lo único que le queda en la vida: su hija.",

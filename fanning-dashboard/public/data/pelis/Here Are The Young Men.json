@@ -1,6 +1,33 @@
 {
   "title": "Here Are The Young Men",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.28,
+    "senales": {
+      "vocabulario": 3.46,
+      "dialogos": 2.59,
+      "temas": 3.74
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.6,
+        "A2": 9.3,
+        "B1": 17.4,
+        "B2": 46.5,
+        "C1": 15.5,
+        "C2": 5.6
+      },
+      "densidad": 5.4
+    },
+    "dialogos": {
+      "cobertura95": 2.8,
+      "ppm": 138.0
+    },
+    "temas": [
+      "drogas y calle"
+    ]
+  },
   "englishAnalysis": "Drama crudo situado en Irlanda. El vocabulario incluye fuerte jerga adolescente irlandesa, modismos de Dublín y expresiones de alienación, rebeldía y violencia. Requiere oído afinado para el acento irlandés.",
   "tmdb": {
     "overview": "Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.",

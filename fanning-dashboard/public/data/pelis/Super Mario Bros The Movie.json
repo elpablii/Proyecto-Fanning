@@ -1,6 +1,33 @@
 {
   "title": "Super Mario Bros The Movie",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.87,
+    "senales": {
+      "vocabulario": 3.65,
+      "dialogos": 4.27,
+      "temas": 4.07
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.8,
+        "A2": 14.0,
+        "B1": 9.3,
+        "B2": 26.4,
+        "C1": 17.1,
+        "C2": 25.3
+      },
+      "densidad": 4.2
+    },
+    "dialogos": {
+      "cobertura95": 4.77,
+      "ppm": 105.9
+    },
+    "temas": [
+      "inglés de época o antiguo"
+    ]
+  },
   "englishAnalysis": "Animación hiper-dinámica. Inglés americano estándar muy claro con bromas constantes, vocabulario de Brooklyn exagerado, términos de fontanería y del universo Nintendo.",
   "tmdb": {
     "overview": "Mientras trabaja bajo tierra para arreglar una tubería de agua, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una misteriosa tubería y llegan a un nuevo mundo mágico.",

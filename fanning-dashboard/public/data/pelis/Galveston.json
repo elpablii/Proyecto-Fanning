@@ -1,6 +1,33 @@
 {
   "title": "Galveston",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.73,
+    "senales": {
+      "vocabulario": 3.8,
+      "dialogos": 3.15,
+      "temas": 4.42
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.0,
+        "A2": 8.8,
+        "B1": 15.6,
+        "B2": 32.4,
+        "C1": 18.0,
+        "C2": 13.2
+      },
+      "densidad": 8.0
+    },
+    "dialogos": {
+      "cobertura95": 3.4,
+      "ppm": 135.4
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Un inglés crudo y oscuro del sur de Estados Unidos (Texas/Louisiana). Acentos fuertes, lenguaje callejero, jerga criminal ('hitman', 'setup') y diálogos melancólicos.",
   "tmdb": {
     "overview": "Después de escapar de una emboscada, un sicario enfermo vuelve a su ciudad natal de Galveston donde planea su venganza. Roy Cady es un asesino a sueldo en New Orleans al que le fue diagnosticado cáncer de pulmón a los 40 años. Ante la sospecha de que su jefe quiere eliminarle, Roy trata de huir hacia el horizonte desconocido. En su camino, se encontrará con una joven desamparada que le da la oportunidad de darle un nuevo sentido a su vida… Basada en la novela del creador de ‘True Detective’.",

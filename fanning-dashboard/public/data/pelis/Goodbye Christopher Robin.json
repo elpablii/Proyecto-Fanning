@@ -1,6 +1,31 @@
 {
   "title": "Goodbye Christopher Robin",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.72,
+    "senales": {
+      "vocabulario": 4.0,
+      "dialogos": 3.2,
+      "temas": 3.5
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.4,
+        "A2": 14.4,
+        "B1": 17.3,
+        "B2": 26.4,
+        "C1": 15.9,
+        "C2": 11.5
+      },
+      "densidad": 11.7
+    },
+    "dialogos": {
+      "cobertura95": 2.88,
+      "ppm": 180.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una película británica con un inglés elegante, formal y nostálgico. Ideal para sumergirse en acentos de clase alta de principios del siglo XX ('RP' o Received Pronunciation), vocabulario relacionado con la literatura, la infancia y las secuelas psicológicas de la guerra.",
   "tmdb": {
     "overview": "Entre bastidores la historia de la vida de A.A. Milne y la creación de Winnie ¡Qué va! las historias inspiradas por su hijo Christopher Robin.",

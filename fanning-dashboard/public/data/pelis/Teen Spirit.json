@@ -1,6 +1,31 @@
 {
   "title": "Teen Spirit",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.46,
+    "senales": {
+      "vocabulario": 3.49,
+      "dialogos": 3.23,
+      "temas": 3.71
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 17.8,
+        "A2": 7.6,
+        "B1": 10.2,
+        "B2": 32.5,
+        "C1": 14.0,
+        "C2": 18.0
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 3.35,
+      "ppm": 145.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "En esta película protagonizada por Elle Fanning, se destaca el acento británico (particularmente el de la Isla de Wight) combinado con algo de vocabulario de la industria musical y los concursos de talentos. Es una buena oportunidad para acostumbrar el oído al acento inglés más rural y coloquial frente al estándar, además de captar la jerga juvenil de los aspirantes a cantantes.",
   "tmdb": {
     "overview": "Violet (Fanning) es una introvertida adolescente que vive en la Isla de Wight (Inglaterra) y que sueña con convertise en una estrella del Pop para poder así alejarse de tu triste panorama familiar. Con la ayuda de un inesperado mentor, Violet se inscribe en un concurso de canto que pondrá a prueba su integridad, talento y ambición.",

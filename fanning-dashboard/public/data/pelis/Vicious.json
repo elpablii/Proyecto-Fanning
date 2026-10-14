@@ -1,6 +1,31 @@
 {
   "title": "Vicious",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.08,
+    "senales": {
+      "vocabulario": 2.97,
+      "dialogos": 3.12,
+      "temas": 3.47
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.3,
+        "A2": 11.3,
+        "B1": 16.2,
+        "B2": 47.5,
+        "C1": 7.5,
+        "C2": 6.0
+      },
+      "densidad": 2.7
+    },
+    "dialogos": {
+      "cobertura95": 3.42,
+      "ppm": 130.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Terror moderno (o corto). Lenguaje contemporáneo muy coloquial, con frases cortas dictadas por el pánico y vocabulario relacionado con el aislamiento en un apartamento y fenómenos extraños.",
   "tmdb": {
     "overview": "Cuando Polly recibe una misteriosa caja de una inesperada visitante nocturna, viene con la simple instrucción de colocar tres cosas dentro: algo que necesites, algo que odies y algo que ames. Lo que comienza como un extraño ritual se convierte rápidamente en una pesadilla. Atrapada en un mundo aterrador donde la realidad se tuerce y la memoria la traiciona, Polly debe tomar una serie de decisiones imposibles. A medida que el tiempo se escapa, se ve obligada a enfrentarse a la oscuridad no sólo a su alrededor, sino también en su interior, antes de que consuma todo y a todos los que ha conocido.",

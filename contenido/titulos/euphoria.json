@@ -1,7 +1,6 @@
 {
   "titulo": "Euphoria",
   "tipo": "serie",
-  "nivel": "B2/C1",
   "clasificacion": "+18",
   "tmdb": {
     "tipo": "tv",
@@ -37,118 +36,100 @@
   "episodios": {
     "S01E01": {
       "nombre": "S01E01 - Pilot",
-      "nivel": "B2",
       "titulo": "Pilot",
       "foto": "https://image.tmdb.org/t/p/w500/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg"
     },
     "S01E02": {
       "nombre": "S01E02 - Stunting Like My Daddy",
-      "nivel": "B2",
       "titulo": "Stuntin' Like My Daddy",
       "foto": "https://image.tmdb.org/t/p/w500/4NCKs8RMxevYrBzuqGI4usEprUL.jpg"
     },
     "S01E03": {
       "nombre": "S01E03 - Made Y ou Look",
-      "nivel": "B2",
       "titulo": "Made You Look",
       "foto": "https://image.tmdb.org/t/p/w500/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg"
     },
     "S01E04": {
       "nombre": "S01E04 - Shook One Part II",
-      "nivel": "B2",
       "titulo": "Shook Ones Pt. II",
       "foto": "https://image.tmdb.org/t/p/w500/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg"
     },
     "S01E05": {
       "nombre": "S01E05 - ‘03 Bonnie and Clyde",
-      "nivel": "B2",
       "titulo": "'03 Bonnie and Clyde",
       "foto": "https://image.tmdb.org/t/p/w500/3ff187LdnqgrrOQWlzGShPR5sLS.jpg"
     },
     "S01E06": {
       "nombre": "S01E06 - The Next Episode",
-      "nivel": "B2",
       "titulo": "The Next Episode",
       "foto": "https://image.tmdb.org/t/p/w500/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg"
     },
     "S01E07": {
       "nombre": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
-      "nivel": "B2",
       "titulo": "The Trials and Tribulations of Trying to Pee While Depressed",
       "foto": "https://image.tmdb.org/t/p/w500/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg"
     },
     "S01E08": {
       "nombre": "S01E08 - And Salt the Earth Behind You",
-      "nivel": "B2",
       "titulo": "And Salt the Earth Behind You",
       "foto": "https://image.tmdb.org/t/p/w500/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg"
     },
     "SP01": {
       "nombre": "Special 1 - Trouble Don't Last Always",
-      "nivel": "B2",
       "titulo": "Trouble Don't Last Always",
       "foto": "https://image.tmdb.org/t/p/w500/dCsnXTTON8okknDoMyhxQJEdcFm.jpg",
       "sinopsis": "Después de que Jules la dejara en la estación de tren y recayera, Rue celebra la Navidad."
     },
     "SP02": {
       "nombre": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
-      "nivel": "B2",
       "titulo": "F**k Anyone Who's Not a Sea Blob",
       "foto": "https://image.tmdb.org/t/p/w500/8aRLfI2AfZZPHISaGqPkrrj0xwH.jpg",
       "sinopsis": "Durante las vacaciones de Navidad, Jules reflexiona sobre el año."
     },
     "S02E01": {
       "nombre": "S02E01 - Trying to Get to Heaven Before They Close the Door",
-      "nivel": "B2",
       "titulo": "Trying to Get to Heaven Before They Close the Door",
       "foto": "https://image.tmdb.org/t/p/w500/8rW1LANR14YRkT8poSziWOiRa5U.jpg",
       "sinopsis": "En la víspera de Año Nuevo se saldan viejas cuentas y se establecen nuevas conexiones."
     },
     "S02E02": {
       "nombre": "S02E02 - Out of Touch",
-      "nivel": "B2",
       "titulo": "Out of Touch",
       "foto": "https://image.tmdb.org/t/p/w500/nee4LaQLFGSiMeBomd3xKjj9ysI.jpg",
       "sinopsis": "Con el inicio del nuevo semestre, Jules cuestiona la nueva amistad de Rue y Elliot mientras Cal busca respuestas."
     },
     "S02E03": {
       "nombre": "S02E03 - Ruminations: Big and Little Bullys",
-      "nivel": "B2",
       "titulo": "Ruminations: Big and Little Bullys",
       "foto": "https://image.tmdb.org/t/p/w500/nibFSc6mQLHeFAkfKEifnObtYRR.jpg",
       "sinopsis": "Rue emprende un nuevo negocio, Cassie se adapta a la rutina y Cal encuentra un objetivo."
     },
     "S02E04": {
       "nombre": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
-      "nivel": "B2",
       "titulo": "You Who Cannot See, Think of Those Who Can",
       "foto": "https://image.tmdb.org/t/p/w500/nuTsLlLNacklbITyQPRvKOAtXlg.jpg",
       "sinopsis": "Jules y Elliot se acercan, Maddy celebra su cumpleaños y Cal hace un viaje por el callejón de los recuerdos."
     },
     "S02E05": {
       "nombre": "S02E05 - Stand Still Like a Hummingbird",
-      "nivel": "B2",
       "titulo": "Stand Still Like the Hummingbird",
       "foto": "https://image.tmdb.org/t/p/w500/muzj1UxcvashpXQGwpAXDtRJf98.jpg",
       "sinopsis": "El destino tiene una forma de alcanzar a aquellos que intentan escapar de él."
     },
     "S02E06": {
       "nombre": "S02E06 - A Thousand Little Trees of Blood",
-      "nivel": "B2",
       "titulo": "A Thousand Little Trees of Blood",
       "foto": "https://image.tmdb.org/t/p/w500/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg",
       "sinopsis": "Rue intenta recuperarse, Lexi se cuestiona la puesta en escena de su obra y Nate celebra su nueva libertad."
     },
     "S02E07": {
       "nombre": "S02E07 - The Theater and It’s Double",
-      "nivel": "B2",
       "titulo": "The Theater and Its Double",
       "foto": "https://image.tmdb.org/t/p/w500/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg",
       "sinopsis": "El arte imita a la vida cuando todos en East Highland ven reflejada su complicada dinámica en la esperada obra de Lexi."
     },
     "S02E08": {
       "nombre": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
-      "nivel": "B2",
       "titulo": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
       "foto": "https://image.tmdb.org/t/p/w500/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
       "sinopsis": "A medida que avanza el espectáculo, fragmentos de recuerdos chocan con el presente y el futuro."

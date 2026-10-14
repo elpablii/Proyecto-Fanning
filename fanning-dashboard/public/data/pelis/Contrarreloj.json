@@ -1,6 +1,33 @@
 {
   "title": "Contrarreloj",
-  "level": "B1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.47,
+    "senales": {
+      "vocabulario": 3.45,
+      "dialogos": 3.23,
+      "temas": 3.95
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.3,
+        "A2": 9.3,
+        "B1": 18.6,
+        "B2": 25.6,
+        "C1": 14.0,
+        "C2": 23.3
+      },
+      "densidad": 3.0
+    },
+    "dialogos": {
+      "cobertura95": 3.6,
+      "ppm": 125.5
+    },
+    "temas": [
+      "financiera y empresarial"
+    ]
+  },
   "englishAnalysis": "Un thriller lleno de tensión con Liam Neeson. El inglés es asertivo, rápido y lleno de vocabulario relacionado con bombas, extorsiones policiales, vehículos y persecuciones. Ideal para practicar escucha bajo presión.",
   "tmdb": {
     "overview": "Matt Turner es un hombre de negocios estadounidense que vive en Berlín y que, en el transcurso de un día, se encuentra en una carrera contrarreloj para salvar a su familia y su propia vida. Cuando lleva a sus hijos a la escuela, Matt recibe una llamada telefónica, una voz misteriosa le advierte que su vehículo está lleno de explosivos. Para proteger a su familia y resolver el misterio, Matt debe seguir las instrucciones del extraño y realizar una serie de tareas a contrarreloj.",

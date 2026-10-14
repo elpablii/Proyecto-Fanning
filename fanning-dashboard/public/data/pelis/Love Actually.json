@@ -1,6 +1,31 @@
 {
   "title": "Love Actually",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.78,
+    "senales": {
+      "vocabulario": 4.18,
+      "dialogos": 2.62,
+      "temas": 4.07
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.5,
+        "A2": 6.9,
+        "B1": 14.3,
+        "B2": 30.7,
+        "C1": 13.8,
+        "C2": 24.9
+      },
+      "densidad": 8.5
+    },
+    "dialogos": {
+      "cobertura95": 2.99,
+      "ppm": 125.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un clásico moderno que sirve como una clase maestra en los diferentes acentos británicos. La película presenta desde el RP (Received Pronunciation) del Primer Ministro, hasta acentos más coloquiales. Su vocabulario abarca situaciones románticas, laborales y familiares.",
   "tmdb": {
     "overview": "Sigue la vida de ocho parejas muy diferentes en su vida amorosa en varios cuentos vagamente interrelacionados, todos ambientados durante un mes frenético antes de la Navidad en Londres, Inglaterra.",

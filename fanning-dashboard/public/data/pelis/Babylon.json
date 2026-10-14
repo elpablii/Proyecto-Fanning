@@ -1,6 +1,31 @@
 {
   "title": "Babylon",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.14,
+      "dialogos": 3.05,
+      "temas": 3.89
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.7,
+        "A2": 10.7,
+        "B1": 15.3,
+        "B2": 25.6,
+        "C1": 17.7,
+        "C2": 20.0
+      },
+      "densidad": 9.6
+    },
+    "dialogos": {
+      "cobertura95": 2.88,
+      "ppm": 168.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ambientada en los años 20 durante la transición del cine mudo al sonoro, el lenguaje de esta película es frenético, crudo y lleno de excesos. Abunda la jerga de la industria cinematográfica temprana, expresiones de asombro y desesperación, y un ritmo de diálogo extremadamente rápido que pondrá a prueba tu comprensión auditiva en situaciones caóticas.",
   "tmdb": {
     "overview": "Una historia de ambición descomunal y exceso escandaloso, que rastrea el ascenso y la caída de múltiples personajes en una era de decadencia y depravación desenfrenada durante la transición de Hollywood del cine mudo al cine sonoro a fines de la década de 1920.",

@@ -1,6 +1,31 @@
 {
   "title": "Emergency",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.6,
+    "senales": {
+      "vocabulario": 3.37,
+      "dialogos": 4.05,
+      "temas": 3.77
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.8,
+        "A2": 15.1,
+        "B1": 8.9,
+        "B2": 22.7,
+        "C1": 21.3,
+        "C2": 18.1
+      },
+      "densidad": 4.4
+    },
+    "dialogos": {
+      "cobertura95": 3.57,
+      "ppm": 193.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "",
   "tmdb": {
     "overview": "Listos para una noche de fiesta, un grupo de estudiantes universitarios latinos debe sopesar los pros y los contras de llamar a la policía cuando se enfrenta a una emergencia.",

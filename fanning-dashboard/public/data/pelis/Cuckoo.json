@@ -1,6 +1,33 @@
 {
   "title": "Cuckoo",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.93,
+    "senales": {
+      "vocabulario": 3.95,
+      "dialogos": 3.67,
+      "temas": 4.25
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.6,
+        "A2": 2.7,
+        "B1": 19.5,
+        "B2": 35.9,
+        "C1": 12.3,
+        "C2": 19.9
+      },
+      "densidad": 7.4
+    },
+    "dialogos": {
+      "cobertura95": 3.76,
+      "ppm": 148.2
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Terror psicológico con una interesante mezcla de inglés hablado por europeos (alemanes). Vocabulario de aislamiento, misterio biológico y jerga adolescente americana desubicada.",
   "tmdb": {
     "overview": "Después de verse obligada a mudarse a los Alpes alemanes con su padre y su nueva familia, Gretchen, una joven de 17 años,  descubre que su nueva ciudad no es lo que parece, ya que está plagada de ruidos extraños y visiones aterradoras de una mujer que la persigue.",

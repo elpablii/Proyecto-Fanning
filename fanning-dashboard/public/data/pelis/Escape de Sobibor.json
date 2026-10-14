@@ -1,6 +1,33 @@
 {
   "title": "Escape de Sobibor",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.27,
+    "senales": {
+      "vocabulario": 3.12,
+      "dialogos": 3.11,
+      "temas": 4.17
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.7,
+        "A2": 15.2,
+        "B1": 16.4,
+        "B2": 38.9,
+        "C1": 5.8,
+        "C2": 11.9
+      },
+      "densidad": 4.7
+    },
+    "dialogos": {
+      "cobertura95": 3.26,
+      "ppm": 143.4
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Drama bélico duro ambientado en la Segunda Guerra Mundial. Acentos eslavos y alemanes fuertemente fingidos hablando en inglés. Vocabulario carcelario, militar y de supervivencia cruda.",
   "tmdb": {
     "overview": "The secret Nazi death camp at Sobibor was created solely for the mass extermination of Jews. But on the 14th October 1943, in one of the biggest and most successful prison revolts of WWII, the inmates fought back.",

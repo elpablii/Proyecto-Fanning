@@ -5,7 +5,7 @@ Una ficha por película o serie, con todo lo que se edita a mano:
 {
   "titulo": "Intensamente",
   "tipo": "pelicula",                      # "pelicula" o "serie"
-  "nivel": "B1",
+  "nivel_fijo": "",                       # opcional: fuerza un nivel; si está vacío se usa el calculado
   "clasificacion": "TE",                   # TE, TE+7, +14, +18
   "tmdb": {"tipo": "movie", "id": 150540}, # o null si todavía no se sabe
   "analisis": "…",
@@ -15,7 +15,7 @@ Una ficha por película o serie, con todo lo que se edita a mano:
     "dialogos": ["Diálogos/…pdf", {"ruta": "Diálogos/…pdf", "episodio": "SP01"}]
   },
   "episodios": {                           # solo series; la clave es el código del episodio
-    "S01E01": {"nombre": "S01E01 - Pilot", "nivel": "B2", "analisis": "",
+    "S01E01": {"nombre": "S01E01 - Pilot", "analisis": "",
                "titulo": "Pilot", "foto": "https://…", "sinopsis": "…",
                "tmdb": {"tipo": "movie", "id": 784047}}   # solo si TMDB lo tiene como película aparte
   }
@@ -37,7 +37,7 @@ CARPETA = os.path.join(RAIZ, 'contenido', 'titulos')
 TANDAS = os.path.join(RAIZ, 'contenido', 'tandas.json')
 NIVELES = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'}
 CLASIFICACIONES = {'TE', 'TE+7', '+14', '+18'}
-ORDEN = ['titulo', 'tipo', 'nivel', 'clasificacion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
+ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
          'fotos', 'pdfs', 'episodios']
 
 
@@ -102,11 +102,11 @@ def validar(ficha, archivo):
             errores.append(f'{t}: el episodio "{k}" debe tener el formato S01E01 (o SP01 para especiales).')
     if not pdfs.get('dialogos'):
         avisos.append(f'{t}: sin PDF de diálogos (se mostrará con 0 líneas).')
-    nivel = ficha.get('nivel')
-    if not nivel:
-        avisos.append(f'{t}: falta "nivel" (se mostrará B2).')
-    elif not set(re.split(r'[/-]', nivel)) <= NIVELES:
-        errores.append(f'{t}: el nivel "{nivel}" no es válido (usa A1, A2, B1, B2, C1, C2 o rangos como B1-B2).')
+    # El nivel MCER lo calcula nivel.py; "nivel_fijo" solo sirve para forzar uno a mano.
+    fijos = [(t, ficha.get('nivel_fijo'))] + [(f'{t} {k}', e.get('nivel_fijo')) for k, e in (ficha.get('episodios') or {}).items()]
+    for donde, nivel in fijos:
+        if nivel and not set(re.split(r'[/-]', nivel)) <= NIVELES:
+            errores.append(f'{donde}: el nivel_fijo "{nivel}" no es válido (usa A1, A2, B1, B2, C1, C2 o rangos como B1-B2).')
     if not ficha.get('clasificacion'):
         avisos.append(f'{t}: falta "clasificacion" (se mostrará TE).')
     elif ficha['clasificacion'] not in CLASIFICACIONES:

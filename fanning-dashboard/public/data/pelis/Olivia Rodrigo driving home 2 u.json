@@ -1,6 +1,31 @@
 {
   "title": "Olivia Rodrigo driving home 2 u",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.61,
+    "senales": {
+      "vocabulario": 3.87,
+      "dialogos": 2.81,
+      "temas": 3.88
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.0,
+        "A2": 10.3,
+        "B1": 16.7,
+        "B2": 26.9,
+        "C1": 21.8,
+        "C2": 15.4
+      },
+      "densidad": 7.5
+    },
+    "dialogos": {
+      "cobertura95": 2.77,
+      "ppm": 157.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés juvenil contemporáneo, muy documental e introspectivo. Está lleno de lenguaje emocional real sobre la composición musical, las presiones de la fama y reflexiones adolescentes.",
   "tmdb": {
     "overview": "Documental sobre la producción del álbum \"SOUR\" de Olivia Rodrigo.",

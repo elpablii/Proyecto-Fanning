@@ -1,6 +1,31 @@
 {
   "title": "Once Upon a Time in Hollywood",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.8,
+    "senales": {
+      "vocabulario": 4.12,
+      "dialogos": 3.14,
+      "temas": 3.62
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.3,
+        "A2": 11.2,
+        "B1": 17.1,
+        "B2": 28.7,
+        "C1": 13.2,
+        "C2": 15.5
+      },
+      "densidad": 11.9
+    },
+    "dialogos": {
+      "cobertura95": 2.96,
+      "ppm": 169.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una obra maestra de Quentin Tarantino que captura perfectamente el argot californiano de finales de los años 60. Lleno de expresiones de la cultura hippie ('groovy', 'far out'), jerga de la industria cinematográfica de Hollywood ('stunt double', 'leading man', 'spaghetti western') y diálogos conversacionales fluidos.",
   "tmdb": {
     "overview": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",

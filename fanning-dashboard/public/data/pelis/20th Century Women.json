@@ -1,6 +1,33 @@
 {
   "title": "20th Century Women",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.4,
+    "senales": {
+      "vocabulario": 3.6,
+      "dialogos": 2.6,
+      "temas": 3.91
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.0,
+        "A2": 7.5,
+        "B1": 10.0,
+        "B2": 28.7,
+        "C1": 16.2,
+        "C2": 22.5
+      },
+      "densidad": 5.1
+    },
+    "dialogos": {
+      "cobertura95": 2.54,
+      "ppm": 160.2
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Ubicada a finales de los años 70 en California. Es perfecta para explorar el vocabulario sobre feminismo, cultura punk y la contracultura de la época. El inglés es coloquial e intelectual, reflejando las enormes brechas generacionales.",
   "tmdb": {
     "overview": "La historia de tres mujeres que exploran el amor y la libertad en California durante los años 70.",

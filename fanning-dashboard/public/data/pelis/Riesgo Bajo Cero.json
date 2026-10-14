@@ -1,6 +1,31 @@
 {
   "title": "Riesgo Bajo Cero",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.35,
+    "senales": {
+      "vocabulario": 4.42,
+      "dialogos": 4.42,
+      "temas": 3.98
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 12.3,
+        "B1": 12.5,
+        "B2": 35.8,
+        "C1": 16.6,
+        "C2": 17.4
+      },
+      "densidad": 11.1
+    },
+    "dialogos": {
+      "cobertura95": 4.36,
+      "ppm": 159.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Thiller de acción con lenguaje utilitario, técnico y centrado en la supervivencia. Vocabulario de maquinaria pesada, transporte de hielo, clima extremo y sabotajes.",
   "tmdb": {
     "overview": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir.",

@@ -1,6 +1,31 @@
 {
   "title": "Harold and The Purple Crayon",
-  "level": "A2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.64,
+    "senales": {
+      "vocabulario": 3.79,
+      "dialogos": 2.91,
+      "temas": 4.26
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.0,
+        "A2": 4.0,
+        "B1": 14.0,
+        "B2": 28.0,
+        "C1": 20.0,
+        "C2": 26.0
+      },
+      "densidad": 3.8
+    },
+    "dialogos": {
+      "cobertura95": 2.83,
+      "ppm": 161.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Lenguaje sumamente claro, imaginativo y accesible. Al estar orientado a un público familiar, el inglés es muy descriptivo y enfocado en colores, creatividad y emociones básicas.",
   "tmdb": {
     "overview": "Dentro de su libro, el aventurero Harold puede hacer que cualquier cosa cobre vida simplemente dibujándola. Cuando crece y se dibuja a sí mismo fuera de las páginas del libro, Harold descubre que tiene mucho que aprender sobre la vida real.",

@@ -1,6 +1,31 @@
 {
   "title": "Toy Story III",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.24,
+    "senales": {
+      "vocabulario": 4.49,
+      "dialogos": 3.6,
+      "temas": 4.29
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.2,
+        "A2": 2.6,
+        "B1": 9.6,
+        "B2": 26.1,
+        "C1": 19.1,
+        "C2": 30.4
+      },
+      "densidad": 9.2
+    },
+    "dialogos": {
+      "cobertura95": 3.35,
+      "ppm": 174.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Sigue el estándar alto de Pixar: inglés americano muy inteligible que combina vocabulario de preescolar con lenguaje dramático de escape de prisión. Ideal para escuchar matices de voz.",
   "tmdb": {
     "overview": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",

@@ -1,6 +1,33 @@
 {
   "title": "La Bella Durmiente",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.33,
+    "senales": {
+      "vocabulario": 4.59,
+      "dialogos": 3.62,
+      "temas": 4.49
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.2,
+        "A2": 3.2,
+        "B1": 12.7,
+        "B2": 30.7,
+        "C1": 23.3,
+        "C2": 27.1
+      },
+      "densidad": 8.4
+    },
+    "dialogos": {
+      "cobertura95": 4.12,
+      "ppm": 107.2
+    },
+    "temas": [
+      "inglés de época o antiguo"
+    ]
+  },
   "englishAnalysis": "Un clásico de Disney que ofrece un inglés atemporal, pausado y poético. Al incluir reyes y hadas, el vocabulario es ligeramente arcaico, majestuoso y muy formal, ideal para aprender la entonación de los cuentos de hadas tradicionales.",
   "tmdb": {
     "overview": "Tras ser desairada por la familia real, un hada malévola lanza una maldición sobre una princesa que solo un príncipe puede romper, junto con la ayuda de tres hadas buenas.",

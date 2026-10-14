@@ -9,6 +9,7 @@ import { ExtraData, VocabItem } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
 import MediaHero from '@/components/media/MediaHero';
 import ImageLightbox from '@/components/media/ImageLightbox';
+import NivelMcer from '@/components/media/NivelMcer';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 
 // "S02E05" -> temporada 2, episodio 5; "SP01" -> especial 1 (temporada 0).
@@ -81,6 +82,8 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
           </div>
         )}
       </MediaHero>
+
+      {extraData?.levelDetail && <NivelMcer detalle={extraData.levelDetail} tipo="serie" />}
 
       <section className="bg-white/5 border border-white/10 p-6 sm:p-8 rounded-3xl backdrop-blur-xl mb-6">
         <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">

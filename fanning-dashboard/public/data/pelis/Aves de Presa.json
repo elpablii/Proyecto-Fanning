@@ -1,6 +1,31 @@
 {
   "title": "Aves de Presa",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.03,
+    "senales": {
+      "vocabulario": 4.17,
+      "dialogos": 3.91,
+      "temas": 3.67
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.5,
+        "A2": 10.4,
+        "B1": 18.2,
+        "B2": 29.6,
+        "C1": 10.1,
+        "C2": 18.2
+      },
+      "densidad": 14.1
+    },
+    "dialogos": {
+      "cobertura95": 3.91,
+      "ppm": 155.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Presenta un inglés americano crudo, sarcástico y lleno de jerga callejera ('goon', 'mercenary', 'bounty', 'psycho'). El ritmo es frenético, con mucho humor negro y lenguaje explícito, excelente para exponerse al argot urbano moderno y expresiones criminales informales.",
   "tmdb": {
     "overview": "Después de separarse de Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña (Cassandra Cain) del malvado rey del crimen Máscara Negra.",

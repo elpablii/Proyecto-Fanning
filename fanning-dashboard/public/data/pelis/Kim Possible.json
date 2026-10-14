@@ -1,6 +1,35 @@
 {
   "title": "Kim Possible",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.14,
+    "senales": {
+      "vocabulario": 4.37,
+      "dialogos": 3.6,
+      "temas": 4.21
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.2,
+        "A2": 7.4,
+        "B1": 12.8,
+        "B2": 28.6,
+        "C1": 18.3,
+        "C2": 25.8
+      },
+      "densidad": 8.9
+    },
+    "dialogos": {
+      "cobertura95": 3.67,
+      "ppm": 149.6
+    },
+    "temas": [],
+    "rango": [
+      "B1-B2",
+      "C1"
+    ]
+  },
   "englishAnalysis": "El lenguaje de Kim Possible presenta un vocabulario adolescente propio de la década de los 2000s, incluyendo expresiones de instituto (slang) combinadas con jerga de agentes secretos, misiones tácticas y planes malvados. Es ideal para practicar un inglés dinámico, juvenil y lleno de modismos informales.",
   "tmdb": {
     "overview": "Serie que narra las aventuras de esta heroína en miniatura que compagina sus hazañas con las clases en el instituto. Todo comienza cuando Kim publica en su web que es capaz de enfrentarse a todo. Aunque ella se refería a tareas como hacer de canguro o cortar el césped, pronto comenzará a recibir e-mails desde todos los rincones del mundo para enfrentarse a los peores villanos que intentan hacerse con el control del planeta.",
@@ -442,6 +471,33 @@
       "code": "S01E01",
       "name": "S01E01",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.22,
+        "senales": {
+          "vocabulario": 4.46,
+          "dialogos": 3.79,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.0,
+            "A2": 4.3,
+            "B1": 15.7,
+            "B2": 32.9,
+            "C1": 24.3,
+            "C2": 12.9
+          },
+          "densidad": 12.0
+        },
+        "dialogos": {
+          "cobertura95": 3.9,
+          "ppm": 146.6
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Likely",
@@ -730,7 +786,32 @@
     {
       "code": "S01E02",
       "name": "S01E02",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.51,
+        "senales": {
+          "vocabulario": 4.79,
+          "dialogos": 3.94,
+          "temas": 4.29
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 6.4,
+            "B1": 10.3,
+            "B2": 28.2,
+            "C1": 19.2,
+            "C2": 28.2
+          },
+          "densidad": 13.5
+        },
+        "dialogos": {
+          "cobertura95": 4.08,
+          "ppm": 143.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Grow (verbo)",
@@ -1052,6 +1133,31 @@
       "code": "S01E03",
       "name": "S01E03",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.08,
+        "senales": {
+          "vocabulario": 4.34,
+          "dialogos": 3.62,
+          "temas": 3.84
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.6,
+            "A2": 9.3,
+            "B1": 15.1,
+            "B2": 32.6,
+            "C1": 10.5,
+            "C2": 20.9
+          },
+          "densidad": 15.4
+        },
+        "dialogos": {
+          "cobertura95": 3.6,
+          "ppm": 156.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Dog-nappers",
@@ -1404,7 +1510,32 @@
     {
       "code": "S01E04",
       "name": "S01E04",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.43,
+        "senales": {
+          "vocabulario": 4.64,
+          "dialogos": 4.03,
+          "temas": 4.26
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.5,
+            "A2": 10.5,
+            "B1": 10.5,
+            "B2": 29.8,
+            "C1": 22.8,
+            "C2": 22.8
+          },
+          "densidad": 10.7
+        },
+        "dialogos": {
+          "cobertura95": 4.23,
+          "ppm": 139.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Steel-toe cyber-slam",
@@ -1641,7 +1772,32 @@
     {
       "code": "S01E05",
       "name": "S01E05",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.49,
+        "senales": {
+          "vocabulario": 4.6,
+          "dialogos": 4.46,
+          "temas": 4.1
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.3,
+            "A2": 8.6,
+            "B1": 9.9,
+            "B2": 24.7,
+            "C1": 14.8,
+            "C2": 29.6
+          },
+          "densidad": 14.3
+        },
+        "dialogos": {
+          "cobertura95": 4.72,
+          "ppm": 134.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Stow that gear",
@@ -1975,6 +2131,34 @@
       "code": "S01E06",
       "name": "S01E06",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.14,
+        "senales": {
+          "vocabulario": 4.34,
+          "dialogos": 3.84,
+          "temas": 3.84
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.4,
+            "A2": 9.4,
+            "B1": 25.0,
+            "B2": 18.8,
+            "C1": 18.8,
+            "C2": 18.8
+          },
+          "densidad": 11.8
+        },
+        "dialogos": {
+          "cobertura95": 4.01,
+          "ppm": 141.8
+        },
+        "temas": [
+          "financiera y empresarial",
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Major style denial",
@@ -2239,7 +2423,34 @@
     {
       "code": "S01E07",
       "name": "S01E07",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.58,
+        "senales": {
+          "vocabulario": 4.89,
+          "dialogos": 3.91,
+          "temas": 4.42
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.0,
+            "A2": 6.0,
+            "B1": 14.9,
+            "B2": 29.9,
+            "C1": 14.9,
+            "C2": 31.3
+          },
+          "densidad": 11.4
+        },
+        "dialogos": {
+          "cobertura95": 3.99,
+          "ppm": 148.7
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Ish (informal)",
@@ -2517,6 +2728,33 @@
       "code": "S01E08",
       "name": "S01E08",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.94,
+        "senales": {
+          "vocabulario": 4.14,
+          "dialogos": 3.53,
+          "temas": 3.78
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.3,
+            "A2": 10.9,
+            "B1": 23.6,
+            "B2": 29.1,
+            "C1": 12.7,
+            "C2": 16.4
+          },
+          "densidad": 10.5
+        },
+        "dialogos": {
+          "cobertura95": 3.72,
+          "ppm": 140.0
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Fussy routine",
@@ -2746,6 +2984,33 @@
       "code": "S01E09",
       "name": "S01E09",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 4.24,
+          "dialogos": 3.35,
+          "temas": 4.31
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.0,
+            "A2": 4.0,
+            "B1": 21.9,
+            "B2": 41.7,
+            "C1": 8.0,
+            "C2": 16.5
+          },
+          "densidad": 10.5
+        },
+        "dialogos": {
+          "cobertura95": 3.58,
+          "ppm": 136.3
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Slam (verbo)",
@@ -2959,6 +3224,31 @@
       "code": "S01E10",
       "name": "S01E10",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.29,
+        "senales": {
+          "vocabulario": 4.56,
+          "dialogos": 3.7,
+          "temas": 4.18
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.0,
+            "A2": 6.7,
+            "B1": 10.0,
+            "B2": 28.3,
+            "C1": 18.3,
+            "C2": 26.7
+          },
+          "densidad": 10.6
+        },
+        "dialogos": {
+          "cobertura95": 3.77,
+          "ppm": 149.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Excruciating",
@@ -3208,6 +3498,31 @@
       "code": "S01E11",
       "name": "S01E11",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.08,
+        "senales": {
+          "vocabulario": 4.2,
+          "dialogos": 3.88,
+          "temas": 3.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.3,
+            "A2": 5.0,
+            "B1": 16.7,
+            "B2": 26.7,
+            "C1": 16.7,
+            "C2": 21.7
+          },
+          "densidad": 9.7
+        },
+        "dialogos": {
+          "cobertura95": 4.0,
+          "ppm": 145.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Your lack of protective gear gave it away",
@@ -3457,6 +3772,31 @@
       "code": "S01E12",
       "name": "S01E12",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.19,
+        "senales": {
+          "vocabulario": 4.4,
+          "dialogos": 3.69,
+          "temas": 4.19
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 3.8,
+            "B1": 11.5,
+            "B2": 36.5,
+            "C1": 19.2,
+            "C2": 21.2
+          },
+          "densidad": 9.3
+        },
+        "dialogos": {
+          "cobertura95": 3.84,
+          "ppm": 143.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Slobber",
@@ -3674,6 +4014,33 @@
       "code": "S01E13",
       "name": "S01E13",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.25,
+        "senales": {
+          "vocabulario": 4.5,
+          "dialogos": 3.72,
+          "temas": 4.12
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.6,
+            "A2": 12.5,
+            "B1": 12.5,
+            "B2": 30.4,
+            "C1": 21.4,
+            "C2": 19.6
+          },
+          "densidad": 10.6
+        },
+        "dialogos": {
+          "cobertura95": 3.85,
+          "ppm": 144.3
+        },
+        "temas": [
+          "inglés de época o antiguo"
+        ]
+      },
       "vocabulary": [
         {
           "word": "This is a setback",
@@ -3907,6 +4274,31 @@
       "code": "S01E14",
       "name": "S01E14",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.97,
+        "senales": {
+          "vocabulario": 4.16,
+          "dialogos": 3.41,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.4,
+            "A2": 6.8,
+            "B1": 11.4,
+            "B2": 27.3,
+            "C1": 15.9,
+            "C2": 27.3
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.49,
+          "ppm": 148.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Haggle (verbo)",
@@ -4092,6 +4484,31 @@
       "code": "S01E15",
       "name": "S01E15",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.02,
+        "senales": {
+          "vocabulario": 4.3,
+          "dialogos": 3.43,
+          "temas": 3.88
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.8,
+            "A2": 12.5,
+            "B1": 15.6,
+            "B2": 26.6,
+            "C1": 23.4,
+            "C2": 14.1
+          },
+          "densidad": 11.0
+        },
+        "dialogos": {
+          "cobertura95": 3.54,
+          "ppm": 146.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Turn down (en términos sociales)",
@@ -4357,6 +4774,31 @@
       "code": "S01E16",
       "name": "S01E16",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.34,
+        "senales": {
+          "vocabulario": 4.51,
+          "dialogos": 3.94,
+          "temas": 4.36
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.4,
+            "A2": 4.4,
+            "B1": 8.9,
+            "B2": 35.6,
+            "C1": 26.7,
+            "C2": 20.0
+          },
+          "densidad": 8.9
+        },
+        "dialogos": {
+          "cobertura95": 4.25,
+          "ppm": 129.8
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Entree compartment",
@@ -4546,6 +4988,31 @@
       "code": "S01E17",
       "name": "S01E17",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.15,
+        "senales": {
+          "vocabulario": 4.14,
+          "dialogos": 4.28,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.8,
+            "A2": 3.9,
+            "B1": 21.6,
+            "B2": 29.4,
+            "C1": 15.7,
+            "C2": 19.6
+          },
+          "densidad": 9.0
+        },
+        "dialogos": {
+          "cobertura95": 4.39,
+          "ppm": 146.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "My iced mocha",
@@ -4758,7 +5225,32 @@
     {
       "code": "S01E18",
       "name": "S01E18",
-      "level": "B2",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.73,
+        "senales": {
+          "vocabulario": 4.99,
+          "dialogos": 4.25,
+          "temas": 4.49
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.5,
+            "A2": 6.0,
+            "B1": 11.9,
+            "B2": 17.9,
+            "C1": 32.8,
+            "C2": 26.9
+          },
+          "densidad": 13.5
+        },
+        "dialogos": {
+          "cobertura95": 4.48,
+          "ppm": 136.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "The old-fashioned way",
@@ -5036,6 +5528,33 @@
       "code": "S01E19",
       "name": "S01E19",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.76,
+        "senales": {
+          "vocabulario": 3.81,
+          "dialogos": 3.57,
+          "temas": 3.84
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.5,
+            "A2": 13.2,
+            "B1": 15.8,
+            "B2": 23.7,
+            "C1": 15.8,
+            "C2": 21.1
+          },
+          "densidad": 7.4
+        },
+        "dialogos": {
+          "cobertura95": 3.83,
+          "ppm": 134.0
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Stand ready",
@@ -5197,6 +5716,33 @@
       "code": "S01E20",
       "name": "S01E20",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.16,
+        "senales": {
+          "vocabulario": 4.16,
+          "dialogos": 4.28,
+          "temas": 3.92
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.0,
+            "A2": 10.0,
+            "B1": 13.3,
+            "B2": 33.3,
+            "C1": 20.0,
+            "C2": 13.3
+          },
+          "densidad": 10.2
+        },
+        "dialogos": {
+          "cobertura95": 4.52,
+          "ppm": 136.2
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "I’ll wreck much havoc",
@@ -5446,6 +5992,33 @@
       "code": "S01E21",
       "name": "S01E21",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.18,
+        "senales": {
+          "vocabulario": 4.41,
+          "dialogos": 3.68,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.7,
+            "A2": 8.1,
+            "B1": 11.3,
+            "B2": 33.9,
+            "C1": 6.5,
+            "C2": 30.6
+          },
+          "densidad": 10.0
+        },
+        "dialogos": {
+          "cobertura95": 3.77,
+          "ppm": 147.5
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Bellows gently",
@@ -5703,6 +6276,33 @@
       "code": "S02E01",
       "name": "S02E01",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.25,
+        "senales": {
+          "vocabulario": 4.19,
+          "dialogos": 3.97,
+          "temas": 4.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 8.1,
+            "B1": 13.5,
+            "B2": 35.1,
+            "C1": 21.6,
+            "C2": 21.6
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 3.86,
+          "ppm": 164.0
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Overall",
@@ -5860,6 +6460,31 @@
       "code": "S02E02",
       "name": "S02E02",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.66,
+        "senales": {
+          "vocabulario": 3.67,
+          "dialogos": 3.53,
+          "temas": 3.86
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.4,
+            "A2": 8.6,
+            "B1": 11.4,
+            "B2": 37.1,
+            "C1": 14.3,
+            "C2": 17.1
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 3.71,
+          "ppm": 140.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Ticket booth",
@@ -6009,6 +6634,31 @@
       "code": "S02E03",
       "name": "S02E03",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.33,
+          "dialogos": 3.68,
+          "temas": 4.33
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.4,
+            "A2": 4.8,
+            "B1": 16.7,
+            "B2": 31.0,
+            "C1": 23.8,
+            "C2": 21.4
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 3.86,
+          "ppm": 140.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Ruthless",
@@ -6190,6 +6840,33 @@
       "code": "S02E04",
       "name": "S02E04",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.87,
+        "senales": {
+          "vocabulario": 3.75,
+          "dialogos": 4.14,
+          "temas": 3.91
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.6,
+            "A2": 8.6,
+            "B1": 17.1,
+            "B2": 34.3,
+            "C1": 11.4,
+            "C2": 20.0
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 4.52,
+          "ppm": 124.3
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Yowl (sustantivo)",
@@ -6338,7 +7015,32 @@
     {
       "code": "S02E05",
       "name": "S02E05",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.35,
+        "senales": {
+          "vocabulario": 4.39,
+          "dialogos": 4.32,
+          "temas": 4.29
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 4.2,
+            "B1": 12.5,
+            "B2": 29.2,
+            "C1": 16.7,
+            "C2": 29.2
+          },
+          "densidad": 8.3
+        },
+        "dialogos": {
+          "cobertura95": 4.18,
+          "ppm": 166.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Flunk (verbo)",
@@ -6540,6 +7242,33 @@
       "code": "S02E06",
       "name": "S02E06",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.88,
+        "senales": {
+          "vocabulario": 3.76,
+          "dialogos": 4.08,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 9.5,
+            "B1": 28.6,
+            "B2": 28.6,
+            "C1": 19.0,
+            "C2": 14.3
+          },
+          "densidad": 5.7
+        },
+        "dialogos": {
+          "cobertura95": 4.16,
+          "ppm": 148.5
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Wolfbound",
@@ -6645,6 +7374,31 @@
       "code": "S02E07",
       "name": "S02E07",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.32,
+        "senales": {
+          "vocabulario": 4.42,
+          "dialogos": 4.12,
+          "temas": 4.24
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.3,
+            "A2": 1.8,
+            "B1": 16.4,
+            "B2": 32.7,
+            "C1": 18.2,
+            "C2": 23.6
+          },
+          "densidad": 9.1
+        },
+        "dialogos": {
+          "cobertura95": 4.15,
+          "ppm": 152.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Don't be fooled by chrome plating",
@@ -6874,6 +7628,31 @@
       "code": "S02E08",
       "name": "S02E08",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.04,
+        "senales": {
+          "vocabulario": 4.08,
+          "dialogos": 4.05,
+          "temas": 3.86
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.7,
+            "A2": 9.8,
+            "B1": 11.8,
+            "B2": 29.4,
+            "C1": 11.8,
+            "C2": 23.5
+          },
+          "densidad": 9.4
+        },
+        "dialogos": {
+          "cobertura95": 4.19,
+          "ppm": 143.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Racetrack",
@@ -7086,7 +7865,32 @@
     {
       "code": "S02E09",
       "name": "S02E09",
-      "level": "B2",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.71,
+        "senales": {
+          "vocabulario": 4.81,
+          "dialogos": 4.4,
+          "temas": 4.81
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.8,
+            "A2": 0.0,
+            "B1": 9.5,
+            "B2": 21.4,
+            "C1": 23.8,
+            "C2": 40.5
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 4.53,
+          "ppm": 144.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "High manor",
@@ -7263,7 +8067,32 @@
     {
       "code": "S02E10",
       "name": "S02E10",
-      "level": "B2",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.96,
+        "senales": {
+          "vocabulario": 5.2,
+          "dialogos": 4.42,
+          "temas": 4.94
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 1.9,
+            "A2": 5.7,
+            "B1": 5.7,
+            "B2": 15.1,
+            "C1": 26.4,
+            "C2": 45.3
+          },
+          "densidad": 9.6
+        },
+        "dialogos": {
+          "cobertura95": 4.44,
+          "ppm": 153.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Hiker",
@@ -7485,6 +8314,31 @@
       "code": "S02E11",
       "name": "S02E11",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.97,
+        "senales": {
+          "vocabulario": 4.08,
+          "dialogos": 3.7,
+          "temas": 4.03
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.1,
+            "A2": 5.4,
+            "B1": 18.9,
+            "B2": 27.0,
+            "C1": 24.3,
+            "C2": 16.2
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.63,
+          "ppm": 160.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "International touchy-feelyness",
@@ -7642,6 +8496,31 @@
       "code": "S02E12",
       "name": "S02E12",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.07,
+          "dialogos": 4.48,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.3,
+            "A2": 10.5,
+            "B1": 10.5,
+            "B2": 34.2,
+            "C1": 23.7,
+            "C2": 15.8
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 4.53,
+          "ppm": 150.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Recast (verbo en términos actorales)",
@@ -7803,6 +8682,31 @@
       "code": "S02E13",
       "name": "S02E13",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.9,
+        "senales": {
+          "vocabulario": 3.95,
+          "dialogos": 3.65,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.5,
+            "A2": 8.1,
+            "B1": 10.8,
+            "B2": 24.3,
+            "C1": 8.1,
+            "C2": 35.1
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 3.61,
+          "ppm": 158.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "You bow low",
@@ -7960,6 +8864,31 @@
       "code": "S02E14",
       "name": "S02E14",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.21,
+        "senales": {
+          "vocabulario": 4.3,
+          "dialogos": 3.71,
+          "temas": 4.64
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.1,
+            "A2": 0.0,
+            "B1": 10.7,
+            "B2": 25.0,
+            "C1": 17.9,
+            "C2": 39.3
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 3.67,
+          "ppm": 158.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Sitch (sustantivo informal)",
@@ -8080,7 +9009,32 @@
     {
       "code": "S02E15",
       "name": "S02E15",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.39,
+        "senales": {
+          "vocabulario": 4.61,
+          "dialogos": 3.86,
+          "temas": 4.39
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.1,
+            "A2": 10.2,
+            "B1": 2.0,
+            "B2": 36.7,
+            "C1": 20.4,
+            "C2": 26.5
+          },
+          "densidad": 9.4
+        },
+        "dialogos": {
+          "cobertura95": 3.86,
+          "ppm": 155.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Just run it down for Kim's sake",
@@ -8286,6 +9240,31 @@
       "code": "S02E16",
       "name": "S02E16",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.87,
+        "senales": {
+          "vocabulario": 3.9,
+          "dialogos": 3.79,
+          "temas": 3.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.4,
+            "A2": 16.7,
+            "B1": 19.0,
+            "B2": 31.0,
+            "C1": 9.5,
+            "C2": 21.4
+          },
+          "densidad": 7.3
+        },
+        "dialogos": {
+          "cobertura95": 3.93,
+          "ppm": 143.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Just run it down for Kim's sake",
@@ -8463,6 +9442,33 @@
       "code": "S02E17",
       "name": "S02E17",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.02,
+        "senales": {
+          "vocabulario": 4.15,
+          "dialogos": 3.63,
+          "temas": 4.18
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.6,
+            "A2": 7.9,
+            "B1": 15.8,
+            "B2": 34.2,
+            "C1": 21.1,
+            "C2": 18.4
+          },
+          "densidad": 7.3
+        },
+        "dialogos": {
+          "cobertura95": 3.59,
+          "ppm": 158.6
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Beyond spotless",
@@ -8624,6 +9630,33 @@
       "code": "S02E18",
       "name": "S02E18",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.14,
+        "senales": {
+          "vocabulario": 4.24,
+          "dialogos": 3.7,
+          "temas": 4.46
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.6,
+            "A2": 7.1,
+            "B1": 14.3,
+            "B2": 21.4,
+            "C1": 21.4,
+            "C2": 32.1
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 3.72,
+          "ppm": 153.3
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Thermal-imaging sunglasses",
@@ -8745,6 +9778,31 @@
       "code": "S02E19",
       "name": "S02E19",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.13,
+        "senales": {
+          "vocabulario": 4.13,
+          "dialogos": 4.04,
+          "temas": 4.29
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.9,
+            "A2": 8.8,
+            "B1": 17.6,
+            "B2": 26.5,
+            "C1": 14.7,
+            "C2": 29.4
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 4.05,
+          "ppm": 154.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Cue",
@@ -8890,6 +9948,31 @@
       "code": "S02E20",
       "name": "S02E20",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.97,
+        "senales": {
+          "vocabulario": 4.06,
+          "dialogos": 3.55,
+          "temas": 4.28
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.1,
+            "A2": 12.5,
+            "B1": 9.4,
+            "B2": 34.4,
+            "C1": 9.4,
+            "C2": 31.2
+          },
+          "densidad": 5.9
+        },
+        "dialogos": {
+          "cobertura95": 3.47,
+          "ppm": 161.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Cash in",
@@ -9027,6 +10110,33 @@
       "code": "S02E21",
       "name": "S02E21",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.74,
+        "senales": {
+          "vocabulario": 3.66,
+          "dialogos": 3.89,
+          "temas": 3.82
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.5,
+            "A2": 14.3,
+            "B1": 14.3,
+            "B2": 35.7,
+            "C1": 7.1,
+            "C2": 19.0
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 3.85,
+          "ppm": 158.3
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "The big cheer-off",
@@ -9204,6 +10314,33 @@
       "code": "S02E22",
       "name": "S02E22",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.28,
+        "senales": {
+          "vocabulario": 4.55,
+          "dialogos": 3.6,
+          "temas": 4.33
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 5.8,
+            "B1": 17.3,
+            "B2": 23.1,
+            "C1": 7.7,
+            "C2": 38.5
+          },
+          "densidad": 9.4
+        },
+        "dialogos": {
+          "cobertura95": 3.59,
+          "ppm": 155.5
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Watch helplessly",
@@ -9420,7 +10557,34 @@
     {
       "code": "S02E23",
       "name": "S02E23",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.41,
+        "senales": {
+          "vocabulario": 4.59,
+          "dialogos": 3.96,
+          "temas": 4.45
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.1,
+            "A2": 2.3,
+            "B1": 6.8,
+            "B2": 29.5,
+            "C1": 20.5,
+            "C2": 31.8
+          },
+          "densidad": 8.7
+        },
+        "dialogos": {
+          "cobertura95": 4.29,
+          "ppm": 128.9
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "There wouldn't be much point in me stealing it",
@@ -9606,6 +10770,31 @@
       "code": "S02E24",
       "name": "S02E24",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.79,
+        "senales": {
+          "vocabulario": 3.95,
+          "dialogos": 3.2,
+          "temas": 4.14
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.6,
+            "A2": 13.9,
+            "B1": 13.9,
+            "B2": 19.4,
+            "C1": 22.2,
+            "C2": 25.0
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 3.1,
+          "ppm": 162.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Mondo-morphing melt monsters?",
@@ -9758,7 +10947,32 @@
     {
       "code": "S02E25",
       "name": "S02E25",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.42,
+        "senales": {
+          "vocabulario": 4.64,
+          "dialogos": 4.01,
+          "temas": 4.2
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 1.6,
+            "A2": 14.1,
+            "B1": 12.5,
+            "B2": 31.2,
+            "C1": 15.6,
+            "C2": 25.0
+          },
+          "densidad": 11.1
+        },
+        "dialogos": {
+          "cobertura95": 3.92,
+          "ppm": 162.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Gasping breaths",
@@ -10024,6 +11238,31 @@
       "code": "S02E26",
       "name": "S02E26",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.93,
+        "senales": {
+          "vocabulario": 4.12,
+          "dialogos": 3.44,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.7,
+            "A2": 8.7,
+            "B1": 15.2,
+            "B2": 28.3,
+            "C1": 19.6,
+            "C2": 19.6
+          },
+          "densidad": 8.6
+        },
+        "dialogos": {
+          "cobertura95": 3.51,
+          "ppm": 149.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Strain of honey",
@@ -10216,7 +11455,34 @@
     {
       "code": "S02E27",
       "name": "S02E27",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.51,
+        "senales": {
+          "vocabulario": 4.87,
+          "dialogos": 3.72,
+          "temas": 4.37
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.9,
+            "A2": 6.5,
+            "B1": 8.1,
+            "B2": 16.1,
+            "C1": 16.1,
+            "C2": 40.3
+          },
+          "densidad": 12.2
+        },
+        "dialogos": {
+          "cobertura95": 3.71,
+          "ppm": 156.2
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Who's up for some chow fun?",
@@ -10474,6 +11740,34 @@
       "code": "S02E28",
       "name": "S02E28",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.21,
+        "senales": {
+          "vocabulario": 4.42,
+          "dialogos": 3.72,
+          "temas": 4.21
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.9,
+            "A2": 3.4,
+            "B1": 10.3,
+            "B2": 48.0,
+            "C1": 17.2,
+            "C2": 14.2
+          },
+          "densidad": 10.4
+        },
+        "dialogos": {
+          "cobertura95": 3.68,
+          "ppm": 157.9
+        },
+        "temas": [
+          "financiera y empresarial",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Right back at you (expresión)",
@@ -10719,6 +12013,33 @@
       "code": "S02E29",
       "name": "S02E29",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.05,
+        "senales": {
+          "vocabulario": 4.25,
+          "dialogos": 3.67,
+          "temas": 3.88
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.0,
+            "A2": 10.0,
+            "B1": 20.0,
+            "B2": 26.0,
+            "C1": 20.0,
+            "C2": 16.0
+          },
+          "densidad": 10.6
+        },
+        "dialogos": {
+          "cobertura95": 3.59,
+          "ppm": 161.7
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Visual aids",
@@ -10939,7 +12260,32 @@
     {
       "code": "S02E30",
       "name": "S02E30",
-      "level": "B2",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.67,
+        "senales": {
+          "vocabulario": 5.01,
+          "dialogos": 3.96,
+          "temas": 4.51
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.3,
+            "A2": 5.3,
+            "B1": 10.5,
+            "B2": 26.3,
+            "C1": 17.9,
+            "C2": 34.7
+          },
+          "densidad": 16.5
+        },
+        "dialogos": {
+          "cobertura95": 3.87,
+          "ppm": 162.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Field-trippers",
@@ -11329,6 +12675,31 @@
       "code": "S03E01",
       "name": "S03E01",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.96,
+        "senales": {
+          "vocabulario": 4.3,
+          "dialogos": 2.93,
+          "temas": 4.32
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.8,
+            "A2": 4.9,
+            "B1": 7.3,
+            "B2": 29.3,
+            "C1": 19.5,
+            "C2": 29.3
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.0,
+          "ppm": 149.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Let’s nix it (frase informal)",
@@ -11502,6 +12873,31 @@
       "code": "S03E02",
       "name": "S03E02",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.29,
+        "senales": {
+          "vocabulario": 4.61,
+          "dialogos": 3.35,
+          "temas": 4.59
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 9.8,
+            "B1": 7.3,
+            "B2": 26.8,
+            "C1": 26.8,
+            "C2": 29.3
+          },
+          "densidad": 7.8
+        },
+        "dialogos": {
+          "cobertura95": 3.51,
+          "ppm": 142.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "In a frenzied outpouring of community pride",
@@ -11675,6 +13071,31 @@
       "code": "S03E03",
       "name": "S03E03",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.23,
+        "senales": {
+          "vocabulario": 4.58,
+          "dialogos": 3.28,
+          "temas": 4.36
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.2,
+            "A2": 9.2,
+            "B1": 7.4,
+            "B2": 22.1,
+            "C1": 14.7,
+            "C2": 37.4
+          },
+          "densidad": 9.4
+        },
+        "dialogos": {
+          "cobertura95": 3.31,
+          "ppm": 152.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Dismiss (verbo)",
@@ -11904,6 +13325,31 @@
       "code": "S03E04",
       "name": "S03E04",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.09,
+        "senales": {
+          "vocabulario": 4.32,
+          "dialogos": 3.47,
+          "temas": 4.2
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.0,
+            "A2": 4.0,
+            "B1": 18.0,
+            "B2": 22.0,
+            "C1": 26.0,
+            "C2": 22.0
+          },
+          "densidad": 8.6
+        },
+        "dialogos": {
+          "cobertura95": 3.48,
+          "ppm": 154.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Warbling",
@@ -12113,6 +13559,31 @@
       "code": "S03E05",
       "name": "S03E05",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.33,
+        "senales": {
+          "vocabulario": 4.35,
+          "dialogos": 4.34,
+          "temas": 4.26
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.1,
+            "A2": 10.1,
+            "B1": 14.7,
+            "B2": 18.1,
+            "C1": 12.7,
+            "C2": 36.3
+          },
+          "densidad": 8.3
+        },
+        "dialogos": {
+          "cobertura95": 4.14,
+          "ppm": 171.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Marinate (verbo)",
@@ -12326,6 +13797,33 @@
       "code": "S03E06",
       "name": "S03E06",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.82,
+        "senales": {
+          "vocabulario": 4.01,
+          "dialogos": 3.26,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 15.9,
+            "A2": 4.5,
+            "B1": 9.1,
+            "B2": 36.4,
+            "C1": 2.3,
+            "C2": 31.8
+          },
+          "densidad": 7.7
+        },
+        "dialogos": {
+          "cobertura95": 3.36,
+          "ppm": 147.1
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Give in",
@@ -12510,7 +14008,32 @@
     {
       "code": "S03E07",
       "name": "S03E07",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.47,
+        "senales": {
+          "vocabulario": 4.83,
+          "dialogos": 3.48,
+          "temas": 4.68
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 3.8,
+            "B1": 13.1,
+            "B2": 28.1,
+            "C1": 21.2,
+            "C2": 33.8
+          },
+          "densidad": 8.8
+        },
+        "dialogos": {
+          "cobertura95": 3.59,
+          "ppm": 146.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "You have an overdue library book",
@@ -12736,6 +14259,31 @@
       "code": "S03E08",
       "name": "S03E08",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.0,
+        "senales": {
+          "vocabulario": 4.32,
+          "dialogos": 3.11,
+          "temas": 4.19
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.9,
+            "A2": 7.9,
+            "B1": 17.8,
+            "B2": 26.3,
+            "C1": 13.8,
+            "C2": 28.3
+          },
+          "densidad": 8.6
+        },
+        "dialogos": {
+          "cobertura95": 3.03,
+          "ppm": 161.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Do you have any idea the bureaucratic nightmare entailed in having class outside?",
@@ -12953,6 +14501,31 @@
       "code": "S03E09",
       "name": "S03E09",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.99,
+        "senales": {
+          "vocabulario": 4.41,
+          "dialogos": 2.89,
+          "temas": 4.19
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.8,
+            "A2": 1.8,
+            "B1": 20.0,
+            "B2": 25.3,
+            "C1": 19.4,
+            "C2": 24.7
+          },
+          "densidad": 9.3
+        },
+        "dialogos": {
+          "cobertura95": 2.84,
+          "ppm": 158.8
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Disgruntled",
@@ -13194,6 +14767,31 @@
       "code": "S03E10",
       "name": "S03E10",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.96,
+        "senales": {
+          "vocabulario": 4.22,
+          "dialogos": 3.21,
+          "temas": 4.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.5,
+            "A2": 10.0,
+            "B1": 10.0,
+            "B2": 17.5,
+            "C1": 17.5,
+            "C2": 32.5
+          },
+          "densidad": 8.2
+        },
+        "dialogos": {
+          "cobertura95": 3.36,
+          "ppm": 142.8
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Face stuffing",
@@ -13363,6 +14961,31 @@
       "code": "S03E11",
       "name": "S03E11",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.1,
+        "senales": {
+          "vocabulario": 4.53,
+          "dialogos": 2.96,
+          "temas": 4.28
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.6,
+            "A2": 6.9,
+            "B1": 8.6,
+            "B2": 29.3,
+            "C1": 17.2,
+            "C2": 29.3
+          },
+          "densidad": 9.7
+        },
+        "dialogos": {
+          "cobertura95": 2.92,
+          "ppm": 158.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Scout a target location",
@@ -13603,7 +15226,32 @@
     {
       "code": "S04E01",
       "name": "S04E01",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.64,
+        "senales": {
+          "vocabulario": 3.97,
+          "dialogos": 2.7,
+          "temas": 3.86
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.5,
+            "A2": 15.8,
+            "B1": 13.5,
+            "B2": 36.1,
+            "C1": 15.8,
+            "C2": 14.2
+          },
+          "densidad": 8.5
+        },
+        "dialogos": {
+          "cobertura95": 2.9,
+          "ppm": 139.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Smug villain",
@@ -13793,6 +15441,31 @@
       "code": "S04E02",
       "name": "S04E02",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 4.31,
+          "dialogos": 3.3,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.0,
+            "A2": 9.3,
+            "B1": 7.4,
+            "B2": 24.1,
+            "C1": 16.7,
+            "C2": 29.6
+          },
+          "densidad": 9.2
+        },
+        "dialogos": {
+          "cobertura95": 3.29,
+          "ppm": 155.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "The griddled fromage",
@@ -14018,6 +15691,31 @@
       "code": "S04E03",
       "name": "S04E03",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.74,
+        "senales": {
+          "vocabulario": 3.96,
+          "dialogos": 3.08,
+          "temas": 3.94
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.0,
+            "A2": 14.0,
+            "B1": 16.0,
+            "B2": 22.0,
+            "C1": 18.0,
+            "C2": 22.0
+          },
+          "densidad": 7.8
+        },
+        "dialogos": {
+          "cobertura95": 3.1,
+          "ppm": 153.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Appliances",
@@ -14227,6 +15925,31 @@
       "code": "S04E04",
       "name": "S04E04",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 4.29,
+          "dialogos": 3.1,
+          "temas": 4.57
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.7,
+            "A2": 0.0,
+            "B1": 11.7,
+            "B2": 17.5,
+            "C1": 29.2,
+            "C2": 32.9
+          },
+          "densidad": 5.3
+        },
+        "dialogos": {
+          "cobertura95": 3.07,
+          "ppm": 157.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Drive-thru (en pedir comida)",
@@ -14375,7 +16098,32 @@
     {
       "code": "S04E05",
       "name": "S04E05",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.62,
+        "senales": {
+          "vocabulario": 3.85,
+          "dialogos": 2.97,
+          "temas": 3.77
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.0,
+            "A2": 14.0,
+            "B1": 11.6,
+            "B2": 25.6,
+            "C1": 11.6,
+            "C2": 23.3
+          },
+          "densidad": 8.3
+        },
+        "dialogos": {
+          "cobertura95": 3.11,
+          "ppm": 143.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Heart (verbo en algunos contexto)",
@@ -14557,6 +16305,31 @@
       "code": "S04E06",
       "name": "S04E06",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.06,
+        "senales": {
+          "vocabulario": 4.28,
+          "dialogos": 3.38,
+          "temas": 4.29
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.9,
+            "A2": 12.2,
+            "B1": 9.8,
+            "B2": 22.0,
+            "C1": 24.4,
+            "C2": 26.8
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.59,
+          "ppm": 138.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "The moment where you get squad slapped into next week?",
@@ -14730,6 +16503,31 @@
       "code": "S04E07",
       "name": "S04E07",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.14,
+        "senales": {
+          "vocabulario": 4.46,
+          "dialogos": 3.21,
+          "temas": 4.4
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.8,
+            "A2": 0.0,
+            "B1": 11.9,
+            "B2": 38.1,
+            "C1": 23.8,
+            "C2": 21.4
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.34,
+          "ppm": 144.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Neglected to notice",
@@ -14907,6 +16705,31 @@
       "code": "S04E08",
       "name": "S04E08",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.84,
+        "senales": {
+          "vocabulario": 4.21,
+          "dialogos": 2.95,
+          "temas": 3.84
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.5,
+            "A2": 5.2,
+            "B1": 20.9,
+            "B2": 31.4,
+            "C1": 17.5,
+            "C2": 14.5
+          },
+          "densidad": 10.6
+        },
+        "dialogos": {
+          "cobertura95": 2.93,
+          "ppm": 156.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Off the rack (no literal)",
@@ -15148,6 +16971,31 @@
       "code": "S04E09",
       "name": "S04E09",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.95,
+        "senales": {
+          "vocabulario": 4.25,
+          "dialogos": 3.14,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.5,
+            "A2": 2.1,
+            "B1": 8.3,
+            "B2": 39.6,
+            "C1": 16.7,
+            "C2": 20.8
+          },
+          "densidad": 9.0
+        },
+        "dialogos": {
+          "cobertura95": 3.22,
+          "ppm": 148.7
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Bundle",
@@ -15348,7 +17196,32 @@
     {
       "code": "S04E10",
       "name": "S04E10",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.5,
+        "senales": {
+          "vocabulario": 4.97,
+          "dialogos": 3.34,
+          "temas": 4.55
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.5,
+            "A2": 4.5,
+            "B1": 9.0,
+            "B2": 26.9,
+            "C1": 23.9,
+            "C2": 31.3
+          },
+          "densidad": 11.0
+        },
+        "dialogos": {
+          "cobertura95": 3.43,
+          "ppm": 147.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Wingman me (no literal)",
@@ -15629,7 +17502,32 @@
     {
       "code": "S04E11",
       "name": "S04E11",
-      "level": "B2",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.37,
+        "senales": {
+          "vocabulario": 4.62,
+          "dialogos": 3.75,
+          "temas": 4.44
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.4,
+            "A2": 5.1,
+            "B1": 11.9,
+            "B2": 30.5,
+            "C1": 22.0,
+            "C2": 27.1
+          },
+          "densidad": 9.0
+        },
+        "dialogos": {
+          "cobertura95": 3.77,
+          "ppm": 153.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Our date night has hit a rut (frase no literal en ciertos contextos)",
@@ -15875,6 +17773,31 @@
       "code": "S04E12",
       "name": "S04E12",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.88,
+        "senales": {
+          "vocabulario": 4.17,
+          "dialogos": 2.86,
+          "temas": 4.43
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.6,
+            "A2": 3.6,
+            "B1": 10.7,
+            "B2": 32.1,
+            "C1": 28.6,
+            "C2": 21.4
+          },
+          "densidad": 5.5
+        },
+        "dialogos": {
+          "cobertura95": 2.93,
+          "ppm": 149.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "My free coconut scrub and herbal wrap",
@@ -15999,7 +17922,34 @@
     {
       "code": "S04E13",
       "name": "S04E13",
-      "level": "B2",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.99,
+        "senales": {
+          "vocabulario": 5.36,
+          "dialogos": 3.5,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.3,
+            "A2": 2.9,
+            "B1": 2.9,
+            "B2": 25.9,
+            "C1": 21.0,
+            "C2": 43.1
+          },
+          "densidad": 14.1
+        },
+        "dialogos": {
+          "cobertura95": 3.67,
+          "ppm": 141.5
+        },
+        "temas": [
+          "inglés de época o antiguo"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Outing",
@@ -16293,6 +18243,31 @@
       "code": "S04E14",
       "name": "S04E14",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.05,
+        "senales": {
+          "vocabulario": 4.4,
+          "dialogos": 3.08,
+          "temas": 4.26
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.0,
+            "A2": 7.0,
+            "B1": 7.0,
+            "B2": 31.6,
+            "C1": 26.3,
+            "C2": 21.1
+          },
+          "densidad": 8.7
+        },
+        "dialogos": {
+          "cobertura95": 2.91,
+          "ppm": 168.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Big-time",
@@ -16530,6 +18505,33 @@
       "code": "S04E15",
       "name": "S04E15",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.04,
+        "senales": {
+          "vocabulario": 4.27,
+          "dialogos": 3.22,
+          "temas": 4.45
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.0,
+            "A2": 3.0,
+            "B1": 12.1,
+            "B2": 30.3,
+            "C1": 30.3,
+            "C2": 21.2
+          },
+          "densidad": 6.2
+        },
+        "dialogos": {
+          "cobertura95": 3.34,
+          "ppm": 145.6
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Keep down",
@@ -16671,6 +18673,33 @@
       "code": "S04E16",
       "name": "S04E16",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.24,
+        "senales": {
+          "vocabulario": 4.59,
+          "dialogos": 3.15,
+          "temas": 4.67
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 5.1,
+            "B1": 10.3,
+            "B2": 30.8,
+            "C1": 20.5,
+            "C2": 33.3
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 3.25,
+          "ppm": 147.3
+        },
+        "temas": [
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Jammies",
@@ -16836,6 +18865,31 @@
       "code": "S04E17",
       "name": "S04E17",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 4.36,
+          "dialogos": 2.89,
+          "temas": 4.6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.7,
+            "A2": 0.0,
+            "B1": 8.6,
+            "B2": 34.3,
+            "C1": 17.1,
+            "C2": 34.3
+          },
+          "densidad": 5.7
+        },
+        "dialogos": {
+          "cobertura95": 2.79,
+          "ppm": 163.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "A little grapple trouble",
@@ -16985,6 +19039,31 @@
       "code": "S04E18",
       "name": "S04E18",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.83,
+        "senales": {
+          "vocabulario": 4.14,
+          "dialogos": 2.96,
+          "temas": 4.02
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 18.4,
+            "B1": 14.3,
+            "B2": 32.7,
+            "C1": 16.3,
+            "C2": 18.4
+          },
+          "densidad": 8.6
+        },
+        "dialogos": {
+          "cobertura95": 2.9,
+          "ppm": 159.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Bookmark",
@@ -17190,6 +19269,33 @@
       "code": "S04E19",
       "name": "S04E19",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.06,
+        "senales": {
+          "vocabulario": 4.39,
+          "dialogos": 3.16,
+          "temas": 4.25
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.4,
+            "A2": 5.2,
+            "B1": 13.1,
+            "B2": 26.1,
+            "C1": 10.4,
+            "C2": 34.7
+          },
+          "densidad": 8.7
+        },
+        "dialogos": {
+          "cobertura95": 3.45,
+          "ppm": 131.8
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Swank party",
@@ -17355,6 +19461,31 @@
       "code": "S04E20",
       "name": "S04E20",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.1,
+        "senales": {
+          "vocabulario": 4.44,
+          "dialogos": 2.99,
+          "temas": 4.6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 2.9,
+            "B1": 11.4,
+            "B2": 34.3,
+            "C1": 25.7,
+            "C2": 25.7
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 2.99,
+          "ppm": 155.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Nothing says battlesuit mission like a puma on the edge",
@@ -17504,6 +19635,31 @@
       "code": "S04E21",
       "name": "S04E21",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.19,
+        "senales": {
+          "vocabulario": 4.68,
+          "dialogos": 2.86,
+          "temas": 4.4
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.0,
+            "A2": 10.0,
+            "B1": 6.0,
+            "B2": 24.0,
+            "C1": 24.0,
+            "C2": 30.0
+          },
+          "densidad": 9.9
+        },
+        "dialogos": {
+          "cobertura95": 2.9,
+          "ppm": 152.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Feels sort of repeatish",
@@ -17713,6 +19869,31 @@
       "code": "S04E22",
       "name": "S04E22",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.75,
+        "senales": {
+          "vocabulario": 4.01,
+          "dialogos": 2.94,
+          "temas": 4.03
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 16.7,
+            "B1": 11.1,
+            "B2": 22.2,
+            "C1": 11.1,
+            "C2": 30.6
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.12,
+          "ppm": 140.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Everyone is accounted for",

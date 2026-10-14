@@ -1,7 +1,6 @@
 {
   "titulo": "Dream Productions",
   "tipo": "serie",
-  "nivel": "B2",
   "clasificacion": "TE",
   "tmdb": {
     "tipo": "tv",
@@ -30,25 +29,21 @@
   "episodios": {
     "S01E01": {
       "nombre": "Dream Productions (Episode 1)",
-      "nivel": "B2",
       "titulo": "Part 1: The Dream Team",
       "foto": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
     },
     "S01E02": {
       "nombre": "Dream Productions (Episode 2)",
-      "nivel": "B1",
       "titulo": "Part 2: Out of Body",
       "foto": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
     },
     "S01E03": {
       "nombre": "Dream Productions (Episode 3)",
-      "nivel": "C1",
       "titulo": "Part 3: Romance!",
       "foto": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
     },
     "S01E04": {
       "nombre": "Dream Productions (Episode 4)",
-      "nivel": "B1",
       "titulo": "Part 4: A Night to Remember",
       "foto": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
     }

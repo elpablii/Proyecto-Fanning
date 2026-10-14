@@ -1,6 +1,31 @@
 {
   "title": "Coraline",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.17,
+    "senales": {
+      "vocabulario": 4.33,
+      "dialogos": 3.71,
+      "temas": 4.32
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.1,
+        "A2": 6.1,
+        "B1": 11.1,
+        "B2": 27.3,
+        "C1": 20.2,
+        "C2": 28.3
+      },
+      "densidad": 7.7
+    },
+    "dialogos": {
+      "cobertura95": 4.04,
+      "ppm": 128.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ofrece un inglés encantador pero inquietante. Destacan las estructuras curiosas, modismos ligeramente pasados de moda y el tono de fantasía oscura. Muy útil para vocabulario doméstico y descriptivo inusual.",
   "tmdb": {
     "overview": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",

@@ -1,6 +1,33 @@
 {
   "title": "Marrowbone",
   "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 2.87,
+    "senales": {
+      "vocabulario": 2.94,
+      "dialogos": 2.17,
+      "temas": 3.79
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 22.0,
+        "A2": 9.8,
+        "B1": 14.6,
+        "B2": 24.4,
+        "C1": 24.4,
+        "C2": 4.9
+      },
+      "densidad": 4.4
+    },
+    "dialogos": {
+      "cobertura95": 2.14,
+      "ppm": 157.0
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Un thriller psicológico de época. El inglés es rural y pausado, con un tono melancólico y vocabulario relacionado con el aislamiento, secretos familiares y suspenso clásico.",
   "tmdb": {
     "overview": "Cuatro hermanos, temiendo que les separen tras la muerte de su madre, se esconden del mundo en su abandonada granja, un lugar cuyas viejas paredes esconden un terrible secreto...",

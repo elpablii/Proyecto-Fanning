@@ -1,7 +1,6 @@
 {
   "titulo": "Obi-Wan Kenobi",
   "tipo": "serie",
-  "nivel": "B2",
   "clasificacion": "+14",
   "tmdb": {
     "tipo": "tv",
@@ -30,37 +29,31 @@
   "episodios": {
     "S01E01": {
       "nombre": "Obi-Wan Kenobi (Part I)",
-      "nivel": "B1",
       "titulo": "Part I",
       "foto": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
     },
     "S01E02": {
       "nombre": "Obi-Wan Kenobi (Part II)",
-      "nivel": "B1",
       "titulo": "Part II",
       "foto": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
     },
     "S01E03": {
       "nombre": "Obi-Wan Kenobi (Part III)",
-      "nivel": "B1",
       "titulo": "Part III",
       "foto": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
     },
     "S01E04": {
       "nombre": "Obi-Wan Kenobi (Part IV)",
-      "nivel": "B1",
       "titulo": "Part IV",
       "foto": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
     },
     "S01E05": {
       "nombre": "Obi-Wan Kenobi (Part V)",
-      "nivel": "B1",
       "titulo": "Part V",
       "foto": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
     },
     "S01E06": {
       "nombre": "Obi-Wan Kenobi (Part VI)",
-      "nivel": "B1",
       "titulo": "Part VI",
       "foto": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
     }

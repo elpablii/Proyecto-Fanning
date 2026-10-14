@@ -1,6 +1,31 @@
 {
   "title": "A Big Bold Beautiful Journey",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.14,
+    "senales": {
+      "vocabulario": 3.14,
+      "dialogos": 2.92,
+      "temas": 3.53
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.8,
+        "A2": 14.5,
+        "B1": 14.5,
+        "B2": 39.5,
+        "C1": 7.9,
+        "C2": 11.8
+      },
+      "densidad": 4.5
+    },
+    "dialogos": {
+      "cobertura95": 2.62,
+      "ppm": 179.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una película emocional que ofrece un inglés moderno y accesible. El vocabulario gira en torno a las relaciones humanas, los viajes y el descubrimiento personal, destacando por sus diálogos dinámicos e íntimos.",
   "tmdb": {
     "overview": "Una historia imaginativa de dos extraños y el increíble viaje que los conecta, que narra el encuentro fortuito de dos personas de mundos completamente distintos. A medida que inician un viaje juntos, se ven envueltos en situaciones extraordinarias que desafían su percepción de la realidad. A lo largo del camino, ambos descubren secretos ocultos, enfrentan sus miedos y forjan una profunda conexión que cambiará sus vidas para siempre. Un relato de transformación, aventura y la magia de los encuentros inesperados.",

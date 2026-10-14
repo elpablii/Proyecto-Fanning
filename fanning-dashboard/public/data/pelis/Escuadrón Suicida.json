@@ -1,6 +1,33 @@
 {
   "title": "Escuadrón Suicida",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.89,
+    "senales": {
+      "vocabulario": 3.95,
+      "dialogos": 3.86,
+      "temas": 3.66
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 19.0,
+        "A2": 11.6,
+        "B1": 13.7,
+        "B2": 30.6,
+        "C1": 10.6,
+        "C2": 14.4
+      },
+      "densidad": 15.6
+    },
+    "dialogos": {
+      "cobertura95": 3.69,
+      "ppm": 168.8
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "El lenguaje de esta película de 2016 está lleno de jerga callejera, términos criminales, sarcasmo y lenguaje militar táctico ('task force', 'lethal', 'warden', 'freaks'). Es ideal para familiarizarse con expresiones informales agresivas, insultos suaves y acentos americanos diversos (desde el estilo urbano de Harley Quinn hasta el militar sureño de Rick Flag).",
   "tmdb": {
     "overview": "La agencia secreta gubernamental A.R.G.U.S., liderada por Amanda Waller, crea una fuerza especial con los peores villanos del mundo: el «Escuadrón Suicida», un equipo asignado a misiones mortales a cambio de acortar sus estancias en prisión.",

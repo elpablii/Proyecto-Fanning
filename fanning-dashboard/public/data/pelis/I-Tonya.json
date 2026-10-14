@@ -1,6 +1,33 @@
 {
   "title": "I-Tonya",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.77,
+    "senales": {
+      "vocabulario": 4.07,
+      "dialogos": 2.84,
+      "temas": 4.14
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.9,
+        "A2": 13.9,
+        "B1": 16.4,
+        "B2": 36.3,
+        "C1": 10.9,
+        "C2": 11.4
+      },
+      "densidad": 13.0
+    },
+    "dialogos": {
+      "cobertura95": 2.81,
+      "ppm": 157.5
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Un festín de acentos regionales americanos, específicamente de clase trabajadora. El lenguaje es muy coloquial, a menudo explícito, y está lleno de justificaciones, sarcasmo y jerga de patinaje artístico ('triple axel', 'landing', 'judges'). Un gran reto para entender inglés no estándar.",
   "tmdb": {
     "overview": "Década de los años 90. Tonya Harding es una prometedora patinadora artística estadounidense, la segunda en la historia capaz de completar en competición un salto de triple axel. Claro que, Tonya también se hizo famosa por uno de los escándalos más sensacionales en la historia del deporte. En 1994 su principal rival para los Juegos Olímpicos de Lillehammer era su compatriota Nancy Kerrigan. Poco antes del inicio de la competición, Kerrigan sufrió un infame ataque por un matón a sueldo, que intentó romperle la rodilla. La sombra de la sospecha recae entonces sobre el entorno de Tonya, desde su ex marido Jeff Gillooly hasta su guardaespaldas, Shawn Eckhardt. El matrimonio se verá entonces envuelto en problemas legales y fue así como comenzó la decadencia de la carrera de Harding.",

@@ -1,6 +1,34 @@
 {
   "title": "Star Wars Episodio II Attack of The Clones",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.81,
+    "senales": {
+      "vocabulario": 3.86,
+      "dialogos": 3.44,
+      "temas": 4.23
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.6,
+        "A2": 7.1,
+        "B1": 10.7,
+        "B2": 37.5,
+        "C1": 23.2,
+        "C2": 17.9
+      },
+      "densidad": 4.6
+    },
+    "dialogos": {
+      "cobertura95": 3.49,
+      "ppm": 151.3
+    },
+    "temas": [
+      "inglés de época o antiguo",
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Lenguaje de ciencia ficción mezclado con política y romance cortés. Diálogos formales y a veces rígidos ('Jedi', 'Republic', 'senator'), con diversos acentos alienígenas y británicos.",
   "tmdb": {
     "overview": "Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Senadora Padmé Amidala, la ex Reina de Naboo, el aprendiz Jedi de veinte años Anakin Skywalker es asignado para protegerla. En el transcurso de su misión, Anakin descubre su amor por Padmé y por su lado más oscuro. Pronto, Anakin, Padmé y Obi-Wan Kenobi se sienten atraídos por el corazón del movimiento separatista y el comienzo de las Guerras Clon.",

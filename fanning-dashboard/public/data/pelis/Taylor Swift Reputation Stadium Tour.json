@@ -1,6 +1,31 @@
 {
   "title": "Taylor Swift Reputation Stadium Tour",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.35,
+    "senales": {
+      "vocabulario": 3.5,
+      "dialogos": 2.75,
+      "temas": 3.72
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.8,
+        "A2": 8.9,
+        "B1": 17.0,
+        "B2": 39.3,
+        "C1": 13.4,
+        "C2": 11.6
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 2.74,
+      "ppm": 155.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés de estadio, con mucho eco. Ideal para practicar la comprensión de discursos ante multitudes ('crowd interaction'), y vocabulario musical sobre venganza, renacimiento y empoderamiento.",
   "tmdb": {
     "overview": "Taylor Swift's reputation Stadium Tour fue la quinta gira mundial de conciertos de la cantante estadounidense Taylor Swift, realizada con el fin de promocionar su sexto álbum de estudio, Reputation (2017). El inicio de la gira fue el 8 de mayo de 2018 en la ciudad de Glendale, en el estado de Arizona y finalizó el 21 de noviembre de 2018 en Tokyo, Japón.",

@@ -1,7 +1,6 @@
 {
   "titulo": "All Her Fault",
   "tipo": "serie",
-  "nivel": "B2",
   "clasificacion": "+18",
   "tmdb": {
     "tipo": "tv",
@@ -33,49 +32,41 @@
   "episodios": {
     "S01E01": {
       "nombre": "All Her Fault (Episode 1)",
-      "nivel": "C1",
       "titulo": "Episode 1",
       "foto": "https://image.tmdb.org/t/p/w500/8EOvHm8e3ftOPNmB19s8hfqFXKl.jpg"
     },
     "S01E02": {
       "nombre": "All Her Fault (Episode 2)",
-      "nivel": "C1",
       "titulo": "Episode 2",
       "foto": "https://image.tmdb.org/t/p/w500/7ZVSQQUlIwfm8VyXRjS7AkL8bLm.jpg"
     },
     "S01E03": {
       "nombre": "All Her Fault (Episode 3)",
-      "nivel": "C1",
       "titulo": "Episode 3",
       "foto": "https://image.tmdb.org/t/p/w500/foCGx2j8QSA3Ol1hpNJOgiIWIJm.jpg"
     },
     "S01E04": {
       "nombre": "All Her Fault (Episode 4)",
-      "nivel": "C1",
       "titulo": "Episode 4",
       "foto": "https://image.tmdb.org/t/p/w500/eTfPBx4o5NKcrOQzwmtxARhzpAO.jpg"
     },
     "S01E05": {
       "nombre": "All Her Fault (Episode 5)",
-      "nivel": "B2",
       "titulo": "Episode 5",
       "foto": "https://image.tmdb.org/t/p/w500/nQi43cd2IzFPdvw5OSFr7M71yac.jpg"
     },
     "S01E06": {
       "nombre": "All Her Fault (Episode 6)",
-      "nivel": "C1",
       "titulo": "Episode 6",
       "foto": "https://image.tmdb.org/t/p/w500/rdaj4uHbhlJ4EZJbzGHhy1C6h4t.jpg"
     },
     "S01E07": {
       "nombre": "All Her Fault (Episode 7)",
-      "nivel": "B2",
       "titulo": "Episode 7",
       "foto": "https://image.tmdb.org/t/p/w500/45K2IxAKMIAakbA56rwwmAL9DW0.jpg"
     },
     "S01E08": {
       "nombre": "All Her Fault (Episode 8)",
-      "nivel": "B2",
       "titulo": "Episode 8",
       "foto": "https://image.tmdb.org/t/p/w500/g4XPm4DrlG5ZsdhyTGC0FEdRC98.jpg"
     }

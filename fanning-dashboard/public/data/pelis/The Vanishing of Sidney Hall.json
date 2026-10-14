@@ -1,6 +1,33 @@
 {
   "title": "The Vanishing of Sidney Hall",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.7,
+    "senales": {
+      "vocabulario": 3.89,
+      "dialogos": 2.92,
+      "temas": 4.22
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.8,
+        "A2": 5.5,
+        "B1": 7.6,
+        "B2": 32.0,
+        "C1": 19.7,
+        "C2": 25.4
+      },
+      "densidad": 4.9
+    },
+    "dialogos": {
+      "cobertura95": 2.96,
+      "ppm": 152.2
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Un drama complejo cuyo vocabulario incluye mucha jerga literaria (el protagonista es un escritor prodigio), temas sobre la fama, la salud mental y la tragedia. El inglés oscila entre coloquialismos adolescentes y diálogos filosóficos muy profundos.",
   "tmdb": {
     "overview": "A lo largo de 12 años y tres etapas de la vida, Sidney Hall se enamora, escribe el libro de una generación y luego desaparece sin dejar rastro.",

@@ -9,6 +9,7 @@ import { ExtraData } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
 import MediaHero from '@/components/media/MediaHero';
 import ImageLightbox from '@/components/media/ImageLightbox';
+import NivelMcer from '@/components/media/NivelMcer';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 
 export default function PeliculaClient({ movieData, extraData }: { movieData: MovieStats; extraData: ExtraData | null }) {
@@ -45,6 +46,8 @@ export default function PeliculaClient({ movieData, extraData }: { movieData: Mo
           )}
         </div>
       </MediaHero>
+
+      {extraData?.levelDetail && <NivelMcer detalle={extraData.levelDetail} tipo="película" />}
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-10">

@@ -1,6 +1,31 @@
 {
   "title": "The Legend of Tarzan",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.35,
+    "senales": {
+      "vocabulario": 4.61,
+      "dialogos": 3.89,
+      "temas": 4.11
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.8,
+        "A2": 8.1,
+        "B1": 17.6,
+        "B2": 27.0,
+        "C1": 16.2,
+        "C2": 24.3
+      },
+      "densidad": 16.1
+    },
+    "dialogos": {
+      "cobertura95": 3.98,
+      "ppm": 147.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ofrece una interesante dicotomía: por un lado, el inglés aristocrático británico de la Inglaterra victoriana ('lord', 'civilized', 'estate'); por otro, un lenguaje más crudo, primitivo y táctico relacionado con la supervivencia y el imperialismo en la selva africana.",
   "tmdb": {
     "overview": "Tarzán, ya acostumbrado a la vida en Londres, es llamado de vuelta a su antiguo hogar en la selva para investigar las actividades que se llevan a cabo en un campamento minero.",

@@ -1,6 +1,31 @@
 {
   "title": "A Nonsense Christmas with Sabrina Carpenter",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.11,
+    "senales": {
+      "vocabulario": 4.46,
+      "dialogos": 3.16,
+      "temas": 4.33
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.4,
+        "A2": 1.3,
+        "B1": 19.2,
+        "B2": 33.2,
+        "C1": 6.4,
+        "C2": 33.6
+      },
+      "densidad": 8.6
+    },
+    "dialogos": {
+      "cobertura95": 3.34,
+      "ppm": 140.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés juvenil contemporáneo, festivo y muy sarcástico. Lleno de juegos de palabras, jerga pop actual ('slang') y expresiones modernas de la Generación Z en un contexto navideño.",
   "tmdb": {
     "overview": "¡Que suenen las campanas! La estrella pop Sabrina Carpenter nos deleita con su primer especial lleno de canciones navideñas, duetos inesperados y cameos divertidísimos.",

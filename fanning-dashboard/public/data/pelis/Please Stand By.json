@@ -1,6 +1,33 @@
 {
   "title": "Please Stand By",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.76,
+    "senales": {
+      "vocabulario": 3.71,
+      "dialogos": 3.7,
+      "temas": 4.1
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 4.0,
+        "A2": 5.9,
+        "B1": 13.8,
+        "B2": 45.5,
+        "C1": 13.8,
+        "C2": 17.0
+      },
+      "densidad": 4.4
+    },
+    "dialogos": {
+      "cobertura95": 3.5,
+      "ppm": 171.1
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Una excelente ventana al espectro autista. Lenguaje muy literal, repetitivo y enfocado en rutinas ('schedule', 'rules'), mezclado extensivamente con terminología de fans de Star Trek.",
   "tmdb": {
     "overview": "Wendy Walcott tiene 28 años, le gusta bailar mientras escucha música en su iPod y teje suéteres para objetos inanimados. Ella trabaja en Cinnabon y es autista. Para probarle a su hermana mayor que es capaz de cuidarse por sí misma, se escapa de la clínica en la que vive para ir a presentar su guion de Star Trek en un concurso de escritura. Lo que más anhela, es poder regresar a su hogar y, si su guion gana el concurso, podrá probar que es autosuficiente.",

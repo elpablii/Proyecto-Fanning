@@ -1,6 +1,33 @@
 {
   "title": "How to Make a Killing",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.97,
+    "senales": {
+      "vocabulario": 3.99,
+      "dialogos": 3.78,
+      "temas": 4.23
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.6,
+        "A2": 6.6,
+        "B1": 5.9,
+        "B2": 44.4,
+        "C1": 15.6,
+        "C2": 21.9
+      },
+      "densidad": 5.7
+    },
+    "dialogos": {
+      "cobertura95": 3.56,
+      "ppm": 172.5
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Una comedia oscura y criminal donde el inglés está repleto de dobles sentidos, sarcasmo y jerga relacionada con el engaño, la avaricia y el asesinato. El tono suele ser irónico y rápido, requiriendo atención a las sutilezas.",
   "tmdb": {
     "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",

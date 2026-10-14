@@ -1,6 +1,31 @@
 {
   "title": "The New Mutants",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.36,
+    "senales": {
+      "vocabulario": 3.47,
+      "dialogos": 2.72,
+      "temas": 3.97
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 17.6,
+        "A2": 0.0,
+        "B1": 23.5,
+        "B2": 11.8,
+        "C1": 20.6,
+        "C2": 26.5
+      },
+      "densidad": 3.3
+    },
+    "dialogos": {
+      "cobertura95": 2.83,
+      "ppm": 145.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una mezcla única: inglés adolescente moderno (con su respectiva jerga y rebeldía) dentro del contexto de un thriller sobrenatural y un entorno psiquiátrico ('facility', 'mutant', 'powers').",
   "tmdb": {
     "overview": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos .",

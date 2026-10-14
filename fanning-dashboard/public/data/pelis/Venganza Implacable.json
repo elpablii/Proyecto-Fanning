@@ -1,6 +1,31 @@
 {
   "title": "Venganza Implacable",
-  "level": "B1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.49,
+    "senales": {
+      "vocabulario": 3.69,
+      "dialogos": 3.02,
+      "temas": 3.44
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 19.3,
+        "A2": 14.3,
+        "B1": 11.8,
+        "B2": 34.5,
+        "C1": 11.8,
+        "C2": 8.4
+      },
+      "densidad": 10.7
+    },
+    "dialogos": {
+      "cobertura95": 2.64,
+      "ppm": 185.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un thriller de acción moderno protagonizado por Liam Neeson. El inglés es funcional, asertivo y lleno de jerga criminal y policial contemporánea ('feds', 'wire', 'safe house'). Las frases son cortas e imperativas, ideales para aprender a dar órdenes y comprender amenazas sutiles.",
   "tmdb": {
     "overview": "Un ladrón de bancos se entrega a la policía porque se ha enamorado y decide llevar una vida honrada. Sin embargo, cuando descubre que los federales son aún más corruptos que él, se verá obligado a utilizar todo su entrenamiento y experiencia como ex marine y ladrón profesional para limpiar su nombre.",

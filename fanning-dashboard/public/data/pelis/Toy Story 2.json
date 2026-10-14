@@ -1,6 +1,31 @@
 {
   "title": "Toy Story 2",
-  "level": "A2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.36,
+    "senales": {
+      "vocabulario": 4.65,
+      "dialogos": 3.82,
+      "temas": 4.15
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.2,
+        "A2": 5.7,
+        "B1": 14.6,
+        "B2": 32.9,
+        "C1": 12.0,
+        "C2": 26.6
+      },
+      "densidad": 12.8
+    },
+    "dialogos": {
+      "cobertura95": 4.05,
+      "ppm": 136.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un inglés americano muy claro y fácil de seguir, ideal para nivel intermedio. Combina lenguaje cotidiano ('garage sale', 'collector') con terminología espacial ('galaxy', 'laser') y del viejo oeste ('sheriff', 'prospector'). Los diálogos son rápidos pero perfectamente articulados.",
   "tmdb": {
     "overview": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",

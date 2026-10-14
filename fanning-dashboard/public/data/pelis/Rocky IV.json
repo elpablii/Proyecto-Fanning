@@ -1,6 +1,31 @@
 {
   "title": "Rocky IV",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.87,
+    "senales": {
+      "vocabulario": 4.05,
+      "dialogos": 3.29,
+      "temas": 4.1
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.7,
+        "A2": 2.9,
+        "B1": 18.8,
+        "B2": 29.0,
+        "C1": 20.3,
+        "C2": 20.3
+      },
+      "densidad": 7.2
+    },
+    "dialogos": {
+      "cobertura95": 3.47,
+      "ppm": 140.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Lenguaje icónico de la Guerra Fría. Contrastes entre el inglés motivacional americano de Rocky y Apollo, contra el inglés robótico y rígido de Drago ('I must break you').",
   "tmdb": {
     "overview": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",

@@ -1,6 +1,31 @@
 {
   "title": "Los Fantasmas de Scrooge",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.3,
+    "senales": {
+      "vocabulario": 4.85,
+      "dialogos": 2.95,
+      "temas": 4.35
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 4.8,
+        "A2": 8.1,
+        "B1": 12.1,
+        "B2": 29.0,
+        "C1": 14.5,
+        "C2": 31.5
+      },
+      "densidad": 17.2
+    },
+    "dialogos": {
+      "cobertura95": 3.1,
+      "ppm": 143.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una excelente oportunidad para el inglés clásico británico de la época victoriana. Lenguaje rimbombante, arcaico a veces ('humbug', 'shilling', 'spectre') y muy rico en descripciones literarias.",
   "tmdb": {
     "overview": "De Walt Disney Pictures llega el mágico recuento de la adorada historia de Charles Dickens LOS FANTASMAS DE SCROOGE, la cálida aventura de alto vuelo para toda la familia protagonizada por Jim Carrey. Cuando tres fantasmas llevan al avaro Scrooge en un viaje revelador, él descubre el verdadero significado de la Navidad – pero él deberá actuar antes de que sea demasiado tarde.",

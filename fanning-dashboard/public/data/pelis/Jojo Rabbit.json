@@ -1,6 +1,33 @@
 {
   "title": "Jojo Rabbit",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.59,
+    "senales": {
+      "vocabulario": 3.57,
+      "dialogos": 3.48,
+      "temas": 3.86
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.1,
+        "A2": 13.0,
+        "B1": 5.7,
+        "B2": 26.2,
+        "C1": 17.3,
+        "C2": 22.7
+      },
+      "densidad": 5.3
+    },
+    "dialogos": {
+      "cobertura95": 3.51,
+      "ppm": 152.7
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Una brillante sátira ambientada en la Alemania nazi. El inglés es peculiar, ya que los actores hablan con acentos alemanes exagerados, combinando jerga moderna con terminología de la guerra y el adoctrinamiento juvenil. Excelente para practicar la comprensión de acentos extranjeros.",
   "tmdb": {
     "overview": "Jojo \"Rabbit\" Betzler (Roman Griffin Davis) es un joven y solitario niño alemán perteneciente a las Juventudes Hitlerianas que ve su mundo puesto patas arriba cuando descubre que su joven madre Rosie (Scarlett Johansson) esconde en su ático a un niña judía (Thomasin McKenzie). Con la única ayuda de su mejor amigo imaginario, un niño un poco idiota, Jojo deberá enfrentarse a su ciego nacionalismo.",

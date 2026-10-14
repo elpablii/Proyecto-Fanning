@@ -153,7 +153,8 @@ def cmd_validar(args):
 
 def cmd_probar(args):
     import test_conteo
-    pruebas = [f for n, f in vars(test_conteo).items() if n.startswith('test_')]
+    import test_nivel
+    pruebas = [f for modulo in (test_conteo, test_nivel) for n, f in vars(modulo).items() if n.startswith('test_')]
     fallidas = 0
     for prueba in pruebas:
         try:

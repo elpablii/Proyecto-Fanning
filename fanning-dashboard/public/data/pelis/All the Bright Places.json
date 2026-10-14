@@ -1,6 +1,31 @@
 {
   "title": "All the Bright Places",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.33,
+    "senales": {
+      "vocabulario": 3.15,
+      "dialogos": 3.65,
+      "temas": 3.56
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.0,
+        "A2": 12.0,
+        "B1": 16.0,
+        "B2": 34.0,
+        "C1": 10.0,
+        "C2": 14.0
+      },
+      "densidad": 4.3
+    },
+    "dialogos": {
+      "cobertura95": 3.57,
+      "ppm": 161.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama romántico juvenil en Indiana. El inglés es introspectivo, poético y a veces melancólico. Vocabulario relacionado con la salud mental, citas literarias y descubrimientos geográficos.",
   "tmdb": {
     "overview": "Violet y Theodore son dos amigos cuyo encuentro cambia sus vidas para siempre. Mientras luchan por dejar atrás las cicatrices de su pasado, descubren que incluso los momentos más insignificantes pueden tener una importancia crucial en sus vidas.",

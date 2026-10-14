@@ -1,6 +1,31 @@
 {
   "title": "Rocky III",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.79,
+    "senales": {
+      "vocabulario": 4.0,
+      "dialogos": 3.26,
+      "temas": 3.81
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.1,
+        "A2": 9.3,
+        "B1": 8.4,
+        "B2": 40.2,
+        "C1": 15.0,
+        "C2": 15.0
+      },
+      "densidad": 9.1
+    },
+    "dialogos": {
+      "cobertura95": 3.36,
+      "ppm": 146.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Sigue el clásico acento italoamericano arrastrado de Filadelfia. En esta entrega abunda el lenguaje deportivo rudo ('prediction: pain', 'chump', 'eye of the tiger') y la jerga de los 80.",
   "tmdb": {
     "overview": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",

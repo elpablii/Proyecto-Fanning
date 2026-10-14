@@ -1,6 +1,31 @@
 {
   "title": "Kim Possible Todo un Drama",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.12,
+    "senales": {
+      "vocabulario": 4.48,
+      "dialogos": 3.33,
+      "temas": 4.0
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.7,
+        "A2": 12.1,
+        "B1": 12.1,
+        "B2": 25.1,
+        "C1": 16.2,
+        "C2": 24.8
+      },
+      "densidad": 11.4
+    },
+    "dialogos": {
+      "cobertura95": 3.47,
+      "ppm": 144.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "Animación adolescente de los 2000. Lenguaje rápido lleno de modismos adolescentes ('so not the drama', 'cheerleader') entrelazado con vocabulario clásico de agentes secretos y espionaje.",
   "tmdb": {
     "overview": "El Dr. Drakken tiene un nuevo y malvado plan para dominar el planeta, pro su éxito depende de encontrar el punto débil de Kim Posible. ¿Esta debilidad, tendrá algo que ver con un chico llamado Eric? Kim está totalmente distraída con la fiesta de fin de curso, mientras Ron está actuando como un bobo, justo cuando Kim más lo necesita. Si el Dr. Drakken sigue presionando, ¡Kim Posible tendrá que rendirse! Pero nada termina hasta que no llega el final.",

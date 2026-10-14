@@ -1,6 +1,33 @@
 {
   "title": "Suite Francaise",
-  "level": "C1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.63,
+    "senales": {
+      "vocabulario": 3.87,
+      "dialogos": 2.95,
+      "temas": 3.79
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 17.3,
+        "A2": 14.3,
+        "B1": 12.2,
+        "B2": 34.7,
+        "C1": 13.3,
+        "C2": 8.2
+      },
+      "densidad": 14.4
+    },
+    "dialogos": {
+      "cobertura95": 3.04,
+      "ppm": 147.8
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Ambientada en la Segunda Guerra Mundial, presenta un inglés británico y europeo formal de la década de 1940. El lenguaje es pulcro, contenido y lleno de sutilezas emocionales y vocabulario bélico/doméstico.",
   "tmdb": {
     "overview": "France, 1940. In the first days of occupation, beautiful Lucile Angellier is trapped in a stifled existence with her controlling mother-in-law as they both await news of her husband: a prisoner of war. Parisian refugees start to pour into their small town, soon followed by a regiment of German soldiers who take up residence in the villagers' own homes. Lucile initially tries to ignore Bruno von Falk, the handsome and refined German officer staying with them. But soon, a powerful love draws them together and leads them into the tragedy of war.",

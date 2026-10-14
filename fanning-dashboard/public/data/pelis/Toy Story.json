@@ -1,6 +1,31 @@
 {
   "title": "Toy Story",
-  "level": "A2",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.03,
+    "senales": {
+      "vocabulario": 4.29,
+      "dialogos": 3.48,
+      "temas": 3.91
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.3,
+        "A2": 10.2,
+        "B1": 11.9,
+        "B2": 34.7,
+        "C1": 16.9,
+        "C2": 16.9
+      },
+      "densidad": 10.7
+    },
+    "dialogos": {
+      "cobertura95": 3.48,
+      "ppm": 154.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "La película que lo inició todo. Ofrece un inglés sumamente accesible y amigable. Es perfecto para captar vocabulario del hogar, la habitación de un niño y juegos infantiles. La claridad en la dicción de los actores de voz (Tom Hanks y Tim Allen) la hace ideal para entrenar el oído de forma relajada.",
   "tmdb": {
     "overview": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",

@@ -1,6 +1,31 @@
 {
   "title": "The Runaways",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.62,
+    "senales": {
+      "vocabulario": 3.88,
+      "dialogos": 2.81,
+      "temas": 3.94
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.6,
+        "A2": 8.3,
+        "B1": 18.1,
+        "B2": 36.1,
+        "C1": 18.1,
+        "C2": 13.9
+      },
+      "densidad": 7.1
+    },
+    "dialogos": {
+      "cobertura95": 2.9,
+      "ppm": 147.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés musical de los años 70 en California. Lenguaje callejero, rebelde y enfocado en la industria del rock ('gigs', 'record deal', 'band'). Acentos juveniles con mucha actitud.",
   "tmdb": {
     "overview": "Joan Jett and Cherie Currie, two rebellious teenagers from Southern California, become the frontwomen for The Runaways -- the now-legendary group that paved the way for future generations of female rockers. Under the Svengali-like influence of impresario Kim Fowley, the band becomes a huge success.",

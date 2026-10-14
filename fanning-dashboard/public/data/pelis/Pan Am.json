@@ -1,6 +1,35 @@
 {
   "title": "Pan Am",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.86,
+    "senales": {
+      "vocabulario": 3.99,
+      "dialogos": 3.41,
+      "temas": 4.09
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.4,
+        "A2": 8.9,
+        "B1": 15.6,
+        "B2": 25.3,
+        "C1": 15.6,
+        "C2": 26.1
+      },
+      "densidad": 6.8
+    },
+    "dialogos": {
+      "cobertura95": 3.15,
+      "ppm": 175.7
+    },
+    "temas": [],
+    "rango": [
+      "B1-B2",
+      "B2"
+    ]
+  },
   "englishAnalysis": "El vocabulario de Pan Am se sumerge en la década de los 60, combinando terminología de la aviación comercial (cabinas de vuelo, servicios a bordo) con lenguaje de espionaje internacional y política de la Guerra Fría.",
   "tmdb": {
     "overview": "Un viaje a los años 60 cuando la Pan American era la empresa líder de la aviación. Sus aviones son los más glamurosos, sus pilotos son estrellas de rock y sus azafatas son las mujeres más deseadas del mundo. Pero no sólo tienen que ser jóvenes y atractivos, sino que los representantes de la Pan Am tienen que ser educados, cultos y refinados.",
@@ -76,7 +105,32 @@
     {
       "code": "S01E01",
       "name": "Pan Am (Episode 1)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.94,
+        "senales": {
+          "vocabulario": 4.01,
+          "dialogos": 3.68,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.3,
+            "A2": 11.0,
+            "B1": 15.7,
+            "B2": 29.9,
+            "C1": 9.4,
+            "C2": 27.7
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 3.25,
+          "ppm": 189.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Stewardess",
@@ -345,7 +399,32 @@
     {
       "code": "S01E02",
       "name": "Pan Am (Episode 2)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.88,
+        "senales": {
+          "vocabulario": 3.88,
+          "dialogos": 3.72,
+          "temas": 4.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.2,
+            "A2": 14.6,
+            "B1": 10.4,
+            "B2": 29.2,
+            "C1": 16.7,
+            "C2": 25.0
+          },
+          "densidad": 5.5
+        },
+        "dialogos": {
+          "cobertura95": 3.29,
+          "ppm": 189.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Peal (verbo)",
@@ -546,7 +625,32 @@
     {
       "code": "S01E03",
       "name": "Pan Am (Episode 3)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.5,
+        "senales": {
+          "vocabulario": 3.36,
+          "dialogos": 3.75,
+          "temas": 3.65
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.3,
+            "A2": 14.0,
+            "B1": 20.9,
+            "B2": 27.9,
+            "C1": 14.0,
+            "C2": 14.0
+          },
+          "densidad": 5.2
+        },
+        "dialogos": {
+          "cobertura95": 3.43,
+          "ppm": 180.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Newsstand",
@@ -727,7 +831,32 @@
     {
       "code": "S01E04",
       "name": "Pan Am (Episode 4)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.16,
+        "senales": {
+          "vocabulario": 4.23,
+          "dialogos": 3.98,
+          "temas": 4.13
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.3,
+            "A2": 4.2,
+            "B1": 16.9,
+            "B2": 28.2,
+            "C1": 7.0,
+            "C2": 32.4
+          },
+          "densidad": 8.5
+        },
+        "dialogos": {
+          "cobertura95": 3.52,
+          "ppm": 191.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Who's up for a debriefing?",
@@ -1020,7 +1149,32 @@
     {
       "code": "S01E05",
       "name": "Pan Am (Episode 5)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.0,
+        "senales": {
+          "vocabulario": 4.21,
+          "dialogos": 3.47,
+          "temas": 4.05
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.5,
+            "A2": 6.8,
+            "B1": 8.1,
+            "B2": 28.4,
+            "C1": 18.9,
+            "C2": 24.3
+          },
+          "densidad": 8.9
+        },
+        "dialogos": {
+          "cobertura95": 3.28,
+          "ppm": 170.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Sob stories",
@@ -1325,7 +1479,34 @@
     {
       "code": "S01E06",
       "name": "Pan Am (Episode 6)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.41,
+          "dialogos": 3.5,
+          "temas": 4.35
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.9,
+            "A2": 4.4,
+            "B1": 22.1,
+            "B2": 25.0,
+            "C1": 16.2,
+            "C2": 29.4
+          },
+          "densidad": 8.1
+        },
+        "dialogos": {
+          "cobertura95": 3.13,
+          "ppm": 184.8
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Upon her return",
@@ -1606,7 +1787,32 @@
     {
       "code": "S01E07",
       "name": "Pan Am (Episode 7)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.13,
+        "senales": {
+          "vocabulario": 4.41,
+          "dialogos": 3.28,
+          "temas": 4.39
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.8,
+            "A2": 4.9,
+            "B1": 14.8,
+            "B2": 13.1,
+            "C1": 21.3,
+            "C2": 36.1
+          },
+          "densidad": 7.7
+        },
+        "dialogos": {
+          "cobertura95": 2.88,
+          "ppm": 186.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Jelly doughnut",
@@ -1860,6 +2066,33 @@
       "code": "S01E08",
       "name": "Pan Am (Episode 8)",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.75,
+        "senales": {
+          "vocabulario": 3.84,
+          "dialogos": 3.28,
+          "temas": 4.16
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.6,
+            "A2": 5.3,
+            "B1": 21.1,
+            "B2": 36.8,
+            "C1": 13.2,
+            "C2": 21.1
+          },
+          "densidad": 5.1
+        },
+        "dialogos": {
+          "cobertura95": 3.02,
+          "ppm": 175.6
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Lark",
@@ -2020,7 +2253,34 @@
     {
       "code": "S01E09",
       "name": "Pan Am (Episode 9)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.01,
+        "senales": {
+          "vocabulario": 4.25,
+          "dialogos": 3.33,
+          "temas": 4.16
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.2,
+            "A2": 12.3,
+            "B1": 11.0,
+            "B2": 21.9,
+            "C1": 16.4,
+            "C2": 30.1
+          },
+          "densidad": 8.3
+        },
+        "dialogos": {
+          "cobertura95": 3.09,
+          "ppm": 174.1
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "You're casting a shadow",
@@ -2321,7 +2581,32 @@
     {
       "code": "S01E10",
       "name": "Pan Am (Episode 10)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.54,
+        "senales": {
+          "vocabulario": 3.65,
+          "dialogos": 3.03,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.9,
+            "A2": 11.1,
+            "B1": 20.0,
+            "B2": 20.0,
+            "C1": 15.6,
+            "C2": 24.4
+          },
+          "densidad": 5.1
+        },
+        "dialogos": {
+          "cobertura95": 2.88,
+          "ppm": 167.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "His nuclear death monger agenda",
@@ -2510,7 +2795,34 @@
     {
       "code": "S01E11",
       "name": "Pan Am (Episode 11)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.88,
+        "senales": {
+          "vocabulario": 3.99,
+          "dialogos": 3.54,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.5,
+            "A2": 4.8,
+            "B1": 12.9,
+            "B2": 21.0,
+            "C1": 27.4,
+            "C2": 19.4
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.3,
+          "ppm": 173.8
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Layover",
@@ -2767,7 +3079,32 @@
     {
       "code": "S01E12",
       "name": "Pan Am (Episode 12)",
-      "level": "C1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.64,
+        "senales": {
+          "vocabulario": 3.82,
+          "dialogos": 3.0,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.5,
+            "A2": 13.2,
+            "B1": 15.1,
+            "B2": 26.4,
+            "C1": 15.1,
+            "C2": 22.6
+          },
+          "densidad": 6.5
+        },
+        "dialogos": {
+          "cobertura95": 2.85,
+          "ppm": 167.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Move up (en términos de cargos)",
@@ -2988,7 +3325,32 @@
     {
       "code": "S01E13",
       "name": "Pan Am (Episode 13)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.85,
+        "senales": {
+          "vocabulario": 3.97,
+          "dialogos": 3.43,
+          "temas": 4.09
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.4,
+            "A2": 11.3,
+            "B1": 17.0,
+            "B2": 17.0,
+            "C1": 13.2,
+            "C2": 32.1
+          },
+          "densidad": 6.6
+        },
+        "dialogos": {
+          "cobertura95": 3.47,
+          "ppm": 152.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Monte Carlo was a lark",
@@ -3209,7 +3571,34 @@
     {
       "code": "S01E14",
       "name": "Pan Am (Episode 14)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.57,
+        "senales": {
+          "vocabulario": 3.53,
+          "dialogos": 3.06,
+          "temas": 4.58
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.8,
+            "A2": 11.9,
+            "B1": 19.0,
+            "B2": 35.7,
+            "C1": 11.9,
+            "C2": 16.7
+          },
+          "densidad": 4.8
+        },
+        "dialogos": {
+          "cobertura95": 2.92,
+          "ppm": 166.6
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Get ahold of",

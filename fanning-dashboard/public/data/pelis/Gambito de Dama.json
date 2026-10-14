@@ -1,6 +1,35 @@
 {
   "title": "Gambito de Dama",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.6,
+    "senales": {
+      "vocabulario": 3.63,
+      "dialogos": 3.35,
+      "temas": 3.71
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.2,
+        "A2": 12.9,
+        "B1": 15.3,
+        "B2": 25.4,
+        "C1": 14.9,
+        "C2": 18.3
+      },
+      "densidad": 7.0
+    },
+    "dialogos": {
+      "cobertura95": 2.97,
+      "ppm": 185.4
+    },
+    "temas": [],
+    "rango": [
+      "B1",
+      "B2"
+    ]
+  },
   "englishAnalysis": "El vocabulario de Gambito de Dama se centra en el ajedrez competitivo (aperturas, defensas, jugadas), combinado con el lenguaje de los años 60, internados, adopción y la lucha contra las adicciones.",
   "tmdb": {
     "overview": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
@@ -55,6 +84,34 @@
       "code": "S01E01",
       "name": "Gambito de Dama (Episode 1)",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.91,
+        "senales": {
+          "vocabulario": 4.07,
+          "dialogos": 3.25,
+          "temas": 4.38
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.5,
+            "A2": 12.5,
+            "B1": 15.0,
+            "B2": 20.0,
+            "C1": 22.5,
+            "C2": 22.5
+          },
+          "densidad": 7.8
+        },
+        "dialogos": {
+          "cobertura95": 3.01,
+          "ppm": 174.5
+        },
+        "temas": [
+          "inglés de época o antiguo",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Scratch",
@@ -224,6 +281,31 @@
       "code": "S01E02",
       "name": "Gambito de Dama (Episode 2)",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.97,
+        "senales": {
+          "vocabulario": 4.0,
+          "dialogos": 3.82,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.8,
+            "A2": 9.1,
+            "B1": 15.9,
+            "B2": 29.5,
+            "C1": 11.4,
+            "C2": 27.3
+          },
+          "densidad": 6.7
+        },
+        "dialogos": {
+          "cobertura95": 3.48,
+          "ppm": 182.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Stool",
@@ -408,7 +490,34 @@
     {
       "code": "S01E03",
       "name": "Gambito de Dama (Episode 3)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.53,
+        "senales": {
+          "vocabulario": 3.45,
+          "dialogos": 3.51,
+          "temas": 3.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.3,
+            "A2": 23.8,
+            "B1": 16.7,
+            "B2": 14.3,
+            "C1": 14.3,
+            "C2": 16.7
+          },
+          "densidad": 7.9
+        },
+        "dialogos": {
+          "cobertura95": 3.03,
+          "ppm": 193.6
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Pleasant",
@@ -585,7 +694,35 @@
     {
       "code": "S01E04",
       "name": "Gambito de Dama (Episode 4)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.54,
+        "senales": {
+          "vocabulario": 3.63,
+          "dialogos": 3.06,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 15.4,
+            "A2": 7.7,
+            "B1": 11.5,
+            "B2": 26.9,
+            "C1": 19.2,
+            "C2": 19.2
+          },
+          "densidad": 5.9
+        },
+        "dialogos": {
+          "cobertura95": 2.85,
+          "ppm": 171.7
+        },
+        "temas": [
+          "médica y de salud",
+          "financiera y empresarial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Stoned",
@@ -698,7 +835,32 @@
     {
       "code": "S01E05",
       "name": "Gambito de Dama (Episode 5)",
-      "level": "B2",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.07,
+        "senales": {
+          "vocabulario": 2.94,
+          "dialogos": 3.23,
+          "temas": 3.31
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 21.9,
+            "A2": 15.6,
+            "B1": 18.8,
+            "B2": 25.0,
+            "C1": 9.4,
+            "C2": 9.4
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 2.79,
+          "ppm": 190.1
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Drop (verbo en términos de partidas)",
@@ -835,7 +997,35 @@
     {
       "code": "S01E06",
       "name": "Gambito de Dama (Episode 6)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.52,
+        "senales": {
+          "vocabulario": 3.62,
+          "dialogos": 3.1,
+          "temas": 3.82
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.2,
+            "A2": 7.9,
+            "B1": 13.2,
+            "B2": 36.8,
+            "C1": 7.9,
+            "C2": 21.1
+          },
+          "densidad": 6.0
+        },
+        "dialogos": {
+          "cobertura95": 2.71,
+          "ppm": 185.8
+        },
+        "temas": [
+          "financiera y empresarial",
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "You just let them blow by",
@@ -996,7 +1186,34 @@
     {
       "code": "S01E07",
       "name": "Gambito de Dama (Episode 7)",
-      "level": "C1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.36,
+        "senales": {
+          "vocabulario": 3.32,
+          "dialogos": 3.36,
+          "temas": 3.5
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 17.8,
+            "A2": 13.3,
+            "B1": 20.0,
+            "B2": 26.7,
+            "C1": 6.7,
+            "C2": 15.6
+          },
+          "densidad": 7.1
+        },
+        "dialogos": {
+          "cobertura95": 2.93,
+          "ppm": 189.6
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "A rounding error",
@@ -1185,7 +1402,34 @@
     {
       "code": "SP01",
       "name": "Gambito de Dama (Special Episode)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.08,
+        "senales": {
+          "vocabulario": 4.26,
+          "dialogos": 3.67,
+          "temas": 4.05
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.7,
+            "A2": 10.7,
+            "B1": 7.1,
+            "B2": 25.0,
+            "C1": 35.7,
+            "C2": 10.7
+          },
+          "densidad": 9.9
+        },
+        "dialogos": {
+          "cobertura95": 3.17,
+          "ppm": 194.7
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "What really struck me",

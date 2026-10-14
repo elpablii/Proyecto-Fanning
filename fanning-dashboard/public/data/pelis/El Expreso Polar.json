@@ -1,6 +1,31 @@
 {
   "title": "El Expreso Polar",
-  "level": "A2-B1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.61,
+    "senales": {
+      "vocabulario": 4.04,
+      "dialogos": 2.62,
+      "temas": 3.54
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.4,
+        "A2": 14.4,
+        "B1": 15.9,
+        "B2": 27.3,
+        "C1": 14.4,
+        "C2": 13.6
+      },
+      "densidad": 15.9
+    },
+    "dialogos": {
+      "cobertura95": 2.86,
+      "ppm": 135.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un vocabulario mágico y clásico centrado en la Navidad, trenes y la infancia. El inglés utilizado es claro, evocador y lleno de adjetivos descriptivos ideales para principiantes e intermedios.",
   "tmdb": {
     "overview": "En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Expreso Polar, mientras aprende sobre la amistad, la valentía y el espíritu de la Navidad.",

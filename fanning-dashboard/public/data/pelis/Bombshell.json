@@ -1,6 +1,33 @@
 {
   "title": "Bombshell",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.17,
+    "senales": {
+      "vocabulario": 4.26,
+      "dialogos": 3.44,
+      "temas": 5.03
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.6,
+        "A2": 11.2,
+        "B1": 16.5,
+        "B2": 40.1,
+        "C1": 13.2,
+        "C2": 12.4
+      },
+      "densidad": 11.3
+    },
+    "dialogos": {
+      "cobertura95": 3.27,
+      "ppm": 168.8
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Presenta un inglés americano corporativo y periodístico ('newsroom'). El lenguaje es rápido, incisivo e incluye mucha jerga de los medios de comunicación, política y televisión ('anchor', 'network', 'harassment', 'NDA'). Es ideal para familiarizarse con el inglés del entorno profesional.",
   "tmdb": {
     "overview": "Cuando Gretchen Carlson golpea al fundador de Fox News, Roger Ailes, con una demanda alegando acoso sexual, nadie podía predecir lo que sucedería después. Su decisión lleva a la corresponsal de Fox News, Megyn Kelly, a presentar su propia historia, así como a muchas otras mujeres, incitando a un movimiento que reverbera en todo el mundo.",

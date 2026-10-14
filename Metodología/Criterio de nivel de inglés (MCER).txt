@@ -1,0 +1,145 @@
+CRITERIO DE NIVEL DE INGLÉS (MARCO COMÚN EUROPEO DE REFERENCIA)
+================================================================
+
+Propósito
+---------
+Este documento define cómo se calcula el nivel de inglés (A1, A2, B1, B2, C1 o
+C2) de cada película, de cada serie y de cada episodio. El nivel lo calcula
+`python fanning.py actualizar` (scripts/metricas/nivel.py); ya no se pone a mano.
+
+Se usa una escala numérica: A1 = 1, A2 = 2, B1 = 3, B2 = 4, C1 = 5, C2 = 6.
+
+
+1. QUÉ SE MIDE (TRES SEÑALES)
+-----------------------------
+  Señal          Peso   Qué mide
+  Vocabulario    60 %   Qué tan difíciles son las palabras y frases no entendidas,
+                        y cuántas hay por línea de diálogo.
+  Diálogos       25 %   Qué nivel hace falta para conocer el 95 % de las palabras
+                        de los diálogos, y qué tan rápido se habla.
+  Temas          15 %   Si el título usa vocabulario de un área especializada.
+
+El vocabulario pesa más porque es lo que realmente costó entender.
+
+
+2. NIVEL DE CADA PALABRA
+------------------------
+Fuentes (scripts/metricas/datos_nivel/):
+  - CEFR-J Vocabulary Profile 1.5 (palabras A1 a B2). Tono Laboratory, Tokyo
+    University of Foreign Studies. Uso libre citando la fuente.
+  - Octanove Vocabulary Profile C1/C2 1.0 (palabras C1 y C2). Octanove Labs.
+    Licencia Creative Commons Atribución-CompartirIgual 4.0.
+
+Procedimiento para una palabra:
+  1. Se busca en las listas, primero tal cual y luego en su forma base
+     ("rattled" -> "rattle"). Si la nota del vocabulario dice verbo, sustantivo,
+     adjetivo o adverbio, se busca con esa categoría.
+  2. Si no está en las listas, se usa su frecuencia en inglés (biblioteca
+     wordfreq, que incluye subtítulos de películas). Los cortes salen de las
+     propias listas: la frecuencia típica (mediana, escala 0 a 7) de las palabras
+     de cada nivel es A1 5,02 · A2 4,57 · B1 4,19 · B2 3,75 · C1 3,31 · C2 2,88,
+     y el corte entre dos niveles es el punto medio.
+  3. Una palabra compuesta poco común hecha de dos palabras conocidas
+     ("stepsisters", "buttonholes") toma el nivel de su parte más difícil, un
+     escalón más, como máximo C1.
+  4. Una palabra que casi no existe en ningún corpus (frecuencia menor a 1,5),
+     como la jerga difícil de identificar, es C2.
+
+No cuentan:
+  - Los nombres propios (palabras con mayúscula a mitad de frase que no están en
+    las listas: Sheldon, Hogwarts…).
+  - Las palabras en otro idioma: las que no están en las listas y son al menos
+    100 veces más comunes en francés o español que en inglés ("bonjour",
+    "merci", "gracias"). Si la mitad o más de una entrada está en otro idioma,
+    la entrada completa no cuenta.
+
+
+3. NIVEL DE CADA ENTRADA DEL VOCABULARIO
+----------------------------------------
+  - Una palabra: su nivel (punto 2).
+  - Una expresión de las listas ("according to"): el nivel de la lista.
+  - Una frase: el nivel de su palabra más difícil (sin contar palabras
+    gramaticales como "the", "of", "you").
+  - Un phrasal verb que no está en las listas ("break down", "get through"):
+    un escalón más que el verbo, y como mínimo B2 (los diccionarios MCER los
+    ubican en B1–B2 aunque el verbo sea A1).
+
+Las notas entre paréntesis del vocabulario suben el nivel, porque lo difícil es
+el sentido y no las palabras (que pueden ser A1):
+  - "no literal", "expresión", "modismo"...: un escalón más, como mínimo B2.
+  - "jerga", "coloquial", "vulgar", "despectivo"...: un escalón más, como mínimo C1.
+  - "británico", "inglés antiguo", "de época"...: un escalón más, como mínimo B2.
+  - "acotación": la entrada cuenta un 30 % (describe un sonido, no es habla).
+
+Nunca se pasa de C2.
+
+
+4. SEÑAL VOCABULARIO (60 %)
+---------------------------
+  Vocabulario = nivel medio de las entradas (con los pesos del punto 3)
+              + ajuste por densidad.
+
+  Densidad = entradas del vocabulario por cada 100 líneas de diálogo. La
+  densidad típica es 7,6 (mediana de todos los títulos). Ajuste = (densidad −
+  7,6) / 8, entre −0,5 y +0,5. Más palabras no entendidas por línea = más difícil.
+
+
+5. SEÑAL DIÁLOGOS (25 %)
+------------------------
+Sobre el texto de todos los subtítulos que cuentan (ver el criterio de conteo de
+líneas de diálogo):
+  - Cobertura 95 %: se ordenan las palabras de los diálogos por nivel y se
+    busca hasta qué nivel hay que llegar para conocer el 95 % de ellas (es la
+    proporción de palabras conocidas que la investigación asocia con entender
+    un texto). El valor se interpola dentro del nivel (por ejemplo 3,2).
+  - Velocidad: palabras por minuto mientras hay subtítulos en pantalla. La
+    típica es 155. Ajuste = (velocidad − 155) / 80, entre −0,5 y +0,5.
+
+  Diálogos = cobertura 95 % + ajuste por velocidad.
+  Si un título no tiene diálogos, esta señal toma el valor de la señal Vocabulario.
+
+
+6. SEÑAL TEMAS (15 %)
+---------------------
+Áreas especializadas definidas en scripts/metricas/datos_nivel/temas.json
+(legal, médica, científica, militar y policial, financiera, drogas y calle,
+inglés de época). El archivo se puede editar.
+
+Para cada área:
+  - En los diálogos: palabras del área por cada 1.000 palabras (las palabras con
+    mayúscula no cuentan, porque suelen ser nombres: "Sue" no es el verbo "sue").
+  - En el vocabulario: % de entradas del área, por sus palabras o porque su nota
+    lo indica (por ejemplo "(en términos legales)").
+
+  Intensidad = palabras por mil / 2 + % del vocabulario / 5 (del área más fuerte).
+  Temas = el mayor entre el nivel medio del vocabulario y 3 + intensidad (máximo 6).
+
+Un tema especializado sube el nivel; un tema cotidiano no lo baja.
+Se muestran como "destacados" las áreas con intensidad de 0,5 o más.
+
+
+7. NIVEL FINAL
+--------------
+  Puntaje = 0,60 × Vocabulario + 0,25 × Diálogos + 0,15 × Temas (entre 1 y 6).
+
+  El puntaje se convierte a nivel:
+    - parte decimal menor a 0,35  -> el nivel de la parte entera (4,2 -> B2)
+    - parte decimal mayor a 0,65  -> el nivel siguiente (4,7 -> C1)
+    - entre 0,35 y 0,65           -> entre dos niveles (4,5 -> B2-C1)
+
+
+8. SERIES
+---------
+  - Cada episodio se calcula con su propio vocabulario y sus propios diálogos
+    (separados por los marcadores de episodio, ver el criterio de conteo).
+  - El nivel de la serie es el promedio de los puntajes de sus episodios,
+    ponderado por sus líneas de diálogo (un episodio largo pesa más).
+  - Se muestra también el rango: el nivel del episodio más fácil y el del más
+    difícil.
+
+
+9. NIVEL PUESTO A MANO (OPCIONAL)
+---------------------------------
+Si en una ficha se escribe "nivel_fijo" (o en un episodio de una serie), ese
+nivel se muestra en lugar del calculado. Sirve solo para casos excepcionales;
+por defecto el campo está vacío y manda el cálculo.

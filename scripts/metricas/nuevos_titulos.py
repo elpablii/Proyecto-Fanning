@@ -3,7 +3,7 @@
 - Un PDF de vocabulario nuevo de un título que ya tiene ficha (otra parte, o
   episodios nuevos de una serie) se agrega a esa ficha.
 - Si no hay ficha, se crea una con lo que se puede deducir (título, tipo, PDFs).
-  Lo que no se puede deducir (nivel, clasificación, id de TMDB, análisis) queda
+  Lo que no se puede deducir (clasificación, id de TMDB, análisis) queda
   vacío para completarlo a mano.
 - Un PDF de diálogos se asigna a la ficha cuyo título coincide con su nombre. Si
   el nombre no coincide (por ejemplo, está en inglés y la ficha en español), se
@@ -63,7 +63,7 @@ def main():
         if ficha is None:
             ficha = {'titulo': re.sub(r'\s*\((de|con) [^)]*\)', '', base).strip(),
                      'tipo': 'serie' if es_serie(ruta) else 'pelicula',
-                     'nivel': '', 'clasificacion': '', 'tmdb': None, 'analisis': '',
+                     'clasificacion': '', 'tmdb': None, 'analisis': '',
                      'sinopsis': '', 'poster': '', 'fondo': '', 'fotos': [],
                      'pdfs': {'vocabulario': [], 'dialogos': []}}
             if ficha['tipo'] == 'serie':
@@ -96,7 +96,7 @@ def main():
         print('No hay PDFs nuevos.')
         return
     for t in creadas:
-        print(f'Ficha nueva: contenido/titulos/{F.slug(t)}.json  (completa nivel, clasificación, tmdb y análisis)')
+        print(f'Ficha nueva: contenido/titulos/{F.slug(t)}.json  (completa clasificación, tmdb y análisis; el nivel se calcula solo)')
     for t in sorted(set(cambiadas) - set(creadas)):
         print(f'Ficha actualizada con PDFs nuevos: {t}')
     if sin_ficha:

@@ -1,6 +1,31 @@
 {
   "title": "Buscando a Nemo",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.04,
+    "senales": {
+      "vocabulario": 4.26,
+      "dialogos": 3.39,
+      "temas": 4.24
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.7,
+        "A2": 7.6,
+        "B1": 12.0,
+        "B2": 29.4,
+        "C1": 16.8,
+        "C2": 27.4
+      },
+      "densidad": 7.7
+    },
+    "dialogos": {
+      "cobertura95": 3.44,
+      "ppm": 151.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés familiar extremadamente claro y dinámico. Rico en juegos de palabras acuáticos, acentos californianos (tortugas surferas) y vocabulario sobre el océano y la crianza.",
   "tmdb": {
     "overview": "El pececillo Nemo, que es hijo único, es muy querido y protegido por su padre. Pero después de ser capturado en un arrecife australiano va a parar a la pecera de la oficina de un dentista de Sidney, su tímido padre emprenderá una peligrosa aventura para rescatarlo.",

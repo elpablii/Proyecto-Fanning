@@ -1,6 +1,31 @@
 {
   "title": "Lilo and Stitch I",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.64,
+    "senales": {
+      "vocabulario": 3.85,
+      "dialogos": 3.03,
+      "temas": 3.85
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.5,
+        "A2": 9.7,
+        "B1": 8.3,
+        "B2": 31.9,
+        "C1": 25.0,
+        "C2": 12.5
+      },
+      "densidad": 7.6
+    },
+    "dialogos": {
+      "cobertura95": 3.25,
+      "ppm": 137.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés familiar encantador con un fuerte sabor hawaiano (uso de palabras locales como 'ohana'). Mezclado divertidamente con jerga alienígena y jerga de trabajadores sociales ('probation').",
   "tmdb": {
     "overview": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",

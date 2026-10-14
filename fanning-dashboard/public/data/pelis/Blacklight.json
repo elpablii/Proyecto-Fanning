@@ -1,6 +1,31 @@
 {
   "title": "Blacklight",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.65,
+    "senales": {
+      "vocabulario": 3.88,
+      "dialogos": 2.98,
+      "temas": 3.88
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.6,
+        "A2": 11.7,
+        "B1": 15.8,
+        "B2": 27.3,
+        "C1": 20.3,
+        "C2": 16.4
+      },
+      "densidad": 7.6
+    },
+    "dialogos": {
+      "cobertura95": 3.18,
+      "ppm": 139.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "Cargada de acción y thriller gubernamental, esta película presenta terminología sobre inteligencia, el FBI, agentes encubiertos y conspiraciones. El inglés es directo e incluye muchos modismos de las agencias de seguridad y situaciones de alta tensión.",
   "tmdb": {
     "overview": "Liam Neeson interpreta a Travis Block, un sombrío agente del gobierno que se especializa en eliminar agentes cuyas tapaderas han sido expuestas y descubre una conspiración mortal dentro de sus propias filas que alcanza los más altos niveles de poder.",

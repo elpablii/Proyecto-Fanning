@@ -1,6 +1,31 @@
 {
   "title": "Whiskey Tango Foxtrot",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.13,
+      "dialogos": 3.23,
+      "temas": 3.63
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.0,
+        "A2": 10.7,
+        "B1": 17.1,
+        "B2": 28.9,
+        "C1": 10.7,
+        "C2": 17.6
+      },
+      "densidad": 12.5
+    },
+    "dialogos": {
+      "cobertura95": 2.93,
+      "ppm": 179.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés periodístico y militar mezclado. Vocabulario de zonas de guerra, jerga de corresponsales, humor negro y términos geopolíticos y militares ('embedded', 'infidel', 'bureau').",
   "tmdb": {
     "overview": "Reporteras en Guerra cuenta la «historia real» de Kim Barker, una productora de televisión que decide cambiar su rutina aceptando un desafiante trabajo en Kabul, Afganistán. Lejos de su estilo de vida, ahora se encuentra en medio de una zona de guerra. Afortunadamente, conoce a Tanya Vanderpoel, otra reportera que le da una mano. En medio de militantes, militares y fiestas nocturnas, Barker intenta descubrir la clave para ser una corresponsal exitosa.",

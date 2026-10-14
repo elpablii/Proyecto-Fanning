@@ -1,6 +1,31 @@
 {
   "title": "Ratatouille",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.2,
+      "dialogos": 3.05,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.8,
+        "A2": 12.2,
+        "B1": 11.6,
+        "B2": 32.0,
+        "C1": 13.8,
+        "C2": 16.6
+      },
+      "densidad": 13.6
+    },
+    "dialogos": {
+      "cobertura95": 2.95,
+      "ppm": 163.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una película de Pixar que, aunque animada, ofrece un inglés rico, fluido y lleno de vocabulario culinario. Encontrarás palabras como 'recipe', 'flavor', 'chef', mezcladas con un encantador acento francés falso que le da un toque único. Excelente para familiarizarse con vocabulario de cocina.",
   "tmdb": {
     "overview": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",

@@ -1,6 +1,34 @@
 {
   "title": "21 Blackjack",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.39,
+    "senales": {
+      "vocabulario": 3.58,
+      "dialogos": 2.72,
+      "temas": 3.76
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.1,
+        "A2": 5.7,
+        "B1": 17.0,
+        "B2": 45.5,
+        "C1": 13.6,
+        "C2": 9.1
+      },
+      "densidad": 6.1
+    },
+    "dialogos": {
+      "cobertura95": 2.53,
+      "ppm": 170.6
+    },
+    "temas": [
+      "drogas y calle",
+      "financiera y empresarial"
+    ]
+  },
   "englishAnalysis": "Inglés universitario y matemático. Lleno de jerga de casino ('counting cards', 'chips', 'hit me') y expresiones sobre inteligencia, probabilidades y vida estudiantil americana.",
   "tmdb": {
     "overview": "Ben Campbell, un tímido y brillante estudiante del Instituto Tecnológico de Massachussets (MIT), recurre a los naipes para poder pagar la matrícula de la universidad. Se le presenta, además, la oportunidad de unirse a un grupo de estudiantes que viajan a Las Vegas para jugar al blackjack. Bajo la dirección del poco ortodoxo profesor de matemáticas y genio de la estadística Micky Rosa, han conseguido descifrar el código del éxito, mediante el conteo de cartas.",

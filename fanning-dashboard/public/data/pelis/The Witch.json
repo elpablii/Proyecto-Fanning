@@ -1,6 +1,33 @@
 {
   "title": "The Witch",
-  "level": "B2",
+  "level": "C1",
+  "levelDetail": {
+    "nivel": "C1",
+    "puntaje": 4.95,
+    "senales": {
+      "vocabulario": 5.11,
+      "dialogos": 3.91,
+      "temas": 6
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 1.6,
+        "A2": 5.6,
+        "B1": 14.5,
+        "B2": 23.4,
+        "C1": 17.7,
+        "C2": 37.1
+      },
+      "densidad": 13.2
+    },
+    "dialogos": {
+      "cobertura95": 4.26,
+      "ppm": 127.3
+    },
+    "temas": [
+      "inglés de época o antiguo"
+    ]
+  },
   "englishAnalysis": "Un desafío fascinante: el diálogo está escrito en un riguroso inglés moderno temprano (siglo XVII). Está lleno de arcaísmos ('thee', 'thou'), referencias bíblicas y terminología puritana. Ideal para quienes desean explorar la raíz histórica profunda del idioma.",
   "tmdb": {
     "overview": "Nueva Inglaterra, 1630. Una pareja puritana decide abandonar su pueblo para hacer vida en el bosque con sus cinco hijos. Desde la extraña desaparición de su bebé, sucederán otros hechos terroríficos contra los que sus oraciones no tendrán poder.",

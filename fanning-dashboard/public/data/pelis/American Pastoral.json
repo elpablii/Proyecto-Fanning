@@ -1,6 +1,31 @@
 {
   "title": "American Pastoral",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.37,
+    "senales": {
+      "vocabulario": 3.52,
+      "dialogos": 2.83,
+      "temas": 3.67
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.8,
+        "A2": 12.8,
+        "B1": 12.8,
+        "B2": 29.1,
+        "C1": 20.9,
+        "C2": 11.6
+      },
+      "densidad": 6.4
+    },
+    "dialogos": {
+      "cobertura95": 2.74,
+      "ppm": 161.9
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama histórico estadounidense. Vocabulario político y social de los años 60, mezclado con lenguaje de negocios de clase media-alta y expresiones de desilusión y protesta.",
   "tmdb": {
     "overview": "Seymour Lvov, “el Sueco”, es un exitoso hombre de negocios con una vida perfecta que ve como su estabilidad familiar peligra por la turbulenta situación política estadounidense de la década de los 60. La tormenta se desata cuando su hija Merry desaparece tras ser acusada de cometer un acto violento. Lvov se dedicará a buscarla y a reunir a su familia. Lo que descubre remueve sus cimientos, forzándole a mirar más allá de la superficie y afrontar el caos que está forjando el mundo a su alrededor: ninguna familia americana volverá a ser la misma.",

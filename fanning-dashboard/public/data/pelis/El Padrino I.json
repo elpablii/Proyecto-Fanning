@@ -1,6 +1,34 @@
 {
   "title": "El Padrino I",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.25,
+    "senales": {
+      "vocabulario": 3.37,
+      "dialogos": 2.68,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.5,
+        "A2": 16.7,
+        "B1": 22.6,
+        "B2": 21.4,
+        "C1": 14.3,
+        "C2": 15.5
+      },
+      "densidad": 5.7
+    },
+    "dialogos": {
+      "cobertura95": 2.84,
+      "ppm": 142.6
+    },
+    "temas": [
+      "legal y judicial",
+      "drogas y calle"
+    ]
+  },
   "englishAnalysis": "El estándar de oro del acento italoamericano de los años 40. Lenguaje mafioso sutil, lleno de metáforas familiares ('family', 'business', 'offer he can\\'t refuse') y respeto formal.",
   "tmdb": {
     "overview": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero Tom Hagen, se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",

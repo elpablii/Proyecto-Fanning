@@ -1,7 +1,6 @@
 {
   "titulo": "Gambito de Dama",
   "tipo": "serie",
-  "nivel": "B2",
   "clasificacion": "TE",
   "tmdb": {
     "tipo": "tv",
@@ -35,49 +34,41 @@
   "episodios": {
     "S01E01": {
       "nombre": "Gambito de Dama (Episode 1)",
-      "nivel": "B2",
       "titulo": "Openings",
       "foto": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg"
     },
     "S01E02": {
       "nombre": "Gambito de Dama (Episode 2)",
-      "nivel": "B2",
       "titulo": "Exchanges",
       "foto": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg"
     },
     "S01E03": {
       "nombre": "Gambito de Dama (Episode 3)",
-      "nivel": "B2",
       "titulo": "Doubled Pawns",
       "foto": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg"
     },
     "S01E04": {
       "nombre": "Gambito de Dama (Episode 4)",
-      "nivel": "B1",
       "titulo": "Middle Game",
       "foto": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg"
     },
     "S01E05": {
       "nombre": "Gambito de Dama (Episode 5)",
-      "nivel": "B2",
       "titulo": "Fork",
       "foto": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg"
     },
     "S01E06": {
       "nombre": "Gambito de Dama (Episode 6)",
-      "nivel": "B2",
       "titulo": "Adjournment",
       "foto": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg"
     },
     "S01E07": {
       "nombre": "Gambito de Dama (Episode 7)",
-      "nivel": "C1",
       "titulo": "End Game",
       "foto": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg"
     },
     "SP01": {
       "nombre": "Gambito de Dama (Special Episode)",
-      "nivel": "B1",
       "titulo": "Creating The Queen's Gambit",
       "foto": "https://image.tmdb.org/t/p/w500/4aTonMQCSEgu5PV3n3xRaNMZmG1.jpg",
       "sinopsis": "No se trata de un juego, se trata del costo de la genialidad. Eche un vistazo más profundo a cómo Scott Frank, Anya Taylor-Joy y el equipo detrás de \"The Queen's Gambit\" dieron vida a esta aclamada serie sobre una maestra del ajedrez.",

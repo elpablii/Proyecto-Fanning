@@ -30,6 +30,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from rutas import ANIOS, DATA, REPORTE, absoluta  # noqa: E402
 import fichas as F  # noqa: E402
 import ranking  # noqa: E402
+import nivel as N  # noqa: E402
 from conteo import (clave_episodio, contar_dialogos, leer_lineas, leer_vocabulario,  # noqa: E402
                     sin_repetidas)
 
@@ -117,11 +118,13 @@ def procesar_titulo(ficha, avisos):
 
     dialogos_ep = Counter()
     creditos = 0
+    subtitulos = []  # (episodio, inicio, fin, texto), para el nivel de inglés
     for d in pdfs.get('dialogos', []):
         ruta = F.ruta_dialogo(d)
         m = re.search(r'Season\s*(\d+)', ruta, re.I)
         r = contar_dialogos(leer_lineas(absoluta(ruta)), es_serie=es_serie, temporada=int(m.group(1)) if m else 1,
-                            episodio_fijo=F.episodio_fijo(d))
+                            episodio_fijo=F.episodio_fijo(d), con_textos=True)
+        subtitulos += r['subtitulos']
         if r['sin_tiempos']:
             avisos.append(f'{titulo}: {os.path.basename(ruta)}: no tiene líneas de tiempos (formato no SRT)')
         creditos += r['creditos']
@@ -153,14 +156,33 @@ def procesar_titulo(ficha, avisos):
             if k not in episodios:
                 avisos.append(f'{titulo}: el episodio {k} tiene diálogos ({dialogos_ep[k]}) pero no vocabulario; '
                               'sus líneas no se suman')
-        return {'serie': True, 'episodios': episodios, 'repetidas': repetidas, 'creditos': creditos}
+        # Nivel de inglés de cada episodio y de la serie (promedio de los episodios ponderado por sus líneas)
+        por_ep_subs = defaultdict(list)
+        for sub in subtitulos:
+            por_ep_subs[sub[0]].append(sub)
+        for k, e in episodios.items():
+            e['nivel'] = N.calcular_nivel([x['word'] for x in e['vocabulario']], e['dialogos'], por_ep_subs.get(k, []))
+        con_nivel = [e for e in episodios.values() if e['nivel']]
+        general = N.calcular_nivel([x['word'] for e in episodios.values() for x in e['vocabulario']],
+                                   sum(e['dialogos'] for e in episodios.values()), subtitulos)
+        if general and con_nivel:
+            pesos = [max(e['dialogos'], 1) for e in con_nivel]
+            puntaje = sum(e['nivel']['puntaje'] * w for e, w in zip(con_nivel, pesos)) / sum(pesos)
+            general['puntaje'] = round(puntaje, 2)
+            general['nivel'] = N.nivel_texto(puntaje)
+            general['rango'] = [N.nivel_texto(min(e['nivel']['puntaje'] for e in con_nivel)),
+                                N.nivel_texto(max(e['nivel']['puntaje'] for e in con_nivel))]
+        return {'serie': True, 'episodios': episodios, 'repetidas': repetidas, 'creditos': creditos,
+                'nivel': general}
 
     unicas, repetidas = sin_repetidas(entradas)
     anios = Counter(e['anio'] for e in unicas)
     if len(anios) > 1:
         avisos.append(f'{titulo}: el vocabulario está repartido en varios años {dict(anios)}')
-    return {'serie': False, 'vocabulario': unicas, 'dialogos': sum(dialogos_ep.values()),
-            'anio': anios.most_common(1)[0][0] if anios else None, 'repetidas': repetidas, 'creditos': creditos}
+    total_dialogos = sum(dialogos_ep.values())
+    return {'serie': False, 'vocabulario': unicas, 'dialogos': total_dialogos,
+            'anio': anios.most_common(1)[0][0] if anios else None, 'repetidas': repetidas, 'creditos': creditos,
+            'nivel': N.calcular_nivel([x['word'] for x in unicas], total_dialogos, subtitulos)}
 
 
 def completar_episodios(ficha, res):
@@ -169,18 +191,24 @@ def completar_episodios(ficha, res):
     nombres = [e.get('nombre', '') for e in eps.values()]
     nuevos = [k for k in res['episodios'] if k not in eps]
     for k in nuevos:
-        eps[k] = {'nombre': nombre_nuevo(ficha['titulo'], k, nombres), 'nivel': ''}
+        eps[k] = {'nombre': nombre_nuevo(ficha['titulo'], k, nombres)}
     return bool(nuevos)
 
 
 # ------------------------------------------------------------------ datos de la página
+
+def nivel_mostrado(fijo, calculado):
+    """El nivel calculado; uno puesto a mano en la ficha ("nivel_fijo") tiene prioridad."""
+    return fijo or (calculado['nivel'] if calculado else 'B2')
+
 
 def datos_pagina(ficha, res):
     """Contenido de public/data/pelis/<título>.json, generado solo desde la ficha y el conteo."""
     limpiar = lambda e: {'word': e['word'], 'translation': e['translation']}  # noqa: E731
     datos = {
         'title': ficha['titulo'],
-        'level': ficha.get('nivel') or 'B2',
+        'level': nivel_mostrado(ficha.get('nivel_fijo'), res['nivel']),
+        'levelDetail': res['nivel'],
         'englishAnalysis': ficha.get('analisis', ''),
         'tmdb': {'overview': ficha.get('sinopsis', ''), 'photos': ficha.get('fotos', [])},
     }
@@ -198,7 +226,8 @@ def datos_pagina(ficha, res):
     for k in sorted(res['episodios'], key=F.orden_episodio):
         r = res['episodios'][k]
         e = ficha['episodios'][k]
-        ep = {'code': k, 'name': e['nombre'], 'level': e.get('nivel') or ficha.get('nivel') or 'B2',
+        ep = {'code': k, 'name': e['nombre'], 'level': nivel_mostrado(e.get('nivel_fijo'), r['nivel']),
+              'levelDetail': r['nivel'],
               'vocabulary': [limpiar(x) for x in r['vocabulario']],
               'count': len(r['vocabulario']), 'dialogues': r['dialogos']}
         if e.get('analisis'):
@@ -252,6 +281,8 @@ def construir_manifest(lista_fichas, resultados, pelis):
             'type': 'series' if res['serie'] else 'movie',
             'episodes': episodios,
             'level': datos['level'],
+            # en las series, el nivel del episodio más fácil y el del más difícil
+            'levelRange': (res['nivel'] or {}).get('rango') if res['serie'] else None,
             'rating': f.get('clasificacion') or 'TE',
             'dialogues': sum(e['dialogues'] for e in episodios),
             # otros nombres (p. ej. el título en inglés del PDF de diálogos) para el buscador
@@ -342,6 +373,15 @@ def reporte(manifest, viejo, avisos, resultados, borrados):
             antes_d = v.get('dialogues', '— (nuevo)') if v else '— (nuevo)'
             L.append(f'| {m["title"]} | {v.get("count", "—")} | {m["count"]} | {antes_d} | {m["dialogues"]} '
                      f'| {len(r["repetidas"])} | {r["creditos"]} |')
+    cambios_nivel = [(m['title'], viejos.get(m['title'], {}).get('level'), m['level'])
+                     for m in na['movieList'] if viejos.get(m['title'], {}).get('level') != m['level']]
+    if cambios_nivel:
+        L += ['', '## Nivel de inglés (MCER) que cambió', '',
+              'Calculado por `nivel.py` (criterio en Metodología/Criterio de nivel de inglés (MCER).txt).', '',
+              '| Título | Antes | Ahora | Vocabulario · Diálogos · Temas |', '|---|---|---|---|']
+        for titulo, antes, ahora in sorted(cambios_nivel, key=lambda x: x[0].lower()):
+            sen = (resultados[titulo]['nivel'] or {}).get('senales', {})
+            L.append(f'| {titulo} | {antes or "—"} | {ahora} | {sen.get("vocabulario")} · {sen.get("dialogos")} · {sen.get("temas")} |')
     if borrados:
         L += ['', '## Títulos quitados (ya no tienen ficha)', ''] + [f'- {b[:-5]}' for b in borrados]
     L += ['', '## Avisos para revisar', '']

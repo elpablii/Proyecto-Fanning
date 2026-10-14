@@ -1,6 +1,33 @@
 {
   "title": "El Escuadrón Suicida",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.45,
+    "senales": {
+      "vocabulario": 4.62,
+      "dialogos": 4.22,
+      "temas": 4.12
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.3,
+        "A2": 6.8,
+        "B1": 15.6,
+        "B2": 22.4,
+        "C1": 17.5,
+        "C2": 27.4
+      },
+      "densidad": 12.8
+    },
+    "dialogos": {
+      "cobertura95": 4.35,
+      "ppm": 144.3
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "En esta secuela de 2021, el inglés es aún más explícito, brutal y teñido de humor negro. Presenta una mezcla fascinante de acentos (británicos, americanos y acentos fingidos) con jerga de mercenarios ('bounty', 'expendable', 'bloodbath') e insultos muy creativos.",
   "tmdb": {
     "overview": "Los supervillanos Harley Quinn, Bloodsport, Peacemaker y una colección de convictos desquiciados de la prisión de Belle Reve se unen a la super-secreta y super-oscura Fuerza Especial X mientras son arrojados a la remota isla de Corto Maltese, infestada de enemigos.",

@@ -1,6 +1,31 @@
 {
   "title": "Work It",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.99,
+    "senales": {
+      "vocabulario": 4.1,
+      "dialogos": 3.7,
+      "temas": 4.04
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.8,
+        "A2": 8.8,
+        "B1": 8.8,
+        "B2": 36.1,
+        "C1": 17.9,
+        "C2": 19.5
+      },
+      "densidad": 8.1
+    },
+    "dialogos": {
+      "cobertura95": 3.25,
+      "ppm": 190.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una excelente opción para familiarizarse con el inglés adolescente y la jerga escolar. Está llena de modismos contemporáneos, expresiones de entusiasmo y frustración, y un vocabulario centrado en la competición, la música urbana y la superación personal.",
   "tmdb": {
     "overview": "La joven Quinn Ackerman tiene grandes planes cuando salga de la preparatoria y el primero de ellos es poder conseguir un sitio en una de las universidades más reputadas del país. Entendiendo que cuanto más actividades extracurriculares tenga, mejores notas presenta en sus aplicaciones, Quinn decide que precisa una actividad más a fin de que su resumen sea tomado en cuenta y determina que su opción mejor es formar parte del escuadrón elite de baile de su escuela.  Mas hay una grave complicación: carece de cualquier habilidad para danzar, peor todavía intentar hacerlo a nivel de competencia. Cuando es rechazada en el equipo oficial, Quinn decide armar su conjunto de baile, con todos aquellos rechazados y talentosos estudiantes para transformarse en el equipo oficial de la escuela y representarla en la competencia estatal.",

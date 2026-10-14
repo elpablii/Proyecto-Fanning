@@ -1,6 +1,33 @@
 {
   "title": "A Minecraft Movie",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.53,
+    "senales": {
+      "vocabulario": 4.52,
+      "dialogos": 4.68,
+      "temas": 4.33
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.1,
+        "A2": 7.5,
+        "B1": 7.9,
+        "B2": 31.1,
+        "C1": 20.3,
+        "C2": 27.1
+      },
+      "densidad": 9.1
+    },
+    "dialogos": {
+      "cobertura95": 4.78,
+      "ppm": 147.0
+    },
+    "temas": [
+      "drogas y calle"
+    ]
+  },
   "englishAnalysis": "Una aventura con un inglés directo, divertido y muy accesible. Cuenta con un vocabulario lleno de términos relacionados a la construcción, la aventura y la fantasía. Al ser una película para toda la familia, la dicción suele ser clara y las expresiones son de uso común.",
   "tmdb": {
     "overview": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",

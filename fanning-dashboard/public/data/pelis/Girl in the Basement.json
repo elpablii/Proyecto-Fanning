@@ -1,6 +1,31 @@
 {
   "title": "Girl in the Basement",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 2.91,
+    "senales": {
+      "vocabulario": 3.1,
+      "dialogos": 2.05,
+      "temas": 3.6
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 20.0,
+        "A2": 0.0,
+        "B1": 6.7,
+        "B2": 60.0,
+        "C1": 0.0,
+        "C2": 13.3
+      },
+      "densidad": 1.5
+    },
+    "dialogos": {
+      "cobertura95": 2.29,
+      "ppm": 135.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Thriller dramático basado en hechos reales. El inglés es cotidiano y directo, con diálogos breves cargados de tensión: órdenes, súplicas y discusiones familiares sobre control y obediencia. Destacan las expresiones coloquiales y no literales ('keep your head down', 'done a number', 'hold tight') junto a vocabulario de emergencias médicas y vida doméstica.",
   "tmdb": {
     "overview": "Sara es una adolescente que está deseando que cumpla 18 años para alejarse de su padre controlador Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa.",

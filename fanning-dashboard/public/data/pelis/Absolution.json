@@ -1,6 +1,31 @@
 {
   "title": "Absolution",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.42,
+    "senales": {
+      "vocabulario": 3.4,
+      "dialogos": 3.28,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.7,
+        "A2": 7.9,
+        "B1": 12.6,
+        "B2": 31.4,
+        "C1": 18.9,
+        "C2": 13.5
+      },
+      "densidad": 5.2
+    },
+    "dialogos": {
+      "cobertura95": 3.17,
+      "ppm": 164.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "",
   "tmdb": {
     "overview": "",

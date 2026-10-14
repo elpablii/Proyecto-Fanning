@@ -1,6 +1,31 @@
 {
   "title": "A Rainy Day in New York",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.13,
+    "senales": {
+      "vocabulario": 4.44,
+      "dialogos": 3.37,
+      "temas": 4.18
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.3,
+        "A2": 10.5,
+        "B1": 13.4,
+        "B2": 28.2,
+        "C1": 17.2,
+        "C2": 25.4
+      },
+      "densidad": 9.7
+    },
+    "dialogos": {
+      "cobertura95": 2.95,
+      "ppm": 188.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "En esta película, podrás familiarizarte con un vocabulario culto y ocasionalmente pretencioso, propio de la élite de Manhattan. El inglés es fluido, salpicado con referencias al arte, literatura y al cine clásico, ideal para aprender modismos sofisticados y coloquialismos neoyorquinos.",
   "tmdb": {
     "overview": "Dos jóvenes llegan a Nueva York durante un fin de semana y viven una serie de aventuras con el mal tiempo como telón de fondo.",

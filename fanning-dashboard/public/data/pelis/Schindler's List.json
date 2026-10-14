@@ -1,6 +1,33 @@
 {
   "title": "Schindler's List",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.95,
+    "senales": {
+      "vocabulario": 4.11,
+      "dialogos": 3.45,
+      "temas": 4.19
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.6,
+        "A2": 7.2,
+        "B1": 13.9,
+        "B2": 29.3,
+        "C1": 19.1,
+        "C2": 23.9
+      },
+      "densidad": 6.9
+    },
+    "dialogos": {
+      "cobertura95": 3.54,
+      "ppm": 147.4
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Una obra que maneja un tono serio y solemne. El vocabulario es formal y cargado de terminología histórica, empresarial y militar de la Segunda Guerra Mundial. Requiere un nivel más avanzado debido a la carga dramática y a los variados acentos europeos.",
   "tmdb": {
     "overview": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.",

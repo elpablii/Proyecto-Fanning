@@ -1,6 +1,31 @@
 {
   "title": "Taylor Swift The Eras Tour Film",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.72,
+    "senales": {
+      "vocabulario": 4.11,
+      "dialogos": 2.82,
+      "temas": 3.67
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.2,
+        "A2": 10.3,
+        "B1": 14.3,
+        "B2": 37.4,
+        "C1": 13.3,
+        "C2": 12.5
+      },
+      "densidad": 11.2
+    },
+    "dialogos": {
+      "cobertura95": 3.1,
+      "ppm": 132.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Muestra un inglés íntimo, musical y expresivo. Combina monólogos poéticos con el argot del mundo del espectáculo y de los fans ('eras', 'stadium', 'bridge', 'acoustic'). Es un lenguaje moderno y cercano, ideal para acostumbrarse al ritmo conversacional contemporáneo y expresiones idiomáticas de sentimientos.",
   "tmdb": {
     "overview": "¡El fenómeno cultural continúa en la pantalla grande! Sumérgete en esta experiencia cinematográfica de concierto única en la vida con una vista cinematográfica impresionante de la gira histórica.",

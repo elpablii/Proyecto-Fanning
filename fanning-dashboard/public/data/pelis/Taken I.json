@@ -1,6 +1,31 @@
 {
   "title": "Taken I",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.3,
+    "senales": {
+      "vocabulario": 3.49,
+      "dialogos": 2.64,
+      "temas": 3.63
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.0,
+        "A2": 3.5,
+        "B1": 26.3,
+        "B2": 29.8,
+        "C1": 14.0,
+        "C2": 12.3
+      },
+      "densidad": 6.4
+    },
+    "dialogos": {
+      "cobertura95": 2.44,
+      "ppm": 171.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un clásico del cine de acción moderno. Lenguaje directo, amenazante y muy conciso. Vocabulario centrado en secuestros, seguridad, tácticas de interrogación y negociación ('particular set of skills').",
   "tmdb": {
     "overview": "Bryan Mills (Liam Neeson) es un agente especial jubilado. Pero cuando su hija Kim (Maggie Grace) es secuestrada en París por una organización criminal albanokosovar, tendrá que volver a la acción para intentar salvarla. La banda se dedica a una red de trata de blancas, por lo que Mills sabe que sólo dispone de unas horas para conseguir rescatarla antes de que se pierda el rastro de su hija.",

@@ -1,5 +1,16 @@
 // Tipos de public/data/pelis/<título>.json (lo genera `python fanning.py actualizar`).
 
+// Nivel de inglés (MCER) calculado por scripts/metricas/nivel.py.
+export interface NivelDetalle {
+  nivel: string;                 // "B2", "B1-B2"…
+  puntaje: number;               // 1 (A1) a 6 (C2)
+  senales: { vocabulario: number; dialogos: number; temas: number };
+  vocabulario: { distribucion: Record<string, number>; densidad: number | null };
+  dialogos: { cobertura95: number; ppm: number | null } | null;
+  temas: string[];               // áreas especializadas destacadas
+  rango?: [string, string];      // series: nivel del episodio más fácil y del más difícil
+}
+
 export interface VocabItem {
   word: string;
   translation: string;
@@ -16,6 +27,7 @@ export interface ExtraEpisode {
   code: string;
   name: string;
   level?: string;
+  levelDetail?: NivelDetalle | null;
   englishAnalysis?: string;
   vocabulary: VocabItem[];
   count: number;
@@ -25,6 +37,7 @@ export interface ExtraEpisode {
 export interface ExtraData {
   title: string;
   level?: string;
+  levelDetail?: NivelDetalle | null;
   englishAnalysis?: string;
   posterUrl?: string;
   backdropUrl?: string;

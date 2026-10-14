@@ -1,6 +1,33 @@
 {
   "title": "Ordinary Love",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.57,
+    "senales": {
+      "vocabulario": 3.75,
+      "dialogos": 2.52,
+      "temas": 4.56
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.0,
+        "A2": 7.8,
+        "B1": 15.6,
+        "B2": 31.2,
+        "C1": 16.9,
+        "C2": 15.6
+      },
+      "densidad": 7.4
+    },
+    "dialogos": {
+      "cobertura95": 2.6,
+      "ppm": 148.9
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Un drama íntimo ambientado en Irlanda. El vocabulario médico abunda (debido a un diagnóstico de cáncer), así como el inglés doméstico de una pareja de la tercera edad. Permite acostumbrarse al acento norirlandés suave y melancólico.",
   "tmdb": {
     "overview": "Joan y Tom han estado casados por muchos años. Una pareja como cualquiera, con un amor extraordinario, cuya solidez se basa en la vida que han podido construir de la mano. Pero cuando a ella le diagnostican cáncer de seno, las cosas se complican, pues tendrán que encontrar las fuerzas necesarias para salir adelante. Y tú, ¿qué harías si estuvieras a punto de perder al amor de tu vida?",

@@ -1,6 +1,33 @@
 {
   "title": "WALL-E",
-  "level": "A1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.72,
+    "senales": {
+      "vocabulario": 3.88,
+      "dialogos": 3.08,
+      "temas": 4.11
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 4.3,
+        "A2": 2.2,
+        "B1": 23.9,
+        "B2": 34.8,
+        "C1": 17.4,
+        "C2": 17.4
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 3.58,
+      "ppm": 113.7
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Aunque tiene muy poco diálogo al principio, el vocabulario posterior se centra en corporativismo exagerado, automatización y consumismo ('directive', 'auto-pilot', 'plant'). Voces de robots y acentos americanos muy estandarizados.",
   "tmdb": {
     "overview": "En un futuro lejano, un pequeño robot recolector de residuos se embarca inadvertidamente en un viaje espacial que decidirá en última instancia el destino de la humanidad.",

@@ -1,6 +1,33 @@
 {
   "title": "Lilo and Stitch II",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.81,
+    "senales": {
+      "vocabulario": 3.77,
+      "dialogos": 3.69,
+      "temas": 4.16
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.3,
+        "A2": 2.6,
+        "B1": 12.9,
+        "B2": 31.6,
+        "C1": 20.6,
+        "C2": 22.1
+      },
+      "densidad": 4.5
+    },
+    "dialogos": {
+      "cobertura95": 3.9,
+      "ppm": 138.5
+    },
+    "temas": [
+      "científica y técnica"
+    ]
+  },
   "englishAnalysis": "Utilizando como referencia 'Dialogues from Lilo and Stitch II to improve the vocabulary in English.pdf', esta película ofrece un inglés sumamente familiar y relajado. Contiene jerga hawaiana mezclada con términos alienígenas cómicos y vocabulario cotidiano sobre la familia y la amistad.",
   "tmdb": {
     "overview": "Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.",

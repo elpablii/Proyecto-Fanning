@@ -1,6 +1,34 @@
 {
   "title": "Rambo II",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.03,
+      "dialogos": 3.21,
+      "temas": 4.08
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.6,
+        "A2": 6.8,
+        "B1": 25.0,
+        "B2": 22.7,
+        "C1": 11.4,
+        "C2": 20.5
+      },
+      "densidad": 10.0
+    },
+    "dialogos": {
+      "cobertura95": 3.33,
+      "ppm": 145.0
+    },
+    "temas": [
+      "militar y policial",
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Inglés militar táctico de los años 80, muy similar a la primera parte pero más enfocado en el combate activo. Expresiones cortas, jerga de armamento, supervivencia en la selva y acentos eslavos/asiáticos fingidos.",
   "tmdb": {
     "overview": "Rambo, encarcelado por sus antiguos crímenes, recibe por parte del coronel Trautman la misión optativa de ir a Vietnam para comprobar si aún quedan prisioneros de guerra. Si la misión saliera bien, el presidente le concedería el perdón, y así sería libre. Rambo acepta. Está bajo las órdenes de un falso teniente (Murdock), al que muy en el fondo sólo le interesa el dinero y el poder de su nación, y al que le da igual perder a unos cuantos hombres, por muy inocentes que sean, si sigue controlando las cosas como él quiere. Murdock le encarga que sólo saque fotos, y que no ataque al enemigo. Pero al saltar en paracaídas sobre un área selvática prohibida, Rambo pierde todo su equipo, excepto un cuchillo dentado y un arco.",

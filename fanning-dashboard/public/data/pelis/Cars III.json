@@ -1,6 +1,31 @@
 {
   "title": "Cars III",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.79,
+    "senales": {
+      "vocabulario": 3.89,
+      "dialogos": 3.48,
+      "temas": 3.93
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.5,
+        "A2": 4.8,
+        "B1": 16.1,
+        "B2": 32.3,
+        "C1": 22.6,
+        "C2": 13.7
+      },
+      "densidad": 7.3
+    },
+    "dialogos": {
+      "cobertura95": 3.2,
+      "ppm": 177.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "El vocabulario aquí mezcla el deporte automovilístico, la superación personal y el legado. Las expresiones varían desde jerga técnica de carreras, hasta coloquialismos sureños amigables y frases de aliento típicas en la cultura deportiva.",
   "tmdb": {
     "overview": "La elegante corredora Cruz Ramirez ayudará al veterano campeón Rayo McQueen a regresar a la pista enfrentando a una nueva generación de corredores de alta tecnología. Pronto, Rayo McQueen demostrará que sigue siendo el mejor del mundo.",

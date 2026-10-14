@@ -1,6 +1,33 @@
 {
   "title": "Top Gun",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.52,
+    "senales": {
+      "vocabulario": 3.35,
+      "dialogos": 3.85,
+      "temas": 3.66
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.0,
+        "A2": 18.4,
+        "B1": 18.4,
+        "B2": 29.8,
+        "C1": 13.2,
+        "C2": 6.1
+      },
+      "densidad": 8.2
+    },
+    "dialogos": {
+      "cobertura95": 3.46,
+      "ppm": 186.5
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Inglés militar estadounidense de la Guerra Fría saturado de jerga de aviación ('bogey', 'mach', 'wingman') y mucha actitud. Acentos fuertes y lenguaje directo y asertivo bajo presión.",
   "tmdb": {
     "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",

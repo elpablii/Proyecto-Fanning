@@ -1,6 +1,31 @@
 {
   "title": "Orgullo y Prejuicio",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.48,
+    "senales": {
+      "vocabulario": 5.01,
+      "dialogos": 3.16,
+      "temas": 4.51
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 4.9,
+        "B1": 12.4,
+        "B2": 24.3,
+        "C1": 16.2,
+        "C2": 36.8
+      },
+      "densidad": 14.6
+    },
+    "dialogos": {
+      "cobertura95": 3.08,
+      "ppm": 161.5
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un escaparate del inglés británico del siglo XIX. El lenguaje es muy formal, educado y lleno de cortesías elaboradas. Es perfecto para sumergirse en una gramática más compleja, vocabulario avanzado de época y las sutilezas del romance clásico de alta cuna.",
   "tmdb": {
     "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",

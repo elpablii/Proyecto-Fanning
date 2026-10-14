@@ -1,6 +1,33 @@
 {
   "title": "The Muppet Show",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.97,
+    "senales": {
+      "vocabulario": 4.04,
+      "dialogos": 3.74,
+      "temas": 4.07
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.6,
+        "A2": 7.6,
+        "B1": 15.3,
+        "B2": 30.5,
+        "C1": 17.8,
+        "C2": 21.1
+      },
+      "densidad": 7.4
+    },
+    "dialogos": {
+      "cobertura95": 3.88,
+      "ppm": 144.0
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Basado en los diálogos del episodio (como se refleja en 'Dialogues from The Muppet Show (with Sabrina Carpenter) to improve the vocabulary in English.pdf'), este vocabulario te expone a las ocurrencias cómicas, juegos de palabras teatrales y el ritmo acelerado típico de los Muppets mezclado con el inglés contemporáneo de Sabrina.",
   "tmdb": {
     "overview": "Go behind the curtains as Kermit the Frog and his muppet friends struggle to put on a weekly variety show.",

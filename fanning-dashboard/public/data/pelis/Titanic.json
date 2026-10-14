@@ -1,6 +1,31 @@
 {
   "title": "Titanic",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.17,
+      "dialogos": 3.09,
+      "temas": 3.67
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.0,
+        "A2": 11.1,
+        "B1": 20.2,
+        "B2": 31.9,
+        "C1": 18.7,
+        "C2": 9.0
+      },
+      "densidad": 15.9
+    },
+    "dialogos": {
+      "cobertura95": 2.93,
+      "ppm": 167.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Contrasta vívidamente el inglés elegante y anticuado de la clase alta británica y estadounidense ('proprietor', 'steerage', 'honor') con el lenguaje coloquial e informal de la clase trabajadora ('bloke', 'mate', 'lad'). Incluye vocabulario náutico ('bow', 'stern', 'lifeboat').",
   "tmdb": {
     "overview": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",

@@ -1,6 +1,33 @@
 {
   "title": "Now is Good",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.55,
+    "senales": {
+      "vocabulario": 3.88,
+      "dialogos": 2.59,
+      "temas": 3.8
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.8,
+        "A2": 6.8,
+        "B1": 13.7,
+        "B2": 35.0,
+        "C1": 17.1,
+        "C2": 14.5
+      },
+      "densidad": 8.2
+    },
+    "dialogos": {
+      "cobertura95": 2.4,
+      "ppm": 170.1
+    },
+    "temas": [
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Drama juvenil británico. Excelente para acostumbrar el oído al acento inglés moderno, lenguaje coloquial de la juventud británica y vocabulario médico/emocional.",
   "tmdb": {
     "overview": "Tessa hace una lista de las cosas que ella quiere hacer antes de morir de leucemia. Encabezando la lista está su deseo de perder su virginidad.",

@@ -1,6 +1,31 @@
 {
   "title": "Rocky I",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.8,
+    "senales": {
+      "vocabulario": 3.95,
+      "dialogos": 3.66,
+      "temas": 3.45
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.3,
+        "A2": 14.3,
+        "B1": 17.9,
+        "B2": 32.1,
+        "C1": 13.8,
+        "C2": 8.7
+      },
+      "densidad": 11.6
+    },
+    "dialogos": {
+      "cobertura95": 3.27,
+      "ppm": 186.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "El origen de la saga ofrece el acento inconfundible italoamericano de Filadelfia. Diálogos sencillos, directos, con jerga callejera de los años 70 y vocabulario del mundo del boxeo. Ideal para acostumbrar el oído a pronunciaciones cerradas.",
   "tmdb": {
     "overview": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",

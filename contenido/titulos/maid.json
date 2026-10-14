@@ -1,7 +1,6 @@
 {
   "titulo": "Maid",
   "tipo": "serie",
-  "nivel": "B2",
   "clasificacion": "+18",
   "tmdb": {
     "tipo": "tv",
@@ -34,61 +33,51 @@
   "episodios": {
     "S01E01": {
       "nombre": "Maid (Episode 1)",
-      "nivel": "C1",
       "titulo": "Dollar Store",
       "foto": "https://image.tmdb.org/t/p/w500/eT1iikHCvdDdK44RJdsaBCvCFES.jpg"
     },
     "S01E02": {
       "nombre": "Maid (Episode 2)",
-      "nivel": "C1",
       "titulo": "Ponies",
       "foto": "https://image.tmdb.org/t/p/w500/j7nIfAMiVF88layu4O3oUocLdEy.jpg"
     },
     "S01E03": {
       "nombre": "Maid (Episode 3)",
-      "nivel": "C1",
       "titulo": "Sea Glass",
       "foto": "https://image.tmdb.org/t/p/w500/G9aF7CouxyHhkoOIafEgFzCSc2.jpg"
     },
     "S01E04": {
       "nombre": "Maid (Episode 4)",
-      "nivel": "B2",
       "titulo": "Cashmere",
       "foto": "https://image.tmdb.org/t/p/w500/4nXVSsIW7HHr0VxlrTkan2ans2S.jpg"
     },
     "S01E05": {
       "nombre": "Maid (Episode 5)",
-      "nivel": "C1",
       "titulo": "Thief",
       "foto": "https://image.tmdb.org/t/p/w500/zGuBOOED7VZne0JlhBPSqCpx6mB.jpg"
     },
     "S01E06": {
       "nombre": "Maid (Episode 6)",
-      "nivel": "C1",
       "titulo": "M",
       "foto": "https://image.tmdb.org/t/p/w500/pWVVfP0Dj3qJfXiHTgxzGAKAxY3.jpg"
     },
     "S01E07": {
       "nombre": "Maid (Episode 7)",
-      "nivel": "C1",
       "titulo": "String Cheese",
       "foto": "https://image.tmdb.org/t/p/w500/mAEMjStdIDNO0Jb9gOxZXcqUpGq.jpg"
     },
     "S01E08": {
       "nombre": "Maid (Episode 8)",
-      "nivel": "C1",
       "titulo": "Bear Hunt",
       "foto": "https://image.tmdb.org/t/p/w500/hsvarVhEVnm58gpavdM3i3xRNnY.jpg"
     },
     "S01E09": {
       "nombre": "Maid (Episode 9)",
-      "nivel": "C1",
       "titulo": "Sky Blue",
       "foto": "https://image.tmdb.org/t/p/w500/cCDqFu6USJapxSSjEb3l3XFKbWM.jpg"
     },
     "S01E10": {
       "nombre": "Maid (Episode 10)",
-      "nivel": "C1",
       "titulo": "Snaps",
       "foto": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg"
     }

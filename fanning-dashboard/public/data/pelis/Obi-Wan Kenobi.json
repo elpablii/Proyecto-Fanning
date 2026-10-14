@@ -1,6 +1,37 @@
 {
   "title": "Obi-Wan Kenobi",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.55,
+    "senales": {
+      "vocabulario": 3.32,
+      "dialogos": 3.56,
+      "temas": 3.79
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.9,
+        "A2": 4.3,
+        "B1": 16.1,
+        "B2": 34.3,
+        "C1": 17.1,
+        "C2": 14.3
+      },
+      "densidad": 3.9
+    },
+    "dialogos": {
+      "cobertura95": 3.49,
+      "ppm": 160.6
+    },
+    "temas": [
+      "militar y policial"
+    ],
+    "rango": [
+      "B1-B2",
+      "B2"
+    ]
+  },
   "englishAnalysis": "El vocabulario de Obi-Wan Kenobi se sumerge en el lenguaje militar imperial, terminología de ciencia ficción intergaláctica, jerga de los bajos fondos de la galaxia y un tono solemne Jedi.",
   "tmdb": {
     "overview": "Diez años después del final de las Guerras Clon, el Imperio domina la galaxia, y Obi-Wan Kenobi sale de las tinieblas para cumplir una misión vital.",
@@ -45,7 +76,32 @@
     {
       "code": "S01E01",
       "name": "Obi-Wan Kenobi (Part I)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.4,
+        "senales": {
+          "vocabulario": 3.48,
+          "dialogos": 2.96,
+          "temas": 3.83
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.0,
+            "A2": 4.3,
+            "B1": 13.0,
+            "B2": 39.1,
+            "C1": 17.4,
+            "C2": 13.0
+          },
+          "densidad": 4.8
+        },
+        "dialogos": {
+          "cobertura95": 2.83,
+          "ppm": 165.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Rumors run rampant",
@@ -146,7 +202,32 @@
     {
       "code": "S01E02",
       "name": "Obi-Wan Kenobi (Part II)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.38,
+        "senales": {
+          "vocabulario": 3.5,
+          "dialogos": 2.73,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 21.4,
+            "A2": 0.0,
+            "B1": 0.0,
+            "B2": 35.7,
+            "C1": 21.4,
+            "C2": 21.4
+          },
+          "densidad": 3.5
+        },
+        "dialogos": {
+          "cobertura95": 2.62,
+          "ppm": 163.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Break it up (en discusiones)",
@@ -211,7 +292,32 @@
     {
       "code": "S01E03",
       "name": "Obi-Wan Kenobi (Part III)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.55,
+        "senales": {
+          "vocabulario": 3.1,
+          "dialogos": 4.62,
+          "temas": 3.59
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.8,
+            "A2": 5.9,
+            "B1": 23.5,
+            "B2": 35.3,
+            "C1": 17.6,
+            "C2": 5.9
+          },
+          "densidad": 3.7
+        },
+        "dialogos": {
+          "cobertura95": 4.56,
+          "ppm": 159.6
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "A rat who preys on weakness",
@@ -288,7 +394,32 @@
     {
       "code": "S01E04",
       "name": "Obi-Wan Kenobi (Part IV)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.64,
+        "senales": {
+          "vocabulario": 3.71,
+          "dialogos": 3.14,
+          "temas": 4.17
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 0.0,
+            "B1": 16.7,
+            "B2": 41.7,
+            "C1": 8.3,
+            "C2": 25.0
+          },
+          "densidad": 4.0
+        },
+        "dialogos": {
+          "cobertura95": 2.97,
+          "ppm": 168.3
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Strays",
@@ -345,7 +476,34 @@
     {
       "code": "S01E05",
       "name": "Obi-Wan Kenobi (Part V)",
-      "level": "B1",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.44,
+        "senales": {
+          "vocabulario": 3.02,
+          "dialogos": 3.17,
+          "temas": 5.57
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.8,
+            "A2": 11.8,
+            "B1": 29.4,
+            "B2": 23.5,
+            "C1": 23.5,
+            "C2": 0.0
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 2.98,
+          "ppm": 170.1
+        },
+        "temas": [
+          "militar y policial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Maybe I stand more of a chance this time",
@@ -422,7 +580,32 @@
     {
       "code": "S01E06",
       "name": "Obi-Wan Kenobi (Part VI)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.86,
+        "senales": {
+          "vocabulario": 3.56,
+          "dialogos": 4.46,
+          "temas": 4.06
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 19.4,
+            "A2": 0.0,
+            "B1": 9.7,
+            "B2": 29.1,
+            "C1": 9.7,
+            "C2": 32.0
+          },
+          "densidad": 2.4
+        },
+        "dialogos": {
+          "cobertura95": 4.66,
+          "ppm": 139.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Rear",

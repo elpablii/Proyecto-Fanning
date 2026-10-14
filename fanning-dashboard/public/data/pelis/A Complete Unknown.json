@@ -1,6 +1,31 @@
 {
   "title": "A Complete Unknown",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.88,
+    "senales": {
+      "vocabulario": 4.02,
+      "dialogos": 3.55,
+      "temas": 3.88
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.9,
+        "A2": 10.8,
+        "B1": 14.2,
+        "B2": 34.9,
+        "C1": 16.7,
+        "C2": 15.5
+      },
+      "densidad": 8.7
+    },
+    "dialogos": {
+      "cobertura95": 3.48,
+      "ppm": 160.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Situada en los años 60 y centrada en la vida de Bob Dylan, esta película ofrece un rico vocabulario musical y poético, así como expresiones propias de la contracultura, el folk y los artistas de la época. Excelente para aprender modismos históricos y la jerga bohemia.",
   "tmdb": {
     "overview": "Ambientada en la influyente escena musical de Nueva York de principios de los años 60, sigue el meteórico ascenso del músico de Minnesota de 19 años Bob Dylan como cantante folk en las salas de conciertos y la cima de las listas de éxitos.",

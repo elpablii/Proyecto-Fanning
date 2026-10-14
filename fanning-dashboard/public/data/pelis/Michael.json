@@ -1,6 +1,31 @@
 {
   "title": "Michael",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.21,
+    "senales": {
+      "vocabulario": 3.27,
+      "dialogos": 2.83,
+      "temas": 3.65
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.0,
+        "A2": 13.0,
+        "B1": 11.2,
+        "B2": 30.8,
+        "C1": 18.0,
+        "C2": 13.0
+      },
+      "densidad": 4.5
+    },
+    "dialogos": {
+      "cobertura95": 2.94,
+      "ppm": 146.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "Un recorrido por la vida de Michael Jackson, que incluye un extenso vocabulario sobre la industria musical, el escrutinio de la prensa, los procesos legales y la fama. Con mucha terminología ligada al mundo del espectáculo.",
   "tmdb": {
     "overview": "Narra la vida de Michael Jackson más allá de la música, recorriendo su trayectoria desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en un artista visionario cuya ambición creativa le impulsó a convertirse en el artista más grande del mundo.",

@@ -1,6 +1,31 @@
 {
   "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.94,
+    "senales": {
+      "vocabulario": 4.34,
+      "dialogos": 2.8,
+      "temas": 4.22
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.3,
+        "A2": 6.0,
+        "B1": 15.0,
+        "B2": 33.1,
+        "C1": 16.5,
+        "C2": 24.1
+      },
+      "densidad": 8.6
+    },
+    "dialogos": {
+      "cobertura95": 2.85,
+      "ppm": 151.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés musical poético e introspectivo. Extremadamente conversacional, ideal para escuchar reflexiones en inglés sobre el proceso creativo con acento americano moderno y relajado.",
   "tmdb": {
     "overview": "An intimate concert film, in which Taylor Swift performs each song from her album 'folklore' in order, as she reveals the meaning and the stories behind all 17 tracks for the very first time.",

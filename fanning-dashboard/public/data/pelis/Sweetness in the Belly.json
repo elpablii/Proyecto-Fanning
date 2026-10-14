@@ -1,6 +1,33 @@
 {
   "title": "Sweetness in the Belly",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.33,
+    "senales": {
+      "vocabulario": 3.24,
+      "dialogos": 3.32,
+      "temas": 3.68
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.4,
+        "A2": 6.8,
+        "B1": 22.8,
+        "B2": 34.2,
+        "C1": 11.4,
+        "C2": 13.4
+      },
+      "densidad": 4.1
+    },
+    "dialogos": {
+      "cobertura95": 3.13,
+      "ppm": 170.4
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Este drama destaca por sus diversos acentos. El vocabulario está fuertemente marcado por temas de religión, asilo, migración y contrastes culturales, por lo que su lenguaje es muy humano, diplomático y emotivo.",
   "tmdb": {
     "overview": "Lilly Abdal, una niña huérfana llega a Inglaterra como refugiada, país de sus padres, escapando de la guerra civil. Allí se enfrasca en la labor de volver a juntar a las familias que han quedado separadas tras la llegada a Londres. Pero pronto, Amina, su amiga, se da cuenta que el objetivo de Lilly va más allá de lo que parece.",

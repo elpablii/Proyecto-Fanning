@@ -1,6 +1,31 @@
 {
   "title": "Toy Story IV",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.46,
+    "senales": {
+      "vocabulario": 3.24,
+      "dialogos": 3.83,
+      "temas": 3.74
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.4,
+        "A2": 5.7,
+        "B1": 15.8,
+        "B2": 36.4,
+        "C1": 11.5,
+        "C2": 16.2
+      },
+      "densidad": 3.4
+    },
+    "dialogos": {
+      "cobertura95": 3.64,
+      "ppm": 170.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Como es tradición en Pixar, el inglés es nítido y apto para toda la familia. Incluye divertidos juegos de palabras, jerga de ferias de atracciones, y expresiones sobre el propósito y la lealtad. Ideal para aprender el habla cotidiana.",
   "tmdb": {
     "overview": "Cuando un nuevo juguete llamado «Forky» se une a Woody y a la pandilla, un viaje por carretera junto a viejos y nuevos amigos revela lo grande que puede ser el mundo para un juguete.",

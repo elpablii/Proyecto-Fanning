@@ -1,6 +1,31 @@
 {
   "title": "Cars 2",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.02,
+    "senales": {
+      "vocabulario": 4.19,
+      "dialogos": 3.82,
+      "temas": 3.69
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.9,
+        "A2": 10.7,
+        "B1": 15.2,
+        "B2": 35.0,
+        "C1": 13.2,
+        "C2": 14.0
+      },
+      "densidad": 15.6
+    },
+    "dialogos": {
+      "cobertura95": 3.61,
+      "ppm": 172.1
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés dinámico que combina el acento sureño y campechano ('redneck') de Mater con vocabulario internacional de espionaje, tácticas, armas secretas y expresiones británicas.",
   "tmdb": {
     "overview": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",

@@ -1,6 +1,31 @@
 {
   "title": "Cenicienta",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.95,
+    "senales": {
+      "vocabulario": 4.14,
+      "dialogos": 3.27,
+      "temas": 4.32
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.3,
+        "A2": 8.3,
+        "B1": 15.0,
+        "B2": 26.7,
+        "C1": 20.0,
+        "C2": 26.7
+      },
+      "densidad": 6.2
+    },
+    "dialogos": {
+      "cobertura95": 3.68,
+      "ppm": 122.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "El clásico de Disney ofrece un inglés pulcro, melódico y extremadamente poético. Las expresiones formales de la nobleza se mezclan con diálogos musicales juguetones. Ideal para aprender vocabulario de los cuentos de hadas tradicionales.",
   "tmdb": {
     "overview": "Cuando la cruel madrastra de Cenicienta le impide asistir al Baile Real, recibe ayuda inesperada de los adorables ratones Gus y Jaq, y de su Hada Madrina.",

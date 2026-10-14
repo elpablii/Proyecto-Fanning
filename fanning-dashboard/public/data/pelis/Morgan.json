@@ -1,6 +1,31 @@
 {
   "title": "Morgan",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.46,
+    "senales": {
+      "vocabulario": 3.49,
+      "dialogos": 3.1,
+      "temas": 3.94
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 4.2,
+        "A2": 10.4,
+        "B1": 25.0,
+        "B2": 29.2,
+        "C1": 10.4,
+        "C2": 20.8
+      },
+      "densidad": 4.0
+    },
+    "dialogos": {
+      "cobertura95": 2.96,
+      "ppm": 165.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una cinta de ciencia ficción sobre inteligencia artificial. El vocabulario es corporativo y científico, con terminología de laboratorios, ética genética y seguridad. El diálogo es frío, calculador y muy técnico.",
   "tmdb": {
     "overview": "Una compañía tecnológica crea un ser artificial, sin ser conscientes de su verdadero potencial. Cuando las cosas comienzan a salirse de su control, deciden contratar a una especialista para determinar si acabar con la criatura o mantenerla viva.",

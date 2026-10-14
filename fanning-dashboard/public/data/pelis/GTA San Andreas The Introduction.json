@@ -1,6 +1,34 @@
 {
   "title": "GTA San Andreas The Introduction",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.33,
+    "senales": {
+      "vocabulario": 4.73,
+      "dialogos": 3.34,
+      "temas": 4.41
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 0.0,
+        "B1": 10.8,
+        "B2": 43.2,
+        "C1": 13.5,
+        "C2": 27.0
+      },
+      "densidad": 10.2
+    },
+    "dialogos": {
+      "cobertura95": 3.05,
+      "ppm": 178.0
+    },
+    "temas": [
+      "militar y policial",
+      "financiera y empresarial"
+    ]
+  },
   "englishAnalysis": "El lenguaje es puro slang criminal de los años 90 en Estados Unidos. Vas a encontrarte con innumerables modismos de pandillas, insultos, y expresiones de negocios turbios de la mafia, perfecto para entender el AAVE (Inglés Vernáculo Afroamericano) y el inglés callejero.",
   "tmdb": {
     "overview": "La tensión aumenta a medida que se concretan amenazas, suben las apuestas y falla la comunicación.\r En Los Santos, un tiroteo desde un auto en el territorio de Grove Street desata una cadena de acontecimientos que conducen directamente al inicio del juego.",

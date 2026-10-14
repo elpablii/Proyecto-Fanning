@@ -1,6 +1,38 @@
 {
   "title": "The Girl From Plainville",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.66,
+    "senales": {
+      "vocabulario": 3.51,
+      "dialogos": 3.04,
+      "temas": 6
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.0,
+        "A2": 10.7,
+        "B1": 14.5,
+        "B2": 35.4,
+        "C1": 15.0,
+        "C2": 15.3
+      },
+      "densidad": 5.1
+    },
+    "dialogos": {
+      "cobertura95": 3.22,
+      "ppm": 140.4
+    },
+    "temas": [
+      "legal y judicial",
+      "médica y de salud"
+    ],
+    "rango": [
+      "B1",
+      "B2"
+    ]
+  },
   "englishAnalysis": "Miniserie que ofrece un vocabulario juvenil combinado con jerga legal y policial. Debido a la temática de los mensajes de texto y la persuasión, encontrarás muchas expresiones relacionadas con la culpa, el estado mental, los tribunales y el lenguaje digital adolescente.",
   "tmdb": {
     "overview": "Basada en la historia real de Michelle Carter, una joven de un pequeño pueblo de Massachusetts que fue acusada de persuadir a su novio para que se suicidara.",
@@ -53,6 +85,31 @@
       "code": "S01E01",
       "name": "The Girl From Plainville (Episode 1)",
       "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 2.86,
+        "senales": {
+          "vocabulario": 2.81,
+          "dialogos": 2.62,
+          "temas": 3.47
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 21.4,
+            "A2": 17.9,
+            "B1": 14.3,
+            "B2": 25.0,
+            "C1": 10.7,
+            "C2": 10.7
+          },
+          "densidad": 4.7
+        },
+        "dialogos": {
+          "cobertura95": 2.93,
+          "ppm": 130.2
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Any reason he'd up and disappear?",
@@ -174,7 +231,34 @@
     {
       "code": "S01E02",
       "name": "The Girl From Plainville (Episode 2)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.36,
+        "senales": {
+          "vocabulario": 3.49,
+          "dialogos": 2.74,
+          "temas": 3.88
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.9,
+            "A2": 9.9,
+            "B1": 7.6,
+            "B2": 33.1,
+            "C1": 33.1,
+            "C2": 6.3
+          },
+          "densidad": 4.5
+        },
+        "dialogos": {
+          "cobertura95": 2.78,
+          "ppm": 151.7
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Gush (verbo)",
@@ -316,7 +400,34 @@
     {
       "code": "S01E03",
       "name": "The Girl From Plainville (Episode 3)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.68,
+        "senales": {
+          "vocabulario": 3.74,
+          "dialogos": 2.75,
+          "temas": 4.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.3,
+            "A2": 9.1,
+            "B1": 18.2,
+            "B2": 43.2,
+            "C1": 18.2,
+            "C2": 9.1
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 2.94,
+          "ppm": 140.2
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Warrant",
@@ -502,7 +613,35 @@
     {
       "code": "S01E04",
       "name": "The Girl From Plainville (Episode 4)",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.52,
+        "senales": {
+          "vocabulario": 3.08,
+          "dialogos": 3.09,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 15.0,
+            "A2": 15.0,
+            "B1": 18.9,
+            "B2": 27.0,
+            "C1": 12.0,
+            "C2": 12.0
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 3.15,
+          "ppm": 150.5
+        },
+        "temas": [
+          "legal y judicial",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Commit (verbo en salud)",
@@ -648,7 +787,34 @@
     {
       "code": "S01E05",
       "name": "The Girl From Plainville (Episode 5)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.85,
+        "senales": {
+          "vocabulario": 3.6,
+          "dialogos": 3.18,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.6,
+            "A2": 8.4,
+            "B1": 9.6,
+            "B2": 33.5,
+            "C1": 9.6,
+            "C2": 26.4
+          },
+          "densidad": 4.5
+        },
+        "dialogos": {
+          "cobertura95": 3.23,
+          "ppm": 150.8
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Get the case dismissed",
@@ -762,7 +928,34 @@
     {
       "code": "S01E06",
       "name": "The Girl From Plainville (Episode 6)",
-      "level": "B1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.04,
+        "senales": {
+          "vocabulario": 3.91,
+          "dialogos": 3.17,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.9,
+            "A2": 0.0,
+            "B1": 11.9,
+            "B2": 40.7,
+            "C1": 4.0,
+            "C2": 35.6
+          },
+          "densidad": 3.7
+        },
+        "dialogos": {
+          "cobertura95": 3.35,
+          "ppm": 140.7
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Is there any business either counsel would like to handle?",
@@ -876,7 +1069,35 @@
     {
       "code": "S01E07",
       "name": "The Girl From Plainville (Episode 7)",
-      "level": "C1",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.96,
+        "senales": {
+          "vocabulario": 3.7,
+          "dialogos": 3.38,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.5,
+            "A2": 10.9,
+            "B1": 15.2,
+            "B2": 45.5,
+            "C1": 12.6,
+            "C2": 13.4
+          },
+          "densidad": 5.6
+        },
+        "dialogos": {
+          "cobertura95": 3.71,
+          "ppm": 128.5
+        },
+        "temas": [
+          "legal y judicial",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "I'm left crying in bed (parcialmente no literal)",
@@ -1051,6 +1272,34 @@
       "code": "S01E08",
       "name": "The Girl From Plainville (Episode 8)",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 3.84,
+          "dialogos": 3.31,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.5,
+            "A2": 13.1,
+            "B1": 16.3,
+            "B2": 29.4,
+            "C1": 16.3,
+            "C2": 18.3
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 3.61,
+          "ppm": 130.9
+        },
+        "temas": [
+          "legal y judicial",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Waive (verbo en sentido legal)",

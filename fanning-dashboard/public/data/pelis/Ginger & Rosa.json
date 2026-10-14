@@ -1,6 +1,31 @@
 {
   "title": "Ginger & Rosa",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.64,
+    "senales": {
+      "vocabulario": 3.75,
+      "dialogos": 3.05,
+      "temas": 4.19
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 8.1,
+        "B1": 16.2,
+        "B2": 29.7,
+        "C1": 13.5,
+        "C2": 27.0
+      },
+      "densidad": 4.1
+    },
+    "dialogos": {
+      "cobertura95": 3.15,
+      "ppm": 147.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama ambientado en el Londres de la década de 1960. El inglés destaca por el acento británico juvenil y bohemio de la época, abordando vocabulario relacionado con el pacifismo, la política, la poesía y el activismo antinuclear.",
   "tmdb": {
     "overview": "Una mirada a las vidas de dos adolescentes, amigas inseparables Ginger y Rosa, que crecieron en el Londres de los años sesenta mientras se avecina la Crisis de los Misiles en Cuba, y el evento fundamental que viene a redefinir su relación.",

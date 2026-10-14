@@ -1,6 +1,31 @@
 {
   "title": "Super Mario Galaxy",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.05,
+    "senales": {
+      "vocabulario": 3.75,
+      "dialogos": 4.68,
+      "temas": 4.24
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 7.2,
+        "B1": 10.8,
+        "B2": 36.0,
+        "C1": 16.2,
+        "C2": 24.5
+      },
+      "densidad": 3.7
+    },
+    "dialogos": {
+      "cobertura95": 5.18,
+      "ppm": 93.2
+    },
+    "temas": []
+  },
   "englishAnalysis": "Una aventura lúdica e imaginativa. El vocabulario está impregnado de términos del espacio, la exploración y la magia. Al estar dirigido a un público amplio, las expresiones son sencillas, muy entusiastas y fáciles de seguir.",
   "tmdb": {
     "overview": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",

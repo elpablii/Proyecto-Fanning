@@ -1,6 +1,33 @@
 {
   "title": "The Truman Show",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.89,
+    "senales": {
+      "vocabulario": 4.49,
+      "dialogos": 2.39,
+      "temas": 3.99
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.8,
+        "A2": 3.6,
+        "B1": 12.0,
+        "B2": 37.3,
+        "C1": 21.7,
+        "C2": 14.5
+      },
+      "densidad": 11.9
+    },
+    "dialogos": {
+      "cobertura95": 2.89,
+      "ppm": 109.6
+    },
+    "temas": [
+      "financiera y empresarial"
+    ]
+  },
   "englishAnalysis": "Una cápsula del tiempo del idílico y prefabricado inglés americano de los suburbios de los años 90. Diálogos exageradamente amables, vocabulario de vecindario y expresiones de publicidad encubierta. Excelente para el inglés 'perfecto' y cotidiano.",
   "tmdb": {
     "overview": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",

@@ -1,6 +1,31 @@
 {
   "title": "Tall Girl I",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.76,
+    "senales": {
+      "vocabulario": 3.93,
+      "dialogos": 3.21,
+      "temas": 3.96
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.2,
+        "A2": 9.5,
+        "B1": 9.5,
+        "B2": 35.8,
+        "C1": 15.3,
+        "C2": 19.7
+      },
+      "densidad": 7.4
+    },
+    "dialogos": {
+      "cobertura95": 2.85,
+      "ppm": 183.8
+    },
+    "temas": []
+  },
   "englishAnalysis": "Perfecta para practicar el inglés adolescente estadounidense. El vocabulario aborda las inseguridades, el instituto, el bullying y el primer amor. Se utiliza mucha jerga de la escuela secundaria, ideal para conversaciones cotidianas e informales.",
   "tmdb": {
     "overview": "Jodi lleva años acomplejada por su estatura (1,91 m). Siendo con mucho la chica más alta del instituto, nunca se ha sentido a gusto con su cuerpo. Después de años andando encorvada, aguantando burlas e intentando pasar desapercibida, por fin decide que ya es hora de superar sus inseguridades y se enreda en un trío amoroso en el instituto.",

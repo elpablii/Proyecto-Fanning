@@ -1,6 +1,31 @@
 {
   "title": "Dreamland",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.75,
+    "senales": {
+      "vocabulario": 4.02,
+      "dialogos": 3.15,
+      "temas": 3.69
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.7,
+        "A2": 16.1,
+        "B1": 16.1,
+        "B2": 24.9,
+        "C1": 20.1,
+        "C2": 13.1
+      },
+      "densidad": 10.2
+    },
+    "dialogos": {
+      "cobertura95": 3.2,
+      "ppm": 151.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ambientada en la época de la Gran Depresión estadounidense. El inglés tiene un fuerte tinte rural, con acentos del medio oeste y Texas. Encontrarás vocabulario relacionado con la pobreza, el polvo ('dust bowl'), los robos a bancos y la supervivencia desesperada.",
   "tmdb": {
     "overview": "Ever since his moth­er died in a fire, Ter­rence has seclud­ed him­self in an emo­tion­less world.\n\nHe goes through his dai­ly teenag­er life apa­thet­i­cal­ly… with one excep­tion! The sim­ple sight of a flame plunges him into a world of fear, an awak­en ver­sion of his night­mares – for, every time he falls asleep, he help­less­ly relieves the trag­ic event, thus rekin­dling his pyro­pho­bia. Until that one night he can’t bear it any­more and stops run­ning away from the dev­il­ish flames. Lit­tle does he know that, by doing so, he over­came his great­est fear and became a Trav­el­er: a very spe­cial kind of Dream­er, able to explore Dream­land, the dimen­sion born from mankind’s dreams… and nightmares!",

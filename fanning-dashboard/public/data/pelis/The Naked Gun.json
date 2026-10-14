@@ -1,6 +1,31 @@
 {
   "title": "The Naked Gun",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.01,
+    "senales": {
+      "vocabulario": 4.16,
+      "dialogos": 3.59,
+      "temas": 4.06
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.0,
+        "A2": 10.0,
+        "B1": 10.8,
+        "B2": 28.6,
+        "C1": 13.6,
+        "C2": 26.9
+      },
+      "densidad": 8.4
+    },
+    "dialogos": {
+      "cobertura95": 3.59,
+      "ppm": 154.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés saturado de juegos de palabras, malentendidos ('puns') y humor absurdo. Parodia los tropos del cine negro policial con lenguaje rimbombante que se toma a sí mismo ridículamente en serio.",
   "tmdb": {
     "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Reboot de la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",

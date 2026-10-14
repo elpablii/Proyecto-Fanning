@@ -1,6 +1,31 @@
 {
   "title": "Very Good Girls",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.07,
+    "senales": {
+      "vocabulario": 3.41,
+      "dialogos": 1.81,
+      "temas": 3.82
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.2,
+        "A2": 12.2,
+        "B1": 12.2,
+        "B2": 40.8,
+        "C1": 10.2,
+        "C2": 16.3
+      },
+      "densidad": 4.3
+    },
+    "dialogos": {
+      "cobertura95": 2.17,
+      "ppm": 126.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Inglés de jóvenes neoyorquinas en su último verano antes de la universidad. Diálogos informales, rápidos y con mucha jerga relacionada con el romance, la amistad y los celos adolescentes.",
   "tmdb": {
     "overview": "Two New York City girls make a pact to lose their virginity during their first summer out of high school. When they both fall for the same street artist, the friends find their connection tested for the first time.",

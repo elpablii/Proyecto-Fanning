@@ -1,6 +1,31 @@
 {
   "title": "Terminal",
-  "level": "C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.21,
+    "senales": {
+      "vocabulario": 4.59,
+      "dialogos": 3.38,
+      "temas": 4.09
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.6,
+        "A2": 11.1,
+        "B1": 16.3,
+        "B2": 27.1,
+        "C1": 16.0,
+        "C2": 24.0
+      },
+      "densidad": 19.0
+    },
+    "dialogos": {
+      "cobertura95": 3.53,
+      "ppm": 143.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Destaca por su estética noir y un uso del idioma poético, críptico y a menudo lleno de doble sentido. Los personajes utilizan metáforas oscuras, términos de asesinatos a sueldo e interrogatorios ('assassin', 'contract', 'job', 'leverage'). El acento británico le añade una capa de sofisticación al lenguaje criminal.",
   "tmdb": {
     "overview": "A dos sicarios se les encomienda una siniestra misión. En el camino se encontrarán con una mujer que convertirá la tarea a realizar en algo todavía más difícil de lo que esperaban.",

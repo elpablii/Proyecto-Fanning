@@ -1,6 +1,33 @@
 {
   "title": "Grand Theft Auto VI An Extended Look",
-  "level": "C1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.63,
+    "senales": {
+      "vocabulario": 3.74,
+      "dialogos": 3.34,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.7,
+        "A2": 17.9,
+        "B1": 7.7,
+        "B2": 41.0,
+        "C1": 20.5,
+        "C2": 5.1
+      },
+      "densidad": 8.4
+    },
+    "dialogos": {
+      "cobertura95": 2.9,
+      "ppm": 190.0
+    },
+    "temas": [
+      "drogas y calle"
+    ]
+  },
   "englishAnalysis": "Un adelanto (extended look) a Grand Theft Auto VI. El vocabulario es muy callejero e informal.",
   "tmdb": {
     "overview": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",

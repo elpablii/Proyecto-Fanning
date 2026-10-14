@@ -4,7 +4,7 @@ Hay dos zonas que no se mezclan:
 
 | Zona | Qué hay | ¿Se edita a mano? |
 |---|---|---|
-| `contenido/titulos/*.json` | Una **ficha** por película o serie: nivel, clasificación, id de TMDB, análisis, imágenes, PDFs y datos de cada episodio | **Sí** |
+| `contenido/titulos/*.json` | Una **ficha** por película o serie: clasificación, id de TMDB, análisis, imágenes, PDFs y datos de cada episodio (el nivel de inglés se calcula, no se escribe) | **Sí** |
 | `contenido/tandas.json` | La línea de tiempo (tandas y fechas) | **Sí** |
 | `Vocabularios/` y `Diálogos/` | Los PDFs, la fuente de verdad de las palabras y las líneas | Sí (se corrigen los PDFs) |
 | `fanning-dashboard/public/data/` | Todo lo que lee la página | **No**: se genera |
@@ -22,7 +22,7 @@ Las palabras y las líneas se cuentan con los criterios de `Metodología/`:
    python scripts/metricas/nuevos_titulos.py
    ```
    Crea la ficha en `contenido/titulos/` (o agrega los PDFs a la ficha que ya existe, por ejemplo episodios nuevos de una serie). Si avisa que un PDF de diálogos no coincide con ninguna ficha, agrega su ruta a mano en `"pdfs"` → `"dialogos"` de la ficha que corresponde.
-3. Abre la ficha y completa `nivel`, `clasificacion` (`TE`, `TE+7`, `+14` o `+18`) y `analisis`. Pon el id de TMDB y trae las imágenes:
+3. Abre la ficha y completa `clasificacion` (`TE`, `TE+7`, `+14` o `+18`) y `analisis`. Pon el id de TMDB y trae las imágenes:
    ```
    python scripts/metricas/posters_tmdb.py "Título" --id 12345            # película
    python scripts/metricas/posters_tmdb.py "Título" --id 12345 --serie    # serie
@@ -44,7 +44,7 @@ Agrega un bloque al final de `contenido/tandas.json` (igual a los anteriores) y 
 
 ## Si algo está mal
 
-`actualizar.py` revisa las fichas antes de publicar. Si una tiene un error (un PDF que no existe, un nivel o una clasificación que no es válida, un JSON mal escrito), se detiene y explica en español qué corregir y en qué archivo. Los datos que faltan (por ejemplo, el id de TMDB) no detienen nada: aparecen al final del reporte.
+`actualizar.py` revisa las fichas antes de publicar. Si una tiene un error (un PDF que no existe, una clasificación o un `nivel_fijo` que no es válido, un JSON mal escrito), se detiene y explica en español qué corregir y en qué archivo. Los datos que faltan (por ejemplo, el id de TMDB) no detienen nada: aparecen al final del reporte.
 
 Cada actualización deja `reporte_ultima_actualizacion.md` con el antes y el después.
 
@@ -54,7 +54,7 @@ Cada actualización deja `reporte_ultima_actualizacion.md` con el antes y el des
 {
   "titulo": "Intensamente",
   "tipo": "pelicula",
-  "nivel": "B1",
+  "nivel_fijo": "",
   "clasificacion": "TE",
   "tmdb": { "tipo": "movie", "id": 150540 },
   "analisis": "…",
@@ -73,7 +73,7 @@ Las series tienen además `"episodios"`, con un bloque por código de episodio (
 
 ```json
 "episodios": {
-  "S01E01": { "nombre": "S01E01 - Pilot", "nivel": "B2", "titulo": "Pilot", "foto": "https://…", "sinopsis": "…" }
+  "S01E01": { "nombre": "S01E01 - Pilot", "titulo": "Pilot", "foto": "https://…", "sinopsis": "…" }
 }
 ```
 
@@ -89,5 +89,6 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `buscar_ids_tmdb.py` | Busca el id de TMDB de las fichas que no lo tienen (`python fanning.py ids`). |
 | `posters_tmdb.py` / `episodios_tmdb.py` | Traen imágenes y sinopsis de TMDB a las fichas. La clave va en `fanning-dashboard/.env.local`. |
 | `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". |
+| `nivel.py` + `datos_nivel/` | Nivel de inglés (MCER) de cada título y episodio. `datos_nivel/` tiene las listas CEFR-J y Octanove (con su licencia) y `temas.json`, las áreas especializadas, que se puede editar. Criterio en `Metodología/Criterio de nivel de inglés (MCER).txt`. `nivel_fijo` en una ficha fuerza un nivel a mano. |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
-| `test_conteo.py` | Pruebas: `python scripts/metricas/test_conteo.py`. |
+| `test_conteo.py` / `test_nivel.py` | Pruebas: `python fanning.py probar`. |

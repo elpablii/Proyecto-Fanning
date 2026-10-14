@@ -1,6 +1,31 @@
 {
   "title": "Focus",
-  "level": "B2-C1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.83,
+    "senales": {
+      "vocabulario": 4.07,
+      "dialogos": 3.41,
+      "temas": 3.57
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.9,
+        "A2": 9.3,
+        "B1": 17.5,
+        "B2": 34.3,
+        "C1": 9.3,
+        "C2": 14.6
+      },
+      "densidad": 16.9
+    },
+    "dialogos": {
+      "cobertura95": 3.24,
+      "ppm": 168.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Se caracteriza por un inglés dinámico y persuasivo centrado en la jerga criminal, las apuestas y la estafa ('con', 'mark', 'grifter', 'pickpocket'). Incluye diálogos rápidos, manipulación psicológica y lenguaje de la calle combinado con términos de alta sociedad.",
   "tmdb": {
     "overview": "Un veterano estafador acoge a una atractiva joven bajo su protectorado, pero las cosas se complican cuando ambos comienzan un romance. Todo comienza cuando Nicky (Will Smith), un consumado maestro de la estafa, comienza un romance con Jess (Margot Robbie), una novata en el oficio. Mientras le enseña los trucos del oficio, ella desea estrechar demasiado los lazos con Nicky, y éste rompe de repente la relación. Tres años más tarde, la mujer que había encendido una llama en él, convertida en una mujer fatal, reaparece en Buenos Aires en un circuito de carreras en el que hay apuestas muy elevadas",

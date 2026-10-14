@@ -1,6 +1,34 @@
 {
   "title": "The Wolf of Wall Street",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.09,
+    "senales": {
+      "vocabulario": 4.24,
+      "dialogos": 3.56,
+      "temas": 4.39
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.4,
+        "A2": 9.5,
+        "B1": 18.2,
+        "B2": 30.1,
+        "C1": 16.1,
+        "C2": 14.7
+      },
+      "densidad": 13.0
+    },
+    "dialogos": {
+      "cobertura95": 3.13,
+      "ppm": 189.7
+    },
+    "temas": [
+      "financiera y empresarial",
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Lenguaje extremadamente explícito, frenético y lleno de jerga financiera, excesos y vulgaridades. Ideal para acostumbrarse a la agresividad y el ritmo de las ventas en inglés americano, con diálogos verborreicos e insultos creativos.",
   "tmdb": {
     "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el apodo de “El lobo de Wall Street”. Dinero, poder, mujeres, drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",

@@ -1,6 +1,31 @@
 {
   "title": "Five Nights at Freddy's",
-  "level": "B1",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.14,
+    "senales": {
+      "vocabulario": 4.43,
+      "dialogos": 3.48,
+      "temas": 4.1
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.7,
+        "A2": 7.9,
+        "B1": 14.8,
+        "B2": 22.5,
+        "C1": 20.7,
+        "C2": 24.3
+      },
+      "densidad": 10.2
+    },
+    "dialogos": {
+      "cobertura95": 3.87,
+      "ppm": 123.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ofrece un inglés moderno e informal. Encontrarás vocabulario técnico relacionado con la seguridad, animatrónicos y jerga adolescente de los años 2000. El tono varía entre conversaciones familiares cotidianas y momentos de gran tensión y suspenso.",
   "tmdb": {
     "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",

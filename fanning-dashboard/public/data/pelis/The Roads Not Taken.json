@@ -1,6 +1,31 @@
 {
   "title": "The Roads Not Taken",
-  "level": "B2",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.58,
+    "senales": {
+      "vocabulario": 3.41,
+      "dialogos": 3.79,
+      "temas": 3.91
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.6,
+        "A2": 4.9,
+        "B1": 14.6,
+        "B2": 22.4,
+        "C1": 27.3,
+        "C2": 16.1
+      },
+      "densidad": 2.9
+    },
+    "dialogos": {
+      "cobertura95": 4.29,
+      "ppm": 110.0
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama sobre la demencia. Diálogos fragmentados, repetitivos y confusos, útiles para entender el inglés cuando el interlocutor (Javier Bardem) tiene un fuerte acento y problemas cognitivos.",
   "tmdb": {
     "overview": "La película sigue 24 horas en la vida de padre e hija Leo y Molly mientras ella enfrenta los desafíos de lidiar con el caótico estado mental de su padre. Pero a medida que avanzan por la ciudad de Nueva York, su día ordinario pero estresante adquiere una calidad alucinante y épica, porque Leo fluye sin problemas dentro y fuera de varias vidas paralelas; un matrimonio apasionado con su novia de la infancia Dolores en México; una carrera difícil como baterista en Manhattan con su amante más exitoso, Adam; y una vida de soledad en una remota isla griega, donde un encuentro casual con dos jóvenes turistas revela las incómodas verdades de una vida familiar dejada atrás ...",

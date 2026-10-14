@@ -1,6 +1,31 @@
 {
   "title": "3 Generations",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.05,
+    "senales": {
+      "vocabulario": 3.22,
+      "dialogos": 2.49,
+      "temas": 3.3
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 20.6,
+        "A2": 14.7,
+        "B1": 10.3,
+        "B2": 35.3,
+        "C1": 11.8,
+        "C2": 7.4
+      },
+      "densidad": 7.3
+    },
+    "dialogos": {
+      "cobertura95": 2.18,
+      "ppm": 179.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Drama familiar de Nueva York. Inglés urbano rápido y sobrepuesto, con un fuerte enfoque en vocabulario de identidad de género, tratamientos médicos y complejas dinámicas intergeneracionales.",
   "tmdb": {
     "overview": "la película muestra la historia familiar de tres generaciones de mujeres. Ray (Fanning) es un adolescente transexual al comienzo de su transición de género, una decisión que cambiará el día a día de su familia. Su madre, Maggie (Watts), deberá localizar al padre biológico de Ray (Tate Donovan) para obtener el consentimiento legal que permita la transición de su hijo. Dolly (Sarandon), abuela de Ray, tendrá que aceptar que ahora tiene un nieto en vez de una nieta.",

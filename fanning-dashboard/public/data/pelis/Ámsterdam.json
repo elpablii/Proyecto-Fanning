@@ -1,6 +1,34 @@
 {
   "title": "Ámsterdam",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.85,
+    "senales": {
+      "vocabulario": 3.98,
+      "dialogos": 3.32,
+      "temas": 4.19
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 17.3,
+        "A2": 10.0,
+        "B1": 14.6,
+        "B2": 28.1,
+        "C1": 13.8,
+        "C2": 16.2
+      },
+      "densidad": 10.7
+    },
+    "dialogos": {
+      "cobertura95": 2.85,
+      "ppm": 192.5
+    },
+    "temas": [
+      "militar y policial",
+      "médica y de salud"
+    ]
+  },
   "englishAnalysis": "Ambientada en los años 30, presenta un inglés de época con diálogos rápidos, verborreicos e intelectuales. Encontrarás mucho vocabulario médico, legal y político ('autopsy', 'veteran', 'conspiracy', 'fascism'). Excelente para practicar comprensión auditiva de ritmo rápido y humor satírico.",
   "tmdb": {
     "overview": "Una épica historia de un crimen romántico sobre tres íntimos amigos que se ven envueltos en el medio de una de las tramas secretas más escandalosas de la historia norteamericana. Epopeya romántica sobre tres amigos que se ven envueltos en una de las tramas secretas más impactantes de la historia de Estados Unidos. Basada en hechos que se mezclan con ficción.",

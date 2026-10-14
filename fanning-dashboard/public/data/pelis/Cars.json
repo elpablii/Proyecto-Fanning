@@ -1,6 +1,33 @@
 {
   "title": "Cars",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.13,
+    "senales": {
+      "vocabulario": 4.33,
+      "dialogos": 3.85,
+      "temas": 3.83
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.1,
+        "A2": 10.6,
+        "B1": 13.3,
+        "B2": 37.8,
+        "C1": 8.5,
+        "C2": 19.7
+      },
+      "densidad": 12.5
+    },
+    "dialogos": {
+      "cobertura95": 3.7,
+      "ppm": 166.6
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Perfecta contraposición entre el vocabulario acelerado, moderno y corporativo de las carreras ('rookie', 'sponsor') y el ritmo relajado, nostálgico y rural de los pueblos de la Ruta 66.",
   "tmdb": {
     "overview": "El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.",

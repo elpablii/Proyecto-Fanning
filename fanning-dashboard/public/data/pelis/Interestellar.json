@@ -1,6 +1,33 @@
 {
   "title": "Interestellar",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.11,
+    "senales": {
+      "vocabulario": 3.96,
+      "dialogos": 3.34,
+      "temas": 6
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.5,
+        "A2": 9.8,
+        "B1": 14.4,
+        "B2": 32.3,
+        "C1": 15.9,
+        "C2": 19.0
+      },
+      "densidad": 7.7
+    },
+    "dialogos": {
+      "cobertura95": 3.38,
+      "ppm": 151.5
+    },
+    "temas": [
+      "científica y técnica"
+    ]
+  },
   "englishAnalysis": "Una película imperdible para quienes buscan vocabulario técnico. Está llena de terminología científica relacionada con la astrofísica, la relatividad, la exploración espacial y la supervivencia. El tono es serio, con un acento estadounidense claro y firme.",
   "tmdb": {
     "overview": "Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar.",

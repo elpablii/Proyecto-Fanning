@@ -21,6 +21,7 @@ export interface MovieStats {
   posterUrl?: string | null;
   backdropUrl?: string | null;
   level?: string;
+  levelRange?: [string, string] | null;  // series: episodio más fácil y más difícil
   rating?: string;
   aliases?: string[];
   years?: string[];

@@ -1,6 +1,31 @@
 {
   "title": "Maleficent II Mistress of Evil",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.95,
+    "senales": {
+      "vocabulario": 3.86,
+      "dialogos": 3.96,
+      "temas": 4.25
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.2,
+        "A2": 4.3,
+        "B1": 7.2,
+        "B2": 40.9,
+        "C1": 17.8,
+        "C2": 22.5
+      },
+      "densidad": 4.5
+    },
+    "dialogos": {
+      "cobertura95": 4.37,
+      "ppm": 122.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Fantasía épica con un vocabulario casi shakesperiano. Las cortes reales, los hechizos y las intrigas exigen un inglés muy formal y con toques arcaicos. Destaca la dicción impecable del acento británico de la nobleza.",
   "tmdb": {
     "overview": "Varios años después de los acontecimientos narrados en la primera película, en la que se dieron a conocer los hechos que endurecieron el corazón de la villana más emblemática de Disney y la llevaron a arrojar una maldición sobre la princesa recién nacida: Aurora. La película continúa explorando la compleja relación entre el hada de enormes cuernos y la futura reina, mientras forjan nuevas alianzas y se enfrentan a nuevos adversarios en su lucha por proteger el páramo y las criaturas mágicas que lo habitan.",

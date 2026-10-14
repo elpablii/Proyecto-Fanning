@@ -1,6 +1,37 @@
 {
   "title": "Euphoria",
-  "level": "B2/C1",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.6,
+    "senales": {
+      "vocabulario": 3.63,
+      "dialogos": 3.18,
+      "temas": 3.83
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.2,
+        "A2": 8.2,
+        "B1": 14.1,
+        "B2": 30.2,
+        "C1": 18.0,
+        "C2": 16.2
+      },
+      "densidad": 6.2
+    },
+    "dialogos": {
+      "cobertura95": 3.27,
+      "ppm": 147.6
+    },
+    "temas": [
+      "drogas y calle"
+    ],
+    "rango": [
+      "B1",
+      "B2"
+    ]
+  },
   "englishAnalysis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a la rapidez de los diálogos, las interrupciones constantes, murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para nivel B2-C1 que busque entender el inglés de la calle y de la Generación Z.",
   "tmdb": {
     "overview": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
@@ -104,6 +135,34 @@
       "code": "S01E01",
       "name": "S01E01 - Pilot",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.23,
+        "senales": {
+          "vocabulario": 4.46,
+          "dialogos": 3.74,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.3,
+            "A2": 4.1,
+            "B1": 13.4,
+            "B2": 31.6,
+            "C1": 22.7,
+            "C2": 18.9
+          },
+          "densidad": 10.4
+        },
+        "dialogos": {
+          "cobertura95": 3.7,
+          "ppm": 157.9
+        },
+        "temas": [
+          "drogas y calle",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Fluid whooshing (acotación)",
@@ -508,7 +567,34 @@
     {
       "code": "S01E02",
       "name": "S01E02 - Stunting Like My Daddy",
-      "level": "B2",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.25,
+        "senales": {
+          "vocabulario": 3.3,
+          "dialogos": 2.92,
+          "temas": 3.6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 23.3,
+            "A2": 12.3,
+            "B1": 19.2,
+            "B2": 24.7,
+            "C1": 11.0,
+            "C2": 9.6
+          },
+          "densidad": 8.7
+        },
+        "dialogos": {
+          "cobertura95": 2.98,
+          "ppm": 150.3
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Psychic",
@@ -809,7 +895,32 @@
     {
       "code": "S01E03",
       "name": "S01E03 - Made Y ou Look",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.35,
+        "senales": {
+          "vocabulario": 3.5,
+          "dialogos": 2.77,
+          "temas": 3.7
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.0,
+            "A2": 8.8,
+            "B1": 22.8,
+            "B2": 19.3,
+            "C1": 17.5,
+            "C2": 17.5
+          },
+          "densidad": 6.0
+        },
+        "dialogos": {
+          "cobertura95": 2.93,
+          "ppm": 142.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Jinx (verbo)",
@@ -1046,7 +1157,34 @@
     {
       "code": "S01E04",
       "name": "S01E04 - Shook One Part II",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.58,
+        "senales": {
+          "vocabulario": 3.63,
+          "dialogos": 2.94,
+          "temas": 4.43
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.3,
+            "A2": 13.0,
+            "B1": 0.0,
+            "B2": 52.2,
+            "C1": 8.7,
+            "C2": 21.7
+          },
+          "densidad": 3.3
+        },
+        "dialogos": {
+          "cobertura95": 3.0,
+          "ppm": 150.5
+        },
+        "temas": [
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "You fucking cunt!",
@@ -1147,7 +1285,32 @@
     {
       "code": "S01E05",
       "name": "S01E05 - ‘03 Bonnie and Clyde",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.43,
+        "senales": {
+          "vocabulario": 3.63,
+          "dialogos": 2.71,
+          "temas": 3.86
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 20.0,
+            "A2": 2.0,
+            "B1": 10.0,
+            "B2": 32.0,
+            "C1": 12.0,
+            "C2": 24.0
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 2.73,
+          "ppm": 153.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Pageantry",
@@ -1357,6 +1520,34 @@
       "code": "S01E06",
       "name": "S01E06 - The Next Episode",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.71,
+        "senales": {
+          "vocabulario": 3.9,
+          "dialogos": 2.99,
+          "temas": 4.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 18.3,
+            "A2": 8.5,
+            "B1": 9.9,
+            "B2": 35.2,
+            "C1": 16.9,
+            "C2": 11.3
+          },
+          "densidad": 10.2
+        },
+        "dialogos": {
+          "cobertura95": 3.14,
+          "ppm": 142.8
+        },
+        "temas": [
+          "drogas y calle",
+          "inglés de época o antiguo"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Bitterness",
@@ -1649,7 +1840,32 @@
     {
       "code": "S01E07",
       "name": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.59,
+        "senales": {
+          "vocabulario": 3.82,
+          "dialogos": 2.85,
+          "temas": 3.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.8,
+            "A2": 8.8,
+            "B1": 14.0,
+            "B2": 35.1,
+            "C1": 15.8,
+            "C2": 17.5
+          },
+          "densidad": 6.7
+        },
+        "dialogos": {
+          "cobertura95": 2.89,
+          "ppm": 151.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Fill out",
@@ -1886,7 +2102,35 @@
     {
       "code": "S01E08",
       "name": "S01E08 - And Salt the Earth Behind You",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.37,
+        "senales": {
+          "vocabulario": 3.6,
+          "dialogos": 2.54,
+          "temas": 3.81
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.5,
+            "A2": 8.8,
+            "B1": 21.1,
+            "B2": 26.3,
+            "C1": 24.6,
+            "C2": 8.8
+          },
+          "densidad": 6.7
+        },
+        "dialogos": {
+          "cobertura95": 2.69,
+          "ppm": 142.9
+        },
+        "temas": [
+          "drogas y calle",
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Subdue (verbo)",
@@ -2123,7 +2367,34 @@
     {
       "code": "SP01",
       "name": "Special 1 - Trouble Don't Last Always",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.46,
+        "senales": {
+          "vocabulario": 3.37,
+          "dialogos": 2.78,
+          "temas": 4.98
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.0,
+            "A2": 8.0,
+            "B1": 12.0,
+            "B2": 42.0,
+            "C1": 18.0,
+            "C2": 6.0
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 2.72,
+          "ppm": 159.8
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "I can't fuck this up",
@@ -2332,7 +2603,34 @@
     {
       "code": "SP02",
       "name": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
-      "level": "B2",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.25,
+        "senales": {
+          "vocabulario": 3.31,
+          "dialogos": 2.57,
+          "temas": 4.16
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.5,
+            "A2": 12.5,
+            "B1": 8.3,
+            "B2": 37.5,
+            "C1": 16.7,
+            "C2": 12.5
+          },
+          "densidad": 4.4
+        },
+        "dialogos": {
+          "cobertura95": 2.72,
+          "ppm": 142.8
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "A dumb, not-well-thought-out plan",
@@ -2438,6 +2736,34 @@
       "code": "S02E01",
       "name": "S02E01 - Trying to Get to Heaven Before They Close the Door",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.81,
+        "senales": {
+          "vocabulario": 3.75,
+          "dialogos": 3.59,
+          "temas": 4.39
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.6,
+            "A2": 6.4,
+            "B1": 12.8,
+            "B2": 27.7,
+            "C1": 21.3,
+            "C2": 21.3
+          },
+          "densidad": 5.1
+        },
+        "dialogos": {
+          "cobertura95": 3.71,
+          "ppm": 145.2
+        },
+        "temas": [
+          "drogas y calle",
+          "legal y judicial"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Bag up",
@@ -2634,7 +2960,32 @@
     {
       "code": "S02E02",
       "name": "S02E02 - Out of Touch",
-      "level": "B2",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.21,
+        "senales": {
+          "vocabulario": 3.29,
+          "dialogos": 2.74,
+          "temas": 3.63
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 20.0,
+            "A2": 2.9,
+            "B1": 17.1,
+            "B2": 31.4,
+            "C1": 11.4,
+            "C2": 17.1
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 2.76,
+          "ppm": 153.5
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Overlook (verbo)",
@@ -2784,6 +3135,33 @@
       "code": "S02E03",
       "name": "S02E03 - Ruminations: Big and Little Bullys",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.95,
+        "senales": {
+          "vocabulario": 3.83,
+          "dialogos": 3.53,
+          "temas": 5.12
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.1,
+            "A2": 8.2,
+            "B1": 8.2,
+            "B2": 30.6,
+            "C1": 32.7,
+            "C2": 14.3
+          },
+          "densidad": 4.8
+        },
+        "dialogos": {
+          "cobertura95": 3.63,
+          "ppm": 147.2
+        },
+        "temas": [
+          "drogas y calle"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Dingleberry (en sentido connotativo)",
@@ -2988,7 +3366,32 @@
     {
       "code": "S02E04",
       "name": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.62,
+        "senales": {
+          "vocabulario": 3.63,
+          "dialogos": 3.44,
+          "temas": 3.92
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.4,
+            "A2": 4.5,
+            "B1": 20.0,
+            "B2": 17.8,
+            "C1": 28.1,
+            "C2": 16.3
+          },
+          "densidad": 5.3
+        },
+        "dialogos": {
+          "cobertura95": 3.75,
+          "ppm": 130.0
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Bird tweeting",
@@ -3186,6 +3589,34 @@
       "code": "S02E05",
       "name": "S02E05 - Stand Still Like a Hummingbird",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.94,
+        "senales": {
+          "vocabulario": 3.72,
+          "dialogos": 3.75,
+          "temas": 5.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.5,
+            "A2": 11.5,
+            "B1": 8.6,
+            "B2": 22.9,
+            "C1": 17.2,
+            "C2": 28.4
+          },
+          "densidad": 4.7
+        },
+        "dialogos": {
+          "cobertura95": 3.68,
+          "ppm": 160.7
+        },
+        "temas": [
+          "drogas y calle",
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Rat out",
@@ -3343,6 +3774,33 @@
       "code": "S02E06",
       "name": "S02E06 - A Thousand Little Trees of Blood",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.69,
+        "senales": {
+          "vocabulario": 3.76,
+          "dialogos": 3.16,
+          "temas": 4.31
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.9,
+            "A2": 5.3,
+            "B1": 17.8,
+            "B2": 36.1,
+            "C1": 14.2,
+            "C2": 17.8
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 3.19,
+          "ppm": 152.3
+        },
+        "temas": [
+          "médica y de salud"
+        ]
+      },
       "vocabulary": [
         {
           "word": "Overflow (verbo)",
@@ -3579,7 +4037,32 @@
     {
       "code": "S02E07",
       "name": "S02E07 - The Theater and It’s Double",
-      "level": "B2",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.46,
+        "senales": {
+          "vocabulario": 3.45,
+          "dialogos": 3.45,
+          "temas": 3.51
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 19.9,
+            "A2": 11.9,
+            "B1": 11.9,
+            "B2": 29.8,
+            "C1": 6.6,
+            "C2": 19.9
+          },
+          "densidad": 7.1
+        },
+        "dialogos": {
+          "cobertura95": 3.66,
+          "ppm": 138.4
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "A lovely memorial",
@@ -3793,6 +4276,31 @@
       "code": "S02E08",
       "name": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
       "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.66,
+        "senales": {
+          "vocabulario": 3.6,
+          "dialogos": 3.64,
+          "temas": 3.94
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.3,
+            "A2": 18.5,
+            "B1": 13.2,
+            "B2": 21.1,
+            "C1": 23.7,
+            "C2": 18.2
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 3.85,
+          "ppm": 137.9
+        },
+        "temas": []
+      },
       "vocabulary": [
         {
           "word": "Text whooshes (acotación)",

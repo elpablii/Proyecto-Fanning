@@ -1,6 +1,33 @@
 {
   "title": "Marlowe",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.04,
+    "senales": {
+      "vocabulario": 4.29,
+      "dialogos": 3.38,
+      "temas": 4.14
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.9,
+        "A2": 8.6,
+        "B1": 9.2,
+        "B2": 32.5,
+        "C1": 19.3,
+        "C2": 22.4
+      },
+      "densidad": 8.8
+    },
+    "dialogos": {
+      "cobertura95": 3.59,
+      "ppm": 138.5
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
   "englishAnalysis": "Ambientada en la década de 1930, esta cinta noir ofrece un vocabulario típico del cine de detectives: términos criminales, jerga callejera de la época, sarcasmo y un lenguaje formal pero crudo. El acento estadounidense clásico de Liam Neeson añade un tono rasposo y cínico.",
   "tmdb": {
     "overview": "A finales de los años 30, en los bajos fondos de Los Ángeles, una rica y bella heredera encarga a Marlowe que busque a su antiguo amante, que ha desaparecido. Pronto descubre que tras la desaparición de ese hombre hay una red corrupta que le pone en el punto de mira de algunos de los mandatarios más acomodados y peligrosos de la ciudad.",

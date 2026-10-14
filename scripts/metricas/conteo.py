@@ -97,7 +97,7 @@ def _sigue_subtitulo(lineas, k):
     return len(siguientes) == 2 and INDICE.match(siguientes[0]) and TIEMPO.match(siguientes[1])
 
 
-def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, detalle=False):
+def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, detalle=False, con_textos=False):
     """Devuelve {'total', 'episodios': {clave: n}, 'creditos', 'sin_tiempos', 'registro'}.
 
     - Cuenta SUBTÍTULOS (punto 1): lo que va bajo cada número de orden + línea de
@@ -110,6 +110,8 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
       Nunca justo después de una línea de tiempos.
     - registro (si detalle=True): (línea original, texto, motivo, episodio, número
       de subtítulo) por cada renglón de texto.
+    - subtitulos (si con_textos=True): (episodio, inicio, fin, texto) de cada subtítulo
+      que cuenta, con los tiempos en segundos. Lo usa el cálculo del nivel (nivel.py).
     """
     i = _saltar_titulo(lineas, TITULO_DIALOGO)
     lineas = [l.strip() for l in lineas[i:]]
@@ -123,6 +125,8 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
     numero = None       # número de orden del subtítulo en curso
     bloque = None       # renglones (k, texto) del subtítulo en curso; None = fuera de un subtítulo
     sueltas = []        # renglones de texto fuera de cualquier subtítulo
+    subtitulos = []     # (episodio, inicio, fin, texto) si con_textos=True
+    tiempos = (None, None)
 
     def cerrar_bloque():
         nonlocal bloque, creditos
@@ -136,6 +140,9 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
         else:
             motivo = 'cuenta'
             episodios[actual] += 1
+            if con_textos:
+                texto = ' '.join(ETIQUETA.sub('', l) for _, l in bloque)
+                subtitulos.append((actual, tiempos[0], tiempos[1], texto))
         if detalle:
             registro.extend((i + k, l, motivo, actual, numero) for k, l in bloque)
         bloque = None
@@ -147,6 +154,9 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
         if TIEMPO.match(s):
             cerrar_bloque()
             vio_tiempo = True
+            marcas = [int(h) * 3600 + int(m) * 60 + int(sg) + int(ms.ljust(3, '0')) / 1000
+                      for h, m, sg, ms in re.findall(r'(\d{1,2}):(\d{2}):(\d{2})[,.](\d{1,3})', s)]
+            tiempos = (marcas[0], marcas[1]) if len(marcas) == 2 else (None, None)
             numero, numero_siguiente = numero_siguiente, None
             bloque = []
             continue
@@ -176,6 +186,7 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
     episodios = {k: v for k, v in episodios.items() if v}
     return {
         'registro': registro,
+        'subtitulos': subtitulos,
         'total': sum(episodios.values()),
         'episodios': episodios,
         'creditos': creditos,

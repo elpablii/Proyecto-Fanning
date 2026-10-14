@@ -1,6 +1,31 @@
 {
   "title": "About Time",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.72,
+    "senales": {
+      "vocabulario": 4.14,
+      "dialogos": 2.75,
+      "temas": 3.67
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.3,
+        "A2": 14.0,
+        "B1": 18.1,
+        "B2": 30.7,
+        "C1": 14.4,
+        "C2": 13.5
+      },
+      "densidad": 11.3
+    },
+    "dialogos": {
+      "cobertura95": 2.69,
+      "ppm": 159.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ofrece una inmersión perfecta en el inglés conversacional británico contemporáneo. Llena de humor sutil, expresiones cotidianas ('mate', 'bloody', 'lovely') y situaciones familiares. Excelente para practicar la comprensión de acentos de diferentes regiones del Reino Unido en un entorno relajado.",
   "tmdb": {
     "overview": "A la edad de 21 años, Tim descubre que puede viajar en el tiempo y cambiar lo que sucede y ha sucedido en su propia vida. Su decisión de hacer de su mundo un lugar mejor consiguiendo una novia resulta no ser tan fácil como se podría pensar.",

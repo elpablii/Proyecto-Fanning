@@ -1,6 +1,31 @@
 {
   "title": "Home",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.47,
+    "senales": {
+      "vocabulario": 4.88,
+      "dialogos": 3.54,
+      "temas": 4.38
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 2.8,
+        "A2": 3.5,
+        "B1": 17.7,
+        "B2": 29.1,
+        "C1": 22.0,
+        "C2": 24.8
+      },
+      "densidad": 16.5
+    },
+    "dialogos": {
+      "cobertura95": 3.8,
+      "ppm": 134.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "De acuerdo con el documento de estudio 'Dialogues from Home to improve the vocabulary in English.pdf', el inglés aquí es muy claro y amigable. Destaca el habla del alienígena Oh, quien comete errores gramaticales intencionales que resultan en lecciones excelentes para entender la estructura del idioma al ver cómo se rompe.",
   "tmdb": {
     "overview": "In 200,000 years of existence, man has upset the balance on which the Earth had lived for 4 billion years. Global warming, resource depletion, species extinction: man has endangered his own home. But it is too late to be pessimistic: humanity has barely ten years left to reverse the trend, become aware of its excessive exploitation of the Earth's riches, and change its consumption pattern.",

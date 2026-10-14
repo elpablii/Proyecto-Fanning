@@ -1,6 +1,31 @@
 {
   "title": "Minions I",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.95,
+    "senales": {
+      "vocabulario": 4.12,
+      "dialogos": 3.13,
+      "temas": 4.62
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 5.4,
+        "A2": 0.0,
+        "B1": 10.8,
+        "B2": 29.7,
+        "C1": 18.9,
+        "C2": 35.1
+      },
+      "densidad": 3.4
+    },
+    "dialogos": {
+      "cobertura95": 3.63,
+      "ppm": 113.4
+    },
+    "temas": []
+  },
   "englishAnalysis": "Aunque los Minions tienen su propio lenguaje, los diálogos humanos presentan un vocabulario lleno de grandilocuencia, términos de conspiración mundial y descripciones pomposas típicas de villanos exagerados, ideal para captar matices paródicos.",
   "tmdb": {
     "overview": "La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los Minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, llamado Kevin, tiene un plan. Acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York en los años sesenta, para acabar en el Londres de la misma época, donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza Minion de la aniquilación.",

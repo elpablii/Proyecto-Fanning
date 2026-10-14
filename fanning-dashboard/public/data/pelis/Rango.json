@@ -1,6 +1,31 @@
 {
   "title": "Rango",
-  "level": "B2",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.36,
+    "senales": {
+      "vocabulario": 4.66,
+      "dialogos": 3.75,
+      "temas": 4.16
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.6,
+        "A2": 6.4,
+        "B1": 12.8,
+        "B2": 29.6,
+        "C1": 12.8,
+        "C2": 28.8
+      },
+      "densidad": 19.1
+    },
+    "dialogos": {
+      "cobertura95": 3.64,
+      "ppm": 163.7
+    },
+    "temas": []
+  },
   "englishAnalysis": "Ofrece un vocabulario muy rico, casi teatral y filosófico, mezclado con jerga del Lejano Oeste y acentos desérticos arrastrados. Destacan los monólogos introspectivos y el uso de vocabulario arcaico y peculiar.",
   "tmdb": {
     "overview": "Rango es un camaleón ordinario que accidentalmente acaba en la ciudad de Dirt, un pueblo sin ley en el Salvaje Oeste que necesita desesperadamente un nuevo sheriff.",

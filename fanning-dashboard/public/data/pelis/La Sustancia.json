@@ -1,6 +1,31 @@
 {
   "title": "La Sustancia",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.32,
+    "senales": {
+      "vocabulario": 4.15,
+      "dialogos": 4.78,
+      "temas": 4.23
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.3,
+        "A2": 6.5,
+        "B1": 19.3,
+        "B2": 15.9,
+        "C1": 19.7,
+        "C2": 30.3
+      },
+      "densidad": 7.0
+    },
+    "dialogos": {
+      "cobertura95": 5.11,
+      "ppm": 128.3
+    },
+    "temas": []
+  },
   "englishAnalysis": "Lenguaje corporativo, superficial y centrado en la belleza estética de Los Ángeles, contrastado con terminología médica cruda de ciencia ficción ('matrix', 'stabilize').",
   "tmdb": {
     "overview": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",

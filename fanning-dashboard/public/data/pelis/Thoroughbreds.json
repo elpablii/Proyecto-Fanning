@@ -1,6 +1,33 @@
 {
   "title": "Thoroughbreds",
-  "level": "B2",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.29,
+    "senales": {
+      "vocabulario": 3.41,
+      "dialogos": 2.75,
+      "temas": 3.7
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.9,
+        "A2": 4.5,
+        "B1": 23.9,
+        "B2": 34.3,
+        "C1": 14.9,
+        "C2": 10.4
+      },
+      "densidad": 5.5
+    },
+    "dialogos": {
+      "cobertura95": 2.69,
+      "ppm": 159.5
+    },
+    "temas": [
+      "legal y judicial"
+    ]
+  },
   "englishAnalysis": "Inglés de clase alta adolescente ('preppy'). Lenguaje sumamente articulado, manipulador, sarcástico y carente de emoción ('sociopathic'). Vocabulario sobre tutorías, caballos y crímenes limpios.",
   "tmdb": {
     "overview": "Dos chicas adolescentes de Connecticut reavivan su amistad después de años separadas. En el proceso, aprenden que no todo es lo que parece y que un asesinato solucionaría sus problemas.",

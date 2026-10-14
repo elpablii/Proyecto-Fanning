@@ -1,6 +1,31 @@
 {
   "title": "The Menu",
   "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.24,
+    "senales": {
+      "vocabulario": 4.49,
+      "dialogos": 3.62,
+      "temas": 4.22
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.1,
+        "A2": 7.1,
+        "B1": 12.4,
+        "B2": 29.0,
+        "C1": 18.3,
+        "C2": 26.0
+      },
+      "densidad": 9.8
+    },
+    "dialogos": {
+      "cobertura95": 3.38,
+      "ppm": 174.6
+    },
+    "temas": []
+  },
   "englishAnalysis": "El lenguaje es increíblemente pretencioso, refinado y tenso. Vocabulario de alta cocina ('palate', 'mouthfeel', 'courses'), críticas gastronómicas y una atmósfera de culto.",
   "tmdb": {
     "overview": "Una joven pareja viaja a uno de los destinos más exclusivos del mundo para cenar en un restaurante que ofrece una experiencia culinaria única. Sin embargo, el chef (Fiennes) ha preparado un ingrediente secreto que tendrá un resultado sorprendente en los dos enamorados.",
