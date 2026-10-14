@@ -1,767 +1,4786 @@
-[
-  {
-    "id": 1,
-    "title": "1° Tanda",
-    "date": "Jueves, 02/11/2023",
-    "items": [
-      "Barbie"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "2° Tanda",
-    "date": "Jueves, 23/11/2023",
-    "items": [
-      "Bombshell"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "3° Tanda",
-    "date": "Sábado, 16/12/2023",
-    "items": [
-      {
-        "texto": "Taylor Swift: Miss Americana",
-        "titulo": "Taylor Swift Miss Americana"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "4° Tanda",
-    "date": "Martes, 02/01/2024",
-    "items": [
-      "El Expreso Polar",
-      "Focus"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "5° Tanda",
-    "date": "Sábado, 20/01/2024",
-    "items": [
-      {
-        "texto": "Rambo: First Blood",
-        "titulo": "Rambo First Blood"
-      },
-      {
-        "texto": "Inside Out I",
-        "titulo": "Intensamente"
-      },
-      {
-        "texto": "Honest Thief",
-        "titulo": "Venganza Implacable"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "6° Tanda",
-    "date": "Miércoles, 07/02/2024",
-    "items": [
-      {
-        "texto": "I, Tonya",
-        "titulo": "I-Tonya"
-      },
-      "Ratatouille"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "7° Tanda",
-    "date": "Jueves, 29/02/2024",
-    "items": [
-      "Terminal",
-      {
-        "texto": "Five Nights at Freddy's I",
-        "titulo": "Five Nights at Freddy's"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "8° Tanda",
-    "date": "Viernes, 15/03/2024",
-    "items": [
-      {
-        "texto": "La Leyenda de Tarzán",
-        "titulo": "The Legend of Tarzan"
-      },
-      {
-        "texto": "Toy Story I",
-        "titulo": "Toy Story"
-      },
-      {
-        "texto": "Monsters Inc.",
-        "titulo": "Monsters Inc"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "9° Tanda",
-    "date": "Lunes, 01/04/2024",
-    "items": [
-      "Z for Zachariah",
-      {
-        "texto": "TS: City of Lover Concert",
-        "titulo": "Taylor Swift City of Lover Concert"
-      },
-      {
-        "texto": "Kim Possible (S01E01)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "Suite Française",
-        "titulo": "Suite Francaise"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "10° Tanda",
-    "date": "Jueves, 18/04/2024",
-    "items": [
-      "Once Upon a Time in Hollywood",
-      {
-        "texto": "Kim Possible (S01E02)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "11° Tanda",
-    "date": "Viernes, 03/05/2024",
-    "items": [
-      {
-        "texto": "Toy Story II",
-        "titulo": "Toy Story 2"
-      },
-      {
-        "texto": "Kim Possible (S01E03-04)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "12° Tanda",
-    "date": "Jueves, 16/05/2024",
-    "items": [
-      {
-        "texto": "Kim Possible (S01E05-09)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "13° Tanda",
-    "date": "Martes, 11/06/2024",
-    "items": [
-      "Oppenheimer"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "14a° Tanda",
-    "date": "Sábado, 29/06/2024",
-    "items": [
-      {
-        "texto": "Rambo: First Blood (Part II)",
-        "titulo": "Rambo II"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "title": "14b° Tanda",
-    "date": "Martes, 02/07/2024",
-    "items": [
-      "Escuadrón Suicida"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "15a° Tanda",
-    "date": "Miércoles, 10/07/2024",
-    "items": [
-      "Rambo III"
-    ]
-  },
-  {
-    "id": 17,
-    "title": "15b° Tanda",
-    "date": "Lunes, 15/07/2024",
-    "items": [
-      "Kim Possible (2019)",
-      {
-        "texto": "Kim Possible (S01 EP10-13)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "title": "16° Tanda",
-    "date": "Viernes, 02/08/2024",
-    "items": [
-      "Aves de Presa",
-      {
-        "texto": "Star Wars Episode I: The Phantom Menace",
-        "titulo": "Star Wars Episodio I The Phantom Menace"
-      },
-      {
-        "texto": "Olivia Rodrigo: driving home 2 u",
-        "titulo": "Olivia Rodrigo driving home 2 u"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "title": "17° Tanda",
-    "date": "Domingo, 18/08/2024",
-    "items": [
-      "El Escuadrón Suicida",
-      "Rocky I",
-      {
-        "texto": "Rambo IV (John Rambo)",
-        "titulo": "Rambo IV"
-      },
-      "WALL-E"
-    ]
-  },
-  {
-    "id": 20,
-    "title": "18° Tanda",
-    "date": "Miércoles, 04/09/2024",
-    "items": [
-      {
-        "texto": "Taylor Swift: The Eras Tour (Taylor's Version)",
-        "titulo": "Taylor Swift The Eras Tour Film"
-      },
-      "Dreamland"
-    ]
-  },
-  {
-    "id": 21,
-    "title": "19° Tanda",
-    "date": "Viernes, 20/09/2024",
-    "items": [
-      "Mary Queen of Scots",
-      {
-        "texto": "Los Increíbles",
-        "titulo": "Los Increibles"
-      },
-      {
-        "texto": "Kim Possible (S01 EP14-15)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "title": "20° Tanda",
-    "date": "Martes, 08/10/2024",
-    "items": [
-      "About Time",
-      {
-        "texto": "Kim Possible (S01 EP16-19)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "title": "21° Tanda",
-    "date": "Domingo, 27/10/2024",
-    "items": [
-      "Titanic",
-      "Coraline",
-      "The New Mutants",
-      "The Truman Show"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "22° Tanda",
-    "date": "Martes, 12/11/2024",
-    "items": [
-      "Rocky II",
-      {
-        "texto": "Retribution",
-        "titulo": "Contrarreloj"
-      },
-      {
-        "texto": "Barbie: The Princess and The Popstar",
-        "titulo": "Barbie La Princesa y Estrella de Pop"
-      },
-      {
-        "texto": "Harold y su Crayón Mágico",
-        "titulo": "Harold and The Purple Crayon"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "title": "23° Tanda",
-    "date": "Jueves, 28/11/2024",
-    "items": [
-      {
-        "texto": "Goodbye, Christopher Robin",
-        "titulo": "Goodbye Christopher Robin"
-      },
-      {
-        "texto": "Star Wars Episode II: Attack of the Clones",
-        "titulo": "Star Wars Episodio II Attack of The Clones"
-      },
-      {
-        "texto": "Kim Possible (S01 EP20-21)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "title": "24° Tanda",
-    "date": "Miércoles, 11/12/2024",
-    "items": [
-      "Babylon",
-      "Marrowbone",
-      {
-        "texto": "Kim Possible (S02 EP1-3)",
-        "titulo": "Kim Possible"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "title": "25a° Tanda (Gala)",
-    "date": "Jueves, 26/12/2024",
-    "items": [
-      "Ámsterdam",
-      {
-        "texto": "Rambo: Last Blood",
-        "titulo": "Rambo Last Blood"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "title": "25b° Tanda (Fin de Año)",
-    "date": "Lunes, 30/12/2024",
-    "items": [
-      "Scarface",
-      {
-        "texto": "Inside Out II",
-        "titulo": "Intensamente 2"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "title": "26° Tanda",
-    "date": "Viernes, 17/01/2025",
-    "items": [
-      "The Wolf of Wall Street",
-      {
-        "texto": "Taylor Swift: Folklore The Long Pond Studio Sessions",
-        "titulo": "Taylor Swift Folklore The Long Pond Studio Sessions"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "title": "27° Tanda",
-    "date": "Domingo, 02/02/2025",
-    "items": [
-      "Emma",
-      {
-        "texto": "Cars I",
-        "titulo": "Cars"
-      },
-      "Rocky III"
-    ]
-  },
-  {
-    "id": 31,
-    "title": "28° Tanda",
-    "date": "Lunes, 17/02/2025",
-    "items": [
-      "Playmobil",
-      "Top Gun",
-      {
-        "texto": "Olivia Rodrigo: Guts World Tour Film",
-        "titulo": "Olivia Rodrigo Guts World Tour"
-      },
-      "American Pastoral",
-      {
-        "texto": "Dream Productions (Spinoff Inside Out - 4 partes)",
-        "titulo": "Dream Productions"
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "title": "29° Tanda",
-    "date": "Martes, 04/03/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 4-7)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "Queen's Gambit (EP 1-3)",
-        "titulo": "Gambito de Dama"
-      },
-      {
-        "texto": "The Big Bang Theory (T1 EP 1-4)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "title": "30° Tanda",
-    "date": "Miércoles, 19/03/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 8-9)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "Bichos: Una Aventura en Miniatura",
-        "titulo": "Bichos Una Aventura en Miniatura"
-      },
-      {
-        "texto": "Queen's Gambit (EP 4-7 + Especial)",
-        "titulo": "Gambito de Dama"
-      },
-      {
-        "texto": "The Big Bang Theory (T1 EP 5-7)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "title": "31° Tanda",
-    "date": "Lunes, 31/03/2025",
-    "items": [
-      {
-        "texto": "Star Wars Episode III: Revenge of the Sith",
-        "titulo": "Star Wars Episodio III Revenge of the Sith"
-      },
-      "3 Generations",
-      "Wonka"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "32° Tanda",
-    "date": "Martes, 15/04/2025",
-    "items": [
-      "The Menu",
-      {
-        "texto": "Super Mario Bros: The Movie",
-        "titulo": "Super Mario Bros The Movie"
-      },
-      "Taken I",
-      "Toy Story III"
-    ]
-  },
-  {
-    "id": 36,
-    "title": "33° Tanda",
-    "date": "Sábado, 03/05/2025",
-    "items": [
-      "Split",
-      "Cuckoo",
-      "Rango"
-    ]
-  },
-  {
-    "id": 37,
-    "title": "34° Tanda",
-    "date": "Domingo, 18/05/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 10-14)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "The Big Bang Theory (T1 EP 8-10)",
-        "titulo": "The Big Bang Theory"
-      },
-      "El Padrino I"
-    ]
-  },
-  {
-    "id": 38,
-    "title": "35° Tanda",
-    "date": "Martes, 03/06/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 15-19)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "The Big Bang Theory (T1 EP 11-16)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "title": "36° Tanda",
-    "date": "Domingo, 15/06/2025",
-    "items": [
-      "Non-stop",
-      "Galveston",
-      "Rocky IV",
-      {
-        "texto": "The Big Bang Theory (T1 EP 17 + T2 EP 1-3)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "title": "37° Tanda",
-    "date": "Miércoles, 02/07/2025",
-    "items": [
-      "Whiskey Tango Foxtrot",
-      "Taken II",
-      "21 Blackjack",
-      {
-        "texto": "The Big Bang Theory (T2 EP 4-5)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "title": "38° Tanda",
-    "date": "Jueves, 17/07/2025",
-    "items": [
-      {
-        "texto": "Cars II",
-        "titulo": "Cars 2"
-      },
-      "The Roads Not Taken",
-      {
-        "texto": "Kim Possible (T2 EP 20-22)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "The Big Bang Theory (T2 EP 6-8)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "title": "39° Tanda",
-    "date": "Sábado, 02/08/2025",
-    "items": [
-      {
-        "texto": "Star Wars IV: A New Hope",
-        "titulo": "Star Wars Episodio IV A New Hope"
-      },
-      {
-        "texto": "Euphoria (T1 EP 1-2)",
-        "titulo": "Euphoria"
-      },
-      {
-        "texto": "The Big Bang Theory (T2 EP 9-13)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "title": "40° Tanda",
-    "date": "Martes, 19/08/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 23-26)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "Euphoria (T1 EP 3-4)",
-        "titulo": "Euphoria"
-      },
-      {
-        "texto": "The Big Bang Theory (T2 EP 14-18)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "title": "41° Tanda",
-    "date": "Jueves, 04/09/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T2 EP 27-30 + T3 EP 1)",
-        "titulo": "Kim Possible"
-      },
-      "The Watchers",
-      "Thoroughbreds",
-      {
-        "texto": "Star Wars V: The Empire Strikes Back",
-        "titulo": "Star Wars Episodio V The Empire Strikes Back"
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "title": "42° Tanda",
-    "date": "Sábado, 20/09/2025",
-    "items": [
-      {
-        "texto": "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
-        "titulo": "Euphoria"
-      },
-      {
-        "texto": "The Big Bang Theory (T2 EP 19-23)",
-        "titulo": "The Big Bang Theory"
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "title": "43° Tanda",
-    "date": "Miércoles, 08/10/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T3 EP 2-8)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "All The Bright Places",
-        "titulo": "All the Bright Places"
-      },
-      "Please Stand By",
-      "Taken III"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "44° Tanda",
-    "date": "Martes, 21/10/2025",
-    "items": [
-      {
-        "texto": "Kim Possible (T3 EP 9-11)",
-        "titulo": "Kim Possible"
-      },
-      {
-        "texto": "Euphoria (T2 EP 1-3)",
-        "titulo": "Euphoria"
-      },
-      "Viena and the Fantomes",
-      "The Neon Demon"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "45° Tanda",
-    "date": "Lunes, 03/11/2025",
-    "items": [
-      {
-        "texto": "Euphoria (T2 EP 4-5)",
-        "titulo": "Euphoria"
-      },
-      {
-        "texto": "The Substance",
-        "titulo": "La Sustancia"
-      },
-      "Slaughterhouse Rulez"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "46° Tanda",
-    "date": "Lunes, 17/11/2025",
-    "items": [
-      {
-        "texto": "TS: Reputation Stadium Tour",
-        "titulo": "Taylor Swift Reputation Stadium Tour"
-      },
-      "Last Night in Soho",
-      "The Runaways",
-      "Teen Spirit",
-      "The Naked Gun"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "47° Tanda",
-    "date": "Martes, 02/12/2025",
-    "items": [
-      {
-        "texto": "Euphoria (T2 EP 6-8)",
-        "titulo": "Euphoria"
-      },
-      "Very Good Girls",
-      {
-        "texto": "I Think We're Alone Now",
-        "titulo": "I Think Were Alone Now"
-      },
-      {
-        "texto": "Finding Nemo",
-        "titulo": "Buscando a Nemo"
-      },
-      {
-        "texto": "The Ice Road",
-        "titulo": "Riesgo Bajo Cero"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "title": "48° Tanda",
-    "date": "Sábado, 13/12/2025",
-    "items": [
-      {
-        "texto": "Escape from Sobibor",
-        "titulo": "Escape de Sobibor"
-      },
-      "Lilo and Stitch I",
-      "Now is Good"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "49a° Tanda",
-    "date": "Jueves, 25/12/2025",
-    "items": [
-      {
-        "texto": "Alvin and the Chipmunks",
-        "titulo": "Alvin y las Ardillas"
-      },
-      {
-        "texto": "Sabrina Carpenter: A Nonsense Christmas",
-        "titulo": "A Nonsense Christmas with Sabrina Carpenter"
-      },
-      "Los Fantasmas de Scrooge"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "49b° Tanda",
-    "date": "Miércoles, 31/12/2025",
-    "items": [
-      {
-        "texto": "Kim Possible: So The Drama",
-        "titulo": "Kim Possible Todo un Drama"
-      },
-      "Vicious",
-      {
-        "texto": "Star Wars VI: Return of the Jedi",
-        "titulo": "Star Wars Episodio VI Return of the Jedi"
-      }
-    ]
-  }
-]
+{
+  "ciclos": [
+    {
+      "anio": "2023",
+      "nombre": "Fase de Inauguración",
+      "descripcion": "El inicio formal del proyecto (15 de octubre de 2023): se establecen las bases metodológicas y las primeras métricas de control.",
+      "tandas": 4,
+      "titulos": 5,
+      "palabras": 1093,
+      "lineas": 8327,
+      "comprension": 86.87,
+      "duracion": 513
+    },
+    {
+      "anio": "2024",
+      "nombre": "Fase de Expansión",
+      "descripcion": "Se consolida la metodología con tandas periódicas, desde clásicos de la animación hasta thrillers de acción y dramas históricos.",
+      "tandas": 24,
+      "titulos": 57,
+      "palabras": 8831,
+      "lineas": 82538,
+      "comprension": 89.3,
+      "duracion": 5924
+    },
+    {
+      "anio": "2025",
+      "nombre": "Fase de Profundización",
+      "descripcion": "Series como The Big Bang Theory y Kim Possible pasan a ser el mantenimiento diario del idioma, alternadas con largometrajes.",
+      "tandas": 25,
+      "titulos": 86,
+      "palabras": 11018,
+      "lineas": 133371,
+      "comprension": 91.74,
+      "duracion": 9431
+    },
+    {
+      "anio": "2026",
+      "nombre": "Fase de Ejecución Avanzada",
+      "descripcion": "Tandas quincenales que mezclan inglés técnico, histórico y coloquial a través de largometrajes y series de estreno.",
+      "tandas": 26,
+      "titulos": 100,
+      "palabras": 11613,
+      "lineas": 161469,
+      "comprension": 92.81,
+      "duracion": 10083
+    }
+  ],
+  "tandas": [
+    {
+      "id": 1,
+      "title": "1° Tanda",
+      "date": "Jueves, 02/11/2023",
+      "fecha": "2023-11-02",
+      "anio": "2023",
+      "etiqueta": null,
+      "palabras": 243,
+      "lineas": 2260,
+      "comprension": 89.25,
+      "duracion": 114,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Barbie",
+          "titulo": "Barbie",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 243,
+          "lineas": 2260,
+          "comprension": 89.25,
+          "duracion": 114,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2° Tanda",
+      "date": "Jueves, 23/11/2023",
+      "fecha": "2023-11-23",
+      "anio": "2023",
+      "etiqueta": null,
+      "palabras": 242,
+      "lineas": 2136,
+      "comprension": 88.67,
+      "duracion": 109,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Bombshell",
+          "titulo": "Bombshell",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 242,
+          "lineas": 2136,
+          "comprension": 88.67,
+          "duracion": 109,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "3° Tanda",
+      "date": "Sábado, 16/12/2023",
+      "fecha": "2023-12-16",
+      "anio": "2023",
+      "etiqueta": null,
+      "palabras": 208,
+      "lineas": 1513,
+      "comprension": 86.25,
+      "duracion": 85,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Taylor Swift: Miss Americana",
+          "titulo": "Taylor Swift Miss Americana",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 208,
+          "lineas": 1513,
+          "comprension": 86.25,
+          "duracion": 85,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "4° Tanda",
+      "date": "Martes, 02/01/2024",
+      "fecha": "2024-01-02",
+      "anio": "2023",
+      "etiqueta": null,
+      "palabras": 400,
+      "lineas": 2418,
+      "comprension": 83.46,
+      "duracion": 205,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "El Expreso Polar",
+          "titulo": "El Expreso Polar",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 132,
+          "lineas": 831,
+          "comprension": 84.12,
+          "duracion": 100,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Focus",
+          "titulo": "Focus",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 268,
+          "lineas": 1587,
+          "comprension": 83.11,
+          "duracion": 105,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "5° Tanda",
+      "date": "Sábado, 20/01/2024",
+      "fecha": "2024-01-20",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 369,
+      "lineas": 3425,
+      "comprension": 89.23,
+      "duracion": 287,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Rambo: First Blood",
+          "titulo": "Rambo First Blood",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 137,
+          "lineas": 936,
+          "comprension": 85.36,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Inside Out I",
+          "titulo": "Intensamente",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 113,
+          "lineas": 1378,
+          "comprension": 91.8,
+          "duracion": 95,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Honest Thief",
+          "titulo": "Venganza Implacable",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 119,
+          "lineas": 1111,
+          "comprension": 89.29,
+          "duracion": 99,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "6° Tanda",
+      "date": "Miércoles, 07/02/2024",
+      "fecha": "2024-02-07",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 383,
+      "lineas": 2883,
+      "comprension": 86.72,
+      "duracion": 231,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "I, Tonya",
+          "titulo": "I-Tonya",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 201,
+          "lineas": 1546,
+          "comprension": 87.0,
+          "duracion": 120,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Ratatouille",
+          "titulo": "Ratatouille",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 182,
+          "lineas": 1337,
+          "comprension": 86.39,
+          "duracion": 111,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "7° Tanda",
+      "date": "Jueves, 29/02/2024",
+      "fecha": "2024-02-29",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 453,
+      "lineas": 3123,
+      "comprension": 85.49,
+      "duracion": 205,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Terminal",
+          "titulo": "Terminal",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 288,
+          "lineas": 1512,
+          "comprension": 80.95,
+          "duracion": 95,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Five Nights at Freddy's I",
+          "titulo": "Five Nights at Freddy's",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 165,
+          "lineas": 1611,
+          "comprension": 89.76,
+          "duracion": 110,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "8° Tanda",
+      "date": "Viernes, 15/03/2024",
+      "fecha": "2024-03-15",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 376,
+      "lineas": 3099,
+      "comprension": 87.87,
+      "duracion": 282,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "La Leyenda de Tarzán",
+          "titulo": "The Legend of Tarzan",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 148,
+          "lineas": 922,
+          "comprension": 83.95,
+          "duracion": 109,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Toy Story I",
+          "titulo": "Toy Story",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 118,
+          "lineas": 1103,
+          "comprension": 89.3,
+          "duracion": 81,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Monsters Inc.",
+          "titulo": "Monsters Inc",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 110,
+          "lineas": 1074,
+          "comprension": 89.76,
+          "duracion": 92,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "9° Tanda",
+      "date": "Lunes, 01/04/2024",
+      "fecha": "2024-04-01",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 320,
+      "lineas": 2570,
+      "comprension": 87.55,
+      "duracion": 264,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Z for Zachariah",
+          "titulo": "Z for Zachariah",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 86,
+          "lineas": 719,
+          "comprension": 88.04,
+          "duracion": 97,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "TS: City of Lover Concert",
+          "titulo": "Taylor Swift City of Lover Concert",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 66,
+          "lineas": 589,
+          "comprension": 88.79,
+          "duracion": 42,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01E01)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 1,
+          "palabras": 70,
+          "lineas": 581,
+          "comprension": 87.95,
+          "duracion": 22,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Suite Française",
+          "titulo": "Suite Francaise",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 98,
+          "lineas": 681,
+          "comprension": 85.61,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "10° Tanda",
+      "date": "Jueves, 18/04/2024",
+      "fecha": "2024-04-18",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 336,
+      "lineas": 2736,
+      "comprension": 87.72,
+      "duracion": 184,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Once Upon a Time in Hollywood",
+          "titulo": "Once Upon a Time in Hollywood",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 258,
+          "lineas": 2160,
+          "comprension": 88.06,
+          "duracion": 162,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01E02)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 1,
+          "palabras": 78,
+          "lineas": 576,
+          "comprension": 86.46,
+          "duracion": 22,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "11° Tanda",
+      "date": "Viernes, 03/05/2024",
+      "fecha": "2024-05-03",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 301,
+      "lineas": 2325,
+      "comprension": 87.05,
+      "duracion": 136,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Toy Story II",
+          "titulo": "Toy Story 2",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 158,
+          "lineas": 1231,
+          "comprension": 87.16,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01E03-04)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 143,
+          "lineas": 1094,
+          "comprension": 86.93,
+          "duracion": 44,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "12° Tanda",
+      "date": "Jueves, 16/05/2024",
+      "fecha": "2024-05-16",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 318,
+      "lineas": 2703,
+      "comprension": 88.24,
+      "duracion": 110,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Kim Possible (S01E05-09)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 318,
+          "lineas": 2703,
+          "comprension": 88.24,
+          "duracion": 110,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "13° Tanda",
+      "date": "Martes, 11/06/2024",
+      "fecha": "2024-06-11",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 433,
+      "lineas": 3708,
+      "comprension": 88.32,
+      "duracion": 181,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Oppenheimer",
+          "titulo": "Oppenheimer",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 433,
+          "lineas": 3708,
+          "comprension": 88.32,
+          "duracion": 181,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "14a° Tanda",
+      "date": "Sábado, 29/06/2024",
+      "fecha": "2024-06-29",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 44,
+      "lineas": 440,
+      "comprension": 90.0,
+      "duracion": 96,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Rambo: First Blood (Part II)",
+          "titulo": "Rambo II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 44,
+          "lineas": 440,
+          "comprension": 90.0,
+          "duracion": 96,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "14b° Tanda",
+      "date": "Martes, 02/07/2024",
+      "fecha": "2024-07-02",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 284,
+      "lineas": 1821,
+      "comprension": 84.4,
+      "duracion": 122,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Escuadrón Suicida",
+          "titulo": "Escuadrón Suicida",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 284,
+          "lineas": 1821,
+          "comprension": 84.4,
+          "duracion": 122,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "15a° Tanda",
+      "date": "Miércoles, 10/07/2024",
+      "fecha": "2024-07-10",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 17,
+      "lineas": 481,
+      "comprension": 96.47,
+      "duracion": 102,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Rambo III",
+          "titulo": "Rambo III",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 17,
+          "lineas": 481,
+          "comprension": 96.47,
+          "duracion": 102,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "15b° Tanda",
+      "date": "Lunes, 15/07/2024",
+      "fecha": "2024-07-15",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 431,
+      "lineas": 3773,
+      "comprension": 88.58,
+      "duracion": 174,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Kim Possible (2019)",
+          "titulo": "Kim Possible (2019)",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 203,
+          "lineas": 1497,
+          "comprension": 86.44,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01 EP10-13)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 228,
+          "lineas": 2276,
+          "comprension": 89.98,
+          "duracion": 88,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "16° Tanda",
+      "date": "Viernes, 02/08/2024",
+      "fecha": "2024-08-02",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 529,
+      "lineas": 4788,
+      "comprension": 88.95,
+      "duracion": 321,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Aves de Presa",
+          "titulo": "Aves de Presa",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 297,
+          "lineas": 2100,
+          "comprension": 85.86,
+          "duracion": 109,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Star Wars Episode I: The Phantom Menace",
+          "titulo": "Star Wars Episodio I The Phantom Menace",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 154,
+          "lineas": 1646,
+          "comprension": 90.64,
+          "duracion": 136,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Olivia Rodrigo: driving home 2 u",
+          "titulo": "Olivia Rodrigo driving home 2 u",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 78,
+          "lineas": 1042,
+          "comprension": 92.51,
+          "duracion": 76,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "17° Tanda",
+      "date": "Domingo, 18/08/2024",
+      "fecha": "2024-08-18",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 530,
+      "lineas": 4986,
+      "comprension": 89.37,
+      "duracion": 442,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "El Escuadrón Suicida",
+          "titulo": "El Escuadrón Suicida",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 263,
+          "lineas": 2051,
+          "comprension": 87.18,
+          "duracion": 132,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rocky I",
+          "titulo": "Rocky I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 196,
+          "lineas": 1684,
+          "comprension": 88.36,
+          "duracion": 120,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rambo IV (John Rambo)",
+          "titulo": "Rambo IV",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 25,
+          "lineas": 457,
+          "comprension": 94.53,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "WALL-E",
+          "titulo": "WALL-E",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 46,
+          "lineas": 794,
+          "comprension": 94.21,
+          "duracion": 98,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "18° Tanda",
+      "date": "Miércoles, 04/09/2024",
+      "fecha": "2024-09-04",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 502,
+      "lineas": 4604,
+      "comprension": 89.1,
+      "duracion": 267,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Taylor Swift: The Eras Tour (Taylor's Version)",
+          "titulo": "Taylor Swift The Eras Tour Film",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 377,
+          "lineas": 3378,
+          "comprension": 88.84,
+          "duracion": 169,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Dreamland",
+          "titulo": "Dreamland",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 125,
+          "lineas": 1226,
+          "comprension": 89.8,
+          "duracion": 98,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "19° Tanda",
+      "date": "Viernes, 20/09/2024",
+      "fecha": "2024-09-20",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 547,
+      "lineas": 3598,
+      "comprension": 84.8,
+      "duracion": 283,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Mary Queen of Scots",
+          "titulo": "Mary Queen of Scots",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 223,
+          "lineas": 1128,
+          "comprension": 80.23,
+          "duracion": 124,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Los Increíbles",
+          "titulo": "Los Increibles",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 216,
+          "lineas": 1334,
+          "comprension": 83.81,
+          "duracion": 115,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01 EP14-15)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 108,
+          "lineas": 1136,
+          "comprension": 90.49,
+          "duracion": 44,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "20° Tanda",
+      "date": "Martes, 08/10/2024",
+      "fecha": "2024-10-08",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 416,
+      "lineas": 3987,
+      "comprension": 89.57,
+      "duracion": 211,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "About Time",
+          "titulo": "About Time",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 215,
+          "lineas": 1903,
+          "comprension": 88.7,
+          "duracion": 123,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01 EP16-19)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 201,
+          "lineas": 2084,
+          "comprension": 90.36,
+          "duracion": 88,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "21° Tanda",
+      "date": "Domingo, 27/10/2024",
+      "fecha": "2024-10-27",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 548,
+      "lineas": 5100,
+      "comprension": 89.25,
+      "duracion": 491,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Titanic",
+          "titulo": "Titanic",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 332,
+          "lineas": 2083,
+          "comprension": 84.06,
+          "duracion": 194,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Coraline",
+          "titulo": "Coraline",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 99,
+          "lineas": 1293,
+          "comprension": 92.34,
+          "duracion": 100,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The New Mutants",
+          "titulo": "The New Mutants",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 34,
+          "lineas": 1029,
+          "comprension": 96.7,
+          "duracion": 94,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Truman Show",
+          "titulo": "The Truman Show",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 83,
+          "lineas": 695,
+          "comprension": 88.06,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "22° Tanda",
+      "date": "Martes, 12/11/2024",
+      "fecha": "2024-11-12",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 371,
+      "lineas": 5679,
+      "comprension": 93.47,
+      "duracion": 386,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Rocky II",
+          "titulo": "Rocky II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 204,
+          "lineas": 1819,
+          "comprension": 88.79,
+          "duracion": 119,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Retribution",
+          "titulo": "Contrarreloj",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 43,
+          "lineas": 1433,
+          "comprension": 97.0,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Barbie: The Princess and The Popstar",
+          "titulo": "Barbie La Princesa y Estrella de Pop",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 74,
+          "lineas": 1118,
+          "comprension": 93.38,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Harold y su Crayón Mágico",
+          "titulo": "Harold and The Purple Crayon",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 50,
+          "lineas": 1309,
+          "comprension": 96.18,
+          "duracion": 90,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "23° Tanda",
+      "date": "Jueves, 28/11/2024",
+      "fecha": "2024-11-28",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 387,
+      "lineas": 4214,
+      "comprension": 90.82,
+      "duracion": 293,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Goodbye, Christopher Robin",
+          "titulo": "Goodbye Christopher Robin",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 209,
+          "lineas": 1786,
+          "comprension": 88.3,
+          "duracion": 107,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Star Wars Episode II: Attack of the Clones",
+          "titulo": "Star Wars Episodio II Attack of The Clones",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 56,
+          "lineas": 1219,
+          "comprension": 95.41,
+          "duracion": 142,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S01 EP20-21)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 122,
+          "lineas": 1209,
+          "comprension": 89.91,
+          "duracion": 44,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "24° Tanda",
+      "date": "Miércoles, 11/12/2024",
+      "fecha": "2024-12-11",
+      "anio": "2024",
+      "etiqueta": null,
+      "palabras": 371,
+      "lineas": 4896,
+      "comprension": 92.42,
+      "duracion": 366,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Babylon",
+          "titulo": "Babylon",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 215,
+          "lineas": 2232,
+          "comprension": 90.37,
+          "duracion": 189,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Marrowbone",
+          "titulo": "Marrowbone",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 41,
+          "lineas": 940,
+          "comprension": 95.64,
+          "duracion": 111,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (S02 EP1-3)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 115,
+          "lineas": 1724,
+          "comprension": 93.33,
+          "duracion": 66,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "25a° Tanda (Gala)",
+      "date": "Jueves, 26/12/2024",
+      "fecha": "2024-12-26",
+      "anio": "2024",
+      "etiqueta": "gala",
+      "palabras": 282,
+      "lineas": 3185,
+      "comprension": 91.15,
+      "duracion": 223,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Ámsterdam",
+          "titulo": "Ámsterdam",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 260,
+          "lineas": 2431,
+          "comprension": 89.3,
+          "duracion": 134,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rambo: Last Blood",
+          "titulo": "Rambo Last Blood",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 22,
+          "lineas": 754,
+          "comprension": 97.08,
+          "duracion": 89,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "25b° Tanda (Fin de Año)",
+      "date": "Lunes, 30/12/2024",
+      "fecha": "2024-12-30",
+      "anio": "2024",
+      "etiqueta": "fin",
+      "palabras": 283,
+      "lineas": 4414,
+      "comprension": 93.59,
+      "duracion": 267,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Scarface",
+          "titulo": "Scarface",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 169,
+          "lineas": 2268,
+          "comprension": 92.55,
+          "duracion": 170,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Inside Out II",
+          "titulo": "Intensamente 2",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 114,
+          "lineas": 2146,
+          "comprension": 94.69,
+          "duracion": 97,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "26° Tanda",
+      "date": "Viernes, 17/01/2025",
+      "fecha": "2025-01-17",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 555,
+      "lineas": 4809,
+      "comprension": 88.46,
+      "duracion": 286,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "The Wolf of Wall Street",
+          "titulo": "The Wolf of Wall Street",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 422,
+          "lineas": 3255,
+          "comprension": 87.04,
+          "duracion": 180,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Taylor Swift: Folklore The Long Pond Studio Sessions",
+          "titulo": "Taylor Swift Folklore The Long Pond Studio Sessions",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 133,
+          "lineas": 1554,
+          "comprension": 91.44,
+          "duracion": 106,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "27° Tanda",
+      "date": "Domingo, 02/02/2025",
+      "fecha": "2025-02-02",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 500,
+      "lineas": 4405,
+      "comprension": 88.65,
+      "duracion": 342,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Emma",
+          "titulo": "Emma",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 204,
+          "lineas": 1714,
+          "comprension": 88.1,
+          "duracion": 125,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Cars I",
+          "titulo": "Cars",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 189,
+          "lineas": 1514,
+          "comprension": 87.52,
+          "duracion": 117,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rocky III",
+          "titulo": "Rocky III",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 107,
+          "lineas": 1177,
+          "comprension": 90.91,
+          "duracion": 100,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "28° Tanda",
+      "date": "Lunes, 17/02/2025",
+      "fecha": "2025-02-17",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 535,
+      "lineas": 7659,
+      "comprension": 93.01,
+      "duracion": 535,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Playmobil",
+          "titulo": "Playmobil",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 137,
+          "lineas": 1734,
+          "comprension": 92.1,
+          "duracion": 99,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Top Gun",
+          "titulo": "Top Gun",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 114,
+          "lineas": 1395,
+          "comprension": 91.83,
+          "duracion": 110,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Olivia Rodrigo: Guts World Tour Film",
+          "titulo": "Olivia Rodrigo Guts World Tour",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
+          "nivel": "B1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 76,
+          "lineas": 1663,
+          "comprension": 95.43,
+          "duracion": 105,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "American Pastoral",
+          "titulo": "American Pastoral",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 86,
+          "lineas": 1354,
+          "comprension": 93.65,
+          "duracion": 108,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Dream Productions (Spinoff Inside Out - 4 partes)",
+          "titulo": "Dream Productions",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 122,
+          "lineas": 1513,
+          "comprension": 91.94,
+          "duracion": 113,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "29° Tanda",
+      "date": "Martes, 04/03/2025",
+      "fecha": "2025-03-04",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 478,
+      "lineas": 5302,
+      "comprension": 90.98,
+      "duracion": 345,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 4-7)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 162,
+          "lineas": 2158,
+          "comprension": 92.49,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Queen's Gambit (EP 1-3)",
+          "titulo": "Gambito de Dama",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 126,
+          "lineas": 1707,
+          "comprension": 92.62,
+          "duracion": 170,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T1 EP 1-4)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 190,
+          "lineas": 1437,
+          "comprension": 86.78,
+          "duracion": 87,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "30° Tanda",
+      "date": "Miércoles, 19/03/2025",
+      "fecha": "2025-03-19",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 495,
+      "lineas": 5854,
+      "comprension": 91.54,
+      "duracion": 440,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 8-9)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 93,
+          "lineas": 1098,
+          "comprension": 91.53,
+          "duracion": 44,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Bichos: Una Aventura en Miniatura",
+          "titulo": "Bichos Una Aventura en Miniatura",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 115,
+          "lineas": 1255,
+          "comprension": 90.84,
+          "duracion": 95,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Queen's Gambit (EP 4-7 + Especial)",
+          "titulo": "Gambito de Dama",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 169,
+          "lineas": 2515,
+          "comprension": 93.28,
+          "duracion": 239,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T1 EP 5-7)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 118,
+          "lineas": 986,
+          "comprension": 88.03,
+          "duracion": 62,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "31° Tanda",
+      "date": "Lunes, 31/03/2025",
+      "fecha": "2025-03-31",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 404,
+      "lineas": 4634,
+      "comprension": 91.28,
+      "duracion": 344,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Star Wars Episode III: Revenge of the Sith",
+          "titulo": "Star Wars Episodio III Revenge of the Sith",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 93,
+          "lineas": 1102,
+          "comprension": 91.56,
+          "duracion": 140,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "3 Generations",
+          "titulo": "3 Generations",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 68,
+          "lineas": 926,
+          "comprension": 92.66,
+          "duracion": 87,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Wonka",
+          "titulo": "Wonka",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 243,
+          "lineas": 2606,
+          "comprension": 90.68,
+          "duracion": 117,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "32° Tanda",
+      "date": "Martes, 15/04/2025",
+      "fecha": "2025-04-15",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 406,
+      "lineas": 5404,
+      "comprension": 92.49,
+      "duracion": 397,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "The Menu",
+          "titulo": "The Menu",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 169,
+          "lineas": 1733,
+          "comprension": 90.25,
+          "duracion": 107,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Super Mario Bros: The Movie",
+          "titulo": "Super Mario Bros The Movie",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 65,
+          "lineas": 1541,
+          "comprension": 95.78,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Taken I",
+          "titulo": "Taken I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 57,
+          "lineas": 885,
+          "comprension": 93.56,
+          "duracion": 94,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Toy Story III",
+          "titulo": "Toy Story III",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 115,
+          "lineas": 1245,
+          "comprension": 90.76,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "33° Tanda",
+      "date": "Sábado, 03/05/2025",
+      "fecha": "2025-05-03",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 408,
+      "lineas": 3612,
+      "comprension": 88.7,
+      "duracion": 327,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Split",
+          "titulo": "Split",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 82,
+          "lineas": 1272,
+          "comprension": 93.55,
+          "duracion": 117,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Cuckoo",
+          "titulo": "Cuckoo",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 76,
+          "lineas": 1033,
+          "comprension": 92.64,
+          "duracion": 103,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rango",
+          "titulo": "Rango",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 250,
+          "lineas": 1307,
+          "comprension": 80.87,
+          "duracion": 107,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "34° Tanda",
+      "date": "Domingo, 18/05/2025",
+      "fecha": "2025-05-18",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 394,
+      "lineas": 5170,
+      "comprension": 92.38,
+      "duracion": 312,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 10-14)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 193,
+          "lineas": 2676,
+          "comprension": 92.79,
+          "duracion": 77,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T1 EP 8-10)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 117,
+          "lineas": 1011,
+          "comprension": 88.43,
+          "duracion": 60,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "El Padrino I",
+          "titulo": "El Padrino I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 84,
+          "lineas": 1483,
+          "comprension": 94.34,
+          "duracion": 175,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "35° Tanda",
+      "date": "Martes, 03/06/2025",
+      "fecha": "2025-06-03",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 435,
+      "lineas": 4581,
+      "comprension": 90.5,
+      "duracion": 236,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 15-19)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 191,
+          "lineas": 2641,
+          "comprension": 92.77,
+          "duracion": 110,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T1 EP 11-16)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 6,
+          "palabras": 244,
+          "lineas": 1940,
+          "comprension": 87.42,
+          "duracion": 126,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "36° Tanda",
+      "date": "Domingo, 15/06/2025",
+      "fecha": "2025-06-15",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 398,
+      "lineas": 4836,
+      "comprension": 91.77,
+      "duracion": 373,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Non-stop",
+          "titulo": "Non-stop",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 81,
+          "lineas": 1512,
+          "comprension": 94.64,
+          "duracion": 107,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Galveston",
+          "titulo": "Galveston",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 84,
+          "lineas": 1050,
+          "comprension": 92.0,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Rocky IV",
+          "titulo": "Rocky IV",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 69,
+          "lineas": 957,
+          "comprension": 92.79,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T1 EP 17 + T2 EP 1-3)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 164,
+          "lineas": 1317,
+          "comprension": 87.55,
+          "duracion": 84,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "37° Tanda",
+      "date": "Miércoles, 02/07/2025",
+      "fecha": "2025-07-02",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 408,
+      "lineas": 4600,
+      "comprension": 91.13,
+      "duracion": 367,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Whiskey Tango Foxtrot",
+          "titulo": "Whiskey Tango Foxtrot",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 187,
+          "lineas": 1492,
+          "comprension": 87.47,
+          "duracion": 112,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Taken II",
+          "titulo": "Taken II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 33,
+          "lineas": 943,
+          "comprension": 96.5,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "21 Blackjack",
+          "titulo": "21 Blackjack",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 88,
+          "lineas": 1437,
+          "comprension": 93.88,
+          "duracion": 123,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T2 EP 4-5)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 100,
+          "lineas": 728,
+          "comprension": 86.26,
+          "duracion": 41,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "38° Tanda",
+      "date": "Jueves, 17/07/2025",
+      "fecha": "2025-07-17",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 524,
+      "lineas": 5088,
+      "comprension": 89.7,
+      "duracion": 319,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Cars II",
+          "titulo": "Cars 2",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 243,
+          "lineas": 1553,
+          "comprension": 84.35,
+          "duracion": 106,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Roads Not Taken",
+          "titulo": "The Roads Not Taken",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 24,
+          "lineas": 825,
+          "comprension": 97.09,
+          "duracion": 85,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Kim Possible (T2 EP 20-22)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 126,
+          "lineas": 1703,
+          "comprension": 92.6,
+          "duracion": 66,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T2 EP 6-8)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 131,
+          "lineas": 1007,
+          "comprension": 86.99,
+          "duracion": 62,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "39° Tanda",
+      "date": "Sábado, 02/08/2025",
+      "fecha": "2025-08-02",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 491,
+      "lineas": 4756,
+      "comprension": 89.68,
+      "duracion": 341,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Star Wars IV: A New Hope",
+          "titulo": "Star Wars Episodio IV A New Hope",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/iWEJuiNOlScWVxfNVyXiXf6lCiG.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 120,
+          "lineas": 1302,
+          "comprension": 90.78,
+          "duracion": 121,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Euphoria (T1 EP 1-2)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 172,
+          "lineas": 1787,
+          "comprension": 90.37,
+          "duracion": 115,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T2 EP 9-13)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 199,
+          "lineas": 1667,
+          "comprension": 88.06,
+          "duracion": 105,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "40° Tanda",
+      "date": "Martes, 19/08/2025",
+      "fecha": "2025-08-19",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 504,
+      "lineas": 5634,
+      "comprension": 91.05,
+      "duracion": 305,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 23-26)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 190,
+          "lineas": 2212,
+          "comprension": 91.41,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Euphoria (T1 EP 3-4)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 80,
+          "lineas": 1649,
+          "comprension": 95.15,
+          "duracion": 113,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T2 EP 14-18)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 234,
+          "lineas": 1773,
+          "comprension": 86.8,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "41° Tanda",
+      "date": "Jueves, 04/09/2025",
+      "fecha": "2025-09-04",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 512,
+      "lineas": 6450,
+      "comprension": 92.06,
+      "duracion": 428,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T2 EP 27-30 + T3 EP 1)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 310,
+          "lineas": 2705,
+          "comprension": 88.54,
+          "duracion": 110,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Watchers",
+          "titulo": "The Watchers",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 70,
+          "lineas": 1390,
+          "comprension": 94.96,
+          "duracion": 102,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Thoroughbreds",
+          "titulo": "Thoroughbreds",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 67,
+          "lineas": 1220,
+          "comprension": 94.51,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Star Wars V: The Empire Strikes Back",
+          "titulo": "Star Wars Episodio V The Empire Strikes Back",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 65,
+          "lineas": 1135,
+          "comprension": 94.27,
+          "duracion": 124,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "42° Tanda",
+      "date": "Sábado, 20/09/2025",
+      "fecha": "2025-09-20",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 509,
+      "lineas": 6478,
+      "comprension": 92.14,
+      "duracion": 436,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": 6,
+          "palabras": 309,
+          "lineas": 4684,
+          "comprension": 93.4,
+          "duracion": 334,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T2 EP 19-23)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 200,
+          "lineas": 1794,
+          "comprension": 88.85,
+          "duracion": 102,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "43° Tanda",
+      "date": "Miércoles, 08/10/2025",
+      "fecha": "2025-10-08",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 509,
+      "lineas": 7878,
+      "comprension": 93.54,
+      "duracion": 464,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T3 EP 2-8)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 7,
+          "palabras": 347,
+          "lineas": 4104,
+          "comprension": 91.54,
+          "duracion": 154,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "All The Bright Places",
+          "titulo": "All the Bright Places",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 50,
+          "lineas": 1166,
+          "comprension": 95.71,
+          "duracion": 108,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Please Stand By",
+          "titulo": "Please Stand By",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 52,
+          "lineas": 1177,
+          "comprension": 95.58,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Taken III",
+          "titulo": "Taken III",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 60,
+          "lineas": 1431,
+          "comprension": 95.81,
+          "duracion": 109,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "44° Tanda",
+      "date": "Martes, 21/10/2025",
+      "fecha": "2025-10-21",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 354,
+      "lineas": 6007,
+      "comprension": 94.11,
+      "duracion": 470,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T3 EP 9-11)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 156,
+          "lineas": 1709,
+          "comprension": 90.87,
+          "duracion": 66,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Euphoria (T2 EP 1-3)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 3,
+          "palabras": 131,
+          "lineas": 2658,
+          "comprension": 95.07,
+          "duracion": 181,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Viena and the Fantomes",
+          "titulo": "Viena and the Fantomes",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 25,
+          "lineas": 912,
+          "comprension": 97.26,
+          "duracion": 105,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Neon Demon",
+          "titulo": "The Neon Demon",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 42,
+          "lineas": 728,
+          "comprension": 94.23,
+          "duracion": 118,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "45° Tanda",
+      "date": "Lunes, 03/11/2025",
+      "fecha": "2025-11-03",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 370,
+      "lineas": 4792,
+      "comprension": 92.28,
+      "duracion": 361,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Euphoria (T2 EP 4-5)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 84,
+          "lineas": 1672,
+          "comprension": 94.98,
+          "duracion": 116,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Substance",
+          "titulo": "La Sustancia",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 102,
+          "lineas": 1467,
+          "comprension": 93.05,
+          "duracion": 141,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Slaughterhouse Rulez",
+          "titulo": "Slaughterhouse Rulez",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 184,
+          "lineas": 1653,
+          "comprension": 88.87,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "46° Tanda",
+      "date": "Lunes, 17/11/2025",
+      "fecha": "2025-11-17",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 505,
+      "lineas": 7980,
+      "comprension": 93.67,
+      "duracion": 526,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "TS: Reputation Stadium Tour",
+          "titulo": "Taylor Swift Reputation Stadium Tour",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 113,
+          "lineas": 1935,
+          "comprension": 94.16,
+          "duracion": 125,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Last Night in Soho",
+          "titulo": "Last Night in Soho",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 92,
+          "lineas": 1883,
+          "comprension": 95.11,
+          "duracion": 116,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Runaways",
+          "titulo": "The Runaways",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 72,
+          "lineas": 1013,
+          "comprension": 92.89,
+          "duracion": 107,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Teen Spirit",
+          "titulo": "Teen Spirit",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 83,
+          "lineas": 1423,
+          "comprension": 94.17,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Naked Gun",
+          "titulo": "The Naked Gun",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 145,
+          "lineas": 1726,
+          "comprension": 91.6,
+          "duracion": 85,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "47° Tanda",
+      "date": "Martes, 02/12/2025",
+      "fecha": "2025-12-02",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 503,
+      "lineas": 7179,
+      "comprension": 92.99,
+      "duracion": 581,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Euphoria (T2 EP 6-8)",
+          "titulo": "Euphoria",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": 3,
+          "palabras": 148,
+          "lineas": 2473,
+          "comprension": 94.02,
+          "duracion": 182,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Very Good Girls",
+          "titulo": "Very Good Girls",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 49,
+          "lineas": 1133,
+          "comprension": 95.68,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "I Think We're Alone Now",
+          "titulo": "I Think Were Alone Now",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 33,
+          "lineas": 638,
+          "comprension": 94.83,
+          "duracion": 100,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Finding Nemo",
+          "titulo": "Buscando a Nemo",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 122,
+          "lineas": 1575,
+          "comprension": 92.25,
+          "duracion": 100,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Ice Road",
+          "titulo": "Riesgo Bajo Cero",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 151,
+          "lineas": 1360,
+          "comprension": 88.9,
+          "duracion": 108,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "48° Tanda",
+      "date": "Sábado, 13/12/2025",
+      "fecha": "2025-12-13",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 278,
+      "lineas": 4261,
+      "comprension": 93.48,
+      "duracion": 357,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Escape from Sobibor",
+          "titulo": "Escape de Sobibor",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/sAeljrIHTtKgJ2BaVoa9oCTmD4u.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 89,
+          "lineas": 1888,
+          "comprension": 95.29,
+          "duracion": 169,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Lilo and Stitch I",
+          "titulo": "Lilo and Stitch I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 72,
+          "lineas": 949,
+          "comprension": 92.41,
+          "duracion": 85,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Now is Good",
+          "titulo": "Now is Good",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 117,
+          "lineas": 1424,
+          "comprension": 91.78,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "49a° Tanda",
+      "date": "Jueves, 25/12/2025",
+      "fecha": "2025-12-25",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 304,
+      "lineas": 2780,
+      "comprension": 89.06,
+      "duracion": 238,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Alvin and the Chipmunks",
+          "titulo": "Alvin y las Ardillas",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 101,
+          "lineas": 1146,
+          "comprension": 91.19,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Sabrina Carpenter: A Nonsense Christmas",
+          "titulo": "A Nonsense Christmas with Sabrina Carpenter",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 79,
+          "lineas": 914,
+          "comprension": 91.36,
+          "duracion": 50,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Los Fantasmas de Scrooge",
+          "titulo": "Los Fantasmas de Scrooge",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 124,
+          "lineas": 720,
+          "comprension": 82.78,
+          "duracion": 96,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "49b° Tanda",
+      "date": "Miércoles, 31/12/2025",
+      "fecha": "2025-12-31",
+      "anio": "2025",
+      "etiqueta": null,
+      "palabras": 239,
+      "lineas": 3222,
+      "comprension": 92.58,
+      "duracion": 301,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible: So The Drama",
+          "titulo": "Kim Possible Todo un Drama",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 125,
+          "lineas": 1094,
+          "comprension": 88.57,
+          "duracion": 71,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Vicious",
+          "titulo": "Vicious",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+          "nivel": "B1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 30,
+          "lineas": 1123,
+          "comprension": 97.33,
+          "duracion": 98,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Star Wars VI: Return of the Jedi",
+          "titulo": "Star Wars Episodio VI Return of the Jedi",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 84,
+          "lineas": 1005,
+          "comprension": 91.64,
+          "duracion": 132,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "50° Tanda",
+      "date": "Sábado, 17/01/2026",
+      "fecha": "2026-01-17",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 435,
+      "lineas": 4940,
+      "comprension": 91.19,
+      "duracion": 379,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Interstellar",
+          "titulo": "Interestellar",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 154,
+          "lineas": 1996,
+          "comprension": 92.28,
+          "duracion": 169,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Witch",
+          "titulo": "The Witch",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+          "nivel": "C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 125,
+          "lineas": 947,
+          "comprension": 86.8,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Sleeping Beauty",
+          "titulo": "La Bella Durmiente",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 96,
+          "lineas": 1143,
+          "comprension": 91.6,
+          "duracion": 75,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 1-2)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 60,
+          "lineas": 854,
+          "comprension": 92.97,
+          "duracion": 43,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "51° Tanda",
+      "date": "Sábado, 31/01/2026",
+      "fecha": "2026-01-31",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 401,
+      "lineas": 5709,
+      "comprension": 92.98,
+      "duracion": 318,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 1-4)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 184,
+          "lineas": 2413,
+          "comprension": 92.37,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Girl From Plainville (EP 1-2)",
+          "titulo": "The Girl From Plainville",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 61,
+          "lineas": 1336,
+          "comprension": 95.43,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Perfect Couple (EP 1-2)",
+          "titulo": "The Perfect Couple",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 95,
+          "lineas": 1271,
+          "comprension": 92.53,
+          "duracion": 97,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 3-4)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 61,
+          "lineas": 689,
+          "comprension": 91.15,
+          "duracion": 41,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "52° Tanda",
+      "date": "Sábado, 14/02/2026",
+      "fecha": "2026-02-14",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 406,
+      "lineas": 5782,
+      "comprension": 92.98,
+      "duracion": 428,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Grace Stirs Up Success",
+          "titulo": "An American Girl - Grace Stirs Up Success",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 100,
+          "lineas": 1781,
+          "comprension": 94.39,
+          "duracion": 101,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Night Moves",
+          "titulo": "Night Moves",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 72,
+          "lineas": 1261,
+          "comprension": 94.29,
+          "duracion": 112,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Home (Documental)",
+          "titulo": "Home",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 141,
+          "lineas": 853,
+          "comprension": 83.47,
+          "duracion": 95,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Vanishing of Sidney Hall",
+          "titulo": "The Vanishing of Sidney Hall",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 93,
+          "lineas": 1887,
+          "comprension": 95.07,
+          "duracion": 120,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "53° Tanda",
+      "date": "Domingo, 01/03/2026",
+      "fecha": "2026-03-01",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 395,
+      "lineas": 5894,
+      "comprension": 93.3,
+      "duracion": 415,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Maleficent I",
+          "titulo": "Maleficent I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 60,
+          "lineas": 1037,
+          "comprension": 94.21,
+          "duracion": 97,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Sweetness in the Belly",
+          "titulo": "Sweetness in the Belly",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 46,
+          "lineas": 1116,
+          "comprension": 95.88,
+          "duracion": 111,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Pan Am (EP 1-2)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 2,
+          "palabras": 113,
+          "lineas": 1800,
+          "comprension": 93.72,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 5-10)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 6,
+          "palabras": 176,
+          "lineas": 1941,
+          "comprension": 90.93,
+          "duracion": 121,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "54° Tanda",
+      "date": "Viernes, 20/03/2026",
+      "fecha": "2026-03-20",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 449,
+      "lineas": 6737,
+      "comprension": 93.34,
+      "duracion": 523,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 5-8)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 184,
+          "lineas": 2135,
+          "comprension": 91.38,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Here Are The Young Men",
+          "titulo": "Here Are The Young Men",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 57,
+          "lineas": 1060,
+          "comprension": 94.62,
+          "duracion": 96,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Obi-Wan Kenobi (Serie Completa)",
+          "titulo": "Obi-Wan Kenobi",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 94,
+          "lineas": 2439,
+          "comprension": 96.15,
+          "duracion": 280,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 11-13)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 114,
+          "lineas": 1103,
+          "comprension": 89.66,
+          "duracion": 59,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "55° Tanda",
+      "date": "Martes, 07/04/2026",
+      "fecha": "2026-04-07",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 506,
+      "lineas": 4916,
+      "comprension": 89.71,
+      "duracion": 247,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 9-10)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 116,
+          "lineas": 1156,
+          "comprension": 89.97,
+          "duracion": 44,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "A Minecraft Movie",
+          "titulo": "A Minecraft Movie",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 182,
+          "lineas": 2008,
+          "comprension": 90.94,
+          "duracion": 101,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 14-18)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 208,
+          "lineas": 1752,
+          "comprension": 88.13,
+          "duracion": 102,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "56° Tanda",
+      "date": "Domingo, 19/04/2026",
+      "fecha": "2026-04-19",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 505,
+      "lineas": 6931,
+      "comprension": 92.71,
+      "duracion": 440,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 11-14)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 216,
+          "lineas": 2335,
+          "comprension": 90.75,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Maleficent II: Mistress of Evil",
+          "titulo": "Maleficent II Mistress of Evil",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 72,
+          "lineas": 1609,
+          "comprension": 95.53,
+          "duracion": 119,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Blacklight",
+          "titulo": "Blacklight",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 129,
+          "lineas": 1700,
+          "comprension": 92.41,
+          "duracion": 104,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Glass",
+          "titulo": "Glass",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 88,
+          "lineas": 1287,
+          "comprension": 93.16,
+          "duracion": 129,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "57° Tanda",
+      "date": "Miércoles, 06/05/2026",
+      "fecha": "2026-05-06",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 492,
+      "lineas": 7409,
+      "comprension": 93.36,
+      "duracion": 399,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 15-19)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 195,
+          "lineas": 2731,
+          "comprension": 92.86,
+          "duracion": 110,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "All Her Fault (EP 1-2)",
+          "titulo": "All Her Fault",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 100,
+          "lineas": 1960,
+          "comprension": 94.9,
+          "duracion": 99,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Girl From Plainville (EP 3-4)",
+          "titulo": "The Girl From Plainville",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 78,
+          "lineas": 1421,
+          "comprension": 94.51,
+          "duracion": 87,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Maid (EP 1-2)",
+          "titulo": "Maid",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 119,
+          "lineas": 1297,
+          "comprension": 90.82,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "58° Tanda",
+      "date": "Viernes, 29/05/2026",
+      "fecha": "2026-05-29",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 487,
+      "lineas": 4915,
+      "comprension": 90.09,
+      "duracion": 323,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Work It",
+          "titulo": "Work It",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 141,
+          "lineas": 1745,
+          "comprension": 91.92,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Pride and Prejudice",
+          "titulo": "Orgullo y Prejuicio",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 185,
+          "lineas": 1263,
+          "comprension": 85.35,
+          "duracion": 128,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T3 EP 19-23)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 161,
+          "lineas": 1907,
+          "comprension": 91.56,
+          "duracion": 102,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "59° Tanda",
+      "date": "Domingo, 14/06/2026",
+      "fecha": "2026-06-14",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 486,
+      "lineas": 6238,
+      "comprension": 92.21,
+      "duracion": 365,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Kim Possible (T4 EP 20-22)",
+          "titulo": "Kim Possible",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 121,
+          "lineas": 1542,
+          "comprension": 92.15,
+          "duracion": 66,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Schindler's List",
+          "titulo": "Schindler's List",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 168,
+          "lineas": 2420,
+          "comprension": 93.06,
+          "duracion": 195,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T4 EP 1-5)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 197,
+          "lineas": 2276,
+          "comprension": 91.34,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "60° Tanda",
+      "date": "Domingo, 28/06/2026",
+      "fecha": "2026-06-28",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 477,
+      "lineas": 5728,
+      "comprension": 91.67,
+      "duracion": 306,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Cinderella",
+          "titulo": "Cenicienta",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 60,
+          "lineas": 967,
+          "comprension": 93.8,
+          "duracion": 74,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Pan Am (EP 3-5)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 3,
+          "palabras": 188,
+          "lineas": 2495,
+          "comprension": 92.46,
+          "duracion": 129,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T4 EP 6-10)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 229,
+          "lineas": 2266,
+          "comprension": 89.89,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "61° Tanda",
+      "date": "Domingo, 12/07/2026",
+      "fecha": "2026-07-12",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 501,
+      "lineas": 6264,
+      "comprension": 92.0,
+      "duracion": 393,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Maid (EP 3-4)",
+          "titulo": "Maid",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 114,
+          "lineas": 1300,
+          "comprension": 91.23,
+          "duracion": 96,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Cars III",
+          "titulo": "Cars III",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 124,
+          "lineas": 1697,
+          "comprension": 92.69,
+          "duracion": 102,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Ordinary Love",
+          "titulo": "Ordinary Love",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 77,
+          "lineas": 1045,
+          "comprension": 92.63,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T4 EP 11-15)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 186,
+          "lineas": 2222,
+          "comprension": 91.63,
+          "duracion": 103,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "62° Tanda",
+      "date": "Domingo, 26/07/2026",
+      "fecha": "2026-07-26",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 491,
+      "lineas": 7268,
+      "comprension": 93.24,
+      "duracion": 425,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Jojo Rabbit",
+          "titulo": "Jojo Rabbit",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 94,
+          "lineas": 1760,
+          "comprension": 94.66,
+          "duracion": 108,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "A Big Bold Beautiful Journey",
+          "titulo": "A Big Bold Beautiful Journey",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 76,
+          "lineas": 1690,
+          "comprension": 95.5,
+          "duracion": 109,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Commuter",
+          "titulo": "The Commuter",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 96,
+          "lineas": 1526,
+          "comprension": 93.71,
+          "duracion": 104,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T4 EP 16-20)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "TE",
+          "episodios": 5,
+          "palabras": 225,
+          "lineas": 2292,
+          "comprension": 90.18,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "63° Tanda",
+      "date": "Sábado, 08/08/2026",
+      "fecha": "2026-08-08",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 512,
+      "lineas": 9557,
+      "comprension": 94.64,
+      "duracion": 590,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Every Secret Thing",
+          "titulo": "Every Secret Thing",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 59,
+          "lineas": 1155,
+          "comprension": 94.89,
+          "duracion": 93,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Ginger & Rosa",
+          "titulo": "Ginger & Rosa",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 37,
+          "lineas": 904,
+          "comprension": 95.91,
+          "duracion": 90,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Taylor Swift: The 1989 World Tour",
+          "titulo": "Taylor Swift The 1989 World Tour",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 130,
+          "lineas": 2517,
+          "comprension": 94.84,
+          "duracion": 132,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Morgan",
+          "titulo": "Morgan",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 48,
+          "lineas": 1194,
+          "comprension": 95.98,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Toy Story IV",
+          "titulo": "Toy Story IV",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 71,
+          "lineas": 2071,
+          "comprension": 96.57,
+          "duracion": 100,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T4 EP 21-24)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "C1",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 167,
+          "lineas": 1716,
+          "comprension": 90.27,
+          "duracion": 83,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "64° Tanda",
+      "date": "Martes, 25/08/2026",
+      "fecha": "2026-08-25",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 507,
+      "lineas": 7050,
+      "comprension": 92.81,
+      "duracion": 453,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Pan Am (EP 6-7)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 2,
+          "palabras": 129,
+          "lineas": 1632,
+          "comprension": 92.1,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Maid (EP 5-6)",
+          "titulo": "Maid",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 138,
+          "lineas": 1700,
+          "comprension": 91.88,
+          "duracion": 118,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Perfect Couple (EP 3-4)",
+          "titulo": "The Perfect Couple",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 53,
+          "lineas": 1227,
+          "comprension": 95.68,
+          "duracion": 94,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Girl From Plainville (EP 5-6)",
+          "titulo": "The Girl From Plainville",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 52,
+          "lineas": 1275,
+          "comprension": 95.92,
+          "duracion": 94,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T5 EP 1-3)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 135,
+          "lineas": 1216,
+          "comprension": 88.9,
+          "duracion": 61,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "65° Tanda",
+      "date": "Lunes, 07/09/2026",
+      "fecha": "2026-09-07",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 524,
+      "lineas": 6141,
+      "comprension": 91.47,
+      "duracion": 358,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "A Rainy Day in New York",
+          "titulo": "A Rainy Day in New York",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 209,
+          "lineas": 2161,
+          "comprension": 90.33,
+          "duracion": 92,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Muppet Show (w/ Sabrina Carpenter)",
+          "titulo": "The Muppet Show",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 42,
+          "lineas": 569,
+          "comprension": 92.62,
+          "duracion": 32,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "GTA San Andreas: The Introduction",
+          "titulo": "GTA San Andreas The Introduction",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 37,
+          "lineas": 363,
+          "comprension": 89.81,
+          "duracion": 21,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Barry",
+          "titulo": "Barry",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 81,
+          "lineas": 1285,
+          "comprension": 93.7,
+          "duracion": 104,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Marlowe",
+          "titulo": "Marlowe",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 155,
+          "lineas": 1763,
+          "comprension": 91.21,
+          "duracion": 109,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "66° Tanda",
+      "date": "Lunes, 21/09/2026",
+      "fecha": "2026-09-21",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 513,
+      "lineas": 7490,
+      "comprension": 93.15,
+      "duracion": 488,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "The Girl From Plainville (EP 7-8)",
+          "titulo": "The Girl From Plainville",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 73,
+          "lineas": 1188,
+          "comprension": 93.86,
+          "duracion": 85,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "All Her Fault (EP 3-4)",
+          "titulo": "All Her Fault",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 115,
+          "lineas": 2024,
+          "comprension": 94.32,
+          "duracion": 107,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T5 EP 4-7)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 4,
+          "palabras": 165,
+          "lineas": 1732,
+          "comprension": 90.47,
+          "duracion": 82,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Motel Life",
+          "titulo": "The Motel Life",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 80,
+          "lineas": 974,
+          "comprension": 91.79,
+          "duracion": 95,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "20th Century Women",
+          "titulo": "20th Century Women",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 80,
+          "lineas": 1572,
+          "comprension": 94.91,
+          "duracion": 119,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "67° Tanda",
+      "date": "Lunes, 05/10/2026",
+      "fecha": "2026-10-05",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 510,
+      "lineas": 5570,
+      "comprension": 90.84,
+      "duracion": 367,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Maid (EP 7-8)",
+          "titulo": "Maid",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 132,
+          "lineas": 1544,
+          "comprension": 91.45,
+          "duracion": 114,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Pan Am (EP 8-9)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 2,
+          "palabras": 111,
+          "lineas": 1632,
+          "comprension": 93.2,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T5 EP 8-10)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 3,
+          "palabras": 138,
+          "lineas": 1286,
+          "comprension": 89.27,
+          "duracion": 63,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Effie Gray",
+          "titulo": "Effie Gray",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
+          "nivel": "B2-C1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 129,
+          "lineas": 1108,
+          "comprension": 88.36,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "68° Tanda",
+      "date": "Sábado, 17/10/2026",
+      "fecha": "2026-10-17",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 526,
+      "lineas": 6854,
+      "comprension": 92.33,
+      "duracion": 469,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "A Complete Unknown",
+          "titulo": "A Complete Unknown",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 205,
+          "lineas": 2352,
+          "comprension": 91.28,
+          "duracion": 141,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Leave No Trace",
+          "titulo": "Leave No Trace",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+          "nivel": "B1",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 73,
+          "lineas": 1000,
+          "comprension": 92.7,
+          "duracion": 109,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Tall Girl I",
+          "titulo": "Tall Girl I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 137,
+          "lineas": 1846,
+          "comprension": 92.58,
+          "duracion": 101,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Perfect Couple (EP 5-6)",
+          "titulo": "The Perfect Couple",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 111,
+          "lineas": 1656,
+          "comprension": 93.3,
+          "duracion": 118,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "69° Tanda",
+      "date": "Jueves, 29/10/2026",
+      "fecha": "2026-10-29",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 475,
+      "lineas": 7642,
+      "comprension": 93.78,
+      "duracion": 451,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "All Her Fault (EP 5-6)",
+          "titulo": "All Her Fault",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 94,
+          "lineas": 2048,
+          "comprension": 95.41,
+          "duracion": 101,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Maid (EP 9-10)",
+          "titulo": "Maid",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 138,
+          "lineas": 1581,
+          "comprension": 91.27,
+          "duracion": 114,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Grand Theft Auto VI: An Extended Look",
+          "titulo": "Grand Theft Auto VI An Extended Look",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 39,
+          "lineas": 466,
+          "comprension": 91.63,
+          "duracion": 27,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "How To Make a Killing",
+          "titulo": "How to Make a Killing",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 110,
+          "lineas": 1945,
+          "comprension": 94.34,
+          "duracion": 105,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Five Nights at Freddy's II",
+          "titulo": "Five Nights at Freddy's II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 94,
+          "lineas": 1602,
+          "comprension": 94.13,
+          "duracion": 104,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "70° Tanda",
+      "date": "Miércoles, 11/11/2026",
+      "fecha": "2026-11-11",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 458,
+      "lineas": 7620,
+      "comprension": 93.99,
+      "duracion": 416,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Emergency",
+          "titulo": "Emergency",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 104,
+          "lineas": 2371,
+          "comprension": 95.61,
+          "duracion": 104,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Super Mario Galaxy",
+          "titulo": "Super Mario Galaxy",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 57,
+          "lineas": 1544,
+          "comprension": 96.31,
+          "duracion": 98,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Minions I",
+          "titulo": "Minions I",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 37,
+          "lineas": 1073,
+          "comprension": 96.55,
+          "duracion": 91,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T5 EP 11-16)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 6,
+          "palabras": 260,
+          "lineas": 2632,
+          "comprension": 90.12,
+          "duracion": 123,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "71° Tanda",
+      "date": "Martes, 24/11/2026",
+      "fecha": "2026-11-24",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 509,
+      "lineas": 8023,
+      "comprension": 93.66,
+      "duracion": 506,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "Pan Am (EP 10-11)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 2,
+          "palabras": 107,
+          "lineas": 1700,
+          "comprension": 93.71,
+          "duracion": 86,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "All Her Fault (EP 7-8)",
+          "titulo": "All Her Fault",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+18",
+          "episodios": 2,
+          "palabras": 64,
+          "lineas": 1873,
+          "comprension": 96.58,
+          "duracion": 113,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "IO",
+          "titulo": "IO",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
+          "nivel": "B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 25,
+          "lineas": 759,
+          "comprension": 96.71,
+          "duracion": 96,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Girl in the Basement",
+          "titulo": "Girl in the Basement",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+          "nivel": "B1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 15,
+          "lineas": 1015,
+          "comprension": 98.52,
+          "duracion": 88,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "The Big Bang Theory (T5 EP 17-22)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 6,
+          "palabras": 298,
+          "lineas": 2676,
+          "comprension": 88.86,
+          "duracion": 123,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "72° Tanda",
+      "date": "Lunes, 07/12/2026",
+      "fecha": "2026-12-07",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 482,
+      "lineas": 9691,
+      "comprension": 95.03,
+      "duracion": 645,
+      "duracionEstimada": false,
+      "dosSesiones": true,
+      "items": [
+        {
+          "texto": "TS: The Eras Tour (Final Show)",
+          "titulo": "Taylor Swift - The Eras Tour Film The Final Show",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 159,
+          "lineas": 2836,
+          "comprension": 94.39,
+          "duracion": 207,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Pan Am (EP 12-14)",
+          "titulo": "Pan Am",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": 3,
+          "palabras": 148,
+          "lineas": 2494,
+          "comprension": 94.07,
+          "duracion": 129,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Michael",
+          "titulo": "Michael",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+          "nivel": "B1",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 108,
+          "lineas": 2380,
+          "comprension": 95.46,
+          "duracion": 128,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Unknown",
+          "titulo": "Unknown",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "+14",
+          "episodios": null,
+          "palabras": 26,
+          "lineas": 1074,
+          "comprension": 97.58,
+          "duracion": 113,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Lilo y Stitch II: Stitch has a Glitch",
+          "titulo": "Lilo and Stitch II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 41,
+          "lineas": 907,
+          "comprension": 95.48,
+          "duracion": 68,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "73a° Tanda",
+      "date": "Sábado, 19/12/2026",
+      "fecha": "2026-12-19",
+      "anio": "2026",
+      "etiqueta": null,
+      "palabras": 67,
+      "lineas": 938,
+      "comprension": 92.86,
+      "duracion": 41,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "The Big Bang Theory (T5 EP 23-24)",
+          "titulo": "The Big Bang Theory",
+          "tipo": "series",
+          "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE",
+          "episodios": 2,
+          "palabras": 67,
+          "lineas": 938,
+          "comprension": 92.86,
+          "duracion": 41,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "73b° Tanda (Navidad)",
+      "date": "Viernes, 25/12/2026",
+      "fecha": "2026-12-25",
+      "anio": "2026",
+      "etiqueta": "navidad",
+      "palabras": 402,
+      "lineas": 4263,
+      "comprension": 90.57,
+      "duracion": 241,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Love Actually",
+          "titulo": "Love Actually",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+          "nivel": "B2",
+          "clasificacion": "+18",
+          "episodios": null,
+          "palabras": 191,
+          "lineas": 2240,
+          "comprension": 91.47,
+          "duracion": 135,
+          "duracionEstimada": false
+        },
+        {
+          "texto": "Family Switch",
+          "titulo": "Family Switch",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
+          "nivel": "B2",
+          "clasificacion": "TE+7",
+          "episodios": null,
+          "palabras": 211,
+          "lineas": 2023,
+          "comprension": 89.57,
+          "duracion": 106,
+          "duracionEstimada": false
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "73c° Tanda (Fin de Año)",
+      "date": "Jueves, 31/12/2026",
+      "fecha": "2026-12-31",
+      "anio": "2026",
+      "etiqueta": "fin",
+      "palabras": 97,
+      "lineas": 1899,
+      "comprension": 94.89,
+      "duracion": 97,
+      "duracionEstimada": false,
+      "dosSesiones": false,
+      "items": [
+        {
+          "texto": "Tall Girl II",
+          "titulo": "Tall Girl II",
+          "tipo": "movie",
+          "poster": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
+          "nivel": "B1-B2",
+          "clasificacion": "TE",
+          "episodios": null,
+          "palabras": 97,
+          "lineas": 1899,
+          "comprension": 94.89,
+          "duracion": 97,
+          "duracionEstimada": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 import TimelineClient from '@/components/TimelineClient';
-import { getTandas } from '@/lib/data';
+import { getLineaDeTiempo } from '@/lib/data';
 
 export const metadata = {
   title: 'Línea de Tiempo - Proyecto Fanning',
@@ -7,5 +7,8 @@ export const metadata = {
 };
 
 export default function TimelinePage() {
-  return <TimelineClient tandas={getTandas()} />;
+  const { ciclos, tandas } = getLineaDeTiempo();
+  // Fecha del build: las tandas posteriores se muestran como "Programada".
+  const hoy = new Date().toISOString().slice(0, 10);
+  return <TimelineClient ciclos={ciclos} tandas={tandas} hoy={hoy} />;
 }

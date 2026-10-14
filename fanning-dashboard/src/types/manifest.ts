@@ -10,6 +10,7 @@ export interface Episode {
   count: number;
   dialogues?: number;
   level?: string;
+  duration?: number | null;  // minutos
 }
 
 export interface MovieStats {
@@ -23,6 +24,7 @@ export interface MovieStats {
   level?: string;
   levelRange?: [string, string] | null;  // series: episodio más fácil y más difícil
   rating?: string;
+  duration?: number | null;  // minutos (series: suma de los episodios)
   aliases?: string[];
   years?: string[];
 }

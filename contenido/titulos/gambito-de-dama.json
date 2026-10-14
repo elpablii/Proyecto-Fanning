@@ -35,37 +35,44 @@
     "S01E01": {
       "nombre": "Gambito de Dama (Episode 1)",
       "titulo": "Openings",
-      "foto": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/4taUmpWKaTH2dRisytelueNoo8s.jpg",
+      "duracion": 59
     },
     "S01E02": {
       "nombre": "Gambito de Dama (Episode 2)",
       "titulo": "Exchanges",
-      "foto": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg",
+      "duracion": 65
     },
     "S01E03": {
       "nombre": "Gambito de Dama (Episode 3)",
       "titulo": "Doubled Pawns",
-      "foto": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/r1JYQ0YdrPOm59MlVwPkResu0Qw.jpg",
+      "duracion": 46
     },
     "S01E04": {
       "nombre": "Gambito de Dama (Episode 4)",
       "titulo": "Middle Game",
-      "foto": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/3CCEL9SoI5cm7g0hUb5Q6iTYbLi.jpg",
+      "duracion": 49
     },
     "S01E05": {
       "nombre": "Gambito de Dama (Episode 5)",
       "titulo": "Fork",
-      "foto": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/3RpR9mXX3aZn04srmJRIERYxrrP.jpg",
+      "duracion": 48
     },
     "S01E06": {
       "nombre": "Gambito de Dama (Episode 6)",
       "titulo": "Adjournment",
-      "foto": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg",
+      "duracion": 60
     },
     "S01E07": {
       "nombre": "Gambito de Dama (Episode 7)",
       "titulo": "End Game",
-      "foto": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg",
+      "duracion": 68
     },
     "SP01": {
       "nombre": "Gambito de Dama (Special Episode)",
@@ -75,7 +82,8 @@
       "tmdb": {
         "tipo": "movie",
         "id": 784047
-      }
+      },
+      "duracion": 14
     }
   }
 }

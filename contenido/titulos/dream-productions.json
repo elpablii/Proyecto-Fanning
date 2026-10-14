@@ -30,22 +30,26 @@
     "S01E01": {
       "nombre": "Dream Productions (Episode 1)",
       "titulo": "Part 1: The Dream Team",
-      "foto": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/ctNrx6OZSuatdVW1NidIi9bhrdH.jpg",
+      "duracion": 27
     },
     "S01E02": {
       "nombre": "Dream Productions (Episode 2)",
       "titulo": "Part 2: Out of Body",
-      "foto": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/lypX5LerHWilGfCuHlgbkzLJN0u.jpg",
+      "duracion": 27
     },
     "S01E03": {
       "nombre": "Dream Productions (Episode 3)",
       "titulo": "Part 3: Romance!",
-      "foto": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/hAuLbhb50r2b7THRCWqP6AK6ABC.jpg",
+      "duracion": 28
     },
     "S01E04": {
       "nombre": "Dream Productions (Episode 4)",
       "titulo": "Part 4: A Night to Remember",
-      "foto": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/xaioy7HW4FKRGtRVVODWIiQC1LG.jpg",
+      "duracion": 31
     }
   }
 }

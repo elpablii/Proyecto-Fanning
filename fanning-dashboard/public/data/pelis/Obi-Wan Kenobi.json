@@ -197,7 +197,8 @@
         }
       ],
       "count": 23,
-      "dialogues": 476
+      "dialogues": 476,
+      "duration": 56
     },
     {
       "code": "S01E02",
@@ -287,7 +288,8 @@
         }
       ],
       "count": 14,
-      "dialogues": 396
+      "dialogues": 396,
+      "duration": 42
     },
     {
       "code": "S01E03",
@@ -389,7 +391,8 @@
         }
       ],
       "count": 17,
-      "dialogues": 465
+      "dialogues": 465,
+      "duration": 48
     },
     {
       "code": "S01E04",
@@ -471,7 +474,8 @@
         }
       ],
       "count": 12,
-      "dialogues": 303
+      "dialogues": 303,
+      "duration": 39
     },
     {
       "code": "S01E05",
@@ -575,7 +579,8 @@
         }
       ],
       "count": 17,
-      "dialogues": 344
+      "dialogues": 344,
+      "duration": 43
     },
     {
       "code": "S01E06",
@@ -653,9 +658,11 @@
         }
       ],
       "count": 11,
-      "dialogues": 455
+      "dialogues": 455,
+      "duration": 52
     }
   ],
   "count": 94,
-  "dialogues": 2439
+  "dialogues": 2439,
+  "duration": 280
 }

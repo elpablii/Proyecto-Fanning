@@ -2,8 +2,9 @@
 
   python fanning.py nuevo                          detecta PDFs nuevos y crea o completa fichas
   python fanning.py actualizar [--probar]          cuenta todo y actualiza la página
+  python fanning.py tandas                         regenera solo la línea de tiempo (rápido)
   python fanning.py quitar "Título" [--retirar-pdfs]
-  python fanning.py imagenes "Título" [--id N]     póster, fondo y fotos desde TMDB (y episodios en series)
+  python fanning.py imagenes "Título" [--id N]     póster, fondo, fotos y duración desde TMDB (y episodios en series)
   python fanning.py pendientes                     qué datos faltan completar en las fichas
   python fanning.py ids [--guardar]                busca en TMDB el id de las fichas que no lo tienen
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
@@ -62,6 +63,11 @@ def cmd_actualizar(args):
     correr(actualizar, *([] if args.probar else ['--escribir']))
 
 
+def cmd_tandas(args):
+    import linea_tiempo
+    correr(linea_tiempo)
+
+
 def cmd_quitar(args):
     lista, _, _ = F.cargar(estricto=False)
     ficha = buscar_ficha(args.titulo, lista)
@@ -103,6 +109,8 @@ def cmd_imagenes(args):
     if ficha['tipo'] == 'serie':
         import episodios_tmdb
         correr(episodios_tmdb, '--serie', ficha['titulo'], *(['--rehacer'] if args.rehacer else []))
+    import duracion_tmdb
+    correr(duracion_tmdb, '--titulo', ficha['titulo'], *(['--rehacer'] if args.rehacer else []))
     print('\nPara verlo en la página: python fanning.py actualizar')
 
 
@@ -176,6 +184,9 @@ def main():
     p = sub.add_parser('actualizar', help='cuenta todo y actualiza la página')
     p.add_argument('--probar', action='store_true', help='solo muestra qué cambiaría, sin escribir')
     p.set_defaults(fn=cmd_actualizar)
+
+    p = sub.add_parser('tandas', help='regenera solo la línea de tiempo (después de editar contenido/tandas.json)')
+    p.set_defaults(fn=cmd_tandas)
 
     p = sub.add_parser('quitar', help='quita una película o serie de la página')
     p.add_argument('titulo')

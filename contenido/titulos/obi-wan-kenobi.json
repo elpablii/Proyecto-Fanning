@@ -30,32 +30,38 @@
     "S01E01": {
       "nombre": "Obi-Wan Kenobi (Part I)",
       "titulo": "Part I",
-      "foto": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/twfvrChI2YEQITGbqjhEXVy39QA.jpg",
+      "duracion": 56
     },
     "S01E02": {
       "nombre": "Obi-Wan Kenobi (Part II)",
       "titulo": "Part II",
-      "foto": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/7NvWnQmdBKRfMtKGcdik6NLH7MX.jpg",
+      "duracion": 42
     },
     "S01E03": {
       "nombre": "Obi-Wan Kenobi (Part III)",
       "titulo": "Part III",
-      "foto": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/aM0H1Gn2ry8Wc2eUxk9KHbZbeBr.jpg",
+      "duracion": 48
     },
     "S01E04": {
       "nombre": "Obi-Wan Kenobi (Part IV)",
       "titulo": "Part IV",
-      "foto": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/tB2H0A8Gbpk8EjZAdw90jJLc6y3.jpg",
+      "duracion": 39
     },
     "S01E05": {
       "nombre": "Obi-Wan Kenobi (Part V)",
       "titulo": "Part V",
-      "foto": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/hobgyyVnrtfYLeO45yD238dLVio.jpg",
+      "duracion": 43
     },
     "S01E06": {
       "nombre": "Obi-Wan Kenobi (Part VI)",
       "titulo": "Part VI",
-      "foto": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/pQo4XVFI4LH6subG6v0ALvXxUF1.jpg",
+      "duracion": 52
     }
   }
 }

@@ -42,7 +42,7 @@ Ejemplo: agregar *Intensamente*, vista en 2024.
    ```
    python fanning.py imagenes "Intensamente" --id 150540
    ```
-   En las series también trae el título, la foto y la sinopsis de cada episodio.
+   También guarda la duración (en minutos). En las series trae además el título, la foto, la sinopsis y la duración de cada episodio. Si TMDB no tiene la duración, la página la estima con el último subtítulo y la muestra con «≈». Para completar las que falten en todas las fichas: `python scripts/metricas/duracion_tmdb.py`.
 
 4. **Actualizar la página**
    ```
@@ -62,7 +62,29 @@ Borra la ficha y actualiza la página. Con `--retirar-pdfs`, además mueve sus P
 
 ## Agregar una tanda
 
-Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y corre `python fanning.py actualizar`.
+Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y corre `python fanning.py tandas` (regenera solo la línea de tiempo, en segundos). Ejemplo:
+
+```json
+{
+  "id": 80,
+  "title": "74° Tanda",
+  "date": "Sábado, 16/01/2027",
+  "items": [
+    "Barbie",
+    { "texto": "The Big Bang Theory (T6 EP 1-3)", "titulo": "The Big Bang Theory", "episodios": ["S06E01", "S06E02", "S06E03"] }
+  ]
+}
+```
+
+- Cada ítem es el **título exacto de su ficha**, o `{"texto": "…", "titulo": "…"}` si quieres mostrarlo con otro nombre.
+- En las series, `"episodios"` dice qué episodios entraron en la tanda (sin eso se entiende la serie completa). Las palabras, líneas, comprensión y duración de la tanda se calculan solas; si la duración supera las 5 horas, la tanda se marca como «Dos sesiones» (ver Reglas).
+- Las tandas de Gala llevan `(Gala)`, `(Navidad)` o `(Fin de Año)` en el título.
+- Si una tanda de comienzos de enero cierra el ciclo anterior, agrega `"ciclo": "2026"`.
+
+## Empezar un ciclo nuevo (año)
+
+1. Crea las carpetas `Vocabularios/2027/` y `Diálogos/Diálogos pelis 2027/` (la página toma el año nuevo sola).
+2. Agrega el ciclo a `contenido/ciclos.json` con su nombre y descripción, por ejemplo `{"anio": "2027", "nombre": "Fase …", "descripcion": "…"}`.
 
 ## Corregir un error
 
@@ -76,6 +98,7 @@ Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y 
 ```
 python fanning.py nuevo
 python fanning.py actualizar [--probar]
+python fanning.py tandas
 python fanning.py quitar "Título" [--retirar-pdfs]
 python fanning.py imagenes "Título" [--id N] [--rehacer]
 python fanning.py pendientes

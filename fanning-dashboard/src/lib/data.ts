@@ -33,31 +33,51 @@ export function getTitulo(titulo: string, tipo: 'movie' | 'series'): { movieData
   return { movieData, extraData: leer<ExtraData>(path.join('pelis', `${movieData.title}.json`)) };
 }
 
-// En contenido/tandas.json cada ítem es el título exacto de una ficha, o
-// {"texto": "como se muestra", "titulo": "título de la ficha"}.
-type ItemGuardado = string | { texto: string; titulo: string };
-
+// Línea de tiempo: la genera scripts/metricas/linea_tiempo.py a partir de contenido/tandas.json
+// y contenido/ciclos.json, con las métricas de cada tanda y de cada ciclo ya calculadas.
 export interface ItemTanda {
-  texto: string;          // lo que se muestra
-  titulo: string;         // título de la ficha
+  texto: string;              // como se escribió en la tanda
+  titulo: string;             // título de la ficha
+  tipo: 'movie' | 'series';
   poster: string | null;
+  nivel: string | null;       // nivel MCER de lo que entró en la tanda
+  clasificacion: string | null;
+  episodios: number | null;   // series: cuántos episodios entraron
+  palabras: number;
+  lineas: number;
+  comprension: number | null;
+  duracion: number | null;    // minutos (series: solo los episodios de la tanda)
+  duracionEstimada: boolean;  // sin dato de TMDB: se usó el último subtítulo
 }
 
 export interface Tanda {
   id: number;
   title: string;
-  date: string;
+  date: string;               // "Sábado, 17/01/2026"
+  fecha: string;              // "2026-01-17"
+  anio: string;               // ciclo al que pertenece
+  etiqueta: 'gala' | 'navidad' | 'fin' | null;
+  palabras: number;
+  lineas: number;
+  comprension: number | null;
+  duracion: number;           // minutos
+  duracionEstimada: boolean;
+  dosSesiones: boolean;       // más de 5 horas: se divide en Día n-1 y Día n (ver Reglas)
   items: ItemTanda[];
 }
 
-export function getTandas(): Tanda[] {
-  const tandas = leer<(Omit<Tanda, 'items'> & { items: ItemGuardado[] })[]>('timeline.json') ?? [];
-  const poster = new Map(getTodos().map(m => [m.title, m.posterUrl ?? null]));
-  return tandas.map(t => ({
-    ...t,
-    items: t.items.map(i => {
-      const { texto, titulo } = typeof i === 'string' ? { texto: i, titulo: i } : i;
-      return { texto, titulo, poster: poster.get(titulo) ?? null };
-    }),
-  }));
+export interface Ciclo {
+  anio: string;
+  nombre: string;
+  descripcion: string;
+  tandas: number;
+  titulos: number;
+  palabras: number;
+  lineas: number;
+  comprension: number | null;
+  duracion: number;           // minutos
+}
+
+export function getLineaDeTiempo(): { ciclos: Ciclo[]; tandas: Tanda[] } {
+  return leer<{ ciclos: Ciclo[]; tandas: Tanda[] }>('timeline.json') ?? { ciclos: [], tandas: [] };
 }

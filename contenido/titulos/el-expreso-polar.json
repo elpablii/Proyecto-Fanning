@@ -2,6 +2,7 @@
   "titulo": "El Expreso Polar",
   "tipo": "pelicula",
   "clasificacion": "TE",
+  "duracion": 100,
   "tmdb": {
     "tipo": "movie",
     "id": 5255

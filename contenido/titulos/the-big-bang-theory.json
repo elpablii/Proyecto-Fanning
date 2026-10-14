@@ -62,651 +62,762 @@
     "S01E01": {
       "nombre": "S01E01",
       "titulo": "Pilot",
-      "foto": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg",
+      "duracion": 23
     },
     "S01E02": {
       "nombre": "S01E02",
       "titulo": "The Big Bran Hypothesis",
-      "foto": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg",
+      "duracion": 21
     },
     "S01E03": {
       "nombre": "S01E03",
       "titulo": "The Fuzzy Boots Corollary",
-      "foto": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg",
+      "duracion": 22
     },
     "S01E04": {
       "nombre": "S01E04",
       "titulo": "The Luminous Fish Effect",
-      "foto": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg",
+      "duracion": 21
     },
     "S01E05": {
       "nombre": "S01E05",
       "titulo": "The Hamburger Postulate",
-      "foto": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg",
+      "duracion": 20
     },
     "S01E06": {
       "nombre": "S01E06",
       "titulo": "The Middle-Earth Paradigm",
-      "foto": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg",
+      "duracion": 21
     },
     "S01E07": {
       "nombre": "S01E07",
       "titulo": "The Dumpling Paradox",
-      "foto": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg",
+      "duracion": 21
     },
     "S01E08": {
       "nombre": "S01E08",
       "titulo": "The Grasshopper Experiment",
-      "foto": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg",
+      "duracion": 20
     },
     "S01E09": {
       "nombre": "S01E09",
       "titulo": "The Cooper-Hofstadter Polarization",
-      "foto": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg",
+      "duracion": 19
     },
     "S01E10": {
       "nombre": "S01E10",
       "titulo": "The Loobenfeld Decay",
-      "foto": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg",
+      "duracion": 21
     },
     "S01E11": {
       "nombre": "S01E11",
       "titulo": "The Pancake Batter Anomaly",
-      "foto": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg",
+      "duracion": 22
     },
     "S01E12": {
       "nombre": "S01E12",
       "titulo": "The Jerusalem Duality",
-      "foto": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg",
+      "duracion": 20
     },
     "S01E13": {
       "nombre": "S01E13",
       "titulo": "The Bat Jar Conjecture",
-      "foto": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg",
+      "duracion": 22
     },
     "S01E14": {
       "nombre": "S01E14",
       "titulo": "The Nerdvana Annihilation",
-      "foto": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg",
+      "duracion": 20
     },
     "S01E15": {
       "nombre": "S01E15",
       "titulo": "The Pork Chop Indeterminacy",
-      "foto": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg",
+      "duracion": 22
     },
     "S01E16": {
       "nombre": "S01E16",
       "titulo": "The Peanut Reaction",
-      "foto": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg",
+      "duracion": 20
     },
     "S01E17": {
       "nombre": "S01E17",
       "titulo": "The Tangerine Factor",
-      "foto": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg",
+      "duracion": 20
     },
     "S02E01": {
       "nombre": "S02E01",
       "titulo": "The Bad Fish Paradigm",
       "foto": "https://image.tmdb.org/t/p/w500/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg",
-      "sinopsis": "La primera cita de Penny con Leonard no fue bien, y Penny encuentra en Sheldon a un confidente poco válido."
+      "sinopsis": "La primera cita de Penny con Leonard no fue bien, y Penny encuentra en Sheldon a un confidente poco válido.",
+      "duracion": 22
     },
     "S02E02": {
       "nombre": "S02E02",
       "titulo": "The Codpiece Topology",
       "foto": "https://image.tmdb.org/t/p/w500/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg",
-      "sinopsis": "Un celoso Leonard reacciona ante el nuevo chico de Penny por el problema con Leslie."
+      "sinopsis": "Un celoso Leonard reacciona ante el nuevo chico de Penny por el problema con Leslie.",
+      "duracion": 21
     },
     "S02E03": {
       "nombre": "S02E03",
       "titulo": "The Barbarian Sublimation",
       "foto": "https://image.tmdb.org/t/p/w500/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg",
-      "sinopsis": "Sheldon crea un mostruo cuando introduce a Penny en los juegos online."
+      "sinopsis": "Sheldon crea un mostruo cuando introduce a Penny en los juegos online.",
+      "duracion": 21
     },
     "S02E04": {
       "nombre": "S02E04",
       "titulo": "The Griffin Equivalency",
       "foto": "https://image.tmdb.org/t/p/w500/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg",
-      "sinopsis": "Con la confianza por los cielos tras salir en una revista, Raj empieza a tirarle los trastos a Penny y se vuelve insoportablemente arrogante."
+      "sinopsis": "Con la confianza por los cielos tras salir en una revista, Raj empieza a tirarle los trastos a Penny y se vuelve insoportablemente arrogante.",
+      "duracion": 21
     },
     "S02E05": {
       "nombre": "S02E05",
       "titulo": "The Euclid Alternative",
       "foto": "https://image.tmdb.org/t/p/w500/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg",
-      "sinopsis": "Leonard y sus amigos fuerzan a Sheldon a plantar cara a su miedo a conducir."
+      "sinopsis": "Leonard y sus amigos fuerzan a Sheldon a plantar cara a su miedo a conducir.",
+      "duracion": 20
     },
     "S02E06": {
       "nombre": "S02E06",
       "titulo": "The Cooper-Nowitzki Theorem",
       "foto": "https://image.tmdb.org/t/p/w500/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg",
-      "sinopsis": "Sheldon y la cuadrilla están confundidos cuando éste se siente atraído por una estudiante."
+      "sinopsis": "Sheldon y la cuadrilla están confundidos cuando éste se siente atraído por una estudiante.",
+      "duracion": 21
     },
     "S02E07": {
       "nombre": "S02E07",
       "titulo": "The Panty Piñata Polarization",
       "foto": "https://image.tmdb.org/t/p/w500/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg",
-      "sinopsis": "Cuando Sheldon prohíbe la entrada en el apartamento a Penny por numerosas infracciones menores, ella decide tomas represalias."
+      "sinopsis": "Cuando Sheldon prohíbe la entrada en el apartamento a Penny por numerosas infracciones menores, ella decide tomas represalias.",
+      "duracion": 21
     },
     "S02E08": {
       "nombre": "S02E08",
       "titulo": "The Lizard-Spock Expansion",
       "foto": "https://image.tmdb.org/t/p/w500/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg",
-      "sinopsis": "Leonard sin querer le roba la nueva chica a Wolowitz, quien cree que es la mujer de su vida."
+      "sinopsis": "Leonard sin querer le roba la nueva chica a Wolowitz, quien cree que es la mujer de su vida.",
+      "duracion": 20
     },
     "S02E09": {
       "nombre": "S02E09",
       "titulo": "The White Asparagus Triangulation",
       "foto": "https://image.tmdb.org/t/p/w500/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg",
-      "sinopsis": "Sheldon se emociona cuando Leonard comienza a salir con una mujer que entiende las rigurosas normas de Sheldon."
+      "sinopsis": "Sheldon se emociona cuando Leonard comienza a salir con una mujer que entiende las rigurosas normas de Sheldon.",
+      "duracion": 21
     },
     "S02E10": {
       "nombre": "S02E10",
       "titulo": "The Vartabedian Conundrum",
       "foto": "https://image.tmdb.org/t/p/w500/uosBIO5639eeocnvjCxqrLl2HEN.jpg",
-      "sinopsis": "Leonard pregunta a Penny cuando se da cuenta que su nueva relación empieza a ir demasiado deprisa."
+      "sinopsis": "Leonard pregunta a Penny cuando se da cuenta que su nueva relación empieza a ir demasiado deprisa.",
+      "duracion": 21
     },
     "S02E11": {
       "nombre": "S02E11",
       "titulo": "The Bath Item Gift Hypothesis",
       "foto": "https://image.tmdb.org/t/p/w500/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg",
-      "sinopsis": "Penny empieza a salir con el atractivo colega de Leonard. La obsesión de Sheldon con la etiqueta del regalo tortura a Leonard y sus amigos."
+      "sinopsis": "Penny empieza a salir con el atractivo colega de Leonard. La obsesión de Sheldon con la etiqueta del regalo tortura a Leonard y sus amigos.",
+      "duracion": 21
     },
     "S02E12": {
       "nombre": "S02E12",
       "titulo": "The Killer Robot Instability",
       "foto": "https://image.tmdb.org/t/p/w500/fdo2epxMfOhpAWJ3EWplioQakRK.jpg",
-      "sinopsis": "La crítica de Penny a la vida romántica de Wolowitz le empuja a una depresión y abandona la batalla de robots luchadores, para la cual es indispensable."
+      "sinopsis": "La crítica de Penny a la vida romántica de Wolowitz le empuja a una depresión y abandona la batalla de robots luchadores, para la cual es indispensable.",
+      "duracion": 21
     },
     "S02E13": {
       "nombre": "S02E13",
       "titulo": "The Friendship Algorithm",
       "foto": "https://image.tmdb.org/t/p/w500/9q49iyMGcO9EIk9vWbnBZgfGNSF.jpg",
-      "sinopsis": "Sheldon quiere que Barry Kripke le deje usar su equipo de alta tecnología y desarrolla un proceso científico para hacer amigos que se lo ponga fácil."
+      "sinopsis": "Sheldon quiere que Barry Kripke le deje usar su equipo de alta tecnología y desarrolla un proceso científico para hacer amigos que se lo ponga fácil.",
+      "duracion": 21
     },
     "S02E14": {
       "nombre": "S02E14",
       "titulo": "The Financial Permeability",
       "foto": "https://image.tmdb.org/t/p/w500/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg",
-      "sinopsis": "La solución de Sheldon para la dificultad financiera de Penny pasa por una confrontación entre Leonard y el ex novio de Penny."
+      "sinopsis": "La solución de Sheldon para la dificultad financiera de Penny pasa por una confrontación entre Leonard y el ex novio de Penny.",
+      "duracion": 21
     },
     "S02E15": {
       "nombre": "S02E15",
       "titulo": "The Maternal Capacitance",
       "foto": "https://image.tmdb.org/t/p/w500/cShchuw3099TXbfav7e9XU6qCoV.jpg",
-      "sinopsis": "Leonard y Penny se unen tras la desastrosa visita de la madre de Leonard."
+      "sinopsis": "Leonard y Penny se unen tras la desastrosa visita de la madre de Leonard.",
+      "duracion": 21
     },
     "S02E16": {
       "nombre": "S02E16",
       "titulo": "The Cushion Saturation",
       "foto": "https://image.tmdb.org/t/p/w500/egK4v3alm6G7cm0CmMRGR3p8Yx3.jpg",
-      "sinopsis": "Una partida de paintball supone una confrontación entre Sheldon y Penny, y el romance entre Leslie y Wolowitz."
+      "sinopsis": "Una partida de paintball supone una confrontación entre Sheldon y Penny, y el romance entre Leslie y Wolowitz.",
+      "duracion": 21
     },
     "S02E17": {
       "nombre": "S02E17",
       "titulo": "The Terminator Decoupling",
       "foto": "https://image.tmdb.org/t/p/w500/uorhUtKMHkx7EokhUcSBl3q6GRt.jpg",
-      "sinopsis": "Leonard, Sheldon y Wolowitz están alucinados al enterarse que una famosa actriz de ciencia ficción (Summer Glau) está a bordo del tren que han tomado a San Francisco."
+      "sinopsis": "Leonard, Sheldon y Wolowitz están alucinados al enterarse que una famosa actriz de ciencia ficción (Summer Glau) está a bordo del tren que han tomado a San Francisco.",
+      "duracion": 21
     },
     "S02E18": {
       "nombre": "S02E18",
       "titulo": "The Work Song Nanocluster",
       "foto": "https://image.tmdb.org/t/p/w500/fkaYEuDqCyBsODp0XYMAZrLULYs.jpg",
-      "sinopsis": "El negocio casero de Penny se vuelve una completa pesadilla cuando Sheldon se hace cargo."
+      "sinopsis": "El negocio casero de Penny se vuelve una completa pesadilla cuando Sheldon se hace cargo.",
+      "duracion": 20
     },
     "S02E19": {
       "nombre": "S02E19",
       "titulo": "The Dead Hooker Juxtaposition",
       "foto": "https://image.tmdb.org/t/p/w500/8LL0P42Z8mwyFXfnF3jnaabSZYt.jpg",
-      "sinopsis": "Penny se pone al ataque con la nueva vecina hermosa, que puede convertirse en la \"nueva Penny\"."
+      "sinopsis": "Penny se pone al ataque con la nueva vecina hermosa, que puede convertirse en la \"nueva Penny\".",
+      "duracion": 20
     },
     "S02E20": {
       "nombre": "S02E20",
       "titulo": "The Hofstadter Isotope",
       "foto": "https://image.tmdb.org/t/p/w500/otMgg5qrM4XfHwbGnpWhPy8R2yD.jpg",
-      "sinopsis": "Un amigo de la tienda de cómics que coquetea con Penny, hace que Leonard y Howard vayan al bar a conseguir mujeres."
+      "sinopsis": "Un amigo de la tienda de cómics que coquetea con Penny, hace que Leonard y Howard vayan al bar a conseguir mujeres.",
+      "duracion": 20
     },
     "S02E21": {
       "nombre": "S02E21",
       "titulo": "The Vegas Renormalization",
       "foto": "https://image.tmdb.org/t/p/w500/5SRU3ZHSjhdh7MOWHxivvO6p2Xs.jpg",
-      "sinopsis": "Leonard y Koothrappali llevan a Wolowitz que tiene el corazón roto a Las Vegas, y Sheldon olvida las llaves de su departamento por lo que debe quedarse en lo de Penny."
+      "sinopsis": "Leonard y Koothrappali llevan a Wolowitz que tiene el corazón roto a Las Vegas, y Sheldon olvida las llaves de su departamento por lo que debe quedarse en lo de Penny.",
+      "duracion": 22
     },
     "S02E22": {
       "nombre": "S02E22",
       "titulo": "The Classified Materials Turbulence",
       "foto": "https://image.tmdb.org/t/p/w500/jNdjEnmBwdJiojaG6weilqZPfOn.jpg",
-      "sinopsis": "Para la segunda cita con Stuart, Penny le hace un comentario a Leonard que le da esperanza para una relación con ella. Wolowitz se da cuenta que hay un error crucial en un proyecto de la NASA para el que está trabajando."
+      "sinopsis": "Para la segunda cita con Stuart, Penny le hace un comentario a Leonard que le da esperanza para una relación con ella. Wolowitz se da cuenta que hay un error crucial en un proyecto de la NASA para el que está trabajando.",
+      "duracion": 19
     },
     "S02E23": {
       "nombre": "S02E23",
       "titulo": "The Monopolar Expedition",
       "foto": "https://image.tmdb.org/t/p/w500/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg",
-      "sinopsis": "Los chicos planean trabajar en el verano en el Polo Norte, esto hace que Penny reevalue sus sentimientos por Leonard."
+      "sinopsis": "Los chicos planean trabajar en el verano en el Polo Norte, esto hace que Penny reevalue sus sentimientos por Leonard.",
+      "duracion": 21
     },
     "S03E01": {
       "nombre": "S03E01",
       "titulo": "The Electric Can Opener Fluctuation",
       "foto": "https://image.tmdb.org/t/p/w500/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg",
-      "sinopsis": "Cuando Sheldon descubre que boicotearon sus experimentos en el Artico, huye a Texas con su madre. Como consecuencia, los chicos van detrás suyo para lograr que vuelva a casa."
+      "sinopsis": "Cuando Sheldon descubre que boicotearon sus experimentos en el Artico, huye a Texas con su madre. Como consecuencia, los chicos van detrás suyo para lograr que vuelva a casa.",
+      "duracion": 22
     },
     "S03E02": {
       "nombre": "S03E02",
       "titulo": "The Jiminy Conjecture",
       "foto": "https://image.tmdb.org/t/p/w500/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg",
-      "sinopsis": "Penny y Leonard tratan de recuperarse después de su primer encuentro incómodo, mientras que Sheldon y Howard se apuestan sus mejores cómics para el que logre determinar de qué especie es un grillo."
+      "sinopsis": "Penny y Leonard tratan de recuperarse después de su primer encuentro incómodo, mientras que Sheldon y Howard se apuestan sus mejores cómics para el que logre determinar de qué especie es un grillo.",
+      "duracion": 21
     },
     "S03E03": {
       "nombre": "S03E03",
       "titulo": "The Gothowitz Deviation",
       "foto": "https://image.tmdb.org/t/p/w500/8iWdGkONXwKYsv73HZr6p80Csaa.jpg",
-      "sinopsis": "Howard y Raj visitan una discoteca gótica para cazar mujeres mientras Sheldon intenta mejorar a Penny con una modificación del comportamiento basada en el consumo de chocolate"
+      "sinopsis": "Howard y Raj visitan una discoteca gótica para cazar mujeres mientras Sheldon intenta mejorar a Penny con una modificación del comportamiento basada en el consumo de chocolate",
+      "duracion": 20
     },
     "S03E04": {
       "nombre": "S03E04",
       "titulo": "The Pirate Solution",
       "foto": "https://image.tmdb.org/t/p/w500/doGrzGYbdS9HzjkfROUENBv6gpk.jpg",
-      "sinopsis": "Raj debe encontrar un nuevo trabajo o será enviado de regreso a India, pero Sheldon tiene una solución, lo que deja a Leonard y Penny con Howard como mal tercio."
+      "sinopsis": "Raj debe encontrar un nuevo trabajo o será enviado de regreso a India, pero Sheldon tiene una solución, lo que deja a Leonard y Penny con Howard como mal tercio.",
+      "duracion": 21
     },
     "S03E05": {
       "nombre": "S03E05",
       "titulo": "The Creepy Candy Coating Corollary",
       "foto": "https://image.tmdb.org/t/p/w500/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg",
-      "sinopsis": "Después de enterarse que Wil Wheaton entrara a un concurso de estrategia de cartas, Sheldon decide entrar también. Mientras tanto, Penny arregla una cita para una de sus amigas con Wolowitz."
+      "sinopsis": "Después de enterarse que Wil Wheaton entrara a un concurso de estrategia de cartas, Sheldon decide entrar también. Mientras tanto, Penny arregla una cita para una de sus amigas con Wolowitz.",
+      "duracion": 21
     },
     "S03E06": {
       "nombre": "S03E06",
       "titulo": "The Cornhusker Vortex",
       "foto": "https://image.tmdb.org/t/p/w500/ethrkqDoGEbXtmN48IhN9aIESfa.jpg",
-      "sinopsis": "Sheldon se convierte en maestro de Leonard para ayudarlo a entender el football, mientras un problema ocurrido al volar cometas amenaza la amistad de Howard y Raj."
+      "sinopsis": "Sheldon se convierte en maestro de Leonard para ayudarlo a entender el football, mientras un problema ocurrido al volar cometas amenaza la amistad de Howard y Raj.",
+      "duracion": 20
     },
     "S03E07": {
       "nombre": "S03E07",
       "titulo": "The Guitarist Amplification",
       "foto": "https://image.tmdb.org/t/p/w500/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg",
-      "sinopsis": "Una disputa entre Leonard y Penny pone a Sheldon jugando el papel de mediador, aunque por propia conveniencia en vez de altruismo."
+      "sinopsis": "Una disputa entre Leonard y Penny pone a Sheldon jugando el papel de mediador, aunque por propia conveniencia en vez de altruismo.",
+      "duracion": 19
     },
     "S03E08": {
       "nombre": "S03E08",
       "titulo": "The Adhesive Duck Deficiency",
       "foto": "https://image.tmdb.org/t/p/w500/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg",
-      "sinopsis": "Con Leonard, Howard y Raj fuera acampando en el desierto, Penny herida solo tiene a Sheldon para confiar en."
+      "sinopsis": "Con Leonard, Howard y Raj fuera acampando en el desierto, Penny herida solo tiene a Sheldon para confiar en.",
+      "duracion": 21
     },
     "S03E09": {
       "nombre": "S03E09",
       "titulo": "The Vengeance Formulation",
       "foto": "https://image.tmdb.org/t/p/w500/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg",
-      "sinopsis": "Después de ser humillado en Radio Pública Nacional, Sheldon jura destruir a Kripke, mientras Wolowitz trata de no destruir su relación con Bernadette."
+      "sinopsis": "Después de ser humillado en Radio Pública Nacional, Sheldon jura destruir a Kripke, mientras Wolowitz trata de no destruir su relación con Bernadette.",
+      "duracion": 19
     },
     "S03E10": {
       "nombre": "S03E10",
       "titulo": "The Gorilla Experiment",
       "foto": "https://image.tmdb.org/t/p/w500/xUaKd5XBnmqny83essybaiQSICd.jpg",
-      "sinopsis": "Penny pide ayuda a Sheldon para entender en que trabaja Leonard, mientras Wolowitz siente celos cuando Leonard empieza a llevarse bien con su nueva novia."
+      "sinopsis": "Penny pide ayuda a Sheldon para entender en que trabaja Leonard, mientras Wolowitz siente celos cuando Leonard empieza a llevarse bien con su nueva novia.",
+      "duracion": 21
     },
     "S03E11": {
       "nombre": "S03E11",
       "titulo": "The Maternal Congruence",
       "foto": "https://image.tmdb.org/t/p/w500/kioeIQpVHRmhILyFGHiiebACdX1.jpg",
-      "sinopsis": "Una visita de la madre de Leonard emociona a Sheldon mientras que aterroriza a Leonard."
+      "sinopsis": "Una visita de la madre de Leonard emociona a Sheldon mientras que aterroriza a Leonard.",
+      "duracion": 20
     },
     "S03E12": {
       "nombre": "S03E12",
       "titulo": "The Psychic Vortex",
       "foto": "https://image.tmdb.org/t/p/w500/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg",
-      "sinopsis": "Mientras Sheldon y Koothrappali asisten a una fiesta en la universidad, Leonard se molesta al descubrir que Penny cree en psíquicos."
+      "sinopsis": "Mientras Sheldon y Koothrappali asisten a una fiesta en la universidad, Leonard se molesta al descubrir que Penny cree en psíquicos.",
+      "duracion": 19
     },
     "S03E13": {
       "nombre": "S03E13",
       "titulo": "The Bozeman Reaction",
       "foto": "https://image.tmdb.org/t/p/w500/jLh4QS3YkclWPrioytdMbuVjwXL.jpg",
-      "sinopsis": "Cuando su apartamento es robado, Leonard y Sheldon recurren a sus amigos para crear un sistema de seguridad de punta."
+      "sinopsis": "Cuando su apartamento es robado, Leonard y Sheldon recurren a sus amigos para crear un sistema de seguridad de punta.",
+      "duracion": 20
     },
     "S03E14": {
       "nombre": "S03E14",
       "titulo": "The Einstein Approximation",
       "foto": "https://image.tmdb.org/t/p/w500/7tx6fSRlOn6r5HXVOzOjilaqeZI.jpg",
-      "sinopsis": "La búsqueda de Sheldon de la solucion de un problema de física le lleva a trabajar en el restaurante con Penny."
+      "sinopsis": "La búsqueda de Sheldon de la solucion de un problema de física le lleva a trabajar en el restaurante con Penny.",
+      "duracion": 19
     },
     "S03E15": {
       "nombre": "S03E15",
       "titulo": "The Large Hadron Collision",
       "foto": "https://image.tmdb.org/t/p/w500/X19dpYs9iBJeiqiqb72STdjCg0.jpg",
-      "sinopsis": "Leonard tiene que elegir una personaque le acompañe en un viaje a Suiza el día de San Valentín para visitar el Gran Colisionador de Hadrones del CERN."
+      "sinopsis": "Leonard tiene que elegir una personaque le acompañe en un viaje a Suiza el día de San Valentín para visitar el Gran Colisionador de Hadrones del CERN.",
+      "duracion": 21
     },
     "S03E16": {
       "nombre": "S03E16",
       "titulo": "The Excelsior Acquisition",
       "foto": "https://image.tmdb.org/t/p/w500/6waZYJy3LVmnMO6Im6aFuBTDgJg.jpg",
-      "sinopsis": "Sheldon termina en el calabozo por una multa de tráfico que recibió mientras ayudaba a Penny, y se pierde la firma de libros de Stan Lee."
+      "sinopsis": "Sheldon termina en el calabozo por una multa de tráfico que recibió mientras ayudaba a Penny, y se pierde la firma de libros de Stan Lee.",
+      "duracion": 21
     },
     "S03E17": {
       "nombre": "S03E17",
       "titulo": "The Precious Fragmentation",
       "foto": "https://image.tmdb.org/t/p/w500/qwBvS3JV40nWZQOBhxTMhWoSk0Q.jpg",
-      "sinopsis": "El hallazgo de un anillo original del rodaje de \"El señor de lo anillos\" amenaza la integridad del grupo, pues cada uno lo quiere para un fin diferente."
+      "sinopsis": "El hallazgo de un anillo original del rodaje de \"El señor de lo anillos\" amenaza la integridad del grupo, pues cada uno lo quiere para un fin diferente.",
+      "duracion": 20
     },
     "S03E18": {
       "nombre": "S03E18",
       "titulo": "The Pants Alternative",
       "foto": "https://image.tmdb.org/t/p/w500/lyAMqIxYBlBNk8Brb6CWceltipC.jpg",
-      "sinopsis": "Los amigos de Sheldon tratan de ayudarle a superar su miedo a hablar en público cuando este se interpone entre él y un codiciado premio."
+      "sinopsis": "Los amigos de Sheldon tratan de ayudarle a superar su miedo a hablar en público cuando este se interpone entre él y un codiciado premio.",
+      "duracion": 21
     },
     "S03E19": {
       "nombre": "S03E19",
       "titulo": "The Wheaton Recurrence",
       "foto": "https://image.tmdb.org/t/p/w500/oHlOeHU6ruNOCE2yvRYG21r0AB5.jpg",
-      "sinopsis": "Una pelea entre Leonard y Penny pone en peligro su relación. Mientras, Sheldon compite con Will Wheaton en la bolera..."
+      "sinopsis": "Una pelea entre Leonard y Penny pone en peligro su relación. Mientras, Sheldon compite con Will Wheaton en la bolera...",
+      "duracion": 21
     },
     "S03E20": {
       "nombre": "S03E20",
       "titulo": "The Spaghetti Catalyst",
       "foto": "https://image.tmdb.org/t/p/w500/wztaQvhy4aNNgJmJhs201Qv8zXm.jpg",
-      "sinopsis": "Mientras Leonard y Penny siguen sin hablarse, Sheldon intenta complacerlos a los dos para que estén contentos."
+      "sinopsis": "Mientras Leonard y Penny siguen sin hablarse, Sheldon intenta complacerlos a los dos para que estén contentos.",
+      "duracion": 20
     },
     "S03E21": {
       "nombre": "S03E21",
       "titulo": "The Plimpton Stimulation",
       "foto": "https://image.tmdb.org/t/p/w500/cppyrsh201R39yrlQrBk7ShYpQ3.jpg",
-      "sinopsis": "Leonard y Sheldon compiten por la atención de una física de renombre."
+      "sinopsis": "Leonard y Sheldon compiten por la atención de una física de renombre.",
+      "duracion": 21
     },
     "S03E22": {
       "nombre": "S03E22",
       "titulo": "The Staircase Implementation",
       "foto": "https://image.tmdb.org/t/p/w500/cGQf2br0gTknsDtj71CGrrX1Gg6.jpg",
-      "sinopsis": "Leonard le cuenta a Penny como se conocieron él y Sheldon, y lo que pasó con el ascensor."
+      "sinopsis": "Leonard le cuenta a Penny como se conocieron él y Sheldon, y lo que pasó con el ascensor.",
+      "duracion": 20
     },
     "S03E23": {
       "nombre": "S03E23",
       "titulo": "The Lunar Excitation",
       "foto": "https://image.tmdb.org/t/p/w500/7wpXVU3zqGj9QMOtrdLDWRanGxP.jpg",
-      "sinopsis": "Howard y Raj intentan encontrar a la media naranja de Sheldon en una página de contactos en internet. Penny comienza a preocuparse con el hecho de que, tras haber salido con Leonard, quizá no sea capaz de salir con los chicos \"normales\" de siempre."
+      "sinopsis": "Howard y Raj intentan encontrar a la media naranja de Sheldon en una página de contactos en internet. Penny comienza a preocuparse con el hecho de que, tras haber salido con Leonard, quizá no sea capaz de salir con los chicos \"normales\" de siempre.",
+      "duracion": 20
     },
     "S04E01": {
       "nombre": "S04E01",
       "titulo": "The Robotic Manipulation",
       "foto": "https://image.tmdb.org/t/p/w500/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg",
-      "sinopsis": "Howard utiliza su brazo robotizado para su propio bienestar. Penny está dispuesta a ayudar a Sheldon con la que va a ser su primera cita romántica."
+      "sinopsis": "Howard utiliza su brazo robotizado para su propio bienestar. Penny está dispuesta a ayudar a Sheldon con la que va a ser su primera cita romántica.",
+      "duracion": 21
     },
     "S04E02": {
       "nombre": "S04E02",
       "titulo": "The Cruciferous Vegetable Amplification",
       "foto": "https://image.tmdb.org/t/p/w500/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg",
-      "sinopsis": "Sheldon se da cuenta de que no vivirá lo suficiente como para descargar su conciencia a un robot, por lo que intenta prolongar su vida"
+      "sinopsis": "Sheldon se da cuenta de que no vivirá lo suficiente como para descargar su conciencia a un robot, por lo que intenta prolongar su vida",
+      "duracion": 21
     },
     "S04E03": {
       "nombre": "S04E03",
       "titulo": "The Zazzy Substitution",
       "foto": "https://image.tmdb.org/t/p/w500/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg",
-      "sinopsis": "Penny comienza a referirse a Sheldon y Amy como Shamey, lo que no le gusta a ninguno de los dos. Sheldon descubrirá su pasión por los gatos."
+      "sinopsis": "Penny comienza a referirse a Sheldon y Amy como Shamey, lo que no le gusta a ninguno de los dos. Sheldon descubrirá su pasión por los gatos.",
+      "duracion": 21
     },
     "S04E04": {
       "nombre": "S04E04",
       "titulo": "The Hot Troll Deviation",
       "foto": "https://image.tmdb.org/t/p/w500/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg",
-      "sinopsis": "Cierta información sobre Wolowitz sale a la luz, quien intenta retomar su relación con Bernadette. Sheldon y Raj van a la guerra en la Universidad."
+      "sinopsis": "Cierta información sobre Wolowitz sale a la luz, quien intenta retomar su relación con Bernadette. Sheldon y Raj van a la guerra en la Universidad.",
+      "duracion": 20
     },
     "S04E05": {
       "nombre": "S04E05",
       "titulo": "The Desperation Emanation",
       "foto": "https://image.tmdb.org/t/p/w500/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg",
-      "sinopsis": "Leonard se deprime al ver que todos tienen novia menos él. Mientras, Sheldon quiere deshacerse de la suya y Amy intenta presentarle a su madre."
+      "sinopsis": "Leonard se deprime al ver que todos tienen novia menos él. Mientras, Sheldon quiere deshacerse de la suya y Amy intenta presentarle a su madre.",
+      "duracion": 21
     },
     "S04E06": {
       "nombre": "S04E06",
       "titulo": "The Irish Pub Formulation",
       "foto": "https://image.tmdb.org/t/p/w500/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg",
-      "sinopsis": "Leonard intenta mantener oculta a Sheldon, Howard y Raj una aventura amorosa… Justo cuando la hermana de este último llega de visita."
+      "sinopsis": "Leonard intenta mantener oculta a Sheldon, Howard y Raj una aventura amorosa… Justo cuando la hermana de este último llega de visita.",
+      "duracion": 22
     },
     "S04E07": {
       "nombre": "S04E07",
       "titulo": "The Apology Insufficiency",
       "foto": "https://image.tmdb.org/t/p/w500/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg",
-      "sinopsis": "Para darle una autorización a Wolowitz, el FBI entrevista a toda la pandilla, y Sheldon, accidentalmente, deja caer alguna información inapropiada."
+      "sinopsis": "Para darle una autorización a Wolowitz, el FBI entrevista a toda la pandilla, y Sheldon, accidentalmente, deja caer alguna información inapropiada.",
+      "duracion": 21
     },
     "S04E08": {
       "nombre": "S04E08",
       "titulo": "The 21-Second Excitation",
       "foto": "https://image.tmdb.org/t/p/w500/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg",
-      "sinopsis": "Mientas los chicos esperan para una película muy esperada, Penny y Bernadette invitan a Amy (Mayim Bialik) a su primer pijama party."
+      "sinopsis": "Mientas los chicos esperan para una película muy esperada, Penny y Bernadette invitan a Amy (Mayim Bialik) a su primer pijama party.",
+      "duracion": 19
     },
     "S04E09": {
       "nombre": "S04E09",
       "titulo": "The Boyfriend Complexity",
       "foto": "https://image.tmdb.org/t/p/w500/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg",
-      "sinopsis": "Penny le pide a Leonard que finja ser su novio para engañar a su padre, que ha venido a Pasadena."
+      "sinopsis": "Penny le pide a Leonard que finja ser su novio para engañar a su padre, que ha venido a Pasadena.",
+      "duracion": 21
     },
     "S04E10": {
       "nombre": "S04E10",
       "titulo": "The Alien Parasite Hypothesis",
       "foto": "https://image.tmdb.org/t/p/w500/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg",
-      "sinopsis": "Amy se da cuenta que siente atracción sexual por un exnovio de Penny. Por otro lado, Koothrappali y Wolowitz intentan probar quien de los dos seria el mejor superhéroe."
+      "sinopsis": "Amy se da cuenta que siente atracción sexual por un exnovio de Penny. Por otro lado, Koothrappali y Wolowitz intentan probar quien de los dos seria el mejor superhéroe.",
+      "duracion": 20
     },
     "S04E11": {
       "nombre": "S04E11",
       "titulo": "The Justice League Recombination",
       "foto": "https://image.tmdb.org/t/p/w500/uUUUozntwqQiivWD7qsuyV8hg2O.jpg",
-      "sinopsis": "Los chicos encuentran un \"Super\" uso para el nuevo novio de Penny, Zack, cuando entran en un concurso de disfraces como la Liga de la Justicia."
+      "sinopsis": "Los chicos encuentran un \"Super\" uso para el nuevo novio de Penny, Zack, cuando entran en un concurso de disfraces como la Liga de la Justicia.",
+      "duracion": 20
     },
     "S04E12": {
       "nombre": "S04E12",
       "titulo": "The Bus Pants Utilization",
       "foto": "https://image.tmdb.org/t/p/w500/ksC48YK2UFV8GeBETu11fTM7r0a.jpg",
-      "sinopsis": "La idea de Leonard para crear una aplicación de Smartphone hará peligrar su amistad con Sheldon"
+      "sinopsis": "La idea de Leonard para crear una aplicación de Smartphone hará peligrar su amistad con Sheldon",
+      "duracion": 21
     },
     "S04E13": {
       "nombre": "S04E13",
       "titulo": "The Love Car Displacement",
       "foto": "https://image.tmdb.org/t/p/w500/dBYcZAs8g77jjvyHGXClQIluFwc.jpg",
-      "sinopsis": "Bernadette se encuentra con su ex-novio mientras asiste a un evento científico con Wolowitz."
+      "sinopsis": "Bernadette se encuentra con su ex-novio mientras asiste a un evento científico con Wolowitz.",
+      "duracion": 21
     },
     "S04E14": {
       "nombre": "S04E14",
       "titulo": "The Thespian Catalyst",
       "foto": "https://image.tmdb.org/t/p/w500/oOd0acUQiDF7CyoJf9z52JyGBA5.jpg",
-      "sinopsis": "Con la esperanza de ser un mejor maestro, Sheldon pide a Penny que le dé lecciones de actuación. Raj tiene fantasías con la novia de un amigo."
+      "sinopsis": "Con la esperanza de ser un mejor maestro, Sheldon pide a Penny que le dé lecciones de actuación. Raj tiene fantasías con la novia de un amigo.",
+      "duracion": 21
     },
     "S04E15": {
       "nombre": "S04E15",
       "titulo": "The Benefactor Factor",
       "foto": "https://image.tmdb.org/t/p/w500/mRo77oUOj2kq4DLqOdpXkmtBjOv.jpg",
-      "sinopsis": "Una suculenta donación para la universidad hace que Leonard reconsidere hasta qué punto está dispuesto a ir por el bien de la ciencia."
+      "sinopsis": "Una suculenta donación para la universidad hace que Leonard reconsidere hasta qué punto está dispuesto a ir por el bien de la ciencia.",
+      "duracion": 20
     },
     "S04E16": {
       "nombre": "S04E16",
       "titulo": "The Cohabitation Formulation",
       "foto": "https://image.tmdb.org/t/p/w500/lwHPcYlrCFfRO5UEJ7oFfhg84me.jpg",
-      "sinopsis": "Bernadette le notifica a Howard que ya es tiempo de escoger entre vivir juntos o seguir viviendo con su madre. Leonard, por su lado se entera de que la hermana de Raj está de vuelta y hará todo lo posible por reencontrarse con ella. Amy, más adelante, intentará consolar a Penny cuando esta se entera de la noticia."
+      "sinopsis": "Bernadette le notifica a Howard que ya es tiempo de escoger entre vivir juntos o seguir viviendo con su madre. Leonard, por su lado se entera de que la hermana de Raj está de vuelta y hará todo lo posible por reencontrarse con ella. Amy, más adelante, intentará consolar a Penny cuando esta se entera de la noticia.",
+      "duracion": 20
     },
     "S04E17": {
       "nombre": "S04E17",
       "titulo": "The Toast Derivation",
       "foto": "https://image.tmdb.org/t/p/w500/WeOnAUVBQn5VrT409KoZUh19HY.jpg",
-      "sinopsis": "Al darse cuenta de que Leonard es el alma del grupo, Sheldon buscará un nuevo grupo de amigos en donde él pueda ser el centro de atracción."
+      "sinopsis": "Al darse cuenta de que Leonard es el alma del grupo, Sheldon buscará un nuevo grupo de amigos en donde él pueda ser el centro de atracción.",
+      "duracion": 21
     },
     "S04E18": {
       "nombre": "S04E18",
       "titulo": "The Prestidigitation Approximation",
       "foto": "https://image.tmdb.org/t/p/w500/lxpNNW7buxaTnWDtPAnqpc6ly7g.jpg",
-      "sinopsis": "Sheldon quedará perplejo al ver el nuevo truco de magia de Wolowitz. Leonard, más adelante, se da cuenta de que si sigue saliendo con Priya, se hará cada vez más difícil que continúe su amistad con Penny."
+      "sinopsis": "Sheldon quedará perplejo al ver el nuevo truco de magia de Wolowitz. Leonard, más adelante, se da cuenta de que si sigue saliendo con Priya, se hará cada vez más difícil que continúe su amistad con Penny.",
+      "duracion": 21
     },
     "S04E19": {
       "nombre": "S04E19",
       "titulo": "The Zarnecki Incursion",
       "foto": "https://image.tmdb.org/t/p/w500/zoY6h6LtJCShaLfuPUSnBCNRdHN.jpg",
-      "sinopsis": "La cuenta de juegos de Sheldon es \"hackeada\" y su identidad robada; ahora los chicos se unirán para descubrir quién es el responsable del terrible robo."
+      "sinopsis": "La cuenta de juegos de Sheldon es \"hackeada\" y su identidad robada; ahora los chicos se unirán para descubrir quién es el responsable del terrible robo.",
+      "duracion": 21
     },
     "S04E20": {
       "nombre": "S04E20",
       "titulo": "The Herb Garden Germination",
       "foto": "https://image.tmdb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg",
-      "sinopsis": "A manera de experimento, Sheldon y Amy deciden divulgar varios rumores acerca del resto de los chicos. Howard, por su parte llevará a un nivel más alto aún su relación con Bernadette."
+      "sinopsis": "A manera de experimento, Sheldon y Amy deciden divulgar varios rumores acerca del resto de los chicos. Howard, por su parte llevará a un nivel más alto aún su relación con Bernadette.",
+      "duracion": 21
     },
     "S04E21": {
       "nombre": "S04E21",
       "titulo": "The Agreement Dissection",
       "foto": "https://image.tmdb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg",
-      "sinopsis": "Leonard y Priya pasan demasiado tiempo en la ducha, lo que hace que Sheldon amoneste a Leonard por el contrato de compañeros de piso, pero antes de llegar mas lejos, Priya usa sus habilidades como abogado para anular todos los cargos, lo que hara a Sheldon desesperarse."
+      "sinopsis": "Leonard y Priya pasan demasiado tiempo en la ducha, lo que hace que Sheldon amoneste a Leonard por el contrato de compañeros de piso, pero antes de llegar mas lejos, Priya usa sus habilidades como abogado para anular todos los cargos, lo que hara a Sheldon desesperarse.",
+      "duracion": 21
     },
     "S04E22": {
       "nombre": "S04E22",
       "titulo": "The Wildebeest Implementation",
       "foto": "https://image.tmdb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg",
-      "sinopsis": "Raj intenta curar su trastorno de ansiedad social, mientras que Penny utiliza a Bernadette para espiar a Leonard y su novia."
+      "sinopsis": "Raj intenta curar su trastorno de ansiedad social, mientras que Penny utiliza a Bernadette para espiar a Leonard y su novia.",
+      "duracion": 21
     },
     "S04E23": {
       "nombre": "S04E23",
       "titulo": "The Engagement Reaction",
       "foto": "https://image.tmdb.org/t/p/w500/1hlDFTRY9MLfMB3AKhaX0dEEreK.jpg",
-      "sinopsis": "Cuando Howard, finalmente, da la noticia a su madre de que está comprometido con Bernadette, ella termina en el hospital."
+      "sinopsis": "Cuando Howard, finalmente, da la noticia a su madre de que está comprometido con Bernadette, ella termina en el hospital.",
+      "duracion": 20
     },
     "S04E24": {
       "nombre": "S04E24",
       "titulo": "The Roommate Transmogrification",
       "foto": "https://image.tmdb.org/t/p/w500/a3VbByTzFL1ew0gmdQVzFXF9mmz.jpg",
-      "sinopsis": "Cuando Bernadette recibe su doctorado, los chicos se burlan de Wolowitz, que es el único de su grupo sin doctorado. Raj se convierte en el nuevo compañero de Sheldon, después de escuchar a Leonard y Priya participar en una fantasía de \"Star Trek\" en su dormitorio."
+      "sinopsis": "Cuando Bernadette recibe su doctorado, los chicos se burlan de Wolowitz, que es el único de su grupo sin doctorado. Raj se convierte en el nuevo compañero de Sheldon, después de escuchar a Leonard y Priya participar en una fantasía de \"Star Trek\" en su dormitorio.",
+      "duracion": 21
     },
     "S05E01": {
       "nombre": "S05E01",
       "titulo": "The Skank Reflex Analysis",
       "foto": "https://image.tmdb.org/t/p/w500/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg",
-      "sinopsis": "Penny está preocupada con el grado de daño que sufrirá su amistad con los chicos como secuela de su noche con Raj, mientras Sheldon se convierte en el líder del equipo de paintball."
+      "sinopsis": "Penny está preocupada con el grado de daño que sufrirá su amistad con los chicos como secuela de su noche con Raj, mientras Sheldon se convierte en el líder del equipo de paintball.",
+      "duracion": 21
     },
     "S05E02": {
       "nombre": "S05E02",
       "titulo": "The Infestation Hypothesis",
       "foto": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg",
-      "sinopsis": "Amy queda atrapada en medio de una pelea entre Sheldon y Penny, mientras Leonard trata de darle vida a su relación a larga distancia con Priya."
+      "sinopsis": "Amy queda atrapada en medio de una pelea entre Sheldon y Penny, mientras Leonard trata de darle vida a su relación a larga distancia con Priya.",
+      "duracion": 20
     },
     "S05E03": {
       "nombre": "S05E03",
       "titulo": "The Pulled Groin Extrapolation",
       "foto": "https://image.tmdb.org/t/p/w500/wEdMYpz2tWAmp626nAWq0l44ltA.jpg",
-      "sinopsis": "Leonard y Amy intentan conocerse mejor, mientras Howard y Bernadette pasan el fin de semana con la señora Wolowitz."
+      "sinopsis": "Leonard y Amy intentan conocerse mejor, mientras Howard y Bernadette pasan el fin de semana con la señora Wolowitz.",
+      "duracion": 20
     },
     "S05E04": {
       "nombre": "S05E04",
       "titulo": "The Wiggly Finger Catalyst",
       "foto": "https://image.tmdb.org/t/p/w500/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg",
-      "sinopsis": "Penny encuentra a la chica perfecta para salir con Raj. Mientras, Sheldon utiliza los dados de Dragones y Mazmorras para tomar decisiones triviales."
+      "sinopsis": "Penny encuentra a la chica perfecta para salir con Raj. Mientras, Sheldon utiliza los dados de Dragones y Mazmorras para tomar decisiones triviales.",
+      "duracion": 20
     },
     "S05E05": {
       "nombre": "S05E05",
       "titulo": "The Russian Rocket Reaction",
       "foto": "https://image.tmdb.org/t/p/w500/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg",
-      "sinopsis": "Sheldon y Leonard son invitados a una fiesta en la casa de Wil Wheaton, y Howard tiene una oportunidad fuera de este mundo."
+      "sinopsis": "Sheldon y Leonard son invitados a una fiesta en la casa de Wil Wheaton, y Howard tiene una oportunidad fuera de este mundo.",
+      "duracion": 21
     },
     "S05E06": {
       "nombre": "S05E06",
       "titulo": "The Rhinitis Revelation",
       "foto": "https://image.tmdb.org/t/p/w500/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg",
-      "sinopsis": "La madre de Sheldon, Mary Cooper, viene de visita, pero a Sheldon le molesta que ella también pase tiempo con el resto de la banda, en lugar de atender a sus necesidades."
+      "sinopsis": "La madre de Sheldon, Mary Cooper, viene de visita, pero a Sheldon le molesta que ella también pase tiempo con el resto de la banda, en lugar de atender a sus necesidades.",
+      "duracion": 21
     },
     "S05E07": {
       "nombre": "S05E07",
       "titulo": "The Good Guy Fluctuation",
       "foto": "https://image.tmdb.org/t/p/w500/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg",
-      "sinopsis": "Un artista de cómic pone la relación entre Leonard y Priya a prueba, mientras Sheldon trata de asustar a los chicos para Halloween."
+      "sinopsis": "Un artista de cómic pone la relación entre Leonard y Priya a prueba, mientras Sheldon trata de asustar a los chicos para Halloween.",
+      "duracion": 20
     },
     "S05E08": {
       "nombre": "S05E08",
       "titulo": "The Isolation Permutation",
       "foto": "https://image.tmdb.org/t/p/w500/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg",
-      "sinopsis": "A Amy se le rompe el corazón cuando descubre que Penny y Bernadette fueron a comprar el vestido de novia sin ella."
+      "sinopsis": "A Amy se le rompe el corazón cuando descubre que Penny y Bernadette fueron a comprar el vestido de novia sin ella.",
+      "duracion": 21
     },
     "S05E09": {
       "nombre": "S05E09",
       "titulo": "The Ornithophobia Diffusion",
       "foto": "https://image.tmdb.org/t/p/w500/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg",
-      "sinopsis": "Leonard y Penny tratan de salir como amigos en una \"no cita\", pero al final terminan estropeándolo. Mientras tanto, Sheldon solicita la ayuda de Bernadette y Amy para superar su miedo a los pájaros."
+      "sinopsis": "Leonard y Penny tratan de salir como amigos en una \"no cita\", pero al final terminan estropeándolo. Mientras tanto, Sheldon solicita la ayuda de Bernadette y Amy para superar su miedo a los pájaros.",
+      "duracion": 21
     },
     "S05E10": {
       "nombre": "S05E10",
       "titulo": "The Flaming Spittoon Acquisition",
       "foto": "https://image.tmdb.org/t/p/w500/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg",
-      "sinopsis": "Sheldon considera llevar su relación con Amy a un nivel superior cuando Stuart, de la tienda de cómics, le pide una cita."
+      "sinopsis": "Sheldon considera llevar su relación con Amy a un nivel superior cuando Stuart, de la tienda de cómics, le pide una cita.",
+      "duracion": 21
     },
     "S05E11": {
       "nombre": "S05E11",
       "titulo": "The Speckerman Recurrence",
       "foto": "https://image.tmdb.org/t/p/w500/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg",
-      "sinopsis": "Leonard tiene que enfrentarse a sus miedos después de haber sido contactado por un matón de la escuela de secundaria."
+      "sinopsis": "Leonard tiene que enfrentarse a sus miedos después de haber sido contactado por un matón de la escuela de secundaria.",
+      "duracion": 20
     },
     "S05E12": {
       "nombre": "S05E12",
       "titulo": "The Shiny Trinket Maneuver",
       "foto": "https://image.tmdb.org/t/p/w500/dHAL94ft1SipqmaHL6uNAsegots.jpg",
-      "sinopsis": "Sheldon acabará escaldado al no apreciar un logro de Amy. Mientras Howard intenta cambiar la opinión de Bernadette respecto a los niños."
+      "sinopsis": "Sheldon acabará escaldado al no apreciar un logro de Amy. Mientras Howard intenta cambiar la opinión de Bernadette respecto a los niños.",
+      "duracion": 21
     },
     "S05E13": {
       "nombre": "S05E13",
       "titulo": "The Recombination Hypothesis",
       "foto": "https://image.tmdb.org/t/p/w500/7GZNVew1Fw24MKcCUKlGuvGJ2LR.jpg",
-      "sinopsis": "En el episodio número 100 de la serie Penny y Leonard se plantearán revivir su relación amorosa"
+      "sinopsis": "En el episodio número 100 de la serie Penny y Leonard se plantearán revivir su relación amorosa",
+      "duracion": 21
     },
     "S05E14": {
       "nombre": "S05E14",
       "titulo": "The Beta Test Initiation",
       "foto": "https://image.tmdb.org/t/p/w500/dZTRt2pZ2Ty5kka8iPqXocXO779.jpg",
-      "sinopsis": "Leonard y Penny acuerdan empezar una relación de nuevo y Raj finalmente encuentra una \"mujer\" con la que puede hablar sin estar borracho, en la forma de Siri en su nuevo teléfono. Mientras tanto, Sheldon decide iniciar una serie de YouTube titulada \"Sheldon Cooper presenta Diversión con las banderas\" con la ayuda de Amy."
+      "sinopsis": "Leonard y Penny acuerdan empezar una relación de nuevo y Raj finalmente encuentra una \"mujer\" con la que puede hablar sin estar borracho, en la forma de Siri en su nuevo teléfono. Mientras tanto, Sheldon decide iniciar una serie de YouTube titulada \"Sheldon Cooper presenta Diversión con las banderas\" con la ayuda de Amy.",
+      "duracion": 20
     },
     "S05E15": {
       "nombre": "S05E15",
       "titulo": "The Friendship Contraction",
       "foto": "https://image.tmdb.org/t/p/w500/aTgjYCtHKEoR0meeXcd2tEXdAkl.jpg",
-      "sinopsis": "Las exigencias egoístas de Sheldon sobre Leonard obligan a reconsiderar su amistad. Mientras tanto, Wolowitz trata de escoger su apodo de astronauta."
+      "sinopsis": "Las exigencias egoístas de Sheldon sobre Leonard obligan a reconsiderar su amistad. Mientras tanto, Wolowitz trata de escoger su apodo de astronauta.",
+      "duracion": 20
     },
     "S05E16": {
       "nombre": "S05E16",
       "titulo": "The Vacation Solution",
       "foto": "https://image.tmdb.org/t/p/w500/k6a9X7SdwEwzFlt7mx6gAkjlgTu.jpg",
-      "sinopsis": "Sheldon se toma con bastante calma el hecho de trabajar con Amy en su laboratorio de neurobiología, hasta que la directiva le pide que tome unas vacaciones forzadas. Más adelante, Howard no sabrá qué hacer cuando Bernadette le pida firmar un acuerdo prenupcial."
+      "sinopsis": "Sheldon se toma con bastante calma el hecho de trabajar con Amy en su laboratorio de neurobiología, hasta que la directiva le pide que tome unas vacaciones forzadas. Más adelante, Howard no sabrá qué hacer cuando Bernadette le pida firmar un acuerdo prenupcial.",
+      "duracion": 21
     },
     "S05E17": {
       "nombre": "S05E17",
       "titulo": "The Rothman Disintegration",
       "foto": "https://image.tmdb.org/t/p/w500/bcs07iCu9l2yP6HfjcrPUViXouG.jpg",
-      "sinopsis": "Sheldon y Kipke compiten por la la mejor oficina en la Universidad. Más adelante Penny se sentirá incómoda al aceptar un regalo de Amy."
+      "sinopsis": "Sheldon y Kipke compiten por la la mejor oficina en la Universidad. Más adelante Penny se sentirá incómoda al aceptar un regalo de Amy.",
+      "duracion": 21
     },
     "S05E18": {
       "nombre": "S05E18",
       "titulo": "The Werewolf Transformation",
       "foto": "https://image.tmdb.org/t/p/w500/1gdddSpcbY8Eh98Hg6xCFPoDWpu.jpg",
-      "sinopsis": "Cuando el barbero de Sheldon es hospitalizado, toda la rutina de cuidados del cabello del científico es trastocada y Sheldon no sabe qué hacer con su vida. Mientras tanto, Howard seguirá caminando entre las nubes de la emoción mientras continúa su entrenamiento para ser astronauta."
+      "sinopsis": "Cuando el barbero de Sheldon es hospitalizado, toda la rutina de cuidados del cabello del científico es trastocada y Sheldon no sabe qué hacer con su vida. Mientras tanto, Howard seguirá caminando entre las nubes de la emoción mientras continúa su entrenamiento para ser astronauta.",
+      "duracion": 21
     },
     "S05E19": {
       "nombre": "S05E19",
       "titulo": "The Weekend Vortex",
       "foto": "https://image.tmdb.org/t/p/w500/gN7RrKwH3pmL8u1sJiOlzChZBAb.jpg",
-      "sinopsis": "Sheldon desata la ira de Amy cuando elige pasar un fin de semana de videojuegos con sus amigos, en vez de ir a la fiesta de cumpleaños de su tía."
+      "sinopsis": "Sheldon desata la ira de Amy cuando elige pasar un fin de semana de videojuegos con sus amigos, en vez de ir a la fiesta de cumpleaños de su tía.",
+      "duracion": 20
     },
     "S05E20": {
       "nombre": "S05E20",
       "titulo": "The Transporter Malfunction",
       "foto": "https://image.tmdb.org/t/p/w500/wcPVenMYOg1IGGcwgSPzWAjdAkO.jpg",
-      "sinopsis": "Raj da una sorpresa a sus padres cuando les pide que le preparen una cita. Penny compra a Leonard y Sheldon un par de juguetes de coleccionista de Star Trek, sin saber el efecto que tendrá sobre Sheldon."
+      "sinopsis": "Raj da una sorpresa a sus padres cuando les pide que le preparen una cita. Penny compra a Leonard y Sheldon un par de juguetes de coleccionista de Star Trek, sin saber el efecto que tendrá sobre Sheldon.",
+      "duracion": 21
     },
     "S05E21": {
       "nombre": "S05E21",
       "titulo": "The Hawking Excitation",
       "foto": "https://image.tmdb.org/t/p/w500/dh75Gnq9vlvTIxvheYo3D86lSnm.jpg",
-      "sinopsis": "Sheldon intenta por todos los medios conocer a su héroe, el doctor Stephen Hawking."
+      "sinopsis": "Sheldon intenta por todos los medios conocer a su héroe, el doctor Stephen Hawking.",
+      "duracion": 19
     },
     "S05E22": {
       "nombre": "S05E22",
       "titulo": "The Stag Convergence",
       "foto": "https://image.tmdb.org/t/p/w500/FDRRgbb4PkOljdmEjKawpnyFlK.jpg",
-      "sinopsis": "Los chicos preparan la despedida de soltero de Howard, y algunos detalles de su vida privada son publicados en internet."
+      "sinopsis": "Los chicos preparan la despedida de soltero de Howard, y algunos detalles de su vida privada son publicados en internet.",
+      "duracion": 21
     },
     "S05E23": {
       "nombre": "S05E23",
       "titulo": "The Launch Acceleration",
       "foto": "https://image.tmdb.org/t/p/w500/aGhOWNabAScjiHEzs1TebXH1kVa.jpg",
-      "sinopsis": "Howard se enfrenta a un doble problema cuando la NASA aplaza su lanzamiento y tiene que conocer al padre de Bernadette. Una incómoda conversación de alcoba de Leonard puede hacer cambiar su relación con Penny."
+      "sinopsis": "Howard se enfrenta a un doble problema cuando la NASA aplaza su lanzamiento y tiene que conocer al padre de Bernadette. Una incómoda conversación de alcoba de Leonard puede hacer cambiar su relación con Penny.",
+      "duracion": 21
     },
     "S05E24": {
       "nombre": "S05E24",
       "titulo": "The Countdown Reflection",
       "foto": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg",
-      "sinopsis": "La banda se da prisa en proporcionar a Howard y Bernadette una boda antes de la misión de Howard en el espacio."
+      "sinopsis": "La banda se da prisa en proporcionar a Howard y Bernadette una boda antes de la misión de Howard en el espacio.",
+      "duracion": 20
     }
   }
 }

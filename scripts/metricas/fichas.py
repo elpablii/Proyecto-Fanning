@@ -7,6 +7,7 @@ Una ficha por película o serie, con todo lo que se edita a mano:
   "tipo": "pelicula",                      # "pelicula" o "serie"
   "nivel_fijo": "",                       # opcional: fuerza un nivel; si está vacío se usa el calculado
   "clasificacion": "TE",                   # TE, TE+7, +14, +18
+  "duracion": 95,                          # minutos (películas); la trae duracion_tmdb.py
   "tmdb": {"tipo": "movie", "id": 150540}, # o null si todavía no se sabe
   "analisis": "…",
   "sinopsis": "…", "poster": "https://…", "fondo": "https://…", "fotos": ["https://…"],
@@ -15,7 +16,7 @@ Una ficha por película o serie, con todo lo que se edita a mano:
     "dialogos": ["Diálogos/…pdf", {"ruta": "Diálogos/…pdf", "episodio": "SP01"}]
   },
   "episodios": {                           # solo series; la clave es el código del episodio
-    "S01E01": {"nombre": "S01E01 - Pilot", "analisis": "",
+    "S01E01": {"nombre": "S01E01 - Pilot", "analisis": "", "duracion": 22,
                "titulo": "Pilot", "foto": "https://…", "sinopsis": "…",
                "tmdb": {"tipo": "movie", "id": 784047}}   # solo si TMDB lo tiene como película aparte
   }
@@ -37,7 +38,7 @@ CARPETA = os.path.join(RAIZ, 'contenido', 'titulos')
 TANDAS = os.path.join(RAIZ, 'contenido', 'tandas.json')
 NIVELES = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'}
 CLASIFICACIONES = {'TE', 'TE+7', '+14', '+18'}
-ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
+ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'duracion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
          'fotos', 'pdfs', 'episodios']
 
 
@@ -150,6 +151,12 @@ def cargar(estricto=True):
     for tanda in cargar_tandas():
         for item in tanda.get('items', []):
             titulo = item if isinstance(item, str) else item.get('titulo')
+            if titulo in vistos and isinstance(item, dict) and item.get('episodios'):
+                ficha = next(f for f in fichas if f['titulo'] == titulo)
+                faltan = [c for c in item['episodios'] if c not in (ficha.get('episodios') or {})]
+                if faltan:
+                    errores.append(f'contenido/tandas.json, "{tanda.get("title")}": "{item.get("texto")}" nombra '
+                                   f'episodios que no están en la ficha de {titulo}: {", ".join(faltan)}.')
             if titulo not in vistos:
                 texto = item if isinstance(item, str) else item.get('texto', titulo)
                 errores.append(f'contenido/tandas.json, "{tanda.get("title")}": "{texto}" no corresponde a ninguna ficha. '

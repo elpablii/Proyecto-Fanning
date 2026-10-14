@@ -30,6 +30,7 @@
     "id": 4,
     "title": "4° Tanda",
     "date": "Martes, 02/01/2024",
+    "ciclo": "2023",
     "items": [
       "El Expreso Polar",
       "Focus"
@@ -109,7 +110,10 @@
       },
       {
         "texto": "Kim Possible (S01E01)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E01"
+        ]
       },
       {
         "texto": "Suite Française",
@@ -125,7 +129,10 @@
       "Once Upon a Time in Hollywood",
       {
         "texto": "Kim Possible (S01E02)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E02"
+        ]
       }
     ]
   },
@@ -140,7 +147,11 @@
       },
       {
         "texto": "Kim Possible (S01E03-04)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
       }
     ]
   },
@@ -151,7 +162,14 @@
     "items": [
       {
         "texto": "Kim Possible (S01E05-09)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E05",
+          "S01E06",
+          "S01E07",
+          "S01E08",
+          "S01E09"
+        ]
       }
     ]
   },
@@ -198,7 +216,13 @@
       "Kim Possible (2019)",
       {
         "texto": "Kim Possible (S01 EP10-13)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E10",
+          "S01E11",
+          "S01E12",
+          "S01E13"
+        ]
       }
     ]
   },
@@ -256,7 +280,11 @@
       },
       {
         "texto": "Kim Possible (S01 EP14-15)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E14",
+          "S01E15"
+        ]
       }
     ]
   },
@@ -268,7 +296,13 @@
       "About Time",
       {
         "texto": "Kim Possible (S01 EP16-19)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E16",
+          "S01E17",
+          "S01E18",
+          "S01E19"
+        ]
       }
     ]
   },
@@ -318,7 +352,11 @@
       },
       {
         "texto": "Kim Possible (S01 EP20-21)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S01E20",
+          "S01E21"
+        ]
       }
     ]
   },
@@ -331,7 +369,12 @@
       "Marrowbone",
       {
         "texto": "Kim Possible (S02 EP1-3)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E01",
+          "S02E02",
+          "S02E03"
+        ]
       }
     ]
   },
@@ -409,15 +452,32 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 4-7)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E04",
+          "S02E05",
+          "S02E06",
+          "S02E07"
+        ]
       },
       {
         "texto": "Queen's Gambit (EP 1-3)",
-        "titulo": "Gambito de Dama"
+        "titulo": "Gambito de Dama",
+        "episodios": [
+          "S01E01",
+          "S01E02",
+          "S01E03"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T1 EP 1-4)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S01E01",
+          "S01E02",
+          "S01E03",
+          "S01E04"
+        ]
       }
     ]
   },
@@ -428,7 +488,11 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 8-9)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E08",
+          "S02E09"
+        ]
       },
       {
         "texto": "Bichos: Una Aventura en Miniatura",
@@ -436,11 +500,23 @@
       },
       {
         "texto": "Queen's Gambit (EP 4-7 + Especial)",
-        "titulo": "Gambito de Dama"
+        "titulo": "Gambito de Dama",
+        "episodios": [
+          "S01E04",
+          "S01E05",
+          "S01E06",
+          "S01E07",
+          "SP01"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T1 EP 5-7)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S01E05",
+          "S01E06",
+          "S01E07"
+        ]
       }
     ]
   },
@@ -488,11 +564,23 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 10-14)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E10",
+          "S02E11",
+          "S02E12",
+          "S02E13",
+          "S02E14"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T1 EP 8-10)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S01E08",
+          "S01E09",
+          "S01E10"
+        ]
       },
       "El Padrino I"
     ]
@@ -504,11 +592,26 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 15-19)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E15",
+          "S02E16",
+          "S02E17",
+          "S02E18",
+          "S02E19"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T1 EP 11-16)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S01E11",
+          "S01E12",
+          "S01E13",
+          "S01E14",
+          "S01E15",
+          "S01E16"
+        ]
       }
     ]
   },
@@ -522,7 +625,13 @@
       "Rocky IV",
       {
         "texto": "The Big Bang Theory (T1 EP 17 + T2 EP 1-3)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S01E17",
+          "S02E01",
+          "S02E02",
+          "S02E03"
+        ]
       }
     ]
   },
@@ -536,7 +645,11 @@
       "21 Blackjack",
       {
         "texto": "The Big Bang Theory (T2 EP 4-5)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S02E04",
+          "S02E05"
+        ]
       }
     ]
   },
@@ -552,11 +665,21 @@
       "The Roads Not Taken",
       {
         "texto": "Kim Possible (T2 EP 20-22)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E20",
+          "S02E21",
+          "S02E22"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T2 EP 6-8)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S02E06",
+          "S02E07",
+          "S02E08"
+        ]
       }
     ]
   },
@@ -571,11 +694,22 @@
       },
       {
         "texto": "Euphoria (T1 EP 1-2)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T2 EP 9-13)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S02E09",
+          "S02E10",
+          "S02E11",
+          "S02E12",
+          "S02E13"
+        ]
       }
     ]
   },
@@ -586,15 +720,32 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 23-26)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E23",
+          "S02E24",
+          "S02E25",
+          "S02E26"
+        ]
       },
       {
         "texto": "Euphoria (T1 EP 3-4)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T2 EP 14-18)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S02E14",
+          "S02E15",
+          "S02E16",
+          "S02E17",
+          "S02E18"
+        ]
       }
     ]
   },
@@ -605,7 +756,14 @@
     "items": [
       {
         "texto": "Kim Possible (T2 EP 27-30 + T3 EP 1)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S02E27",
+          "S02E28",
+          "S02E29",
+          "S02E30",
+          "S03E01"
+        ]
       },
       "The Watchers",
       "Thoroughbreds",
@@ -622,11 +780,26 @@
     "items": [
       {
         "texto": "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S01E05",
+          "S01E06",
+          "S01E07",
+          "S01E08",
+          "SP01",
+          "SP02"
+        ]
       },
       {
         "texto": "The Big Bang Theory (T2 EP 19-23)",
-        "titulo": "The Big Bang Theory"
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S02E19",
+          "S02E20",
+          "S02E21",
+          "S02E22",
+          "S02E23"
+        ]
       }
     ]
   },
@@ -637,7 +810,16 @@
     "items": [
       {
         "texto": "Kim Possible (T3 EP 2-8)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S03E02",
+          "S03E03",
+          "S03E04",
+          "S03E05",
+          "S03E06",
+          "S03E07",
+          "S03E08"
+        ]
       },
       {
         "texto": "All The Bright Places",
@@ -654,11 +836,21 @@
     "items": [
       {
         "texto": "Kim Possible (T3 EP 9-11)",
-        "titulo": "Kim Possible"
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S03E09",
+          "S03E10",
+          "S03E11"
+        ]
       },
       {
         "texto": "Euphoria (T2 EP 1-3)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S02E01",
+          "S02E02",
+          "S02E03"
+        ]
       },
       "Viena and the Fantomes",
       "The Neon Demon"
@@ -671,7 +863,11 @@
     "items": [
       {
         "texto": "Euphoria (T2 EP 4-5)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S02E04",
+          "S02E05"
+        ]
       },
       {
         "texto": "The Substance",
@@ -702,7 +898,12 @@
     "items": [
       {
         "texto": "Euphoria (T2 EP 6-8)",
-        "titulo": "Euphoria"
+        "titulo": "Euphoria",
+        "episodios": [
+          "S02E06",
+          "S02E07",
+          "S02E08"
+        ]
       },
       "Very Good Girls",
       {
@@ -762,6 +963,697 @@
         "texto": "Star Wars VI: Return of the Jedi",
         "titulo": "Star Wars Episodio VI Return of the Jedi"
       }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "50° Tanda",
+    "date": "Sábado, 17/01/2026",
+    "items": [
+      {
+        "texto": "Interstellar",
+        "titulo": "Interestellar"
+      },
+      "The Witch",
+      {
+        "texto": "Sleeping Beauty",
+        "titulo": "La Bella Durmiente"
+      },
+      {
+        "texto": "The Big Bang Theory (T3 EP 1-2)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E01",
+          "S03E02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "51° Tanda",
+    "date": "Sábado, 31/01/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 1-4)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E01",
+          "S04E02",
+          "S04E03",
+          "S04E04"
+        ]
+      },
+      {
+        "texto": "The Girl From Plainville (EP 1-2)",
+        "titulo": "The Girl From Plainville",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
+      },
+      {
+        "texto": "The Perfect Couple (EP 1-2)",
+        "titulo": "The Perfect Couple",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T3 EP 3-4)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E03",
+          "S03E04"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "52° Tanda",
+    "date": "Sábado, 14/02/2026",
+    "items": [
+      {
+        "texto": "Grace Stirs Up Success",
+        "titulo": "An American Girl - Grace Stirs Up Success"
+      },
+      "Night Moves",
+      {
+        "texto": "Home (Documental)",
+        "titulo": "Home"
+      },
+      "The Vanishing of Sidney Hall"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "53° Tanda",
+    "date": "Domingo, 01/03/2026",
+    "items": [
+      "Maleficent I",
+      "Sweetness in the Belly",
+      {
+        "texto": "Pan Am (EP 1-2)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T3 EP 5-10)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E05",
+          "S03E06",
+          "S03E07",
+          "S03E08",
+          "S03E09",
+          "S03E10"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "54° Tanda",
+    "date": "Viernes, 20/03/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 5-8)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E05",
+          "S04E06",
+          "S04E07",
+          "S04E08"
+        ]
+      },
+      "Here Are The Young Men",
+      {
+        "texto": "Obi-Wan Kenobi (Serie Completa)",
+        "titulo": "Obi-Wan Kenobi"
+      },
+      {
+        "texto": "The Big Bang Theory (T3 EP 11-13)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E11",
+          "S03E12",
+          "S03E13"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "55° Tanda",
+    "date": "Martes, 07/04/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 9-10)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E09",
+          "S04E10"
+        ]
+      },
+      "A Minecraft Movie",
+      {
+        "texto": "The Big Bang Theory (T3 EP 14-18)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E14",
+          "S03E15",
+          "S03E16",
+          "S03E17",
+          "S03E18"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "56° Tanda",
+    "date": "Domingo, 19/04/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 11-14)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E11",
+          "S04E12",
+          "S04E13",
+          "S04E14"
+        ]
+      },
+      {
+        "texto": "Maleficent II: Mistress of Evil",
+        "titulo": "Maleficent II Mistress of Evil"
+      },
+      "Blacklight",
+      "Glass"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "57° Tanda",
+    "date": "Miércoles, 06/05/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 15-19)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E15",
+          "S04E16",
+          "S04E17",
+          "S04E18",
+          "S04E19"
+        ]
+      },
+      {
+        "texto": "All Her Fault (EP 1-2)",
+        "titulo": "All Her Fault",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
+      },
+      {
+        "texto": "The Girl From Plainville (EP 3-4)",
+        "titulo": "The Girl From Plainville",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
+      },
+      {
+        "texto": "Maid (EP 1-2)",
+        "titulo": "Maid",
+        "episodios": [
+          "S01E01",
+          "S01E02"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "58° Tanda",
+    "date": "Viernes, 29/05/2026",
+    "items": [
+      "Work It",
+      {
+        "texto": "Pride and Prejudice",
+        "titulo": "Orgullo y Prejuicio"
+      },
+      {
+        "texto": "The Big Bang Theory (T3 EP 19-23)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S03E19",
+          "S03E20",
+          "S03E21",
+          "S03E22",
+          "S03E23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "59° Tanda",
+    "date": "Domingo, 14/06/2026",
+    "items": [
+      {
+        "texto": "Kim Possible (T4 EP 20-22)",
+        "titulo": "Kim Possible",
+        "episodios": [
+          "S04E20",
+          "S04E21",
+          "S04E22"
+        ]
+      },
+      "Schindler's List",
+      {
+        "texto": "The Big Bang Theory (T4 EP 1-5)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S04E01",
+          "S04E02",
+          "S04E03",
+          "S04E04",
+          "S04E05"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "60° Tanda",
+    "date": "Domingo, 28/06/2026",
+    "items": [
+      {
+        "texto": "Cinderella",
+        "titulo": "Cenicienta"
+      },
+      {
+        "texto": "Pan Am (EP 3-5)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E03",
+          "S01E04",
+          "S01E05"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T4 EP 6-10)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S04E06",
+          "S04E07",
+          "S04E08",
+          "S04E09",
+          "S04E10"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "61° Tanda",
+    "date": "Domingo, 12/07/2026",
+    "items": [
+      {
+        "texto": "Maid (EP 3-4)",
+        "titulo": "Maid",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
+      },
+      "Cars III",
+      "Ordinary Love",
+      {
+        "texto": "The Big Bang Theory (T4 EP 11-15)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S04E11",
+          "S04E12",
+          "S04E13",
+          "S04E14",
+          "S04E15"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "62° Tanda",
+    "date": "Domingo, 26/07/2026",
+    "items": [
+      "Jojo Rabbit",
+      "A Big Bold Beautiful Journey",
+      "The Commuter",
+      {
+        "texto": "The Big Bang Theory (T4 EP 16-20)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S04E16",
+          "S04E17",
+          "S04E18",
+          "S04E19",
+          "S04E20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "63° Tanda",
+    "date": "Sábado, 08/08/2026",
+    "items": [
+      "Every Secret Thing",
+      "Ginger & Rosa",
+      {
+        "texto": "Taylor Swift: The 1989 World Tour",
+        "titulo": "Taylor Swift The 1989 World Tour"
+      },
+      "Morgan",
+      "Toy Story IV",
+      {
+        "texto": "The Big Bang Theory (T4 EP 21-24)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S04E21",
+          "S04E22",
+          "S04E23",
+          "S04E24"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "64° Tanda",
+    "date": "Martes, 25/08/2026",
+    "items": [
+      {
+        "texto": "Pan Am (EP 6-7)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E06",
+          "S01E07"
+        ]
+      },
+      {
+        "texto": "Maid (EP 5-6)",
+        "titulo": "Maid",
+        "episodios": [
+          "S01E05",
+          "S01E06"
+        ]
+      },
+      {
+        "texto": "The Perfect Couple (EP 3-4)",
+        "titulo": "The Perfect Couple",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
+      },
+      {
+        "texto": "The Girl From Plainville (EP 5-6)",
+        "titulo": "The Girl From Plainville",
+        "episodios": [
+          "S01E05",
+          "S01E06"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T5 EP 1-3)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E01",
+          "S05E02",
+          "S05E03"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "65° Tanda",
+    "date": "Lunes, 07/09/2026",
+    "items": [
+      "A Rainy Day in New York",
+      {
+        "texto": "The Muppet Show (w/ Sabrina Carpenter)",
+        "titulo": "The Muppet Show"
+      },
+      {
+        "texto": "GTA San Andreas: The Introduction",
+        "titulo": "GTA San Andreas The Introduction"
+      },
+      "Barry",
+      "Marlowe"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "66° Tanda",
+    "date": "Lunes, 21/09/2026",
+    "items": [
+      {
+        "texto": "The Girl From Plainville (EP 7-8)",
+        "titulo": "The Girl From Plainville",
+        "episodios": [
+          "S01E07",
+          "S01E08"
+        ]
+      },
+      {
+        "texto": "All Her Fault (EP 3-4)",
+        "titulo": "All Her Fault",
+        "episodios": [
+          "S01E03",
+          "S01E04"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T5 EP 4-7)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E04",
+          "S05E05",
+          "S05E06",
+          "S05E07"
+        ]
+      },
+      "The Motel Life",
+      "20th Century Women"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "67° Tanda",
+    "date": "Lunes, 05/10/2026",
+    "items": [
+      {
+        "texto": "Maid (EP 7-8)",
+        "titulo": "Maid",
+        "episodios": [
+          "S01E07",
+          "S01E08"
+        ]
+      },
+      {
+        "texto": "Pan Am (EP 8-9)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E08",
+          "S01E09"
+        ]
+      },
+      {
+        "texto": "The Big Bang Theory (T5 EP 8-10)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E08",
+          "S05E09",
+          "S05E10"
+        ]
+      },
+      "Effie Gray"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "68° Tanda",
+    "date": "Sábado, 17/10/2026",
+    "items": [
+      "A Complete Unknown",
+      "Leave No Trace",
+      "Tall Girl I",
+      {
+        "texto": "The Perfect Couple (EP 5-6)",
+        "titulo": "The Perfect Couple",
+        "episodios": [
+          "S01E05",
+          "S01E06"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "69° Tanda",
+    "date": "Jueves, 29/10/2026",
+    "items": [
+      {
+        "texto": "All Her Fault (EP 5-6)",
+        "titulo": "All Her Fault",
+        "episodios": [
+          "S01E05",
+          "S01E06"
+        ]
+      },
+      {
+        "texto": "Maid (EP 9-10)",
+        "titulo": "Maid",
+        "episodios": [
+          "S01E09",
+          "S01E10"
+        ]
+      },
+      {
+        "texto": "Grand Theft Auto VI: An Extended Look",
+        "titulo": "Grand Theft Auto VI An Extended Look"
+      },
+      {
+        "texto": "How To Make a Killing",
+        "titulo": "How to Make a Killing"
+      },
+      "Five Nights at Freddy's II"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "70° Tanda",
+    "date": "Miércoles, 11/11/2026",
+    "items": [
+      "Emergency",
+      "Super Mario Galaxy",
+      "Minions I",
+      {
+        "texto": "The Big Bang Theory (T5 EP 11-16)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E11",
+          "S05E12",
+          "S05E13",
+          "S05E14",
+          "S05E15",
+          "S05E16"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "71° Tanda",
+    "date": "Martes, 24/11/2026",
+    "items": [
+      {
+        "texto": "Pan Am (EP 10-11)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E10",
+          "S01E11"
+        ]
+      },
+      {
+        "texto": "All Her Fault (EP 7-8)",
+        "titulo": "All Her Fault",
+        "episodios": [
+          "S01E07",
+          "S01E08"
+        ]
+      },
+      "IO",
+      "Girl in the Basement",
+      {
+        "texto": "The Big Bang Theory (T5 EP 17-22)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E17",
+          "S05E18",
+          "S05E19",
+          "S05E20",
+          "S05E21",
+          "S05E22"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "72° Tanda",
+    "date": "Lunes, 07/12/2026",
+    "items": [
+      {
+        "texto": "TS: The Eras Tour (Final Show)",
+        "titulo": "Taylor Swift - The Eras Tour Film The Final Show"
+      },
+      {
+        "texto": "Pan Am (EP 12-14)",
+        "titulo": "Pan Am",
+        "episodios": [
+          "S01E12",
+          "S01E13",
+          "S01E14"
+        ]
+      },
+      "Michael",
+      "Unknown",
+      {
+        "texto": "Lilo y Stitch II: Stitch has a Glitch",
+        "titulo": "Lilo and Stitch II"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "73a° Tanda",
+    "date": "Sábado, 19/12/2026",
+    "items": [
+      {
+        "texto": "The Big Bang Theory (T5 EP 23-24)",
+        "titulo": "The Big Bang Theory",
+        "episodios": [
+          "S05E23",
+          "S05E24"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "73b° Tanda (Navidad)",
+    "date": "Viernes, 25/12/2026",
+    "items": [
+      "Love Actually",
+      "Family Switch"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "73c° Tanda (Fin de Año)",
+    "date": "Jueves, 31/12/2026",
+    "items": [
+      "Tall Girl II"
     ]
   }
 ]

@@ -31,6 +31,7 @@ from rutas import ANIOS, DATA, REPORTE, absoluta  # noqa: E402
 import fichas as F  # noqa: E402
 import ranking  # noqa: E402
 import nivel as N  # noqa: E402
+import linea_tiempo  # noqa: E402
 from conteo import (clave_episodio, contar_dialogos, leer_lineas, leer_vocabulario,  # noqa: E402
                     sin_repetidas)
 
@@ -172,6 +173,8 @@ def procesar_titulo(ficha, avisos):
             general['nivel'] = N.nivel_texto(puntaje)
             general['rango'] = [N.nivel_texto(min(e['nivel']['puntaje'] for e in con_nivel)),
                                 N.nivel_texto(max(e['nivel']['puntaje'] for e in con_nivel))]
+        for k, e in episodios.items():
+            e['fin_subtitulos'] = fin_subtitulos(por_ep_subs.get(k, []))
         return {'serie': True, 'episodios': episodios, 'repetidas': repetidas, 'creditos': creditos,
                 'nivel': general}
 
@@ -182,7 +185,21 @@ def procesar_titulo(ficha, avisos):
     total_dialogos = sum(dialogos_ep.values())
     return {'serie': False, 'vocabulario': unicas, 'dialogos': total_dialogos,
             'anio': anios.most_common(1)[0][0] if anios else None, 'repetidas': repetidas, 'creditos': creditos,
-            'nivel': N.calcular_nivel([x['word'] for x in unicas], total_dialogos, subtitulos)}
+            'nivel': N.calcular_nivel([x['word'] for x in unicas], total_dialogos, subtitulos),
+            'fin_subtitulos': fin_subtitulos(subtitulos)}
+
+
+def fin_subtitulos(subtitulos):
+    """Minuto en que termina el último subtítulo: estimación de la duración si TMDB no la tiene."""
+    fin = max((s[2] for s in subtitulos if s[2] is not None), default=None)
+    return round(fin / 60) if fin else None
+
+
+def duracion(minutos, fin_subs):
+    """(minutos, estimada): la de la ficha (TMDB o a mano) o, si falta, la de los subtítulos."""
+    if minutos:
+        return int(minutos), False
+    return (fin_subs, True) if fin_subs else (None, False)
 
 
 def completar_episodios(ficha, res):
@@ -220,6 +237,9 @@ def datos_pagina(ficha, res):
         datos['vocabulary'] = [limpiar(e) for e in res['vocabulario']]
         datos['count'] = len(res['vocabulario'])
         datos['dialogues'] = res['dialogos']
+        datos['duration'], estimada = duracion(ficha.get('duracion'), res['fin_subtitulos'])
+        if estimada:
+            datos['durationEstimated'] = True
         return datos
 
     episodios, tmdb_eps = [], {}
@@ -230,6 +250,9 @@ def datos_pagina(ficha, res):
               'levelDetail': r['nivel'],
               'vocabulary': [limpiar(x) for x in r['vocabulario']],
               'count': len(r['vocabulario']), 'dialogues': r['dialogos']}
+        ep['duration'], estimada = duracion(e.get('duracion'), r['fin_subtitulos'])
+        if estimada:
+            ep['durationEstimated'] = True
         if e.get('analisis'):
             ep['englishAnalysis'] = e['analisis']
         episodios.append(ep)
@@ -240,6 +263,9 @@ def datos_pagina(ficha, res):
     datos['tmdb']['episodes'] = tmdb_eps
     datos['count'] = sum(e['count'] for e in episodios)
     datos['dialogues'] = sum(e['dialogues'] for e in episodios)
+    datos['duration'] = sum(e['duration'] or 0 for e in episodios) or None
+    if any(e.get('durationEstimated') or not e['duration'] for e in episodios):
+        datos['durationEstimated'] = True
     return datos
 
 
@@ -267,13 +293,13 @@ def construir_manifest(lista_fichas, resultados, pelis):
             if not eps:
                 return None
             episodios = [{'code': ep['code'], 'name': ep['name'], 'count': ep['count'], 'dialogues': ep['dialogues'],
-                          'level': ep['level']} for ep in eps]
+                          'level': ep['level'], 'duration': ep['duration']} for ep in eps]
             anios = sorted({res['episodios'][ep['code']]['anio'] for ep in datos['episodes']})
         else:
             if anio is not None and res['anio'] != anio:
                 return None
             episodios = [{'name': titulo, 'count': datos['count'], 'dialogues': datos['dialogues'],
-                          'level': datos['level']}]
+                          'level': datos['level'], 'duration': datos['duration']}]
             anios = [res['anio']]
         m = {
             'title': titulo,
@@ -285,6 +311,7 @@ def construir_manifest(lista_fichas, resultados, pelis):
             'levelRange': (res['nivel'] or {}).get('rango') if res['serie'] else None,
             'rating': f.get('clasificacion') or 'TE',
             'dialogues': sum(e['dialogues'] for e in episodios),
+            'duration': sum(e['duration'] or 0 for e in episodios) or None,  # minutos
             # otros nombres (p. ej. el título en inglés del PDF de diálogos) para el buscador
             'aliases': sorted({base_dialogo(F.ruta_dialogo(d)) for d in f['pdfs'].get('dialogos', [])} - {titulo}),
             'years': anios,
@@ -427,7 +454,7 @@ def main():
     borrados = escribir_pelis(pelis)
     escribir_anuales(items)
     escribir_json(os.path.join(DATA, 'manifest.json'), manifest)
-    escribir_json(os.path.join(DATA, 'timeline.json'), F.cargar_tandas())
+    linea_tiempo.generar()
     reporte(manifest, viejo, avisos + avisos_fichas, resultados, borrados)
     a = manifest['all']
     print(f'\nListo: {a["totalWords"]:,} palabras y frases, {a["totalDialogues"]:,} líneas de diálogo, '

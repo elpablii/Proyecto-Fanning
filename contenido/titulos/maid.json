@@ -34,52 +34,62 @@
     "S01E01": {
       "nombre": "Maid (Episode 1)",
       "titulo": "Dollar Store",
-      "foto": "https://image.tmdb.org/t/p/w500/eT1iikHCvdDdK44RJdsaBCvCFES.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/eT1iikHCvdDdK44RJdsaBCvCFES.jpg",
+      "duracion": 50
     },
     "S01E02": {
       "nombre": "Maid (Episode 2)",
       "titulo": "Ponies",
-      "foto": "https://image.tmdb.org/t/p/w500/j7nIfAMiVF88layu4O3oUocLdEy.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/j7nIfAMiVF88layu4O3oUocLdEy.jpg",
+      "duracion": 53
     },
     "S01E03": {
       "nombre": "Maid (Episode 3)",
       "titulo": "Sea Glass",
-      "foto": "https://image.tmdb.org/t/p/w500/G9aF7CouxyHhkoOIafEgFzCSc2.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/G9aF7CouxyHhkoOIafEgFzCSc2.jpg",
+      "duracion": 48
     },
     "S01E04": {
       "nombre": "Maid (Episode 4)",
       "titulo": "Cashmere",
-      "foto": "https://image.tmdb.org/t/p/w500/4nXVSsIW7HHr0VxlrTkan2ans2S.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/4nXVSsIW7HHr0VxlrTkan2ans2S.jpg",
+      "duracion": 48
     },
     "S01E05": {
       "nombre": "Maid (Episode 5)",
       "titulo": "Thief",
-      "foto": "https://image.tmdb.org/t/p/w500/zGuBOOED7VZne0JlhBPSqCpx6mB.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/zGuBOOED7VZne0JlhBPSqCpx6mB.jpg",
+      "duracion": 60
     },
     "S01E06": {
       "nombre": "Maid (Episode 6)",
       "titulo": "M",
-      "foto": "https://image.tmdb.org/t/p/w500/pWVVfP0Dj3qJfXiHTgxzGAKAxY3.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/pWVVfP0Dj3qJfXiHTgxzGAKAxY3.jpg",
+      "duracion": 58
     },
     "S01E07": {
       "nombre": "Maid (Episode 7)",
       "titulo": "String Cheese",
-      "foto": "https://image.tmdb.org/t/p/w500/mAEMjStdIDNO0Jb9gOxZXcqUpGq.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/mAEMjStdIDNO0Jb9gOxZXcqUpGq.jpg",
+      "duracion": 54
     },
     "S01E08": {
       "nombre": "Maid (Episode 8)",
       "titulo": "Bear Hunt",
-      "foto": "https://image.tmdb.org/t/p/w500/hsvarVhEVnm58gpavdM3i3xRNnY.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/hsvarVhEVnm58gpavdM3i3xRNnY.jpg",
+      "duracion": 60
     },
     "S01E09": {
       "nombre": "Maid (Episode 9)",
       "titulo": "Sky Blue",
-      "foto": "https://image.tmdb.org/t/p/w500/cCDqFu6USJapxSSjEb3l3XFKbWM.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/cCDqFu6USJapxSSjEb3l3XFKbWM.jpg",
+      "duracion": 60
     },
     "S01E10": {
       "nombre": "Maid (Episode 10)",
       "titulo": "Snaps",
-      "foto": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/mym3G9V33BFUP4wPGlRwzUeGFbQ.jpg",
+      "duracion": 54
     }
   }
 }

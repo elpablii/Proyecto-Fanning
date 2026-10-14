@@ -9,3 +9,12 @@ export function porcentaje(n: number | null | undefined, decimales = 2): string 
   const [entero, fraccion] = n.toFixed(decimales).split('.');
   return `${miles(Number(entero))}${fraccion ? ',' + fraccion : ''}%`;
 }
+
+// Duración en minutos: 97 -> "1 h 37 min", 45 -> "45 min", 600 -> "10 h". null -> "—".
+export function duracion(minutos: number | null | undefined): string {
+  if (!minutos) return '—';
+  const h = Math.floor(minutos / 60);
+  const m = Math.round(minutos % 60);
+  if (!h) return `${m} min`;
+  return m ? `${miles(h)} h ${m} min` : `${miles(h)} h`;
+}

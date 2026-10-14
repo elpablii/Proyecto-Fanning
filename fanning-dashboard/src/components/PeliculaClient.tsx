@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
-import { BookOpen, Film, Info, Layers, Quote } from 'lucide-react';
-import { miles, porcentaje } from '@/lib/formato';
+import { BookOpen, Clock, Film, Info, Layers, Quote } from 'lucide-react';
+import { duracion, miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import { MovieStats } from '@/types/manifest';
 import { ExtraData } from '@/types/media';
@@ -43,6 +43,14 @@ export default function PeliculaClient({ movieData, extraData }: { movieData: Mo
                 <p className="text-xs text-cyan-300 uppercase tracking-wider font-semibold">Comprensión</p>
               </div>
             </>
+          )}
+          {movieData.duration && (
+            <div className="bg-sky-900/40 border border-sky-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50"
+              title={extraData?.durationEstimated ? 'Estimada con los subtítulos' : undefined}>
+              <Clock size={24} className="mx-auto text-sky-400 mb-2" />
+              <p className="text-2xl font-bold text-white">{extraData?.durationEstimated ? '≈ ' : ''}{duracion(movieData.duration)}</p>
+              <p className="text-xs text-sky-300 uppercase tracking-wider font-semibold">Duración</p>
+            </div>
           )}
         </div>
       </MediaHero>

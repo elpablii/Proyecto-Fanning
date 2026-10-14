@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useMemo, useState } from 'react';
-import { BookOpen, Film, PlayCircle, Quote } from 'lucide-react';
-import { miles, porcentaje } from '@/lib/formato';
+import { BookOpen, Clock, Film, PlayCircle, Quote } from 'lucide-react';
+import { duracion, miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import { MovieStats } from '@/types/manifest';
 import { ExtraData, VocabItem } from '@/types/media';
@@ -69,6 +69,11 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
           {totalDialogos > 0 && (
             <span className="flex items-center gap-2 bg-emerald-600/30 border border-emerald-400/30 text-emerald-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
               <Film size={20} /> {miles(totalDialogos)} Líneas Totales de la Serie
+            </span>
+          )}
+          {movieData.duration && (
+            <span className="flex items-center gap-2 bg-sky-600/30 border border-sky-400/30 text-sky-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
+              <Clock size={16} className="sm:w-5 sm:h-5" /> {extraData?.durationEstimated ? '≈ ' : ''}{duracion(movieData.duration)} de visionado
             </span>
           )}
         </div>
@@ -172,6 +177,12 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
                         {miles(ep.count)} <span className="text-sm font-medium text-gray-500">palabras</span>
                       </span>
                     </div>
+                    {ep.duration && (
+                      <div className="flex items-center justify-between">
+                        <span className="text-gray-400 text-sm">Duración:</span>
+                        <span className="text-sky-300 font-semibold text-sm">{extraEp?.durationEstimated ? '≈ ' : ''}{duracion(ep.duration)}</span>
+                      </div>
+                    )}
                     {pct !== null && (
                       <>
                         <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/10">

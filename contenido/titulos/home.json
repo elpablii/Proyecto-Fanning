@@ -2,6 +2,7 @@
   "titulo": "Home",
   "tipo": "pelicula",
   "clasificacion": "+14",
+  "duracion": 95,
   "tmdb": {
     "tipo": "movie",
     "id": 62320

@@ -34,72 +34,86 @@
     "S01E01": {
       "nombre": "Pan Am (Episode 1)",
       "titulo": "Pilot",
-      "foto": "https://image.tmdb.org/t/p/w500/kPfqCdmiPEKN45GU8uH5m0yLCXr.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/kPfqCdmiPEKN45GU8uH5m0yLCXr.jpg",
+      "duracion": 43
     },
     "S01E02": {
       "nombre": "Pan Am (Episode 2)",
       "titulo": "We'll Always Have Paris",
-      "foto": "https://image.tmdb.org/t/p/w500/6G1n620z6hpI3xu8GSm6tJH8rU9.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/6G1n620z6hpI3xu8GSm6tJH8rU9.jpg",
+      "duracion": 43
     },
     "S01E03": {
       "nombre": "Pan Am (Episode 3)",
       "titulo": "Ich Bin Ein Berliner",
-      "foto": "https://image.tmdb.org/t/p/w500/d1iUAbBnh0Phd7MCgU36I0hdOhT.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/d1iUAbBnh0Phd7MCgU36I0hdOhT.jpg",
+      "duracion": 43
     },
     "S01E04": {
       "nombre": "Pan Am (Episode 4)",
       "titulo": "Eastern Exposure",
-      "foto": "https://image.tmdb.org/t/p/w500/Abn7vhJKcrPIpMZc8MMHoFRBcDL.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/Abn7vhJKcrPIpMZc8MMHoFRBcDL.jpg",
+      "duracion": 43
     },
     "S01E05": {
       "nombre": "Pan Am (Episode 5)",
       "titulo": "One Coin in a Fountain",
-      "foto": "https://image.tmdb.org/t/p/w500/iLmHhSB2gZpnGtPJrfdtkyWxwA5.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/iLmHhSB2gZpnGtPJrfdtkyWxwA5.jpg",
+      "duracion": 43
     },
     "S01E06": {
       "nombre": "Pan Am (Episode 6)",
       "titulo": "The Genuine Article",
-      "foto": "https://image.tmdb.org/t/p/w500/4HQGrdTribcv6bAmbVK9KwuqkBf.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/4HQGrdTribcv6bAmbVK9KwuqkBf.jpg",
+      "duracion": 43
     },
     "S01E07": {
       "nombre": "Pan Am (Episode 7)",
       "titulo": "Truth or Dare",
-      "foto": "https://image.tmdb.org/t/p/w500/o3EsaXqNYbV2ShkgJrqPSGZlSll.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/o3EsaXqNYbV2ShkgJrqPSGZlSll.jpg",
+      "duracion": 43
     },
     "S01E08": {
       "nombre": "Pan Am (Episode 8)",
       "titulo": "Unscheduled Departure",
-      "foto": "https://image.tmdb.org/t/p/w500/fVZNbK7ag5Z3sG0tnXK83bPKhkX.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/fVZNbK7ag5Z3sG0tnXK83bPKhkX.jpg",
+      "duracion": 43
     },
     "S01E09": {
       "nombre": "Pan Am (Episode 9)",
       "titulo": "Kiss Kiss Bang Bang",
-      "foto": "https://image.tmdb.org/t/p/w500/nnEBcU4d8JwqMFFxX0TrF9MVs1B.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/nnEBcU4d8JwqMFFxX0TrF9MVs1B.jpg",
+      "duracion": 43
     },
     "S01E10": {
       "nombre": "Pan Am (Episode 10)",
       "titulo": "Secrets and Lies",
-      "foto": "https://image.tmdb.org/t/p/w500/kwkWo2bAbLl3iu0yjA4knZBd2pX.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/kwkWo2bAbLl3iu0yjA4knZBd2pX.jpg",
+      "duracion": 43
     },
     "S01E11": {
       "nombre": "Pan Am (Episode 11)",
       "titulo": "Diplomatic Relations",
-      "foto": "https://image.tmdb.org/t/p/w500/rAow048aQWiWz3hGkISMP6uZnnr.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/rAow048aQWiWz3hGkISMP6uZnnr.jpg",
+      "duracion": 43
     },
     "S01E12": {
       "nombre": "Pan Am (Episode 12)",
       "titulo": "New Frontiers",
-      "foto": "https://image.tmdb.org/t/p/w500/2vdL4CiuSrpsG2JSKH9DZzvVFTK.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/2vdL4CiuSrpsG2JSKH9DZzvVFTK.jpg",
+      "duracion": 43
     },
     "S01E13": {
       "nombre": "Pan Am (Episode 13)",
       "titulo": "Romance Languages",
-      "foto": "https://image.tmdb.org/t/p/w500/eDti04ymxGJViQJ6WtuFUKsHlz3.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/eDti04ymxGJViQJ6WtuFUKsHlz3.jpg",
+      "duracion": 43
     },
     "S01E14": {
       "nombre": "Pan Am (Episode 14)",
       "titulo": "1964",
-      "foto": "https://image.tmdb.org/t/p/w500/eTWCdP7U9ERiOqDkGCL8QqGLDtc.jpg"
+      "foto": "https://image.tmdb.org/t/p/w500/eTWCdP7U9ERiOqDkGCL8QqGLDtc.jpg",
+      "duracion": 43
     }
   }
 }

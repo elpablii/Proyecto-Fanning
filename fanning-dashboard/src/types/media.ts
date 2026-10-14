@@ -32,6 +32,8 @@ export interface ExtraEpisode {
   vocabulary: VocabItem[];
   count: number;
   dialogues: number;
+  duration?: number | null;       // minutos
+  durationEstimated?: boolean;    // sin dato de TMDB: se usó el último subtítulo
 }
 
 export interface ExtraData {
@@ -50,4 +52,6 @@ export interface ExtraData {
   episodes?: ExtraEpisode[];  // series
   count: number;
   dialogues: number;
+  duration?: number | null;
+  durationEstimated?: boolean;
 }
