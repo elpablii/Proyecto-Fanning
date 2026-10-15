@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { BookOpen, Clock, Film, Info, Layers, Quote } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
+import { tmdb } from '@/lib/tmdb';
 import { MovieStats } from '@/types/manifest';
 import { ExtraData } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
@@ -85,9 +86,9 @@ export default function PeliculaClient({ movieData, extraData }: { movieData: Mo
                   <div
                     key={url}
                     className="aspect-video rounded-xl overflow-hidden shadow-lg border border-white/10 group cursor-pointer"
-                    onClick={() => setImagen(url.replace('w780', 'original'))}
+                    onClick={() => setImagen(tmdb(url, 'original'))}
                   >
-                    <img src={url} alt={`Foto ${i + 1} de ${movieData.title}`} loading="lazy" className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" />
+                    <img src={url} alt={`Foto ${i + 1} de ${movieData.title}`} width={780} height={439} loading="lazy" decoding="async" className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" />
                   </div>
                 ))}
               </div>

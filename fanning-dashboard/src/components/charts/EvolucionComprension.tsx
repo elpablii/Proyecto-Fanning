@@ -1,9 +1,6 @@
 "use client";
 
-import { useMemo } from 'react';
-import {
-  CartesianGrid, Line, LineChart, ReferenceArea, ResponsiveContainer, Tooltip, XAxis, YAxis,
-} from 'recharts';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Clock, Flag, Sparkles } from 'lucide-react';
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
@@ -47,17 +44,104 @@ interface Punto {
   tendencia: number | null;
 }
 
-function Detalle({ active, payload }: { active?: boolean; payload?: { payload: Punto }[] }) {
-  if (!active || !payload?.length) return null;
-  const p = payload[0].payload;
+function Detalle({ p }: { p: Punto }) {
   return (
-    <div className="bg-gray-950/95 border border-gray-700 rounded-xl p-3 shadow-xl max-w-64 text-sm">
+    <div className="bg-gray-950/95 border border-gray-700 rounded-xl p-3 shadow-xl text-sm">
       <p className="font-semibold text-white">{p.title}</p>
       <p className="text-xs text-gray-500 mb-2">{p.date}</p>
       <p className="text-gray-300">Comprensión: <span className="font-semibold text-white">{porcentaje(p.comprension)}</span></p>
       <p className="text-gray-300">Tendencia: <span className="font-semibold text-white">{porcentaje(p.tendencia)}</span></p>
       <p className="text-gray-400">{miles(p.palabras)} palabras</p>
       <p className="text-xs text-gray-500 mt-2 line-clamp-3">{p.titulos.join(' · ')}</p>
+    </div>
+  );
+}
+
+// Marcas "redondas" de un eje (pasos de 1, 2 o 5 por potencia de 10), enteras.
+function marcas(desde: number, hasta: number, cuantas: number): number[] {
+  const crudo = Math.max(1, (hasta - desde) / cuantas);
+  const base = 10 ** Math.floor(Math.log10(crudo));
+  const paso = [1, 2, 5, 10].map(f => f * base).find(p => p >= crudo) ?? crudo;
+  const lista: number[] = [];
+  for (let v = Math.ceil(desde / paso) * paso; v <= hasta; v += paso) lista.push(v);
+  return lista;
+}
+
+const ALTO = 288;  // h-72
+const MARGEN = { arriba: 8, derecha: 8, abajo: 24, izquierda: 40 };
+
+// Gráfico de puntos (cada tanda) + línea de tendencia, dibujado a mano en SVG: antes era
+// Recharts, que sumaba unos 107 KB comprimidos de JavaScript solo para este gráfico.
+function Grafico({ puntos, piso, techo, rango }: { puntos: Punto[]; piso: number; techo: number; rango: Punto[] | null }) {
+  const caja = useRef<HTMLDivElement>(null);
+  const [ancho, setAncho] = useState(640);  // hasta medir la caja, el SVG se escala solo (viewBox)
+  const [activo, setActivo] = useState<Punto | null>(null);
+
+  useEffect(() => {
+    const el = caja.current;
+    if (!el) return;
+    const observador = new ResizeObserver(([e]) => setAncho(Math.max(200, e.contentRect.width)));
+    observador.observe(el);
+    return () => observador.disconnect();
+  }, []);
+
+  const n0 = puntos[0].n;
+  const n1 = puntos.at(-1)!.n;
+  const x = (n: number) => MARGEN.izquierda + (n1 === n0 ? 0.5 : (n - n0) / (n1 - n0)) * (ancho - MARGEN.izquierda - MARGEN.derecha);
+  const y = (v: number) => MARGEN.arriba + (1 - (v - piso) / (techo - piso || 1)) * (ALTO - MARGEN.arriba - MARGEN.abajo);
+
+  // La tendencia se corta donde falta el dato, en vez de unir los extremos.
+  const tendencia = puntos.reduce((d, p, i) => {
+    if (p.tendencia === null) return d;
+    const previo = i > 0 && puntos[i - 1].tendencia !== null;
+    return `${d}${previo ? 'L' : 'M'}${x(p.n).toFixed(1)},${y(p.tendencia).toFixed(1)}`;
+  }, '');
+
+  // El cursor (o el dedo) elige la tanda más cercana en el eje horizontal. En pantallas táctiles
+  // el detalle queda abierto al levantar el dedo (ahí el puntero "sale" apenas termina el toque).
+  const alMover = (e: React.PointerEvent<SVGSVGElement>) => {
+    const limites = e.currentTarget.getBoundingClientRect();
+    const px = (e.clientX - limites.left) * (ancho / limites.width);
+    setActivo(puntos.reduce((a, p) => (Math.abs(x(p.n) - px) < Math.abs(x(a.n) - px) ? p : a)));
+  };
+
+  const xActivo = activo ? x(activo.n) : 0;
+  // El recuadro va al lado del punto, del lado con más espacio, sin salirse del gráfico.
+  const anchoDetalle = Math.min(256, ancho);
+  const izquierdaDetalle = Math.max(0, Math.min(ancho - anchoDetalle,
+    xActivo > ancho / 2 ? xActivo - 12 - anchoDetalle : xActivo + 12));
+  return (
+    <div ref={caja} className="relative h-full w-full">
+      <svg viewBox={`0 0 ${ancho} ${ALTO}`} className="w-full h-full touch-pan-y" onPointerMove={alMover} onPointerDown={alMover}
+        onPointerLeave={e => e.pointerType === 'mouse' && setActivo(null)}>
+        {marcas(piso, techo, 5).map(v => (
+          <g key={v}>
+            <line x1={MARGEN.izquierda} x2={ancho - MARGEN.derecha} y1={y(v)} y2={y(v)} stroke="#1F2937" />
+            <text x={MARGEN.izquierda - 8} y={y(v)} dy="0.32em" textAnchor="end" fontSize={12} fill="#6B7280">{v}%</text>
+          </g>
+        ))}
+        {marcas(n0, n1, Math.max(2, Math.floor(ancho / 80))).map(n => (
+          <text key={n} x={x(n)} y={ALTO - 6} textAnchor="middle" fontSize={12} fill="#6B7280">{n}°</text>
+        ))}
+        {rango && rango.length > 0 && (
+          <rect x={x(rango[0].n)} y={MARGEN.arriba} width={Math.max(1, x(rango.at(-1)!.n) - x(rango[0].n))}
+            height={ALTO - MARGEN.arriba - MARGEN.abajo} fill="#A855F7" fillOpacity={0.08} stroke="#A855F7" strokeOpacity={0.25} />
+        )}
+        {activo && <line x1={xActivo} x2={xActivo} y1={MARGEN.arriba} y2={ALTO - MARGEN.abajo} stroke="#4B5563" />}
+        {puntos.map(p => p.comprension !== null && (
+          <circle key={p.n} cx={x(p.n)} cy={y(p.comprension)} r={3} fill="#6B7280" stroke="#111827" strokeWidth={1} />
+        ))}
+        <path d={tendencia} fill="none" stroke="#C084FC" strokeWidth={2.5} strokeLinejoin="round" strokeLinecap="round" />
+        {activo?.comprension != null && (
+          <circle cx={xActivo} cy={y(activo.comprension)} r={5} fill="#E5E7EB" stroke="#111827" strokeWidth={2} />
+        )}
+      </svg>
+      {activo && (
+        <div className="absolute top-2 pointer-events-none z-10"
+          style={{ left: `${(izquierdaDetalle / ancho) * 100}%`, width: anchoDetalle }}>
+          <Detalle p={activo} />
+        </div>
+      )}
     </div>
   );
 }
@@ -111,8 +195,8 @@ export default function EvolucionComprension({ tandas, anio }: { tandas: TandaRe
   const mejor = delPeriodo.reduce<TandaResumen | null>((a, t) => (!a || (comprensionDe([t]) ?? 0) > (comprensionDe([a]) ?? 0) ? t : a), null);
 
   const valores = puntos.map(p => p.comprension).filter((v): v is number => v !== null);
-  const piso = Math.floor(Math.min(...valores) - 1);
-  const techo = Math.min(100, Math.ceil(Math.max(...valores) + 1));
+  const piso = valores.length ? Math.floor(Math.min(...valores) - 1) : 0;
+  const techo = valores.length ? Math.min(100, Math.ceil(Math.max(...valores) + 1)) : 100;
   const rango = anio === 'all' ? null : puntos.filter(p => p.anio === anio);
 
   if (!puntos.length) return null;
@@ -144,25 +228,9 @@ export default function EvolucionComprension({ tandas, anio }: { tandas: TandaRe
           {rango && <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-sm bg-purple-500/15 border border-purple-500/30" /> Ciclo {anio}</span>}
         </div>
         <div className="h-72 w-full" role="img" aria-label="Comprensión por tanda y su tendencia">
-          <ResponsiveContainer width="100%" height="100%">
-            <LineChart data={puntos} margin={{ top: 8, right: 8, bottom: 0, left: -12 }}>
-              <CartesianGrid stroke="#1F2937" vertical={false} />
-              {rango && rango.length > 0 && (
-                <ReferenceArea x1={rango[0].n} x2={rango.at(-1)!.n} fill="#A855F7" fillOpacity={0.08} stroke="#A855F7" strokeOpacity={0.25} />
-              )}
-              <XAxis dataKey="n" type="number" domain={[puntos[0].n, puntos.at(-1)!.n]} stroke="#6B7280" axisLine={false} tickLine={false}
-                tick={{ fontSize: 12 }} allowDecimals={false} tickFormatter={(n: number) => `${n}°`} />
-              <YAxis domain={[piso, techo]} stroke="#6B7280" axisLine={false} tickLine={false} tick={{ fontSize: 12 }}
-                tickFormatter={(v: number) => `${v}%`} allowDecimals={false} />
-              <Tooltip content={<Detalle />} cursor={{ stroke: '#4B5563', strokeWidth: 1 }} />
-              <Line dataKey="comprension" stroke="transparent" isAnimationActive={false}
-                dot={{ r: 3, fill: '#6B7280', stroke: '#111827', strokeWidth: 1 }}
-                activeDot={{ r: 5, fill: '#E5E7EB', stroke: '#111827', strokeWidth: 2 }} />
-              <Line dataKey="tendencia" stroke="#C084FC" strokeWidth={2.5} dot={false} activeDot={false} isAnimationActive={false} />
-            </LineChart>
-          </ResponsiveContainer>
+          <Grafico puntos={puntos} piso={piso} techo={techo} rango={rango} />
         </div>
-        <p className="text-xs text-gray-500 mt-1">Eje horizontal: número de tanda. Pasa el cursor sobre un punto para ver la tanda.</p>
+        <p className="text-xs text-gray-500 mt-1">Eje horizontal: número de tanda. Pasa el cursor (o toca) sobre el gráfico para ver cada tanda.</p>
       </div>
 
       {/* Datos que dan escala */}

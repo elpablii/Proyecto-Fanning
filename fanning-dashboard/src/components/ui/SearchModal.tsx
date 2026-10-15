@@ -3,15 +3,16 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Search, Film, Tv, X } from 'lucide-react';
-import { MovieStats } from '@/types/manifest';
+import { TituloResumen } from '@/types/manifest';
 import { miles } from '@/lib/formato';
+import { tmdb } from '@/lib/tmdb';
 
 // Minúsculas y sin tildes, para que "intensamente" encuentre "Intensamente" y "amsterdam" encuentre "Ámsterdam".
 function normalizar(texto: string): string {
   return texto.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9ñ]+/g, ' ').trim();
 }
 
-function rutaDe(item: MovieStats): string {
+function rutaDe(item: TituloResumen): string {
   return item.type === 'series'
     ? `/series/${encodeURIComponent(item.title)}`
     : `/peliculas/${encodeURIComponent(item.title)}`;
@@ -19,7 +20,7 @@ function rutaDe(item: MovieStats): string {
 
 type Filtro = 'todo' | 'movie' | 'series';
 
-export default function SearchModal({ items, onClose }: { items: MovieStats[]; onClose: () => void }) {
+export default function SearchModal({ items, onClose }: { items: TituloResumen[]; onClose: () => void }) {
   const router = useRouter();
   const [consulta, setConsulta] = useState('');
   const [filtro, setFiltro] = useState<Filtro>('todo');
@@ -44,12 +45,12 @@ export default function SearchModal({ items, onClose }: { items: MovieStats[]; o
         const empieza = nombres.some(n => n.startsWith(q));
         return { item, puntaje: empieza ? 2 : 1 };
       })
-      .filter((r): r is { item: MovieStats; puntaje: number } => r !== null)
+      .filter((r): r is { item: TituloResumen; puntaje: number } => r !== null)
       .sort((a, b) => b.puntaje - a.puntaje || a.item.title.localeCompare(b.item.title, 'es'))
       .map(r => r.item);
   }, [consulta, filtro, items]);
 
-  const abrir = (item: MovieStats) => {
+  const abrir = (item: TituloResumen) => {
     onClose();
     router.push(rutaDe(item));
   };
@@ -118,7 +119,7 @@ export default function SearchModal({ items, onClose }: { items: MovieStats[]; o
                   className={`w-full flex items-center gap-3 px-4 py-2 text-left transition ${i === activo ? 'bg-purple-600/20' : 'hover:bg-gray-800'}`}
                 >
                   {item.posterUrl ? (
-                    <img src={item.posterUrl.replace('/w500/', '/w92/')} alt="" className="w-10 h-14 object-cover rounded shrink-0" loading="lazy" />
+                    <img src={tmdb(item.posterUrl, 'w92')} alt="" width={92} height={138} decoding="async" className="w-10 h-14 object-cover rounded shrink-0" loading="lazy" />
                   ) : (
                     <div className="w-10 h-14 rounded bg-gray-800 flex items-center justify-center shrink-0"><Film size={16} className="text-gray-600" /></div>
                   )}

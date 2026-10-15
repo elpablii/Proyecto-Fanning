@@ -1,4 +1,4 @@
-// Tipos de public/data/pelis/<título>.json (lo genera `python fanning.py actualizar`).
+// Tipos de data/pelis/<título>.json (lo genera `python fanning.py actualizar`).
 
 // Nivel de inglés (MCER) calculado por scripts/metricas/nivel.py.
 export interface NivelDetalle {
@@ -35,6 +35,15 @@ export interface ExtraEpisode {
   duration?: number | null;       // minutos
   durationEstimated?: boolean;    // sin dato de TMDB: se usó el último subtítulo
 }
+
+// Episodio tal como llega a la página de la serie: sin su vocabulario (se pide al estudiar,
+// ver app/series/[slug]/vocabulario/route.ts) ni el detalle del nivel, que la página no usa.
+export type EpisodioResumen = Omit<ExtraEpisode, 'vocabulary' | 'levelDetail'> & { palabras: number };
+
+export type SerieExtra = Omit<ExtraData, 'episodes' | 'vocabulary'> & { episodes?: EpisodioResumen[] };
+
+// Vocabulario de una serie por código de episodio ("S02E01").
+export type VocabularioSerie = Record<string, VocabItem[]>;
 
 export interface ExtraData {
   title: string;

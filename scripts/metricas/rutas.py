@@ -1,7 +1,8 @@
 import os
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
-DATA = os.path.join(RAIZ, 'fanning-dashboard', 'public', 'data')
+# Fuera de public/: la página lo lee en el build, no hace falta publicarlo tal cual.
+DATA = os.path.join(RAIZ, 'fanning-dashboard', 'data')
 REPORTE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'reporte_ultima_actualizacion.md')
 # Los años salen de las carpetas de Vocabularios/ (2023, 2024, ...): un año nuevo no requiere tocar código.
 ANIOS = sorted(d for d in os.listdir(os.path.join(RAIZ, 'Vocabularios'))

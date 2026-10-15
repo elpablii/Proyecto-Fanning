@@ -8,7 +8,7 @@ Fuentes (lo único que se edita a mano):
 Este comando:
   1. Valida las fichas; si alguna tiene un error, se detiene y explica qué corregir.
   2. Cuenta palabras/frases y líneas de diálogo con los criterios de Metodología/.
-  3. Genera fanning-dashboard/public/data/: pelis/<título>.json, <año>/vocabulario_*.json,
+  3. Genera fanning-dashboard/data/: pelis/<título>.json, <año>/vocabulario_*.json,
      manifest.json y timeline.json. Todo eso es generado: no se edita a mano.
   4. Borra los datos generados de títulos que ya no tienen ficha.
   5. Deja un reporte de qué cambió en scripts/metricas/reporte_ultima_actualizacion.md
@@ -220,7 +220,7 @@ def nivel_mostrado(fijo, calculado):
 
 
 def datos_pagina(ficha, res):
-    """Contenido de public/data/pelis/<título>.json, generado solo desde la ficha y el conteo."""
+    """Contenido de data/pelis/<título>.json, generado solo desde la ficha y el conteo."""
     limpiar = lambda e: {'word': e['word'], 'translation': e['translation']}  # noqa: E731
     datos = {
         'title': ficha['titulo'],

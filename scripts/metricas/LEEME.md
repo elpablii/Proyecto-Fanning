@@ -7,7 +7,7 @@ Hay dos zonas que no se mezclan:
 | `contenido/titulos/*.json` | Una **ficha** por película o serie: clasificación, id de TMDB, análisis, imágenes, PDFs y datos de cada episodio (el nivel de inglés se calcula, no se escribe) | **Sí** |
 | `contenido/tandas.json` | La línea de tiempo (tandas y fechas) | **Sí** |
 | `Vocabularios/` y `Diálogos/` | Los PDFs, la fuente de verdad de las palabras y las líneas | Sí (se corrigen los PDFs) |
-| `fanning-dashboard/public/data/` | Todo lo que lee la página | **No**: se genera |
+| `fanning-dashboard/data/` | Todo lo que lee la página | **No**: se genera |
 
 Las palabras y las líneas se cuentan con los criterios de `Metodología/`:
 

@@ -21,7 +21,7 @@ Vercel la publica sola al subir los cambios a `main`.
 
 ## De dónde salen los datos
 
-Todo lo que muestra la página está en `public/data/` y lo genera `python fanning.py actualizar` desde la raíz del repositorio, a partir de las fichas de `contenido/` y los PDFs. **No se edita a mano**: el próximo `actualizar` lo vuelve a escribir.
+Todo lo que muestra la página está en `data/` y lo genera `python fanning.py actualizar` desde la raíz del repositorio, a partir de las fichas de `contenido/` y los PDFs. **No se edita a mano**: el próximo `actualizar` lo vuelve a escribir.
 
 Para agregar o quitar películas y series, ver el `README.md` de la raíz.
 
@@ -36,4 +36,4 @@ Para agregar o quitar películas y series, ver el `README.md` de la raíz.
 | `src/app/reglas/` | Reglas del proyecto |
 | `src/components/` | Componentes de cada página y `ui/` (tarjetas, flashcards, buscador) |
 | `src/lib/formato.ts` | Formato de números (punto de miles) |
-| `src/types/manifest.ts` | Tipos de los datos de `public/data/manifest.json` |
+| `src/types/manifest.ts` | Tipos de los datos de `data/manifest.json` |

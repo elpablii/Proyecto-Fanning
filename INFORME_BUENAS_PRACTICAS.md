@@ -318,7 +318,7 @@ contenido/                      ← lo ÚNICO que se edita a mano
 Vocabularios/<año>/*.pdf        ← igual que hoy
 Diálogos/.../*.pdf              ← igual que hoy
 
-fanning-dashboard/public/data/  ← todo generado; nunca se edita a mano
+fanning-dashboard/data/  ← todo generado; nunca se edita a mano
 ```
 
 Ejemplo de ficha:

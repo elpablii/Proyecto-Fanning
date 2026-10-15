@@ -9,32 +9,32 @@ import { comprension } from '@/lib/stats';
 import MovieCard from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
 import EvolucionComprension, { type TandaResumen } from '@/components/charts/EvolucionComprension';
-import { ManifestData, ManifestYear } from '@/types/manifest';
+import { PortadaAnio, PortadaData } from '@/types/manifest';
 
-const VACIO: ManifestYear = {
+const VACIO: PortadaAnio = {
   totalWords: 0, totalDialogues: 0, uniqueMovies: 0,
   topWord: { word: 'N/A', count: 0, translation: '' }, topList: [], movieList: [],
 };
 
-function aniosDisponibles(manifestData: ManifestData): string[] {
-  return ['all', ...Object.keys(manifestData).filter(k => k !== 'all' && k !== 'yearlyData').sort()];
+function aniosDisponibles(portada: PortadaData): string[] {
+  return ['all', ...Object.keys(portada).filter(k => k !== 'all').sort()];
 }
 
 // Lee el año elegido de la URL (?year=2025), así se puede compartir o recargar.
 // Necesita estar dentro de <Suspense> (ver app/page.tsx).
-export default function DashboardClient({ manifestData, tandas }: { manifestData: ManifestData; tandas: TandaResumen[] }) {
+export default function DashboardClient({ portada, tandas }: { portada: PortadaData; tandas: TandaResumen[] }) {
   const pedido = useSearchParams().get('year') ?? 'all';
-  const anio = aniosDisponibles(manifestData).includes(pedido) ? pedido : 'all';
-  return <DashboardVista manifestData={manifestData} tandas={tandas} selectedYear={anio} />;
+  const anio = aniosDisponibles(portada).includes(pedido) ? pedido : 'all';
+  return <DashboardVista portada={portada} tandas={tandas} selectedYear={anio} />;
 }
 
 // La portada para un año dado. También es lo que se genera en el build (con el histórico).
-export function DashboardVista({ manifestData, tandas, selectedYear }: { manifestData: ManifestData; tandas: TandaResumen[]; selectedYear: string }) {
+export function DashboardVista({ portada, tandas, selectedYear }: { portada: PortadaData; tandas: TandaResumen[]; selectedYear: string }) {
   const router = useRouter();
   const [showSearch, setShowSearch] = useState(false);
-  const availableYears = useMemo(() => aniosDisponibles(manifestData), [manifestData]);
+  const availableYears = useMemo(() => aniosDisponibles(portada), [portada]);
 
-  const stats = (manifestData[selectedYear] as ManifestYear | undefined) ?? VACIO;
+  const stats = portada[selectedYear] ?? VACIO;
   const pctAnual = comprension(stats.totalDialogues, stats.totalWords);
 
   const elegirAnio = (year: string) => {
@@ -69,7 +69,7 @@ export function DashboardVista({ manifestData, tandas, selectedYear }: { manifes
             <Calendar size={16} /> Línea de Tiempo
           </button>
           <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
-            <BookOpen size={16} /> Reglas del Proyecto
+            <BookOpen size={16} /> Constitución del Proyecto Fanning
           </button>
           <button onClick={() => setShowSearch(true)} title="Buscar (Ctrl + K)" className="flex-1 sm:flex-none justify-center bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
             <Search size={16} /> Buscar
@@ -78,7 +78,7 @@ export function DashboardVista({ manifestData, tandas, selectedYear }: { manifes
       </header>
 
       {showSearch && (
-        <SearchModal items={(manifestData.all as ManifestYear | undefined)?.movieList ?? []} onClose={() => setShowSearch(false)} />
+        <SearchModal items={portada.all?.movieList ?? []} onClose={() => setShowSearch(false)} />
       )}
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">

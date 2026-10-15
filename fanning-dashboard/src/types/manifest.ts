@@ -44,6 +44,17 @@ export interface ManifestYear {
   movieList: MovieStats[];
 }
 
+// Lo que la portada necesita de cada título: sin episodios ni fondos, para no mandar el
+// manifest entero al navegador. `aliases` y `years` solo van en el histórico (los usa el buscador).
+export type TituloResumen = Pick<MovieStats, 'title' | 'count' | 'type' | 'dialogues' | 'posterUrl' | 'level' | 'rating' | 'aliases' | 'years'>;
+
+export interface PortadaAnio extends Omit<ManifestYear, 'movieList'> {
+  movieList: TituloResumen[];
+}
+
+// "all" y cada ciclo ("2025"…), ver getPortada() en lib/data.ts.
+export type PortadaData = Record<string, PortadaAnio>;
+
 export interface ManifestData {
   yearlyData?: YearlyData[];
   all?: ManifestYear;

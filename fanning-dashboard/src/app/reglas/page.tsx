@@ -12,10 +12,11 @@ import { duracion, miles, porcentaje } from '@/lib/formato';
 
 export const metadata = {
   title: 'Constitución y Reglas - Proyecto Fanning',
-  description: 'Cómo funciona el Proyecto Fanning: sus reglas, la métrica de comprensión, la metodología de conteo y la Realeza.',
+  description: 'Qué es y cómo funciona el Proyecto Fanning: sus reglas, la métrica de comprensión, la metodología de conteo y la Realeza.',
 };
 
 const SECCIONES: Seccion[] = [
+  { id: 'proyecto', titulo: '¿Qué es el proyecto?' },
   { id: 'funcionamiento', titulo: 'Cómo funciona' },
   { id: 'pilares', titulo: 'I. Inmersión y elegibilidad' },
   { id: 'filtros', titulo: 'II. Filtros e indultos' },
@@ -161,6 +162,51 @@ export default function ReglasPage() {
         </aside>
 
         <main className="space-y-16 pt-6 lg:pt-0 min-w-0">
+          {/* ---------- Presentación ---------- */}
+          <section id="proyecto" className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
+            <h2 className="text-2xl sm:text-3xl font-bold text-white">¿Qué es el Proyecto Fanning?</h2>
+            <div className="text-gray-300 leading-relaxed space-y-3 max-w-3xl">
+              <p>
+                Es una forma de aprender inglés viendo películas y series que de verdad dan ganas de ver. Nada de
+                diálogos de libro de texto: inglés real, con sus acentos, su jerga y su velocidad, tal como se habla
+                en pantalla.
+              </p>
+              <p>
+                Desde el 15 de octubre de 2023, todo se ve en inglés con subtítulos en inglés, y cada palabra o
+                frase que no se entiende queda anotada con su traducción. Después se repasa, se cuenta y se mide.
+                Así, ver una película también es estudiar, y cada tanda deja un registro de lo que se aprendió.
+              </p>
+            </div>
+            <div className="rounded-2xl border border-purple-500/20 bg-purple-500/10 p-5 sm:p-6 space-y-2">
+              <h3 className="font-semibold text-white flex items-center gap-2">
+                <Heart className="w-4 h-4 text-purple-300" /> ¿Por qué «Fanning»?
+              </h3>
+              <p className="text-sm text-gray-300 leading-relaxed">
+                Por las hermanas <strong>Dakota y Elle Fanning</strong>, dos de las actrices favoritas del proyecto
+                y amores platónicos de <a href="#realeza" className="text-purple-300 underline underline-offset-2">la Realeza</a>.
+                El nombre resume la idea de fondo: se aprende mejor con las historias y las personas que uno admira.
+              </p>
+            </div>
+            <div className="grid sm:grid-cols-3 gap-3">
+              {[
+                { icono: Heart, titulo: 'Ver lo que gusta', texto: 'Las ganas de ver algo son el mejor motor. Por eso la Realeza tiene prioridad (Regla 5).' },
+                { icono: BookText, titulo: 'Anotar lo que cuesta', texto: 'Lo que no se entiende no se deja pasar: se anota, se traduce y se repasa.' },
+                { icono: Sparkles, titulo: 'Medir el avance', texto: 'Las líneas de diálogo y el vocabulario dan la comprensión y el nivel MCER de cada título.' },
+              ].map(idea => (
+                <div key={idea.titulo} className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-2">
+                  <h3 className="font-semibold text-white flex items-center gap-2">
+                    <idea.icono className="w-4 h-4 text-purple-300" /> {idea.titulo}
+                  </h3>
+                  <p className="text-sm text-gray-400 leading-relaxed">{idea.texto}</p>
+                </div>
+              ))}
+            </div>
+            <p className="text-gray-400 leading-relaxed max-w-3xl">
+              Esta constitución reúne las reglas del juego: qué se puede ver y cómo, a qué ritmo, cómo se mide lo
+              aprendido y quiénes tienen prioridad. Cada regla explica su porqué y trae ejemplos de las tandas reales.
+            </p>
+          </section>
+
           {/* ---------- Cómo funciona ---------- */}
           <section id="funcionamiento" className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
             <h2 className="text-2xl sm:text-3xl font-bold text-white">Cómo funciona</h2>

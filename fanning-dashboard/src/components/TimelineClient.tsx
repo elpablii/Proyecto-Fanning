@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { ArrowLeft, BookOpen, Calendar, CalendarClock, Clock, Film, Gift, Image as ImageIcon, PartyPopper, Sparkles, SplitSquareHorizontal, Tv } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import type { Ciclo, ItemTanda, Tanda } from '@/lib/data';
+import { tmdb } from '@/lib/tmdb';
 
 // Color según el % de comprensión
 function colorComprension(pct: number | null): string {
@@ -54,7 +55,7 @@ function TarjetaTitulo({ item }: { item: ItemTanda }) {
       className="group/item flex gap-3 bg-gray-950/60 rounded-xl p-2.5 border border-gray-800/70 hover:border-purple-500/50 hover:bg-gray-900/80 transition-all"
     >
       {item.poster ? (
-        <img src={item.poster.replace('/w500/', '/w185/')} alt={item.texto} loading="lazy"
+        <img src={tmdb(item.poster, 'w185')} alt={item.texto} width={185} height={278} loading="lazy" decoding="async"
           className="w-14 h-20 object-cover rounded-lg shadow-md shrink-0 group-hover/item:scale-105 transition-transform" />
       ) : (
         <div className="w-14 h-20 bg-gray-800 rounded-lg flex items-center justify-center text-gray-600 shrink-0">

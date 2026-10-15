@@ -1,11 +1,12 @@
-// Lectura de public/data/ en el servidor (en el build). Todo lo de esa carpeta lo genera
+// Lectura de data/ en el servidor (en el build). Todo lo de esa carpeta lo genera
 // `python fanning.py actualizar`; acá solo se lee.
 import fs from 'fs';
 import path from 'path';
-import { ManifestData, ManifestYear, MovieStats } from '@/types/manifest';
+import { ManifestData, ManifestYear, MovieStats, PortadaData } from '@/types/manifest';
 import { ExtraData } from '@/types/media';
 
-const DATA = path.join(process.cwd(), 'public', 'data');
+// No está en public/: solo se lee en el build y no se publica tal cual (la página manda lo que usa).
+const DATA = path.join(process.cwd(), 'data');
 
 function leer<T>(archivo: string): T | null {
   const ruta = path.join(DATA, archivo);
@@ -15,6 +16,24 @@ function leer<T>(archivo: string): T | null {
 
 export function getManifest(): ManifestData | null {
   return leer<ManifestData>('manifest.json');
+}
+
+// El manifest recortado a lo que muestra la portada (ver TituloResumen).
+export function getPortada(): PortadaData {
+  const manifest = getManifest() ?? {};
+  const portada: PortadaData = {};
+  for (const [anio, datos] of Object.entries(manifest)) {
+    if (anio === 'yearlyData' || !datos || Array.isArray(datos)) continue;
+    portada[anio] = {
+      ...datos,
+      movieList: datos.movieList.map(m => ({
+        title: m.title, count: m.count, type: m.type, dialogues: m.dialogues,
+        posterUrl: m.posterUrl, level: m.level, rating: m.rating,
+        ...(anio === 'all' && { aliases: m.aliases, years: m.years }),
+      })),
+    };
+  }
+  return portada;
 }
 
 export function getTodos(): MovieStats[] {

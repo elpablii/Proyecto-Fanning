@@ -1,5 +1,6 @@
 import React from 'react';
 import { Film } from 'lucide-react';
+import { tmdb } from '@/lib/tmdb';
 
 // Póster + título de una película o serie. Debajo del título va lo que se pase como hijos (cifras).
 export default function MediaHero({ title, posterUrl, onPosterClick, children }: {
@@ -12,9 +13,12 @@ export default function MediaHero({ title, posterUrl, onPosterClick, children }:
     <div className="flex flex-col md:flex-row gap-8 items-center md:items-end mb-16">
       {posterUrl ? (
         <img
-          src={posterUrl}
+          src={tmdb(posterUrl, 'w500')}
           alt={title}
-          onClick={() => onPosterClick?.(posterUrl.replace('w500', 'original'))}
+          width={500}
+          height={750}
+          fetchPriority="high"
+          onClick={() => onPosterClick?.(tmdb(posterUrl, 'original'))}
           className="w-48 md:w-64 lg:w-72 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 transform hover:scale-105 transition-transform duration-500 cursor-pointer"
         />
       ) : (

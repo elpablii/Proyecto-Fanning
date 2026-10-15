@@ -1,7 +1,7 @@
-"""Genera fanning-dashboard/public/data/timeline.json (la línea de tiempo de la página).
+"""Genera fanning-dashboard/data/timeline.json (la línea de tiempo de la página).
 
 Fuentes: contenido/tandas.json y contenido/ciclos.json (se editan a mano) y los datos ya
-generados de cada título (public/data/pelis/*.json). No vuelve a contar los PDFs, así que es
+generados de cada título (data/pelis/*.json). No vuelve a contar los PDFs, así que es
 rápido: se puede correr solo después de agregar una tanda (python fanning.py tandas).
 
 Por cada tanda calcula sus palabras, líneas de diálogo, % de comprensión y duración (minutos),

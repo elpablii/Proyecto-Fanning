@@ -6,6 +6,21 @@ Tipo: Manual Central
 
 # 📜 Constitución y Reglas del Proyecto Fanning
 
+## ¿Qué es el Proyecto Fanning?
+
+Es una forma de aprender inglés viendo películas y series que de verdad dan ganas de ver. Nada de diálogos de libro de texto: inglés real, con sus acentos, su jerga y su velocidad, tal como se habla en pantalla.
+
+Desde el 15 de octubre de 2023, todo se ve en inglés con subtítulos en inglés, y cada palabra o frase que no se entiende queda anotada con su traducción. Después se repasa, se cuenta y se mide. Así, ver una película también es estudiar, y cada tanda deja un registro de lo que se aprendió.
+
+**¿Por qué «Fanning»?** Por las hermanas **Dakota y Elle Fanning**, dos de las actrices favoritas del proyecto y amores platónicos de la Realeza. El nombre resume la idea de fondo: se aprende mejor con las historias y las personas que uno admira.
+
+Tres ideas sostienen todo lo demás:
+* **Ver lo que gusta:** las ganas de ver algo son el mejor motor. Por eso la Realeza tiene prioridad (Regla 5).
+* **Anotar lo que cuesta:** lo que no se entiende no se deja pasar: se anota, se traduce y se repasa.
+* **Medir el avance:** las líneas de diálogo y el vocabulario dan la comprensión y el nivel MCER de cada título.
+
+---
+
 Este documento centraliza el marco normativo, ético y métrico que rige el sistema de inmersión lingüística y adquisición de vocabulario en inglés (regimen B1+).
 
 ---

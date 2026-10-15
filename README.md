@@ -11,7 +11,7 @@ Registro de inmersión en inglés: películas y series vistas, sus líneas de di
 | `contenido/titulos/` | Una **ficha** por película o serie: clasificación, id de TMDB, análisis, imágenes y qué PDFs le corresponden. El nivel de inglés **no** se escribe: se calcula (ver `Metodología/Criterio de nivel de inglés (MCER).txt`) | Sí |
 | `contenido/tandas.json` | La línea de tiempo | Sí |
 | `Metodología/` | Cómo se cuentan las líneas de diálogo y las palabras | Sí |
-| `fanning-dashboard/public/data/` | Todo lo que lee la página | **No**: lo genera `fanning.py` |
+| `fanning-dashboard/data/` | Todo lo que lee la página | **No**: lo genera `fanning.py` |
 | `scripts/metricas/` | El código que cuenta y genera los datos | Solo para cambiar reglas |
 
 ## Requisitos

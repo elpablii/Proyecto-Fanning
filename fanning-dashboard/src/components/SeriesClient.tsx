@@ -1,11 +1,12 @@
 'use client';
 
-import React, { useMemo, useState } from 'react';
+import React, { useMemo, useRef, useState } from 'react';
 import { BookOpen, Clock, Film, PlayCircle, Quote } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
+import { tmdb } from '@/lib/tmdb';
 import { MovieStats } from '@/types/manifest';
-import { ExtraData, VocabItem } from '@/types/media';
+import { SerieExtra, VocabItem, VocabularioSerie } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
 import MediaHero from '@/components/media/MediaHero';
 import ImageLightbox from '@/components/media/ImageLightbox';
@@ -26,8 +27,11 @@ function claseNivel(nivel: string): string {
   return 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30';
 }
 
-export default function SeriesClient({ movieData, extraData }: { movieData: MovieStats; extraData: ExtraData | null }) {
+export default function SeriesClient({ movieData, extraData }: { movieData: MovieStats; extraData: SerieExtra | null }) {
   const [tarjetas, setTarjetas] = useState<VocabItem[] | null>(null);
+  // El vocabulario no viene con la página: se pide la primera vez que se estudia y queda guardado.
+  const vocabulario = useRef<VocabularioSerie | null>(null);
+  const [pedido, setPedido] = useState<{ clave: string; fallo: boolean } | null>(null);
   const [mazo, setMazo] = useState(0);  // cambia la `key` del visor para empezar de cero
   const [abierto, setAbierto] = useState<string | null>(null);
   const [imagen, setImagen] = useState<string | null>(null);
@@ -50,11 +54,27 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
   }, [movieData.episodes]);
   const variasTemporadas = Object.keys(porTemporada).filter(k => k !== 'Especiales').length > 1;
 
-  const estudiar = (cartas: VocabItem[]) => {
-    setTarjetas(cartas);
-    setMazo(n => n + 1);
+  // `clave` identifica el botón que se tocó, para mostrar "Cargando…" o el error en ese botón.
+  const estudiar = async (clave: string, codigos: string[]) => {
+    setPedido({ clave, fallo: false });
+    try {
+      if (!vocabulario.current) {
+        const respuesta = await fetch(`/series/${encodeURIComponent(movieData.title)}/vocabulario`);
+        if (!respuesta.ok) throw new Error(`HTTP ${respuesta.status}`);
+        vocabulario.current = await respuesta.json() as VocabularioSerie;
+      }
+      const porEpisodio = vocabulario.current;
+      setTarjetas(codigos.flatMap(c => porEpisodio[c] ?? []));
+      setMazo(n => n + 1);
+      setPedido(null);
+    } catch {
+      setPedido({ clave, fallo: true });
+    }
   };
-  const todoElVocabulario = (extraData?.episodes ?? []).flatMap(e => e.vocabulary);
+  const textoBoton = (clave: string, texto: string) =>
+    pedido?.clave !== clave ? texto : pedido.fallo ? 'No se pudo cargar · Reintentar' : 'Cargando…';
+  const episodios = extraData?.episodes ?? [];
+  const totalVocabulario = episodios.reduce((s, e) => s + e.palabras, 0);
 
   return (
     <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} tipo="serie">
@@ -109,12 +129,13 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
       <div>
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4">
           <h2 className="text-3xl font-bold border-b border-white/10 pb-4 inline-block drop-shadow-md">Desglose de Episodios</h2>
-          {todoElVocabulario.length > 0 && (
+          {totalVocabulario > 0 && (
             <button
-              onClick={() => estudiar(todoElVocabulario)}
+              onClick={() => estudiar('todo', episodios.map(e => e.code))}
+              disabled={pedido?.clave === 'todo' && !pedido.fallo}
               className="bg-linear-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold py-2.5 px-6 rounded-full transition-all shadow-[0_0_20px_rgba(168,85,247,0.4)] flex items-center gap-2 hover:scale-105 active:scale-95"
             >
-              <BookOpen size={20} /> Estudiar Temporada Completa
+              <BookOpen size={20} /> {textoBoton('todo', 'Estudiar Temporada Completa')}
             </button>
           )}
         </div>
@@ -141,7 +162,7 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
 
                 {tmdbEp?.still_path ? (
                   <div className="w-full h-40 relative overflow-hidden">
-                    <img src={tmdbEp.still_path} alt={nombre} loading="lazy" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
+                    <img src={tmdb(tmdbEp.still_path, 'w300')} alt={nombre} width={300} height={169} loading="lazy" decoding="async" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
                     <div className="absolute inset-0 bg-linear-to-t from-gray-900 via-gray-900/40 to-transparent"></div>
                     <div className="absolute top-3 right-3 bg-black/60 backdrop-blur-md text-white text-[10px] sm:text-xs font-black px-3 py-1.5 rounded-full border border-white/10 shadow-lg flex gap-1 flex-col text-right leading-tight">
                       <span>{etiqueta}</span>
@@ -227,12 +248,12 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
 
                   <div className="mt-4 pt-4 border-t border-white/10">
                     <button
-                      onClick={() => extraEp && estudiar(extraEp.vocabulary)}
-                      disabled={!extraEp?.vocabulary.length}
-                      title={extraEp?.vocabulary.length ? undefined : 'No hay vocabulario disponible para este episodio aún.'}
+                      onClick={() => extraEp && estudiar(clave, [extraEp.code])}
+                      disabled={!extraEp?.palabras || (pedido?.clave === clave && !pedido.fallo)}
+                      title={extraEp?.palabras ? undefined : 'No hay vocabulario disponible para este episodio aún.'}
                       className="w-full bg-emerald-600 hover:bg-emerald-500 disabled:bg-gray-700 disabled:text-gray-400 disabled:cursor-not-allowed text-white font-bold py-2 px-4 rounded-xl transition flex items-center justify-center gap-2 shadow-lg shadow-emerald-900/50"
                     >
-                      <BookOpen size={18} /> Estudiar Vocabulario
+                      <BookOpen size={18} /> {textoBoton(clave, 'Estudiar Vocabulario')}
                     </button>
                   </div>
                 </div>

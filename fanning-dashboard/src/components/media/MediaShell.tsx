@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { ArrowLeft } from 'lucide-react';
+import { tmdb } from '@/lib/tmdb';
 
 // Estructura común de las páginas de película y serie: fondo difuminado,
 // aviso +18 (si corresponde) y botón para volver a la portada.
@@ -25,7 +26,7 @@ export default function MediaShell({ backdropUrl, rating, tipo, children }: {
     <div className="min-h-screen bg-gray-950 text-white relative overflow-x-hidden font-sans pb-20">
       <div className="fixed inset-0 z-0">
         {backdropUrl ? (
-          <img src={backdropUrl} alt="" className="w-full h-full object-cover opacity-40 scale-105" />
+          <img src={tmdb(backdropUrl, 'w780')} alt="" decoding="async" className="w-full h-full object-cover opacity-40 scale-105" />
         ) : (
           <div className="w-full h-full bg-linear-to-br from-purple-900 to-black"></div>
         )}

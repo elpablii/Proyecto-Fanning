@@ -1,6 +1,7 @@
 import React from 'react';
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
+import { tmdb } from '@/lib/tmdb';
 import Link from 'next/link';
 import { Film } from 'lucide-react';
 
@@ -30,7 +31,7 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
     return (
         <Link href={href} className="group relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:border-purple-500 hover:scale-105 transition-all duration-300 cursor-pointer block">
             {posterUrl ? (
-                <img src={posterUrl} alt={title} className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
+                <img src={tmdb(posterUrl, 'w342')} alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
             ) : (
                 <div className="aspect-2/3 bg-gray-800 flex flex-col items-center justify-center p-4 text-center">
                     <Film size={32} className="text-gray-600 mb-2" />
