@@ -59,7 +59,7 @@ export default function ConstelacionClient({ estrellas, hilos }: { estrellas: Es
 
         <header className="text-center mb-8">
           <Sparkles size={34} className="mx-auto text-indigo-300 mb-2" aria-hidden />
-          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight bg-linear-to-r from-indigo-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
+          <h1 className="font-real text-4xl md:text-5xl font-bold bg-linear-to-r from-indigo-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
             La Constelación Real
           </h1>
           <p className="text-gray-400 mt-3 max-w-2xl mx-auto">

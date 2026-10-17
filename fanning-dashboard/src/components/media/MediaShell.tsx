@@ -7,8 +7,9 @@ import { tmdb } from '@/lib/tmdb';
 
 // Estructura común de las páginas de película y serie: fondo difuminado,
 // aviso +18 (si corresponde) y botón para volver a la portada.
-export default function MediaShell({ backdropUrl, rating, tipo, children }: {
+export default function MediaShell({ backdropUrl, rating, tipo, color, children }: {
   backdropUrl?: string | null;
+  color?: string | null;   // el color del póster: tiñe el fondo (ver python fanning.py colores)
   rating?: string;
   tipo: 'película' | 'serie';
   children: React.ReactNode;
@@ -32,6 +33,7 @@ export default function MediaShell({ backdropUrl, rating, tipo, children }: {
         )}
         <div className="absolute inset-0 bg-black/70 backdrop-blur-md"></div>
         <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/60 to-gray-950"></div>
+        {color && <div className="absolute inset-0" style={{ background: `radial-gradient(ellipse at top, ${color}59, transparent 65%), radial-gradient(ellipse at bottom right, ${color}26, transparent 55%)` }} />}
       </div>
 
       {bloqueado && (

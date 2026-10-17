@@ -2,12 +2,12 @@
 
 import { useRef, useState, ViewTransition } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, BookOpen, Clock, Crown, Film, GraduationCap, Heart, Layers, MessageSquare, Sparkles, Users } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, CalendarClock, Clock, Crown, Film, GraduationCap, Heart, Layers, MessageSquare, Sparkles, Tv, Users } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
 import {
-  grupoDe, hrefArtista, hrefTitulo, NOMBRE_RANGO, PAPELES, slugArtista,
-  type Artista, type EstadisticasArtista, type IdGrupo, type TituloArtista,
+  cuandoLlega, grupoDe, hrefArtista, hrefTitulo, NOMBRE_RANGO, nombreProximo, PAPELES, slugArtista,
+  type Artista, type Proximo, type EstadisticasArtista, type IdGrupo, type TituloArtista,
 } from '@/lib/realeza';
 import type { VocabItem } from '@/types/media';
 import Cumpleanos, { useHoy } from '@/components/realeza/Cumpleanos';
@@ -76,7 +76,7 @@ function Retrato({ a, tamano = 'w-14 h-14' }: { a: Vecino; tamano?: string }) {
 }
 
 export default function ArtistaClient({
-  artista, stats, tandas, primeraTanda, conexiones, totalVocabulario, comprensionProyecto, anterior, siguiente, hoy,
+  artista, stats, tandas, primeraTanda, conexiones, totalVocabulario, comprensionProyecto, anterior, siguiente, hoy, proximos,
 }: {
   artista: Artista;
   stats: Omit<EstadisticasArtista, 'titulos'> & { titulos: TituloEnPagina[] };
@@ -84,6 +84,7 @@ export default function ArtistaClient({
   primeraTanda: number | null;
   conexiones: ConexionEnPagina[];
   totalVocabulario: number;
+  proximos: Proximo[];
   comprensionProyecto: number | null;
   anterior: Vecino | null;
   siguiente: Vecino | null;
@@ -151,7 +152,7 @@ export default function ArtistaClient({
             <p className={`inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/40 backdrop-blur-sm px-3 py-1 text-xs uppercase tracking-[0.25em] font-semibold ${acento.texto}`}>
               <Icono size={14} fill={grupo === 'platonicos' ? 'currentColor' : 'none'} aria-hidden /> {NOMBRE_RANGO[grupo]}
             </p>
-            <h1 className={`mt-4 text-5xl sm:text-6xl lg:text-7xl font-black tracking-tight leading-[0.95] bg-linear-to-r ${acento.titulo} bg-clip-text text-transparent drop-shadow-lg`}>
+            <h1 className={`mt-4 font-real text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] bg-linear-to-r ${acento.titulo} bg-clip-text text-transparent drop-shadow-lg`}>
               {artista.nombre}
             </h1>
             <Cumpleanos artista={artista} hoy={hoyNavegador} className="justify-center md:justify-start mt-4 text-sm" />
@@ -175,7 +176,11 @@ export default function ArtistaClient({
                 )}
               </>
             ) : (
-              <p className="text-gray-400 italic mt-4">Todavía no aparece en ningún título del proyecto. ¡Su momento llegará!</p>
+              <p className="text-gray-400 italic mt-4">
+                {proximos[0]
+                  ? <>Todavía no aparece en el proyecto. Llega con <span className="not-italic font-semibold text-white">{nombreProximo(proximos[0])}</span> ({cuandoLlega(proximos[0])}).</>
+                  : 'Todavía no aparece en ningún título del proyecto. ¡Su momento llegará!'}
+              </p>
             )}
           </div>
         </header>
@@ -229,6 +234,34 @@ export default function ArtistaClient({
               </ol>
             </section>
           </>
+        )}
+
+        {/* ---------- Próximamente: lo planificado donde participa ---------- */}
+        {proximos.length > 0 && (
+          <section aria-labelledby="proximamente" className="mb-14">
+            <h2 id="proximamente" className="text-2xl md:text-3xl font-extrabold mb-2 flex items-center gap-2">
+              <CalendarClock className={acento.texto} /> Próximamente
+            </h2>
+            <p className="text-gray-400 text-sm mb-6">
+              Lo que viene según la planificación: con número de tanda si ya tiene una; si no, el año tentativo.
+            </p>
+            <ol className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3 sm:gap-4">
+              {proximos.map(p => (
+                <li key={`${p.titulo}-${p.temporada ?? ''}`} className="group">
+                  <div className="relative aspect-2/3 rounded-xl overflow-hidden border border-dashed border-white/20 bg-gray-900">
+                    {p.poster
+                      ? <img src={tmdb(p.poster, 'w185')} alt="" loading="lazy" className="w-full h-full object-cover opacity-75 grayscale-[35%] group-hover:opacity-100 group-hover:grayscale-0 transition" />
+                      : <span className="absolute inset-0 flex items-center justify-center text-gray-600">{p.tipo === 'serie' ? <Tv size={24} /> : <Film size={24} />}</span>}
+                    {p.temporada && (
+                      <span className="absolute top-1.5 left-1.5 rounded bg-black/70 px-1.5 py-0.5 text-[10px] font-bold text-gray-200">T{p.temporada}</span>
+                    )}
+                  </div>
+                  <p className="mt-1.5 text-xs font-semibold text-gray-200 leading-tight line-clamp-2">{p.titulo}</p>
+                  <p className={`text-[11px] ${p.tandas.length ? acento.texto : 'text-gray-500'}`}>{cuandoLlega(p)}</p>
+                </li>
+              ))}
+            </ol>
+          </section>
         )}
 
         {/* ---------- Conexiones ---------- */}

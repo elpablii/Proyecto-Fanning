@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.83,
+    "puntaje": 3.85,
     "senales": {
       "vocabulario": 4.13,
       "dialogos": 3.23,
-      "temas": 3.63
+      "temas": 3.75
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 2.93,
       "ppm": 179.3
     },
-    "temas": []
+    "temas": [
+      "crimen, drogas y calle",
+      "militar y policial"
+    ]
   },
   "englishAnalysis": "Inglés periodístico y militar mezclado. Vocabulario de zonas de guerra, jerga de corresponsales, humor negro y términos geopolíticos y militares ('embedded', 'Kabul', 'bureau').",
   "tmdb": {

@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.73,
+    "puntaje": 3.68,
     "senales": {
       "vocabulario": 3.8,
       "dialogos": 3.15,
-      "temas": 4.42
+      "temas": 4.08
     },
     "vocabulario": {
       "distribucion": {
@@ -25,7 +25,8 @@
       "ppm": 135.4
     },
     "temas": [
-      "legal y judicial"
+      "legal y judicial",
+      "crimen, drogas y calle"
     ]
   },
   "englishAnalysis": "Un inglés crudo y oscuro del sur de Estados Unidos (Texas/Louisiana). Acentos fuertes, lenguaje callejero, jerga criminal ('setup', 'boss') y diálogos melancólicos.",

@@ -3,11 +3,11 @@
   "level": "B1-B2",
   "levelDetail": {
     "nivel": "B1-B2",
-    "puntaje": 3.49,
+    "puntaje": 3.51,
     "senales": {
       "vocabulario": 3.69,
       "dialogos": 3.02,
-      "temas": 3.44
+      "temas": 3.63
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 2.64,
       "ppm": 185.6
     },
-    "temas": []
+    "temas": [
+      "financiera y empresarial",
+      "crimen, drogas y calle"
+    ]
   },
   "englishAnalysis": "Un thriller de acción moderno protagonizado por Liam Neeson. El inglés es funcional, asertivo y lleno de jerga criminal y policial contemporánea ('feds', 'wire', 'safe house'). Las frases son cortas e imperativas, ideales para aprender a dar órdenes y comprender amenazas sutiles.",
   "tmdb": {

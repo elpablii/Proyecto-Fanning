@@ -41,6 +41,9 @@ CARPETA = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'datos_proyec
 AJUSTES = os.path.join(CARPETA, 'ajustes.json')
 CACHE = os.path.join(CARPETA, 'tmdb.json')
 REALEZA = os.path.join(CARPETA, 'realeza.json')
+POSTERS = os.path.join(CARPETA, 'posters.json')
+# Lo planificado donde participa alguien de la Realeza, para el "Próximamente" de la página.
+PROXIMAMENTE = os.path.join(DATA, 'proximamente.json')
 REPORTE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'reporte_proyeccion.md')
 TXT = os.path.join(RAIZ, 'información para proyección 2027.txt')
 
@@ -819,6 +822,73 @@ def main():
     with open(REPORTE, 'w', encoding='utf-8') as f:
         f.write('\n'.join(md) + '\n')
     print(f'Listo: {rel(REPORTE)}')
+    escribir_proximamente(items, plan, tm, realeza)
+
+
+def escribir_proximamente(items, plan, tm, realeza):
+    """data/proximamente.json: {artista: [obras]} con lo que viene en el txt y quién de la Realeza está.
+
+    Una obra es una película o una temporada de una serie. Si ya tiene tanda en el txt va con su número
+    y fecha; si no, solo con el año tentativo. Los nombres son los de contenido/realeza.json (se cruzan
+    por el id de TMDB) y solo cuenta quien está en esa lista.
+    """
+    import fichas as F
+    proyecto = F.cargar_realeza()
+    por_id = {a['tmdb']: a['nombre'] for a in proyecto if a.get('tmdb')}
+    por_nombre = {a['nombre'].lower(): a['nombre'] for a in proyecto}
+    nombre_de = {}
+    for r in realeza:
+        n = por_id.get(r.get('tmdb_id')) or por_nombre.get(r['nombre'].lower())
+        if n:
+            nombre_de[r['nombre']] = n
+    bins = {b['id']: b for b in plan['bins']} if plan else {}
+    inicial = plan['inicial'] if plan else {}
+
+    obras = {}   # (artista, clave de la obra) -> datos
+    for k, it in enumerate(items):
+        artistas = {nombre_de.get(m.split(':', 1)[1]) for m in it['marcas'] if m.startswith('realeza:')} - {None}
+        if not artistas:
+            continue
+        if it['serie']:
+            temporada = it['serie'][1] // 1000
+            titulo, tipo, clave = it['serie_nombre'], 'serie', (it['serie_nombre'], temporada)
+        else:
+            temporada, titulo, tipo, clave = None, it['nombre'], 'pelicula', (it['nombre'], None)
+        tanda = bins.get(inicial.get(k))
+        for a in artistas:
+            o = obras.setdefault((a, clave), {'titulo': titulo, 'tipo': tipo, 'temporada': temporada,
+                                              'anio': it['anio'], 'tandas': set(), 'fecha': None})
+            if tanda:
+                o['tandas'].add(tanda['id'])
+                f = tanda['fecha'].isoformat()
+                o['fecha'] = min(o['fecha'] or f, f)
+
+    # Pósters: se piden a TMDB una sola vez y quedan guardados en datos_proyeccion/posters.json.
+    posters = cargar(POSTERS, {})
+    faltan = sorted({o['titulo'] for o in obras.values()} - set(posters))
+    if faltan:
+        try:
+            from episodios_tmdb import tmdb, IMG
+            for t in faltan:
+                f = tm.get(t) or {}
+                d = tmdb(f"{'movie' if f.get('tipo') == 'movie' else 'tv'}/{f['id']}") if f.get('id') else None
+                posters[t] = IMG + d['poster_path'] if d and d.get('poster_path') else None
+            guardar(POSTERS, posters)
+        except (Exception, SystemExit) as e:   # sin clave o sin red: la página muestra la obra sin póster
+            print(f'  Pósters: no se pudieron pedir a TMDB ({e})')
+
+    salida = {}
+    for (a, _), o in obras.items():
+        salida.setdefault(a, []).append({
+            'titulo': o['titulo'], 'tipo': o['tipo'], 'temporada': o['temporada'], 'anio': str(o['anio']) if o['anio'] else None,
+            'tandas': sorted(o['tandas'], key=lambda x: (int(re.match(r'\d+', x).group()), x)),
+            'fecha': o['fecha'], 'poster': posters.get(o['titulo']),
+        })
+    for lista in salida.values():
+        lista.sort(key=lambda o: (o['fecha'] or '9999', o['anio'] or '9999', o['titulo'], o['temporada'] or 0))
+    with open(PROXIMAMENTE, 'w', encoding='utf-8') as f:
+        json.dump(dict(sorted(salida.items())), f, ensure_ascii=False, indent=2)
+    print(f'Próximamente: {sum(len(v) for v in salida.values())} obras de {len(salida)} artistas en {rel(PROXIMAMENTE)}')
 
 
 def _resumir(nombres):

@@ -3,11 +3,11 @@
   "level": "B1",
   "levelDetail": {
     "nivel": "B1",
-    "puntaje": 3.27,
+    "puntaje": 3.23,
     "senales": {
       "vocabulario": 3.21,
       "dialogos": 2.9,
-      "temas": 4.11
+      "temas": 3.83
     },
     "vocabulario": {
       "distribucion": {
@@ -25,6 +25,7 @@
       "ppm": 154.7
     },
     "temas": [
+      "moda y belleza",
       "médica y de salud"
     ]
   },

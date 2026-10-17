@@ -117,6 +117,35 @@ export function hrefTitulo(t: Pick<MovieStats, 'title' | 'type'>): string {
   return `/${t.type === 'series' ? 'series' : 'peliculas'}/${encodeURIComponent(t.title)}`;
 }
 
+// ---------- Próximamente ----------
+// Lo que viene según la planificación (información para proyección 2027.txt), donde participa
+// alguien de la Realeza. Lo genera scripts/metricas/proyeccion.py en data/proximamente.json.
+export interface Proximo {
+  titulo: string;
+  tipo: 'pelicula' | 'serie';
+  temporada: number | null;
+  anio: string | null;        // año tentativo, o "remanente" (sin año)
+  tandas: string[];           // ["75", "85"] si ya tiene tanda en el txt
+  fecha: string | null;       // fecha de la primera de esas tandas
+  poster: string | null;
+}
+
+// "Tanda 74 · 14/01/2027", "Tandas 75–93 · desde el 28/01/2027", "Tentativo 2028" o "Algún día".
+export function cuandoLlega(p: Proximo): string {
+  if (p.tandas.length && p.fecha) {
+    const [a, m, d] = p.fecha.split('-');
+    const fecha = `${d}/${m}/${a}`;
+    if (p.tandas.length === 1) return `Tanda ${p.tandas[0]} · ${fecha}`;
+    return `Tandas ${p.tandas[0]}–${p.tandas[p.tandas.length - 1]} · desde el ${fecha}`;
+  }
+  if (p.anio && /^\d{4}$/.test(p.anio)) return `Tentativo ${p.anio}`;
+  return 'Algún día';
+}
+
+export function nombreProximo(p: Proximo): string {
+  return p.temporada ? `${p.titulo} (temporada ${p.temporada})` : p.titulo;
+}
+
 // ---------- Página de cada artista (/realeza/margot-robbie) ----------
 
 export const NOMBRE_RANGO: Record<IdGrupo, string> = {

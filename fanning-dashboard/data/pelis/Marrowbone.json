@@ -3,11 +3,11 @@
   "level": "B1",
   "levelDetail": {
     "nivel": "B1",
-    "puntaje": 2.87,
+    "puntaje": 2.84,
     "senales": {
       "vocabulario": 2.94,
       "dialogos": 2.17,
-      "temas": 3.79
+      "temas": 3.6
     },
     "vocabulario": {
       "distribucion": {
@@ -25,6 +25,7 @@
       "ppm": 157.0
     },
     "temas": [
+      "religión y lo sobrenatural",
       "legal y judicial"
     ]
   },

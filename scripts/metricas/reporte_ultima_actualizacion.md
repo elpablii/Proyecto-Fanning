@@ -27,6 +27,26 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 | The Big Bang Theory | 4544 | 4544 | 43158 | 43158 | 226 | 116 |
 | The Wolf of Wall Street | 422 | 422 | 3255 | 3255 | 1 | 0 |
 
+## Nivel de inglés (MCER) que cambió
+
+Calculado por `nivel.py` (criterio en Metodología/Criterio de nivel de inglés (MCER).txt).
+
+| Título | Antes | Ahora | Vocabulario · Diálogos · Temas |
+|---|---|---|---|
+| 21 Blackjack | B1-B2 | B2 | 3.58 · 2.72 · 6 |
+| El Padrino I | B1 | B1-B2 | 3.37 · 2.68 · 5.83 |
+| Escape de Sobibor | B1 | B1-B2 | 3.12 · 3.11 · 4.69 |
+| Gambito de Dama | B1-B2 | B2 | 3.63 · 3.35 · 6 |
+| GTA San Andreas The Introduction | B2 | B2-C1 | 4.73 · 3.34 · 5.27 |
+| Here Are The Young Men | B1 | B1-B2 | 3.46 · 2.59 · 4.85 |
+| La Bella Durmiente | B2 | B2-C1 | 4.59 · 3.62 · 5.26 |
+| Now is Good | B1-B2 | B2 | 3.88 · 2.59 · 4.52 |
+| Ordinary Love | B1-B2 | B2 | 3.75 · 2.52 · 6 |
+| Rambo First Blood | B1-B2 | B2 | 3.76 · 3.14 · 4.3 |
+| Suite Francaise | B1-B2 | B2 | 3.87 · 2.95 · 4.48 |
+| Taken I | B1 | B1-B2 | 3.49 · 2.64 · 4.12 |
+| Top Gun | B1-B2 | B2 | 3.35 · 3.85 · 6 |
+
 ## Avisos para revisar
 
 - Ninguno

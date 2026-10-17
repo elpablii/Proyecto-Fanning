@@ -1,13 +1,13 @@
 {
   "title": "21 Blackjack",
-  "level": "B1-B2",
+  "level": "B2",
   "levelDetail": {
-    "nivel": "B1-B2",
-    "puntaje": 3.39,
+    "nivel": "B2",
+    "puntaje": 3.73,
     "senales": {
       "vocabulario": 3.58,
       "dialogos": 2.72,
-      "temas": 3.76
+      "temas": 6
     },
     "vocabulario": {
       "distribucion": {
@@ -25,8 +25,8 @@
       "ppm": 170.6
     },
     "temas": [
-      "drogas y calle",
-      "financiera y empresarial"
+      "juego y apuestas",
+      "científica y técnica"
     ]
   },
   "englishAnalysis": "Inglés universitario y matemático. Lleno de jerga de casino ('counting cards', 'chips', 'hit me') y expresiones sobre inteligencia, probabilidades y vida estudiantil americana.",

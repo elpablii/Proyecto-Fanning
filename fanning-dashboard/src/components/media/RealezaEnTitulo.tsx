@@ -28,7 +28,7 @@ export default function RealezaEnTitulo({ realeza, tipo }: { realeza: ArtistaEnT
 
   return (
     <section aria-labelledby="realeza-titulo" className={`mb-10 rounded-3xl border backdrop-blur-xl p-5 sm:p-6 ${marco}`}>
-      <h2 id="realeza-titulo" className={`text-lg font-bold mb-4 flex items-center gap-2 ${platonico ? 'text-pink-300' : 'text-amber-300'}`}>
+      <h2 id="realeza-titulo" className={`font-real text-lg font-bold mb-4 flex items-center gap-2 ${platonico ? 'text-pink-300' : 'text-amber-300'}`}>
         <Icono size={20} className="latido-real" fill={platonico ? 'currentColor' : 'none'} aria-hidden />
         La Realeza en esta {tipo}
       </h2>
@@ -48,7 +48,7 @@ export default function RealezaEnTitulo({ realeza, tipo }: { realeza: ArtistaEnT
                   : <span className={`w-14 h-14 rounded-full border-2 bg-gray-800 flex items-center justify-center ${anillo}`}><Crown size={18} className="text-gray-500" /></span>}
                 <span>
                   <span className={`block text-[10px] uppercase tracking-[0.2em] font-semibold ${rosa ? 'text-pink-300' : 'text-amber-300'}`}>{NOMBRE_RANGO[grupo]}</span>
-                  <span className="block font-bold text-white leading-tight">{a.nombre}</span>
+                  <span className="block font-real font-bold text-white leading-tight">{a.nombre}</span>
                   <span className="block text-xs text-gray-400">{a.papeles.map(p => PAPELES[p]).join(' · ')}</span>
                 </span>
               </Link>

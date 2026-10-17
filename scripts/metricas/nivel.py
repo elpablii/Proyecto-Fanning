@@ -240,11 +240,17 @@ def _cargar_temas():
     import json
     with open(os.path.join(CARPETA, 'temas.json'), encoding='utf-8') as f:
         datos = json.load(f)
-    return {k: {'nombre': v['nombre'], 'palabras': set(v['palabras']), 'notas': [n.lower() for n in v['notas']]}
-            for k, v in datos.items() if isinstance(v, dict)}
-
-
-TEMAS = _cargar_temas()
+    temas = {}
+    for k, v in datos.items():
+        if not isinstance(v, dict):
+            continue
+        palabras = {p.lower() for p in v['palabras']}
+        temas[k] = {'nombre': v['nombre'], 'sube_nivel': v.get('sube_nivel', True),
+                    'palabras': {p for p in palabras if ' ' not in p},
+                    # frases ("flight attendant"), como lemas separados por espacios
+                    'frases': {' '.join(_lema(t) for t in TOKEN.findall(p)) for p in palabras if ' ' in p},
+                    'notas': [n.lower() for n in v['notas']]}
+    return temas
 
 
 @lru_cache(maxsize=None)
@@ -252,34 +258,63 @@ def _lema(token):
     return simplemma.lemmatize(_base(token), lang='en')
 
 
+TEMAS = _cargar_temas()
+# Palabras distintas del área que hacen falta para que cuente entera: con menos, una sola palabra
+# repetida ("sire" en Super Mario, "stash" en Minecraft) bastaba para dar un tema que el título no tiene.
+MIN_DISTINTAS = 4
+
+
+def _coincidencias(tokens, tema):
+    """Palabras y frases del área presentes en una lista de tokens (sin las que van con mayúscula)."""
+    lemas = [None if t[:1].isupper() else _lema(t) for t in tokens]
+    bases = [None if t[:1].isupper() else _base(t) for t in tokens]
+    hallado = [l if l in tema['palabras'] else b for l, b in zip(lemas, bases)
+               if l and (l in tema['palabras'] or b in tema['palabras'])]
+    if tema['frases']:
+        texto = ' ' + ' '.join(l or '_' for l in lemas) + ' '
+        hallado += [f for f in tema['frases'] for _ in range(texto.count(' ' + f + ' '))]
+    return hallado
+
+
 def perfil_temas(palabras_vocabulario, subtitulos):
-    """Presencia de cada área especializada (temas.json) en el vocabulario y en los diálogos.
+    """Presencia de cada área (temas.json) en el vocabulario y en los diálogos.
 
     - dialogos_por_mil: palabras del área por cada 1.000 palabras de diálogo.
     - vocabulario_pct: % de entradas del vocabulario que son del área (por sus palabras o por la nota).
+    - distintas: palabras distintas del área encontradas (en diálogos y vocabulario).
     """
     total_dialogo = 0
     en_dialogo = Counter()
+    distintas = {k: set() for k in TEMAS}
     for _, _, _, texto in subtitulos:
-        for t in TOKEN.findall(texto):
-            total_dialogo += 1
-            if t[:1].isupper():
-                continue  # con mayúscula suele ser un nombre ("Sue" no es el verbo "sue")
-            lema, base = _lema(t), _base(t)
-            for k, tema in TEMAS.items():
-                if lema in tema['palabras'] or base in tema['palabras']:
-                    en_dialogo[k] += 1
+        # con mayúscula suele ser un nombre ("Sue" no es el verbo "sue")
+        tokens = TOKEN.findall(texto)
+        total_dialogo += len(tokens)
+        for k, tema in TEMAS.items():
+            hallado = _coincidencias(tokens, tema)
+            en_dialogo[k] += len(hallado)
+            distintas[k].update(hallado)
     en_vocabulario = Counter()
     for palabra in palabras_vocabulario:
         notas = ' '.join(re.findall(r'\(([^)]*)\)', palabra)).lower()
-        lemas = {_lema(t) for t in TOKEN.findall(re.sub(r'\([^)]*\)', ' ', palabra))}
+        tokens = [t.lower() for t in TOKEN.findall(re.sub(r'\([^)]*\)', ' ', palabra))]
         for k, tema in TEMAS.items():
-            if lemas & tema['palabras'] or any(re.search(r'\b' + re.escape(n), notas) for n in tema['notas']):
+            hallado = _coincidencias(tokens, tema)
+            if not hallado and any(re.search(r'\b' + re.escape(n), notas) for n in tema['notas']):
+                hallado = [palabra.lower()]  # la nota la cuenta para el área
+            if hallado:
                 en_vocabulario[k] += 1
+                distintas[k].update(hallado)
     n_vocab = max(len(palabras_vocabulario), 1)
     return {k: {'dialogos_por_mil': round(en_dialogo[k] / total_dialogo * 1000, 2) if total_dialogo else 0.0,
-                'vocabulario_pct': round(en_vocabulario[k] / n_vocab * 100, 1)}
+                'vocabulario_pct': round(en_vocabulario[k] / n_vocab * 100, 1),
+                'distintas': len(distintas[k])}
             for k in TEMAS}
+
+
+def intensidad_tema(x):
+    """Peso de un área en el título; se reduce si aparecen pocas palabras distintas del área."""
+    return (x['dialogos_por_mil'] / 2 + x['vocabulario_pct'] / 5) * min(1.0, x['distintas'] / MIN_DISTINTAS)
 
 
 # ------------------------------------------------------------------ nivel final
@@ -321,15 +356,19 @@ def calcular_nivel(palabras_vocabulario, lineas_dialogo, subtitulos):
     else:
         d = v  # sin diálogos, esta señal no cambia el resultado
 
-    # 3) Temas: solo suben el nivel si hay un área especializada (un tema cotidiano no lo baja)
+    # 3) Temas: solo suben el nivel si hay un área especializada (un tema cotidiano no lo baja).
+    #    Las áreas con sube_nivel false (música, cocina…) describen el título pero no cambian el nivel.
     pt = perfil_temas(palabras_vocabulario, subtitulos or [])
-    intensidad = {k: x['dialogos_por_mil'] / 2 + x['vocabulario_pct'] / 5 for k, x in pt.items()}
-    principal = max(intensidad, key=intensidad.get)
+    intensidad = {k: intensidad_tema(x) for k, x in pt.items()}
+    principal = max((k for k in intensidad if TEMAS[k]['sube_nivel']), key=intensidad.get)
     t = max(media, 3 + _limitar(intensidad[principal], 0, 3))
 
     total = PESOS['vocabulario'] * v + PESOS['dialogos'] * d + PESOS['temas'] * t
     total = _limitar(total, 1, 6)
-    destacados = [TEMAS[k]['nombre'] for k, x in sorted(intensidad.items(), key=lambda kv: -kv[1]) if x >= 0.5][:2]
+    # Destacados: hasta dos áreas; la segunda solo si no es un tema menor al lado de la primera
+    orden = sorted(intensidad, key=intensidad.get, reverse=True)
+    minimo = max(0.5, 0.15 * intensidad[orden[0]])
+    destacados = [TEMAS[k]['nombre'] for k in orden[:2] if intensidad[k] >= minimo]
     return {
         'nivel': nivel_texto(total),
         'puntaje': round(total, 2),

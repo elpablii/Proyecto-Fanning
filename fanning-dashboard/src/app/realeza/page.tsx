@@ -1,6 +1,6 @@
 import SalonClient, { type ArtistaSalon } from '@/components/realeza/SalonClient';
 import type { FilaPodio } from '@/components/realeza/PodioReal';
-import { getRealeza, getTitulo, getTodos } from '@/lib/data';
+import { getProximamente, getRealeza, getTitulo, getTodos } from '@/lib/data';
 import { estadisticas } from '@/lib/realeza';
 
 export const metadata = {
@@ -10,7 +10,11 @@ export const metadata = {
 
 export default function RealezaPage() {
   const todos = getTodos();
-  const artistas: ArtistaSalon[] = getRealeza().map(a => ({ ...a, stats: estadisticas(a.nombre, todos) }));
+  const proximamente = getProximamente();
+  // A quien aún no tiene títulos, la carta le cuenta con qué llega.
+  const artistas: ArtistaSalon[] = getRealeza().map(a => ({
+    ...a, stats: estadisticas(a.nombre, todos), proximo: proximamente[a.nombre]?.[0] ?? null,
+  }));
   const conRealeza = todos.filter(m => Object.keys(m.realeza ?? {}).length);
 
   // Palabras por minuto de cada título (nivel MCER, señal de diálogos), para el ritmo del podio.

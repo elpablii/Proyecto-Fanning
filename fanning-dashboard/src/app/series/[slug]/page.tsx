@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import SeriesClient from '@/components/SeriesClient';
-import { getRealezaDeTitulo, getTitulo, getTitulosPorTipo } from '@/lib/data';
+import { getColores, getRealezaDeTitulo, getTitulo, getTitulosPorTipo } from '@/lib/data';
 import type { SerieExtra } from '@/types/media';
 
 // Solo existen las páginas de las series del manifest; cualquier otra URL da 404.
@@ -35,5 +35,6 @@ export default async function SeriesPage({ params }: { params: Promise<{ slug: s
       })),
     };
   }
-  return <SeriesClient movieData={datos.movieData} extraData={extraData} realeza={getRealezaDeTitulo(datos.movieData)} />;
+  return <SeriesClient movieData={datos.movieData} extraData={extraData} realeza={getRealezaDeTitulo(datos.movieData)}
+    color={getColores()[datos.movieData.title] ?? null} />;
 }

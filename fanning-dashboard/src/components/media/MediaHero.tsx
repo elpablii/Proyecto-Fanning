@@ -9,8 +9,9 @@ const BRILLO = {
   oro: 'shadow-[0_20px_50px_rgba(0,0,0,0.5),0_0_45px_rgba(251,191,36,0.45)] border-amber-300/50',
 };
 
-export default function MediaHero({ title, posterUrl, onPosterClick, brillo, transicion, children }: {
+export default function MediaHero({ title, posterUrl, onPosterClick, brillo, transicion, color, children }: {
   title: string;
+  color?: string | null;   // el color del póster: el título va de blanco a ese color
   transicion?: string;   // mismo nombre que el póster del catálogo (ver lib/transiciones.ts)
   posterUrl?: string | null;
   onPosterClick?: (url: string) => void;
@@ -37,7 +38,8 @@ export default function MediaHero({ title, posterUrl, onPosterClick, brillo, tra
         </div>
       )}
       <div className="flex-1 pb-4 text-center md:text-left">
-        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-linear-to-r from-white to-gray-400">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-4 drop-shadow-lg text-transparent bg-clip-text bg-linear-to-r from-white to-gray-400"
+          style={color ? { backgroundImage: `linear-gradient(to right, var(--color-white), ${color})` } : undefined}>
           {title}
         </h1>
         {children}

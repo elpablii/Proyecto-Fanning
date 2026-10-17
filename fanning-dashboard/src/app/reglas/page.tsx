@@ -500,7 +500,7 @@ export default function ReglasPage() {
                 <ul className="text-xs text-gray-400 space-y-1">
                   <li><span className="text-purple-300">Vocabulario:</span> qué tan difíciles son las palabras no entendidas y cuántas hay por línea.</li>
                   <li><span className="text-blue-300">Diálogos:</span> qué nivel hace falta para conocer el 95% de las palabras dichas, y qué tan rápido se habla.</li>
-                  <li><span className="text-emerald-300">Temas:</span> si hay vocabulario de un área especializada (legal, médica, militar, de época…).</li>
+                  <li><span className="text-emerald-300">Temas:</span> si hay vocabulario de un área especializada (legal, médica, militar, de época, ajedrez, aeronáutica…).</li>
                 </ul>
               </div>
               <div className="space-y-2">

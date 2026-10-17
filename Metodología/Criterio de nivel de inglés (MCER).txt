@@ -101,21 +101,33 @@ líneas de diálogo):
 
 6. SEÑAL TEMAS (15 %)
 ---------------------
-Áreas especializadas definidas en scripts/metricas/datos_nivel/temas.json
-(legal, médica, científica, militar y policial, financiera, drogas y calle,
-inglés de época). El archivo se puede editar.
+Áreas definidas en scripts/metricas/datos_nivel/temas.json. El archivo se puede
+editar. Hay dos tipos:
+  - Especializadas, que suben el nivel: legal, médica, científica, militar y
+    policial, financiera, crimen y drogas, inglés de época, ajedrez, aeronáutica,
+    juego y apuestas.
+  - Descriptivas, que solo dicen de qué trata el título y no cambian el nivel:
+    religión y lo sobrenatural, deportiva, musical, culinaria, cine y
+    espectáculo, moda y belleza, motor y carreras, videojuegos.
 
 Para cada área:
   - En los diálogos: palabras del área por cada 1.000 palabras (las palabras con
     mayúscula no cuentan, porque suelen ser nombres: "Sue" no es el verbo "sue").
+    También cuentan frases de varias palabras ("flight attendant").
   - En el vocabulario: % de entradas del área, por sus palabras o porque su nota
     lo indica (por ejemplo "(en términos legales)").
+  - Palabras distintas: cuántas palabras diferentes del área aparecen. Con menos
+    de 4, la intensidad se reduce en proporción (con 1 palabra queda en ¼), para
+    que una sola palabra repetida no dé un tema que el título no tiene.
 
-  Intensidad = palabras por mil / 2 + % del vocabulario / 5 (del área más fuerte).
-  Temas = el mayor entre el nivel medio del vocabulario y 3 + intensidad (máximo 6).
+  Intensidad = (palabras por mil / 2 + % del vocabulario / 5) × mín(1, distintas / 4).
+  Temas = el mayor entre el nivel medio del vocabulario y 3 + intensidad del área
+  especializada más fuerte (máximo 6).
 
 Un tema especializado sube el nivel; un tema cotidiano no lo baja.
-Se muestran como "destacados" las áreas con intensidad de 0,5 o más.
+En la página se muestran como "Vocabulario especializado" hasta dos áreas (de
+cualquier tipo) con intensidad de 0,5 o más; la segunda solo si su intensidad es
+al menos el 15 % de la primera.
 
 
 7. NIVEL FINAL

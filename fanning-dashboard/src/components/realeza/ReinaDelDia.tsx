@@ -80,7 +80,7 @@ export default function ReinaDelDia({ candidatos, hoy }: { candidatos: Candidato
             {cumple ? <Cake size={14} aria-hidden /> : <Icono size={14} fill={grupo === 'platonicos' ? 'currentColor' : 'none'} aria-hidden />}
             {cumple ? `${titular} · ¡De cumpleaños!` : titular}
           </p>
-          <h2 className={`mt-1 text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-none bg-linear-to-r ${estilo.nombre} bg-clip-text text-transparent truncate pb-1`}>
+          <h2 className={`mt-1 font-real text-3xl sm:text-4xl md:text-5xl font-bold leading-tight bg-linear-to-r ${estilo.nombre} bg-clip-text text-transparent truncate pb-1`}>
             {elegido.nombre}
           </h2>
           <p className="text-gray-400 text-sm mt-1">{NOMBRE_RANGO[grupo]} del Proyecto Fanning</p>

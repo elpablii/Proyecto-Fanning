@@ -75,8 +75,17 @@ export default function NivelMcer({ detalle, tipo }: { detalle: NivelDetalle; ti
         )}
         {dialogos?.ppm && <li>Se habla a {miles(dialogos.ppm)} palabras por minuto.</li>}
         {vocabulario.densidad !== null && <li>Hay {decimal(vocabulario.densidad)} palabras o frases no entendidas por cada 100 líneas.</li>}
-        {detalle.temas.length > 0 && <li>Vocabulario especializado: {detalle.temas.join(' y ')}.</li>}
       </ul>
+      {detalle.temas.length > 0 && (
+        <div className="mt-3 flex flex-wrap items-center gap-2 text-sm text-gray-400">
+          Vocabulario especializado:
+          {detalle.temas.map(t => (
+            <span key={t} className="px-2.5 py-0.5 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-200 text-xs">
+              {t}
+            </span>
+          ))}
+        </div>
+      )}
       <p className="mt-4 text-xs text-gray-500">
         Calculado para esta {tipo} con listas de vocabulario por nivel (CEFR-J y Octanove) y la frecuencia de cada palabra.
       </p>

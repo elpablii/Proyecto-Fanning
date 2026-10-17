@@ -1,13 +1,13 @@
 {
   "title": "El Padrino I",
-  "level": "B1",
+  "level": "B1-B2",
   "levelDetail": {
-    "nivel": "B1",
-    "puntaje": 3.25,
+    "nivel": "B1-B2",
+    "puntaje": 3.56,
     "senales": {
       "vocabulario": 3.37,
       "dialogos": 2.68,
-      "temas": 3.7
+      "temas": 5.83
     },
     "vocabulario": {
       "distribucion": {
@@ -25,8 +25,8 @@
       "ppm": 142.6
     },
     "temas": [
-      "legal y judicial",
-      "drogas y calle"
+      "crimen, drogas y calle",
+      "juego y apuestas"
     ]
   },
   "englishAnalysis": "El estándar de oro del acento italoamericano de los años 40. Lenguaje mafioso sutil, lleno de metáforas familiares ('family', 'business', 'offer he can\\'t refuse') y respeto formal.",

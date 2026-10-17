@@ -3,7 +3,7 @@
   "level": "B1-B2",
   "levelDetail": {
     "nivel": "B1-B2",
-    "puntaje": 3.55,
+    "puntaje": 3.5,
     "senales": {
       "vocabulario": 3.32,
       "dialogos": 3.56,
@@ -24,11 +24,9 @@
       "cobertura95": 3.49,
       "ppm": 160.6
     },
-    "temas": [
-      "militar y policial"
-    ],
+    "temas": [],
     "rango": [
-      "B1-B2",
+      "B1",
       "B2"
     ]
   },
@@ -480,14 +478,14 @@
     {
       "code": "S01E05",
       "name": "Obi-Wan Kenobi (Part V)",
-      "level": "B1-B2",
+      "level": "B1",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.44,
+        "nivel": "B1",
+        "puntaje": 3.11,
         "senales": {
           "vocabulario": 3.02,
           "dialogos": 3.17,
-          "temas": 5.57
+          "temas": 3.35
         },
         "vocabulario": {
           "distribucion": {
@@ -504,9 +502,7 @@
           "cobertura95": 2.98,
           "ppm": 170.1
         },
-        "temas": [
-          "militar y policial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {

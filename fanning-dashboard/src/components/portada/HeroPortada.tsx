@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { BookOpen, Calendar, Crown, Heart, Search } from 'lucide-react';
 import { tmdb } from '@/lib/tmdb';
 import { hrefArtista } from '@/lib/realeza';
+import RelojActual from '@/components/portada/RelojActual';
 
 // Tres filas de pósters que desfilan despacio detrás del título (quietas con "reducir movimiento").
 function Mosaico({ posters }: { posters: string[] }) {
@@ -31,6 +32,7 @@ export default function HeroPortada({ posters, onBuscar }: { posters: string[]; 
       <div aria-hidden className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_left,rgba(168,85,247,0.25),transparent_55%),radial-gradient(ellipse_at_bottom_right,rgba(236,72,153,0.18),transparent_50%)]" />
 
       <div className="relative px-5 py-8 sm:px-8 sm:py-12 md:px-12 md:py-16">
+        <RelojActual className="mb-6 lg:mb-0 lg:absolute lg:top-8 lg:right-8" />
         <p className="text-[11px] sm:text-xs uppercase tracking-[0.3em] font-semibold text-purple-300/90">
           Inglés real, con películas y series · desde 2023
         </p>

@@ -3,11 +3,11 @@
   "level": "B1-B2",
   "levelDetail": {
     "nivel": "B1-B2",
-    "puntaje": 3.63,
+    "puntaje": 3.62,
     "senales": {
       "vocabulario": 3.74,
       "dialogos": 3.34,
-      "temas": 3.7
+      "temas": 3.64
     },
     "vocabulario": {
       "distribucion": {
@@ -24,9 +24,7 @@
       "cobertura95": 2.9,
       "ppm": 190.0
     },
-    "temas": [
-      "drogas y calle"
-    ]
+    "temas": []
   },
   "englishAnalysis": "Un adelanto (extended look) a Grand Theft Auto VI. El vocabulario es muy callejero e informal.",
   "tmdb": {

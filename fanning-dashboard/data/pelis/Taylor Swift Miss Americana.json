@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.67,
+    "puntaje": 3.68,
     "senales": {
       "vocabulario": 3.94,
       "dialogos": 3.16,
-      "temas": 3.44
+      "temas": 3.53
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 2.86,
       "ppm": 179.0
     },
-    "temas": []
+    "temas": [
+      "musical",
+      "legal y judicial"
+    ]
   },
   "englishAnalysis": "Muestra un inglés americano contemporáneo muy personal e íntimo. El vocabulario incluye términos del mundo de la música, la fama, redes sociales y política ('songwriter', 'backlash', 'approval', 'midterms'). Además, se utiliza mucha jerga de internet y expresiones de vulnerabilidad emocional.",
   "tmdb": {

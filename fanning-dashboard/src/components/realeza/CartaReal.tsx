@@ -5,12 +5,13 @@ import Link from 'next/link';
 import { ArrowRight, Briefcase, Clapperboard, Crown, Film, Heart, Mic, Music, PenLine, RotateCw, User, Wrench, type LucideIcon } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
-import { grupoDe, hrefArtista, hrefTitulo, NOMBRE_RANGO, PAPELES, slugArtista, type Artista, type EstadisticasArtista, type IdGrupo, type Papel } from '@/lib/realeza';
+import { cuandoLlega, grupoDe, hrefArtista, hrefTitulo, NOMBRE_RANGO, nombreProximo, PAPELES, slugArtista, type Artista, type EstadisticasArtista, type IdGrupo, type Papel, type Proximo } from '@/lib/realeza';
 import Cumpleanos from '@/components/realeza/Cumpleanos';
 import { transicionArtista } from '@/lib/transiciones';
 
 export interface ArtistaSalon extends Artista {
   stats: EstadisticasArtista;
+  proximo?: Proximo | null;   // lo primero que viene según la planificación
 }
 
 const RANGO = NOMBRE_RANGO;
@@ -115,11 +116,13 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
 
             <div className={`absolute bottom-0 inset-x-0 ${grande ? 'p-4' : 'p-3'}`}>
               <p className={`uppercase tracking-[0.2em] font-semibold ${grande ? 'text-[11px]' : 'text-[9px]'} ${colorIcono}`}>{RANGO[grupo]}</p>
-              <h3 className={`font-extrabold text-white leading-tight drop-shadow-lg ${grande ? 'text-xl sm:text-2xl' : 'text-base'}`}>{artista.nombre}</h3>
+              <h3 className={`font-real font-bold text-white leading-tight drop-shadow-lg ${grande ? 'text-xl sm:text-2xl' : 'text-base'}`}>{artista.nombre}</h3>
               <p className={`text-gray-300 mt-0.5 ${grande ? 'text-xs' : 'text-[11px]'}`}>
                 {stats.titulos.length
                   ? `${stats.titulos.length} ${stats.titulos.length === 1 ? 'título' : 'títulos'} · ${miles(stats.palabras)} palabras`
-                  : 'Aún sin títulos en el proyecto'}
+                  : artista.proximo?.tandas.length
+                    ? `Llega en la Tanda ${artista.proximo.tandas[0]}`
+                    : 'Aún sin títulos en el proyecto'}
               </p>
             </div>
           </div>
@@ -136,7 +139,7 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
             <div className={`relative h-full flex flex-col gap-2 overflow-y-auto ${grande ? 'p-4 text-xs' : 'p-3 text-[11px]'}`}>
               <div>
                 <p className={`uppercase tracking-[0.2em] font-semibold text-[9px] ${colorIcono}`}>{RANGO[grupo]}</p>
-                <h3 className={`font-extrabold text-white leading-tight ${grande ? 'text-lg' : 'text-sm'}`}>{artista.nombre}</h3>
+                <h3 className={`font-real font-bold text-white leading-tight ${grande ? 'text-lg' : 'text-sm'}`}>{artista.nombre}</h3>
                 <Link href={hrefArtista(artista.nombre)} onClick={e => e.stopPropagation()}
                   className={`inline-flex items-center gap-1 mt-1 font-semibold hover:underline ${colorIcono} ${grande ? 'text-xs' : 'text-[10px]'}`}>
                   Ver su página <ArrowRight size={grande ? 12 : 10} />
@@ -187,7 +190,9 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
                 </>
               ) : (
                 <p className="mt-auto text-gray-400 italic">
-                  Todavía no aparece en ningún título del proyecto. ¡Su momento llegará!
+                  {artista.proximo
+                    ? <>Llega con <span className="not-italic font-semibold text-gray-200">{nombreProximo(artista.proximo)}</span>: {cuandoLlega(artista.proximo)}.</>
+                    : 'Todavía no aparece en ningún título del proyecto. ¡Su momento llegará!'}
                 </p>
               )}
             </div>

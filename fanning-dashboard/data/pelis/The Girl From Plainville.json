@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.66,
+    "puntaje": 3.65,
     "senales": {
       "vocabulario": 3.51,
       "dialogos": 3.04,
-      "temas": 6
+      "temas": 5.96
     },
     "vocabulario": {
       "distribucion": {
@@ -91,7 +91,7 @@
         "senales": {
           "vocabulario": 2.81,
           "dialogos": 2.62,
-          "temas": 3.47
+          "temas": 3.43
         },
         "vocabulario": {
           "distribucion": {
@@ -256,9 +256,7 @@
           "cobertura95": 2.78,
           "ppm": 151.7
         },
-        "temas": [
-          "legal y judicial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -405,11 +403,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.68,
+        "puntaje": 3.66,
         "senales": {
           "vocabulario": 3.74,
           "dialogos": 2.75,
-          "temas": 4.96
+          "temas": 4.83
         },
         "vocabulario": {
           "distribucion": {
@@ -427,7 +425,8 @@
           "ppm": 140.2
         },
         "temas": [
-          "legal y judicial"
+          "legal y judicial",
+          "deportiva"
         ]
       },
       "vocabulary": [
@@ -1303,8 +1302,7 @@
           "ppm": 130.9
         },
         "temas": [
-          "legal y judicial",
-          "médica y de salud"
+          "legal y judicial"
         ]
       },
       "vocabulary": [

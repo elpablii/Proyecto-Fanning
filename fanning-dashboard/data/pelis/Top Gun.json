@@ -1,13 +1,13 @@
 {
   "title": "Top Gun",
-  "level": "B1-B2",
+  "level": "B2",
   "levelDetail": {
-    "nivel": "B1-B2",
-    "puntaje": 3.52,
+    "nivel": "B2",
+    "puntaje": 3.87,
     "senales": {
       "vocabulario": 3.35,
       "dialogos": 3.85,
-      "temas": 3.66
+      "temas": 6
     },
     "vocabulario": {
       "distribucion": {
@@ -25,6 +25,7 @@
       "ppm": 186.5
     },
     "temas": [
+      "aeronáutica",
       "militar y policial"
     ]
   },

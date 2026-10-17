@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.97,
+    "puntaje": 3.95,
     "senales": {
       "vocabulario": 4.15,
       "dialogos": 3.17,
-      "temas": 4.08
+      "temas": 4.02
     },
     "vocabulario": {
       "distribucion": {
@@ -25,7 +25,8 @@
       "ppm": 168.7
     },
     "temas": [
-      "legal y judicial"
+      "legal y judicial",
+      "financiera y empresarial"
     ],
     "rango": [
       "B1-B2",
@@ -643,11 +644,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.29,
+        "puntaje": 4.28,
         "senales": {
           "vocabulario": 4.37,
           "dialogos": 3.51,
-          "temas": 5.29
+          "temas": 5.2
         },
         "vocabulario": {
           "distribucion": {
@@ -985,7 +986,9 @@
           "cobertura95": 2.81,
           "ppm": 162.2
         },
-        "temas": []
+        "temas": [
+          "culinaria"
+        ]
       },
       "vocabulary": [
         {
@@ -1192,10 +1195,7 @@
           "cobertura95": 3.12,
           "ppm": 163.5
         },
-        "temas": [
-          "militar y policial",
-          "médica y de salud"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -1439,7 +1439,8 @@
           "ppm": 170.3
         },
         "temas": [
-          "financiera y empresarial"
+          "financiera y empresarial",
+          "crimen, drogas y calle"
         ]
       },
       "vocabulary": [
@@ -1798,11 +1799,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.03,
+        "puntaje": 3.95,
         "senales": {
           "vocabulario": 4.21,
           "dialogos": 3.23,
-          "temas": 4.63
+          "temas": 4.09
         },
         "vocabulario": {
           "distribucion": {
@@ -1820,8 +1821,7 @@
           "ppm": 176.2
         },
         "temas": [
-          "financiera y empresarial",
-          "drogas y calle"
+          "juego y apuestas"
         ]
       },
       "vocabulary": [
@@ -2104,11 +2104,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.8,
+        "puntaje": 3.73,
         "senales": {
           "vocabulario": 3.99,
           "dialogos": 3.03,
-          "temas": 4.31
+          "temas": 3.88
         },
         "vocabulario": {
           "distribucion": {
@@ -2126,8 +2126,7 @@
           "ppm": 170.6
         },
         "temas": [
-          "financiera y empresarial",
-          "legal y judicial"
+          "financiera y empresarial"
         ]
       },
       "vocabulary": [
@@ -2402,11 +2401,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.78,
+        "puntaje": 3.73,
         "senales": {
           "vocabulario": 3.88,
           "dialogos": 2.98,
-          "temas": 4.67
+          "temas": 4.39
         },
         "vocabulario": {
           "distribucion": {
@@ -2727,11 +2726,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.7,
+        "puntaje": 3.73,
         "senales": {
           "vocabulario": 3.92,
           "dialogos": 2.99,
-          "temas": 4.03
+          "temas": 4.21
         },
         "vocabulario": {
           "distribucion": {

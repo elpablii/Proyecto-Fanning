@@ -3,7 +3,7 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.78,
+    "puntaje": 3.74,
     "senales": {
       "vocabulario": 3.94,
       "dialogos": 2.99,
@@ -25,7 +25,7 @@
       "ppm": 172.6
     },
     "temas": [
-      "drogas y calle"
+      "crimen, drogas y calle"
     ],
     "rango": [
       "B1",
@@ -100,7 +100,9 @@
           "cobertura95": 2.99,
           "ppm": 171.6
         },
-        "temas": []
+        "temas": [
+          "juego y apuestas"
+        ]
       },
       "vocabulary": [
         {
@@ -552,10 +554,7 @@
           "cobertura95": 2.65,
           "ppm": 174.7
         },
-        "temas": [
-          "financiera y empresarial",
-          "legal y judicial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -714,11 +713,11 @@
       "level": "B1",
       "levelDetail": {
         "nivel": "B1",
-        "puntaje": 3.24,
+        "puntaje": 3.13,
         "senales": {
           "vocabulario": 3.15,
           "dialogos": 2.79,
-          "temas": 4.34
+          "temas": 3.65
         },
         "vocabulario": {
           "distribucion": {
@@ -735,9 +734,7 @@
           "cobertura95": 2.52,
           "ppm": 176.3
         },
-        "temas": [
-          "drogas y calle"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -820,11 +817,11 @@
       "level": "B1-B2",
       "levelDetail": {
         "nivel": "B1-B2",
-        "puntaje": 3.6,
+        "puntaje": 3.62,
         "senales": {
           "vocabulario": 3.8,
           "dialogos": 2.93,
-          "temas": 3.94
+          "temas": 4.05
         },
         "vocabulario": {
           "distribucion": {
@@ -842,8 +839,8 @@
           "ppm": 171.4
         },
         "temas": [
-          "legal y judicial",
-          "drogas y calle"
+          "crimen, drogas y calle",
+          "legal y judicial"
         ]
       },
       "vocabulary": [
@@ -1059,11 +1056,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.08,
+        "puntaje": 3.95,
         "senales": {
           "vocabulario": 4.09,
           "dialogos": 2.98,
-          "temas": 5.84
+          "temas": 5.0
         },
         "vocabulario": {
           "distribucion": {
@@ -1081,8 +1078,8 @@
           "ppm": 171.6
         },
         "temas": [
-          "drogas y calle",
-          "legal y judicial"
+          "crimen, drogas y calle",
+          "médica y de salud"
         ]
       },
       "vocabulary": [

@@ -15,7 +15,7 @@ import ImageLightbox from '@/components/media/ImageLightbox';
 import NivelMcer from '@/components/media/NivelMcer';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 
-export default function PeliculaClient({ movieData, extraData, realeza }: { movieData: MovieStats; extraData: ExtraData | null; realeza: ArtistaEnTitulo[] }) {
+export default function PeliculaClient({ movieData, extraData, realeza, color }: { movieData: MovieStats; extraData: ExtraData | null; realeza: ArtistaEnTitulo[]; color: string | null }) {
   const [estudiando, setEstudiando] = useState(false);
   const [imagen, setImagen] = useState<string | null>(null);
 
@@ -25,8 +25,8 @@ export default function PeliculaClient({ movieData, extraData, realeza }: { movi
   const pct = comprension(dialogos, movieData.count);
 
   return (
-    <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} tipo="película">
-      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} transicion={transicionPoster('movie', movieData.title)}>
+    <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} color={color} tipo="película">
+      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} color={color} transicion={transicionPoster('movie', movieData.title)}>
         <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-6">
           <div className="bg-purple-900/40 border border-purple-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
             <BookOpen size={24} className="mx-auto text-purple-400 mb-2" />

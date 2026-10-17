@@ -113,6 +113,8 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `posters_tmdb.py` / `episodios_tmdb.py` | Traen imágenes y sinopsis de TMDB a las fichas. La clave va en `fanning-dashboard/.env.local`. |
 | `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". |
 | `nivel.py` + `datos_nivel/` | Nivel de inglés (MCER) de cada título y episodio. `datos_nivel/` tiene las listas CEFR-J y Octanove (con su licencia) y `temas.json`, las áreas especializadas, que se puede editar. Criterio en `Metodología/Criterio de nivel de inglés (MCER).txt`. `nivel_fijo` en una ficha fuerza un nivel a mano. |
+| `citas.py` | Verifica las citas de la Realeza contra los subtítulos (`python fanning.py citas`, ver "Citas"). |
+| `colores.py` | El color de cada título, sacado de su póster, para teñir su ficha (`python fanning.py colores`). La ficha puede traer `"color"` a mano, que manda. |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
 | `test_conteo.py` / `test_nivel.py` | Pruebas: `python fanning.py probar`. |
 
@@ -122,5 +124,7 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 - la proyección de cada tanda: palabras, líneas, duración y reglas incumplidas;
 - una propuesta de reacomodo hecha por `planificador.py`;
 - la capacidad de los años siguientes.
+
+También deja `fanning-dashboard/data/proximamente.json`: lo planificado donde participa alguien de la Realeza (según el elenco de TMDB y `realeza_manual` de `ajustes.json`), que la página muestra como "Próximamente" en cada artista. Los pósters se piden a TMDB una vez y quedan en `datos_proyeccion/posters.json`. Hay que volver a correrlo cuando cambie el txt.
 
 Las correcciones al txt van en `datos_proyeccion/ajustes.json`. El plan completo está en `PLAN_PROYECCIONES_2027.md`.

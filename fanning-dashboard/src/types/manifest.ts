@@ -49,7 +49,9 @@ export interface ManifestYear {
 
 // Lo que la portada necesita de cada título: sin episodios ni fondos, para no mandar el
 // manifest entero al navegador. `aliases` y `years` solo van en el histórico (los usa el buscador).
-export type TituloResumen = Pick<MovieStats, 'title' | 'count' | 'type' | 'dialogues' | 'posterUrl' | 'level' | 'rating' | 'aliases' | 'years' | 'realeza'>;
+export type TituloResumen = Pick<MovieStats, 'title' | 'count' | 'type' | 'dialogues' | 'posterUrl' | 'level' | 'rating' | 'aliases' | 'years' | 'realeza'> & {
+  color?: string | null;   // sacado del póster (ver getColores)
+};
 
 export interface PortadaAnio extends Omit<ManifestYear, 'movieList'> {
   movieList: TituloResumen[];

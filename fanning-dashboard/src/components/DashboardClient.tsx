@@ -249,6 +249,7 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
               level={item.level}
               rating={item.rating}
               transicion={transicionPoster(item.type, item.title)}
+              color={item.color}
               realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean).sort((a, b) => ordenGrupo(a) - ordenGrupo(b))}
               href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
             />

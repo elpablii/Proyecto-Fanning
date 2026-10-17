@@ -3,11 +3,11 @@
   "level": "B1",
   "levelDetail": {
     "nivel": "B1",
-    "puntaje": 2.72,
+    "puntaje": 2.86,
     "senales": {
       "vocabulario": 2.62,
       "dialogos": 2.4,
-      "temas": 3.7
+      "temas": 4.58
     },
     "vocabulario": {
       "distribucion": {
@@ -25,7 +25,8 @@
       "ppm": 143.4
     },
     "temas": [
-      "militar y policial"
+      "militar y policial",
+      "religión y lo sobrenatural"
     ]
   },
   "englishAnalysis": "Inglés bélico ambientado en Afganistán durante la Guerra Fría. Vocabulario de tácticas de guerrilla, combate desértico e intervencionismo militar, con acentos rusos y de Oriente Medio de los años 80.",

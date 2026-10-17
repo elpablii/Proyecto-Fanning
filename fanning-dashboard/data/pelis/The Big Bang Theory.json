@@ -3,7 +3,7 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 4.32,
+    "puntaje": 4.33,
     "senales": {
       "vocabulario": 4.7,
       "dialogos": 3.5,
@@ -593,11 +593,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.13,
+        "puntaje": 4.18,
         "senales": {
           "vocabulario": 4.46,
           "dialogos": 3.35,
-          "temas": 4.12
+          "temas": 4.42
         },
         "vocabulario": {
           "distribucion": {
@@ -794,11 +794,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.45,
+        "puntaje": 4.48,
         "senales": {
           "vocabulario": 4.77,
           "dialogos": 3.8,
-          "temas": 4.3
+          "temas": 4.5
         },
         "vocabulario": {
           "distribucion": {
@@ -1013,7 +1013,8 @@
           "ppm": 171.2
         },
         "temas": [
-          "científica y técnica"
+          "científica y técnica",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -1265,14 +1266,14 @@
     {
       "code": "S01E04",
       "name": "S01E04",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.33,
+        "nivel": "B2-C1",
+        "puntaje": 4.48,
         "senales": {
           "vocabulario": 4.72,
           "dialogos": 3.45,
-          "temas": 4.22
+          "temas": 5.23
         },
         "vocabulario": {
           "distribucion": {
@@ -1498,14 +1499,14 @@
     {
       "code": "S01E05",
       "name": "S01E05",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.34,
+        "nivel": "B2-C1",
+        "puntaje": 4.36,
         "senales": {
           "vocabulario": 4.6,
           "dialogos": 3.69,
-          "temas": 4.38
+          "temas": 4.53
         },
         "vocabulario": {
           "distribucion": {
@@ -1677,8 +1678,7 @@
           "ppm": 169.7
         },
         "temas": [
-          "legal y judicial",
-          "científica y técnica"
+          "aeronáutica"
         ]
       },
       "vocabulary": [
@@ -2107,9 +2107,7 @@
           "cobertura95": 2.98,
           "ppm": 185.3
         },
-        "temas": [
-          "científica y técnica"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -2259,11 +2257,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.41,
+        "puntaje": 4.44,
         "senales": {
           "vocabulario": 4.53,
           "dialogos": 3.71,
-          "temas": 5.12
+          "temas": 5.33
         },
         "vocabulario": {
           "distribucion": {
@@ -2281,8 +2279,7 @@
           "ppm": 180.5
         },
         "temas": [
-          "científica y técnica",
-          "financiera y empresarial"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -2457,11 +2454,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.88,
+        "puntaje": 4.86,
         "senales": {
           "vocabulario": 5.08,
           "dialogos": 3.74,
-          "temas": 6
+          "temas": 5.84
         },
         "vocabulario": {
           "distribucion": {
@@ -2479,7 +2476,7 @@
           "ppm": 172.8
         },
         "temas": [
-          "drogas y calle",
+          "crimen, drogas y calle",
           "científica y técnica"
         ]
       },
@@ -2688,9 +2685,7 @@
           "cobertura95": 3.49,
           "ppm": 157.5
         },
-        "temas": [
-          "médica y de salud"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -2920,11 +2915,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.61,
+        "puntaje": 4.58,
         "senales": {
           "vocabulario": 4.84,
           "dialogos": 3.27,
-          "temas": 5.89
+          "temas": 5.69
         },
         "vocabulario": {
           "distribucion": {
@@ -3133,11 +3128,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.68,
+        "puntaje": 4.71,
         "senales": {
           "vocabulario": 4.8,
           "dialogos": 3.87,
-          "temas": 5.6
+          "temas": 5.8
         },
         "vocabulario": {
           "distribucion": {
@@ -3541,11 +3536,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.51,
+        "puntaje": 4.63,
         "senales": {
           "vocabulario": 4.7,
           "dialogos": 4.08,
-          "temas": 4.52
+          "temas": 5.29
         },
         "vocabulario": {
           "distribucion": {
@@ -3562,7 +3557,10 @@
           "cobertura95": 3.6,
           "ppm": 193.3
         },
-        "temas": []
+        "temas": [
+          "científica y técnica",
+          "crimen, drogas y calle"
+        ]
       },
       "vocabulary": [
         {
@@ -3721,7 +3719,9 @@
           "cobertura95": 3.26,
           "ppm": 185.6
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {
@@ -4051,9 +4051,7 @@
           "cobertura95": 3.47,
           "ppm": 169.7
         },
-        "temas": [
-          "científica y técnica"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -4261,8 +4259,7 @@
           "ppm": 170.9
         },
         "temas": [
-          "científica y técnica",
-          "drogas y calle"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -4684,7 +4681,7 @@
           "ppm": 174.5
         },
         "temas": [
-          "científica y técnica"
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -4929,7 +4926,7 @@
           "ppm": 164.6
         },
         "temas": [
-          "científica y técnica"
+          "religión y lo sobrenatural"
         ]
       },
       "vocabulary": [
@@ -5136,11 +5133,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.39,
+        "puntaje": 4.46,
         "senales": {
           "vocabulario": 4.6,
           "dialogos": 3.66,
-          "temas": 4.77
+          "temas": 5.21
         },
         "vocabulario": {
           "distribucion": {
@@ -5362,7 +5359,9 @@
           "cobertura95": 3.42,
           "ppm": 161.4
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {
@@ -5585,7 +5584,9 @@
           "cobertura95": 3.33,
           "ppm": 171.0
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {
@@ -5767,11 +5768,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.24,
+        "puntaje": 4.2,
         "senales": {
           "vocabulario": 4.39,
           "dialogos": 3.95,
-          "temas": 4.11
+          "temas": 3.89
         },
         "vocabulario": {
           "distribucion": {
@@ -5788,10 +5789,7 @@
           "cobertura95": 3.46,
           "ppm": 194.1
         },
-        "temas": [
-          "legal y judicial",
-          "médica y de salud"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -6126,11 +6124,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.66,
+        "puntaje": 4.77,
         "senales": {
           "vocabulario": 5.14,
           "dialogos": 3.5,
-          "temas": 4.66
+          "temas": 5.44
         },
         "vocabulario": {
           "distribucion": {
@@ -6324,7 +6322,9 @@
           "cobertura95": 3.49,
           "ppm": 184.1
         },
-        "temas": []
+        "temas": [
+          "culinaria"
+        ]
       },
       "vocabulary": [
         {
@@ -6526,11 +6526,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.69,
+        "puntaje": 4.75,
         "senales": {
           "vocabulario": 4.96,
           "dialogos": 4.01,
-          "temas": 4.77
+          "temas": 5.14
         },
         "vocabulario": {
           "distribucion": {
@@ -6548,7 +6548,8 @@
           "ppm": 189.6
         },
         "temas": [
-          "científica y técnica"
+          "científica y técnica",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -6769,8 +6770,7 @@
           "ppm": 200.8
         },
         "temas": [
-          "legal y judicial",
-          "inglés de época o antiguo"
+          "legal y judicial"
         ]
       },
       "vocabulary": [
@@ -6959,7 +6959,8 @@
           "ppm": 159.5
         },
         "temas": [
-          "médica y de salud"
+          "médica y de salud",
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -7183,9 +7184,7 @@
           "cobertura95": 3.58,
           "ppm": 164.1
         },
-        "temas": [
-          "militar y policial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -7360,9 +7359,7 @@
           "cobertura95": 3.45,
           "ppm": 169.7
         },
-        "temas": [
-          "científica y técnica"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -7654,7 +7651,8 @@
           "ppm": 162.9
         },
         "temas": [
-          "científica y técnica"
+          "científica y técnica",
+          "ajedrez"
         ]
       },
       "vocabulary": [
@@ -7892,7 +7890,7 @@
         },
         "temas": [
           "científica y técnica",
-          "legal y judicial"
+          "cine y espectáculo"
         ]
       },
       "vocabulary": [
@@ -8413,11 +8411,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.93,
+        "puntaje": 3.92,
         "senales": {
           "vocabulario": 4.1,
           "dialogos": 3.67,
-          "temas": 3.66
+          "temas": 3.6
         },
         "vocabulario": {
           "distribucion": {
@@ -8434,9 +8432,7 @@
           "cobertura95": 3.17,
           "ppm": 201.2
         },
-        "temas": [
-          "militar y policial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -8663,7 +8659,9 @@
           "cobertura95": 3.26,
           "ppm": 159.2
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {
@@ -8870,7 +8868,9 @@
           "cobertura95": 3.27,
           "ppm": 204.8
         },
-        "temas": []
+        "temas": [
+          "religión y lo sobrenatural"
+        ]
       },
       "vocabulary": [
         {
@@ -9022,7 +9022,7 @@
           "ppm": 151.9
         },
         "temas": [
-          "inglés de época o antiguo"
+          "juego y apuestas"
         ]
       },
       "vocabulary": [
@@ -9182,9 +9182,7 @@
           "cobertura95": 3.64,
           "ppm": 190.4
         },
-        "temas": [
-          "financiera y empresarial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -9306,11 +9304,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.42,
+        "puntaje": 4.53,
         "senales": {
           "vocabulario": 4.69,
           "dialogos": 3.73,
-          "temas": 4.45
+          "temas": 5.21
         },
         "vocabulario": {
           "distribucion": {
@@ -9328,8 +9326,7 @@
           "ppm": 172.1
         },
         "temas": [
-          "científica y técnica",
-          "financiera y empresarial"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -9661,7 +9658,7 @@
           "ppm": 174.0
         },
         "temas": [
-          "inglés de época o antiguo"
+          "deportiva"
         ]
       },
       "vocabulary": [
@@ -9865,7 +9862,10 @@
           "cobertura95": 2.84,
           "ppm": 194.7
         },
-        "temas": []
+        "temas": [
+          "científica y técnica",
+          "musical"
+        ]
       },
       "vocabulary": [
         {
@@ -9983,11 +9983,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.38,
+        "puntaje": 4.44,
         "senales": {
           "vocabulario": 4.7,
           "dialogos": 3.56,
-          "temas": 4.47
+          "temas": 4.86
         },
         "vocabulario": {
           "distribucion": {
@@ -10162,7 +10162,7 @@
           "ppm": 163.8
         },
         "temas": [
-          "científica y técnica"
+          "cine y espectáculo"
         ]
       },
       "vocabulary": [
@@ -10424,8 +10424,8 @@
           "ppm": 165.8
         },
         "temas": [
-          "médica y de salud",
-          "legal y judicial"
+          "científica y técnica",
+          "médica y de salud"
         ]
       },
       "vocabulary": [
@@ -10580,11 +10580,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.13,
+        "puntaje": 4.16,
         "senales": {
           "vocabulario": 4.36,
           "dialogos": 3.58,
-          "temas": 4.1
+          "temas": 4.34
         },
         "vocabulario": {
           "distribucion": {
@@ -10602,6 +10602,7 @@
           "ppm": 161.8
         },
         "temas": [
+          "científica y técnica",
           "legal y judicial"
         ]
       },
@@ -10777,11 +10778,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.44,
+        "puntaje": 4.49,
         "senales": {
           "vocabulario": 4.73,
           "dialogos": 3.77,
-          "temas": 4.41
+          "temas": 4.7
         },
         "vocabulario": {
           "distribucion": {
@@ -10799,8 +10800,8 @@
           "ppm": 159.5
         },
         "temas": [
-          "médica y de salud",
-          "científica y técnica"
+          "crimen, drogas y calle",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -10971,11 +10972,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.91,
+        "puntaje": 4.98,
         "senales": {
           "vocabulario": 5.13,
           "dialogos": 4.03,
-          "temas": 5.53
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -10993,7 +10994,8 @@
           "ppm": 157.9
         },
         "temas": [
-          "científica y técnica"
+          "científica y técnica",
+          "deportiva"
         ]
       },
       "vocabulary": [
@@ -11214,7 +11216,8 @@
           "ppm": 159.3
         },
         "temas": [
-          "científica y técnica"
+          "científica y técnica",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -11398,14 +11401,14 @@
     {
       "code": "S03E16",
       "name": "S03E16",
-      "level": "C1",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "C1",
-        "puntaje": 4.67,
+        "nivel": "B2-C1",
+        "puntaje": 4.55,
         "senales": {
           "vocabulario": 4.81,
           "dialogos": 3.53,
-          "temas": 6
+          "temas": 5.17
         },
         "vocabulario": {
           "distribucion": {
@@ -11639,9 +11642,7 @@
           "cobertura95": 3.11,
           "ppm": 176.2
         },
-        "temas": [
-          "legal y judicial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -11821,8 +11822,7 @@
           "ppm": 168.2
         },
         "temas": [
-          "científica y técnica",
-          "financiera y empresarial"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -12319,11 +12319,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.35,
+        "puntaje": 4.38,
         "senales": {
           "vocabulario": 4.55,
           "dialogos": 3.56,
-          "temas": 4.89
+          "temas": 5.08
         },
         "vocabulario": {
           "distribucion": {
@@ -12663,8 +12663,7 @@
           "ppm": 159.7
         },
         "temas": [
-          "científica y técnica",
-          "drogas y calle"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -12815,11 +12814,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.03,
+        "puntaje": 4.06,
         "senales": {
           "vocabulario": 4.25,
           "dialogos": 3.29,
-          "temas": 4.38
+          "temas": 4.57
         },
         "vocabulario": {
           "distribucion": {
@@ -13169,11 +13168,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.73,
+        "puntaje": 4.75,
         "senales": {
           "vocabulario": 5.2,
           "dialogos": 3.64,
-          "temas": 4.7
+          "temas": 4.8
         },
         "vocabulario": {
           "distribucion": {
@@ -13191,8 +13190,7 @@
           "ppm": 151.7
         },
         "temas": [
-          "científica y técnica",
-          "médica y de salud"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -14042,7 +14040,6 @@
           "ppm": 151.6
         },
         "temas": [
-          "inglés de época o antiguo",
           "científica y técnica"
         ]
       },
@@ -14234,11 +14231,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.58,
+        "puntaje": 4.5,
         "senales": {
           "vocabulario": 4.81,
           "dialogos": 3.71,
-          "temas": 5.14
+          "temas": 4.61
         },
         "vocabulario": {
           "distribucion": {
@@ -14479,11 +14476,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.27,
+        "puntaje": 4.32,
         "senales": {
           "vocabulario": 4.47,
           "dialogos": 3.35,
-          "temas": 5.0
+          "temas": 5.34
         },
         "vocabulario": {
           "distribucion": {
@@ -14698,14 +14695,14 @@
     {
       "code": "S04E10",
       "name": "S04E10",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.3,
+        "nivel": "B2-C1",
+        "puntaje": 4.36,
         "senales": {
           "vocabulario": 4.55,
           "dialogos": 3.7,
-          "temas": 4.34
+          "temas": 4.74
         },
         "vocabulario": {
           "distribucion": {
@@ -14723,8 +14720,7 @@
           "ppm": 153.0
         },
         "temas": [
-          "médica y de salud",
-          "científica y técnica"
+          "médica y de salud"
         ]
       },
       "vocabulary": [
@@ -15013,14 +15009,14 @@
     {
       "code": "S04E12",
       "name": "S04E12",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.32,
+        "nivel": "B2-C1",
+        "puntaje": 4.37,
         "senales": {
           "vocabulario": 4.64,
           "dialogos": 3.4,
-          "temas": 4.56
+          "temas": 4.91
         },
         "vocabulario": {
           "distribucion": {
@@ -15597,11 +15593,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.53,
+        "puntaje": 4.61,
         "senales": {
           "vocabulario": 4.83,
           "dialogos": 3.47,
-          "temas": 5.08
+          "temas": 5.62
         },
         "vocabulario": {
           "distribucion": {
@@ -15839,9 +15835,7 @@
           "cobertura95": 3.3,
           "ppm": 156.8
         },
-        "temas": [
-          "financiera y empresarial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -16324,7 +16318,8 @@
           "ppm": 154.6
         },
         "temas": [
-          "científica y técnica"
+          "moda y belleza",
+          "religión y lo sobrenatural"
         ]
       },
       "vocabulary": [
@@ -16464,9 +16459,7 @@
           "cobertura95": 3.58,
           "ppm": 158.2
         },
-        "temas": [
-          "inglés de época o antiguo"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -16706,8 +16699,7 @@
           "ppm": 150.1
         },
         "temas": [
-          "científica y técnica",
-          "legal y judicial"
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -16924,7 +16916,8 @@
           "ppm": 141.6
         },
         "temas": [
-          "legal y judicial"
+          "legal y judicial",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -17095,11 +17088,11 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.8,
+        "puntaje": 4.92,
         "senales": {
           "vocabulario": 5.39,
           "dialogos": 3.24,
-          "temas": 5.05
+          "temas": 5.88
         },
         "vocabulario": {
           "distribucion": {
@@ -17116,7 +17109,10 @@
           "cobertura95": 3.31,
           "ppm": 149.1
         },
-        "temas": []
+        "temas": [
+          "científica y técnica",
+          "ajedrez"
+        ]
       },
       "vocabulary": [
         {
@@ -17307,14 +17303,14 @@
     {
       "code": "S04E23",
       "name": "S04E23",
-      "level": "B2-C1",
+      "level": "C1",
       "levelDetail": {
-        "nivel": "B2-C1",
-        "puntaje": 4.62,
+        "nivel": "C1",
+        "puntaje": 4.72,
         "senales": {
           "vocabulario": 4.97,
           "dialogos": 3.62,
-          "temas": 4.89
+          "temas": 5.59
         },
         "vocabulario": {
           "distribucion": {
@@ -17508,10 +17504,7 @@
           "cobertura95": 3.64,
           "ppm": 150.8
         },
-        "temas": [
-          "legal y judicial",
-          "drogas y calle"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -17738,9 +17731,7 @@
           "cobertura95": 3.17,
           "ppm": 147.8
         },
-        "temas": [
-          "militar y policial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -18158,9 +18149,7 @@
           "cobertura95": 3.12,
           "ppm": 159.0
         },
-        "temas": [
-          "legal y judicial"
-        ]
+        "temas": []
       },
       "vocabulary": [
         {
@@ -18388,7 +18377,7 @@
           "ppm": 162.8
         },
         "temas": [
-          "inglés de época o antiguo"
+          "juego y apuestas"
         ]
       },
       "vocabulary": [
@@ -18555,11 +18544,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.83,
+        "puntaje": 3.84,
         "senales": {
           "vocabulario": 4.09,
           "dialogos": 3.0,
-          "temas": 4.18
+          "temas": 4.23
         },
         "vocabulario": {
           "distribucion": {
@@ -18750,8 +18739,8 @@
           "ppm": 163.9
         },
         "temas": [
-          "inglés de época o antiguo",
-          "drogas y calle"
+          "crimen, drogas y calle",
+          "culinaria"
         ]
       },
       "vocabulary": [
@@ -18983,7 +18972,9 @@
           "cobertura95": 3.44,
           "ppm": 143.7
         },
-        "temas": []
+        "temas": [
+          "religión y lo sobrenatural"
+        ]
       },
       "vocabulary": [
         {
@@ -19195,7 +19186,6 @@
           "ppm": 154.4
         },
         "temas": [
-          "médica y de salud",
           "científica y técnica"
         ]
       },
@@ -19590,11 +19580,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.49,
+        "puntaje": 4.47,
         "senales": {
           "vocabulario": 4.88,
           "dialogos": 3.51,
-          "temas": 4.58
+          "temas": 4.38
         },
         "vocabulario": {
           "distribucion": {
@@ -19612,6 +19602,7 @@
           "ppm": 151.6
         },
         "temas": [
+          "religión y lo sobrenatural",
           "legal y judicial"
         ]
       },
@@ -20070,7 +20061,7 @@
           "ppm": 152.3
         },
         "temas": [
-          "drogas y calle"
+          "deportiva"
         ]
       },
       "vocabulary": [
@@ -20596,7 +20587,9 @@
           "cobertura95": 3.49,
           "ppm": 157.9
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {
@@ -20862,11 +20855,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.08,
+        "puntaje": 3.99,
         "senales": {
           "vocabulario": 4.24,
           "dialogos": 3.42,
-          "temas": 4.54
+          "temas": 3.94
         },
         "vocabulario": {
           "distribucion": {
@@ -21354,11 +21347,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.94,
+        "puntaje": 3.95,
         "senales": {
           "vocabulario": 4.27,
           "dialogos": 3.13,
-          "temas": 4.0
+          "temas": 4.06
         },
         "vocabulario": {
           "distribucion": {
@@ -21580,7 +21573,9 @@
           "cobertura95": 3.22,
           "ppm": 169.5
         },
-        "temas": []
+        "temas": [
+          "videojuegos"
+        ]
       },
       "vocabulary": [
         {
@@ -21997,11 +21992,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.87,
+        "puntaje": 3.91,
         "senales": {
           "vocabulario": 4.1,
           "dialogos": 3.36,
-          "temas": 3.84
+          "temas": 4.05
         },
         "vocabulario": {
           "distribucion": {
@@ -22243,7 +22238,9 @@
           "cobertura95": 3.33,
           "ppm": 155.4
         },
-        "temas": []
+        "temas": [
+          "culinaria"
+        ]
       },
       "vocabulary": [
         {
@@ -22497,11 +22494,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.03,
+        "puntaje": 4.09,
         "senales": {
           "vocabulario": 4.3,
           "dialogos": 2.79,
-          "temas": 5.04
+          "temas": 5.4
         },
         "vocabulario": {
           "distribucion": {
@@ -22674,11 +22671,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.76,
+        "puntaje": 3.77,
         "senales": {
           "vocabulario": 4.06,
           "dialogos": 2.86,
-          "temas": 4.06
+          "temas": 4.14
         },
         "vocabulario": {
           "distribucion": {
@@ -22695,7 +22692,9 @@
           "cobertura95": 2.87,
           "ppm": 154.5
         },
-        "temas": []
+        "temas": [
+          "científica y técnica"
+        ]
       },
       "vocabulary": [
         {

@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.86,
+    "puntaje": 3.95,
     "senales": {
       "vocabulario": 3.99,
       "dialogos": 3.41,
-      "temas": 4.09
+      "temas": 4.85
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,9 @@
       "cobertura95": 3.15,
       "ppm": 175.7
     },
-    "temas": [],
+    "temas": [
+      "aeronáutica"
+    ],
     "rango": [
       "B1-B2",
       "B2"
@@ -108,11 +110,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.94,
+        "puntaje": 4.23,
         "senales": {
           "vocabulario": 4.01,
           "dialogos": 3.68,
-          "temas": 4.08
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -129,7 +131,9 @@
           "cobertura95": 3.25,
           "ppm": 189.3
         },
-        "temas": []
+        "temas": [
+          "aeronáutica"
+        ]
       },
       "vocabulary": [
         {
@@ -627,14 +631,14 @@
     {
       "code": "S01E03",
       "name": "Pan Am (Episode 3)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.5,
+        "nivel": "B2",
+        "puntaje": 3.72,
         "senales": {
           "vocabulario": 3.36,
           "dialogos": 3.75,
-          "temas": 3.65
+          "temas": 5.09
         },
         "vocabulario": {
           "distribucion": {
@@ -651,7 +655,10 @@
           "cobertura95": 3.43,
           "ppm": 180.9
         },
-        "temas": []
+        "temas": [
+          "aeronáutica",
+          "culinaria"
+        ]
       },
       "vocabulary": [
         {
@@ -834,14 +841,14 @@
     {
       "code": "S01E04",
       "name": "Pan Am (Episode 4)",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.16,
+        "nivel": "B2-C1",
+        "puntaje": 4.35,
         "senales": {
           "vocabulario": 4.23,
           "dialogos": 3.98,
-          "temas": 4.13
+          "temas": 5.45
         },
         "vocabulario": {
           "distribucion": {
@@ -858,7 +865,9 @@
           "cobertura95": 3.52,
           "ppm": 191.9
         },
-        "temas": []
+        "temas": [
+          "aeronáutica"
+        ]
       },
       "vocabulary": [
         {
@@ -1156,11 +1165,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.0,
+        "puntaje": 4.07,
         "senales": {
           "vocabulario": 4.21,
           "dialogos": 3.47,
-          "temas": 4.05
+          "temas": 4.51
         },
         "vocabulario": {
           "distribucion": {
@@ -1177,7 +1186,9 @@
           "cobertura95": 3.28,
           "ppm": 170.1
         },
-        "temas": []
+        "temas": [
+          "juego y apuestas"
+        ]
       },
       "vocabulary": [
         {
@@ -1509,7 +1520,8 @@
           "ppm": 184.8
         },
         "temas": [
-          "legal y judicial"
+          "aeronáutica",
+          "moda y belleza"
         ]
       },
       "vocabulary": [
@@ -1817,7 +1829,9 @@
           "cobertura95": 2.88,
           "ppm": 186.9
         },
-        "temas": []
+        "temas": [
+          "aeronáutica"
+        ]
       },
       "vocabulary": [
         {
@@ -2075,11 +2089,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.75,
+        "puntaje": 4.02,
         "senales": {
           "vocabulario": 3.84,
           "dialogos": 3.28,
-          "temas": 4.16
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -2097,7 +2111,7 @@
           "ppm": 175.6
         },
         "temas": [
-          "militar y policial"
+          "aeronáutica"
         ]
       },
       "vocabulary": [
@@ -2268,7 +2282,7 @@
         "senales": {
           "vocabulario": 4.25,
           "dialogos": 3.33,
-          "temas": 4.16
+          "temas": 4.2
         },
         "vocabulario": {
           "distribucion": {
@@ -2286,7 +2300,8 @@
           "ppm": 174.1
         },
         "temas": [
-          "drogas y calle"
+          "aeronáutica",
+          "científica y técnica"
         ]
       },
       "vocabulary": [
@@ -2614,7 +2629,9 @@
           "cobertura95": 2.88,
           "ppm": 167.0
         },
-        "temas": []
+        "temas": [
+          "moda y belleza"
+        ]
       },
       "vocabulary": [
         {
@@ -2808,11 +2825,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.88,
+        "puntaje": 4.02,
         "senales": {
           "vocabulario": 3.99,
           "dialogos": 3.54,
-          "temas": 4.0
+          "temas": 4.94
         },
         "vocabulario": {
           "distribucion": {
@@ -2830,7 +2847,7 @@
           "ppm": 173.8
         },
         "temas": [
-          "legal y judicial"
+          "aeronáutica"
         ]
       },
       "vocabulary": [
@@ -3090,14 +3107,14 @@
     {
       "code": "S01E12",
       "name": "Pan Am (Episode 12)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.64,
+        "nivel": "B2",
+        "puntaje": 3.78,
         "senales": {
           "vocabulario": 3.82,
           "dialogos": 3.0,
-          "temas": 3.96
+          "temas": 4.88
         },
         "vocabulario": {
           "distribucion": {
@@ -3114,7 +3131,10 @@
           "cobertura95": 2.85,
           "ppm": 167.0
         },
-        "temas": []
+        "temas": [
+          "aeronáutica",
+          "crimen, drogas y calle"
+        ]
       },
       "vocabulary": [
         {
@@ -3361,7 +3381,10 @@
           "cobertura95": 3.47,
           "ppm": 152.0
         },
-        "temas": []
+        "temas": [
+          "religión y lo sobrenatural",
+          "aeronáutica"
+        ]
       },
       "vocabulary": [
         {
@@ -3587,11 +3610,11 @@
       "level": "B1-B2",
       "levelDetail": {
         "nivel": "B1-B2",
-        "puntaje": 3.57,
+        "puntaje": 3.56,
         "senales": {
           "vocabulario": 3.53,
           "dialogos": 3.06,
-          "temas": 4.58
+          "temas": 4.47
         },
         "vocabulario": {
           "distribucion": {
@@ -3609,7 +3632,8 @@
           "ppm": 166.6
         },
         "temas": [
-          "legal y judicial"
+          "legal y judicial",
+          "aeronáutica"
         ]
       },
       "vocabulary": [

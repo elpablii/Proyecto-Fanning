@@ -29,7 +29,7 @@ function claseNivel(nivel: string): string {
   return 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30';
 }
 
-export default function SeriesClient({ movieData, extraData, realeza }: { movieData: MovieStats; extraData: SerieExtra | null; realeza: ArtistaEnTitulo[] }) {
+export default function SeriesClient({ movieData, extraData, realeza, color }: { movieData: MovieStats; extraData: SerieExtra | null; realeza: ArtistaEnTitulo[]; color: string | null }) {
   const [tarjetas, setTarjetas] = useState<VocabItem[] | null>(null);
   // El vocabulario no viene con la página: se pide la primera vez que se estudia y queda guardado.
   const vocabulario = useRef<VocabularioSerie | null>(null);
@@ -79,8 +79,8 @@ export default function SeriesClient({ movieData, extraData, realeza }: { movieD
   const totalVocabulario = episodios.reduce((s, e) => s + e.palabras, 0);
 
   return (
-    <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} tipo="serie">
-      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} transicion={transicionPoster('series', movieData.title)}>
+    <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} color={color} tipo="serie">
+      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} color={color} transicion={transicionPoster('series', movieData.title)}>
         <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 items-center text-sm sm:text-base md:text-lg">
           <span className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
             <BookOpen size={16} className="sm:w-5 sm:h-5" /> {miles(movieData.count)} Palabras Globales

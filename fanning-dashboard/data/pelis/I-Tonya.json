@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.77,
+    "puntaje": 3.72,
     "senales": {
       "vocabulario": 4.07,
       "dialogos": 2.84,
-      "temas": 4.14
+      "temas": 3.79
     },
     "vocabulario": {
       "distribucion": {
@@ -25,6 +25,7 @@
       "ppm": 157.5
     },
     "temas": [
+      "deportiva",
       "legal y judicial"
     ]
   },

@@ -9,6 +9,7 @@
   python fanning.py ids [--guardar]                busca en TMDB el id de las fichas que no lo tienen
   python fanning.py realeza [--rehacer]            fotos de la Realeza y en qué títulos participa cada artista (TMDB)
   python fanning.py citas                          verifica las citas de la Realeza contra los subtítulos
+  python fanning.py colores [--rehacer]            el color de cada título, sacado de su póster
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
   python fanning.py revisar dialogos "ruta.pdf"    conteo de un PDF de diálogos, página por página
   python fanning.py probar                         corre las pruebas del conteo
@@ -131,6 +132,11 @@ def cmd_citas(args):
     correr(citas)
 
 
+def cmd_colores(args):
+    import colores
+    correr(colores, *(['--rehacer'] if args.rehacer else []))
+
+
 def cmd_pendientes(args, solo_nuevas=False):
     lista, errores, avisos = F.cargar(estricto=False)
     if errores:
@@ -225,6 +231,10 @@ def main():
 
     p = sub.add_parser('citas', help='verifica las citas de la Realeza contra los subtítulos y anota dónde están')
     p.set_defaults(fn=cmd_citas)
+
+    p = sub.add_parser('colores', help='el color de cada título, sacado de su póster (para teñir su ficha)')
+    p.add_argument('--rehacer', action='store_true', help='vuelve a calcular todos los colores')
+    p.set_defaults(fn=cmd_colores)
 
     p = sub.add_parser('revisar', help='revisiones de ortografía o de un PDF de diálogos')
     p.add_argument('que', choices=['ortografia', 'dialogos'])

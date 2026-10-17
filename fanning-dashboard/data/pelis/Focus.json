@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.83,
+    "puntaje": 3.89,
     "senales": {
       "vocabulario": 4.07,
       "dialogos": 3.41,
-      "temas": 3.57
+      "temas": 3.92
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 3.24,
       "ppm": 168.7
     },
-    "temas": []
+    "temas": [
+      "juego y apuestas",
+      "deportiva"
+    ]
   },
   "englishAnalysis": "Se caracteriza por un inglés dinámico y persuasivo centrado en la jerga criminal, las apuestas y la estafa ('con', 'mark', 'steal', 'lift'). Incluye diálogos ágiles, manipulación psicológica y lenguaje de la calle combinado con términos de alta sociedad.",
   "tmdb": {

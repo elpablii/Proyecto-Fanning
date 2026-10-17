@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { ManifestData, ManifestYear, MovieStats, PortadaData } from '@/types/manifest';
 import { ExtraData, VocabItem } from '@/types/media';
-import { ordenGrupo, slugArtista, type Artista, type ArtistaEnTitulo } from '@/lib/realeza';
+import { ordenGrupo, slugArtista, type Artista, type ArtistaEnTitulo, type Proximo } from '@/lib/realeza';
 
 // No está en public/: solo se lee en el build y no se publica tal cual (la página manda lo que usa).
 const DATA = path.join(process.cwd(), 'data');
@@ -22,6 +22,7 @@ export function getManifest(): ManifestData | null {
 // El manifest recortado a lo que muestra la portada (ver TituloResumen).
 export function getPortada(): PortadaData {
   const manifest = getManifest() ?? {};
+  const colores = getColores();
   const portada: PortadaData = {};
   for (const [anio, datos] of Object.entries(manifest)) {
     if (anio === 'yearlyData' || !datos || Array.isArray(datos)) continue;
@@ -29,7 +30,7 @@ export function getPortada(): PortadaData {
       ...datos,
       movieList: datos.movieList.map(m => ({
         title: m.title, count: m.count, type: m.type, dialogues: m.dialogues,
-        posterUrl: m.posterUrl, level: m.level, rating: m.rating, realeza: m.realeza,
+        posterUrl: m.posterUrl, level: m.level, rating: m.rating, realeza: m.realeza, color: colores[m.title] ?? null,
         ...(anio === 'all' && { aliases: m.aliases, years: m.years }),
       })),
     };
@@ -37,9 +38,25 @@ export function getPortada(): PortadaData {
   return portada;
 }
 
+// El color de cada título, sacado de su póster (python fanning.py colores). null si el póster es casi gris.
+export function getColores(): Record<string, string | null> {
+  const datos = leer<Record<string, { color: string | null }>>('colores.json') ?? {};
+  return Object.fromEntries(Object.entries(datos).map(([t, d]) => [t, d.color]));
+}
+
 // La Realeza (copia de contenido/realeza.json, con la foto y el nacimiento que trae TMDB).
 export function getRealeza(): Artista[] {
   return leer<Artista[]>('realeza.json') ?? [];
+}
+
+// Lo que viene para cada artista (ver Proximo en lib/realeza.ts). Las películas que ya están
+// en el proyecto no se repiten aquí.
+export function getProximamente(): Record<string, Proximo[]> {
+  const datos = leer<Record<string, Proximo[]>>('proximamente.json') ?? {};
+  const plano = (t: string) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+  const vistos = new Set(getTodos().flatMap(m => [m.title, ...(m.aliases ?? [])]).map(plano));
+  return Object.fromEntries(Object.entries(datos).map(([n, lista]) =>
+    [n, lista.filter(p => p.tipo === 'serie' || !vistos.has(plano(p.titulo)))]));
 }
 
 export function getArtista(slug: string): Artista | null {

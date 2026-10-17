@@ -52,7 +52,7 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
 
         <header className="text-center mb-12 md:mb-16 animate-fade-in">
           <Crown size={40} className="mx-auto text-amber-300 drop-shadow-[0_0_18px_rgba(251,191,36,0.6)] mb-3" />
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight bg-linear-to-r from-amber-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
+          <h1 className="font-real text-4xl md:text-6xl font-bold bg-linear-to-r from-amber-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
             El Salón del Trono
           </h1>
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto md:text-lg">
@@ -86,7 +86,7 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
             return (
               <section key={g.id} aria-labelledby={`grupo-${g.id}`}>
                 <header className={`mb-6 ${estilo.grande ? 'text-center' : ''}`}>
-                  <h2 id={`grupo-${g.id}`} className={`text-2xl md:text-3xl font-extrabold inline-flex items-center gap-2 bg-linear-to-r ${estilo.titulo} bg-clip-text text-transparent`}>
+                  <h2 id={`grupo-${g.id}`} className={`font-real text-2xl md:text-3xl font-bold inline-flex items-center gap-2 bg-linear-to-r ${estilo.titulo} bg-clip-text text-transparent`}>
                     <Icono size={24} className={g.id === 'platonicos' || g.id === 'reinas' ? 'text-pink-300' : 'text-amber-300'}
                       fill={g.id === 'platonicos' ? 'currentColor' : 'none'} aria-hidden />
                     {g.nombre}

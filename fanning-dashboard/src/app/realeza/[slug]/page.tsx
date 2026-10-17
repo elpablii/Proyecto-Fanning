@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ArtistaClient, { type TituloEnPagina, type Vecino } from '@/components/realeza/ArtistaClient';
-import { getArtista, getManifest, getRealeza, getTandasPorTitulo, getTodos, getVocabularioArtista } from '@/lib/data';
+import { getArtista, getManifest, getProximamente, getRealeza, getTandasPorTitulo, getTodos, getVocabularioArtista } from '@/lib/data';
 import { agrupar, conexiones, estadisticas, NOMBRE_RANGO, grupoDe, slugArtista, type Artista } from '@/lib/realeza';
 import { comprension } from '@/lib/stats';
 
@@ -64,6 +64,7 @@ export default async function ArtistaPage({ params }: { params: Promise<{ slug: 
       primeraTanda={numerosTandas.size ? Math.min(...numerosTandas) : null}
       conexiones={enlaces}
       totalVocabulario={getVocabularioArtista(artista.nombre).length}
+      proximos={getProximamente()[artista.nombre] ?? []}
       comprensionProyecto={comprensionProyecto}
       anterior={vecino(orden[(i - 1 + orden.length) % orden.length])}
       siguiente={vecino(orden[(i + 1) % orden.length])}

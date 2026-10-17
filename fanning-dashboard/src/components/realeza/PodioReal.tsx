@@ -46,10 +46,12 @@ const CATEGORIAS = [
 
 type IdCategoria = typeof CATEGORIAS[number]['id'];
 
+// Oro, plata y bronce en colores fijos (hexadecimales): se ven igual en el modo claro, que da vuelta
+// la paleta de Tailwind. El texto del valor sí usa la paleta, para leerse en los dos modos.
 const MEDALLA = [
-  { nombre: 'Oro', anillo: 'border-amber-300 shadow-[0_0_25px_rgba(251,191,36,0.55)]', base: 'from-amber-200 via-amber-400 to-yellow-700', texto: 'text-amber-200', alto: 'h-28 sm:h-32' },
-  { nombre: 'Plata', anillo: 'border-slate-200 shadow-[0_0_20px_rgba(226,232,240,0.4)]', base: 'from-slate-100 via-slate-300 to-slate-500', texto: 'text-slate-200', alto: 'h-20 sm:h-24' },
-  { nombre: 'Bronce', anillo: 'border-orange-400 shadow-[0_0_20px_rgba(251,146,60,0.4)]', base: 'from-orange-200 via-orange-400 to-amber-800', texto: 'text-orange-200', alto: 'h-14 sm:h-16' },
+  { nombre: 'Oro', anillo: 'border-[#fcd34d] shadow-[0_0_25px_rgba(251,191,36,0.55)]', base: 'from-[#fde68a] via-[#fbbf24] to-[#a16207]', texto: 'text-amber-200', alto: 'h-28 sm:h-32' },
+  { nombre: 'Plata', anillo: 'border-[#e2e8f0] shadow-[0_0_20px_rgba(148,163,184,0.5)]', base: 'from-[#f1f5f9] via-[#cbd5e1] to-[#64748b]', texto: 'text-slate-200', alto: 'h-20 sm:h-24' },
+  { nombre: 'Bronce', anillo: 'border-[#fb923c] shadow-[0_0_20px_rgba(251,146,60,0.4)]', base: 'from-[#fed7aa] via-[#fb923c] to-[#92400e]', texto: 'text-orange-200', alto: 'h-14 sm:h-16' },
 ];
 
 function Foto({ f, clase }: { f: FilaPodio; clase: string }) {
@@ -74,7 +76,7 @@ export default function PodioReal({ filas }: { filas: FilaPodio[] }) {
   return (
     <section aria-labelledby="podio" className="mb-16 rounded-3xl border border-amber-300/20 bg-linear-to-b from-amber-500/[0.07] to-transparent p-5 sm:p-8">
       <header className="text-center mb-6">
-        <h2 id="podio" className="text-2xl md:text-3xl font-extrabold inline-flex items-center gap-2 bg-linear-to-r from-amber-100 via-amber-300 to-yellow-600 bg-clip-text text-transparent">
+        <h2 id="podio" className="font-real text-2xl md:text-3xl font-bold inline-flex items-center gap-2 bg-linear-to-r from-amber-100 via-amber-300 to-yellow-600 bg-clip-text text-transparent">
           <Trophy size={24} className="text-amber-300" aria-hidden /> El Podio Real
         </h2>
         <p className="text-gray-400 text-sm mt-1">Quién dejó más huella en el proyecto.</p>
@@ -104,12 +106,12 @@ export default function PodioReal({ filas }: { filas: FilaPodio[] }) {
                   <Foto f={f} clase={`${i === 0 ? 'w-24 h-24 sm:w-28 sm:h-28' : 'w-16 h-16 sm:w-20 sm:h-20'} border-4 ${m.anillo} group-hover:scale-105 transition-transform`} />
                   {i === 0 && <Crown size={26} className="absolute -top-5 left-1/2 -translate-x-1/2 text-amber-300 drop-shadow-[0_0_8px_rgba(251,191,36,0.8)]" fill="currentColor" aria-hidden />}
                 </span>
-                <span className="mt-2 font-bold text-white leading-tight text-sm sm:text-base group-hover:text-amber-200">{f.nombre}</span>
+                <span className="mt-2 font-real font-bold text-white leading-tight text-sm sm:text-base group-hover:text-amber-200">{f.nombre}</span>
               </Link>
               <span className="text-[10px] uppercase tracking-wider text-gray-500">{NOMBRE_RANGO[grupoDe(f)]}</span>
               <span className={`text-xs sm:text-sm font-semibold mt-1 ${m.texto}`}>{cat.texto(f)}</span>
               <div className={`mt-3 w-full ${m.alto} rounded-t-xl bg-linear-to-b ${m.base} flex items-start justify-center pt-2 shadow-inner`}>
-                <span className="text-2xl sm:text-3xl font-black text-gray-950/70">{i + 1}</span>
+                <span className="text-2xl sm:text-3xl font-black text-[#030712]/70">{i + 1}</span>
                 <span className="sr-only">{m.nombre}</span>
               </div>
             </li>

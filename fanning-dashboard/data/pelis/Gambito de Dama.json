@@ -1,13 +1,13 @@
 {
   "title": "Gambito de Dama",
-  "level": "B1-B2",
+  "level": "B2",
   "levelDetail": {
-    "nivel": "B1-B2",
-    "puntaje": 3.6,
+    "nivel": "B2",
+    "puntaje": 3.92,
     "senales": {
       "vocabulario": 3.63,
       "dialogos": 3.35,
-      "temas": 3.71
+      "temas": 6
     },
     "vocabulario": {
       "distribucion": {
@@ -24,10 +24,12 @@
       "cobertura95": 2.97,
       "ppm": 185.4
     },
-    "temas": [],
+    "temas": [
+      "ajedrez"
+    ],
     "rango": [
-      "B1",
-      "B2"
+      "B1-B2",
+      "B2-C1"
     ]
   },
   "englishAnalysis": "El vocabulario de Gambito de Dama se centra en el ajedrez competitivo (aperturas, defensas, jugadas), combinado con el lenguaje de los años 60, internados, adopción y la lucha contra las adicciones.",
@@ -86,11 +88,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.91,
+        "puntaje": 4.15,
         "senales": {
           "vocabulario": 4.07,
           "dialogos": 3.25,
-          "temas": 4.38
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -108,8 +110,8 @@
           "ppm": 174.5
         },
         "temas": [
-          "inglés de época o antiguo",
-          "médica y de salud"
+          "ajedrez",
+          "inglés de época o antiguo"
         ]
       },
       "vocabulary": [
@@ -284,11 +286,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.97,
+        "puntaje": 4.25,
         "senales": {
           "vocabulario": 4.0,
           "dialogos": 3.82,
-          "temas": 4.11
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -305,7 +307,9 @@
           "cobertura95": 3.48,
           "ppm": 182.6
         },
-        "temas": []
+        "temas": [
+          "ajedrez"
+        ]
       },
       "vocabulary": [
         {
@@ -492,14 +496,14 @@
     {
       "code": "S01E03",
       "name": "Gambito de Dama (Episode 3)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.53,
+        "nivel": "B2",
+        "puntaje": 3.85,
         "senales": {
           "vocabulario": 3.45,
           "dialogos": 3.51,
-          "temas": 3.93
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -517,7 +521,7 @@
           "ppm": 193.6
         },
         "temas": [
-          "drogas y calle"
+          "ajedrez"
         ]
       },
       "vocabulary": [
@@ -697,14 +701,14 @@
     {
       "code": "S01E04",
       "name": "Gambito de Dama (Episode 4)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.54,
+        "nivel": "B2",
+        "puntaje": 3.84,
         "senales": {
           "vocabulario": 3.63,
           "dialogos": 3.06,
-          "temas": 4.0
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -722,8 +726,8 @@
           "ppm": 171.7
         },
         "temas": [
-          "médica y de salud",
-          "financiera y empresarial"
+          "ajedrez",
+          "médica y de salud"
         ]
       },
       "vocabulary": [
@@ -839,14 +843,14 @@
     {
       "code": "S01E05",
       "name": "Gambito de Dama (Episode 5)",
-      "level": "B1",
+      "level": "B1-B2",
       "levelDetail": {
-        "nivel": "B1",
-        "puntaje": 3.07,
+        "nivel": "B1-B2",
+        "puntaje": 3.47,
         "senales": {
           "vocabulario": 2.94,
           "dialogos": 3.23,
-          "temas": 3.31
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -863,7 +867,9 @@
           "cobertura95": 2.79,
           "ppm": 190.1
         },
-        "temas": []
+        "temas": [
+          "ajedrez"
+        ]
       },
       "vocabulary": [
         {
@@ -1002,14 +1008,14 @@
     {
       "code": "S01E06",
       "name": "Gambito de Dama (Episode 6)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.52,
+        "nivel": "B2",
+        "puntaje": 3.85,
         "senales": {
           "vocabulario": 3.62,
           "dialogos": 3.1,
-          "temas": 3.82
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -1027,8 +1033,7 @@
           "ppm": 185.8
         },
         "temas": [
-          "financiera y empresarial",
-          "legal y judicial"
+          "ajedrez"
         ]
       },
       "vocabulary": [
@@ -1192,14 +1197,14 @@
     {
       "code": "S01E07",
       "name": "Gambito de Dama (Episode 7)",
-      "level": "B1-B2",
+      "level": "B2",
       "levelDetail": {
-        "nivel": "B1-B2",
-        "puntaje": 3.36,
+        "nivel": "B2",
+        "puntaje": 3.73,
         "senales": {
           "vocabulario": 3.32,
           "dialogos": 3.36,
-          "temas": 3.5
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -1217,7 +1222,7 @@
           "ppm": 189.6
         },
         "temas": [
-          "drogas y calle"
+          "ajedrez"
         ]
       },
       "vocabulary": [
@@ -1409,14 +1414,14 @@
     {
       "code": "SP01",
       "name": "Gambito de Dama (Special Episode)",
-      "level": "B2",
+      "level": "B2-C1",
       "levelDetail": {
-        "nivel": "B2",
-        "puntaje": 4.08,
+        "nivel": "B2-C1",
+        "puntaje": 4.37,
         "senales": {
           "vocabulario": 4.26,
           "dialogos": 3.67,
-          "temas": 4.05
+          "temas": 6
         },
         "vocabulario": {
           "distribucion": {
@@ -1434,7 +1439,8 @@
           "ppm": 194.7
         },
         "temas": [
-          "drogas y calle"
+          "ajedrez",
+          "moda y belleza"
         ]
       },
       "vocabulary": [

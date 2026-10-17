@@ -3,11 +3,11 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 4.03,
+    "puntaje": 4.06,
     "senales": {
       "vocabulario": 4.17,
       "dialogos": 3.91,
-      "temas": 3.67
+      "temas": 3.86
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 3.91,
       "ppm": 155.1
     },
-    "temas": []
+    "temas": [
+      "militar y policial",
+      "musical"
+    ]
   },
   "englishAnalysis": "Presenta un inglés americano crudo, sarcástico y lleno de jerga callejera ('goon', 'mercenary', 'psycho'). El tono es frenético, con mucho humor negro y lenguaje explícito, excelente para exponerse al argot urbano moderno y expresiones criminales informales.",
   "tmdb": {

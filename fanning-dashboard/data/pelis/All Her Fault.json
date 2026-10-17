@@ -3,11 +3,11 @@
   "level": "B1",
   "levelDetail": {
     "nivel": "B1",
-    "puntaje": 3.12,
+    "puntaje": 3.15,
     "senales": {
       "vocabulario": 3.1,
       "dialogos": 2.75,
-      "temas": 3.46
+      "temas": 4.0
     },
     "vocabulario": {
       "distribucion": {
@@ -24,10 +24,13 @@
       "cobertura95": 2.77,
       "ppm": 153.1
     },
-    "temas": [],
+    "temas": [
+      "crimen, drogas y calle",
+      "juego y apuestas"
+    ],
     "rango": [
       "B1",
-      "B1"
+      "B1-B2"
     ]
   },
   "englishAnalysis": "El vocabulario de All Her Fault se centra en los suburbios de clase alta en Chicago, mezclando lenguaje escolar y vecinal cotidiano con jerga policial y de investigación a medida que la trama de suspenso avanza.",
@@ -85,11 +88,11 @@
       "level": "B1",
       "levelDetail": {
         "nivel": "B1",
-        "puntaje": 3.22,
+        "puntaje": 3.25,
         "senales": {
           "vocabulario": 3.37,
           "dialogos": 2.64,
-          "temas": 3.59
+          "temas": 3.77
         },
         "vocabulario": {
           "distribucion": {
@@ -106,7 +109,9 @@
           "cobertura95": 2.48,
           "ppm": 167.7
         },
-        "temas": []
+        "temas": [
+          "crimen, drogas y calle"
+        ]
       },
       "vocabulary": [
         {
@@ -336,11 +341,11 @@
       "level": "B1",
       "levelDetail": {
         "nivel": "B1",
-        "puntaje": 3.2,
+        "puntaje": 3.19,
         "senales": {
           "vocabulario": 3.24,
           "dialogos": 2.79,
-          "temas": 3.7
+          "temas": 3.63
         },
         "vocabulario": {
           "distribucion": {
@@ -358,8 +363,8 @@
           "ppm": 153.0
         },
         "temas": [
-          "financiera y empresarial",
-          "científica y técnica"
+          "médica y de salud",
+          "crimen, drogas y calle"
         ]
       },
       "vocabulary": [
@@ -814,14 +819,14 @@
     {
       "code": "S01E04",
       "name": "All Her Fault (Episode 4)",
-      "level": "B1",
+      "level": "B1-B2",
       "levelDetail": {
-        "nivel": "B1",
-        "puntaje": 3.27,
+        "nivel": "B1-B2",
+        "puntaje": 3.46,
         "senales": {
           "vocabulario": 3.23,
           "dialogos": 2.95,
-          "temas": 3.96
+          "temas": 5.23
         },
         "vocabulario": {
           "distribucion": {
@@ -839,6 +844,7 @@
           "ppm": 152.5
         },
         "temas": [
+          "crimen, drogas y calle",
           "legal y judicial"
         ]
       },
@@ -1090,11 +1096,11 @@
       "level": "B1",
       "levelDetail": {
         "nivel": "B1",
-        "puntaje": 2.97,
+        "puntaje": 2.94,
         "senales": {
           "vocabulario": 2.73,
           "dialogos": 2.71,
-          "temas": 4.36
+          "temas": 4.13
         },
         "vocabulario": {
           "distribucion": {
@@ -1112,7 +1118,7 @@
           "ppm": 164.1
         },
         "temas": [
-          "drogas y calle",
+          "crimen, drogas y calle",
           "médica y de salud"
         ]
       },
@@ -1289,14 +1295,14 @@
     {
       "code": "S01E06",
       "name": "All Her Fault (Episode 6)",
-      "level": "B1",
+      "level": "B1-B2",
       "levelDetail": {
-        "nivel": "B1",
-        "puntaje": 3.31,
+        "nivel": "B1-B2",
+        "puntaje": 3.36,
         "senales": {
           "vocabulario": 3.28,
           "dialogos": 2.73,
-          "temas": 4.4
+          "temas": 4.75
         },
         "vocabulario": {
           "distribucion": {
@@ -1314,7 +1320,8 @@
           "ppm": 155.3
         },
         "temas": [
-          "drogas y calle"
+          "crimen, drogas y calle",
+          "juego y apuestas"
         ]
       },
       "vocabulary": [
@@ -1541,11 +1548,11 @@
       "level": "B1",
       "levelDetail": {
         "nivel": "B1",
-        "puntaje": 3.01,
+        "puntaje": 3.05,
         "senales": {
           "vocabulario": 2.99,
           "dialogos": 2.69,
-          "temas": 3.6
+          "temas": 3.89
         },
         "vocabulario": {
           "distribucion": {
@@ -1563,7 +1570,7 @@
           "ppm": 131.6
         },
         "temas": [
-          "financiera y empresarial"
+          "juego y apuestas"
         ]
       },
       "vocabulary": [
@@ -1714,7 +1721,7 @@
         "senales": {
           "vocabulario": 3.01,
           "dialogos": 2.59,
-          "temas": 3.51
+          "temas": 3.52
         },
         "vocabulario": {
           "distribucion": {
@@ -1731,7 +1738,9 @@
           "cobertura95": 2.72,
           "ppm": 144.8
         },
-        "temas": []
+        "temas": [
+          "crimen, drogas y calle"
+        ]
       },
       "vocabulary": [
         {

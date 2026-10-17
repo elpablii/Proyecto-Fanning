@@ -14,6 +14,7 @@ Una ficha por película o serie, con todo lo que se edita a mano:
   "realeza": {"Margot Robbie": ["actua", "produce"]},   # quién de contenido/realeza.json participa y cómo
                                                         # (ver PAPELES); lo escribe realeza_tmdb.py
   "realeza_manual": {"Eminem": ["musica"]},             # opcional: lo que TMDB no sabe (se agrega a mano)
+  "color": "#e0479e",                      # opcional: el color de la ficha; si no está, sale del póster (colores.py)
   "pdfs": {
     "vocabulario": ["Vocabularios/2024/…pdf"],
     "dialogos": ["Diálogos/…pdf", {"ruta": "Diálogos/…pdf", "episodio": "SP01"}]

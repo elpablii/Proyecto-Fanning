@@ -3,11 +3,11 @@
   "level": "B1-B2",
   "levelDetail": {
     "nivel": "B1-B2",
-    "puntaje": 3.39,
+    "puntaje": 3.59,
     "senales": {
       "vocabulario": 3.41,
       "dialogos": 3.13,
-      "temas": 3.71
+      "temas": 5.08
     },
     "vocabulario": {
       "distribucion": {
@@ -25,6 +25,7 @@
       "ppm": 178.5
     },
     "temas": [
+      "aeronáutica",
       "médica y de salud"
     ]
   },

@@ -1,13 +1,13 @@
 {
   "title": "Taken I",
-  "level": "B1",
+  "level": "B1-B2",
   "levelDetail": {
-    "nivel": "B1",
-    "puntaje": 3.3,
+    "nivel": "B1-B2",
+    "puntaje": 3.37,
     "senales": {
       "vocabulario": 3.49,
       "dialogos": 2.64,
-      "temas": 3.63
+      "temas": 4.12
     },
     "vocabulario": {
       "distribucion": {
@@ -24,7 +24,10 @@
       "cobertura95": 2.44,
       "ppm": 171.3
     },
-    "temas": []
+    "temas": [
+      "crimen, drogas y calle",
+      "musical"
+    ]
   },
   "englishAnalysis": "Un clásico del cine de acción moderno. Lenguaje directo, amenazante y muy conciso. Vocabulario centrado en secuestros, seguridad, tácticas de interrogación y negociación ('particular set of skills').",
   "tmdb": {

@@ -18,6 +18,7 @@ interface MovieCardProps {
     rating?: string;
     realeza?: ArtistaEnCarta[];
     transicion?: string;   // nombre para que el póster vuele a la ficha (ver lib/transiciones.ts)
+    color?: string | null; // el color del póster: borde y brillo al pasar el mouse
 }
 
 // Insignia de la Realeza: corazón si hay un Amor Platónico, corona dorada si hay un Rey Supremo,
@@ -55,7 +56,7 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     );
 }
 
-export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza, transicion }: MovieCardProps) {
+export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza, transicion, color }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
     const pct = comprension(validDialogues, count);
@@ -69,8 +70,8 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
         else if (lv.includes('C1') || lv.includes('C2')) levelColors = "bg-purple-500/20 text-purple-300 border-purple-500/30";
     }
     return (
-        <div className="group relative hover:scale-105 transition-transform duration-300">
-        <Link href={href} className="relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg group-hover:border-purple-500 transition-colors duration-300 cursor-pointer block">
+        <div className="group relative hover:scale-105 transition-transform duration-300" style={{ '--tono': color ?? 'var(--color-purple-500)' } as React.CSSProperties}>
+        <Link href={href} className="relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg group-hover:border-(--tono) group-hover:shadow-[0_0_24px_-4px_var(--tono)] transition-[border-color,box-shadow] duration-300 cursor-pointer block">
             {posterUrl ? (
                 <ViewTransition name={transicion} share="morph" default="none">
                     <img src={tmdb(posterUrl, 'w342')} alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
