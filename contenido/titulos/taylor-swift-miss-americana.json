@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 653567
   },
-  "analisis": "Muestra un inglés americano contemporáneo muy personal e íntimo. El vocabulario incluye términos del mundo de la música, la fama, redes sociales y política ('songwriting', 'backlash', 'approval', 'midterms'). Además, se utiliza mucha jerga de internet y expresiones de vulnerabilidad emocional.",
+  "analisis": "Muestra un inglés americano contemporáneo muy personal e íntimo. El vocabulario incluye términos del mundo de la música, la fama, redes sociales y política ('songwriter', 'backlash', 'approval', 'midterms'). Además, se utiliza mucha jerga de internet y expresiones de vulnerabilidad emocional.",
   "sinopsis": "En este revelador documental, Taylor Swift asume plenamente su rol de compositora y artista, y deja en evidencia su capacidad de expresarse sin mordaza.",
   "poster": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
@@ -19,6 +19,17 @@
     "https://image.tmdb.org/t/p/w780/x2P9usnTYSd1pTKDIW83cXhKYUo.jpg",
     "https://image.tmdb.org/t/p/w780/mfHGky2vKq4XpsdiBX2QWl4F9Jc.jpg"
   ],
+  "realeza": {
+    "Taylor Swift": [
+      "aparece",
+      "musica"
+    ]
+  },
+  "realeza_manual": {
+    "Taylor Lautner": [
+      "aparece"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2023/Palabras desconocidas de Taylor Swift Miss Americana (lista definitiva).pdf"

@@ -1,7 +1,7 @@
 ---
 Categoría: Metodología
 Tipo: Manual Central
-Última_Modificación: 2026-06-02
+Última_Modificación: 2026-10-16
 ---
 
 # 📜 Constitución y Reglas del Proyecto Fanning
@@ -62,6 +62,12 @@ Este documento centraliza el marco normativo, ético y métrico que rige el sist
 
 ### Regla 9: Ritmo y Cuotas Estacionales
 Las tandas operativas se estructuran en ciclos de **14 a 17 días**, con las siguientes cuotas de palabras:
+
+**Ciclos 2027 a 2031 (vigente):**
+* **Todas las tandas regulares (enero a diciembre):** Máximo de **450 palabras/frases**.
+* **Tanda de Fin de Año:** Máximo de **550 palabras/frases** (ver Regla 10).
+
+**Ciclos 2023 a 2026 (histórico):**
 * **Enero - Junio / Octubre - Diciembre:** Cuota base de **400 palabras**.
 * **Julio - Septiembre:** Cuota incrementada de **500 palabras**.
 

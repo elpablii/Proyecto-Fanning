@@ -3,13 +3,14 @@
 Fuentes (lo único que se edita a mano):
   - contenido/titulos/<título>.json   una ficha por película o serie (ver fichas.py)
   - contenido/tandas.json             la línea de tiempo
+  - contenido/realeza.json            la Realeza (ver realeza_tmdb.py)
   - los PDFs de Vocabularios/ y Diálogos/
 
 Este comando:
   1. Valida las fichas; si alguna tiene un error, se detiene y explica qué corregir.
   2. Cuenta palabras/frases y líneas de diálogo con los criterios de Metodología/.
   3. Genera fanning-dashboard/data/: pelis/<título>.json, <año>/vocabulario_*.json,
-     manifest.json y timeline.json. Todo eso es generado: no se edita a mano.
+     manifest.json, realeza.json y timeline.json. Todo eso es generado: no se edita a mano.
   4. Borra los datos generados de títulos que ya no tienen ficha.
   5. Deja un reporte de qué cambió en scripts/metricas/reporte_ultima_actualizacion.md
 
@@ -320,6 +321,8 @@ def construir_manifest(lista_fichas, resultados, pelis):
             m['posterUrl'] = f['poster']
         if f.get('fondo'):
             m['backdropUrl'] = f['fondo']
+        if F.papeles_realeza(f):
+            m['realeza'] = F.papeles_realeza(f)  # {artista: [cómo participa]}
         return m
 
     def estadisticas(anio=None):
@@ -454,6 +457,7 @@ def main():
     borrados = escribir_pelis(pelis)
     escribir_anuales(items)
     escribir_json(os.path.join(DATA, 'manifest.json'), manifest)
+    escribir_json(os.path.join(DATA, 'realeza.json'), F.cargar_realeza())
     linea_tiempo.generar()
     reporte(manifest, viejo, avisos + avisos_fichas, resultados, borrados)
     a = manifest['all']

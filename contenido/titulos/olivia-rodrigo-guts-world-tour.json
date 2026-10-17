@@ -19,6 +19,20 @@
     "https://image.tmdb.org/t/p/w780/5lqA9X08WeqO57IEH3ikZMJq1mZ.jpg",
     "https://image.tmdb.org/t/p/w780/iunYfStBvMzd0Oxdpk7hWldq1Jc.jpg"
   ],
+  "realeza": {
+    "Olivia Rodrigo": [
+      "aparece",
+      "musica"
+    ]
+  },
+  "realeza_manual": {
+    "Hayley Williams": [
+      "musica"
+    ],
+    "Taylor Swift": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Olivia Rodrigo Guts World Tour (lista definitiva).pdf"

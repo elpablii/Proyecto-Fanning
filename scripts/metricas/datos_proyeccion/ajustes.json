@@ -1,0 +1,312 @@
+{
+ "_leeme": "Correcciones al txt de planificación. Se editan a mano; proyeccion.py las aplica en cada corrida.",
+ "duraciones": {
+  "Cillian Murphy & Margot Robbie: Actors on Actors": 45,
+  "Meghan Trainor with Dr. Phil (Phil in the Blanks)": 60,
+  "GTA III Dialogues": 268,
+  "GTA Vice City Dialogues": 279,
+  "GTA San Andreas Dialogues (Part I: In the Beginning - The Green Sabre)": 167,
+  "GTA San Andreas Dialogues (Part II: Badlands - Puncture Wounds)": 220,
+  "GTA San Andreas Dialogues (Part III: Monster - End of the Line)": 289,
+  "GTA San Andreas: WCTR Radio": 126
+ },
+ "reales": {
+  "The Amazing Digital Circus T1": 4,
+  "The First Lady T1": 2,
+  "The Great T1": 2
+ },
+ "episodios_dobles": {
+  "Kick Buttowski": 2
+ },
+ "catalogo": {
+  "quitar": [
+   "GTA San Andreas Dialogues (Part I: In the Beginning - Mike Toreno)",
+   "GTA San Andreas Dialogues (Part II: Outrider - End of the Line)"
+  ],
+  "agregar": {
+   "GTA San Andreas Dialogues (Part II: Badlands - Puncture Wounds)": {
+    "lineas": 1076,
+    "estado": "visto",
+    "anio": 2027
+   },
+   "GTA San Andreas Dialogues (Part III: Monster - End of the Line)": {
+    "lineas": 1389,
+    "estado": "visto",
+    "anio": 2027
+   }
+  }
+ },
+ "fijos": {
+  "The Twilight Saga I": "74",
+  "Oh. What. Fun.": "100a",
+  "A Taste of Christmas": "100a"
+ },
+ "tematicas": {
+  "navidad": [
+   "Oh. What. Fun.",
+   "A Taste of Christmas"
+  ],
+  "halloween": []
+ },
+ "realeza_manual": {
+  "Cillian Murphy & Margot Robbie: Actors on Actors": [
+   "Cillian Murphy",
+   "Margot Robbie"
+  ],
+  "Meghan Trainor with Dr. Phil (Phil in the Blanks)": [
+   "Meghan Trainor"
+  ]
+ },
+ "sin_tmdb": [
+  "Cillian Murphy & Margot Robbie: Actors on Actors",
+  "Meghan Trainor with Dr. Phil (Phil in the Blanks)",
+  "Five Nights at Freddy's III"
+ ],
+ "alias": {
+  "Cillian Murphy and Margot Robbie (Actors and Actors)": "Cillian Murphy & Margot Robbie: Actors on Actors",
+  "Assessination Nation": "Assassination Nation"
+ },
+ "tmdb": {
+  "Taylor Swift: Speak Now World Tour Film": [
+   "movie",
+   80009
+  ],
+  "Wuthering Heights": [
+   "movie",
+   1316092
+  ],
+  "The Drama": [
+   "movie",
+   1325734
+  ],
+  "Mother Mary": [
+   "movie",
+   1102883
+  ],
+  "Euphoria: A Look Back": [
+   "movie",
+   1732097
+  ],
+  "Countdown": [
+   "movie",
+   599975
+  ],
+  "Mack & Rita": [
+   "movie",
+   808087
+  ],
+  "Eileen": [
+   "movie",
+   664341
+  ],
+  "Lost Girls": [
+   "movie",
+   567970
+  ],
+  "A Taste of Christmas": [
+   "movie",
+   744938
+  ],
+  "Assassination Nation": [
+   "movie",
+   446101
+  ],
+  "Oh. What. Fun.": [
+   "movie",
+   1261825
+  ],
+  "The Short History of the Long Road": [
+   "movie",
+   586458
+  ],
+  "The Hate U Give": [
+   "movie",
+   470044
+  ],
+  "My Salinger Year": [
+   "movie",
+   619594
+  ],
+  "Seberg": [
+   "movie",
+   510298
+  ],
+  "Love of your Life": [
+   "movie",
+   1381078
+  ],
+  "Mary Shelley": [
+   "movie",
+   332283
+  ],
+  "How to Talk to Girls at Parties": [
+   "movie",
+   341689
+  ],
+  "Trumbo": [
+   "movie",
+   294016
+  ],
+  "Live by Night": [
+   "movie",
+   259695
+  ],
+  "Young Ones": [
+   "movie",
+   215379
+  ],
+  "I am Sam": [
+   "movie",
+   10950
+  ],
+  "The Secret Life of Bees": [
+   "movie",
+   12837
+  ],
+  "The Last of Robin Hood": [
+   "movie",
+   214091
+  ],
+  "The Sun Never Sets": [
+   "movie",
+   1490214
+  ],
+  "The Twilight Saga I": [
+   "movie",
+   8966
+  ],
+  "The Twilight Saga II: New Moon": [
+   "movie",
+   18239
+  ],
+  "The Twilight Saga III: Eclipse": [
+   "movie",
+   24021
+  ],
+  "The Twilight Saga IV: Breaking Dawn Part I": [
+   "movie",
+   50619
+  ],
+  "The Twilight Saga V: Breaking Dawn Part II": [
+   "movie",
+   50620
+  ],
+  "The Ice Road II: Vengeance": [
+   "movie",
+   1119878
+  ],
+  "Made in Italy": [
+   "movie",
+   659991
+  ],
+  "Cold Pursuit": [
+   "movie",
+   438650
+  ],
+  "Absolution": [
+   "movie",
+   974453
+  ],
+  "Pulp Fiction": [
+   "movie",
+   680
+  ],
+  "Matilda": [
+   "movie",
+   10830
+  ],
+  "Stitch: The Movie": [
+   "movie",
+   15567
+  ],
+  "Back to the Future I": [
+   "movie",
+   105
+  ],
+  "Toy Story V": [
+   "movie",
+   1084244
+  ],
+  "Euphoria": [
+   "tv",
+   85552
+  ],
+  "The Big Bang Theory": [
+   "tv",
+   1418
+  ],
+  "The Great": [
+   "tv",
+   93812
+  ],
+  "The First Lady": [
+   "tv",
+   99070
+  ],
+  "Kick Buttowski": [
+   "tv",
+   17572
+  ],
+  "Margo's Got Money Troubles": [
+   "tv",
+   245318
+  ],
+  "The Amazing Digital Circus": [
+   "tv",
+   261145
+  ],
+  "Taylor Swift: The End of an Era": [
+   "tv",
+   302919
+  ],
+  "A Good Girl's Guide to Murder": [
+   "tv",
+   218342
+  ],
+  "Lucky": [
+   "tv",
+   278624
+  ],
+  "The Godfather II": [
+   "movie",
+   240
+  ],
+  "The Godfather III": [
+   "movie",
+   242
+  ],
+  "The Goodfellas": [
+   "movie",
+   769
+  ],
+  "Dunkerque": [
+   "movie",
+   374720
+  ],
+  "The Miniaturist Part I": [
+   "tv",
+   73000
+  ],
+  "The Miniaturist Part II": [
+   "tv",
+   73000
+  ],
+  "The Proud Family: The Movie": [
+   "movie",
+   61728
+  ],
+  "Lilo and Stitch (Live Action)": [
+   "movie",
+   552524
+  ]
+ },
+ "sagas": {
+  "Twilight": [
+   "The Twilight Saga I",
+   "The Twilight Saga II: New Moon",
+   "The Twilight Saga III: Eclipse",
+   "The Twilight Saga IV: Breaking Dawn Part I",
+   "The Twilight Saga V: Breaking Dawn Part II"
+  ]
+ }
+}

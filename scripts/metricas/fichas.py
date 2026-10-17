@@ -11,6 +11,9 @@ Una ficha por película o serie, con todo lo que se edita a mano:
   "tmdb": {"tipo": "movie", "id": 150540}, # o null si todavía no se sabe
   "analisis": "…",
   "sinopsis": "…", "poster": "https://…", "fondo": "https://…", "fotos": ["https://…"],
+  "realeza": {"Margot Robbie": ["actua", "produce"]},   # quién de contenido/realeza.json participa y cómo
+                                                        # (ver PAPELES); lo escribe realeza_tmdb.py
+  "realeza_manual": {"Eminem": ["musica"]},             # opcional: lo que TMDB no sabe (se agrega a mano)
   "pdfs": {
     "vocabulario": ["Vocabularios/2024/…pdf"],
     "dialogos": ["Diálogos/…pdf", {"ruta": "Diálogos/…pdf", "episodio": "SP01"}]
@@ -35,11 +38,12 @@ from rutas import RAIZ, absoluta  # noqa: E402
 from conteo import normalizar  # noqa: E402
 
 CARPETA = os.path.join(RAIZ, 'contenido', 'titulos')
+REALEZA = os.path.join(RAIZ, 'contenido', 'realeza.json')
 TANDAS = os.path.join(RAIZ, 'contenido', 'tandas.json')
 NIVELES = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'}
 CLASIFICACIONES = {'TE', 'TE+7', '+14', '+18'}
 ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'duracion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
-         'fotos', 'pdfs', 'episodios']
+         'fotos', 'realeza', 'realeza_manual', 'pdfs', 'episodios']
 
 
 def slug(titulo):
@@ -49,6 +53,31 @@ def slug(titulo):
 
 def ruta_ficha(titulo):
     return os.path.join(CARPETA, slug(titulo) + '.json')
+
+
+def cargar_realeza():
+    """La Realeza del proyecto (contenido/realeza.json): nombre, reina o rey, rango, id de TMDB, foto y nacimiento."""
+    if not os.path.exists(REALEZA):
+        return []
+    return json.load(open(REALEZA, encoding='utf-8'))
+
+
+# Cómo participa un artista de la Realeza en un título.
+PAPELES = ['actua', 'voz', 'aparece', 'musica', 'produce', 'escribe', 'dirige', 'equipo']
+
+
+def papeles_realeza(ficha):
+    """{artista: [papeles]} de un título: lo que trae TMDB más lo agregado a mano."""
+    juntos = {}
+    for campo in ('realeza', 'realeza_manual'):
+        for n, papeles in (ficha.get(campo) or {}).items():
+            juntos.setdefault(n, set()).update(papeles)
+    return {n: sorted(p, key=lambda x: PAPELES.index(x) if x in PAPELES else len(PAPELES)) for n, p in sorted(juntos.items())}
+
+
+def realeza_de(ficha):
+    """Artistas de la Realeza que participan en un título."""
+    return list(papeles_realeza(ficha))
 
 
 def ruta_dialogo(d):
@@ -108,6 +137,20 @@ def validar(ficha, archivo):
     for donde, nivel in fijos:
         if nivel and not set(re.split(r'[/-]', nivel)) <= NIVELES:
             errores.append(f'{donde}: el nivel_fijo "{nivel}" no es válido (usa A1, A2, B1, B2, C1, C2 o rangos como B1-B2).')
+    nombres = {a['nombre'] for a in cargar_realeza()}
+    for campo in ('realeza', 'realeza_manual'):
+        valor = ficha.get(campo)
+        if valor is None:
+            continue
+        if not isinstance(valor, dict):
+            errores.append(f'{t}: "{campo}" debe ser {{"Nombre": ["musica", ...]}}.')
+            continue
+        for n, papeles in valor.items():
+            if n not in nombres:
+                errores.append(f'{t}: "{n}" (en "{campo}") no está en contenido/realeza.json.')
+            for p in papeles if isinstance(papeles, list) else [papeles]:
+                if p not in PAPELES:
+                    errores.append(f'{t}: el papel "{p}" de {n} no es válido (usa {", ".join(PAPELES)}).')
     if not ficha.get('clasificacion'):
         avisos.append(f'{t}: falta "clasificacion" (se mostrará TE).')
     elif ficha['clasificacion'] not in CLASIFICACIONES:

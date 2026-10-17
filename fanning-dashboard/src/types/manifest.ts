@@ -1,3 +1,5 @@
+import type { Papel } from '@/lib/realeza';
+
 export interface TopWord {
   word: string;
   count: number;
@@ -27,6 +29,7 @@ export interface MovieStats {
   duration?: number | null;  // minutos (series: suma de los episodios)
   aliases?: string[];
   years?: string[];
+  realeza?: Record<string, Papel[]>;  // artistas de la Realeza y cómo participan (ver lib/realeza.ts)
 }
 
 export interface YearlyData {
@@ -46,7 +49,7 @@ export interface ManifestYear {
 
 // Lo que la portada necesita de cada título: sin episodios ni fondos, para no mandar el
 // manifest entero al navegador. `aliases` y `years` solo van en el histórico (los usa el buscador).
-export type TituloResumen = Pick<MovieStats, 'title' | 'count' | 'type' | 'dialogues' | 'posterUrl' | 'level' | 'rating' | 'aliases' | 'years'>;
+export type TituloResumen = Pick<MovieStats, 'title' | 'count' | 'type' | 'dialogues' | 'posterUrl' | 'level' | 'rating' | 'aliases' | 'years' | 'realeza'>;
 
 export interface PortadaAnio extends Omit<ManifestYear, 'movieList'> {
   movieList: TituloResumen[];

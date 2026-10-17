@@ -6,7 +6,7 @@
     "tipo": "tv",
     "id": 85552
   },
-  "analisis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a la rapidez de los diálogos, las interrupciones constantes, murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para nivel B2-C1 que busque entender el inglés de la calle y de la Generación Z.",
+  "analisis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a las interrupciones constantes, los murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para quien busque entender el inglés de la calle y de la Generación Z.",
   "sinopsis": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
   "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
@@ -18,6 +18,41 @@
     "https://image.tmdb.org/t/p/w780/lcJ8S992xGr20KfNCbY4Fg3Xz6s.jpg",
     "https://image.tmdb.org/t/p/w780/lTbCXhFiP0bMWelvGxfeiSoF4gP.jpg"
   ],
+  "realeza": {
+    "Adewale Akinnuoye-Agbaje": [
+      "actua"
+    ],
+    "Alexa Demie": [
+      "actua"
+    ],
+    "Angus Cloud": [
+      "actua"
+    ],
+    "Colman Domingo": [
+      "actua"
+    ],
+    "Darrell Britt-Gibson": [
+      "actua"
+    ],
+    "Hunter Schafer": [
+      "actua"
+    ],
+    "Lana del Rey": [
+      "musica"
+    ],
+    "Maude Apatow": [
+      "actua"
+    ],
+    "Zendaya": [
+      "actua",
+      "produce"
+    ]
+  },
+  "realeza_manual": {
+    "Zendaya": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S01EP1-2) (lista definitiva).pdf",

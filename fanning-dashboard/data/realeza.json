@@ -1,0 +1,285 @@
+[
+  {
+    "nombre": "Liam Neeson",
+    "tipo": "rey",
+    "rango": "supremo",
+    "tmdb": 3896,
+    "foto": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
+    "nacimiento": "1952-06-07"
+  },
+  {
+    "nombre": "Colman Domingo",
+    "tipo": "rey",
+    "rango": "supremo",
+    "tmdb": 91671,
+    "foto": "https://image.tmdb.org/t/p/w500/t0cgfvtA7Thxnrtj5baRi656zlc.jpg",
+    "nacimiento": "1969-11-28"
+  },
+  {
+    "nombre": "Michael Jackson",
+    "tipo": "rey",
+    "rango": "supremo",
+    "tmdb": 82702,
+    "foto": "https://image.tmdb.org/t/p/w500/7n395uswvEXjVLk7784q8yxugvx.jpg",
+    "nacimiento": "1958-08-29",
+    "fallecimiento": "2009-06-25"
+  },
+  {
+    "nombre": "Taylor Swift",
+    "tipo": "reina",
+    "rango": "platonico",
+    "tmdb": 212208,
+    "foto": "https://image.tmdb.org/t/p/w500/vr4QrJ23Cm8T7Y5sBN3UnnWrZ0q.jpg",
+    "nacimiento": "1989-12-13"
+  },
+  {
+    "nombre": "Margot Robbie",
+    "tipo": "reina",
+    "rango": "platonico",
+    "tmdb": 234352,
+    "foto": "https://image.tmdb.org/t/p/w500/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
+    "nacimiento": "1990-07-02"
+  },
+  {
+    "nombre": "Anya Taylor-Joy",
+    "tipo": "reina",
+    "rango": "platonico",
+    "tmdb": 1397778,
+    "foto": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+    "nacimiento": "1996-04-16"
+  },
+  {
+    "nombre": "Dakota Fanning",
+    "tipo": "reina",
+    "rango": "platonico",
+    "tmdb": 501,
+    "foto": "https://image.tmdb.org/t/p/w500/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg",
+    "nacimiento": "1994-02-23"
+  },
+  {
+    "nombre": "Elle Fanning",
+    "tipo": "reina",
+    "rango": "platonico",
+    "tmdb": 18050,
+    "foto": "https://image.tmdb.org/t/p/w500/ucC5faqfEYVhoC25M6Hi3znZmab.jpg",
+    "nacimiento": "1998-04-09"
+  },
+  {
+    "nombre": "Meghan Trainor",
+    "tipo": "reina",
+    "tmdb": 1452128,
+    "foto": "https://image.tmdb.org/t/p/w500/1qf8FpC55eZGhVSW5a1aCJrJ6p5.jpg",
+    "nacimiento": "1993-12-22"
+  },
+  {
+    "nombre": "Olivia Rodrigo",
+    "tipo": "reina",
+    "tmdb": 1713725,
+    "foto": "https://image.tmdb.org/t/p/w500/dLtOE7LHFl5LxDUx5RAz07KqQPX.jpg",
+    "nacimiento": "2003-02-20"
+  },
+  {
+    "nombre": "Lana del Rey",
+    "tipo": "reina",
+    "tmdb": 579551,
+    "foto": "https://image.tmdb.org/t/p/w500/6yAdwglAlUZHm90y6ChRKyoQQ6i.jpg",
+    "nacimiento": "1986-06-21"
+  },
+  {
+    "nombre": "Sabrina Carpenter",
+    "tipo": "reina",
+    "tmdb": 1152083,
+    "foto": "https://image.tmdb.org/t/p/w500/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg",
+    "nacimiento": "1999-05-11"
+  },
+  {
+    "nombre": "Hunter Schafer",
+    "tipo": "reina",
+    "tmdb": 2340180,
+    "foto": "https://image.tmdb.org/t/p/w500/AilBKow2NuvPBQbvGRx69RxKUBi.jpg",
+    "nacimiento": "1998-12-31"
+  },
+  {
+    "nombre": "Margaret Qualley",
+    "tipo": "reina",
+    "tmdb": 1392137,
+    "foto": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg",
+    "nacimiento": "1994-10-23"
+  },
+  {
+    "nombre": "Emma Myers",
+    "tipo": "reina",
+    "tmdb": 2604515,
+    "foto": "https://image.tmdb.org/t/p/w500/v1Y8RP39135ZOary9M4MbkrCAdn.jpg",
+    "nacimiento": "2002-04-02"
+  },
+  {
+    "nombre": "Hayley Williams",
+    "tipo": "reina",
+    "tmdb": 1176276,
+    "foto": "https://image.tmdb.org/t/p/w500/haVmnxOkq4rMt8kj9c6CdUKBgo9.jpg",
+    "nacimiento": "1988-12-27"
+  },
+  {
+    "nombre": "Aurora Aksnes",
+    "tipo": "reina",
+    "tmdb": 1682648,
+    "foto": "https://image.tmdb.org/t/p/w500/7XOkASQZUkOZ1PYHABZgkn8W2XW.jpg",
+    "nacimiento": "1996-06-15"
+  },
+  {
+    "nombre": "Maude Apatow",
+    "tipo": "reina",
+    "tmdb": 41090,
+    "foto": "https://image.tmdb.org/t/p/w500/kqedF6onNdcphyo1UBRmm5G3m1C.jpg",
+    "nacimiento": "1997-12-15"
+  },
+  {
+    "nombre": "Thomasin McKenzie",
+    "tipo": "reina",
+    "tmdb": 1356758,
+    "foto": "https://image.tmdb.org/t/p/w500/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
+    "nacimiento": "2000-07-26"
+  },
+  {
+    "nombre": "Elizabeth Lail",
+    "tipo": "reina",
+    "tmdb": 1368507,
+    "foto": "https://image.tmdb.org/t/p/w500/guu5KjmRBjAWr4JkRdPHeyqXJPX.jpg",
+    "nacimiento": "1992-03-25"
+  },
+  {
+    "nombre": "Kristen Stewart",
+    "tipo": "reina",
+    "tmdb": 37917,
+    "foto": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
+    "nacimiento": "1990-04-09"
+  },
+  {
+    "nombre": "Ava Michelle",
+    "tipo": "reina",
+    "tmdb": 2398197,
+    "foto": "https://image.tmdb.org/t/p/w500/fdZCrDLJ1ccR6KyMZwy4VSJs39Y.jpg",
+    "nacimiento": "2002-04-10"
+  },
+  {
+    "nombre": "Michelle Pfeiffer",
+    "tipo": "reina",
+    "tmdb": 1160,
+    "foto": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg",
+    "nacimiento": "1958-04-29"
+  },
+  {
+    "nombre": "Zendaya",
+    "tipo": "reina",
+    "tmdb": 505710,
+    "foto": "https://image.tmdb.org/t/p/w500/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
+    "nacimiento": "1996-09-01"
+  },
+  {
+    "nombre": "Alexa Demie",
+    "tipo": "reina",
+    "tmdb": 1497557,
+    "foto": "https://image.tmdb.org/t/p/w500/onU85U3QTP00gHZL9bA8aTclra7.jpg",
+    "nacimiento": "1990-12-11"
+  },
+  {
+    "nombre": "Christy Carlson Romano",
+    "tipo": "reina",
+    "tmdb": 76241,
+    "foto": "https://image.tmdb.org/t/p/w500/sU7lBGl6imfU0PaxL0GKIbjU5e2.jpg",
+    "nacimiento": "1984-03-20"
+  },
+  {
+    "nombre": "Ewan McGregor",
+    "tipo": "rey",
+    "tmdb": 3061,
+    "foto": "https://image.tmdb.org/t/p/w500/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
+    "nacimiento": "1971-03-31"
+  },
+  {
+    "nombre": "Cillian Murphy",
+    "tipo": "rey",
+    "tmdb": 2037,
+    "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg",
+    "nacimiento": "1976-05-25"
+  },
+  {
+    "nombre": "Eminem",
+    "tipo": "rey",
+    "tmdb": 325,
+    "foto": "https://image.tmdb.org/t/p/w500/bRrrk9r1cYG6KVnYzjwYGT0g1Qi.jpg",
+    "nacimiento": "1972-10-17"
+  },
+  {
+    "nombre": "Samuel L. Jackson",
+    "tipo": "rey",
+    "tmdb": 2231,
+    "foto": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+    "nacimiento": "1948-12-21"
+  },
+  {
+    "nombre": "iShowSpeed",
+    "tipo": "rey",
+    "tmdb": 4536441,
+    "foto": "https://image.tmdb.org/t/p/w500/roX5cMVeMyuRPPcsHKdGDjGstVd.jpg",
+    "nacimiento": "2005-01-21"
+  },
+  {
+    "nombre": "Rick Astley",
+    "tipo": "rey",
+    "tmdb": 1226179,
+    "foto": "https://image.tmdb.org/t/p/w500/8vYowaMhWBNpMhiRZv5Z90jCDHg.jpg",
+    "nacimiento": "1966-02-06"
+  },
+  {
+    "nombre": "Robert Pattinson",
+    "tipo": "rey",
+    "tmdb": 11288,
+    "foto": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+    "nacimiento": "1986-05-13"
+  },
+  {
+    "nombre": "Taylor Lautner",
+    "tipo": "rey",
+    "tmdb": 84214,
+    "foto": "https://image.tmdb.org/t/p/w500/xyRXoKM7UQdijwmjpiCcLGPzcc7.jpg",
+    "nacimiento": "1992-02-11"
+  },
+  {
+    "nombre": "Peter Facinelli",
+    "tipo": "rey",
+    "tmdb": 56857,
+    "foto": "https://image.tmdb.org/t/p/w500/mmha3A5INmromiCsN8FBSLScVpZ.jpg",
+    "nacimiento": "1973-11-26"
+  },
+  {
+    "nombre": "Angus Cloud",
+    "tipo": "rey",
+    "tmdb": 2352372,
+    "foto": "https://image.tmdb.org/t/p/w500/cN3n9UBBtRASNLSibS8WUZD1d1A.jpg",
+    "nacimiento": "1998-07-10",
+    "fallecimiento": "2023-07-31"
+  },
+  {
+    "nombre": "Adewale Akinnuoye-Agbaje",
+    "tipo": "rey",
+    "tmdb": 31164,
+    "foto": "https://image.tmdb.org/t/p/w500/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
+    "nacimiento": "1967-08-22"
+  },
+  {
+    "nombre": "Darrell Britt-Gibson",
+    "tipo": "rey",
+    "tmdb": 1307543,
+    "foto": "https://image.tmdb.org/t/p/w500/cCfTL6qkctE088J3qr8qtgGrZa1.jpg",
+    "nacimiento": "1986-08-04"
+  },
+  {
+    "nombre": "Will Friedle",
+    "tipo": "rey",
+    "tmdb": 76621,
+    "foto": "https://image.tmdb.org/t/p/w500/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg",
+    "nacimiento": "1976-08-11"
+  }
+]

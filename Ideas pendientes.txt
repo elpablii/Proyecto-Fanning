@@ -45,11 +45,14 @@ Base:
 Ideas para mostrarlos:
 1. Página /realeza: galería por secciones (reyes supremos, amores
    platónicos, el resto), con los títulos, palabras y horas de cada artista.
+   [HECHO el 16/10/2026: "El Salón del Trono", con cartas que se inclinan,
+   brillan y se voltean]
 2. Página por artista (/realeza/margot-robbie): su filmografía en el
    proyecto, sus métricas, flashcards con todo su vocabulario y el contenido
    de Contenidos/*.md.
 3. Insignias con corona o corazón en cada película o serie, que llevan a la
-   página del artista.
+   página del artista.  [HECHO el 16/10/2026 en los pósters del inicio; falta
+   que lleven a la página del artista cuando exista (idea 2)]
 4. Filtro en el inicio y en el buscador por artista; el buscador también
    encuentra personas.
 5. Marcar en la línea de tiempo las tandas con alguien de la realeza

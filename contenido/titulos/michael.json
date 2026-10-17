@@ -19,6 +19,19 @@
     "https://image.tmdb.org/t/p/w780/izRUJlYpEruJAWxCsMAlDgaBpUf.jpg",
     "https://image.tmdb.org/t/p/w780/dVsHY2PPAiFhhPD5x9pmOBZd8tB.jpg"
   ],
+  "realeza": {
+    "Colman Domingo": [
+      "actua"
+    ],
+    "Michael Jackson": [
+      "musica"
+    ]
+  },
+  "realeza_manual": {
+    "Michael Jackson": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2026/Palabras desconocidas de Michael (lista definitiva) .pdf"

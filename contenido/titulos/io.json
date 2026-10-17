@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 433249
   },
-  "analisis": "Cinta de ciencia ficción post-apocalíptica. El inglés es solitario y nostálgico, con vocabulario centrado en la ecología, la geología, las transmisiones de radio y la mitología. Los diálogos son pausados y muy introspectivos.",
+  "analisis": "Cinta de ciencia ficción post-apocalíptica. El inglés es solitario y nostálgico, con vocabulario centrado en la ecología, la geología, las transmisiones de radio y la mitología. Los diálogos son escasos pero fluidos y muy introspectivos.",
   "sinopsis": "Sam, una adolescente, es una de las últimas supervivientes de una Tierra post-apocalíptica. Con el transbordador final programado para salir del planeta, Sam debe decidir si viajar al punto de lanzamiento y unirse al resto de la humanidad; o permanecer en la Tierra, y ser un náufrago en el único hogar que ha conocido.",
   "poster": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/cujSjyKFtyNYrtb3tihoNeXoCkw.jpg",
     "https://image.tmdb.org/t/p/w780/hdzfaMKS0dovS1jL3ImODtI9zDE.jpg"
   ],
+  "realeza": {
+    "Margaret Qualley": [
+      "actua"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2026/Palabras desconocidas de IO (lista definitiva).pdf"

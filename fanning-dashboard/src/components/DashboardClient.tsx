@@ -6,7 +6,7 @@ import { Film, BookOpen, Crown, TrendingUp, Search, Calendar } from 'lucide-reac
 
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
-import MovieCard from '@/components/ui/MovieCard';
+import MovieCard, { type ArtistaEnCarta } from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
 import EvolucionComprension, { type TandaResumen } from '@/components/charts/EvolucionComprension';
 import { PortadaAnio, PortadaData } from '@/types/manifest';
@@ -22,14 +22,19 @@ function aniosDisponibles(portada: PortadaData): string[] {
 
 // Lee el año elegido de la URL (?year=2025), así se puede compartir o recargar.
 // Necesita estar dentro de <Suspense> (ver app/page.tsx).
-export default function DashboardClient({ portada, tandas }: { portada: PortadaData; tandas: TandaResumen[] }) {
+// La Realeza por nombre, para las insignias de los pósters.
+export type ArtistasPorNombre = Record<string, ArtistaEnCarta>;
+
+interface PropsPortada { portada: PortadaData; tandas: TandaResumen[]; artistas: ArtistasPorNombre }
+
+export default function DashboardClient(props: PropsPortada) {
   const pedido = useSearchParams().get('year') ?? 'all';
-  const anio = aniosDisponibles(portada).includes(pedido) ? pedido : 'all';
-  return <DashboardVista portada={portada} tandas={tandas} selectedYear={anio} />;
+  const anio = aniosDisponibles(props.portada).includes(pedido) ? pedido : 'all';
+  return <DashboardVista {...props} selectedYear={anio} />;
 }
 
 // La portada para un año dado. También es lo que se genera en el build (con el histórico).
-export function DashboardVista({ portada, tandas, selectedYear }: { portada: PortadaData; tandas: TandaResumen[]; selectedYear: string }) {
+export function DashboardVista({ portada, tandas, artistas, selectedYear }: PropsPortada & { selectedYear: string }) {
   const router = useRouter();
   const [showSearch, setShowSearch] = useState(false);
   const availableYears = useMemo(() => aniosDisponibles(portada), [portada]);
@@ -67,6 +72,9 @@ export function DashboardVista({ portada, tandas, selectedYear }: { portada: Por
         <div className="flex flex-wrap gap-3 w-full sm:w-auto">
           <button onClick={() => router.push('/timeline')} className="flex-1 sm:flex-none justify-center bg-blue-600/20 hover:bg-blue-600/40 text-blue-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-blue-500/30">
             <Calendar size={16} /> Línea de Tiempo
+          </button>
+          <button onClick={() => router.push('/realeza')} className="flex-1 sm:flex-none justify-center bg-amber-500/15 hover:bg-amber-500/30 text-amber-300 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-amber-400/30">
+            <Crown size={16} /> La Realeza
           </button>
           <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
             <BookOpen size={16} /> Constitución del Proyecto Fanning
@@ -203,6 +211,7 @@ export function DashboardVista({ portada, tandas, selectedYear }: { portada: Por
               posterUrl={item.posterUrl}
               level={item.level}
               rating={item.rating}
+              realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean)}
               href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
             />
           ))}

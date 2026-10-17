@@ -38,6 +38,21 @@ Las palabras y las líneas se cuentan con los criterios de `Metodología/`:
 
 Borra su ficha de `contenido/titulos/` y corre `actualizar.py --escribir`. Sus datos generados se borran solos. Los PDFs se pueden dejar o borrar; si se dejan, `nuevos_titulos.py` volverá a ofrecer una ficha para ellos.
 
+## La Realeza
+
+La lista está en `contenido/realeza.json` (nombre, `reina` o `rey`, `rango` `supremo` o `platonico` y el id de TMDB). Para sumar a alguien, agrega un bloque y corre:
+```
+python fanning.py realeza       # foto, nacimiento y en qué títulos participa (créditos de TMDB)
+python fanning.py actualizar
+```
+Cada ficha queda con `"realeza": {"Margot Robbie": ["actua", "produce"]}`: quién participa y cómo, según todos sus créditos en TMDB (actuación, voz, apariciones como sí mismo, producción, música, guion, dirección). Ese campo se reescribe en cada corrida.
+
+TMDB casi nunca registra las canciones que suenan en una película. Esas, y cualquier otra cosa que TMDB no sepa, van a mano en `"realeza_manual"` de la ficha, con el mismo formato:
+```json
+"realeza_manual": {"Eminem": ["musica"]}
+```
+Los papeles posibles son `actua`, `voz`, `aparece`, `musica` (canta, compone o es coautor de una canción que suena), `produce`, `escribe`, `dirige` y `equipo`.
+
 ## Agregar una tanda
 
 Agrega un bloque al final de `contenido/tandas.json` (igual a los anteriores) y corre `actualizar.py --escribir`.
@@ -92,3 +107,12 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `nivel.py` + `datos_nivel/` | Nivel de inglés (MCER) de cada título y episodio. `datos_nivel/` tiene las listas CEFR-J y Octanove (con su licencia) y `temas.json`, las áreas especializadas, que se puede editar. Criterio en `Metodología/Criterio de nivel de inglés (MCER).txt`. `nivel_fijo` en una ficha fuerza un nivel a mano. |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
 | `test_conteo.py` / `test_nivel.py` | Pruebas: `python fanning.py probar`. |
+
+## Proyección de tandas futuras
+
+`python scripts/metricas/proyeccion.py` lee `información para proyección 2027.txt` (la planificación de 2027 en adelante) y deja en `reporte_proyeccion.md`:
+- la proyección de cada tanda: palabras, líneas, duración y reglas incumplidas;
+- una propuesta de reacomodo hecha por `planificador.py`;
+- la capacidad de los años siguientes.
+
+Las correcciones al txt van en `datos_proyeccion/ajustes.json`. El plan completo está en `PLAN_PROYECCIONES_2027.md`.

@@ -1,10 +1,11 @@
-"""Revisa que el análisis del inglés de cada película coincida con sus métricas.
+"""Revisa que el análisis del inglés de cada película y serie coincida con sus métricas.
 
 El análisis (campo "analisis" de contenido/titulos/*.json) es texto libre escrito a
 mano; el nivel MCER lo calcula nivel.py. Esta revisión busca afirmaciones del texto
 que las métricas contradicen: un nivel distinto, "diálogos rápidos" con poca
 velocidad, un tema especializado que no aparece, expresiones citadas que no están
-en los diálogos, etc.
+en los diálogos, etc. En las series se revisa el análisis general contra las
+métricas de la serie completa.
 
 No corrige nada: deja una lista para revisar a mano.
 
@@ -26,6 +27,7 @@ NIVELES = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 
 # Palabras del texto que afirman algo medible.
 RAPIDO = re.compile(r'r[áa]pid|veloz|velocidad|vertiginos|fren[ée]tic|ametralladora|acelerad|atropellad', re.I)
+FUENTE = re.compile(r'\.pdf|Dialogues from|documento|archivo|lista definitiva|transcripci', re.I)
 LENTO = re.compile(r'pausad|\blent[oa]s?\b|tranquil|calmad|sin prisa', re.I)
 FACIL = re.compile(r'accesible|sencill|f[áa]cil|principiante|b[áa]sic|ligero', re.I)
 DIFICIL = re.compile(r'desafiant|dif[íi]cil|exigente|complej|reto\b|avanzad|denso', re.I)
@@ -39,7 +41,8 @@ TEMAS = {
     'científica y técnica': r'cient[íi]fic|t[ée]cnic|tecnol[óo]g|astron|f[íi]sica',
 }
 # Palabras que el texto usa para describir el inglés, no para citar el diálogo.
-DESCRIPTIVAS = {'slang', 'aave', 'spanglish', 'cockney', 'small talk', 'catchphrase', 'catchphrases', 'one liners'}
+DESCRIPTIVAS = {'slang', 'aave', 'spanglish', 'cockney', 'small talk', 'catchphrase', 'catchphrases', 'one liners',
+                'rp', 'puns', 'crowd work', 'crowd interaction', 'perfecto', 'preppy', 'sociopathic', 'redneck'}
 CITA = re.compile(r"""(?<![A-Za-z])['‘"“]([A-Za-z][A-Za-z' \-]{1,40}?)['’"”](?![A-Za-z])""")
 
 
@@ -87,6 +90,8 @@ def revisar(t, d, ppm_rapido, ppm_lento):
         revisar.append(f'Muy corto ({len(a)} caracteres).')
     if re.search(r'Ã|�', a):
         graves.append('Caracteres mal codificados.')
+    if FUENTE.search(a):
+        graves.append(f'Habla del material de estudio ("{FUENTE.search(a).group(0)}") en vez del inglés del título.')
 
     # Nivel escrito a mano
     escritos = set(re.findall(r'\b([ABC][12])\b', a))
@@ -123,7 +128,10 @@ def revisar(t, d, ppm_rapido, ppm_lento):
     citas = [c.strip() for c in CITA.findall(a)]
     if citas:
         dialogos = texto_dialogos((t.get('pdfs') or {}).get('dialogos') or [])
-        vocab = ' '.join(normalizar(v.get('word', '')) for v in d.get('vocabulary') or [])
+        palabras = list(d.get('vocabulary') or [])
+        for ep in d.get('episodes') or []:
+            palabras += ep.get('vocabulary') or []
+        vocab = ' '.join(normalizar(v.get('word', '')) for v in palabras)
         for c in citas:
             n = normalizar(c)
             if not n or n in DESCRIPTIVAS:
@@ -143,8 +151,7 @@ def main():
     for f in glob.glob(os.path.join(RAIZ, 'contenido', 'titulos', '*.json')):
         with open(f, encoding='utf-8') as fh:
             t = json.load(fh)
-        if t.get('tipo') == 'pelicula':
-            titulos[t['titulo']] = t
+        titulos[t['titulo']] = t
     datos = {}
     for f in glob.glob(os.path.join(DATA, 'pelis', '*.json')):
         with open(f, encoding='utf-8') as fh:
@@ -162,14 +169,15 @@ def main():
             filas.append((nombre, '', ['No está en data/pelis (¿falta actualizar?).'], []))
             continue
         g, r = revisar(titulos[nombre], d, ppm_rapido, ppm_lento)
-        filas.append((nombre, d.get('level') or '', g, r))
+        etiqueta = f"{d.get('level') or ''} · serie" if titulos[nombre].get('tipo') == 'serie' else d.get('level') or ''
+        filas.append((nombre, etiqueta, g, r))
 
     graves = [f for f in filas if f[2]]
     solo_revisar = [f for f in filas if not f[2] and f[3]]
     bien = [f for f in filas if not f[2] and not f[3]]
 
-    out = ['# Revisión del análisis del inglés (películas)', '',
-           f'{len(filas)} películas · {len(graves)} con contradicciones · {len(solo_revisar)} para revisar · '
+    out = ['# Revisión del análisis del inglés (películas y series)', '',
+           f'{len(filas)} títulos · {len(graves)} con contradicciones · {len(solo_revisar)} para revisar · '
            f'{len(bien)} sin observaciones.', '',
            f'Velocidad: lenta < {ppm_lento:.0f} palabras/min (percentil 25), rápida > {ppm_rapido:.0f} (percentil 75).', '']
     for titulo, lista in (('Contradicciones', graves), ('Para revisar', solo_revisar)):

@@ -1664,7 +1664,16 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Euphoria",
@@ -1829,7 +1838,38 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Alexa Demie": [
+            "actua"
+          ],
+          "Angus Cloud": [
+            "actua"
+          ],
+          "Colman Domingo": [
+            "actua"
+          ],
+          "Darrell Britt-Gibson": [
+            "actua"
+          ],
+          "Hunter Schafer": [
+            "actua"
+          ],
+          "Lana del Rey": [
+            "musica"
+          ],
+          "Maude Apatow": [
+            "actua"
+          ],
+          "Zendaya": [
+            "actua",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Pan Am",
@@ -1962,7 +2002,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Maid",
@@ -2063,7 +2108,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "produce"
+          ]
+        }
       },
       {
         "title": "Oppenheimer",
@@ -2088,7 +2141,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
+        "realeza": {
+          "Cillian Murphy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Wolf of Wall Street",
@@ -2113,7 +2171,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -2140,7 +2203,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "All Her Fault",
@@ -2225,7 +2295,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Titanic",
@@ -2277,7 +2352,16 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Gambito de Dama",
@@ -2365,7 +2449,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "aparece"
+          ]
+        }
       },
       {
         "title": "Terminal",
@@ -2390,7 +2480,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Escuadrón Suicida",
@@ -2417,7 +2513,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Eminem": [
+            "musica"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Focus",
@@ -2442,7 +2549,12 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Girl From Plainville",
@@ -2527,7 +2639,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "El Escuadrón Suicida",
@@ -2554,7 +2672,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Ámsterdam",
@@ -2581,7 +2704,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ],
+          "Taylor Swift": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Perfect Couple",
@@ -2650,7 +2784,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Meghan Trainor": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -2675,7 +2817,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Margaret Qualley": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rango",
@@ -2725,7 +2878,13 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Cars 2",
@@ -2800,7 +2959,12 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Mary Queen of Scots",
@@ -2825,7 +2989,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Los Increibles",
@@ -2852,7 +3021,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+        "realeza": {
+          "Samuel L. Jackson": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "About Time",
@@ -2877,7 +3051,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Babylon",
@@ -2902,7 +3081,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Family Switch",
@@ -2927,7 +3111,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ],
+          "Michael Jackson": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "A Rainy Day in New York",
@@ -2952,7 +3144,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -2979,7 +3176,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift Miss Americana",
@@ -3004,7 +3206,16 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
+        "realeza": {
+          "Taylor Lautner": [
+            "aparece"
+          ],
+          "Taylor Swift": [
+            "aparece",
+            "musica"
+          ]
+        }
       },
       {
         "title": "A Complete Unknown",
@@ -3029,7 +3240,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Emma",
@@ -3054,7 +3270,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rocky II",
@@ -3104,7 +3325,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "I-Tonya",
@@ -3129,7 +3355,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Rocky I",
@@ -3181,7 +3413,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Cars",
@@ -3233,7 +3470,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Orgullo y Prejuicio",
@@ -3285,7 +3527,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Minecraft Movie",
@@ -3310,7 +3557,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Ratatouille",
@@ -3360,7 +3612,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+        "realeza": {
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Menu",
@@ -3385,7 +3642,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Schindler's List",
@@ -3410,7 +3672,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Five Nights at Freddy's",
@@ -3435,7 +3702,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -3462,7 +3734,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Toy Story 2",
@@ -3512,7 +3791,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Interestellar",
@@ -3564,7 +3851,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -3591,7 +3889,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Legend of Tarzan",
@@ -3616,7 +3919,15 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Naked Gun",
@@ -3641,7 +3952,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Home",
@@ -3691,7 +4007,17 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+        "realeza": {
+          "Meghan Trainor": [
+            "musica"
+          ],
+          "Sabrina Carpenter": [
+            "actua",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Playmobil",
@@ -3716,7 +4042,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Meghan Trainor": [
+            "voz",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Rambo First Blood",
@@ -3768,7 +4103,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg",
+        "realeza": {
+          "Ava Michelle": [
+            "actua"
+          ],
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -3795,7 +4138,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce",
+            "dirige",
+            "equipo"
+          ]
+        }
       },
       {
         "title": "El Expreso Polar",
@@ -3849,7 +4201,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Blacklight",
@@ -3874,7 +4233,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Effie Gray",
@@ -3899,7 +4263,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Dreamland",
@@ -3924,7 +4293,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -3951,7 +4326,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "The Witch",
@@ -3976,7 +4360,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Cars III",
@@ -4164,7 +4553,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Toy Story",
@@ -4214,7 +4608,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -4372,7 +4771,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "How to Make a Killing",
@@ -4397,7 +4803,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Monsters Inc",
@@ -4447,7 +4858,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+        "realeza": {
+          "Colman Domingo": [
+            "actua"
+          ],
+          "Michael Jackson": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Rocky III",
@@ -4497,7 +4916,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "La Sustancia",
@@ -4524,7 +4948,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Alvin y las Ardillas",
@@ -4578,7 +5007,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg",
+        "realeza": {
+          "Olivia Rodrigo": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Coraline",
@@ -4603,7 +5037,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Suite Francaise",
@@ -4628,7 +5067,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Tall Girl II",
@@ -4653,7 +5097,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg",
+        "realeza": {
+          "Ava Michelle": [
+            "actua"
+          ],
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "La Bella Durmiente",
@@ -4705,7 +5157,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Five Nights at Freddy's II",
@@ -4730,7 +5187,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Jojo Rabbit",
@@ -4755,7 +5217,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Obi-Wan Kenobi",
@@ -4824,7 +5291,17 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua",
+            "produce"
+          ],
+          "Liam Neeson": [
+            "actua",
+            "voz"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio III Revenge of the Sith",
@@ -4851,7 +5328,15 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Vanishing of Sidney Hall",
@@ -4876,7 +5361,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Last Night in Soho",
@@ -4901,7 +5394,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "musica"
+          ],
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Escape de Sobibor",
@@ -4978,7 +5480,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "American Pastoral",
@@ -5003,7 +5513,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Ewan McGregor": [
+            "actua",
+            "dirige"
+          ]
+        }
       },
       {
         "title": "Z for Zachariah",
@@ -5028,7 +5547,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "El Padrino I",
@@ -5080,7 +5604,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -5132,7 +5661,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "The Truman Show",
@@ -5182,7 +5717,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Barry",
@@ -5207,7 +5747,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Non-stop",
@@ -5232,7 +5777,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "20th Century Women",
@@ -5257,7 +5807,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+        "realeza": {
+          "Darrell Britt-Gibson": [
+            "actua"
+          ],
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Motel Life",
@@ -5282,7 +5840,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -5307,7 +5870,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Olivia Rodrigo driving home 2 u",
@@ -5334,7 +5904,19 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Olivia Rodrigo": [
+            "aparece",
+            "musica"
+          ],
+          "Taylor Swift": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Ordinary Love",
@@ -5359,7 +5941,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Big Bold Beautiful Journey",
@@ -5384,7 +5971,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Cuckoo",
@@ -5409,7 +6001,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg",
+        "realeza": {
+          "Hunter Schafer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -5436,7 +6033,19 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Olivia Rodrigo": [
+            "aparece",
+            "musica"
+          ],
+          "Taylor Swift": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -5488,7 +6097,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Lilo and Stitch I",
@@ -5538,7 +6152,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Night Moves",
@@ -5563,7 +6185,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Runaways",
@@ -5588,7 +6215,17 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua",
+            "musica"
+          ],
+          "Kristen Stewart": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Toy Story IV",
@@ -5640,7 +6277,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rocky IV",
@@ -5690,7 +6332,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Thoroughbreds",
@@ -5715,7 +6363,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift City of Lover Concert",
@@ -5742,7 +6395,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Absolution",
@@ -5767,7 +6427,12 @@
           "2027"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -5819,7 +6484,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Cenicienta",
@@ -5871,7 +6541,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Lana del Rey": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Taken III",
@@ -5896,7 +6574,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Every Secret Thing",
@@ -5921,7 +6604,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Here Are The Young Men",
@@ -5946,7 +6634,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Super Mario Galaxy",
@@ -5973,7 +6666,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Taken I",
@@ -5998,7 +6696,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -6025,7 +6728,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "voz"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Please Stand By",
@@ -6050,7 +6764,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "All the Bright Places",
@@ -6077,7 +6796,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -6127,7 +6852,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Morgan",
@@ -6152,7 +6882,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Sweetness in the Belly",
@@ -6177,7 +6912,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "WALL-E",
@@ -6254,7 +6994,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Muppet Show",
@@ -6281,7 +7026,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "The Neon Demon",
@@ -6306,7 +7057,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Lilo and Stitch II",
@@ -6331,7 +7087,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Marrowbone",
@@ -6356,7 +7117,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Grand Theft Auto VI An Extended Look",
@@ -6406,7 +7172,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "GTA San Andreas The Introduction",
@@ -6431,7 +7202,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg",
+        "realeza": {
+          "Samuel L. Jackson": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Minions I",
@@ -6481,7 +7257,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "I Think Were Alone Now",
@@ -6506,7 +7287,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taken II",
@@ -6531,7 +7317,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Vicious",
@@ -6556,7 +7347,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Unknown",
@@ -6581,7 +7377,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "IO",
@@ -6606,7 +7407,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rambo IV",
@@ -6658,7 +7464,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Roads Not Taken",
@@ -6683,7 +7494,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rambo Last Blood",
@@ -6758,7 +7574,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        }
       }
     ]
   },
@@ -6847,7 +7668,12 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Barbie",
@@ -6872,7 +7698,13 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Bombshell",
@@ -6897,7 +7729,12 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift Miss Americana",
@@ -6922,7 +7759,16 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
+        "realeza": {
+          "Taylor Lautner": [
+            "aparece"
+          ],
+          "Taylor Swift": [
+            "aparece",
+            "musica"
+          ]
+        }
       },
       {
         "title": "El Expreso Polar",
@@ -7228,7 +8074,16 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Oppenheimer",
@@ -7253,7 +8108,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cUIqZd6jJCbO94Txt1CkTs7MSeP.jpg",
+        "realeza": {
+          "Cillian Murphy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -7280,7 +8140,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wVJG3u5Ru9tInxYiTCrJr4MpJ7Z.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Titanic",
@@ -7332,7 +8199,16 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Terminal",
@@ -7357,7 +8233,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Escuadrón Suicida",
@@ -7384,7 +8266,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Eminem": [
+            "musica"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "El Escuadrón Suicida",
@@ -7411,7 +8304,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Ámsterdam",
@@ -7438,7 +8336,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qyI3NAVrzq0THorufGdY91CK0Ea.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ],
+          "Taylor Swift": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -7463,7 +8372,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Margaret Qualley": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Mary Queen of Scots",
@@ -7488,7 +8408,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Los Increibles",
@@ -7515,7 +8440,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+        "realeza": {
+          "Samuel L. Jackson": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "About Time",
@@ -7540,7 +8470,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Babylon",
@@ -7565,7 +8500,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -7592,7 +8532,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rocky II",
@@ -7642,7 +8587,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oYBs3toQC1Gf3JhX13bQ4tU22YP.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "I-Tonya",
@@ -7667,7 +8617,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5owIV2sqdfILBKyOOIkLYVqanZp.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Rocky I",
@@ -7744,7 +8700,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+        "realeza": {
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Five Nights at Freddy's",
@@ -7769,7 +8730,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Toy Story 2",
@@ -7821,7 +8787,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Legend of Tarzan",
@@ -7846,7 +8823,15 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rambo First Blood",
@@ -7898,7 +8883,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1BLx3PDYijbiSPbyozIZESel5Uu.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Venganza Implacable",
@@ -7925,7 +8916,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zeD4PabP6099gpE0STWJrJrCBCs.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2M2JxEv3HSpjnZWjY9NOdGgfUd.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Toy Story",
@@ -8054,7 +9050,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Suite Francaise",
@@ -8079,7 +9080,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Z for Zachariah",
@@ -8104,7 +9110,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Truman Show",
@@ -8156,7 +9167,19 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uBAsex7p35tPWYAIwJctEPFjrSI.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Olivia Rodrigo": [
+            "aparece",
+            "musica"
+          ],
+          "Taylor Swift": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -8210,7 +9233,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bJYwjrLKDI7QqTQ0kn6H3ZICuop.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xZm8fDtVHUyahdAzaDbzKzkKmUc.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -8237,7 +9267,18 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "voz"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -8339,7 +9380,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Marrowbone",
@@ -8364,7 +9410,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The New Mutants",
@@ -8389,7 +9440,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1MoeNacOltBWojkStjhT3svBTOK.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rambo IV",
@@ -8857,7 +9913,16 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "The Big Bang Theory",
@@ -9364,7 +10429,38 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Alexa Demie": [
+            "actua"
+          ],
+          "Angus Cloud": [
+            "actua"
+          ],
+          "Colman Domingo": [
+            "actua"
+          ],
+          "Darrell Britt-Gibson": [
+            "actua"
+          ],
+          "Hunter Schafer": [
+            "actua"
+          ],
+          "Lana del Rey": [
+            "musica"
+          ],
+          "Maude Apatow": [
+            "actua"
+          ],
+          "Zendaya": [
+            "actua",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "The Wolf of Wall Street",
@@ -9389,7 +10485,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Gambito de Dama",
@@ -9477,7 +10578,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "aparece"
+          ]
+        }
       },
       {
         "title": "Rango",
@@ -9577,7 +10684,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Cars",
@@ -9629,7 +10741,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wAxhQsY63VY6eF3EilXTkX0YRoU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vZuAKGPq0uRyvXg0A1ONxhBQogS.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Slaughterhouse Rulez",
@@ -9654,7 +10771,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/y5VUfaAzRrYXOBKffZG4dfhTSvV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Menu",
@@ -9679,7 +10801,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -9706,7 +10833,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Naked Gun",
@@ -9731,7 +10863,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Playmobil",
@@ -9756,7 +10893,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kz90gJsVwmMqHJhe09j6OW09HWW.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/n2zWAEKBcAYcPygwSiWQSCgJIgz.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Meghan Trainor": [
+            "voz",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -9783,7 +10929,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4iroJUn8YuQBekDwGy7r61YHXiu.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xndolqiw6jMhDDkkw1UPuD1xfrT.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce",
+            "dirige",
+            "equipo"
+          ]
+        }
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -9810,7 +10965,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Los Fantasmas de Scrooge",
@@ -9969,7 +11133,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ra9surFrWYvIL0pWcm3MrxmPhTg.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -10073,7 +11242,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4uMrZS7XEHRNKwHr5wSOxROanPF.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Rocky III",
@@ -10125,7 +11301,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Alvin y las Ardillas",
@@ -10179,7 +11360,15 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Last Night in Soho",
@@ -10204,7 +11393,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "musica"
+          ],
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Escape de Sobibor",
@@ -10281,7 +11479,16 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kYeDbAfdI0b5tkd0z49lm22pQYG.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Ewan McGregor": [
+            "actua",
+            "dirige"
+          ]
+        }
       },
       {
         "title": "El Padrino I",
@@ -10333,7 +11540,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3liOPiruqLCqH8Ucsj3ImIeGaMj.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -10385,7 +11597,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8FF6jFKFbwrWWDEVVkGIZGL5mBU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Split",
@@ -10410,7 +11628,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Non-stop",
@@ -10435,7 +11658,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7UOWJEhNbePQeGSaVn9PvcRaujX.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -10460,7 +11688,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Cuckoo",
@@ -10485,7 +11720,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1eoCL8fPUZKlho03XVeNzZ3nlds.jpg",
+        "realeza": {
+          "Hunter Schafer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -10512,7 +11752,19 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/v6uuhdwzJpyMoYS0LGOoCnkgLXU.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/AsOzMmg7vPUlkXc6sGKrISyfpuX.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Olivia Rodrigo": [
+            "aparece",
+            "musica"
+          ],
+          "Taylor Swift": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Lilo and Stitch I",
@@ -10562,7 +11814,17 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua",
+            "musica"
+          ],
+          "Kristen Stewart": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "The Watchers",
@@ -10587,7 +11849,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Rocky IV",
@@ -10637,7 +11904,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        }
       },
       {
         "title": "Thoroughbreds",
@@ -10662,7 +11935,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -10714,7 +11992,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Taken III",
@@ -10739,7 +12022,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taken I",
@@ -10764,7 +12052,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Please Stand By",
@@ -10789,7 +12082,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "All the Bright Places",
@@ -10816,7 +12114,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Very Good Girls",
@@ -10841,7 +12145,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8NUTSNVeWDLZ97KBQM7IwK8HgTQ.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Neon Demon",
@@ -10866,7 +12175,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/djwY73Uilfe7B8jKRmSuxjet9UF.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "I Think Were Alone Now",
@@ -10891,7 +12205,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ipaCW3O6vFcZKfh1FLPeV4vArxI.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taken II",
@@ -10916,7 +12235,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Vicious",
@@ -10941,7 +12265,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Viena and the Fantomes",
@@ -10966,7 +12295,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1c4GhelRi8VF6M51CIgkMPKH90O.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gporW2qkMK1DB0RHkABoQSTz4mp.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Roads Not Taken",
@@ -10991,7 +12325,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/3khLsessoSDOpA5hkBo6JeVamk2.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       }
     ]
   },
@@ -11844,7 +13183,16 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/pNwdaiHHHsYyiCFnUj3rAlI93Px.jpg",
+        "realeza": {
+          "Christy Carlson Romano": [
+            "voz",
+            "musica"
+          ],
+          "Will Friedle": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Pan Am",
@@ -11977,7 +13325,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/l0fIRSyi8QbovnhVYPopF79zGDK.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Maid",
@@ -12078,7 +13431,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ],
+          "Margot Robbie": [
+            "produce"
+          ]
+        }
       },
       {
         "title": "All Her Fault",
@@ -12163,7 +13524,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Girl From Plainville",
@@ -12248,7 +13614,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1DsFJnBslB5dYewXXm51CIub9Fo.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "The Perfect Couple",
@@ -12317,7 +13689,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wgJjIvSo169WKg4c1O4oBNnoTs4.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Meghan Trainor": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Family Switch",
@@ -12342,7 +13722,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ],
+          "Michael Jackson": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "A Rainy Day in New York",
@@ -12367,7 +13755,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/eLGnLVpKN9FeIPtnZ4XDqc3d8Ji.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Complete Unknown",
@@ -12392,7 +13785,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/otugS74HEHdca4aTCtt8HtXvPYV.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Love Actually",
@@ -12417,7 +13815,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Orgullo y Prejuicio",
@@ -12469,7 +13872,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Schindler's List",
@@ -12494,7 +13902,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -12521,7 +13934,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Marlowe",
@@ -12546,7 +13966,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5XAn3rxdGJtJLJEJ5iY1Ax3Qlr5.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Interestellar",
@@ -12621,7 +14049,17 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+        "realeza": {
+          "Meghan Trainor": [
+            "musica"
+          ],
+          "Sabrina Carpenter": [
+            "actua",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Tall Girl I",
@@ -12646,7 +14084,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg",
+        "realeza": {
+          "Ava Michelle": [
+            "actua"
+          ],
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Taylor Swift The 1989 World Tour",
@@ -12673,7 +14119,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zwRGig0N8l6v5WxdrmwSBEBToAe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/fRpa22uMUUa1qOpR8aUOirwaTZe.jpg",
+        "realeza": {
+          "Taylor Swift": [
+            "aparece",
+            "musica",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Blacklight",
@@ -12698,7 +14151,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Effie Gray",
@@ -12723,7 +14181,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/me1O35voxm9rnyNvoVAVZdMA5Ss.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Witch",
@@ -12748,7 +14211,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Cars III",
@@ -12800,7 +14268,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Michael",
@@ -12825,7 +14298,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+        "realeza": {
+          "Colman Domingo": [
+            "actua"
+          ],
+          "Michael Jackson": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Emergency",
@@ -12850,7 +14331,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jduyPEJitZ26m857yx4i1nee7C5.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "An American Girl - Grace Stirs Up Success",
@@ -12877,7 +14363,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wKDmytv25EDY4s59vp8aptio43p.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wsdClFcujqAVSVr2t2qnlZRlyBr.jpg",
+        "realeza": {
+          "Olivia Rodrigo": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Tall Girl II",
@@ -12902,7 +14393,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7mGSBKuIGrFc9HNfp85bppQcFhs.jpg",
+        "realeza": {
+          "Ava Michelle": [
+            "actua"
+          ],
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "La Bella Durmiente",
@@ -12954,7 +14453,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/srnI5CdeydB9E8WNOqblj0jRfSn.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Five Nights at Freddy's II",
@@ -12979,7 +14483,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Jojo Rabbit",
@@ -13004,7 +14513,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qtgkNOIsFjbqdikd5npGO2Cqsqb.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Obi-Wan Kenobi",
@@ -13073,7 +14587,17 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+        "realeza": {
+          "Ewan McGregor": [
+            "actua",
+            "produce"
+          ],
+          "Liam Neeson": [
+            "actua",
+            "voz"
+          ]
+        }
       },
       {
         "title": "The Vanishing of Sidney Hall",
@@ -13098,7 +14622,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Glass",
@@ -13123,7 +14655,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ],
+          "Samuel L. Jackson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Barry",
@@ -13148,7 +14688,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4hfR16UNtwVILhUCl1UPNg71VWC.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "20th Century Women",
@@ -13173,7 +14718,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+        "realeza": {
+          "Darrell Britt-Gibson": [
+            "actua"
+          ],
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Motel Life",
@@ -13198,7 +14751,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8Vygm1h8MsqSN6WKMdq4MwBbM5B.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dTyi0w6oM61CQHzEqxi9XNdSGJ5.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Ordinary Love",
@@ -13223,7 +14781,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "A Big Bold Beautiful Journey",
@@ -13248,7 +14811,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Leave No Trace",
@@ -13273,7 +14841,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ax6LwhsAXesGCsBagE21DgwUYZf.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Maleficent II Mistress of Evil",
@@ -13298,7 +14871,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Night Moves",
@@ -13323,7 +14904,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/va6SObQdsJV4BmPKts4pTsKIk37.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Toy Story IV",
@@ -13402,7 +14988,15 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ],
+          "Lana del Rey": [
+            "musica"
+          ]
+        }
       },
       {
         "title": "Every Secret Thing",
@@ -13427,7 +15021,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Here Are The Young Men",
@@ -13452,7 +15051,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/c3mjUlMtRaV0jZMCButxI0g4Xkc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mOXKTwovpcLbpEAMguctP1JOcVB.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Super Mario Galaxy",
@@ -13479,7 +15083,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pcTweebSCQYIbdpjbN3r0Tw8iI2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Morgan",
@@ -13504,7 +15113,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uub6fTaLGatAvbXHYVn3yZOgedb.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Sweetness in the Belly",
@@ -13529,7 +15143,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/8jtHRcsEq6MOK9DDb6K7dVOQhl6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/geuJmZKo4CxAX4fID9UJxoz5jH9.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "The Muppet Show",
@@ -13556,7 +15175,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua",
+            "produce"
+          ]
+        }
       },
       {
         "title": "Lilo and Stitch II",
@@ -13581,7 +15206,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Grand Theft Auto VI An Extended Look",
@@ -13631,7 +15261,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "GTA San Andreas The Introduction",
@@ -13656,7 +15291,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uevrKxTF2l2l4FIouz3OICvqfB6.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7pCRhEsZsIBB2xLvruOcyHSmpz.jpg",
+        "realeza": {
+          "Samuel L. Jackson": [
+            "voz"
+          ]
+        }
       },
       {
         "title": "Minions I",
@@ -13706,7 +15346,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "IO",
@@ -13731,7 +15376,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2jgyHDRPErYBf1D7bCs7YOi8xIX.jpg",
+        "realeza": {
+          "Margaret Qualley": [
+            "actua"
+          ]
+        }
       },
       {
         "title": "Girl in the Basement",
@@ -13756,7 +15406,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        }
       }
     ]
   },
@@ -13845,7 +15500,12 @@
           "2027"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        }
       }
     ]
   },

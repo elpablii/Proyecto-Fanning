@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 260346
   },
-  "analisis": "Sigue la línea de acción directa, pero con más jerga policial y de investigaciones de la policía de Los Ángeles ('LAPD', 'suspect', 'warrant') mientras el protagonista es perseguido.",
+  "analisis": "Sigue la línea de acción directa, pero con más jerga policial y de investigaciones de la policía de Los Ángeles ('LAPD', 'suspect', 'custody') mientras el protagonista es perseguido.",
   "sinopsis": "La vida del ex-agente especial Bryan Mills (Liam Neeson) se ve inesperadamente truncada tras el brutal asesinato de su ex mujer. Tras ser acusado de su muerte, se ve obligado a huir de la implacable persecución de la CIA, el FBI y la policía. Una vez más, deberá usar sus “habilidades especiales” para hacer justicia, dar caza a los verdaderos asesinos y proteger lo único que le queda en la vida: su hija.",
   "poster": "https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/pUG7qcLtHkik5tnnS853SbwPSbA.jpg",
     "https://image.tmdb.org/t/p/w780/aqEfSJ2wUvuuajSY58f0KwdqyUv.jpg"
   ],
+  "realeza": {
+    "Liam Neeson": [
+      "actua"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Taken III (lista definitiva).pdf"

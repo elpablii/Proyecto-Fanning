@@ -19,6 +19,20 @@
     "https://image.tmdb.org/t/p/w780/aDkDDo6OEnfys5fK9yq8AokboQ7.jpg",
     "https://image.tmdb.org/t/p/w780/m0ec6o8cMtkv1ywNIOMbeWmk2LO.jpg"
   ],
+  "realeza": {
+    "Olivia Rodrigo": [
+      "aparece",
+      "musica"
+    ]
+  },
+  "realeza_manual": {
+    "Hayley Williams": [
+      "musica"
+    ],
+    "Taylor Swift": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2024/Palabras desconocidas de Olivia Rodrigo driving home 2 u (lista definitiva).pdf"

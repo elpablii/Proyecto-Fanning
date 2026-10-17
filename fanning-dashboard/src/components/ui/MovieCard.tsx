@@ -3,7 +3,10 @@ import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import { tmdb } from '@/lib/tmdb';
 import Link from 'next/link';
-import { Film } from 'lucide-react';
+import { Crown, Film, Heart } from 'lucide-react';
+import type { Artista } from '@/lib/realeza';
+
+export type ArtistaEnCarta = Pick<Artista, 'nombre' | 'foto' | 'tipo' | 'rango'>;
 
 interface MovieCardProps {
     title: string;
@@ -13,9 +16,40 @@ interface MovieCardProps {
     posterUrl?: string | null;
     level?: string;
     rating?: string;
+    realeza?: ArtistaEnCarta[];
 }
 
-export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE' }: MovieCardProps) {
+// Insignia de la Realeza: corazón si hay un Amor Platónico, corona dorada si hay un Rey Supremo,
+// corona simple para el resto. Al pasar el mouse aparecen las caras de quienes están en el elenco.
+function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
+    const platonico = realeza.some(a => a.rango === 'platonico');
+    const supremo = realeza.some(a => a.rango === 'supremo');
+    const Icono = platonico ? Heart : Crown;
+    const color = platonico ? 'text-pink-400 border-pink-400/40 bg-pink-500/20'
+        : supremo ? 'text-amber-300 border-amber-300/50 bg-amber-500/25'
+        : 'text-amber-200 border-amber-200/30 bg-black/40';
+    const nombres = realeza.map(a => a.nombre).join(', ');
+    return (
+        <div className="absolute top-2 left-2 z-10 flex items-center gap-1" title={nombres}>
+            <span className={`flex items-center gap-1 px-1.5 py-1 rounded-md border backdrop-blur-xs shadow-sm ${color}`}>
+                <Icono size={14} className="latido-real" fill={platonico ? 'currentColor' : 'none'} aria-hidden />
+                {realeza.length > 1 && <span className="text-[10px] font-bold">{realeza.length}</span>}
+                <span className="sr-only">Con {nombres}</span>
+            </span>
+            <span className="flex -space-x-2 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300">
+                {realeza.slice(0, 4).map(a => (
+                    <img key={a.nombre} src={a.foto ? tmdb(a.foto, 'w92') : undefined} alt="" width={24} height={24} loading="lazy"
+                        className={`w-6 h-6 rounded-full object-cover object-top border-2 bg-gray-700 ${a.rango ? (a.rango === 'platonico' ? 'border-pink-400' : 'border-amber-300') : 'border-gray-900'}`} />
+                ))}
+                {realeza.length > 4 && (
+                    <span className="w-6 h-6 rounded-full bg-gray-800 border-2 border-gray-900 text-[9px] font-bold flex items-center justify-center text-gray-300">+{realeza.length - 4}</span>
+                )}
+            </span>
+        </div>
+    );
+}
+
+export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
     const pct = comprension(validDialogues, count);
@@ -40,6 +74,8 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
             )}
 
             <div className="absolute inset-0 bg-linear-to-t from-black/100 via-black/50 to-transparent opacity-90 transition-opacity duration-300"></div>
+
+            {realeza && realeza.length > 0 && <InsigniaRealeza realeza={realeza} />}
 
             {level && (
                 <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">

@@ -1,6 +1,6 @@
 import { Suspense } from 'react';
-import DashboardClient, { DashboardVista } from '@/components/DashboardClient';
-import { agruparTandas, getLineaDeTiempo, getPortada } from '@/lib/data';
+import DashboardClient, { DashboardVista, type ArtistasPorNombre } from '@/components/DashboardClient';
+import { agruparTandas, getLineaDeTiempo, getPortada, getRealeza } from '@/lib/data';
 import type { TandaResumen } from '@/components/charts/EvolucionComprension';
 
 export default function Page() {
@@ -12,11 +12,14 @@ export default function Page() {
     numero: t.numero, title: t.title, date: t.date, anio: t.anio, palabras: t.palabras, lineas: t.lineas,
     ingles: t.ingles, titulos: t.partes.flatMap(p => p.items.map(i => i.texto)),
   }));
+  // Para las insignias de la Realeza en los pósters: solo el nombre, la foto y el rango.
+  const artistas: ArtistasPorNombre = Object.fromEntries(
+    getRealeza().map(({ nombre, foto, tipo, rango }) => [nombre, { nombre, foto, tipo, rango }]));
   // La portada lee el año elegido de la URL (?year=2025). Mientras eso carga en el navegador,
   // se muestra (y se genera en el build) la vista con el histórico completo.
   return (
-    <Suspense fallback={<DashboardVista portada={portada} tandas={tandas} selectedYear="all" />}>
-      <DashboardClient portada={portada} tandas={tandas} />
+    <Suspense fallback={<DashboardVista portada={portada} tandas={tandas} artistas={artistas} selectedYear="all" />}>
+      <DashboardClient portada={portada} tandas={tandas} artistas={artistas} />
     </Suspense>
   );
 }

@@ -7,7 +7,8 @@ import {
 import IndiceSecciones, { type Seccion } from '@/components/reglas/IndiceSecciones';
 import CalculadoraComprension from '@/components/reglas/CalculadoraComprension';
 import { getDatosConstitucion, type Aparicion } from '@/lib/constitucion';
-import { REALEZA } from '@/lib/realeza';
+import { agrupar } from '@/lib/realeza';
+import { getRealeza } from '@/lib/data';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 
 export const metadata = {
@@ -326,11 +327,12 @@ export default function ReglasPage() {
                   <p className="text-xs text-gray-500">Cada barra es una tanda; la línea punteada es su cuota. En gris, las que quedaron bajo la cuota.</p>
                 </>
               )}>
-              <p>Las tandas se hacen cada <strong>14 a 17 días</strong>, con una cuota de palabras según la época del año:</p>
+              <p>Las tandas se hacen cada <strong>14 a 17 días</strong>. Desde el ciclo 2027 y hasta el 2031:</p>
               <ul className="list-disc list-inside text-gray-400 space-y-1">
-                <li><strong className="text-gray-200">Enero a junio y octubre a diciembre:</strong> 400 palabras.</li>
-                <li><strong className="text-gray-200">Julio a septiembre:</strong> 500 palabras.</li>
+                <li><strong className="text-gray-200">Todas las tandas regulares:</strong> máximo de 450 palabras/frases.</li>
+                <li><strong className="text-gray-200">Tanda de Fin de Año:</strong> máximo de 550 palabras/frases (Regla 10).</li>
               </ul>
+              <p className="text-sm text-gray-500">Hasta el ciclo 2026, la cuota dependía de la época del año: 400 palabras de enero a junio y de octubre a diciembre, y 500 de julio a septiembre.</p>
             </Regla>
             <Regla numero={10} titulo="Tanda de Gala (Cierre de Año)" color="blue" destacada
               practica={d.festivas.length > 0 && (
@@ -524,10 +526,12 @@ export default function ReglasPage() {
               </h2>
               <p className="text-gray-400 leading-relaxed">
                 Los artistas con Prioridad de Realeza (Regla 5) y poder de Indulto Real (Regla 7).
+                Sus fotos, sus títulos y lo que enseñó cada uno están en{' '}
+                <Link href="/realeza" className="text-amber-300 underline underline-offset-2">el Salón del Trono</Link>.
               </p>
             </header>
             <div className="grid md:grid-cols-2 gap-4">
-              {REALEZA.map(g => {
+              {agrupar(getRealeza()).map(g => {
                 const superior = g.id === 'supremos' || g.id === 'platonicos';
                 const Icono = g.id === 'platonicos' ? Heart : Crown;
                 return (
@@ -541,7 +545,7 @@ export default function ReglasPage() {
                     {g.descripcion && <p className="text-xs text-gray-500">{g.descripcion}</p>}
                     <ul className="flex flex-wrap gap-2">
                       {g.miembros.map(m => (
-                        <li key={m} className={`px-3 py-1 rounded-full text-sm border ${superior ? 'border-amber-500/30 text-amber-100' : 'border-white/10 text-gray-300'}`}>{m}</li>
+                        <li key={m.nombre} className={`px-3 py-1 rounded-full text-sm border ${superior ? 'border-amber-500/30 text-amber-100' : 'border-white/10 text-gray-300'}`}>{m.nombre}</li>
                       ))}
                     </ul>
                   </article>

@@ -19,6 +19,20 @@
     "https://image.tmdb.org/t/p/w780/sHS563mxKAwwpRSxUEUgYQbtdXy.jpg",
     "https://image.tmdb.org/t/p/w780/sSt3IwfDxqrOmMBbhfd70fSlTMl.jpg"
   ],
+  "realeza": {
+    "Anya Taylor-Joy": [
+      "actua",
+      "musica"
+    ],
+    "Thomasin McKenzie": [
+      "actua"
+    ]
+  },
+  "realeza_manual": {
+    "Anya Taylor-Joy": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Last Night in Soho (lista definitiva).pdf"

@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 48138
   },
-  "analisis": "Con base en los diálogos del documento 'Dialogues from Unknown to improve the vocabulary in English.pdf', este thriller presenta un vocabulario lleno de tensión y lenguaje relacionado con la identidad. Encontrarás diálogos directos, expresiones de misterio y términos vinculados a la investigación criminal.",
+  "analisis": "Thriller con Liam Neeson ambientado en Berlín. El inglés es directo y tenso, con vocabulario de identidad, investigación y persecuciones, y mucho alemán intercalado ('danke schön', 'meine Frau'). También aparecen términos de ciencia agrícola ('strain of corn', 'sustenance') ligados a la trama de conspiración.",
   "sinopsis": "Un hombre se despierta de un coma, solo para descubrir que alguien ha tomado su identidad y que nadie, ni siquiera su esposa, le cree. Con la ayuda de una joven, se propone probar quién es.",
   "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/hH7MQ4cHtWvHlKQMDvUz95eNFrr.jpg",
     "https://image.tmdb.org/t/p/w780/vkWLFntfP0lgUw3y9ucNKd4Vj3e.jpg"
   ],
+  "realeza": {
+    "Liam Neeson": [
+      "actua"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2026/Palabras desconocidas de Unknown (lista definitiva).pdf"

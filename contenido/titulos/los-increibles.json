@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 9806
   },
-  "analisis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework', 'grounded', 'allowance') con terminología de superhéroes y espionaje ('secret identity', 'gadget', 'monologue', 'syndrome').",
+  "analisis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework') con terminología de superhéroes y espionaje ('secret identity', 'supers', 'monologue', 'syndrome').",
   "sinopsis": "Una familia de superhéroes encubiertos, mientras intentan vivir la tranquila vida suburbana, se ven obligados a entrar en acción para salvar el mundo.",
   "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/AtXtk99bZQb4L3oxNjpC3u9HzQw.jpg",
     "https://image.tmdb.org/t/p/w780/s9mdsiIl9PpMd2JJwbJtGAHWBUQ.jpg"
   ],
+  "realeza": {
+    "Samuel L. Jackson": [
+      "voz"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2024/Palabras desconocidas de Los Increibles (lista definitiva).pdf"

@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 82675
   },
-  "analisis": "Ambientada en Estambul, mantiene la jerga de espionaje, tácticas evasivas y comunicación por radio ('coordinates', 'radius', 'grenade') bajo presión extrema.",
+  "analisis": "Ambientada en Estambul, mantiene la jerga de espionaje, tácticas evasivas y comunicación por radio ('grenade', 'map') bajo presión extrema.",
   "sinopsis": "Aunque ya está retirado, Bryan Mills se ve obligado a utilizar todos sus recursos y habilidades de agente de la CIA para salvar tanto la vida de su mujer y de su hija como la suya propia. El padre de uno de los secuestradores albaneses que lo tuvieron en jaque en el primer film jura vengarse y aprovecha las vacaciones de la familia Mills en Estambul para llevar a cabo su plan. Una vez más parece que subestiman al ex agente de la CIA.",
   "poster": "https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/ryQdsSer9x1tx6QiDE9f9fGc02P.jpg",
     "https://image.tmdb.org/t/p/w780/gfe9IR3rnv3LSiz5a4fwf27GPM5.jpg"
   ],
+  "realeza": {
+    "Liam Neeson": [
+      "actua"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Taken II (lista definitiva).pdf"

@@ -7,6 +7,7 @@
   python fanning.py imagenes "Título" [--id N]     póster, fondo, fotos y duración desde TMDB (y episodios en series)
   python fanning.py pendientes                     qué datos faltan completar en las fichas
   python fanning.py ids [--guardar]                busca en TMDB el id de las fichas que no lo tienen
+  python fanning.py realeza [--rehacer]            fotos de la Realeza y en qué títulos participa cada artista (TMDB)
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
   python fanning.py revisar dialogos "ruta.pdf"    conteo de un PDF de diálogos, página por página
   python fanning.py probar                         corre las pruebas del conteo
@@ -119,6 +120,11 @@ def cmd_ids(args):
     correr(buscar_ids_tmdb, *(['--guardar'] if args.guardar else []))
 
 
+def cmd_realeza(args):
+    import realeza_tmdb
+    correr(realeza_tmdb, *(['--rehacer'] if args.rehacer else []))
+
+
 def cmd_pendientes(args, solo_nuevas=False):
     lista, errores, avisos = F.cargar(estricto=False)
     if errores:
@@ -206,6 +212,10 @@ def main():
     p = sub.add_parser('ids', help='busca en TMDB el id de las fichas que no lo tienen')
     p.add_argument('--guardar', action='store_true', help='guarda los ids confirmados por el póster')
     p.set_defaults(fn=cmd_ids)
+
+    p = sub.add_parser('realeza', help='fotos de la Realeza y en qué títulos participa cada artista (TMDB)')
+    p.add_argument('--rehacer', action='store_true', help='vuelve a pedir las fotos y las fechas de nacimiento')
+    p.set_defaults(fn=cmd_realeza)
 
     p = sub.add_parser('revisar', help='revisiones de ortografía o de un PDF de diálogos')
     p.add_argument('que', choices=['ortografia', 'dialogos'])

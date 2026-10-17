@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { ManifestData, ManifestYear, MovieStats, PortadaData } from '@/types/manifest';
 import { ExtraData } from '@/types/media';
+import type { Artista } from '@/lib/realeza';
 
 // No está en public/: solo se lee en el build y no se publica tal cual (la página manda lo que usa).
 const DATA = path.join(process.cwd(), 'data');
@@ -28,12 +29,17 @@ export function getPortada(): PortadaData {
       ...datos,
       movieList: datos.movieList.map(m => ({
         title: m.title, count: m.count, type: m.type, dialogues: m.dialogues,
-        posterUrl: m.posterUrl, level: m.level, rating: m.rating,
+        posterUrl: m.posterUrl, level: m.level, rating: m.rating, realeza: m.realeza,
         ...(anio === 'all' && { aliases: m.aliases, years: m.years }),
       })),
     };
   }
   return portada;
+}
+
+// La Realeza (copia de contenido/realeza.json, con la foto y el nacimiento que trae TMDB).
+export function getRealeza(): Artista[] {
+  return leer<Artista[]>('realeza.json') ?? [];
 }
 
 export function getTodos(): MovieStats[] {

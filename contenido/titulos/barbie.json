@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 346698
   },
-  "analisis": "La película presenta un inglés mayormente americano con un tono muy moderno, optimista y pop. Utiliza vocabulario relacionado con el empoderamiento, conceptos existenciales ('patriarchy', 'cognitive dissonance', 'fascism') mezclados con términos superficiales y corporativos. Destaca por el contraste entre el lenguaje inocente de Barbieland y el inglés del mundo real corporativo.",
+  "analisis": "La película presenta un inglés mayormente americano con un tono muy moderno, optimista y pop. Utiliza vocabulario relacionado con el empoderamiento, conceptos existenciales ('patriarchy', 'cognitive dissonance', 'fascist') mezclados con términos superficiales y corporativos. Destaca por el contraste entre el lenguaje inocente de Barbieland y el inglés del mundo real corporativo.",
   "sinopsis": "Una muñeca que vive en 'Barbieland' es expulsada al mundo real por no ser lo suficientemente perfecta. Basada en la popular muñeca Barbie.",
   "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
@@ -19,6 +19,12 @@
     "https://image.tmdb.org/t/p/w780/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
     "https://image.tmdb.org/t/p/w780/nHf61UzkfFno5X1ofIhugCPus2R.jpg"
   ],
+  "realeza": {
+    "Margot Robbie": [
+      "actua",
+      "produce"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2023/Palabras desconocidas de Barbie (lista definitiva).pdf"

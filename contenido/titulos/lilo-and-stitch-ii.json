@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 20760
   },
-  "analisis": "Utilizando como referencia 'Dialogues from Lilo and Stitch II to improve the vocabulary in English.pdf', esta película ofrece un inglés sumamente familiar y relajado. Contiene jerga hawaiana mezclada con términos alienígenas cómicos y vocabulario cotidiano sobre la familia y la amistad.",
+  "analisis": "Inglés familiar y relajado, con jerga hawaiana, términos alienígenas y pseudocientíficos ('hovercraft', 'prognosis', 'engage hyper-drive') y vocabulario cotidiano sobre la familia y la amistad. Abundan las frases hechas no literales ('rain check', 'go haywire', 'you're dead meat') y el inglés imperfecto de los personajes alienígenas ('I sorry to break it to you').",
   "sinopsis": "Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.",
   "poster": "https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg",
@@ -19,6 +19,11 @@
     "https://image.tmdb.org/t/p/w780/hfP2RWEDB3epyWjGfWqp37q4OQ0.jpg",
     "https://image.tmdb.org/t/p/w780/mRwtbmaXMTY28wTW540PsAudVT1.jpg"
   ],
+  "realeza": {
+    "Dakota Fanning": [
+      "voz"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2026/Palabras desconocidas de Lilo and Stitch II - Stitch has a Glitch (lista definitiva).pdf"

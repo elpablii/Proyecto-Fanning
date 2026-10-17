@@ -43,8 +43,10 @@ export interface DatosConstitucion {
   niveles: { nivel: string; cantidad: number }[];
 }
 
-// Cuota de palabras de una tanda regular (Regla 9), según el mes de su primera parte.
-export function cuotaDe(fecha: string): number {
+// Cuota de palabras de una tanda regular (Regla 9): desde el ciclo 2027, máximo de 450 todo el año;
+// hasta 2026, según el mes de su primera parte.
+export function cuotaDe(fecha: string, ciclo: string): number {
+  if (Number(ciclo) >= 2027) return 450;
   const mes = Number(fecha.slice(5, 7));
   return mes >= 7 && mes <= 9 ? 500 : 400;
 }
@@ -122,7 +124,7 @@ export function getDatosConstitucion(): DatosConstitucion {
       ciclo: cicloActual,
       tandas: tandas
         .filter(t => t.anio === cicloActual && !festiva(t))
-        .map(t => ({ title: t.title, palabras: t.palabras, cuota: cuotaDe(t.fecha) })),
+        .map(t => ({ title: t.title, palabras: t.palabras, cuota: cuotaDe(t.fecha, t.anio) })),
     },
     festivas: partes.filter(t => t.etiqueta !== null),
     dosSesiones: {

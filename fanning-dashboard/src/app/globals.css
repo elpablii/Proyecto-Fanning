@@ -40,3 +40,40 @@ body {
 .backface-hidden { backface-visibility: hidden; }
 .rotate-y-180 { transform: rotateY(180deg); }
 
+
+/* ---------- La Realeza ---------- */
+
+/* Insignia de corona o corazón en los pósters: late suave y brilla */
+@keyframes latidoReal {
+  0%, 100% { transform: scale(1); filter: drop-shadow(0 0 0 transparent); }
+  50% { transform: scale(1.12); filter: drop-shadow(0 0 6px currentColor); }
+}
+.latido-real { animation: latidoReal 2.6s ease-in-out infinite; }
+
+/* Cartas del Salón del Trono: se inclinan con el mouse (--rx, --ry) y se voltean (--giro) */
+.carta-real {
+  transform: rotateX(var(--rx, 0deg)) rotateY(calc(var(--ry, 0deg) + var(--giro, 0deg)));
+  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.carta-real[data-inclinando="true"] { transition: transform 0.08s linear; }
+
+/* Brillo holográfico de los rangos superiores: se mueve con el mouse (--mx, --my) */
+.holo-real {
+  background:
+    radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, 0.35), transparent 45%),
+    linear-gradient(115deg, transparent 25%, rgba(255, 215, 0, 0.35) 40%, rgba(255, 105, 180, 0.35) 50%,
+      rgba(0, 230, 255, 0.3) 60%, transparent 75%);
+  background-size: 100% 100%, 250% 250%;
+  background-position: center, var(--mx, 50%) var(--my, 50%);
+  mix-blend-mode: color-dodge;
+}
+/* Los demás solo tienen el reflejo de luz */
+.reflejo-real {
+  background: radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, 0.22), transparent 50%);
+  mix-blend-mode: soft-light;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .latido-real { animation: none; }
+  .carta-real, .carta-real[data-inclinando="true"] { transition: none; }
+}

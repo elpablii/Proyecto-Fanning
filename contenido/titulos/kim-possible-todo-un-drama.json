@@ -7,7 +7,7 @@
     "tipo": "movie",
     "id": 20771
   },
-  "analisis": "Animación adolescente de los 2000. Lenguaje rápido lleno de modismos adolescentes ('so not the drama', 'cheerleader') entrelazado con vocabulario clásico de agentes secretos y espionaje.",
+  "analisis": "Animación adolescente de los 2000. Lenguaje lleno de modismos adolescentes ('so not the drama', 'prom') entrelazado con vocabulario clásico de agentes secretos y espionaje.",
   "sinopsis": "El Dr. Drakken tiene un nuevo y malvado plan para dominar el planeta, pro su éxito depende de encontrar el punto débil de Kim Posible. ¿Esta debilidad, tendrá algo que ver con un chico llamado Eric? Kim está totalmente distraída con la fiesta de fin de curso, mientras Ron está actuando como un bobo, justo cuando Kim más lo necesita. Si el Dr. Drakken sigue presionando, ¡Kim Posible tendrá que rendirse! Pero nada termina hasta que no llega el final.",
   "poster": "https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/y8n9w26LU9BYiMIyARv6dbg6NO8.jpg",
@@ -19,6 +19,19 @@
     "https://image.tmdb.org/t/p/w780/vP3VEBsTxjeVIEygWeggpLmkLoO.jpg",
     "https://image.tmdb.org/t/p/w780/kbXKDGDgyGG8Kz8j1HFsKroD2Qi.jpg"
   ],
+  "realeza": {
+    "Christy Carlson Romano": [
+      "voz"
+    ],
+    "Will Friedle": [
+      "voz"
+    ]
+  },
+  "realeza_manual": {
+    "Christy Carlson Romano": [
+      "musica"
+    ]
+  },
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2025/Palabras desconocidas de Kim Possible Todo un Drama (lista definitiva).pdf"
