@@ -1,15 +1,21 @@
 "use client";
 
 import React, { useEffect, useMemo, useState } from 'react';
+import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Film, BookOpen, Crown, TrendingUp, Search, Calendar } from 'lucide-react';
+import { Film, BookOpen, Sparkles, TrendingUp, MessageSquare, Crown, X } from 'lucide-react';
 
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import MovieCard, { type ArtistaEnCarta } from '@/components/ui/MovieCard';
 import SearchModal from '@/components/ui/SearchModal';
 import EvolucionComprension, { type TandaResumen } from '@/components/charts/EvolucionComprension';
+import ReinaDelDia, { type CandidatoDelDia } from '@/components/realeza/ReinaDelDia';
+import HeroPortada from '@/components/portada/HeroPortada';
+import TarjetaMetrica, { TONOS, type PuntoSerie } from '@/components/portada/TarjetaMetrica';
 import { PortadaAnio, PortadaData } from '@/types/manifest';
+import { hrefArtista, ordenGrupo } from '@/lib/realeza';
+import { transicionPoster } from '@/lib/transiciones';
 
 const VACIO: PortadaAnio = {
   totalWords: 0, totalDialogues: 0, uniqueMovies: 0,
@@ -25,7 +31,13 @@ function aniosDisponibles(portada: PortadaData): string[] {
 // La Realeza por nombre, para las insignias de los pósters.
 export type ArtistasPorNombre = Record<string, ArtistaEnCarta>;
 
-interface PropsPortada { portada: PortadaData; tandas: TandaResumen[]; artistas: ArtistasPorNombre }
+interface PropsPortada {
+  portada: PortadaData;
+  tandas: TandaResumen[];
+  artistas: ArtistasPorNombre;
+  delDia: CandidatoDelDia[];
+  hoy: string;               // fecha del build; en el navegador se usa la de ese día
+}
 
 export default function DashboardClient(props: PropsPortada) {
   const pedido = useSearchParams().get('year') ?? 'all';
@@ -34,13 +46,48 @@ export default function DashboardClient(props: PropsPortada) {
 }
 
 // La portada para un año dado. También es lo que se genera en el build (con el histórico).
-export function DashboardVista({ portada, tandas, artistas, selectedYear }: PropsPortada & { selectedYear: string }) {
+export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selectedYear }: PropsPortada & { selectedYear: string }) {
   const router = useRouter();
   const [showSearch, setShowSearch] = useState(false);
+  const [artista, setArtista] = useState<string | null>(null);
   const availableYears = useMemo(() => aniosDisponibles(portada), [portada]);
 
   const stats = portada[selectedYear] ?? VACIO;
   const pctAnual = comprension(stats.totalDialogues, stats.totalWords);
+  const elegido = selectedYear === 'all' ? null : selectedYear;
+
+  // Cada cifra en cada ciclo, para los mini gráficos de las tarjetas (las mismas del manifest).
+  const series = useMemo(() => {
+    const ciclos = availableYears.filter(a => a !== 'all');
+    const de = (f: (d: PortadaAnio) => number | null, texto: (n: number | null) => string): PuntoSerie[] =>
+      ciclos.map(c => {
+        const valor = f(portada[c]);
+        return { etiqueta: c, valor, texto: texto(valor) };
+      });
+    return {
+      palabras: de(d => d.totalWords, n => `${miles(n)} palabras`),
+      lineas: de(d => d.totalDialogues, n => `${miles(n)} líneas`),
+      titulos: de(d => d.uniqueMovies, n => `${miles(n)} títulos`),
+      comprension: de(d => comprension(d.totalDialogues, d.totalWords), n => porcentaje(n)),
+    };
+  }, [availableYears, portada]);
+
+  // Filtro del catálogo por artista: quienes están en los títulos del ciclo elegido, con más títulos primero.
+  // Si el artista elegido no está en este ciclo, el filtro queda sin efecto.
+  const conRealeza = useMemo(() => {
+    const cuenta = new Map<string, number>();
+    for (const m of stats.movieList) for (const n of Object.keys(m.realeza ?? {})) cuenta.set(n, (cuenta.get(n) ?? 0) + 1);
+    return [...cuenta.entries()].filter(([n]) => artistas[n])
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  }, [stats.movieList, artistas]);
+  const filtro = conRealeza.some(([n]) => n === artista) ? artista : null;
+  const catalogo = filtro ? stats.movieList.filter(m => m.realeza?.[filtro]) : stats.movieList;
+
+  // Pósters para el mosaico del encabezado.
+  const posters = useMemo(
+    () => (portada.all?.movieList ?? []).map(m => m.posterUrl).filter((u): u is string => !!u).slice(0, 42),
+    [portada],
+  );
 
   const elegirAnio = (year: string) => {
     router.replace(year === 'all' ? '/' : `/?year=${year}`, { scroll: false });
@@ -61,33 +108,13 @@ export function DashboardVista({ portada, tandas, artistas, selectedYear }: Prop
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-4 sm:p-6 md:p-8">
-      {/* Header */}
-      <header className="mb-6 md:mb-8 flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4 pb-4 md:pb-6">
-        <div>
-          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight bg-linear-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-            Dashboard del Proyecto Fanning
-          </h1>
-          <p className="text-gray-400 mt-2 text-sm md:text-lg">Métricas de inmersión y adquisición de vocabulario</p>
-        </div>
-        <div className="flex flex-wrap gap-3 w-full sm:w-auto">
-          <button onClick={() => router.push('/timeline')} className="flex-1 sm:flex-none justify-center bg-blue-600/20 hover:bg-blue-600/40 text-blue-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-blue-500/30">
-            <Calendar size={16} /> Línea de Tiempo
-          </button>
-          <button onClick={() => router.push('/realeza')} className="flex-1 sm:flex-none justify-center bg-amber-500/15 hover:bg-amber-500/30 text-amber-300 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-amber-400/30">
-            <Crown size={16} /> La Realeza
-          </button>
-          <button onClick={() => router.push('/reglas')} className="flex-1 sm:flex-none justify-center bg-purple-600/20 hover:bg-purple-600/40 text-purple-400 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border border-purple-500/30">
-            <BookOpen size={16} /> Constitución del Proyecto Fanning
-          </button>
-          <button onClick={() => setShowSearch(true)} title="Buscar (Ctrl + K)" className="flex-1 sm:flex-none justify-center bg-gray-800 hover:bg-gray-700 px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium">
-            <Search size={16} /> Buscar
-          </button>
-        </div>
-      </header>
+      <HeroPortada posters={posters} onBuscar={() => setShowSearch(true)} />
 
       {showSearch && (
-        <SearchModal items={portada.all?.movieList ?? []} onClose={() => setShowSearch(false)} />
+        <SearchModal items={portada.all?.movieList ?? []} artistas={Object.values(artistas)} onClose={() => setShowSearch(false)} />
       )}
+
+      <ReinaDelDia candidatos={delDia} hoy={hoy} />
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
         {availableYears.map((year) => (
@@ -104,53 +131,36 @@ export function DashboardVista({ portada, tandas, artistas, selectedYear }: Prop
         ))}
       </div>
 
-      {/* Stat Cards */}
+      {/* Tarjetas de métricas: el número sube al cargar y abajo va cada ciclo */}
       <div className={`grid grid-cols-1 md:grid-cols-2 ${selectedYear === 'all' ? 'lg:grid-cols-4' : 'lg:grid-cols-5'} gap-6 mb-10`}>
-        <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
-          <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Total Extraído</h3>
-            <div className="p-2 bg-blue-500/10 text-blue-400 rounded-lg"><BookOpen size={20} /></div>
-          </div>
-          <p className="text-3xl font-bold">{miles(stats.totalWords)}</p>
-          <p className="text-sm text-green-400 mt-2 flex items-center gap-1">Palabras en {selectedYear === 'all' ? 'total' : selectedYear}</p>
-        </div>
+        <TarjetaMetrica titulo="Total Extraído" icono={BookOpen} tono="azul" valor={stats.totalWords} formato={miles}
+          nota={`Palabras en ${selectedYear === 'all' ? 'total' : selectedYear}`} serie={series.palabras} elegido={elegido} />
+        <TarjetaMetrica titulo="Líneas de Diálogo" icono={MessageSquare} tono="verde" valor={stats.totalDialogues} formato={miles}
+          nota={`Líneas totales en ${selectedYear === 'all' ? 'histórico' : selectedYear}`} serie={series.lineas} elegido={elegido} />
+        <TarjetaMetrica titulo="Películas / Series" icono={Film} tono="morado" valor={stats.uniqueMovies} formato={miles}
+          nota="Obras únicas visualizadas" serie={series.titulos} elegido={elegido} />
 
-        <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
-          <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Líneas de Diálogo</h3>
-            <div className="p-2 bg-emerald-500/10 text-emerald-400 rounded-lg"><Film size={20} /></div>
-          </div>
-          <p className="text-3xl font-bold">{miles(stats.totalDialogues)}</p>
-          <p className="text-sm text-emerald-500 mt-2">Líneas totales en {selectedYear === 'all' ? 'histórico' : selectedYear}</p>
-        </div>
-
-        <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
-          <div className="flex justify-between items-start mb-4">
-            <h3 className="text-gray-400 font-medium">Películas / Series</h3>
-            <div className="p-2 bg-purple-500/10 text-purple-400 rounded-lg"><Film size={20} /></div>
-          </div>
-          <p className="text-3xl font-bold">{miles(stats.uniqueMovies)}</p>
-          <p className="text-sm text-gray-500 mt-2">Obras únicas visualizadas</p>
-        </div>
-
-        <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
+        <div className={`bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${TONOS.rosa.hover}`}>
           <div className="flex justify-between items-start mb-4">
             <h3 className="text-gray-400 font-medium">Más Frecuente</h3>
-            <div className="p-2 bg-pink-500/10 text-pink-400 rounded-lg"><TrendingUp size={20} /></div>
+            <div className={`p-2 rounded-lg ${TONOS.rosa.icono}`}><TrendingUp size={20} /></div>
           </div>
           <p className="text-2xl font-bold capitalize truncate">{stats.topWord.word}</p>
-          <p className="text-sm text-gray-500 mt-2">{miles(stats.topWord.count)} apariciones</p>
+          {stats.topWord.translation && <p className="text-sm text-gray-400 italic truncate">{stats.topWord.translation}</p>}
+          <p className={`text-sm mt-2 ${TONOS.rosa.nota}`}>{miles(stats.topWord.count)} apariciones</p>
+          {stats.topList.length > 1 && (
+            <ul className="mt-4 flex flex-wrap gap-1.5">
+              {stats.topList.slice(1, 5).map(w => (
+                <li key={w.word} title={`${w.translation} · ${miles(w.count)}`}
+                  className="text-xs rounded-full bg-pink-500/10 border border-pink-500/20 text-pink-200 px-2 py-0.5">{w.word}</li>
+              ))}
+            </ul>
+          )}
         </div>
 
         {selectedYear !== 'all' && (
-          <div className="bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl">
-            <div className="flex justify-between items-start mb-4">
-              <h3 className="text-gray-400 font-medium">Comprensión Global</h3>
-              <div className="p-2 bg-cyan-500/10 text-cyan-400 rounded-lg"><Crown size={20} /></div>
-            </div>
-            <p className="text-3xl font-bold">{porcentaje(pctAnual)}</p>
-            <p className="text-sm text-cyan-500 mt-2">Porcentaje en {selectedYear}</p>
-          </div>
+          <TarjetaMetrica titulo="Comprensión Global" icono={Sparkles} tono="cian" valor={pctAnual} formato={n => porcentaje(n)}
+            nota={`Porcentaje en ${selectedYear}`} serie={series.comprension} elegido={elegido} forma="linea" />
         )}
       </div>
 
@@ -197,12 +207,39 @@ export function DashboardVista({ portada, tandas, artistas, selectedYear }: Prop
 
       {/* Catálogo Visual */}
       <div className="mt-12">
-        <h2 className="text-2xl font-bold mb-8 flex items-center gap-2 border-b border-gray-800 pb-4">
-          <Film className="text-pink-500" size={28} /> Catálogo de Visualización {selectedYear !== 'all' ? `(${selectedYear})` : ''}
-        </h2>
+        <div className="mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-800 pb-4">
+          <h2 className="text-2xl font-bold flex items-center gap-2">
+            <Film className="text-pink-500" size={28} /> Catálogo de Visualización {selectedYear !== 'all' ? `(${selectedYear})` : ''}
+          </h2>
+          {conRealeza.length > 0 && (
+            <div className="flex items-center gap-2 flex-wrap">
+              <label className={`flex items-center gap-2 rounded-full pl-3 pr-1 py-1 text-sm font-medium border transition ${filtro
+                ? 'bg-amber-400 text-gray-950 border-amber-300'
+                : 'bg-amber-500/10 text-amber-300 border-amber-400/30'}`}>
+                <Crown size={14} aria-hidden />
+                <span className="sr-only">Ver solo los títulos de un miembro de la Realeza</span>
+                <select value={filtro ?? ''} onChange={e => setArtista(e.target.value || null)}
+                  className="bg-transparent outline-none cursor-pointer pr-2 max-w-60">
+                  <option value="" className="bg-gray-900 text-gray-100">Con alguien de la Realeza…</option>
+                  {conRealeza.map(([n, c]) => (
+                    <option key={n} value={n} className="bg-gray-900 text-gray-100">{n} ({c})</option>
+                  ))}
+                </select>
+              </label>
+              {filtro && (
+                <>
+                  <Link href={hrefArtista(filtro)} className="text-sm text-amber-300 hover:underline">Ver su página</Link>
+                  <button onClick={() => setArtista(null)} className="text-gray-400 hover:text-white p-1" aria-label="Quitar el filtro">
+                    <X size={16} />
+                  </button>
+                </>
+              )}
+            </div>
+          )}
+        </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-          {stats.movieList.map((item) => (
+          {catalogo.map((item) => (
             <MovieCard
               key={item.title}
               title={item.title}
@@ -211,7 +248,8 @@ export function DashboardVista({ portada, tandas, artistas, selectedYear }: Prop
               posterUrl={item.posterUrl}
               level={item.level}
               rating={item.rating}
-              realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean)}
+              transicion={transicionPoster(item.type, item.title)}
+              realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean).sort((a, b) => ordenGrupo(a) - ordenGrupo(b))}
               href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
             />
           ))}

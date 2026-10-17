@@ -76,8 +76,9 @@ Las tandas operativas se estructuran en ciclos de **14 a 17 días**, con las sig
 * **Requisito:** Debe incluir obligatoriamente contenido de temática navideña.
 * **Meta Avanzada:** Cuota fija de **550 palabras**.
 
-### Regla 11: Regla de las 5 Horas
-* Si la duración sumada de los contenidos programados para una tanda supera las 5 horas cronológicas, la tanda se dividirá obligatoriamente en dos sesiones consecutivas: el **Día n-1** (Víspera) y el **Día n** (Fecha original).
+### Regla 11: Regla de las 6 Horas
+* Si la duración sumada de los contenidos programados para una tanda supera las 6 horas cronológicas, la tanda se dividirá obligatoriamente en dos sesiones consecutivas: el **Día n-1** (Víspera) y el **Día n** (Fecha original).
+* *Historial:* hasta la 68° Tanda (17/10/2026) el límite era de 5 horas. Rige el de 6 horas desde la 69° Tanda; las tandas anteriores conservan cómo se hicieron.
 
 ### Regla 12: Pausa Activa
 Para proteger la salud visual y mantener el foco cognitivo en largometrajes extensos, se aplican recesos obligatorios según la duración:

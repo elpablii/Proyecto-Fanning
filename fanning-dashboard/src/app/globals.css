@@ -34,6 +34,62 @@ body {
   opacity: 0;
 }
 
+/* Mosaico de pósters del inicio: cada fila desfila despacio (la fila va dos veces, por eso -50%) */
+@keyframes desfile {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.desfile { animation: desfile 140s linear infinite; }
+.desfile-inverso { animation-direction: reverse; }
+
+/* Transiciones entre páginas: el póster o la foto vuela y se difumina un instante a mitad de camino */
+::view-transition-group(.morph) {
+  animation-duration: 420ms;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+::view-transition-image-pair(.morph) {
+  animation-name: vuelo-difuso;
+}
+@keyframes vuelo-difuso {
+  30% { filter: blur(3px); }
+}
+
+/* Salón del Trono: destellos dorados que suben y pétalos rosas que caen (ver Particulas.tsx) */
+@keyframes subirChispa {
+  0% { transform: translateY(0) scale(0.6); opacity: 0; }
+  15% { opacity: 0.9; }
+  100% { transform: translateY(-105vh) scale(1); opacity: 0; }
+}
+.chispa {
+  position: absolute;
+  bottom: -10px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, #fde68a 0%, #f59e0b 60%, transparent 70%);
+  box-shadow: 0 0 8px 2px rgba(251, 191, 36, 0.55);
+  animation: subirChispa linear infinite;
+}
+@keyframes caerPetalo {
+  0% { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+  10% { opacity: 0.75; }
+  50% { transform: translate(var(--deriva), 55vh) rotate(200deg); }
+  100% { transform: translate(0, 110vh) rotate(420deg); opacity: 0; }
+}
+.petalo {
+  position: absolute;
+  top: -20px;
+  border-radius: 100% 0 100% 0;
+  background: linear-gradient(135deg, #fbcfe8, #ec4899);
+  opacity: 0;
+  animation: caerPetalo ease-in-out infinite;
+}
+
+/* Constelación: el cielo de fondo titila */
+@keyframes titilar {
+  0%, 100% { opacity: 0.15; }
+  50% { opacity: 0.7; }
+}
+.titilar { animation: titilar 4s ease-in-out infinite; }
+
 /* Tarjetas que se voltean (flashcards) */
 .perspective-1000 { perspective: 1000px; }
 .preserve-3d { transform-style: preserve-3d; }
@@ -73,7 +129,29 @@ body {
   mix-blend-mode: soft-light;
 }
 
+/* Confeti de la Reina o Rey del día cuando está de cumpleaños */
+@keyframes caerConfeti {
+  0% { top: -8%; opacity: 0; }
+  10% { opacity: 1; }
+  100% { top: 105%; opacity: 0; translate: 24px 0; rotate: 540deg; }
+}
+.confeti {
+  position: absolute;
+  top: -8%;
+  width: 7px;
+  height: 12px;
+  border-radius: 2px;
+  animation: caerConfeti linear infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .latido-real { animation: none; }
+  .confeti { display: none; }
+  .desfile { animation: none; }
+  .chispa, .petalo { display: none; }
+  .titilar { animation: none; opacity: 0.35; }
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) { animation: none !important; }
   .carta-real, .carta-real[data-inclinando="true"] { transition: none; }
 }

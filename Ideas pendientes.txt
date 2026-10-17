@@ -50,17 +50,31 @@ Ideas para mostrarlos:
 2. Página por artista (/realeza/margot-robbie): su filmografía en el
    proyecto, sus métricas, flashcards con todo su vocabulario y el contenido
    de Contenidos/*.md.
+   [HECHO el 17/10/2026: portada con su foto y rango, cifras, filmografía por
+   tanda, flashcards con todo su vocabulario, "Comparte pantalla con" (sale de
+   los datos, no de Contenidos/*.md) y anterior/siguiente. Además, cada ficha
+   de película o serie muestra "La Realeza en esta película" y el póster
+   brilla rosa u oro]
 3. Insignias con corona o corazón en cada película o serie, que llevan a la
    página del artista.  [HECHO el 16/10/2026 en los pósters del inicio; falta
-   que lleven a la página del artista cuando exista (idea 2)]
+   que lleven a la página del artista cuando exista (idea 2). Las cartas
+   del Salón ya llevan a ella (17/10/2026), y las insignias de los pósters
+   también (17/10/2026)]
 4. Filtro en el inicio y en el buscador por artista; el buscador también
-   encuentra personas.
+   encuentra personas.  [HECHO el 17/10/2026 en el buscador: filtro "Realeza",
+   y "margot" también encuentra los títulos donde está. Falta el filtro por
+   artista en el catálogo del inicio]  [Catálogo: HECHO el 17/10/2026]
 5. Marcar en la línea de tiempo las tandas con alguien de la realeza
-   ("Tanda real").
-6. Grafo de conexiones entre artistas por los títulos que comparten.
-7. "Reina o rey del día" en el inicio.
+   ("Tanda real").  [HECHO el 17/10/2026: insignia "Tanda Real" con las caras
+   y un filtro "Ver las tandas de…". Ojo: por la Regla 5 casi todas las tandas
+   tienen a alguien de la Realeza, así que lo útil es filtrar por artista]
+6. Grafo de conexiones entre artistas por los títulos que comparten.  [HECHO el
+   17/10/2026: "La Constelación Real" en /realeza/constelacion]
+7. "Reina o rey del día" en el inicio.  [HECHO el 17/10/2026: con prioridad
+   al cumpleaños y confeti]
 8. Ranking: quién te enseñó más palabras, quién habla más rápido y quién
-   tiene el inglés más difícil.
+   tiene el inglés más difícil.  [HECHO el 17/10/2026: "El Podio Real" en el
+   Salón, con palabras, horas, inglés más difícil y ritmo]
 
 ============================================================
 4. OTRAS IDEAS PARA LA PÁGINA
@@ -74,3 +88,11 @@ Ideas para mostrarlos:
 - Lista de pendientes (lo proyectado o tentativo de Contenidos/*.md).
 - Comparar dos títulos lado a lado.
 - Paleta de color por título sacada de su póster.
+- Portada con más presencia (héroe con mosaico de pósters y el origen del
+  nombre) y tarjetas de métricas con conteo animado y mini gráfico por ciclo.
+  [HECHO el 17/10/2026]
+- Transiciones entre páginas: el póster vuela del catálogo a la ficha y la foto
+  del artista, de su carta a su página.  [HECHO el 17/10/2026]
+- Fondo con partículas en el Salón (destellos dorados y pétalos rosas) y una
+  cita de diálogo de cada artista, verificada contra los subtítulos con
+  "python fanning.py citas".  [HECHO el 17/10/2026]

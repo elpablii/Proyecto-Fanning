@@ -35,7 +35,7 @@ El reparto lo hace `scripts/metricas/planificador.py`: prueba miles de cambios c
 
 **Cuota y duración**
 - **Techo de 450** (Fin de Año: 550, sumando sus partes). Se acepta pasarse hasta 5 palabras si sobran. No hay mínimo. Fija hasta 2031.
-- **Duración máxima: 8 h por tanda** (salvo excepciones). Las pausas no cuentan. **Cada 5 h acumuladas se suma un día de aplicación.**
+- **Duración máxima: 8 h por tanda** (salvo excepciones). Las pausas no cuentan. **Cada 6 h acumuladas se suma un día de aplicación** (Regla 11; eran 5 h hasta la 68° Tanda).
 - **Fechas fijas.** Solo se mueven 1 o 2 días por una emergencia.
 
 **Armado**

@@ -1,22 +1,22 @@
 "use client";
 
-import React, { useRef, useState } from 'react';
+import React, { useRef, useState, ViewTransition } from 'react';
 import Link from 'next/link';
-import { Briefcase, Cake, Clapperboard, Crown, Film, Heart, Mic, Music, PenLine, RotateCw, User, Wrench, type LucideIcon } from 'lucide-react';
+import { ArrowRight, Briefcase, Clapperboard, Crown, Film, Heart, Mic, Music, PenLine, RotateCw, User, Wrench, type LucideIcon } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
-import { grupoDe, hrefTitulo, PAPELES, slugArtista, type Artista, type EstadisticasArtista, type IdGrupo, type Papel } from '@/lib/realeza';
+import { grupoDe, hrefArtista, hrefTitulo, NOMBRE_RANGO, PAPELES, slugArtista, type Artista, type EstadisticasArtista, type IdGrupo, type Papel } from '@/lib/realeza';
+import Cumpleanos from '@/components/realeza/Cumpleanos';
+import { transicionArtista } from '@/lib/transiciones';
 
 export interface ArtistaSalon extends Artista {
   stats: EstadisticasArtista;
 }
 
-const RANGO: Record<IdGrupo, string> = {
-  supremos: 'Rey Supremo', platonicos: 'Amor Platónico', reinas: 'Reina', reyes: 'Rey',
-};
+const RANGO = NOMBRE_RANGO;
 
 // Marco de cada grupo: oro para los Reyes Supremos, rosa para los Amores Platónicos.
-const MARCO: Record<IdGrupo, string> = {
+export const MARCO: Record<IdGrupo, string> = {
   supremos: 'bg-linear-to-br from-amber-100 via-amber-400 to-yellow-700 p-[3px] shadow-[0_0_35px_rgba(251,191,36,0.3)]',
   platonicos: 'bg-linear-to-br from-pink-200 via-rose-400 to-fuchsia-700 p-[3px] shadow-[0_0_35px_rgba(244,114,182,0.3)]',
   reinas: 'bg-linear-to-br from-pink-400/50 via-white/10 to-purple-500/40 p-px',
@@ -29,39 +29,10 @@ const ICONO_PAPEL: Partial<Record<Papel, LucideIcon>> = {
 };
 
 // "Actúa en 15 · Su música en 2": cuántos títulos por cada forma de participar.
-function resumenPapeles(stats: EstadisticasArtista): string {
+export function resumenPapeles(stats: EstadisticasArtista): string {
   const cuenta = new Map<Papel, number>();
   for (const t of stats.titulos) for (const p of t.papeles) cuenta.set(p, (cuenta.get(p) ?? 0) + 1);
   return (Object.keys(PAPELES) as Papel[]).filter(p => cuenta.has(p)).map(p => `${PAPELES[p]} en ${cuenta.get(p)}`).join(' · ');
-}
-
-const MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
-
-function fechaLarga(iso: string, conAnio = false): string {
-  const [a, m, d] = iso.split('-').map(Number);
-  return `${d} de ${MESES[m - 1]}${conAnio ? ` de ${a}` : ''}`;
-}
-
-function edad(nacimiento: string, hasta: string): number {
-  const [a1, m1, d1] = nacimiento.split('-').map(Number);
-  const [a2, m2, d2] = hasta.split('-').map(Number);
-  return a2 - a1 - (m2 < m1 || (m2 === m1 && d2 < d1) ? 1 : 0);
-}
-
-function Cumpleanos({ artista, hoy }: { artista: Artista; hoy: string }) {
-  const { nacimiento, fallecimiento } = artista;
-  if (!nacimiento) return null;
-  const esHoy = !fallecimiento && nacimiento.slice(5) === hoy.slice(5);
-  return (
-    <p className={`flex items-center gap-1.5 ${esHoy ? 'text-pink-300 font-semibold' : 'text-gray-400'}`}>
-      <Cake size={12} className="shrink-0" />
-      {fallecimiento
-        ? <span>{fechaLarga(nacimiento, true)} – {fechaLarga(fallecimiento, true)}</span>
-        : esHoy
-          ? <span>¡Hoy cumple {edad(nacimiento, hoy)} años!</span>
-          : <span>{fechaLarga(nacimiento)} · {edad(nacimiento, hoy)} años</span>}
-    </p>
-  );
 }
 
 function Dato({ etiqueta, valor, color }: { etiqueta: string; valor: string; color: string }) {
@@ -127,8 +98,10 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
         <div className={cara} inert={volteada}>
           <div className={interior}>
             {artista.foto ? (
-              <img src={tmdb(artista.foto, grande ? 'w500' : 'w342')} alt={artista.nombre} loading="lazy" decoding="async"
-                className="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105" />
+              <ViewTransition name={volteada ? undefined : transicionArtista(artista.nombre)} share="morph" default="none">
+                <img src={tmdb(artista.foto, grande ? 'w500' : 'w342')} alt={artista.nombre} loading="lazy" decoding="async"
+                  className="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105" />
+              </ViewTransition>
             ) : (
               <div className="absolute inset-0 flex items-center justify-center text-gray-600"><Icono size={48} /></div>
             )}
@@ -154,6 +127,8 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
 
         {/* ---------- Reverso: sus datos en el proyecto ---------- */}
         <div className={`${cara} rotate-y-180`} inert={!volteada}>
+          {/* Volteada, es el reverso el que vuela a la página del artista (el frente se vería al revés). */}
+          <ViewTransition name={volteada ? transicionArtista(artista.nombre) : undefined} share="morph" default="none">
           <div className={interior}>
             {artista.foto && (
               <img src={tmdb(artista.foto, 'w185')} alt="" aria-hidden className="absolute inset-0 w-full h-full object-cover blur-2xl opacity-25 scale-125" />
@@ -162,6 +137,10 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
               <div>
                 <p className={`uppercase tracking-[0.2em] font-semibold text-[9px] ${colorIcono}`}>{RANGO[grupo]}</p>
                 <h3 className={`font-extrabold text-white leading-tight ${grande ? 'text-lg' : 'text-sm'}`}>{artista.nombre}</h3>
+                <Link href={hrefArtista(artista.nombre)} onClick={e => e.stopPropagation()}
+                  className={`inline-flex items-center gap-1 mt-1 font-semibold hover:underline ${colorIcono} ${grande ? 'text-xs' : 'text-[10px]'}`}>
+                  Ver su página <ArrowRight size={grande ? 12 : 10} />
+                </Link>
               </div>
               <Cumpleanos artista={artista} hoy={hoy} />
 
@@ -213,6 +192,7 @@ export default function CartaReal({ artista, hoy, grande = false }: { artista: A
               )}
             </div>
           </div>
+          </ViewTransition>
         </div>
       </div>
     </div>

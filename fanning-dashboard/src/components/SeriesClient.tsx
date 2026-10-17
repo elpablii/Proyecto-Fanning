@@ -9,6 +9,8 @@ import { MovieStats } from '@/types/manifest';
 import { SerieExtra, VocabItem, VocabularioSerie } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
 import MediaHero from '@/components/media/MediaHero';
+import { transicionPoster } from '@/lib/transiciones';
+import RealezaEnTitulo, { brilloRealeza, type ArtistaEnTitulo } from '@/components/media/RealezaEnTitulo';
 import ImageLightbox from '@/components/media/ImageLightbox';
 import NivelMcer from '@/components/media/NivelMcer';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
@@ -27,7 +29,7 @@ function claseNivel(nivel: string): string {
   return 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/30';
 }
 
-export default function SeriesClient({ movieData, extraData }: { movieData: MovieStats; extraData: SerieExtra | null }) {
+export default function SeriesClient({ movieData, extraData, realeza }: { movieData: MovieStats; extraData: SerieExtra | null; realeza: ArtistaEnTitulo[] }) {
   const [tarjetas, setTarjetas] = useState<VocabItem[] | null>(null);
   // El vocabulario no viene con la página: se pide la primera vez que se estudia y queda guardado.
   const vocabulario = useRef<VocabularioSerie | null>(null);
@@ -78,7 +80,7 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
 
   return (
     <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} tipo="serie">
-      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen}>
+      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} transicion={transicionPoster('series', movieData.title)}>
         <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 items-center text-sm sm:text-base md:text-lg">
           <span className="flex items-center gap-2 bg-purple-600/30 border border-purple-400/30 text-purple-200 px-4 py-2 rounded-full backdrop-blur-md font-medium">
             <BookOpen size={16} className="sm:w-5 sm:h-5" /> {miles(movieData.count)} Palabras Globales
@@ -107,6 +109,8 @@ export default function SeriesClient({ movieData, extraData }: { movieData: Movi
           </div>
         )}
       </MediaHero>
+
+      <RealezaEnTitulo realeza={realeza} tipo="serie" />
 
       {extraData?.levelDetail && <NivelMcer detalle={extraData.levelDetail} tipo="serie" />}
 

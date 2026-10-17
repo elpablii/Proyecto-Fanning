@@ -12,6 +12,17 @@ export interface Artista {
   foto?: string;
   nacimiento?: string;        // "1952-06-07"
   fallecimiento?: string;
+  cita?: CitaArtista;
+}
+
+// Una línea de diálogo del artista, elegida a mano y verificada contra los subtítulos
+// (python fanning.py citas, que anota el episodio y el segundo).
+export interface CitaArtista {
+  texto: string;
+  titulo: string;             // título de la ficha
+  personaje: string;
+  episodio?: string;          // series: "S01E01"
+  segundo?: number;           // desde el comienzo del título o del episodio
 }
 
 // Cómo participa en un título (lo trae `python fanning.py realeza` de TMDB, o se pone a mano).
@@ -104,4 +115,64 @@ export function estadisticas(nombre: string, todos: MovieStats[]): EstadisticasA
 
 export function hrefTitulo(t: Pick<MovieStats, 'title' | 'type'>): string {
   return `/${t.type === 'series' ? 'series' : 'peliculas'}/${encodeURIComponent(t.title)}`;
+}
+
+// ---------- Página de cada artista (/realeza/margot-robbie) ----------
+
+export const NOMBRE_RANGO: Record<IdGrupo, string> = {
+  supremos: 'Rey Supremo', platonicos: 'Amor Platónico', reinas: 'Reina', reyes: 'Rey',
+};
+
+// Un miembro de la Realeza tal como aparece en la ficha de un título.
+export type ArtistaEnTitulo = Pick<Artista, 'nombre' | 'foto' | 'tipo' | 'rango'> & { papeles: Papel[] };
+
+export function hrefArtista(nombre: string): string {
+  return `/realeza/${slugArtista(nombre)}`;
+}
+
+// Orden de la Realeza en un título: primero los rangos superiores, como en el Salón del Trono.
+export function ordenGrupo(a: Artista): number {
+  return GRUPOS.findIndex(g => g.id === grupoDe(a));
+}
+
+// Con quién comparte títulos: los demás miembros que aparecen en alguno de los suyos.
+export interface Conexion {
+  nombre: string;
+  titulos: string[];
+}
+
+export function conexiones(nombre: string, todos: MovieStats[]): Conexion[] {
+  const comun = new Map<string, string[]>();
+  for (const m of todos) {
+    if (!m.realeza?.[nombre]) continue;
+    for (const otro of Object.keys(m.realeza)) {
+      if (otro !== nombre) comun.set(otro, [...(comun.get(otro) ?? []), m.title]);
+    }
+  }
+  return [...comun.entries()]
+    .map(([n, titulos]) => ({ nombre: n, titulos }))
+    .sort((a, b) => b.titulos.length - a.titulos.length || a.nombre.localeCompare(b.nombre));
+}
+
+// ---------- Reina o Rey del día ----------
+// Si alguien de la Realeza está de cumpleaños, es su día. Si no, se turnan quienes tienen
+// títulos en el proyecto: cada día avanza un paso fijo, así pasan todos antes de repetir.
+
+export function cumpleHoy(a: Artista, hoy: string): boolean {
+  return !!a.nacimiento && !a.fallecimiento && a.nacimiento.slice(5) === hoy.slice(5);
+}
+
+function mcd(a: number, b: number): number {
+  return b ? mcd(b, a % b) : a;
+}
+
+export function delDia<T extends Artista>(artistas: T[], hoy: string, conTitulos: (a: T) => boolean): T | null {
+  const [a, m, d] = hoy.split('-').map(Number);
+  const dia = Math.floor(Date.UTC(a, m - 1, d) / 86_400_000);
+  const cumpleaneros = artistas.filter(x => cumpleHoy(x, hoy));
+  const turno = cumpleaneros.length ? cumpleaneros : artistas.filter(conTitulos);
+  if (!turno.length) return null;
+  // Un paso que no divida al total, para que el turno no se salte a nadie.
+  const paso = [7, 11, 13, 17, 19, 23].find(p => mcd(p, turno.length) === 1) ?? 1;
+  return turno[(dia * paso) % turno.length];
 }

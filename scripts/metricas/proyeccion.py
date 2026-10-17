@@ -46,7 +46,7 @@ TXT = os.path.join(RAIZ, 'información para proyección 2027.txt')
 
 CUOTA, CUOTA_FIN, TOLERANCIA = 450, 550, 5   # Regla 9 (2027–2031): máximos, con 5 de margen
 MAX_MIN = 8 * 60                             # duración máxima por tanda (salvo excepciones)
-MIN_POR_DIA = 5 * 60                         # Regla 11: cada 5 h, un día más de aplicación
+MIN_POR_DIA = 6 * 60                         # Regla 11: cada 6 h, un día más de aplicación
 FACTOR_TXT = 0.0736                          # palabras por línea con que se calcularon las cifras del txt
 LINEAS_POR_MIN = {'pelicula': 14.35, 'serie': 18.11, 'videojuego': 5.8}  # para lo que no tiene duración
 TANDAS_POR_ANIO = 27

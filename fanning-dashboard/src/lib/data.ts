@@ -3,8 +3,8 @@
 import fs from 'fs';
 import path from 'path';
 import { ManifestData, ManifestYear, MovieStats, PortadaData } from '@/types/manifest';
-import { ExtraData } from '@/types/media';
-import type { Artista } from '@/lib/realeza';
+import { ExtraData, VocabItem } from '@/types/media';
+import { ordenGrupo, slugArtista, type Artista, type ArtistaEnTitulo } from '@/lib/realeza';
 
 // No está en public/: solo se lee en el build y no se publica tal cual (la página manda lo que usa).
 const DATA = path.join(process.cwd(), 'data');
@@ -40,6 +40,37 @@ export function getPortada(): PortadaData {
 // La Realeza (copia de contenido/realeza.json, con la foto y el nacimiento que trae TMDB).
 export function getRealeza(): Artista[] {
   return leer<Artista[]>('realeza.json') ?? [];
+}
+
+export function getArtista(slug: string): Artista | null {
+  return getRealeza().find(a => slugArtista(a.nombre) === slug) ?? null;
+}
+
+// Todo el vocabulario de los títulos de un artista, sin repetir palabras (la primera traducción gana).
+// Quiénes de la Realeza están en un título, con los rangos superiores primero.
+export function getRealezaDeTitulo(movie: MovieStats): ArtistaEnTitulo[] {
+  const papeles = movie.realeza ?? {};
+  return getRealeza()
+    .filter(a => papeles[a.nombre])
+    .sort((a, b) => ordenGrupo(a) - ordenGrupo(b))
+    .map(({ nombre, foto, tipo, rango }) => ({ nombre, foto, tipo, rango, papeles: papeles[nombre] }));
+}
+
+export function getVocabularioArtista(nombre: string): VocabItem[] {
+  const vistas = new Set<string>();
+  const vocabulario: VocabItem[] = [];
+  for (const m of getTodos()) {
+    if (!m.realeza?.[nombre]) continue;
+    const extra = getTitulo(m.title, m.type ?? 'movie')?.extraData;
+    const items = extra?.vocabulary ?? extra?.episodes?.flatMap(e => e.vocabulary) ?? [];
+    for (const v of items) {
+      const clave = v.word.trim().toLowerCase();
+      if (vistas.has(clave)) continue;
+      vistas.add(clave);
+      vocabulario.push(v);
+    }
+  }
+  return vocabulario;
 }
 
 export function getTodos(): MovieStats[] {
@@ -97,7 +128,8 @@ export interface Tanda {
   comprension: number | null;
   duracion: number;           // minutos
   duracionEstimada: boolean;
-  dosSesiones: boolean;       // más de 5 horas: se divide en Día n-1 y Día n (ver Reglas)
+  dosSesiones: boolean;       // supera el límite: se divide en Día n-1 y Día n (Regla 11)
+  limiteSesion: number;       // minutos: 6 h desde la 69° Tanda, 5 h antes
   ingles: MinutosIngles;
   items: ItemTanda[];
 }
@@ -156,4 +188,25 @@ export function agruparTandas(tandas: Tanda[]): TandaCompleta[] {
       },
     };
   });
+}
+
+// En qué tandas entró cada título (por número, sin repetir), con la fecha de la primera.
+// La clave es "movie:Barbie" o "series:Euphoria".
+export interface TandasDeTitulo {
+  numeros: number[];
+  fecha: string;
+  anio: string;
+}
+
+export function getTandasPorTitulo(): Map<string, TandasDeTitulo> {
+  const mapa = new Map<string, TandasDeTitulo>();
+  for (const t of getLineaDeTiempo().tandas) {
+    for (const item of t.items) {
+      const clave = `${item.tipo}:${item.titulo}`;
+      const previa = mapa.get(clave);
+      if (!previa) mapa.set(clave, { numeros: [t.numero], fecha: t.fecha, anio: t.anio });
+      else if (!previa.numeros.includes(t.numero)) previa.numeros.push(t.numero);
+    }
+  }
+  return mapa;
 }

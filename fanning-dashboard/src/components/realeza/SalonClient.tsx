@@ -1,11 +1,13 @@
 "use client";
 
-import { useSyncExternalStore } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, Crown, Heart, Sparkles } from 'lucide-react';
+import { ArrowLeft, Crown, Heart, Sparkles, Stars } from 'lucide-react';
 import { miles } from '@/lib/formato';
 import { agrupar, type IdGrupo } from '@/lib/realeza';
 import CartaReal, { type ArtistaSalon } from '@/components/realeza/CartaReal';
+import { useHoy } from '@/components/realeza/Cumpleanos';
+import PodioReal, { type FilaPodio } from '@/components/realeza/PodioReal';
+import Particulas from '@/components/realeza/Particulas';
 
 export type { ArtistaSalon };
 
@@ -27,24 +29,21 @@ const ESTILO: Record<IdGrupo, { texto: string; titulo: string; grilla: string; g
   reyes: { texto: '', titulo: 'from-amber-200 to-sky-400', grilla: 'grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6', grande: false },
 };
 
-// La fecha de hoy en el navegador (no la del build), para que el cumpleaños salga el día que es.
-// "sv" escribe la fecha local como 2026-10-16.
-const nada = () => () => {};
-const hoyLocal = () => new Date().toLocaleDateString('sv');
-
-export default function SalonClient({ artistas, titulosConRealeza, palabrasConRealeza, hoy }: {
+export default function SalonClient({ artistas, podio, titulosConRealeza, palabrasConRealeza, hoy }: {
   artistas: ArtistaSalon[];
+  podio: FilaPodio[];
   titulosConRealeza: number;
   palabrasConRealeza: number;
   hoy: string;
 }) {
   const grupos = agrupar(artistas);
-  const hoyNavegador = useSyncExternalStore(nada, hoyLocal, () => hoy);
+  const hoyNavegador = useHoy(hoy);
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans">
       {/* Resplandor de fondo */}
       <div aria-hidden className="pointer-events-none fixed inset-0 bg-[radial-gradient(ellipse_at_top,rgba(251,191,36,0.12),transparent_55%),radial-gradient(ellipse_at_bottom_right,rgba(236,72,153,0.10),transparent_50%)]" />
+      <Particulas />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
         <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
@@ -72,7 +71,13 @@ export default function SalonClient({ artistas, titulosConRealeza, palabrasConRe
               </div>
             ))}
           </dl>
+          <Link href="/realeza/constelacion"
+            className="mt-6 inline-flex items-center gap-2 rounded-full border border-indigo-300/30 bg-indigo-500/10 hover:bg-indigo-500/20 text-indigo-200 px-4 py-2 text-sm font-medium transition">
+            <Stars size={16} aria-hidden /> Ver la Constelación Real
+          </Link>
         </header>
+
+        <PodioReal filas={podio} />
 
         <div className="space-y-16">
           {grupos.map(g => {

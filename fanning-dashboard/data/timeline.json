@@ -65,6 +65,7 @@
       "duracion": 114,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Barbie",
@@ -103,6 +104,7 @@
       "duracion": 109,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Bombshell",
@@ -141,6 +143,7 @@
       "duracion": 85,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Taylor Swift: Miss Americana",
@@ -179,6 +182,7 @@
       "duracion": 205,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "El Expreso Polar",
@@ -231,6 +235,7 @@
       "duracion": 287,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Rambo: First Blood",
@@ -297,6 +302,7 @@
       "duracion": 231,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "I, Tonya",
@@ -349,6 +355,7 @@
       "duracion": 205,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Terminal",
@@ -401,6 +408,7 @@
       "duracion": 282,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "La Leyenda de Tarzán",
@@ -467,6 +475,7 @@
       "duracion": 264,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Z for Zachariah",
@@ -547,6 +556,7 @@
       "duracion": 184,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Once Upon a Time in Hollywood",
@@ -599,6 +609,7 @@
       "duracion": 136,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Toy Story II",
@@ -651,6 +662,7 @@
       "duracion": 110,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (S01E05-09)",
@@ -689,6 +701,7 @@
       "duracion": 181,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Oppenheimer",
@@ -727,6 +740,7 @@
       "duracion": 96,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Rambo: First Blood (Part II)",
@@ -765,6 +779,7 @@
       "duracion": 122,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Escuadrón Suicida",
@@ -803,6 +818,7 @@
       "duracion": 102,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Rambo III",
@@ -841,6 +857,7 @@
       "duracion": 174,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (2019)",
@@ -893,6 +910,7 @@
       "duracion": 321,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Aves de Presa",
@@ -959,6 +977,7 @@
       "duracion": 442,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "El Escuadrón Suicida",
@@ -1039,6 +1058,7 @@
       "duracion": 267,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Taylor Swift: The Eras Tour (Taylor's Version)",
@@ -1091,6 +1111,7 @@
       "duracion": 283,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Mary Queen of Scots",
@@ -1157,6 +1178,7 @@
       "duracion": 211,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "About Time",
@@ -1209,6 +1231,7 @@
       "duracion": 491,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Titanic",
@@ -1289,6 +1312,7 @@
       "duracion": 386,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Rocky II",
@@ -1369,6 +1393,7 @@
       "duracion": 293,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Goodbye, Christopher Robin",
@@ -1435,6 +1460,7 @@
       "duracion": 366,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Babylon",
@@ -1501,6 +1527,7 @@
       "duracion": 223,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Ámsterdam",
@@ -1553,6 +1580,7 @@
       "duracion": 267,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Scarface",
@@ -1605,6 +1633,7 @@
       "duracion": 286,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "The Wolf of Wall Street",
@@ -1657,6 +1686,7 @@
       "duracion": 342,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Emma",
@@ -1723,6 +1753,7 @@
       "duracion": 535,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Playmobil",
@@ -1817,6 +1848,7 @@
       "duracion": 345,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 4-7)",
@@ -1883,6 +1915,7 @@
       "duracion": 440,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 8-9)",
@@ -1963,6 +1996,7 @@
       "duracion": 344,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Star Wars Episode III: Revenge of the Sith",
@@ -2029,6 +2063,7 @@
       "duracion": 397,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "The Menu",
@@ -2109,6 +2144,7 @@
       "duracion": 327,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Split",
@@ -2175,6 +2211,7 @@
       "duracion": 312,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 10-14)",
@@ -2241,6 +2278,7 @@
       "duracion": 236,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 15-19)",
@@ -2293,6 +2331,7 @@
       "duracion": 373,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Non-stop",
@@ -2373,6 +2412,7 @@
       "duracion": 367,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Whiskey Tango Foxtrot",
@@ -2453,6 +2493,7 @@
       "duracion": 319,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Cars II",
@@ -2533,6 +2574,7 @@
       "duracion": 341,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Star Wars IV: A New Hope",
@@ -2599,6 +2641,7 @@
       "duracion": 305,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 23-26)",
@@ -2665,6 +2708,7 @@
       "duracion": 428,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T2 EP 27-30 + T3 EP 1)",
@@ -2745,6 +2789,7 @@
       "duracion": 436,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Euphoria (T1 EP 5-8 + Esp. Rue/Jules)",
@@ -2797,6 +2842,7 @@
       "duracion": 464,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T3 EP 2-8)",
@@ -2877,6 +2923,7 @@
       "duracion": 470,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T3 EP 9-11)",
@@ -2957,6 +3004,7 @@
       "duracion": 361,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Euphoria (T2 EP 4-5)",
@@ -3023,6 +3071,7 @@
       "duracion": 526,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "TS: Reputation Stadium Tour",
@@ -3117,6 +3166,7 @@
       "duracion": 581,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Euphoria (T2 EP 6-8)",
@@ -3211,6 +3261,7 @@
       "duracion": 357,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Escape from Sobibor",
@@ -3277,6 +3328,7 @@
       "duracion": 238,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Alvin and the Chipmunks",
@@ -3343,6 +3395,7 @@
       "duracion": 301,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible: So The Drama",
@@ -3409,6 +3462,7 @@
       "duracion": 379,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Interstellar",
@@ -3489,6 +3543,7 @@
       "duracion": 318,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 1-4)",
@@ -3569,6 +3624,7 @@
       "duracion": 428,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Grace Stirs Up Success",
@@ -3649,6 +3705,7 @@
       "duracion": 415,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Maleficent I",
@@ -3729,6 +3786,7 @@
       "duracion": 523,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 5-8)",
@@ -3809,6 +3867,7 @@
       "duracion": 247,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 9-10)",
@@ -3875,6 +3934,7 @@
       "duracion": 440,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 11-14)",
@@ -3955,6 +4015,7 @@
       "duracion": 399,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 15-19)",
@@ -4035,6 +4096,7 @@
       "duracion": 323,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Work It",
@@ -4101,6 +4163,7 @@
       "duracion": 365,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Kim Possible (T4 EP 20-22)",
@@ -4167,6 +4230,7 @@
       "duracion": 306,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Cinderella",
@@ -4233,6 +4297,7 @@
       "duracion": 393,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Maid (EP 3-4)",
@@ -4313,6 +4378,7 @@
       "duracion": 425,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Jojo Rabbit",
@@ -4393,6 +4459,7 @@
       "duracion": 590,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Every Secret Thing",
@@ -4501,6 +4568,7 @@
       "duracion": 453,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Pan Am (EP 6-7)",
@@ -4595,6 +4663,7 @@
       "duracion": 358,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "A Rainy Day in New York",
@@ -4689,6 +4758,7 @@
       "duracion": 488,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "The Girl From Plainville (EP 7-8)",
@@ -4783,6 +4853,7 @@
       "duracion": 367,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "Maid (EP 7-8)",
@@ -4863,6 +4934,7 @@
       "duracion": 469,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 300,
       "items": [
         {
           "texto": "A Complete Unknown",
@@ -4943,6 +5015,7 @@
       "duracion": 451,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "All Her Fault (EP 5-6)",
@@ -5037,6 +5110,7 @@
       "duracion": 416,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "Emergency",
@@ -5117,6 +5191,7 @@
       "duracion": 506,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "Pan Am (EP 10-11)",
@@ -5211,6 +5286,7 @@
       "duracion": 645,
       "duracionEstimada": false,
       "dosSesiones": true,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "TS: The Eras Tour (Final Show)",
@@ -5305,6 +5381,7 @@
       "duracion": 41,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "The Big Bang Theory (T5 EP 23-24)",
@@ -5343,6 +5420,7 @@
       "duracion": 241,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "Love Actually",
@@ -5395,6 +5473,7 @@
       "duracion": 97,
       "duracionEstimada": false,
       "dosSesiones": false,
+      "limiteSesion": 360,
       "items": [
         {
           "texto": "Tall Girl II",

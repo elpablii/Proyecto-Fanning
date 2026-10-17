@@ -9,11 +9,13 @@ import { MovieStats } from '@/types/manifest';
 import { ExtraData } from '@/types/media';
 import MediaShell from '@/components/media/MediaShell';
 import MediaHero from '@/components/media/MediaHero';
+import { transicionPoster } from '@/lib/transiciones';
+import RealezaEnTitulo, { brilloRealeza, type ArtistaEnTitulo } from '@/components/media/RealezaEnTitulo';
 import ImageLightbox from '@/components/media/ImageLightbox';
 import NivelMcer from '@/components/media/NivelMcer';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 
-export default function PeliculaClient({ movieData, extraData }: { movieData: MovieStats; extraData: ExtraData | null }) {
+export default function PeliculaClient({ movieData, extraData, realeza }: { movieData: MovieStats; extraData: ExtraData | null; realeza: ArtistaEnTitulo[] }) {
   const [estudiando, setEstudiando] = useState(false);
   const [imagen, setImagen] = useState<string | null>(null);
 
@@ -24,7 +26,7 @@ export default function PeliculaClient({ movieData, extraData }: { movieData: Mo
 
   return (
     <MediaShell backdropUrl={movieData.backdropUrl} rating={movieData.rating} tipo="película">
-      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen}>
+      <MediaHero title={movieData.title} posterUrl={movieData.posterUrl} onPosterClick={setImagen} brillo={brilloRealeza(realeza)} transicion={transicionPoster('movie', movieData.title)}>
         <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-6">
           <div className="bg-purple-900/40 border border-purple-500/30 rounded-2xl p-4 backdrop-blur-md text-center flex-1 min-w-35 max-w-50">
             <BookOpen size={24} className="mx-auto text-purple-400 mb-2" />
@@ -55,6 +57,8 @@ export default function PeliculaClient({ movieData, extraData }: { movieData: Mo
           )}
         </div>
       </MediaHero>
+
+      <RealezaEnTitulo realeza={realeza} tipo="película" />
 
       {extraData?.levelDetail && <NivelMcer detalle={extraData.levelDetail} tipo="película" />}
 

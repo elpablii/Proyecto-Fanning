@@ -5,7 +5,13 @@
     "rango": "supremo",
     "tmdb": 3896,
     "foto": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
-    "nacimiento": "1952-06-07"
+    "nacimiento": "1952-06-07",
+    "cita": {
+      "texto": "I will look for you. I will find you... and I will kill you.",
+      "titulo": "Taken I",
+      "personaje": "Bryan Mills",
+      "segundo": 1738
+    }
   },
   {
     "nombre": "Colman Domingo",
@@ -13,7 +19,14 @@
     "rango": "supremo",
     "tmdb": 91671,
     "foto": "https://image.tmdb.org/t/p/w500/t0cgfvtA7Thxnrtj5baRi656zlc.jpg",
-    "nacimiento": "1969-11-28"
+    "nacimiento": "1969-11-28",
+    "cita": {
+      "texto": "Baby, trouble don't last always.",
+      "titulo": "Euphoria",
+      "personaje": "Ali",
+      "episodio": "SP01",
+      "segundo": 1972
+    }
   },
   {
     "nombre": "Michael Jackson",
@@ -30,7 +43,13 @@
     "rango": "platonico",
     "tmdb": 212208,
     "foto": "https://image.tmdb.org/t/p/w500/vr4QrJ23Cm8T7Y5sBN3UnnWrZ0q.jpg",
-    "nacimiento": "1989-12-13"
+    "nacimiento": "1989-12-13",
+    "cita": {
+      "texto": "I want to love glitter and also stand up for the double standards that exist in our society.",
+      "titulo": "Taylor Swift Miss Americana",
+      "personaje": "Ella misma",
+      "segundo": 4674
+    }
   },
   {
     "nombre": "Margot Robbie",
@@ -38,7 +57,13 @@
     "rango": "platonico",
     "tmdb": 234352,
     "foto": "https://image.tmdb.org/t/p/w500/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
-    "nacimiento": "1990-07-02"
+    "nacimiento": "1990-07-02",
+    "cita": {
+      "texto": "You guys ever think about dying?",
+      "titulo": "Barbie",
+      "personaje": "Barbie",
+      "segundo": 816
+    }
   },
   {
     "nombre": "Anya Taylor-Joy",
@@ -46,7 +71,14 @@
     "rango": "platonico",
     "tmdb": 1397778,
     "foto": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
-    "nacimiento": "1996-04-16"
+    "nacimiento": "1996-04-16",
+    "cita": {
+      "texto": "It's an entire world of just 64 squares.",
+      "titulo": "Gambito de Dama",
+      "personaje": "Beth Harmon",
+      "episodio": "S01E03",
+      "segundo": 914
+    }
   },
   {
     "nombre": "Dakota Fanning",
@@ -54,7 +86,13 @@
     "rango": "platonico",
     "tmdb": 501,
     "foto": "https://image.tmdb.org/t/p/w500/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg",
-    "nacimiento": "1994-02-23"
+    "nacimiento": "1994-02-23",
+    "cita": {
+      "texto": "You're not my mother.",
+      "titulo": "Coraline",
+      "personaje": "Coraline Jones",
+      "segundo": 1023
+    }
   },
   {
     "nombre": "Elle Fanning",
@@ -62,21 +100,39 @@
     "rango": "platonico",
     "tmdb": 18050,
     "foto": "https://image.tmdb.org/t/p/w500/ucC5faqfEYVhoC25M6Hi3znZmab.jpg",
-    "nacimiento": "1998-04-09"
+    "nacimiento": "1998-04-09",
+    "cita": {
+      "texto": "You're my Fairy Godmother.",
+      "titulo": "Maleficent I",
+      "personaje": "Aurora",
+      "segundo": 2955
+    }
   },
   {
     "nombre": "Meghan Trainor",
     "tipo": "reina",
     "tmdb": 1452128,
     "foto": "https://image.tmdb.org/t/p/w500/1qf8FpC55eZGhVSW5a1aCJrJ6p5.jpg",
-    "nacimiento": "1993-12-22"
+    "nacimiento": "1993-12-22",
+    "cita": {
+      "texto": "Hello? I'm a fairy godmother.",
+      "titulo": "Playmobil",
+      "personaje": "El Hada Madrina",
+      "segundo": 4148
+    }
   },
   {
     "nombre": "Olivia Rodrigo",
     "tipo": "reina",
     "tmdb": 1713725,
     "foto": "https://image.tmdb.org/t/p/w500/dLtOE7LHFl5LxDUx5RAz07KqQPX.jpg",
-    "nacimiento": "2003-02-20"
+    "nacimiento": "2003-02-20",
+    "cita": {
+      "texto": "I think being a songwriter is actually, like, the best job and the best craft.",
+      "titulo": "Olivia Rodrigo driving home 2 u",
+      "personaje": "Ella misma",
+      "segundo": 158
+    }
   },
   {
     "nombre": "Lana del Rey",
@@ -90,28 +146,54 @@
     "tipo": "reina",
     "tmdb": 1152083,
     "foto": "https://image.tmdb.org/t/p/w500/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg",
-    "nacimiento": "1999-05-11"
+    "nacimiento": "1999-05-11",
+    "cita": {
+      "texto": "You're so good. I can't dance at all.",
+      "titulo": "Work It",
+      "personaje": "Quinn Ackerman",
+      "segundo": 2811
+    }
   },
   {
     "nombre": "Hunter Schafer",
     "tipo": "reina",
     "tmdb": 2340180,
     "foto": "https://image.tmdb.org/t/p/w500/AilBKow2NuvPBQbvGRx69RxKUBi.jpg",
-    "nacimiento": "1998-12-31"
+    "nacimiento": "1998-12-31",
+    "cita": {
+      "texto": "I'm fucking invincible!",
+      "titulo": "Euphoria",
+      "personaje": "Jules Vaughn",
+      "episodio": "S01E01",
+      "segundo": 2791
+    }
   },
   {
     "nombre": "Margaret Qualley",
     "tipo": "reina",
     "tmdb": 1392137,
     "foto": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg",
-    "nacimiento": "1994-10-23"
+    "nacimiento": "1994-10-23",
+    "cita": {
+      "texto": "where I'm going to spend the next four years... learning to be a writer.",
+      "titulo": "Maid",
+      "personaje": "Alex Russell",
+      "episodio": "S01E10",
+      "segundo": 2955
+    }
   },
   {
     "nombre": "Emma Myers",
     "tipo": "reina",
     "tmdb": 2604515,
     "foto": "https://image.tmdb.org/t/p/w500/v1Y8RP39135ZOary9M4MbkrCAdn.jpg",
-    "nacimiento": "2002-04-02"
+    "nacimiento": "2002-04-02",
+    "cita": {
+      "texto": "Come on, let's do this!",
+      "titulo": "A Minecraft Movie",
+      "personaje": "Natalie",
+      "segundo": 2996
+    }
   },
   {
     "nombre": "Hayley Williams",
@@ -132,77 +214,147 @@
     "tipo": "reina",
     "tmdb": 41090,
     "foto": "https://image.tmdb.org/t/p/w500/kqedF6onNdcphyo1UBRmm5G3m1C.jpg",
-    "nacimiento": "1997-12-15"
+    "nacimiento": "1997-12-15",
+    "cita": {
+      "texto": "I feel like I've lived most of my life in my imagination.",
+      "titulo": "Euphoria",
+      "personaje": "Lexi Howard",
+      "episodio": "S02E07",
+      "segundo": 1047
+    }
   },
   {
     "nombre": "Thomasin McKenzie",
     "tipo": "reina",
     "tmdb": 1356758,
     "foto": "https://image.tmdb.org/t/p/w500/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
-    "nacimiento": "2000-07-26"
+    "nacimiento": "2000-07-26",
+    "cita": {
+      "texto": "The same thing that's wrong with you isn't wrong with me.",
+      "titulo": "Leave No Trace",
+      "personaje": "Tom",
+      "segundo": 5736
+    }
   },
   {
     "nombre": "Elizabeth Lail",
     "tipo": "reina",
     "tmdb": 1368507,
     "foto": "https://image.tmdb.org/t/p/w500/guu5KjmRBjAWr4JkRdPHeyqXJPX.jpg",
-    "nacimiento": "1992-03-25"
+    "nacimiento": "1992-03-25",
+    "cita": {
+      "texto": "Electricity. Electricity is the key.",
+      "titulo": "Five Nights at Freddy's",
+      "personaje": "Vanessa",
+      "segundo": 5236
+    }
   },
   {
     "nombre": "Kristen Stewart",
     "tipo": "reina",
     "tmdb": 37917,
     "foto": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
-    "nacimiento": "1990-04-09"
+    "nacimiento": "1990-04-09",
+    "cita": {
+      "texto": "I'm Joan Jett. I play-- I play guitar. Electric guitar.",
+      "titulo": "The Runaways",
+      "personaje": "Joan Jett",
+      "segundo": 909
+    }
   },
   {
     "nombre": "Ava Michelle",
     "tipo": "reina",
     "tmdb": 2398197,
     "foto": "https://image.tmdb.org/t/p/w500/fdZCrDLJ1ccR6KyMZwy4VSJs39Y.jpg",
-    "nacimiento": "2002-04-10"
+    "nacimiento": "2002-04-10",
+    "cita": {
+      "texto": "I'm tall, really, really tall, and it's the thing that's haunted me my entire life.",
+      "titulo": "Tall Girl I",
+      "personaje": "Jodi Kreyman",
+      "segundo": 5456
+    }
   },
   {
     "nombre": "Michelle Pfeiffer",
     "tipo": "reina",
     "tmdb": 1160,
     "foto": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg",
-    "nacimiento": "1958-04-29"
+    "nacimiento": "1958-04-29",
+    "cita": {
+      "texto": "Can't you stop saying \"fuck\" all the time?",
+      "titulo": "Scarface",
+      "personaje": "Elvira Hancock",
+      "segundo": 6850
+    }
   },
   {
     "nombre": "Zendaya",
     "tipo": "reina",
     "tmdb": 505710,
     "foto": "https://image.tmdb.org/t/p/w500/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
-    "nacimiento": "1996-09-01"
+    "nacimiento": "1996-09-01",
+    "cita": {
+      "texto": "I was born three days after 9/11.",
+      "titulo": "Euphoria",
+      "personaje": "Rue Bennett",
+      "episodio": "S01E01",
+      "segundo": 41
+    }
   },
   {
     "nombre": "Alexa Demie",
     "tipo": "reina",
     "tmdb": 1497557,
     "foto": "https://image.tmdb.org/t/p/w500/onU85U3QTP00gHZL9bA8aTclra7.jpg",
-    "nacimiento": "1990-12-11"
+    "nacimiento": "1990-12-11",
+    "cita": {
+      "texto": "I think being single's really stressing you out.",
+      "titulo": "Euphoria",
+      "personaje": "Maddy Perez",
+      "episodio": "S02E03",
+      "segundo": 2248
+    }
   },
   {
     "nombre": "Christy Carlson Romano",
     "tipo": "reina",
     "tmdb": 76241,
     "foto": "https://image.tmdb.org/t/p/w500/sU7lBGl6imfU0PaxL0GKIbjU5e2.jpg",
-    "nacimiento": "1984-03-20"
+    "nacimiento": "1984-03-20",
+    "cita": {
+      "texto": "So what's the sitch?",
+      "titulo": "Kim Possible",
+      "personaje": "Kim Possible",
+      "episodio": "S01E01",
+      "segundo": 288
+    }
   },
   {
     "nombre": "Ewan McGregor",
     "tipo": "rey",
     "tmdb": 3061,
     "foto": "https://image.tmdb.org/t/p/w500/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
-    "nacimiento": "1971-03-31"
+    "nacimiento": "1971-03-31",
+    "cita": {
+      "texto": "Hello there.",
+      "titulo": "Star Wars Episodio III Revenge of the Sith",
+      "personaje": "Obi-Wan Kenobi",
+      "segundo": 3453
+    }
   },
   {
     "nombre": "Cillian Murphy",
     "tipo": "rey",
     "tmdb": 2037,
     "foto": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg",
-    "nacimiento": "1976-05-25"
+    "nacimiento": "1976-05-25",
+    "cita": {
+      "texto": "And now I am become Death. The destroyer of worlds.",
+      "titulo": "Oppenheimer",
+      "personaje": "J. Robert Oppenheimer",
+      "segundo": 7039
+    }
   },
   {
     "nombre": "Eminem",
@@ -216,7 +368,13 @@
     "tipo": "rey",
     "tmdb": 2231,
     "foto": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
-    "nacimiento": "1948-12-21"
+    "nacimiento": "1948-12-21",
+    "cita": {
+      "texto": "Where is my supersuit?",
+      "titulo": "Los Increibles",
+      "personaje": "Frozone",
+      "segundo": 5585
+    }
   },
   {
     "nombre": "iShowSpeed",
@@ -259,14 +417,27 @@
     "tmdb": 2352372,
     "foto": "https://image.tmdb.org/t/p/w500/cN3n9UBBtRASNLSibS8WUZD1d1A.jpg",
     "nacimiento": "1998-07-10",
-    "fallecimiento": "2023-07-31"
+    "fallecimiento": "2023-07-31",
+    "cita": {
+      "texto": "Well, aren't you glad that we became friends?",
+      "titulo": "Euphoria",
+      "personaje": "Fezco",
+      "episodio": "S02E08",
+      "segundo": 404
+    }
   },
   {
     "nombre": "Adewale Akinnuoye-Agbaje",
     "tipo": "rey",
     "tmdb": 31164,
     "foto": "https://image.tmdb.org/t/p/w500/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
-    "nacimiento": "1967-08-22"
+    "nacimiento": "1967-08-22",
+    "cita": {
+      "texto": "I'm beautiful.",
+      "titulo": "Escuadrón Suicida",
+      "personaje": "Killer Croc",
+      "segundo": 5862
+    }
   },
   {
     "nombre": "Darrell Britt-Gibson",
@@ -280,6 +451,13 @@
     "tipo": "rey",
     "tmdb": 76621,
     "foto": "https://image.tmdb.org/t/p/w500/Ao3fp9f4loVQ1Vvk6ph8HU5p0Lu.jpg",
-    "nacimiento": "1976-08-11"
+    "nacimiento": "1976-08-11",
+    "cita": {
+      "texto": "Booyah!",
+      "titulo": "Kim Possible",
+      "personaje": "Ron Stoppable",
+      "episodio": "S02E10",
+      "segundo": 302
+    }
   }
 ]

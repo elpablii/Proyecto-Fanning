@@ -1,10 +1,10 @@
-import React from 'react';
+import React, { ViewTransition } from 'react';
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
 import { tmdb } from '@/lib/tmdb';
 import Link from 'next/link';
 import { Crown, Film, Heart } from 'lucide-react';
-import type { Artista } from '@/lib/realeza';
+import { hrefArtista, type Artista } from '@/lib/realeza';
 
 export type ArtistaEnCarta = Pick<Artista, 'nombre' | 'foto' | 'tipo' | 'rango'>;
 
@@ -17,10 +17,13 @@ interface MovieCardProps {
     level?: string;
     rating?: string;
     realeza?: ArtistaEnCarta[];
+    transicion?: string;   // nombre para que el póster vuele a la ficha (ver lib/transiciones.ts)
 }
 
 // Insignia de la Realeza: corazón si hay un Amor Platónico, corona dorada si hay un Rey Supremo,
-// corona simple para el resto. Al pasar el mouse aparecen las caras de quienes están en el elenco.
+// corona simple para el resto. Al pasar el mouse aparecen las caras de quienes están en el elenco,
+// y cada una lleva a su página (la insignia lleva a la del primero, el de rango más alto).
+// Va fuera del enlace del póster: un enlace no puede ir dentro de otro.
 function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     const platonico = realeza.some(a => a.rango === 'platonico');
     const supremo = realeza.some(a => a.rango === 'supremo');
@@ -30,16 +33,19 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
         : 'text-amber-200 border-amber-200/30 bg-black/40';
     const nombres = realeza.map(a => a.nombre).join(', ');
     return (
-        <div className="absolute top-2 left-2 z-10 flex items-center gap-1" title={nombres}>
-            <span className={`flex items-center gap-1 px-1.5 py-1 rounded-md border backdrop-blur-xs shadow-sm ${color}`}>
+        <div className="absolute top-2 left-2 z-10 flex items-center gap-1">
+            <Link href={hrefArtista(realeza[0].nombre)} title={nombres}
+                className={`flex items-center gap-1 px-1.5 py-1 rounded-md border backdrop-blur-xs shadow-sm hover:brightness-125 transition ${color}`}>
                 <Icono size={14} className="latido-real" fill={platonico ? 'currentColor' : 'none'} aria-hidden />
                 {realeza.length > 1 && <span className="text-[10px] font-bold">{realeza.length}</span>}
-                <span className="sr-only">Con {nombres}</span>
-            </span>
-            <span className="flex -space-x-2 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300">
+                <span className="sr-only">Con {nombres}. Ver la página de {realeza[0].nombre}</span>
+            </Link>
+            <span className="flex -space-x-2 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 group-focus-within:opacity-100 group-focus-within:translate-x-0 transition-all duration-300">
                 {realeza.slice(0, 4).map(a => (
-                    <img key={a.nombre} src={a.foto ? tmdb(a.foto, 'w92') : undefined} alt="" width={24} height={24} loading="lazy"
-                        className={`w-6 h-6 rounded-full object-cover object-top border-2 bg-gray-700 ${a.rango ? (a.rango === 'platonico' ? 'border-pink-400' : 'border-amber-300') : 'border-gray-900'}`} />
+                    <Link key={a.nombre} href={hrefArtista(a.nombre)} title={a.nombre} className="relative hover:z-10 hover:scale-125 transition-transform">
+                        <img src={a.foto ? tmdb(a.foto, 'w92') : undefined} alt={a.nombre} width={24} height={24} loading="lazy"
+                            className={`w-6 h-6 rounded-full object-cover object-top border-2 bg-gray-700 ${a.rango ? (a.rango === 'platonico' ? 'border-pink-400' : 'border-amber-300') : 'border-gray-900'}`} />
+                    </Link>
                 ))}
                 {realeza.length > 4 && (
                     <span className="w-6 h-6 rounded-full bg-gray-800 border-2 border-gray-900 text-[9px] font-bold flex items-center justify-center text-gray-300">+{realeza.length - 4}</span>
@@ -49,7 +55,7 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     );
 }
 
-export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza }: MovieCardProps) {
+export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza, transicion }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
     const pct = comprension(validDialogues, count);
@@ -63,9 +69,12 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
         else if (lv.includes('C1') || lv.includes('C2')) levelColors = "bg-purple-500/20 text-purple-300 border-purple-500/30";
     }
     return (
-        <Link href={href} className="group relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:border-purple-500 hover:scale-105 transition-all duration-300 cursor-pointer block">
+        <div className="group relative hover:scale-105 transition-transform duration-300">
+        <Link href={href} className="relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg group-hover:border-purple-500 transition-colors duration-300 cursor-pointer block">
             {posterUrl ? (
-                <img src={tmdb(posterUrl, 'w342')} alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
+                <ViewTransition name={transicion} share="morph" default="none">
+                    <img src={tmdb(posterUrl, 'w342')} alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
+                </ViewTransition>
             ) : (
                 <div className="aspect-2/3 bg-gray-800 flex flex-col items-center justify-center p-4 text-center">
                     <Film size={32} className="text-gray-600 mb-2" />
@@ -74,8 +83,6 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
             )}
 
             <div className="absolute inset-0 bg-linear-to-t from-black/100 via-black/50 to-transparent opacity-90 transition-opacity duration-300"></div>
-
-            {realeza && realeza.length > 0 && <InsigniaRealeza realeza={realeza} />}
 
             {level && (
                 <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">
@@ -117,5 +124,7 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
                 </div>
             </div>
         </Link>
+        {realeza && realeza.length > 0 && <InsigniaRealeza realeza={realeza} />}
+        </div>
     );
 }

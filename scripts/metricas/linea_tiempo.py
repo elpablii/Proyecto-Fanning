@@ -32,8 +32,16 @@ import nivel as N  # noqa: E402
 import tandas as T  # noqa: E402
 
 CICLOS = os.path.join(RAIZ, 'contenido', 'ciclos.json')
-# Reglas: si los contenidos de una tanda suman más de 5 horas, se divide en dos sesiones (Día n-1 y Día n)
-LIMITE_SESION = 5 * 60
+# Regla 11: si los contenidos de una tanda suman más de 6 horas, se divide en dos sesiones (Día n-1 y Día n).
+# Hasta la 68° Tanda (17/10/2026) el límite era de 5 horas: las tandas anteriores se hicieron así.
+LIMITE_SESION = 6 * 60
+LIMITE_SESION_ANTERIOR = 5 * 60
+VIGENCIA_LIMITE = date(2026, 10, 18)
+
+
+def limite_sesion(fecha):
+    """Minutos que puede durar una tanda antes de dividirse en dos sesiones, según su fecha."""
+    return LIMITE_SESION if fecha >= VIGENCIA_LIMITE else LIMITE_SESION_ANTERIOR
 # Lectura en voz alta a velocidad normal y con buena dicción (palabras por minuto)
 VELOCIDAD_LECTURA = 140
 PALABRA = re.compile(r"[^\W\d_]+(?:'[^\W\d_]+)?|\d+")
@@ -135,7 +143,8 @@ def generar():
             'anio': str(t.get('ciclo') or fecha.year), 'etiqueta': etiqueta(t['title']),
             'palabras': palabras, 'lineas': lineas, 'comprension': _comprension(lineas, palabras),
             'duracion': duracion, 'duracionEstimada': any(x['duracionEstimada'] for x in items),
-            'dosSesiones': duracion > LIMITE_SESION,
+            'dosSesiones': duracion > limite_sesion(fecha),
+            'limiteSesion': limite_sesion(fecha),
             '_texto': texto,
             'items': items,
         })

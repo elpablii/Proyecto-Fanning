@@ -355,15 +355,16 @@ export default function ReglasPage() {
                 <li>Cuota fija de <strong className="text-gray-200">550 palabras</strong>.</li>
               </ul>
             </Regla>
-            <Regla numero={11} titulo="Regla de las 5 Horas" color="blue"
-              porQue="Más de cinco horas seguidas cansan y la atención baja; repartirlas en dos días mantiene la calidad del estudio."
+            <Regla numero={11} titulo="Regla de las 6 Horas" color="blue"
+              porQue="Más de seis horas seguidas cansan y la atención baja; repartirlas en dos días mantiene la calidad del estudio."
               practica={d.dosSesiones.masLarga && (
                 <p>
                   <strong className="text-white">{d.dosSesiones.cantidad} de {d.dosSesiones.total}</strong> tandas van en dos sesiones.
                   La más larga fue la {d.dosSesiones.masLarga.title} ({d.dosSesiones.masLarga.date}), con {duracion(d.dosSesiones.masLarga.duracion)}.
                 </p>
               )}>
-              <p>Si los contenidos de una tanda suman más de 5 horas, se divide en dos sesiones seguidas: el <strong>Día n-1</strong> (víspera) y el <strong>Día n</strong> (fecha original).</p>
+              <p>Si los contenidos de una tanda suman más de 6 horas, se divide en dos sesiones seguidas: el <strong>Día n-1</strong> (víspera) y el <strong>Día n</strong> (fecha original).</p>
+              <p className="text-sm text-gray-400">Hasta la 68° Tanda (17/10/2026) el límite era de 5 horas; las tandas anteriores se cuentan como se hicieron.</p>
             </Regla>
             <Regla numero={12} titulo="Pausa Activa" color="blue"
               porQue="Proteger la vista y mantener el foco en los largometrajes extensos."
@@ -565,7 +566,7 @@ export default function ReglasPage() {
                 ['Ciclo', 'Las tandas de un año; cada uno es una fase del proyecto.'],
                 ['Cuota', 'Palabras y frases que se esperan en una tanda (Reglas 9 y 10).'],
                 ['Tanda de Gala', 'La tanda navideña del cierre de año, con cuota de 550 (Regla 10).'],
-                ['Dos sesiones', 'Tanda de más de 5 horas, repartida en Día n-1 y Día n (Regla 11).'],
+                ['Dos sesiones', 'Tanda de más de 6 horas (5 horas hasta la 68° Tanda), repartida en Día n-1 y Día n (Regla 11).'],
                 ['Indulto Real', 'Permiso para ver un contenido bloqueado gracias a la Realeza (Regla 7).'],
                 ['Veto', 'Restricción a figuras específicas del elenco (Regla 8).'],
                 ['SDH / HI / CC', 'Subtítulos para personas sordas: además del diálogo, describen sonidos e indican quién habla.'],

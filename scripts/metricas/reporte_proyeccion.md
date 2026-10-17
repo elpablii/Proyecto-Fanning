@@ -1,6 +1,6 @@
-# Proyección de tandas (16/10/2026)
+# Proyección de tandas (17/10/2026)
 
-Fuente: `información para proyección 2027.txt`. Cuota máxima 450 (Fin de Año 550, sumando sus partes), con 5 de margen. Duración máxima 8:00 h. Un día de aplicación más cada 5:00 h.
+Fuente: `información para proyección 2027.txt`. Cuota máxima 450 (Fin de Año 550, sumando sus partes), con 5 de margen. Duración máxima 8:00 h. Un día de aplicación más cada 6:00 h.
 
 ## Cómo se estima
 
@@ -25,31 +25,31 @@ Fuente: `información para proyección 2027.txt`. Cuota máxima 450 (Fin de Año
 | Tanda | Fecha | Palabras (corregidas) | Estimadas | Ya reales | Líneas | Duración | Días | Espacio libre | Revisar |
 |---|---|---|---|---|---|---|---|---|---|
 | 74° | 14/01 | 384 | 384 | 384 | 6.497 | 6:30 h | 2 | 66 pal. · 1:30 h |  |
-| 75° | 28/01 | 386 | 390 | 309 | 6.076 | 5:20 h | 2 | 64 pal. · 2:40 h |  |
+| 75° | 28/01 | 386 | 390 | 309 | 6.076 | 5:20 h | 1 | 64 pal. · 2:40 h |  |
 | 76° | 11/02 | 468 | 468 | 468 | 6.197 | 7:43 h | 2 | 0 pal. · 0:17 h | pasa la cuota por 18 |
 | 77° | 25/02 | 455 | 455 | 455 | 6.281 | 6:43 h | 2 | 0 pal. · 1:17 h |  |
 | 78° | 11/03 | 445 | 445 | 445 | 8.271 | 7:38 h | 2 | 5 pal. · 0:22 h |  |
 | 79° | 25/03 | 414 | 414 | 414 | 6.375 | 6:05 h | 2 | 36 pal. · 1:55 h |  |
 | 80° | 08/04 | 450 | 453 | 357 | 7.176 | 7:45 h | 2 | 0 pal. · 0:15 h | (sin cumpleaños de Emma Myers (02/04)) |
-| 81° | 22/04 | 471 | 471 | 471 | 6.256 | 5:47 h | 2 | 0 pal. · 2:13 h | pasa la cuota por 21; (sin cumpleaños de Anya Taylor-Joy (16/04)) |
-| 82° | 06/05 | 438 | 438 | 438 | 5.311 | 5:21 h | 2 | 12 pal. · 2:39 h |  |
+| 81° | 22/04 | 471 | 471 | 471 | 6.256 | 5:47 h | 1 | 0 pal. · 2:13 h | pasa la cuota por 21; (sin cumpleaños de Anya Taylor-Joy (16/04)) |
+| 82° | 06/05 | 438 | 438 | 438 | 5.311 | 5:21 h | 1 | 12 pal. · 2:39 h |  |
 | 83° | 19/05 | 432 | 445 | 215 | 6.369 | 6:22 h | 2 | 18 pal. · 1:38 h | (sin cumpleaños de Cillian Murphy (25/05)); (sin cumpleaños de Robert Pattinson (13/05)) |
-| 84° | 01/06 | 242 | 154 | 77 | 2.732 | 5:33 h | 2 | 208 pal. · 2:27 h |  |
+| 84° | 01/06 | 242 | 154 | 77 | 2.732 | 5:33 h | 1 | 208 pal. · 2:27 h |  |
 | 85° | 14/06 | 465 | 483 | 132 | 7.056 | 6:54 h | 2 | 0 pal. · 1:06 h | pasa la cuota por 15 |
-| 86° | 27/06 | 405 | 420 | 150 | 5.559 | 5:52 h | 2 | 45 pal. · 2:08 h |  |
-| 87° | 10/07 | 268 | 341 | 0 | 4.743 | 5:17 h | 2 | 182 pal. · 2:43 h | (sin cumpleaños de Angus Cloud (10/07)) |
+| 86° | 27/06 | 405 | 420 | 150 | 5.559 | 5:52 h | 1 | 45 pal. · 2:08 h |  |
+| 87° | 10/07 | 268 | 341 | 0 | 4.743 | 5:17 h | 1 | 182 pal. · 2:43 h | (sin cumpleaños de Angus Cloud (10/07)) |
 | 88° | 23/07 | 71 | 94 | 0 | 1.308 | 1:35 h | 1 | 379 pal. · 6:25 h |  |
 | 89° | 05/08 | 464 | 509 | 0 | 7.215 | 6:47 h | 2 | 0 pal. · 1:13 h | pasa la cuota por 14 |
 | 90° | 18/08 | 410 | 543 | 0 | 7.558 | 8:54 h | 2 | 40 pal. · 0:00 h | dura 0:54 h de más; (sin cumpleaños de Adewale Akinnuoye-Agbaje (22/08)) |
 | 91° | 31/08 | 507 | 533 | 0 | 7.450 | 6:29 h | 2 | 0 pal. · 1:31 h | pasa la cuota por 57; (sin cumpleaños de Zendaya (01/09)) |
-| 92° | 13/09 | 257 | 320 | 64 | 4.811 | 5:17 h | 2 | 193 pal. · 2:43 h |  |
-| 93° | 26/09 | 300 | 361 | 0 | 5.121 | 5:50 h | 2 | 150 pal. · 2:10 h |  |
-| 94° | 09/10 | 382 | 404 | 0 | 5.620 | 5:14 h | 2 | 68 pal. · 2:46 h |  |
+| 92° | 13/09 | 257 | 320 | 64 | 4.811 | 5:17 h | 1 | 193 pal. · 2:43 h |  |
+| 93° | 26/09 | 300 | 361 | 0 | 5.121 | 5:50 h | 1 | 150 pal. · 2:10 h |  |
+| 94° | 09/10 | 382 | 404 | 0 | 5.620 | 5:14 h | 1 | 68 pal. · 2:46 h |  |
 | 95° | 22/10 | 203 | 268 | 0 | 3.734 | 3:23 h | 1 | 247 pal. · 4:37 h | (sin cumpleaños de Margaret Qualley (23/10)) |
 | 96° | 04/11 | 374 | 387 | 0 | 5.396 | 4:00 h | 1 | 76 pal. · 4:00 h | falta: Halloween |
 | 97° | 17/11 | 281 | 290 | 0 | 3.998 | 2:59 h | 1 | 169 pal. · 5:01 h |  |
 | 98° | 30/11 | 368 | 415 | 0 | 5.740 | 6:17 h | 2 | 82 pal. · 1:43 h | (sin cumpleaños de Colman Domingo (28/11)) |
-| 99° | 12/12 | 285 | 377 | 0 | 5.247 | 5:46 h | 2 | 165 pal. · 2:14 h | (sin cumpleaños de Maude Apatow (15/12)); (sin cumpleaños de Alexa Demie (11/12)) |
+| 99° | 12/12 | 285 | 377 | 0 | 5.247 | 5:46 h | 1 | 165 pal. · 2:14 h | (sin cumpleaños de Maude Apatow (15/12)); (sin cumpleaños de Alexa Demie (11/12)) |
 | 100a° (Fin de Año) | 25/12 | 213 | 282 | 0 | 3.927 | 3:08 h | 1 | (con la parte siguiente) · 4:52 h | (sin cumpleaños de Meghan Trainor (22/12)); (sin cumpleaños de Samuel L. Jackson (21/12)) |
 | 100b° (Fin de Año) | 31/12 | 307 | 271 | 0 | 3.763 | 6:47 h | 2 | 29 pal. · 1:13 h | duración estimada |
 | **Total** | 28 | **10144** | 10816 | 4379 | **155.787** | **161:16 h** | | **2236 pal.** | |
@@ -95,28 +95,28 @@ Prioridades: no pasarse de la cuota, cumplir Navidad y Halloween, no pasar de 8 
 | Tanda | Fecha | Palabras (corregidas) | Estimadas | Ya reales | Líneas | Duración | Días | Espacio libre | Revisar |
 |---|---|---|---|---|---|---|---|---|---|
 | 74° | 14/01 | 409 | 409 | 409 | 6.915 | 6:52 h | 2 | 41 pal. · 1:08 h |  |
-| 75° | 28/01 | 425 | 427 | 391 | 6.417 | 5:32 h | 2 | 25 pal. · 2:28 h |  |
+| 75° | 28/01 | 425 | 427 | 391 | 6.417 | 5:32 h | 1 | 25 pal. · 2:28 h |  |
 | 76° | 11/02 | 443 | 443 | 443 | 5.779 | 7:21 h | 2 | 7 pal. · 0:39 h |  |
 | 77° | 25/02 | 404 | 404 | 404 | 5.496 | 6:00 h | 2 | 46 pal. · 2:00 h |  |
 | 78° | 11/03 | 389 | 389 | 389 | 6.780 | 6:25 h | 2 | 61 pal. · 1:35 h |  |
 | 79° | 25/03 | 416 | 436 | 355 | 6.245 | 6:34 h | 2 | 34 pal. · 1:26 h | (sin cumpleaños de Elizabeth Lail (25/03)) |
 | 80° | 08/04 | 440 | 441 | 408 | 6.494 | 7:04 h | 2 | 10 pal. · 0:56 h |  |
-| 81° | 22/04 | 404 | 408 | 324 | 6.023 | 5:50 h | 2 | 46 pal. · 2:10 h |  |
-| 82° | 06/05 | 438 | 438 | 438 | 5.311 | 5:21 h | 2 | 12 pal. · 2:39 h |  |
+| 81° | 22/04 | 404 | 408 | 324 | 6.023 | 5:50 h | 1 | 46 pal. · 2:10 h |  |
+| 82° | 06/05 | 438 | 438 | 438 | 5.311 | 5:21 h | 1 | 12 pal. · 2:39 h |  |
 | 83° | 19/05 | 417 | 425 | 233 | 6.421 | 6:12 h | 2 | 33 pal. · 1:48 h | (sin cumpleaños de Cillian Murphy (25/05)); (sin cumpleaños de Robert Pattinson (13/05)) |
 | 84° | 01/06 | 368 | 280 | 203 | 5.269 | 7:46 h | 2 | 82 pal. · 0:14 h |  |
 | 85° | 14/06 | 416 | 316 | 0 | 4.446 | 7:15 h | 2 | 34 pal. · 0:45 h |  |
-| 86° | 27/06 | 405 | 420 | 150 | 5.559 | 5:52 h | 2 | 45 pal. · 2:08 h |  |
+| 86° | 27/06 | 405 | 420 | 150 | 5.559 | 5:52 h | 1 | 45 pal. · 2:08 h |  |
 | 87° | 10/07 | 378 | 476 | 0 | 6.634 | 6:59 h | 2 | 72 pal. · 1:01 h |  |
 | 88° | 23/07 | 398 | 430 | 109 | 6.195 | 6:33 h | 2 | 52 pal. · 1:27 h |  |
-| 89° | 05/08 | 412 | 471 | 0 | 6.653 | 5:58 h | 2 | 38 pal. · 2:02 h |  |
+| 89° | 05/08 | 412 | 471 | 0 | 6.653 | 5:58 h | 1 | 38 pal. · 2:02 h |  |
 | 90° | 18/08 | 409 | 535 | 0 | 7.476 | 7:55 h | 2 | 41 pal. · 0:05 h |  |
 | 91° | 31/08 | 379 | 399 | 0 | 5.576 | 4:50 h | 1 | 71 pal. · 3:10 h | (sin cumpleaños de Zendaya (01/09)) |
 | 92° | 13/09 | 385 | 471 | 64 | 6.910 | 7:09 h | 2 | 65 pal. · 0:51 h |  |
 | 93° | 26/09 | 401 | 356 | 0 | 4.972 | 6:50 h | 2 | 49 pal. · 1:10 h | duración estimada |
 | 94° | 09/10 | 401 | 448 | 0 | 6.230 | 6:13 h | 2 | 49 pal. · 1:47 h |  |
 | 95° | 22/10 | 412 | 342 | 0 | 4.785 | 7:58 h | 2 | 38 pal. · 0:02 h | (sin cumpleaños de Margaret Qualley (23/10)) |
-| 96° | 04/11 | 433 | 446 | 59 | 6.655 | 5:30 h | 2 | 17 pal. · 2:30 h |  |
+| 96° | 04/11 | 433 | 446 | 59 | 6.655 | 5:30 h | 1 | 17 pal. · 2:30 h |  |
 | 97° | 17/11 | 400 | 448 | 0 | 6.200 | 4:42 h | 1 | 50 pal. · 3:18 h |  |
 | 98° | 30/11 | 428 | 487 | 0 | 6.787 | 7:35 h | 2 | 22 pal. · 0:25 h |  |
 | 99° | 12/12 | 391 | 486 | 0 | 6.737 | 7:53 h | 2 | 59 pal. · 0:07 h |  |

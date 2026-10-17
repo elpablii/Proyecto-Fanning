@@ -51,6 +51,14 @@ TMDB casi nunca registra las canciones que suenan en una película. Esas, y cual
 ```json
 "realeza_manual": {"Eminem": ["musica"]}
 ```
+
+### Citas
+
+Cada artista puede tener una cita (una línea de diálogo de su personaje), que la página muestra en su portada y en la Reina o Rey del día. Se escribe a mano en `contenido/realeza.json`, con el título exacto de la ficha:
+```json
+"cita": {"texto": "You guys ever think about dying?", "titulo": "Barbie", "personaje": "Barbie"}
+```
+Los subtítulos no dicen quién habla, así que la frase se elige a mano. Después se corre `python fanning.py citas`, que confirma que la frase está en los subtítulos de ese título (sin importar mayúsculas ni puntuación) y anota `episodio` y `segundo`. Si no la encuentra, lo avisa y termina con error.
 Los papeles posibles son `actua`, `voz`, `aparece`, `musica` (canta, compone o es coautor de una canción que suena), `produce`, `escribe`, `dirige` y `equipo`.
 
 ## Agregar una tanda
