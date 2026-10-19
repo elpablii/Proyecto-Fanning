@@ -1,8 +1,9 @@
 import type { ReactNode } from 'react';
 import Link from 'next/link';
 import {
-  ArrowLeft, BookOpen, BookText, Calculator, Check, Clock, Crown, Eye, Heart, Ruler, ScrollText, ShieldAlert,
-  Sparkles, Star, X,
+  ArrowLeft, ArrowUp, BookOpen, BookText, Calculator, CalendarDays, Check, ChevronRight, CircleHelp, Clapperboard,
+  Clock, Crown, Eye, Film, Heart, Library, Lightbulb, ListChecks, Ruler, ScrollText, ShieldAlert, Sparkles, Star,
+  Timer, X,
 } from 'lucide-react';
 import IndiceSecciones, { type Seccion } from '@/components/reglas/IndiceSecciones';
 import CalculadoraComprension from '@/components/reglas/CalculadoraComprension';
@@ -19,6 +20,7 @@ export const metadata = {
 const SECCIONES: Seccion[] = [
   { id: 'proyecto', titulo: '¿Qué es el proyecto?' },
   { id: 'funcionamiento', titulo: 'Cómo funciona' },
+  { id: 'vistazo', titulo: 'Las reglas de un vistazo' },
   { id: 'pilares', titulo: 'I. Inmersión y elegibilidad' },
   { id: 'filtros', titulo: 'II. Filtros e indultos' },
   { id: 'ritmo', titulo: 'III. Ritmo y sesiones' },
@@ -35,26 +37,69 @@ function enlace(a: Pick<Aparicion, 'titulo' | 'tipo'>): string {
 }
 
 const COLORES = {
-  purple: { texto: 'text-purple-300', borde: 'border-purple-500/20', fondo: 'bg-purple-500/10', numero: 'bg-purple-500/15 text-purple-300' },
-  red: { texto: 'text-red-300', borde: 'border-red-500/20', fondo: 'bg-red-500/10', numero: 'bg-red-500/15 text-red-300' },
-  blue: { texto: 'text-blue-300', borde: 'border-blue-500/20', fondo: 'bg-blue-500/10', numero: 'bg-blue-500/15 text-blue-300' },
-  emerald: { texto: 'text-emerald-300', borde: 'border-emerald-500/20', fondo: 'bg-emerald-500/10', numero: 'bg-emerald-500/15 text-emerald-300' },
+  purple: { texto: 'text-purple-300', borde: 'border-purple-500/20', fondo: 'bg-purple-500/10', numero: 'bg-purple-500/15 text-purple-300', barra: 'bg-purple-400' },
+  red: { texto: 'text-red-300', borde: 'border-red-500/20', fondo: 'bg-red-500/10', numero: 'bg-red-500/15 text-red-300', barra: 'bg-red-400' },
+  blue: { texto: 'text-blue-300', borde: 'border-blue-500/20', fondo: 'bg-blue-500/10', numero: 'bg-blue-500/15 text-blue-300', barra: 'bg-blue-400' },
+  emerald: { texto: 'text-emerald-300', borde: 'border-emerald-500/20', fondo: 'bg-emerald-500/10', numero: 'bg-emerald-500/15 text-emerald-300', barra: 'bg-emerald-400' },
+  amber: { texto: 'text-amber-300', borde: 'border-amber-500/20', fondo: 'bg-amber-500/10', numero: 'bg-amber-500/15 text-amber-300', barra: 'bg-amber-400' },
+  gray: { texto: 'text-gray-300', borde: 'border-white/10', fondo: 'bg-white/5', numero: 'bg-white/10 text-gray-300', barra: 'bg-gray-400' },
 } as const;
 type Color = keyof typeof COLORES;
 
-function Capitulo({ id, numero, titulo, icono: Icono, color, intro, children }: {
+const idRegla = (numero: number | string) => `regla-${String(numero).toLowerCase()}`;
+
+// Las reglas resumidas en una frase, para leerlas de corrido antes de entrar al detalle.
+const RESUMEN: { capitulo: string; color: Color; reglas: [number | string, string][] }[] = [
+  { capitulo: 'I. Inmersión y elegibilidad', color: 'purple', reglas: [
+    [1, 'Todo en inglés, con subtítulos en inglés.'],
+    [2, 'En el cine se aceptan subtítulos en español.'],
+    [3, 'Solo eso genera vocabulario oficial.'],
+    [4, 'Las sagas y temporadas, en orden.'],
+    [5, 'La Realeza va primero.'],
+  ] },
+  { capitulo: 'II. Filtros e indultos', color: 'red', reglas: [
+    [6, 'Fuera el contenido pro-Trump o sionista.'],
+    [7, 'La Realeza puede indultar un bloqueo.'],
+    [8, 'Algunas figuras están bajo veto.'],
+  ] },
+  { capitulo: 'III. Ritmo y sesiones', color: 'blue', reglas: [
+    [9, 'Una tanda cada 14 a 17 días, con cuota.'],
+    [10, 'Gala navideña a fin de año: 550 palabras.'],
+    [11, 'Más de 6 horas, en dos sesiones.'],
+    [12, 'Pausa de 15 minutos en películas largas.'],
+  ] },
+  { capitulo: 'IV. Comprensión', color: 'emerald', reglas: [
+    ['RE', 'Desde 99,445% se registra 100%.'],
+    ['B', 'Bonus por inglés antiguo, francés o alemán.'],
+  ] },
+];
+const TOTAL_REGLAS = RESUMEN.reduce((s, c) => s + c.reglas.length, 0);
+
+// Encabezado común de cada sección: etiqueta, ícono en su recuadro, título e introducción.
+function Encabezado({ etiqueta, titulo, icono: Icono, color, intro }: {
+  etiqueta?: string; titulo: string; icono: typeof Crown; color: Color; intro?: ReactNode;
+}) {
+  const c = COLORES[color];
+  return (
+    <header className="flex items-start gap-4">
+      <span className={`shrink-0 w-12 h-12 rounded-2xl border flex items-center justify-center ${c.fondo} ${c.borde}`}>
+        <Icono className={`w-6 h-6 ${c.texto}`} />
+      </span>
+      <div className="space-y-1.5 min-w-0">
+        {etiqueta && <p className={`text-xs font-semibold uppercase tracking-[0.2em] ${c.texto}`}>{etiqueta}</p>}
+        <h2 className="text-2xl sm:text-3xl font-bold text-white leading-tight">{titulo}</h2>
+        {intro && <p className="text-gray-400 leading-relaxed max-w-3xl">{intro}</p>}
+      </div>
+    </header>
+  );
+}
+
+function Capitulo({ id, numero, titulo, icono, color, intro, children }: {
   id: string; numero: string; titulo: string; icono: typeof Crown; color: Color; intro?: ReactNode; children: ReactNode;
 }) {
   return (
-    <section id={id} className="scroll-mt-20 lg:scroll-mt-8 space-y-5">
-      <header className="space-y-2">
-        <p className={`text-xs font-semibold uppercase tracking-[0.2em] ${COLORES[color].texto}`}>Capítulo {numero}</p>
-        <h2 className="text-2xl sm:text-3xl font-bold text-white flex items-center gap-3">
-          <Icono className={`w-7 h-7 ${COLORES[color].texto}`} />
-          {titulo}
-        </h2>
-        {intro && <p className="text-gray-400 leading-relaxed">{intro}</p>}
-      </header>
+    <section id={id} className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
+      <Encabezado etiqueta={`Capítulo ${numero}`} titulo={titulo} icono={icono} color={color} intro={intro} />
       <div className="space-y-4">{children}</div>
     </section>
   );
@@ -66,31 +111,43 @@ function Regla({ numero, titulo, color, destacada, porQue, children, practica }:
 }) {
   const c = COLORES[color];
   return (
-    <article className={`rounded-2xl border p-5 sm:p-6 space-y-4 ${destacada ? `${c.fondo} ${c.borde}` : 'bg-white/[0.03] border-white/10'}`}>
+    <article id={idRegla(numero)}
+      className={`relative overflow-hidden scroll-mt-20 lg:scroll-mt-8 rounded-2xl border p-5 sm:p-6 space-y-4 transition-colors hover:border-white/20 ${destacada ? `${c.fondo} ${c.borde}` : 'bg-white/3 border-white/10'}`}>
+      <span aria-hidden className={`absolute left-0 inset-y-0 w-1 ${c.barra} opacity-60`} />
       <div className="flex items-start gap-4">
-        <span className={`shrink-0 w-10 h-10 rounded-xl flex items-center justify-center font-bold text-sm ${c.numero}`}>
+        <span className={`shrink-0 w-11 h-11 rounded-xl flex items-center justify-center font-bold text-sm ${c.numero}`}>
           {typeof numero === 'number' ? `R${numero}` : numero}
         </span>
         <div className="space-y-2 min-w-0">
-          <h3 className="font-semibold text-white text-lg leading-tight flex items-center gap-2">
-            {destacada && <Star className={`w-4 h-4 ${c.texto}`} />}
+          <h3 className="font-semibold text-white text-lg leading-tight flex flex-wrap items-center gap-2">
             {titulo}
+            {destacada && (
+              <span className={`inline-flex items-center gap-1 text-[11px] font-medium px-2 py-0.5 rounded-full ${c.numero}`}>
+                <Star className="w-3 h-3" /> Clave
+              </span>
+            )}
           </h3>
-          <div className="text-gray-300 text-sm leading-relaxed space-y-2">{children}</div>
+          <div className="text-gray-300 text-[15px] leading-relaxed space-y-2">{children}</div>
         </div>
       </div>
       {(porQue || practica) && (
-        <div className="grid gap-3 sm:pl-14">
+        <div className="grid gap-3 sm:pl-15">
           {porQue && (
-            <div className="text-sm leading-relaxed">
-              <p className="text-[11px] uppercase tracking-wider text-gray-500 mb-1">Por qué</p>
-              <p className="text-gray-400">{porQue}</p>
+            <div className="flex gap-3 text-sm leading-relaxed bg-amber-500/5 border border-amber-500/15 rounded-xl p-4">
+              <Lightbulb className="w-4 h-4 text-amber-300 shrink-0 mt-0.5" />
+              <div>
+                <p className="text-xs font-semibold text-amber-200 mb-0.5">¿Por qué?</p>
+                <p className="text-gray-300">{porQue}</p>
+              </div>
             </div>
           )}
           {practica && (
-            <div className="text-sm leading-relaxed bg-black/30 border border-white/5 rounded-xl p-4">
-              <p className="text-[11px] uppercase tracking-wider text-gray-500 mb-2">En la práctica</p>
-              <div className="text-gray-300 space-y-2">{practica}</div>
+            <div className="flex gap-3 text-sm leading-relaxed bg-black/30 border border-white/5 rounded-xl p-4">
+              <Clapperboard className={`w-4 h-4 shrink-0 mt-0.5 ${c.texto}`} />
+              <div className="min-w-0 flex-1">
+                <p className={`text-xs font-semibold mb-1.5 ${c.texto}`}>En la práctica</p>
+                <div className="text-gray-300 space-y-2">{practica}</div>
+              </div>
             </div>
           )}
         </div>
@@ -108,9 +165,10 @@ function Chip({ a, nota }: { a: Aparicion; nota?: string }) {
   );
 }
 
-function Cifra({ valor, texto }: { valor: string; texto: string }) {
+function Cifra({ valor, texto, icono: Icono }: { valor: string; texto: string; icono: typeof Crown }) {
   return (
-    <div className="bg-white/[0.03] border border-white/10 rounded-2xl px-4 py-3">
+    <div className="bg-white/4 border border-white/10 rounded-2xl px-4 py-3 space-y-1">
+      <Icono className="w-4 h-4 text-purple-300" />
       <p className="text-xl sm:text-2xl font-bold text-white">{valor}</p>
       <p className="text-[11px] uppercase tracking-wider text-gray-500">{texto}</p>
     </div>
@@ -131,29 +189,47 @@ export default function ReglasPage() {
   const horasIngles = Math.round((vista + repaso + revision) / 60);
 
   return (
-    <div className="min-h-screen bg-[#09090b] text-white px-4 py-6 sm:p-6 md:p-8 selection:bg-purple-500/30">
+    <div id="top" className="min-h-screen bg-gray-950 text-white px-4 py-6 sm:p-6 md:p-8 selection:bg-purple-500/30">
       <header className="max-w-6xl mx-auto mb-8 md:mb-12 space-y-6">
         <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
           <ArrowLeft className="w-4 h-4 mr-2" /> Volver al inicio
         </Link>
-        <div className="space-y-3">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold bg-linear-to-r from-white to-gray-400 bg-clip-text text-transparent flex items-center gap-3">
-            <BookOpen className="w-8 h-8 sm:w-10 sm:h-10 text-purple-400 shrink-0" />
+        <div className="relative overflow-hidden rounded-3xl border border-purple-500/20 bg-linear-to-br from-purple-500/15 via-gray-900/40 to-pink-500/10 p-6 sm:p-10 space-y-5">
+          <div aria-hidden className="absolute -top-24 -right-24 w-72 h-72 rounded-full bg-purple-500/20 blur-3xl" />
+          <div aria-hidden className="absolute -bottom-28 -left-16 w-64 h-64 rounded-full bg-pink-500/10 blur-3xl" />
+          <div className="relative flex flex-wrap gap-2 text-xs font-medium">
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-purple-500/15 border border-purple-500/30 text-purple-200">
+              <ListChecks className="w-3.5 h-3.5" /> {TOTAL_REGLAS} reglas en 4 capítulos
+            </span>
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-gray-300">
+              <Timer className="w-3.5 h-3.5" /> Unos 10 minutos de lectura
+            </span>
+          </div>
+          <h1 className="relative text-3xl sm:text-4xl md:text-5xl font-bold text-white flex items-center gap-3">
+            <BookOpen className="w-8 h-8 sm:w-10 sm:h-10 text-purple-300 shrink-0" />
             Constitución del Proyecto Fanning
           </h1>
-          <p className="text-gray-400 text-base sm:text-lg leading-relaxed max-w-3xl">
-            El marco que rige el sistema de inmersión en inglés (régimen B1+): qué se puede ver y cómo,
-            a qué ritmo, cómo se mide lo aprendido y quiénes tienen prioridad. Cada regla trae su razón y
-            ejemplos de las tandas reales.
+          <p className="relative text-gray-300 text-base sm:text-lg leading-relaxed max-w-3xl">
+            Te damos la bienvenida. Aquí están las reglas del juego del sistema de inmersión en inglés
+            (régimen B1+): qué se puede ver y cómo, a qué ritmo, cómo se mide lo aprendido y quiénes tienen
+            prioridad. Cada regla trae su razón y ejemplos de las tandas reales.
           </p>
+          <div className="relative flex flex-wrap gap-3">
+            <a href="#vistazo" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-purple-500 hover:bg-purple-400 text-white text-sm font-semibold transition-colors">
+              <ListChecks className="w-4 h-4" /> Ver las reglas de un vistazo
+            </a>
+            <a href="#proyecto" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-gray-200 text-sm font-medium transition-colors">
+              Empezar desde el principio <ChevronRight className="w-4 h-4" />
+            </a>
+          </div>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
-          <Cifra valor="15/10/2023" texto="Inicio del proyecto" />
-          <Cifra valor={miles(d.resumen.tandas)} texto="Tandas" />
-          <Cifra valor={miles(d.resumen.titulos)} texto="Títulos" />
-          <Cifra valor={miles(d.resumen.palabras)} texto="Palabras y frases" />
-          <Cifra valor={porcentaje(d.resumen.comprension)} texto="Comprensión global" />
-          <Cifra valor={`${miles(horasIngles)} h`} texto="Horas de inglés" />
+          <Cifra icono={CalendarDays} valor="15/10/2023" texto="Inicio del proyecto" />
+          <Cifra icono={Library} valor={miles(d.resumen.tandas)} texto="Tandas" />
+          <Cifra icono={Film} valor={miles(d.resumen.titulos)} texto="Títulos" />
+          <Cifra icono={BookText} valor={miles(d.resumen.palabras)} texto="Palabras y frases" />
+          <Cifra icono={Calculator} valor={porcentaje(d.resumen.comprension)} texto="Comprensión global" />
+          <Cifra icono={Clock} valor={`${miles(horasIngles)} h`} texto="Horas de inglés" />
         </div>
       </header>
 
@@ -165,7 +241,7 @@ export default function ReglasPage() {
         <main className="space-y-16 pt-6 lg:pt-0 min-w-0">
           {/* ---------- Presentación ---------- */}
           <section id="proyecto" className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white">¿Qué es el Proyecto Fanning?</h2>
+            <Encabezado etiqueta="Presentación" titulo="¿Qué es el Proyecto Fanning?" icono={Sparkles} color="purple" />
             <div className="text-gray-300 leading-relaxed space-y-3 max-w-3xl">
               <p>
                 Es una forma de aprender inglés viendo películas y series que de verdad dan ganas de ver. Nada de
@@ -194,10 +270,11 @@ export default function ReglasPage() {
                 { icono: BookText, titulo: 'Anotar lo que cuesta', texto: 'Lo que no se entiende no se deja pasar: se anota, se traduce y se repasa.' },
                 { icono: Sparkles, titulo: 'Medir el avance', texto: 'Las líneas de diálogo y el vocabulario dan la comprensión y el nivel MCER de cada título.' },
               ].map(idea => (
-                <div key={idea.titulo} className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-2">
-                  <h3 className="font-semibold text-white flex items-center gap-2">
-                    <idea.icono className="w-4 h-4 text-purple-300" /> {idea.titulo}
-                  </h3>
+                <div key={idea.titulo} className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-3 transition-colors hover:border-purple-500/30">
+                  <span className="w-9 h-9 rounded-xl bg-purple-500/15 flex items-center justify-center">
+                    <idea.icono className="w-4 h-4 text-purple-300" />
+                  </span>
+                  <h3 className="font-semibold text-white">{idea.titulo}</h3>
                   <p className="text-sm text-gray-400 leading-relaxed">{idea.texto}</p>
                 </div>
               ))}
@@ -210,26 +287,30 @@ export default function ReglasPage() {
 
           {/* ---------- Cómo funciona ---------- */}
           <section id="funcionamiento" className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white">Cómo funciona</h2>
+            <Encabezado etiqueta="En cuatro pasos" titulo="Cómo funciona" icono={Eye} color="purple"
+              intro="Cada tanda sigue el mismo recorrido, de la pantalla al registro." />
             <ol className="grid sm:grid-cols-2 xl:grid-cols-4 gap-3">
               {[
                 { icono: Eye, titulo: 'Ver', texto: 'Una película o serie en audio inglés con subtítulos en inglés (Regla 1).' },
                 { icono: BookText, titulo: 'Anotar', texto: 'Cada palabra o frase no entendida va a la lista de vocabulario, con su traducción.' },
                 { icono: Ruler, titulo: 'Contar', texto: 'Se cuentan las líneas de diálogo de los subtítulos y las entradas del vocabulario.' },
                 { icono: Calculator, titulo: 'Medir', texto: 'Con eso se calcula la comprensión y el nivel MCER de cada título y tanda.' },
-              ].map((paso, i) => (
-                <li key={paso.titulo} className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-2">
+              ].map((paso, i, pasos) => (
+                <li key={paso.titulo} className="relative bg-white/3 border border-white/10 rounded-2xl p-5 space-y-3">
                   <div className="flex items-center gap-3">
-                    <span className="text-xs font-mono text-gray-500">0{i + 1}</span>
+                    <span className="w-8 h-8 rounded-full bg-purple-500/20 text-purple-200 text-sm font-bold flex items-center justify-center">{i + 1}</span>
                     <paso.icono className="w-5 h-5 text-purple-300" />
                     <h3 className="font-semibold text-white">{paso.titulo}</h3>
                   </div>
                   <p className="text-sm text-gray-400 leading-relaxed">{paso.texto}</p>
+                  {i < pasos.length - 1 && (
+                    <ChevronRight aria-hidden className="hidden xl:block absolute top-1/2 -right-3 -translate-y-1/2 w-5 h-5 text-purple-400/60 z-10" />
+                  )}
                 </li>
               ))}
             </ol>
             <div className="grid md:grid-cols-2 gap-3">
-              <div className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-2">
+              <div className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-2">
                 <h3 className="font-semibold text-white">Tanda</h3>
                 <p className="text-sm text-gray-400 leading-relaxed">
                   La unidad de estudio: un grupo de películas y episodios que se ven en una fecha y se estudian
@@ -237,7 +318,7 @@ export default function ReglasPage() {
                   siguen siendo una sola tanda.
                 </p>
               </div>
-              <div className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-2">
+              <div className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-2">
                 <h3 className="font-semibold text-white">Ciclo</h3>
                 <p className="text-sm text-gray-400 leading-relaxed">
                   Las tandas de un año. Cada ciclo es una fase del proyecto:
@@ -252,6 +333,35 @@ export default function ReglasPage() {
                   ))}
                 </ul>
               </div>
+            </div>
+          </section>
+
+          {/* ---------- De un vistazo ---------- */}
+          <section id="vistazo" className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
+            <Encabezado etiqueta="Resumen" titulo="Las reglas de un vistazo" icono={ListChecks} color="purple"
+              intro="Cada regla en una frase. Toca cualquiera para ir a su explicación completa." />
+            <div className="grid md:grid-cols-2 gap-4">
+              {RESUMEN.map(cap => {
+                const c = COLORES[cap.color];
+                return (
+                  <div key={cap.capitulo} className={`rounded-2xl border p-4 sm:p-5 space-y-2 ${c.borde} bg-white/2`}>
+                    <p className={`text-xs font-semibold uppercase tracking-[0.15em] ${c.texto}`}>{cap.capitulo}</p>
+                    <ul className="space-y-1">
+                      {cap.reglas.map(([numero, texto]) => (
+                        <li key={numero}>
+                          <a href={`#${idRegla(numero)}`} className="group flex items-center gap-3 rounded-lg px-2 py-1.5 -mx-2 hover:bg-white/5 transition-colors">
+                            <span className={`shrink-0 w-9 h-7 rounded-md flex items-center justify-center text-xs font-bold ${c.numero}`}>
+                              {typeof numero === 'number' ? `R${numero}` : numero}
+                            </span>
+                            <span className="text-sm text-gray-300 group-hover:text-white flex-1">{texto}</span>
+                            <ChevronRight className="w-4 h-4 text-gray-600 group-hover:text-gray-300 shrink-0" />
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                );
+              })}
             </div>
           </section>
 
@@ -408,17 +518,11 @@ export default function ReglasPage() {
 
           {/* ---------- Metodología ---------- */}
           <section id="metodologia" className="scroll-mt-20 lg:scroll-mt-8 space-y-5">
-            <header className="space-y-2">
-              <h2 className="text-2xl sm:text-3xl font-bold text-white flex items-center gap-3">
-                <ScrollText className="w-7 h-7 text-gray-300" /> Metodología
-              </h2>
-              <p className="text-gray-400 leading-relaxed">
-                Cómo se cuentan las líneas y las palabras y cómo se calcula el nivel. El detalle completo está en la carpeta <code className="text-gray-300">Metodología/</code> del proyecto.
-              </p>
-            </header>
+            <Encabezado etiqueta="Cómo se cuenta" titulo="Metodología" icono={ScrollText} color="gray"
+              intro={<>Cómo se cuentan las líneas y las palabras y cómo se calcula el nivel. El detalle completo está en la carpeta <code className="text-gray-300">Metodología/</code> del proyecto.</>} />
 
             <div className="grid xl:grid-cols-2 gap-4">
-              <article className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-3">
+              <article className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-3">
                 <h3 className="font-semibold text-white">Líneas de diálogo</h3>
                 <p className="text-sm text-gray-400 leading-relaxed">
                   Una línea es <strong className="text-gray-200">un subtítulo</strong>, aunque ocupe dos renglones. Cuenta si tiene al menos una letra o un número; las acotaciones de sonido también cuentan.
@@ -441,7 +545,7 @@ export default function ReglasPage() {
                 </ul>
               </article>
 
-              <article className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-3">
+              <article className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-3">
                 <h3 className="font-semibold text-white">Palabras y frases</h3>
                 <p className="text-sm text-gray-400 leading-relaxed">
                   Cada entrada del vocabulario vale <strong className="text-gray-200">1</strong>, sea una palabra o una frase larga. Una repetida con el mismo sentido cuenta una sola vez; con otro sentido, cuenta de nuevo.
@@ -463,7 +567,7 @@ export default function ReglasPage() {
               </article>
             </div>
 
-            <article className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-4">
+            <article className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-4">
               <h3 className="font-semibold text-white">Horas de inglés</h3>
               <p className="text-sm text-gray-400 leading-relaxed">
                 No es solo lo que dura lo visto: cada tanda suma tres momentos de contacto con el inglés.
@@ -486,7 +590,7 @@ export default function ReglasPage() {
               </p>
             </article>
 
-            <article className="bg-white/[0.03] border border-white/10 rounded-2xl p-5 space-y-5">
+            <article className="bg-white/3 border border-white/10 rounded-2xl p-5 space-y-5">
               <h3 className="font-semibold text-white">Nivel de inglés (MCER)</h3>
               <p className="text-sm text-gray-400 leading-relaxed">
                 Cada título recibe un nivel de A1 a C2, calculado con tres señales. El vocabulario pesa más porque es lo que realmente costó entender.
@@ -521,23 +625,17 @@ export default function ReglasPage() {
 
           {/* ---------- Realeza ---------- */}
           <section id="realeza" className="scroll-mt-20 lg:scroll-mt-8 space-y-5">
-            <header className="space-y-2">
-              <h2 className="text-2xl sm:text-3xl font-bold text-white flex items-center gap-3">
-                <Crown className="w-7 h-7 text-amber-300" /> La Realeza
-              </h2>
-              <p className="text-gray-400 leading-relaxed">
-                Los artistas con Prioridad de Realeza (Regla 5) y poder de Indulto Real (Regla 7).
+            <Encabezado etiqueta="Quiénes tienen prioridad" titulo="La Realeza" icono={Crown} color="amber"
+              intro={<>Los artistas con Prioridad de Realeza (Regla 5) y poder de Indulto Real (Regla 7).
                 Sus fotos, sus títulos y lo que enseñó cada uno están en{' '}
-                <Link href="/realeza" className="text-amber-300 underline underline-offset-2">el Salón del Trono</Link>.
-              </p>
-            </header>
+                <Link href="/realeza" className="text-amber-300 underline underline-offset-2">el Salón del Trono</Link>.</>} />
             <div className="grid md:grid-cols-2 gap-4">
               {agrupar(getRealeza()).map(g => {
                 const superior = g.id === 'supremos' || g.id === 'platonicos';
                 const Icono = g.id === 'platonicos' ? Heart : Crown;
                 return (
                   <article key={g.id}
-                    className={`rounded-2xl border p-5 space-y-3 ${superior ? 'bg-amber-500/5 border-amber-500/25' : 'bg-white/[0.03] border-white/10'}`}>
+                    className={`rounded-2xl border p-5 space-y-3 ${superior ? 'bg-amber-500/5 border-amber-500/25' : 'bg-white/3 border-white/10'}`}>
                     <h3 className="font-semibold text-white flex items-center gap-2">
                       <Icono className={`w-5 h-5 ${g.id === 'platonicos' ? 'text-pink-400' : 'text-amber-300'}`} />
                       {g.nombre}
@@ -557,8 +655,9 @@ export default function ReglasPage() {
 
           {/* ---------- Glosario ---------- */}
           <section id="glosario" className="scroll-mt-20 lg:scroll-mt-8 space-y-5 pb-16">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white">Glosario</h2>
-            <dl className="grid sm:grid-cols-2 gap-x-8 gap-y-4">
+            <Encabezado etiqueta="Palabras del proyecto" titulo="Glosario" icono={CircleHelp} color="gray"
+              intro="¿Alguna palabra no quedó clara? Aquí está, en pocas palabras." />
+            <dl className="grid sm:grid-cols-2 gap-3">
               {[
                 ['Tanda', 'Grupo de títulos que se ven en una fecha y se estudian juntos.'],
                 ['Parte', 'Una tanda dividida en varias fechas (14a°, 14b°). Las partes forman una sola tanda.'],
@@ -575,12 +674,17 @@ export default function ReglasPage() {
                 ['Ficha', 'El archivo de cada título en contenido/titulos/, con sus datos y sus PDFs.'],
                 ['Acotación', 'Descripción de un sonido o acción en los subtítulos, como [door slams].'],
               ].map(([termino, def]) => (
-                <div key={termino} className="border-b border-white/5 pb-3">
+                <div key={termino} className="bg-white/3 border border-white/10 rounded-xl px-4 py-3 space-y-0.5">
                   <dt className="font-semibold text-white text-sm">{termino}</dt>
-                  <dd className="text-sm text-gray-400">{def}</dd>
+                  <dd className="text-sm text-gray-400 leading-relaxed">{def}</dd>
                 </div>
               ))}
             </dl>
+            <div className="flex justify-center pt-6">
+              <a href="#top" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-gray-300 text-sm font-medium transition-colors">
+                <ArrowUp className="w-4 h-4" /> Volver arriba
+              </a>
+            </div>
           </section>
         </main>
       </div>
