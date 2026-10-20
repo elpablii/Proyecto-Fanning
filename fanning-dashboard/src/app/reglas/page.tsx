@@ -2,7 +2,7 @@ import type { ReactNode } from 'react';
 import Link from 'next/link';
 import {
   ArrowLeft, ArrowUp, BookOpen, BookText, Calculator, CalendarDays, Check, ChevronRight, CircleHelp, Clapperboard,
-  Clock, Crown, Eye, Film, Heart, Library, Lightbulb, ListChecks, Ruler, ScrollText, ShieldAlert, Sparkles, Star,
+  Clock, Crown, Eye, Film, Heart, Library, Lightbulb, ListChecks, MessageSquare, Ruler, ScrollText, ShieldAlert, Sparkles, Star,
   Timer, X,
 } from 'lucide-react';
 import IndiceSecciones, { type Seccion } from '@/components/reglas/IndiceSecciones';
@@ -11,9 +11,10 @@ import { getDatosConstitucion, type Aparicion } from '@/lib/constitucion';
 import { agrupar } from '@/lib/realeza';
 import { getRealeza } from '@/lib/data';
 import { duracion, miles, porcentaje } from '@/lib/formato';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 export const metadata = {
-  title: 'Constitución y Reglas - Proyecto Fanning',
+  title: 'Constitución del Proyecto Fanning - Proyecto Fanning',
   description: 'Qué es y cómo funciona el Proyecto Fanning: sus reglas, la métrica de comprensión, la metodología de conteo y la Realeza.',
 };
 
@@ -98,7 +99,7 @@ function Capitulo({ id, numero, titulo, icono, color, intro, children }: {
   id: string; numero: string; titulo: string; icono: typeof Crown; color: Color; intro?: ReactNode; children: ReactNode;
 }) {
   return (
-    <section id={id} className="scroll-mt-20 lg:scroll-mt-8 space-y-6">
+    <section id={id} className="scroll-mt-20 lg:scroll-mt-8 space-y-6 revelar">
       <Encabezado etiqueta={`Capítulo ${numero}`} titulo={titulo} icono={icono} color={color} intro={intro} />
       <div className="space-y-4">{children}</div>
     </section>
@@ -189,7 +190,9 @@ export default function ReglasPage() {
   const horasIngles = Math.round((vista + repaso + revision) / 60);
 
   return (
-    <div id="top" className="min-h-screen bg-gray-950 text-white px-4 py-6 sm:p-6 md:p-8 selection:bg-purple-500/30">
+    <div id="top" className="min-h-screen text-white px-4 py-6 sm:p-6 md:p-8 selection:bg-purple-500/30">
+      {/* Página de lectura: el fondo va más tenue */}
+      <FondoAnimado paleta="reglas" fuerza={11} />
       <header className="max-w-6xl mx-auto mb-8 md:mb-12 space-y-6">
         <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
           <ArrowLeft className="w-4 h-4 mr-2" /> Volver al inicio
@@ -228,7 +231,7 @@ export default function ReglasPage() {
           <Cifra icono={Library} valor={miles(d.resumen.tandas)} texto="Tandas" />
           <Cifra icono={Film} valor={miles(d.resumen.titulos)} texto="Títulos" />
           <Cifra icono={BookText} valor={miles(d.resumen.palabras)} texto="Palabras y frases" />
-          <Cifra icono={Calculator} valor={porcentaje(d.resumen.comprension)} texto="Comprensión global" />
+          <Cifra icono={MessageSquare} valor={miles(d.resumen.lineas)} texto="Líneas de diálogo" />
           <Cifra icono={Clock} valor={`${miles(horasIngles)} h`} texto="Horas de inglés" />
         </div>
       </header>

@@ -7,6 +7,7 @@ import { duracion, miles, porcentaje } from '@/lib/formato';
 import type { Ciclo, ItemTanda, Tanda } from '@/lib/data';
 import { tmdb } from '@/lib/tmdb';
 import { hrefArtista, ordenGrupo, type Artista } from '@/lib/realeza';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 // Quién de la Realeza está en cada título, por "movie:Barbie" o "series:Euphoria" (ver app/timeline/page.tsx).
 export type MiembroEnTanda = Pick<Artista, 'nombre' | 'foto' | 'tipo' | 'rango'>;
@@ -142,7 +143,7 @@ function TarjetaTanda({ tanda, programada, realeza }: { tanda: Tanda; programada
   const etiqueta = tanda.etiqueta ? ETIQUETAS[tanda.etiqueta] : null;
   const Icono = etiqueta?.icono;
   return (
-    <div className="relative group animate-fade-in">
+    <div className="relative group animate-fade-in revelar">
       <div className={`absolute -left-[31px] md:-left-[47px] top-6 w-4 h-4 rounded-full border-4 border-gray-950 z-10 transition-all duration-300 group-hover:scale-125 ${programada ? 'bg-gray-600' : tono ? tono.punto : 'bg-blue-500 group-hover:bg-purple-400 group-hover:shadow-[0_0_10px_rgba(168,85,247,0.8)]'}`}></div>
 
       <div className={`bg-gray-900/50 backdrop-blur-md border rounded-2xl p-4 sm:p-6 shadow-xl shadow-black/40 transition-all duration-300 hover:border-purple-500/40 ${programada ? 'border-dashed border-gray-700/70 opacity-80' : tono ? tono.borde : 'border-gray-700/50'}`}>
@@ -279,35 +280,36 @@ export default function TimelineClient({ ciclos, tandas, hoy, realeza }: { ciclo
     const minutos = tandas.reduce((s, t) => s + t.duracion, 0);
     // las partes de una tanda (14a°, 14b°) son una sola tanda
     const cantidad = new Set(tandas.map(t => t.numero)).size;
-    return { palabras, lineas, titulos, minutos, cantidad, comprension: lineas ? ((lineas - palabras) / lineas) * 100 : null };
+    // Sin comprensión global a propósito: esa cifra solo va por tanda, título o año.
+    return { palabras, lineas, titulos, minutos, cantidad };
   }, [tandas]);
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-4 sm:p-6 md:p-8">
+    <div className="min-h-screen text-gray-100 font-sans p-4 sm:p-6 md:p-8">
+      <FondoAnimado paleta="timeline" />
       <header className="mb-10 max-w-5xl mx-auto border-b border-gray-800 pb-8">
         <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-4 text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al Dashboard
         </Link>
-        <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3">
+        <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3 brillo-titulo">
           <Calendar className="text-blue-500" size={36} /> Línea de Tiempo
         </h1>
         <p className="text-gray-400 mt-2 text-sm md:text-base">
           Cada tanda del proyecto, con lo que se vio y cuánto se entendió.
         </p>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mt-6">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 mt-6">
           {[
             { v: miles(total.cantidad), t: 'tandas', icono: Calendar },
             { v: miles(total.titulos), t: 'títulos', icono: Film },
             { v: `${miles(Math.round(total.minutos / 60))} h`, t: 'de contenido', icono: Clock },
             { v: miles(total.palabras), t: 'palabras', icono: BookOpen },
             { v: miles(total.lineas), t: 'líneas', icono: Film },
-            { v: porcentaje(total.comprension, 1), t: 'comprensión', icono: Sparkles },
           ].map(({ v, t, icono: Icono }) => (
             <div key={t} className="bg-gray-900/60 border border-gray-800 rounded-xl p-3 flex items-center gap-3">
               <Icono size={18} className="text-blue-400 shrink-0" />
               <div>
-                <p className={`text-lg font-bold ${t === 'comprensión' ? colorComprension(total.comprension) : 'text-white'}`}>{v}</p>
+                <p className="text-lg font-bold text-white">{v}</p>
                 <p className="text-[11px] uppercase tracking-wider text-gray-500">{t}</p>
               </div>
             </div>

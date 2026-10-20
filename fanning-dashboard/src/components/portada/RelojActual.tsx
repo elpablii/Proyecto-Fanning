@@ -23,7 +23,7 @@ export default function RelojActual({ className = '' }: { className?: string }) 
   const fecha = momento ? FECHA.format(momento) : '';
 
   return (
-    <div className={`inline-flex items-center gap-3 rounded-2xl border border-white/10 bg-gray-950/60 backdrop-blur-md px-4 py-2.5 shadow-lg ${className}`}>
+    <div className={`inline-flex items-center gap-3 rounded-2xl border border-white/10 bg-gray-950/60 backdrop-blur-md px-4 py-2.5 shadow-lg resplandor-latiendo ${className}`}>
       <Clock size={18} className="text-purple-300 shrink-0" aria-hidden />
       <div className="flex flex-col leading-tight min-w-44">
         <time dateTime={momento?.toISOString()} className="font-mono text-xl font-bold tabular-nums text-gray-100">

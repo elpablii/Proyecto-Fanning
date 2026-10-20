@@ -16,6 +16,7 @@ import TarjetaMetrica, { TONOS, type PuntoSerie } from '@/components/portada/Tar
 import { PortadaAnio, PortadaData } from '@/types/manifest';
 import { hrefArtista, ordenGrupo } from '@/lib/realeza';
 import { transicionPoster } from '@/lib/transiciones';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 const VACIO: PortadaAnio = {
   totalWords: 0, totalDialogues: 0, uniqueMovies: 0,
@@ -107,7 +108,8 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
   }, []);
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans p-4 sm:p-6 md:p-8">
+    <div className="min-h-screen text-gray-100 font-sans p-4 sm:p-6 md:p-8">
+      <FondoAnimado paleta="inicio" />
       <HeroPortada posters={posters} onBuscar={() => setShowSearch(true)} />
 
       {showSearch && (
@@ -140,7 +142,8 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
         <TarjetaMetrica titulo="Películas / Series" icono={Film} tono="morado" valor={stats.uniqueMovies} formato={miles}
           nota="Obras únicas visualizadas" serie={series.titulos} elegido={elegido} />
 
-        <div className={`bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${TONOS.rosa.hover}`}>
+        <div className={`borde-giratorio bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${TONOS.rosa.hover}`}
+          style={{ '--tono-borde': TONOS.rosa.trazo } as React.CSSProperties}>
           <div className="flex justify-between items-start mb-4">
             <h3 className="text-gray-400 font-medium">Más Frecuente</h3>
             <div className={`p-2 rounded-lg ${TONOS.rosa.icono}`}><TrendingUp size={20} /></div>

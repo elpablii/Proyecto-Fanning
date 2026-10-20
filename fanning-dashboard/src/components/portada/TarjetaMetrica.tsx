@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import type { LucideIcon } from 'lucide-react';
 
 // El número sube hasta su valor al cargar la portada y al cambiar de ciclo.
@@ -112,7 +112,8 @@ export default function TarjetaMetrica({ titulo, icono: Icono, tono, valor, form
   const t = TONOS[tono];
   const animado = useContador(valor ?? 0);
   return (
-    <div className={`bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${t.hover}`}>
+    <div className={`borde-giratorio bg-gray-900 border border-gray-800 p-6 rounded-2xl shadow-xl transition-all duration-300 hover:-translate-y-0.5 ${t.hover}`}
+      style={{ '--tono-borde': t.trazo } as CSSProperties}>
       <div className="flex justify-between items-start mb-4">
         <h3 className="text-gray-400 font-medium">{titulo}</h3>
         <div className={`p-2 rounded-lg ${t.icono}`}><Icono size={20} /></div>

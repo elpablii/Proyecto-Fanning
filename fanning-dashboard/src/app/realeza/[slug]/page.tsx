@@ -1,9 +1,8 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ArtistaClient, { type TituloEnPagina, type Vecino } from '@/components/realeza/ArtistaClient';
-import { getArtista, getManifest, getProximamente, getRealeza, getTandasPorTitulo, getTodos, getVocabularioArtista } from '@/lib/data';
+import { getArtista, getProximamente, getRealeza, getTandasPorTitulo, getTodos, getVocabularioArtista } from '@/lib/data';
 import { agrupar, conexiones, estadisticas, NOMBRE_RANGO, grupoDe, slugArtista, type Artista } from '@/lib/realeza';
-import { comprension } from '@/lib/stats';
 
 // Una página por cada miembro de la Realeza; cualquier otra URL da 404.
 export const dynamicParams = false;
@@ -53,9 +52,6 @@ export default async function ArtistaPage({ params }: { params: Promise<{ slug: 
   const orden = agrupar(realeza).flatMap(g => g.miembros);
   const i = orden.findIndex(a => a.nombre === artista.nombre);
 
-  const total = getManifest()?.all;
-  const comprensionProyecto = total && !Array.isArray(total) ? comprension(total.totalDialogues, total.totalWords) : null;
-
   return (
     <ArtistaClient
       artista={artista}
@@ -65,7 +61,6 @@ export default async function ArtistaPage({ params }: { params: Promise<{ slug: 
       conexiones={enlaces}
       totalVocabulario={getVocabularioArtista(artista.nombre).length}
       proximos={getProximamente()[artista.nombre] ?? []}
-      comprensionProyecto={comprensionProyecto}
       anterior={vecino(orden[(i - 1 + orden.length) % orden.length])}
       siguiente={vecino(orden[(i + 1) % orden.length])}
       // Fecha local del build; en el navegador se cambia por la de ese día (ver useHoy).

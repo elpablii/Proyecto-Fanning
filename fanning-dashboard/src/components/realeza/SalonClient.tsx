@@ -8,6 +8,7 @@ import CartaReal, { type ArtistaSalon } from '@/components/realeza/CartaReal';
 import { useHoy } from '@/components/realeza/Cumpleanos';
 import PodioReal, { type FilaPodio } from '@/components/realeza/PodioReal';
 import Particulas from '@/components/realeza/Particulas';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 export type { ArtistaSalon };
 
@@ -40,9 +41,8 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
   const hoyNavegador = useHoy(hoy);
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans">
-      {/* Resplandor de fondo */}
-      <div aria-hidden className="pointer-events-none fixed inset-0 bg-[radial-gradient(ellipse_at_top,rgba(251,191,36,0.12),transparent_55%),radial-gradient(ellipse_at_bottom_right,rgba(236,72,153,0.10),transparent_50%)]" />
+    <div className="min-h-screen text-gray-100 font-sans">
+      <FondoAnimado paleta="salon" />
       <Particulas />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
@@ -52,7 +52,7 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
 
         <header className="text-center mb-12 md:mb-16 animate-fade-in">
           <Crown size={40} className="mx-auto text-amber-300 drop-shadow-[0_0_18px_rgba(251,191,36,0.6)] mb-3" />
-          <h1 className="font-real text-4xl md:text-6xl font-bold bg-linear-to-r from-amber-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
+          <h1 className="font-real text-4xl md:text-6xl font-bold bg-linear-to-r from-amber-200 via-pink-300 to-amber-200 bg-clip-text text-transparent brillo-titulo">
             El Salón del Trono
           </h1>
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto md:text-lg">

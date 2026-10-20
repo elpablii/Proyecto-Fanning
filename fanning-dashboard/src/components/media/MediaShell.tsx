@@ -33,7 +33,7 @@ export default function MediaShell({ backdropUrl, rating, tipo, color, children 
         )}
         <div className="absolute inset-0 bg-black/70 backdrop-blur-md"></div>
         <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/60 to-gray-950"></div>
-        {color && <div className="absolute inset-0" style={{ background: `radial-gradient(ellipse at top, ${color}59, transparent 65%), radial-gradient(ellipse at bottom right, ${color}26, transparent 55%)` }} />}
+        {color && <div className="absolute inset-0 respirar" style={{ background: `radial-gradient(ellipse at top, ${color}59, transparent 65%), radial-gradient(ellipse at bottom right, ${color}26, transparent 55%)` }} />}
       </div>
 
       {bloqueado && (

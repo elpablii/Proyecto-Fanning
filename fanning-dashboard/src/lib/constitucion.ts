@@ -30,7 +30,7 @@ export interface TandaVista {
 }
 
 export interface DatosConstitucion {
-  resumen: { tandas: number; titulos: number; palabras: number; lineas: number; comprension: number | null; ingles: MinutosIngles };
+  resumen: { tandas: number; titulos: number; palabras: number; lineas: number; ingles: MinutosIngles };
   ciclos: Ciclo[];
   sagas: { nombre: string; entregas: Aparicion[] }[];
   indultos: Aparicion[];
@@ -105,7 +105,6 @@ export function getDatosConstitucion(): DatosConstitucion {
       titulos: total?.uniqueMovies ?? titulos.length,
       palabras: total?.totalWords ?? 0,
       lineas: total?.totalDialogues ?? 0,
-      comprension: comprension(total?.totalDialogues, total?.totalWords),
       ingles: {
         vista: suma(t => t.ingles.vista),
         repaso: suma(t => t.ingles.repaso),

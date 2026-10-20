@@ -15,32 +15,33 @@ import { MARCO, resumenPapeles } from '@/components/realeza/CartaReal';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 import CitaReal from '@/components/realeza/CitaReal';
 import { transicionArtista, transicionPoster } from '@/lib/transiciones';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 export type TituloEnPagina = TituloArtista & { tandas: number[]; fecha: string | null };
 export type Vecino = Pick<Artista, 'nombre' | 'foto' | 'tipo' | 'rango'>;
 type ConexionEnPagina = Vecino & { titulos: string[] };
 
 // Colores de cada grupo: oro para los Reyes Supremos, rosa para los Amores Platónicos.
-const ACENTO: Record<IdGrupo, { texto: string; titulo: string; boton: string; resplandor: string; anillo: string }> = {
+const ACENTO: Record<IdGrupo, { texto: string; titulo: string; boton: string; anillo: string }> = {
   supremos: {
     texto: 'text-amber-300', titulo: 'from-amber-100 via-amber-300 to-yellow-600',
     boton: 'bg-amber-400 hover:bg-amber-300 text-gray-950 shadow-amber-900/50',
-    resplandor: 'rgba(251,191,36,0.20)', anillo: 'border-amber-300',
+    anillo: 'border-amber-300',
   },
   platonicos: {
     texto: 'text-pink-300', titulo: 'from-pink-200 via-rose-400 to-fuchsia-500',
     boton: 'bg-pink-500 hover:bg-pink-400 text-white shadow-pink-900/50',
-    resplandor: 'rgba(236,72,153,0.20)', anillo: 'border-pink-400',
+    anillo: 'border-pink-400',
   },
   reinas: {
     texto: 'text-pink-300', titulo: 'from-pink-200 to-purple-400',
     boton: 'bg-purple-600 hover:bg-purple-500 text-white shadow-purple-900/50',
-    resplandor: 'rgba(192,132,252,0.16)', anillo: 'border-pink-300/60',
+    anillo: 'border-pink-300/60',
   },
   reyes: {
     texto: 'text-amber-300', titulo: 'from-amber-200 to-sky-400',
     boton: 'bg-sky-600 hover:bg-sky-500 text-white shadow-sky-900/50',
-    resplandor: 'rgba(56,189,248,0.14)', anillo: 'border-amber-300/60',
+    anillo: 'border-amber-300/60',
   },
 };
 
@@ -76,7 +77,7 @@ function Retrato({ a, tamano = 'w-14 h-14' }: { a: Vecino; tamano?: string }) {
 }
 
 export default function ArtistaClient({
-  artista, stats, tandas, primeraTanda, conexiones, totalVocabulario, comprensionProyecto, anterior, siguiente, hoy, proximos,
+  artista, stats, tandas, primeraTanda, conexiones, totalVocabulario, anterior, siguiente, hoy, proximos,
 }: {
   artista: Artista;
   stats: Omit<EstadisticasArtista, 'titulos'> & { titulos: TituloEnPagina[] };
@@ -85,7 +86,6 @@ export default function ArtistaClient({
   conexiones: ConexionEnPagina[];
   totalVocabulario: number;
   proximos: Proximo[];
-  comprensionProyecto: number | null;
   anterior: Vecino | null;
   siguiente: Vecino | null;
   hoy: string;
@@ -120,13 +120,13 @@ export default function ArtistaClient({
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans relative overflow-x-hidden pb-20">
-      {/* Fondo: su foto difuminada y el resplandor de su grupo */}
+      {/* Fondo: su foto difuminada y la aurora de su grupo */}
       <div aria-hidden className="fixed inset-0 pointer-events-none">
         {artista.foto && (
           <img src={tmdb(artista.foto, 'w500')} alt="" className="w-full h-full object-cover object-top opacity-25 blur-3xl scale-110" />
         )}
         <div className="absolute inset-0 bg-linear-to-b from-gray-950/40 via-gray-950/80 to-gray-950" />
-        <div className="absolute inset-0" style={{ background: `radial-gradient(ellipse at top, ${acento.resplandor}, transparent 60%)` }} />
+        <FondoAnimado paleta={grupo} fuerza={20} className="absolute inset-0" />
       </div>
 
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
@@ -152,7 +152,7 @@ export default function ArtistaClient({
             <p className={`inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/40 backdrop-blur-sm px-3 py-1 text-xs uppercase tracking-[0.25em] font-semibold ${acento.texto}`}>
               <Icono size={14} fill={grupo === 'platonicos' ? 'currentColor' : 'none'} aria-hidden /> {NOMBRE_RANGO[grupo]}
             </p>
-            <h1 className={`mt-4 font-real text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] bg-linear-to-r ${acento.titulo} bg-clip-text text-transparent drop-shadow-lg`}>
+            <h1 className={`mt-4 font-real text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] bg-linear-to-r ${acento.titulo} bg-clip-text text-transparent drop-shadow-lg brillo-titulo`}>
               {artista.nombre}
             </h1>
             <Cumpleanos artista={artista} hoy={hoyNavegador} className="justify-center md:justify-start mt-4 text-sm" />
@@ -199,8 +199,7 @@ export default function ArtistaClient({
               <Cifra icono={Film} etiqueta={stats.titulos.length === 1 ? 'Título' : 'Títulos'} valor={miles(stats.titulos.length)} color="text-sky-300" />
               <Cifra icono={BookOpen} etiqueta="Palabras" valor={miles(stats.palabras)} color="text-pink-400" />
               <Cifra icono={MessageSquare} etiqueta="Líneas" valor={miles(stats.lineas)} color="text-emerald-400" />
-              <Cifra icono={Sparkles} etiqueta="Comprensión" valor={porcentaje(stats.comprension, 1)} color="text-cyan-400"
-                nota={comprensionProyecto !== null ? `Proyecto: ${porcentaje(comprensionProyecto, 1)}` : undefined} />
+              <Cifra icono={Sparkles} etiqueta="Comprensión" valor={porcentaje(stats.comprension, 1)} color="text-cyan-400" />
               <Cifra icono={GraduationCap} etiqueta="Nivel MCER" valor={stats.nivel ?? '—'} color="text-purple-400" />
               <Cifra icono={Clock} etiqueta="En pantalla" valor={duracion(stats.minutos)} color="text-amber-300" />
             </dl>

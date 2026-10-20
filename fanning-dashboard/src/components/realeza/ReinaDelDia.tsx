@@ -62,7 +62,7 @@ export default function ReinaDelDia({ candidatos, hoy }: { candidatos: Candidato
       <div aria-hidden className="absolute inset-0">
         {elegido.foto && <img src={tmdb(elegido.foto, 'w185')} alt="" className="w-full h-full object-cover object-top opacity-30 blur-2xl scale-125" />}
         <div className="absolute inset-0 bg-linear-to-r from-gray-950/95 via-gray-950/75 to-gray-950/40" />
-        <div className="absolute inset-0" style={{ background: `radial-gradient(ellipse at left, ${estilo.resplandor}, transparent 60%)` }} />
+        <div className="absolute inset-0 respirar" style={{ background: `radial-gradient(ellipse at left, ${estilo.resplandor}, transparent 60%)` }} />
       </div>
       {cumple && <Confeti />}
 
@@ -80,7 +80,7 @@ export default function ReinaDelDia({ candidatos, hoy }: { candidatos: Candidato
             {cumple ? <Cake size={14} aria-hidden /> : <Icono size={14} fill={grupo === 'platonicos' ? 'currentColor' : 'none'} aria-hidden />}
             {cumple ? `${titular} · ¡De cumpleaños!` : titular}
           </p>
-          <h2 className={`mt-1 font-real text-3xl sm:text-4xl md:text-5xl font-bold leading-tight bg-linear-to-r ${estilo.nombre} bg-clip-text text-transparent truncate pb-1`}>
+          <h2 className={`mt-1 font-real text-3xl sm:text-4xl md:text-5xl font-bold leading-tight bg-linear-to-r ${estilo.nombre} bg-clip-text text-transparent truncate pb-1 brillo-titulo`}>
             {elegido.nombre}
           </h2>
           <p className="text-gray-400 text-sm mt-1">{NOMBRE_RANGO[grupo]} del Proyecto Fanning</p>

@@ -50,6 +50,106 @@ body {
   30% { filter: blur(3px); }
 }
 
+/* Fondo de cada sección (ver FondoAnimado.tsx): manchas de color que derivan, grano y viñeta.
+   Las manchas son degradados radiales, no filter: blur, y solo se mueve transform: cuesta poco.
+   Estas animaciones lentas avanzan a saltos (steps) de menos de un píxel: no se nota y el navegador
+   no tiene que dibujar 60 veces por segundo algo que casi no se mueve. */
+.fondo-animado {
+  pointer-events: none;
+  overflow: hidden;
+}
+.aurora {
+  position: absolute;
+  width: 75vmax;
+  height: 75vmax;
+  border-radius: 9999px;
+  background: radial-gradient(circle, color-mix(in oklab, var(--tono) var(--fuerza), transparent) 0%, transparent 65%);
+  will-change: transform;
+  animation: derivaAurora steps(400) infinite alternate;
+}
+@keyframes derivaAurora {
+  from { transform: translate(0, 0) scale(1); }
+  to { transform: translate(var(--dx), var(--dy)) scale(1.15); }
+}
+.grano {
+  position: absolute;
+  inset: 0;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+.vineta {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, transparent 50%, color-mix(in oklab, var(--background) 75%, transparent));
+}
+
+/* Títulos con degradado: el color recorre las letras de ida y vuelta, muy despacio */
+@keyframes brilloTitulo {
+  from { background-position: 0% 50%; }
+  to { background-position: 100% 50%; }
+}
+.brillo-titulo {
+  background-size: 200% auto;
+  animation: brilloTitulo 10s steps(100) infinite alternate;
+}
+
+/* Tarjetas de métricas: al pasar el mouse, un arco de luz da vueltas por el borde (color en --tono-borde).
+   @property deja animar el ángulo; el giro solo corre con el mouse encima. */
+@property --angulo {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+@keyframes girarBorde {
+  to { --angulo: 360deg; }
+}
+.borde-giratorio { position: relative; }
+.borde-giratorio::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  padding: 1px;
+  border-radius: inherit;
+  background: conic-gradient(from var(--angulo), transparent 0 55%, var(--tono-borde) 80%, transparent 100%);
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s;
+  animation: girarBorde 4s linear infinite paused;
+}
+.borde-giratorio:hover::before {
+  opacity: 1;
+  animation-play-state: running;
+}
+
+/* Aparecer al entrar en pantalla con el scroll. Donde no hay animation-timeline queda la entrada
+   de siempre (animate-fade-in) o nada; lo que ya está a la vista al cargar se muestra entero. */
+@keyframes revelar {
+  from { opacity: 0; transform: translateY(24px) scale(0.98); }
+}
+@supports (animation-timeline: view()) {
+  .revelar {
+    opacity: 1;
+    animation: revelar linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 180px;   /* distancia fija: los bloques largos no quedan a medias */
+  }
+}
+
+/* Reloj del inicio: un resplandor púrpura que late */
+@keyframes latirResplandor {
+  0%, 100% { box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.3), 0 0 0 0 transparent; }
+  50% { box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.3), 0 0 26px -4px color-mix(in oklab, var(--color-purple-500) 40%, transparent); }
+}
+.resplandor-latiendo { animation: latirResplandor 5s steps(50) infinite; }
+
+/* Ficha de película o serie: el resplandor del color del póster respira */
+@keyframes respirar {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+.respirar { animation: respirar 12s ease-in-out infinite; }
+
 /* Salón del Trono: destellos dorados que suben y pétalos rosas que caen (ver Particulas.tsx) */
 @keyframes subirChispa {
   0% { transform: translateY(0) scale(0.6); opacity: 0; }
@@ -144,6 +244,9 @@ body {
   .latido-real { animation: none; }
   .confeti { display: none; }
   .desfile { animation: none; }
+  .aurora, .respirar, .brillo-titulo, .resplandor-latiendo { animation: none; }
+  .borde-giratorio::before { animation: none; }
+  .revelar { animation: none; opacity: 1; }
   .chispa, .petalo { display: none; }
   .titilar { animation: none; opacity: 0.35; }
   ::view-transition-group(*),
@@ -426,3 +529,6 @@ body {
   --color-taupe-900: oklch(96% 0.002 17.2);
   --color-taupe-950: oklch(98.6% 0.002 67.8);
 }
+/* Sobre fondo claro el color pesa más: las manchas y el grano se aflojan */
+:root[data-tema="claro"] .aurora { opacity: 0.65; }
+:root[data-tema="claro"] .grano { opacity: 0.03; }

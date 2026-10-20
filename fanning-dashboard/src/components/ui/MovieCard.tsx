@@ -56,6 +56,13 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     );
 }
 
+// El foco de luz sigue al mouse (ver .reflejo-real en globals.css)
+function moverFoco(e: React.PointerEvent<HTMLDivElement>) {
+    const r = e.currentTarget.getBoundingClientRect();
+    e.currentTarget.style.setProperty('--mx', `${((e.clientX - r.left) / r.width) * 100}%`);
+    e.currentTarget.style.setProperty('--my', `${((e.clientY - r.top) / r.height) * 100}%`);
+}
+
 export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza, transicion, color }: MovieCardProps) {
     const validDialogues = dialogues && dialogues > 0 ? dialogues : 0;
     
@@ -70,7 +77,7 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
         else if (lv.includes('C1') || lv.includes('C2')) levelColors = "bg-purple-500/20 text-purple-300 border-purple-500/30";
     }
     return (
-        <div className="group relative hover:scale-105 transition-transform duration-300" style={{ '--tono': color ?? 'var(--color-purple-500)' } as React.CSSProperties}>
+        <div className="group relative revelar hover:scale-105 transition-transform duration-300" onPointerMove={moverFoco} style={{ '--tono': color ?? 'var(--color-purple-500)' } as React.CSSProperties}>
         <Link href={href} className="relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg group-hover:border-(--tono) group-hover:shadow-[0_0_24px_-4px_var(--tono)] transition-[border-color,box-shadow] duration-300 cursor-pointer block">
             {posterUrl ? (
                 <ViewTransition name={transicion} share="morph" default="none">
@@ -84,6 +91,7 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
             )}
 
             <div className="absolute inset-0 bg-linear-to-t from-black/100 via-black/50 to-transparent opacity-90 transition-opacity duration-300"></div>
+            <div aria-hidden className="absolute inset-0 pointer-events-none reflejo-real opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
 
             {level && (
                 <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">

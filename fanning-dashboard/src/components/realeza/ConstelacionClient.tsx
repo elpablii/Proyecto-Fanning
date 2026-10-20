@@ -7,6 +7,7 @@ import { miles } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
 import { ALTO, ANCHO, type Estrella, type Hilo } from '@/lib/constelacion';
 import { grupoDe, hrefArtista, NOMBRE_RANGO } from '@/lib/realeza';
+import FondoAnimado from '@/components/ui/FondoAnimado';
 
 // Dos colores nada más (validados para daltonismo sobre el fondo oscuro): oro para los reyes y
 // rosa para las reinas. El rango superior va aparte, con un anillo doble y su ícono.
@@ -50,8 +51,8 @@ export default function ConstelacionClient({ estrellas, hilos }: { estrellas: Es
   const solitarias = estrellas.filter(e => !vecinos.has(e.nombre));
 
   return (
-    <div className="min-h-screen bg-gray-950 text-gray-100 font-sans">
-      <div aria-hidden className="pointer-events-none fixed inset-0 bg-[radial-gradient(ellipse_at_top,rgba(99,102,241,0.14),transparent_60%),radial-gradient(ellipse_at_bottom_left,rgba(236,72,153,0.08),transparent_50%)]" />
+    <div className="min-h-screen text-gray-100 font-sans">
+      <FondoAnimado paleta="constelacion" />
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
         <Link href="/realeza" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al Salón del Trono
@@ -59,7 +60,7 @@ export default function ConstelacionClient({ estrellas, hilos }: { estrellas: Es
 
         <header className="text-center mb-8">
           <Sparkles size={34} className="mx-auto text-indigo-300 mb-2" aria-hidden />
-          <h1 className="font-real text-4xl md:text-5xl font-bold bg-linear-to-r from-indigo-200 via-pink-300 to-amber-200 bg-clip-text text-transparent">
+          <h1 className="font-real text-4xl md:text-5xl font-bold bg-linear-to-r from-indigo-200 via-pink-300 to-amber-200 bg-clip-text text-transparent brillo-titulo">
             La Constelación Real
           </h1>
           <p className="text-gray-400 mt-3 max-w-2xl mx-auto">
