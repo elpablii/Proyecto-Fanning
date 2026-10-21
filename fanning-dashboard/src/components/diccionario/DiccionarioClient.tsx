@@ -7,6 +7,8 @@ import { miles } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
 import { hrefArtista, hrefTitulo, type Artista } from '@/lib/realeza';
 import type { Diccionario, PalabraDiccionario } from '@/lib/data';
+import { hrefPalabra, slugsDiccionario } from '@/lib/diccionario';
+import { COLOR_GRUPO, ETIQUETAS, GRUPOS_ETIQUETA, OTRO_IDIOMA, etiqueta, tieneEtiqueta, type GrupoEtiqueta } from '@/lib/etiquetas';
 import FlashcardViewer from '@/components/ui/FlashcardViewer';
 import FondoAnimado from '@/components/ui/FondoAnimado';
 
@@ -42,18 +44,30 @@ const fechaCorta = (iso: string) => iso.split('-').reverse().join('/');
 interface Entrada {
   i: number;       // posición en el diccionario (clave única)
   p: PalabraDiccionario;
+  slug: string;    // su página: /diccionario/<slug>
   texto: string;   // palabra, traducción y otras formas, en plano, para buscar
   letra: string;
 }
 
-function Tarjeta({ p, titulos, artistas, tandas, destacada = false }: {
+// Las opciones del filtro "Tipo": las etiquetas por grupo, y todos los idiomas juntos en "Otro idioma".
+const OPCIONES_TIPO = (Object.keys(GRUPOS_ETIQUETA) as GrupoEtiqueta[]).map(g => ({
+  grupo: GRUPOS_ETIQUETA[g],
+  opciones: [
+    ...Object.entries(ETIQUETAS).filter(([, e]) => e.grupo === g).map(([clave, e]) => [clave, e.nombre]),
+    ...(g === 'idioma' ? [['idioma', OTRO_IDIOMA.nombre]] : []),
+  ] as [string, string][],
+}));
+
+function Tarjeta({ p, slug, titulos, artistas, tandas, onEtiqueta, destacada = false }: {
   p: PalabraDiccionario;
+  slug: string;
   titulos: TituloDiccionario[];
   artistas: Map<string, ArtistaDiccionario>;
   tandas: Diccionario['tandas'];
+  onEtiqueta: (clave: string) => void;
   destacada?: boolean;
 }) {
-  const [palabra, traduccion, veces, indices, tanda, otras] = p;
+  const [palabra, traduccion, veces, indices, tanda, otras, etiquetas, contexto] = p;
   const [abierta, setAbierta] = useState(false);
   const enTitulos = indices.map(i => titulos[i]);
   const visibles = abierta ? enTitulos : enTitulos.slice(0, 3);
@@ -66,8 +80,24 @@ function Tarjeta({ p, titulos, artistas, tandas, destacada = false }: {
       : 'border-white/10 bg-gray-900/60 hover:border-white/25'}`}>
       <header className="flex items-start justify-between gap-3">
         <div className="min-w-0">
-          <h3 className={`font-extrabold text-white leading-tight break-words ${destacada ? 'text-2xl' : 'text-lg'}`}>{palabra}</h3>
+          <h3 className={`font-extrabold text-white leading-tight break-words ${destacada ? 'text-2xl' : 'text-lg'}`}>
+            <Link href={hrefPalabra(slug)} className="hover:text-emerald-200 hover:underline decoration-emerald-400/50 underline-offset-4">{palabra}</Link>
+          </h3>
           <p className="text-gray-300 mt-0.5 break-words">{traduccion}</p>
+          {(etiquetas?.length || contexto) && (
+            <div className="flex flex-wrap items-center gap-1.5 mt-2">
+              {etiquetas?.map(e => {
+                const et = etiqueta(e);
+                return (
+                  <button key={e} onClick={() => onEtiqueta(e.startsWith('idioma-') ? 'idioma' : e)} title={et.definicion}
+                    className={`rounded-full border px-2 py-0.5 text-[11px] font-semibold hover:brightness-125 transition ${COLOR_GRUPO[et.grupo]}`}>
+                    {et.nombre}
+                  </button>
+                );
+              })}
+              {contexto && <span className="text-xs text-gray-400 italic">({contexto})</span>}
+            </div>
+          )}
         </div>
         {veces > 1 && (
           <span title={`Anotada ${veces} veces`} className="shrink-0 inline-flex items-center gap-1 rounded-full bg-purple-500/15 border border-purple-400/30 text-purple-200 text-xs font-bold px-2 py-0.5">
@@ -147,9 +177,10 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
   const [orden, setOrden] = useState<Orden>('az');
   const [ciclo, setCiclo] = useState('');
   const [artista, setArtista] = useState('');
+  const [tipo, setTipo] = useState('');
   // Cuántas se muestran, ligado a los filtros con que se pidió: al cambiar un filtro se vuelve a la primera página.
   const [pagina, setPagina] = useState({ firma: '', cantidad: POR_PAGINA });
-  const [sorpresa, setSorpresa] = useState<PalabraDiccionario | null>(null);
+  const [sorpresa, setSorpresa] = useState<Entrada | null>(null);
   const [tarjetas, setTarjetas] = useState<{ word: string; translation: string }[] | null>(null);
   const termino = useDeferredValue(busqueda);
 
@@ -164,9 +195,29 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
   }, [intento]);
 
   const porNombre = useMemo(() => new Map(artistas.map(a => [a.nombre, a])), [artistas]);
-  const entradas: Entrada[] = useMemo(() => (datos?.palabras ?? []).map((p, i) => ({
-    i, p, texto: plano([p[0], p[1], ...(p[5] ?? [])].join(' ')), letra: letraDe(p[0]),
-  })), [datos]);
+  // El glosario de la Constitución enlaza aquí con ?etiqueta=verbo: se aplica al abrir.
+  useEffect(() => {
+    const desdeUrl = new URLSearchParams(window.location.search).get('etiqueta');
+    if (desdeUrl) setTipo(desdeUrl); // eslint-disable-line react-hooks/set-state-in-effect -- la URL solo existe en el navegador
+  }, []);
+
+  const entradas: Entrada[] = useMemo(() => {
+    const palabras = datos?.palabras ?? [];
+    const slugs = slugsDiccionario(palabras);
+    return palabras.map((p, i) => ({
+      i, p, slug: slugs[i], texto: plano([p[0], p[1], ...(p[5] ?? [])].join(' ')), letra: letraDe(p[0]),
+    }));
+  }, [datos]);
+  // Cuántas palabras tiene cada opción del filtro "Tipo".
+  const porTipo = useMemo(() => {
+    const cuenta = new Map<string, number>();
+    for (const e of entradas) {
+      for (const clave of new Set((e.p[6] ?? []).map(x => (x.startsWith('idioma-') ? 'idioma' : x)))) {
+        cuenta.set(clave, (cuenta.get(clave) ?? 0) + 1);
+      }
+    }
+    return cuenta;
+  }, [entradas]);
   const ciclos = useMemo(() => [...new Set(Object.values(datos?.tandas ?? {}).map(([, c]) => c))].sort(), [datos]);
 
   const filtradas = useMemo(() => {
@@ -177,6 +228,7 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
       (!q || e.texto.includes(q))
       && (!letra || e.letra === letra)
       && (!ciclo || (e.p[4] !== null && tandas[e.p[4]]?.[1] === ciclo))
+      && (!tipo || tieneEtiqueta(e.p[6], tipo))
       && (!deArtista || e.p[3].some(i => deArtista.has(i))));
     // Sin tanda va al final en los dos órdenes por tanda.
     const t = (e: Entrada, sin: number) => e.p[4] ?? sin;
@@ -186,16 +238,17 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
     // Al buscar, primero las palabras que empiezan con lo buscado.
     if (q && orden === 'az') lista.sort((a, b) => Number(!plano(a.p[0]).startsWith(q)) - Number(!plano(b.p[0]).startsWith(q)));
     return lista;
-  }, [entradas, termino, letra, ciclo, artista, orden, titulos, datos]);
+  }, [entradas, termino, letra, ciclo, artista, tipo, orden, titulos, datos]);
 
-  const firma = [termino, letra, ciclo, artista, orden].join('|');
+  const firma = [termino, letra, ciclo, artista, tipo, orden].join('|');
   const mostradas = pagina.firma === firma ? pagina.cantidad : POR_PAGINA;
 
-  const hayFiltros = !!(busqueda || letra || ciclo || artista || orden !== 'az');
-  const limpiar = () => { setBusqueda(''); setLetra(null); setCiclo(''); setArtista(''); setOrden('az'); };
+  const hayFiltros = !!(busqueda || letra || ciclo || artista || tipo || orden !== 'az');
+  const limpiar = () => { setBusqueda(''); setLetra(null); setCiclo(''); setArtista(''); setTipo(''); setOrden('az'); };
+  const porEtiqueta = (clave: string) => { setTipo(clave); window.scrollTo({ top: 0, behavior: 'smooth' }); };
   const alAzar = () => {
     const lista = filtradas.length ? filtradas : entradas;
-    if (lista.length) setSorpresa(lista[Math.floor(Math.random() * lista.length)].p);
+    if (lista.length) setSorpresa(lista[Math.floor(Math.random() * lista.length)]);
   };
   const repasar = () => setTarjetas(filtradas.map(e => ({ word: e.p[0], translation: e.p[1] })));
 
@@ -244,7 +297,7 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
               <input type="search" value={busqueda} onChange={e => setBusqueda(e.target.value)}
                 placeholder="Buscar en inglés o en español…" className={`${CONTROL} w-full pl-10`} />
             </label>
-            <div className="grid grid-cols-2 sm:grid-cols-3 lg:flex gap-3">
+            <div className="grid grid-cols-2 lg:flex gap-3">
               <select value={orden} onChange={e => setOrden(e.target.value as Orden)} className={CONTROL} aria-label="Ordenar">
                 {Object.entries(ORDENES).map(([v, t]) => <option key={v} value={v}>{t}</option>)}
               </select>
@@ -252,7 +305,17 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
                 <option value="">Todos los ciclos</option>
                 {ciclos.map(c => <option key={c} value={c}>Ciclo {c}</option>)}
               </select>
-              <select value={artista} onChange={e => setArtista(e.target.value)} className={`${CONTROL} col-span-2 sm:col-span-1`} aria-label="Realeza">
+              <select value={tipo} onChange={e => setTipo(e.target.value)} className={CONTROL} aria-label="Tipo">
+                <option value="">Todos los tipos</option>
+                {OPCIONES_TIPO.map(g => (
+                  <optgroup key={g.grupo} label={g.grupo}>
+                    {g.opciones.filter(([clave]) => porTipo.has(clave) || clave === tipo).map(([clave, nombre]) => (
+                      <option key={clave} value={clave}>{nombre} ({miles(porTipo.get(clave) ?? 0)})</option>
+                    ))}
+                  </optgroup>
+                ))}
+              </select>
+              <select value={artista} onChange={e => setArtista(e.target.value)} className={CONTROL} aria-label="Realeza">
                 <option value="">Toda la Realeza</option>
                 {artistas.map(a => <option key={a.nombre} value={a.nombre}>{a.nombre}</option>)}
               </select>
@@ -310,7 +373,8 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
                 <button onClick={() => setSorpresa(null)} aria-label="Cerrar la palabra sorpresa"
                   className="absolute top-0 right-0 p-1 text-gray-500 hover:text-white"><X size={16} /></button>
                 <div className="max-w-xl">
-                  <Tarjeta key={sorpresa[0] + sorpresa[1]} p={sorpresa} titulos={titulos} artistas={porNombre} tandas={datos.tandas} destacada />
+                  <Tarjeta key={sorpresa.i} p={sorpresa.p} slug={sorpresa.slug} titulos={titulos} artistas={porNombre} tandas={datos.tandas}
+                    onEtiqueta={porEtiqueta} destacada />
                 </div>
               </div>
             )}
@@ -318,7 +382,7 @@ export default function DiccionarioClient({ titulos, artistas, distintas, anotac
             {filtradas.length ? (
               <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {filtradas.slice(0, mostradas).map(e => (
-                  <Tarjeta key={e.i} p={e.p} titulos={titulos} artistas={porNombre} tandas={datos.tandas} />
+                  <Tarjeta key={e.i} p={e.p} slug={e.slug} titulos={titulos} artistas={porNombre} tandas={datos.tandas} onEtiqueta={porEtiqueta} />
                 ))}
               </div>
             ) : (

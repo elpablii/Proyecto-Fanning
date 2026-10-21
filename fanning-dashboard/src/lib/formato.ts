@@ -18,3 +18,12 @@ export function duracion(minutos: number | null | undefined): string {
   if (!h) return `${m} min`;
   return m ? `${miles(h)} h ${m} min` : `${miles(h)} h`;
 }
+
+// Momento de un subtítulo, en segundos desde el comienzo: 1738 -> "28:58"; 7045 -> "1:57:25".
+export function minuto(segundo: number): string {
+  const h = Math.floor(segundo / 3600);
+  const m = Math.floor((segundo % 3600) / 60);
+  const s = segundo % 60;
+  const mm = h ? String(m).padStart(2, '0') : String(m);
+  return `${h ? `${h}:` : ''}${mm}:${String(s).padStart(2, '0')}`;
+}

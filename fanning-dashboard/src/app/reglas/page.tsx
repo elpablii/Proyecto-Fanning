@@ -3,10 +3,11 @@ import Link from 'next/link';
 import {
   ArrowLeft, ArrowUp, BookOpen, BookText, Calculator, CalendarDays, Check, ChevronRight, CircleHelp, Clapperboard,
   Clock, Crown, Eye, Film, Heart, Library, Lightbulb, ListChecks, MessageSquare, Ruler, ScrollText, ShieldAlert, Sparkles, Star,
-  Timer, X,
+  Tags, Timer, X,
 } from 'lucide-react';
 import IndiceSecciones, { type Seccion } from '@/components/reglas/IndiceSecciones';
 import CalculadoraComprension from '@/components/reglas/CalculadoraComprension';
+import GlosarioEtiquetas from '@/components/reglas/GlosarioEtiquetas';
 import { getDatosConstitucion, type Aparicion } from '@/lib/constitucion';
 import { agrupar } from '@/lib/realeza';
 import { getRealeza } from '@/lib/data';
@@ -28,6 +29,7 @@ const SECCIONES: Seccion[] = [
   { id: 'comprension', titulo: 'IV. Comprensión' },
   { id: 'metodologia', titulo: 'Metodología' },
   { id: 'realeza', titulo: 'La Realeza' },
+  { id: 'etiquetas', titulo: 'Etiquetas del Diccionario' },
   { id: 'glosario', titulo: 'Glosario' },
 ];
 
@@ -654,6 +656,14 @@ export default function ReglasPage() {
                 );
               })}
             </div>
+          </section>
+
+          {/* ---------- Etiquetas del Diccionario ---------- */}
+          <section id="etiquetas" className="scroll-mt-20 lg:scroll-mt-8 space-y-5">
+            <Encabezado etiqueta="Diccionario Fanning" titulo="Etiquetas del Diccionario" icono={Tags} color="emerald"
+              intro={<>La nota entre paréntesis de cada palabra anotada («Rely (verbo)», «Can I crash here? (pregunta no literal)»)
+                se convierte en etiquetas. Una palabra puede tener varias; cada una lleva al <Link href="/diccionario" className="text-emerald-300 hover:underline">Diccionario</Link> con ese filtro.</>} />
+            <GlosarioEtiquetas />
           </section>
 
           {/* ---------- Glosario ---------- */}

@@ -116,7 +116,9 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `citas.py` | Verifica las citas de la Realeza contra los subtítulos (`python fanning.py citas`, ver "Citas"). |
 | `colores.py` | El color de cada título, sacado de su póster, para teñir su ficha (`python fanning.py colores`). La ficha puede traer `"color"` a mano, que manda. |
 | `origen_tmdb.py` | Géneros y fecha de estreno de cada título, desde TMDB (`python fanning.py origen`). Quedan en la ficha (`"generos"`, `"estreno"`) y se pueden corregir a mano. Los usa "Géneros y Épocas". |
-| `diccionario.py` | El Diccionario Fanning (`data/diccionario.json`): todas las palabras, agrupadas como en `ranking.py`, con sus títulos y la tanda en que se aprendieron. Lo corren `actualizar` y `tandas`. |
+| `diccionario.py` | El Diccionario Fanning (`data/diccionario.json`): todas las palabras, agrupadas como en `ranking.py`, con sus títulos, la tanda en que se aprendieron y sus etiquetas; y `data/diccionario_frases.json`, la línea de los subtítulos de cada una (para la página de cada palabra). Lo corren `actualizar`, `tandas` y `contextos`. |
+| `etiquetas.py` | Convierte la nota del final de cada entrada ("(verbo)", "(frase no literal)") en etiquetas y contexto. Los nombres y definiciones están en `fanning-dashboard/src/lib/etiquetas.ts`. Solo, lista las notas que no reconoce: `python scripts/metricas/etiquetas.py`. |
+| `contexto.py` | La frase original: busca cada entrada del vocabulario en los subtítulos de su título (`data/contextos.json`). Lo corre `actualizar`; solo, relee todos los diálogos: `python fanning.py contextos`. |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
 | `test_conteo.py` / `test_nivel.py` | Pruebas: `python fanning.py probar`. |
 

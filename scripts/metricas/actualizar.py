@@ -10,7 +10,7 @@ Este comando:
   1. Valida las fichas; si alguna tiene un error, se detiene y explica qué corregir.
   2. Cuenta palabras/frases y líneas de diálogo con los criterios de Metodología/.
   3. Genera fanning-dashboard/data/: pelis/<título>.json, <año>/vocabulario_*.json,
-     manifest.json, realeza.json, timeline.json y diccionario.json. Todo eso es generado: no se edita a mano.
+     manifest.json, realeza.json, timeline.json, contextos.json y diccionario.json. Todo eso es generado: no se edita a mano.
   4. Borra los datos generados de títulos que ya no tienen ficha.
   5. Deja un reporte de qué cambió en scripts/metricas/reporte_ultima_actualizacion.md
 
@@ -34,6 +34,7 @@ import ranking  # noqa: E402
 import nivel as N  # noqa: E402
 import linea_tiempo  # noqa: E402
 import diccionario  # noqa: E402
+import contexto  # noqa: E402
 from conteo import (clave_episodio, contar_dialogos, leer_lineas, leer_vocabulario,  # noqa: E402
                     sin_repetidas)
 
@@ -177,8 +178,9 @@ def procesar_titulo(ficha, avisos):
                                 N.nivel_texto(max(e['nivel']['puntaje'] for e in con_nivel))]
         for k, e in episodios.items():
             e['fin_subtitulos'] = fin_subtitulos(por_ep_subs.get(k, []))
+        frases = contexto.contextos(subtitulos, [(k, x['word']) for k, e in episodios.items() for x in e['vocabulario']])
         return {'serie': True, 'episodios': episodios, 'repetidas': repetidas, 'creditos': creditos,
-                'nivel': general}
+                'nivel': general, 'contextos': frases}
 
     unicas, repetidas = sin_repetidas(entradas)
     anios = Counter(e['anio'] for e in unicas)
@@ -188,7 +190,8 @@ def procesar_titulo(ficha, avisos):
     return {'serie': False, 'vocabulario': unicas, 'dialogos': total_dialogos,
             'anio': anios.most_common(1)[0][0] if anios else None, 'repetidas': repetidas, 'creditos': creditos,
             'nivel': N.calcular_nivel([x['word'] for x in unicas], total_dialogos, subtitulos),
-            'fin_subtitulos': fin_subtitulos(subtitulos)}
+            'fin_subtitulos': fin_subtitulos(subtitulos),
+            'contextos': contexto.contextos(subtitulos, [(None, x['word']) for x in unicas])}
 
 
 def fin_subtitulos(subtitulos):
@@ -464,6 +467,7 @@ def main():
     escribir_json(os.path.join(DATA, 'manifest.json'), manifest)
     escribir_json(os.path.join(DATA, 'realeza.json'), F.cargar_realeza())
     linea_tiempo.generar()
+    contexto.escribir({t: r['contextos'] for t, r in resultados.items()})  # antes del diccionario, que lo usa
     diccionario.generar()
     reporte(manifest, viejo, avisos + avisos_fichas, resultados, borrados)
     a = manifest['all']

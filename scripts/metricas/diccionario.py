@@ -6,8 +6,17 @@ así las cifras coinciden: la suma de las veces de todas las palabras es el tota
 frases del inicio. Por cada palabra guarda en qué títulos apareció y en qué tanda se aprendió
 por primera vez (contenido/tandas.json; en las series, la tanda de ese episodio).
 
+La palabra se muestra sin la nota del final: la nota se convierte en etiquetas ("verbo",
+"frase-no-literal"...) y en un contexto ("en música"), ver etiquetas.py.
+
 Formato: {"titulos": [{title, type}], "tandas": {número: [fecha, ciclo]},
-          "palabras": [[palabra, traducción, veces, [índices de títulos], tanda | null, [otras formas]?]]}
+          "palabras": [[palabra, traducción, veces, [índices de títulos], tanda | null,
+                        [otras formas] | null, [etiquetas] | null, contexto | null]]}
+          (los null del final se omiten)
+
+Aparte, data/diccionario_frases.json: por cada palabra (mismo orden), las líneas de los subtítulos
+donde apareció, [[índice de título, episodio | null, segundo | null, texto]], sacadas de
+data/contextos.json (ver contexto.py). Solo lo lee la página de cada palabra.
 
 Lo corre `python fanning.py actualizar`; solo, es rápido: python scripts/metricas/diccionario.py
 """
@@ -20,6 +29,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from rutas import DATA  # noqa: E402
 import fichas as F  # noqa: E402
 import ranking  # noqa: E402
+import etiquetas as E  # noqa: E402
 import tandas as T  # noqa: E402
 from linea_tiempo import numero_y_parte  # noqa: E402
 
@@ -51,6 +61,9 @@ def generar():
     manifest = _leer(os.path.join(DATA, 'manifest.json'), {})
     lista = (manifest.get('all') or {}).get('movieList', [])
     primera = primeras_tandas()
+    # (título, episodio, palabra) -> [segundo, texto]
+    frases_de = {(t, ep, w): [seg, txt] for t, lista_t in _leer(os.path.join(DATA, 'contextos.json'), {}).items()
+                 for ep, w, seg, txt in lista_t}
 
     titulos, items, cuando = [], [], []
     for n, m in enumerate(lista):
@@ -61,7 +74,7 @@ def generar():
         else:
             entradas = [(v, None) for v in datos.get('vocabulary') or []]
         for v, codigo in entradas:
-            items.append({**v, 'n': n})
+            items.append({**v, 'n': n, 'ep': codigo})
             # Sin tanda (un título que aún no tiene fecha): solo se sabe su año.
             cuando.append(primera.get((m['title'], codigo)) or primera.get((m['title'], None))
                           or (None, None, (m.get('years') or [None])[0]))
@@ -71,7 +84,7 @@ def generar():
     for k, g in enumerate(grupos):
         por_grupo[g].append(k)
 
-    palabras, tandas = [], {}
+    palabras, frases, tandas = [], [], {}
     for idx in por_grupo.values():
         palabra, traduccion = ranking.representante(Counter(items[k]['word'] for k in idx),
                                                     Counter(items[k]['translation'] for k in idx))
@@ -86,13 +99,31 @@ def generar():
         otras = sorted({f"{items[k]['word']}: {items[k]['translation']}" for k in idx} - {f'{palabra}: {traduccion}'})
         if tanda is not None:
             tandas[tanda] = [fecha, anio]
+        limpia, _, contexto = E.separar(palabra)
+        # Las etiquetas de todas las formas con que se anotó (una pudo decir "verbo" y otra no).
+        etiquetas = sorted({e for k in idx for e in E.separar(items[k]['word'])[1]}, key=E.ORDEN.index)
         # En listas y no en objetos: son ~28.000 palabras y así el archivo pesa bastante menos.
-        palabras.append([palabra, traduccion, len(idx), vistos, tanda] + ([otras] if otras else []))
-    palabras.sort(key=lambda p: ranking.base(p[0]))
+        fila = [limpia, traduccion, len(idx), vistos, tanda, otras or None, etiquetas or None, contexto]
+        while fila[-1] is None:
+            fila.pop()
+        # Una línea por anotación (película o episodio), en el orden en que se aprendió.
+        lineas = []
+        for k in orden:
+            it = items[k]
+            f = frases_de.get((titulos[it['n']]['title'], it['ep'], it['word']))
+            if f and [it['n'], it['ep']] not in [x[:2] for x in lineas]:
+                lineas.append([it['n'], it['ep']] + f)
+        palabras.append(fila)
+        frases.append(lineas)
+    orden_final = sorted(range(len(palabras)), key=lambda i: ranking.base(palabras[i][0]))
+    palabras = [palabras[i] for i in orden_final]
+    frases = [frases[i] for i in orden_final]
 
     salida = {'titulos': titulos, 'tandas': tandas, 'palabras': palabras}
     with open(os.path.join(DATA, 'diccionario.json'), 'w', encoding='utf-8') as f:
         json.dump(salida, f, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(DATA, 'diccionario_frases.json'), 'w', encoding='utf-8') as f:
+        json.dump(frases, f, ensure_ascii=False, separators=(',', ':'))
     return salida
 
 

@@ -80,6 +80,8 @@ Ideas para mostrarlos:
 4. OTRAS IDEAS PARA LA PÁGINA
 ============================================================
 - Flashcards con repetición espaciada y repaso diario mezclando títulos.
+  [EN PAUSA el 21/10/2026: todo lo que guarde qué palabras sé y cuáles no
+  espera a decidir si la página tendrá backend o cuentas de usuario]
 - Modo quiz: una línea del diálogo con una palabra marcada y opciones de
   significado.
 - Palabra en contexto: mostrar la frase de los subtítulos donde apareció.
@@ -133,3 +135,37 @@ Ideas para mostrarlos:
    Taylor Swift, Michael Jackson, etc., de realeza_manual), cada una con su
    título, artista y enlace para escucharla.
    [DESCARTADA el 21/10/2026]
+
+============================================================
+6. IDEAS PARA EL DICCIONARIO  (anotadas el 21/10/2026)
+============================================================
+Nada de esto guarda qué palabras sé y cuáles no (ver la nota de la sección 4).
+1. Etiquetas en vez de paréntesis y filtro por tipo.
+   [HECHO el 21/10/2026: la nota del final ("(verbo)", "(frase no literal)")
+   pasa a etiquetas por grupo (qué es, cómo se traduce, registro, variante e
+   idioma) más un contexto en cursiva ("en música"). Filtro "Tipo" en el
+   diccionario y glosario "Etiquetas del Diccionario" en la Constitución.
+   Lo hace scripts/metricas/etiquetas.py; nombres y definiciones en
+   src/lib/etiquetas.ts]
+2. Palabras sueltas, phrasal verbs o frases: detectar los phrasal verbs por la
+   partícula (up, down, out, through...) aunque la nota no lo diga.
+3. La frase original: la línea de los subtítulos donde apareció cada palabra.
+   [HECHO el 21/10/2026: scripts/metricas/contexto.py, que corre dentro de
+   "actualizar" o solo con "python fanning.py contextos". Encuentra el 91 %;
+   lo demás son erratas o frases resumidas]
+4. Línea de tiempo con todas las veces que apareció una palabra repetida.
+5. Página por palabra (/diccionario/creepy).
+   [HECHO el 21/10/2026: frases con título, episodio y minuto, otros
+   significados, cómo quedó anotada, la Realeza, relacionadas y
+   anterior/siguiente]
+6. Las que volvieron: palabras anotadas de nuevo en una tanda posterior.
+7. Hitos: la primera palabra, la 1.000, la 10.000, la 20.000.
+8. Exclusivas de un título o de un artista.
+9. Palabra del día (calculada con la fecha, sin guardar nada).
+10. Quiz de opciones con distractores del mismo tipo.
+11. ¿De qué título es? (la palabra y cuatro pósters).
+12. Completa la frase (con la frase original).
+13. Filtros en la URL, para compartir y para el botón Atrás.
+14. Pronunciación con la voz del navegador.
+15. Exportar lo filtrado a CSV o Anki.
+16. Búsqueda tolerante a errores ("creapy" encuentra "creepy").

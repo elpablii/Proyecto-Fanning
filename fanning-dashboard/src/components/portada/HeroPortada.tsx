@@ -36,7 +36,7 @@ export default function HeroPortada({ posters, onBuscar }: { posters: string[]; 
       <div className="relative px-5 py-8 sm:px-8 sm:py-12 md:px-12 md:py-16">
         <RelojActual className="mb-6 lg:mb-0 lg:absolute lg:top-8 lg:right-8" />
         <p className="text-[11px] sm:text-xs uppercase tracking-[0.3em] font-semibold text-purple-300/90">
-          Inglés real, con películas y series · desde 2023
+          Aprendiendo inglés con series y películas interesantes · desde 2023
         </p>
         <h1 className="mt-3 text-5xl sm:text-6xl md:text-7xl font-black tracking-tight leading-[0.95] bg-linear-to-r from-purple-300 via-pink-400 to-rose-400 bg-clip-text text-transparent pb-1 brillo-titulo">
           Proyecto Fanning

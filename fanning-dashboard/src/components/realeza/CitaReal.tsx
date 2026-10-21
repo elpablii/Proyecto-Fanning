@@ -1,15 +1,7 @@
 import Link from 'next/link';
 import { Quote } from 'lucide-react';
 import type { CitaArtista } from '@/lib/realeza';
-
-// 1738 -> "28:58"; 7045 -> "1:57:25".
-function minuto(segundo: number): string {
-  const h = Math.floor(segundo / 3600);
-  const m = Math.floor((segundo % 3600) / 60);
-  const s = segundo % 60;
-  const mm = h ? String(m).padStart(2, '0') : String(m);
-  return `${h ? `${h}:` : ''}${mm}:${String(s).padStart(2, '0')}`;
-}
+import { minuto } from '@/lib/formato';
 
 // Dónde se dice: "Barbie · 13:36" o "Euphoria · S01E01 · 0:41".
 export function lugarCita(cita: CitaArtista): string {

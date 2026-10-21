@@ -110,7 +110,9 @@ export function getTitulo(titulo: string, tipo: 'movie' | 'series'): { movieData
 // ranking de palabras más repetidas, así la suma de las veces da el total de palabras del inicio.
 // Cada palabra es una lista (pesa bastante menos que un objeto en ~28.000 palabras):
 // [palabra, traducción, veces, índices de títulos, tanda en que se aprendió o null, otras formas?].
-export type PalabraDiccionario = [string, string, number, number[], number | null, string[]?];
+// [palabra (sin la nota), traducción, veces, índices de títulos, tanda, otras formas, etiquetas, contexto]
+// Los últimos tres son opcionales (null o ausentes). Ver scripts/metricas/diccionario.py.
+export type PalabraDiccionario = [string, string, number, number[], number | null, (string[] | null)?, (string[] | null)?, (string | null)?];
 
 export interface Diccionario {
   titulos: { title: string; type: 'movie' | 'series' }[];
@@ -120,6 +122,14 @@ export interface Diccionario {
 
 export function getDiccionario(): Diccionario {
   return leer<Diccionario>('diccionario.json') ?? { titulos: [], tandas: {}, palabras: [] };
+}
+
+// Por cada palabra del diccionario (mismo orden), las líneas de los subtítulos donde apareció:
+// [índice de título, episodio, segundo, texto]. Las genera scripts/metricas/contexto.py.
+export type FraseDiccionario = [number, string | null, number | null, string];
+
+export function getFrasesDiccionario(): FraseDiccionario[][] {
+  return leer<FraseDiccionario[][]>('diccionario_frases.json') ?? [];
 }
 
 // Línea de tiempo: la genera scripts/metricas/linea_tiempo.py a partir de contenido/tandas.json

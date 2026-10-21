@@ -9,6 +9,7 @@
   python fanning.py ids [--guardar]                busca en TMDB el id de las fichas que no lo tienen
   python fanning.py realeza [--rehacer]            fotos de la Realeza y en qué títulos participa cada artista (TMDB)
   python fanning.py citas                          verifica las citas de la Realeza contra los subtítulos
+  python fanning.py contextos                      la frase original de cada palabra del diccionario (relee los diálogos)
   python fanning.py colores [--rehacer]            el color de cada título, sacado de su póster
   python fanning.py origen [--rehacer]             géneros y fecha de estreno de cada título (TMDB)
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
@@ -135,6 +136,13 @@ def cmd_citas(args):
     correr(citas)
 
 
+def cmd_contextos(args):
+    import contexto
+    import diccionario
+    correr(contexto)
+    correr(diccionario)  # el diccionario toma de ahí la frase de cada palabra
+
+
 def cmd_origen(args):
     import origen_tmdb
     correr(origen_tmdb, *(['--rehacer'] if args.rehacer else []))
@@ -239,6 +247,9 @@ def main():
 
     p = sub.add_parser('citas', help='verifica las citas de la Realeza contra los subtítulos y anota dónde están')
     p.set_defaults(fn=cmd_citas)
+
+    p = sub.add_parser('contextos', help='busca en los subtítulos la línea donde apareció cada palabra del diccionario')
+    p.set_defaults(fn=cmd_contextos)
 
     p = sub.add_parser('origen', help='géneros y fecha de estreno de cada título (TMDB)')
     p.add_argument('--rehacer', action='store_true', help='vuelve a pedirlos aunque ya estén en la ficha')
