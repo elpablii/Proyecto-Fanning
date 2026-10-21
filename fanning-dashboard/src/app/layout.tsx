@@ -23,7 +23,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dashboard del Proyecto Fanning",
+  title: "Proyecto Fanning",
   description: "El Proyecto Fanning aprende inglés con películas y series: aquí se ve el vocabulario, la comprensión y el nivel MCER de cada título.",
 };
 
