@@ -7,6 +7,11 @@
     "tipo": "movie",
     "id": 1374
   },
+  "estreno": "1985-11-21",
+  "generos": [
+    "Drama",
+    "Acción"
+  ],
   "analisis": "Lenguaje icónico de la Guerra Fría. Contrastes entre el inglés motivacional americano de Rocky y Apollo, contra el inglés robótico y rígido de Drago ('I must break you').",
   "sinopsis": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
   "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",

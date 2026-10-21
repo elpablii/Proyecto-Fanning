@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { BookOpen, Calendar, Crown, Heart, Search } from 'lucide-react';
+import { BookA, BookOpen, Calendar, Clapperboard, Crown, Gauge, Heart, Search } from 'lucide-react';
 import { tmdb } from '@/lib/tmdb';
 import { hrefArtista } from '@/lib/realeza';
 import RelojActual from '@/components/portada/RelojActual';
@@ -14,7 +14,8 @@ function Mosaico({ posters }: { posters: string[] }) {
         // La fila va dos veces seguida: al llegar a la mitad vuelve al inicio sin que se note el salto.
         <div key={i} className={`flex gap-3 w-max desfile ${i % 2 ? 'desfile-inverso' : ''}`} style={{ animationDuration: `${140 + i * 30}s` }}>
           {[...fila, ...fila].map((url, j) => (
-            <img key={j} src={tmdb(url, 'w185')} alt="" decoding="async" className="w-24 sm:w-28 aspect-2/3 object-cover rounded-lg" />
+            // Prioridad baja: son decorado y no deben quitarle ancho de banda al resto de la portada
+            <img key={j} src={tmdb(url, 'w185')} alt="" decoding="async" fetchPriority="low" className="w-24 sm:w-28 aspect-2/3 object-cover rounded-lg" />
           ))}
         </div>
       ))}
@@ -22,7 +23,8 @@ function Mosaico({ posters }: { posters: string[] }) {
   );
 }
 
-const BOTON = 'flex-1 sm:flex-none justify-center px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border backdrop-blur-sm';
+// Sin backdrop-blur: con el mosaico moviéndose detrás, el desenfoque se recalculaba en cada cuadro.
+const BOTON = 'flex-1 sm:flex-none justify-center px-4 py-2 rounded-lg transition flex items-center gap-2 text-sm font-medium border';
 
 export default function HeroPortada({ posters, onBuscar }: { posters: string[]; onBuscar: () => void }) {
   return (
@@ -49,7 +51,8 @@ export default function HeroPortada({ posters, onBuscar }: { posters: string[]; 
             Se llama así por las hermanas{' '}
             <Link href={hrefArtista('Dakota Fanning')} className="text-pink-300 hover:text-pink-200 underline underline-offset-2 decoration-pink-400/40">Dakota</Link> y{' '}
             <Link href={hrefArtista('Elle Fanning')} className="text-pink-300 hover:text-pink-200 underline underline-offset-2 decoration-pink-400/40">Elle Fanning</Link>,
-            dos de las actrices favoritas del proyecto.
+            dos de las actrices favoritas del proyecto.{' '}
+            <Link href="/realeza/casa-fanning" className="text-pink-300 hover:text-pink-200 underline underline-offset-2 decoration-pink-400/40 whitespace-nowrap">Conoce la Casa Fanning</Link>
           </span>
         </p>
 
@@ -62,6 +65,15 @@ export default function HeroPortada({ posters, onBuscar }: { posters: string[]; 
           </Link>
           <Link href="/reglas" className={`${BOTON} bg-purple-600/20 hover:bg-purple-600/40 text-purple-300 border-purple-500/30`}>
             <BookOpen size={16} /> Constitución del Proyecto Fanning
+          </Link>
+          <Link href="/diccionario" className={`${BOTON} bg-emerald-600/20 hover:bg-emerald-600/40 text-emerald-300 border-emerald-500/30`}>
+            <BookA size={16} /> Diccionario
+          </Link>
+          <Link href="/ritmo" className={`${BOTON} bg-cyan-600/20 hover:bg-cyan-600/40 text-cyan-300 border-cyan-500/30`}>
+            <Gauge size={16} /> Ritmo del Inglés
+          </Link>
+          <Link href="/generos" className={`${BOTON} bg-violet-600/20 hover:bg-violet-600/40 text-violet-300 border-violet-500/30`}>
+            <Clapperboard size={16} /> Géneros y Épocas
           </Link>
           <button onClick={onBuscar} title="Buscar (Ctrl + K)" className={`${BOTON} bg-white/5 hover:bg-white/10 text-gray-200 border-white/10`}>
             <Search size={16} /> Buscar

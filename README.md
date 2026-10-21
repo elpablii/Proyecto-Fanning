@@ -62,7 +62,7 @@ Borra la ficha y actualiza la página. Con `--retirar-pdfs`, además mueve sus P
 
 ## Agregar una tanda
 
-Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y corre `python fanning.py tandas` (regenera solo la línea de tiempo, en segundos). Ejemplo:
+Agrega un bloque al final de `contenido/tandas.json`, igual a los anteriores, y corre `python fanning.py tandas` (regenera la línea de tiempo y el diccionario, en segundos). Ejemplo:
 
 ```json
 {
@@ -105,6 +105,7 @@ python fanning.py quitar "Título" [--retirar-pdfs]
 python fanning.py imagenes "Título" [--id N] [--rehacer]
 python fanning.py pendientes
 python fanning.py ids [--guardar]
+python fanning.py origen [--rehacer]
 python fanning.py validar
 python fanning.py revisar ortografia
 python fanning.py revisar dialogos "ruta.pdf" [--serie]

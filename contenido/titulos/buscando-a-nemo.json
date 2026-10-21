@@ -7,6 +7,12 @@
     "tipo": "movie",
     "id": 12
   },
+  "estreno": "2003-05-30",
+  "generos": [
+    "Animación",
+    "Familia",
+    "Aventura"
+  ],
   "analisis": "Inglés familiar extremadamente claro y dinámico. Rico en juegos de palabras acuáticos, acentos californianos (tortugas surferas) y vocabulario sobre el océano y la crianza.",
   "sinopsis": "El pececillo Nemo, que es hijo único, es muy querido y protegido por su padre. Pero después de ser capturado en un arrecife australiano va a parar a la pecera de la oficina de un dentista de Sidney, su tímido padre emprenderá una peligrosa aventura para rescatarlo.",
   "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",

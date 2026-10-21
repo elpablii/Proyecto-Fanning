@@ -8,6 +8,10 @@ export const PALETAS = {
   reglas: ['var(--color-purple-500)', 'var(--color-violet-500)', 'var(--color-pink-500)'],
   salon: ['var(--color-amber-500)', 'var(--color-pink-500)', 'var(--color-yellow-500)'],
   constelacion: ['var(--color-indigo-500)', 'var(--color-blue-500)', 'var(--color-pink-500)'],
+  diccionario: ['var(--color-emerald-500)', 'var(--color-teal-500)', 'var(--color-purple-500)'],
+  ritmo: ['var(--color-cyan-500)', 'var(--color-pink-500)', 'var(--color-violet-500)'],
+  fanning: ['var(--color-pink-500)', 'var(--color-rose-500)', 'var(--color-violet-500)'],
+  generos: ['var(--color-violet-500)', 'var(--color-fuchsia-500)', 'var(--color-amber-500)'],
   // Las fichas de artista, según su grupo de la Realeza
   supremos: ['var(--color-amber-500)', 'var(--color-yellow-500)', 'var(--color-orange-500)'],
   platonicos: ['var(--color-pink-500)', 'var(--color-fuchsia-500)', 'var(--color-rose-500)'],

@@ -29,14 +29,14 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     const platonico = realeza.some(a => a.rango === 'platonico');
     const supremo = realeza.some(a => a.rango === 'supremo');
     const Icono = platonico ? Heart : Crown;
-    const color = platonico ? 'text-pink-400 border-pink-400/40 bg-pink-500/20'
-        : supremo ? 'text-amber-300 border-amber-300/50 bg-amber-500/25'
-        : 'text-amber-200 border-amber-200/30 bg-black/40';
+    const color = platonico ? 'text-pink-400 border-pink-400/40 bg-pink-950/75'
+        : supremo ? 'text-amber-300 border-amber-300/50 bg-amber-950/75'
+        : 'text-amber-200 border-amber-200/30 bg-black/60';
     const nombres = realeza.map(a => a.nombre).join(', ');
     return (
         <div className="absolute top-2 left-2 z-10 flex items-center gap-1">
             <Link href={hrefArtista(realeza[0].nombre)} title={nombres}
-                className={`flex items-center gap-1 px-1.5 py-1 rounded-md border backdrop-blur-xs shadow-sm hover:brightness-125 transition ${color}`}>
+                className={`flex items-center gap-1 px-1.5 py-1 rounded-md border shadow-sm hover:brightness-125 transition ${color}`}>
                 <Icono size={14} className="latido-real" fill={platonico ? 'currentColor' : 'none'} aria-hidden />
                 {realeza.length > 1 && <span className="text-[10px] font-bold">{realeza.length}</span>}
                 <span className="sr-only">Con {nombres}. Ver la página de {realeza[0].nombre}</span>
@@ -56,11 +56,22 @@ function InsigniaRealeza({ realeza }: { realeza: ArtistaEnCarta[] }) {
     );
 }
 
-// El foco de luz sigue al mouse (ver .reflejo-real en globals.css)
+// El foco de luz sigue al mouse (ver .reflejo-real en globals.css). Se actualiza a lo más una vez
+// por cuadro: el mouse manda muchos más eventos y cada uno medía la tarjeta y la volvía a pintar.
+const focoPendiente = new WeakMap<HTMLElement, { x: number; y: number }>();
 function moverFoco(e: React.PointerEvent<HTMLDivElement>) {
-    const r = e.currentTarget.getBoundingClientRect();
-    e.currentTarget.style.setProperty('--mx', `${((e.clientX - r.left) / r.width) * 100}%`);
-    e.currentTarget.style.setProperty('--my', `${((e.clientY - r.top) / r.height) * 100}%`);
+    const tarjeta = e.currentTarget;
+    const yaPedido = focoPendiente.has(tarjeta);
+    focoPendiente.set(tarjeta, { x: e.clientX, y: e.clientY });
+    if (yaPedido) return;
+    requestAnimationFrame(() => {
+        const p = focoPendiente.get(tarjeta);
+        focoPendiente.delete(tarjeta);
+        if (!p) return;
+        const r = tarjeta.getBoundingClientRect();
+        tarjeta.style.setProperty('--mx', `${((p.x - r.left) / r.width) * 100}%`);
+        tarjeta.style.setProperty('--my', `${((p.y - r.top) / r.height) * 100}%`);
+    });
 }
 
 export default function MovieCard({ title, count, dialogues, href, posterUrl, level = 'B2', rating = 'TE', realeza, transicion, color }: MovieCardProps) {
@@ -68,23 +79,30 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
     
     const pct = comprension(validDialogues, count);
     
-    // Asignar colores según nivel (MCER)
-    let levelColors = "bg-gray-500/20 text-gray-300 border-gray-500/30";
+    // Asignar colores según nivel (MCER). Fondos casi opacos y sin backdrop-blur: con 177 pósters
+    // eran cientos de desenfoques que el navegador recalculaba al hacer scroll.
+    let levelColors = "bg-gray-950/75 text-gray-300 border-gray-500/30";
     if (level) {
         const lv = level.toUpperCase();
-        if (lv.includes('A1') || lv.includes('A2')) levelColors = "bg-blue-500/20 text-blue-300 border-blue-500/30";
-        else if (lv.includes('B1') || lv.includes('B2')) levelColors = "bg-emerald-500/20 text-emerald-300 border-emerald-500/30";
-        else if (lv.includes('C1') || lv.includes('C2')) levelColors = "bg-purple-500/20 text-purple-300 border-purple-500/30";
+        if (lv.includes('A1') || lv.includes('A2')) levelColors = "bg-blue-950/75 text-blue-300 border-blue-500/30";
+        else if (lv.includes('B1') || lv.includes('B2')) levelColors = "bg-emerald-950/75 text-emerald-300 border-emerald-500/30";
+        else if (lv.includes('C1') || lv.includes('C2')) levelColors = "bg-purple-950/75 text-purple-300 border-purple-500/30";
     }
     return (
-        <div className="group relative revelar hover:scale-105 transition-transform duration-300" onPointerMove={moverFoco} style={{ '--tono': color ?? 'var(--color-purple-500)' } as React.CSSProperties}>
-        <Link href={href} className="relative bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg group-hover:border-(--tono) group-hover:shadow-[0_0_24px_-4px_var(--tono)] transition-[border-color,box-shadow] duration-300 cursor-pointer block">
+        // tarjeta-catalogo: lo que está fuera de la pantalla no se dibuja (ver globals.css). El alto
+        // sale del ancho (2:3), así la grilla no salta al aparecer; la sombra va aquí y no en el
+        // enlace para que el recorte de content-visibility no la corte.
+        <div className="tarjeta-catalogo group relative revelar aspect-2/3 rounded-xl shadow-lg hover:shadow-[0_0_24px_-4px_var(--tono)] hover:scale-105 transition-[scale,box-shadow] duration-300" onPointerMove={moverFoco} style={{ '--tono': color ?? 'var(--color-purple-500)' } as React.CSSProperties}>
+        <Link href={href} className="relative h-full bg-gray-900 border border-gray-800 rounded-xl overflow-hidden group-hover:border-(--tono) transition-[border-color] duration-300 cursor-pointer block">
             {posterUrl ? (
                 <ViewTransition name={transicion} share="morph" default="none">
-                    <img src={tmdb(posterUrl, 'w342')} alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full aspect-2/3 object-cover transition-transform duration-700 group-hover:scale-110" />
+                    {/* El ancho justo según la columna de la grilla (2 a 8 por fila): en pantallas comunes basta w185 */}
+                    <img src={tmdb(posterUrl, 'w342')} srcSet={`${tmdb(posterUrl, 'w185')} 185w, ${tmdb(posterUrl, 'w342')} 342w`}
+                        sizes="(min-width: 1280px) 12vw, (min-width: 1024px) 16vw, (min-width: 768px) 24vw, (min-width: 640px) 32vw, 48vw"
+                        alt={title} width={342} height={513} loading="lazy" decoding="async" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
                 </ViewTransition>
             ) : (
-                <div className="aspect-2/3 bg-gray-800 flex flex-col items-center justify-center p-4 text-center">
+                <div className="h-full bg-gray-800 flex flex-col items-center justify-center p-4 text-center">
                     <Film size={32} className="text-gray-600 mb-2" />
                     <span className="absolute text-gray-500 text-xs opacity-50 uppercase font-bold tracking-widest rotate-[-45deg]">POSTER</span>
                 </div>
@@ -95,15 +113,15 @@ export default function MovieCard({ title, count, dialogues, href, posterUrl, le
 
             {level && (
                 <div className="absolute top-2 right-2 flex flex-col gap-1 items-end">
-                    <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border backdrop-blur-xs shadow-sm ${levelColors}`}>
+                    <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border shadow-sm ${levelColors}`}>
                         {level}
                     </span>
                     {rating && (
-                        <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border backdrop-blur-xs shadow-sm ${
-                            rating === '+18' ? 'bg-red-500/20 text-red-300 border-red-500/30' :
-                            rating === '+14' ? 'bg-yellow-500/20 text-yellow-300 border-yellow-500/30' :
-                            rating === 'TE+7' ? 'bg-blue-500/20 text-blue-300 border-blue-500/30' :
-                            'bg-green-500/20 text-green-300 border-green-500/30'
+                        <span className={`px-2 py-1 text-[10px] font-bold uppercase rounded-md border shadow-sm ${
+                            rating === '+18' ? 'bg-red-950/75 text-red-300 border-red-500/30' :
+                            rating === '+14' ? 'bg-yellow-950/75 text-yellow-300 border-yellow-500/30' :
+                            rating === 'TE+7' ? 'bg-blue-950/75 text-blue-300 border-blue-500/30' :
+                            'bg-green-950/75 text-green-300 border-green-500/30'
                         }`}>
                             {rating}
                         </span>

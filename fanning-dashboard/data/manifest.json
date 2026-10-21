@@ -969,7 +969,11 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+        "genres": [
+          "Comedia"
+        ],
+        "releaseDate": "2007-09-24"
       },
       {
         "title": "Kim Possible",
@@ -1673,7 +1677,15 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2002-06-07"
       },
       {
         "title": "Euphoria",
@@ -1869,7 +1881,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-06-16"
       },
       {
         "title": "Pan Am",
@@ -2007,7 +2023,11 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2011-09-25"
       },
       {
         "title": "Maid",
@@ -2116,7 +2136,11 @@
           "Margot Robbie": [
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2021-09-30"
       },
       {
         "title": "Oppenheimer",
@@ -2146,7 +2170,13 @@
           "Cillian Murphy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia",
+          "Bélica"
+        ],
+        "releaseDate": "2023-07-19"
       },
       {
         "title": "The Wolf of Wall Street",
@@ -2176,7 +2206,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2013-12-25"
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -2210,7 +2246,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2023-10-13"
       },
       {
         "title": "All Her Fault",
@@ -2300,7 +2340,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Misterio",
+          "Crimen"
+        ],
+        "releaseDate": "2025-11-07"
       },
       {
         "title": "Titanic",
@@ -2325,7 +2370,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "1997-12-18"
       },
       {
         "title": "Aves de Presa",
@@ -2361,7 +2411,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen"
+        ],
+        "releaseDate": "2020-02-05"
       },
       {
         "title": "Gambito de Dama",
@@ -2455,7 +2510,11 @@
             "actua",
             "aparece"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2020-10-23"
       },
       {
         "title": "Terminal",
@@ -2486,7 +2545,16 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Suspenso",
+          "Acción",
+          "Comedia",
+          "Misterio"
+        ],
+        "releaseDate": "2018-05-10"
       },
       {
         "title": "Escuadrón Suicida",
@@ -2524,7 +2592,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2016-08-03"
       },
       {
         "title": "Focus",
@@ -2554,7 +2628,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Comedia",
+          "Crimen"
+        ],
+        "releaseDate": "2015-02-25"
       },
       {
         "title": "The Girl From Plainville",
@@ -2645,7 +2725,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2022-03-29"
       },
       {
         "title": "El Escuadrón Suicida",
@@ -2677,7 +2762,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Comedia",
+          "Aventura"
+        ],
+        "releaseDate": "2021-07-28"
       },
       {
         "title": "Ámsterdam",
@@ -2715,7 +2806,13 @@
           "Taylor Swift": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Misterio",
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2022-09-27"
       },
       {
         "title": "The Perfect Couple",
@@ -2792,7 +2889,13 @@
           "Meghan Trainor": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Crimen"
+        ],
+        "releaseDate": "2024-09-05"
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -2828,7 +2931,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-07-24"
       },
       {
         "title": "Rango",
@@ -2853,7 +2962,15 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Western",
+          "Aventura"
+        ],
+        "releaseDate": "2011-03-02"
       },
       {
         "title": "Barbie",
@@ -2884,7 +3001,13 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-07-19"
       },
       {
         "title": "Cars 2",
@@ -2909,7 +3032,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura",
+          "Comedia"
+        ],
+        "releaseDate": "2011-06-11"
       },
       {
         "title": "Wonka",
@@ -2934,7 +3064,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-12-06"
       },
       {
         "title": "Bombshell",
@@ -2964,7 +3100,11 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-12-13"
       },
       {
         "title": "Mary Queen of Scots",
@@ -2994,7 +3134,12 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia"
+        ],
+        "releaseDate": "2018-12-07"
       },
       {
         "title": "Los Increibles",
@@ -3026,7 +3171,14 @@
           "Samuel L. Jackson": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Animación",
+          "Familia"
+        ],
+        "releaseDate": "2004-10-27"
       },
       {
         "title": "About Time",
@@ -3056,7 +3208,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasía"
+        ],
+        "releaseDate": "2013-06-27"
       },
       {
         "title": "Babylon",
@@ -3086,7 +3244,12 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2022-12-22"
       },
       {
         "title": "Family Switch",
@@ -3119,7 +3282,13 @@
           "Michael Jackson": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Fantasía",
+          "Familia"
+        ],
+        "releaseDate": "2023-11-30"
       },
       {
         "title": "A Rainy Day in New York",
@@ -3149,7 +3318,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance"
+        ],
+        "releaseDate": "2019-07-26"
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -3181,7 +3355,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Historia",
+          "Drama"
+        ],
+        "releaseDate": "2017-09-29"
       },
       {
         "title": "Taylor Swift Miss Americana",
@@ -3215,7 +3395,12 @@
             "aparece",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Documental",
+          "Música"
+        ],
+        "releaseDate": "2020-01-31"
       },
       {
         "title": "A Complete Unknown",
@@ -3245,7 +3430,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2024-12-25"
       },
       {
         "title": "Emma",
@@ -3275,7 +3465,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2020-02-13"
       },
       {
         "title": "Rocky II",
@@ -3300,7 +3496,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1979-06-15"
       },
       {
         "title": "Kim Possible (2019)",
@@ -3330,7 +3531,15 @@
           "Christy Carlson Romano": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Película de TV"
+        ],
+        "releaseDate": "2019-02-15"
       },
       {
         "title": "I-Tonya",
@@ -3361,7 +3570,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2017-12-07"
       },
       {
         "title": "Rocky I",
@@ -3388,7 +3602,11 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "1976-12-03"
       },
       {
         "title": "Love Actually",
@@ -3418,7 +3636,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2003-09-07"
       },
       {
         "title": "Cars",
@@ -3445,7 +3669,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2006-06-08"
       },
       {
         "title": "Whiskey Tango Foxtrot",
@@ -3475,7 +3706,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Bélica"
+        ],
+        "releaseDate": "2016-03-04"
       },
       {
         "title": "Orgullo y Prejuicio",
@@ -3502,7 +3739,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2005-09-16"
       },
       {
         "title": "Slaughterhouse Rulez",
@@ -3532,7 +3774,14 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Terror",
+          "Acción",
+          "Fantasía"
+        ],
+        "releaseDate": "2018-10-31"
       },
       {
         "title": "A Minecraft Movie",
@@ -3562,7 +3811,14 @@
           "Emma Myers": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Comedia",
+          "Aventura"
+        ],
+        "releaseDate": "2025-03-31"
       },
       {
         "title": "Ratatouille",
@@ -3587,7 +3843,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2007-06-28"
       },
       {
         "title": "Scarface",
@@ -3617,7 +3880,13 @@
           "Michelle Pfeiffer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "1983-12-09"
       },
       {
         "title": "The Menu",
@@ -3647,7 +3916,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Terror"
+        ],
+        "releaseDate": "2022-11-17"
       },
       {
         "title": "Schindler's List",
@@ -3677,7 +3951,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia",
+          "Bélica"
+        ],
+        "releaseDate": "1993-12-15"
       },
       {
         "title": "Five Nights at Freddy's",
@@ -3707,7 +3987,12 @@
           "Elizabeth Lail": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2023-10-25"
       },
       {
         "title": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -3741,7 +4026,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2025-12-11"
       },
       {
         "title": "Toy Story 2",
@@ -3766,7 +4055,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "1999-10-30"
       },
       {
         "title": "Marlowe",
@@ -3799,7 +4094,11 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Crimen"
+        ],
+        "releaseDate": "2023-02-15"
       },
       {
         "title": "Interestellar",
@@ -3824,7 +4123,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+        "genres": [
+          "Aventura",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2014-11-04"
       },
       {
         "title": "Star Wars Episodio I The Phantom Menace",
@@ -3862,7 +4167,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1999-05-19"
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -3894,7 +4205,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso"
+        ],
+        "releaseDate": "2021-06-24"
       },
       {
         "title": "The Legend of Tarzan",
@@ -3927,7 +4243,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2016-06-29"
       },
       {
         "title": "The Naked Gun",
@@ -3957,7 +4279,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Crimen",
+          "Acción"
+        ],
+        "releaseDate": "2025-07-30"
       },
       {
         "title": "Home",
@@ -3982,7 +4310,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
+        "genres": [
+          "Documental",
+          "Drama",
+          "Familia"
+        ],
+        "releaseDate": "2009-06-03"
       },
       {
         "title": "Work It",
@@ -4017,7 +4351,12 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Música"
+        ],
+        "releaseDate": "2020-08-07"
       },
       {
         "title": "Playmobil",
@@ -4051,7 +4390,15 @@
             "voz",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Animación",
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2019-06-10"
       },
       {
         "title": "Rambo First Blood",
@@ -4078,7 +4425,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "1982-10-22"
       },
       {
         "title": "Tall Girl I",
@@ -4111,7 +4464,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2019-09-13"
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -4147,7 +4506,12 @@
             "dirige",
             "equipo"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Documental"
+        ],
+        "releaseDate": "2020-11-25"
       },
       {
         "title": "El Expreso Polar",
@@ -4174,7 +4538,14 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+        "genres": [
+          "Aventura",
+          "Animación",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2004-11-10"
       },
       {
         "title": "Taylor Swift The 1989 World Tour",
@@ -4208,7 +4579,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2015-12-20"
       },
       {
         "title": "Blacklight",
@@ -4238,7 +4613,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Aventura"
+        ],
+        "releaseDate": "2022-02-10"
       },
       {
         "title": "Effie Gray",
@@ -4268,7 +4649,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2014-03-08"
       },
       {
         "title": "Dreamland",
@@ -4299,7 +4684,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-11-27"
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -4335,7 +4725,17 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Familia",
+          "Acción",
+          "Comedia",
+          "Ciencia ficción",
+          "Película de TV"
+        ],
+        "releaseDate": "2005-04-08"
       },
       {
         "title": "The Witch",
@@ -4365,7 +4765,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Fantasía",
+          "Misterio"
+        ],
+        "releaseDate": "2016-02-19"
       },
       {
         "title": "Cars III",
@@ -4392,7 +4798,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+        "genres": [
+          "Animación",
+          "Drama",
+          "Familia",
+          "Aventura"
+        ],
+        "releaseDate": "2017-06-15"
       },
       {
         "title": "Los Fantasmas de Scrooge",
@@ -4419,7 +4832,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2009-11-04"
       },
       {
         "title": "Buscando a Nemo",
@@ -4446,7 +4865,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura"
+        ],
+        "releaseDate": "2003-05-30"
       },
       {
         "title": "Dream Productions",
@@ -4499,7 +4924,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2024-12-11"
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -4526,7 +4957,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iWEJuiNOlScWVxfNVyXiXf6lCiG.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1977-05-25"
       },
       {
         "title": "Venganza Implacable",
@@ -4558,7 +4995,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción",
+          "Crimen"
+        ],
+        "releaseDate": "2020-09-03"
       },
       {
         "title": "Toy Story",
@@ -4583,7 +5026,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Animación",
+          "Aventura"
+        ],
+        "releaseDate": "1995-11-22"
       },
       {
         "title": "Now is Good",
@@ -4613,7 +5063,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2012-09-19"
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -4640,7 +5095,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+        "genres": [
+          "Aventura",
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "1998-11-25"
       },
       {
         "title": "Toy Story III",
@@ -4667,7 +5129,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia"
+        ],
+        "releaseDate": "2010-06-16"
       },
       {
         "title": "Intensamente 2",
@@ -4694,7 +5162,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2024-06-11"
       },
       {
         "title": "Top Gun",
@@ -4719,7 +5194,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+        "genres": [
+          "Acción",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "1986-05-16"
       },
       {
         "title": "Intensamente",
@@ -4746,7 +5227,15 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura",
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2015-06-17"
       },
       {
         "title": "Taylor Swift Reputation Stadium Tour",
@@ -4778,7 +5267,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2018-12-31"
       },
       {
         "title": "How to Make a Killing",
@@ -4808,7 +5301,13 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Suspenso",
+          "Crimen"
+        ],
+        "releaseDate": "2026-02-16"
       },
       {
         "title": "Monsters Inc",
@@ -4833,7 +5332,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2001-11-01"
       },
       {
         "title": "Michael",
@@ -4866,7 +5372,12 @@
           "Michael Jackson": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Drama"
+        ],
+        "releaseDate": "2026-04-22"
       },
       {
         "title": "Rocky III",
@@ -4891,7 +5402,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1982-05-28"
       },
       {
         "title": "Emergency",
@@ -4921,7 +5437,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2022-05-20"
       },
       {
         "title": "La Sustancia",
@@ -4953,7 +5475,12 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2024-09-18"
       },
       {
         "title": "Alvin y las Ardillas",
@@ -4980,7 +5507,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2007-12-13"
       },
       {
         "title": "An American Girl - Grace Stirs Up Success",
@@ -5012,7 +5546,12 @@
           "Olivia Rodrigo": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Drama"
+        ],
+        "releaseDate": "2015-06-23"
       },
       {
         "title": "Coraline",
@@ -5042,7 +5581,14 @@
           "Dakota Fanning": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Familia",
+          "Fantasía",
+          "Terror"
+        ],
+        "releaseDate": "2009-02-05"
       },
       {
         "title": "Suite Francaise",
@@ -5072,7 +5618,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Bélica"
+        ],
+        "releaseDate": "2015-03-12"
       },
       {
         "title": "Tall Girl II",
@@ -5105,7 +5657,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2022-02-10"
       },
       {
         "title": "La Bella Durmiente",
@@ -5132,7 +5690,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+        "genres": [
+          "Fantasía",
+          "Animación",
+          "Romance",
+          "Familia"
+        ],
+        "releaseDate": "1959-02-17"
       },
       {
         "title": "The Commuter",
@@ -5162,7 +5727,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2018-01-11"
       },
       {
         "title": "Five Nights at Freddy's II",
@@ -5192,7 +5763,12 @@
           "Elizabeth Lail": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2025-12-03"
       },
       {
         "title": "Jojo Rabbit",
@@ -5222,7 +5798,13 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Bélica",
+          "Drama"
+        ],
+        "releaseDate": "2019-10-18"
       },
       {
         "title": "Obi-Wan Kenobi",
@@ -5301,7 +5883,14 @@
             "actua",
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción",
+          "Fantasía",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2022-05-26"
       },
       {
         "title": "Star Wars Episodio III Revenge of the Sith",
@@ -5336,7 +5925,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2005-05-17"
       },
       {
         "title": "The Vanishing of Sidney Hall",
@@ -5369,7 +5964,13 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Romance"
+        ],
+        "releaseDate": "2018-03-02"
       },
       {
         "title": "Last Night in Soho",
@@ -5403,7 +6004,13 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2021-10-09"
       },
       {
         "title": "Escape de Sobibor",
@@ -5430,7 +6037,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sAeljrIHTtKgJ2BaVoa9oCTmD4u.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg",
+        "genres": [
+          "Drama",
+          "Suspenso",
+          "Bélica",
+          "Película de TV"
+        ],
+        "releaseDate": "1987-04-12"
       },
       {
         "title": "21 Blackjack",
@@ -5455,7 +6069,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg",
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2008-03-27"
       },
       {
         "title": "Glass",
@@ -5488,7 +6107,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2019-01-16"
       },
       {
         "title": "American Pastoral",
@@ -5522,7 +6147,12 @@
             "actua",
             "dirige"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2016-10-20"
       },
       {
         "title": "Z for Zachariah",
@@ -5552,7 +6182,14 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Ciencia ficción",
+          "Suspenso"
+        ],
+        "releaseDate": "2015-08-13"
       },
       {
         "title": "El Padrino I",
@@ -5579,7 +6216,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "1972-03-14"
       },
       {
         "title": "Galveston",
@@ -5609,7 +6251,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso"
+        ],
+        "releaseDate": "2018-10-10"
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -5636,7 +6282,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1983-05-25"
       },
       {
         "title": "Teen Spirit",
@@ -5667,7 +6319,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Drama"
+        ],
+        "releaseDate": "2019-04-12"
       },
       {
         "title": "The Truman Show",
@@ -5692,7 +6349,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "1998-06-04"
       },
       {
         "title": "Split",
@@ -5722,7 +6384,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2017-01-19"
       },
       {
         "title": "Barry",
@@ -5752,7 +6419,11 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2016-09-10"
       },
       {
         "title": "Non-stop",
@@ -5782,7 +6453,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2014-02-26"
       },
       {
         "title": "20th Century Women",
@@ -5815,7 +6492,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2016-12-28"
       },
       {
         "title": "The Motel Life",
@@ -5845,7 +6526,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2013-11-08"
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -5877,7 +6564,12 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Comedia"
+        ],
+        "releaseDate": "2024-12-05"
       },
       {
         "title": "Olivia Rodrigo driving home 2 u",
@@ -5916,7 +6608,12 @@
           "Taylor Swift": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Documental"
+        ],
+        "releaseDate": "2022-03-25"
       },
       {
         "title": "Ordinary Love",
@@ -5946,7 +6643,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2019-12-06"
       },
       {
         "title": "A Big Bold Beautiful Journey",
@@ -5976,7 +6678,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Fantasía",
+          "Drama"
+        ],
+        "releaseDate": "2025-09-17"
       },
       {
         "title": "Cuckoo",
@@ -6006,7 +6714,13 @@
           "Hunter Schafer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2024-02-16"
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -6045,7 +6759,11 @@
           "Taylor Swift": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2024-10-25"
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -6072,7 +6790,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg",
+        "genres": [
+          "Familia",
+          "Animación"
+        ],
+        "releaseDate": "2012-09-13"
       },
       {
         "title": "Leave No Trace",
@@ -6102,7 +6825,11 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2018-06-29"
       },
       {
         "title": "Lilo and Stitch I",
@@ -6127,7 +6854,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2002-06-21"
       },
       {
         "title": "Maleficent II Mistress of Evil",
@@ -6160,7 +6894,13 @@
           "Michelle Pfeiffer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Aventura"
+        ],
+        "releaseDate": "2019-10-16"
       },
       {
         "title": "Night Moves",
@@ -6190,7 +6930,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2014-04-23"
       },
       {
         "title": "The Runaways",
@@ -6225,7 +6970,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2010-03-19"
       },
       {
         "title": "Toy Story IV",
@@ -6252,7 +7002,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Animación",
+          "Aventura"
+        ],
+        "releaseDate": "2019-06-19"
       },
       {
         "title": "The Watchers",
@@ -6282,7 +7039,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Terror",
+          "Misterio"
+        ],
+        "releaseDate": "2024-06-06"
       },
       {
         "title": "Rocky IV",
@@ -6307,7 +7070,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1985-11-21"
       },
       {
         "title": "3 Generations",
@@ -6338,7 +7106,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2016-10-27"
       },
       {
         "title": "Thoroughbreds",
@@ -6368,7 +7141,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2018-03-09"
       },
       {
         "title": "Taylor Swift City of Lover Concert",
@@ -6402,7 +7180,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2020-05-17"
       },
       {
         "title": "Absolution",
@@ -6432,7 +7214,14 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2024-10-31"
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -6459,7 +7248,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1980-05-20"
       },
       {
         "title": "Super Mario Bros The Movie",
@@ -6489,7 +7284,15 @@
           "Anya Taylor-Joy": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2023-04-05"
       },
       {
         "title": "Cenicienta",
@@ -6516,7 +7319,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Animación",
+          "Romance"
+        ],
+        "releaseDate": "1950-02-22"
       },
       {
         "title": "Maleficent I",
@@ -6549,7 +7359,15 @@
           "Lana del Rey": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Aventura",
+          "Acción",
+          "Familia",
+          "Romance"
+        ],
+        "releaseDate": "2014-05-28"
       },
       {
         "title": "Taken III",
@@ -6579,7 +7397,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción"
+        ],
+        "releaseDate": "2014-12-16"
       },
       {
         "title": "Every Secret Thing",
@@ -6609,7 +7432,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen",
+          "Misterio"
+        ],
+        "releaseDate": "2014-04-20"
       },
       {
         "title": "Here Are The Young Men",
@@ -6639,7 +7468,11 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2021-05-27"
       },
       {
         "title": "Super Mario Galaxy",
@@ -6671,7 +7504,15 @@
           "Anya Taylor-Joy": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2026-04-01"
       },
       {
         "title": "Taken I",
@@ -6701,7 +7542,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso"
+        ],
+        "releaseDate": "2008-02-18"
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -6739,7 +7585,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2002-05-15"
       },
       {
         "title": "Please Stand By",
@@ -6769,7 +7621,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2018-01-26"
       },
       {
         "title": "All the Bright Places",
@@ -6802,7 +7659,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2020-02-28"
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -6827,7 +7689,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2024-07-31"
       },
       {
         "title": "Very Good Girls",
@@ -6857,7 +7726,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2013-01-22"
       },
       {
         "title": "Morgan",
@@ -6887,7 +7760,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Ciencia ficción",
+          "Suspenso"
+        ],
+        "releaseDate": "2016-09-01"
       },
       {
         "title": "Sweetness in the Belly",
@@ -6917,7 +7796,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-09-06"
       },
       {
         "title": "WALL-E",
@@ -6942,7 +7825,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2008-06-26"
       },
       {
         "title": "Rambo II",
@@ -6967,7 +7856,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "1985-05-22"
       },
       {
         "title": "Contrarreloj",
@@ -6999,7 +7895,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2023-08-23"
       },
       {
         "title": "The Muppet Show",
@@ -7032,7 +7934,14 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Música",
+          "Película de TV"
+        ],
+        "releaseDate": "2026-02-03"
       },
       {
         "title": "The Neon Demon",
@@ -7062,7 +7971,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2016-06-08"
       },
       {
         "title": "Lilo and Stitch II",
@@ -7092,7 +8006,14 @@
           "Dakota Fanning": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2005-08-22"
       },
       {
         "title": "Marrowbone",
@@ -7122,7 +8043,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Terror",
+          "Misterio"
+        ],
+        "releaseDate": "2017-10-27"
       },
       {
         "title": "Grand Theft Auto VI An Extended Look",
@@ -7147,7 +8074,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Crimen"
+        ],
+        "releaseDate": "2026-08-27"
       },
       {
         "title": "Ginger & Rosa",
@@ -7177,7 +8111,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2012-10-18"
       },
       {
         "title": "GTA San Andreas The Introduction",
@@ -7207,7 +8145,13 @@
           "Samuel L. Jackson": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2004-11-23"
       },
       {
         "title": "Minions I",
@@ -7232,7 +8176,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+        "genres": [
+          "Familia",
+          "Animación",
+          "Aventura",
+          "Comedia"
+        ],
+        "releaseDate": "2015-06-17"
       },
       {
         "title": "The New Mutants",
@@ -7262,7 +8213,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción",
+          "Terror"
+        ],
+        "releaseDate": "2020-08-26"
       },
       {
         "title": "I Think Were Alone Now",
@@ -7292,7 +8248,13 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Ciencia ficción",
+          "Misterio"
+        ],
+        "releaseDate": "2018-09-14"
       },
       {
         "title": "Taken II",
@@ -7322,7 +8284,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Suspenso"
+        ],
+        "releaseDate": "2012-09-27"
       },
       {
         "title": "Vicious",
@@ -7352,7 +8320,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2025-08-06"
       },
       {
         "title": "Unknown",
@@ -7382,7 +8355,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2011-02-16"
       },
       {
         "title": "IO",
@@ -7412,7 +8391,11 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2019-01-18"
       },
       {
         "title": "Rambo IV",
@@ -7439,7 +8422,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "2008-01-24"
       },
       {
         "title": "Viena and the Fantomes",
@@ -7469,7 +8458,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2020-06-30"
       },
       {
         "title": "The Roads Not Taken",
@@ -7499,7 +8494,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2020-03-13"
       },
       {
         "title": "Rambo Last Blood",
@@ -7524,7 +8523,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2019-09-18"
       },
       {
         "title": "Rambo III",
@@ -7549,7 +8554,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "1988-05-24"
       },
       {
         "title": "Girl in the Basement",
@@ -7579,7 +8591,13 @@
           "Emma Myers": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen",
+          "Película de TV"
+        ],
+        "releaseDate": "2021-02-27"
       }
     ]
   },
@@ -7673,7 +8691,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Comedia",
+          "Crimen"
+        ],
+        "releaseDate": "2015-02-25"
       },
       {
         "title": "Barbie",
@@ -7704,7 +8728,13 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-07-19"
       },
       {
         "title": "Bombshell",
@@ -7734,7 +8764,11 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-12-13"
       },
       {
         "title": "Taylor Swift Miss Americana",
@@ -7768,7 +8802,12 @@
             "aparece",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Documental",
+          "Música"
+        ],
+        "releaseDate": "2020-01-31"
       },
       {
         "title": "El Expreso Polar",
@@ -7795,7 +8834,14 @@
           "2023"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+        "genres": [
+          "Aventura",
+          "Animación",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2004-11-10"
       }
     ]
   },
@@ -8083,7 +9129,15 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2002-06-07"
       },
       {
         "title": "Oppenheimer",
@@ -8113,7 +9167,13 @@
           "Cillian Murphy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia",
+          "Bélica"
+        ],
+        "releaseDate": "2023-07-19"
       },
       {
         "title": "Taylor Swift The Eras Tour Film",
@@ -8147,7 +9207,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2023-10-13"
       },
       {
         "title": "Titanic",
@@ -8172,7 +9236,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "1997-12-18"
       },
       {
         "title": "Aves de Presa",
@@ -8208,7 +9277,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen"
+        ],
+        "releaseDate": "2020-02-05"
       },
       {
         "title": "Terminal",
@@ -8239,7 +9313,16 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Suspenso",
+          "Acción",
+          "Comedia",
+          "Misterio"
+        ],
+        "releaseDate": "2018-05-10"
       },
       {
         "title": "Escuadrón Suicida",
@@ -8277,7 +9360,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2016-08-03"
       },
       {
         "title": "El Escuadrón Suicida",
@@ -8309,7 +9398,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Comedia",
+          "Aventura"
+        ],
+        "releaseDate": "2021-07-28"
       },
       {
         "title": "Ámsterdam",
@@ -8347,7 +9442,13 @@
           "Taylor Swift": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Misterio",
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2022-09-27"
       },
       {
         "title": "Once Upon a Time in Hollywood",
@@ -8383,7 +9484,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-07-24"
       },
       {
         "title": "Mary Queen of Scots",
@@ -8413,7 +9520,12 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia"
+        ],
+        "releaseDate": "2018-12-07"
       },
       {
         "title": "Los Increibles",
@@ -8445,7 +9557,14 @@
           "Samuel L. Jackson": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Animación",
+          "Familia"
+        ],
+        "releaseDate": "2004-10-27"
       },
       {
         "title": "About Time",
@@ -8475,7 +9594,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasía"
+        ],
+        "releaseDate": "2013-06-27"
       },
       {
         "title": "Babylon",
@@ -8505,7 +9630,12 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2022-12-22"
       },
       {
         "title": "Goodbye Christopher Robin",
@@ -8537,7 +9667,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Historia",
+          "Drama"
+        ],
+        "releaseDate": "2017-09-29"
       },
       {
         "title": "Rocky II",
@@ -8562,7 +9698,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/78jvhi792WFjk1zSwqpfDOudO78.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1979-06-15"
       },
       {
         "title": "Kim Possible (2019)",
@@ -8592,7 +9733,15 @@
           "Christy Carlson Romano": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Película de TV"
+        ],
+        "releaseDate": "2019-02-15"
       },
       {
         "title": "I-Tonya",
@@ -8623,7 +9772,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2017-12-07"
       },
       {
         "title": "Rocky I",
@@ -8650,7 +9804,11 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "1976-12-03"
       },
       {
         "title": "Ratatouille",
@@ -8675,7 +9833,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2007-06-28"
       },
       {
         "title": "Scarface",
@@ -8705,7 +9870,13 @@
           "Michelle Pfeiffer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "1983-12-09"
       },
       {
         "title": "Five Nights at Freddy's",
@@ -8735,7 +9906,12 @@
           "Elizabeth Lail": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2023-10-25"
       },
       {
         "title": "Toy Story 2",
@@ -8760,7 +9936,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "1999-10-30"
       },
       {
         "title": "Star Wars Episodio I The Phantom Menace",
@@ -8798,7 +9980,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1999-05-19"
       },
       {
         "title": "The Legend of Tarzan",
@@ -8831,7 +10019,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2016-06-29"
       },
       {
         "title": "Rambo First Blood",
@@ -8858,7 +10052,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "1982-10-22"
       },
       {
         "title": "Dreamland",
@@ -8889,7 +10089,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-11-27"
       },
       {
         "title": "Venganza Implacable",
@@ -8921,7 +10126,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción",
+          "Crimen"
+        ],
+        "releaseDate": "2020-09-03"
       },
       {
         "title": "Toy Story",
@@ -8946,7 +10157,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Animación",
+          "Aventura"
+        ],
+        "releaseDate": "1995-11-22"
       },
       {
         "title": "Intensamente 2",
@@ -8973,7 +10191,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2024-06-11"
       },
       {
         "title": "Intensamente",
@@ -9000,7 +10225,15 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura",
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2015-06-17"
       },
       {
         "title": "Monsters Inc",
@@ -9025,7 +10258,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2001-11-01"
       },
       {
         "title": "Coraline",
@@ -9055,7 +10295,14 @@
           "Dakota Fanning": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Familia",
+          "Fantasía",
+          "Terror"
+        ],
+        "releaseDate": "2009-02-05"
       },
       {
         "title": "Suite Francaise",
@@ -9085,7 +10332,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Bélica"
+        ],
+        "releaseDate": "2015-03-12"
       },
       {
         "title": "Z for Zachariah",
@@ -9115,7 +10368,14 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Ciencia ficción",
+          "Suspenso"
+        ],
+        "releaseDate": "2015-08-13"
       },
       {
         "title": "The Truman Show",
@@ -9140,7 +10400,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "1998-06-04"
       },
       {
         "title": "Olivia Rodrigo driving home 2 u",
@@ -9179,7 +10444,12 @@
           "Taylor Swift": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Documental"
+        ],
+        "releaseDate": "2022-03-25"
       },
       {
         "title": "Barbie La Princesa y Estrella de Pop",
@@ -9206,7 +10476,12 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kCQKdkfNc7Smox53QRalBO3Doe0.jpg",
+        "genres": [
+          "Familia",
+          "Animación"
+        ],
+        "releaseDate": "2012-09-13"
       },
       {
         "title": "Taylor Swift City of Lover Concert",
@@ -9240,7 +10515,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2020-05-17"
       },
       {
         "title": "Star Wars Episodio II Attack of The Clones",
@@ -9278,7 +10557,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2002-05-15"
       },
       {
         "title": "Harold and The Purple Crayon",
@@ -9303,7 +10588,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/feRbxvNszAOcuLNrMk0DMqaTGPw.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2024-07-31"
       },
       {
         "title": "WALL-E",
@@ -9328,7 +10620,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2008-06-26"
       },
       {
         "title": "Rambo II",
@@ -9353,7 +10651,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "1985-05-22"
       },
       {
         "title": "Contrarreloj",
@@ -9385,7 +10690,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2023-08-23"
       },
       {
         "title": "Marrowbone",
@@ -9415,7 +10726,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Terror",
+          "Misterio"
+        ],
+        "releaseDate": "2017-10-27"
       },
       {
         "title": "The New Mutants",
@@ -9445,7 +10762,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción",
+          "Terror"
+        ],
+        "releaseDate": "2020-08-26"
       },
       {
         "title": "Rambo IV",
@@ -9472,7 +10794,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "2008-01-24"
       },
       {
         "title": "Rambo Last Blood",
@@ -9497,7 +10825,13 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2019-09-18"
       },
       {
         "title": "Rambo III",
@@ -9522,7 +10856,14 @@
           "2024"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Suspenso",
+          "Bélica"
+        ],
+        "releaseDate": "1988-05-24"
       }
     ]
   },
@@ -9922,7 +11263,15 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2002-06-07"
       },
       {
         "title": "The Big Bang Theory",
@@ -10264,7 +11613,11 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+        "genres": [
+          "Comedia"
+        ],
+        "releaseDate": "2007-09-24"
       },
       {
         "title": "Euphoria",
@@ -10460,7 +11813,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-06-16"
       },
       {
         "title": "The Wolf of Wall Street",
@@ -10490,7 +11847,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2013-12-25"
       },
       {
         "title": "Gambito de Dama",
@@ -10584,7 +11947,11 @@
             "actua",
             "aparece"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2020-10-23"
       },
       {
         "title": "Rango",
@@ -10609,7 +11976,15 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia",
+          "Western",
+          "Aventura"
+        ],
+        "releaseDate": "2011-03-02"
       },
       {
         "title": "Cars 2",
@@ -10634,7 +12009,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura",
+          "Comedia"
+        ],
+        "releaseDate": "2011-06-11"
       },
       {
         "title": "Wonka",
@@ -10659,7 +12041,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-12-06"
       },
       {
         "title": "Emma",
@@ -10689,7 +12077,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2020-02-13"
       },
       {
         "title": "Cars",
@@ -10716,7 +12110,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2006-06-08"
       },
       {
         "title": "Whiskey Tango Foxtrot",
@@ -10746,7 +12147,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Bélica"
+        ],
+        "releaseDate": "2016-03-04"
       },
       {
         "title": "Slaughterhouse Rulez",
@@ -10776,7 +12183,14 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Terror",
+          "Acción",
+          "Fantasía"
+        ],
+        "releaseDate": "2018-10-31"
       },
       {
         "title": "The Menu",
@@ -10806,7 +12220,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Terror"
+        ],
+        "releaseDate": "2022-11-17"
       },
       {
         "title": "Riesgo Bajo Cero",
@@ -10838,7 +12257,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso"
+        ],
+        "releaseDate": "2021-06-24"
       },
       {
         "title": "The Naked Gun",
@@ -10868,7 +12292,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Crimen",
+          "Acción"
+        ],
+        "releaseDate": "2025-07-30"
       },
       {
         "title": "Playmobil",
@@ -10902,7 +12332,15 @@
             "voz",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Animación",
+          "Comedia",
+          "Aventura",
+          "Fantasía"
+        ],
+        "releaseDate": "2019-06-10"
       },
       {
         "title": "Taylor Swift Folklore The Long Pond Studio Sessions",
@@ -10938,7 +12376,12 @@
             "dirige",
             "equipo"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Documental"
+        ],
+        "releaseDate": "2020-11-25"
       },
       {
         "title": "Kim Possible Todo un Drama",
@@ -10974,7 +12417,17 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Aventura",
+          "Familia",
+          "Acción",
+          "Comedia",
+          "Ciencia ficción",
+          "Película de TV"
+        ],
+        "releaseDate": "2005-04-08"
       },
       {
         "title": "Los Fantasmas de Scrooge",
@@ -11001,7 +12454,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "2009-11-04"
       },
       {
         "title": "Buscando a Nemo",
@@ -11028,7 +12487,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Aventura"
+        ],
+        "releaseDate": "2003-05-30"
       },
       {
         "title": "Dream Productions",
@@ -11081,7 +12546,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xxkzIMA2YXT5Ck20RalLMt3G1Su.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/6sHfXN6sCzCcIJa3wwXPIJqFtuI.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "2024-12-11"
       },
       {
         "title": "Star Wars Episodio IV A New Hope",
@@ -11108,7 +12579,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/iWEJuiNOlScWVxfNVyXiXf6lCiG.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1977-05-25"
       },
       {
         "title": "Now is Good",
@@ -11138,7 +12615,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2012-09-19"
       },
       {
         "title": "Bichos Una Aventura en Miniatura",
@@ -11165,7 +12647,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+        "genres": [
+          "Aventura",
+          "Animación",
+          "Comedia",
+          "Familia"
+        ],
+        "releaseDate": "1998-11-25"
       },
       {
         "title": "Toy Story III",
@@ -11192,7 +12681,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia"
+        ],
+        "releaseDate": "2010-06-16"
       },
       {
         "title": "Top Gun",
@@ -11217,7 +12712,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+        "genres": [
+          "Acción",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "1986-05-16"
       },
       {
         "title": "Taylor Swift Reputation Stadium Tour",
@@ -11249,7 +12750,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2018-12-31"
       },
       {
         "title": "Rocky III",
@@ -11274,7 +12779,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/py47wBTHQZNDY0nShTvwZwpcyfv.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1982-05-28"
       },
       {
         "title": "La Sustancia",
@@ -11306,7 +12816,12 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2024-09-18"
       },
       {
         "title": "Alvin y las Ardillas",
@@ -11333,7 +12848,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3s3WvpKPXXeKAPketDDqiQTi20S.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2007-12-13"
       },
       {
         "title": "Star Wars Episodio III Revenge of the Sith",
@@ -11368,7 +12890,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2005-05-17"
       },
       {
         "title": "Last Night in Soho",
@@ -11402,7 +12930,13 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2021-10-09"
       },
       {
         "title": "Escape de Sobibor",
@@ -11429,7 +12963,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/sAeljrIHTtKgJ2BaVoa9oCTmD4u.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sOhrxGvSJOaAJdBXHu1vQImfGuj.jpg",
+        "genres": [
+          "Drama",
+          "Suspenso",
+          "Bélica",
+          "Película de TV"
+        ],
+        "releaseDate": "1987-04-12"
       },
       {
         "title": "21 Blackjack",
@@ -11454,7 +12995,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg",
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2008-03-27"
       },
       {
         "title": "American Pastoral",
@@ -11488,7 +13034,12 @@
             "actua",
             "dirige"
           ]
-        }
+        },
+        "genres": [
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2016-10-20"
       },
       {
         "title": "El Padrino I",
@@ -11515,7 +13066,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "1972-03-14"
       },
       {
         "title": "Galveston",
@@ -11545,7 +13101,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso"
+        ],
+        "releaseDate": "2018-10-10"
       },
       {
         "title": "Star Wars Episodio VI Return of the Jedi",
@@ -11572,7 +13132,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1983-05-25"
       },
       {
         "title": "Teen Spirit",
@@ -11603,7 +13169,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Drama"
+        ],
+        "releaseDate": "2019-04-12"
       },
       {
         "title": "Split",
@@ -11633,7 +13204,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2017-01-19"
       },
       {
         "title": "Non-stop",
@@ -11663,7 +13239,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2014-02-26"
       },
       {
         "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -11695,7 +13277,12 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Comedia"
+        ],
+        "releaseDate": "2024-12-05"
       },
       {
         "title": "Cuckoo",
@@ -11725,7 +13312,13 @@
           "Hunter Schafer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2024-02-16"
       },
       {
         "title": "Olivia Rodrigo Guts World Tour",
@@ -11764,7 +13357,11 @@
           "Taylor Swift": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2024-10-25"
       },
       {
         "title": "Lilo and Stitch I",
@@ -11789,7 +13386,14 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg",
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2002-06-21"
       },
       {
         "title": "The Runaways",
@@ -11824,7 +13428,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2010-03-19"
       },
       {
         "title": "The Watchers",
@@ -11854,7 +13463,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Terror",
+          "Misterio"
+        ],
+        "releaseDate": "2024-06-06"
       },
       {
         "title": "Rocky IV",
@@ -11879,7 +13494,12 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/lkwh9QsyJsEizke3q0OM6rkKiQT.jpg",
+        "genres": [
+          "Drama",
+          "Acción"
+        ],
+        "releaseDate": "1985-11-21"
       },
       {
         "title": "3 Generations",
@@ -11910,7 +13530,12 @@
             "actua",
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2016-10-27"
       },
       {
         "title": "Thoroughbreds",
@@ -11940,7 +13565,12 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2018-03-09"
       },
       {
         "title": "Star Wars Episodio V The Empire Strikes Back",
@@ -11967,7 +13597,13 @@
           "2025"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/ebluYJHkKoYHQ1x0XXlOLWdcqoL.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1980-05-20"
       },
       {
         "title": "Super Mario Bros The Movie",
@@ -11997,7 +13633,15 @@
           "Anya Taylor-Joy": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2023-04-05"
       },
       {
         "title": "Taken III",
@@ -12027,7 +13671,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Acción"
+        ],
+        "releaseDate": "2014-12-16"
       },
       {
         "title": "Taken I",
@@ -12057,7 +13706,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso"
+        ],
+        "releaseDate": "2008-02-18"
       },
       {
         "title": "Please Stand By",
@@ -12087,7 +13741,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "releaseDate": "2018-01-26"
       },
       {
         "title": "All the Bright Places",
@@ -12120,7 +13779,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2020-02-28"
       },
       {
         "title": "Very Good Girls",
@@ -12150,7 +13814,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2013-01-22"
       },
       {
         "title": "The Neon Demon",
@@ -12180,7 +13848,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2016-06-08"
       },
       {
         "title": "I Think Were Alone Now",
@@ -12210,7 +13883,13 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Ciencia ficción",
+          "Misterio"
+        ],
+        "releaseDate": "2018-09-14"
       },
       {
         "title": "Taken II",
@@ -12240,7 +13919,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Suspenso"
+        ],
+        "releaseDate": "2012-09-27"
       },
       {
         "title": "Vicious",
@@ -12270,7 +13955,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2025-08-06"
       },
       {
         "title": "Viena and the Fantomes",
@@ -12300,7 +13990,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2020-06-30"
       },
       {
         "title": "The Roads Not Taken",
@@ -12330,7 +14026,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2020-03-13"
       }
     ]
   },
@@ -12984,7 +14684,11 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+        "genres": [
+          "Comedia"
+        ],
+        "releaseDate": "2007-09-24"
       },
       {
         "title": "Kim Possible",
@@ -13192,7 +14896,15 @@
           "Will Friedle": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2002-06-07"
       },
       {
         "title": "Pan Am",
@@ -13330,7 +15042,11 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2011-09-25"
       },
       {
         "title": "Maid",
@@ -13439,7 +15155,11 @@
           "Margot Robbie": [
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2021-09-30"
       },
       {
         "title": "All Her Fault",
@@ -13529,7 +15249,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Misterio",
+          "Crimen"
+        ],
+        "releaseDate": "2025-11-07"
       },
       {
         "title": "The Girl From Plainville",
@@ -13620,7 +15345,12 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2022-03-29"
       },
       {
         "title": "The Perfect Couple",
@@ -13697,7 +15427,13 @@
           "Meghan Trainor": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Crimen"
+        ],
+        "releaseDate": "2024-09-05"
       },
       {
         "title": "Family Switch",
@@ -13730,7 +15466,13 @@
           "Michael Jackson": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Fantasía",
+          "Familia"
+        ],
+        "releaseDate": "2023-11-30"
       },
       {
         "title": "A Rainy Day in New York",
@@ -13760,7 +15502,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance"
+        ],
+        "releaseDate": "2019-07-26"
       },
       {
         "title": "A Complete Unknown",
@@ -13790,7 +15537,12 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Música"
+        ],
+        "releaseDate": "2024-12-25"
       },
       {
         "title": "Love Actually",
@@ -13820,7 +15572,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2003-09-07"
       },
       {
         "title": "Orgullo y Prejuicio",
@@ -13847,7 +15605,12 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2005-09-16"
       },
       {
         "title": "A Minecraft Movie",
@@ -13877,7 +15640,14 @@
           "Emma Myers": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Comedia",
+          "Aventura"
+        ],
+        "releaseDate": "2025-03-31"
       },
       {
         "title": "Schindler's List",
@@ -13907,7 +15677,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Historia",
+          "Bélica"
+        ],
+        "releaseDate": "1993-12-15"
       },
       {
         "title": "Taylor Swift - The Eras Tour Film The Final Show",
@@ -13941,7 +15717,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2025-12-11"
       },
       {
         "title": "Marlowe",
@@ -13974,7 +15754,11 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Crimen"
+        ],
+        "releaseDate": "2023-02-15"
       },
       {
         "title": "Interestellar",
@@ -13999,7 +15783,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+        "genres": [
+          "Aventura",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2014-11-04"
       },
       {
         "title": "Home",
@@ -14024,7 +15814,13 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
+        "genres": [
+          "Documental",
+          "Drama",
+          "Familia"
+        ],
+        "releaseDate": "2009-06-03"
       },
       {
         "title": "Work It",
@@ -14059,7 +15855,12 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Música"
+        ],
+        "releaseDate": "2020-08-07"
       },
       {
         "title": "Tall Girl I",
@@ -14092,7 +15893,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2019-09-13"
       },
       {
         "title": "Taylor Swift The 1989 World Tour",
@@ -14126,7 +15933,11 @@
             "musica",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Música"
+        ],
+        "releaseDate": "2015-12-20"
       },
       {
         "title": "Blacklight",
@@ -14156,7 +15967,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Aventura"
+        ],
+        "releaseDate": "2022-02-10"
       },
       {
         "title": "Effie Gray",
@@ -14186,7 +16003,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2014-03-08"
       },
       {
         "title": "The Witch",
@@ -14216,7 +16037,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Fantasía",
+          "Misterio"
+        ],
+        "releaseDate": "2016-02-19"
       },
       {
         "title": "Cars III",
@@ -14243,7 +16070,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+        "genres": [
+          "Animación",
+          "Drama",
+          "Familia",
+          "Aventura"
+        ],
+        "releaseDate": "2017-06-15"
       },
       {
         "title": "How to Make a Killing",
@@ -14273,7 +16107,13 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Suspenso",
+          "Crimen"
+        ],
+        "releaseDate": "2026-02-16"
       },
       {
         "title": "Michael",
@@ -14306,7 +16146,12 @@
           "Michael Jackson": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Música",
+          "Drama"
+        ],
+        "releaseDate": "2026-04-22"
       },
       {
         "title": "Emergency",
@@ -14336,7 +16181,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Drama",
+          "Suspenso"
+        ],
+        "releaseDate": "2022-05-20"
       },
       {
         "title": "An American Girl - Grace Stirs Up Success",
@@ -14368,7 +16219,12 @@
           "Olivia Rodrigo": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Drama"
+        ],
+        "releaseDate": "2015-06-23"
       },
       {
         "title": "Tall Girl II",
@@ -14401,7 +16257,13 @@
           "Sabrina Carpenter": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2022-02-10"
       },
       {
         "title": "La Bella Durmiente",
@@ -14428,7 +16290,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+        "genres": [
+          "Fantasía",
+          "Animación",
+          "Romance",
+          "Familia"
+        ],
+        "releaseDate": "1959-02-17"
       },
       {
         "title": "The Commuter",
@@ -14458,7 +16327,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2018-01-11"
       },
       {
         "title": "Five Nights at Freddy's II",
@@ -14488,7 +16363,12 @@
           "Elizabeth Lail": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2025-12-03"
       },
       {
         "title": "Jojo Rabbit",
@@ -14518,7 +16398,13 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Bélica",
+          "Drama"
+        ],
+        "releaseDate": "2019-10-18"
       },
       {
         "title": "Obi-Wan Kenobi",
@@ -14597,7 +16483,14 @@
             "actua",
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción",
+          "Fantasía",
+          "Acción",
+          "Aventura"
+        ],
+        "releaseDate": "2022-05-26"
       },
       {
         "title": "The Vanishing of Sidney Hall",
@@ -14630,7 +16523,13 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Romance"
+        ],
+        "releaseDate": "2018-03-02"
       },
       {
         "title": "Glass",
@@ -14663,7 +16562,13 @@
           "Samuel L. Jackson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2019-01-16"
       },
       {
         "title": "Barry",
@@ -14693,7 +16598,11 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2016-09-10"
       },
       {
         "title": "20th Century Women",
@@ -14726,7 +16635,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2016-12-28"
       },
       {
         "title": "The Motel Life",
@@ -14756,7 +16669,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2013-11-08"
       },
       {
         "title": "Ordinary Love",
@@ -14786,7 +16705,12 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2019-12-06"
       },
       {
         "title": "A Big Bold Beautiful Journey",
@@ -14816,7 +16740,13 @@
           "Margot Robbie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Romance",
+          "Fantasía",
+          "Drama"
+        ],
+        "releaseDate": "2025-09-17"
       },
       {
         "title": "Leave No Trace",
@@ -14846,7 +16776,11 @@
           "Thomasin McKenzie": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2018-06-29"
       },
       {
         "title": "Maleficent II Mistress of Evil",
@@ -14879,7 +16813,13 @@
           "Michelle Pfeiffer": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Aventura"
+        ],
+        "releaseDate": "2019-10-16"
       },
       {
         "title": "Night Moves",
@@ -14909,7 +16849,12 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2014-04-23"
       },
       {
         "title": "Toy Story IV",
@@ -14936,7 +16881,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Animación",
+          "Aventura"
+        ],
+        "releaseDate": "2019-06-19"
       },
       {
         "title": "Cenicienta",
@@ -14963,7 +16915,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+        "genres": [
+          "Familia",
+          "Fantasía",
+          "Animación",
+          "Romance"
+        ],
+        "releaseDate": "1950-02-22"
       },
       {
         "title": "Maleficent I",
@@ -14996,7 +16955,15 @@
           "Lana del Rey": [
             "musica"
           ]
-        }
+        },
+        "genres": [
+          "Fantasía",
+          "Aventura",
+          "Acción",
+          "Familia",
+          "Romance"
+        ],
+        "releaseDate": "2014-05-28"
       },
       {
         "title": "Every Secret Thing",
@@ -15026,7 +16993,13 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen",
+          "Misterio"
+        ],
+        "releaseDate": "2014-04-20"
       },
       {
         "title": "Here Are The Young Men",
@@ -15056,7 +17029,11 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2021-05-27"
       },
       {
         "title": "Super Mario Galaxy",
@@ -15088,7 +17065,15 @@
           "Anya Taylor-Joy": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Familia",
+          "Comedia",
+          "Aventura",
+          "Fantasía",
+          "Animación"
+        ],
+        "releaseDate": "2026-04-01"
       },
       {
         "title": "Morgan",
@@ -15118,7 +17103,13 @@
           "Anya Taylor-Joy": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Terror",
+          "Ciencia ficción",
+          "Suspenso"
+        ],
+        "releaseDate": "2016-09-01"
       },
       {
         "title": "Sweetness in the Belly",
@@ -15148,7 +17139,11 @@
           "Dakota Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-09-06"
       },
       {
         "title": "The Muppet Show",
@@ -15181,7 +17176,14 @@
             "actua",
             "produce"
           ]
-        }
+        },
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Música",
+          "Película de TV"
+        ],
+        "releaseDate": "2026-02-03"
       },
       {
         "title": "Lilo and Stitch II",
@@ -15211,7 +17213,14 @@
           "Dakota Fanning": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Familia",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2005-08-22"
       },
       {
         "title": "Grand Theft Auto VI An Extended Look",
@@ -15236,7 +17245,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Crimen"
+        ],
+        "releaseDate": "2026-08-27"
       },
       {
         "title": "Ginger & Rosa",
@@ -15266,7 +17282,11 @@
           "Elle Fanning": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2012-10-18"
       },
       {
         "title": "GTA San Andreas The Introduction",
@@ -15296,7 +17316,13 @@
           "Samuel L. Jackson": [
             "voz"
           ]
-        }
+        },
+        "genres": [
+          "Animación",
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2004-11-23"
       },
       {
         "title": "Minions I",
@@ -15321,7 +17347,14 @@
           "2026"
         ],
         "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg"
+        "backdropUrl": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+        "genres": [
+          "Familia",
+          "Animación",
+          "Aventura",
+          "Comedia"
+        ],
+        "releaseDate": "2015-06-17"
       },
       {
         "title": "Unknown",
@@ -15351,7 +17384,13 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Misterio",
+          "Suspenso"
+        ],
+        "releaseDate": "2011-02-16"
       },
       {
         "title": "IO",
@@ -15381,7 +17420,11 @@
           "Margaret Qualley": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2019-01-18"
       },
       {
         "title": "Girl in the Basement",
@@ -15411,7 +17454,13 @@
           "Emma Myers": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen",
+          "Película de TV"
+        ],
+        "releaseDate": "2021-02-27"
       }
     ]
   },
@@ -15505,7 +17554,14 @@
           "Liam Neeson": [
             "actua"
           ]
-        }
+        },
+        "genres": [
+          "Acción",
+          "Crimen",
+          "Suspenso",
+          "Misterio"
+        ],
+        "releaseDate": "2024-10-31"
       }
     ]
   },

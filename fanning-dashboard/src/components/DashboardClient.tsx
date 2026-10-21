@@ -1,9 +1,8 @@
 "use client";
 
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useDeferredValue, useEffect, useMemo, useState, useSyncExternalStore } from 'react';
 import Link from 'next/link';
-import { useRouter, useSearchParams } from 'next/navigation';
-import { Film, BookOpen, Sparkles, TrendingUp, MessageSquare, Crown, X } from 'lucide-react';
+import { Film, BookOpen, Sparkles, TrendingUp, MessageSquare, Crown, Shapes, X } from 'lucide-react';
 
 import { miles, porcentaje } from '@/lib/formato';
 import { comprension } from '@/lib/stats';
@@ -14,7 +13,7 @@ import ReinaDelDia, { type CandidatoDelDia } from '@/components/realeza/ReinaDel
 import HeroPortada from '@/components/portada/HeroPortada';
 import TarjetaMetrica, { TONOS, type PuntoSerie } from '@/components/portada/TarjetaMetrica';
 import { PortadaAnio, PortadaData } from '@/types/manifest';
-import { hrefArtista, ordenGrupo } from '@/lib/realeza';
+import { agrupar, hrefArtista, ordenGrupo } from '@/lib/realeza';
 import { transicionPoster } from '@/lib/transiciones';
 import FondoAnimado from '@/components/ui/FondoAnimado';
 
@@ -27,10 +26,27 @@ function aniosDisponibles(portada: PortadaData): string[] {
   return ['all', ...Object.keys(portada).filter(k => k !== 'all').sort()];
 }
 
-// Lee el año elegido de la URL (?year=2025), así se puede compartir o recargar.
-// Necesita estar dentro de <Suspense> (ver app/page.tsx).
 // La Realeza por nombre, para las insignias de los pósters.
 export type ArtistasPorNombre = Record<string, ArtistaEnCarta>;
+
+// En el filtro del catálogo: los títulos sin nadie de la Realeza.
+const MISCELANEA = '__miscelanea__';
+
+// El año elegido va en la URL (?year=2025), así se puede compartir o recargar. Se lee directo de
+// la barra de direcciones y no con useSearchParams: ese obligaba a envolver la portada en <Suspense>
+// y el navegador tiraba el HTML del build para volver a dibujar la página entera (las 177 tarjetas).
+// Así el HTML se hidrata tal cual (histórico) y solo cambia si la URL pide otro año.
+const CAMBIO_ANIO = 'fanning:anio';
+function suscribirAnio(avisar: () => void) {
+  window.addEventListener('popstate', avisar);
+  window.addEventListener(CAMBIO_ANIO, avisar);
+  return () => {
+    window.removeEventListener('popstate', avisar);
+    window.removeEventListener(CAMBIO_ANIO, avisar);
+  };
+}
+const anioEnUrl = () => new URLSearchParams(window.location.search).get('year') ?? 'all';
+const anioDelBuild = () => 'all';
 
 interface PropsPortada {
   portada: PortadaData;
@@ -40,18 +56,12 @@ interface PropsPortada {
   hoy: string;               // fecha del build; en el navegador se usa la de ese día
 }
 
-export default function DashboardClient(props: PropsPortada) {
-  const pedido = useSearchParams().get('year') ?? 'all';
-  const anio = aniosDisponibles(props.portada).includes(pedido) ? pedido : 'all';
-  return <DashboardVista {...props} selectedYear={anio} />;
-}
-
-// La portada para un año dado. También es lo que se genera en el build (con el histórico).
-export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selectedYear }: PropsPortada & { selectedYear: string }) {
-  const router = useRouter();
+export default function DashboardClient({ portada, tandas, artistas, delDia, hoy }: PropsPortada) {
+  const pedido = useSyncExternalStore(suscribirAnio, anioEnUrl, anioDelBuild);
   const [showSearch, setShowSearch] = useState(false);
   const [artista, setArtista] = useState<string | null>(null);
   const availableYears = useMemo(() => aniosDisponibles(portada), [portada]);
+  const selectedYear = availableYears.includes(pedido) ? pedido : 'all';
 
   const stats = portada[selectedYear] ?? VACIO;
   const pctAnual = comprension(stats.totalDialogues, stats.totalWords);
@@ -73,16 +83,53 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
     };
   }, [availableYears, portada]);
 
-  // Filtro del catálogo por artista: quienes están en los títulos del ciclo elegido, con más títulos primero.
-  // Si el artista elegido no está en este ciclo, el filtro queda sin efecto.
-  const conRealeza = useMemo(() => {
+  // Filtro del catálogo: por artista, en sus grupos como en el Salón del Trono (Reyes Supremos,
+  // Amores Platónicos, Reinas, Reyes) y con más títulos primero; al final la Miscelánea, lo que no
+  // tiene a nadie de la Realeza. Si lo elegido no está en este ciclo, el filtro queda sin efecto.
+  const { gruposFiltro, miscelanea } = useMemo(() => {
     const cuenta = new Map<string, number>();
-    for (const m of stats.movieList) for (const n of Object.keys(m.realeza ?? {})) cuenta.set(n, (cuenta.get(n) ?? 0) + 1);
-    return [...cuenta.entries()].filter(([n]) => artistas[n])
-      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+    let sinRealeza = 0;
+    for (const m of stats.movieList) {
+      const nombres = Object.keys(m.realeza ?? {}).filter(n => artistas[n]);
+      if (!nombres.length) sinRealeza++;
+      for (const n of nombres) cuenta.set(n, (cuenta.get(n) ?? 0) + 1);
+    }
+    return {
+      gruposFiltro: agrupar([...cuenta.keys()].map(n => artistas[n])).filter(g => g.miembros.length).map(g => ({
+        nombre: g.nombre,
+        miembros: g.miembros.map(a => [a.nombre, cuenta.get(a.nombre) ?? 0] as const)
+          .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])),
+      })),
+      miscelanea: sinRealeza,
+    };
   }, [stats.movieList, artistas]);
-  const filtro = conRealeza.some(([n]) => n === artista) ? artista : null;
-  const catalogo = filtro ? stats.movieList.filter(m => m.realeza?.[filtro]) : stats.movieList;
+  const filtro = artista === MISCELANEA
+    ? (miscelanea ? MISCELANEA : null)
+    : gruposFiltro.some(g => g.miembros.some(([n]) => n === artista)) ? artista : null;
+  const esMiscelanea = filtro === MISCELANEA;
+  // El selector responde al tiro y la grilla de pósters se rehace después, sin trabar el clic.
+  // Memorizada para que abrir el buscador u otros cambios no vuelvan a dibujar todos los pósters.
+  const filtroCatalogo = useDeferredValue(filtro);
+  const catalogo = useMemo(() => {
+    const lista = filtroCatalogo === MISCELANEA
+      ? stats.movieList.filter(m => !Object.keys(m.realeza ?? {}).some(n => artistas[n]))
+      : filtroCatalogo ? stats.movieList.filter(m => m.realeza?.[filtroCatalogo]) : stats.movieList;
+    return lista.map((item) => (
+      <MovieCard
+        key={item.title}
+        title={item.title}
+        count={item.count}
+        dialogues={item.dialogues}
+        posterUrl={item.posterUrl}
+        level={item.level}
+        rating={item.rating}
+        transicion={transicionPoster(item.type, item.title)}
+        color={item.color}
+        realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean).sort((a, b) => ordenGrupo(a) - ordenGrupo(b))}
+        href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
+      />
+    ));
+  }, [filtroCatalogo, stats.movieList, artistas]);
 
   // Pósters para el mosaico del encabezado.
   const posters = useMemo(
@@ -90,8 +137,10 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
     [portada],
   );
 
+  // replaceState se integra con el router de Next y no vuelve a pedir la página.
   const elegirAnio = (year: string) => {
-    router.replace(year === 'all' ? '/' : `/?year=${year}`, { scroll: false });
+    window.history.replaceState(null, '', year === 'all' ? '/' : `/?year=${year}`);
+    window.dispatchEvent(new Event(CAMBIO_ANIO));
   };
 
   // Ctrl+K (o Cmd+K) y "/" abren el buscador
@@ -214,24 +263,35 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
           <h2 className="text-2xl font-bold flex items-center gap-2">
             <Film className="text-pink-500" size={28} /> Catálogo de Visualización {selectedYear !== 'all' ? `(${selectedYear})` : ''}
           </h2>
-          {conRealeza.length > 0 && (
+          {(gruposFiltro.length > 0 || miscelanea > 0) && (
             <div className="flex items-center gap-2 flex-wrap">
-              <label className={`flex items-center gap-2 rounded-full pl-3 pr-1 py-1 text-sm font-medium border transition ${filtro
-                ? 'bg-amber-400 text-gray-950 border-amber-300'
-                : 'bg-amber-500/10 text-amber-300 border-amber-400/30'}`}>
-                <Crown size={14} aria-hidden />
-                <span className="sr-only">Ver solo los títulos de un miembro de la Realeza</span>
+              <label className={`flex items-center gap-2 rounded-full pl-3 pr-1 py-1 text-sm font-medium border transition ${esMiscelanea
+                ? 'bg-violet-400 text-gray-950 border-violet-300'
+                : filtro
+                  ? 'bg-amber-400 text-gray-950 border-amber-300'
+                  : 'bg-amber-500/10 text-amber-300 border-amber-400/30'}`}>
+                {esMiscelanea ? <Shapes size={14} aria-hidden /> : <Crown size={14} aria-hidden />}
+                <span className="sr-only">Ver solo los títulos de un miembro de la Realeza, o los que no tienen a nadie</span>
                 <select value={filtro ?? ''} onChange={e => setArtista(e.target.value || null)}
                   className="bg-transparent outline-none cursor-pointer pr-2 max-w-60">
                   <option value="" className="bg-gray-900 text-gray-100">Con alguien de la Realeza…</option>
-                  {conRealeza.map(([n, c]) => (
-                    <option key={n} value={n} className="bg-gray-900 text-gray-100">{n} ({c})</option>
+                  {gruposFiltro.map(g => (
+                    <optgroup key={g.nombre} label={g.nombre} className="bg-gray-900 text-gray-400">
+                      {g.miembros.map(([n, c]) => (
+                        <option key={n} value={n} className="bg-gray-900 text-gray-100">{n} ({c})</option>
+                      ))}
+                    </optgroup>
                   ))}
+                  {miscelanea > 0 && (
+                    <optgroup label="El resto" className="bg-gray-900 text-gray-400">
+                      <option value={MISCELANEA} className="bg-gray-900 text-gray-100">Miscelánea ({miscelanea})</option>
+                    </optgroup>
+                  )}
                 </select>
               </label>
               {filtro && (
                 <>
-                  <Link href={hrefArtista(filtro)} className="text-sm text-amber-300 hover:underline">Ver su página</Link>
+                  {!esMiscelanea && <Link href={hrefArtista(filtro)} className="text-sm text-amber-300 hover:underline">Ver su página</Link>}
                   <button onClick={() => setArtista(null)} className="text-gray-400 hover:text-white p-1" aria-label="Quitar el filtro">
                     <X size={16} />
                   </button>
@@ -242,21 +302,7 @@ export function DashboardVista({ portada, tandas, artistas, delDia, hoy, selecte
         </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-          {catalogo.map((item) => (
-            <MovieCard
-              key={item.title}
-              title={item.title}
-              count={item.count}
-              dialogues={item.dialogues}
-              posterUrl={item.posterUrl}
-              level={item.level}
-              rating={item.rating}
-              transicion={transicionPoster(item.type, item.title)}
-              color={item.color}
-              realeza={Object.keys(item.realeza ?? {}).map(n => artistas[n]).filter(Boolean).sort((a, b) => ordenGrupo(a) - ordenGrupo(b))}
-              href={item.type === 'series' ? `/series/${encodeURIComponent(item.title)}` : `/peliculas/${encodeURIComponent(item.title)}`}
-            />
-          ))}
+          {catalogo}
         </div>
       </div>
     </div>

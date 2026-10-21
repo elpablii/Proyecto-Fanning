@@ -1,5 +1,4 @@
-import { Suspense } from 'react';
-import DashboardClient, { DashboardVista, type ArtistasPorNombre } from '@/components/DashboardClient';
+import DashboardClient, { type ArtistasPorNombre } from '@/components/DashboardClient';
 import { agruparTandas, getLineaDeTiempo, getPortada, getRealeza, getTodos } from '@/lib/data';
 import { estadisticas } from '@/lib/realeza';
 import type { CandidatoDelDia } from '@/components/realeza/ReinaDelDia';
@@ -27,11 +26,7 @@ export default function Page() {
     };
   });
   const hoy = new Date().toLocaleDateString('sv');
-  // La portada lee el año elegido de la URL (?year=2025). Mientras eso carga en el navegador,
-  // se muestra (y se genera en el build) la vista con el histórico completo.
-  return (
-    <Suspense fallback={<DashboardVista portada={portada} tandas={tandas} artistas={artistas} delDia={delDia} hoy={hoy} selectedYear="all" />}>
-      <DashboardClient portada={portada} tandas={tandas} artistas={artistas} delDia={delDia} hoy={hoy} />
-    </Suspense>
-  );
+  // La portada lee el año elegido de la URL (?year=2025) ya en el navegador; el HTML del build
+  // trae el histórico completo y se aprovecha tal cual (ver DashboardClient).
+  return <DashboardClient portada={portada} tandas={tandas} artistas={artistas} delDia={delDia} hoy={hoy} />;
 }

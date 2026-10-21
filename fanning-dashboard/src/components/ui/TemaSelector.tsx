@@ -50,7 +50,7 @@ export default function TemaSelector() {
   return (
     <button onClick={cambiar} title={`${TEXTO[tema]} · cambiar a: ${TEXTO[siguiente].toLowerCase()}`}
       aria-label={`${TEXTO[tema]}. Cambiar a ${TEXTO[siguiente].toLowerCase()}`}
-      className="fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full border border-white/15 bg-gray-900/80 backdrop-blur-md px-3 py-2 text-sm text-gray-200 shadow-lg hover:bg-gray-800 transition print:hidden">
+      className="fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full border border-white/15 bg-gray-900/95 px-3 py-2 text-sm text-gray-200 shadow-lg hover:bg-gray-800 transition print:hidden">
       <Icono size={16} aria-hidden />
       <span className="hidden sm:inline">{TEXTO[tema]}</span>
     </button>

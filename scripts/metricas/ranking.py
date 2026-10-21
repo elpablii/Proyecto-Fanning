@@ -88,6 +88,15 @@ def agrupar(items):
     return grupo
 
 
+def representante(variantes, traducciones):
+    """Cómo se muestra un grupo: la forma más usada (si hay empate, la más corta) y la traducción
+    más usada (si hay empate, la más completa; no depende del orden de los archivos).
+    Recibe dos Counter: {palabra: veces} y {traducción: veces}."""
+    palabra = min(variantes.items(), key=lambda x: (-x[1], len(x[0]), x[0]))[0]
+    traduccion = min(traducciones.items(), key=lambda x: (-x[1], -len(x[0]), x[0]))[0]
+    return palabra, traduccion
+
+
 def top(items, grupos, cantidad=10):
     """Las `cantidad` palabras más repetidas entre `items` (con su grupo)."""
     cuenta = Counter(grupos)
@@ -98,9 +107,7 @@ def top(items, grupos, cantidad=10):
         traducciones[g][it['translation']] += 1
     lista = []
     for g, n in cuenta.most_common():
-        palabra = min(variantes[g].items(), key=lambda x: (-x[1], len(x[0]), x[0]))[0]
-        # la traducción más usada; si hay empate, la más completa (no depende del orden de los archivos)
-        traduccion = min(traducciones[g].items(), key=lambda x: (-x[1], -len(x[0]), x[0]))[0]
+        palabra, traduccion = representante(variantes[g], traducciones[g])
         lista.append({'word': palabra, 'count': n, 'translation': traduccion})
     lista.sort(key=lambda x: (-x['count'], x['word'].lower()))
     return lista[:cantidad]

@@ -30,6 +30,9 @@ export interface MovieStats {
   aliases?: string[];
   years?: string[];
   realeza?: Record<string, Papel[]>;  // artistas de la Realeza y cómo participan (ver lib/realeza.ts)
+  // De TMDB (scripts/metricas/origen_tmdb.py)
+  genres?: string[];
+  releaseDate?: string;      // "2019-04-12"; series: la del primer episodio
 }
 
 export interface YearlyData {

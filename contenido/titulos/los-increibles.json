@@ -7,6 +7,13 @@
     "tipo": "movie",
     "id": 9806
   },
+  "estreno": "2004-10-27",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Familia"
+  ],
   "analisis": "A pesar de ser animada, ofrece un inglés americano dinámico, claro y muy variado. Combina el lenguaje cotidiano y familiar de los suburbios ('homework') con terminología de superhéroes y espionaje ('secret identity', 'supers', 'monologue', 'syndrome').",
   "sinopsis": "Una familia de superhéroes encubiertos, mientras intentan vivir la tranquila vida suburbana, se ven obligados a entrar en acción para salvar el mundo.",
   "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",

@@ -6,6 +6,14 @@
     "tipo": "tv",
     "id": 2345
   },
+  "estreno": "2002-06-07",
+  "generos": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Comedia",
+    "Infantil"
+  ],
   "analisis": "El lenguaje de Kim Possible presenta un vocabulario adolescente propio de la década de los 2000s, incluyendo expresiones de instituto (slang) combinadas con jerga de agentes secretos, misiones tácticas y planes malvados. Es ideal para practicar un inglés dinámico, juvenil y lleno de modismos informales.",
   "sinopsis": "Serie que narra las aventuras de esta heroína en miniatura que compagina sus hazañas con las clases en el instituto. Todo comienza cuando Kim publica en su web que es capaz de enfrentarse a todo. Aunque ella se refería a tareas como hacer de canguro o cortar el césped, pronto comenzará a recibir e-mails desde todos los rincones del mundo para enfrentarse a los peores villanos que intentan hacerse con el control del planeta.",
   "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",

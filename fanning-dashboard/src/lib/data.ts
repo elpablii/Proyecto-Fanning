@@ -106,6 +106,22 @@ export function getTitulo(titulo: string, tipo: 'movie' | 'series'): { movieData
   return { movieData, extraData: leer<ExtraData>(path.join('pelis', `${movieData.title}.json`)) };
 }
 
+// Diccionario Fanning: lo genera scripts/metricas/diccionario.py con la misma agrupación que el
+// ranking de palabras más repetidas, así la suma de las veces da el total de palabras del inicio.
+// Cada palabra es una lista (pesa bastante menos que un objeto en ~28.000 palabras):
+// [palabra, traducción, veces, índices de títulos, tanda en que se aprendió o null, otras formas?].
+export type PalabraDiccionario = [string, string, number, number[], number | null, string[]?];
+
+export interface Diccionario {
+  titulos: { title: string; type: 'movie' | 'series' }[];
+  tandas: Record<string, [string, string]>;  // número: [fecha "2024-07-15", ciclo]
+  palabras: PalabraDiccionario[];
+}
+
+export function getDiccionario(): Diccionario {
+  return leer<Diccionario>('diccionario.json') ?? { titulos: [], tandas: {}, palabras: [] };
+}
+
 // Línea de tiempo: la genera scripts/metricas/linea_tiempo.py a partir de contenido/tandas.json
 // y contenido/ciclos.json, con las métricas de cada tanda y de cada ciclo ya calculadas.
 export interface ItemTanda {

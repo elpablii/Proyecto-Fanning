@@ -60,7 +60,7 @@ function Cifra({ icono: Icono, etiqueta, valor, nota, color }: {
   icono: typeof BookOpen; etiqueta: string; valor: string; nota?: string; color: string;
 }) {
   return (
-    <div className="rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-md p-4">
+    <div className="rounded-2xl border border-white/10 bg-gray-950/50 p-4">
       <Icono size={18} className={`${color} mb-2`} aria-hidden />
       <p className="text-2xl font-extrabold text-white leading-none">{valor}</p>
       <p className={`text-[11px] uppercase tracking-wider font-semibold mt-1.5 ${color}`}>{etiqueta}</p>
@@ -185,6 +185,14 @@ export default function ArtistaClient({
           </div>
         </header>
 
+        {/* Las hermanas que le dan nombre al proyecto tienen su propia página juntas */}
+        {(artista.nombre === 'Dakota Fanning' || artista.nombre === 'Elle Fanning') && (
+          <Link href="/realeza/casa-fanning"
+            className="mb-10 flex items-center justify-center gap-2 rounded-2xl border border-pink-300/30 bg-pink-500/10 hover:bg-pink-500/20 text-pink-200 px-4 py-3 text-sm font-semibold transition">
+            <Heart size={16} fill="currentColor" aria-hidden /> Ver la Casa Fanning: {artista.nombre === 'Dakota Fanning' ? 'Dakota y su hermana Elle' : 'Elle y su hermana Dakota'}, cara a cara
+          </Link>
+        )}
+
         {artista.cita && (
           <div className="mb-14 animate-fade-in">
             <CitaReal cita={artista.cita} grande color={acento.texto}
@@ -277,7 +285,7 @@ export default function ArtistaClient({
               {conexiones.map(c => (
                 <li key={c.nombre}>
                   <Link href={hrefArtista(c.nombre)}
-                    className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/[0.04] hover:bg-white/[0.08] hover:border-white/25 backdrop-blur-md p-3 transition">
+                    className="flex items-center gap-3 rounded-2xl border border-white/10 bg-gray-950/50 hover:bg-gray-900/70 hover:border-white/25 p-3 transition">
                     <Retrato a={c} />
                     <span className="min-w-0">
                       <span className="block font-bold text-white truncate">{c.nombre}</span>

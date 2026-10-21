@@ -10,7 +10,7 @@ Este comando:
   1. Valida las fichas; si alguna tiene un error, se detiene y explica qué corregir.
   2. Cuenta palabras/frases y líneas de diálogo con los criterios de Metodología/.
   3. Genera fanning-dashboard/data/: pelis/<título>.json, <año>/vocabulario_*.json,
-     manifest.json, realeza.json y timeline.json. Todo eso es generado: no se edita a mano.
+     manifest.json, realeza.json, timeline.json y diccionario.json. Todo eso es generado: no se edita a mano.
   4. Borra los datos generados de títulos que ya no tienen ficha.
   5. Deja un reporte de qué cambió en scripts/metricas/reporte_ultima_actualizacion.md
 
@@ -33,6 +33,7 @@ import fichas as F  # noqa: E402
 import ranking  # noqa: E402
 import nivel as N  # noqa: E402
 import linea_tiempo  # noqa: E402
+import diccionario  # noqa: E402
 from conteo import (clave_episodio, contar_dialogos, leer_lineas, leer_vocabulario,  # noqa: E402
                     sin_repetidas)
 
@@ -323,6 +324,10 @@ def construir_manifest(lista_fichas, resultados, pelis):
             m['backdropUrl'] = f['fondo']
         if F.papeles_realeza(f):
             m['realeza'] = F.papeles_realeza(f)  # {artista: [cómo participa]}
+        # de TMDB (origen_tmdb.py): géneros y fecha de estreno
+        for clave, campo in (('genres', 'generos'), ('releaseDate', 'estreno')):
+            if f.get(campo):
+                m[clave] = f[campo]
         return m
 
     def estadisticas(anio=None):
@@ -459,6 +464,7 @@ def main():
     escribir_json(os.path.join(DATA, 'manifest.json'), manifest)
     escribir_json(os.path.join(DATA, 'realeza.json'), F.cargar_realeza())
     linea_tiempo.generar()
+    diccionario.generar()
     reporte(manifest, viejo, avisos + avisos_fichas, resultados, borrados)
     a = manifest['all']
     print(f'\nListo: {a["totalWords"]:,} palabras y frases, {a["totalDialogues"]:,} líneas de diálogo, '

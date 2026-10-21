@@ -99,3 +99,37 @@ Ideas para mostrarlos:
 - "Próximamente" en cada artista (desde la proyección de 2027), el color de cada
   ficha sacado de su póster ("python fanning.py colores"), letra Quattrocento Sans para la
   Realeza y modo claro/oscuro con selector abajo a la derecha.  [HECHO el 17/10/2026]
+
+============================================================
+5. NUEVAS IDEAS ELEGIDAS  (anotadas el 20/10/2026)
+============================================================
+1. Diccionario Fanning (/diccionario): todas las palabras aprendidas en un
+   solo lugar, con buscador. Por palabra: traducción, en qué títulos
+   apareció, cuándo se aprendió por primera vez (fecha y tanda) y qué
+   artista de la Realeza la dijo.
+   [HECHO el 20/10/2026: /diccionario, con buscador, letras, orden, filtro por
+   ciclo y por artista, palabra al azar y flashcards. Lo genera
+   scripts/metricas/diccionario.py con la misma agrupación que "Palabras más
+   repetidas": suma 32.620. No se sabe quién dijo cada palabra; se muestra
+   quién de la Realeza está en esos títulos]
+2. Mapa de orígenes: mapamundi con los países de producción de cada título
+   (production_countries de TMDB). Al tocar un país, sus títulos.
+   [DESCARTADA el 21/10/2026: se probó y no convenció]
+3. Géneros y décadas: qué géneros y qué épocas de estreno dominan el
+   proyecto (géneros y fecha de estreno de TMDB), por año o tanda.
+   [HECHO el 21/10/2026: "Géneros y Épocas" en /generos, por ciclo y medido
+   en títulos, palabras u horas. Los géneros y la fecha de estreno quedan en
+   cada ficha con "python fanning.py origen"]
+4. Velocidad de habla: ranking de "los diálogos más rápidos" con el ppm que
+   ya calcula nivel.py (dialogos.ppm) y dispersión ppm contra nivel MCER.
+   [HECHO el 20/10/2026: "El Ritmo del Inglés" en /ritmo, con los 10 más
+   rápidos y los 10 más pausados, la dispersión, el ritmo de cada ciclo y la
+   tabla completa]
+5. Árbol genealógico Fanning: vista especial de Dakota y Elle Fanning (el
+   origen del nombre) con sus títulos entrelazados en el tiempo.
+   [HECHO el 20/10/2026: "La Casa Fanning" en /realeza/casa-fanning, con la
+   comparación cara a cara, el árbol y lo que viene con las dos]
+6. Música de la Realeza: las canciones que suenan en los títulos (Paramore,
+   Taylor Swift, Michael Jackson, etc., de realeza_manual), cada una con su
+   título, artista y enlace para escucharla.
+   [DESCARTADA el 21/10/2026]

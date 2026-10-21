@@ -75,6 +75,10 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
             className="mt-6 inline-flex items-center gap-2 rounded-full border border-indigo-300/30 bg-indigo-500/10 hover:bg-indigo-500/20 text-indigo-200 px-4 py-2 text-sm font-medium transition">
             <Stars size={16} aria-hidden /> Ver la Constelación Real
           </Link>
+          <Link href="/realeza/casa-fanning"
+            className="mt-6 ml-3 inline-flex items-center gap-2 rounded-full border border-pink-300/30 bg-pink-500/10 hover:bg-pink-500/20 text-pink-200 px-4 py-2 text-sm font-medium transition">
+            <Heart size={16} aria-hidden /> La Casa Fanning
+          </Link>
         </header>
 
         <PodioReal filas={podio} />

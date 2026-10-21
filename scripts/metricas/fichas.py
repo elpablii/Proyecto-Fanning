@@ -9,6 +9,8 @@ Una ficha por película o serie, con todo lo que se edita a mano:
   "clasificacion": "TE",                   # TE, TE+7, +14, +18
   "duracion": 95,                          # minutos (películas); la trae duracion_tmdb.py
   "tmdb": {"tipo": "movie", "id": 150540}, # o null si todavía no se sabe
+  "estreno": "2015-06-19", "generos": ["Animación", "Familia"],
+                                           # de TMDB (origen_tmdb.py); se pueden corregir a mano
   "analisis": "…",
   "sinopsis": "…", "poster": "https://…", "fondo": "https://…", "fotos": ["https://…"],
   "realeza": {"Margot Robbie": ["actua", "produce"]},   # quién de contenido/realeza.json participa y cómo
@@ -43,8 +45,8 @@ REALEZA = os.path.join(RAIZ, 'contenido', 'realeza.json')
 TANDAS = os.path.join(RAIZ, 'contenido', 'tandas.json')
 NIVELES = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'}
 CLASIFICACIONES = {'TE', 'TE+7', '+14', '+18'}
-ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'duracion', 'tmdb', 'analisis', 'sinopsis', 'poster', 'fondo',
-         'fotos', 'realeza', 'realeza_manual', 'pdfs', 'episodios']
+ORDEN = ['titulo', 'tipo', 'nivel_fijo', 'clasificacion', 'duracion', 'tmdb', 'estreno', 'generos', 'analisis',
+         'sinopsis', 'poster', 'fondo', 'fotos', 'color', 'realeza', 'realeza_manual', 'pdfs', 'episodios']
 
 
 def slug(titulo):

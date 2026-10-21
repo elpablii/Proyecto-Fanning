@@ -7,6 +7,12 @@
     "tipo": "movie",
     "id": 1895
   },
+  "estreno": "2005-05-17",
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Ciencia ficción"
+  ],
   "analisis": "El punto álgido del lenguaje diplomático, trágico y oscuro de las precuelas. Diálogos casi shakesperianos ('treason', 'absolutes', 'democracy') y confrontaciones intensas.",
   "sinopsis": "Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus cenizas surge el malvado Imperio Galáctico. El héroe Jedi Anakin Skywalker es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador: Darth Vader. Los Jedi están diezmados, mientras Obi-Wan Kenobi y el Maestro Jedi Yoda son forzados a esconderse. La única esperanza para la galaxia es la descendencia de Anakin: los hijos gemelos nacidos en secreto que crecerán y se convertirán en héroes.",
   "poster": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",

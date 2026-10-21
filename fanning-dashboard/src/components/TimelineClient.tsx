@@ -146,7 +146,7 @@ function TarjetaTanda({ tanda, programada, realeza }: { tanda: Tanda; programada
     <div className="relative group animate-fade-in revelar">
       <div className={`absolute -left-[31px] md:-left-[47px] top-6 w-4 h-4 rounded-full border-4 border-gray-950 z-10 transition-all duration-300 group-hover:scale-125 ${programada ? 'bg-gray-600' : tono ? tono.punto : 'bg-blue-500 group-hover:bg-purple-400 group-hover:shadow-[0_0_10px_rgba(168,85,247,0.8)]'}`}></div>
 
-      <div className={`bg-gray-900/50 backdrop-blur-md border rounded-2xl p-4 sm:p-6 shadow-xl shadow-black/40 transition-all duration-300 hover:border-purple-500/40 ${programada ? 'border-dashed border-gray-700/70 opacity-80' : tono ? tono.borde : 'border-gray-700/50'}`}>
+      <div className={`bg-gray-900/80 border rounded-2xl p-4 sm:p-6 shadow-xl shadow-black/40 transition-all duration-300 hover:border-purple-500/40 ${programada ? 'border-dashed border-gray-700/70 opacity-80' : tono ? tono.borde : 'border-gray-700/50'}`}>
         <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-4 mb-5">
           <div>
             <div className="flex flex-wrap items-center gap-2">

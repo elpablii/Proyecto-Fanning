@@ -3,12 +3,13 @@
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import type { LucideIcon } from 'lucide-react';
 
-// El número sube hasta su valor al cargar la portada y al cambiar de ciclo.
+// El número sube hasta su valor al cambiar de ciclo. Al cargar la portada aparece ya con su valor:
+// contar desde 0 hacía parpadear la cifra y alargaba la carga (LCP) hasta que terminaba de contar.
 function useContador(objetivo: number, ms = 900): number {
   const [valor, setValor] = useState(objetivo);
-  const previo = useRef<number | null>(null);
+  const previo = useRef(objetivo);
   useEffect(() => {
-    const desde = previo.current ?? 0;
+    const desde = previo.current;
     previo.current = objetivo;
     if (desde === objetivo) return;
     const quieto = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

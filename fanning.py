@@ -2,7 +2,7 @@
 
   python fanning.py nuevo                          detecta PDFs nuevos y crea o completa fichas
   python fanning.py actualizar [--probar]          cuenta todo y actualiza la página
-  python fanning.py tandas                         regenera solo la línea de tiempo (rápido)
+  python fanning.py tandas                         regenera la línea de tiempo y el diccionario (rápido)
   python fanning.py quitar "Título" [--retirar-pdfs]
   python fanning.py imagenes "Título" [--id N]     póster, fondo, fotos y duración desde TMDB (y episodios en series)
   python fanning.py pendientes                     qué datos faltan completar en las fichas
@@ -10,6 +10,7 @@
   python fanning.py realeza [--rehacer]            fotos de la Realeza y en qué títulos participa cada artista (TMDB)
   python fanning.py citas                          verifica las citas de la Realeza contra los subtítulos
   python fanning.py colores [--rehacer]            el color de cada título, sacado de su póster
+  python fanning.py origen [--rehacer]             géneros y fecha de estreno de cada título (TMDB)
   python fanning.py revisar ortografia             faltas de ortografía y puntuación de los vocabularios
   python fanning.py revisar dialogos "ruta.pdf"    conteo de un PDF de diálogos, página por página
   python fanning.py probar                         corre las pruebas del conteo
@@ -68,7 +69,9 @@ def cmd_actualizar(args):
 
 def cmd_tandas(args):
     import linea_tiempo
+    import diccionario
     correr(linea_tiempo)
+    correr(diccionario)  # la tanda en que se aprendió cada palabra sale de las tandas
 
 
 def cmd_quitar(args):
@@ -130,6 +133,11 @@ def cmd_realeza(args):
 def cmd_citas(args):
     import citas
     correr(citas)
+
+
+def cmd_origen(args):
+    import origen_tmdb
+    correr(origen_tmdb, *(['--rehacer'] if args.rehacer else []))
 
 
 def cmd_colores(args):
@@ -231,6 +239,10 @@ def main():
 
     p = sub.add_parser('citas', help='verifica las citas de la Realeza contra los subtítulos y anota dónde están')
     p.set_defaults(fn=cmd_citas)
+
+    p = sub.add_parser('origen', help='géneros y fecha de estreno de cada título (TMDB)')
+    p.add_argument('--rehacer', action='store_true', help='vuelve a pedirlos aunque ya estén en la ficha')
+    p.set_defaults(fn=cmd_origen)
 
     p = sub.add_parser('colores', help='el color de cada título, sacado de su póster (para teñir su ficha)')
     p.add_argument('--rehacer', action='store_true', help='vuelve a calcular todos los colores')

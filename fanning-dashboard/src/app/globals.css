@@ -136,12 +136,28 @@ body {
   }
 }
 
-/* Reloj del inicio: un resplandor púrpura que late */
+/* Pósters del catálogo: el navegador se salta los que están lejos de la pantalla (no los pinta
+   ni corre su corona que late) y los dibuja justo antes de que lleguen con el scroll. Su alto lo
+   da aspect-ratio (ver MovieCard.tsx), así la página mide lo mismo y la barra no salta. */
+.tarjeta-catalogo { content-visibility: auto; }
+
+/* Reloj del inicio: un resplandor púrpura que late. La sombra queda fija en un ::after y solo
+   late su opacidad: animar box-shadow obligaba a volver a pintar el reloj en cada paso.
+   (El elemento necesita position: relative, ver RelojActual.tsx) */
 @keyframes latirResplandor {
-  0%, 100% { box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.3), 0 0 0 0 transparent; }
-  50% { box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.3), 0 0 26px -4px color-mix(in oklab, var(--color-purple-500) 40%, transparent); }
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
 }
-.resplandor-latiendo { animation: latirResplandor 5s steps(50) infinite; }
+.resplandor-latiendo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: 0 0 26px -4px color-mix(in oklab, var(--color-purple-500) 40%, transparent);
+  pointer-events: none;
+  opacity: 0;
+  animation: latirResplandor 5s ease-in-out infinite;
+}
 
 /* Ficha de película o serie: el resplandor del color del póster respira */
 @keyframes respirar {
@@ -197,10 +213,14 @@ body {
 
 /* Insignia de corona o corazón en los pósters: late suave y brilla */
 @keyframes latidoReal {
-  0%, 100% { transform: scale(1); filter: drop-shadow(0 0 0 transparent); }
-  50% { transform: scale(1.12); filter: drop-shadow(0 0 6px currentColor); }
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.12); }
 }
-.latido-real { animation: latidoReal 2.6s ease-in-out infinite; }
+/* El brillo es fijo y solo late el tamaño: animar el filter repintaba cada insignia del catálogo */
+.latido-real {
+  filter: drop-shadow(0 0 3px currentColor);
+  animation: latidoReal 2.6s ease-in-out infinite;
+}
 
 /* Cartas del Salón del Trono: se inclinan con el mouse (--rx, --ry) y se voltean (--giro) */
 .carta-real {
@@ -220,9 +240,9 @@ body {
   mix-blend-mode: color-dodge;
 }
 /* Los demás solo tienen el reflejo de luz */
+/* Sin mix-blend-mode (caro de pintar en cada movimiento): un blanco tenue da casi lo mismo */
 .reflejo-real {
-  background: radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, 0.22), transparent 50%);
-  mix-blend-mode: soft-light;
+  background: radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, 0.12), transparent 50%);
 }
 
 /* Confeti de la Reina o Rey del día cuando está de cumpleaños */
@@ -244,7 +264,8 @@ body {
   .latido-real { animation: none; }
   .confeti { display: none; }
   .desfile { animation: none; }
-  .aurora, .respirar, .brillo-titulo, .resplandor-latiendo { animation: none; }
+  .aurora, .respirar, .brillo-titulo { animation: none; }
+  .resplandor-latiendo::after { animation: none; }
   .borde-giratorio::before { animation: none; }
   .revelar { animation: none; opacity: 1; }
   .chispa, .petalo { display: none; }
