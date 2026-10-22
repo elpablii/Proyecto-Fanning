@@ -1,0 +1,43 @@
+{
+  "titulo": "Countdown",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 90,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 599975
+  },
+  "estreno": "2019-10-24",
+  "generos": [
+    "Terror",
+    "Suspenso"
+  ],
+  "analisis": "",
+  "sinopsis": "Quinn, una joven enfermera, descarga una aplicación para el móvil llamada 'Countdown', que puede predecir el momento exacto en el que una persona va a morir. En ese momento descubre que a ella sólo le quedan tres días de vida. Con el tiempo jugando en su contra y tras ser perseguida por una persona desconocida, tratará desesperadamente de burlar al destino antes de que se le agote el tiempo.",
+  "poster": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+    "https://image.tmdb.org/t/p/w780/zETkzgle7c6wAeW11snnVUBp67S.jpg",
+    "https://image.tmdb.org/t/p/w780/vb9luxoqiCogWxyeZoveTANa8P6.jpg",
+    "https://image.tmdb.org/t/p/w780/hzL2P0tcU62A6JHPhprI8ZyBI73.jpg",
+    "https://image.tmdb.org/t/p/w780/ffPSaDEV3AvrhlWBkAcsOCt52eW.jpg",
+    "https://image.tmdb.org/t/p/w780/4NIcyBjlILPIMnWNrGCSia12Gsa.jpg"
+  ],
+  "realeza": {
+    "Elizabeth Lail": [
+      "actua"
+    ],
+    "Peter Facinelli": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Countdown (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Countdown to improve the vocabulary in English.pdf"
+    ]
+  }
+}

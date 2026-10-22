@@ -1,0 +1,58 @@
+{
+  "titulo": "The First Lady",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 99070
+  },
+  "estreno": "2022-04-17",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "analisis": "",
+  "sinopsis": "A revelatory reframing of American leadership through the lens of the First Ladies. Exploring everything from their journeys to Washington, family life, and world-changing political contributions, the impact of the White House's women is no longer hidden from view.",
+  "poster": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+    "https://image.tmdb.org/t/p/w780/xYc9LaxggGAc32bMUaqXq7kqKfw.jpg",
+    "https://image.tmdb.org/t/p/w780/qCInHHv5eXmdugH88wmV9puDk66.jpg",
+    "https://image.tmdb.org/t/p/w780/jbwKCQkKqFDtP4lKJ4YxXA0cXzN.jpg",
+    "https://image.tmdb.org/t/p/w780/9XSo8vyG68BfNccz56VS04YZ4FO.jpg",
+    "https://image.tmdb.org/t/p/w780/xuK1MzfJG9RAYporUHas8YB9HOs.jpg"
+  ],
+  "realeza": {
+    "Dakota Fanning": [
+      "actua"
+    ],
+    "Michelle Pfeiffer": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The First Lady (EP 1-2) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from The First Lady to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "The First Lady (Episode 1)",
+      "titulo": "that white house",
+      "foto": "https://image.tmdb.org/t/p/w500/foEqofO1WpdB3gSjaJwBblIU28Z.jpg",
+      "sinopsis": "Después del repentino diagnóstico de polio de Franklin, Eleanor Roosevelt se compromete a posibilitar su futuro político a pesar de la presión de su suegra, Sara. A medida que se desarrolla el escándalo de Watergate, Betty Ford se convierte inesperadamente en la Segunda Dama tras la nominación de Jerry como vicepresidente y choca con su personal por su nuevo papel público. Luego de las históricas elecciones de 2008, Michelle Obama lucha con las expectativas y los peligros que enfrentan Barack y sus hijos como la primera familia negra que vive en la Casa Blanca.",
+      "duracion": 56
+    },
+    "S01E02": {
+      "nombre": "The First Lady (Episode 2)",
+      "titulo": "voices carry",
+      "foto": "https://image.tmdb.org/t/p/w500/3c5SVI3pK7zmCHNrNh0MbuxsFHl.jpg",
+      "sinopsis": "Conmovida por el número de víctimas que la Gran Depresión ha cobrado en el país, Eleanor presiona a Franklin para que actúe con más audacia y presiona para obtener una posición formal sin precedentes en la administración mientras ayuda a redactar su discurso inaugural. Después de la renuncia de Nixon, Jerry asume la presidencia y Betty se convierte en Primera Dama días antes de una importante cena de estado, que el personal de Jerry intenta cancelar. En los días previos a la toma de posesión de Barack, Michelle se enfrenta a la oposición de los miembros de su equipo de transición que planean disminuir su papel.",
+      "duracion": 55
+    }
+  }
+}

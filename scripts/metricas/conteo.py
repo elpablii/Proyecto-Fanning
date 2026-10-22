@@ -200,6 +200,7 @@ def contar_dialogos(lineas, es_serie=False, temporada=1, episodio_fijo=None, det
 TITULO_VOCAB = r'(Unknown words|Palabras desconocidas|Mots et phrases|Vocabulary)\b'
 CABECERA_EPISODIO = re.compile(
     r'^(?P<sp>Special\s+)?Episodes?(\s+0*(?P<n>\d+))?\s*(:|\(|$)'
+    r'|^S\d+\s*EP\s*0*(?P<sn>\d+)\s*:'  # 'S03EP1: Ándale (66 words/phrases)', como en los diálogos
     r'|^Part\s+(?P<rom>[IVX]+)\s*\(\s*\d+\s*words',
     re.I)
 CUENTA_CABECERA = re.compile(r'words?\s*/\s*phrases?|words\)', re.I)
@@ -259,7 +260,7 @@ def leer_vocabulario(lineas, nombre_archivo=''):
         if m.group('rom'):
             return clave_episodio(1, ROMANOS[m.group('rom').upper()])
         especial = bool(m.group('sp'))
-        n = int(m.group('n')) if m.group('n') else 1
+        n = int(m.group('n') or m.group('sn') or 1)
         if not esperados:
             return clave_episodio(1, n, especial=especial)
         for j in range(puntero, len(esperados)):

@@ -1,0 +1,358 @@
+{
+  "title": "The Ice Road II Vengeance",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.09,
+    "senales": {
+      "vocabulario": 3.83,
+      "dialogos": 4.66,
+      "temas": 4.2
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.2,
+        "A2": 3.1,
+        "B1": 14.4,
+        "B2": 35.3,
+        "C1": 23.5,
+        "C2": 17.6
+      },
+      "densidad": 4.6
+    },
+    "dialogos": {
+      "cobertura95": 5.16,
+      "ppm": 105.5
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Mike viaja a Nepal para esparcir las cenizas de su hermano en el Everest. Cuando Mike y su guía se topan con mercenarios mientras viajan en un autobús se ven obligados a luchar para salvarse a sí mismos, a los pasajeros y al país.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+      "https://image.tmdb.org/t/p/w780/5LoqCXmirTselbWReHqHrvr2Riv.jpg",
+      "https://image.tmdb.org/t/p/w780/hoss3jgj7ahhL9TDgs7TD0urD1C.jpg",
+      "https://image.tmdb.org/t/p/w780/j3dXhsnUYe1vUvhVtUXhXRWDy31.jpg",
+      "https://image.tmdb.org/t/p/w780/962KXsr09uK8wrmUg9TjzmE7c4e.jpg",
+      "https://image.tmdb.org/t/p/w780/6JxjWeQwCOMi958Rb2bDb4Xdfev.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+  "vocabulary": [
+    {
+      "word": "Equipment jangling (acotación)",
+      "translation": "ruido del equipo"
+    },
+    {
+      "word": "Rumbling (sustantivo)",
+      "translation": "estruendo, retumbar, ruidos"
+    },
+    {
+      "word": "Deep down in a place",
+      "translation": "en lo más profundo de un lugar"
+    },
+    {
+      "word": "I'll read up on it (parcialmente no literal)",
+      "translation": "me informaré al respecto"
+    },
+    {
+      "word": "Gears grinding (acotación)",
+      "translation": "ruido de engranajes chirriando"
+    },
+    {
+      "word": "Be resettled",
+      "translation": "ser reubicado/reasentado"
+    },
+    {
+      "word": "Into slums!",
+      "translation": "¡A los barrios marginales!"
+    },
+    {
+      "word": "Sweatshop",
+      "translation": "taller clandestino"
+    },
+    {
+      "word": "Crowd jeers (acotación)",
+      "translation": "la multitud abuchea"
+    },
+    {
+      "word": "Ratcheting (acotación)",
+      "translation": "chirrido"
+    },
+    {
+      "word": "We will sever our links (en sentido no informático)",
+      "translation": "romperemos nuestros lazos"
+    },
+    {
+      "word": "Vessel (no alusivo a un buque)",
+      "translation": "embarcación"
+    },
+    {
+      "word": "The flight is now boarding for depature",
+      "translation": "ya se está realizando el embarque para la salida del vuelo"
+    },
+    {
+      "word": "Looking spiffy",
+      "translation": "te ves genial"
+    },
+    {
+      "word": "Manifolds",
+      "translation": "colectores"
+    },
+    {
+      "word": "Tear up",
+      "translation": "romper, destrozar"
+    },
+    {
+      "word": "Lapsed Catholic",
+      "translation": "católico no practicante"
+    },
+    {
+      "word": "Quick sticks (expresión)",
+      "translation": "¡Rápido!"
+    },
+    {
+      "word": "That goes to roads that I'm not rated for (parcialmente no literal)",
+      "translation": "eso lleva a caminos para los que no estoy habilitado"
+    },
+    {
+      "word": "Devant (en francés)",
+      "translation": "delante"
+    },
+    {
+      "word": "Hatch",
+      "translation": "compuerta, trampilla, escotilla"
+    },
+    {
+      "word": "Flesh squelching (acotación)",
+      "translation": "sonido de carne al aplastarse"
+    },
+    {
+      "word": "I reckon a spot weld might get her down to the",
+      "translation": "creo que con una soldadura por puntos tal vez logre llevarla hasta"
+    },
+    {
+      "word": "I'm a fair hand with a welding torch (parcialmente no literal)",
+      "translation": "me manejo bastante bien con el soplete de soldadura"
+    },
+    {
+      "word": "Bloody oath I do",
+      "translation": "claro que sí, te lo juro"
+    },
+    {
+      "word": "You're a bloody beauty",
+      "translation": "eres una belleza de las buenas"
+    },
+    {
+      "word": "I'll bring her around (frase no literal)",
+      "translation": "la convenceré"
+    },
+    {
+      "word": "That roundhouse kick",
+      "translation": "esa patada circular"
+    },
+    {
+      "word": "Pots banging distantly (acotación)",
+      "translation": "se oyen golpes de ollas a lo lejos"
+    },
+    {
+      "word": "Ordeal",
+      "translation": "calvario"
+    },
+    {
+      "word": "Rumble (verbo)",
+      "translation": "retumbar"
+    },
+    {
+      "word": "Dam the river (verbo)",
+      "translation": "construir una presa en el río"
+    },
+    {
+      "word": "You're poking a dragón",
+      "translation": "estás provocando a un dragón"
+    },
+    {
+      "word": "Throw it down",
+      "translation": "tíralo"
+    },
+    {
+      "word": "Bloody",
+      "translation": "maldito"
+    },
+    {
+      "word": "Ropes whipping (acotación parcialmente no literal)",
+      "translation": "chasquido de las cuerdas"
+    },
+    {
+      "word": "Let's hitch up the team I got back there (parcialmente no literal)",
+      "translation": "vamos a enganchar el tiro que tengo ahí atrás"
+    },
+    {
+      "word": "Icy (adjetivo en temperatura)",
+      "translation": "helado"
+    },
+    {
+      "word": "Right up my alley (frase no literal)",
+      "translation": "justo lo que me gusta"
+    },
+    {
+      "word": "Find enlightment (verbo no literal)",
+      "translation": "alcanzar la iluminación"
+    },
+    {
+      "word": "Late brother (parcialmente no literal)",
+      "translation": "hermano difunto"
+    },
+    {
+      "word": "Grade (no alusivo a calificaciones)",
+      "translation": "pendiente"
+    },
+    {
+      "word": "Iced over",
+      "translation": "cubierta de hielo"
+    },
+    {
+      "word": "Hairpin turned at the bottom",
+      "translation": "se hizo un giro en forma de horquilla en la parte de abajo"
+    },
+    {
+      "word": "Hook the winch to the bumper",
+      "translation": "engancha el cabrestante al parachoques"
+    },
+    {
+      "word": "Winch",
+      "translation": "cabrestante"
+    },
+    {
+      "word": "Cranks (acotación)",
+      "translation": "manivelas"
+    },
+    {
+      "word": "Cable whips (acotación)",
+      "translation": "chirridos/chispazos de cables"
+    },
+    {
+      "word": "Winch spluttering, whines (acotación)",
+      "translation": "el cabrestante petardea y chilla"
+    },
+    {
+      "word": "The engine's seized",
+      "translation": "el motor se ha atascado"
+    },
+    {
+      "word": "Axle",
+      "translation": "eje"
+    },
+    {
+      "word": "Get (someone) upright",
+      "translation": "poner de pie"
+    },
+    {
+      "word": "Skim off",
+      "translation": "desmontar, quitar"
+    },
+    {
+      "word": "Guardrail",
+      "translation": "barandilla"
+    },
+    {
+      "word": "Quivering (acotación)",
+      "translation": "tembloroso"
+    },
+    {
+      "word": "Those military run-flat tires",
+      "translation": "esos llantes militares de rodadura sin aire"
+    },
+    {
+      "word": "Tides",
+      "translation": "mareas"
+    },
+    {
+      "word": "Pull on that",
+      "translation": "póntelo"
+    },
+    {
+      "word": "Mom's a bit of a mess (frase no literal)",
+      "translation": "mi mamá está un poco desorientada"
+    },
+    {
+      "word": "Ravine",
+      "translation": "barranco, quebrada"
+    },
+    {
+      "word": "Dispose (verbo)",
+      "translation": "deshacerse"
+    },
+    {
+      "word": "Slump (verbo)",
+      "translation": "desplomarse"
+    },
+    {
+      "word": "Are we going to crane over the gorge?",
+      "translation": "¿Vamos a asomarnos al precipicio?"
+    },
+    {
+      "word": "Pestle grinding (acotación)",
+      "translation": "molienda con mortero"
+    },
+    {
+      "word": "Mortar",
+      "translation": "mortero"
+    },
+    {
+      "word": "Ominous music sting (acotación)",
+      "translation": "fragmento de música siniestra"
+    },
+    {
+      "word": "Water trickling (acotación)",
+      "translation": "goteo del agua"
+    },
+    {
+      "word": "Knife slashes",
+      "translation": "cuchilladas"
+    },
+    {
+      "word": "Hold them off",
+      "translation": "manténlos a raya"
+    },
+    {
+      "word": "The stock (en armas)",
+      "translation": "la culata"
+    },
+    {
+      "word": "Aim and pull that (en armas)",
+      "translation": "apunta y aprieta el gatillo"
+    },
+    {
+      "word": "Rocks thundering (acotación)",
+      "translation": "ruido de rocas al caer"
+    },
+    {
+      "word": "Wick fizzles (acotación)",
+      "translation": "la mecha se apaga"
+    },
+    {
+      "word": "Outrun (verbo)",
+      "translation": "escapar"
+    },
+    {
+      "word": "The ayes have it (frase no literal)",
+      "translation": "la mayoría ha votado a favor"
+    },
+    {
+      "word": "Check-in gates",
+      "translation": "puertas de registro"
+    },
+    {
+      "word": "Stirring music",
+      "translation": "música conmovedora"
+    }
+  ],
+  "count": 77,
+  "dialogues": 1656,
+  "duration": 113
+}

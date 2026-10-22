@@ -1,0 +1,75 @@
+{
+  "titulo": "The Amazing Digital Circus",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 261145
+  },
+  "estreno": "2023-10-13",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Ciencia ficción",
+    "Fantasía"
+  ],
+  "analisis": "",
+  "sinopsis": "Una mujer queda atrapada en un loco mundo virtual junto con otros cinco humanos y ahora está sujeta a los caprichos de una extravagante IA y a sus propios traumas personales.",
+  "poster": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+    "https://image.tmdb.org/t/p/w780/nGCacbXEexNj8LEcBoInPKyN8O4.jpg",
+    "https://image.tmdb.org/t/p/w780/p3yTofrXgp1uEKs5eJbC2UtZZEu.jpg",
+    "https://image.tmdb.org/t/p/w780/kxMl7zLFfdNx46CLLkrJFYtt72x.jpg",
+    "https://image.tmdb.org/t/p/w780/aozgphokTt6D9xYEwVaicuJflQG.jpg",
+    "https://image.tmdb.org/t/p/w780/d9jabrtVZL46RnGIRPGEVOHyKt.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Amazing Digital Circus (EP 1-3) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de The Amazing Digital Circus (EP 4-5) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from The Amazing Digital Circus to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "The Amazing Digital Circus (Episode 1)",
+      "titulo": "Pilot",
+      "foto": "https://image.tmdb.org/t/p/w500/aoIpwK6Z93dFxgtHTlnFZzamLWk.jpg",
+      "sinopsis": "Atrapada en el Circo Digital y ansiosa por escapar, Pomni conoce a otras personas transformadas en caricaturas y a Caine, el excéntrico director del circo.",
+      "duracion": 26
+    },
+    "S01E02": {
+      "nombre": "The Amazing Digital Circus (Episode 2)",
+      "titulo": "Candy Carrier Chaos!",
+      "foto": "https://image.tmdb.org/t/p/w500/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg",
+      "sinopsis": "La pandilla debe ir tras los bandidos de miel en un reino de caramelos. Pomni ayuda a un forajido digital a resolver una pegajosa crisis de identidad.",
+      "duracion": 26
+    },
+    "S01E03": {
+      "nombre": "The Amazing Digital Circus (Episode 3)",
+      "titulo": "The Mystery of Mildenhall Manor",
+      "foto": "https://image.tmdb.org/t/p/w500/4haDAnhTNL6O4jznpuep4uyZxlM.jpg",
+      "sinopsis": "Kinger y Pomni exploran una mansión embrujada en la que viven una aventura llena de monstruos, fantasmas y sesiones de terapia.",
+      "duracion": 25
+    },
+    "S01E04": {
+      "nombre": "The Amazing Digital Circus (Episode 4)",
+      "titulo": "Fast Food Masquerade",
+      "foto": "https://image.tmdb.org/t/p/w500/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg",
+      "sinopsis": "Al grupo le toca trabajar todo el día en Spudsy's, un local de comida rápida. ¿Lograrán sobrevivir a la jornada laboral?",
+      "duracion": 24
+    },
+    "S01E05": {
+      "nombre": "The Amazing Digital Circus (Episode 5)",
+      "titulo": "Untitled",
+      "foto": "https://image.tmdb.org/t/p/w500/p7QToZAtIUrGtR8AfK1Yrt7MiDc.jpg",
+      "sinopsis": "Caine usa las ideas de la caja de sugerencias y guía a la pandilla a través de una serie de aventuras. Pomni está en una posición de poder.",
+      "duracion": 26
+    }
+  }
+}

@@ -1,0 +1,1331 @@
+{
+  "title": "GTA San Andreas WCTR Radio",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.49,
+    "senales": {
+      "vocabulario": 4.8,
+      "dialogos": 3.81,
+      "temas": 4.41
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.5,
+        "A2": 7.2,
+        "B1": 13.1,
+        "B2": 25.8,
+        "C1": 17.7,
+        "C2": 29.7
+      },
+      "densidad": 15.2
+    },
+    "dialogos": {
+      "cobertura95": 3.31,
+      "ppm": 647.1
+    },
+    "temas": [
+      "crimen, drogas y calle",
+      "legal y judicial"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "",
+    "photos": []
+  },
+  "vocabulary": [
+    {
+      "word": "They beat us into space",
+      "translation": "nos ganaron la carrera hacia el espacio"
+    },
+    {
+      "word": "Flouride",
+      "translation": "floruro"
+    },
+    {
+      "word": "Pinpoint (verbo)",
+      "translation": "localizar"
+    },
+    {
+      "word": "Loafers",
+      "translation": "mocasines"
+    },
+    {
+      "word": "Unborn child",
+      "translation": "feto"
+    },
+    {
+      "word": "Aftermath",
+      "translation": "secuelas"
+    },
+    {
+      "word": "Influx of Russian mobsters",
+      "translation": "afluencia de rusos mafiosos"
+    },
+    {
+      "word": "A full-on superstar",
+      "translation": "una superestrella en toda regla"
+    },
+    {
+      "word": "And nail a lot of tail, you dig? (informal)",
+      "translation": "¿Y ligar un montón, entiendes?"
+    },
+    {
+      "word": "Unless they take up mime (parcialmente no literal)",
+      "translation": "a menos que se dediquen al mimo"
+    },
+    {
+      "word": "Gloss (verbo)",
+      "translation": "pasar por alto"
+    },
+    {
+      "word": "Fight out",
+      "translation": "luchar hasta el final"
+    },
+    {
+      "word": "Endorsed clothing",
+      "translation": "ropa patrocinada"
+    },
+    {
+      "word": "Sliding down an icy tunnel",
+      "translation": "deslizándome por un túnel helado"
+    },
+    {
+      "word": "Frigid",
+      "translation": "gélido"
+    },
+    {
+      "word": "I ran my ass off",
+      "translation": "corrí como loco"
+    },
+    {
+      "word": "Yardage",
+      "translation": "metraje"
+    },
+    {
+      "word": "Spooky insights",
+      "translation": "reflexiones espeluznantes"
+    },
+    {
+      "word": "A bit of a punch-up",
+      "translation": "una pequeña pelea"
+    },
+    {
+      "word": "Take a dive (verbo)",
+      "translation": "darse un chapuzón"
+    },
+    {
+      "word": "A live phone week link-up",
+      "translation": "una conexión telefónica semanal en vivo"
+    },
+    {
+      "word": "Muscle-bound",
+      "translation": "musculoso"
+    },
+    {
+      "word": "Let's roll that",
+      "translation": "vamos a ponerlo en marcha"
+    },
+    {
+      "word": "Flake",
+      "translation": "escama, hojita"
+    },
+    {
+      "word": "Ed school",
+      "translation": "escuela especial"
+    },
+    {
+      "word": "It's appalling",
+      "translation": "es espantoso"
+    },
+    {
+      "word": "Recreational blow",
+      "translation": "consume cocaína por diversion"
+    },
+    {
+      "word": "A wrestler who's dropped into Thailand",
+      "translation": "un luchador que ha llegado a Tailandia"
+    },
+    {
+      "word": "Roll down",
+      "translation": "bajar la ventanilla"
+    },
+    {
+      "word": "Submachine gun",
+      "translation": "metralleta"
+    },
+    {
+      "word": "Get blunted",
+      "translation": "drogarse"
+    },
+    {
+      "word": "Munchies",
+      "translation": "antojos"
+    },
+    {
+      "word": "Insurance salesman",
+      "translation": "agente de seguros"
+    },
+    {
+      "word": "Lobbing balls",
+      "translation": "lanzar bolas"
+    },
+    {
+      "word": "I need it bad",
+      "translation": "lo necesito urgentemente"
+    },
+    {
+      "word": "Sycophants",
+      "translation": "aduladores"
+    },
+    {
+      "word": "Redwood",
+      "translation": "secuoya"
+    },
+    {
+      "word": "Protrusion",
+      "translation": "protuberancia"
+    },
+    {
+      "word": "Some will struggle, some will submit",
+      "translation": "algunos se resistirán, otros se someterán"
+    },
+    {
+      "word": "Whack off",
+      "translation": "masturbarse"
+    },
+    {
+      "word": "Mistress placement (traducción aproximada)",
+      "translation": "colocación de la ama"
+    },
+    {
+      "word": "Dealership",
+      "translation": "concesionario"
+    },
+    {
+      "word": "Trollop",
+      "translation": "mujerzuela"
+    },
+    {
+      "word": "Sultry",
+      "translation": "sensual"
+    },
+    {
+      "word": "Homewrecker",
+      "translation": "rompehogares"
+    },
+    {
+      "word": "Break (some people) apart",
+      "translation": "separarlos"
+    },
+    {
+      "word": "They need a pick me up",
+      "translation": "necesitan algo que les anime"
+    },
+    {
+      "word": "Freeloaders",
+      "translation": "aprovechados"
+    },
+    {
+      "word": "Dietary",
+      "translation": "alimenticio"
+    },
+    {
+      "word": "It's just snip chop and swallow",
+      "translation": "es solo cortar, picar y tragar"
+    },
+    {
+      "word": "We take on the highly charged debate",
+      "translation": "nos adentramos en este debate tan candente"
+    },
+    {
+      "word": "Test tube babies",
+      "translation": "bebés de probeta"
+    },
+    {
+      "word": "Matching jumpsuits",
+      "translation": "monos a juego"
+    },
+    {
+      "word": "Lecturer",
+      "translation": "profesor, docente"
+    },
+    {
+      "word": "Stints",
+      "translation": "periodos"
+    },
+    {
+      "word": "Woolly",
+      "translation": "confuso"
+    },
+    {
+      "word": "It's culling the population",
+      "translation": "está reduciendo la población"
+    },
+    {
+      "word": "We weed out the weak",
+      "translation": "descartamos a los débiles"
+    },
+    {
+      "word": "I live in a compound surrounded by barbed wire",
+      "translation": "vivo en un complejo rodeado de alambre de púas"
+    },
+    {
+      "word": "Tax break",
+      "translation": "exención fiscal"
+    },
+    {
+      "word": "I'm appalled at you",
+      "translation": "me horrorizas"
+    },
+    {
+      "word": "Cross-cultural",
+      "translation": "intercultural"
+    },
+    {
+      "word": "Cesspit",
+      "translation": "pozo negro"
+    },
+    {
+      "word": "Conniving bitch",
+      "translation": "perra intrigante"
+    },
+    {
+      "word": "Straight off a cliff",
+      "translation": "directamente por un precipicio"
+    },
+    {
+      "word": "Dire",
+      "translation": "grave"
+    },
+    {
+      "word": "Beads",
+      "translation": "cuentas"
+    },
+    {
+      "word": "Curtail (verbo)",
+      "translation": "poner fin"
+    },
+    {
+      "word": "Slimeballs (no literal y despectivo)",
+      "translation": "canallas"
+    },
+    {
+      "word": "We'll shoot out your tires (forma no literal)",
+      "translation": "te vamos a pinchar las llantas"
+    },
+    {
+      "word": "You must undertake alone",
+      "translation": "debes hacerlo por tu cuenta"
+    },
+    {
+      "word": "In squaw voice (acotación)",
+      "translation": "en voz de india"
+    },
+    {
+      "word": "Faithfully",
+      "translation": "fielmente"
+    },
+    {
+      "word": "Pewter model armies",
+      "translation": "ejércitos de miniaturas de peltre"
+    },
+    {
+      "word": "Miss out on",
+      "translation": "perderse"
+    },
+    {
+      "word": "Uncaring",
+      "translation": "indiferente, desconsiderado"
+    },
+    {
+      "word": "Beer-guzzling marathon",
+      "translation": "maratón de consumo de cerveza"
+    },
+    {
+      "word": "Wurst",
+      "translation": "salchicha"
+    },
+    {
+      "word": "Dusk",
+      "translation": "atardecer"
+    },
+    {
+      "word": "Folly",
+      "translation": "locura"
+    },
+    {
+      "word": "Epoch",
+      "translation": "época"
+    },
+    {
+      "word": "Don't let kids you're a rail after college (frase no literal)",
+      "translation": "no les dejes creer a los chicos que te vas a dedicar a la vida de juerga después de la universidad"
+    },
+    {
+      "word": "Ludicrous",
+      "translation": "ridícula"
+    },
+    {
+      "word": "Slum about",
+      "translation": "pasar el rato"
+    },
+    {
+      "word": "Hostel",
+      "translation": "albergue"
+    },
+    {
+      "word": "I won’t teep (traducción aproximada)",
+      "translation": "no te daré"
+    },
+    {
+      "word": "They will fawn over you",
+      "translation": "te van a adular"
+    },
+    {
+      "word": "This is patronising",
+      "translation": "esto es condescendiente"
+    },
+    {
+      "word": "If you crave news",
+      "translation": "si te encantan las noticias"
+    },
+    {
+      "word": "Hoddlums",
+      "translation": "matones"
+    },
+    {
+      "word": "Upsurge",
+      "translation": "repunte, aumento"
+    },
+    {
+      "word": "It came to the head",
+      "translation": "llegó a un punto crítico"
+    },
+    {
+      "word": "They are tipped for stardom",
+      "translation": "se les augura un futuro prometedor"
+    },
+    {
+      "word": "Howdy doodles! (no literal)",
+      "translation": "¡Hola, amigos!"
+    },
+    {
+      "word": "It's stamen, it's pistil",
+      "translation": "es un estambre, es un pistilo"
+    },
+    {
+      "word": "Fawn (verbo)",
+      "translation": "adular"
+    },
+    {
+      "word": "Facials",
+      "translation": "tratamientos faciales"
+    },
+    {
+      "word": "A lonely spinster with two pussies",
+      "translation": "una solterona solitaria con dos vaginas"
+    },
+    {
+      "word": "I'm having hot flashes",
+      "translation": "tengo sofocos"
+    },
+    {
+      "word": "Peel off (aparte de despellejar)",
+      "translation": "descamar"
+    },
+    {
+      "word": "Tuber",
+      "translation": "tubérculo"
+    },
+    {
+      "word": "Plump",
+      "translation": "carnoso, tierno"
+    },
+    {
+      "word": "Raging",
+      "translation": "desbordante"
+    },
+    {
+      "word": "We all go through lean spells (frase no literal)",
+      "translation": "todos pasamos por épocas difíciles"
+    },
+    {
+      "word": "Stowed away in the landing gear",
+      "translation": "escondidos en el tren de aterrizaje"
+    },
+    {
+      "word": "This is quite a lean spell (frase no literal)",
+      "translation": "es una época bastante difícil"
+    },
+    {
+      "word": "I wouldn't even subject you to a hooker",
+      "translation": "ni siquiera te haría pasar por una prostituta"
+    },
+    {
+      "word": "Celibacy",
+      "translation": "celibate"
+    },
+    {
+      "word": "A spiral-bound notebook",
+      "translation": "un cuaderno con encuadernación en espiral"
+    },
+    {
+      "word": "Forever (aparte de para siempre)",
+      "translation": "una eternidad"
+    },
+    {
+      "word": "I could never hold my own (frase no literal)",
+      "translation": "nunca pude valerme por mí mismo"
+    },
+    {
+      "word": "Get clogged with tar",
+      "translation": "quedarse atascado con alquitrán"
+    },
+    {
+      "word": "Butts",
+      "translation": "cigarrillos"
+    },
+    {
+      "word": "We distort you can't retort (parcialmente no literal)",
+      "translation": "te tergiversamos y no puedes replicar"
+    },
+    {
+      "word": "Fractal artwork",
+      "translation": "obras de arte fractal"
+    },
+    {
+      "word": "I have wicked big",
+      "translation": "tengo unas enormes"
+    },
+    {
+      "word": "Antler",
+      "translation": "cornamenta"
+    },
+    {
+      "word": "Disadvantaged",
+      "translation": "en situación de desventaja"
+    },
+    {
+      "word": "Get pulled from the path of righteousness",
+      "translation": "desviarse del camino de la rectitude"
+    },
+    {
+      "word": "Play your part! (frase no literal)",
+      "translation": "¡Haz tu parte!"
+    },
+    {
+      "word": "Tight",
+      "translation": "tenso"
+    },
+    {
+      "word": "Udders",
+      "translation": "ubres"
+    },
+    {
+      "word": "Factory farming",
+      "translation": "cría intensiva"
+    },
+    {
+      "word": "Player (informal y no literal)",
+      "translation": "amigo"
+    },
+    {
+      "word": "Laced",
+      "translation": "adulterado"
+    },
+    {
+      "word": "Get hammered (verbo frasal no literal)",
+      "translation": "emborracharse"
+    },
+    {
+      "word": "Striking poses",
+      "translation": "hacer poses llamativas"
+    },
+    {
+      "word": "Smoke a lid",
+      "translation": "fumar un porro"
+    },
+    {
+      "word": "Reefer (informal)",
+      "translation": "marihuana"
+    },
+    {
+      "word": "You get a lot of flack",
+      "translation": "te critican mucho"
+    },
+    {
+      "word": "Gangster rap is misogynistic posturing by fake-ass idiots",
+      "translation": "el rap de gánsteres es una pose misógina de unos idiotas farsantes"
+    },
+    {
+      "word": "Hustling dope",
+      "translation": "vendiendo drogas"
+    },
+    {
+      "word": "Do the windmill?",
+      "translation": "¿Haces el molinete?"
+    },
+    {
+      "word": "Can you body-pop?",
+      "translation": "¿Sabes bailar body-pop?"
+    },
+    {
+      "word": "I ain't down with that shit",
+      "translation": "no me gusta nada de esa mierda"
+    },
+    {
+      "word": "Break-off",
+      "translation": "ruptura"
+    },
+    {
+      "word": "I been gangbanging (frase no literal e informal)",
+      "translation": "he estado metido en pandillas"
+    },
+    {
+      "word": "Toe-to-toe (no literal)",
+      "translation": "cara a cara"
+    },
+    {
+      "word": "Get worked up",
+      "translation": "alterarse, ponerse nervioso"
+    },
+    {
+      "word": "You got scraps",
+      "translation": "te tocaron las sobras"
+    },
+    {
+      "word": "You mock-ass bitch, punk, trick, buster fool? (pregunta despectiva)",
+      "translation": "¿Eres una perra burlona, un gamberro, un pícaro, un tonto de remate?"
+    },
+    {
+      "word": "You's a buster fool (informal)",
+      "translation": "eres un tonto de remate"
+    },
+    {
+      "word": "Churn out",
+      "translation": "producir en serie"
+    },
+    {
+      "word": "Pimp (verbo)",
+      "translation": "promocionar"
+    },
+    {
+      "word": "Diss (verbo)",
+      "translation": "menospreciar, burlarse"
+    },
+    {
+      "word": "I'm a buster (no literal)",
+      "translation": "soy un chico genial"
+    },
+    {
+      "word": "Don't diss my strap (frase no literal)",
+      "translation": "no te burles de mi arma"
+    },
+    {
+      "word": "Cautionary tale",
+      "translation": "cuento con moraleja"
+    },
+    {
+      "word": "Hope you make a killing (frase no literal)",
+      "translation": "espero que te hagas una fortuna"
+    },
+    {
+      "word": "Hold (someone) back",
+      "translation": "frenar"
+    },
+    {
+      "word": "It’s set in (en ubicaciones)",
+      "translation": "tiene lugar en"
+    },
+    {
+      "word": "Rustbelt",
+      "translation": "cinturón industrial"
+    },
+    {
+      "word": "Mill",
+      "translation": "fábrica"
+    },
+    {
+      "word": "Heartland",
+      "translation": "corazón del país"
+    },
+    {
+      "word": "Link up",
+      "translation": "conectar"
+    },
+    {
+      "word": "Inbreeding",
+      "translation": "endogamia"
+    },
+    {
+      "word": "Patch (sustantivo)",
+      "translation": "pedazo, tramo"
+    },
+    {
+      "word": "Mob town",
+      "translation": "ciudad dominada por la mafia"
+    },
+    {
+      "word": "Damp gopher holes",
+      "translation": "madrigueras de roedores húmedas"
+    },
+    {
+      "word": "My new walk-in closet",
+      "translation": "mi nuevo vestidor"
+    },
+    {
+      "word": "Fireflights",
+      "translation": "vuelos de luciérnagas"
+    },
+    {
+      "word": "I'm blossoming those pictures",
+      "translation": "estoy revelando estas fotos"
+    },
+    {
+      "word": "While hang gliding",
+      "translation": "mientras practicaba ala delta"
+    },
+    {
+      "word": "Newsmen",
+      "translation": "periodistas"
+    },
+    {
+      "word": "Stay tuned",
+      "translation": "estén atentos, mantente al tanto"
+    },
+    {
+      "word": "Lounge around",
+      "translation": "holgazanear"
+    },
+    {
+      "word": "Toil (verbo)",
+      "translation": "trabajar sin descanso"
+    },
+    {
+      "word": "Mesmerizing (adjetivo)",
+      "translation": "hipnótico"
+    },
+    {
+      "word": "Revolting (adjetivo)",
+      "translation": "repugnante"
+    },
+    {
+      "word": "You go on and on",
+      "translation": "no paras de hablar"
+    },
+    {
+      "word": "Strippers",
+      "translation": "bailarinas de striptease"
+    },
+    {
+      "word": "Overcharge. You're philistine",
+      "translation": "sobreprecio, eres un ignorante"
+    },
+    {
+      "word": "Bloody",
+      "translation": "sangriento"
+    },
+    {
+      "word": "Wimps",
+      "translation": "cobardes"
+    },
+    {
+      "word": "Loathsome place",
+      "translation": "qupe lugar tan asqueroso"
+    },
+    {
+      "word": "On with the show! Any callers!",
+      "translation": "¡Que comience el programa! ¡¿Hay alguien que quiera llamar?!"
+    },
+    {
+      "word": "I should hit the travelogue again",
+      "translation": "debería retomar el diario de viaje"
+    },
+    {
+      "word": "Minx",
+      "translation": "pícaro, travieso"
+    },
+    {
+      "word": "Take part (verbo)",
+      "translation": "participar"
+    },
+    {
+      "word": "Passage",
+      "translation": "iniciación"
+    },
+    {
+      "word": "Houseboy",
+      "translation": "empleado doméstico"
+    },
+    {
+      "word": "Wrong bit again!",
+      "translation": "¡Otra vez me equivoqué!"
+    },
+    {
+      "word": "Plentiful",
+      "translation": "abundante"
+    },
+    {
+      "word": "Starving beggars",
+      "translation": "mendigos hambrientos"
+    },
+    {
+      "word": "They trade in beads (traducción aproximada)",
+      "translation": "se dedican al comercio de cuentas"
+    },
+    {
+      "word": "Regained",
+      "translation": "recuperado"
+    },
+    {
+      "word": "Squidgey",
+      "translation": "pegajoso, espeso"
+    },
+    {
+      "word": "Morning memo (en periodismo)",
+      "translation": "boletín matutino"
+    },
+    {
+      "word": "Sickening",
+      "translation": "repugnante"
+    },
+    {
+      "word": "A sick game gone hideously wrong",
+      "translation": "un juego enfermizo que salió terriblemente mal"
+    },
+    {
+      "word": "It will all blow over (frase no literal)",
+      "translation": "todo esto ya pasará"
+    },
+    {
+      "word": "They are being sought by officials",
+      "translation": "las autoridades los están buscando"
+    },
+    {
+      "word": "Stand trial (verbo)",
+      "translation": "ser juzgado"
+    },
+    {
+      "word": "Whom prosecutors claim have masterminded a huge criminal organization",
+      "translation": "quienes, según los fiscales, habrían sido los cerebros de una enorme organización criminal"
+    },
+    {
+      "word": "Debauchery",
+      "translation": "desenfreno"
+    },
+    {
+      "word": "Actors are a shallow and insecure lot",
+      "translation": "los actores son gente superficial e insegura"
+    },
+    {
+      "word": "I'm gonna cock punch you!",
+      "translation": "¡Te voy a dar un puñetazo en las pelotas!"
+    },
+    {
+      "word": "Clearing out more housing projects",
+      "translation": "desmantelando más proyectos de vivienda"
+    },
+    {
+      "word": "Someone's going to pin you to the ground and give it up",
+      "translation": "alguien te va a inmovilizar en el suelo y te va a dar lo que te mereces"
+    },
+    {
+      "word": "Warts",
+      "translation": "verrugas"
+    },
+    {
+      "word": "Get shit-faced",
+      "translation": "emborracharse"
+    },
+    {
+      "word": "Fling (verbo)",
+      "translation": "lanzar"
+    },
+    {
+      "word": "Primal urge",
+      "translation": "instinto primario"
+    },
+    {
+      "word": "You bang a bimbo on the sidelines (frase no literal)",
+      "translation": "te acuestas con una chica tonta en las gradas"
+    },
+    {
+      "word": "This program has no female callers that you changed stations",
+      "translation": "en este programa no hay locutoras, por eso cambiaste de emisora"
+    },
+    {
+      "word": "They really pump up!",
+      "translation": "¡Ellos sí que se ven geniales!"
+    },
+    {
+      "word": "A shoe that pumps",
+      "translation": "un zapato que da energía"
+    },
+    {
+      "word": "Pump up, and slam dunk!",
+      "translation": "¡Dale con todo y haz un mate!"
+    },
+    {
+      "word": "Turntable scratching",
+      "translation": "scratching en el tocadiscos"
+    },
+    {
+      "word": "You'll shave seconds off your personal best!",
+      "translation": "¡Bajarás unos segundos tu mejor marca personal!"
+    },
+    {
+      "word": "I've pumped up my ego! (frase no literal)",
+      "translation": "¡Me he llenado de orgullo!"
+    },
+    {
+      "word": "Turn over in case you learn something",
+      "translation": "dale la vuelta por si aprendes algo"
+    },
+    {
+      "word": "Skewed for you",
+      "translation": "adaptado para ti"
+    },
+    {
+      "word": "I broke out of a POW Camp in Korea",
+      "translation": "me escapé de un campo de prisioneros de guerra en Corea"
+    },
+    {
+      "word": "Allegedly disgraced",
+      "translation": "supuestamente/presuntamente caídos en desgracia"
+    },
+    {
+      "word": "Racketeering, drug running and sexual offenses",
+      "translation": "extorsión, tráfico de drogas y delitos sexuales"
+    },
+    {
+      "word": "No explanation has been forthcoming",
+      "translation": "no se ha dado ninguna explicación"
+    },
+    {
+      "word": "Deflower (verbo)",
+      "translation": "desflorar"
+    },
+    {
+      "word": "There's always the worrisome less fortunate",
+      "translation": "siempre hay gente menos afortunada"
+    },
+    {
+      "word": "Storm a gate (verbo)",
+      "translation": "asaltar una puerta"
+    },
+    {
+      "word": "With my vindictive and back-stabbing personality",
+      "translation": "con mi personalidad vengativa y traicionera"
+    },
+    {
+      "word": "It comes to people trying to get a buck off me or come knocking, I turn to outside help",
+      "translation": "cuando se trata de gente que intenta sacarme dinero o que viene a molestar, recurro a ayuda externa"
+    },
+    {
+      "word": "Razor wire",
+      "translation": "alambres de púas"
+    },
+    {
+      "word": "Stun guns and mace",
+      "translation": "pistolas paralizantes y gas lacrimógeno"
+    },
+    {
+      "word": "Be appalled",
+      "translation": "quedar horrorizado"
+    },
+    {
+      "word": "You must flush them out",
+      "translation": "tienes que sacarlos de ahí"
+    },
+    {
+      "word": "To really cleanse",
+      "translation": "pera limpiar a fondo"
+    },
+    {
+      "word": "It's time for your down dog",
+      "translation": "es hora de hacer la postura del perro boca abajo"
+    },
+    {
+      "word": "Handheld",
+      "translation": "portátil"
+    },
+    {
+      "word": "I've held them",
+      "translation": "los he tenido en mis manos"
+    },
+    {
+      "word": "Tightly",
+      "translation": "firmemente"
+    },
+    {
+      "word": "Tightly wound around people's throats (frase no literal)",
+      "translation": "apretado contra el cuello de la gente"
+    },
+    {
+      "word": "Pod bay",
+      "translation": "bahía de cápsulas"
+    },
+    {
+      "word": "Yeah, no shit (no literal)",
+      "translation": "sí, claro que sí"
+    },
+    {
+      "word": "Concoction",
+      "translation": "mezcla"
+    },
+    {
+      "word": "Chesty cough",
+      "translation": "tos con flema"
+    },
+    {
+      "word": "I'm binging on medication",
+      "translation": "estoy tomando un montón de medicamentos"
+    },
+    {
+      "word": "Get to a ten-step program (parcialmente no literal)",
+      "translation": "apúntate a un programa de diez pasos"
+    },
+    {
+      "word": "The skyrocketing price of buying off a politician",
+      "translation": "el precio desorbitado de sobornar a un político"
+    },
+    {
+      "word": "To not to be burdened with it",
+      "translation": "para no tener que cargar con eso"
+    },
+    {
+      "word": "Keep (something) down",
+      "translation": "retener"
+    },
+    {
+      "word": "Eye (verbo)",
+      "translation": "mirar"
+    },
+    {
+      "word": "90s are proving to be a real drag",
+      "translation": "los 90 están resultando ser un verdadero rollo"
+    },
+    {
+      "word": "The president is doing my head in",
+      "translation": "el presidente me está volviendo loco"
+    },
+    {
+      "word": "Shallow",
+      "translation": "superficial"
+    },
+    {
+      "word": "Thick (en geografía)",
+      "translation": "imponente, frondosa"
+    },
+    {
+      "word": "Infatuation",
+      "translation": "enamoramiento"
+    },
+    {
+      "word": "Have his way (verbo no literal)",
+      "translation": "salirse con la suya"
+    },
+    {
+      "word": "I'm really into pleasuring myself",
+      "translation": "me encanta darme placer"
+    },
+    {
+      "word": "Threesome",
+      "translation": "trio"
+    },
+    {
+      "word": "Creep (adjetivo)",
+      "translation": "bicho raro, tipo raro"
+    },
+    {
+      "word": "Get off the airwaves (en comunicaciones)",
+      "translation": "deja de salir al aire"
+    },
+    {
+      "word": "Don't rub it in (frase no literal)",
+      "translation": "No lo eches en cara"
+    },
+    {
+      "word": "Jackass (aparte de burro)",
+      "translation": "imbécil, idiota"
+    },
+    {
+      "word": "Today's top stories (frase no literal en periodismo)",
+      "translation": "las noticias más destacadas de hoy"
+    },
+    {
+      "word": "Despite eyewitness reports to the contrary",
+      "translation": "a pesar de los testimonios de testigos presenciales que indican lo contrario"
+    },
+    {
+      "word": "The slaying",
+      "translation": "el asesinato"
+    },
+    {
+      "word": "What a load of crap",
+      "translation": "qué montón de tonterías"
+    },
+    {
+      "word": "It just gets glossed over",
+      "translation": "simplemente se pasa por alto"
+    },
+    {
+      "word": "I'm kind of spaced out",
+      "translation": "estoy un poco distraído"
+    },
+    {
+      "word": "Lip balm",
+      "translation": "bálsamo labial"
+    },
+    {
+      "word": "Gatherer",
+      "translation": "recolector"
+    },
+    {
+      "word": "Deceptive",
+      "translation": "engañoso"
+    },
+    {
+      "word": "I can see past your jokes",
+      "translation": "puedo ver más allá de tus bromas"
+    },
+    {
+      "word": "You are being lied to",
+      "translation": "te están mintiendo"
+    },
+    {
+      "word": "Out of them",
+      "translation": "a partir de ellos"
+    },
+    {
+      "word": "Grit",
+      "translation": "arena"
+    },
+    {
+      "word": "A fellowship of like-minded adults who tithe money",
+      "translation": "una comunidad de adultos con ideas afines que dan el diezmo"
+    },
+    {
+      "word": "Swinging",
+      "translation": "balanceo"
+    },
+    {
+      "word": "Class warfare",
+      "translation": "lucha de clases"
+    },
+    {
+      "word": "Ruckus",
+      "translation": "alboroto"
+    },
+    {
+      "word": "Wackos",
+      "translation": "locos, chiflados"
+    },
+    {
+      "word": "Out of thin air",
+      "translation": "de la nada"
+    },
+    {
+      "word": "This country is flatlining",
+      "translation": "este país está estancado"
+    },
+    {
+      "word": "I'm shit-faced (frase no literal)",
+      "translation": "estoy completamente borracho"
+    },
+    {
+      "word": "Storefronts",
+      "translation": "tiendas"
+    },
+    {
+      "word": "There's some great stuff to be had",
+      "translation": "hay cosas geniales que puedes conseguir"
+    },
+    {
+      "word": "Flushing and flushing",
+      "translation": "tirando de la cadena una y otra vez"
+    },
+    {
+      "word": "Johnny (sustantivo común e informal)",
+      "translation": "pijama"
+    },
+    {
+      "word": "I'm passing on a tradition (parcialmente no literal)",
+      "translation": "estoy transmitiendo una tradición"
+    },
+    {
+      "word": "Phone book (no literal)",
+      "translation": "guía telefónica"
+    },
+    {
+      "word": "Skid marks",
+      "translation": "marcas de frenada"
+    },
+    {
+      "word": "A cheap floozy",
+      "translation": "una mujer fácil y barata"
+    },
+    {
+      "word": "Chiropractor",
+      "translation": "quiropráctico"
+    },
+    {
+      "word": "Creepy",
+      "translation": "espeluznante"
+    },
+    {
+      "word": "Petting zoo",
+      "translation": "zoológico interactivo"
+    },
+    {
+      "word": "Realizing your calling (frase no literal)",
+      "translation": "descubrir tu vocación"
+    },
+    {
+      "word": "Maybe you pull the handle and win the backdoor passion",
+      "translation": "quizás tires de la manija y te ganes esa pasión secreta"
+    },
+    {
+      "word": "Something slinky and trashy",
+      "translation": "algo seductor y de mal gusto"
+    },
+    {
+      "word": "Signature move",
+      "translation": "movimiento característico"
+    },
+    {
+      "word": "He has a topiary problem",
+      "translation": "tiene un problema con los arbustos recortados"
+    },
+    {
+      "word": "Cockerel",
+      "translation": "gallito"
+    },
+    {
+      "word": "Gimp",
+      "translation": "cojo"
+    },
+    {
+      "word": "Hedges",
+      "translation": "setos"
+    },
+    {
+      "word": "Leafy",
+      "translation": "con hojas"
+    },
+    {
+      "word": "Lance (sustantivo común)",
+      "translation": "lanza"
+    },
+    {
+      "word": "Hedge clippers",
+      "translation": "cortasetos"
+    },
+    {
+      "word": "He fashioned a shrub (frase no literal)",
+      "translation": "creó un arbusto"
+    },
+    {
+      "word": "Pouch",
+      "translation": "bolsa"
+    },
+    {
+      "word": "Blossom (verbo)",
+      "translation": "florecer"
+    },
+    {
+      "word": "I began tithing money",
+      "translation": "empecé a dar el diezmo"
+    },
+    {
+      "word": "Flytrap",
+      "translation": "atrapamoscas"
+    },
+    {
+      "word": "Hubris",
+      "translation": "arrogancia, soberbia"
+    },
+    {
+      "word": "Fly off the handle and commit herbicide",
+      "translation": "pierdo los estribos y rocío con herbicida"
+    },
+    {
+      "word": "I hope the sniffed your nuts off (frase no literal)",
+      "translation": "espero que te hayan dado una buena paliza"
+    },
+    {
+      "word": "Tards (despectivo)",
+      "translation": "idiotas"
+    },
+    {
+      "word": "Sprinkler",
+      "translation": "rociador"
+    },
+    {
+      "word": "I could just pop every one of your goddamn heads off",
+      "translation": "podría volarles la cabeza a todos y cada uno de ustedes"
+    },
+    {
+      "word": "To fashion rocking horses and suggestive whirligigs",
+      "translation": "para fabricar caballitos de balancín y molinillos sugerentes"
+    },
+    {
+      "word": "A seed sown in a hurricane",
+      "translation": "una semilla sembrada en medio de un huracán"
+    },
+    {
+      "word": "Outlaw (verbo)",
+      "translation": "prohibir"
+    },
+    {
+      "word": "Propped up",
+      "translation": "apoyado"
+    },
+    {
+      "word": "Cleared (en derecho)",
+      "translation": "absuelto"
+    },
+    {
+      "word": "In the aftermath of a recent riot set off by his acquittal",
+      "translation": "tras los disturbios recientes desencadenados por su absolución"
+    },
+    {
+      "word": "Coroners",
+      "translation": "forenses"
+    },
+    {
+      "word": "Stripped by the homeless",
+      "translation": "despojado por las personas sin hogar"
+    },
+    {
+      "word": "You overpaid prick",
+      "translation": "idiota que pagaste de más"
+    },
+    {
+      "word": "I looted some grest stuff",
+      "translation": "me llevé unas cosas geniales"
+    },
+    {
+      "word": "A double ender",
+      "translation": "una licuadora de dobe función"
+    },
+    {
+      "word": "Disgraced drunkard",
+      "translation": "borracho deshonrado"
+    },
+    {
+      "word": "He's on top of the charts (parcialmente no literal)",
+      "translation": "está en lo más alto de las listas de éxitos"
+    },
+    {
+      "word": "Your whack ass rappers",
+      "translation": "sus raperos de pacotilla"
+    }
+  ],
+  "count": 322,
+  "dialogues": 2123,
+  "duration": 35,
+  "durationEstimated": true
+}

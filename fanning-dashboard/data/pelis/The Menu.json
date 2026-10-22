@@ -3,7 +3,7 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 4.24,
+    "puntaje": 4.23,
     "senales": {
       "vocabulario": 4.49,
       "dialogos": 3.62,
@@ -15,8 +15,8 @@
         "A2": 7.1,
         "B1": 12.4,
         "B2": 29.0,
-        "C1": 18.3,
-        "C2": 26.0
+        "C1": 18.9,
+        "C2": 25.4
       },
       "densidad": 9.8
     },
@@ -120,7 +120,7 @@
       "translation": "epicúreo"
     },
     {
-      "word": "I'm a huge embarrasing foodie",
+      "word": "I'm a huge embarrassing foodie",
       "translation": "soy un gran fanático de la comida"
     },
     {
@@ -452,7 +452,7 @@
       "translation": "juguetón"
     },
     {
-      "word": "A hearfelt letter",
+      "word": "A heartfelt letter",
       "translation": "una carta sincera"
     },
     {

@@ -1,0 +1,886 @@
+{
+  "title": "The Great",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.43,
+    "senales": {
+      "vocabulario": 4.79,
+      "dialogos": 3.56,
+      "temas": 4.5
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.1,
+        "A2": 3.8,
+        "B1": 10.3,
+        "B2": 20.6,
+        "C1": 22.3,
+        "C2": 34.9
+      },
+      "densidad": 9.9
+    },
+    "dialogos": {
+      "cobertura95": 3.6,
+      "ppm": 151.6
+    },
+    "temas": [
+      "legal y judicial"
+    ],
+    "rango": [
+      "B2-C1",
+      "B2-C1"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Serie que relata el ascenso al poder de Catalina la Grande (Catalina II de Rusia), que fue emperatriz de Rusia durante 34 años, desde el 1762 hasta su muerte a los 67 años. Catalina se verá obligada a elegir entre su propia felicidad personal y el futuro de Rusia, cuando se casa con un emperador.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+      "https://image.tmdb.org/t/p/w780/XF17lweAfCVEYAGPm95rwlSqTs.jpg",
+      "https://image.tmdb.org/t/p/w780/7ZL0PNCiGRtBlFVjfBL2vXIpEcV.jpg",
+      "https://image.tmdb.org/t/p/w780/kutyEbl7Ys3MRuAK2iPCabavQ1w.jpg",
+      "https://image.tmdb.org/t/p/w780/kHUJ2mHcDJ4Zye4OWhW891mKw2P.jpg",
+      "https://image.tmdb.org/t/p/w780/yodnsKfTUbcxemzTx1hb5rkVJeU.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "The Great",
+        "still_path": "https://image.tmdb.org/t/p/w500/hUxU8akbM1hacG9bp35VWWvtk1J.jpg",
+        "overview": "En 1761 Catalina viaja a Rusia y se convierte en Emperatriz al casarse con el Emperador de Rusia, Pedro. Con la esperanza de casarse con un gran amor, Catalina pronto se da cuenta de que Pedro es un mocoso egoísta que se opone a todo lo que ella valora. Catalina se siente perdida y desesperanzada llegando al borde del suicidio cuando su sirviente, Marial, le hará ver que existe un camino alternativo: derrocar a Pedro."
+      },
+      "S01E02": {
+        "name": "A Fake Beard",
+        "still_path": "https://image.tmdb.org/t/p/w500/1jkWbcAnRWiYS2jt0MJMfWUSjit.jpg",
+        "overview": "Catalina da sus primeros pasos para dar un golpe de estado. Siguiendo el consejo de Marial, intenta seducir y reclutar al Conde Orlo, el intelectual de palacio. Resulta un desastre. Sin embargo, después de ver el trato brutal de Pedro a los nobles locales y su falta de voluntad para escuchar, decide unirse al golpe de Catalina."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "The Great (Episode 1)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.43,
+        "senales": {
+          "vocabulario": 4.79,
+          "dialogos": 3.49,
+          "temas": 4.57
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.0,
+            "A2": 5.0,
+            "B1": 11.2,
+            "B2": 22.3,
+            "C1": 19.9,
+            "C2": 36.7
+          },
+          "densidad": 9.3
+        },
+        "dialogos": {
+          "cobertura95": 3.62,
+          "ppm": 144.7
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Equate (verbo)",
+          "translation": "equiparar"
+        },
+        {
+          "word": "Evergreen",
+          "translation": "árbol de hoja perenne"
+        },
+        {
+          "word": "Caring",
+          "translation": "cariñoso"
+        },
+        {
+          "word": "Inbred",
+          "translation": "endogámica"
+        },
+        {
+          "word": "I'm of sound mind (frase no literal)",
+          "translation": "estoy en pleno uso de mis facultades mentales"
+        },
+        {
+          "word": "Ember",
+          "translation": "brasa"
+        },
+        {
+          "word": "So that’s grand (expresión)",
+          "translation": "así que genial"
+        },
+        {
+          "word": "Badly wounded",
+          "translation": "gravemente herido"
+        },
+        {
+          "word": "Long-departed",
+          "translation": "fallecida hace mucho tiempo"
+        },
+        {
+          "word": "A wedding gift for my new wife seems in order (parcialmente no literal)",
+          "translation": "creo que sería bueno darle un regalo de boda a mi nueva esposa"
+        },
+        {
+          "word": "My heart was aflame",
+          "translation": "mi corazón ardía"
+        },
+        {
+          "word": "Caress (verbo)",
+          "translation": "acariciar"
+        },
+        {
+          "word": "Awaken (verbo)",
+          "translation": "despertar"
+        },
+        {
+          "word": "Between your legs quivers and moistens with longing",
+          "translation": "entre tus piernas tiembla y se humedece de deseo"
+        },
+        {
+          "word": "Meld (verbo en sentido lírico)",
+          "translation": "fundir"
+        },
+        {
+          "word": "Mesh (verbo en sentido lírico)",
+          "translation": "entrelazar"
+        },
+        {
+          "word": "Your body ushers forth yelps",
+          "translation": "tu cuerpo deja escapar gritos"
+        },
+        {
+          "word": "Spent (no alusivo a gastar o pasar tiempo con alguien)",
+          "translation": "agotado"
+        },
+        {
+          "word": "Ecstatic",
+          "translation": "extática"
+        },
+        {
+          "word": "Kazoo quacks (acotación)",
+          "translation": "sonido de kazoo"
+        },
+        {
+          "word": "He blows this caller",
+          "translation": "le hace una mamada a quien llama"
+        },
+        {
+          "word": "My seed has found purchase (parcialmente no literal)",
+          "translation": "mi semilla ha echado raíces"
+        },
+        {
+          "word": "An overly romantic view of its unfolding",
+          "translation": "una visión demasiado romántica de cómo se desarrolla todo"
+        },
+        {
+          "word": "We shall greet the day together",
+          "translation": "daremos la bienvenida al día juntos"
+        },
+        {
+          "word": "Imbibe heavily (verbo)",
+          "translation": "beber en exceso"
+        },
+        {
+          "word": "Confidante",
+          "translation": "confidente"
+        },
+        {
+          "word": "In the shape of a cat-o'-nine-tails",
+          "translation": "con forma de látigo de nueve colas"
+        },
+        {
+          "word": "Jest",
+          "translation": "broma"
+        },
+        {
+          "word": "And seems dull",
+          "translation": "y parece aburrido"
+        },
+        {
+          "word": "Shall we roll balls on the lawn?",
+          "translation": "¿Jugamos a hacer rodar pelotas en el césped?"
+        },
+        {
+          "word": "My foolish body",
+          "translation": "mi cuerpo insensato"
+        },
+        {
+          "word": "Vapid",
+          "translation": "insustancial, vacío"
+        },
+        {
+          "word": "Uncharacteristically",
+          "translation": "inusualmente"
+        },
+        {
+          "word": "Your insolence will get you beaten",
+          "translation": "tu insolencia te va a costar una paliza"
+        },
+        {
+          "word": "It'll be romping good fun",
+          "translation": "va a ser una diversión de locos"
+        },
+        {
+          "word": "Disdainful",
+          "translation": "despreciativo"
+        },
+        {
+          "word": "I will not fucking stand for it",
+          "translation": "no lo voy a aguantar carajo"
+        },
+        {
+          "word": "Did you roll colored balls with the ladies?",
+          "translation": "¿Jugaste a lanzar bolas de colores con las chicas?"
+        },
+        {
+          "word": "It's a lark",
+          "translation": "es una broma"
+        },
+        {
+          "word": "And I jest, of course, sort of (traducción aproximada)",
+          "translation": "y yo, por supuesto, más o menos"
+        },
+        {
+          "word": "Fatso",
+          "translation": "gordito"
+        },
+        {
+          "word": "Brighten it up (no literal)",
+          "translation": "ilumínalo"
+        },
+        {
+          "word": "A full arm swing",
+          "translation": "un movimiento completo del brazo"
+        },
+        {
+          "word": "Unmanly",
+          "translation": "poco varonil"
+        },
+        {
+          "word": "I'm such a dickhead",
+          "translation": "soy un verdadero idiota"
+        },
+        {
+          "word": "He seemed sweet and smelt of cheese (parcialmente no literal)",
+          "translation": "parecía simpático y olía a queso"
+        },
+        {
+          "word": "Summation",
+          "translation": "resumen"
+        },
+        {
+          "word": "Rather (aparte de más bien)",
+          "translation": "bastante"
+        },
+        {
+          "word": "Revel (verbo en inglés británico)",
+          "translation": "regodearse, regocijarse, divertirse"
+        },
+        {
+          "word": "It's treasonous to do so",
+          "translation": "hacerlo es una traición"
+        },
+        {
+          "word": "It casts a pall over the fun of a ball (parcialmente no literal)",
+          "translation": "eso le quita diversión al baile"
+        },
+        {
+          "word": "So do (expresión)",
+          "translation": "pues hazlo"
+        },
+        {
+          "word": "If your cock ever finds its way out of your hand",
+          "translation": "por si alguna vez se te escapa el pito de la mano"
+        },
+        {
+          "word": "Blow light (verbo)",
+          "translation": "arrojar luz"
+        },
+        {
+          "word": "Seeding (verbo en relaciones)",
+          "translation": "procrear"
+        },
+        {
+          "word": "Nipping at vodka in his pocket",
+          "translation": "dando pequeños sorbos al vodka que llevaba en el bolsillo"
+        },
+        {
+          "word": "Lobcock (despectivo)",
+          "translation": "maricón"
+        },
+        {
+          "word": "Just musing",
+          "translation": "sólo estoy reflexionando"
+        },
+        {
+          "word": "Entrails",
+          "translation": "vísceras, entrañas"
+        },
+        {
+          "word": "Rash",
+          "translation": "precipitado"
+        },
+        {
+          "word": "Furnish (verbo)",
+          "translation": "entregar, proporcionar"
+        },
+        {
+          "word": "That tap can be turned off",
+          "translation": "ese grifo se puede cerrar"
+        },
+        {
+          "word": "Thoughtfulness",
+          "translation": "amabilidad, consideración"
+        },
+        {
+          "word": "Line up",
+          "translation": "alinear"
+        },
+        {
+          "word": "Your royal self, it's a boon, and accurate up to 50 yards",
+          "translation": "Su Majestad, es una bendición, y tiene una precisión de hasta 50 yardas"
+        },
+        {
+          "word": "Prick (verbo en sentido denotativo)",
+          "translation": "pinchar"
+        },
+        {
+          "word": "Hue",
+          "translation": "tono"
+        },
+        {
+          "word": "Someone's cross (no literal)",
+          "translation": "alguien está molesto/enfadado"
+        },
+        {
+          "word": "Dalilance",
+          "translation": "idilio, escapada"
+        },
+        {
+          "word": "Judgmental",
+          "translation": "crítico, prejuicioso"
+        },
+        {
+          "word": "Overly",
+          "translation": "demasiado"
+        },
+        {
+          "word": "Cunny (despectivo y sugerente)",
+          "translation": "conchita, coño, vagina"
+        },
+        {
+          "word": "In content old age",
+          "translation": "en una vejez plena y feliz"
+        },
+        {
+          "word": "You can't cross me (frase no literal)",
+          "translation": "no te atrevas a traicionarme"
+        },
+        {
+          "word": "Horses hooves clopping (acotación)",
+          "translation": "ruido de cascos de caballos"
+        },
+        {
+          "word": "Scrapes",
+          "translation": "rayones, rasguños"
+        },
+        {
+          "word": "Gasp (verbo aparte de jadear)",
+          "translation": "respirar con dificultad"
+        },
+        {
+          "word": "And book readingly",
+          "translation": "y le encanta leer libros"
+        },
+        {
+          "word": "Her judgment is sound (frase no literal)",
+          "translation": "su criterio es acertado"
+        },
+        {
+          "word": "Overflow",
+          "translation": "desbordamiento"
+        },
+        {
+          "word": "Like God himself had spat me forth",
+          "translation": "como si el mismo Dios me hubiera escupido"
+        },
+        {
+          "word": "Come tumbling down (verbo)",
+          "translation": "derrumbarse"
+        }
+      ],
+      "count": 82,
+      "dialogues": 879,
+      "duration": 52
+    },
+    {
+      "code": "S01E02",
+      "name": "The Great (Episode 2)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.43,
+        "senales": {
+          "vocabulario": 4.79,
+          "dialogos": 3.57,
+          "temas": 4.44
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.6,
+            "A2": 2.9,
+            "B1": 9.7,
+            "B2": 19.3,
+            "C1": 24.1,
+            "C2": 33.4
+          },
+          "densidad": 10.4
+        },
+        "dialogos": {
+          "cobertura95": 3.63,
+          "ppm": 150.4
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Unnerving",
+          "translation": "inquietante"
+        },
+        {
+          "word": "Lord of all you survey",
+          "translation": "señor de todo lo que ves alrededor"
+        },
+        {
+          "word": "Mournful",
+          "translation": "triste, melancólico"
+        },
+        {
+          "word": "More dull than horrific",
+          "translation": "más aburrido que espeluznante"
+        },
+        {
+          "word": "Next time he's rutting on you",
+          "translation": "la próxima vez que se te eche encima"
+        },
+        {
+          "word": "Plunge (verbo)",
+          "translation": "clavar"
+        },
+        {
+          "word": "Backbone",
+          "translation": "base"
+        },
+        {
+          "word": "Miscontrued",
+          "translation": "malinterpretado"
+        },
+        {
+          "word": "Bumbler",
+          "translation": "torpe"
+        },
+        {
+          "word": "He's savvy to boot, bonus for us (frase no literal)",
+          "translation": "además, es muy inteligente, lo cual es una ventaja para nosotros"
+        },
+        {
+          "word": "Be tithed to (verbo)",
+          "translation": "ser objeto de diezmo para"
+        },
+        {
+          "word": "You greedy fuck",
+          "translation": "maldito/jodido codicioso"
+        },
+        {
+          "word": "Dull",
+          "translation": "aburrido"
+        },
+        {
+          "word": "Sword clinks, swishes (acotación)",
+          "translation": "sonido de espadas chocando, silbido"
+        },
+        {
+          "word": "Dispensation",
+          "translation": "dispensa"
+        },
+        {
+          "word": "Edict",
+          "translation": "decreto"
+        },
+        {
+          "word": "Ruler",
+          "translation": "gobernante"
+        },
+        {
+          "word": "Hear (someone) out",
+          "translation": "escuchar hasta el final"
+        },
+        {
+          "word": "Boils and pustules",
+          "translation": "forúnculos y pústulas"
+        },
+        {
+          "word": "Bruised",
+          "translation": "magullado"
+        },
+        {
+          "word": "Hold (something) together",
+          "translation": "mantener unido"
+        },
+        {
+          "word": "Peter is often swayed",
+          "translation": "Peter suele dejarse influir"
+        },
+        {
+          "word": "Woodland",
+          "translation": "bosque"
+        },
+        {
+          "word": "It's a lark to dunk their faces in vodka (frase no literal)",
+          "translation": "es muy divertido mojarles la cara en vodka"
+        },
+        {
+          "word": "Serf",
+          "translation": "siervo"
+        },
+        {
+          "word": "Who's stuck up and rude (parcialmente no literal)",
+          "translation": "es altiva y grosera"
+        },
+        {
+          "word": "Titter (verbo)",
+          "translation": "reírse entre dientes"
+        },
+        {
+          "word": "Free will",
+          "translation": "libre albedrío"
+        },
+        {
+          "word": "Take hold",
+          "translation": "imponer, quedar establecido"
+        },
+        {
+          "word": "Walk on",
+          "translation": "seguir adelante, seguir caminando"
+        },
+        {
+          "word": "All is bliss",
+          "translation": "todo es felicidad"
+        },
+        {
+          "word": "A slight jest",
+          "translation": "un ligero tono de broma"
+        },
+        {
+          "word": "Radish",
+          "translation": "rábano"
+        },
+        {
+          "word": "Despite strenous efforts",
+          "translation": "a pesar de los grandes esfuerzos"
+        },
+        {
+          "word": "Jest",
+          "translation": "broma"
+        },
+        {
+          "word": "Bugle",
+          "translation": "corneta (en sentido literal)"
+        },
+        {
+          "word": "Always playing the long game (frase no literal)",
+          "translation": "siempre pensando a largo plazo"
+        },
+        {
+          "word": "Willfulness",
+          "translation": "determinación, tenacidad"
+        },
+        {
+          "word": "My taste in love runs wild (parcialmente no literal)",
+          "translation": "mi gusto por el amor es desenfrenado"
+        },
+        {
+          "word": "That made her heart curdle",
+          "translation": "que le heló el corazón"
+        },
+        {
+          "word": "He needs to be cunt-struck by you (frase despectiva)",
+          "translation": "necesita que tú le des un buen golpe en la concha"
+        },
+        {
+          "word": "Shed some tears (verbo)",
+          "translation": "derramar unas lágrimas"
+        },
+        {
+          "word": "It helps your modo",
+          "translation": "te ayuda a mejorar tu ánimo"
+        },
+        {
+          "word": "Secluded",
+          "translation": "apartado, aislado"
+        },
+        {
+          "word": "Does it stir you?",
+          "translation": "¿Te emociona?"
+        },
+        {
+          "word": "I'm not well-versed with women (parcialmente no literal)",
+          "translation": "no tengo mucha experiencia con las mujeres"
+        },
+        {
+          "word": "I will say it plain",
+          "translation": "lo dire claramente/sin rodeos"
+        },
+        {
+          "word": "Straight out",
+          "translation": "sin rodeos"
+        },
+        {
+          "word": "I don't wish to apportion blame (frase no literal)",
+          "translation": "no quiero culpar a nadie"
+        },
+        {
+          "word": "Ill-advised",
+          "translation": "poco acertado"
+        },
+        {
+          "word": "Win (someone) over (verbo frasal no literal)",
+          "translation": "ganar la confianza (de alguien)"
+        },
+        {
+          "word": "They are fed only on acorns",
+          "translation": "se alimentan únicamente de bellotas"
+        },
+        {
+          "word": "Concur (verbo)",
+          "translation": "concordar, estar de acuerdo"
+        },
+        {
+          "word": "Perhaps it has cast a pall between us",
+          "translation": "quizás eso haya creado un clima tenso entre nosotros"
+        },
+        {
+          "word": "Teething problems (no literal)",
+          "translation": "problemas iniciales"
+        },
+        {
+          "word": "Dwell (verbo no alusivo a morar o habitar)",
+          "translation": "quedarse estancado"
+        },
+        {
+          "word": "Lark",
+          "translation": "travesura"
+        },
+        {
+          "word": "A drag",
+          "translation": "un lastre"
+        },
+        {
+          "word": "Hence (adverbio)",
+          "translation": "por eso, por lo tanto"
+        },
+        {
+          "word": "In a droll, despairing sort of way",
+          "translation": "de una forma un tanto divertida y desesperada"
+        },
+        {
+          "word": "Get on (en contexto social)",
+          "translation": "llevarse bien"
+        },
+        {
+          "word": "Be to your detriment",
+          "translation": "sería en tu perjuicio"
+        },
+        {
+          "word": "Resile (verbo)",
+          "translation": "retractarse"
+        },
+        {
+          "word": "Fuck a man up",
+          "translation": "a ese tipo hay que darle una paliza"
+        },
+        {
+          "word": "Be a blueprint",
+          "translation": "sé un modelo"
+        },
+        {
+          "word": "Light ablaze",
+          "translation": "luz resplandeciente, luz que arde"
+        },
+        {
+          "word": "She is shimmering, a godsend",
+          "translation": "ella resplandece, es un regalo del cielo"
+        },
+        {
+          "word": "And onward to a new choice",
+          "translation": "y luego a seguir adelante con una nueva decisión"
+        },
+        {
+          "word": "And to bear you an heir (parcialmente no literal)",
+          "translation": "y para darte un heredero"
+        },
+        {
+          "word": "I'm fine for counsel",
+          "translation": "no necesito asesoramiento"
+        },
+        {
+          "word": "If you're trying to butt-fuck her (frase despectiva)",
+          "translation": "si estás tratando de meterle por el culo"
+        },
+        {
+          "word": "As flustered as a freshly raped novice",
+          "translation": "tan nerviosa como una novicia recién violada"
+        },
+        {
+          "word": "He seems in a forgiving mood",
+          "translation": "parece que está de humor para perdonar"
+        },
+        {
+          "word": "Lash out",
+          "translation": "enojarse, ponerse agresivo"
+        },
+        {
+          "word": "Such insight",
+          "translation": "qué perspicacia"
+        },
+        {
+          "word": "Let us make it worth it then!",
+          "translation": "¡Entonces hagamos que valga la pena!"
+        },
+        {
+          "word": "Thwacking (acotación)",
+          "translation": "golpe fuerte"
+        },
+        {
+          "word": "I would have had tea brought down",
+          "translation": "habría pedido que me trajeran el té"
+        },
+        {
+          "word": "Hold aloft",
+          "translation": "levantar en alto"
+        },
+        {
+          "word": "She would level a gaze at him and hold him in it (parcialmente no literal)",
+          "translation": "ella lo miraba fijamente y lo mantenía atrapado en su mirada"
+        },
+        {
+          "word": "He would fall silent and go so still",
+          "translation": "se quedaba en silencio y se quedaba tan quieto"
+        },
+        {
+          "word": "Pool (verbo)",
+          "translation": "acumular (un líquido)"
+        },
+        {
+          "word": "Old Madam Bolzoi whipped it up (frase no literal)",
+          "translation": "la anciana señora Bolzoi lo preparó en un santiamén"
+        },
+        {
+          "word": "Prettiness",
+          "translation": "belleza"
+        },
+        {
+          "word": "Beady",
+          "translation": "penetrante"
+        },
+        {
+          "word": "You rude fucker (despectivo)",
+          "translation": "maldito grosero"
+        },
+        {
+          "word": "Poke their fucking eyes out",
+          "translation": "sáquenles los malditos ojos"
+        },
+        {
+          "word": "Prick (sustantivo en sentido denotativo)",
+          "translation": "punzada, pizca"
+        },
+        {
+          "word": "Are you sore?",
+          "translation": "¿Te duele algo?"
+        },
+        {
+          "word": "You will not get your cock wet or your knife bloody (frase despectiva)",
+          "translation": "no te mojarás la verga, ni te ensuciarás el cuchillo de sangre"
+        },
+        {
+          "word": "Cock-pumping circus (despectivo)",
+          "translation": "circo de vergas"
+        },
+        {
+          "word": "On the sidelines",
+          "translation": "al margen"
+        },
+        {
+          "word": "Half-hearted coward",
+          "translation": "cobarde sin convicción"
+        },
+        {
+          "word": "Which could get you cut open",
+          "translation": "lo cual podría hacer que te abrieran en canal"
+        },
+        {
+          "word": "Sewn back up",
+          "translation": "coser de vuelta"
+        },
+        {
+          "word": "Incrementally (adverbio no literal)",
+          "translation": "gradualmente, poco a poco, de manera gradual"
+        },
+        {
+          "word": "One day, let himself take the lid off",
+          "translation": "un día, se dejó llevar y quitó la tapa"
+        },
+        {
+          "word": "In blessed repose (parcialmente no literal)",
+          "translation": "en reposo eterno"
+        },
+        {
+          "word": "Japes",
+          "translation": "bromas"
+        },
+        {
+          "word": "To make the having of beards",
+          "translation": "el hecho de tener barba"
+        },
+        {
+          "word": "For externally they will, but inside, simmering discontent will rise",
+          "translation": "porque, aunque por fuera lo parezcan, por dentro el descontento latente irá en aumento"
+        },
+        {
+          "word": "And may spew forth",
+          "translation": "y podría estallar"
+        },
+        {
+          "word": "Fatso",
+          "translation": "gordito"
+        },
+        {
+          "word": "You made a believer out of me (frase no literal)",
+          "translation": "me has convencido"
+        },
+        {
+          "word": "I'm moving on up now",
+          "translation": "ahora voy a seguir adelante"
+        }
+      ],
+      "count": 105,
+      "dialogues": 1007,
+      "duration": 55
+    }
+  ],
+  "count": 187,
+  "dialogues": 1886,
+  "duration": 107
+}

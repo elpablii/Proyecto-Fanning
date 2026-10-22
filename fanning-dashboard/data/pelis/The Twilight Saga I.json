@@ -1,0 +1,412 @@
+{
+  "title": "The Twilight Saga I",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.36,
+    "senales": {
+      "vocabulario": 3.48,
+      "dialogos": 2.81,
+      "temas": 3.77
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.9,
+        "A2": 9.9,
+        "B1": 12.1,
+        "B2": 41.8,
+        "C1": 14.3,
+        "C2": 12.1
+      },
+      "densidad": 5.3
+    },
+    "dialogos": {
+      "cobertura95": 2.96,
+      "ppm": 143.1
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "La joven Bella Swan (Kristen Stewart) siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen (Robert Pattinson), un joven distinto a los demás que esconde un secreto.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "https://image.tmdb.org/t/p/w780/hHxHlynxgPN9pxIQYI1IlvqhDf8.jpg",
+      "https://image.tmdb.org/t/p/w780/phkAdhSX5wsrGTMNrvRaH50iRcM.jpg",
+      "https://image.tmdb.org/t/p/w780/mfFhgR9ILPWbYtvbdyAGUo6fbpT.jpg",
+      "https://image.tmdb.org/t/p/w780/rFPCgN6TIHLMXDOeaUhzZZD6i9H.jpg",
+      "https://image.tmdb.org/t/p/w780/7eK8FJr4fqq3J5W2xvlr2GVaep2.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+  "vocabulary": [
+    {
+      "word": "I can't bring myself to regret",
+      "translation": "no consigo arrepentirme"
+    },
+    {
+      "word": "Harebrained (adjetivo no literal)",
+      "translation": "descabellada"
+    },
+    {
+      "word": "Sow (verbo)",
+      "translation": "sembrar"
+    },
+    {
+      "word": "Curse the powers that be (frase no literal)",
+      "translation": "malditos sean los que mandan"
+    },
+    {
+      "word": "Clear off",
+      "translation": "despejar, hacer espacio"
+    },
+    {
+      "word": "Hover (verbo en términos sociales)",
+      "translation": "estar siempre encima"
+    },
+    {
+      "word": "All the way down the road (no literal)",
+      "translation": "desde muy lejos"
+    },
+    {
+      "word": "Ram (verbo en contacto físico)",
+      "translation": "dar un golpe"
+    },
+    {
+      "word": "With old age (no literal)",
+      "translation": "con la edad"
+    },
+    {
+      "word": "Buy off (no alusivo a sobornar)",
+      "translation": "comprar"
+    },
+    {
+      "word": "I'm down with my kids",
+      "translation": "estoy pasando el rato con mis hijos"
+    },
+    {
+      "word": "Double-pump the clutch",
+      "translation": "soltar y volver a pisar el embrague"
+    },
+    {
+      "word": "She's got a great spike (frase no literal)",
+      "translation": "tiene un remate fantástico"
+    },
+    {
+      "word": "Back in",
+      "translation": "volver"
+    },
+    {
+      "word": "A candid for the feature",
+      "translation": "una foto espontánea para el reportaje"
+    },
+    {
+      "word": "Editorial",
+      "translation": "artículo de opinión"
+    },
+    {
+      "word": "Padding",
+      "translation": "acolchado"
+    },
+    {
+      "word": "Keep to themselves (no literal)",
+      "translation": "ser reservados"
+    },
+    {
+      "word": "This foster dadlmatchmaker",
+      "translation": "este padre de acogida y casamentero"
+    },
+    {
+      "word": "Just follow along (traducción aproximada)",
+      "translation": "sigue el hilo, sigue leyendo"
+    },
+    {
+      "word": "Berry cobbler",
+      "translation": "tarta de frutos rojos"
+    },
+    {
+      "word": "Power cord",
+      "translation": "cable de alimentación"
+    },
+    {
+      "word": "Repel (verbo)",
+      "translation": "rechazar, repeler"
+    },
+    {
+      "word": "No-show (no literal)",
+      "translation": "ausencia"
+    },
+    {
+      "word": "Old tires were getting pretty bald",
+      "translation": "los neumáticos viejos estaban bastante lisos"
+    },
+    {
+      "word": "Onion root tip cells",
+      "translation": "células de la punta de la raíz de la cebolla"
+    },
+    {
+      "word": "Catcall (verbo)",
+      "translation": "hacer un piropo, silbar"
+    },
+    {
+      "word": "Keep up",
+      "translation": "seguir/mantener el ritmo"
+    },
+    {
+      "word": "You took quite a spill (frase no literal)",
+      "translation": "te diste un buen golpe"
+    },
+    {
+      "word": "He knocked me out of the way",
+      "translation": "me empujó a un lado"
+    },
+    {
+      "word": "Push away",
+      "translation": "apartar"
+    },
+    {
+      "word": "Permission slips",
+      "translation": "formularios de autorización"
+    },
+    {
+      "word": "Carrot tops",
+      "translation": "hojas de la zanahoria"
+    },
+    {
+      "word": "Get frostbite",
+      "translation": "congelarse"
+    },
+    {
+      "word": "A big swell",
+      "translation": "un gran oleaje"
+    },
+    {
+      "word": "It's creepy",
+      "translation": "da miedo"
+    },
+    {
+      "word": "Your mood swings are kind of giving me whiplash",
+      "translation": "tus cambios de humor me están dejando un poco aturdido"
+    },
+    {
+      "word": "Put off",
+      "translation": "evitar, posponer"
+    },
+    {
+      "word": "I'm paddling out",
+      "translation": "me voy al mar, me voy a meter en el agua"
+    },
+    {
+      "word": "Will you do me up? (pregunta no literal)",
+      "translation": "¿Me ayudas a abrocharme?"
+    },
+    {
+      "word": "Rez",
+      "translation": "reserva"
+    },
+    {
+      "word": "Her date bailed",
+      "translation": "su cita le dejó plantado"
+    },
+    {
+      "word": "We wouldn't expose to the palefaces (forma no literal)",
+      "translation": "no revelaríamos a los rostros pálidos"
+    },
+    {
+      "word": "Yank out",
+      "translation": "quitar"
+    },
+    {
+      "word": "Get cleaned out (en ventas)",
+      "translation": "agotarse"
+    },
+    {
+      "word": "Beading",
+      "translation": "bordado con abalorios"
+    },
+    {
+      "word": "Low-life",
+      "translation": "chusma, gentuza"
+    },
+    {
+      "word": "Pull in",
+      "translation": "aparcar, entrar"
+    },
+    {
+      "word": "Get (someone) down",
+      "translation": "derribar"
+    },
+    {
+      "word": "I've known him going on 30 years",
+      "translation": "lo conozco desde hace casi 30 años"
+    },
+    {
+      "word": "Outrun (verbo)",
+      "translation": "dejar atrás"
+    },
+    {
+      "word": "Fight off",
+      "translation": "defenderse"
+    },
+    {
+      "word": "Excruciating",
+      "translation": "insoportable"
+    },
+    {
+      "word": "The restraint",
+      "translation": "moderación necesaria"
+    },
+    {
+      "word": "Got that dent out",
+      "translation": "ya quité esa abolladura"
+    },
+    {
+      "word": "Moat",
+      "translation": "foso"
+    },
+    {
+      "word": "Non-stick saute pan",
+      "translation": "sartén antiadherente"
+    },
+    {
+      "word": "Get a whiff of that",
+      "translation": "huele esto"
+    },
+    {
+      "word": "Hold on tight",
+      "translation": "agárrate con fuerza"
+    },
+    {
+      "word": "Bare",
+      "translation": "descalza, desnuda"
+    },
+    {
+      "word": "Take over",
+      "translation": "encargarse, hacerse cargo"
+    },
+    {
+      "word": "Flag (verbo)",
+      "translation": "marcar, señalar"
+    },
+    {
+      "word": "Yahoo (no alusivo al navegador web)",
+      "translation": "patán, paleto"
+    },
+    {
+      "word": "Umpire",
+      "translation": "árbitro"
+    },
+    {
+      "word": "You set my soul alight",
+      "translation": "me enciendes el alma"
+    },
+    {
+      "word": "Get your hair down",
+      "translation": "suéltate el pelo"
+    },
+    {
+      "word": "We were just passing through",
+      "translation": "sólo estábamos de paso"
+    },
+    {
+      "word": "I'm the one with the wicked curveball",
+      "translation": "soy el que lanza esa bola curva tan traicionera"
+    },
+    {
+      "word": "Set (someone) off",
+      "translation": "enfurecer, hacer enojar"
+    },
+    {
+      "word": "Rip him apart",
+      "translation": "hazlo pedazos"
+    },
+    {
+      "word": "Pull into a",
+      "translation": "pararse en un"
+    },
+    {
+      "word": "I'm not that much fun to be around",
+      "translation": "no soy una persona muy divertida"
+    },
+    {
+      "word": "Unparalleled senses",
+      "translation": "sensaciones sin igual"
+    },
+    {
+      "word": "I don't relish the thought (frase no literal)",
+      "translation": "no me gusta la idea"
+    },
+    {
+      "word": "Course (en física)",
+      "translation": "trayectoria, recorrido, ruta"
+    },
+    {
+      "word": "His rage will make for more interesting sport (parcialmente no literal)",
+      "translation": "su ira hará que el espectáculo sea más interesante"
+    },
+    {
+      "word": "Feeble",
+      "translation": "débil"
+    },
+    {
+      "word": "To turn you",
+      "translation": "para cambiarte"
+    },
+    {
+      "word": "Floodboards",
+      "translation": "planchas de inundación"
+    },
+    {
+      "word": "Severed",
+      "translation": "seccionado"
+    },
+    {
+      "word": "Are you crashing the prom?",
+      "translation": "¿Te vas a colar en el baile de graduación?"
+    },
+    {
+      "word": "Rite of passage",
+      "translation": "rito de iniciación"
+    },
+    {
+      "word": "We're going all the way",
+      "translation": "vamos a llegar hasta el final"
+    },
+    {
+      "word": "Slowing it down (frase)",
+      "translation": "vamos a tomárnoslo con calma"
+    },
+    {
+      "word": "Wide on my plastic toys (parcialmente no literal)",
+      "translation": "me encantan mis juguetes de plástico"
+    },
+    {
+      "word": "A dog-eared map (no literal)",
+      "translation": "un mapa con las esquinas dobladas"
+    },
+    {
+      "word": "Flightless bird",
+      "translation": "ave no voladora"
+    },
+    {
+      "word": "You reel me out",
+      "translation": "me atraes"
+    },
+    {
+      "word": "Did your string come undone?",
+      "translation": "¿Se te ha deshecho el cordón?"
+    },
+    {
+      "word": "I will figure this one out on my own",
+      "translation": "esto lo resolveré por mi cuenta"
+    },
+    {
+      "word": "Make such fools of ourselves",
+      "translation": "hacer el ridículo, quedar tan en ridículo"
+    }
+  ],
+  "count": 91,
+  "dialogues": 1724,
+  "duration": 122
+}

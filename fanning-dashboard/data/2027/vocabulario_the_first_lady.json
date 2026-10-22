@@ -1,0 +1,914 @@
+[
+  {
+    "id": "v_65b594fd",
+    "word": "Countenance (verbo)",
+    "translation": "tolerar",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7191137d",
+    "word": "Steeple",
+    "translation": "campanario",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_94099d77",
+    "word": "Welfare office",
+    "translation": "oficina de asistencia social",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_c00ba9f3",
+    "word": "Upholstery",
+    "translation": "tapicería",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b5ed8b87",
+    "word": "Decorum",
+    "translation": "decoro, compostura",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_5d9ce130",
+    "word": "Possibilitis (en política)",
+    "translation": "posibles candidatos",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cc495f96",
+    "word": "Recitatin",
+    "translation": "exposición",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_dc51fe5d",
+    "word": "Palm Springs, sprung! (traducción aproximada)",
+    "translation": "¡Palm Springs, alucinante!",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6b8938e6",
+    "word": "Submit (verbo aparte de enviar)",
+    "translation": "presentar (un candidato)",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_234e19e2",
+    "word": "So much for sunshine (frase no literal)",
+    "translation": "adiós al sol",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_248f7c1f",
+    "word": "Umpire",
+    "translation": "árbitro",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_966e3cda",
+    "word": "The standing water in the cove",
+    "translation": "el agua estancada en la Ensenada",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ccbb3758",
+    "word": "Fuck a duck (frase no literal)",
+    "translation": "qué carajo",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2e2c8b73",
+    "word": "Faraway",
+    "translation": "lejano",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_e1929994",
+    "word": "Braces",
+    "translation": "aparatos (dentales)",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_bcff5ce4",
+    "word": "On the next step of the ladder to (parcialmente no literal)",
+    "translation": "un paso más cerca de",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d098527e",
+    "word": "Pipe dreams (no literal)",
+    "translation": "quimeras, ilusiones vanas",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0515b3c1",
+    "word": "Trimmin’s",
+    "translation": "adornos",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0fdf1110",
+    "word": "Someone sprang to his feet",
+    "translation": "alguien se puso de pie de un salto",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ae193fdf",
+    "word": "And no one bats an eye (frase no literal)",
+    "translation": "y nadie se inmuta",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ce4fd013",
+    "word": "Wretch",
+    "translation": "desdichado",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4bfc2513",
+    "word": "You are on a hell of a roll here",
+    "translation": "estás en una racha increíble",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fa3840eb",
+    "word": "And word on the street is (frase no literal)",
+    "translation": "y lo que se dice por ahí es que",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d19dfd1c",
+    "word": "Protective detail (no literal)",
+    "translation": "equipo de seguridad",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_69d60202",
+    "word": "Get to steppin' (expresión)",
+    "translation": "ponte en marcha",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c9ed42a9",
+    "word": "In harm's way",
+    "translation": "en peligro",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d5a50443",
+    "word": "Her blood-splattered pink Chanel suit?",
+    "translation": "¿Su traje rosa de Chanel salpicado de sangre?",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_dc912ce5",
+    "word": "Train racks rumbling (acotación)",
+    "translation": "el traqueteo de los rieles del tren",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_16b89509",
+    "word": "Memos",
+    "translation": "notas, memorandos",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4427261b",
+    "word": "She grabbed a hold of me",
+    "translation": "ella me agarró con fuerza",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e0af12ee",
+    "word": "Plain and simple (adverbio)",
+    "translation": "así de sencillo/simple",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6805c395",
+    "word": "They don't want to be pandered to",
+    "translation": "no quieren que se les trate con condescendencia",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5be973be",
+    "word": "Strike the balance (verbo)",
+    "translation": "encontrar el equilibrio",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_27088b51",
+    "word": "I'm all booked up this afternoon",
+    "translation": "esta tarde ya tengo todo agendado",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a5748307",
+    "word": "Crockery clangs (acotación)",
+    "translation": "se oye el ruido de la vajilla",
+    "source_movie": "The First Lady (Episode 1)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fb1ee5e4",
+    "word": "I'm acutely aware",
+    "translation": "soy muy consciente de que",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cafe119b",
+    "word": "Shirk (verbo)",
+    "translation": "eludir",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0778d8f8",
+    "word": "Steeple",
+    "translation": "campanario",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_c08088d0",
+    "word": "Welfare office",
+    "translation": "oficina de asistencia social",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_b7c57e4d",
+    "word": "Some one-to-one time",
+    "translation": "un rato a solas",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ab5ec31f",
+    "word": "I'm still trailing Hillary by double digits",
+    "translation": "sigo estando a dos dígitos de distancia de Hillary",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_12e22efb",
+    "word": "She's whopping my ass",
+    "translation": "me está dando una paliza",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b28c1939",
+    "word": "A relatability issue",
+    "translation": "un problema de identificación",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_64c08871",
+    "word": "Ameliorate (verbo)",
+    "translation": "solucionar, mejorar",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_312935dd",
+    "word": "Okay, than what does all of this entail?",
+    "translation": "bueno, ¿y qué implica todo esto?",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6502500d",
+    "word": "A few speaking engagements (no literal)",
+    "translation": "algunas conferencias",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7f080c7c",
+    "word": "There you go with that sweet talking",
+    "translation": "ya estás otra vez con tus palabras bonitas",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_61bc4d99",
+    "word": "Twist (verbo aparte de retorcer)",
+    "translation": "tergiversar",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f5a5c3c5",
+    "word": "Presumptive",
+    "translation": "presunto",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ceabad11",
+    "word": "Shades (alusivo a la piel)",
+    "translation": "tonos de piel",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ad5b7c2e",
+    "word": "Creeds",
+    "translation": "creencias",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a42f6468",
+    "word": "That's one hardy handshake",
+    "translation": "ese sí que es un apretón de manos firme",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c3138a4c",
+    "word": "I’m busted (no literal)",
+    "translation": "estoy en la ruina",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4ee45b02",
+    "word": "I forged Steel",
+    "translation": "forjé acero",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_900c2258",
+    "word": "Off the record (adverbio)",
+    "translation": "entre nosotros, en privado, extraoficialmente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a47ff87a",
+    "word": "And gaze adoringly",
+    "translation": "y mirar con adoración",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_04725632",
+    "word": "Get a scoop (verbo)",
+    "translation": "conseguir una primicia (literal), averiguar algo (no literal)",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5701c973",
+    "word": "Chickadee (informal)",
+    "translation": "pajarito",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c838816a",
+    "word": "Push (someone) off",
+    "translation": "empujar",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ce0f9598",
+    "word": "It's lacking punch",
+    "translation": "le falta fuerza",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1d9151b2",
+    "word": "Nothing is to be feared the fear",
+    "translation": "no hay que temer al miedo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d488e9eb",
+    "word": "Let me assert my firm belief (parcialmente no literal)",
+    "translation": "permítanme expresar mi firme convicción",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8d0c906e",
+    "word": "Grinning",
+    "translation": "sonriente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ff304f23",
+    "word": "Convey (verbo)",
+    "translation": "transmitir",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_e6faeb49",
+    "word": "It's quite another to",
+    "translation": "una cosa es eso y otra muy distinta es",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_d7961374",
+    "word": "I don't wanna keep missing bedtime",
+    "translation": "no quiero seguir quedándome sin dormir a la hora de acostarme",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e1272573",
+    "word": "Bougie",
+    "translation": "pijo, ostentoso",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b18e5ff6",
+    "word": "You're gonna be a dope First Lady (en sentido positivo)",
+    "translation": "vas a ser una Primera Dama increíble",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5a6f85df",
+    "word": "Set in (en algunos contextos)",
+    "translation": "adaptarse bien",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_06e6c2ad",
+    "word": "We want to hit the ground running (frase no literal)",
+    "translation": "queremos empezar con el pie derecho",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_bbd04228",
+    "word": "Photo ops",
+    "translation": "sesiones fotográficas",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a660a406",
+    "word": "Shoot the cover (verbo)",
+    "translation": "tomar la foto de portada",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b70e14f4",
+    "word": "Rutabagas",
+    "translation": "colinabos",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_75cab9eb",
+    "word": "Turnip",
+    "translation": "nabo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0ceebf6b",
+    "word": "Give some thought (verbo)",
+    "translation": "pensarlo un poco",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e18bb9c0",
+    "word": "They tend to flush that sort of thing right out into the open (frase no literal)",
+    "translation": "suelen sacar ese tipo de cosas a la luz",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f58296fa",
+    "word": "Keep it running smoothly",
+    "translation": "mantén todo funcionando sin problemas",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_664568a8",
+    "word": "Steer (verbo no literal)",
+    "translation": "animar, convencer (a una persona)",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_20ae92da",
+    "word": "Candor",
+    "translation": "sincera",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4bcaa711",
+    "word": "Run for his office (verbo no literal en política)",
+    "translation": "postular para su cargo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b10ff5ad",
+    "word": "I tend to run a little behind (frase no literal)",
+    "translation": "suelo llegar un poco tarde",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_cc670ce9",
+    "word": "He’ll pardon or convict",
+    "translation": "él indultará o condenará",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b9942f3b",
+    "word": "We had to turn things around rather quickly",
+    "translation": "tuvimos que darle un giro a la situación bastante rápido",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0a35c21d",
+    "word": "I'm still getting my bearing (frase no literal)",
+    "translation": "todavía estoy orientándome",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_28bf5635",
+    "word": "This situation has been sprung on you",
+    "translation": "esta situación te ha tomado por sorpresa",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_42230cf2",
+    "word": "Three hours seared into my brain",
+    "translation": "tres horas que se me quedaron grabadas en la mente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fd605d43",
+    "word": "Aides",
+    "translation": "asistentes",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_7fd35755",
+    "word": "They took over their homeland matter",
+    "translation": "se apoderaron de su tierra natal",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_947c5936",
+    "word": "I spout out White House trivia",
+    "translation": "suelto datos curiosos de la Casa Blanca",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0fb98b8d",
+    "word": "Get an angle here (frase no literal)",
+    "translation": "sacar provecho de la situación",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8175828a",
+    "word": "Bridal",
+    "translation": "nupcial",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7fc3c3f4",
+    "word": "Liaison",
+    "translation": "enlace",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_fa376eb6",
+    "word": "Ease you into (verbo)",
+    "translation": "ayudar a familiarizarte poco a poco en",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7cd70359",
+    "word": "Shoots",
+    "translation": "sesiones de fotos",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_08806b38",
+    "word": "Roast alive (verbo no literal)",
+    "translation": "criticar duramente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7abfc083",
+    "word": "We can't rock the boat too much (frase no literal)",
+    "translation": "no podemos hacer demasiado alboroto",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8e27e23d",
+    "word": "A curly kale master class",
+    "translation": "una clase magistral sobre la col rizada",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_12706f18",
+    "word": "Sideline (verbo)",
+    "translation": "dejar de lado",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_db05bd46",
+    "word": "Inconsequential",
+    "translation": "inconsecuente, insignificante",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1cecc51d",
+    "word": "Liability",
+    "translation": "carga, problema",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_0cbb5fc5",
+    "word": "Pimpo ut",
+    "translation": "explotar sexualmente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_91d910f1",
+    "word": "Jerk-off",
+    "translation": "idiota, pendejo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_461a5351",
+    "word": "Patronizing",
+    "translation": "prepotente",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_42408d00",
+    "word": "Peripheral bullshit",
+    "translation": "tonterías sin importancia",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_056aeb79",
+    "word": "I will body check anyone (frase no literal)",
+    "translation": "le daré un empujón a quien sea",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4aecf535",
+    "word": "Patronize (verbo)",
+    "translation": "tartar con condescendencia",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9daac7ef",
+    "word": "Roll over",
+    "translation": "dar la vuelta",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_101b41f4",
+    "word": "Foist (verbo)",
+    "translation": "imponer",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c4196955",
+    "word": "And stepping into mine",
+    "translation": "y asumo el mío",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6d1fa9a1",
+    "word": "Horticulturist",
+    "translation": "horticultor",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2dac0bd5",
+    "word": "You've been misused",
+    "translation": "te han tratado mal",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_87969983",
+    "word": "He hasn't got it quite yet",
+    "translation": "todavía no lo he entendido del todo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_766509c3",
+    "word": "You've been in the trenches with me",
+    "translation": "has estado a mi lado en las trincheras",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c6772d07",
+    "word": "Pulling this all together on such short notice",
+    "translation": "organizar todo esto en tan poco tiempo",
+    "source_movie": "The First Lady (Episode 2)",
+    "year_processed": "2027",
+    "global_frequency": 1
+  }
+]

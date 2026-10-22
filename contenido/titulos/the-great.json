@@ -1,0 +1,56 @@
+{
+  "titulo": "The Great",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 93812
+  },
+  "estreno": "2020-05-15",
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "analisis": "",
+  "sinopsis": "Serie que relata el ascenso al poder de Catalina la Grande (Catalina II de Rusia), que fue emperatriz de Rusia durante 34 años, desde el 1762 hasta su muerte a los 67 años. Catalina se verá obligada a elegir entre su propia felicidad personal y el futuro de Rusia, cuando se casa con un emperador.",
+  "poster": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+    "https://image.tmdb.org/t/p/w780/XF17lweAfCVEYAGPm95rwlSqTs.jpg",
+    "https://image.tmdb.org/t/p/w780/7ZL0PNCiGRtBlFVjfBL2vXIpEcV.jpg",
+    "https://image.tmdb.org/t/p/w780/kutyEbl7Ys3MRuAK2iPCabavQ1w.jpg",
+    "https://image.tmdb.org/t/p/w780/kHUJ2mHcDJ4Zye4OWhW891mKw2P.jpg",
+    "https://image.tmdb.org/t/p/w780/yodnsKfTUbcxemzTx1hb5rkVJeU.jpg"
+  ],
+  "realeza": {
+    "Elle Fanning": [
+      "actua",
+      "produce"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Great (S01EP1-2) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from The Great to improve the vocabulary in English (Season 1).pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "The Great (Episode 1)",
+      "titulo": "The Great",
+      "foto": "https://image.tmdb.org/t/p/w500/hUxU8akbM1hacG9bp35VWWvtk1J.jpg",
+      "sinopsis": "En 1761 Catalina viaja a Rusia y se convierte en Emperatriz al casarse con el Emperador de Rusia, Pedro. Con la esperanza de casarse con un gran amor, Catalina pronto se da cuenta de que Pedro es un mocoso egoísta que se opone a todo lo que ella valora. Catalina se siente perdida y desesperanzada llegando al borde del suicidio cuando su sirviente, Marial, le hará ver que existe un camino alternativo: derrocar a Pedro.",
+      "duracion": 52
+    },
+    "S01E02": {
+      "nombre": "The Great (Episode 2)",
+      "titulo": "A Fake Beard",
+      "foto": "https://image.tmdb.org/t/p/w500/1jkWbcAnRWiYS2jt0MJMfWUSjit.jpg",
+      "sinopsis": "Catalina da sus primeros pasos para dar un golpe de estado. Siguiendo el consejo de Marial, intenta seducir y reclutar al Conde Orlo, el intelectual de palacio. Resulta un desastre. Sin embargo, después de ver el trato brutal de Pedro a los nobles locales y su falta de voluntad para escuchar, decide unirse al golpe de Catalina.",
+      "duracion": 55
+    }
+  }
+}

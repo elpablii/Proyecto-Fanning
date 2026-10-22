@@ -1,0 +1,3049 @@
+{
+  "title": "Kick Buttowski",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.06,
+    "senales": {
+      "vocabulario": 4.09,
+      "dialogos": 3.76,
+      "temas": 4.23
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.4,
+        "A2": 6.2,
+        "B1": 10.9,
+        "B2": 28.6,
+        "C1": 20.7,
+        "C2": 25.2
+      },
+      "densidad": 6.5
+    },
+    "dialogos": {
+      "cobertura95": 3.96,
+      "ppm": 139.1
+    },
+    "temas": [
+      "cine y espectáculo",
+      "musical"
+    ],
+    "rango": [
+      "B2",
+      "B2-C1"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "La historia se centra en Clarence Francis Buttowski, un acróbata que prefiere que lo llamen por el nombre de «Kick» Buttowski. Le gusta mucho la acción, el peligro y las cosas asombrosas y con su mejor amigo Gunther tratan de hacer lo más increíble.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+      "https://image.tmdb.org/t/p/w780/6ZOYRvJn7Gt5pUvwI6SLdbAgyuL.jpg",
+      "https://image.tmdb.org/t/p/w780/dNo7npVLmNCuZmzAhn0luVVK6r4.jpg",
+      "https://image.tmdb.org/t/p/w780/tJlF8IG7r9MBRCADIUqG10t4tT2.jpg",
+      "https://image.tmdb.org/t/p/w780/nhUDz92Mn2fHOb7vkl3rs9h9vZB.jpg",
+      "https://image.tmdb.org/t/p/w780/xfdFw7ZJ6uYhUNsmpSwFT7DSnkA.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Dead Man's Drop",
+        "still_path": "https://image.tmdb.org/t/p/w500/qjpvZTLl57tdq8MEvKYyc7GyXlK.jpg",
+        "overview": "Después de chocar e incendiarse frente al vecindario en su última escena de riesgo, Kick no dejará que Brad se interponga en su camino en su cruzada por redimirse."
+      },
+      "S01E02": {
+        "name": "There Will Be Nachos",
+        "still_path": "https://image.tmdb.org/t/p/w500/f1CBRKlbx3zTJs2oFG3ifh7GlSy.jpg",
+        "overview": "Brad está a punto de organizar la fiesta del año mientras sus padres están fuera, y Kick no se lo perderá por nada del mundo."
+      },
+      "S01E03": {
+        "name": "Kick the Habit",
+        "still_path": "https://image.tmdb.org/t/p/w500/i7mP97eDJsNRGvKFlZBpTzjYb0O.jpg",
+        "overview": "Preocupados por su seguridad, los padres de Kick le hacen prometer que dejará las acrobacias por 24 horas."
+      },
+      "S01E04": {
+        "name": "Not Without My Cereal",
+        "still_path": "https://image.tmdb.org/t/p/w500/cgeUkF7UlXLZwNfzPgDg02Wom1j.jpg",
+        "overview": "Kick debe recuperar su cereal favorito de las garras de su hermanita Brianna cuando ella se lo lleva al supermercado."
+      },
+      "S01E05": {
+        "name": "Kickasaurus Wrecks",
+        "still_path": "https://image.tmdb.org/t/p/w500/nlLiMo8P1wQVB5HZyeUzD5XYSUU.jpg",
+        "overview": "La solicitud del dueño del equipo de fútbol local para que Kick realice el show del entretiempo lo lleva a ser el centro de burlas."
+      },
+      "S01E06": {
+        "name": "Obsession For Kick",
+        "still_path": "https://image.tmdb.org/t/p/w500/uhEIM6kg7fhqGgHq5bOMVz7VrP8.jpg",
+        "overview": "Cuando una niña nueva se muda al barrio, Gunther intenta que Kick se dé cuenta de que ella se está convirtiendo en algo más que en su más grande seguidora."
+      },
+      "S01E07": {
+        "name": "According to Chimp",
+        "still_path": "https://image.tmdb.org/t/p/w500/oZfVxpaYkzDkL5xwlBG0wQ7zsnZ.jpg",
+        "overview": "Kick encuentra un chimpancé perdido y lo entusiasma esconderlo en su casa."
+      },
+      "S01E08": {
+        "name": "Runaway Recital",
+        "still_path": "https://image.tmdb.org/t/p/w500/e3U2QoQ1Pfqcqu6mvrVLSxcuWUT.jpg",
+        "overview": "Obligado a practicar piano cuando todos juegan afuera, Kick utiliza la oportunidad para transformar el aburrimiento en una increíble escena de riesgo para el recuerdo."
+      },
+      "S01E09": {
+        "name": "Box Office Blitz",
+        "still_path": "https://image.tmdb.org/t/p/w500/j8YtCYFlhY1yK0eamOLvYmuFTcp.jpg",
+        "overview": "Kick debe meterse a hurtadillas en un cine muy vigilado."
+      },
+      "S01E10": {
+        "name": "Those Who Camp, Do",
+        "still_path": "https://image.tmdb.org/t/p/w500/dJrUn7uU2uNTNlOTRwRLvmgRJGJ.jpg",
+        "overview": "Kick promete pasar una noche en la jungla indómita y regresar vivo."
+      },
+      "S01E11": {
+        "name": "The Treasure of Dead Man Dave",
+        "overview": "En su exposición oral, Kick detalla un recorrido dentro de una cueva, buscando a un legendario patinador."
+      },
+      "S01E12": {
+        "name": "For The Love of Gunther",
+        "still_path": "https://image.tmdb.org/t/p/w500/zuyIzBc9EfTknQ5yZj2rEvzDvFP.jpg",
+        "overview": "Kick transforma a Gunther en un doble de riesgo para impresionar a la chica que le gusta."
+      },
+      "S01E13": {
+        "name": "Wade Against The Machine",
+        "overview": "Kick debe hacer que degraden a Wade en su nuevo trabajo empresarial, y que vuelva a Food'N'Fix."
+      },
+      "S01E14": {
+        "name": "Mellowbrook Drift",
+        "still_path": "https://image.tmdb.org/t/p/w500/wL2VmgnmUN1H6sPrjLImz5F0kTV.jpg",
+        "overview": "Kick desafía a un equipo rival de carreras callejeras a \"El ganador se lo lleva todo\", que desafía la física contra la voluntad de un doble de riesgo."
+      },
+      "S01E15": {
+        "name": "Things That Make You Go Boom!",
+        "still_path": "https://image.tmdb.org/t/p/w500/g6TvKOIRiJpQj0JhQTBk4BigoIE.jpg",
+        "overview": "Kick pelea con Brad para ganar una búsqueda del tesoro de una emisora de radio."
+      },
+      "S01E16": {
+        "name": "A Very Buttowski Mother's Day",
+        "overview": "Kick y Brad entran en guerra para darle a Mamá el mejor desayuno del Día de la Madre."
+      },
+      "S01E17": {
+        "name": "Abandon Friendship!",
+        "still_path": "https://image.tmdb.org/t/p/w500/5TlilhO3s9xNa1cbkYIIGKxe06u.jpg",
+        "overview": "Kick y Gunther deben encontrar nuevos mejores amigos cuando sus padres se pelean."
+      },
+      "S01E18": {
+        "name": "Dancing With The Enemy",
+        "still_path": "https://image.tmdb.org/t/p/w500/gey5rf0vJeB59KmXeD79jwTwT85.jpg",
+        "overview": "Kick es puesto en pareja con su archienemiga en una competencia de baile de la escuela."
+      },
+      "S01E19": {
+        "name": "Fistful of Ice Cream",
+        "overview": "Kick se enfrenta con bandidos agresivos mientras lleva helado para el cumpleaños de Papá."
+      },
+      "S01E20": {
+        "name": "Frame Story",
+        "still_path": "https://image.tmdb.org/t/p/w500/3FTMlPtl01lRVxscDKeVOG9dquv.jpg",
+        "overview": "Kick es culpado por un delito que no cometió, y debe averiguar quién lo incriminó."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "Kick Buttowski (Episode 1)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.26,
+        "senales": {
+          "vocabulario": 4.22,
+          "dialogos": 4.44,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.7,
+            "A2": 2.9,
+            "B1": 15.3,
+            "B2": 38.4,
+            "C1": 14.5,
+            "C2": 20.2
+          },
+          "densidad": 8.8
+        },
+        "dialogos": {
+          "cobertura95": 4.85,
+          "ppm": 122.5
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Dillweed",
+          "translation": "tonto, idiota, loser (como extranjerismo)"
+        },
+        {
+          "word": "Lame (aparte de penoso)",
+          "translation": "patético"
+        },
+        {
+          "word": "Lame out",
+          "translation": "quedar en ridículo/sin fuerzas"
+        },
+        {
+          "word": "Body cast",
+          "translation": "yeso corporal"
+        },
+        {
+          "word": "Watch in awe (verbo)",
+          "translation": "ver con asombro, quedar boquiabierto"
+        },
+        {
+          "word": "Tricked-out",
+          "translation": "tuneado"
+        },
+        {
+          "word": "Steam press (verbo)",
+          "translation": "planchar"
+        },
+        {
+          "word": "Chomp (verbo)",
+          "translation": "masticar, mascar"
+        },
+        {
+          "word": "You’re home free (frase no literal)",
+          "translation": "estás a salvo"
+        },
+        {
+          "word": "We go bindings?",
+          "translation": "¿Llevamos fijaciones?"
+        },
+        {
+          "word": "Beef (traducción aproximada no alusiva a la carne)",
+          "translation": "prepárate, ponte en forma"
+        },
+        {
+          "word": "He's gonna eat it so bad",
+          "translation": "se la va a comer con ganas"
+        },
+        {
+          "word": "It took all blasted summer",
+          "translation": "me llevó todo el maldito verano"
+        },
+        {
+          "word": "In the cul-de-sac",
+          "translation": "en el callejón sin salida"
+        },
+        {
+          "word": "I lower the forceps and firmly yank",
+          "translation": "bajo las pinzas y tiro con fuerza"
+        },
+        {
+          "word": "Wipeout",
+          "translation": "caída estrepitosa"
+        },
+        {
+          "word": "Rascal",
+          "translation": "granuja"
+        },
+        {
+          "word": "You're toast, small fry! (frase no literal)",
+          "translation": "¡Estás frito/perdido, don nadie!"
+        },
+        {
+          "word": "A get well song from the old country (frase no literal)",
+          "translation": "una canción de ánimo del viejo continente"
+        },
+        {
+          "word": "Glum (adjetivo)",
+          "translation": "abatido"
+        },
+        {
+          "word": "Jiggly",
+          "translation": "tembloroso"
+        },
+        {
+          "word": "Turn it back!",
+          "translation": "¡Da marcha atrás!"
+        },
+        {
+          "word": "The 90 foot truck dive",
+          "translation": "la inmersión en el camión de 27 metros"
+        },
+        {
+          "word": "Ride shotgun (verbo no literal)",
+          "translation": "viajar con"
+        },
+        {
+          "word": "I want a brain freeze (frase no literal)",
+          "translation": "quiero que se me congele el cerebro"
+        },
+        {
+          "word": "Lift (sustantivo)",
+          "translation": "elevador"
+        },
+        {
+          "word": "Jam (verbo)",
+          "translation": "improvisar"
+        },
+        {
+          "word": "Catch phrase",
+          "translation": "eslogan"
+        },
+        {
+          "word": "Fumes",
+          "translation": "gases, humos, vapores"
+        },
+        {
+          "word": "You're toast (no literal)",
+          "translation": "estás frito/perdido"
+        },
+        {
+          "word": "Engine stalls (acotación)",
+          "translation": "el motor se cala"
+        },
+        {
+          "word": "That's how you roll (frase no literal)",
+          "translation": "así se hace"
+        },
+        {
+          "word": "Hold on your spit buckets (frase no literal)",
+          "translation": "prepárense para las sorpresas"
+        },
+        {
+          "word": "You blew that jump (parcialmente no literal)",
+          "translation": "fallaste ese salto"
+        },
+        {
+          "word": "You got the makings of a daredevil (parcialmente no literal)",
+          "translation": "tienes lo necesario para ser un temerario"
+        },
+        {
+          "word": "Engine cranking (acotación)",
+          "translation": "arranque del motor"
+        }
+      ],
+      "count": 36,
+      "dialogues": 411,
+      "duration": 11
+    },
+    {
+      "code": "S01E02",
+      "name": "Kick Buttowski (Episode 2)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.25,
+        "senales": {
+          "vocabulario": 4.4,
+          "dialogos": 3.75,
+          "temas": 4.47
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 0.0,
+            "B1": 10.5,
+            "B2": 52.6,
+            "C1": 15.8,
+            "C2": 21.1
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 4.08,
+          "ppm": 128.4
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Bookmark",
+          "translation": "marcador"
+        },
+        {
+          "word": "It's checkout time",
+          "translation": "es hora de pagar"
+        },
+        {
+          "word": "Thunderclap",
+          "translation": "trueno"
+        },
+        {
+          "word": "I'll pound you into horse meat (frase no literal)",
+          "translation": "te voy a hacer papilla"
+        },
+        {
+          "word": "Oversight",
+          "translation": "control"
+        },
+        {
+          "word": "Lay off those nachos",
+          "translation": "deja de comer esos nachos"
+        },
+        {
+          "word": "Time to make a splash (frase no literal)",
+          "translation": "es hora de dar un gran salto"
+        },
+        {
+          "word": "Crash (verbo no literal en juntas)",
+          "translation": "colarse, meterse"
+        },
+        {
+          "word": "Lame (aparte de penoso)",
+          "translation": "patético"
+        },
+        {
+          "word": "You guys are having a jamming time? (pregunta no literal)",
+          "translation": "¿Ustedes se la están pasando genial?"
+        },
+        {
+          "word": "It's time to crank it up a notch (frase no literal)",
+          "translation": "es hora de subir el nivel"
+        },
+        {
+          "word": "Charades",
+          "translation": "adivinanzas, charadas"
+        },
+        {
+          "word": "Lame party",
+          "translation": "fiesta aburrida"
+        },
+        {
+          "word": "Light sticks",
+          "translation": "barras luminosas"
+        },
+        {
+          "word": "Oh, fiddle faddle (expresión)",
+          "translation": "bah, tonterías"
+        },
+        {
+          "word": "Boogie down",
+          "translation": "salir/venir a bailar"
+        },
+        {
+          "word": "Freaky (adjetivo)",
+          "translation": "raro"
+        },
+        {
+          "word": "The entertainment is off the \"hiz-ook\" (frase no literal)",
+          "translation": "el espectáculo es de lo más alucinante"
+        },
+        {
+          "word": "Keep it bumping (no literal)",
+          "translation": "que siga la fiesta"
+        }
+      ],
+      "count": 19,
+      "dialogues": 271,
+      "duration": 11
+    },
+    {
+      "code": "S01E03",
+      "name": "Kick Buttowski (Episode 3)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.48,
+        "senales": {
+          "vocabulario": 4.59,
+          "dialogos": 4.14,
+          "temas": 4.62
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.3,
+            "A2": 6.3,
+            "B1": 6.3,
+            "B2": 12.7,
+            "C1": 36.7,
+            "C2": 31.6
+          },
+          "densidad": 7.4
+        },
+        "dialogos": {
+          "cobertura95": 4.4,
+          "ppm": 134.1
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Rumble (verbo)",
+          "translation": "retumbar"
+        },
+        {
+          "word": "Hold me",
+          "translation": "abrázame"
+        },
+        {
+          "word": "The ultimate hangout",
+          "translation": "el lugar de reunión definitivo"
+        },
+        {
+          "word": "Hangout spot",
+          "translation": "lugar de reunión"
+        },
+        {
+          "word": "Housewarming",
+          "translation": "inauguración de la casa"
+        },
+        {
+          "word": "Scuffling",
+          "translation": "forcejeo"
+        },
+        {
+          "word": "Lingonberries",
+          "translation": "arándanos rojos"
+        },
+        {
+          "word": "Fall back! (expresión)",
+          "translation": "retirada"
+        },
+        {
+          "word": "Gurgle (verbo)",
+          "translation": "gorgotear"
+        },
+        {
+          "word": "Overpower (verbo)",
+          "translation": "reducir (a alguien en fuerza)"
+        },
+        {
+          "word": "Lame brain (no literal en forma despectiva)",
+          "translation": "tonto, idiota"
+        },
+        {
+          "word": "Lamer brain (literal despectivo)",
+          "translation": "cerebro de novato"
+        },
+        {
+          "word": "Please (verbo)",
+          "translation": "complacer"
+        },
+        {
+          "word": "Whooping (acotación)",
+          "translation": "gritos"
+        },
+        {
+          "word": "Flank",
+          "translation": "flanco"
+        },
+        {
+          "word": "The slop (para este episodio)",
+          "translation": "la porquería, el barro"
+        },
+        {
+          "word": "Knuckle",
+          "translation": "nudillo"
+        },
+        {
+          "word": "Regimentation and crew cuts",
+          "translation": "disciplina militar y los cortes de pelo al cero"
+        },
+        {
+          "word": "Crack (verbo no literal)",
+          "translation": "rendirse"
+        },
+        {
+          "word": "Rummage (verbo)",
+          "translation": "rebuscar, hurgar"
+        },
+        {
+          "word": "Ropes groan (acotación)",
+          "translation": "las cuerdas crujen"
+        },
+        {
+          "word": "Crew cuts",
+          "translation": "cortes de pelo al cero"
+        },
+        {
+          "word": "A nitro-burning \"hyper-septubulous\" skate",
+          "translation": "una patineta «hiper-septubulosa» que funciona con nitro"
+        },
+        {
+          "word": "Your ride",
+          "translation": "tu guía"
+        },
+        {
+          "word": "Partake (verbo)",
+          "translation": "participar"
+        },
+        {
+          "word": "Harsh your mellow (verbo)",
+          "translation": "arruinar el buen momento"
+        },
+        {
+          "word": "Kick back (verbo frasal no literal)",
+          "translation": "relajarse"
+        },
+        {
+          "word": "Armored personnel carrier",
+          "translation": "vehículo blindado de transporte de tropas"
+        },
+        {
+          "word": "I jammed the accelerator open (no literal)",
+          "translation": "pisé a fondo el acelerador"
+        },
+        {
+          "word": "Parking brake (no literal)",
+          "translation": "freno de mano"
+        },
+        {
+          "word": "Get oiled up",
+          "translation": "poner aceite"
+        },
+        {
+          "word": "Why so glum, chum?",
+          "translation": "¿Por qué estás tan triste, amigo?"
+        },
+        {
+          "word": "Soup up (verbo frasal no literal)",
+          "translation": "tunear"
+        }
+      ],
+      "count": 33,
+      "dialogues": 447,
+      "duration": 11
+    },
+    {
+      "code": "S01E04",
+      "name": "Kick Buttowski (Episode 4)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.37,
+        "senales": {
+          "vocabulario": 4.55,
+          "dialogos": 3.61,
+          "temas": 4.93
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.1,
+            "A2": 0.0,
+            "B1": 0.0,
+            "B2": 28.6,
+            "C1": 14.3,
+            "C2": 50.0
+          },
+          "densidad": 4.5
+        },
+        "dialogos": {
+          "cobertura95": 3.9,
+          "ppm": 132.0
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Suit up",
+          "translation": "prepararse, vestirse"
+        },
+        {
+          "word": "Alpenhorn",
+          "translation": "cuerno alpino"
+        },
+        {
+          "word": "Time to up the ante",
+          "translation": "es hora de subir la apuesta"
+        },
+        {
+          "word": "This stuff will put a pep in your step (frase no literal)",
+          "translation": "esto te dará un nuevo impulso"
+        },
+        {
+          "word": "A pint-sized daredevil",
+          "translation": "un pequeño temerario"
+        },
+        {
+          "word": "Utter",
+          "translation": "total, absoluto"
+        },
+        {
+          "word": "Keep your grubby little mitts off of the produce",
+          "translation": "no toques la fruta y verdura con tus manitas sucias"
+        },
+        {
+          "word": "Stump",
+          "translation": "trozo de tronco"
+        },
+        {
+          "word": "Clean up checkout",
+          "translation": "limpieza en la caja"
+        },
+        {
+          "word": "Grubby",
+          "translation": "asqueroso"
+        },
+        {
+          "word": "Time to clean up your act (frase no literal)",
+          "translation": "es hora de enderezar tu conducta"
+        },
+        {
+          "word": "It's shelf-stocker, five-niner",
+          "translation": "es el encargado de reponer los estantes, el de las cinco y nueve"
+        },
+        {
+          "word": "A bratty bogey in a white jumper",
+          "translation": "un mocoso con un suéter blanco"
+        },
+        {
+          "word": "Etiquette (sustantivo no literal)",
+          "translation": "normas de comportamiento, protocolo"
+        }
+      ],
+      "count": 14,
+      "dialogues": 308,
+      "duration": 11
+    },
+    {
+      "code": "S01E05",
+      "name": "Kick Buttowski (Episode 5)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.83,
+        "senales": {
+          "vocabulario": 3.74,
+          "dialogos": 3.93,
+          "temas": 4.03
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.4,
+            "A2": 9.4,
+            "B1": 14.1,
+            "B2": 23.5,
+            "C1": 23.5,
+            "C2": 20.2
+          },
+          "densidad": 5.3
+        },
+        "dialogos": {
+          "cobertura95": 4.38,
+          "ppm": 119.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Short stuff (adjetivo)",
+          "translation": "bajito, enanito"
+        },
+        {
+          "word": "He's in the zone (parcialmente no literal)",
+          "translation": "está en racha"
+        },
+        {
+          "word": "Res ipsa loquitor, habeus corpus, ad infinitum (latín)",
+          "translation": "la cosa misma habla, tiene cuerpo, hasta el infinito"
+        },
+        {
+          "word": "Anyhow",
+          "translation": "por cierto"
+        },
+        {
+          "word": "Iron out",
+          "translation": "ultimar, resolver"
+        },
+        {
+          "word": "The triple-gainer kick-twist",
+          "translation": "el triple salto con giro"
+        },
+        {
+          "word": "The full 720 half-caf grindout",
+          "translation": "el giro completo de 720 grados con medio giro"
+        },
+        {
+          "word": "Please (verbo)",
+          "translation": "complacer"
+        },
+        {
+          "word": "Scoreboard",
+          "translation": "marcador"
+        },
+        {
+          "word": "Rust bucket",
+          "translation": "chatarra"
+        },
+        {
+          "word": "Note to self",
+          "translation": "nota para mí mismo"
+        },
+        {
+          "word": "Glad I beat the lunch rush",
+          "translation": "me alegro de haber llegado antes de la hora pico del almuerzo"
+        },
+        {
+          "word": "Old country (no literal alusivo a Europa)",
+          "translation": "viejo continente"
+        },
+        {
+          "word": "Birds twittering",
+          "translation": "canto/gorjeo de los pájaros"
+        },
+        {
+          "word": "War mace",
+          "translation": "maza de guerra"
+        },
+        {
+          "word": "Chain mail",
+          "translation": "cota de malla"
+        },
+        {
+          "word": "This old heifer's mighty hungry",
+          "translation": "esta vieja novilla tiene un hambre de lobo"
+        },
+        {
+          "word": "Straddle slacks",
+          "translation": "pantalones de corte ancho"
+        },
+        {
+          "word": "So classy",
+          "translation": "qué elegante"
+        },
+        {
+          "word": "Draw (verbo no literal no alusivo a dibujar)",
+          "translation": "atraer"
+        },
+        {
+          "word": "Rumbling (acotación)",
+          "translation": "ruido sordo"
+        },
+        {
+          "word": "Onward to",
+          "translation": "en ruta a, rumbo al"
+        }
+      ],
+      "count": 22,
+      "dialogues": 413,
+      "duration": 11
+    },
+    {
+      "code": "S01E06",
+      "name": "Kick Buttowski (Episode 6)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.88,
+        "senales": {
+          "vocabulario": 3.84,
+          "dialogos": 3.92,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 16.0,
+            "A2": 4.0,
+            "B1": 12.0,
+            "B2": 20.0,
+            "C1": 28.0,
+            "C2": 20.0
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 4.18,
+          "ppm": 134.1
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Chomp (verbo)",
+          "translation": "masticar, mascar"
+        },
+        {
+          "word": "I'll just get down by myself",
+          "translation": "bajaré yo solo"
+        },
+        {
+          "word": "Chewy bran chunks",
+          "translation": "trozos de salvado masticables"
+        },
+        {
+          "word": "Chaser",
+          "translation": "trago para acompañar"
+        },
+        {
+          "word": "On over",
+          "translation": "más allá, hacia allá"
+        },
+        {
+          "word": "Full-fledged members",
+          "translation": "miembros de pleno derecho"
+        },
+        {
+          "word": "Wacky",
+          "translation": "extravagante, loca, chiflada"
+        },
+        {
+          "word": "Water main",
+          "translation": "conducto de agua"
+        },
+        {
+          "word": "Rushing water",
+          "translation": "agua que corre con fuerza"
+        },
+        {
+          "word": "He's a scaredy-cat (no literal)",
+          "translation": "el es un miedoso"
+        },
+        {
+          "word": "Wimp",
+          "translation": "cobarde"
+        },
+        {
+          "word": "Crossing guard",
+          "translation": "guardia de cruces"
+        },
+        {
+          "word": "Crack",
+          "translation": "grieta"
+        },
+        {
+          "word": "That busted water main",
+          "translation": "esa tubería principal de agua rota"
+        },
+        {
+          "word": "Gully",
+          "translation": "barranco"
+        },
+        {
+          "word": "We're trucking now",
+          "translation": "ya estamos en marcha"
+        },
+        {
+          "word": "Turf",
+          "translation": "territorio"
+        },
+        {
+          "word": "A posse to chase down",
+          "translation": "una partida para dar caza a"
+        },
+        {
+          "word": "Figment",
+          "translation": "producto, invención"
+        },
+        {
+          "word": "She's gonna take us down, cut the line! (frase no literal)",
+          "translation": "¡Nos va a acabar, corta el cable!"
+        },
+        {
+          "word": "Two points off the",
+          "translation": "dos puntos a"
+        },
+        {
+          "word": "I rocked my goal! (frase no literal)",
+          "translation": "¡Logré mi meta!"
+        },
+        {
+          "word": "Grind (verbo en motores)",
+          "translation": "rechinar, chirriar"
+        },
+        {
+          "word": "Rumble (verbo en situaciones)",
+          "translation": "armar un jaleo"
+        },
+        {
+          "word": "Let's rumble",
+          "translation": "¡Vamos a la acción!"
+        }
+      ],
+      "count": 25,
+      "dialogues": 397,
+      "duration": 11
+    },
+    {
+      "code": "S01E07",
+      "name": "Kick Buttowski (Episode 7)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.77,
+        "senales": {
+          "vocabulario": 3.48,
+          "dialogos": 4.53,
+          "temas": 3.67
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 25.0,
+            "A2": 0.0,
+            "B1": 8.3,
+            "B2": 37.5,
+            "C1": 8.3,
+            "C2": 20.8
+          },
+          "densidad": 6.1
+        },
+        "dialogos": {
+          "cobertura95": 4.92,
+          "ppm": 123.5
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Yowza! (expresión)",
+          "translation": "¡Vaya!"
+        },
+        {
+          "word": "Bracing",
+          "translation": "estimulante"
+        },
+        {
+          "word": "It gets me primed",
+          "translation": "me prepara"
+        },
+        {
+          "word": "Breaker",
+          "translation": "interruptor"
+        },
+        {
+          "word": "Business (no alusivo a negocios)",
+          "translation": "asunto"
+        },
+        {
+          "word": "He darn well saves everyone",
+          "translation": "el sí que salva a todos"
+        },
+        {
+          "word": "Freeze solid (verbo)",
+          "translation": "congelarse por completo"
+        },
+        {
+          "word": "Three-day old",
+          "translation": "de hace tres días"
+        },
+        {
+          "word": "Blows landing (traducción aproximada)",
+          "translation": "golpes que caen"
+        },
+        {
+          "word": "Must save busload of kids (parcialmente no literal)",
+          "translation": "hay que salvar a un autobús lleno de niños"
+        },
+        {
+          "word": "Gully",
+          "translation": "barranco"
+        },
+        {
+          "word": "Just in time for school to let out",
+          "translation": "justo a tiempo para que terminen las clases"
+        },
+        {
+          "word": "The most excruciating wipeouts",
+          "translation": "las caídas más poderosas"
+        },
+        {
+          "word": "Enclosure",
+          "translation": "recinto"
+        },
+        {
+          "word": "Jack-ball",
+          "translation": "tonto"
+        },
+        {
+          "word": "Treatage",
+          "translation": "helado"
+        },
+        {
+          "word": "Stray",
+          "translation": "animal callejero"
+        },
+        {
+          "word": "Steely",
+          "translation": "de acero"
+        },
+        {
+          "word": "You're looking a skosh pudgy",
+          "translation": "te ves un poquito gordito"
+        },
+        {
+          "word": "Hold my calls",
+          "translation": "no me pases llamada"
+        },
+        {
+          "word": "Lingonberry",
+          "translation": "arándano rojo"
+        },
+        {
+          "word": "He'll rat me out for sure",
+          "translation": "seguro que me va a delatar"
+        },
+        {
+          "word": "Keep chumming",
+          "translation": "sigue echando cebo"
+        },
+        {
+          "word": "Accommodating",
+          "translation": "acogedor"
+        }
+      ],
+      "count": 24,
+      "dialogues": 392,
+      "duration": 11
+    },
+    {
+      "code": "S01E08",
+      "name": "Kick Buttowski (Episode 8)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.12,
+        "senales": {
+          "vocabulario": 4.25,
+          "dialogos": 3.74,
+          "temas": 4.25
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.2,
+            "A2": 12.5,
+            "B1": 8.3,
+            "B2": 33.3,
+            "C1": 12.5,
+            "C2": 29.2
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 3.93,
+          "ppm": 139.9
+        },
+        "temas": [
+          "musical"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Saddle up to that piano",
+          "translation": "acércate a ese piano"
+        },
+        {
+          "word": "It's time you became more well-rounded",
+          "translation": "ya es hora de que te conviertas en una persona más completa"
+        },
+        {
+          "word": "You can't just blow through life (parcialmente no literal)",
+          "translation": "no puedes pasar por la vida"
+        },
+        {
+          "word": "Cluster chord",
+          "translation": "acorde de racimo"
+        },
+        {
+          "word": "Cul-de-sac",
+          "translation": "callejón sin salida"
+        },
+        {
+          "word": "Duct tape",
+          "translation": "cinta adhesiva"
+        },
+        {
+          "word": "Lingonberry",
+          "translation": "arándano rojo"
+        },
+        {
+          "word": "So moving, so restrained",
+          "translation": "tan conmovedor, tan sobrio"
+        },
+        {
+          "word": "I can vouch for that (parcialmente no literal)",
+          "translation": "puedo dar fe de eso"
+        },
+        {
+          "word": "Knuckles",
+          "translation": "nudillos"
+        },
+        {
+          "word": "Scabs",
+          "translation": "costras"
+        },
+        {
+          "word": "Exhibit",
+          "translation": "objeto en exhibición"
+        },
+        {
+          "word": "We had a lot of firsts together (frase no literal)",
+          "translation": "vivimos muchas experiencias nuevas juntos"
+        },
+        {
+          "word": "Pro-grade",
+          "translation": "de nivel profesional"
+        },
+        {
+          "word": "Downgrade (verbo)",
+          "translation": "rebajar, degradar"
+        },
+        {
+          "word": "Grip (sustantivo)",
+          "translation": "agarre"
+        },
+        {
+          "word": "Spangled",
+          "translation": "con lentejuelas"
+        },
+        {
+          "word": "They are going to roll themselves to the staging area",
+          "translation": "van a desplazar por su cuenta hasta la zona de preparación"
+        },
+        {
+          "word": "Hairdo",
+          "translation": "peinado de verdad"
+        },
+        {
+          "word": "It's so last year (frase no literal)",
+          "translation": "eso ya pasó de moda"
+        },
+        {
+          "word": "Out-dare (verbo)",
+          "translation": "desafiar"
+        },
+        {
+          "word": "Frou-frouy (informal)",
+          "translation": "cursi"
+        },
+        {
+          "word": "When you led me on a chase",
+          "translation": "cuando me hiciste correr detrás de ti"
+        },
+        {
+          "word": "Pick the nose (verbo)",
+          "translation": "hurgarse la nariz"
+        }
+      ],
+      "count": 24,
+      "dialogues": 316,
+      "duration": 11
+    },
+    {
+      "code": "S01E09",
+      "name": "Kick Buttowski (Episode 9)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.16,
+        "senales": {
+          "vocabulario": 4.4,
+          "dialogos": 3.45,
+          "temas": 4.35
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.9,
+            "A2": 8.8,
+            "B1": 0.0,
+            "B2": 35.3,
+            "C1": 29.4,
+            "C2": 20.6
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.72,
+          "ppm": 133.6
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Step up my game (verbo frasal no literal)",
+          "translation": "mejorar mi desempeño/rendimiento"
+        },
+        {
+          "word": "A super-ripped pro wrestler",
+          "translation": "un luchador profesional con un físico increíblemente definido"
+        },
+        {
+          "word": "Blows landing (traducción aproximada)",
+          "translation": "golpes que caen"
+        },
+        {
+          "word": "Darting our eyes",
+          "translation": "cómo mover rápidamente la mirada"
+        },
+        {
+          "word": "Punching bag",
+          "translation": "saco de boxeo"
+        },
+        {
+          "word": "Tag out",
+          "translation": "cambia/intercambia de lugar/rol"
+        },
+        {
+          "word": "Get each other's backs (frase no literal)",
+          "translation": "apóyense mutuamente"
+        },
+        {
+          "word": "Ownership",
+          "translation": "propiedad"
+        },
+        {
+          "word": "Every underdog has his day (frase no literal)",
+          "translation": "todo el que está en desventaja tiene su momento de gloria"
+        },
+        {
+          "word": "Let’s shake on it (no literal)",
+          "translation": "démonos la mano"
+        },
+        {
+          "word": "Tag in",
+          "translation": "dar la palabra"
+        },
+        {
+          "word": "Blender",
+          "translation": "licuadora"
+        },
+        {
+          "word": "I'm a stage prop!",
+          "translation": "¡Soy un accesorio de escenario!"
+        },
+        {
+          "word": "Screw-head",
+          "translation": "chiflado"
+        },
+        {
+          "word": "Step out of line",
+          "translation": "salirse de la fila"
+        },
+        {
+          "word": "Ticket stub",
+          "translation": "talón de entrada"
+        },
+        {
+          "word": "Your Ushership",
+          "translation": "Su Excelencia"
+        },
+        {
+          "word": "Tear up",
+          "translation": "romper"
+        },
+        {
+          "word": "You're never going to get by me",
+          "translation": "nunca vas a poder pasarme"
+        },
+        {
+          "word": "Pantsy's right on his tail",
+          "translation": "Pantsy lo sigue de cerca"
+        },
+        {
+          "word": "He’s got spunk",
+          "translation": "tiene agallas"
+        },
+        {
+          "word": "Your own private concession stand (parcialmente no literal)",
+          "translation": "tu propio puesto de comida"
+        },
+        {
+          "word": "Buttery popcorn tubs",
+          "translation": "tazas de palomitas con sabor a mantequilla"
+        },
+        {
+          "word": "Delivery dock",
+          "translation": "muelle de carga"
+        },
+        {
+          "word": "Nuanced",
+          "translation": "lleno de matices"
+        },
+        {
+          "word": "Stuff really pops out at you",
+          "translation": "las cosas realmente se te vienen encima"
+        },
+        {
+          "word": "Time to step it up a notch (frase no literal)",
+          "translation": "es hora de subir el nivel"
+        },
+        {
+          "word": "Usher",
+          "translation": "empleado, acomodador, encargado"
+        },
+        {
+          "word": "You bumbling goons",
+          "translation": "torpes inútiles"
+        },
+        {
+          "word": "Short of a miracle (parcialmente no literal)",
+          "translation": "a menos que ocurra un milagro"
+        },
+        {
+          "word": "Go down (verbo en motivación)",
+          "translation": "rendirse"
+        },
+        {
+          "word": "Shove it (expresión)",
+          "translation": "déjame en paz, vete al carajo"
+        },
+        {
+          "word": "You got that right",
+          "translation": "tienes toda la razón"
+        },
+        {
+          "word": "Set off the sprinklers",
+          "translation": "activar los rociadores"
+        }
+      ],
+      "count": 34,
+      "dialogues": 427,
+      "duration": 11
+    },
+    {
+      "code": "S01E10",
+      "name": "Kick Buttowski (Episode 10)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.51,
+        "senales": {
+          "vocabulario": 4.6,
+          "dialogos": 4.19,
+          "temas": 4.69
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.1,
+            "A2": 0.0,
+            "B1": 10.6,
+            "B2": 28.3,
+            "C1": 7.1,
+            "C2": 47.0
+          },
+          "densidad": 6.8
+        },
+        "dialogos": {
+          "cobertura95": 4.32,
+          "ppm": 144.3
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "A-barfing I will go (informal)",
+          "translation": "voy a vomitar"
+        },
+        {
+          "word": "Cul-de-sac",
+          "translation": "callejón sin salida"
+        },
+        {
+          "word": "Wilderness",
+          "translation": "naturaleza salvaje"
+        },
+        {
+          "word": "Roughing it sure is fun",
+          "translation": "vivir a la intemperie sí que es divertido"
+        },
+        {
+          "word": "This isn't roughing it",
+          "translation": "esto no es vivir a la dura/intemperie"
+        },
+        {
+          "word": "Trail mix",
+          "translation": "mezcla de frutos secos"
+        },
+        {
+          "word": "Nut log",
+          "translation": "rollo de nueces"
+        },
+        {
+          "word": "Moist towelettes",
+          "translation": "toallitas húmedas"
+        },
+        {
+          "word": "Get over (no alusivo a superar)",
+          "translation": "cruzar"
+        },
+        {
+          "word": "Get some grub (verbo)",
+          "translation": "ir a comer"
+        },
+        {
+          "word": "Lush",
+          "translation": "lindo, lujoso"
+        },
+        {
+          "word": "What is this quickie-sandy gunk?",
+          "translation": "¿Qué es esta porquería arenosa?"
+        },
+        {
+          "word": "Quit flailing",
+          "translation": "deja de agitarte"
+        },
+        {
+          "word": "Why do you got to keep a boy down? (pregunta parcialmente no literal)",
+          "translation": "¿Por qué tienes que menospreciar a un chico?"
+        },
+        {
+          "word": "Snookums",
+          "translation": "cariño"
+        },
+        {
+          "word": "Snitchy",
+          "translation": "soplón"
+        },
+        {
+          "word": "Waxy",
+          "translation": "tiene textura cerosa"
+        },
+        {
+          "word": "Chomp (verbo)",
+          "translation": "masticar/morder con fuerza"
+        },
+        {
+          "word": "It's dreamy",
+          "translation": "es de ensueño"
+        },
+        {
+          "word": "Squishes (acotación)",
+          "translation": "aplastamiento, apretón"
+        },
+        {
+          "word": "Go for a run (verbo)",
+          "translation": "salir a correr"
+        },
+        {
+          "word": "Keep a dog down",
+          "translation": "limitar a un perro"
+        },
+        {
+          "word": "Bolt (verbo)",
+          "translation": "escapar, huir"
+        },
+        {
+          "word": "The big house, clink, the pokey",
+          "translation": "la cárcel, la chabola, el calabozo"
+        },
+        {
+          "word": "A rooftop service grate",
+          "translation": "una rejilla de servicio en la azotea"
+        },
+        {
+          "word": "Shoulder blades",
+          "translation": "omóplatos"
+        },
+        {
+          "word": "Delirious",
+          "translation": "delirante"
+        },
+        {
+          "word": "The slammer",
+          "translation": "la cárcel"
+        },
+        {
+          "word": "The joint, the hoosegow",
+          "translation": "la cárcel, la trampa"
+        }
+      ],
+      "count": 29,
+      "dialogues": 424,
+      "duration": 11
+    },
+    {
+      "code": "S01E11",
+      "name": "Kick Buttowski (Episode 11)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.03,
+        "senales": {
+          "vocabulario": 4.21,
+          "dialogos": 3.47,
+          "temas": 4.24
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.5,
+            "A2": 6.5,
+            "B1": 10.7,
+            "B2": 30.1,
+            "C1": 25.9,
+            "C2": 20.4
+          },
+          "densidad": 7.4
+        },
+        "dialogos": {
+          "cobertura95": 3.66,
+          "ppm": 140.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Stylish",
+          "translation": "elegante"
+        },
+        {
+          "word": "Cassette deck (parcialmente no literal)",
+          "translation": "reproductor de casete"
+        },
+        {
+          "word": "Pleather",
+          "translation": "cuero sintético"
+        },
+        {
+          "word": "On-demand ignition",
+          "translation": "encendido a pedido"
+        },
+        {
+          "word": "Engine cranks (acotación)",
+          "translation": "el motor arranca"
+        },
+        {
+          "word": "Garbled (acotación)",
+          "translation": "ilegible, incomprensible"
+        },
+        {
+          "word": "Nice and easy (expresión)",
+          "translation": "con calma y sin prisas"
+        },
+        {
+          "word": "You're dead meat (frase no literal)",
+          "translation": "estás perdido"
+        },
+        {
+          "word": "Stall them",
+          "translation": "entretenerlos"
+        },
+        {
+          "word": "Engine stalls (acotación)",
+          "translation": "el motor se apaga"
+        },
+        {
+          "word": "Busted (expresión)",
+          "translation": "te pillé"
+        },
+        {
+          "word": "Elbow grease (no literal)",
+          "translation": "esfuerzo físico"
+        },
+        {
+          "word": "And then some",
+          "translation": "y más"
+        },
+        {
+          "word": "Imbued",
+          "translation": "imbuido, impregnado"
+        },
+        {
+          "word": "Most treasured",
+          "translation": "más preciado"
+        },
+        {
+          "word": "Booby-trapped cave",
+          "translation": "cueva con trampas explosivas"
+        },
+        {
+          "word": "That was lost to the ages",
+          "translation": "que se perdió en el paso del tiempo"
+        },
+        {
+          "word": "Quite a bold publishing choice",
+          "translation": "una decisión editorial bastante audaz"
+        },
+        {
+          "word": "Booby traps",
+          "translation": "trampas explosivas"
+        },
+        {
+          "word": "And then dove feet first",
+          "translation": "y luego te lanzaste de cabeza"
+        },
+        {
+          "word": "Skydiving",
+          "translation": "paracaidísmo"
+        },
+        {
+          "word": "Sewage",
+          "translation": "aguas residuales"
+        },
+        {
+          "word": "Chomp (verbo)",
+          "translation": "masticar/morder con fuerza"
+        },
+        {
+          "word": "Dwellers",
+          "translation": "habitantes"
+        },
+        {
+          "word": "Axle grease",
+          "translation": "grasa para ejes"
+        },
+        {
+          "word": "You're totally hardcore (frase no literal)",
+          "translation": "eres un auténtico duro"
+        },
+        {
+          "word": "I let go of this ledge",
+          "translation": "suelto esta cornisa"
+        },
+        {
+          "word": "I quadruple somersault",
+          "translation": "doy un cuádruple salto mortal"
+        },
+        {
+          "word": "Flipping you backward onto the ledge",
+          "translation": "te lanzo hacia atrás sobre la cornisa"
+        },
+        {
+          "word": "You hoist us up",
+          "translation": "tú nos levantas"
+        },
+        {
+          "word": "Held together by nails and duct tape?",
+          "translation": "¿Unido con clavos y cinta adhesiva?"
+        },
+        {
+          "word": "Not show-and-tell",
+          "translation": "no una presentación de objetos"
+        },
+        {
+          "word": "Until I was all pooped out (frase no literal)",
+          "translation": "hasta que me quedé sin fuerzas"
+        }
+      ],
+      "count": 33,
+      "dialogues": 448,
+      "duration": 11
+    },
+    {
+      "code": "S01E12",
+      "name": "Kick Buttowski (Episode 12)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.83,
+        "senales": {
+          "vocabulario": 3.89,
+          "dialogos": 3.58,
+          "temas": 4.03
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.0,
+            "A2": 0.0,
+            "B1": 10.5,
+            "B2": 31.5,
+            "C1": 32.5,
+            "C2": 11.5
+          },
+          "densidad": 6.4
+        },
+        "dialogos": {
+          "cobertura95": 3.78,
+          "ppm": 139.3
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Great test run (forma no literal)",
+          "translation": "excelente prueba"
+        },
+        {
+          "word": "Scrapes",
+          "translation": "rasguños, raspaduras"
+        },
+        {
+          "word": "Rug burn (parcialmente no literal)",
+          "translation": "quemadura por fricción"
+        },
+        {
+          "word": "Lingonberry",
+          "translation": "arándano rojo"
+        },
+        {
+          "word": "Clogs",
+          "translation": "zuecos"
+        },
+        {
+          "word": "Squelch (acotación)",
+          "translation": "silbido, ruido de fondo"
+        },
+        {
+          "word": "Roadkill",
+          "translation": "animal atropellado"
+        },
+        {
+          "word": "You've got it bad (frase no literal)",
+          "translation": "estás muy enamorado"
+        },
+        {
+          "word": "I just rode over here on sewage",
+          "translation": "acabo de llegar hasta aquí montado en aguas residuales"
+        },
+        {
+          "word": "Ripe to the touch",
+          "translation": "maduro al tacto"
+        },
+        {
+          "word": "Convey (verbo)",
+          "translation": "transmitir"
+        },
+        {
+          "word": "Ensemble",
+          "translation": "conjunto"
+        },
+        {
+          "word": "Steely",
+          "translation": "de acero"
+        },
+        {
+          "word": "You big-talking man",
+          "translation": "fanfarrón"
+        },
+        {
+          "word": "Take a hit (verbo parcialmente no literal)",
+          "translation": "aguantar un golpe"
+        },
+        {
+          "word": "You boys keep it down",
+          "translation": "chicos bajen la voz"
+        },
+        {
+          "word": "Double-decker!",
+          "translation": "¡Dos pisos!"
+        },
+        {
+          "word": "Groovy things",
+          "translation": "cosas geniales"
+        },
+        {
+          "word": "Coming through",
+          "translation": "voy a pasar"
+        },
+        {
+          "word": "Admittedly, I saw that one coming (parcialmente no literal)",
+          "translation": "la verdad es que ya me lo esperaba"
+        },
+        {
+          "word": "Just nuking a microwavable burrito (parcialmente no literal)",
+          "translation": "solo estoy calentando un burrito para microondas"
+        },
+        {
+          "word": "Norse",
+          "translation": "nórdico"
+        },
+        {
+          "word": "Bookish boy",
+          "translation": "chico estudioso"
+        },
+        {
+          "word": "Slackers",
+          "translation": "holgazanes"
+        },
+        {
+          "word": "The chopper swooped in",
+          "translation": "el helicóptero se acercó en picada"
+        },
+        {
+          "word": "Canopy",
+          "translation": "dosel"
+        },
+        {
+          "word": "The enemy was hot on my tail",
+          "translation": "el enemigo me pisaba los talons"
+        },
+        {
+          "word": "Total shocker",
+          "translation": "qué sorpresa tan grande"
+        },
+        {
+          "word": "Kids whooping (acotación)",
+          "translation": "gritos de niños"
+        },
+        {
+          "word": "Your dad's a no-show",
+          "translation": "tu papa no apareció"
+        }
+      ],
+      "count": 30,
+      "dialogues": 466,
+      "duration": 11
+    },
+    {
+      "code": "S01E13",
+      "name": "Kick Buttowski (Episode 13)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.87,
+        "senales": {
+          "vocabulario": 3.86,
+          "dialogos": 3.73,
+          "temas": 4.12
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.3,
+            "A2": 4.1,
+            "B1": 8.2,
+            "B2": 25.9,
+            "C1": 32.9,
+            "C2": 16.5
+          },
+          "densidad": 5.5
+        },
+        "dialogos": {
+          "cobertura95": 3.84,
+          "ppm": 146.2
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Fearlessness",
+          "translation": "valentía"
+        },
+        {
+          "word": "Slay the ox",
+          "translation": "sacrificar el buey"
+        },
+        {
+          "word": "Kick's got it bad (en sentido negativo)",
+          "translation": "Kick está muy mal"
+        },
+        {
+          "word": "Gully",
+          "translation": "barranco"
+        },
+        {
+          "word": "Neat swirly wheel",
+          "translation": "linda rueda con remolinos"
+        },
+        {
+          "word": "Jumpsuit",
+          "translation": "overol"
+        },
+        {
+          "word": "My old horseshoe hood ornament",
+          "translation": "mi viejo adorno de capó con forma de herradura"
+        },
+        {
+          "word": "Some no good varmint stole it for his own self",
+          "translation": "algún sinvergüenza se lo robó para su propio beneficio"
+        },
+        {
+          "word": "Norse",
+          "translation": "nórdico"
+        },
+        {
+          "word": "And you let one rip (frase no literal)",
+          "translation": "y te tiras uno"
+        },
+        {
+          "word": "Shoot (expresión)",
+          "translation": "vaya, ay"
+        },
+        {
+          "word": "Faltering",
+          "translation": "en declive/descenso"
+        },
+        {
+          "word": "Beef it up",
+          "translation": "mejorarlo"
+        },
+        {
+          "word": "Beef jerky",
+          "translation": "carne seca"
+        },
+        {
+          "word": "Some one's due for another promotion",
+          "translation": "a alguien le toca otro ascenso"
+        },
+        {
+          "word": "Tee-hee (expresión)",
+          "translation": "je-je"
+        },
+        {
+          "word": "Wingman (en sentido social)",
+          "translation": "compañero"
+        },
+        {
+          "word": "Major duty (no literal)",
+          "translation": "tarea/responsabilidad importante"
+        },
+        {
+          "word": "Rim shot (acotación)",
+          "translation": "redoble de tambor"
+        },
+        {
+          "word": "We take ourselves to seriously around here",
+          "translation": "por aquí nos tomamos a nosotros mismos demasiado en serio"
+        },
+        {
+          "word": "Time to step it up a notch (frase no literal)",
+          "translation": "es hora de subir el nivel"
+        },
+        {
+          "word": "I'm totally up for (frase no literal)",
+          "translation": "me encantaría"
+        },
+        {
+          "word": "Promotions abound!",
+          "translation": "¡Hay un montón de promociones!"
+        },
+        {
+          "word": "You're due for",
+          "translation": "te toca"
+        },
+        {
+          "word": "Look at what I just got in (parcialmente no literal)",
+          "translation": "mira lo que acabo de recibir"
+        }
+      ],
+      "count": 25,
+      "dialogues": 456,
+      "duration": 11
+    },
+    {
+      "code": "S01E14",
+      "name": "Kick Buttowski (Episode 14)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.19,
+        "senales": {
+          "vocabulario": 4.04,
+          "dialogos": 3.77,
+          "temas": 5.46
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 15.2,
+            "A2": 3.8,
+            "B1": 11.4,
+            "B2": 15.2,
+            "C1": 20.2,
+            "C2": 34.2
+          },
+          "densidad": 6.0
+        },
+        "dialogos": {
+          "cobertura95": 3.76,
+          "ppm": 155.6
+        },
+        "temas": [
+          "científica y técnica",
+          "motor y carreras"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Be the talk",
+          "translation": "sé el tema de conversación"
+        },
+        {
+          "word": "And have everything you stand for belittled (frase no literal)",
+          "translation": "y que menosprecien todo lo que defiendes"
+        },
+        {
+          "word": "Sidewalk",
+          "translation": "acera"
+        },
+        {
+          "word": "Drag (sustantivo en física)",
+          "translation": "resistencia"
+        },
+        {
+          "word": "Leading mass",
+          "translation": "masa de avance"
+        },
+        {
+          "word": "One-eyed Jackson",
+          "translation": "Jackson el tuerto"
+        },
+        {
+          "word": "Run-in",
+          "translation": "encontronazo"
+        },
+        {
+          "word": "His fancy physics bluster",
+          "translation": "sus alardes de física sofisticada"
+        },
+        {
+          "word": "Fateful",
+          "translation": "fatídico"
+        },
+        {
+          "word": "Treacherous turns",
+          "translation": "curvas traicioneras"
+        },
+        {
+          "word": "From a grizzled old cart racing champ",
+          "translation": "de un viejo y curtido campeón de carreras de carritos"
+        },
+        {
+          "word": "Cottage cheese (forma no literal)",
+          "translation": "requesón"
+        },
+        {
+          "word": "Ratcheting (acotación)",
+          "translation": "trinquete"
+        },
+        {
+          "word": "Thunderclap",
+          "translation": "trueno"
+        },
+        {
+          "word": "The slightest spinout",
+          "translation": "el más mínimo derrape"
+        },
+        {
+          "word": "You get cauterized",
+          "translation": "te cauterizan"
+        },
+        {
+          "word": "Dadgummit",
+          "translation": "maldita sea"
+        },
+        {
+          "word": "It will splatter your guts",
+          "translation": "te hará salpicar tus tripas"
+        },
+        {
+          "word": "Crazy hothead",
+          "translation": "loco impulsivo"
+        },
+        {
+          "word": "While your vertebrae settle back into place",
+          "translation": "mientras tus vértebras vuelven a colocarse en su lugar"
+        },
+        {
+          "word": "For services rendered (parcialmente no literal)",
+          "translation": "por los servicios prestados"
+        },
+        {
+          "word": "No take-backs",
+          "translation": "no hay marcha atrás"
+        },
+        {
+          "word": "Tumbleweed",
+          "translation": "bola de hierba seca"
+        },
+        {
+          "word": "Get it over",
+          "translation": "acabar de una vez con esto"
+        },
+        {
+          "word": "The bachelor pad",
+          "translation": "el departamento de soltero"
+        },
+        {
+          "word": "For realsies",
+          "translation": "de verdad, en serio"
+        },
+        {
+          "word": "Cave (no literal aparte de cueva)",
+          "translation": "rincón, cuarto"
+        }
+      ],
+      "count": 27,
+      "dialogues": 448,
+      "duration": 11
+    },
+    {
+      "code": "S01E15",
+      "name": "Kick Buttowski (Episode 15)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.98,
+        "senales": {
+          "vocabulario": 3.88,
+          "dialogos": 4.02,
+          "temas": 4.34
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.4,
+            "A2": 10.8,
+            "B1": 1.6,
+            "B2": 32.3,
+            "C1": 26.9,
+            "C2": 23.1
+          },
+          "densidad": 3.9
+        },
+        "dialogos": {
+          "cobertura95": 3.98,
+          "ppm": 158.3
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Freaky feats",
+          "translation": "hazañas alucinantes"
+        },
+        {
+          "word": "What goes around comes around (frase no literal)",
+          "translation": "lo que siembra se cosecha"
+        },
+        {
+          "word": "Scuffling (acotación)",
+          "translation": "ruido de forcejeo"
+        },
+        {
+          "word": "Skid mark",
+          "translation": "marcha de frenada"
+        },
+        {
+          "word": "Something's amiss",
+          "translation": "algo anda mal"
+        },
+        {
+          "word": "You're a quitter? (frase no literal)",
+          "translation": "¿Eres un cobarde?"
+        },
+        {
+          "word": "I'm a postponer",
+          "translation": "soy de los que siempre posponen las cosas"
+        },
+        {
+          "word": "Beef jerky",
+          "translation": "carne seca"
+        },
+        {
+          "word": "Web (no alusivo a internet)",
+          "translation": "capa, red"
+        },
+        {
+          "word": "Barf",
+          "translation": "vómito"
+        },
+        {
+          "word": "Driveway",
+          "translation": "entrada de la casa"
+        },
+        {
+          "word": "Mum's the word (frase no literal)",
+          "translation": "no digas nada"
+        },
+        {
+          "word": "The cork's not holding (parcialmente no literal)",
+          "translation": "el corcho no se mantiene en su lugar"
+        },
+        {
+          "word": "No siree (expresión)",
+          "translation": "ni hablar"
+        },
+        {
+          "word": "Chunky (en algunos contextos)",
+          "translation": "grueso, en trocitos"
+        },
+        {
+          "word": "I can't take it anymore! (frase no literal)",
+          "translation": "¡Ya no puedo más!"
+        },
+        {
+          "word": "Hands off",
+          "translation": "no toques"
+        },
+        {
+          "word": "I should suit up",
+          "translation": "debería ponerme el equipo"
+        },
+        {
+          "word": "Sleep in",
+          "translation": "dormir hasta tarde"
+        },
+        {
+          "word": "Engine stalls (acotación)",
+          "translation": "el motor se apaga"
+        }
+      ],
+      "count": 20,
+      "dialogues": 510,
+      "duration": 11
+    },
+    {
+      "code": "S01E16",
+      "name": "Kick Buttowski (Episode 16)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.95,
+        "senales": {
+          "vocabulario": 4.02,
+          "dialogos": 3.66,
+          "temas": 4.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.7,
+            "A2": 11.0,
+            "B1": 18.3,
+            "B2": 23.1,
+            "C1": 22.0,
+            "C2": 22.0
+          },
+          "densidad": 6.6
+        },
+        "dialogos": {
+          "cobertura95": 3.79,
+          "ppm": 144.9
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Make it tighter (frase no literal)",
+          "translation": "hazlo más intenso"
+        },
+        {
+          "word": "I've got to step it up this time",
+          "translation": "esta vez tengo que dar un paso más"
+        },
+        {
+          "word": "Rabid",
+          "translation": "enloquecida"
+        },
+        {
+          "word": "Who crave a chunk of this (forma no literal)",
+          "translation": "que se mueren por un pedazo de esto"
+        },
+        {
+          "word": "Lingonberry",
+          "translation": "arándanos rojos"
+        },
+        {
+          "word": "And over the hoops, duck under the thing-a-ma-jig",
+          "translation": "a por encima de los aros, agacharse para pasar por debajo de ese artilugio"
+        },
+        {
+          "word": "Flip over",
+          "translation": "dar una voltereta"
+        },
+        {
+          "word": "Hook off",
+          "translation": "desviar"
+        },
+        {
+          "word": "Which is on schedule",
+          "translation": "que va según lo programado"
+        },
+        {
+          "word": "Steelier (adjetivo comparativo)",
+          "translation": "más fuerte"
+        },
+        {
+          "word": "Do to some prevailing tail winds",
+          "translation": "debido a los vientos de cola que soplan en este momento"
+        },
+        {
+          "word": "Ahead of schedule",
+          "translation": "antes de lo previsto"
+        },
+        {
+          "word": "Jaws snapping (acotación)",
+          "translation": "chasquido de las mandíbulas"
+        },
+        {
+          "word": "Fade to black",
+          "translation": "fundido a negro"
+        },
+        {
+          "word": "Something to crash through",
+          "translation": "algo por lo que abrirse paso"
+        },
+        {
+          "word": "They're done craving a hunk of this",
+          "translation": "ya no les apetece un pedazo de esto"
+        },
+        {
+          "word": "Hold it right there grease spot",
+          "translation": "quédate ahí mancha de grasa"
+        },
+        {
+          "word": "Locked up",
+          "translation": "asegurado"
+        },
+        {
+          "word": "You went there and now it's on (frase no literal)",
+          "translation": "ya te metiste en eso y ahora no hay vuelta atrás"
+        },
+        {
+          "word": "The early bird gets the worm (frase no literal)",
+          "translation": "a quien madruga, Dios le ayuda"
+        },
+        {
+          "word": "There's a delivery truck pulling up",
+          "translation": "se está acercando un camión de reparto"
+        },
+        {
+          "word": "Scuffling",
+          "translation": "forcejeo"
+        },
+        {
+          "word": "Pricing gun",
+          "translation": "pistola etiquetadora"
+        },
+        {
+          "word": "I was a goner",
+          "translation": "ya no tenía salvación, ya estaba perdido"
+        },
+        {
+          "word": "Yoinks (expresión)",
+          "translation": "ay"
+        },
+        {
+          "word": "Lock (something) down",
+          "translation": "asegurar"
+        },
+        {
+          "word": "Trash emptying",
+          "translation": "recogida de basura"
+        },
+        {
+          "word": "First dibs on the newspaper",
+          "translation": "el primero en leer el periódico"
+        }
+      ],
+      "count": 28,
+      "dialogues": 424,
+      "duration": 11
+    },
+    {
+      "code": "S01E17",
+      "name": "Kick Buttowski (Episode 17)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.22,
+        "senales": {
+          "vocabulario": 4.35,
+          "dialogos": 3.57,
+          "temas": 4.8
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 6.7,
+            "B1": 0.0,
+            "B2": 40.0,
+            "C1": 13.3,
+            "C2": 40.0
+          },
+          "densidad": 4.0
+        },
+        "dialogos": {
+          "cobertura95": 3.75,
+          "ppm": 140.7
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Gargle (verbo)",
+          "translation": "hacer gárgaras"
+        },
+        {
+          "word": "Slander (verbo)",
+          "translation": "difamar, calumniar"
+        },
+        {
+          "word": "Mess up",
+          "translation": "meter la pata"
+        },
+        {
+          "word": "I scheme, I'm also kind of into shuffleboard",
+          "translation": "hago planes, también me gusta un poco el tejo"
+        },
+        {
+          "word": "Rickety",
+          "translation": "destartalado"
+        },
+        {
+          "word": "Rinds",
+          "translation": "cortezas"
+        },
+        {
+          "word": "In awe",
+          "translation": "con asombro"
+        },
+        {
+          "word": "Smashes",
+          "translation": "choques violentos"
+        },
+        {
+          "word": "A free shard of souvenir wreckage",
+          "translation": "un pedazo de restos como recuerdo, de regalo"
+        },
+        {
+          "word": "It's report card day",
+          "translation": "es el día de las notas"
+        },
+        {
+          "word": "He's really trucking (frase no literal)",
+          "translation": "va a toda máquina"
+        },
+        {
+          "word": "Save it (expresión)",
+          "translation": "déjalo"
+        },
+        {
+          "word": "Across the board (no literal en calificaciones)",
+          "translation": "en todas las materias"
+        },
+        {
+          "word": "Holy mackerel, get a load of this",
+          "translation": "madre mía, fíjate en esto"
+        },
+        {
+          "word": "A bona fide derby miracle",
+          "translation": "un auténtico milagro del derbi"
+        }
+      ],
+      "count": 15,
+      "dialogues": 373,
+      "duration": 11
+    },
+    {
+      "code": "S01E18",
+      "name": "Kick Buttowski (Episode 18)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.78,
+        "senales": {
+          "vocabulario": 3.83,
+          "dialogos": 3.51,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.1,
+            "A2": 11.1,
+            "B1": 18.5,
+            "B2": 14.8,
+            "C1": 14.8,
+            "C2": 29.6
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 3.7,
+          "ppm": 139.9
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Cut down",
+          "translation": "reducir"
+        },
+        {
+          "word": "Two star-crossed lovers",
+          "translation": "dos amantes desafortunados"
+        },
+        {
+          "word": "Oh, goody (expresión)",
+          "translation": "oh, qué bien"
+        },
+        {
+          "word": "Run-ins",
+          "translation": "roces, encontronazos"
+        },
+        {
+          "word": "Dance off",
+          "translation": "para un duelo de baile"
+        },
+        {
+          "word": "Get your girly paws off me (parcialmente no literal)",
+          "translation": "quítame esas manitas de niña de encima"
+        },
+        {
+          "word": "Hold onto your headgear",
+          "translation": "no te quites el casco"
+        },
+        {
+          "word": "Graceful",
+          "translation": "elegante, educado, cortés"
+        },
+        {
+          "word": "Side salad",
+          "translation": "ensalada de acompañamiento"
+        },
+        {
+          "word": "Front-runners",
+          "translation": "favoritos"
+        },
+        {
+          "word": "Scratches",
+          "translation": "rayones"
+        },
+        {
+          "word": "Bring it (expresión)",
+          "translation": "dale, adelante"
+        },
+        {
+          "word": "Grumble (verbo aparte de gruñir)",
+          "translation": "refunfuñarse, quejarse"
+        },
+        {
+          "word": "We're quite fond of each other",
+          "translation": "nos tenemos mucho cariño"
+        },
+        {
+          "word": "We've got a tattler in our midst",
+          "translation": "tenemos a una chismosa entre nosotros"
+        },
+        {
+          "word": "Cul-de-sac",
+          "translation": "callejón sin salida"
+        },
+        {
+          "word": "We're getting busted all over the place",
+          "translation": "nos están pillando por todos lados"
+        },
+        {
+          "word": "She's gunning for me",
+          "translation": "me tiene en la mira"
+        },
+        {
+          "word": "To shimmy over the shrub",
+          "translation": "pasar por encima del arbusto"
+        },
+        {
+          "word": "Tattling (sustantivo)",
+          "translation": "chivadas, chismorreo"
+        },
+        {
+          "word": "Get busted",
+          "translation": "ser atrapado/pillado/detenido"
+        },
+        {
+          "word": "Pound (verbo)",
+          "translation": "dar una paliza (a alguien)"
+        },
+        {
+          "word": "She's got the whole cul-de-sac on edge (parcialmente no literal)",
+          "translation": "tiene a todo el callejón en vilo"
+        },
+        {
+          "word": "Sanctity",
+          "translation": "santidad"
+        },
+        {
+          "word": "Buzz around",
+          "translation": "dar vueltas a toda velocidad"
+        },
+        {
+          "word": "Very nice to see you out and about",
+          "translation": "me da mucho gusto verte por ahí"
+        },
+        {
+          "word": "Snitchy",
+          "translation": "chivata, chismosa"
+        }
+      ],
+      "count": 27,
+      "dialogues": 430,
+      "duration": 11
+    },
+    {
+      "code": "S01E19",
+      "name": "Kick Buttowski (Episode 19)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.96,
+        "senales": {
+          "vocabulario": 4.04,
+          "dialogos": 3.76,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 14.3,
+            "B1": 21.4,
+            "B2": 31.0,
+            "C1": 16.7,
+            "C2": 16.7
+          },
+          "densidad": 7.9
+        },
+        "dialogos": {
+          "cobertura95": 3.8,
+          "ppm": 151.6
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Grab hold of yourself (expresión)",
+          "translation": "contrólate"
+        },
+        {
+          "word": "He'll be out of your hair (frase no literal)",
+          "translation": "ya no te dará más problemas"
+        },
+        {
+          "word": "A detention slip",
+          "translation": "una hoja de detención"
+        },
+        {
+          "word": "Mess (sustantivo)",
+          "translation": "lío"
+        },
+        {
+          "word": "Suckers",
+          "translation": "tontos"
+        },
+        {
+          "word": "Scuff mark",
+          "translation": "marca de roce"
+        },
+        {
+          "word": "I'm being framed (frase no literal)",
+          "translation": "me están tendiendo una trampa"
+        },
+        {
+          "word": "Can we dust this for prints?",
+          "translation": "¿Podemos aplicar polvo para buscar huellas?"
+        },
+        {
+          "word": "Grueling expulsion paper work",
+          "translation": "agotadores trámites de expulsión"
+        },
+        {
+          "word": "Bucko",
+          "translation": "amigo"
+        },
+        {
+          "word": "Frame (verbo)",
+          "translation": "inculpar, incriminar"
+        },
+        {
+          "word": "Scuffed",
+          "translation": "rayado, tiene marcas de roce"
+        },
+        {
+          "word": "Sine wave",
+          "translation": "onda sinuosoidal"
+        },
+        {
+          "word": "Uplifting",
+          "translation": "motivador, inspirador"
+        },
+        {
+          "word": "Pretzel rods",
+          "translation": "barritas de pretzel"
+        },
+        {
+          "word": "Chunky evidence",
+          "translation": "pruebas contundentes"
+        },
+        {
+          "word": "I didn't talk your junk",
+          "translation": "no dije ninguna tontería"
+        },
+        {
+          "word": "You got an up-chuck situation in the AV room",
+          "translation": "hay un problema de vómito en la sala de audiovisuales"
+        },
+        {
+          "word": "Expect for (en algunos contextos)",
+          "translation": "excepto el propio"
+        },
+        {
+          "word": "Busted",
+          "translation": "pillado, te pillé"
+        },
+        {
+          "word": "Railroad spike",
+          "translation": "clavo del tren"
+        },
+        {
+          "word": "He's skateboard tracking the ceilings",
+          "translation": "está deslizándose en patineta por los techos"
+        },
+        {
+          "word": "He's scuffing the floors",
+          "translation": "está rayando los pisos"
+        },
+        {
+          "word": "That's totally hardcore",
+          "translation": "eso sí que es extremo"
+        },
+        {
+          "word": "My awesomeness pushed this man over the Edge (frase no literal)",
+          "translation": "mi genialidad fue lo que llevó a este hombre al límite"
+        },
+        {
+          "word": "Unnamed janitor",
+          "translation": "conserje anónimo"
+        },
+        {
+          "word": "Squeaky clean",
+          "translation": "impecable"
+        },
+        {
+          "word": "Sparkle (verbo)",
+          "translation": "hacer brillar"
+        },
+        {
+          "word": "Gouge out",
+          "translation": "arrancarse (algo)"
+        },
+        {
+          "word": "Un-see (verbo)",
+          "translation": "dejar de ver"
+        },
+        {
+          "word": "I can crash it out of my system (parcialmente no literal)",
+          "translation": "pero puedo sacármelo de la cabeza"
+        },
+        {
+          "word": "I don't do unconscious",
+          "translation": "no me dedico a estar inconsciente"
+        },
+        {
+          "word": "Stunt double",
+          "translation": "doble de acción"
+        },
+        {
+          "word": "Girly",
+          "translation": "femenino"
+        },
+        {
+          "word": "That's a wrap (en rodaje)",
+          "translation": "ya terminamos"
+        },
+        {
+          "word": "My good deed",
+          "translation": "mi buena acción"
+        },
+        {
+          "word": "Chop (verbo)",
+          "translation": "cortar"
+        },
+        {
+          "word": "Mob (sustantivo común)",
+          "translation": "turba"
+        },
+        {
+          "word": "Not a chance (expresión)",
+          "translation": "ni de broma"
+        },
+        {
+          "word": "I cruise in",
+          "translation": "llego sin darme cuenta, entro tranquilamente"
+        },
+        {
+          "word": "Then cruise right on out",
+          "translation": "y luego me voy sin más"
+        },
+        {
+          "word": "My stand-in does all my dating",
+          "translation": "mi doble se encarga de todas mis citas Bleached paper"
+        }
+      ],
+      "count": 42,
+      "dialogues": 532,
+      "duration": 11
+    },
+    {
+      "code": "S01E20",
+      "name": "Kick Buttowski (Episode 20)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.04,
+        "senales": {
+          "vocabulario": 4.2,
+          "dialogos": 3.57,
+          "temas": 4.19
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.8,
+            "A2": 5.4,
+            "B1": 13.5,
+            "B2": 27.0,
+            "C1": 13.5,
+            "C2": 29.7
+          },
+          "densidad": 7.9
+        },
+        "dialogos": {
+          "cobertura95": 3.76,
+          "ppm": 139.6
+        },
+        "temas": [
+          "científica y técnica",
+          "musical"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "You will be held back (no literal en contexto de estudios)",
+          "translation": "tendrás que repetir el año"
+        },
+        {
+          "word": "Preposterously",
+          "translation": "absolutamente"
+        },
+        {
+          "word": "You better straighten out",
+          "translation": "más te vale ponerte las pilas"
+        },
+        {
+          "word": "Warbled",
+          "translation": "entrecortado"
+        },
+        {
+          "word": "I'm tingly",
+          "translation": "siento un cosquilleo"
+        },
+        {
+          "word": "You're going to get held back (no literal en contexto de estudios)",
+          "translation": "te van a dejar en el mismo grado"
+        },
+        {
+          "word": "Packing bubbles",
+          "translation": "plástico de burbujas para embalar"
+        },
+        {
+          "word": "Bubble pops",
+          "translation": "burbujas reventadas"
+        },
+        {
+          "word": "The outermost layer",
+          "translation": "la capa más externa"
+        },
+        {
+          "word": "Close call (expresión)",
+          "translation": "por poco"
+        },
+        {
+          "word": "Relentless",
+          "translation": "implacable"
+        },
+        {
+          "word": "I had all the makings of a",
+          "translation": "tenía todo lo necesario para ser un"
+        },
+        {
+          "word": "Power chord",
+          "translation": "acorde potente"
+        },
+        {
+          "word": "Yip (verbo en perros)",
+          "translation": "ladrar sin parar"
+        },
+        {
+          "word": "In deep freeze",
+          "translation": "en el congelador"
+        },
+        {
+          "word": "Thank tarnation, you found me",
+          "translation": "gracias a Dios que me encontraste"
+        },
+        {
+          "word": "An old-fashioned cattle drive",
+          "translation": "una trashumancia de ganado a la antigua usanza"
+        },
+        {
+          "word": "Mount up, bring it on (en vaqueros)",
+          "translation": "¡A cabalgar! ¡Que venga lo que venga!"
+        },
+        {
+          "word": "Move them out!",
+          "translation": "¡Sáquenlos de ahí!"
+        },
+        {
+          "word": "Looks like smooth sailing from here on",
+          "translation": "parece que a partir de ahora todo irá sobre ruedas"
+        },
+        {
+          "word": "Misfits",
+          "translation": "inadaptados"
+        },
+        {
+          "word": "This ice cream is spoken for",
+          "translation": "este helado ya tiene dueño"
+        },
+        {
+          "word": "Nonstick cooking spray?",
+          "translation": "¿Aerosol antiadherente para cocinar?"
+        },
+        {
+          "word": "By gum (expresión)",
+          "translation": "caramba"
+        },
+        {
+          "word": "A bizarre traffic-slash-cattle jam",
+          "translation": "un extraño embotellamiento de tráfico y ganado"
+        },
+        {
+          "word": "Steer clear",
+          "translation": "mantenerse alejado"
+        },
+        {
+          "word": "Get ahold of",
+          "translation": "comunicarse con"
+        },
+        {
+          "word": "Treats",
+          "translation": "postres"
+        },
+        {
+          "word": "You can break a fiver (frase no literal)",
+          "translation": "puedes cambiar un billete de cinco"
+        },
+        {
+          "word": "We'll get you yet",
+          "translation": "ya te vamos a atrapar"
+        },
+        {
+          "word": "We ditched them",
+          "translation": "los dejamos tirados"
+        },
+        {
+          "word": "Shindig",
+          "translation": "fiesta"
+        },
+        {
+          "word": "Gracious me (expresión)",
+          "translation": "Dios mío"
+        },
+        {
+          "word": "It pays to keep a cool head (frase no literal)",
+          "translation": "vale la pena mantener la calma"
+        },
+        {
+          "word": "Dig in (expresión)",
+          "translation": "a comer"
+        },
+        {
+          "word": "Enjoy your cool fiery jalapeño crunch-bars",
+          "translation": "disfruta de tus barritas crujientes de jalapeño, frescas y picantes"
+        },
+        {
+          "word": "It looks like we've been licked (parcialmente no literal)",
+          "translation": "parece que nos han dado una paliza"
+        }
+      ],
+      "count": 37,
+      "dialogues": 467,
+      "duration": 11
+    }
+  ],
+  "count": 544,
+  "dialogues": 8360,
+  "duration": 220
+}

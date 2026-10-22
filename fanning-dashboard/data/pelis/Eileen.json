@@ -1,0 +1,280 @@
+{
+  "title": "Eileen",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.42,
+    "senales": {
+      "vocabulario": 3.48,
+      "dialogos": 2.95,
+      "temas": 3.95
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 15.7,
+        "A2": 5.8,
+        "B1": 5.2,
+        "B2": 34.9,
+        "C1": 17.5,
+        "C2": 20.9
+      },
+      "densidad": 3.8
+    },
+    "dialogos": {
+      "cobertura95": 3.07,
+      "ppm": 145.5
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Boston, años 60. Eileen es una chica atrapada entre un hogar lúgubre con un padre alcohólico y su empleo en una prisión, donde sus compañeros la han condenado al ostracismo. Cuando una guapa y magnética mujer se une al personal de la prisión, Eileen es incapaz de resistirse a esa milagrosa e incipiente amistad. Pero esa amistad la involucrará en un crimen que alterará todo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+      "https://image.tmdb.org/t/p/w780/8x0kWa30xdLKBjQWnZNvORnv02v.jpg",
+      "https://image.tmdb.org/t/p/w780/2XznPRglzX0UAORFVedwbLxEtZr.jpg",
+      "https://image.tmdb.org/t/p/w780/ccpXAJZx0MjFERSrfYJ0r6rC7Iz.jpg",
+      "https://image.tmdb.org/t/p/w780/qOTGFjdDrRvwTSJRL2r2gkG92eL.jpg",
+      "https://image.tmdb.org/t/p/w780/xP33j32LdH42bTVbOGMnj0j32Gi.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+  "vocabulary": [
+    {
+      "word": "Picture (no alusivo a foto o imagen)",
+      "translation": "cuadro, retrato"
+    },
+    {
+      "word": "Fucking booze bag!",
+      "translation": "¡Maldito borracho!"
+    },
+    {
+      "word": "Put up with",
+      "translation": "aguantar, soportar"
+    },
+    {
+      "word": "Hanger-on",
+      "translation": "parásita"
+    },
+    {
+      "word": "Warden (sustantivo común)",
+      "translation": "guardíá, director"
+    },
+    {
+      "word": "We'll be up for state review",
+      "translation": "estaremos sujetos a una revisión Estatal"
+    },
+    {
+      "word": "Get freshened up",
+      "translation": "arreglarse"
+    },
+    {
+      "word": "Way too uptight",
+      "translation": "demasiado tenso"
+    },
+    {
+      "word": "Gumption",
+      "translation": "coraje"
+    },
+    {
+      "word": "Wayward comment",
+      "translation": "comentario fuera de lugar"
+    },
+    {
+      "word": "Creed",
+      "translation": "credo, creencia"
+    },
+    {
+      "word": "What evildoings I'll undertake",
+      "translation": "qué maldades cometeré"
+    },
+    {
+      "word": "I'm scrappy right now",
+      "translation": "ahora mismo estoy de mal humor"
+    },
+    {
+      "word": "Nice rack!",
+      "translation": "¡Qué buen busto!"
+    },
+    {
+      "word": "Inmates",
+      "translation": "reclusos"
+    },
+    {
+      "word": "Boozy",
+      "translation": "borracho, alcohólico"
+    },
+    {
+      "word": "Don't ash on the floor, it's tacky",
+      "translation": "no tires las cenizas al piso, es de mal gusto"
+    },
+    {
+      "word": "Duck out",
+      "translation": "escabullirse"
+    },
+    {
+      "word": "Do filing (verbo)",
+      "translation": "ordenar documentos"
+    },
+    {
+      "word": "Becoming (adjetivo)",
+      "translation": "bonito, agraciado"
+    },
+    {
+      "word": "Buzzer",
+      "translation": "timbre"
+    },
+    {
+      "word": "Clicking (acotación no alusivo a clickear)",
+      "translation": "chasquido"
+    },
+    {
+      "word": "It's just chicken scratch (frase no literal)",
+      "translation": "son solo garabatos"
+    },
+    {
+      "word": "I don't mean to be forward (frase no literal)",
+      "translation": "no quiero ser descarada"
+    },
+    {
+      "word": "If you're game (frase no literal)",
+      "translation": "si te animas"
+    },
+    {
+      "word": "You carry yourself (frase no literal)",
+      "translation": "te comportas con dignidad"
+    },
+    {
+      "word": "Creepy",
+      "translation": "espeluznante"
+    },
+    {
+      "word": "Recidivism",
+      "translation": "reincidencia"
+    },
+    {
+      "word": "Bad (no alusivo a algo malo)",
+      "translation": "muchísimo, con todas las fuerzas"
+    },
+    {
+      "word": "Out and get him",
+      "translation": "sal y ve a por él"
+    },
+    {
+      "word": "Getup",
+      "translation": "atuendo"
+    },
+    {
+      "word": "To relinquish the property into your care",
+      "translation": "ceder la propiedad para que te hagas cargo de ella"
+    },
+    {
+      "word": "Infirmary",
+      "translation": "enfermería"
+    },
+    {
+      "word": "Boozer",
+      "translation": "bebedora emperdenida"
+    },
+    {
+      "word": "Quit your fussing",
+      "translation": "deja de quejarte"
+    },
+    {
+      "word": "Lean back",
+      "translation": "reclinarse"
+    },
+    {
+      "word": "Bughouse",
+      "translation": "manicomio"
+    },
+    {
+      "word": "I'm a hard-ass",
+      "translation": "soy muy estricta/exigente"
+    },
+    {
+      "word": "Ringing",
+      "translation": "tímbre (de llamada)"
+    },
+    {
+      "word": "Clotheshorse",
+      "translation": "fanática de la moda"
+    },
+    {
+      "word": "I hope it's a kind you like",
+      "translation": "espero que sea del tipo que te gusta"
+    },
+    {
+      "word": "If you're ever stranded without a corkscrew",
+      "translation": "si alguna vez te quedas sin sacacorchos"
+    },
+    {
+      "word": "That's a punch of flavor",
+      "translation": "eso sí que es un toque de sabor"
+    },
+    {
+      "word": "What do you have to be sorry for?",
+      "translation": "¿De qué tienes que pedir perdón?"
+    },
+    {
+      "word": "Warden (sustantivo común)",
+      "translation": "alcaide, director"
+    },
+    {
+      "word": "God forbid (expresión)",
+      "translation": "que Dios no lo quiera"
+    },
+    {
+      "word": "Get off (en sentido íntimo)",
+      "translation": "masturbarse"
+    },
+    {
+      "word": "He hacked through his father's throat (parcialmente no literal)",
+      "translation": "le cortó la garganta a su papá de un tajo"
+    },
+    {
+      "word": "Break-in (aparte de allanamiento)",
+      "translation": "robo"
+    },
+    {
+      "word": "I just asked him point-blank (parcialmente no literal)",
+      "translation": "simplemente se lo pregunté sin rodeos"
+    },
+    {
+      "word": "Spat (verbo)",
+      "translation": "escupir"
+    },
+    {
+      "word": "I was pushing past her (frase no literal)",
+      "translation": "me abrí paso a su lado"
+    },
+    {
+      "word": "Snap (verbo en estado de humor)",
+      "translation": "perder los estribos"
+    },
+    {
+      "word": "I'm in a bit of a pinch (frase no literal)",
+      "translation": "estoy en un aprieto"
+    },
+    {
+      "word": "Scared of a womanizing, drunk piece of shit",
+      "translation": "miedo a un puto borracho mujeriego"
+    },
+    {
+      "word": "I went and looked in",
+      "translation": "me acerqué a dar un vistazo"
+    },
+    {
+      "word": "It didn't dawn on me right away (parcialmente no literal)",
+      "translation": "no me di cuenta de inmediato"
+    },
+    {
+      "word": "Whip (something) out",
+      "translation": "sacar"
+    }
+  ],
+  "count": 58,
+  "dialogues": 1517,
+  "duration": 98
+}

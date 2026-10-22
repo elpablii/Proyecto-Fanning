@@ -1,0 +1,292 @@
+{
+  "title": "The Twilight Saga II New Moon",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.69,
+    "senales": {
+      "vocabulario": 3.83,
+      "dialogos": 2.96,
+      "temas": 4.31
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.3,
+        "A2": 4.9,
+        "B1": 14.8,
+        "B2": 36.1,
+        "C1": 16.4,
+        "C2": 24.6
+      },
+      "densidad": 3.8
+    },
+    "dialogos": {
+      "cobertura95": 3.15,
+      "ppm": 139.8
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "En esta segunda entrega de la Saga Crepúsculo, Edward Cullen (Robert Pattinson) decide abandonar a Bella Swan (Kristen Stewart) para mantenerla alejada de los peligros del mundo vampírico. Con la ayuda de Jacob Black (Taylor Lautner), su amigo de la infancia y miembro de la misteriosa tribu quileute, Bella intentará superar el abandono de Edward, que la ha dejado sumida en el mayor de los desconsuelos. Pero los peligros siguen acechando a la joven; nuevas y asombrosas criaturas sobrenaturales se cruzarán en su camino, y Bella sólo contará con el apoyo del cada vez más cercano e irresistible Jacob. Repentinamente, Bella se encuentra inmersa en el mundo de los hombres lobo, ancestrales enemigos de los vampiros, y su lealtad es puesta a prueba.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+      "https://image.tmdb.org/t/p/w780/1E7kqUJghDRSgYkxDXAyoaVqQ96.jpg",
+      "https://image.tmdb.org/t/p/w780/fZ2tWrGOVeGGT4nwjO6exnMPbIg.jpg",
+      "https://image.tmdb.org/t/p/w780/fzoqJgzIt4jOiOmMYnc8ejxtMIO.jpg",
+      "https://image.tmdb.org/t/p/w780/5jsSFEwedDsFbY9bGz0iZUngO4C.jpg",
+      "https://image.tmdb.org/t/p/w780/1xoR1r81OIhrDDj4ZeZARQ4cBH4.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+  "vocabulary": [
+    {
+      "word": "Ranger",
+      "translation": "guardabosque"
+    },
+    {
+      "word": "Essay due",
+      "translation": "entrega del ensayo"
+    },
+    {
+      "word": "I should be thoroughly repulsed (parcialmente no literal)",
+      "translation": "debería sentir un profundo rechazo"
+    },
+    {
+      "word": "Palefaces",
+      "translation": "rostros pálidos"
+    },
+    {
+      "word": "Rez school",
+      "translation": "escuela de reserva"
+    },
+    {
+      "word": "Riffraff",
+      "translation": "chusma"
+    },
+    {
+      "word": "Slum (verbo)",
+      "translation": "rebajarse (de nivel)"
+    },
+    {
+      "word": "Beauty's ensign yet is crimson",
+      "translation": "el estandarte de la belleza sigue siendo carmesí"
+    },
+    {
+      "word": "Out of sheer",
+      "translation": "por pura"
+    },
+    {
+      "word": "Iambic pentameter",
+      "translation": "pentámetro yámbico"
+    },
+    {
+      "word": "Inauspicious stars from this world-wearied flesh",
+      "translation": "estrellas desfavorables de esta carne hastiada del mundo"
+    },
+    {
+      "word": "A righteous kiss a dateless bargain to engrossing death",
+      "translation": "un beso justo un pacto sin fecha con la muerte fascinante"
+    },
+    {
+      "word": "Conspicuously",
+      "translation": "de manera evidente"
+    },
+    {
+      "word": "Nettles",
+      "translation": "ortigas"
+    },
+    {
+      "word": "Rein in",
+      "translation": "calmar, controlar, tranquilizar"
+    },
+    {
+      "word": "Even if I am damned regardless",
+      "translation": "aunque esté condenado de todos modos"
+    },
+    {
+      "word": "Gracious",
+      "translation": "amable"
+    },
+    {
+      "word": "Screen your worry (parcialmente no literal)",
+      "translation": "deja de preocuparte"
+    },
+    {
+      "word": "Fool down",
+      "translation": "engañar"
+    },
+    {
+      "word": "Don't be so pleased with your own self-referential cleverness",
+      "translation": "no te creas tan listo por tus ocurrencias autorreferenciales"
+    },
+    {
+      "word": "A taker",
+      "translation": "un interesado"
+    },
+    {
+      "word": "Homeboy",
+      "translation": "tipo"
+    },
+    {
+      "word": "Junkie",
+      "translation": "adicto"
+    },
+    {
+      "word": "You can go bungee jumping",
+      "translation": "puedes hacer puenting"
+    },
+    {
+      "word": "Rush of danger",
+      "translation": "sensación de peligro"
+    },
+    {
+      "word": "Paleness",
+      "translation": "palidez"
+    },
+    {
+      "word": "Terminal bachelor",
+      "translation": "soltero empedernido"
+    },
+    {
+      "word": "Drag out (verbo frasal en tiempo)",
+      "translation": "alargar"
+    },
+    {
+      "word": "They're cliff diving",
+      "translation": "están saltando desde acantilados"
+    },
+    {
+      "word": "Scary as hell, but a total rush",
+      "translation": "da un miedo de muerte, pero es una pasada"
+    },
+    {
+      "word": "From lower down",
+      "translation": "desde más abajo"
+    },
+    {
+      "word": "We leave the showing off to Sam and his disciples",
+      "translation": "dejamos que sean Sam y sus seguidores quienes se jacten"
+    },
+    {
+      "word": "You didn't get probed (traducción aproximada)",
+      "translation": "no te hayan hecho una sonda"
+    },
+    {
+      "word": "Hold out",
+      "translation": "aguantar, esperar"
+    },
+    {
+      "word": "Get the drop on me (verbo no literal)",
+      "translation": "pillar/tomar por sorpresa"
+    },
+    {
+      "word": "You are so mouth-watering",
+      "translation": "me haces agua la boca"
+    },
+    {
+      "word": "I'm doing you a kindness (parcialmente no literal)",
+      "translation": "te estoy haciendo un favor"
+    },
+    {
+      "word": "Werewolf",
+      "translation": "hombre lobo"
+    },
+    {
+      "word": "Back up, I'm coming up",
+      "translation": "retrocede, voy a subir"
+    },
+    {
+      "word": "How tight I'm bound",
+      "translation": "de lo apretado que estoy atado"
+    },
+    {
+      "word": "Sink some teeth in him (frase no literal)",
+      "translation": "darle una buena paliza"
+    },
+    {
+      "word": "You see him phase on the fly? (pregunta no literal)",
+      "translation": "¿Lo ves teletransportarse sobre la marcha?"
+    },
+    {
+      "word": "Gag order",
+      "translation": "orden de silencio"
+    },
+    {
+      "word": "Set in",
+      "translation": "empezar"
+    },
+    {
+      "word": "We took out that leech with the dreads easy enough",
+      "translation": "nos deshicimos de esa sanguijuela con las rastas sin mayor dificultad"
+    },
+    {
+      "word": "Restless",
+      "translation": "inquieto"
+    },
+    {
+      "word": "Splutter (verbo)",
+      "translation": "balbucear, tartamudear"
+    },
+    {
+      "word": "Idiocy",
+      "translation": "estupidez"
+    },
+    {
+      "word": "Pack of mutts",
+      "translation": "jauría de chuchos"
+    },
+    {
+      "word": "Setting (no alusivo a configuración)",
+      "translation": "lugar/escenario"
+    },
+    {
+      "word": "Nonetheless (adverbio)",
+      "translation": "no obstante"
+    },
+    {
+      "word": "A liability",
+      "translation": "un lastre, un problema"
+    },
+    {
+      "word": "Mesmerizing (adjetivo)",
+      "translation": "fascinante"
+    },
+    {
+      "word": "Your gifts will make for an (no literal)",
+      "translation": "tus regalos harán que sea una"
+    },
+    {
+      "word": "Take off (no alusivo a despegar)",
+      "translation": "irse"
+    },
+    {
+      "word": "While strangely holy",
+      "translation": "aunque resulte extraño es sagrado"
+    },
+    {
+      "word": "Stray (verbo)",
+      "translation": "alejarse, desviarse"
+    },
+    {
+      "word": "Perch (verbo)",
+      "translation": "asomar"
+    },
+    {
+      "word": "In the dimming light",
+      "translation": "bajo la luz que se va apagando"
+    },
+    {
+      "word": "Unturned",
+      "translation": "sin remover"
+    },
+    {
+      "word": "Let me lay beside you",
+      "translation": "déjame acostarme a tu lado"
+    }
+  ],
+  "count": 61,
+  "dialogues": 1622,
+  "duration": 131
+}

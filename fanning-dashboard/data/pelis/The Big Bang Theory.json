@@ -3,32 +3,32 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 4.33,
+    "puntaje": 4.24,
     "senales": {
-      "vocabulario": 4.7,
-      "dialogos": 3.5,
-      "temas": 4.33
+      "vocabulario": 4.58,
+      "dialogos": 3.35,
+      "temas": 4.32
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 6.4,
-        "A2": 6.6,
-        "B1": 11.7,
-        "B2": 27.6,
-        "C1": 18.1,
-        "C2": 29.6
+        "A1": 6.7,
+        "A2": 6.7,
+        "B1": 11.4,
+        "B2": 27.9,
+        "C1": 18.0,
+        "C2": 29.3
       },
-      "densidad": 10.5
+      "densidad": 9.7
     },
     "dialogos": {
-      "cobertura95": 3.39,
-      "ppm": 164.0
+      "cobertura95": 3.25,
+      "ppm": 162.8
     },
     "temas": [
       "científica y técnica"
     ],
     "rango": [
-      "B1-B2",
+      "B1",
       "C1"
     ]
   },
@@ -581,10 +581,160 @@
         "name": "The Countdown Reflection",
         "still_path": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg",
         "overview": "La banda se da prisa en proporcionar a Howard y Bernadette una boda antes de la misión de Howard en el espacio."
+      },
+      "S06E01": {
+        "name": "The Date Night Variable",
+        "still_path": "https://image.tmdb.org/t/p/w500/8Ayyn5aUTiWyFe4NpWIlMNloJnk.jpg",
+        "overview": "Raj se enfrenta a la soledad cuando sus amigos tienen citas. Mientras está en el espacio, Wolowitz se encuentra en una pelea entre Bernadette y su madre."
+      },
+      "S06E02": {
+        "name": "The Decoupling Fluctuation",
+        "still_path": "https://image.tmdb.org/t/p/w500/iCabbwLLDz3UeYeBWBLUTofeVKC.jpg",
+        "overview": "Cuando Sheldon descubre que Penny está pensando en romper con Leonard, él intenta intervenir. Mientras tanto, en el espacio, los otros astronautas bromean a Howard."
+      },
+      "S06E03": {
+        "name": "The Higgs Boson Observation",
+        "still_path": "https://image.tmdb.org/t/p/w500/aFEMUGUCTecVLXfBkt8bVXA7tqV.jpg",
+        "overview": "Amy se siente amenazada cuando Sheldon contrata a una joven ayudante femenina, y la presión de estar en el espacio aumenta en Wolowitz."
+      },
+      "S06E04": {
+        "name": "The Re-Entry Minimization",
+        "still_path": "https://image.tmdb.org/t/p/w500/lFDe5o3cJBNGM1dgyl8ODXxrOds.jpg",
+        "overview": "El regreso de Wolowitz del espacio no es lo que él esperaba. La noche de juegos se convierte en una guerra de géneros."
+      },
+      "S06E05": {
+        "name": "The Holographic Excitation",
+        "still_path": "https://image.tmdb.org/t/p/w500/zxD6kV0f0hKXELHgfRugzj5mLzA.jpg",
+        "overview": "La pandilla se dirige a la tienda de historietas de Stuart para festejar Noche de Brujas. Leonard usa la ciencia para seducir a Penny."
+      },
+      "S06E06": {
+        "name": "The Extract Obliteration",
+        "still_path": "https://image.tmdb.org/t/p/w500/hFo8nKHHdIqnnGaG1tiou6R9lWc.jpg",
+        "overview": "Un juego pone en peligro la relación de Sheldon con Stephen Hawking. Penny se inscribe secretamente en la universidad."
+      },
+      "S06E07": {
+        "name": "The Habitation Configuration",
+        "still_path": "https://image.tmdb.org/t/p/w500/mwvOUXUJI8Oqa7w1w5GJswESuik.jpg",
+        "overview": "Bernadette quiere sacar a Wolowitz de la casa de su madre. Sheldon se ve atrapado en el medio de una discusión entre Amy y Wil Wheaton."
+      },
+      "S06E08": {
+        "name": "The 43 Peculiarity",
+        "still_path": "https://image.tmdb.org/t/p/w500/eFAeunnPvLmHPfxW799YH2gLXgQ.jpg",
+        "overview": "Raj y Howard intentan descubrir por qué Sheldon desaparece todas las tardes a las 2:45. Los celos aparecen entre Penny y Leonard."
+      },
+      "S06E09": {
+        "name": "The Parking Spot Escalation",
+        "still_path": "https://image.tmdb.org/t/p/w500/ildLJA1MOjw2gISEi6PKWiw1mMS.jpg",
+        "overview": "Cuando la universidad reasigna el espacio de estacionamiento de Sheldon a Wolowitz, su pelea afecta a todo el grupo."
+      },
+      "S06E10": {
+        "name": "The Fish Guts Displacement",
+        "still_path": "https://image.tmdb.org/t/p/w500/b1kSMZm7qsVwKFG6bzFYtFUsKJV.jpg",
+        "overview": "Cuando Amy se enferma, Sheldon intenta que se recupere. Wolowitz y su suegro planean un viaje para pescar."
+      },
+      "S06E11": {
+        "name": "The Santa Simulation",
+        "still_path": "https://image.tmdb.org/t/p/w500/6HD4K6oZEyd76yyki9wFwGwMlP4.jpg",
+        "overview": "Durante un juego, Sheldon recuerda sus historias de Navidad. Amy, Penny y Bernadette buscan una pareja a Koothrappali"
+      },
+      "S06E12": {
+        "name": "The Egg Salad Equivalency",
+        "still_path": "https://image.tmdb.org/t/p/w500/syvmicoYIDzmehm7BrKnHSuXNNO.jpg",
+        "overview": "Sheldon es acusado de acoso sexual en la Universidad y termina metiendo a Leonard, Raj y Wolowitz en problemas."
+      },
+      "S06E13": {
+        "name": "The Bakersfield Expedition",
+        "still_path": "https://image.tmdb.org/t/p/w500/fGB9j3zU65aJL5btwWH57dKq77r.jpg",
+        "overview": "Mientras que los chicos se disfrazan para viajar a una convención de historietas, las chicas deciden quedarse en casa e intentar interpretar una historieta."
+      },
+      "S06E14": {
+        "name": "The Cooper/Kripke Inversion",
+        "still_path": "https://image.tmdb.org/t/p/w500/dWDdPEhogoFt9mw8grFaaXL7Fy7.jpg",
+        "overview": "Sheldon es forzado a trabajar con Barry Kripke y se enfrenta a una crisis en su confianza. Mientras tanto, Howard y Raj gastan 1.000 dólares en figuras de acción."
+      },
+      "S06E15": {
+        "name": "The Spoiler Alert Segmentation",
+        "still_path": "https://image.tmdb.org/t/p/w500/iOHlTynlPg2CEcyDsppdzcwpUnw.jpg",
+        "overview": "Una pelea entre Sheldon y Leonard impacta en Amy y Penny. Mientras que Howard está de viaje, Raj ayuda a la Sra. Wolowitz."
+      },
+      "S06E16": {
+        "name": "The Tangible Affection Proof",
+        "still_path": "https://image.tmdb.org/t/p/w500/u1jD82NzWmOJ3C2Rr4WXEOlPNrV.jpg",
+        "overview": "Mientras que los muchachos intentan dar a sus respectivas parejas el mejor día de San Valentín, Raj y Stuart organizan una fiesta de \"gente soltera\" en la tienda de comics."
+      },
+      "S06E17": {
+        "name": "The Monster Isolation",
+        "still_path": "https://image.tmdb.org/t/p/w500/oenhInvrEh4pSA315BctlyBggPh.jpg",
+        "overview": "Después de una cita mala, Koothrappali decide que nunca más va a salir de su apartamento. Las habilidades de actuación de Penny impresionan a Sheldon."
+      },
+      "S06E18": {
+        "name": "The Contractual Obligation Implementation",
+        "still_path": "https://image.tmdb.org/t/p/w500/tjzI8Mr4wMJNsF3VUvleyP2MaQA.jpg",
+        "overview": "Leonard, Sheldon y Wolowitz hablan con chicas de secundaria acerca de carreras relacionadas con la ciencia. Raj planea una cita con Lucy."
+      },
+      "S06E19": {
+        "name": "The Closet Reconfiguration",
+        "still_path": "https://image.tmdb.org/t/p/w500/tkeFF4tTKideY2yHuRWGbpe2VrX.jpg",
+        "overview": "Howard considera si debería o no abrir una carta de su padre. Penny y Leonard preparan una fiesta \"para adultos\"."
+      },
+      "S06E20": {
+        "name": "The Tenure Turbulence",
+        "still_path": "https://image.tmdb.org/t/p/w500/f1EjNAr5oQRsFLhx9igoyHWb2wk.jpg",
+        "overview": "Las chicas se involucran cuando Leonard, Sheldon y Raj compiten por un puesto fijo en la universidad."
+      },
+      "S06E21": {
+        "name": "The Closure Alternative",
+        "still_path": "https://image.tmdb.org/t/p/w500/pNnMlfzNQOuN7Ml26JOCxgzH32W.jpg",
+        "overview": "Amy intenta ayudar a Sheldon a superar su necesidad compulsiva de cierre cuando uno de sus programas de televisión favorito es cancelado. Raj descubre un secreto sobre Lucy."
+      },
+      "S06E22": {
+        "name": "The Proton Resurgence",
+        "still_path": "https://image.tmdb.org/t/p/w500/db0LtfGVAa2mitePHU7YcyLU4j3.jpg",
+        "overview": "Leonard y Sheldon contratan al anfitrión de su programa de televisión favorito de su niñez para que actúe. Bernadette y Howard se encuentran en problemas cuando cuidan a la mascota de Raj."
+      },
+      "S06E23": {
+        "name": "The Love Spell Potential",
+        "still_path": "https://image.tmdb.org/t/p/w500/a1OEeJ7q8tY1PjLBoogyoCZ6w05.jpg",
+        "overview": "La relación entre Amy y Sheldon toma un giro inesperado durante una partida de Dragones & Mazmorras. Lucy y Koothrappali van a una cita incómoda."
+      },
+      "S06E24": {
+        "name": "The Bon Voyage Reaction",
+        "still_path": "https://image.tmdb.org/t/p/w500/yLAWYAFkzOFbJdTNb9v7fzC2Ond.jpg",
+        "overview": "Cuando Leonard recibe una emocionante oportunidad para trabajar en otro país, Penny y Sheldon son puestos a prueba."
+      },
+      "S07E01": {
+        "name": "The Hofstadter Insufficiency",
+        "still_path": "https://image.tmdb.org/t/p/w500/nf766vILhf88IUK49TE6kzN125n.jpg",
+        "overview": "En el estreno de la nueva temporada veremos a Sheldon y Penny compartir secretos íntimos, mientras que Leonard se encuentra en el mar. Más tarde, los sentimientos de Sheldon serán aplastados cuando Leonard vuelva."
+      },
+      "S07E02": {
+        "name": "The Deception Verification",
+        "still_path": "https://image.tmdb.org/t/p/w500/bR3Xk5ZEGDC902HncROZmjdKbGK.jpg",
+        "overview": "Amy y Bernadette acudirán a una conferencia solas, y descubrirán que pueden hacer cosas sin Penny. Mientras tanto, Raj recibe consuelo de Howard tras romper con su novia y, la relación de Wolowitz con su madre causa una amenaza inusual a su masculinidad."
+      },
+      "S07E03": {
+        "name": "The Scavenger Vortex",
+        "still_path": "https://image.tmdb.org/t/p/w500/AsjWlSjl6PSwQQy5q8hbNGqAykL.jpg",
+        "overview": "Raj diseña una búsqueda del tesoro que saca lo mejor - y lo peor - en toda la banda."
+      },
+      "S07E04": {
+        "name": "The Raiders Minimization",
+        "still_path": "https://image.tmdb.org/t/p/w500/66MAd0Sos3XnYxpHlKpvYo1nSw0.jpg",
+        "overview": "Sheldon buscará venganza después de que Amy revele su opinión sobre su película favorita, ‘Indiana Jones: En busca del arca perdida’. Mientras tanto, Leonard encontrará una manera de conseguir todo lo que quiere Penny. En cuanto a Raj y Stuart, están decididos a encontrar el amor y para ello crearán perfiles en un sitio de citas."
+      },
+      "S07E05": {
+        "name": "The Workplace Proximity",
+        "still_path": "https://image.tmdb.org/t/p/w500/k8atjbd5gAsntuhbPnFpvnvo0qn.jpg",
+        "overview": "La relación de Sheldon y Amy es puesta a prueba cuando ella toma un trabajo en su universidad. Una pelea con Bernadette deja a Howard durmiendo en el sofá de Raj."
+      },
+      "S07E06": {
+        "name": "The Romance Resonance",
+        "still_path": "https://image.tmdb.org/t/p/w500/y6jm6HlK6b2EaOitYUjapVLDQq0.jpg",
+        "overview": "El descubrimiento cientifico mas importante de Sheldon lo hace sentir como un fraude. Mientras tanto, el gesto romantico de Howard con Bernadette hace a Penny llevar su juego con Leonard aun mas lejos."
       }
     }
   },
-  "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
   "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
   "episodes": [
     {
@@ -1060,7 +1210,7 @@
         },
         {
           "word": "Hopeless infatuation",
-          "translation": "enamoramiento deseperado"
+          "translation": "enamoramiento desesperado"
         },
         {
           "word": "Pointless",
@@ -4030,20 +4180,20 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.65,
+        "puntaje": 4.61,
         "senales": {
-          "vocabulario": 5.08,
+          "vocabulario": 5.03,
           "dialogos": 3.65,
-          "temas": 4.58
+          "temas": 4.53
         },
         "vocabulario": {
           "distribucion": {
             "A1": 2.3,
             "A2": 2.3,
             "B1": 11.6,
-            "B2": 30.2,
+            "B2": 32.6,
             "C1": 25.6,
-            "C2": 27.9
+            "C2": 25.6
           },
           "densidad": 13.4
         },
@@ -4123,7 +4273,7 @@
           "translation": "posgrado"
         },
         {
-          "word": "The convenant of secret-keeping",
+          "word": "The covenant of secret-keeping",
           "translation": "el pacto de guardar el secreto"
         },
         {
@@ -5406,7 +5556,7 @@
         },
         {
           "word": "Relish packets",
-          "translation": "paquetes de condimemto"
+          "translation": "paquetes de condimento"
         },
         {
           "word": "Breading",
@@ -6124,9 +6274,9 @@
       "level": "C1",
       "levelDetail": {
         "nivel": "C1",
-        "puntaje": 4.77,
+        "puntaje": 4.74,
         "senales": {
-          "vocabulario": 5.14,
+          "vocabulario": 5.08,
           "dialogos": 3.5,
           "temas": 5.44
         },
@@ -6135,9 +6285,9 @@
             "A1": 5.7,
             "A2": 2.9,
             "B1": 11.4,
-            "B2": 20.0,
+            "B2": 22.9,
             "C1": 20.0,
-            "C2": 40.0
+            "C2": 37.1
           },
           "densidad": 11.4
         },
@@ -6247,7 +6397,7 @@
           "translation": "aromática, perfumada"
         },
         {
-          "word": "A cleasing buff",
+          "word": "A cleansing buff",
           "translation": "un pulido limpiador"
         },
         {
@@ -7209,7 +7359,7 @@
         },
         {
           "word": "Baffle (verbo)",
-          "translation": "deconcertar, dejar perplejo."
+          "translation": "desconcertar, dejar perplejo."
         },
         {
           "word": "Unrestricted grant money",
@@ -8325,7 +8475,7 @@
           "translation": "odiar, detestar"
         },
         {
-          "word": "A wheezing 97-pound blíster",
+          "word": "A wheezing 97-pound blister",
           "translation": "una ampolla de 45 kilos"
         },
         {
@@ -9636,11 +9786,11 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 4.27,
+        "puntaje": 4.25,
         "senales": {
-          "vocabulario": 4.64,
+          "vocabulario": 4.62,
           "dialogos": 3.45,
-          "temas": 4.14
+          "temas": 4.12
         },
         "vocabulario": {
           "distribucion": {
@@ -9648,8 +9798,8 @@
             "A2": 9.5,
             "B1": 11.9,
             "B2": 23.8,
-            "C1": 16.7,
-            "C2": 28.6
+            "C1": 19.0,
+            "C2": 26.2
           },
           "densidad": 13.0
         },
@@ -9679,7 +9829,7 @@
           "translation": "quedarse dormido, irse a la deriva"
         },
         {
-          "word": "Where excatly in the interaction did the sucking lie? (pregunta no literal)",
+          "word": "Where exactly in the interaction did the sucking lie? (pregunta no literal)",
           "translation": "¿En qué punto de la interacción se produjo la succión?"
         },
         {
@@ -10402,11 +10552,11 @@
       "level": "B2-C1",
       "levelDetail": {
         "nivel": "B2-C1",
-        "puntaje": 4.62,
+        "puntaje": 4.6,
         "senales": {
-          "vocabulario": 5.04,
+          "vocabulario": 5.01,
           "dialogos": 3.66,
-          "temas": 4.56
+          "temas": 4.53
         },
         "vocabulario": {
           "distribucion": {
@@ -10414,8 +10564,8 @@
             "A2": 11.8,
             "B1": 14.7,
             "B2": 20.6,
-            "C1": 11.8,
-            "C2": 41.2
+            "C1": 14.7,
+            "C2": 38.2
           },
           "densidad": 11.4
         },
@@ -10470,12 +10620,12 @@
           "translation": "podar"
         },
         {
-          "word": "Leonard comes from a remarkably high-acheving family (no literal)",
+          "word": "Leonard comes from a remarkably high-achieving family (no literal)",
           "translation": "Leonard proviene de una familia con grandes aspiraciones"
         },
         {
           "word": "Overly",
-          "translation": "demasiado, escesivamente"
+          "translation": "demasiado, excesivamente"
         },
         {
           "word": "Pile on",
@@ -10677,7 +10827,7 @@
         },
         {
           "word": "Wingman (en sentido cotidiano)",
-          "translation": "compinche, compañerp"
+          "translation": "compinche, compañero"
         },
         {
           "word": "Don't be chintzy with the screw",
@@ -11707,7 +11857,7 @@
         },
         {
           "word": "And ever-so-slight amusement",
-          "translation": "y una ligera diversion"
+          "translation": "y una ligera diversión"
         },
         {
           "word": "Salvage",
@@ -12669,7 +12819,7 @@
       "vocabulary": [
         {
           "word": "To double-check the equatorial mount",
-          "translation": "comprobar dos veces la monture ecuatorial"
+          "translation": "comprobar dos veces la montura ecuatorial"
         },
         {
           "word": "Peep (verbo)",
@@ -13352,7 +13502,7 @@
         },
         {
           "word": "Saucer",
-          "translation": "platillo. platito"
+          "translation": "platillo, platito"
         },
         {
           "word": "Zazzy",
@@ -15095,7 +15245,7 @@
           "translation": "Leonard se está comportando como un nerd alfa con Sheldon"
         },
         {
-          "word": "It certainly buoyed up this employee's espirit de corps",
+          "word": "It certainly buoyed up this employee's esprit de corps",
           "translation": "sin duda, esto animó el espíritu de equipo de este empleado"
         },
         {
@@ -15250,7 +15400,7 @@
       },
       "vocabulary": [
         {
-          "word": "It also stands alingside such other nonsensical queries",
+          "word": "It also stands alongside such other nonsensical queries",
           "translation": "también se suma a otras consultas sin sentido"
         },
         {
@@ -15736,7 +15886,7 @@
           "translation": "si simplemente no hay forma de hablar conmigo"
         },
         {
-          "word": "A woman well past her primer seeking to augment her social status",
+          "word": "A woman well past her prime seeking to augment her social status",
           "translation": "una mujer que ya pasó la edad de casarse y busca mejorar su estatus social"
         },
         {
@@ -16042,7 +16192,7 @@
       },
       "vocabulary": [
         {
-          "word": "Isguided and oronic",
+          "word": "Misguided and moronic",
           "translation": "errónea y absurda"
         },
         {
@@ -17637,7 +17787,7 @@
         },
         {
           "word": "You can make nd o of li\" decisions for me",
-          "translation": "puedes tomar decisions por mi"
+          "translation": "puedes tomar decisiones por mí"
         },
         {
           "word": "You get to pull the plug on him",
@@ -18019,7 +18169,7 @@
         },
         {
           "word": "That's reassuring",
-          "translation": "eso es tranqulizador"
+          "translation": "eso es tranquilizador"
         },
         {
           "word": "The gist",
@@ -20394,7 +20544,7 @@
         },
         {
           "word": "Cardboard standee",
-          "translation": "cartel de carton"
+          "translation": "cartel de cartón"
         },
         {
           "word": "Your lawful wedded husband",
@@ -22829,9 +22979,4941 @@
       "count": 32,
       "dialogues": 423,
       "duration": 20
+    },
+    {
+      "code": "S06E01",
+      "name": "S06E01",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.79,
+        "senales": {
+          "vocabulario": 4.09,
+          "dialogos": 2.75,
+          "temas": 4.31
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 7.7,
+            "B1": 19.2,
+            "B2": 15.4,
+            "C1": 11.5,
+            "C2": 38.5
+          },
+          "densidad": 5.9
+        },
+        "dialogos": {
+          "cobertura95": 2.82,
+          "ppm": 149.4
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Twinge",
+          "translation": "punzada"
+        },
+        {
+          "word": "His dim, uncomprehending eyes",
+          "translation": "sus ojos apagados e inexpresivos"
+        },
+        {
+          "word": "Carrying case",
+          "translation": "maleta de mano"
+        },
+        {
+          "word": "Snippy",
+          "translation": "maleducado"
+        },
+        {
+          "word": "Mishegas",
+          "translation": "lío"
+        },
+        {
+          "word": "Disinterested onlooker",
+          "translation": "observador imparcial"
+        },
+        {
+          "word": "Doze off",
+          "translation": "quedarse dormido"
+        },
+        {
+          "word": "A cover story (no literal)",
+          "translation": "una excusa"
+        },
+        {
+          "word": "It’s year round",
+          "translation": "dura todo el año"
+        },
+        {
+          "word": "Sic (verbo)",
+          "translation": "soltar"
+        },
+        {
+          "word": "Chills (expresión)",
+          "translation": "qué escalofríos"
+        },
+        {
+          "word": "Outsource (verbo)",
+          "translation": "contratar"
+        },
+        {
+          "word": "A seemingly endless dinner",
+          "translation": "una cena que no parece tener fin"
+        },
+        {
+          "word": "Bleach (verbo)",
+          "translation": "mechar, decolorar"
+        },
+        {
+          "word": "She'll knock out those sideburns for free",
+          "translation": "te recortará las patillas gratis"
+        },
+        {
+          "word": "Sliders (en comida)",
+          "translation": "minihamburguesas"
+        },
+        {
+          "word": "I worked my ass off today (parcialmente no literal)",
+          "translation": "me he matado a trabajar hoy"
+        },
+        {
+          "word": "A third wheel (no literal)",
+          "translation": "la tercera en discordia"
+        },
+        {
+          "word": "I'm growing to like (parcialmente no literal)",
+          "translation": "cada vez me gusta más"
+        },
+        {
+          "word": "Pish on your issues!",
+          "translation": "¡Al carajo con tus problemas!"
+        },
+        {
+          "word": "You hit some bumps along the way",
+          "translation": "te encuentras con algunos obstáculos por el camino"
+        },
+        {
+          "word": "You made him grovel for affection",
+          "translation": "lo hiciste rogar por tu cariño"
+        },
+        {
+          "word": "Groveler",
+          "translation": "adulador"
+        },
+        {
+          "word": "I'm having a nightcap",
+          "translation": "me voy a tomar una copa antes de acostarme"
+        },
+        {
+          "word": "Glistening",
+          "translation": "reluciente, resplandeciente"
+        },
+        {
+          "word": "You just lied your ass off",
+          "translation": "acabas de soltar una mentira gorda"
+        }
+      ],
+      "count": 26,
+      "dialogues": 441,
+      "duration": 21
+    },
+    {
+      "code": "S06E02",
+      "name": "S06E02",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.19,
+        "senales": {
+          "vocabulario": 4.52,
+          "dialogos": 3.01,
+          "temas": 4.83
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.3,
+            "A2": 4.3,
+            "B1": 4.3,
+            "B2": 21.7,
+            "C1": 21.7,
+            "C2": 43.5
+          },
+          "densidad": 5.2
+        },
+        "dialogos": {
+          "cobertura95": 3.12,
+          "ppm": 145.8
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Gravy boat (parcialmente no literal)",
+          "translation": "salsera"
+        },
+        {
+          "word": "He had it engraved",
+          "translation": "lo había mandado a grabar"
+        },
+        {
+          "word": "Spendy",
+          "translation": "caro"
+        },
+        {
+          "word": "Frat",
+          "translation": "fraternidad, hermandad"
+        },
+        {
+          "word": "Scrub it up",
+          "translation": "lávate las manos"
+        },
+        {
+          "word": "That's mighty sassy",
+          "translation": "eso sí que es descarado"
+        },
+        {
+          "word": "Preposterous",
+          "translation": "absurdo, ridículo"
+        },
+        {
+          "word": "All kinds of hippy-dippy things",
+          "translation": "todo tipo de cosas hippies"
+        },
+        {
+          "word": "Pair-bond",
+          "translation": "vínculo de pareja"
+        },
+        {
+          "word": "Why on earth would she guzzle a witches' brew?",
+          "translation": "¿Por qué demonios se bebería un brebaje de brujas?"
+        },
+        {
+          "word": "Yucky",
+          "translation": "asqueroso"
+        },
+        {
+          "word": "Tartar buildup",
+          "translation": "acumulación de sarro"
+        },
+        {
+          "word": "To let that sink in (frase no literal)",
+          "translation": "para que lo asimilen"
+        },
+        {
+          "word": "Red-blooded man",
+          "translation": "hombre de sangre caliente"
+        },
+        {
+          "word": "Traipsing in and out of here",
+          "translation": "entrando y saliendo de aquí"
+        },
+        {
+          "word": "Hubba-hubba (expresión)",
+          "translation": "guau"
+        },
+        {
+          "word": "Talk about a keeper (expresión)",
+          "translation": "vaya qué joya"
+        },
+        {
+          "word": "Clever charade",
+          "translation": "farsa tan ingeniosa"
+        },
+        {
+          "word": "My hubby",
+          "translation": "mi maridito"
+        },
+        {
+          "word": "Stand up to",
+          "translation": "plantar cara"
+        },
+        {
+          "word": "To get a wedgie",
+          "translation": "para que te tiren de los calzoncillos"
+        },
+        {
+          "word": "Back-up",
+          "translation": "copia de seguridad"
+        },
+        {
+          "word": "No one likes a kiss-up",
+          "translation": "a nadie le caen bien los lameculos"
+        }
+      ],
+      "count": 23,
+      "dialogues": 445,
+      "duration": 21
+    },
+    {
+      "code": "S06E03",
+      "name": "S06E03",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.35,
+        "senales": {
+          "vocabulario": 4.64,
+          "dialogos": 3.41,
+          "temas": 4.75
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.6,
+            "A2": 0.0,
+            "B1": 3.6,
+            "B2": 35.7,
+            "C1": 25.0,
+            "C2": 32.1
+          },
+          "densidad": 6.7
+        },
+        "dialogos": {
+          "cobertura95": 3.4,
+          "ppm": 155.9
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Weeks on end (parcialmente no literal)",
+          "translation": "semanas y semanas"
+        },
+        {
+          "word": "My potty training journal",
+          "translation": "mi diario sobre el entrenamiento para ir al baño"
+        },
+        {
+          "word": "Penmanship",
+          "translation": "caligrafía"
+        },
+        {
+          "word": "Accomplished self-promoter",
+          "translation": "experto en autopromoción"
+        },
+        {
+          "word": "To hit my academic stride",
+          "translation": "alcanzar el mejor rendimiento académico"
+        },
+        {
+          "word": "Menial labor",
+          "translation": "trabajo de baja categoría"
+        },
+        {
+          "word": "A non-self contradictory set of abelion groups",
+          "translation": "un conjunto de grupos abelianos que no se contradice a sí mismo"
+        },
+        {
+          "word": "Ruse",
+          "translation": "artimaña"
+        },
+        {
+          "word": "Eyelash curier",
+          "translation": "rizador de pestañas"
+        },
+        {
+          "word": "Stop in",
+          "translation": "pasar por aquí"
+        },
+        {
+          "word": "Sprinkles",
+          "translation": "chispas de colores"
+        },
+        {
+          "word": "Stems removed? top one, yes",
+          "translation": "¿Se quitaron los tallos? el de arriba, sí"
+        },
+        {
+          "word": "Their soot stained fingertips",
+          "translation": "sus dedos manchados de hollín"
+        },
+        {
+          "word": "Sanity",
+          "translation": "cordura"
+        },
+        {
+          "word": "Skank",
+          "translation": "perra, mujerzuela"
+        },
+        {
+          "word": "Stem",
+          "translation": "tallo"
+        },
+        {
+          "word": "Bend over",
+          "translation": "inclinarse hacia adelante"
+        },
+        {
+          "word": "Her brightly colored hindquarters",
+          "translation": "su trasero de colores vivos"
+        },
+        {
+          "word": "Mat",
+          "translation": "alfombra"
+        },
+        {
+          "word": "Lust",
+          "translation": "deseo, lujuria"
+        },
+        {
+          "word": "Bust a gut (verbo no literal)",
+          "translation": "partirse de la risa"
+        },
+        {
+          "word": "Unearth (verbo)",
+          "translation": "desenterrar, descubrir"
+        },
+        {
+          "word": "Groundbreaking",
+          "translation": "algo revolucionario"
+        },
+        {
+          "word": "Dumb down",
+          "translation": "simplificar"
+        },
+        {
+          "word": "Ferromagnetic hysteresis",
+          "translation": "histéresis ferromagnética"
+        },
+        {
+          "word": "In a way",
+          "translation": "en cierto modo/sentido"
+        },
+        {
+          "word": "Notice people on your own time (parcialmente no literal)",
+          "translation": "presta atención a las personas en tu tiempo libre"
+        },
+        {
+          "word": "Hold (someone) down",
+          "translation": "sujetar, inmobilizar"
+        }
+      ],
+      "count": 28,
+      "dialogues": 419,
+      "duration": 19
+    },
+    {
+      "code": "S06E04",
+      "name": "S06E04",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.85,
+        "senales": {
+          "vocabulario": 3.78,
+          "dialogos": 3.23,
+          "temas": 5.15
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 4.2,
+            "B1": 4.2,
+            "B2": 50.0,
+            "C1": 20.8,
+            "C2": 12.5
+          },
+          "densidad": 5.2
+        },
+        "dialogos": {
+          "cobertura95": 3.49,
+          "ppm": 134.0
+        },
+        "temas": [
+          "científica y técnica",
+          "deportiva"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "You had a good run (frase no literal)",
+          "translation": "te fue muy bien"
+        },
+        {
+          "word": "Fondness",
+          "translation": "cariño"
+        },
+        {
+          "word": "Dial-up modem",
+          "translation": "módem de acceso telefónico"
+        },
+        {
+          "word": "Tear off",
+          "translation": "quitar, arrancarse"
+        },
+        {
+          "word": "An observational rebuttal",
+          "translation": "una refutación basada en la observación"
+        },
+        {
+          "word": "Wurst (en alemán)",
+          "translation": "salchicha"
+        },
+        {
+          "word": "Hack (verbo no alusivo a informática)",
+          "translation": "carraspear"
+        },
+        {
+          "word": "Phlegmy",
+          "translation": "con flema"
+        },
+        {
+          "word": "Got your ass handed on you (frase no literal)",
+          "translation": "te dieron una paliza"
+        },
+        {
+          "word": "Chop somebody's ass off",
+          "translation": "dar una paliza a alguien"
+        },
+        {
+          "word": "Appease (verbo)",
+          "translation": "apaciguar, aplacar, calmar"
+        },
+        {
+          "word": "Well-rounded game",
+          "translation": "juego muy completo"
+        },
+        {
+          "word": "Lot of big talk",
+          "translation": "muchas palabras grandilocuentes"
+        },
+        {
+          "word": "Remedial",
+          "translation": "de refuerzo/recuperación"
+        },
+        {
+          "word": "Come across",
+          "translation": "encontrarse con"
+        },
+        {
+          "word": "If I run too deep a bath (parcialmente no literal)",
+          "translation": "si lleno demasiado la tina"
+        },
+        {
+          "word": "They are all out (no literal)",
+          "translation": "todo eso ya no está de moda"
+        },
+        {
+          "word": "Twinkle (verbo)",
+          "translation": "brillar, centellar, titilar"
+        },
+        {
+          "word": "One to beam aboard",
+          "translation": "uno para transportar a bordo"
+        },
+        {
+          "word": "Spine",
+          "translation": "columna vertebral"
+        },
+        {
+          "word": "A scalped ticket",
+          "translation": "una entrada comprada en la reventa"
+        },
+        {
+          "word": "Climb out of the window",
+          "translation": "salir por la ventana"
+        },
+        {
+          "word": "Snort down",
+          "translation": "tragarse de un bocado"
+        },
+        {
+          "word": "Until touchdown brings me around again to find",
+          "translation": "hasta que el aterrizaje me haga volver en mí para descubrirlo"
+        }
+      ],
+      "count": 24,
+      "dialogues": 462,
+      "duration": 21
+    },
+    {
+      "code": "S06E05",
+      "name": "S06E05",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.35,
+          "dialogos": 3.19,
+          "temas": 5.1
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.9,
+            "A2": 7.1,
+            "B1": 9.5,
+            "B2": 28.6,
+            "C1": 16.7,
+            "C2": 26.2
+          },
+          "densidad": 9.6
+        },
+        "dialogos": {
+          "cobertura95": 3.26,
+          "ppm": 149.6
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Store-brand antacids",
+          "translation": "antiácidos de marca propia"
+        },
+        {
+          "word": "Soirees",
+          "translation": "veladas"
+        },
+        {
+          "word": "Care to weigh in? (pregunta no literal)",
+          "translation": "¿Te gustaría dar su opinión?"
+        },
+        {
+          "word": "Fondness",
+          "translation": "cariño"
+        },
+        {
+          "word": "Turtlenecks",
+          "translation": "suéteres de cuello alto"
+        },
+        {
+          "word": "For his missing foreskin",
+          "translation": "por la falta de su prepucio"
+        },
+        {
+          "word": "Come-hither look",
+          "translation": "mirada seductora"
+        },
+        {
+          "word": "You're hopped up on",
+          "translation": "estás muy emocionado por"
+        },
+        {
+          "word": "Beguiling",
+          "translation": "cautivador"
+        },
+        {
+          "word": "It's long overdue",
+          "translation": "ya hacía mucho que se necesitaba"
+        },
+        {
+          "word": "Real strides",
+          "translation": "avances importantes"
+        },
+        {
+          "word": "Soft-boiled eggs",
+          "translation": "huevo a la camilla"
+        },
+        {
+          "word": "High-techie-techie",
+          "translation": "tecnología de punta"
+        },
+        {
+          "word": "Low-techie-techie",
+          "translation": "tecnología poco tecnológica"
+        },
+        {
+          "word": "Front-projected",
+          "translation": "proyección frontal"
+        },
+        {
+          "word": "The farthest reaches",
+          "translation": "los confines más lejanos"
+        },
+        {
+          "word": "Our lives are really just acting out a painting",
+          "translation": "en realidad, nuestras vidas no son más que la representación de un cuadro"
+        },
+        {
+          "word": "Canvas",
+          "translation": "lienzo"
+        },
+        {
+          "word": "Fool around",
+          "translation": "hacer tonterías"
+        },
+        {
+          "word": "Go bump",
+          "translation": "hacer ruido"
+        },
+        {
+          "word": "With the names bent into tortured puns",
+          "translation": "con los nombres transformados en juegos de palabras retorcidos"
+        },
+        {
+          "word": "They themselves are in no way",
+          "translation": "ellos en si no tienen nada que ver con"
+        },
+        {
+          "word": "Pair (verbo)",
+          "translation": "combinar, quedar muy bien"
+        },
+        {
+          "word": "My retainer floated out of my mouth and into the air lock",
+          "translation": "mi retenedor se me salió de la boca y terminó en la esclusa de aire"
+        },
+        {
+          "word": "Reporting for booty",
+          "translation": "a la orden"
+        },
+        {
+          "word": "To jettison that nightgown",
+          "translation": "para deshacernos de ese camisón"
+        },
+        {
+          "word": "Mag-lev technology",
+          "translation": "tecnología de levitación magnética"
+        },
+        {
+          "word": "Turn this on",
+          "translation": "activar esto"
+        },
+        {
+          "word": "Creepy",
+          "translation": "espeluznante"
+        },
+        {
+          "word": "A major rager",
+          "translation": "una fiesta de locos"
+        },
+        {
+          "word": "Your bullwhip and fedora",
+          "translation": "tu látigo y tu sombrero fedora"
+        },
+        {
+          "word": "Love child (no literal)",
+          "translation": "hijo ilegítimo"
+        },
+        {
+          "word": "Don't make me pull it out of you",
+          "translation": "no me hagas sacártelo a la fuerza"
+        },
+        {
+          "word": "He was ground to death",
+          "translation": "lo machacaron/aplastaron hasta matarlo"
+        },
+        {
+          "word": "Raggediness",
+          "translation": "desaliño"
+        },
+        {
+          "word": "Matching costumes",
+          "translation": "disfraces a juego"
+        },
+        {
+          "word": "Hickeys and sex tapes",
+          "translation": "chupetones y videos íntimos"
+        },
+        {
+          "word": "Wash something out",
+          "translation": "quitar algo"
+        },
+        {
+          "word": "Slutty",
+          "translation": "guarra, promiscua"
+        },
+        {
+          "word": "Deejay",
+          "translation": "DJ"
+        },
+        {
+          "word": "Falsetto (en música)",
+          "translation": "falsete"
+        },
+        {
+          "word": "Lowered voice",
+          "translation": "en voz baja"
+        }
+      ],
+      "count": 42,
+      "dialogues": 437,
+      "duration": 21
+    },
+    {
+      "code": "S06E06",
+      "name": "S06E06",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.49,
+        "senales": {
+          "vocabulario": 3.67,
+          "dialogos": 2.79,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.8,
+            "A2": 23.1,
+            "B1": 3.8,
+            "B2": 34.6,
+            "C1": 11.5,
+            "C2": 23.1
+          },
+          "densidad": 5.2
+        },
+        "dialogos": {
+          "cobertura95": 2.7,
+          "ppm": 162.5
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "I'm killing it! (frase no literal)",
+          "translation": "¡Me está yendo de maravilla!"
+        },
+        {
+          "word": "I'll walk you through it (frase no literal)",
+          "translation": "te lo explicaré paso a paso"
+        },
+        {
+          "word": "You pulled the plug on my funk (frase no literal)",
+          "translation": "tú acabaste con mi mal humor"
+        },
+        {
+          "word": "Slide",
+          "translation": "tobogán"
+        },
+        {
+          "word": "You'll be off to the races (frase no literal)",
+          "translation": "estarás listo para empezar"
+        },
+        {
+          "word": "Hold that thought! (frase no literal)",
+          "translation": "¡No te olvides de eso!"
+        },
+        {
+          "word": "Crank up the AC",
+          "translation": "sube el aire acondicionado"
+        },
+        {
+          "word": "Quiver",
+          "translation": "carcaj"
+        },
+        {
+          "word": "Dandruff",
+          "translation": "anticaspa"
+        },
+        {
+          "word": "Tar",
+          "translation": "alquitrán"
+        },
+        {
+          "word": "A gentlemanly battle of wits",
+          "translation": "una batalla de ingenio entre caballeros"
+        },
+        {
+          "word": "Chin-ups",
+          "translation": "dominadas"
+        },
+        {
+          "word": "Dentures",
+          "translation": "dentadura postizas"
+        },
+        {
+          "word": "Hotshot",
+          "translation": "listillo"
+        },
+        {
+          "word": "Tinfoil",
+          "translation": "papel de aluminio"
+        },
+        {
+          "word": "I was beating him so bad",
+          "translation": "lo estaba derrotando por goleada"
+        },
+        {
+          "word": "Cut her loose",
+          "translation": "dejarla ir, dejarla en paz"
+        },
+        {
+          "word": "Polishing",
+          "translation": "pulido, retoques"
+        },
+        {
+          "word": "You're such an ass",
+          "translation": "eres un verdadero idiota"
+        },
+        {
+          "word": "I just have to make lemonade out of the two of you (frase no literal)",
+          "translation": "no me queda más remedio que sacarles partido a los dos"
+        },
+        {
+          "word": "Phony (aparte de falso)",
+          "translation": "farsante"
+        },
+        {
+          "word": "A sellout",
+          "translation": "un vendido"
+        },
+        {
+          "word": "You punk-ass elf",
+          "translation": "elfo de mala muerte"
+        },
+        {
+          "word": "You won fair and square",
+          "translation": "ganaste de manera justa y honrada"
+        },
+        {
+          "word": "Brain teasers",
+          "translation": "rompecabezas, acertijos"
+        },
+        {
+          "word": "Neener neener (expresión)",
+          "translation": "jaja"
+        }
+      ],
+      "count": 26,
+      "dialogues": 496,
+      "duration": 21
+    },
+    {
+      "code": "S06E07",
+      "name": "S06E07",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.12,
+        "senales": {
+          "vocabulario": 4.57,
+          "dialogos": 2.85,
+          "temas": 4.47
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.3,
+            "A2": 5.3,
+            "B1": 10.5,
+            "B2": 31.6,
+            "C1": 10.5,
+            "C2": 36.8
+          },
+          "densidad": 8.3
+        },
+        "dialogos": {
+          "cobertura95": 2.87,
+          "ppm": 153.2
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Let's try and keep it upbeat",
+          "translation": "intentemos mantener un tono optimista"
+        },
+        {
+          "word": "Overact (verbo)",
+          "translation": "exagerar"
+        },
+        {
+          "word": "This is a sticky wicket (frase no literal)",
+          "translation": "esta es una situación complicada"
+        },
+        {
+          "word": "Turtlenecks",
+          "translation": "suéteres de cuello alto"
+        },
+        {
+          "word": "My electric body groomer",
+          "translation": "mi recortadora eléctrica para mi cuerpo"
+        },
+        {
+          "word": "My plaid dickie",
+          "translation": "mi plastrón a cuadros"
+        },
+        {
+          "word": "Stain stick",
+          "translation": "barra quitamanchas"
+        },
+        {
+          "word": "Garbage disposal",
+          "translation": "triturador de basura"
+        },
+        {
+          "word": "I was out raising heck with Wil Wheaton",
+          "translation": "estaba por ahí armando jaleo con Wil Wheaton"
+        },
+        {
+          "word": "Get huffy",
+          "translation": "enojarse"
+        },
+        {
+          "word": "Quite the kerfuffle (expresión)",
+          "translation": "todo un alboroto"
+        },
+        {
+          "word": "Walked right out the door",
+          "translation": "salió por la puerta sin más"
+        },
+        {
+          "word": "Set him straight",
+          "translation": "pónlo en su lugar"
+        },
+        {
+          "word": "Kitchen slammed again?",
+          "translation": "¿Otra vez se rompió la cocina?"
+        },
+        {
+          "word": "My religion is kinda loosey-goosey",
+          "translation": "mi religión es un poco a la ligera"
+        },
+        {
+          "word": "As long as you got schmekel clipped",
+          "translation": "siempre y cuando te hayan cortado"
+        },
+        {
+          "word": "I don't need anyone badgering me into it!",
+          "translation": "¡No necesito que nadie me esté presionando para que lo haga!"
+        },
+        {
+          "word": "Fade in",
+          "translation": "entrada gradual"
+        },
+        {
+          "word": "Maiden voyage",
+          "translation": "viaje inaugural"
+        },
+        {
+          "word": "Anaphylactic shock",
+          "translation": "choque anafiláctico"
+        },
+        {
+          "word": "Be rushed to",
+          "translation": "ser llevado de urgencia al"
+        },
+        {
+          "word": "Fondle (verbo)",
+          "translation": "acariciar"
+        },
+        {
+          "word": "Get fuzz",
+          "translation": "salirle vello"
+        },
+        {
+          "word": "Twaddle",
+          "translation": "disparates"
+        },
+        {
+          "word": "It'll warm her twaddle (frase no literal)",
+          "translation": "eso le alegrará el día"
+        },
+        {
+          "word": "Baffling",
+          "translation": "desconcertante"
+        },
+        {
+          "word": "That was a hard row to hoe (no literal)",
+          "translation": "eso fue una tarea muy difícil"
+        },
+        {
+          "word": "Pace yourself",
+          "translation": "tómatelo con calma"
+        },
+        {
+          "word": "Far be it from me (frase no literal)",
+          "translation": "ni se me ocurriría"
+        },
+        {
+          "word": "Womanfolk",
+          "translation": "mujeres"
+        },
+        {
+          "word": "My simple rustic upbringing",
+          "translation": "mi infancia sencilla y rústica"
+        },
+        {
+          "word": "That low-down polecat done wronged my woman",
+          "translation": "ese canalla le hizo daño a mi mujer"
+        },
+        {
+          "word": "I'm a callous egomaniac",
+          "translation": "soy un ególatra insensible"
+        },
+        {
+          "word": "And part way through the act",
+          "translation": "y a mitad del acto"
+        },
+        {
+          "word": "They're up to beat an apology out of you",
+          "translation": "están dispuestos a obligarte a pedir perdón"
+        },
+        {
+          "word": "As a matter of idle curiosity",
+          "translation": "por simple/pura curiosidad"
+        },
+        {
+          "word": "Shrubberies",
+          "translation": "arbustos"
+        },
+        {
+          "word": "A thorough vomit",
+          "translation": "un vómito intenso"
+        }
+      ],
+      "count": 38,
+      "dialogues": 456,
+      "duration": 21
+    },
+    {
+      "code": "S06E08",
+      "name": "S06E08",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.02,
+        "senales": {
+          "vocabulario": 4.13,
+          "dialogos": 3.0,
+          "temas": 5.24
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 7.7,
+            "B1": 0.0,
+            "B2": 42.3,
+            "C1": 11.5,
+            "C2": 30.8
+          },
+          "densidad": 5.9
+        },
+        "dialogos": {
+          "cobertura95": 3.12,
+          "ppm": 145.2
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Wormhole",
+          "translation": "agujero de gusano"
+        },
+        {
+          "word": "You silly doodlebug",
+          "translation": "qué tonto eres bichito"
+        },
+        {
+          "word": "Completely unaccounted for (frase no literal)",
+          "translation": "sin saber para qué"
+        },
+        {
+          "word": "Olive spread",
+          "translation": "pasta de aceitunas/olivas"
+        },
+        {
+          "word": "You guys suck",
+          "translation": "ustedes son unos inútiles"
+        },
+        {
+          "word": "What was that? (pregunta no literal)",
+          "translation": "¿Qué dijiste?"
+        },
+        {
+          "word": "Stroke",
+          "translation": "ataque"
+        },
+        {
+          "word": "Hit on",
+          "translation": "coquetear, ligar"
+        },
+        {
+          "word": "I’m torn",
+          "translation": "estoy indeciso"
+        },
+        {
+          "word": "Corduroy",
+          "translation": "pana"
+        },
+        {
+          "word": "Right off tha bat (frase no literal)",
+          "translation": "desde el principio"
+        },
+        {
+          "word": "You’re a real catch (traducción aproximada)",
+          "translation": "eres un verdadero partido"
+        },
+        {
+          "word": "Lousy grapes",
+          "translation": "uvas malas"
+        },
+        {
+          "word": "Peck (verbo)",
+          "translation": "picotear, buscar"
+        },
+        {
+          "word": "Every party thrown (parcialmente no literal)",
+          "translation": "todas las fiestas que se organizan"
+        },
+        {
+          "word": "What if it's booby-trapped?",
+          "translation": "¿Y si tiene una trampa explosiva?"
+        },
+        {
+          "word": "Cagey",
+          "translation": "reservado"
+        },
+        {
+          "word": "Paprika",
+          "translation": "pimentón"
+        },
+        {
+          "word": "He's ganged up",
+          "translation": "se ha aliado con nosotros"
+        },
+        {
+          "word": "Stay frosty (no literal)",
+          "translation": "mantén la calma"
+        },
+        {
+          "word": "I'm sure you get hit on",
+          "translation": "estoy seguro de que te coquetean"
+        },
+        {
+          "word": "Put together (no literal)",
+          "translation": "armar"
+        },
+        {
+          "word": "Dumb-ass",
+          "translation": "idiota"
+        },
+        {
+          "word": "Do you use up all your thinking",
+          "translation": "agotas toda tu capacidad de pensar"
+        },
+        {
+          "word": "Picture’s up",
+          "translation": "ya subí la foto"
+        },
+        {
+          "word": "Feign (verbo)",
+          "translation": "fingir"
+        }
+      ],
+      "count": 26,
+      "dialogues": 441,
+      "duration": 21
+    },
+    {
+      "code": "S06E09",
+      "name": "S06E09",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.12,
+        "senales": {
+          "vocabulario": 4.38,
+          "dialogos": 3.41,
+          "temas": 4.23
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.7,
+            "A2": 5.1,
+            "B1": 15.4,
+            "B2": 23.1,
+            "C1": 25.6,
+            "C2": 23.1
+          },
+          "densidad": 8.8
+        },
+        "dialogos": {
+          "cobertura95": 3.41,
+          "ppm": 155.3
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Bandages",
+          "translation": "vendajes"
+        },
+        {
+          "word": "You brought this on yourself (frase no literal)",
+          "translation": "tú te lo buscaste"
+        },
+        {
+          "word": "Schmo",
+          "translation": "idiota, tonto"
+        },
+        {
+          "word": "For as long as I can keep my mother out of it",
+          "translation": "mientras pueda mantener a mi mamá al margen"
+        },
+        {
+          "word": "Cutting the risk of door-dings in half",
+          "translation": "reduciendo a la mitad el riesgo de que se produzcan abolladuras en las puertas"
+        },
+        {
+          "word": "Slot",
+          "translation": "ranura"
+        },
+        {
+          "word": "That's some salty language",
+          "translation": "eso sí que es un lenguaje fuerte"
+        },
+        {
+          "word": "Potty mouth club",
+          "translation": "club de los malhablados"
+        },
+        {
+          "word": "While you sleep one off in the backseat (frase no literal)",
+          "translation": "mientras tú te recuperas de la borrachera en el asiento trasero"
+        },
+        {
+          "word": "Payback",
+          "translation": "reembolso, recuperación"
+        },
+        {
+          "word": "Wax (sustantivo)",
+          "translation": "depilación"
+        },
+        {
+          "word": "Mash up",
+          "translation": "mezclar"
+        },
+        {
+          "word": "They're bound to lock horns (frase no literal)",
+          "translation": "seguro que van a enfrentarse"
+        },
+        {
+          "word": "How are your lady parts?",
+          "translation": "¿Cómo están tus partes íntimas?"
+        },
+        {
+          "word": "Still chilly down there?",
+          "translation": "¿Todavía tienes frío ahí abajo?"
+        },
+        {
+          "word": "Duct tape",
+          "translation": "cinta adhesiva"
+        },
+        {
+          "word": "Cleverly veiled",
+          "translation": "ingeniosamente velada/disimulada"
+        },
+        {
+          "word": "I didn't pick up on that (frase no literal)",
+          "translation": "no me di cuenta de eso"
+        },
+        {
+          "word": "I'm feeling all tingly",
+          "translation": "siento un cosquilleo por todo el cuerpo"
+        },
+        {
+          "word": "Defoliated",
+          "translation": "depilada"
+        },
+        {
+          "word": "Keep a lookout",
+          "translation": "mantente alerta"
+        },
+        {
+          "word": "It’s swarming of",
+          "translation": "está repleto de"
+        },
+        {
+          "word": "Scold (verbo)",
+          "translation": "regañar"
+        },
+        {
+          "word": "Budge (verbo)",
+          "translation": "mover"
+        },
+        {
+          "word": "Color me intrigued (no literal)",
+          "translation": "me ha despertado la curiosidad"
+        },
+        {
+          "word": "Fumes",
+          "translation": "vapores"
+        },
+        {
+          "word": "Rip out",
+          "translation": "arrancar"
+        },
+        {
+          "word": "A plastic baggy strapped",
+          "translation": "una bolsita de plástico atada"
+        },
+        {
+          "word": "Scolding",
+          "translation": "regañada"
+        },
+        {
+          "word": "Desensitize (verbo)",
+          "translation": "insensibilizar"
+        },
+        {
+          "word": "Preposterous",
+          "translation": "absurdo"
+        },
+        {
+          "word": "Throwing",
+          "translation": "arrojadizo"
+        },
+        {
+          "word": "Burying the hatchet (forma no literal)",
+          "translation": "hacer las paces"
+        },
+        {
+          "word": "It kind of feel like it brought us closer",
+          "translation": "siento que, de alguna manera, eso nos unió más"
+        },
+        {
+          "word": "Glean (verbo)",
+          "translation": "recoger, sacar"
+        },
+        {
+          "word": "Slacks",
+          "translation": "pantalones"
+        },
+        {
+          "word": "Fatty deli meats",
+          "translation": "embutidos grasos"
+        },
+        {
+          "word": "Calling card",
+          "translation": "tarjeta de presentación"
+        },
+        {
+          "word": "Befoulment",
+          "translation": "contaminación"
+        }
+      ],
+      "count": 39,
+      "dialogues": 444,
+      "duration": 20
+    },
+    {
+      "code": "S06E10",
+      "name": "S06E10",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.98,
+        "senales": {
+          "vocabulario": 4.26,
+          "dialogos": 3.27,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.8,
+            "A2": 5.1,
+            "B1": 12.8,
+            "B2": 28.2,
+            "C1": 12.8,
+            "C2": 28.2
+          },
+          "densidad": 9.0
+        },
+        "dialogos": {
+          "cobertura95": 3.34,
+          "ppm": 149.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Theme song (parcialmente no literal)",
+          "translation": "tema musical"
+        },
+        {
+          "word": "Heroes in a half-shell",
+          "translation": "heroes con caparazón"
+        },
+        {
+          "word": "Posit (verbo)",
+          "translation": "afirmar, plantear"
+        },
+        {
+          "word": "Lore (en sentido denotativo)",
+          "translation": "tradición"
+        },
+        {
+          "word": "Remark (verbo)",
+          "translation": "remarcar, señalar, advertir"
+        },
+        {
+          "word": "Put in",
+          "translation": "poner"
+        },
+        {
+          "word": "Fowl",
+          "translation": "muy rara, muy poco ortodoxa"
+        },
+        {
+          "word": "I'm finding your bedside manner a little lacking (frase no literal)",
+          "translation": "me parece que tu trato con los pacientes deja un poco que desear"
+        },
+        {
+          "word": "Rag",
+          "translation": "paño"
+        },
+        {
+          "word": "Dig in (expresión)",
+          "translation": "a comer"
+        },
+        {
+          "word": "Talk my ear off (verbo frasal)",
+          "translation": "hablarme sin parar"
+        },
+        {
+          "word": "Tag along",
+          "translation": "acompañar, venir con nosotros"
+        },
+        {
+          "word": "Pointers (no alusivo a punteros)",
+          "translation": "consejos"
+        },
+        {
+          "word": "Steam (verbo en cocina)",
+          "translation": "cocinar al vapor"
+        },
+        {
+          "word": "Get it away",
+          "translation": "quítalo de aquí"
+        },
+        {
+          "word": "Jab a hook (verbo)",
+          "translation": "dar un gancho"
+        },
+        {
+          "word": "Way to man things up",
+          "translation": "una forma de hacer las cosas como un hombre"
+        },
+        {
+          "word": "They lived inconclusively ever after (parcialmente no literal)",
+          "translation": "vivieron sin que nada quedara claro para siempre"
+        },
+        {
+          "word": "I need to get you down for a nap",
+          "translation": "necesito que te acuestes a dormir la siesta"
+        },
+        {
+          "word": "That VapoRub gets you all fired up (frase no literal)",
+          "translation": "ese VapoRub te da un montón de energía"
+        },
+        {
+          "word": "Draw (someonee) a bath (verbo no literal en baño)",
+          "translation": "preparar un baño"
+        },
+        {
+          "word": "Nerve-wracking",
+          "translation": "estresante, angustiante"
+        },
+        {
+          "word": "Expectorant",
+          "translation": "expectorante"
+        },
+        {
+          "word": "Some people reported lactating uncontrollably",
+          "translation": "algunas personas informaron que tenían una secreción de leche incontrolable"
+        },
+        {
+          "word": "Rubber (aparte de goma)",
+          "translation": "caucho"
+        },
+        {
+          "word": "Gut (verbo)",
+          "translation": "eviscerar, destripar, destripar"
+        },
+        {
+          "word": "Squirt (verbo)",
+          "translation": "chorrear, eyacular, soltar, producir (un liquido)"
+        },
+        {
+          "word": "Etruscan",
+          "translation": "etrusco"
+        },
+        {
+          "word": "I took a cheek swab and had it cultured in the lab (frase no literal)",
+          "translation": "me hice un hisopo bucal y lo mandé a analizar al laboratorio"
+        },
+        {
+          "word": "Full-blown",
+          "translation": "en toda su extensión"
+        },
+        {
+          "word": "Skew (verbo)",
+          "translation": "inclinar, favorecer"
+        },
+        {
+          "word": "Stockade",
+          "translation": "celda, mazmorra, jaula"
+        },
+        {
+          "word": "Overly",
+          "translation": "demasiado"
+        },
+        {
+          "word": "You gave in to a hun weakness",
+          "translation": "cediste a una debilidad humana"
+        },
+        {
+          "word": "A tad old-school",
+          "translation": "un poco a la vieja escuela"
+        },
+        {
+          "word": "My father was not one to spare the rod",
+          "translation": "mi papá no era de los que se lo pensaban dos veces antes de dar un castigo físico"
+        },
+        {
+          "word": "The sporting good store",
+          "translation": "tienda de artículos deportivos"
+        },
+        {
+          "word": "How to shoot craps (traducción aproximada)",
+          "translation": "cómo jugar a los dados"
+        },
+        {
+          "word": "Ballbusters",
+          "translation": "rompehuevos"
+        }
+      ],
+      "count": 39,
+      "dialogues": 431,
+      "duration": 21
+    },
+    {
+      "code": "S06E11",
+      "name": "S06E11",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.22,
+        "senales": {
+          "vocabulario": 4.53,
+          "dialogos": 3.54,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 5.6,
+            "A2": 7.4,
+            "B1": 13.0,
+            "B2": 38.9,
+            "C1": 14.8,
+            "C2": 20.4
+          },
+          "densidad": 11.0
+        },
+        "dialogos": {
+          "cobertura95": 3.35,
+          "ppm": 169.8
+        },
+        "temas": [
+          "inglés de época o antiguo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Holding sides of hearth",
+          "translation": "mantener los laterales del hogar"
+        },
+        {
+          "word": "Lower mantelpiece assembly",
+          "translation": "baja el conjunto de la repisa"
+        },
+        {
+          "word": "Top tabs",
+          "translation": "lengüetas superiores"
+        },
+        {
+          "word": "Fireplace",
+          "translation": "chimenea"
+        },
+        {
+          "word": "Butch",
+          "translation": "marimacho"
+        },
+        {
+          "word": "Veal",
+          "translation": "ternera"
+        },
+        {
+          "word": "Playing make-believe",
+          "translation": "jugar a imaginar"
+        },
+        {
+          "word": "Peg leg",
+          "translation": "pierna de madera, pata de palo"
+        },
+        {
+          "word": "Skywriting",
+          "translation": "escritura en el aire"
+        },
+        {
+          "word": "Saucy",
+          "translation": "atrevido"
+        },
+        {
+          "word": "The worst-tasting jelly",
+          "translation": "la gelatina que sabe peor"
+        },
+        {
+          "word": "Smoking remains",
+          "translation": "restos de humo"
+        },
+        {
+          "word": "Whip out",
+          "translation": "sacar"
+        },
+        {
+          "word": "And shoot my magic all over his ass",
+          "translation": "y le voy a echar toda mi magia por todo el trasero"
+        },
+        {
+          "word": "Ogre tracks",
+          "translation": "huellas de ogro"
+        },
+        {
+          "word": "Contempt",
+          "translation": "desprecio"
+        },
+        {
+          "word": "Get a load of",
+          "translation": "fíjate en"
+        },
+        {
+          "word": "Spell casters",
+          "translation": "hechiceros"
+        },
+        {
+          "word": "Trip wire",
+          "translation": "cable trampa/detonador"
+        },
+        {
+          "word": "Blows your face off",
+          "translation": "te deja boquiabierto"
+        },
+        {
+          "word": "Leopard-print pumps",
+          "translation": "zapatos de tacón con estampado de leopardo"
+        },
+        {
+          "word": "Rack-tastic",
+          "translation": "espectacular"
+        },
+        {
+          "word": "Jury duty",
+          "translation": "servicio como jurado"
+        },
+        {
+          "word": "Get stinking drunk",
+          "translation": "emborracharse a más no poder"
+        },
+        {
+          "word": "Gout",
+          "translation": "gota"
+        },
+        {
+          "word": "Let's get him laid",
+          "translation": "vamos a conseguirle una cita"
+        },
+        {
+          "word": "Nose around",
+          "translation": "curiosear, hurgar"
+        },
+        {
+          "word": "Crush out",
+          "translation": "acabar"
+        },
+        {
+          "word": "Feel up",
+          "translation": "palpar, tocar"
+        },
+        {
+          "word": "Walk up",
+          "translation": "acercarse"
+        },
+        {
+          "word": "Close in",
+          "translation": "cerrar"
+        },
+        {
+          "word": "Lay around",
+          "translation": "cubrir todo"
+        },
+        {
+          "word": "Deep and crisp (no literal)",
+          "translation": "intense y fresco"
+        },
+        {
+          "word": "Brightly shone the moon",
+          "translation": "la luna brillaba intensamente"
+        },
+        {
+          "word": "Frost",
+          "translation": "escarcha"
+        },
+        {
+          "word": "Hither, page (inglés antiguo)",
+          "translation": "ven aquí paje"
+        },
+        {
+          "word": "Yonder (inglés antiguo)",
+          "translation": "campesino"
+        },
+        {
+          "word": "Dwelling",
+          "translation": "morada, vivienda"
+        },
+        {
+          "word": "That's some low-hanging fruit (frase no literal)",
+          "translation": "eso sí que es pan comido"
+        },
+        {
+          "word": "I make it a rule to only fall for one of my friends (forma no literal)",
+          "translation": "tengo por norma enamorarme solo de uno de mis amigos"
+        },
+        {
+          "word": "Old-fashioned",
+          "translation": "de la vieja escuela, tradicional"
+        },
+        {
+          "word": "Lump",
+          "translation": "trozo"
+        },
+        {
+          "word": "Corncob pipes",
+          "translation": "pipas de mazorca de maíz"
+        },
+        {
+          "word": "Baloney",
+          "translation": "tonterías"
+        },
+        {
+          "word": "Tinsel industry",
+          "translation": "industria del consumismo"
+        },
+        {
+          "word": "Frat",
+          "translation": "fraternidad"
+        },
+        {
+          "word": "Cop a feel (verbo no literal)",
+          "translation": "meter mano"
+        },
+        {
+          "word": "Drawbridge",
+          "translation": "puente levadizo"
+        },
+        {
+          "word": "Act up (en algunos contextos)",
+          "translation": "dar problemas"
+        },
+        {
+          "word": "Jolly old",
+          "translation": "el viejo y alegre"
+        },
+        {
+          "word": "Plop down",
+          "translation": "dejarse caer"
+        },
+        {
+          "word": "Neat",
+          "translation": "genial"
+        },
+        {
+          "word": "Jingle bells (significado literal)",
+          "translation": "cascabeles"
+        },
+        {
+          "word": "You big dork!",
+          "translation": "¡Qué tonto/idiota eres!"
+        }
+      ],
+      "count": 54,
+      "dialogues": 493,
+      "duration": 21
+    },
+    {
+      "code": "S06E12",
+      "name": "S06E12",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.76,
+        "senales": {
+          "vocabulario": 3.96,
+          "dialogos": 3.01,
+          "temas": 4.25
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.2,
+            "A2": 12.3,
+            "B1": 12.3,
+            "B2": 13.6,
+            "C1": 20.6,
+            "C2": 32.9
+          },
+          "densidad": 5.3
+        },
+        "dialogos": {
+          "cobertura95": 2.95,
+          "ppm": 159.7
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Looming",
+          "translation": "inminente"
+        },
+        {
+          "word": "Sniffing around the goods",
+          "translation": "hurgando entre los productos"
+        },
+        {
+          "word": "This is all over again",
+          "translation": "es esto otra vez lo mismo"
+        },
+        {
+          "word": "Pasty",
+          "translation": "pálida"
+        },
+        {
+          "word": "Your pouty bee-stung lips (parcialmente no literal)",
+          "translation": "tus labios carnosos y sensuales"
+        },
+        {
+          "word": "Bespectacled",
+          "translation": "que usa lentes"
+        },
+        {
+          "word": "Strut (verbo)",
+          "translation": "pavonearse"
+        },
+        {
+          "word": "That snuck up on us (frase no literal)",
+          "translation": "eso nos tomó por sorpresa"
+        },
+        {
+          "word": "Squirt (verbo)",
+          "translation": "chorrear, eyacular, soltar, producir (un liquido)"
+        },
+        {
+          "word": "Sexual advance (parcialmente no literal)",
+          "translation": "insinuación sexual"
+        },
+        {
+          "word": "I'm not unsympathetic to your plight (frase no literal)",
+          "translation": "no es que no comprenda tu situación"
+        },
+        {
+          "word": "Leaf through",
+          "translation": "hojear"
+        },
+        {
+          "word": "Check out this oozy doozy",
+          "translation": "mira qué maravilla tan pegajosa"
+        },
+        {
+          "word": "And a fat lot of good it did me (frase no literal)",
+          "translation": "y para nada me sirvió de algo"
+        },
+        {
+          "word": "Blab (verbo)",
+          "translation": "delatar"
+        },
+        {
+          "word": "Lodge a complaint",
+          "translation": "presentar una queja"
+        },
+        {
+          "word": "String cheese",
+          "translation": "queso en tiras"
+        },
+        {
+          "word": "I led her away",
+          "translation": "me la llevé"
+        },
+        {
+          "word": "Disease-ridden genitalia",
+          "translation": "órganos genitales afectados por enfermedades"
+        },
+        {
+          "word": "I was singling her out",
+          "translation": "la estaba señalando a ella específicamente"
+        },
+        {
+          "word": "Desirability",
+          "translation": "atractivo"
+        },
+        {
+          "word": "Plucks closing chord (acotación)",
+          "translation": "toca el acorde final"
+        },
+        {
+          "word": "Sniff (verbo)",
+          "translation": "hurgar"
+        },
+        {
+          "word": "Mandate (verbo)",
+          "translation": "ordenar, disponer"
+        },
+        {
+          "word": "You'd better ace it",
+          "translation": "más te vale que lo hagas a la perfección"
+        }
+      ],
+      "count": 25,
+      "dialogues": 473,
+      "duration": 21
+    },
+    {
+      "code": "S06E13",
+      "name": "S06E13",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.24,
+        "senales": {
+          "vocabulario": 4.46,
+          "dialogos": 3.59,
+          "temas": 4.44
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 8.3,
+            "B1": 8.3,
+            "B2": 36.1,
+            "C1": 25.0,
+            "C2": 22.2
+          },
+          "densidad": 7.8
+        },
+        "dialogos": {
+          "cobertura95": 3.57,
+          "ppm": 156.6
+        },
+        "temas": [
+          "moda y belleza"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Steam (verbo en ropa)",
+          "translation": "planchar a vapor"
+        },
+        {
+          "word": "Want to go halfsies on a steamer?",
+          "translation": "¿Quieres que nos dividamos el costo de un barco de vapor?"
+        },
+        {
+          "word": "Steamer",
+          "translation": "barco a vapor"
+        },
+        {
+          "word": "That rumpled chicken's come home to roost",
+          "translation": "ese pollo arrugado ha vuelto a casa a descansar"
+        },
+        {
+          "word": "Make-up",
+          "translation": "maquillaje"
+        },
+        {
+          "word": "Pinkeye",
+          "translation": "conjuntivitis"
+        },
+        {
+          "word": "At warp speed",
+          "translation": "a toda velocidad"
+        },
+        {
+          "word": "Wish-fulfillment",
+          "translation": "cumplir deseos"
+        },
+        {
+          "word": "I feel bad for picking on all those kids (parcialmente no literal)",
+          "translation": "me siento mal por haberme metido con todos esos niños"
+        },
+        {
+          "word": "Turn-by-turn voice",
+          "translation": "indicaciones de voz paso a paso"
+        },
+        {
+          "word": "My listening ears (parcialmente no literal)",
+          "translation": "mis oídos atentos"
+        },
+        {
+          "word": "Counterpoint",
+          "translation": "contrapunto"
+        },
+        {
+          "word": "Bypasses or spurs (en carreteras)",
+          "translation": "desviaciones o ramales"
+        },
+        {
+          "word": "Drive off it",
+          "translation": "sal de ahí"
+        },
+        {
+          "word": "Oh, smashing (expresión)",
+          "translation": "oh genial"
+        },
+        {
+          "word": "Just soak it in",
+          "translation": "sólo disfrútalo"
+        },
+        {
+          "word": "I swear I will turn a hose on you (parcialmente no literal)",
+          "translation": "te juro que te voy a rociar con la manguera"
+        },
+        {
+          "word": "Start a rumble (verbo)",
+          "translation": "armar un escándalo"
+        },
+        {
+          "word": "Your basic clean-cut good guys",
+          "translation": "los típicos chicos buenos, de aspecto pulcro"
+        },
+        {
+          "word": "Artwork",
+          "translation": "obra de arte"
+        },
+        {
+          "word": "Objectify (verbo)",
+          "translation": "cosificar"
+        },
+        {
+          "word": "I'm sweating my bald cap off",
+          "translation": "estoy sudando tanto que se me está cayendo la peluca"
+        },
+        {
+          "word": "Timer",
+          "translation": "temporizador"
+        },
+        {
+          "word": "I'll set the mood",
+          "translation": "crearé el ambiente"
+        },
+        {
+          "word": "A sign that assures passing motorists of our mental competence",
+          "translation": "un cartel que garantiza a los automovilistas que pasan por aquí que estamos en pleno uso de nuestras facultades mentales"
+        },
+        {
+          "word": "The story moved along at a brisk pace",
+          "translation": "la historia avanzaba a buen ritmo"
+        },
+        {
+          "word": "Beckoning",
+          "translation": "seductor"
+        },
+        {
+          "word": "Poached",
+          "translation": "escalfados"
+        },
+        {
+          "word": "It's not gonna de-funk my junk",
+          "translation": "eso no va a quitarle el mal olor a mis partes"
+        },
+        {
+          "word": "A little less bellyaching (frase no literal)",
+          "translation": "dejen de quejarse un poco"
+        },
+        {
+          "word": "Stranded",
+          "translation": "abandonado"
+        },
+        {
+          "word": "Unforgiving",
+          "translation": "implacable"
+        },
+        {
+          "word": "Wits",
+          "translation": "ingenio"
+        },
+        {
+          "word": "Moxie",
+          "translation": "coraje, determinación"
+        },
+        {
+          "word": "Beam up",
+          "translation": "teletransportar, transportar"
+        },
+        {
+          "word": "Suck on that (expresión)",
+          "translation": "toma eso"
+        }
+      ],
+      "count": 36,
+      "dialogues": 464,
+      "duration": 21
+    },
+    {
+      "code": "S06E14",
+      "name": "S06E14",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.13,
+        "senales": {
+          "vocabulario": 4.42,
+          "dialogos": 3.13,
+          "temas": 4.64
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.1,
+            "A2": 0.0,
+            "B1": 14.3,
+            "B2": 21.4,
+            "C1": 21.4,
+            "C2": 35.7
+          },
+          "densidad": 6.4
+        },
+        "dialogos": {
+          "cobertura95": 3.11,
+          "ppm": 156.7
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "I'm suckling at the informative bosom",
+          "translation": "me estoy alimentando del pecho informativo"
+        },
+        {
+          "word": "Neat (expresión)",
+          "translation": "genial"
+        },
+        {
+          "word": "A hush falls over the crowd",
+          "translation": "se hace el silencio entre la multitud"
+        },
+        {
+          "word": "Plug in (aparte de enchufar)",
+          "translation": "conectar"
+        },
+        {
+          "word": "That's hard cheese (frase no literal)",
+          "translation": "qué mala suerte"
+        },
+        {
+          "word": "Rarified",
+          "translation": "exclusivo"
+        },
+        {
+          "word": "Bloopers",
+          "translation": "tomas falsas/fallidas"
+        },
+        {
+          "word": "Despair",
+          "translation": "desesperación"
+        },
+        {
+          "word": "Cider",
+          "translation": "sidra"
+        },
+        {
+          "word": "Turnip truck",
+          "translation": "camión de nabos"
+        },
+        {
+          "word": "Zingers",
+          "translation": "pullas"
+        },
+        {
+          "word": "Cough it up (no literal)",
+          "translation": "suéltalo"
+        },
+        {
+          "word": "Dawg (informal)",
+          "translation": "amigo"
+        },
+        {
+          "word": "Hyphen",
+          "translation": "guión"
+        },
+        {
+          "word": "And his totally bitching dream house",
+          "translation": "y su casa de ensueño que es pura maravilla"
+        },
+        {
+          "word": "It's leaps and bounds ahead of mine (frase no literal)",
+          "translation": "está a años luz del mío"
+        },
+        {
+          "word": "Grouch",
+          "translation": "gruñón"
+        },
+        {
+          "word": "And taking jobs back from sweatshops",
+          "translation": "y recuperar los empleos de las fábricas que explotan a sus trabajadores"
+        },
+        {
+          "word": "25 centa a pop",
+          "translation": "25 centavos cada uno"
+        },
+        {
+          "word": "Buckle down",
+          "translation": "ponerse las pilas"
+        },
+        {
+          "word": "Mush together",
+          "translation": "mezclar"
+        },
+        {
+          "word": "Boy howdy (expresión)",
+          "translation": "¡vaya!, ¡caramba!"
+        },
+        {
+          "word": "Are you out of your mind?",
+          "translation": "¿Te has vuelto loco?, ¿Estás loco?"
+        },
+        {
+          "word": "Dawn (verbo no literal)",
+          "translation": "ocurrirse (a alguien de hablar algo)"
+        },
+        {
+          "word": "Whereas a ridiculous bald-faced lie",
+          "translation": "en cambio, una mentira descarada y ridícula"
+        },
+        {
+          "word": "Inventive",
+          "translation": "creativo, inventivo"
+        },
+        {
+          "word": "A proper jostling (parcialmente no literal)",
+          "translation": "un buen empujón"
+        },
+        {
+          "word": "Can you please make that out to Bernadette?",
+          "translation": "¿Podrías hacer el pago a nombre de Bernadette, por favor?"
+        }
+      ],
+      "count": 28,
+      "dialogues": 437,
+      "duration": 20
+    },
+    {
+      "code": "S06E15",
+      "name": "S06E15",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.27,
+        "senales": {
+          "vocabulario": 4.56,
+          "dialogos": 3.32,
+          "temas": 4.71
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.5,
+            "A2": 3.2,
+            "B1": 3.2,
+            "B2": 29.0,
+            "C1": 16.1,
+            "C2": 41.9
+          },
+          "densidad": 6.4
+        },
+        "dialogos": {
+          "cobertura95": 3.23,
+          "ppm": 162.5
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Hissy fits (no literal)",
+          "translation": "berrinches, rabietas"
+        },
+        {
+          "word": "Put up with",
+          "translation": "aguantar"
+        },
+        {
+          "word": "Dandruff medication",
+          "translation": "medicamento contra la caspa"
+        },
+        {
+          "word": "Leakage",
+          "translation": "pérdida"
+        },
+        {
+          "word": "To rebrand the stuff as a cure for constipation",
+          "translation": "para promocionar el producto como un remedio contra el estreñimiento"
+        },
+        {
+          "word": "Fudge",
+          "translation": "dulce de leche, manjar"
+        },
+        {
+          "word": "Check in on her",
+          "translation": "verla cómo está"
+        },
+        {
+          "word": "Hit a few hot spots (frase no literal)",
+          "translation": "visitar algunos lugares de interés"
+        },
+        {
+          "word": "Until you break down and give the bouncer (frase no literal)",
+          "translation": "hasta que te rindas y le des al portero"
+        },
+        {
+          "word": "His whopping boy, his stooge, his doormat",
+          "translation": "su chico de confianza, su títere, su felpudo"
+        },
+        {
+          "word": "Brisket",
+          "translation": "pecho"
+        },
+        {
+          "word": "Russian nesting dolls",
+          "translation": "muñecas rusas de matrioshka"
+        },
+        {
+          "word": "A little doggie bag (parcialmente no literal)",
+          "translation": "una bolsita para llevar las sobras"
+        },
+        {
+          "word": "Don't mind me",
+          "translation": "no me hagas caso"
+        },
+        {
+          "word": "When the mood struck him",
+          "translation": "cuando se le antojaba, cuando le diera la gana"
+        },
+        {
+          "word": "Sign on",
+          "translation": "firmar"
+        },
+        {
+          "word": "Abhorrent or rage-inducing",
+          "translation": "repugnante o que provoca ira"
+        },
+        {
+          "word": "Dust-up (sustantivo no literal)",
+          "translation": "altercado, encontronazo"
+        },
+        {
+          "word": "Much ado about nothing (frase no literal)",
+          "translation": "mucho ruido y pocas nueces"
+        },
+        {
+          "word": "Devil-may-care (no literal)",
+          "translation": "sin preocupaciones"
+        },
+        {
+          "word": "Lovable scamp",
+          "translation": "granuja adorable"
+        },
+        {
+          "word": "Love-in",
+          "translation": "reunión/fiesta del amor"
+        },
+        {
+          "word": "Lay out (en argumentación)",
+          "translation": "presentar, exponer"
+        },
+        {
+          "word": "Satin",
+          "translation": "satén"
+        },
+        {
+          "word": "Hangover",
+          "translation": "resaca"
+        },
+        {
+          "word": "Leg stubble",
+          "translation": "vello de piernas"
+        },
+        {
+          "word": "Wail",
+          "translation": "grito, lamento, gemido, quejido"
+        },
+        {
+          "word": "I ran you a bath",
+          "translation": "te prepare el/un baño"
+        },
+        {
+          "word": "Scripting a new outgoing voice mail message",
+          "translation": "crear un nuevo mensaje de correo de voz de salida mediante un script"
+        },
+        {
+          "word": "Dopey",
+          "translation": "tonto"
+        },
+        {
+          "word": "Don't get all fluffy",
+          "translation": "no te pongas tan sentimental"
+        }
+      ],
+      "count": 31,
+      "dialogues": 486,
+      "duration": 21
+    },
+    {
+      "code": "S06E16",
+      "name": "S06E16",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.69,
+        "senales": {
+          "vocabulario": 3.9,
+          "dialogos": 2.83,
+          "temas": 4.29
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.5,
+            "A2": 0.0,
+            "B1": 9.5,
+            "B2": 33.3,
+            "C1": 28.6,
+            "C2": 19.0
+          },
+          "densidad": 4.5
+        },
+        "dialogos": {
+          "cobertura95": 2.73,
+          "ppm": 162.9
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Busboy",
+          "translation": "ayudante de mesero"
+        },
+        {
+          "word": "Cranky",
+          "translation": "de mal humor"
+        },
+        {
+          "word": "I've got a lot in my plate (frase no literal)",
+          "translation": "tengo mucho de qué ocuparme"
+        },
+        {
+          "word": "Sharp",
+          "translation": "punzante, filoso"
+        },
+        {
+          "word": "White-knuckling",
+          "translation": "y aguantar con las manos crispadas"
+        },
+        {
+          "word": "Pass up",
+          "translation": "dejar pasar"
+        },
+        {
+          "word": "The darnedest things",
+          "translation": "las cosas más insólitas/increíbles"
+        },
+        {
+          "word": "I pulled an all-nighter",
+          "translation": "me pasé toda la noche en vela"
+        },
+        {
+          "word": "Read up",
+          "translation": "informarse"
+        },
+        {
+          "word": "Farm out",
+          "translation": "encargar algo"
+        },
+        {
+          "word": "Knock off",
+          "translation": "quitarse (una prenda)"
+        },
+        {
+          "word": "Bite me (expresión)",
+          "translation": "déjame en paz"
+        },
+        {
+          "word": "Turn them inside out",
+          "translation": "dales la vuelta"
+        },
+        {
+          "word": "Slip off",
+          "translation": "quitarse (una prenda)"
+        },
+        {
+          "word": "And just pile-drive you into oblivion",
+          "translation": "y simplemente te hundiré en el olvido"
+        },
+        {
+          "word": "That phony link-arm-drink thingy",
+          "translation": "esa tontería de enlazar los brazos y tomar algo"
+        },
+        {
+          "word": "That was pretty crappy of you",
+          "translation": "eso estuvo muy mal de tu parte"
+        },
+        {
+          "word": "Glaringly obvious (forma no literal)",
+          "translation": "es más que evidente"
+        },
+        {
+          "word": "I want to be swept off my feet (frase no literal)",
+          "translation": "quiero que me enamore perdidamente"
+        },
+        {
+          "word": "Beat (someone) up",
+          "translation": "castigarse"
+        },
+        {
+          "word": "Bump",
+          "translation": "bulto"
+        }
+      ],
+      "count": 21,
+      "dialogues": 466,
+      "duration": 21
+    },
+    {
+      "code": "S06E17",
+      "name": "S06E17",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.3,
+        "senales": {
+          "vocabulario": 3.41,
+          "dialogos": 2.85,
+          "temas": 3.57
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.3,
+            "A2": 14.3,
+            "B1": 14.3,
+            "B2": 25.0,
+            "C1": 21.4,
+            "C2": 10.7
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 2.89,
+          "ppm": 152.2
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "I've had it checked out",
+          "translation": "ya lo hice revisar"
+        },
+        {
+          "word": "My spot-on portrayal",
+          "translation": "mi interpretación perfecta"
+        },
+        {
+          "word": "They have been kept down by",
+          "translation": "se les ha mantenido oprimidos por"
+        },
+        {
+          "word": "For the flag novice",
+          "translation": "para los que se inician en el mundo de las banderas"
+        },
+        {
+          "word": "Within earshot",
+          "translation": "al alcance del oído"
+        },
+        {
+          "word": "All hunched",
+          "translation": "todo encorvado"
+        },
+        {
+          "word": "You're shutting the audience out",
+          "translation": "estás dejando afuera al público"
+        },
+        {
+          "word": "Spread your legs, invite them in",
+          "translation": "abre las piernas, invítalos a entrar"
+        },
+        {
+          "word": "It smells pretty ripe in here",
+          "translation": "aquí huele bastante a podrido"
+        },
+        {
+          "word": "Chop up",
+          "translation": "cortar en pedazos"
+        },
+        {
+          "word": "Overnight delivery",
+          "translation": "entrega al día siguiente"
+        },
+        {
+          "word": "You can throw in a copule steaks and have a surf and turf",
+          "translation": "puedes agregar un par de filetes y disfrutar de un plato de mar y tierra"
+        },
+        {
+          "word": "If they corn on the cob",
+          "translation": "si son mazorcas de maíz"
+        },
+        {
+          "word": "Flatworms",
+          "translation": "gusanos planos"
+        },
+        {
+          "word": "My acting class is putting on a play",
+          "translation": "mi clase de actuación va a presentar una obra de teatro Rope someone (verbo) convencer a alguien"
+        },
+        {
+          "word": "Dopey",
+          "translation": "tonto"
+        },
+        {
+          "word": "I've been itching to pull that trigger",
+          "translation": "me muero de ganas de apretar el gatillo"
+        },
+        {
+          "word": "Pointers (no alusivo a punteros)",
+          "translation": "recomendaciones, consejos"
+        },
+        {
+          "word": "Blow off (en relaciones)",
+          "translation": "dejar plantado, ignorar"
+        },
+        {
+          "word": "Run out (en relaciones)",
+          "translation": "dejar plantado"
+        },
+        {
+          "word": "Stray for",
+          "translation": "desviarse de"
+        },
+        {
+          "word": "Just set it down",
+          "translation": "simplemente déjalo ahí"
+        },
+        {
+          "word": "Run out (en sentido denotativo)",
+          "translation": "salir corriendo"
+        },
+        {
+          "word": "Pass on",
+          "translation": "fallecer"
+        },
+        {
+          "word": "Streetcar",
+          "translation": "tranvía"
+        },
+        {
+          "word": "A blinding light",
+          "translation": "una luz cegadora/deslumbrante"
+        },
+        {
+          "word": "Struck the world",
+          "translation": "impactó/conmovió al mundo"
+        },
+        {
+          "word": "Deluded",
+          "translation": "engañado, ingenuo"
+        }
+      ],
+      "count": 28,
+      "dialogues": 443,
+      "duration": 19
+    },
+    {
+      "code": "S06E18",
+      "name": "S06E18",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.44,
+        "senales": {
+          "vocabulario": 4.78,
+          "dialogos": 3.29,
+          "temas": 5.02
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.2,
+            "A2": 6.5,
+            "B1": 6.5,
+            "B2": 25.8,
+            "C1": 9.7,
+            "C2": 48.4
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 3.2,
+          "ppm": 162.3
+        },
+        "temas": [
+          "científica y técnica",
+          "médica y de salud"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Whine (verbo aparte de quejarse)",
+          "translation": "lloriquear"
+        },
+        {
+          "word": "We can just get it over with",
+          "translation": "podemos acabar de una vez esto"
+        },
+        {
+          "word": "Clam",
+          "translation": "almeja"
+        },
+        {
+          "word": "Warp drive",
+          "translation": "motor de propulsión"
+        },
+        {
+          "word": "Peer-review process",
+          "translation": "proceso de revisión por pares"
+        },
+        {
+          "word": "Slackers",
+          "translation": "vagos, holgazanes"
+        },
+        {
+          "word": "Nurse (verbo)",
+          "translation": "alimentar"
+        },
+        {
+          "word": "Outreach",
+          "translation": "divulgación"
+        },
+        {
+          "word": "Spark the interest (verbo)",
+          "translation": "despertar el interés"
+        },
+        {
+          "word": "Made fondue",
+          "translation": "fondue casero"
+        },
+        {
+          "word": "A killer first date (parcialmente no literal)",
+          "translation": "una primera cita que sea un éxito rotundo"
+        },
+        {
+          "word": "Seedy bar",
+          "translation": "bar de mala muerte"
+        },
+        {
+          "word": "Blow off work",
+          "translation": "falta al trabajo"
+        },
+        {
+          "word": "I've never played hooky in my life (frase no literal)",
+          "translation": "nunca he faltado a clases en mi vida"
+        },
+        {
+          "word": "Reefer",
+          "translation": "marihuana"
+        },
+        {
+          "word": "Such crippling",
+          "translation": "tan paralizante"
+        },
+        {
+          "word": "That's a toughie",
+          "translation": "esa sí que es muy difícil"
+        },
+        {
+          "word": "Scrawny",
+          "translation": "flacucho"
+        },
+        {
+          "word": "Scallop",
+          "translation": "ostión"
+        },
+        {
+          "word": "I'm gonna make a beeline for the place",
+          "translation": "voy a ir directo al lugar"
+        },
+        {
+          "word": "Makeover",
+          "translation": "cambio de imagen"
+        },
+        {
+          "word": "Beanstalk",
+          "translation": "tallo de frijol"
+        },
+        {
+          "word": "After I confided, I was derided and chided",
+          "translation": "después de contárselo, me burlaron y me regañaron"
+        },
+        {
+          "word": "My dreams were misguided",
+          "translation": "mis sueños estaban equivocados"
+        },
+        {
+          "word": "Check up (en salud)",
+          "translation": "chequeo médico"
+        },
+        {
+          "word": "To the pun-itentiary (traducción aproximada)",
+          "translation": "a la cárcel de los juegos de palabras"
+        },
+        {
+          "word": "That's a fitting punishment",
+          "translation": "ese es un castigo merecido"
+        },
+        {
+          "word": "Bumblebee",
+          "translation": "abejorro"
+        },
+        {
+          "word": "Pull (verbo en interruptores o botones)",
+          "translation": "activar, accionar"
+        },
+        {
+          "word": "Foreplay",
+          "translation": "juegos previos, preliminares"
+        },
+        {
+          "word": "Play hooky (verbo)",
+          "translation": "faltar a clases"
+        }
+      ],
+      "count": 31,
+      "dialogues": 406,
+      "duration": 20
+    },
+    {
+      "code": "S06E19",
+      "name": "S06E19",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.46,
+          "dialogos": 3.19,
+          "temas": 4.63
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.7,
+            "A2": 14.8,
+            "B1": 0.0,
+            "B2": 22.2,
+            "C1": 14.8,
+            "C2": 44.4
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 3.13,
+          "ppm": 159.4
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Get a handle (verbo)",
+          "translation": "poner orden"
+        },
+        {
+          "word": "A savant at organizing",
+          "translation": "un genio de la organización"
+        },
+        {
+          "word": "And got him takeout (frase no literal)",
+          "translation": "y le compré comida para llevar"
+        },
+        {
+          "word": "Takeout",
+          "translation": "comida para llevar"
+        },
+        {
+          "word": "Do you juggle these? (pregunta no literal)",
+          "translation": "¿Lo haces todos a la vez?"
+        },
+        {
+          "word": "The juggling pins",
+          "translation": "los pines de malabarismo"
+        },
+        {
+          "word": "Memorabilia",
+          "translation": "recuerdos"
+        },
+        {
+          "word": "Blech (expresión)",
+          "translation": "qué asco"
+        },
+        {
+          "word": "I've got that in spades (frase no literal)",
+          "translation": "de eso lo tengo de sobra"
+        },
+        {
+          "word": "I'm bound by closet organizer/organizee confidentiality",
+          "translation": "estoy sujeto al secreto profesional entre el organizador de armarios y la persona a la que se le organiza el armario"
+        },
+        {
+          "word": "Pawing at me",
+          "translation": "dándome pataditas"
+        },
+        {
+          "word": "By happenstance",
+          "translation": "por casualidad"
+        },
+        {
+          "word": "Put your mind at ease (frase no literal)",
+          "translation": "quédate tranquilo"
+        },
+        {
+          "word": "Turn-of-the-century",
+          "translation": "de principios de siglo"
+        },
+        {
+          "word": "Hors d'oeuvres (en francés)",
+          "translation": "aperitivos"
+        },
+        {
+          "word": "Crab puffs",
+          "translation": "bocadillos de cangrejo"
+        },
+        {
+          "word": "Golly (expresión)",
+          "translation": "vaya, caramba"
+        },
+        {
+          "word": "I was waylaid by Penny, Bernardette and Amy",
+          "translation": "Penny, Bernadette y Amy me detuvieron en el camino"
+        },
+        {
+          "word": "Badger (verbo)",
+          "translation": "insistir, presionar"
+        },
+        {
+          "word": "Everyone's on their game today (frase no literal)",
+          "translation": "hoy todos están en su mejor momento"
+        },
+        {
+          "word": "Run off",
+          "translation": "irse corriendo"
+        },
+        {
+          "word": "Cornrows",
+          "translation": "trenzas africanas"
+        },
+        {
+          "word": "That's completely poppycock",
+          "translation": "eso es una completa tontería"
+        },
+        {
+          "word": "Do you think it is matey?",
+          "translation": "¿Te parece que es de amigos?"
+        },
+        {
+          "word": "Saucy",
+          "translation": "picante"
+        },
+        {
+          "word": "Snippets",
+          "translation": "fragmentos"
+        },
+        {
+          "word": "Flats",
+          "translation": "zapatos planos"
+        },
+        {
+          "word": "Pierce (verbo)",
+          "translation": "perforar, penetrar"
+        }
+      ],
+      "count": 28,
+      "dialogues": 447,
+      "duration": 20
+    },
+    {
+      "code": "S06E20",
+      "name": "S06E20",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.97,
+        "senales": {
+          "vocabulario": 4.14,
+          "dialogos": 3.47,
+          "temas": 4.09
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 11.4,
+            "A2": 8.6,
+            "B1": 5.7,
+            "B2": 31.4,
+            "C1": 20.0,
+            "C2": 22.9
+          },
+          "densidad": 8.1
+        },
+        "dialogos": {
+          "cobertura95": 3.41,
+          "ppm": 159.4
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Caregiver",
+          "translation": "cuidador"
+        },
+        {
+          "word": "In lieu of",
+          "translation": "en lugar de"
+        },
+        {
+          "word": "Brine shrimp",
+          "translation": "artemia"
+        },
+        {
+          "word": "A puddle of goo",
+          "translation": "un charco de sustancia pegajosa"
+        },
+        {
+          "word": "A tenured position",
+          "translation": "un puesto de titularidad"
+        },
+        {
+          "word": "Tenure",
+          "translation": "permanencia"
+        },
+        {
+          "word": "You'll find it firmly lodged up the rectum of the tenure committee",
+          "translation": "lo encontrarás bien metido en el recto del comité de titularidad"
+        },
+        {
+          "word": "Go suck up",
+          "translation": "irse al carajo"
+        },
+        {
+          "word": "I'm not gonna stoop to playing politics",
+          "translation": "no voy a rebajarme a hacer política"
+        },
+        {
+          "word": "Get tenure",
+          "translation": "obtener la titularidad"
+        },
+        {
+          "word": "In the running",
+          "translation": "en la contienda/carrera/competencia"
+        },
+        {
+          "word": "Come with strings attached",
+          "translation": "venir con condiciones"
+        },
+        {
+          "word": "Insanely",
+          "translation": "increíblemente"
+        },
+        {
+          "word": "Newfound",
+          "translation": "recién adquirida"
+        },
+        {
+          "word": "Atop a bejeweled white elephant",
+          "translation": "A lomos de un elefante blanco adornado con joyas"
+        },
+        {
+          "word": "Schmooze (verbo)",
+          "translation": "halagar"
+        },
+        {
+          "word": "Cozy up",
+          "translation": "ponerse cómodo"
+        },
+        {
+          "word": "Ready to kick it up a notch? (pregunta no literal)",
+          "translation": "¿Listo para subir el nivel?"
+        },
+        {
+          "word": "Before I hit the weights",
+          "translation": "antes de que empiece a levantar pesas"
+        },
+        {
+          "word": "They are brown-nosing",
+          "translation": "están tratando de ganarse el favor de"
+        },
+        {
+          "word": "I was hoping for meerkats",
+          "translation": "esperaba ver suricatas"
+        },
+        {
+          "word": "Trimming Q-tips to fit your ears right",
+          "translation": "hay que recortar los palitos de algodón para que se adapten bien a tus oídos"
+        },
+        {
+          "word": "I'm well-versed in",
+          "translation": "tengo amplios conocimientos en"
+        },
+        {
+          "word": "Cut down (verbo en visitas)",
+          "translation": "reducir la frecuencia de visitas"
+        },
+        {
+          "word": "Cranky",
+          "translation": "de mal humor"
+        },
+        {
+          "word": "Get wrong",
+          "translation": "equivocarse"
+        },
+        {
+          "word": "Further (verbo)",
+          "translation": "impulsar"
+        },
+        {
+          "word": "Meerkat",
+          "translation": "suricata"
+        },
+        {
+          "word": "Bosom",
+          "translation": "seno, pecho"
+        },
+        {
+          "word": "Biguous",
+          "translation": "biguoso"
+        },
+        {
+          "word": "Talk some smack about",
+          "translation": "hablar mal de"
+        },
+        {
+          "word": "I would \"wove\" to baby-sit for you",
+          "translation": "me encantaría \"cuidarte\" a ti"
+        },
+        {
+          "word": "Off-putting",
+          "translation": "desagradable"
+        },
+        {
+          "word": "You guys are very accomplished",
+          "translation": "son muy talentosos"
+        },
+        {
+          "word": "Right on (expresión)",
+          "translation": "exacto, así es"
+        }
+      ],
+      "count": 35,
+      "dialogues": 434,
+      "duration": 19
+    },
+    {
+      "code": "S06E21",
+      "name": "S06E21",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.11,
+        "senales": {
+          "vocabulario": 4.27,
+          "dialogos": 3.48,
+          "temas": 4.48
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.0,
+            "A2": 8.0,
+            "B1": 4.0,
+            "B2": 28.0,
+            "C1": 12.0,
+            "C2": 40.0
+          },
+          "densidad": 5.9
+        },
+        "dialogos": {
+          "cobertura95": 3.29,
+          "ppm": 170.6
+        },
+        "temas": [
+          "deportiva"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Demerit",
+          "translation": "falta, infracción"
+        },
+        {
+          "word": "That was quite the cliffhanger",
+          "translation": "vaya, qué final de suspenso"
+        },
+        {
+          "word": "Cliffhanger",
+          "translation": "final de suspenso"
+        },
+        {
+          "word": "It’s creepy",
+          "translation": "es espeluznante, da miedo"
+        },
+        {
+          "word": "I think we were looking at creepy",
+          "translation": "creo que estábamos viendo algo espeluznante"
+        },
+        {
+          "word": "I cannot oversell this!",
+          "translation": "¡No puedo dejar de recomendarlo!"
+        },
+        {
+          "word": "You just put me through to the people",
+          "translation": "sólo pásame con esas personas"
+        },
+        {
+          "word": "Who was plumb concerned",
+          "translation": "quién estaba realmente preocupado"
+        },
+        {
+          "word": "Break down",
+          "translation": "derrumbarse, desmoronarse (emocionalmente)"
+        },
+        {
+          "word": "I struck her as a little feminine",
+          "translation": "me pareció un poco femenina"
+        },
+        {
+          "word": "Diminish (verbo)",
+          "translation": "menospreciar"
+        },
+        {
+          "word": "Little tushy",
+          "translation": "culito"
+        },
+        {
+          "word": "And had messed up teeth",
+          "translation": "y tenía los dientes desalineados"
+        },
+        {
+          "word": "Peel off my own face",
+          "translation": "quitarme la cara"
+        },
+        {
+          "word": "Pitch in",
+          "translation": "echar una mano, aportar"
+        },
+        {
+          "word": "Foreplay",
+          "translation": "juegos previos"
+        },
+        {
+          "word": "Slimming (adjetivo)",
+          "translation": "favorecedor"
+        },
+        {
+          "word": "I got to go be butch, toodles (frase informal no literal)",
+          "translation": "me tengo que ir a ser marimacho, adiós"
+        },
+        {
+          "word": "Box up",
+          "translation": "empacar, empaquetar"
+        },
+        {
+          "word": "Pork rinds",
+          "translation": "chicharrones"
+        },
+        {
+          "word": "Dip an apple in your face (parcialmente no literal)",
+          "translation": "meter una manzana en la cara"
+        },
+        {
+          "word": "A pretty balls-to-the-wall mosturizing regimen",
+          "translation": "un régimen de hidratación bastante intenso"
+        },
+        {
+          "word": "Stroke",
+          "translation": "infarto, derrame cerebral"
+        },
+        {
+          "word": "Sucker",
+          "translation": "tonto"
+        },
+        {
+          "word": "Oh, smashing (expresión)",
+          "translation": "oh, genial"
+        }
+      ],
+      "count": 25,
+      "dialogues": 421,
+      "duration": 20
+    },
+    {
+      "code": "S06E22",
+      "name": "S06E22",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.51,
+        "senales": {
+          "vocabulario": 3.68,
+          "dialogos": 2.77,
+          "temas": 4.08
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 23.5,
+            "A2": 8.8,
+            "B1": 5.9,
+            "B2": 23.5,
+            "C1": 14.7,
+            "C2": 23.5
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 2.89,
+          "ppm": 145.2
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Kennel",
+          "translation": "perrera"
+        },
+        {
+          "word": "To host that lame kids show",
+          "translation": "para presentar ese programa infantil tan aburrido"
+        },
+        {
+          "word": "You just got yourself uninvited",
+          "translation": "acabas de quedarte sin invitación"
+        },
+        {
+          "word": "Taciful",
+          "translation": "discreta"
+        },
+        {
+          "word": "If you use your noggin",
+          "translation": "si usas la cabeza"
+        },
+        {
+          "word": "Stroke",
+          "translation": "infarto, derrame cerebral"
+        },
+        {
+          "word": "Egg-white",
+          "translation": "clara/yema de huevo"
+        },
+        {
+          "word": "Veal chop",
+          "translation": "chuleta de ternera"
+        },
+        {
+          "word": "She’ll drink out of it",
+          "translation": "lo beberá de ahí"
+        },
+        {
+          "word": "I feel for you (frase no literal)",
+          "translation": "te comprendo"
+        },
+        {
+          "word": "Cufflinks",
+          "translation": "gemelos"
+        },
+        {
+          "word": "She really tickered herself out at the park",
+          "translation": "de verdad se cansó mucho en el parque"
+        },
+        {
+          "word": "She didn't wear out her tiny legs",
+          "translation": "no se le gastaron sus piernecitas"
+        },
+        {
+          "word": "Unless tornadoes were ripping apart (parcialmente no literal)",
+          "translation": "a menos que los tornados estuvieran arrasando"
+        },
+        {
+          "word": "The third floor landing",
+          "translation": "el relleno/pasillo del tercer piso"
+        },
+        {
+          "word": "I can get as close to you as I want",
+          "translation": "puedo acercarme a ti tanto como quiera"
+        },
+        {
+          "word": "You get bit a lot",
+          "translation": "te pican mucho"
+        },
+        {
+          "word": "Chop (en comida)",
+          "translation": "chuleta"
+        },
+        {
+          "word": "When this all blows over",
+          "translation": "cuando todo esto pase"
+        },
+        {
+          "word": "It's kind of a turn-on",
+          "translation": "es algo que me excita"
+        },
+        {
+          "word": "In the flask",
+          "translation": "en un instante"
+        },
+        {
+          "word": "It's gonna get sucked in",
+          "translation": "se lo va a tragar"
+        },
+        {
+          "word": "What has it ever gotten me? (pregunta no literal)",
+          "translation": "¿Qué me ha servido eso?"
+        },
+        {
+          "word": "Trick clock",
+          "translation": "reloj con truco"
+        },
+        {
+          "word": "Hobo",
+          "translation": "vagabundo"
+        },
+        {
+          "word": "They are standing on your shoulders",
+          "translation": "están apoyados en tus hombros"
+        },
+        {
+          "word": "Pacemaker",
+          "translation": "marcapasos"
+        },
+        {
+          "word": "Anything starchy",
+          "translation": "cualquier alimento con almidón"
+        },
+        {
+          "word": "Let's take you in for some tests",
+          "translation": "vamos a llevarte a que te hagan unos exámenes"
+        },
+        {
+          "word": "I get to ride in an ambulance",
+          "translation": "voy a poder viajar en una ambulancia"
+        },
+        {
+          "word": "The first one's always a throwaway",
+          "translation": "el primero siempre es para tirar"
+        },
+        {
+          "word": "Foo-foo little dogs",
+          "translation": "perritos monísimos/presumidos"
+        },
+        {
+          "word": "I don't feel up to it",
+          "translation": "no me siento con ganas de hacerlo"
+        },
+        {
+          "word": "You'd fill in for me",
+          "translation": "tú me sustituirías"
+        }
+      ],
+      "count": 34,
+      "dialogues": 448,
+      "duration": 21
+    },
+    {
+      "code": "S06E23",
+      "name": "S06E23",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.92,
+        "senales": {
+          "vocabulario": 4.22,
+          "dialogos": 3.1,
+          "temas": 4.11
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.2,
+            "A2": 7.9,
+            "B1": 7.9,
+            "B2": 23.7,
+            "C1": 21.1,
+            "C2": 26.3
+          },
+          "densidad": 8.5
+        },
+        "dialogos": {
+          "cobertura95": 3.18,
+          "ppm": 148.8
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Have a six-way (verbo)",
+          "translation": "hacer un trío de seis"
+        },
+        {
+          "word": "A sexy new tube top",
+          "translation": "un nuevo top sin tirantes muy sexy"
+        },
+        {
+          "word": "Polyhedral",
+          "translation": "polihédricos"
+        },
+        {
+          "word": "I've got my helm of lordly might",
+          "translation": "ya tengo mi yelmo del poder señorial"
+        },
+        {
+          "word": "Lay waste (verbo)",
+          "translation": "arrasar, devastar"
+        },
+        {
+          "word": "Daylight saving time",
+          "translation": "horario de verano"
+        },
+        {
+          "word": "An overgrown old forest",
+          "translation": "un bosque antiguo y cubierto de maleza"
+        },
+        {
+          "word": "You got pantsed",
+          "translation": "te bajaron los pantalones"
+        },
+        {
+          "word": "And nothing short of death (parcialmente no literal)",
+          "translation": "y nada menos que la muerte"
+        },
+        {
+          "word": "A spectral shape",
+          "translation": "una forma espectral"
+        },
+        {
+          "word": "Unless you find neediness sexy (parcialmente no literal)",
+          "translation": "a menos que te parezca sexy la dependencia"
+        },
+        {
+          "word": "Roll-on antiperspirant",
+          "translation": "desodorante en roll-on"
+        },
+        {
+          "word": "If sweat starts squirting out the top of my head",
+          "translation": "si el sudor empieza a brotarme por la coronilla"
+        },
+        {
+          "word": "I'm sorry to put you through that (parcialmente no literal)",
+          "translation": "lamento haberte hecho pasar por eso"
+        },
+        {
+          "word": "Those are both toughies",
+          "translation": "ambas son preguntas difíciles"
+        },
+        {
+          "word": "To see if it gives away",
+          "translation": "para ver si cede"
+        },
+        {
+          "word": "I got pulled out of line for a pat-down",
+          "translation": "me sacaron de la fila para hacerme un cacheo"
+        },
+        {
+          "word": "Get handsy",
+          "translation": "pasarse de la raya"
+        },
+        {
+          "word": "You're filled with shame and you got groped by a stranger",
+          "translation": "te sientes avergonzado y un desconocido te tocó de manera inapropiada"
+        },
+        {
+          "word": "Raj bailed",
+          "translation": "Raj se largó"
+        },
+        {
+          "word": "Impair (verbo no literal)",
+          "translation": "afectar negativamente, mermar"
+        },
+        {
+          "word": "Hulking ogres",
+          "translation": "ogros gigantescos"
+        },
+        {
+          "word": "I draw my broadsword (frase no literal)",
+          "translation": "desenvaino/desenfuno mi espada ancha"
+        },
+        {
+          "word": "I ready my quarter-stuff",
+          "translation": "prepare mis cosas para el trimestre"
+        },
+        {
+          "word": "Kind of funky",
+          "translation": "un poco raro"
+        },
+        {
+          "word": "She climbed out a bathroom window",
+          "translation": "se escapó por la ventana del baño"
+        },
+        {
+          "word": "It chips away at my masculinity",
+          "translation": "me va minando mi masculinidad"
+        },
+        {
+          "word": "I'm sweating out of my head",
+          "translation": "me está sudando la cabeza"
+        },
+        {
+          "word": "I have been through the emotional wringer tonight (parcialmente no literal)",
+          "translation": "esta noche he pasado por un auténtico torbellino emocional"
+        },
+        {
+          "word": "Fine-ass",
+          "translation": "de los grandes/mejores, de primera"
+        },
+        {
+          "word": "He's overcome with a desire to rip her armor off (parcialmente no literal)",
+          "translation": "le invade el deseo de arrancarle la armadura"
+        },
+        {
+          "word": "Gaze fondly",
+          "translation": "contemplar con ternura"
+        },
+        {
+          "word": "That was a wild ride",
+          "translation": "fue una aventura de locos"
+        },
+        {
+          "word": "If we didn't see that through (frase no literal)",
+          "translation": "si no lo hubiéramos llevado a cabo"
+        },
+        {
+          "word": "Pillage (verbo)",
+          "translation": "saquear"
+        },
+        {
+          "word": "I lead you to a secluded area",
+          "translation": "te llevo a un lugar apartado"
+        },
+        {
+          "word": "Caress (verbo)",
+          "translation": "acariciar"
+        },
+        {
+          "word": "Nibble (verbo)",
+          "translation": "mordisquear"
+        }
+      ],
+      "count": 38,
+      "dialogues": 448,
+      "duration": 21
+    },
+    {
+      "code": "S06E24",
+      "name": "S06E24",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.45,
+        "senales": {
+          "vocabulario": 3.6,
+          "dialogos": 2.79,
+          "temas": 3.96
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.0,
+            "A2": 8.7,
+            "B1": 4.3,
+            "B2": 34.8,
+            "C1": 21.7,
+            "C2": 17.4
+          },
+          "densidad": 4.8
+        },
+        "dialogos": {
+          "cobertura95": 2.62,
+          "ppm": 168.9
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Crewman",
+          "translation": "miembro de la tripulación"
+        },
+        {
+          "word": "Cater (verbo)",
+          "translation": "complacer, satisfacer"
+        },
+        {
+          "word": "I talked you up",
+          "translation": "te hablé muy bien"
+        },
+        {
+          "word": "Factoids",
+          "translation": "curiosidades"
+        },
+        {
+          "word": "How about you just dip your toe? (pregunta no literal)",
+          "translation": "¿Qué tal si te animas un poco?"
+        },
+        {
+          "word": "Roll overboard",
+          "translation": "caerse por la borda"
+        },
+        {
+          "word": "A proper send-off",
+          "translation": "una despedida como se debe"
+        },
+        {
+          "word": "Your flashy clothes and your Woody Allen swagger",
+          "translation": "tu ropa llamativa y tu estilo a lo Woody Allen"
+        },
+        {
+          "word": "I was the outsider to this group (forma no literal)",
+          "translation": "yo era el que no encajaba en este grupo"
+        },
+        {
+          "word": "Britches",
+          "translation": "pantalones"
+        },
+        {
+          "word": "We were both up for the same part",
+          "translation": "los dos estábamos interesados en el mismo papel"
+        },
+        {
+          "word": "Rip out",
+          "translation": "arrancarse"
+        },
+        {
+          "word": "One-to-one (en relaciones sociales)",
+          "translation": "cara a cara, en persona"
+        },
+        {
+          "word": "Perfect pitch",
+          "translation": "oído absoluto"
+        },
+        {
+          "word": "Glance (verbo)",
+          "translation": "mirar (de reojo)"
+        },
+        {
+          "word": "We’ve been made (frase no literal)",
+          "translation": "nos han descubierto"
+        },
+        {
+          "word": "Locket",
+          "translation": "medallón"
+        },
+        {
+          "word": "On clearance",
+          "translation": "en liquidación"
+        },
+        {
+          "word": "Cracked open",
+          "translation": "entreabierto"
+        },
+        {
+          "word": "I drove her away (no literal)",
+          "translation": "la eché, la alejé"
+        },
+        {
+          "word": "I'm unlovable",
+          "translation": "no soy digno de ser amado"
+        },
+        {
+          "word": "The booze",
+          "translation": "el alcohol"
+        },
+        {
+          "word": "I get where Lucy's coming from",
+          "translation": "entiendo el punto de vista de Lucy"
+        }
+      ],
+      "count": 23,
+      "dialogues": 482,
+      "duration": 20
+    },
+    {
+      "code": "S07E01",
+      "name": "S07E01",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.17,
+        "senales": {
+          "vocabulario": 4.47,
+          "dialogos": 3.24,
+          "temas": 4.49
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.1,
+            "A2": 0.0,
+            "B1": 21.5,
+            "B2": 27.6,
+            "C1": 16.3,
+            "C2": 31.6
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.25,
+          "ppm": 154.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "It's getting rough out here",
+          "translation": "la situación se está poniendo difícil por aquí"
+        },
+        {
+          "word": "Rumbling",
+          "translation": "retumbante"
+        },
+        {
+          "word": "Although you may have earthly woes, get your mind back on the stars",
+          "translation": "aunque tengas problemas terrenales, vuelve a enfocar tu mente hacia las estrellas"
+        },
+        {
+          "word": "Even the lowly dung beetle",
+          "translation": "incluso el humilde escarabajo de estiércol"
+        },
+        {
+          "word": "Plot its course",
+          "translation": "trazar su ruta"
+        },
+        {
+          "word": "Chicken pot pie",
+          "translation": "pastel de pollo"
+        },
+        {
+          "word": "Incoming post-docs",
+          "translation": "postdoctorados entrantes"
+        },
+        {
+          "word": "Garment bag",
+          "translation": "bolsa de ropa"
+        },
+        {
+          "word": "I've piqued your interest",
+          "translation": "he despertado tu interés"
+        },
+        {
+          "word": "Let's just get this stupid game over with",
+          "translation": "acabemos de una vez con este juego estúpido"
+        },
+        {
+          "word": "This one's gone all cattywampus",
+          "translation": "este se ha desajustado por completo"
+        },
+        {
+          "word": "Factual statements",
+          "translation": "afirmaciones objetivas"
+        },
+        {
+          "word": "Interspersed",
+          "translation": "entremezclado"
+        },
+        {
+          "word": "She's probably on the lookout",
+          "translation": "probablemente esté atenta"
+        },
+        {
+          "word": "Penguins get cheated on",
+          "translation": "a los pingüinos les son infieles"
+        },
+        {
+          "word": "Cingulate",
+          "translation": "cingulada"
+        },
+        {
+          "word": "They’re a drag (frase no literal)",
+          "translation": "son un rollo"
+        },
+        {
+          "word": "Gibbering (acotación)",
+          "translation": "balbuceando"
+        },
+        {
+          "word": "Whooping (acotación)",
+          "translation": "gritos"
+        },
+        {
+          "word": "Give up the goodies",
+          "translation": "renunciar a las delicias"
+        },
+        {
+          "word": "My sweet baboo",
+          "translation": "mi amorcito"
+        },
+        {
+          "word": "Can we please just let it go? (pregunta parcialmente no literal)",
+          "translation": "¿Podemos, por favor, dejarlo pasar?"
+        },
+        {
+          "word": "Stand-up guys (no literal)",
+          "translation": "gente de bien"
+        },
+        {
+          "word": "The throes of heartbreak",
+          "translation": "los tormentos de un desamor"
+        },
+        {
+          "word": "Underpants",
+          "translation": "calzoncillos, calzones"
+        },
+        {
+          "word": "A hearty handshake",
+          "translation": "un apretón de manos cordial"
+        },
+        {
+          "word": "Get mauled",
+          "translation": "ser atacado"
+        },
+        {
+          "word": "Sex-crazed gorilla",
+          "translation": "gorila en celo"
+        },
+        {
+          "word": "Score omelets (verbo no literal)",
+          "translation": "conseguir omelets"
+        },
+        {
+          "word": "If we were to have gone",
+          "translation": "si hubiéramos ido"
+        },
+        {
+          "word": "Goofy haircut",
+          "translation": "corte de pelo tan raro"
+        },
+        {
+          "word": "Kind of a loner",
+          "translation": "un poco solitario"
+        },
+        {
+          "word": "Your short sexed-up guy",
+          "translation": "tu chico bajito y sexy"
+        },
+        {
+          "word": "Futile",
+          "translation": "inútil, infructuoso"
+        }
+      ],
+      "count": 34,
+      "dialogues": 454,
+      "duration": 21
+    },
+    {
+      "code": "S07E02",
+      "name": "S07E02",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.19,
+        "senales": {
+          "vocabulario": 4.51,
+          "dialogos": 3.26,
+          "temas": 4.47
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.5,
+            "A2": 7.6,
+            "B1": 15.3,
+            "B2": 25.4,
+            "C1": 13.5,
+            "C2": 35.6
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.16,
+          "ppm": 162.7
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Jet stream",
+          "translation": "corriente en chorro"
+        },
+        {
+          "word": "Mealy",
+          "translation": "harinoso"
+        },
+        {
+          "word": "We'll hit the produce section for one last crazy blowout (frase no literal)",
+          "translation": "iremos a la sección de frutas y verduras para un último atracón loco"
+        },
+        {
+          "word": "Gag gift",
+          "translation": "regalo de broma"
+        },
+        {
+          "word": "Squirt gun",
+          "translation": "pistola de agua"
+        },
+        {
+          "word": "Shenanigans",
+          "translation": "travesuras"
+        },
+        {
+          "word": "I've kind of snippy lately",
+          "translation": "últimamente he estado un poco irritable"
+        },
+        {
+          "word": "I've put on a couple pounds (frase no literal)",
+          "translation": "he subido un par de libras"
+        },
+        {
+          "word": "That Butterball turkey was bound to come home to roost (frase no literal)",
+          "translation": "era inevitable que ese pavo Butterball acabara pasando factura"
+        },
+        {
+          "word": "Throw in",
+          "translation": "incluir"
+        },
+        {
+          "word": "Reenactment",
+          "translation": "recreación histórica"
+        },
+        {
+          "word": "Takeout containers (en restaurantes o comida)",
+          "translation": "envases para llevar"
+        },
+        {
+          "word": "I'm no stranger to enjoying",
+          "translation": "no es la primera vez que disfruto"
+        },
+        {
+          "word": "Go halfsies (verbo)",
+          "translation": "dividir a la mitad"
+        },
+        {
+          "word": "Rub her ointment",
+          "translation": "aplicarle la pomada"
+        },
+        {
+          "word": "Square footage",
+          "translation": "pies cuadrados"
+        },
+        {
+          "word": "Swollen",
+          "translation": "hinchado"
+        },
+        {
+          "word": "That's you've been all bloated and moody and a giant pain in the ass",
+          "translation": "es que has estado hinchada, de mal humor y has sido un verdadero dolor de cabeza"
+        },
+        {
+          "word": "Lucky guess (no literal)",
+          "translation": "una suposición acertada"
+        },
+        {
+          "word": "Unfaithful",
+          "translation": "infiel, desleal"
+        },
+        {
+          "word": "Her famously ravenous nether regions",
+          "translation": "sus famosas partes íntimas, de un apetito voraz"
+        },
+        {
+          "word": "Staring contest",
+          "translation": "concurso de miradas fijas"
+        },
+        {
+          "word": "I'm catching her in the act",
+          "translation": "la estoy pillando in fraganti"
+        },
+        {
+          "word": "You can't just barge in here",
+          "translation": "no puedes entrar aquí sin más"
+        },
+        {
+          "word": "To what extent (no literal)",
+          "translation": "hasta qué punto"
+        },
+        {
+          "word": "Let's not sugarcoat this (frase no literal)",
+          "translation": "no nos andemos con rodeos"
+        },
+        {
+          "word": "You find me finicky (forma no literal)",
+          "translation": "me consideras quisquilloso"
+        },
+        {
+          "word": "It's high time you and I address the \"tweepadock\" in the room",
+          "translation": "ya es hora de que tú y yo hablemos del «tweepadock» que hay en la sala"
+        },
+        {
+          "word": "It’s neat (expresión)",
+          "translation": "es genial"
+        },
+        {
+          "word": "Whoops (acotación)",
+          "translation": "gritos"
+        },
+        {
+          "word": "Lay off the donuts (frase no literal)",
+          "translation": "deja de comer donas"
+        },
+        {
+          "word": "Loganberry",
+          "translation": "mora de Logan"
+        },
+        {
+          "word": "I'm definitely up a cup size",
+          "translation": "definitivamente me ha subido una talla de copa"
+        },
+        {
+          "word": "Very perky",
+          "translation": "muy animado"
+        },
+        {
+          "word": "You are driving me and you find me a delight (frase no literal)",
+          "translation": "me estás volviendo loco y, al mismo tiempo, me pareces una delicia"
+        },
+        {
+          "word": "Keep it up?",
+          "translation": "¿Sigue así?"
+        },
+        {
+          "word": "Hold up the other four fingers",
+          "translation": "levantar los otros cuatro dedos"
+        },
+        {
+          "word": "You're the succubus who led his friend astray (traducción aproximada)",
+          "translation": "tú eres la súcubo que descarrió a su amigo"
+        },
+        {
+          "word": "Be crunched (verbo en ciencia de datos)",
+          "translation": "analizar"
+        },
+        {
+          "word": "Cap off (verbo frasal no literal en éxito)",
+          "translation": "cerrar con broche de oro"
+        }
+      ],
+      "count": 40,
+      "dialogues": 503,
+      "duration": 21
+    },
+    {
+      "code": "S07E03",
+      "name": "S07E03",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.44,
+        "senales": {
+          "vocabulario": 3.52,
+          "dialogos": 2.98,
+          "temas": 3.88
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 12.5,
+            "B1": 16.7,
+            "B2": 29.2,
+            "C1": 12.5,
+            "C2": 20.8
+          },
+          "densidad": 4.8
+        },
+        "dialogos": {
+          "cobertura95": 2.92,
+          "ppm": 160.2
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Couldn't help but notice none of you RSVP'd to",
+          "translation": "no pude evitar darme cuenta de que ninguno de ustedes confirmó su asistencia a"
+        },
+        {
+          "word": "A scavenger hunt (no literal)",
+          "translation": "búsqueda del tesoro"
+        },
+        {
+          "word": "Give away",
+          "translation": "ofrecer, regalar"
+        },
+        {
+          "word": "He's a born showman",
+          "translation": "es un showman nato"
+        },
+        {
+          "word": "Get a head start (no literal)",
+          "translation": "tomar la delantera"
+        },
+        {
+          "word": "A liability",
+          "translation": "un lastre"
+        },
+        {
+          "word": "Take them apart",
+          "translation": "desármalos"
+        },
+        {
+          "word": "Wolverine (sustantivo común)",
+          "translation": "glotón"
+        },
+        {
+          "word": "Numb nuts (despectivo)",
+          "translation": "loco, idiota"
+        },
+        {
+          "word": "Off the top of my head",
+          "translation": "así sin pensarlo mucho"
+        },
+        {
+          "word": "Ruse",
+          "translation": "truco, trampa, artimaña"
+        },
+        {
+          "word": "Your next puzzle is a riddle (frase no literal)",
+          "translation": "tu próximo acertijo es un enigma"
+        },
+        {
+          "word": "Riddle (verbo)",
+          "translation": "adivinar"
+        },
+        {
+          "word": "Legion-bound",
+          "translation": "destinado a la legión"
+        },
+        {
+          "word": "Riddle (sustantivo)",
+          "translation": "acertijo, adivinanza"
+        },
+        {
+          "word": "Leave no stone unturned",
+          "translation": "no dejes piedra sin remover"
+        },
+        {
+          "word": "Fun (verbo)",
+          "translation": "tomar el pelo"
+        },
+        {
+          "word": "Tar pits",
+          "translation": "pozos de alquitrán"
+        },
+        {
+          "word": "Slow down",
+          "translation": "reducir la velocidad"
+        },
+        {
+          "word": "Ninny (despectivo)",
+          "translation": "tonto"
+        },
+        {
+          "word": "I'm still gonna beat your ass (frase no literal)",
+          "translation": "de todos modos te voy a dar una paliza"
+        },
+        {
+          "word": "I slipped them in there",
+          "translation": "los metí ahí"
+        },
+        {
+          "word": "You suck so hard (frase no literal)",
+          "translation": "eres un desastre"
+        },
+        {
+          "word": "Puzzle (aparte de rompecabezas)",
+          "translation": "acertijo"
+        }
+      ],
+      "count": 24,
+      "dialogues": 504,
+      "duration": 21
+    },
+    {
+      "code": "S07E04",
+      "name": "S07E04",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.57,
+        "senales": {
+          "vocabulario": 3.76,
+          "dialogos": 2.96,
+          "temas": 3.8
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.3,
+            "A2": 5.7,
+            "B1": 20.0,
+            "B2": 22.9,
+            "C1": 20.0,
+            "C2": 17.1
+          },
+          "densidad": 7.3
+        },
+        "dialogos": {
+          "cobertura95": 2.85,
+          "ppm": 164.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Glaring",
+          "translation": "evidente"
+        },
+        {
+          "word": "What a dewy-eyed moon-calf you are (frase no literal)",
+          "translation": "qué ingenuo eres"
+        },
+        {
+          "word": "Story (aparte de historia)",
+          "translation": "trama"
+        },
+        {
+          "word": "Potty training",
+          "translation": "entrenamiento para ir al baño"
+        },
+        {
+          "word": "I favored the left one",
+          "translation": "me gusto más el de la izquierda"
+        },
+        {
+          "word": "She got a little lopsided",
+          "translation": "se le quedó un poco torcido"
+        },
+        {
+          "word": "To keep my muscles from sagging!",
+          "translation": "¡Eso era para evitar que se me cayieran los músculos!"
+        },
+        {
+          "word": "Check-plus (en calificaciones)",
+          "translation": "bien"
+        },
+        {
+          "word": "I wanted to smash my way out of that house",
+          "translation": "quería salir de esa casa a la fuerza"
+        },
+        {
+          "word": "Stage (verbo en eventos)",
+          "translation": "organizar"
+        },
+        {
+          "word": "Don't make a big deal out of it (frase no literal)",
+          "translation": "no le des tanta importancia"
+        },
+        {
+          "word": "Turn away, and then turn back into it",
+          "translation": "aléjate y luego vuelve a meterte en eso"
+        },
+        {
+          "word": "I put unobjectionable (frase no literal)",
+          "translation": "escribí no hay nada que objetar"
+        },
+        {
+          "word": "I'm being cocky (parcialmente no literal)",
+          "translation": "me estoy volviendo arrogante"
+        },
+        {
+          "word": "Feature",
+          "translation": "cualidad"
+        },
+        {
+          "word": "You're being too hard with yourself (forma no literal)",
+          "translation": "te estás exigiendo demasiado"
+        },
+        {
+          "word": "You're well-endowed",
+          "translation": "eres muy bien dotado"
+        },
+        {
+          "word": "Oddly",
+          "translation": "extrañamente"
+        },
+        {
+          "word": "Fondness",
+          "translation": "afición, gusto"
+        },
+        {
+          "word": "That thing's riddled with plot holes (frase no literal)",
+          "translation": "esa historia está llena de incongruencias"
+        },
+        {
+          "word": "Anything she's fond of",
+          "translation": "cualquier cosa que le guste"
+        },
+        {
+          "word": "You hang in there today (frase no literal)",
+          "translation": "ánimo hoy"
+        },
+        {
+          "word": "Curly fry",
+          "translation": "papa frita rizada"
+        },
+        {
+          "word": "Slip you a mickey (frase no literal)",
+          "translation": "echarte algo en la bebida"
+        },
+        {
+          "word": "What a rube",
+          "translation": "qué paleto/tonto"
+        },
+        {
+          "word": "Increasingly (adverbio)",
+          "translation": "cada vez más"
+        },
+        {
+          "word": "Milk (verbo)",
+          "translation": "ordeñar"
+        },
+        {
+          "word": "That tangy bowl",
+          "translation": "ese tazón con sabor ácido"
+        },
+        {
+          "word": "Stitches",
+          "translation": "puntos de sutura"
+        },
+        {
+          "word": "Squat on",
+          "translation": "ocupar ilegalmente"
+        },
+        {
+          "word": "Preposterous",
+          "translation": "absurdo, ridículo"
+        },
+        {
+          "word": "I was swatting his bottom",
+          "translation": "le estaba dando palmadas en el trasero"
+        },
+        {
+          "word": "Paddle (en tenis de mesa)",
+          "translation": "raqueta, paleta"
+        },
+        {
+          "word": "Warehouse",
+          "translation": "bodega, almacén, depósito"
+        },
+        {
+          "word": "For filing",
+          "translation": "para su presentación"
+        }
+      ],
+      "count": 35,
+      "dialogues": 482,
+      "duration": 21
+    },
+    {
+      "code": "S07E05",
+      "name": "S07E05",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.24,
+        "senales": {
+          "vocabulario": 4.61,
+          "dialogos": 3.28,
+          "temas": 4.36
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.8,
+            "A2": 4.8,
+            "B1": 7.1,
+            "B2": 42.9,
+            "C1": 14.3,
+            "C2": 26.2
+          },
+          "densidad": 9.6
+        },
+        "dialogos": {
+          "cobertura95": 3.19,
+          "ppm": 162.6
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Steamier (adjetivo comparativo)",
+          "translation": "más sensual"
+        },
+        {
+          "word": "I'm just browsing cuticle scissors",
+          "translation": "solo estoy viendo unas tijeras para cutículas"
+        },
+        {
+          "word": "Cuticle scissors",
+          "translation": "tijeras para cutículas"
+        },
+        {
+          "word": "Carpool (verbo)",
+          "translation": "compartir el auto"
+        },
+        {
+          "word": "Adage",
+          "translation": "dicho"
+        },
+        {
+          "word": "Pap smear",
+          "translation": "prueba de Papanicolaou"
+        },
+        {
+          "word": "My top-notch idea",
+          "translation": "mi idea genial"
+        },
+        {
+          "word": "Monoamine oxidase enzyme",
+          "translation": "enzima monoaminooxidasa"
+        },
+        {
+          "word": "With his significant other (frase no literal)",
+          "translation": "con su pareja"
+        },
+        {
+          "word": "Mind-numbingly tedious",
+          "translation": "aburrido hasta el hartazgo"
+        },
+        {
+          "word": "Keep it short",
+          "translation": "sé breve"
+        },
+        {
+          "word": "I scare the living crap out of",
+          "translation": "les meto un miedo de muerte a"
+        },
+        {
+          "word": "Your mothlike personality",
+          "translation": "tu personalidad parecida a la de una polilla"
+        },
+        {
+          "word": "Blazing fire",
+          "translation": "fuego ardiente"
+        },
+        {
+          "word": "A dead giveaway",
+          "translation": "una señal inequívoca"
+        },
+        {
+          "word": "Doofus",
+          "translation": "tonto"
+        },
+        {
+          "word": "Cookie dough",
+          "translation": "masa para galletas"
+        },
+        {
+          "word": "Icy",
+          "translation": "frío"
+        },
+        {
+          "word": "Braid (verbo)",
+          "translation": "trenzar, hacer trenzas"
+        },
+        {
+          "word": "At the cool table",
+          "translation": "en la mesa de los geniales"
+        },
+        {
+          "word": "On the off chance that",
+          "translation": "en el caso de que"
+        },
+        {
+          "word": "You always fill up on chips",
+          "translation": "siempre te llenas de papas fritas"
+        },
+        {
+          "word": "Lump of wool",
+          "translation": "motón de lana"
+        },
+        {
+          "word": "Shin",
+          "translation": "espinilla"
+        },
+        {
+          "word": "Sousaphone",
+          "translation": "sousafón"
+        },
+        {
+          "word": "Let's kick things up a notch (frase no literal)",
+          "translation": "vamos a subir un poco el nivel"
+        },
+        {
+          "word": "With a mouthful of",
+          "translation": "con la boca llena de"
+        },
+        {
+          "word": "Baseline fear levels",
+          "translation": "niveles de miedo de referencia"
+        },
+        {
+          "word": "Goof off",
+          "translation": "holgazanear, hacer tonterías"
+        },
+        {
+          "word": "What tipped you off? (pregunta no literal)",
+          "translation": "¿Qué te hizo sospechar?"
+        },
+        {
+          "word": "A tiger may have run across her shadow",
+          "translation": "es posible que un tigre se haya cruzado con su sombra"
+        },
+        {
+          "word": "Drum up business (verbo no literal)",
+          "translation": "atraer clients"
+        },
+        {
+          "word": "Muster (verbo)",
+          "translation": "reunir"
+        },
+        {
+          "word": "I just go through them like candy (frase no literal)",
+          "translation": "me las como como si fueran dulces"
+        },
+        {
+          "word": "I pooped out a stick of chalk",
+          "translation": "me salió una tiza por el trasero"
+        },
+        {
+          "word": "I'm turning over a new leaf (frase no literal)",
+          "translation": "voy a empezar de cero"
+        },
+        {
+          "word": "I had one heck of a bus nap",
+          "translation": "me eché una siesta de las buenas en el bus"
+        },
+        {
+          "word": "Who can strike some people as being kind of a weirdo",
+          "translation": "a quien algunas personas pueden percibir como un poco raro"
+        },
+        {
+          "word": "There's no telling what will set you off (parcialmente no literal)",
+          "translation": "no se sabe qué es lo que te va a hacer perder los estribos"
+        },
+        {
+          "word": "Quirks",
+          "translation": "peculiaridades, rarezas"
+        },
+        {
+          "word": "Put up with your nonsense",
+          "translation": "aguantar tus tonterías"
+        },
+        {
+          "word": "He's gonna sit the guys down and set them straight (parcialmente no literal)",
+          "translation": "va a reunir a los muchachos para ponerles las cosas en claro"
+        }
+      ],
+      "count": 42,
+      "dialogues": 436,
+      "duration": 19
+    },
+    {
+      "code": "S07E06",
+      "name": "S07E06",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.12,
+        "senales": {
+          "vocabulario": 4.35,
+          "dialogos": 3.26,
+          "temas": 4.61
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.8,
+            "A2": 5.2,
+            "B1": 8.6,
+            "B2": 28.7,
+            "C1": 26.1,
+            "C2": 23.5
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.12,
+          "ppm": 166.3
+        },
+        "temas": [
+          "científica y técnica"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "In the zone (frase no literal)",
+          "translation": "estoy concentrado"
+        },
+        {
+          "word": "Somebody call the burn ward (parcialmente no literal)",
+          "translation": "que alguien llame a urgencias"
+        },
+        {
+          "word": "That rocking chair",
+          "translation": "esa mecedora"
+        },
+        {
+          "word": "I'm gonna romance your freaking ass off (frase no literal)",
+          "translation": "te voy a llenar de mimos hasta que no puedas más"
+        },
+        {
+          "word": "I know you're in the zone (frase no literal)",
+          "translation": "sé que estás muy concentrado"
+        },
+        {
+          "word": "Be humbled",
+          "translation": "sentirte humilde"
+        },
+        {
+          "word": "And covered in goop",
+          "translation": "y cubierto de una sustancia pegajosa"
+        },
+        {
+          "word": "I'd be happy to shred it on my ax (frase no literal)",
+          "translation": "me encantaría tocarla con mi guitarra"
+        },
+        {
+          "word": "Hoist someone (verbo)",
+          "translation": "levantar a alguien"
+        },
+        {
+          "word": "Please refrain",
+          "translation": "por favor no lo hagas"
+        },
+        {
+          "word": "Motion sickness",
+          "translation": "mareo por movimiento"
+        },
+        {
+          "word": "Buttocks",
+          "translation": "nalgas"
+        },
+        {
+          "word": "Quiver",
+          "translation": "carcaj, aljaba"
+        },
+        {
+          "word": "He's kind of a picky eater",
+          "translation": "es un poco quisquilloso con la comida"
+        },
+        {
+          "word": "What else would sweep you off your feet? (pregunta no literal)",
+          "translation": "¿Qué más te dejaría sin aliento?"
+        },
+        {
+          "word": "Boom box",
+          "translation": "equipo de música portátil"
+        },
+        {
+          "word": "Mole",
+          "translation": "lunar"
+        },
+        {
+          "word": "Which is holding steady",
+          "translation": "que se mantiene estable"
+        },
+        {
+          "word": "This is the very copy of",
+          "translation": "esta es la copia exacta de"
+        },
+        {
+          "word": "Mendelevium",
+          "translation": "mendelevio"
+        },
+        {
+          "word": "I was off by a factor",
+          "translation": "me equivoque por un factor"
+        },
+        {
+          "word": "Groundbreaking",
+          "translation": "revolucionario"
+        },
+        {
+          "word": "Blunder",
+          "translation": "error garrafal"
+        },
+        {
+          "word": "I could bust out a little rap",
+          "translation": "podría soltar un rapcito"
+        },
+        {
+          "word": "So-called",
+          "translation": "supuesto"
+        },
+        {
+          "word": "A boneheaded mistake",
+          "translation": "un error garrafal/de novato"
+        },
+        {
+          "word": "Tune (verbo en instrumentos musicales)",
+          "translation": "afinar"
+        },
+        {
+          "word": "I hate to pile on the bad news (parcialmente no literal)",
+          "translation": "no me gusta tener que sumar más malas noticias"
+        },
+        {
+          "word": "Vials",
+          "translation": "frascos"
+        },
+        {
+          "word": "I'd be trhowing up out of my eyeballs by now",
+          "translation": "a estas alturas ya estaría vomitando por los ojos"
+        },
+        {
+          "word": "Cherry tune",
+          "translation": "melodía alegre"
+        },
+        {
+          "word": "Wick (en velas)",
+          "translation": "mecha"
+        },
+        {
+          "word": "Choked up (acotación)",
+          "translation": "con la voz entrecortada"
+        },
+        {
+          "word": "Dreary",
+          "translation": "aburrido"
+        },
+        {
+          "word": "A cathode ray tube",
+          "translation": "un tubo de rayos catódicos"
+        },
+        {
+          "word": "You turned my world around",
+          "translation": "tú cambiaste mi mundo por completo (literal), me cambiaste la vida por completo (no literal)"
+        },
+        {
+          "word": "Shockingly",
+          "translation": "sorprendentemente"
+        },
+        {
+          "word": "You really are pulling out all the stops (frase no literal)",
+          "translation": "de verdad que estás haciendo todo lo posible"
+        },
+        {
+          "word": "Hitchhiker's guide to the galaxy",
+          "translation": "la guía del autoestopista galáctico"
+        }
+      ],
+      "count": 39,
+      "dialogues": 488,
+      "duration": 21
     }
   ],
-  "count": 4544,
-  "dialogues": 43158,
-  "duration": 2291
+  "count": 5506,
+  "dialogues": 56845,
+  "duration": 2907
 }

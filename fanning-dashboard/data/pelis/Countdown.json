@@ -1,0 +1,295 @@
+{
+  "title": "Countdown",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.58,
+    "senales": {
+      "vocabulario": 3.6,
+      "dialogos": 3.31,
+      "temas": 3.95
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.6,
+        "A2": 3.4,
+        "B1": 12.4,
+        "B2": 35.7,
+        "C1": 15.3,
+        "C2": 19.7
+      },
+      "densidad": 4.8
+    },
+    "dialogos": {
+      "cobertura95": 3.1,
+      "ppm": 172.0
+    },
+    "temas": [
+      "religión y lo sobrenatural",
+      "médica y de salud"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Quinn, una joven enfermera, descarga una aplicación para el móvil llamada 'Countdown', que puede predecir el momento exacto en el que una persona va a morir. En ese momento descubre que a ella sólo le quedan tres días de vida. Con el tiempo jugando en su contra y tras ser perseguida por una persona desconocida, tratará desesperadamente de burlar al destino antes de que se le agote el tiempo.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+      "https://image.tmdb.org/t/p/w780/zETkzgle7c6wAeW11snnVUBp67S.jpg",
+      "https://image.tmdb.org/t/p/w780/vb9luxoqiCogWxyeZoveTANa8P6.jpg",
+      "https://image.tmdb.org/t/p/w780/hzL2P0tcU62A6JHPhprI8ZyBI73.jpg",
+      "https://image.tmdb.org/t/p/w780/ffPSaDEV3AvrhlWBkAcsOCt52eW.jpg",
+      "https://image.tmdb.org/t/p/w780/4NIcyBjlILPIMnWNrGCSia12Gsa.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+  "vocabulary": [
+    {
+      "word": "That's creepy",
+      "translation": "eso da miedo"
+    },
+    {
+      "word": "I’m so down (en sentido no desalentador)",
+      "translation": "me encanta la idea"
+    },
+    {
+      "word": "Don’t be such a little beyotch",
+      "translation": "no seas tan quejumbroso"
+    },
+    {
+      "word": "Drink up",
+      "translation": "beber"
+    },
+    {
+      "word": "Lighten up (frase)",
+      "translation": "tómate las cosas con calma"
+    },
+    {
+      "word": "You’re wasted",
+      "translation": "estás ebrio/borracho"
+    },
+    {
+      "word": "Intern",
+      "translation": "pasante, becario"
+    },
+    {
+      "word": "Psycho",
+      "translation": "loco"
+    },
+    {
+      "word": "Dangle the word (verbo)",
+      "translation": "mencionar la palabra"
+    },
+    {
+      "word": "Cases",
+      "translation": "cajas"
+    },
+    {
+      "word": "Operating Room Kit (OPRK)",
+      "translation": "kit de quirófano"
+    },
+    {
+      "word": "But rain check (frase no literal)",
+      "translation": "pero lo dejaremos para otra ocasión"
+    },
+    {
+      "word": "Gonna hold you to that (frase no literal)",
+      "translation": "te voy a tomar la palabra con eso de"
+    },
+    {
+      "word": "I'm actually headed out (frase no literal)",
+      "translation": "de hecho ya me voy"
+    },
+    {
+      "word": "No freaking way",
+      "translation": "ni de chiste, ni en sueños"
+    },
+    {
+      "word": "Crutch",
+      "translation": "muletas"
+    },
+    {
+      "word": "Stairwell",
+      "translation": "escalera"
+    },
+    {
+      "word": "Crew up",
+      "translation": "formar un equipo"
+    },
+    {
+      "word": "Overtime",
+      "translation": "horario extra"
+    },
+    {
+      "word": "When you're on the clock (parcialmente no literal)",
+      "translation": "cuando estás trabajando"
+    },
+    {
+      "word": "Registered Nurse (RN) (parcialmente no literal)",
+      "translation": "enfermera graduada"
+    },
+    {
+      "word": "Driven (adjetivo)",
+      "translation": "persona con iniciativa"
+    },
+    {
+      "word": "I gushed about you",
+      "translation": "te alabé un montón"
+    },
+    {
+      "word": "Tease (sustantivo)",
+      "translation": "provocación"
+    },
+    {
+      "word": "It's toying with me and it's playing with me (frase no literal)",
+      "translation": "me está tomando el pelo y se está burlando de mí"
+    },
+    {
+      "word": "It's feeding off of my tears",
+      "translation": "se está alimentando de mis lágrimas"
+    },
+    {
+      "word": "Get evicted",
+      "translation": "ser desalojado"
+    },
+    {
+      "word": "You always put it down with such grace? (pregunta no literal)",
+      "translation": "¿Siempre lo colocas con tanta elegancia?"
+    },
+    {
+      "word": "Stick around",
+      "translation": "quedarse por acá"
+    },
+    {
+      "word": "I’m all sorts of crazy",
+      "translation": "estoy completamente loca"
+    },
+    {
+      "word": "Fender bender",
+      "translation": "choque leve"
+    },
+    {
+      "word": "Come clean (verbo no literal)",
+      "translation": "confesar"
+    },
+    {
+      "word": "Corner (verbo)",
+      "translation": "acorralar"
+    },
+    {
+      "word": "Be addresed",
+      "translation": "abordar este tema"
+    },
+    {
+      "word": "Cautious",
+      "translation": "cauteloso"
+    },
+    {
+      "word": "I don't get a say in this?",
+      "translation": "¿No tengo voz ni voto en esto?"
+    },
+    {
+      "word": "He beat me to it",
+      "translation": "él se me adelantó"
+    },
+    {
+      "word": "Don’t you be a meanie",
+      "translation": "no seas tan malo"
+    },
+    {
+      "word": "Why you tryna keep me teeny?",
+      "translation": "¿Por qué intentas mantenerme chiquitito?"
+    },
+    {
+      "word": "That's kind of what got me into the cloth",
+      "translation": "en realidad, eso fue lo que me llevó a usar pañales de tela"
+    },
+    {
+      "word": "Apocrypha",
+      "translation": "apócrifo"
+    },
+    {
+      "word": "Be geeking out",
+      "translation": "parecer un friki"
+    },
+    {
+      "word": "Like brink-of-death old",
+      "translation": "como un anciano al borde de la muerte"
+    },
+    {
+      "word": "He tracks down this old gypsy woman",
+      "translation": "encuentra a esa anciana gitana"
+    },
+    {
+      "word": "Gypsy woman",
+      "translation": "anciana gitana"
+    },
+    {
+      "word": "Pique my interest (verbo)",
+      "translation": "despegar mi interés"
+    },
+    {
+      "word": "Gig (en espectáculos)",
+      "translation": "concierto"
+    },
+    {
+      "word": "Hoc maledictum te (en latín)",
+      "translation": "esta maldición que recae sobre ti"
+    },
+    {
+      "word": "Outlive (verbo)",
+      "translation": "sobrevivir"
+    },
+    {
+      "word": "Compel (verbo en algunos contextos)",
+      "translation": "impulsar"
+    },
+    {
+      "word": "Driver",
+      "translation": "conductor"
+    },
+    {
+      "word": "Utterly",
+      "translation": "completamente, por completo"
+    },
+    {
+      "word": "Your might",
+      "translation": "tu fuerza"
+    },
+    {
+      "word": "Electronic blaring (acotación)",
+      "translation": "ruido electrónico ensordecedor"
+    },
+    {
+      "word": "Puncture",
+      "translation": "punción"
+    },
+    {
+      "word": "We'll get her right in",
+      "translation": "la atenderemos de inmediato"
+    },
+    {
+      "word": "You rapey fuck",
+      "translation": "maldito violador de mierda"
+    },
+    {
+      "word": "Come forward with",
+      "translation": "pronunciarse sobre"
+    },
+    {
+      "word": "We killed it (frase no literal)",
+      "translation": "lo hicimos muy bien"
+    },
+    {
+      "word": "Tutting (acotación)",
+      "translation": "chasqueando la lengua"
+    },
+    {
+      "word": "Ticks rapidly (acotación)",
+      "translation": "marca rápidamente"
+    }
+  ],
+  "count": 61,
+  "dialogues": 1259,
+  "duration": 90
+}

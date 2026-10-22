@@ -1,22 +1,22 @@
 {
   "title": "Blacklight",
-  "level": "B2",
+  "level": "B1-B2",
   "levelDetail": {
-    "nivel": "B2",
-    "puntaje": 3.65,
+    "nivel": "B1-B2",
+    "puntaje": 3.64,
     "senales": {
-      "vocabulario": 3.88,
+      "vocabulario": 3.86,
       "dialogos": 2.98,
-      "temas": 3.88
+      "temas": 3.87
     },
     "vocabulario": {
       "distribucion": {
         "A1": 8.6,
         "A2": 11.7,
         "B1": 15.8,
-        "B2": 27.3,
+        "B2": 28.1,
         "C1": 20.3,
-        "C2": 16.4
+        "C2": 15.6
       },
       "densidad": 7.6
     },
@@ -46,7 +46,7 @@
   "vocabulary": [
     {
       "word": "Recovering economy",
-      "translation": "economía en recupaeración"
+      "translation": "economía en recuperación"
     },
     {
       "word": "The rising stock market",
@@ -277,7 +277,7 @@
       "translation": "en apuros"
     },
     {
-      "word": "She spare him the embarrasment",
+      "word": "She spare him the embarrassment",
       "translation": "ella le ahorró/evitó la vergüenza"
     },
     {

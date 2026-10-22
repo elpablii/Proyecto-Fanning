@@ -1,0 +1,54 @@
+{
+  "titulo": "The Twilight Saga I",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 122,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 8966
+  },
+  "estreno": "2008-11-20",
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Romance"
+  ],
+  "analisis": "",
+  "sinopsis": "La joven Bella Swan (Kristen Stewart) siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen (Robert Pattinson), un joven distinto a los demás que esconde un secreto.",
+  "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "https://image.tmdb.org/t/p/w780/hHxHlynxgPN9pxIQYI1IlvqhDf8.jpg",
+    "https://image.tmdb.org/t/p/w780/phkAdhSX5wsrGTMNrvRaH50iRcM.jpg",
+    "https://image.tmdb.org/t/p/w780/mfFhgR9ILPWbYtvbdyAGUo6fbpT.jpg",
+    "https://image.tmdb.org/t/p/w780/rFPCgN6TIHLMXDOeaUhzZZD6i9H.jpg",
+    "https://image.tmdb.org/t/p/w780/7eK8FJr4fqq3J5W2xvlr2GVaep2.jpg"
+  ],
+  "realeza": {
+    "Hayley Williams": [
+      "musica"
+    ],
+    "Kristen Stewart": [
+      "actua"
+    ],
+    "Peter Facinelli": [
+      "actua"
+    ],
+    "Robert Pattinson": [
+      "actua",
+      "musica"
+    ],
+    "Taylor Lautner": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Twilight Saga I (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Twilight Saga I to improve the vocabulary in English.pdf"
+    ]
+  }
+}

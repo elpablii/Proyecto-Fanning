@@ -1,0 +1,39 @@
+{
+  "titulo": "Lost Girls",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 95,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 567970
+  },
+  "estreno": "2020-01-28",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Suspenso",
+    "Historia"
+  ],
+  "analisis": "",
+  "sinopsis": "Cuando la hija de Mari Gilbert desaparece, la inacción policial lleva a que sea ella quien comience una investigación particular en la isla de Long Island en la que Shannan fue vista por última vez. Su búsqueda saca a la luz más de una docena de trabajadoras sexuales que han sido asesinadas",
+  "poster": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+    "https://image.tmdb.org/t/p/w780/ziJ4bBiJYqKv5aGnxvWxpp6bTms.jpg",
+    "https://image.tmdb.org/t/p/w780/zHTyHo49HrBqYK6vSXjKP8fO0GK.jpg"
+  ],
+  "realeza": {
+    "Thomasin McKenzie": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Lost Girls (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Lost Girls to improve the vocabulary in English.pdf"
+    ]
+  }
+}

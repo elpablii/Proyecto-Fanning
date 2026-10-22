@@ -1,0 +1,72 @@
+{
+  "titulo": "Taylor Swift - The End of an Era",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 302919
+  },
+  "estreno": "2025-12-12",
+  "generos": [
+    "Documental"
+  ],
+  "analisis": "",
+  "sinopsis": "Un pase detrás de escena sin precedentes junto a Taylor Swift mientras su gira llega a su fin.",
+  "poster": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+    "https://image.tmdb.org/t/p/w780/nrcsXRU6u056rtl520M0iiBta6o.jpg",
+    "https://image.tmdb.org/t/p/w780/wrsO1WLZtKUYSrOUqRcn1WYNx27.jpg",
+    "https://image.tmdb.org/t/p/w780/8bnyx7gVUSrSpwDtxcOFtrmlG8R.jpg",
+    "https://image.tmdb.org/t/p/w780/kZ4UVtGccjKDt5DWGsznZBFkpWQ.jpg",
+    "https://image.tmdb.org/t/p/w780/creBEr9hFwwXBakj68Thp1c79jV.jpg"
+  ],
+  "realeza": {
+    "Sabrina Carpenter": [
+      "aparece"
+    ],
+    "Taylor Swift": [
+      "aparece"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Taylor Swift - The End of an Era (EP 1-2) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Taylor Swift - The End of an Era (EP 3-4) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from Taylor Swift - The End of an Era to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "Taylor Swift - The End of an Era (Episode 1)",
+      "titulo": "Welcome to The Eras Tour",
+      "foto": "https://image.tmdb.org/t/p/w500/mMbmZZGbjzkBHKC5RDbQQAs7ypy.jpg",
+      "sinopsis": "Taylor recuerda el armado y los ensayos para la gira y se prepara para sus conciertos en Wembley.",
+      "duracion": 44
+    },
+    "S01E02": {
+      "nombre": "Taylor Swift - The End of an Era (Episode 2)",
+      "titulo": "Magic in the Eras",
+      "foto": "https://image.tmdb.org/t/p/w500/8BKrUZTOm4soHTqolxYWqOsezag.jpg",
+      "sinopsis": "Taylor y su equipo usan su descanso para actualizar el show e incluir THE TORTURED POETS DEPARTMENT.",
+      "duracion": 43
+    },
+    "S01E03": {
+      "nombre": "Taylor Swift - The End of an Era (Episode 3)",
+      "titulo": "Kismet",
+      "foto": "https://image.tmdb.org/t/p/w500/qKpHOYcGQUNW5BYvjwMeET0dDvk.jpg",
+      "sinopsis": "Mientras la gira vuelva a EE. UU., Taylor rememora su pasado y planea nuevas sorpresas.",
+      "duracion": 49
+    },
+    "S01E04": {
+      "nombre": "Taylor Swift - The End of an Era (Episode 4)",
+      "titulo": "Thank You for the Lovely Bouquet",
+      "foto": "https://image.tmdb.org/t/p/w500/gp2VA9PJA5N5yyqkWrfT4aAhc9t.jpg",
+      "sinopsis": "Taylor reflexiona sobre sus sets acústicos e invita al escenario a Travis Kelce y Sabrina Carpenter.",
+      "duracion": 49
+    }
+  }
+}

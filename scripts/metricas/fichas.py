@@ -13,6 +13,9 @@ Una ficha por película o serie, con todo lo que se edita a mano:
                                            # de TMDB (origen_tmdb.py); se pueden corregir a mano
   "analisis": "…",
   "sinopsis": "…", "poster": "https://…", "fondo": "https://…", "fotos": ["https://…"],
+                                           # poster y fondo también pueden ser una imagen propia (para lo que
+                                           # no está en TMDB): "/posters/<archivo>.jpg", guardada en
+                                           # fanning-dashboard/public/posters/
   "realeza": {"Margot Robbie": ["actua", "produce"]},   # quién de contenido/realeza.json participa y cómo
                                                         # (ver PAPELES); lo escribe realeza_tmdb.py
   "realeza_manual": {"Eminem": ["musica"]},             # opcional: lo que TMDB no sabe (se agrega a mano)
@@ -41,6 +44,7 @@ from rutas import RAIZ, absoluta  # noqa: E402
 from conteo import normalizar  # noqa: E402
 
 CARPETA = os.path.join(RAIZ, 'contenido', 'titulos')
+PUBLIC = os.path.join(RAIZ, 'fanning-dashboard', 'public')
 REALEZA = os.path.join(RAIZ, 'contenido', 'realeza.json')
 TANDAS = os.path.join(RAIZ, 'contenido', 'tandas.json')
 NIVELES = {'A1', 'A2', 'B1', 'B2', 'C1', 'C2'}
@@ -56,6 +60,19 @@ def slug(titulo):
 
 def ruta_ficha(titulo):
     return os.path.join(CARPETA, slug(titulo) + '.json')
+
+
+def imagen_local(url):
+    """Archivo en disco de una imagen propia ("/posters/…" -> fanning-dashboard/public/posters/…); None si es de TMDB."""
+    if url and url.startswith('/'):
+        return os.path.join(PUBLIC, *url.strip('/').split('/'))
+    return None
+
+
+def imagen(url):
+    """La imagen tal como la usa la página: vacía si es propia y todavía no está en public/."""
+    local = imagen_local(url)
+    return '' if local and not os.path.isfile(local) else (url or '')
 
 
 def cargar_realeza():
@@ -162,6 +179,10 @@ def validar(ficha, archivo):
         avisos.append(f'{t}: falta el id de TMDB ("tmdb"); sin él no se pueden actualizar póster ni fotos.')
     if not ficha.get('poster'):
         avisos.append(f'{t}: no tiene póster.')
+    for campo in ('poster', 'fondo'):
+        local = imagen_local(ficha.get(campo))
+        if local and not os.path.isfile(local):
+            avisos.append(f'{t}: falta la imagen de "{campo}"; guárdala en {os.path.relpath(local, RAIZ)}.')
     return errores, avisos
 
 

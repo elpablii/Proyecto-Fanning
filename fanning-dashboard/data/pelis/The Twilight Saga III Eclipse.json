@@ -1,0 +1,324 @@
+{
+  "title": "The Twilight Saga III Eclipse",
+  "level": "B1",
+  "levelDetail": {
+    "nivel": "B1",
+    "puntaje": 3.35,
+    "senales": {
+      "vocabulario": 3.47,
+      "dialogos": 2.76,
+      "temas": 3.84
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.6,
+        "A2": 4.4,
+        "B1": 16.1,
+        "B2": 26.8,
+        "C1": 23.4,
+        "C2": 14.6
+      },
+      "densidad": 4.6
+    },
+    "dialogos": {
+      "cobertura95": 2.85,
+      "ppm": 147.6
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Tercera entrega de la popular saga de vampiros basada en las novelas de Stephenie Meyer. Bella (Kristen Stewart) tendrá que elegir entre Edward (Robert Pattinson) y Jacob (Taylor Lautner). La ciudad de Seattle es devastada por una serie de misteriosos asesinatos que va en aumento, mientras una vampiresa busca venganza. Bella debe escoger entre su amor por Edward y su amistad con Jacob, consciente de que su decisión puede originar una batalla entre vampiros y licántropos. Rodeada de peligros y con su graduación acercándose, ahora se enfrenta a la decisión más importante de su vida... Dirige David Slade (30 Days of Night, Hard Candy).",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+      "https://image.tmdb.org/t/p/w780/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
+      "https://image.tmdb.org/t/p/w780/bvoznwOEe7uFixYfouxYsHynrkA.jpg",
+      "https://image.tmdb.org/t/p/w780/4hrb4AOgQL8sk5xGt6gVYUr5KKX.jpg",
+      "https://image.tmdb.org/t/p/w780/6DOHPP9cP3hFfoOSY2HEoVfKAs3.jpg",
+      "https://image.tmdb.org/t/p/w780/z6PjZRyiZjOLIp9Xa6jpWNcVqix.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+  "vocabulary": [
+    {
+      "word": "Thunder clapping (acotación)",
+      "translation": "trueno retumbante"
+    },
+    {
+      "word": "That kid trying to brown-nose me (frase no literal)",
+      "translation": "ese chico que está tratando de halagarme"
+    },
+    {
+      "word": "I put you through hell (parcialmente no literal)",
+      "translation": "te hice pasar por un infierno"
+    },
+    {
+      "word": "You'll be raking it in (frase no literal)",
+      "translation": "vas a ganar un montón de dinero"
+    },
+    {
+      "word": "Conspicuous",
+      "translation": "notorio"
+    },
+    {
+      "word": "Soak up",
+      "translation": "absorber"
+    },
+    {
+      "word": "Leap in front of you",
+      "translation": "saltar frente a ti"
+    },
+    {
+      "word": "Quilt",
+      "translation": "colcha, edredón"
+    },
+    {
+      "word": "Lose the grin (frase no literal)",
+      "translation": "deja de sonreír"
+    },
+    {
+      "word": "She won't be getting through our line (parcialmente no literal)",
+      "translation": "no va a poder pasar por nuestra línea"
+    },
+    {
+      "word": "He also phased",
+      "translation": "también se desvaneció poco a poco"
+    },
+    {
+      "word": "Don't be such a guy",
+      "translation": "no seas tan hombrecito"
+    },
+    {
+      "word": "I'm not gonna be gone long",
+      "translation": "no voy a estar fuera mucho tiempo"
+    },
+    {
+      "word": "A party crasher",
+      "translation": "un intruso en la fiesta"
+    },
+    {
+      "word": "He's been hoovering the grub (frase no literal)",
+      "translation": "se ha estado devorando la comida"
+    },
+    {
+      "word": "She took her vengeance out on the village (frase no literal)",
+      "translation": "se desquitó con el pueblo"
+    },
+    {
+      "word": "Rumbling",
+      "translation": "estruendo"
+    },
+    {
+      "word": "Police are baffled by the escalating murders",
+      "translation": "la policía está desconcertada por la escalada de asesinatos"
+    },
+    {
+      "word": "Wildly",
+      "translation": "muy, tremendamente"
+    },
+    {
+      "word": "Look forward to",
+      "translation": "esperar con ansias/ilusión"
+    },
+    {
+      "word": "Paper (verbo)",
+      "translation": "empapelar, llenar de carteles"
+    },
+    {
+      "word": "Let's take it down a notch",
+      "translation": "bajemos un poco el tono"
+    },
+    {
+      "word": "Fairly quickly (forma no literal)",
+      "translation": "bastante rápido"
+    },
+    {
+      "word": "Werewolf",
+      "translation": "hombre lobo"
+    },
+    {
+      "word": "Bad ass (expresión)",
+      "translation": "qué rudo"
+    },
+    {
+      "word": "Take you on (no literal)",
+      "translation": "enfrentarse a ti"
+    },
+    {
+      "word": "Go blather",
+      "translation": "vete a decir tonterías"
+    },
+    {
+      "word": "Bachelor",
+      "translation": "soltero"
+    },
+    {
+      "word": "She was a looker (frase no literal)",
+      "translation": "era una chica muy guapa"
+    },
+    {
+      "word": "Back then",
+      "translation": "en aquel entonces, en ese entonces"
+    },
+    {
+      "word": "Hard-and-fast decisions (parcialmente no literal)",
+      "translation": "decisiones firmes e inamovibles"
+    },
+    {
+      "word": "Too easy-breezy? Too self-helpful?",
+      "translation": "¿Demasiado sencillo? ¿Demasiado orientado a la autoayuda?"
+    },
+    {
+      "word": "Never let them get their arms around you",
+      "translation": "nunca dejes que te rodeen con los brazos"
+    },
+    {
+      "word": "Obvious kill",
+      "translation": "muerte Segura"
+    },
+    {
+      "word": "Falling (sustantivo)",
+      "translation": "caída"
+    },
+    {
+      "word": "Make things summer",
+      "translation": "evocar el verano"
+    },
+    {
+      "word": "I don't have quite the same upbringing",
+      "translation": "no he tenido exactamente la misma educación"
+    },
+    {
+      "word": "You're gonna be sidelined",
+      "translation": "vas a quedar fuera del equipo"
+    },
+    {
+      "word": "Pull a muscle (verbo)",
+      "translation": "dislocar un músculo"
+    },
+    {
+      "word": "Revolting (en aromas)",
+      "translation": "asqueroso, repugnante"
+    },
+    {
+      "word": "Sit out of the fight (parcialmente no literal)",
+      "translation": "quedarse fuera de la pelea"
+    },
+    {
+      "word": "I gotta live with the shots he calls (frase no literal)",
+      "translation": "tengo que aceptar las decisiones que él toma"
+    },
+    {
+      "word": "Opt out",
+      "translation": "retirarse, salirse"
+    },
+    {
+      "word": "Imprint (verbo)",
+      "translation": "improntar"
+    },
+    {
+      "word": "Imprinting",
+      "translation": "impronta"
+    },
+    {
+      "word": "You guys are on first name basis now?",
+      "translation": "¿Ahora ya se tratan por el nombre de pila?"
+    },
+    {
+      "word": "Power up (verbo frasal)",
+      "translation": "recargar energías, prepararse"
+    },
+    {
+      "word": "The talk",
+      "translation": "la charla"
+    },
+    {
+      "word": "Mom beat you to it like 10 years ago (parcialmente no literal)",
+      "translation": "mamá te lo hizo hace como 10 años"
+    },
+    {
+      "word": "I would have got down on one knee",
+      "translation": "me habría arrodillado"
+    },
+    {
+      "word": "Retailation",
+      "translation": "represalia"
+    },
+    {
+      "word": "You're going overboard (frase no literal)",
+      "translation": "te estás pasando de la raya"
+    },
+    {
+      "word": "Pack (no alusivo a paquete)",
+      "translation": "manada"
+    },
+    {
+      "word": "Keep tabs (verbo)",
+      "translation": "estar al tanto de todo"
+    },
+    {
+      "word": "With all the teeth chattering going on",
+      "translation": "con todo ese castañeteo de dientes que se oye por ahí"
+    },
+    {
+      "word": "So picking through my brain's okay",
+      "translation": "así que está bien que revises lo que hay en mi mente"
+    },
+    {
+      "word": "Hyphenate my name (verbo)",
+      "translation": "escribir mi nombre con un guion"
+    },
+    {
+      "word": "I'm done! I'm so done! (no literal)",
+      "translation": "¡Ya no puedo más! ¡De verdad que no puedo más!"
+    },
+    {
+      "word": "Kick in (verbo frasal no literal)",
+      "translation": "surgir efecto, empezar a tener efecto"
+    },
+    {
+      "word": "Coven",
+      "translation": "aquelarre"
+    },
+    {
+      "word": "It's not often we're rendered unnecessary (frase no literal)",
+      "translation": "no es muy común que nos consideren innecesarios"
+    },
+    {
+      "word": "Butt in",
+      "translation": "meterse (en algo que no es de su incumbencia)"
+    },
+    {
+      "word": "Tick",
+      "translation": "garrapata"
+    },
+    {
+      "word": "Set up a drip",
+      "translation": "ponerse una infusion"
+    },
+    {
+      "word": "I'd rather get all the re-breaking done",
+      "translation": "prefiero terminar de volver a romperlo todo"
+    },
+    {
+      "word": "Out of step",
+      "translation": "desfasado"
+    },
+    {
+      "word": "My beloved was weighed down",
+      "translation": "mi amada estaba abrumada/agobiada"
+    },
+    {
+      "word": "Lace a crown (verbo)",
+      "translation": "formar una corona"
+    },
+    {
+      "word": "Home rolling, rolling down a track",
+      "translation": "rodar en casa, rodar por una pista"
+    }
+  ],
+  "count": 69,
+  "dialogues": 1492,
+  "duration": 124
+}

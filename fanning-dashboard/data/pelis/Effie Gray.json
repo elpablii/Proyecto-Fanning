@@ -3,20 +3,20 @@
   "level": "B2-C1",
   "levelDetail": {
     "nivel": "B2-C1",
-    "puntaje": 4.4,
+    "puntaje": 4.36,
     "senales": {
-      "vocabulario": 4.84,
+      "vocabulario": 4.79,
       "dialogos": 3.36,
-      "temas": 4.34
+      "temas": 4.29
     },
     "vocabulario": {
       "distribucion": {
         "A1": 4.7,
-        "A2": 5.5,
-        "B1": 16.0,
+        "A2": 6.3,
+        "B1": 16.8,
         "B2": 27.6,
         "C1": 16.6,
-        "C2": 29.5
+        "C2": 27.9
       },
       "densidad": 11.6
     },
@@ -246,7 +246,7 @@
       "translation": "alejar/desterrar todos los pensamientos"
     },
     {
-      "word": "You know what will set everyhing to rights quite naturally",
+      "word": "You know what will set everything to rights quite naturally",
       "translation": "sabes lo que arreglará todo de manera natural"
     },
     {
@@ -526,7 +526,7 @@
       "translation": "corderito"
     },
     {
-      "word": "Tidy youeself up this instant",
+      "word": "Tidy yourself up this instant",
       "translation": "arréglate ahora mismo"
     },
     {

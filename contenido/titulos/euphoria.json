@@ -12,7 +12,7 @@
   ],
   "analisis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a las interrupciones constantes, los murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para quien busque entender el inglés de la calle y de la Generación Z.",
   "sinopsis": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
-  "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
   "fondo": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
   "fotos": [
     "https://image.tmdb.org/t/p/w780/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
@@ -65,11 +65,14 @@
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S01EP8 & Special Episodes 1-2) (lista definitiva).pdf",
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP1-3) (lista definitiva).pdf",
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP4-5) (lista definitiva).pdf",
-      "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP6-8) (lista definitiva).pdf"
+      "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP6-8) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP1-2) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP3-4) (lista definitiva).pdf"
     ],
     "dialogos": [
       "Diálogos/Diálogos Series/Dialogues from Euphoria in English (Season 1 + Special Episodes).pdf",
-      "Diálogos/Diálogos Series/Dialogues from Euphoria in English (Season 2).pdf"
+      "Diálogos/Diálogos Series/Dialogues from Euphoria in English (Season 2).pdf",
+      "Diálogos/Diálogos Series/Dialogues from Euphoria in English (Season 3).pdf"
     ]
   },
   "episodios": {
@@ -189,6 +192,34 @@
       "titulo": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
       "foto": "https://image.tmdb.org/t/p/w500/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
       "sinopsis": "A medida que avanza el espectáculo, fragmentos de recuerdos chocan con el presente y el futuro.",
+      "duracion": 62
+    },
+    "S03E01": {
+      "nombre": "S03E01",
+      "titulo": "Andale",
+      "foto": "https://image.tmdb.org/t/p/w500/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
+      "sinopsis": "¿Qué ha estado haciendo Rue desde la escuela secundaria? Sinceramente, nada bueno.",
+      "duracion": 62
+    },
+    "S03E02": {
+      "nombre": "S03E02",
+      "titulo": "America My Dream",
+      "foto": "https://image.tmdb.org/t/p/w500/hnRxdmQRxz3dhAuwOHkGpAauhaq.jpg",
+      "sinopsis": "Maddy llegó a la ciudad sin dinero, con una maleta llena de ropa y un plan.",
+      "duracion": 60
+    },
+    "S03E03": {
+      "nombre": "S03E03",
+      "titulo": "The Ballad of Paladin",
+      "foto": "https://image.tmdb.org/t/p/w500/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
+      "sinopsis": "A lo largo de la historia de los EE. UU., ha habido momentos en los que cualquiera podía hacerse rico... y Jules había encontrado su oportunidad",
+      "duracion": 60
+    },
+    "S03E04": {
+      "nombre": "S03E04",
+      "titulo": "Kitty Likes to Dance",
+      "foto": "https://image.tmdb.org/t/p/w500/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
+      "sinopsis": "Aunque podamos discrepar sobre qué es la verdad, todos sabemos cuándo estamos mintiendo.",
       "duracion": 62
     }
   }

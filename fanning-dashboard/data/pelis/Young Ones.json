@@ -1,0 +1,340 @@
+{
+  "title": "Young Ones",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.36,
+    "senales": {
+      "vocabulario": 3.5,
+      "dialogos": 2.81,
+      "temas": 3.73
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.0,
+        "A2": 12.3,
+        "B1": 12.3,
+        "B2": 34.2,
+        "C1": 17.8,
+        "C2": 12.3
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 2.91,
+      "ppm": 147.2
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Un joven de 14 años (Smit-Mcphee) esta obligado a usar su ingenio para sobrevivir en un mundo post-apocalíptico donde el agua se ha convertido en el recurso más preciado, provocando violentas guerras por su posesión.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+      "https://image.tmdb.org/t/p/w780/6XiWOO8KwnyfJBP54sBTyszCFPP.jpg",
+      "https://image.tmdb.org/t/p/w780/fdPZAmye9ghBVVv3eN6o51FV0kQ.jpg",
+      "https://image.tmdb.org/t/p/w780/jyTBTB4D2wPxm4jXCY6KBWviswi.jpg",
+      "https://image.tmdb.org/t/p/w780/6et5AMOdUjX7xazoKjsJd1QM9K8.jpg",
+      "https://image.tmdb.org/t/p/w780/wojQTCiD1wsZMapbgHrNhO7HgC.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+  "vocabulary": [
+    {
+      "word": "You don't turn forward, I'm gonna have to cut you down",
+      "translation": "si no te das la vuelta, voy a tener que bajarte de ahí"
+    },
+    {
+      "word": "I'm gonna go in my pants! (parcialmente no literal)",
+      "translation": "¡Me voy a hacer en los pantalones!"
+    },
+    {
+      "word": "Caddy",
+      "translation": "carrito"
+    },
+    {
+      "word": "Airwaves",
+      "translation": "ondas de radio"
+    },
+    {
+      "word": "Stalemate",
+      "translation": "estancamiento"
+    },
+    {
+      "word": "Oversight",
+      "translation": "supervisión"
+    },
+    {
+      "word": "Chuck wagon coming in boys! (frase no literal)",
+      "translation": "¡Ya viene el carro de comida, muchachos!"
+    },
+    {
+      "word": "Come in (aparte de entrar)",
+      "translation": "llegar"
+    },
+    {
+      "word": "Inning",
+      "translation": "entrada"
+    },
+    {
+      "word": "Been lean",
+      "translation": "he estado delgado"
+    },
+    {
+      "word": "Skirmish",
+      "translation": "escaramuza"
+    },
+    {
+      "word": "Replenished, retooled",
+      "translation": "reabastecido, reequipado"
+    },
+    {
+      "word": "Three split",
+      "translation": "división en tres partes, triplete"
+    },
+    {
+      "word": "Handout",
+      "translation": "ayuda económica"
+    },
+    {
+      "word": "Box me out",
+      "translation": "dejarme fuera"
+    },
+    {
+      "word": "Radio (verbo)",
+      "translation": "comunicarse por radio"
+    },
+    {
+      "word": "Ride away",
+      "translation": "irse"
+    },
+    {
+      "word": "Elk",
+      "translation": "alce"
+    },
+    {
+      "word": "They'll stray through here, snip out the pump",
+      "translation": "van a pasar por aquí y van a cortar la bomba"
+    },
+    {
+      "word": "That’s fallow",
+      "translation": "eso está en barbecho"
+    },
+    {
+      "word": "Live out the week (verbo parcialmente no literal)",
+      "translation": "llegar al final de la semana"
+    },
+    {
+      "word": "Watermen",
+      "translation": "barqueros"
+    },
+    {
+      "word": "There's bottles and bottles of that spike in there",
+      "translation": "ahí adentro hay botellas y más botellas de esa bebida alcohólica"
+    },
+    {
+      "word": "Came off Caleb in the scuffle",
+      "translation": "se le cayó a Caleb durante el forcejeo"
+    },
+    {
+      "word": "I got my licks in (frase no literal)",
+      "translation": "le dí su merecido"
+    },
+    {
+      "word": "What they want gone",
+      "translation": "lo que quieren que desaparezca"
+    },
+    {
+      "word": "He'll take it out of me in flesh (frase no literal)",
+      "translation": "me lo va a sacar a golpes"
+    },
+    {
+      "word": "Fetches triple in the mountain passes",
+      "translation": "en los pasos de montaña, el viento sopla con el triple de fuerza"
+    },
+    {
+      "word": "Cut a path (verbo)",
+      "translation": "abrirse camino"
+    },
+    {
+      "word": "Dread (verbo)",
+      "translation": "dar pánico, dar miedo"
+    },
+    {
+      "word": "Grieve a los (verbo)",
+      "translation": "lamentar una pérdida"
+    },
+    {
+      "word": "Rub out a flame (verbo)",
+      "translation": "apagar una llama"
+    },
+    {
+      "word": "I know Ernest wronged something by you all",
+      "translation": "sé que Ernest les hizo algo malo a todos"
+    },
+    {
+      "word": "Put your hands on a man, just bloody someone for an idea (frase no literal)",
+      "translation": "agarra a alguien, simplemente dale una paliza a alguien para que se te ocurra algo"
+    },
+    {
+      "word": "Turned up in his effects (frase no literal)",
+      "translation": "se encontró en sus pertenencias"
+    },
+    {
+      "word": "They keep lathering the tale (frase no literal)",
+      "translation": "no dejan de darle vueltas al asunto"
+    },
+    {
+      "word": "It wouldn't amount to concussion",
+      "translation": "no sería una conmoción cerebral"
+    },
+    {
+      "word": "As you put it (frase no literal)",
+      "translation": "como lo dices"
+    },
+    {
+      "word": "That shit'll put me out of business (parcialmente no literal)",
+      "translation": "esa mierda me va a dejar sin trabajo"
+    },
+    {
+      "word": "Good graces (no literal)",
+      "translation": "gestos de buena voluntad"
+    },
+    {
+      "word": "Departed",
+      "translation": "difunto"
+    },
+    {
+      "word": "Reap the reward (verbo)",
+      "translation": "cosechar la recompensa"
+    },
+    {
+      "word": "This farm has been in foreclosure",
+      "translation": "esta granja ha sido objeto de una ejecución hipotecaria"
+    },
+    {
+      "word": "He just never moved off",
+      "translation": "simplemente nunca se movió de ahí"
+    },
+    {
+      "word": "I've already got a buyer lined up",
+      "translation": "ya tengo un comprador en mente"
+    },
+    {
+      "word": "Ease",
+      "translation": "comodidad"
+    },
+    {
+      "word": "A call came in on the cb",
+      "translation": "recibimos una llamada por la radio CB"
+    },
+    {
+      "word": "Get you off your heels (frase no literal)",
+      "translation": "deja de dar vueltas"
+    },
+    {
+      "word": "I can get you across for a throwaway price",
+      "translation": "puedo llevarte al otro lado por un precio irrisorio"
+    },
+    {
+      "word": "I'm fucking haunted",
+      "translation": "estoy jodidamente atormentado"
+    },
+    {
+      "word": "Conservatism",
+      "translation": "conservadurismo"
+    },
+    {
+      "word": "She's a sight (frase no literal)",
+      "translation": "ella es todo un espectáculo"
+    },
+    {
+      "word": "Shuttle around",
+      "translation": "moverse de un lado a otro"
+    },
+    {
+      "word": "Showroom",
+      "translation": "sala de exposición"
+    },
+    {
+      "word": "We're getting on the body work tout suite",
+      "translation": "nos pondremos a trabajar en la carrocería de inmediato"
+    },
+    {
+      "word": "It shall be tip top",
+      "translation": "quedará impeccable"
+    },
+    {
+      "word": "Just to hitch a jackpot and drag it back",
+      "translation": "solo para ganar un premio gordo y traerlo de vuelta"
+    },
+    {
+      "word": "He holds her up?",
+      "translation": "¿La sostiene en brazos?"
+    },
+    {
+      "word": "Lay down the law (verbo no literal)",
+      "translation": "imponer normas estrictas"
+    },
+    {
+      "word": "Did he give a channel to radio back on?",
+      "translation": "¿Volvió a poner un canal de radio?"
+    },
+    {
+      "word": "He was on someone else's handle (frase no literal)",
+      "translation": "estaba usando el nombre de usuario de otra persona"
+    },
+    {
+      "word": "Handle",
+      "translation": "nombre de usuario, apodo"
+    },
+    {
+      "word": "Up front",
+      "translation": "por adelantado"
+    },
+    {
+      "word": "Foothills",
+      "translation": "estribaciones"
+    },
+    {
+      "word": "Fork (no alusivo a tenedor y en vialidad)",
+      "translation": "bifurcación"
+    },
+    {
+      "word": "Spike",
+      "translation": "trago, alcohol"
+    },
+    {
+      "word": "Taxable",
+      "translation": "sujeto a impuestos"
+    },
+    {
+      "word": "It's a pitch black out",
+      "translation": "está completamente oscuro"
+    },
+    {
+      "word": "Stake (verbo)",
+      "translation": "marcar"
+    },
+    {
+      "word": "Air double",
+      "translation": "toma de aire"
+    },
+    {
+      "word": "Madden a belt",
+      "translation": "ajustar un cinturón"
+    },
+    {
+      "word": "Her brace wires",
+      "translation": "los alambres de su aparato ortodóntico"
+    },
+    {
+      "word": "Be held (en responsabilidad)",
+      "translation": "hacer responsable"
+    }
+  ],
+  "count": 73,
+  "dialogues": 1254,
+  "duration": 100
+}

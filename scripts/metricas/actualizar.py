@@ -234,9 +234,9 @@ def datos_pagina(ficha, res):
         'englishAnalysis': ficha.get('analisis', ''),
         'tmdb': {'overview': ficha.get('sinopsis', ''), 'photos': ficha.get('fotos', [])},
     }
-    if ficha.get('poster'):
+    if F.imagen(ficha.get('poster')):
         datos['posterUrl'] = ficha['poster']
-    if ficha.get('fondo'):
+    if F.imagen(ficha.get('fondo')):
         datos['backdropUrl'] = ficha['fondo']
     if not res['serie']:
         datos['vocabulary'] = [limpiar(e) for e in res['vocabulario']]
@@ -321,9 +321,9 @@ def construir_manifest(lista_fichas, resultados, pelis):
             'aliases': sorted({base_dialogo(F.ruta_dialogo(d)) for d in f['pdfs'].get('dialogos', [])} - {titulo}),
             'years': anios,
         }
-        if f.get('poster'):
+        if F.imagen(f.get('poster')):
             m['posterUrl'] = f['poster']
-        if f.get('fondo'):
+        if F.imagen(f.get('fondo')):
             m['backdropUrl'] = f['fondo']
         if F.papeles_realeza(f):
             m['realeza'] = F.papeles_realeza(f)  # {artista: [cómo participa]}

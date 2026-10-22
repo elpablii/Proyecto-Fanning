@@ -1,0 +1,594 @@
+{
+  "title": "The First Lady",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.91,
+    "senales": {
+      "vocabulario": 3.99,
+      "dialogos": 3.11,
+      "temas": 4.21
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.6,
+        "A2": 12.4,
+        "B1": 8.9,
+        "B2": 35.5,
+        "C1": 14.2,
+        "C2": 25.4
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 3.2,
+      "ppm": 147.8
+    },
+    "temas": [
+      "legal y judicial"
+    ],
+    "rango": [
+      "B2",
+      "B2"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "A revelatory reframing of American leadership through the lens of the First Ladies. Exploring everything from their journeys to Washington, family life, and world-changing political contributions, the impact of the White House's women is no longer hidden from view.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+      "https://image.tmdb.org/t/p/w780/xYc9LaxggGAc32bMUaqXq7kqKfw.jpg",
+      "https://image.tmdb.org/t/p/w780/qCInHHv5eXmdugH88wmV9puDk66.jpg",
+      "https://image.tmdb.org/t/p/w780/jbwKCQkKqFDtP4lKJ4YxXA0cXzN.jpg",
+      "https://image.tmdb.org/t/p/w780/9XSo8vyG68BfNccz56VS04YZ4FO.jpg",
+      "https://image.tmdb.org/t/p/w780/xuK1MzfJG9RAYporUHas8YB9HOs.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "that white house",
+        "still_path": "https://image.tmdb.org/t/p/w500/foEqofO1WpdB3gSjaJwBblIU28Z.jpg",
+        "overview": "Después del repentino diagnóstico de polio de Franklin, Eleanor Roosevelt se compromete a posibilitar su futuro político a pesar de la presión de su suegra, Sara. A medida que se desarrolla el escándalo de Watergate, Betty Ford se convierte inesperadamente en la Segunda Dama tras la nominación de Jerry como vicepresidente y choca con su personal por su nuevo papel público. Luego de las históricas elecciones de 2008, Michelle Obama lucha con las expectativas y los peligros que enfrentan Barack y sus hijos como la primera familia negra que vive en la Casa Blanca."
+      },
+      "S01E02": {
+        "name": "voices carry",
+        "still_path": "https://image.tmdb.org/t/p/w500/3c5SVI3pK7zmCHNrNh0MbuxsFHl.jpg",
+        "overview": "Conmovida por el número de víctimas que la Gran Depresión ha cobrado en el país, Eleanor presiona a Franklin para que actúe con más audacia y presiona para obtener una posición formal sin precedentes en la administración mientras ayuda a redactar su discurso inaugural. Después de la renuncia de Nixon, Jerry asume la presidencia y Betty se convierte en Primera Dama días antes de una importante cena de estado, que el personal de Jerry intenta cancelar. En los días previos a la toma de posesión de Barack, Michelle se enfrenta a la oposición de los miembros de su equipo de transición que planean disminuir su papel."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "The First Lady (Episode 1)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.81,
+        "senales": {
+          "vocabulario": 3.87,
+          "dialogos": 3.35,
+          "temas": 4.36
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.0,
+            "A2": 3.0,
+            "B1": 17.9,
+            "B2": 38.7,
+            "C1": 6.0,
+            "C2": 31.5
+          },
+          "densidad": 3.6
+        },
+        "dialogos": {
+          "cobertura95": 3.44,
+          "ppm": 148.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Countenance (verbo)",
+          "translation": "tolerar"
+        },
+        {
+          "word": "Steeple",
+          "translation": "campanario"
+        },
+        {
+          "word": "Welfare office",
+          "translation": "oficina de asistencia social"
+        },
+        {
+          "word": "Upholstery",
+          "translation": "tapicería"
+        },
+        {
+          "word": "Decorum",
+          "translation": "decoro, compostura"
+        },
+        {
+          "word": "Possibilitis (en política)",
+          "translation": "posibles candidatos"
+        },
+        {
+          "word": "Recitatin",
+          "translation": "exposición"
+        },
+        {
+          "word": "Palm Springs, sprung! (traducción aproximada)",
+          "translation": "¡Palm Springs, alucinante!"
+        },
+        {
+          "word": "Submit (verbo aparte de enviar)",
+          "translation": "presentar (un candidato)"
+        },
+        {
+          "word": "So much for sunshine (frase no literal)",
+          "translation": "adiós al sol"
+        },
+        {
+          "word": "Umpire",
+          "translation": "árbitro"
+        },
+        {
+          "word": "The standing water in the cove",
+          "translation": "el agua estancada en la Ensenada"
+        },
+        {
+          "word": "Fuck a duck (frase no literal)",
+          "translation": "qué carajo"
+        },
+        {
+          "word": "Faraway",
+          "translation": "lejano"
+        },
+        {
+          "word": "Braces",
+          "translation": "aparatos (dentales)"
+        },
+        {
+          "word": "On the next step of the ladder to (parcialmente no literal)",
+          "translation": "un paso más cerca de"
+        },
+        {
+          "word": "Pipe dreams (no literal)",
+          "translation": "quimeras, ilusiones vanas"
+        },
+        {
+          "word": "Trimmin’s",
+          "translation": "adornos"
+        },
+        {
+          "word": "Someone sprang to his feet",
+          "translation": "alguien se puso de pie de un salto"
+        },
+        {
+          "word": "And no one bats an eye (frase no literal)",
+          "translation": "y nadie se inmuta"
+        },
+        {
+          "word": "Wretch",
+          "translation": "desdichado"
+        },
+        {
+          "word": "You are on a hell of a roll here",
+          "translation": "estás en una racha increíble"
+        },
+        {
+          "word": "And word on the street is (frase no literal)",
+          "translation": "y lo que se dice por ahí es que"
+        },
+        {
+          "word": "Protective detail (no literal)",
+          "translation": "equipo de seguridad"
+        },
+        {
+          "word": "Get to steppin' (expresión)",
+          "translation": "ponte en marcha"
+        },
+        {
+          "word": "In harm's way",
+          "translation": "en peligro"
+        },
+        {
+          "word": "Her blood-splattered pink Chanel suit?",
+          "translation": "¿Su traje rosa de Chanel salpicado de sangre?"
+        },
+        {
+          "word": "Train racks rumbling (acotación)",
+          "translation": "el traqueteo de los rieles del tren"
+        },
+        {
+          "word": "Memos",
+          "translation": "notas, memorandos"
+        },
+        {
+          "word": "She grabbed a hold of me",
+          "translation": "ella me agarró con fuerza"
+        },
+        {
+          "word": "Plain and simple (adverbio)",
+          "translation": "así de sencillo/simple"
+        },
+        {
+          "word": "They don't want to be pandered to",
+          "translation": "no quieren que se les trate con condescendencia"
+        },
+        {
+          "word": "Strike the balance (verbo)",
+          "translation": "encontrar el equilibrio"
+        },
+        {
+          "word": "I'm all booked up this afternoon",
+          "translation": "esta tarde ya tengo todo agendado"
+        },
+        {
+          "word": "Crockery clangs (acotación)",
+          "translation": "se oye el ruido de la vajilla"
+        }
+      ],
+      "count": 35,
+      "dialogues": 962,
+      "duration": 56
+    },
+    {
+      "code": "S01E02",
+      "name": "The First Lady (Episode 2)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.0,
+        "senales": {
+          "vocabulario": 4.19,
+          "dialogos": 3.47,
+          "temas": 4.14
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.8,
+            "A2": 16.5,
+            "B1": 5.1,
+            "B2": 34.2,
+            "C1": 17.7,
+            "C2": 22.8
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.14,
+          "ppm": 181.6
+        },
+        "temas": [
+          "legal y judicial"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "I'm acutely aware",
+          "translation": "soy muy consciente de que"
+        },
+        {
+          "word": "Shirk (verbo)",
+          "translation": "eludir"
+        },
+        {
+          "word": "Steeple",
+          "translation": "campanario"
+        },
+        {
+          "word": "Welfare office",
+          "translation": "oficina de asistencia social"
+        },
+        {
+          "word": "Some one-to-one time",
+          "translation": "un rato a solas"
+        },
+        {
+          "word": "I'm still trailing Hillary by double digits",
+          "translation": "sigo estando a dos dígitos de distancia de Hillary"
+        },
+        {
+          "word": "She's whopping my ass",
+          "translation": "me está dando una paliza"
+        },
+        {
+          "word": "A relatability issue",
+          "translation": "un problema de identificación"
+        },
+        {
+          "word": "Ameliorate (verbo)",
+          "translation": "solucionar, mejorar"
+        },
+        {
+          "word": "Okay, than what does all of this entail?",
+          "translation": "bueno, ¿y qué implica todo esto?"
+        },
+        {
+          "word": "A few speaking engagements (no literal)",
+          "translation": "algunas conferencias"
+        },
+        {
+          "word": "There you go with that sweet talking",
+          "translation": "ya estás otra vez con tus palabras bonitas"
+        },
+        {
+          "word": "Twist (verbo aparte de retorcer)",
+          "translation": "tergiversar"
+        },
+        {
+          "word": "Presumptive",
+          "translation": "presunto"
+        },
+        {
+          "word": "Shades (alusivo a la piel)",
+          "translation": "tonos de piel"
+        },
+        {
+          "word": "Creeds",
+          "translation": "creencias"
+        },
+        {
+          "word": "That's one hardy handshake",
+          "translation": "ese sí que es un apretón de manos firme"
+        },
+        {
+          "word": "I’m busted (no literal)",
+          "translation": "estoy en la ruina"
+        },
+        {
+          "word": "I forged Steel",
+          "translation": "forjé acero"
+        },
+        {
+          "word": "Off the record (adverbio)",
+          "translation": "entre nosotros, en privado, extraoficialmente"
+        },
+        {
+          "word": "And gaze adoringly",
+          "translation": "y mirar con adoración"
+        },
+        {
+          "word": "Get a scoop (verbo)",
+          "translation": "conseguir una primicia (literal), averiguar algo (no literal)"
+        },
+        {
+          "word": "Chickadee (informal)",
+          "translation": "pajarito"
+        },
+        {
+          "word": "Push (someone) off",
+          "translation": "empujar"
+        },
+        {
+          "word": "It's lacking punch",
+          "translation": "le falta fuerza"
+        },
+        {
+          "word": "Nothing is to be feared the fear",
+          "translation": "no hay que temer al miedo"
+        },
+        {
+          "word": "Let me assert my firm belief (parcialmente no literal)",
+          "translation": "permítanme expresar mi firme convicción"
+        },
+        {
+          "word": "Grinning",
+          "translation": "sonriente"
+        },
+        {
+          "word": "Convey (verbo)",
+          "translation": "transmitir"
+        },
+        {
+          "word": "It's quite another to",
+          "translation": "una cosa es eso y otra muy distinta es"
+        },
+        {
+          "word": "I don't wanna keep missing bedtime",
+          "translation": "no quiero seguir quedándome sin dormir a la hora de acostarme"
+        },
+        {
+          "word": "Bougie",
+          "translation": "pijo, ostentoso"
+        },
+        {
+          "word": "You're gonna be a dope First Lady (en sentido positivo)",
+          "translation": "vas a ser una Primera Dama increíble"
+        },
+        {
+          "word": "Set in (en algunos contextos)",
+          "translation": "adaptarse bien"
+        },
+        {
+          "word": "We want to hit the ground running (frase no literal)",
+          "translation": "queremos empezar con el pie derecho"
+        },
+        {
+          "word": "Photo ops",
+          "translation": "sesiones fotográficas"
+        },
+        {
+          "word": "Shoot the cover (verbo)",
+          "translation": "tomar la foto de portada"
+        },
+        {
+          "word": "Rutabagas",
+          "translation": "colinabos"
+        },
+        {
+          "word": "Turnip",
+          "translation": "nabo"
+        },
+        {
+          "word": "Give some thought (verbo)",
+          "translation": "pensarlo un poco"
+        },
+        {
+          "word": "They tend to flush that sort of thing right out into the open (frase no literal)",
+          "translation": "suelen sacar ese tipo de cosas a la luz"
+        },
+        {
+          "word": "Keep it running smoothly",
+          "translation": "mantén todo funcionando sin problemas"
+        },
+        {
+          "word": "Steer (verbo no literal)",
+          "translation": "animar, convencer (a una persona)"
+        },
+        {
+          "word": "Candor",
+          "translation": "sincera"
+        },
+        {
+          "word": "Run for his office (verbo no literal en política)",
+          "translation": "postular para su cargo"
+        },
+        {
+          "word": "I tend to run a little behind (frase no literal)",
+          "translation": "suelo llegar un poco tarde"
+        },
+        {
+          "word": "He’ll pardon or convict",
+          "translation": "él indultará o condenará"
+        },
+        {
+          "word": "We had to turn things around rather quickly",
+          "translation": "tuvimos que darle un giro a la situación bastante rápido"
+        },
+        {
+          "word": "I'm still getting my bearing (frase no literal)",
+          "translation": "todavía estoy orientándome"
+        },
+        {
+          "word": "This situation has been sprung on you",
+          "translation": "esta situación te ha tomado por sorpresa"
+        },
+        {
+          "word": "Three hours seared into my brain",
+          "translation": "tres horas que se me quedaron grabadas en la mente"
+        },
+        {
+          "word": "Aides",
+          "translation": "asistentes"
+        },
+        {
+          "word": "They took over their homeland matter",
+          "translation": "se apoderaron de su tierra natal"
+        },
+        {
+          "word": "I spout out White House trivia",
+          "translation": "suelto datos curiosos de la Casa Blanca"
+        },
+        {
+          "word": "Get an angle here (frase no literal)",
+          "translation": "sacar provecho de la situación"
+        },
+        {
+          "word": "Bridal",
+          "translation": "nupcial"
+        },
+        {
+          "word": "Liaison",
+          "translation": "enlace"
+        },
+        {
+          "word": "Ease you into (verbo)",
+          "translation": "ayudar a familiarizarte poco a poco en"
+        },
+        {
+          "word": "Shoots",
+          "translation": "sesiones de fotos"
+        },
+        {
+          "word": "Roast alive (verbo no literal)",
+          "translation": "criticar duramente"
+        },
+        {
+          "word": "We can't rock the boat too much (frase no literal)",
+          "translation": "no podemos hacer demasiado alboroto"
+        },
+        {
+          "word": "A curly kale master class",
+          "translation": "una clase magistral sobre la col rizada"
+        },
+        {
+          "word": "Sideline (verbo)",
+          "translation": "dejar de lado"
+        },
+        {
+          "word": "Inconsequential",
+          "translation": "inconsecuente, insignificante"
+        },
+        {
+          "word": "Liability",
+          "translation": "carga, problema"
+        },
+        {
+          "word": "Pimpo ut",
+          "translation": "explotar sexualmente"
+        },
+        {
+          "word": "Jerk-off",
+          "translation": "idiota, pendejo"
+        },
+        {
+          "word": "Patronizing",
+          "translation": "prepotente"
+        },
+        {
+          "word": "Peripheral bullshit",
+          "translation": "tonterías sin importancia"
+        },
+        {
+          "word": "I will body check anyone (frase no literal)",
+          "translation": "le daré un empujón a quien sea"
+        },
+        {
+          "word": "Patronize (verbo)",
+          "translation": "tartar con condescendencia"
+        },
+        {
+          "word": "Roll over",
+          "translation": "dar la vuelta"
+        },
+        {
+          "word": "Foist (verbo)",
+          "translation": "imponer"
+        },
+        {
+          "word": "And stepping into mine",
+          "translation": "y asumo el mío"
+        },
+        {
+          "word": "Horticulturist",
+          "translation": "horticultor"
+        },
+        {
+          "word": "You've been misused",
+          "translation": "te han tratado mal"
+        },
+        {
+          "word": "He hasn't got it quite yet",
+          "translation": "todavía no lo he entendido del todo"
+        },
+        {
+          "word": "You've been in the trenches with me",
+          "translation": "has estado a mi lado en las trincheras"
+        },
+        {
+          "word": "Pulling this all together on such short notice",
+          "translation": "organizar todo esto en tan poco tiempo"
+        }
+      ],
+      "count": 79,
+      "dialogues": 988,
+      "duration": 55
+    }
+  ],
+  "count": 114,
+  "dialogues": 1950,
+  "duration": 111
+}

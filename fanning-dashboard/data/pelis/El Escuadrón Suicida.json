@@ -3,22 +3,22 @@
   "level": "B2-C1",
   "levelDetail": {
     "nivel": "B2-C1",
-    "puntaje": 4.48,
+    "puntaje": 4.47,
     "senales": {
-      "vocabulario": 4.62,
+      "vocabulario": 4.61,
       "dialogos": 4.22,
       "temas": 4.33
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 10.3,
+        "A1": 10.6,
         "A2": 6.8,
-        "B1": 15.6,
-        "B2": 22.4,
-        "C1": 17.5,
-        "C2": 27.4
+        "B1": 15.5,
+        "B2": 22.3,
+        "C1": 17.4,
+        "C2": 27.3
       },
-      "densidad": 12.8
+      "densidad": 12.9
     },
     "dialogos": {
       "cobertura95": 4.35,
@@ -121,7 +121,11 @@
     },
     {
       "word": "Stand for (en términos de significado)",
-      "translation": "significar And it stands for what?"
+      "translation": "significar"
+    },
+    {
+      "word": "And it stands for what?",
+      "translation": "¿Y qué significa?"
     },
     {
       "word": "Retch (verbo)",
@@ -937,7 +941,7 @@
     },
     {
       "word": "Has anyone got eyes or ears on any more?",
-      "translation": "¿Alguien ha visto u oido algo más?"
+      "translation": "¿Alguien ha visto u oído algo más?"
     },
     {
       "word": "Mess around",
@@ -1096,7 +1100,7 @@
       "translation": "una especie de"
     }
   ],
-  "count": 263,
+  "count": 264,
   "dialogues": 2051,
   "duration": 132
 }

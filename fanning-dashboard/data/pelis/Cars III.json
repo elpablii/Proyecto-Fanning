@@ -3,20 +3,20 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.79,
+    "puntaje": 3.78,
     "senales": {
-      "vocabulario": 3.89,
+      "vocabulario": 3.87,
       "dialogos": 3.48,
-      "temas": 3.93
+      "temas": 3.91
     },
     "vocabulario": {
       "distribucion": {
         "A1": 10.5,
         "A2": 4.8,
         "B1": 16.1,
-        "B2": 32.3,
+        "B2": 33.1,
         "C1": 22.6,
-        "C2": 13.7
+        "C2": 12.9
       },
       "densidad": 7.3
     },
@@ -532,7 +532,7 @@
       "translation": "al límite"
     },
     {
-      "word": "I pull exahust into the night",
+      "word": "I pull exhaust into the night",
       "translation": "arrastro el cansancio hasta la noche"
     },
     {

@@ -3,18 +3,18 @@
   "level": "B1",
   "levelDetail": {
     "nivel": "B1",
-    "puntaje": 3.27,
+    "puntaje": 3.35,
     "senales": {
-      "vocabulario": 3.32,
+      "vocabulario": 3.41,
       "dialogos": 2.96,
-      "temas": 3.62
+      "temas": 3.72
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 9.7,
+        "A1": 6.5,
         "A2": 9.7,
         "B1": 30.1,
-        "B2": 20.4,
+        "B2": 23.6,
         "C1": 19.4,
         "C2": 10.7
       },
@@ -126,7 +126,7 @@
       "translation": "conseguir, pillar"
     },
     {
-      "word": "It'd be a real get (frase no lteral)",
+      "word": "It'd be a real get (frase no literal)",
       "translation": "sería todo un acierto"
     },
     {

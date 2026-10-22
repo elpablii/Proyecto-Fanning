@@ -1,0 +1,1095 @@
+{
+  "title": "Taylor Swift - The End of an Era",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.6,
+    "senales": {
+      "vocabulario": 3.63,
+      "dialogos": 3.26,
+      "temas": 3.74
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 13.9,
+        "A2": 11.6,
+        "B1": 11.1,
+        "B2": 29.1,
+        "C1": 19.0,
+        "C2": 15.4
+      },
+      "densidad": 6.7
+    },
+    "dialogos": {
+      "cobertura95": 2.98,
+      "ppm": 177.6
+    },
+    "temas": [
+      "musical"
+    ],
+    "rango": [
+      "B1-B2",
+      "B2"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Un pase detrás de escena sin precedentes junto a Taylor Swift mientras su gira llega a su fin.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+      "https://image.tmdb.org/t/p/w780/nrcsXRU6u056rtl520M0iiBta6o.jpg",
+      "https://image.tmdb.org/t/p/w780/wrsO1WLZtKUYSrOUqRcn1WYNx27.jpg",
+      "https://image.tmdb.org/t/p/w780/8bnyx7gVUSrSpwDtxcOFtrmlG8R.jpg",
+      "https://image.tmdb.org/t/p/w780/kZ4UVtGccjKDt5DWGsznZBFkpWQ.jpg",
+      "https://image.tmdb.org/t/p/w780/creBEr9hFwwXBakj68Thp1c79jV.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Welcome to The Eras Tour",
+        "still_path": "https://image.tmdb.org/t/p/w500/mMbmZZGbjzkBHKC5RDbQQAs7ypy.jpg",
+        "overview": "Taylor recuerda el armado y los ensayos para la gira y se prepara para sus conciertos en Wembley."
+      },
+      "S01E02": {
+        "name": "Magic in the Eras",
+        "still_path": "https://image.tmdb.org/t/p/w500/8BKrUZTOm4soHTqolxYWqOsezag.jpg",
+        "overview": "Taylor y su equipo usan su descanso para actualizar el show e incluir THE TORTURED POETS DEPARTMENT."
+      },
+      "S01E03": {
+        "name": "Kismet",
+        "still_path": "https://image.tmdb.org/t/p/w500/qKpHOYcGQUNW5BYvjwMeET0dDvk.jpg",
+        "overview": "Mientras la gira vuelva a EE. UU., Taylor rememora su pasado y planea nuevas sorpresas."
+      },
+      "S01E04": {
+        "name": "Thank You for the Lovely Bouquet",
+        "still_path": "https://image.tmdb.org/t/p/w500/gp2VA9PJA5N5yyqkWrfT4aAhc9t.jpg",
+        "overview": "Taylor reflexiona sobre sus sets acústicos e invita al escenario a Travis Kelce y Sabrina Carpenter."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "Taylor Swift - The End of an Era (Episode 1)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.48,
+        "senales": {
+          "vocabulario": 3.54,
+          "dialogos": 3.23,
+          "temas": 3.64
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 19.1,
+            "A2": 10.6,
+            "B1": 8.5,
+            "B2": 27.7,
+            "C1": 17.0,
+            "C2": 17.0
+          },
+          "densidad": 6.8
+        },
+        "dialogos": {
+          "cobertura95": 2.85,
+          "ppm": 185.4
+        },
+        "temas": [
+          "musical"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Pry open (verbo)",
+          "translation": "abrir a la fuerza"
+        },
+        {
+          "word": "Mentor (verbo)",
+          "translation": "orientar"
+        },
+        {
+          "word": "Fall into place (verbo)",
+          "translation": "encajar en su lugar"
+        },
+        {
+          "word": "Life raft",
+          "translation": "balsa salvavidas"
+        },
+        {
+          "word": "It's mind-boggling",
+          "translation": "es alucinante"
+        },
+        {
+          "word": "Over-serve (verbo)",
+          "translation": "dar más de lo que espera"
+        },
+        {
+          "word": "Crash (verbo en informática)",
+          "translation": "colapsar, crashear"
+        },
+        {
+          "word": "Leading up to the first show, everybody is firing on all cylinders (frase no literal)",
+          "translation": "antes del primer espectáculo, todos están trabajando a toda máquina"
+        },
+        {
+          "word": "She's a business powerhouse",
+          "translation": "es una mujer de negocios muy influyente"
+        },
+        {
+          "word": "They have dubbed",
+          "translation": "ellos han bautizado"
+        },
+        {
+          "word": "The takeover seen across the country (parcialmente no literal)",
+          "translation": "la fiebre que se vive en todo el país"
+        },
+        {
+          "word": "To be reckoned with",
+          "translation": "a tener en cuenta"
+        },
+        {
+          "word": "Frenzied",
+          "translation": "desenfrenado, frenético"
+        },
+        {
+          "word": "Lock off",
+          "translation": "bloquear"
+        },
+        {
+          "word": "How much love everybody here is pouring into what they do",
+          "translation": "cuánto amor están poniendo todos los que están aquí en lo que hacen"
+        },
+        {
+          "word": "And still show up for fans",
+          "translation": "y seguir estando ahí para los fans"
+        },
+        {
+          "word": "It’s torn (no literal)",
+          "translation": "está dividido"
+        },
+        {
+          "word": "Like a pick-me-up",
+          "translation": "como un estímulo"
+        },
+        {
+          "word": "Scour (verbo)",
+          "translation": "recorrer"
+        },
+        {
+          "word": "Some people get a vitamin drip",
+          "translation": "hay personas que se hacen un suero de vitaminas"
+        },
+        {
+          "word": "I go somewhere that people aren't that much in",
+          "translation": "voy a lugares donde no hay mucha gente"
+        },
+        {
+          "word": "Meet head-on (verbo)",
+          "translation": "enfrentarse de frente"
+        },
+        {
+          "word": "Lead spot",
+          "translation": "primer lugar"
+        },
+        {
+          "word": "Hard (aparte de difícil o duro)",
+          "translation": "intenso"
+        },
+        {
+          "word": "Tenured professionals",
+          "translation": "profesionales con experiencia"
+        },
+        {
+          "word": "Security is being stepped up",
+          "translation": "se están reforzando las medidas de seguridad"
+        },
+        {
+          "word": "Thwarted",
+          "translation": "frustrado (en situaciones)"
+        },
+        {
+          "word": "Swifties are moving in, all of them going to be carefully screened (parcialmente no literal)",
+          "translation": "los swifties están llegando, todos ellos serán sometidos a un riguroso proceso de selección"
+        },
+        {
+          "word": "Acutely (no literal)",
+          "translation": "plenamente, perfectamente"
+        },
+        {
+          "word": "Get evicted",
+          "translation": "ser desalojado"
+        },
+        {
+          "word": "Casting spotlights",
+          "translation": "focos de iluminación"
+        },
+        {
+          "word": "When you're sort of the ringleader",
+          "translation": "cuando eres, por así decirlo, el líder"
+        },
+        {
+          "word": "Twitchy and fidgety",
+          "translation": "inquieta y nerviosa"
+        },
+        {
+          "word": "Get the show over with tonight",
+          "translation": "acabemos con el espectáculo esta noche"
+        },
+        {
+          "word": "Get back on the horse (frase no literal)",
+          "translation": "vuelve a la carga"
+        },
+        {
+          "word": "You just kind of flies on the wall for everything (frase no literal)",
+          "translation": "simplemente te mantienes al margen de todo"
+        },
+        {
+          "word": "Scream their heads off (parcialmente no literal)",
+          "translation": "gritar a todo pulmón"
+        },
+        {
+          "word": "Catch the breath",
+          "translation": "recuperar el aliento"
+        },
+        {
+          "word": "Both sprung, I got issues and chips (parcialmente no literal)",
+          "translation": "ambos se rompieron; tengo problemas y astillas"
+        },
+        {
+          "word": "In rumors I'm knee-deep",
+          "translation": "estoy hasta las rodillas en rumores"
+        },
+        {
+          "word": "A lot of the time",
+          "translation": "muchas veces"
+        },
+        {
+          "word": "Perk up",
+          "translation": "animarse"
+        },
+        {
+          "word": "Freckles",
+          "translation": "pecas"
+        },
+        {
+          "word": "Stood tall painted blue",
+          "translation": "se erguía, pintado de azul"
+        },
+        {
+          "word": "The beautiful kind",
+          "translation": "los hermosos y bondadosos"
+        },
+        {
+          "word": "Blob of",
+          "translation": "masa/montón de"
+        },
+        {
+          "word": "I needed a pick-me-up",
+          "translation": "necesitaba algo que me animara"
+        }
+      ],
+      "count": 47,
+      "dialogues": 692,
+      "duration": 44
+    },
+    {
+      "code": "S01E02",
+      "name": "Taylor Swift - The End of an Era (Episode 2)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.61,
+        "senales": {
+          "vocabulario": 3.47,
+          "dialogos": 3.52,
+          "temas": 4.36
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 20.0,
+            "A2": 6.0,
+            "B1": 10.0,
+            "B2": 34.0,
+            "C1": 8.0,
+            "C2": 22.0
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 3.05,
+          "ppm": 192.3
+        },
+        "temas": [
+          "musical",
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Undertaking",
+          "translation": "tarea"
+        },
+        {
+          "word": "Set list (aparte de lista de canciones)",
+          "translation": "repertorio"
+        },
+        {
+          "word": "Surgical tweakings",
+          "translation": "ajustes quirúrgicos"
+        },
+        {
+          "word": "Beam up",
+          "translation": "teletransportar"
+        },
+        {
+          "word": "Spotlight (verbo)",
+          "translation": "iluminar"
+        },
+        {
+          "word": "I'm down bad",
+          "translation": "estoy muy mal/deprimida"
+        },
+        {
+          "word": "We had sort of shoehorned something in",
+          "translation": "habíamos metido algo a la fuerza"
+        },
+        {
+          "word": "Rearrange (verbo)",
+          "translation": "reorganizar"
+        },
+        {
+          "word": "I wanna blow this thing out (frase no literal)",
+          "translation": "quiero hacer esto a lo grande"
+        },
+        {
+          "word": "Is one hell of a drug (parcialmente no literal)",
+          "translation": "es una droga increíble"
+        },
+        {
+          "word": "I just keep throwing them in",
+          "translation": "simplemente sigo echándolos ahí"
+        },
+        {
+          "word": "Swing (no literal en trabajo)",
+          "translation": "suplente"
+        },
+        {
+          "word": "Long-standing",
+          "translation": "de larga trayectoria"
+        },
+        {
+          "word": "Get strong",
+          "translation": "ponerse fuerte"
+        },
+        {
+          "word": "Spine",
+          "translation": "columna vertebral"
+        },
+        {
+          "word": "Labral tears (no literal en medicina)",
+          "translation": "desgarros del labrum"
+        },
+        {
+          "word": "Break down (en ciertos contextos)",
+          "translation": "desmoronarse"
+        },
+        {
+          "word": "But to gracefully start to peel myself away",
+          "translation": "pero decidí empezar a alejarme con dignidad"
+        },
+        {
+          "word": "Deflate",
+          "translation": "desánimo"
+        },
+        {
+          "word": "And you'll roll up (no literal)",
+          "translation": "y vas a llegar/aparecer"
+        },
+        {
+          "word": "Makes a little witchy something in here (parcialmente no literal)",
+          "translation": "le da un toque un poco mágico aquí"
+        },
+        {
+          "word": "An insane asylum-slash-wood nymph",
+          "translation": "una mezcla entre un manicomio y una ninfa del bosque"
+        },
+        {
+          "word": "Do the speaker (verbo en conciertos)",
+          "translation": "poner/montar el altavoz"
+        },
+        {
+          "word": "Use up",
+          "translation": "aprovechar"
+        },
+        {
+          "word": "Lay to rest",
+          "translation": "descansa en paz"
+        },
+        {
+          "word": "Let's run one more time (frase no literal en ensayos)",
+          "translation": "probemos una vez más"
+        },
+        {
+          "word": "Opinionated (adjetivo no literal)",
+          "translation": "obstinado"
+        },
+        {
+          "word": "On a night-to-night basis",
+          "translation": "noche a noche"
+        },
+        {
+          "word": "Pull focus (verbo)",
+          "translation": "cambiar el enfoque"
+        },
+        {
+          "word": "Baggie",
+          "translation": "bolsita"
+        },
+        {
+          "word": "Lay out",
+          "translation": "colocar"
+        },
+        {
+          "word": "A setting",
+          "translation": "un entorno"
+        },
+        {
+          "word": "Like we set out to do",
+          "translation": "tal como lo propusimos"
+        },
+        {
+          "word": "Unheard of",
+          "translation": "insólito, sin precedentes"
+        },
+        {
+          "word": "These little step-touch things",
+          "translation": "estas cositas para hacer step"
+        },
+        {
+          "word": "Hit this spot, hit this mark (no literal)",
+          "translation": "dar en el clavo, dar en el blanco"
+        },
+        {
+          "word": "Pop off",
+          "translation": "despotricar"
+        },
+        {
+          "word": "Sometime it's a shimmy",
+          "translation": "a veces es un meneo"
+        },
+        {
+          "word": "A roll",
+          "translation": "un lanzamiento"
+        },
+        {
+          "word": "I try my hardest",
+          "translation": "me esfuerzo al máximo"
+        },
+        {
+          "word": "Lace",
+          "translation": "encaje"
+        },
+        {
+          "word": "Persona (no literal)",
+          "translation": "personaje, personalidad"
+        },
+        {
+          "word": "Run (verbo no alusivo a correr)",
+          "translation": "ejecutar, probar"
+        },
+        {
+          "word": "Bruv (informal)",
+          "translation": "amigo, hermano"
+        },
+        {
+          "word": "You work your life away",
+          "translation": "te pasas la vida trabajando sin parar"
+        },
+        {
+          "word": "Wash me away",
+          "translation": "llevarme lejos"
+        },
+        {
+          "word": "Barricaded",
+          "translation": "atrancado"
+        },
+        {
+          "word": "We had a hell of a time",
+          "translation": "lo pasamos de maravilla"
+        },
+        {
+          "word": "Shimmer",
+          "translation": "destello"
+        },
+        {
+          "word": "Beads",
+          "translation": "cuentas"
+        }
+      ],
+      "count": 50,
+      "dialogues": 869,
+      "duration": 43
+    },
+    {
+      "code": "S01E03",
+      "name": "Taylor Swift - The End of an Era (Episode 3)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.49,
+        "senales": {
+          "vocabulario": 3.53,
+          "dialogos": 3.32,
+          "temas": 3.63
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.0,
+            "A2": 17.5,
+            "B1": 12.2,
+            "B2": 15.7,
+            "C1": 29.7,
+            "C2": 11.0
+          },
+          "densidad": 6.8
+        },
+        "dialogos": {
+          "cobertura95": 3.06,
+          "ppm": 175.9
+        },
+        "temas": [
+          "musical",
+          "moda y belleza"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Her headline tour",
+          "translation": "su gira más importante"
+        },
+        {
+          "word": "Get back up to speed",
+          "translation": "ponerse al día"
+        },
+        {
+          "word": "The final push",
+          "translation": "el empujón final (literal), el último esfuerzo (no literal)"
+        },
+        {
+          "word": "Adulting",
+          "translation": "vida de adulto"
+        },
+        {
+          "word": "We can take these for a spin for the run-through (parcialmente no literal)",
+          "translation": "podemos probarlos un rato durante el ensayo general"
+        },
+        {
+          "word": "The design was undertaken",
+          "translation": "el diseño se llevó a cabo"
+        },
+        {
+          "word": "I pulled about fifty different pictures (parcialmente no literal)",
+          "translation": "seleccioné como cincuenta fotos diferentes"
+        },
+        {
+          "word": "Tie (verbo no alusivo a atar)",
+          "translation": "involucrar"
+        },
+        {
+          "word": "Overtly",
+          "translation": "abiertamente"
+        },
+        {
+          "word": "Blown away (en estado de ánimo)",
+          "translation": "alucinado"
+        },
+        {
+          "word": "Dive bar",
+          "translation": "bar de barrio"
+        },
+        {
+          "word": "Fringe",
+          "translation": "flecos"
+        },
+        {
+          "word": "Just for funsies",
+          "translation": "sólo por diversión"
+        },
+        {
+          "word": "Slay (expresión)",
+          "translation": "arrasa"
+        },
+        {
+          "word": "She's handpicked",
+          "translation": "ella ha elegido personalmente"
+        },
+        {
+          "word": "Blow (sustantivo)",
+          "translation": "golpe"
+        },
+        {
+          "word": "Unfathomable",
+          "translation": "insondable"
+        },
+        {
+          "word": "And just poked and prodded to learn",
+          "translation": "y simplemente probé y experimenté para aprender"
+        },
+        {
+          "word": "Treatment-wise",
+          "translation": "en cuanto al tratamiento"
+        },
+        {
+          "word": "Everyone was just in shambles",
+          "translation": "todos estaban completamente destrozados"
+        },
+        {
+          "word": "She came storming in with hugs",
+          "translation": "entró corriendo, llena de abrazos"
+        },
+        {
+          "word": "Black out",
+          "translation": "desmayarse"
+        },
+        {
+          "word": "Groan (verbo aparte de gruñir)",
+          "translation": "gemir, gimotear"
+        },
+        {
+          "word": "Flag (verbo)",
+          "translation": "señalar"
+        },
+        {
+          "word": "Pull-ups (en entrenamiento)",
+          "translation": "dominadas"
+        },
+        {
+          "word": "The pent-up rage",
+          "translation": "la rabia reprimida"
+        },
+        {
+          "word": "Up my game",
+          "translation": "dar un paso más"
+        },
+        {
+          "word": "Stage",
+          "translation": "escenario"
+        },
+        {
+          "word": "Turnaround time from landing and performing",
+          "translation": "tiempo de respuesta desde el aterrizaje y la presentación"
+        },
+        {
+          "word": "Wild (no literal)",
+          "translation": "increíble"
+        },
+        {
+          "word": "Over the break",
+          "translation": "durante el descanso/vacaciones"
+        },
+        {
+          "word": "We're cramming",
+          "translation": "estamos repasando"
+        },
+        {
+          "word": "A full run through",
+          "translation": "un repaso completo"
+        },
+        {
+          "word": "Fitting time",
+          "translation": "hora de la prueba"
+        },
+        {
+          "word": "They put my boob cups on my rib cage",
+          "translation": "me ponen las copas de los senos en la caja torácica"
+        },
+        {
+          "word": "Udders",
+          "translation": "ubres"
+        },
+        {
+          "word": "We stage manage the shit out of this show (frase no literal)",
+          "translation": "nos encargamos de la dirección escénica de este espectáculo a lo grande"
+        },
+        {
+          "word": "See piano lift up!",
+          "translation": "¡Mira cómo se levanta el piano!"
+        },
+        {
+          "word": "It's nerve racking",
+          "translation": "es muy estresante"
+        },
+        {
+          "word": "Pyro go off on my head (no literal)",
+          "translation": "fuegos artificiales explotando en mi cabeza"
+        },
+        {
+          "word": "Everybody is firing on all cylinders (frase no literal)",
+          "translation": "todos están dando lo mejor de sí mismos"
+        },
+        {
+          "word": "Dresser",
+          "translation": "persona encargada de vestir (a alguien)"
+        },
+        {
+          "word": "Snags",
+          "translation": "contratiempos"
+        },
+        {
+          "word": "I'm getting pulled over here",
+          "translation": "me están tirando hasta acá"
+        },
+        {
+          "word": "Hem",
+          "translation": "dobladillo"
+        },
+        {
+          "word": "I skid the palm of my hand off",
+          "translation": "deslizo la palma de mi mano"
+        },
+        {
+          "word": "Hobble into the quick-change room",
+          "translation": "entro cojeando al vestuario"
+        },
+        {
+          "word": "Flap off",
+          "translation": "desprender"
+        },
+        {
+          "word": "Can you pull Balen for me? (pregunta no literal)",
+          "translation": "¿Podrías sacarme a Balen?"
+        },
+        {
+          "word": "Advisory",
+          "translation": "aviso"
+        },
+        {
+          "word": "We have winds expected to gust up to 35 mph",
+          "translation": "se esperan ráfagas de viento de hasta 35 mph"
+        },
+        {
+          "word": "Hang on to (no literal)",
+          "translation": "no se olviden de"
+        },
+        {
+          "word": "Down to the bowl (en estadios)",
+          "translation": "en la zona de las gradas"
+        },
+        {
+          "word": "The rainiest rain show that ever rain showed ever",
+          "translation": "el espectáculo de lluvia más lluvioso que jamás se haya visto"
+        },
+        {
+          "word": "Pulled the car off the road to the lookout (parcialmente no literal)",
+          "translation": "me salí de la carretera y me detuve en el mirador"
+        },
+        {
+          "word": "Shed light (verbo)",
+          "translation": "arrojar luz"
+        },
+        {
+          "word": "Clacking (acotación)",
+          "translation": "repiqueteo"
+        },
+        {
+          "word": "Hold (someone) (verbo)",
+          "translation": "retener"
+        }
+      ],
+      "count": 58,
+      "dialogues": 847,
+      "duration": 49
+    },
+    {
+      "code": "S01E04",
+      "name": "Taylor Swift - The End of an Era (Episode 4)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.79,
+        "senales": {
+          "vocabulario": 3.96,
+          "dialogos": 3.28,
+          "temas": 3.95
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.8,
+            "A2": 11.3,
+            "B1": 12.9,
+            "B2": 38.7,
+            "C1": 19.4,
+            "C2": 12.9
+          },
+          "densidad": 7.7
+        },
+        "dialogos": {
+          "cobertura95": 3.0,
+          "ppm": 177.5
+        },
+        "temas": [
+          "musical",
+          "deportiva"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "I took the miracle move-on drug",
+          "translation": "tomé el medicamento milagroso para superar el duelo"
+        },
+        {
+          "word": "Hand (verbo)",
+          "translation": "entregar, dar"
+        },
+        {
+          "word": "Peruse around",
+          "translation": "echar un vistazo"
+        },
+        {
+          "word": "I've been very non-athlete",
+          "translation": "nunca he sido nada deportista"
+        },
+        {
+          "word": "Earniest",
+          "translation": "sincero"
+        },
+        {
+          "word": "Injured reserve",
+          "translation": "lista de lesionados"
+        },
+        {
+          "word": "Hamstring",
+          "translation": "tendón isquiotibial"
+        },
+        {
+          "word": "Ahead of (no literal)",
+          "translation": "antes de"
+        },
+        {
+          "word": "A full out rehearsal",
+          "translation": "un ensayo a todo trapo"
+        },
+        {
+          "word": "Staging wise",
+          "translation": "en cuanto a la puesta de escena"
+        },
+        {
+          "word": "Fill in (en puesto o cargo)",
+          "translation": "sustituir"
+        },
+        {
+          "word": "Hit the blocking perfectly (parcialmente no literal)",
+          "translation": "realizar el bloqueo a la perfección"
+        },
+        {
+          "word": "She called me out on it (frase no literal)",
+          "translation": "ella me lo hizo notar"
+        },
+        {
+          "word": "Dope moves to really dope music (parcialmente no literal)",
+          "translation": "movimientos geniales al ritmo de música realmente genial"
+        },
+        {
+          "word": "Casting",
+          "translation": "elenco, reparto"
+        },
+        {
+          "word": "She's such a badass (frase no literal)",
+          "translation": "es una chica tan genial"
+        },
+        {
+          "word": "The swing",
+          "translation": "el suplente"
+        },
+        {
+          "word": "The first step in, like, brain atrophy for me",
+          "translation": "para mí, es como el primer paso hacia la atrofia cerebral"
+        },
+        {
+          "word": "I don't want to just wing it (forma no literal)",
+          "translation": "no quiero hacerlo a la ligera"
+        },
+        {
+          "word": "Aglow",
+          "translation": "iluminado, resplanceciente"
+        },
+        {
+          "word": "Shit my friends say to get me by (frase no literal)",
+          "translation": "las cosas que dicen mis amigos para animarme"
+        },
+        {
+          "word": "That you read that into it (frase no literal)",
+          "translation": "que tú le hayas dado ese significado/sentido"
+        },
+        {
+          "word": "I read into it (frase no literal)",
+          "translation": "le di más importancia de la que tenía"
+        },
+        {
+          "word": "He brought himself onto the stage",
+          "translation": "subió al escenario por su propia cuenta"
+        },
+        {
+          "word": "He's just up for something (frase no literal)",
+          "translation": "simplemente está de humor para algo"
+        },
+        {
+          "word": "Skit (en producción audiovisual)",
+          "translation": "sketch"
+        },
+        {
+          "word": "Vaudeville",
+          "translation": "vodevil"
+        },
+        {
+          "word": "Perk up",
+          "translation": "animarse"
+        },
+        {
+          "word": "Put forth (verbo)",
+          "translation": "presentar, exponer"
+        },
+        {
+          "word": "Be buff",
+          "translation": "estar en forma"
+        },
+        {
+          "word": "Filter (verbo en la forma no literal)",
+          "translation": "autocensurarse"
+        },
+        {
+          "word": "Fake out",
+          "translation": "finta, amago"
+        },
+        {
+          "word": "Her career has skyrocketed",
+          "translation": "su carrera se ha disparado/catapultado"
+        },
+        {
+          "word": "If you know the words to this one, like, sing along (parcialmente no literal)",
+          "translation": "si te sabes la letra de esta canción, cántala con nosotros"
+        },
+        {
+          "word": "Lose your mind (forma no literal)",
+          "translation": "enloquecer"
+        },
+        {
+          "word": "Switch it up like Nintendo (frase no literal)",
+          "translation": "como si estuviera jugando Nintendo"
+        },
+        {
+          "word": "I'll let you do the line (parcialmente no literal)",
+          "translation": "te voy a dejar que cantes esa parte"
+        },
+        {
+          "word": "Let's fast forward to three hundred takeout coffees later",
+          "translation": "avancemos rápidamente hasta trescientos cafés para llevar más tarde"
+        },
+        {
+          "word": "Unsuspected",
+          "translation": "desprevenido"
+        },
+        {
+          "word": "Was it over then?",
+          "translation": "¿Entonces ya se había acabado?"
+        },
+        {
+          "word": "Like, ballpark",
+          "translation": "o sea, más o menos"
+        },
+        {
+          "word": "Charts (en la industria musical)",
+          "translation": "listas de éxitos"
+        },
+        {
+          "word": "Heartbreak (sustantivo)",
+          "translation": "desilusión amorosa"
+        },
+        {
+          "word": "I'm riddled of",
+          "translation": "estoy lleno de"
+        },
+        {
+          "word": "Left haunted",
+          "translation": "dejado con el corazón roto"
+        },
+        {
+          "word": "Lights down low",
+          "translation": "luces tenues"
+        },
+        {
+          "word": "I was so honored she would be down (parcialmente no literal)",
+          "translation": "me sentí muy honrado de que ella fuera a venir"
+        },
+        {
+          "word": "It's not really that often where a male dancer can do (parcialmente no literal)",
+          "translation": "no es muy común que un bailarín pueda hacer"
+        },
+        {
+          "word": "A female swinging part",
+          "translation": "una mujer puede dar rienda suelta a su lado más desenfrenado"
+        },
+        {
+          "word": "Flourish (verbo)",
+          "translation": "lucirse"
+        },
+        {
+          "word": "Something revolving around and catering to the fans",
+          "translation": "algo que gire en torno a los fans y esté pensado para ellos"
+        },
+        {
+          "word": "It's unheard of",
+          "translation": "es algo inaudito"
+        },
+        {
+          "word": "It rubs off on all of us (frase no literal)",
+          "translation": "nos afecta a todos"
+        },
+        {
+          "word": "A 100% girlhood",
+          "translation": "una infancia 100% femenina"
+        },
+        {
+          "word": "I can offer him if he wants to sit with my family?",
+          "translation": "¿puedo invitarlo a sentarse con mi familia, si quiere?"
+        },
+        {
+          "word": "High tide came and brought you in",
+          "translation": "llegó la marea alta y te trajo hasta aquí"
+        },
+        {
+          "word": "Sweep (someone) out",
+          "translation": "arrastrar (a alguien)"
+        },
+        {
+          "word": "The tour was taking away from the relationship (parcialmente no literal)",
+          "translation": "la gira estaba afectando la relación"
+        },
+        {
+          "word": "He's down to the ground",
+          "translation": "esta tirado en el suelo"
+        },
+        {
+          "word": "That's rad (expresión)",
+          "translation": "qué genial"
+        },
+        {
+          "word": "It's not one that he has reluctuantly",
+          "translation": "no es algo que haga a regañadientes"
+        },
+        {
+          "word": "He was butt hurt (frase no literal)",
+          "translation": "él se sintió ofendido"
+        }
+      ],
+      "count": 62,
+      "dialogues": 808,
+      "duration": 49
+    }
+  ],
+  "count": 217,
+  "dialogues": 3216,
+  "duration": 185
+}

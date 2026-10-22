@@ -11,7 +11,8 @@ póster, no el rosa). Para eso la ficha puede traer su propio color, que manda s
   "color": "#e0479e"
 
 Queda en fanning-dashboard/data/colores.json: {"Barbie": {"poster": "https://…", "color": "#e0479e"}}.
-Solo se recalcula un título si cambió su póster.
+Solo se recalcula un título si cambió su póster (si reemplazas una imagen propia por otra con el
+mismo nombre, usa --rehacer).
 
   python fanning.py colores [--rehacer]
 """
@@ -33,6 +34,8 @@ TONOS = 24
 def color_del_poster(datos):
     import fitz  # PyMuPDF (ya se usa para los PDFs)
     pix = fitz.Pixmap(datos)
+    while pix.width > 200:  # una imagen propia puede venir en tamaño grande; basta con una chica
+        pix.shrink(1)
     if pix.n < 3:
         return None
     paso = pix.n
@@ -81,10 +84,17 @@ def main():
         if previo and previo.get('poster') == poster and not previo.get('manual'):
             salida[ficha['titulo']] = previo
             continue
+        local = F.imagen_local(poster)
+        if local and not os.path.isfile(local):
+            continue
         chico = poster.replace('/w500/', '/w92/').replace('/original/', '/w92/')
         try:
-            with urllib.request.urlopen(chico, timeout=30) as r:
-                color = color_del_poster(r.read())
+            if local:
+                with open(local, 'rb') as a:
+                    color = color_del_poster(a.read())
+            else:
+                with urllib.request.urlopen(chico, timeout=30) as r:
+                    color = color_del_poster(r.read())
         except Exception as e:
             fallas.append(f'{ficha["titulo"]}: {e}')
             if previo:

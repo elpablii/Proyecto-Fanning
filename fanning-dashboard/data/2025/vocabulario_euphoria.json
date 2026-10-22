@@ -53,7 +53,7 @@
     "translation": "superar, dejar atrás, vencer",
     "source_movie": "S01E01 - Pilot",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
     "id": "v_f7004e3c",
@@ -293,7 +293,7 @@
     "translation": "descomponer",
     "source_movie": "S01E01 - Pilot",
     "year_processed": "2025",
-    "global_frequency": 12
+    "global_frequency": 14
   },
   {
     "id": "v_aaf2d2b7",
@@ -397,7 +397,7 @@
     "translation": "de pies a cabeza, de principio a fin",
     "source_movie": "S01E01 - Pilot",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_a1d5d400",
@@ -981,7 +981,7 @@
     "translation": "desmayarse, perder el conocimiento",
     "source_movie": "S01E02 - Stunting Like My Daddy",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_7fe19997",
@@ -1061,7 +1061,7 @@
     "translation": "asqueroso, cretino",
     "source_movie": "S01E02 - Stunting Like My Daddy",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_3eb8dd99",
@@ -1093,7 +1093,7 @@
     "translation": "simple, pura, mera",
     "source_movie": "S01E02 - Stunting Like My Daddy",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_fc8c2d20",
@@ -1477,7 +1477,7 @@
     "translation": "accionar/pulsar un interruptor.",
     "source_movie": "S01E03 - Made Y ou Look",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_6c48ab9e",
@@ -1960,12 +1960,20 @@
     "global_frequency": 1
   },
   {
-    "id": "v_35697c1a",
+    "id": "v_b6f5d92c",
     "word": "Overreact (verbo)",
-    "translation": "reaccionar exageradamente. Are you stoned? ¿Estás drogado?, ¿Estás colocado?.",
+    "translation": "reaccionar exageradamente.",
     "source_movie": "S01E04 - Shook One Part II",
     "year_processed": "2025",
     "global_frequency": 3
+  },
+  {
+    "id": "v_6580734b",
+    "word": "Are you stoned?",
+    "translation": "¿Estás drogado?, ¿Estás colocado?",
+    "source_movie": "S01E04 - Shook One Part II",
+    "year_processed": "2025",
+    "global_frequency": 1
   },
   {
     "id": "v_4aae20c6",
@@ -2061,7 +2069,7 @@
     "translation": "asqueroso",
     "source_movie": "S01E05 - ‘03 Bonnie and Clyde",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_aa87e071",
@@ -2269,7 +2277,7 @@
     "translation": "consecuencias, repercusiones",
     "source_movie": "S01E05 - ‘03 Bonnie and Clyde",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_3b6be3ac",
@@ -2389,7 +2397,7 @@
     "translation": "brillo, destello, resplandor",
     "source_movie": "S01E05 - ‘03 Bonnie and Clyde",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_4fc666f8",
@@ -2437,7 +2445,7 @@
     "translation": "mareas, olas, corriente",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_52c6dac8",
@@ -2573,7 +2581,7 @@
     "translation": "afectuosamente, cariñosamente",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_25836098",
@@ -2589,7 +2597,7 @@
     "translation": "desmayarse, perder el conocimiento",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_1b206ec7",
@@ -2597,7 +2605,7 @@
     "translation": "escalofriante, espeluznante",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 14
+    "global_frequency": 17
   },
   {
     "id": "v_90ffd56d",
@@ -2821,7 +2829,7 @@
     "translation": "precipitado, imprudente",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 5
   },
   {
     "id": "v_8419a1c8",
@@ -2901,7 +2909,7 @@
     "translation": "rechazar, apartarse, alejarse",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
     "id": "v_3df615c3",
@@ -2981,7 +2989,7 @@
     "translation": "alejarse, apartarse",
     "source_movie": "S01E06 - The Next Episode",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_41c835c7",
@@ -3373,7 +3381,7 @@
     "translation": "dar marcha atrás, dar vuelta atrás",
     "source_movie": "S01E07 - The Trials and Tribulations of Trying to Pee While Depressed",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 5
   },
   {
     "id": "v_07ebdfe6",
@@ -4101,7 +4109,7 @@
     "translation": "tranvía",
     "source_movie": "Special 1 - Trouble Don't Last Always",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_4c6e55af",
@@ -4357,7 +4365,7 @@
     "translation": "cursi",
     "source_movie": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
     "id": "v_e8b67dc2",
@@ -4389,7 +4397,7 @@
     "translation": "de principio a fin",
     "source_movie": "Special 2 - Fuck Anyone Who's Not a Sea Blob",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_2635c4f4",
@@ -4637,7 +4645,7 @@
     "translation": "drogadicto",
     "source_movie": "S02E01 - Trying to Get to Heaven Before They Close the Door",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 7
   },
   {
     "id": "v_f172bfef",
@@ -4693,7 +4701,7 @@
     "translation": "un ejemplo",
     "source_movie": "S02E01 - Trying to Get to Heaven Before They Close the Door",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_212a5f05",
@@ -4749,7 +4757,7 @@
     "translation": "agárrate fuerte",
     "source_movie": "S02E01 - Trying to Get to Heaven Before They Close the Door",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_9c3721e2",
@@ -4789,7 +4797,7 @@
     "translation": "desmayarse",
     "source_movie": "S02E01 - Trying to Get to Heaven Before They Close the Door",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_f5b000af",
@@ -5069,7 +5077,7 @@
     "translation": "rodar, girar, dar la vuelta",
     "source_movie": "S02E02 - Out of Touch",
     "year_processed": "2025",
-    "global_frequency": 4
+    "global_frequency": 5
   },
   {
     "id": "v_c17cfb1a",
@@ -5373,7 +5381,7 @@
     "translation": "frenético, desenfrenado",
     "source_movie": "S02E03 - Ruminations: Big and Little Bullys",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_7f84c185",
@@ -5397,7 +5405,7 @@
     "translation": "volantes, folletos",
     "source_movie": "S02E03 - Ruminations: Big and Little Bullys",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_f57dc374",
@@ -5493,7 +5501,7 @@
     "translation": "atuendo, traje",
     "source_movie": "S02E03 - Ruminations: Big and Little Bullys",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_dd99f057",
@@ -5693,7 +5701,7 @@
     "translation": "empleado, dependiente",
     "source_movie": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
     "year_processed": "2025",
-    "global_frequency": 6
+    "global_frequency": 7
   },
   {
     "id": "v_765bf40d",
@@ -5877,7 +5885,7 @@
     "translation": "asqueroso",
     "source_movie": "S02E04 - Y ou Who Cannot See, Think of Those Who Can",
     "year_processed": "2025",
-    "global_frequency": 5
+    "global_frequency": 6
   },
   {
     "id": "v_85fc912f",
@@ -6485,7 +6493,7 @@
     "translation": "chasquido",
     "source_movie": "S02E06 - A Thousand Little Trees of Blood",
     "year_processed": "2025",
-    "global_frequency": 1
+    "global_frequency": 2
   },
   {
     "id": "v_8a2c3248",
@@ -6509,7 +6517,7 @@
     "translation": "desordenado",
     "source_movie": "S02E06 - A Thousand Little Trees of Blood",
     "year_processed": "2025",
-    "global_frequency": 3
+    "global_frequency": 4
   },
   {
     "id": "v_d3a14e1e",
@@ -7157,7 +7165,7 @@
     "translation": "la música sube/suena",
     "source_movie": "S02E08 - All My Life, My Heart Has Y earned for a Thing",
     "year_processed": "2025",
-    "global_frequency": 2
+    "global_frequency": 3
   },
   {
     "id": "v_f104560c",

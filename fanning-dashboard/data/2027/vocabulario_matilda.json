@@ -1,0 +1,826 @@
+[
+  {
+    "id": "v_da578d83",
+    "word": "Maker (en industrias)",
+    "translation": "fabricante",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4693cdab",
+    "word": "Grace (verbo)",
+    "translation": "adornar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_97d98e65",
+    "word": "Repossess (verbo)",
+    "translation": "recuperar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2c69eb49",
+    "word": "Dip-face (despectivo y no literal)",
+    "translation": "cara de tonto",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f10903f0",
+    "word": "Storybooks",
+    "translation": "libros de cuentos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f2109334",
+    "word": "Honeydew",
+    "translation": "cariño",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_008558f8",
+    "word": "Earn your own living (verbo)",
+    "translation": "ganarse la vida por tu propia cuenta",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8b2aee0b",
+    "word": "Big American boffos (informal)",
+    "translation": "dólares estadounidenses",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9adb10a0",
+    "word": "Smart aleck",
+    "translation": "sabelotodo",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_436dd7fe",
+    "word": "Thereby",
+    "translation": "de ese modo, de esa manera",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_460939b2",
+    "word": "Nine-tenths",
+    "translation": "nueve décimas partes",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_86bfc607",
+    "word": "Snappy suit",
+    "translation": "traje elegante",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a492b1cf",
+    "word": "Sucker",
+    "translation": "incauto",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_43d4e874",
+    "word": "Diddle (verbo)",
+    "translation": "estafar, engañar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_935ab8b8",
+    "word": "My heartstrings",
+    "translation": "mis queridos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_12760aa2",
+    "word": "Bumpers",
+    "translation": "parachoques",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0eacf2e4",
+    "word": "The sawdust quiets the gears",
+    "translation": "el aserrín amortigua el ruido de los engranajes",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8662fdfb",
+    "word": "Turn (something) back",
+    "translation": "revertir",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 5
+  },
+  {
+    "id": "v_186ebb9f",
+    "word": "You little wiseacre",
+    "translation": "pequeña sabelotodo",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7c55a30f",
+    "word": "Yank off",
+    "translation": "quitar de un tirón",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4ede41d3",
+    "word": "Your head swelled up really bad",
+    "translation": "se te hinchó mucho la cabeza",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_055af402",
+    "word": "Fused",
+    "translation": "fusionado",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5ce2b4e7",
+    "word": "Gooey",
+    "translation": "pegajoso",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c7ce95e5",
+    "word": "I'm fed up with",
+    "translation": "estoy harto de",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4c6e9f90",
+    "word": "In a manner of speaking",
+    "translation": "por así decirlo",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_59c287ce",
+    "word": "I want a tight car, because I run a tight ship (parcialmente no literal)",
+    "translation": "quiero un auto que ande bien, porque yo dirijo todo con disciplina",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a7d36130",
+    "word": "Stomachs in!",
+    "translation": "¡Metan los estómagos!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7c9c7f1e",
+    "word": "You squirts better skedaddle",
+    "translation": "más vale que se larguen, mocosos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_1d0fd751",
+    "word": "Riding crop",
+    "translation": "fusta",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7c68dc58",
+    "word": "Shot put (alusivo al deporte)",
+    "translation": "lanzamiento de peso/bala",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4ef3807b",
+    "word": "Better than being put in the choky (frase no literal)",
+    "translation": "mejor que acabar en la cárcel",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_02b5dfa4",
+    "word": "Jagged edges",
+    "translation": "bordes irregulars",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_72fbd6e0",
+    "word": "And nails sticking out",
+    "translation": "y clavos que sobresalen",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a5730856",
+    "word": "Festering",
+    "translation": "purulento",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_76e7e5b1",
+    "word": "I scooped these up for you (frase no literal)",
+    "translation": "te traje esto para ti",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_01cc28ea",
+    "word": "Heart-to-hearts (no literal)",
+    "translation": "charlas íntimas",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_80524e4e",
+    "word": "Wart",
+    "translation": "molestia, pesadilla",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c3f0b965",
+    "word": "A carbuncle, a blister, a festering pustule of malignant ooze",
+    "translation": "un forúnculo, una ampolla, una pústula purulenta de exudado maligno",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_96472f07",
+    "word": "Viper",
+    "translation": "víbora",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4b24afdd",
+    "word": "Foist off",
+    "translation": "endosar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a1b9ca4f",
+    "word": "Putrescent",
+    "translation": "asqueroso, repugnante",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ae4e11aa",
+    "word": "Whack (sustantivo)",
+    "translation": "golpe",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_448f7bd8",
+    "word": "Beat it! (expresión)",
+    "translation": "¡Lárgate!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_594935fa",
+    "word": "Get this over with",
+    "translation": "acabemos con esto de una vez",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_a9165dd4",
+    "word": "Slave away",
+    "translation": "trabajar como un esclavo",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5d7462f2",
+    "word": "Snot-nosed children",
+    "translation": "niños mocosos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ed20e338",
+    "word": "Cesspool salesmen",
+    "translation": "vendedores de fosas sépticas",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9cee0144",
+    "word": "Sneer (verbo)",
+    "translation": "burlarse",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_2f1f2d09",
+    "word": "If you became ill, heaven forbid",
+    "translation": "si te enfermaras, Dios no lo quiera",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_bb965812",
+    "word": "Faulty",
+    "translation": "con fallas, defectuoso",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_fecb52e6",
+    "word": "I'm sorry I burst in on you like this (parcialmente no literal)",
+    "translation": "siento haber irrumpido así en tu vida",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fa7ee171",
+    "word": "Hop to, hippity-hop",
+    "translation": "¡Vamos! ¡Salta, salta!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fc97a8ba",
+    "word": "Beats me (expresión)",
+    "translation": "ni idea",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_52c56f80",
+    "word": "Slither (verbo)",
+    "translation": "colarse",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_ce2a72e7",
+    "word": "Scrumptious",
+    "translation": "delicioso",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_ac43c9e3",
+    "word": "It holds a stopwatch on us",
+    "translation": "nos toma el tiempo con un cronómetro",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_370e36e7",
+    "word": "Sweetness",
+    "translation": "cariño",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7da99a39",
+    "word": "Speedboat",
+    "translation": "lanchas rápidas",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_50ac1605",
+    "word": "You lying little earwig (frase no literal)",
+    "translation": "pequeñita mentirosilla",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_b4ed487e",
+    "word": "Newt",
+    "translation": "triton",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_aef142de",
+    "word": "Make a fool out of me",
+    "translation": "hacerme quedar como un tonto",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_5d5557d7",
+    "word": "The spitting image",
+    "translation": "la viva imagen",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e4919e6c",
+    "word": "Water pitcher",
+    "translation": "jarra de agua",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_438baa7f",
+    "word": "Bane",
+    "translation": "pesadilla",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_c210ef86",
+    "word": "You squirming worm of vomit!",
+    "translation": "¡Gusano retorcido y asqueroso!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_df325c27",
+    "word": "Spit it out, speak up",
+    "translation": "dilo sin rodeos, habla claro",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_88aeb5cd",
+    "word": "You piss-worm",
+    "translation": "gusano de mierda",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6a6dae22",
+    "word": "Scoundrel",
+    "translation": "bribón, sinvergüenza, canalla",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_6813d20f",
+    "word": "Lowlife (no literal)",
+    "translation": "escoria, canalla, de pacotilla",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_fc506d1d",
+    "word": "Smelly",
+    "translation": "maloliente",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 4
+  },
+  {
+    "id": "v_0ef00c01",
+    "word": "When you skip merrily to lunch (parcialmente no literal)",
+    "translation": "cuando vas alegremente a almorzar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_09a51bb2",
+    "word": "Feeder",
+    "translation": "comedero",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_15fc3aef",
+    "word": "Tip over",
+    "translation": "voltearse, darse vuelta",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_f63cb59e",
+    "word": "I just stare very hard",
+    "translation": "simplemente lo miro fijamente",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_32640d88",
+    "word": "Rhubarb farmer",
+    "translation": "productor de ruibarbo",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_eb02553a",
+    "word": "Honeysuckle",
+    "translation": "madreselva",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_4c8bab3c",
+    "word": "Wildflower",
+    "translation": "flor silvestre",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_be7913bb",
+    "word": "Piece of junkyard fodder",
+    "translation": "pedazo de chatarra de desguace",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_0a8f615e",
+    "word": "Sneak one (verbo)",
+    "translation": "comer uno a escondidas",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_9e3471d5",
+    "word": "Showroom",
+    "translation": "sala de exposición",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_09a56576",
+    "word": "That no-good jalopy",
+    "translation": "ese cacharro inservible",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_14f4ecc3",
+    "word": "Bazooga",
+    "translation": "tetas, pechos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e950383d",
+    "word": "Roadkill (no literal)",
+    "translation": "animal atropellado",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 3
+  },
+  {
+    "id": "v_97dc2d06",
+    "word": "Surfer-dude bodybuilders",
+    "translation": "culturistas con estilo de surfista",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_e1564d88",
+    "word": "Wade (verbo)",
+    "translation": "abrirse paso",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_7a8c3c7f",
+    "word": "I'll come in and pound your miserable hide! (frase no literal)",
+    "translation": "¡Voy a entrar y te voy a dar una paliza, miserable!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_baeb6def",
+    "word": "A tanning (no alusivo al bronceado)",
+    "translation": "una paliza",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_4aa7c91d",
+    "word": "The ranting and raving",
+    "translation": "las diatribas y los desvaríos",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_01cbd69b",
+    "word": "Little bitty pretty one",
+    "translation": "pequeñita y linda",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_394ca383",
+    "word": "Lovey dovey lovey one",
+    "translation": "cariñito, cariñito, cariñito",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_58ce50c2",
+    "word": "Wormwood's goose is cooked",
+    "translation": "Wormwood estará acabado",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_c7cd35bc",
+    "word": "Tape (verbo)",
+    "translation": "grabar",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_90ad9ab3",
+    "word": "Eyepiece",
+    "translation": "ocular",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_39b87457",
+    "word": "There's another crime in the making",
+    "translation": "se está gestando otro delito",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_6317b9d2",
+    "word": "Come to his senses (verbo)",
+    "translation": "para recuperar el sentido común",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8625d03e",
+    "word": "She's really raving mad",
+    "translation": "está completamente loca The ranks, las filas",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8fbd5531",
+    "word": "The gap",
+    "translation": "el vacío/hueco",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_3e2ea247",
+    "word": "You'll be put away in a place where not even the crows can land their droppings on you",
+    "translation": "te meterán en un lugar donde ni siquiera los cuervos puedan dejar caer sus excrementos sobre ti",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_2e83c5b2",
+    "word": "Neat! (expresión)",
+    "translation": "¡Genial!",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 6
+  },
+  {
+    "id": "v_9dbd441e",
+    "word": "Snotty",
+    "translation": "mocoso",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 2
+  },
+  {
+    "id": "v_6be2c76a",
+    "word": "Legalities",
+    "translation": "asuntos legales",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_92d05740",
+    "word": "As bad as things were before, that's how good they became",
+    "translation": "por muy mal que estuvieran las cosas antes, así de bien se pusieron después",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  },
+  {
+    "id": "v_8bb51941",
+    "word": "Upper school",
+    "translation": "escuela secundaria",
+    "source_movie": "Matilda",
+    "year_processed": "2027",
+    "global_frequency": 1
+  }
+]

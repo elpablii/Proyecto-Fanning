@@ -1,0 +1,1088 @@
+{
+  "title": "The Amazing Digital Circus",
+  "level": "C1",
+  "levelDetail": {
+    "nivel": "C1",
+    "puntaje": 4.69,
+    "senales": {
+      "vocabulario": 4.68,
+      "dialogos": 4.63,
+      "temas": 4.59
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 3.1,
+        "A2": 4.1,
+        "B1": 12.1,
+        "B2": 29.1,
+        "C1": 14.0,
+        "C2": 37.5
+      },
+      "densidad": 8.3
+    },
+    "dialogos": {
+      "cobertura95": 4.68,
+      "ppm": 150.8
+    },
+    "temas": [
+      "musical"
+    ],
+    "rango": [
+      "B2",
+      "C1"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Una mujer queda atrapada en un loco mundo virtual junto con otros cinco humanos y ahora está sujeta a los caprichos de una extravagante IA y a sus propios traumas personales.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+      "https://image.tmdb.org/t/p/w780/nGCacbXEexNj8LEcBoInPKyN8O4.jpg",
+      "https://image.tmdb.org/t/p/w780/p3yTofrXgp1uEKs5eJbC2UtZZEu.jpg",
+      "https://image.tmdb.org/t/p/w780/kxMl7zLFfdNx46CLLkrJFYtt72x.jpg",
+      "https://image.tmdb.org/t/p/w780/aozgphokTt6D9xYEwVaicuJflQG.jpg",
+      "https://image.tmdb.org/t/p/w780/d9jabrtVZL46RnGIRPGEVOHyKt.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Pilot",
+        "still_path": "https://image.tmdb.org/t/p/w500/aoIpwK6Z93dFxgtHTlnFZzamLWk.jpg",
+        "overview": "Atrapada en el Circo Digital y ansiosa por escapar, Pomni conoce a otras personas transformadas en caricaturas y a Caine, el excéntrico director del circo."
+      },
+      "S01E02": {
+        "name": "Candy Carrier Chaos!",
+        "still_path": "https://image.tmdb.org/t/p/w500/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg",
+        "overview": "La pandilla debe ir tras los bandidos de miel en un reino de caramelos. Pomni ayuda a un forajido digital a resolver una pegajosa crisis de identidad."
+      },
+      "S01E03": {
+        "name": "The Mystery of Mildenhall Manor",
+        "still_path": "https://image.tmdb.org/t/p/w500/4haDAnhTNL6O4jznpuep4uyZxlM.jpg",
+        "overview": "Kinger y Pomni exploran una mansión embrujada en la que viven una aventura llena de monstruos, fantasmas y sesiones de terapia."
+      },
+      "S01E04": {
+        "name": "Fast Food Masquerade",
+        "still_path": "https://image.tmdb.org/t/p/w500/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg",
+        "overview": "Al grupo le toca trabajar todo el día en Spudsy's, un local de comida rápida. ¿Lograrán sobrevivir a la jornada laboral?"
+      },
+      "S01E05": {
+        "name": "Untitled",
+        "still_path": "https://image.tmdb.org/t/p/w500/p7QToZAtIUrGtR8AfK1Yrt7MiDc.jpg",
+        "overview": "Caine usa las ideas de la caja de sugerencias y guía a la pandilla a través de una serie de aventuras. Pomni está en una posición de poder."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "The Amazing Digital Circus (Episode 1)",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.89,
+        "senales": {
+          "vocabulario": 4.87,
+          "dialogos": 4.95,
+          "temas": 4.86
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.8,
+            "A2": 2.8,
+            "B1": 8.3,
+            "B2": 25.0,
+            "C1": 13.9,
+            "C2": 47.2
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 5.0,
+          "ppm": 150.9
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Ringmaster",
+          "translation": "maestro de ceremonias"
+        },
+        {
+          "word": "The most jaw-dropping, heart-stopping, mind-bending paraphernalia",
+          "translation": "la parafernalia más alucinante, que te deja sin aliento y te hace perder la cabeza"
+        },
+        {
+          "word": "Flower pot",
+          "translation": "maceta"
+        },
+        {
+          "word": "Non-Player Character (NPC)",
+          "translation": "personaje no jugable"
+        },
+        {
+          "word": "Just keep grabbing at it (frase no literal)",
+          "translation": "sigue intentándolo"
+        },
+        {
+          "word": "Newbie",
+          "translation": "principiante"
+        },
+        {
+          "word": "Grounds",
+          "translation": "instalaciones"
+        },
+        {
+          "word": "Ball pits",
+          "translation": "piscinas de pelotas"
+        },
+        {
+          "word": "Engage at ridery",
+          "translation": "participar en travesuras"
+        },
+        {
+          "word": "Get frisky",
+          "translation": "ponerse juguetón"
+        },
+        {
+          "word": "Blegh! (expresión)",
+          "translation": "¡Puaj!"
+        },
+        {
+          "word": "Libelous, slanderous",
+          "translation": "difamatorio, calumnioso"
+        },
+        {
+          "word": "Gadzooks (expresión)",
+          "translation": "caramba"
+        },
+        {
+          "word": "Chomp! (expresión)",
+          "translation": "¡mmm!"
+        },
+        {
+          "word": "Unobtrusive",
+          "translation": "discreto, modesto"
+        },
+        {
+          "word": "Mischievous",
+          "translation": "traviesas"
+        },
+        {
+          "word": "Hash browns",
+          "translation": "croquetas de papa, papas fritas"
+        },
+        {
+          "word": "Jeez (expresión)",
+          "translation": "caramba"
+        },
+        {
+          "word": "Boing (verbo)",
+          "translation": "rebotar, dar saltitos, saltar"
+        },
+        {
+          "word": "He was rambling endlessly",
+          "translation": "no paraba de divagar sin fin"
+        },
+        {
+          "word": "Musical sting",
+          "translation": "fragmento musical"
+        },
+        {
+          "word": "Dollface",
+          "translation": "muñequita (literal), nena (no literal)"
+        },
+        {
+          "word": "Centipede",
+          "translation": "ciempiés"
+        },
+        {
+          "word": "Breaking point (no literal)",
+          "translation": "punto límite"
+        },
+        {
+          "word": "Stutter (verbo en sonidos)",
+          "translation": "entrecortarse"
+        },
+        {
+          "word": "Recap (no literal)",
+          "translation": "resumen"
+        },
+        {
+          "word": "Utterly",
+          "translation": "absolutamente"
+        },
+        {
+          "word": "A rabbitoid that runs its mouth (frase no literal)",
+          "translation": "un bicho parecido a un conejo que no para de hablar"
+        },
+        {
+          "word": "Befuddled",
+          "translation": "desconcertado, desorientado"
+        },
+        {
+          "word": "Sweeping, awe-inspiring music",
+          "translation": "música grandiosa e impresionante"
+        },
+        {
+          "word": "They'll get totally spoiled!",
+          "translation": "¡Se van a consentir mucho!"
+        },
+        {
+          "word": "Cellar",
+          "translation": "sótano"
+        },
+        {
+          "word": "Lapping",
+          "translation": "chapoteo"
+        },
+        {
+          "word": "Eerie low rumbling",
+          "translation": "retumbar sordo e inquietante"
+        },
+        {
+          "word": "Sheesh, lay off it (expresión)",
+          "translation": "ay, ya déjala"
+        },
+        {
+          "word": "Sweeping music",
+          "translation": "música grandiosa"
+        }
+      ],
+      "count": 36,
+      "dialogues": 471,
+      "duration": 26
+    },
+    {
+      "code": "S01E02",
+      "name": "The Amazing Digital Circus (Episode 2)",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.67,
+        "senales": {
+          "vocabulario": 4.82,
+          "dialogos": 4.36,
+          "temas": 4.6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 2.3,
+            "A2": 6.9,
+            "B1": 9.3,
+            "B2": 28.5,
+            "C1": 16.2,
+            "C2": 36.8
+          },
+          "densidad": 9.3
+        },
+        "dialogos": {
+          "cobertura95": 4.56,
+          "ppm": 138.9
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Peppy",
+          "translation": "animado, lleno de energía"
+        },
+        {
+          "word": "Echoing throughout",
+          "translation": "resonar por todas partes"
+        },
+        {
+          "word": "Thudding (en sonidos)",
+          "translation": "fuerte"
+        },
+        {
+          "word": "We're not all cut out for it (frase no literal)",
+          "translation": "no todos estamos hechos para eso"
+        },
+        {
+          "word": "Yesterday was a bit of a doozy (frase no literal)",
+          "translation": "ayer fue un día de locos"
+        },
+        {
+          "word": "Tease (verbo no alusivo a burlarse)",
+          "translation": "adelantar (sobre un hecho)"
+        },
+        {
+          "word": "Maple",
+          "translation": "arce"
+        },
+        {
+          "word": "Buttery",
+          "translation": "mantecoso"
+        },
+        {
+          "word": "Larping (traducción aproximada)",
+          "translation": "juego de rol en vivo"
+        },
+        {
+          "word": "Hype up",
+          "translation": "animar"
+        },
+        {
+          "word": "Tanker",
+          "translation": "camión cisterna"
+        },
+        {
+          "word": "Go head-of-head (verbo no literal)",
+          "translation": "enfrentarse"
+        },
+        {
+          "word": "A war rig of your own",
+          "translation": "tu propio vehículo de combate"
+        },
+        {
+          "word": "Rumbling (en motores)",
+          "translation": "rugido"
+        },
+        {
+          "word": "Truck horn warbles (acotación)",
+          "translation": "el claxon del camión emite un sonido entrecortado"
+        },
+        {
+          "word": "Pull through",
+          "translation": "salir adelante"
+        },
+        {
+          "word": "You're violating my ears with your clap-back (frase no literal)",
+          "translation": "me estás lastimando los oídos con tu respuesta mordaz"
+        },
+        {
+          "word": "I'll cross over you (forma no literal)",
+          "translation": "te lo pasaré por encima"
+        },
+        {
+          "word": "This lot's trouble",
+          "translation": "este tipo es un problema"
+        },
+        {
+          "word": "Let's see how their rig does (no literal)",
+          "translation": "veamos cómo le va/se desempeña su equipo"
+        },
+        {
+          "word": "Brass (aparte de latón)",
+          "translation": "metales"
+        },
+        {
+          "word": "Now we're cooking (frase no literal)",
+          "translation": "ahora sí que estamos en racha"
+        },
+        {
+          "word": "Submissive",
+          "translation": "sumiso"
+        },
+        {
+          "word": "Quit mucking about",
+          "translation": "deja de perder el tiempo"
+        },
+        {
+          "word": "Ram (verbo)",
+          "translation": "embestir"
+        },
+        {
+          "word": "They are whack jobs (no literal)",
+          "translation": "ellos están locos"
+        },
+        {
+          "word": "Breathing shakily throughout (acotación)",
+          "translation": "respirando entrecortadamente todo el tiempo"
+        },
+        {
+          "word": "Swell (verbo en música)",
+          "translation": "ir en aumento"
+        },
+        {
+          "word": "Non-Player Character (NPC)",
+          "translation": "personaje no jugable"
+        },
+        {
+          "word": "Haunting",
+          "translation": "inquietante"
+        },
+        {
+          "word": "Launch ourselves back up (no literal)",
+          "translation": "volver a levantarnos"
+        },
+        {
+          "word": "Fudge splorching (acotación)",
+          "translation": "salpicaduras de dulce de leche/chocolate"
+        },
+        {
+          "word": "Gloopy",
+          "translation": "pegajoso, viscoso"
+        },
+        {
+          "word": "Townsfolk",
+          "translation": "habitantes del pueblo"
+        },
+        {
+          "word": "An upstanding guy",
+          "translation": "un tipo íntegro"
+        },
+        {
+          "word": "You'd be sickened!",
+          "translation": "¡Te daría náuseas!"
+        },
+        {
+          "word": "Air rushing (acotación parcialmente no literal)",
+          "translation": "ruido del aire"
+        },
+        {
+          "word": "I saw the reaper wink at me",
+          "translation": "vi cómo la Parca/la Muerte me guiñaba el ojo"
+        },
+        {
+          "word": "Bright-eyed yobbos",
+          "translation": "gamberros de mirada vivaz"
+        },
+        {
+          "word": "Drag (someone) down",
+          "translation": "arrastrar"
+        },
+        {
+          "word": "Trippy",
+          "translation": "psicodélico, alucinante"
+        },
+        {
+          "word": "We got fudged (frase no literal)",
+          "translation": "nos la jugaron"
+        },
+        {
+          "word": "Tap",
+          "translation": "grifo"
+        },
+        {
+          "word": "How wholesome",
+          "translation": "qué saludable"
+        },
+        {
+          "word": "Hard-shelled",
+          "translation": "de cáscara dura"
+        },
+        {
+          "word": "This one just got pushed around a bit (frase no literal)",
+          "translation": "este se ha visto un poco afectado"
+        }
+      ],
+      "count": 46,
+      "dialogues": 492,
+      "duration": 26
+    },
+    {
+      "code": "S01E03",
+      "name": "The Amazing Digital Circus (Episode 3)",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.79,
+        "senales": {
+          "vocabulario": 4.71,
+          "dialogos": 5.01,
+          "temas": 4.77
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 5.5,
+            "B1": 5.5,
+            "B2": 35.5,
+            "C1": 13.7,
+            "C2": 39.9
+          },
+          "densidad": 7.1
+        },
+        "dialogos": {
+          "cobertura95": 5.08,
+          "ppm": 149.1
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Goofy (aparte de tonto)",
+          "translation": "gracioso, divertido"
+        },
+        {
+          "word": "You could toughen up",
+          "translation": "podrías hacerte más fuerte"
+        },
+        {
+          "word": "Hue shift",
+          "translation": "cambio de tono"
+        },
+        {
+          "word": "Ragatha's hair noodles stick up",
+          "translation": "los mechones de pelo de Ragatha se le levantan"
+        },
+        {
+          "word": "When there's adventure to be had (parcialmente no literal)",
+          "translation": "cuando hay una aventura por vivir"
+        },
+        {
+          "word": "To the brim",
+          "translation": "hasta los topes"
+        },
+        {
+          "word": "All the ghoulish ghost activity",
+          "translation": "toda la actividad fantasmal y macabra"
+        },
+        {
+          "word": "Gritty (en raspado)",
+          "translation": "en seco"
+        },
+        {
+          "word": "Jumpscare (traducción denotativa)",
+          "translation": "susto repentino"
+        },
+        {
+          "word": "My first wild take (no literal)",
+          "translation": "mi primera toma loca"
+        },
+        {
+          "word": "Come on out!",
+          "translation": "¡Sal, ya!"
+        },
+        {
+          "word": "Mystical shimmering",
+          "translation": "brillo mistico"
+        },
+        {
+          "word": "Tape player clunks (acotación)",
+          "translation": "el reproductor de cintas hace un ruido sordo"
+        },
+        {
+          "word": "Unholy",
+          "translation": "profano, ímpio"
+        },
+        {
+          "word": "Dread",
+          "translation": "terror, temor"
+        },
+        {
+          "word": "Ride up (aparte de montar)",
+          "translation": "subirse"
+        },
+        {
+          "word": "Vitals",
+          "translation": "órganos vitales"
+        },
+        {
+          "word": "Sever the head (verbo)",
+          "translation": "cortar la cabeza"
+        },
+        {
+          "word": "This is some rather inconvenient lore placement",
+          "translation": "esta es una ubicación de la historia bastante inoportuna"
+        },
+        {
+          "word": "You're really hit-and-miss with these things, sometimes",
+          "translation": "a veces, con estas cosas, realmente es cuestión de suerte"
+        },
+        {
+          "word": "I couldn't quite make that out (frase no literal)",
+          "translation": "no lo entendí muy bien"
+        },
+        {
+          "word": "Dazed",
+          "translation": "aturdido"
+        },
+        {
+          "word": "Swap out",
+          "translation": "sustituir, reemplazar"
+        },
+        {
+          "word": "Undesirable",
+          "translation": "indeseada"
+        },
+        {
+          "word": "Ink blots",
+          "translation": "manchas de tinta"
+        },
+        {
+          "word": "Cellar",
+          "translation": "sótano"
+        },
+        {
+          "word": "Let's make them count (frase no literal)",
+          "translation": "hagamos que valgan la pena"
+        },
+        {
+          "word": "Clang",
+          "translation": "ruido metálico, ruido sordo"
+        },
+        {
+          "word": "Squelching",
+          "translation": "chapoteo"
+        },
+        {
+          "word": "Edgy",
+          "translation": "provocador"
+        },
+        {
+          "word": "Bring harm (verbo)",
+          "translation": "causar daño"
+        },
+        {
+          "word": "Ironclad",
+          "translation": "blindado, resistente"
+        },
+        {
+          "word": "You get out of her (no literal)",
+          "translation": "aléjate de ella"
+        },
+        {
+          "word": "String (en sucesos)",
+          "translation": "secuencia"
+        },
+        {
+          "word": "The harsh, jagged edges smoothed out",
+          "translation": "los bordes ásperos y dentados se suavizaron"
+        },
+        {
+          "word": "When engulfed",
+          "translation": "cuando te ves envuelto"
+        },
+        {
+          "word": "Gentle heartfelt piano music (acotación parcialmente no literal)",
+          "translation": "música de piano suave y conmovedora"
+        },
+        {
+          "word": "My meowing milkmaids",
+          "translation": "mis lecheras maulladoras"
+        }
+      ],
+      "count": 38,
+      "dialogues": 537,
+      "duration": 25
+    },
+    {
+      "code": "S01E04",
+      "name": "The Amazing Digital Circus (Episode 4)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.35,
+        "senales": {
+          "vocabulario": 4.27,
+          "dialogos": 4.71,
+          "temas": 4.07
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.3,
+            "A2": 5.2,
+            "B1": 20.6,
+            "B2": 24.0,
+            "C1": 11.1,
+            "C2": 28.9
+          },
+          "densidad": 9.2
+        },
+        "dialogos": {
+          "cobertura95": 4.79,
+          "ppm": 148.8
+        },
+        "temas": [
+          "culinaria"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Wind your arm",
+          "translation": "gira el brazo"
+        },
+        {
+          "word": "And follow through (no literal)",
+          "translation": "y sigue el movimiento"
+        },
+        {
+          "word": "Thunk-thunk! (acotación tipo onomatopeya con traducción aproximada)",
+          "translation": "¡Pum-pum!"
+        },
+        {
+          "word": "Shift manager",
+          "translation": "jefe/encargado de turno"
+        },
+        {
+          "word": "I could sit this one out (frase no literal)",
+          "translation": "podría pasar de esta"
+        },
+        {
+          "word": "Give a swing (verbo no literal)",
+          "translation": "intentar"
+        },
+        {
+          "word": "Nonslip",
+          "translation": "antideslizante"
+        },
+        {
+          "word": "Flicking (acotación)",
+          "translation": "sonido, chasquido, ruido"
+        },
+        {
+          "word": "Industrious music",
+          "translation": "música laboriosa"
+        },
+        {
+          "word": "Deep fryer",
+          "translation": "freidora"
+        },
+        {
+          "word": "Burbled screaming (acotación)",
+          "translation": "gritos entrecortados"
+        },
+        {
+          "word": "Upper management",
+          "translation": "alta dirección, gerencia superior"
+        },
+        {
+          "word": "Rubbery speech (acotación)",
+          "translation": "habla arrastrada"
+        },
+        {
+          "word": "Pleasant muzak plays over speakers (acotación)",
+          "translation": "por los altavoces suena una agradable música de fondo"
+        },
+        {
+          "word": "Warped rushing (acotación aproximada)",
+          "translation": "corriendo/corrida a toda prisa"
+        },
+        {
+          "word": "Push (verbo no alusivo a empujar)",
+          "translation": "insistir, presionar"
+        },
+        {
+          "word": "Hash browns",
+          "translation": "papas fritas con forma de tortita"
+        },
+        {
+          "word": "Weird out",
+          "translation": "incomodar, poner nervioso"
+        },
+        {
+          "word": "It's lunch rush",
+          "translation": "es la hora punta del almuerzo"
+        },
+        {
+          "word": "Get your game faces on! (frase no literal)",
+          "translation": "¡Prepárense para la acción!"
+        },
+        {
+          "word": "Clinking",
+          "translation": "tintineo"
+        },
+        {
+          "word": "My precious spawn (no literal)",
+          "translation": "mis queridos hijos"
+        },
+        {
+          "word": "Lighthearted music",
+          "translation": "música alegre"
+        },
+        {
+          "word": "Biohazard",
+          "translation": "riesgo biológico"
+        },
+        {
+          "word": "A good scrubbing",
+          "translation": "una buena limpieza"
+        },
+        {
+          "word": "Laughs stiffy",
+          "translation": "se ríe con rigidez"
+        },
+        {
+          "word": "Zap on",
+          "translation": "encender (una tele)"
+        },
+        {
+          "word": "The ins and outs",
+          "translation": "todo lo que hay que saber"
+        },
+        {
+          "word": "Horseradish sauce",
+          "translation": "salsa de rábano picante"
+        },
+        {
+          "word": "You're such a grouch",
+          "translation": "eres un verdadero gruñón"
+        },
+        {
+          "word": "Huff paint (verbo)",
+          "translation": "inhalar pintura"
+        },
+        {
+          "word": "If you under-perform now",
+          "translation": "si ahora no rindes lo suficiente"
+        },
+        {
+          "word": "In regards to (preposición)",
+          "translation": "en lo que respecta a, en cuanto a"
+        },
+        {
+          "word": "Stick around",
+          "translation": "quedarse"
+        },
+        {
+          "word": "Overall (adverbio)",
+          "translation": "en general"
+        },
+        {
+          "word": "You seem to have cut your own shift short",
+          "translation": "parece que has acortado tu turno"
+        },
+        {
+          "word": "You went a little kooky, and ran out into oncoming traffic",
+          "translation": "te volviste un poco loco y te lanzaste al tráfico que venía en sentido contrario"
+        },
+        {
+          "word": "Offload the blame (verbo)",
+          "translation": "echar la culpa"
+        },
+        {
+          "word": "And avoid the dock on your score",
+          "translation": "y evitar que te quiten puntos"
+        },
+        {
+          "word": "Cracked under the pressure (parcialmente no literal)",
+          "translation": "no aguantó la presión"
+        },
+        {
+          "word": "Knock your score down to",
+          "translation": "bajar tu puntaje a"
+        },
+        {
+          "word": "What are you all the way our here for?",
+          "translation": "¿Para qué viniste hasta aquí?"
+        },
+        {
+          "word": "A bust",
+          "translation": "un fracaso"
+        }
+      ],
+      "count": 43,
+      "dialogues": 469,
+      "duration": 24
+    },
+    {
+      "code": "S01E05",
+      "name": "The Amazing Digital Circus (Episode 5)",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.74,
+        "senales": {
+          "vocabulario": 4.78,
+          "dialogos": 4.67,
+          "temas": 4.7
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 0.0,
+            "A2": 0.0,
+            "B1": 16.6,
+            "B2": 32.7,
+            "C1": 15.1,
+            "C2": 35.7
+          },
+          "densidad": 8.2
+        },
+        "dialogos": {
+          "cobertura95": 4.57,
+          "ppm": 163.2
+        },
+        "temas": [
+          "musical"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Hatch (verbo)",
+          "translation": "empollar, incubar, nacer, eclosionar"
+        },
+        {
+          "word": "Wear off (verbo frasal no literal)",
+          "translation": "desvanecerse"
+        },
+        {
+          "word": "Mismatch (verbo)",
+          "translation": "combinar mal, no combinar bien"
+        },
+        {
+          "word": "Constructuve criticism would be greatly appreciated",
+          "translation": "agradeceríamos mucho cualquier crítica constructive"
+        },
+        {
+          "word": "Shimmering",
+          "translation": "resplandor"
+        },
+        {
+          "word": "Pitch (verbo en emprendimiento o propuestas)",
+          "translation": "proponer"
+        },
+        {
+          "word": "Sentient",
+          "translation": "consciente, sensible"
+        },
+        {
+          "word": "Doing something grounded in reality",
+          "translation": "hacer algo que se base en la realidad"
+        },
+        {
+          "word": "Zip up",
+          "translation": "abrochar"
+        },
+        {
+          "word": "A lightning round",
+          "translation": "una ronda relámpago"
+        },
+        {
+          "word": "And pop your pansies",
+          "translation": "agarra tus pensamientos"
+        },
+        {
+          "word": "Cheerful musical sting plays",
+          "translation": "suena un alegre fragmento musical"
+        },
+        {
+          "word": "Buzzer blats (acotación)",
+          "translation": "suena el timbre"
+        },
+        {
+          "word": "Brief",
+          "translation": "resumen"
+        },
+        {
+          "word": "Tap into those golden improv skills",
+          "translation": "sacar provecho de esas habilidades de improvisación"
+        },
+        {
+          "word": "Centipedes",
+          "translation": "ciempiés"
+        },
+        {
+          "word": "Distorted feedback blares (acotación)",
+          "translation": "se oye un ruido de retroalimentación distorsionado"
+        },
+        {
+          "word": "Why don't you help yourself to a sangwidge?",
+          "translation": "¿Por qué no te sirves un sándwich?"
+        },
+        {
+          "word": "Firefly",
+          "translation": "luciérnaga"
+        },
+        {
+          "word": "Peak (en progreso o rendimiento)",
+          "translation": "máximo"
+        },
+        {
+          "word": "Let's go to an intermission (frase no literal)",
+          "translation": "hagamos una pausa, vamos a tomar un descanso"
+        },
+        {
+          "word": "Rewound audio warbles (acotación)",
+          "translation": "sonido distorsionado al rebobinar"
+        },
+        {
+          "word": "Deep sultry voice (acotación)",
+          "translation": "con voz grave y sensual"
+        },
+        {
+          "word": "Record scratches (acotación)",
+          "translation": "se oye el chirrido de un disco"
+        },
+        {
+          "word": "Trippy music",
+          "translation": "música psicodélica"
+        },
+        {
+          "word": "Remixed vocals (acotación)",
+          "translation": "voces remezcladas"
+        },
+        {
+          "word": "We're intermissioning!",
+          "translation": "¡Estamos en el intermedio!"
+        },
+        {
+          "word": "Moody",
+          "translation": "evocador, con toque melancólico"
+        },
+        {
+          "word": "Warbling tones",
+          "translation": "tonos trinantes"
+        },
+        {
+          "word": "It's raining like the dickens out there (parcialmente no literal)",
+          "translation": "está lloviendo a cántaros ahí afuera"
+        },
+        {
+          "word": "Corncob",
+          "translation": "mazorca de maíz"
+        },
+        {
+          "word": "You know your way around alcohol? (pregunta parcialmente no literal)",
+          "translation": "¿Sabes de qué va el tema del alcohol?"
+        },
+        {
+          "word": "That sounds fitting for you (parcialmente no literal)",
+          "translation": "eso suena como algo que te caracterizaría"
+        },
+        {
+          "word": "Seek out",
+          "translation": "buscar"
+        },
+        {
+          "word": "Mild",
+          "translation": "suave"
+        },
+        {
+          "word": "Junkie",
+          "translation": "drogadicto"
+        },
+        {
+          "word": "The berating and guilt-tripping",
+          "translation": "los regaños y las culpas"
+        },
+        {
+          "word": "A budding relationship",
+          "translation": "una relación que está comenzando"
+        },
+        {
+          "word": "Smash (someone) against",
+          "translation": "golpear contra, estrellar contra"
+        },
+        {
+          "word": "I got all jumbled up",
+          "translation": "me quedé todo revuelto"
+        },
+        {
+          "word": "Let's go break some tailbones! (frase no literal)",
+          "translation": "¡Vamos a partirles la cola a todos!"
+        },
+        {
+          "word": "Get owned! (expresión)",
+          "translation": "¡Que te den!"
+        },
+        {
+          "word": "Seems fitting for you",
+          "translation": "parece que te queda bien"
+        },
+        {
+          "word": "I kind of liked the low-stake ones",
+          "translation": "me gustaron un poco la de las apuestas bajas"
+        }
+      ],
+      "count": 44,
+      "dialogues": 534,
+      "duration": 26
+    }
+  ],
+  "count": 207,
+  "dialogues": 2503,
+  "duration": 127
+}

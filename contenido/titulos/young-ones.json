@@ -1,0 +1,42 @@
+{
+  "titulo": "Young Ones",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 100,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 215379
+  },
+  "estreno": "2014-06-28",
+  "generos": [
+    "Western",
+    "Acción",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "analisis": "",
+  "sinopsis": "Un joven de 14 años (Smit-Mcphee) esta obligado a usar su ingenio para sobrevivir en un mundo post-apocalíptico donde el agua se ha convertido en el recurso más preciado, provocando violentas guerras por su posesión.",
+  "poster": "https://image.tmdb.org/t/p/w500/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+    "https://image.tmdb.org/t/p/w780/6XiWOO8KwnyfJBP54sBTyszCFPP.jpg",
+    "https://image.tmdb.org/t/p/w780/fdPZAmye9ghBVVv3eN6o51FV0kQ.jpg",
+    "https://image.tmdb.org/t/p/w780/jyTBTB4D2wPxm4jXCY6KBWviswi.jpg",
+    "https://image.tmdb.org/t/p/w780/6et5AMOdUjX7xazoKjsJd1QM9K8.jpg",
+    "https://image.tmdb.org/t/p/w780/wojQTCiD1wsZMapbgHrNhO7HgC.jpg"
+  ],
+  "realeza": {
+    "Elle Fanning": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Young Ones (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Young Ones to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "titulo": "Lucky",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 278624
+  },
+  "estreno": "2026-07-14",
+  "generos": [
+    "Drama",
+    "Crimen"
+  ],
+  "analisis": "",
+  "sinopsis": "Cuando un robo multimillonario sale mal, la estafadora Lucky se ve obligada a escapar. Perseguida por el FBI y un despiadado jefe militar, Lucky debe pelear por su vida y por una salida.",
+  "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+    "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+    "https://image.tmdb.org/t/p/w780/61fYaqL1CyMyA5c7Zm9zcMcFqHl.jpg",
+    "https://image.tmdb.org/t/p/w780/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
+    "https://image.tmdb.org/t/p/w780/54j5eTbC6dISWomgHvxh4y3tnjF.jpg",
+    "https://image.tmdb.org/t/p/w780/lW1kTROBEqpKlhBhMKaPoo0Y64D.jpg"
+  ],
+  "realeza": {
+    "Anya Taylor-Joy": [
+      "actua",
+      "produce"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Lucky (EP 1-2) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Lucky (EP 3-4) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from Lucky to improve the vocabulary in English.pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "Lucky (Episode 1)",
+      "titulo": "No Shortcuts",
+      "foto": "https://image.tmdb.org/t/p/w500/v6gwIPY86myKepH040HvqIPReI9.jpg",
+      "sinopsis": "Después de una noche de fiesta en Las Vegas, Lucky despierta y encuentra su mundo de cabeza.",
+      "duracion": 48
+    },
+    "S01E02": {
+      "nombre": "Lucky (Episode 2)",
+      "titulo": "Make 'em Dance",
+      "foto": "https://image.tmdb.org/t/p/w500/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
+      "sinopsis": "Lucky se refugia con una familia inocente. Priscilla visita al padre de Lucky.",
+      "duracion": 48
+    },
+    "S01E03": {
+      "nombre": "Lucky (Episode 3)",
+      "titulo": "Read the Room",
+      "foto": "https://image.tmdb.org/t/p/w500/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
+      "sinopsis": "Lucky trata de rastrear a Cary y a su dinero. La agente Rand investiga los movimientos de Lucky.",
+      "duracion": 46
+    },
+    "S01E04": {
+      "nombre": "Lucky (Episode 4)",
+      "titulo": "Too Close to See It",
+      "foto": "https://image.tmdb.org/t/p/w500/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
+      "sinopsis": "Mientras confronta una traición, Lucky deja de lado su rencor ante una persecución mortal.",
+      "duracion": 40
+    }
+  }
+}

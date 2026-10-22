@@ -1,0 +1,460 @@
+{
+  "title": "Matilda",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.17,
+    "senales": {
+      "vocabulario": 4.43,
+      "dialogos": 3.44,
+      "temas": 4.35
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 2.9,
+        "A2": 11.7,
+        "B1": 12.6,
+        "B2": 23.3,
+        "C1": 19.4,
+        "C2": 30.1
+      },
+      "densidad": 8.3
+    },
+    "dialogos": {
+      "cobertura95": 3.47,
+      "ppm": 152.3
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+      "https://image.tmdb.org/t/p/w780/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+      "https://image.tmdb.org/t/p/w780/dPZ9OTHoynjxpOuBVikxwNk6E21.jpg",
+      "https://image.tmdb.org/t/p/w780/1iDasePUoNZZyxaP2veLxr6uCDj.jpg",
+      "https://image.tmdb.org/t/p/w780/6C01lrStLX3l9HbKgru00q6NHlP.jpg",
+      "https://image.tmdb.org/t/p/w780/azLC34TYTBssbTTnIDXES4QRj6m.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+  "vocabulary": [
+    {
+      "word": "Maker (en industrias)",
+      "translation": "fabricante"
+    },
+    {
+      "word": "Grace (verbo)",
+      "translation": "adornar"
+    },
+    {
+      "word": "Repossess (verbo)",
+      "translation": "recuperar"
+    },
+    {
+      "word": "Dip-face (despectivo y no literal)",
+      "translation": "cara de tonto"
+    },
+    {
+      "word": "Storybooks",
+      "translation": "libros de cuentos"
+    },
+    {
+      "word": "Honeydew",
+      "translation": "cariño"
+    },
+    {
+      "word": "Earn your own living (verbo)",
+      "translation": "ganarse la vida por tu propia cuenta"
+    },
+    {
+      "word": "Big American boffos (informal)",
+      "translation": "dólares estadounidenses"
+    },
+    {
+      "word": "Smart aleck",
+      "translation": "sabelotodo"
+    },
+    {
+      "word": "Thereby",
+      "translation": "de ese modo, de esa manera"
+    },
+    {
+      "word": "Nine-tenths",
+      "translation": "nueve décimas partes"
+    },
+    {
+      "word": "Snappy suit",
+      "translation": "traje elegante"
+    },
+    {
+      "word": "Sucker",
+      "translation": "incauto"
+    },
+    {
+      "word": "Diddle (verbo)",
+      "translation": "estafar, engañar"
+    },
+    {
+      "word": "My heartstrings",
+      "translation": "mis queridos"
+    },
+    {
+      "word": "Bumpers",
+      "translation": "parachoques"
+    },
+    {
+      "word": "The sawdust quiets the gears",
+      "translation": "el aserrín amortigua el ruido de los engranajes"
+    },
+    {
+      "word": "Turn (something) back",
+      "translation": "revertir"
+    },
+    {
+      "word": "You little wiseacre",
+      "translation": "pequeña sabelotodo"
+    },
+    {
+      "word": "Yank off",
+      "translation": "quitar de un tirón"
+    },
+    {
+      "word": "Your head swelled up really bad",
+      "translation": "se te hinchó mucho la cabeza"
+    },
+    {
+      "word": "Fused",
+      "translation": "fusionado"
+    },
+    {
+      "word": "Gooey",
+      "translation": "pegajoso"
+    },
+    {
+      "word": "I'm fed up with",
+      "translation": "estoy harto de"
+    },
+    {
+      "word": "In a manner of speaking",
+      "translation": "por así decirlo"
+    },
+    {
+      "word": "I want a tight car, because I run a tight ship (parcialmente no literal)",
+      "translation": "quiero un auto que ande bien, porque yo dirijo todo con disciplina"
+    },
+    {
+      "word": "Stomachs in!",
+      "translation": "¡Metan los estómagos!"
+    },
+    {
+      "word": "You squirts better skedaddle",
+      "translation": "más vale que se larguen, mocosos"
+    },
+    {
+      "word": "Riding crop",
+      "translation": "fusta"
+    },
+    {
+      "word": "Shot put (alusivo al deporte)",
+      "translation": "lanzamiento de peso/bala"
+    },
+    {
+      "word": "Better than being put in the choky (frase no literal)",
+      "translation": "mejor que acabar en la cárcel"
+    },
+    {
+      "word": "Jagged edges",
+      "translation": "bordes irregulars"
+    },
+    {
+      "word": "And nails sticking out",
+      "translation": "y clavos que sobresalen"
+    },
+    {
+      "word": "Festering",
+      "translation": "purulento"
+    },
+    {
+      "word": "I scooped these up for you (frase no literal)",
+      "translation": "te traje esto para ti"
+    },
+    {
+      "word": "Heart-to-hearts (no literal)",
+      "translation": "charlas íntimas"
+    },
+    {
+      "word": "Wart",
+      "translation": "molestia, pesadilla"
+    },
+    {
+      "word": "A carbuncle, a blister, a festering pustule of malignant ooze",
+      "translation": "un forúnculo, una ampolla, una pústula purulenta de exudado maligno"
+    },
+    {
+      "word": "Viper",
+      "translation": "víbora"
+    },
+    {
+      "word": "Foist off",
+      "translation": "endosar"
+    },
+    {
+      "word": "Putrescent",
+      "translation": "asqueroso, repugnante"
+    },
+    {
+      "word": "Whack (sustantivo)",
+      "translation": "golpe"
+    },
+    {
+      "word": "Beat it! (expresión)",
+      "translation": "¡Lárgate!"
+    },
+    {
+      "word": "Get this over with",
+      "translation": "acabemos con esto de una vez"
+    },
+    {
+      "word": "Slave away",
+      "translation": "trabajar como un esclavo"
+    },
+    {
+      "word": "Snot-nosed children",
+      "translation": "niños mocosos"
+    },
+    {
+      "word": "Cesspool salesmen",
+      "translation": "vendedores de fosas sépticas"
+    },
+    {
+      "word": "Sneer (verbo)",
+      "translation": "burlarse"
+    },
+    {
+      "word": "If you became ill, heaven forbid",
+      "translation": "si te enfermaras, Dios no lo quiera"
+    },
+    {
+      "word": "Faulty",
+      "translation": "con fallas, defectuoso"
+    },
+    {
+      "word": "I'm sorry I burst in on you like this (parcialmente no literal)",
+      "translation": "siento haber irrumpido así en tu vida"
+    },
+    {
+      "word": "Hop to, hippity-hop",
+      "translation": "¡Vamos! ¡Salta, salta!"
+    },
+    {
+      "word": "Beats me (expresión)",
+      "translation": "ni idea"
+    },
+    {
+      "word": "Slither (verbo)",
+      "translation": "colarse"
+    },
+    {
+      "word": "Scrumptious",
+      "translation": "delicioso"
+    },
+    {
+      "word": "It holds a stopwatch on us",
+      "translation": "nos toma el tiempo con un cronómetro"
+    },
+    {
+      "word": "Sweetness",
+      "translation": "cariño"
+    },
+    {
+      "word": "Speedboat",
+      "translation": "lanchas rápidas"
+    },
+    {
+      "word": "You lying little earwig (frase no literal)",
+      "translation": "pequeñita mentirosilla"
+    },
+    {
+      "word": "Newt",
+      "translation": "triton"
+    },
+    {
+      "word": "Make a fool out of me",
+      "translation": "hacerme quedar como un tonto"
+    },
+    {
+      "word": "The spitting image",
+      "translation": "la viva imagen"
+    },
+    {
+      "word": "Water pitcher",
+      "translation": "jarra de agua"
+    },
+    {
+      "word": "Bane",
+      "translation": "pesadilla"
+    },
+    {
+      "word": "You squirming worm of vomit!",
+      "translation": "¡Gusano retorcido y asqueroso!"
+    },
+    {
+      "word": "Spit it out, speak up",
+      "translation": "dilo sin rodeos, habla claro"
+    },
+    {
+      "word": "You piss-worm",
+      "translation": "gusano de mierda"
+    },
+    {
+      "word": "Scoundrel",
+      "translation": "bribón, sinvergüenza, canalla"
+    },
+    {
+      "word": "Lowlife (no literal)",
+      "translation": "escoria, canalla, de pacotilla"
+    },
+    {
+      "word": "Smelly",
+      "translation": "maloliente"
+    },
+    {
+      "word": "When you skip merrily to lunch (parcialmente no literal)",
+      "translation": "cuando vas alegremente a almorzar"
+    },
+    {
+      "word": "Feeder",
+      "translation": "comedero"
+    },
+    {
+      "word": "Tip over",
+      "translation": "voltearse, darse vuelta"
+    },
+    {
+      "word": "I just stare very hard",
+      "translation": "simplemente lo miro fijamente"
+    },
+    {
+      "word": "Rhubarb farmer",
+      "translation": "productor de ruibarbo"
+    },
+    {
+      "word": "Honeysuckle",
+      "translation": "madreselva"
+    },
+    {
+      "word": "Wildflower",
+      "translation": "flor silvestre"
+    },
+    {
+      "word": "Piece of junkyard fodder",
+      "translation": "pedazo de chatarra de desguace"
+    },
+    {
+      "word": "Sneak one (verbo)",
+      "translation": "comer uno a escondidas"
+    },
+    {
+      "word": "Showroom",
+      "translation": "sala de exposición"
+    },
+    {
+      "word": "That no-good jalopy",
+      "translation": "ese cacharro inservible"
+    },
+    {
+      "word": "Bazooga",
+      "translation": "tetas, pechos"
+    },
+    {
+      "word": "Roadkill (no literal)",
+      "translation": "animal atropellado"
+    },
+    {
+      "word": "Surfer-dude bodybuilders",
+      "translation": "culturistas con estilo de surfista"
+    },
+    {
+      "word": "Wade (verbo)",
+      "translation": "abrirse paso"
+    },
+    {
+      "word": "I'll come in and pound your miserable hide! (frase no literal)",
+      "translation": "¡Voy a entrar y te voy a dar una paliza, miserable!"
+    },
+    {
+      "word": "A tanning (no alusivo al bronceado)",
+      "translation": "una paliza"
+    },
+    {
+      "word": "The ranting and raving",
+      "translation": "las diatribas y los desvaríos"
+    },
+    {
+      "word": "Little bitty pretty one",
+      "translation": "pequeñita y linda"
+    },
+    {
+      "word": "Lovey dovey lovey one",
+      "translation": "cariñito, cariñito, cariñito"
+    },
+    {
+      "word": "Wormwood's goose is cooked",
+      "translation": "Wormwood estará acabado"
+    },
+    {
+      "word": "Tape (verbo)",
+      "translation": "grabar"
+    },
+    {
+      "word": "Eyepiece",
+      "translation": "ocular"
+    },
+    {
+      "word": "There's another crime in the making",
+      "translation": "se está gestando otro delito"
+    },
+    {
+      "word": "Come to his senses (verbo)",
+      "translation": "para recuperar el sentido común"
+    },
+    {
+      "word": "She's really raving mad",
+      "translation": "está completamente loca The ranks, las filas"
+    },
+    {
+      "word": "The gap",
+      "translation": "el vacío/hueco"
+    },
+    {
+      "word": "You'll be put away in a place where not even the crows can land their droppings on you",
+      "translation": "te meterán en un lugar donde ni siquiera los cuervos puedan dejar caer sus excrementos sobre ti"
+    },
+    {
+      "word": "Neat! (expresión)",
+      "translation": "¡Genial!"
+    },
+    {
+      "word": "Snotty",
+      "translation": "mocoso"
+    },
+    {
+      "word": "Legalities",
+      "translation": "asuntos legales"
+    },
+    {
+      "word": "As bad as things were before, that's how good they became",
+      "translation": "por muy mal que estuvieran las cosas antes, así de bien se pusieron después"
+    },
+    {
+      "word": "Upper school",
+      "translation": "escuela secundaria"
+    }
+  ],
+  "count": 103,
+  "dialogues": 1246,
+  "duration": 98
+}

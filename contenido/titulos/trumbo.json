@@ -1,0 +1,42 @@
+{
+  "titulo": "Trumbo",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 124,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 294016
+  },
+  "estreno": "2015-10-27",
+  "generos": [
+    "Drama"
+  ],
+  "analisis": "",
+  "sinopsis": "En los años 40, Dalton Trumbo, el guionista mejor pagado de Hollywood, disfruta de sus exitos. Pero entonces comienza la caza de brujas: la Comisión de Actividades Antiamericanas inicia una campaña anticomunista. Trumbo, uno de los llamados \"10 de Hollywood\", entra en la lista negra por sus ideas políticas. Biopic del famoso guionista Dalton Trumbo (“Espartaco” o “Vacaciones en Roma”) que tuvo que escribir bajo pseudónimo tras ser acusado de comunista.",
+  "poster": "https://image.tmdb.org/t/p/w500/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+    "https://image.tmdb.org/t/p/w780/5pi1fOWK3P8Q8IXhj9QeZCYfSnG.jpg",
+    "https://image.tmdb.org/t/p/w780/3RoOqUUNKc2rghp7ocshygYzCjO.jpg",
+    "https://image.tmdb.org/t/p/w780/zNT96rAvBIWXOEiENJXibcujuhj.jpg",
+    "https://image.tmdb.org/t/p/w780/xcW0ZgCTcd0rFINfyxKNpHJPTMi.jpg",
+    "https://image.tmdb.org/t/p/w780/qD6z7EdbvWg5ceBSeZSFqLodSVO.jpg"
+  ],
+  "realeza": {
+    "Adewale Akinnuoye-Agbaje": [
+      "actua"
+    ],
+    "Elle Fanning": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Trumbo (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Trumbo to improve the vocabulary in English.pdf"
+    ]
+  }
+}

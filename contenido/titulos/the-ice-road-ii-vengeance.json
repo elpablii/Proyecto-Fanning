@@ -1,0 +1,41 @@
+{
+  "titulo": "The Ice Road II Vengeance",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 113,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 1119878
+  },
+  "estreno": "2025-06-27",
+  "generos": [
+    "Acción",
+    "Suspenso",
+    "Drama"
+  ],
+  "analisis": "",
+  "sinopsis": "Mike viaja a Nepal para esparcir las cenizas de su hermano en el Everest. Cuando Mike y su guía se topan con mercenarios mientras viajan en un autobús se ven obligados a luchar para salvarse a sí mismos, a los pasajeros y al país.",
+  "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+    "https://image.tmdb.org/t/p/w780/5LoqCXmirTselbWReHqHrvr2Riv.jpg",
+    "https://image.tmdb.org/t/p/w780/hoss3jgj7ahhL9TDgs7TD0urD1C.jpg",
+    "https://image.tmdb.org/t/p/w780/j3dXhsnUYe1vUvhVtUXhXRWDy31.jpg",
+    "https://image.tmdb.org/t/p/w780/962KXsr09uK8wrmUg9TjzmE7c4e.jpg",
+    "https://image.tmdb.org/t/p/w780/6JxjWeQwCOMi958Rb2bDb4Xdfev.jpg"
+  ],
+  "realeza": {
+    "Liam Neeson": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Ice Road II Vengeance (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Ice Road II Vengeance to improve the vocabulary in English.pdf"
+    ]
+  }
+}

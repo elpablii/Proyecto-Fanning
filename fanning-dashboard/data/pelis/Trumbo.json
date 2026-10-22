@@ -1,0 +1,683 @@
+{
+  "title": "Trumbo",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.91,
+    "senales": {
+      "vocabulario": 3.84,
+      "dialogos": 3.41,
+      "temas": 5.04
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 11.4,
+        "A2": 8.9,
+        "B1": 17.1,
+        "B2": 22.2,
+        "C1": 20.3,
+        "C2": 20.3
+      },
+      "densidad": 7.0
+    },
+    "dialogos": {
+      "cobertura95": 3.38,
+      "ppm": 157.2
+    },
+    "temas": [
+      "legal y judicial",
+      "cine y espectáculo"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "En los años 40, Dalton Trumbo, el guionista mejor pagado de Hollywood, disfruta de sus exitos. Pero entonces comienza la caza de brujas: la Comisión de Actividades Antiamericanas inicia una campaña anticomunista. Trumbo, uno de los llamados \"10 de Hollywood\", entra en la lista negra por sus ideas políticas. Biopic del famoso guionista Dalton Trumbo (“Espartaco” o “Vacaciones en Roma”) que tuvo que escribir bajo pseudónimo tras ser acusado de comunista.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+      "https://image.tmdb.org/t/p/w780/5pi1fOWK3P8Q8IXhj9QeZCYfSnG.jpg",
+      "https://image.tmdb.org/t/p/w780/3RoOqUUNKc2rghp7ocshygYzCjO.jpg",
+      "https://image.tmdb.org/t/p/w780/zNT96rAvBIWXOEiENJXibcujuhj.jpg",
+      "https://image.tmdb.org/t/p/w780/xcW0ZgCTcd0rFINfyxKNpHJPTMi.jpg",
+      "https://image.tmdb.org/t/p/w780/qD6z7EdbvWg5ceBSeZSFqLodSVO.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+  "vocabulary": [
+    {
+      "word": "Sure as hell ain't one of us",
+      "translation": "desde luego que no es ninguno de nosotros"
+    },
+    {
+      "word": "Rewrites",
+      "translation": "reescrituras"
+    },
+    {
+      "word": "God forbid you cross a picket line for set builders",
+      "translation": "ni se te ocurra cruzar un piquete de los constructores de decorados"
+    },
+    {
+      "word": "Set builders",
+      "translation": "constructores de escenografía"
+    },
+    {
+      "word": "Swimming pool",
+      "translation": "alberca"
+    },
+    {
+      "word": "Gracious",
+      "translation": "cortés, con clase"
+    },
+    {
+      "word": "Laugh it up",
+      "translation": "ríete todo lo que quieras"
+    },
+    {
+      "word": "I won't cross your picket line either",
+      "translation": "yo tampoco voy a cruzar tu piquete"
+    },
+    {
+      "word": "Top columnist",
+      "translation": "columnista destacado"
+    },
+    {
+      "word": "Dishy bride",
+      "translation": "novia guapísima"
+    },
+    {
+      "word": "With film crews picketing for higher wages in walkouts",
+      "translation": "mientras los equipos de filmación hacen piquetes para exigir salarios más altos y se declaran en huelga"
+    },
+    {
+      "word": "Walkouts",
+      "translation": "huelgas"
+    },
+    {
+      "word": "They reap all the profits",
+      "translation": "se quedan con todas las ganancias"
+    },
+    {
+      "word": "Faraway",
+      "translation": "lejana"
+    },
+    {
+      "word": "Frontline",
+      "translation": "primera línea"
+    },
+    {
+      "word": "News reel",
+      "translation": "noticiero"
+    },
+    {
+      "word": "Men who fling Cokes",
+      "translation": "hombres que lanzan Coca-Colas"
+    },
+    {
+      "word": "Yours is just meaner and duller",
+      "translation": "el tuyo es simplemente más cruel y más aburrido"
+    },
+    {
+      "word": "Dial down the paranoia",
+      "translation": "dejar de ser paranoico"
+    },
+    {
+      "word": "Do svidanya (en ruso)",
+      "translation": "hasta luego"
+    },
+    {
+      "word": "Any takers?",
+      "translation": "¿Alguien se anima?"
+    },
+    {
+      "word": "Shooting blanks, wearing makeup",
+      "translation": "disparar en blanco, con maquillaje puesto"
+    },
+    {
+      "word": "I hate to make the wooing too easy for you",
+      "translation": "no quiero que te resulte demasiado fácil conquistarme"
+    },
+    {
+      "word": "Record-breaking",
+      "translation": "sin precedentes"
+    },
+    {
+      "word": "Misspent",
+      "translation": "desperdiciado"
+    },
+    {
+      "word": "Disrupting",
+      "translation": "disruptiva, perturbadora"
+    },
+    {
+      "word": "To steer us into the red river (parcialmente no literal)",
+      "translation": "para llevarnos al río rojo"
+    },
+    {
+      "word": "If I had my way about it",
+      "translation": "si fuera por mi"
+    },
+    {
+      "word": "Unpleasant",
+      "translation": "desagradable"
+    },
+    {
+      "word": "Get slandered",
+      "translation": "ser calumniado"
+    },
+    {
+      "word": "In all likelihood",
+      "translation": "con toda probabilidad"
+    },
+    {
+      "word": "Dull",
+      "translation": "aburrido"
+    },
+    {
+      "word": "I despise martyrdom",
+      "translation": "desprecio el martirio"
+    },
+    {
+      "word": "If I please to answer",
+      "translation": "si me parece bien responder"
+    },
+    {
+      "word": "Screenplays",
+      "translation": "guiones"
+    },
+    {
+      "word": "The chair will rule",
+      "translation": "el presidente tomará la decisión"
+    },
+    {
+      "word": "Compel testimony (verbo)",
+      "translation": "obtener un testimonio"
+    },
+    {
+      "word": "Indict opinión (verbo)",
+      "translation": "criticar una opinión"
+    },
+    {
+      "word": "Screenplayer",
+      "translation": "guionista"
+    },
+    {
+      "word": "I can hold you in contempt of Congress?",
+      "translation": "¿Puedo declararte en desacato al Congreso?"
+    },
+    {
+      "word": "Pissant",
+      "translation": "inútil"
+    },
+    {
+      "word": "Defile (verbo)",
+      "translation": "ensuciar"
+    },
+    {
+      "word": "Kikes (informal)",
+      "translation": "judíos"
+    },
+    {
+      "word": "I'm fond of you",
+      "translation": "te tengo cariño"
+    },
+    {
+      "word": "Discharge (verbo en sentido legal)",
+      "translation": "exonerar"
+    },
+    {
+      "word": "This little gathering didn't quite have the zip and zing of yesteryear",
+      "translation": "esta pequeña reunión no tuvo precisamente el dinamismo y la chispa de antaño"
+    },
+    {
+      "word": "Warty",
+      "translation": "lleno de verrugas"
+    },
+    {
+      "word": "Drop kick this veridict (no literal)",
+      "translation": "lanzar este veredicto"
+    },
+    {
+      "word": "So-called",
+      "translation": "llamado, supuesto"
+    },
+    {
+      "word": "Her timing",
+      "translation": "su sentido de la oportunidad"
+    },
+    {
+      "word": "I got the best room in the joint",
+      "translation": "me dieron la mejor habitación de todo el lugar"
+    },
+    {
+      "word": "Got cans of film, wads of Wall Street dough",
+      "translation": "tengo latas de película y fajos de billetes de Wall Street"
+    },
+    {
+      "word": "Piss on",
+      "translation": "arruinar"
+    },
+    {
+      "word": "Set forth",
+      "translation": "establecido"
+    },
+    {
+      "word": "Likeness",
+      "translation": "parecido, semejanza"
+    },
+    {
+      "word": "It’s breezy",
+      "translation": "hace brisita"
+    },
+    {
+      "word": "You stick your name on my labor",
+      "translation": "pones tu nombre en mi trabajo"
+    },
+    {
+      "word": "We're in business",
+      "translation": "estamos en marcha"
+    },
+    {
+      "word": "I'm going to get called and canned",
+      "translation": "me van a llamar y me van a despedir"
+    },
+    {
+      "word": "Take (sustantivo)",
+      "translation": "ganancias"
+    },
+    {
+      "word": "Cigarette case",
+      "translation": "caja de cigarrillos"
+    },
+    {
+      "word": "Spread your legs",
+      "translation": "abre/separa tus piernas"
+    },
+    {
+      "word": "Grab your sack and skin it back",
+      "translation": "toma tu saco y vuelve a toda prisa"
+    },
+    {
+      "word": "Cheeks",
+      "translation": "nalgas"
+    },
+    {
+      "word": "Warden (no alusivo a Minecraft)",
+      "translation": "alcaide, director"
+    },
+    {
+      "word": "Run shipping (no literal)",
+      "translation": "gestionar los envíos"
+    },
+    {
+      "word": "Fuck (someone) up",
+      "translation": "dar una paliza a alguien"
+    },
+    {
+      "word": "Surmontable",
+      "translation": "superable"
+    },
+    {
+      "word": "Augmented",
+      "translation": "aumentado"
+    },
+    {
+      "word": "In the wake of all that churning",
+      "translation": "a raíz de todo ese revuelo"
+    },
+    {
+      "word": "Worrisome",
+      "translation": "preocupante"
+    },
+    {
+      "word": "Reality delivers with a shrug",
+      "translation": "la realidad se manifiesta con indiferencia"
+    },
+    {
+      "word": "Beatific wonder",
+      "translation": "maravilla beatífica"
+    },
+    {
+      "word": "Jailbirds",
+      "translation": "reclusos, presidiarios"
+    },
+    {
+      "word": "You and the children warm, feed, clothe, pacify and rejuvenate me",
+      "translation": "tú y los niños me dan calor, me alimentan, me visten, me tranquilizan y me dan nuevas energías"
+    },
+    {
+      "word": "That went on in my house",
+      "translation": "eso era lo que pasaba en mi casa"
+    },
+    {
+      "word": "I was duped and used",
+      "translation": "me engañaron y me utilizaron"
+    },
+    {
+      "word": "Snitch like that in here, you end up fucking dead",
+      "translation": "si aquí te pones a delatar así, acabas muerto, carajo"
+    },
+    {
+      "word": "Softie",
+      "translation": "blando, sentimental, tierno"
+    },
+    {
+      "word": "All cuddles",
+      "translation": "todo son abrazos"
+    },
+    {
+      "word": "The offers will pour in",
+      "translation": "las ofertas no se harán esperar"
+    },
+    {
+      "word": "The junior senator is ramping up his investigation",
+      "translation": "el senador novato está intensificando su investigación"
+    },
+    {
+      "word": "Dupes",
+      "translation": "incautos, ingenuos"
+    },
+    {
+      "word": "It's one communist too many",
+      "translation": "es un comunista de más"
+    },
+    {
+      "word": "She got real tall",
+      "translation": "se hizo muy alta (literal), creció mucho (no literal)"
+    },
+    {
+      "word": "To get the shit sued out of him",
+      "translation": "para que lo demanden hasta dejarlo en la ruina"
+    },
+    {
+      "word": "Rise",
+      "translation": "ascenso"
+    },
+    {
+      "word": "You holding up okay? (pregunta no literal)",
+      "translation": "¿Te va bien?"
+    },
+    {
+      "word": "They seem to be breeding in record numbers",
+      "translation": "parece que se están reproduciendo en cantidades sin precedentes"
+    },
+    {
+      "word": "It'll be bitten off",
+      "translation": "te la van a morder"
+    },
+    {
+      "word": "The work would be tossed off",
+      "translation": "el trabajo se haría en un santiamén"
+    },
+    {
+      "word": "High hurdle",
+      "translation": "gran obstáculo"
+    },
+    {
+      "word": "I'm further behind",
+      "translation": "me quedo más atrás"
+    },
+    {
+      "word": "Pinkos",
+      "translation": "izquierdistas"
+    },
+    {
+      "word": "Dapper",
+      "translation": "elegante"
+    },
+    {
+      "word": "What a devious lad",
+      "translation": "qué chico tan retorcido"
+    },
+    {
+      "word": "Shorthand and typing",
+      "translation": "taquigrafía y mecanografía"
+    },
+    {
+      "word": "Take up",
+      "translation": "abordar (un tema)"
+    },
+    {
+      "word": "Top-salaried",
+      "translation": "con los salarios más altos"
+    },
+    {
+      "word": "Shtupping a girl in a hayloft",
+      "translation": "tirándose a una chica en un pajar"
+    },
+    {
+      "word": "I'll get a wave",
+      "translation": "voy a hacer un saludo con la mano"
+    },
+    {
+      "word": "You don't get hung up on the looks of someone",
+      "translation": "no te fijas solo en la apariencia de alguien"
+    },
+    {
+      "word": "Over-think (verbo)",
+      "translation": "pensar demasiado, dar demasiadas vueltas"
+    },
+    {
+      "word": "Down front",
+      "translation": "delante"
+    },
+    {
+      "word": "My movies have all bombed",
+      "translation": "todas mis películas han sido un fracaso"
+    },
+    {
+      "word": "Dug me into a hole",
+      "translation": "me han hundido en un pozo"
+    },
+    {
+      "word": "Pull out",
+      "translation": "retirarse"
+    },
+    {
+      "word": "Tear down",
+      "translation": "acabar, desmantelar"
+    },
+    {
+      "word": "Sheer",
+      "translation": "puro"
+    },
+    {
+      "word": "You can get more money that you burn through (parcialmente no literal)",
+      "translation": "puedes conseguir más dinero del que gastas"
+    },
+    {
+      "word": "Piss off!",
+      "translation": "¡Vete al carajo!"
+    },
+    {
+      "word": "We'd like it off our books",
+      "translation": "nos gustaría que lo eliminaran de nuestros registros"
+    },
+    {
+      "word": "Rub my face in it (frase no literal)",
+      "translation": "hazme ver mi error"
+    },
+    {
+      "word": "So figure something else out (frase no literal)",
+      "translation": "así que busca otra solución"
+    },
+    {
+      "word": "Blatant",
+      "translation": "descarado"
+    },
+    {
+      "word": "Unholy coupling",
+      "translation": "unión profana"
+    },
+    {
+      "word": "Snap (verbo)",
+      "translation": "chasquear"
+    },
+    {
+      "word": "Rage (verbo)",
+      "translation": "enojarse"
+    },
+    {
+      "word": "Picket",
+      "translation": "piquetes"
+    },
+    {
+      "word": "We will put you right out of business",
+      "translation": "te vamos a sacar del negocio"
+    },
+    {
+      "word": "Motion Picture Alliance (MPA)",
+      "translation": "Alianza Cinematográfica"
+    },
+    {
+      "word": "Guilds, studio heads",
+      "translation": "gremios, directores de estudio"
+    },
+    {
+      "word": "You wanna keep me from hiring union? (pregunta parcialmente no literal)",
+      "translation": "¿Quieres impedir que contrate a trabajadores sindicalizados?"
+    },
+    {
+      "word": "Winos",
+      "translation": "borrachos"
+    },
+    {
+      "word": "For the pussy (despectivo)",
+      "translation": "por las chicas"
+    },
+    {
+      "word": "They're both falling off the trees (frase no literal)",
+      "translation": "ambos me caen del cielo"
+    },
+    {
+      "word": "Something I've been mulling",
+      "translation": "algo en lo que he estado pensando"
+    },
+    {
+      "word": "Fruity",
+      "translation": "extravagante"
+    },
+    {
+      "word": "None taken (frase no literal)",
+      "translation": "no te preocupes"
+    },
+    {
+      "word": "More than our share of crank calls",
+      "translation": "más de lo que nos corresponde de llamadas molestas"
+    },
+    {
+      "word": "By putting you on the stand",
+      "translation": "al hacerte subir al estrado"
+    },
+    {
+      "word": "Broiler",
+      "translation": "asador, parrilla"
+    },
+    {
+      "word": "Reticent",
+      "translation": "renovado"
+    },
+    {
+      "word": "Unevenly",
+      "translation": "de manera desigual"
+    },
+    {
+      "word": "I sort of feel like I walked in on my wife",
+      "translation": "siento como si hubiera sorprendido a mi esposa en algo"
+    },
+    {
+      "word": "Lurid",
+      "translation": "escabroso"
+    },
+    {
+      "word": "Mind if I stick my nose in? (pregunta no literal)",
+      "translation": "¿Te molesta si me meto en el asunto?"
+    },
+    {
+      "word": "Why come forward now? (pregunta no literal)",
+      "translation": "¿Por qué dar a conocer esto ahora?"
+    },
+    {
+      "word": "They were convened to uncover enemy agents",
+      "translation": "se les convocó para descubrir a los agentes enemigos"
+    },
+    {
+      "word": "To have so undermined",
+      "translation": "haber socavado tanto"
+    },
+    {
+      "word": "Witticism",
+      "translation": "broma"
+    },
+    {
+      "word": "Have them put up the scene",
+      "translation": "pídeles que monten la escena"
+    },
+    {
+      "word": "Press release",
+      "translation": "comunicado de prensa"
+    },
+    {
+      "word": "We'll picket every theater that movie is in",
+      "translation": "haremos piquetes frente a todos los cines donde se proyecte esa película"
+    },
+    {
+      "word": "Pull the prints (en proyecciones de películas)",
+      "translation": "retirar las copias"
+    },
+    {
+      "word": "Hail (verbo en espectáculos)",
+      "translation": "dar la bienvenida"
+    },
+    {
+      "word": "Wide ranging",
+      "translation": "de alto alcance"
+    },
+    {
+      "word": "He's revered",
+      "translation": "es muy admirado/venerado"
+    },
+    {
+      "word": "Guild",
+      "translation": "gremio"
+    },
+    {
+      "word": "When I stand before the",
+      "translation": "cuando me paro frente a/al"
+    },
+    {
+      "word": "Came through untouched by evil",
+      "translation": "salió ileso del mal"
+    },
+    {
+      "word": "His particular circumstances compelled him to",
+      "translation": "sus circunstancias particulares en las que se encontraba"
+    },
+    {
+      "word": "Scores of people (parcialmente no literal)",
+      "translation": "muchas personas"
+    },
+    {
+      "word": "We felt compelled to say",
+      "translation": "nos sentimos en la obligación de decir"
+    },
+    {
+      "word": "And most egregiously, upon ourselves",
+      "translation": "y, lo que es más grave aún, contra nosotros mismos"
+    },
+    {
+      "word": "Thank you kindly",
+      "translation": "muchas gracias"
+    },
+    {
+      "word": "So-and-so",
+      "translation": "tal y tal"
+    },
+    {
+      "word": "You no longer need to be burdened with",
+      "translation": "ya no tienes que seguir aguantando eso"
+    }
+  ],
+  "count": 158,
+  "dialogues": 2261,
+  "duration": 124
+}

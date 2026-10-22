@@ -1,0 +1,54 @@
+{
+  "titulo": "The Twilight Saga II New Moon",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 131,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 18239
+  },
+  "estreno": "2009-11-18",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Drama",
+    "Romance"
+  ],
+  "analisis": "",
+  "sinopsis": "En esta segunda entrega de la Saga Crepúsculo, Edward Cullen (Robert Pattinson) decide abandonar a Bella Swan (Kristen Stewart) para mantenerla alejada de los peligros del mundo vampírico. Con la ayuda de Jacob Black (Taylor Lautner), su amigo de la infancia y miembro de la misteriosa tribu quileute, Bella intentará superar el abandono de Edward, que la ha dejado sumida en el mayor de los desconsuelos. Pero los peligros siguen acechando a la joven; nuevas y asombrosas criaturas sobrenaturales se cruzarán en su camino, y Bella sólo contará con el apoyo del cada vez más cercano e irresistible Jacob. Repentinamente, Bella se encuentra inmersa en el mundo de los hombres lobo, ancestrales enemigos de los vampiros, y su lealtad es puesta a prueba.",
+  "poster": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+    "https://image.tmdb.org/t/p/w780/1E7kqUJghDRSgYkxDXAyoaVqQ96.jpg",
+    "https://image.tmdb.org/t/p/w780/fZ2tWrGOVeGGT4nwjO6exnMPbIg.jpg",
+    "https://image.tmdb.org/t/p/w780/fzoqJgzIt4jOiOmMYnc8ejxtMIO.jpg",
+    "https://image.tmdb.org/t/p/w780/5jsSFEwedDsFbY9bGz0iZUngO4C.jpg",
+    "https://image.tmdb.org/t/p/w780/1xoR1r81OIhrDDj4ZeZARQ4cBH4.jpg"
+  ],
+  "realeza": {
+    "Dakota Fanning": [
+      "actua"
+    ],
+    "Kristen Stewart": [
+      "actua"
+    ],
+    "Peter Facinelli": [
+      "actua"
+    ],
+    "Robert Pattinson": [
+      "actua"
+    ],
+    "Taylor Lautner": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Twilight Saga II New Moon (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Twilight Saga II New Moon to improve the vocabulary in English.pdf"
+    ]
+  }
+}

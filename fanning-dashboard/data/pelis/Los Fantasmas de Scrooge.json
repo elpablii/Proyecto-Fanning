@@ -3,20 +3,20 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 4.3,
+    "puntaje": 4.29,
     "senales": {
-      "vocabulario": 4.85,
+      "vocabulario": 4.84,
       "dialogos": 2.95,
-      "temas": 4.35
+      "temas": 4.34
     },
     "vocabulario": {
       "distribucion": {
         "A1": 4.8,
-        "A2": 8.1,
-        "B1": 12.1,
-        "B2": 29.0,
+        "A2": 7.3,
+        "B1": 12.9,
+        "B2": 29.8,
         "C1": 14.5,
-        "C2": 31.5
+        "C2": 30.6
       },
       "densidad": 17.2
     },
@@ -106,8 +106,8 @@
       "translation": "indigentes, desamparados"
     },
     {
-      "word": "Many thousands are in want of common confort",
-      "translation": "muchos miles carecen de comodidades communes"
+      "word": "Many thousands are in want of common comfort",
+      "translation": "muchos miles carecen de comodidades comunes"
     },
     {
       "word": "Treadmill",
@@ -466,7 +466,7 @@
       "translation": "mi dinero"
     },
     {
-      "word": "I'm in earniest (frase no literal)",
+      "word": "I'm in earnest (frase no literal)",
       "translation": "me apunto"
     },
     {

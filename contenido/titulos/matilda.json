@@ -1,0 +1,36 @@
+{
+  "titulo": "Matilda",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 98,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 10830
+  },
+  "estreno": "1996-08-02",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "analisis": "",
+  "sinopsis": "La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.",
+  "poster": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+    "https://image.tmdb.org/t/p/w780/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+    "https://image.tmdb.org/t/p/w780/dPZ9OTHoynjxpOuBVikxwNk6E21.jpg",
+    "https://image.tmdb.org/t/p/w780/1iDasePUoNZZyxaP2veLxr6uCDj.jpg",
+    "https://image.tmdb.org/t/p/w780/6C01lrStLX3l9HbKgru00q6NHlP.jpg",
+    "https://image.tmdb.org/t/p/w780/azLC34TYTBssbTTnIDXES4QRj6m.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Matilda (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Matilda to improve the vocabulary in English.pdf"
+    ]
+  }
+}

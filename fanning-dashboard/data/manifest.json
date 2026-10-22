@@ -1,22 +1,22 @@
 {
   "all": {
-    "totalWords": 32620,
-    "uniqueMovies": 177,
-    "totalDialogues": 386956,
+    "totalWords": 37650,
+    "uniqueMovies": 204,
+    "totalDialogues": 461019,
     "topWord": {
       "word": "Creepy",
-      "count": 14,
+      "count": 17,
       "translation": "espeluznante"
     },
     "topList": [
       {
         "word": "Creepy",
-        "count": 14,
+        "count": 17,
         "translation": "espeluznante"
       },
       {
         "word": "Break down",
-        "count": 12,
+        "count": 14,
         "translation": "romper, descomponer"
       },
       {
@@ -28,6 +28,11 @@
         "word": "Come through",
         "count": 10,
         "translation": "pasar, venir"
+      },
+      {
+        "word": "Despair",
+        "count": 10,
+        "translation": "desesperación"
       },
       {
         "word": "Get through",
@@ -53,17 +58,12 @@
         "word": "Back up (en algunos contextos)",
         "count": 8,
         "translation": "retroceder, dar marcha atrás"
-      },
-      {
-        "word": "Bold",
-        "count": 8,
-        "translation": "audaz, atrevido"
       }
     ],
     "movieList": [
       {
         "title": "The Big Bang Theory",
-        "count": 4544,
+        "count": 5506,
         "type": "series",
         "episodes": [
           {
@@ -953,22 +953,263 @@
             "dialogues": 423,
             "level": "B2",
             "duration": 20
+          },
+          {
+            "code": "S06E01",
+            "name": "S06E01",
+            "count": 26,
+            "dialogues": 441,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E02",
+            "name": "S06E02",
+            "count": 23,
+            "dialogues": 445,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E03",
+            "name": "S06E03",
+            "count": 28,
+            "dialogues": 419,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S06E04",
+            "name": "S06E04",
+            "count": 24,
+            "dialogues": 462,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E05",
+            "name": "S06E05",
+            "count": 42,
+            "dialogues": 437,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E06",
+            "name": "S06E06",
+            "count": 26,
+            "dialogues": 496,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E07",
+            "name": "S06E07",
+            "count": 38,
+            "dialogues": 456,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E08",
+            "name": "S06E08",
+            "count": 26,
+            "dialogues": 441,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E09",
+            "name": "S06E09",
+            "count": 39,
+            "dialogues": 444,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E10",
+            "name": "S06E10",
+            "count": 39,
+            "dialogues": 431,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E11",
+            "name": "S06E11",
+            "count": 54,
+            "dialogues": 493,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E12",
+            "name": "S06E12",
+            "count": 25,
+            "dialogues": 473,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E13",
+            "name": "S06E13",
+            "count": 36,
+            "dialogues": 464,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E14",
+            "name": "S06E14",
+            "count": 28,
+            "dialogues": 437,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E15",
+            "name": "S06E15",
+            "count": 31,
+            "dialogues": 486,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E16",
+            "name": "S06E16",
+            "count": 21,
+            "dialogues": 466,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E17",
+            "name": "S06E17",
+            "count": 28,
+            "dialogues": 443,
+            "level": "B1",
+            "duration": 19
+          },
+          {
+            "code": "S06E18",
+            "name": "S06E18",
+            "count": 31,
+            "dialogues": 406,
+            "level": "B2-C1",
+            "duration": 20
+          },
+          {
+            "code": "S06E19",
+            "name": "S06E19",
+            "count": 28,
+            "dialogues": 447,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E20",
+            "name": "S06E20",
+            "count": 35,
+            "dialogues": 434,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S06E21",
+            "name": "S06E21",
+            "count": 25,
+            "dialogues": 421,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E22",
+            "name": "S06E22",
+            "count": 34,
+            "dialogues": 448,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E23",
+            "name": "S06E23",
+            "count": 38,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E24",
+            "name": "S06E24",
+            "count": 23,
+            "dialogues": 482,
+            "level": "B1-B2",
+            "duration": 20
+          },
+          {
+            "code": "S07E01",
+            "name": "S07E01",
+            "count": 34,
+            "dialogues": 454,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E02",
+            "name": "S07E02",
+            "count": 40,
+            "dialogues": 503,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E03",
+            "name": "S07E03",
+            "count": 24,
+            "dialogues": 504,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E04",
+            "name": "S07E04",
+            "count": 35,
+            "dialogues": 482,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E05",
+            "name": "S07E05",
+            "count": 42,
+            "dialogues": 436,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S07E06",
+            "name": "S07E06",
+            "count": 39,
+            "dialogues": 488,
+            "level": "B2",
+            "duration": 21
           }
         ],
         "level": "B2",
         "levelRange": [
-          "B1-B2",
+          "B1",
           "C1"
         ],
         "rating": "+14",
-        "dialogues": 43158,
-        "duration": 2291,
+        "dialogues": 56845,
+        "duration": 2907,
         "aliases": [],
         "years": [
           "2025",
-          "2026"
+          "2026",
+          "2027"
         ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
         "genres": [
           "Comedia"
@@ -1689,7 +1930,7 @@
       },
       {
         "title": "Euphoria",
-        "count": 924,
+        "count": 1173,
         "type": "series",
         "episodes": [
           {
@@ -1719,7 +1960,7 @@
           {
             "code": "S01E04",
             "name": "S01E04 - Shook One Part II",
-            "count": 23,
+            "count": 24,
             "dialogues": 702,
             "level": "B1-B2",
             "duration": 56
@@ -1835,21 +2076,54 @@
             "dialogues": 820,
             "level": "B2",
             "duration": 62
+          },
+          {
+            "code": "S03E01",
+            "name": "S03E01",
+            "count": 66,
+            "dialogues": 990,
+            "level": "B2",
+            "duration": 62
+          },
+          {
+            "code": "S03E02",
+            "name": "S03E02",
+            "count": 50,
+            "dialogues": 1046,
+            "level": "B2",
+            "duration": 60
+          },
+          {
+            "code": "S03E03",
+            "name": "S03E03",
+            "count": 70,
+            "dialogues": 1032,
+            "level": "B2",
+            "duration": 60
+          },
+          {
+            "code": "S03E04",
+            "name": "S03E04",
+            "count": 62,
+            "dialogues": 1043,
+            "level": "B2",
+            "duration": 62
           }
         ],
-        "level": "B1-B2",
+        "level": "B2",
         "levelRange": [
           "B1",
           "B2"
         ],
         "rating": "+18",
-        "dialogues": 14923,
-        "duration": 1041,
+        "dialogues": 19034,
+        "duration": 1285,
         "aliases": [],
         "years": [
-          "2025"
+          "2025",
+          "2027"
         ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "realeza": {
           "Adewale Akinnuoye-Agbaje": [
@@ -2143,6 +2417,195 @@
         "releaseDate": "2021-09-30"
       },
       {
+        "title": "Kick Buttowski",
+        "count": 544,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Kick Buttowski (Episode 1)",
+            "count": 36,
+            "dialogues": 411,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E02",
+            "name": "Kick Buttowski (Episode 2)",
+            "count": 19,
+            "dialogues": 271,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E03",
+            "name": "Kick Buttowski (Episode 3)",
+            "count": 33,
+            "dialogues": 447,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E04",
+            "name": "Kick Buttowski (Episode 4)",
+            "count": 14,
+            "dialogues": 308,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E05",
+            "name": "Kick Buttowski (Episode 5)",
+            "count": 22,
+            "dialogues": 413,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E06",
+            "name": "Kick Buttowski (Episode 6)",
+            "count": 25,
+            "dialogues": 397,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E07",
+            "name": "Kick Buttowski (Episode 7)",
+            "count": 24,
+            "dialogues": 392,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E08",
+            "name": "Kick Buttowski (Episode 8)",
+            "count": 24,
+            "dialogues": 316,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E09",
+            "name": "Kick Buttowski (Episode 9)",
+            "count": 34,
+            "dialogues": 427,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E10",
+            "name": "Kick Buttowski (Episode 10)",
+            "count": 29,
+            "dialogues": 424,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E11",
+            "name": "Kick Buttowski (Episode 11)",
+            "count": 33,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E12",
+            "name": "Kick Buttowski (Episode 12)",
+            "count": 30,
+            "dialogues": 466,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E13",
+            "name": "Kick Buttowski (Episode 13)",
+            "count": 25,
+            "dialogues": 456,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E14",
+            "name": "Kick Buttowski (Episode 14)",
+            "count": 27,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E15",
+            "name": "Kick Buttowski (Episode 15)",
+            "count": 20,
+            "dialogues": 510,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E16",
+            "name": "Kick Buttowski (Episode 16)",
+            "count": 28,
+            "dialogues": 424,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E17",
+            "name": "Kick Buttowski (Episode 17)",
+            "count": 15,
+            "dialogues": 373,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E18",
+            "name": "Kick Buttowski (Episode 18)",
+            "count": 27,
+            "dialogues": 430,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E19",
+            "name": "Kick Buttowski (Episode 19)",
+            "count": 42,
+            "dialogues": 532,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E20",
+            "name": "Kick Buttowski (Episode 20)",
+            "count": 37,
+            "dialogues": 467,
+            "level": "B2",
+            "duration": 11
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 8360,
+        "duration": 220,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2010-02-13"
+      },
+      {
         "title": "Oppenheimer",
         "count": 433,
         "type": "movie",
@@ -2376,6 +2839,29 @@
           "Romance"
         ],
         "releaseDate": "1997-12-18"
+      },
+      {
+        "title": "GTA San Andreas WCTR Radio",
+        "count": 322,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "GTA San Andreas WCTR Radio",
+            "count": 322,
+            "dialogues": 2123,
+            "level": "B2-C1",
+            "duration": 35
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2123,
+        "duration": 35,
+        "aliases": [],
+        "years": [
+          "2027"
+        ]
       },
       {
         "title": "Aves de Presa",
@@ -2637,6 +3123,44 @@
         "releaseDate": "2015-02-25"
       },
       {
+        "title": "El Escuadrón Suicida",
+        "count": 264,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "El Escuadrón Suicida",
+            "count": 264,
+            "dialogues": 2051,
+            "level": "B2-C1",
+            "duration": 132
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "+18",
+        "dialogues": 2051,
+        "duration": 132,
+        "aliases": [
+          "The Suicide Squad"
+        ],
+        "years": [
+          "2024"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Acción",
+          "Comedia",
+          "Aventura"
+        ],
+        "releaseDate": "2021-07-28"
+      },
+      {
         "title": "The Girl From Plainville",
         "count": 264,
         "type": "series",
@@ -2731,44 +3255,6 @@
           "Crimen"
         ],
         "releaseDate": "2022-03-29"
-      },
-      {
-        "title": "El Escuadrón Suicida",
-        "count": 263,
-        "type": "movie",
-        "episodes": [
-          {
-            "name": "El Escuadrón Suicida",
-            "count": 263,
-            "dialogues": 2051,
-            "level": "B2-C1",
-            "duration": 132
-          }
-        ],
-        "level": "B2-C1",
-        "levelRange": null,
-        "rating": "+18",
-        "dialogues": 2051,
-        "duration": 132,
-        "aliases": [
-          "The Suicide Squad"
-        ],
-        "years": [
-          "2024"
-        ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-        "backdropUrl": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
-        "realeza": {
-          "Margot Robbie": [
-            "actua"
-          ]
-        },
-        "genres": [
-          "Acción",
-          "Comedia",
-          "Aventura"
-        ],
-        "releaseDate": "2021-07-28"
       },
       {
         "title": "Ámsterdam",
@@ -3142,6 +3628,71 @@
         "releaseDate": "2018-12-07"
       },
       {
+        "title": "Taylor Swift - The End of an Era",
+        "count": 217,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Taylor Swift - The End of an Era (Episode 1)",
+            "count": 47,
+            "dialogues": 692,
+            "level": "B1-B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E02",
+            "name": "Taylor Swift - The End of an Era (Episode 2)",
+            "count": 50,
+            "dialogues": 869,
+            "level": "B1-B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E03",
+            "name": "Taylor Swift - The End of an Era (Episode 3)",
+            "count": 58,
+            "dialogues": 847,
+            "level": "B1-B2",
+            "duration": 49
+          },
+          {
+            "code": "S01E04",
+            "name": "Taylor Swift - The End of an Era (Episode 4)",
+            "count": 62,
+            "dialogues": 808,
+            "level": "B2",
+            "duration": 49
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1-B2",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 3216,
+        "duration": 185,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "aparece"
+          ],
+          "Taylor Swift": [
+            "aparece"
+          ]
+        },
+        "genres": [
+          "Documental"
+        ],
+        "releaseDate": "2025-12-12"
+      },
+      {
         "title": "Los Increibles",
         "count": 216,
         "type": "movie",
@@ -3401,6 +3952,75 @@
           "Música"
         ],
         "releaseDate": "2020-01-31"
+      },
+      {
+        "title": "The Amazing Digital Circus",
+        "count": 207,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The Amazing Digital Circus (Episode 1)",
+            "count": 36,
+            "dialogues": 471,
+            "level": "C1",
+            "duration": 26
+          },
+          {
+            "code": "S01E02",
+            "name": "The Amazing Digital Circus (Episode 2)",
+            "count": 46,
+            "dialogues": 492,
+            "level": "C1",
+            "duration": 26
+          },
+          {
+            "code": "S01E03",
+            "name": "The Amazing Digital Circus (Episode 3)",
+            "count": 38,
+            "dialogues": 537,
+            "level": "C1",
+            "duration": 25
+          },
+          {
+            "code": "S01E04",
+            "name": "The Amazing Digital Circus (Episode 4)",
+            "count": 43,
+            "dialogues": 469,
+            "level": "B2",
+            "duration": 24
+          },
+          {
+            "code": "S01E05",
+            "name": "The Amazing Digital Circus (Episode 5)",
+            "count": 44,
+            "dialogues": 534,
+            "level": "C1",
+            "duration": 26
+          }
+        ],
+        "level": "C1",
+        "levelRange": [
+          "B2",
+          "C1"
+        ],
+        "rating": "TE",
+        "dialogues": 2503,
+        "duration": 127,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Drama",
+          "Ciencia ficción",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-10-13"
       },
       {
         "title": "A Complete Unknown",
@@ -3679,6 +4299,54 @@
         "releaseDate": "2006-06-08"
       },
       {
+        "title": "The Great",
+        "count": 187,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The Great (Episode 1)",
+            "count": 82,
+            "dialogues": 879,
+            "level": "B2-C1",
+            "duration": 52
+          },
+          {
+            "code": "S01E02",
+            "name": "The Great (Episode 2)",
+            "count": 105,
+            "dialogues": 1007,
+            "level": "B2-C1",
+            "duration": 55
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": [
+          "B2-C1",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 1886,
+        "duration": 107,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2020-05-15"
+      },
+      {
         "title": "Whiskey Tango Foxtrot",
         "count": 187,
         "type": "movie",
@@ -3853,6 +4521,159 @@
         "releaseDate": "2007-06-28"
       },
       {
+        "title": "A Good Girl's Guide to Murder",
+        "count": 175,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "A Good Girl's Guide to Murder (Episode 1)",
+            "count": 24,
+            "dialogues": 440,
+            "level": "B1-B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E02",
+            "name": "A Good Girl's Guide to Murder (Episode 2)",
+            "count": 33,
+            "dialogues": 524,
+            "level": "B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E03",
+            "name": "A Good Girl's Guide to Murder (Episode 3)",
+            "count": 40,
+            "dialogues": 474,
+            "level": "B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E04",
+            "name": "A Good Girl's Guide to Murder (Episode 4)",
+            "count": 29,
+            "dialogues": 502,
+            "level": "B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E05",
+            "name": "A Good Girl's Guide to Murder (Episode 5)",
+            "count": 28,
+            "dialogues": 573,
+            "level": "B1",
+            "duration": 50
+          },
+          {
+            "code": "S01E06",
+            "name": "A Good Girl's Guide to Murder (Episode 6)",
+            "count": 21,
+            "dialogues": 518,
+            "level": "B1",
+            "duration": 51
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 3031,
+        "duration": 275,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Crimen",
+          "Misterio"
+        ],
+        "releaseDate": "2024-07-10"
+      },
+      {
+        "title": "Margo's Got Money Troubles",
+        "count": 175,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Margo's Got Money Troubles (Episode 1)",
+            "count": 37,
+            "dialogues": 603,
+            "level": "B2",
+            "duration": 36
+          },
+          {
+            "code": "S01E02",
+            "name": "Margo's Got Money Troubles (Episode 2)",
+            "count": 46,
+            "dialogues": 599,
+            "level": "B2-C1",
+            "duration": 38
+          },
+          {
+            "code": "S01E03",
+            "name": "Margo's Got Money Troubles (Episode 3)",
+            "count": 55,
+            "dialogues": 666,
+            "level": "B2",
+            "duration": 42
+          },
+          {
+            "code": "S01E04",
+            "name": "Margo's Got Money Troubles (Episode 4)",
+            "count": 37,
+            "dialogues": 640,
+            "level": "B2",
+            "duration": 36
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 2508,
+        "duration": 152,
+        "aliases": [
+          "Margo's Got Money Troubles (Season 1)"
+        ],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "produce"
+          ],
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ],
+          "Michelle Pfeiffer": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2026-04-14"
+      },
+      {
         "title": "Scarface",
         "count": 169,
         "type": "movie",
@@ -3922,6 +4743,70 @@
           "Terror"
         ],
         "releaseDate": "2022-11-17"
+      },
+      {
+        "title": "Lucky",
+        "count": 168,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Lucky (Episode 1)",
+            "count": 40,
+            "dialogues": 556,
+            "level": "B1-B2",
+            "duration": 48
+          },
+          {
+            "code": "S01E02",
+            "name": "Lucky (Episode 2)",
+            "count": 54,
+            "dialogues": 704,
+            "level": "B1-B2",
+            "duration": 48
+          },
+          {
+            "code": "S01E03",
+            "name": "Lucky (Episode 3)",
+            "count": 42,
+            "dialogues": 642,
+            "level": "B1-B2",
+            "duration": 46
+          },
+          {
+            "code": "S01E04",
+            "name": "Lucky (Episode 4)",
+            "count": 32,
+            "dialogues": 623,
+            "level": "B1",
+            "duration": 40
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1",
+          "B1-B2"
+        ],
+        "rating": "TE",
+        "dialogues": 2525,
+        "duration": 182,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2026-07-14"
       },
       {
         "title": "Schindler's List",
@@ -4062,6 +4947,43 @@
           "Familia"
         ],
         "releaseDate": "1999-10-30"
+      },
+      {
+        "title": "Trumbo",
+        "count": 158,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Trumbo",
+            "count": 158,
+            "dialogues": 2261,
+            "level": "B2",
+            "duration": 124
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2261,
+        "duration": 124,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Elle Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2015-10-27"
       },
       {
         "title": "Marlowe",
@@ -4213,6 +5135,43 @@
         "releaseDate": "2021-06-24"
       },
       {
+        "title": "Wuthering Heights",
+        "count": 150,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Wuthering Heights",
+            "count": 150,
+            "dialogues": 1812,
+            "level": "B2-C1",
+            "duration": 136
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1812,
+        "duration": 136,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Romance",
+          "Drama",
+          "Historia"
+        ],
+        "releaseDate": "2026-02-11"
+      },
+      {
         "title": "The Legend of Tarzan",
         "count": 148,
         "type": "movie",
@@ -4357,6 +5316,42 @@
           "Música"
         ],
         "releaseDate": "2020-08-07"
+      },
+      {
+        "title": "Mary Shelley",
+        "count": 139,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Mary Shelley",
+            "count": 139,
+            "dialogues": 1510,
+            "level": "B2-C1",
+            "duration": 120
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1510,
+        "duration": 120,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        },
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2017-08-06"
       },
       {
         "title": "Playmobil",
@@ -4594,11 +5589,11 @@
             "name": "Blacklight",
             "count": 129,
             "dialogues": 1700,
-            "level": "B2",
+            "level": "B1-B2",
             "duration": 104
           }
         ],
-        "level": "B2",
+        "level": "B1-B2",
         "levelRange": null,
         "rating": "+14",
         "dialogues": 1700,
@@ -4654,6 +5649,77 @@
           "Drama"
         ],
         "releaseDate": "2014-03-08"
+      },
+      {
+        "title": "The Hate U Give",
+        "count": 129,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Hate U Give",
+            "count": 129,
+            "dialogues": 2537,
+            "level": "B1-B2",
+            "duration": 133
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2537,
+        "duration": 133,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2018-10-19"
+      },
+      {
+        "title": "The Last of Robin Hood",
+        "count": 126,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Last of Robin Hood",
+            "count": 126,
+            "dialogues": 1472,
+            "level": "B2",
+            "duration": 92
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1472,
+        "duration": 92,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6iL7iNCgyQqconH8CCTwdbEccZG.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Película de TV"
+        ],
+        "releaseDate": "2013-09-06"
       },
       {
         "title": "Dreamland",
@@ -4933,6 +5999,37 @@
         "releaseDate": "2024-12-11"
       },
       {
+        "title": "Back to the Future I",
+        "count": 121,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Back to the Future I",
+            "count": 121,
+            "dialogues": 1776,
+            "level": "B2",
+            "duration": 116
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1776,
+        "duration": 116,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "genres": [
+          "Aventura",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1985-07-03"
+      },
+      {
         "title": "Star Wars Episodio IV A New Hope",
         "count": 120,
         "type": "movie",
@@ -5170,6 +6267,56 @@
           "Familia"
         ],
         "releaseDate": "2024-06-11"
+      },
+      {
+        "title": "The First Lady",
+        "count": 114,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The First Lady (Episode 1)",
+            "count": 35,
+            "dialogues": 962,
+            "level": "B2",
+            "duration": 56
+          },
+          {
+            "code": "S01E02",
+            "name": "The First Lady (Episode 2)",
+            "count": 79,
+            "dialogues": 988,
+            "level": "B2",
+            "duration": 55
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 1950,
+        "duration": 111,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Familia"
+        ],
+        "releaseDate": "2022-04-17"
       },
       {
         "title": "Top Gun",
@@ -5446,6 +6593,37 @@
         "releaseDate": "2022-05-20"
       },
       {
+        "title": "Matilda",
+        "count": 103,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Matilda",
+            "count": 103,
+            "dialogues": 1246,
+            "level": "B2",
+            "duration": 98
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1246,
+        "duration": 98,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "1996-08-02"
+      },
+      {
         "title": "La Sustancia",
         "count": 102,
         "type": "movie",
@@ -5515,6 +6693,43 @@
           "Animación"
         ],
         "releaseDate": "2007-12-13"
+      },
+      {
+        "title": "Lost Girls",
+        "count": 101,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Lost Girls",
+            "count": 101,
+            "dialogues": 1308,
+            "level": "B2",
+            "duration": 95
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1308,
+        "duration": 95,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Suspenso",
+          "Historia"
+        ],
+        "releaseDate": "2020-01-28"
       },
       {
         "title": "An American Girl - Grace Stirs Up Success",
@@ -6011,6 +7226,55 @@
           "Suspenso"
         ],
         "releaseDate": "2021-10-09"
+      },
+      {
+        "title": "The Twilight Saga I",
+        "count": 91,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga I",
+            "count": 91,
+            "dialogues": 1724,
+            "level": "B1-B2",
+            "duration": 122
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1724,
+        "duration": 122,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua",
+            "musica"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2008-11-20"
       },
       {
         "title": "Escape de Sobibor",
@@ -6651,6 +7915,42 @@
         "releaseDate": "2019-12-06"
       },
       {
+        "title": "The Ice Road II Vengeance",
+        "count": 77,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Ice Road II Vengeance",
+            "count": 77,
+            "dialogues": 1656,
+            "level": "B2",
+            "duration": 113
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1656,
+        "duration": 113,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2025-06-27"
+      },
+      {
         "title": "A Big Bold Beautiful Journey",
         "count": 76,
         "type": "movie",
@@ -6830,6 +8130,66 @@
           "Drama"
         ],
         "releaseDate": "2018-06-29"
+      },
+      {
+        "title": "Young Ones",
+        "count": 73,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Young Ones",
+            "count": 73,
+            "dialogues": 1254,
+            "level": "B1-B2",
+            "duration": 100
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1254,
+        "duration": 100,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Western",
+          "Acción",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2014-06-28"
+      },
+      {
+        "title": "Cillian Murphy & Margot Robbie – Actors and Actors",
+        "count": 72,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Cillian Murphy & Margot Robbie – Actors and Actors",
+            "count": 72,
+            "dialogues": 1479,
+            "level": "B2",
+            "duration": 48
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1479,
+        "duration": 48,
+        "aliases": [],
+        "years": [
+          "2027"
+        ]
       },
       {
         "title": "Lilo and Stitch I",
@@ -7078,6 +8438,55 @@
         "releaseDate": "1985-11-21"
       },
       {
+        "title": "The Twilight Saga III Eclipse",
+        "count": 69,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga III Eclipse",
+            "count": 69,
+            "dialogues": 1492,
+            "level": "B1",
+            "duration": 124
+          }
+        ],
+        "level": "B1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1492,
+        "duration": 124,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2010-06-23"
+      },
+      {
         "title": "3 Generations",
         "count": 68,
         "type": "movie",
@@ -7295,6 +8704,129 @@
         "releaseDate": "2023-04-05"
       },
       {
+        "title": "Countdown",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Countdown",
+            "count": 61,
+            "dialogues": 1259,
+            "level": "B1-B2",
+            "duration": 90
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1259,
+        "duration": 90,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-10-24"
+      },
+      {
+        "title": "The Secret Life of Bees",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Secret Life of Bees",
+            "count": 61,
+            "dialogues": 1166,
+            "level": "B1-B2",
+            "duration": 114
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1166,
+        "duration": 114,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/40K8NpPgBqIDukExvG4yWPkYEvO.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Familia",
+          "Aventura",
+          "Drama"
+        ],
+        "releaseDate": "2008-09-17"
+      },
+      {
+        "title": "The Twilight Saga II New Moon",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga II New Moon",
+            "count": 61,
+            "dialogues": 1622,
+            "level": "B2",
+            "duration": 131
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1622,
+        "duration": 131,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2009-11-18"
+      },
+      {
         "title": "Cenicienta",
         "count": 60,
         "type": "movie",
@@ -7439,6 +8971,75 @@
           "Misterio"
         ],
         "releaseDate": "2014-04-20"
+      },
+      {
+        "title": "The Short History of the Long Road",
+        "count": 59,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Short History of the Long Road",
+            "count": 59,
+            "dialogues": 1072,
+            "level": "B1-B2",
+            "duration": 90
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1072,
+        "duration": 90,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/chTc0F8B9YOiwZDea5LJ8h2q2Qx.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aRFgKZHFBEcrBHCgkAxqqvnr43n.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-04-27"
+      },
+      {
+        "title": "Eileen",
+        "count": 58,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Eileen",
+            "count": 58,
+            "dialogues": 1517,
+            "level": "B1-B2",
+            "duration": 98
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1517,
+        "duration": 98,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen"
+        ],
+        "releaseDate": "2023-12-01"
       },
       {
         "title": "Here Are The Young Men",
@@ -7777,11 +9378,11 @@
             "name": "Sweetness in the Belly",
             "count": 46,
             "dialogues": 1116,
-            "level": "B1",
+            "level": "B1-B2",
             "duration": 111
           }
         ],
-        "level": "B1",
+        "level": "B1-B2",
         "levelRange": null,
         "rating": "+14",
         "dialogues": 1116,
@@ -8846,7 +10447,7 @@
     ]
   },
   "2024": {
-    "totalWords": 8831,
+    "totalWords": 8832,
     "uniqueMovies": 49,
     "totalDialogues": 82538,
     "topWord": {
@@ -9370,12 +10971,12 @@
       },
       {
         "title": "El Escuadrón Suicida",
-        "count": 263,
+        "count": 264,
         "type": "movie",
         "episodes": [
           {
             "name": "El Escuadrón Suicida",
-            "count": 263,
+            "count": 264,
             "dialogues": 2051,
             "level": "B2-C1",
             "duration": 132
@@ -10868,7 +12469,7 @@
     ]
   },
   "2025": {
-    "totalWords": 11018,
+    "totalWords": 11019,
     "uniqueMovies": 63,
     "totalDialogues": 133371,
     "topWord": {
@@ -11601,7 +13202,7 @@
         ],
         "level": "B2",
         "levelRange": [
-          "B1-B2",
+          "B1",
           "C1"
         ],
         "rating": "+14",
@@ -11610,9 +13211,10 @@
         "aliases": [],
         "years": [
           "2025",
-          "2026"
+          "2026",
+          "2027"
         ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
         "genres": [
           "Comedia"
@@ -11621,7 +13223,7 @@
       },
       {
         "title": "Euphoria",
-        "count": 924,
+        "count": 925,
         "type": "series",
         "episodes": [
           {
@@ -11651,7 +13253,7 @@
           {
             "code": "S01E04",
             "name": "S01E04 - Shook One Part II",
-            "count": 23,
+            "count": 24,
             "dialogues": 702,
             "level": "B1-B2",
             "duration": 56
@@ -11769,7 +13371,7 @@
             "duration": 62
           }
         ],
-        "level": "B1-B2",
+        "level": "B2",
         "levelRange": [
           "B1",
           "B2"
@@ -11779,9 +13381,10 @@
         "duration": 1041,
         "aliases": [],
         "years": [
-          "2025"
+          "2025",
+          "2027"
         ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "realeza": {
           "Adewale Akinnuoye-Agbaje": [
@@ -14672,7 +16275,7 @@
         ],
         "level": "B2",
         "levelRange": [
-          "B1-B2",
+          "B1",
           "C1"
         ],
         "rating": "+14",
@@ -14681,9 +16284,10 @@
         "aliases": [],
         "years": [
           "2025",
-          "2026"
+          "2026",
+          "2027"
         ],
-        "posterUrl": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
         "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
         "genres": [
           "Comedia"
@@ -15948,11 +17552,11 @@
             "name": "Blacklight",
             "count": 129,
             "dialogues": 1700,
-            "level": "B2",
+            "level": "B1-B2",
             "duration": 104
           }
         ],
-        "level": "B2",
+        "level": "B1-B2",
         "levelRange": null,
         "rating": "+14",
         "dialogues": 1700,
@@ -17120,11 +18724,11 @@
             "name": "Sweetness in the Belly",
             "count": 46,
             "dialogues": 1116,
-            "level": "B1",
+            "level": "B1-B2",
             "duration": 111
           }
         ],
-        "level": "B1",
+        "level": "B1-B2",
         "levelRange": null,
         "rating": "+14",
         "dialogues": 1116,
@@ -17465,67 +19069,1558 @@
     ]
   },
   "2027": {
-    "totalWords": 65,
-    "uniqueMovies": 1,
-    "totalDialogues": 1251,
+    "totalWords": 5093,
+    "uniqueMovies": 30,
+    "totalDialogues": 75314,
     "topWord": {
-      "word": "A shooting spree",
-      "count": 1,
-      "translation": "un tiroteo, una balacera"
+      "word": "Chomp (verbo)",
+      "count": 4,
+      "translation": "masticar/morder con fuerza"
     },
     "topList": [
       {
-        "word": "A shooting spree",
-        "count": 1,
-        "translation": "un tiroteo, una balacera"
+        "word": "Chomp (verbo)",
+        "count": 4,
+        "translation": "masticar/morder con fuerza"
       },
       {
-        "word": "A shot-caller",
-        "count": 1,
-        "translation": "un lanzador, un tirador"
+        "word": "Cul-de-sac",
+        "count": 4,
+        "translation": "callejón sin salida"
       },
       {
-        "word": "Any blanks in this batch (no literal)",
-        "count": 1,
-        "translation": "cualquier espacio en blanco en este lote"
+        "word": "Lingonberry",
+        "count": 4,
+        "translation": "arándano rojo"
       },
       {
-        "word": "Backpedal (verbo)",
-        "count": 1,
-        "translation": "retroceder, ir marcha atrás"
+        "word": "Creepy",
+        "count": 3,
+        "translation": "espeluznante"
       },
       {
-        "word": "Bargain (verbo)",
-        "count": 1,
-        "translation": "negociar, regatear"
+        "word": "Engine stalls (acotación)",
+        "count": 3,
+        "translation": "el motor se apaga"
       },
       {
-        "word": "Beat him to a pulp (frase no literal)",
-        "count": 1,
-        "translation": "lo hice papilla"
+        "word": "Gully",
+        "count": 3,
+        "translation": "barranco"
       },
       {
-        "word": "Bit mouthy",
-        "count": 1,
-        "translation": "un poco bocaza/hablador"
+        "word": "Junkie",
+        "count": 3,
+        "translation": "adicto, drogadicto"
       },
       {
-        "word": "Bleed out",
-        "count": 1,
-        "translation": "desangrar"
+        "word": "Neat",
+        "count": 3,
+        "translation": "genial"
       },
       {
-        "word": "Blow (sustantivo)",
-        "count": 1,
-        "translation": "golpe"
+        "word": "Preposterous",
+        "count": 3,
+        "translation": "absurdo, ridículo"
       },
       {
-        "word": "Crop",
-        "count": 1,
-        "translation": "cosecha, cultivo"
+        "word": "Put up with",
+        "count": 3,
+        "translation": "aguantar, soportar, tolerar"
       }
     ],
     "movieList": [
+      {
+        "title": "The Big Bang Theory",
+        "count": 962,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S06E01",
+            "name": "S06E01",
+            "count": 26,
+            "dialogues": 441,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E02",
+            "name": "S06E02",
+            "count": 23,
+            "dialogues": 445,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E03",
+            "name": "S06E03",
+            "count": 28,
+            "dialogues": 419,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S06E04",
+            "name": "S06E04",
+            "count": 24,
+            "dialogues": 462,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E05",
+            "name": "S06E05",
+            "count": 42,
+            "dialogues": 437,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E06",
+            "name": "S06E06",
+            "count": 26,
+            "dialogues": 496,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E07",
+            "name": "S06E07",
+            "count": 38,
+            "dialogues": 456,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E08",
+            "name": "S06E08",
+            "count": 26,
+            "dialogues": 441,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E09",
+            "name": "S06E09",
+            "count": 39,
+            "dialogues": 444,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E10",
+            "name": "S06E10",
+            "count": 39,
+            "dialogues": 431,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E11",
+            "name": "S06E11",
+            "count": 54,
+            "dialogues": 493,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E12",
+            "name": "S06E12",
+            "count": 25,
+            "dialogues": 473,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E13",
+            "name": "S06E13",
+            "count": 36,
+            "dialogues": 464,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E14",
+            "name": "S06E14",
+            "count": 28,
+            "dialogues": 437,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E15",
+            "name": "S06E15",
+            "count": 31,
+            "dialogues": 486,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E16",
+            "name": "S06E16",
+            "count": 21,
+            "dialogues": 466,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E17",
+            "name": "S06E17",
+            "count": 28,
+            "dialogues": 443,
+            "level": "B1",
+            "duration": 19
+          },
+          {
+            "code": "S06E18",
+            "name": "S06E18",
+            "count": 31,
+            "dialogues": 406,
+            "level": "B2-C1",
+            "duration": 20
+          },
+          {
+            "code": "S06E19",
+            "name": "S06E19",
+            "count": 28,
+            "dialogues": 447,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E20",
+            "name": "S06E20",
+            "count": 35,
+            "dialogues": 434,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S06E21",
+            "name": "S06E21",
+            "count": 25,
+            "dialogues": 421,
+            "level": "B2",
+            "duration": 20
+          },
+          {
+            "code": "S06E22",
+            "name": "S06E22",
+            "count": 34,
+            "dialogues": 448,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E23",
+            "name": "S06E23",
+            "count": 38,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S06E24",
+            "name": "S06E24",
+            "count": 23,
+            "dialogues": 482,
+            "level": "B1-B2",
+            "duration": 20
+          },
+          {
+            "code": "S07E01",
+            "name": "S07E01",
+            "count": 34,
+            "dialogues": 454,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E02",
+            "name": "S07E02",
+            "count": 40,
+            "dialogues": 503,
+            "level": "B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E03",
+            "name": "S07E03",
+            "count": 24,
+            "dialogues": 504,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E04",
+            "name": "S07E04",
+            "count": 35,
+            "dialogues": 482,
+            "level": "B1-B2",
+            "duration": 21
+          },
+          {
+            "code": "S07E05",
+            "name": "S07E05",
+            "count": 42,
+            "dialogues": 436,
+            "level": "B2",
+            "duration": 19
+          },
+          {
+            "code": "S07E06",
+            "name": "S07E06",
+            "count": 39,
+            "dialogues": 488,
+            "level": "B2",
+            "duration": 21
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B1",
+          "C1"
+        ],
+        "rating": "+14",
+        "dialogues": 13687,
+        "duration": 616,
+        "aliases": [],
+        "years": [
+          "2025",
+          "2026",
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+        "genres": [
+          "Comedia"
+        ],
+        "releaseDate": "2007-09-24"
+      },
+      {
+        "title": "Kick Buttowski",
+        "count": 544,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Kick Buttowski (Episode 1)",
+            "count": 36,
+            "dialogues": 411,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E02",
+            "name": "Kick Buttowski (Episode 2)",
+            "count": 19,
+            "dialogues": 271,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E03",
+            "name": "Kick Buttowski (Episode 3)",
+            "count": 33,
+            "dialogues": 447,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E04",
+            "name": "Kick Buttowski (Episode 4)",
+            "count": 14,
+            "dialogues": 308,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E05",
+            "name": "Kick Buttowski (Episode 5)",
+            "count": 22,
+            "dialogues": 413,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E06",
+            "name": "Kick Buttowski (Episode 6)",
+            "count": 25,
+            "dialogues": 397,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E07",
+            "name": "Kick Buttowski (Episode 7)",
+            "count": 24,
+            "dialogues": 392,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E08",
+            "name": "Kick Buttowski (Episode 8)",
+            "count": 24,
+            "dialogues": 316,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E09",
+            "name": "Kick Buttowski (Episode 9)",
+            "count": 34,
+            "dialogues": 427,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E10",
+            "name": "Kick Buttowski (Episode 10)",
+            "count": 29,
+            "dialogues": 424,
+            "level": "B2-C1",
+            "duration": 11
+          },
+          {
+            "code": "S01E11",
+            "name": "Kick Buttowski (Episode 11)",
+            "count": 33,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E12",
+            "name": "Kick Buttowski (Episode 12)",
+            "count": 30,
+            "dialogues": 466,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E13",
+            "name": "Kick Buttowski (Episode 13)",
+            "count": 25,
+            "dialogues": 456,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E14",
+            "name": "Kick Buttowski (Episode 14)",
+            "count": 27,
+            "dialogues": 448,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E15",
+            "name": "Kick Buttowski (Episode 15)",
+            "count": 20,
+            "dialogues": 510,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E16",
+            "name": "Kick Buttowski (Episode 16)",
+            "count": 28,
+            "dialogues": 424,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E17",
+            "name": "Kick Buttowski (Episode 17)",
+            "count": 15,
+            "dialogues": 373,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E18",
+            "name": "Kick Buttowski (Episode 18)",
+            "count": 27,
+            "dialogues": 430,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E19",
+            "name": "Kick Buttowski (Episode 19)",
+            "count": 42,
+            "dialogues": 532,
+            "level": "B2",
+            "duration": 11
+          },
+          {
+            "code": "S01E20",
+            "name": "Kick Buttowski (Episode 20)",
+            "count": 37,
+            "dialogues": 467,
+            "level": "B2",
+            "duration": 11
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 8360,
+        "duration": 220,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+        "genres": [
+          "Animación",
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Infantil"
+        ],
+        "releaseDate": "2010-02-13"
+      },
+      {
+        "title": "GTA San Andreas WCTR Radio",
+        "count": 322,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "GTA San Andreas WCTR Radio",
+            "count": 322,
+            "dialogues": 2123,
+            "level": "B2-C1",
+            "duration": 35
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2123,
+        "duration": 35,
+        "aliases": [],
+        "years": [
+          "2027"
+        ]
+      },
+      {
+        "title": "Euphoria",
+        "count": 248,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S03E01",
+            "name": "S03E01",
+            "count": 66,
+            "dialogues": 990,
+            "level": "B2",
+            "duration": 62
+          },
+          {
+            "code": "S03E02",
+            "name": "S03E02",
+            "count": 50,
+            "dialogues": 1046,
+            "level": "B2",
+            "duration": 60
+          },
+          {
+            "code": "S03E03",
+            "name": "S03E03",
+            "count": 70,
+            "dialogues": 1032,
+            "level": "B2",
+            "duration": 60
+          },
+          {
+            "code": "S03E04",
+            "name": "S03E04",
+            "count": 62,
+            "dialogues": 1043,
+            "level": "B2",
+            "duration": 62
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B1",
+          "B2"
+        ],
+        "rating": "+18",
+        "dialogues": 4111,
+        "duration": 244,
+        "aliases": [],
+        "years": [
+          "2025",
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Alexa Demie": [
+            "actua"
+          ],
+          "Angus Cloud": [
+            "actua"
+          ],
+          "Colman Domingo": [
+            "actua"
+          ],
+          "Darrell Britt-Gibson": [
+            "actua"
+          ],
+          "Hunter Schafer": [
+            "actua"
+          ],
+          "Lana del Rey": [
+            "musica"
+          ],
+          "Maude Apatow": [
+            "actua"
+          ],
+          "Zendaya": [
+            "actua",
+            "musica",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-06-16"
+      },
+      {
+        "title": "Taylor Swift - The End of an Era",
+        "count": 217,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Taylor Swift - The End of an Era (Episode 1)",
+            "count": 47,
+            "dialogues": 692,
+            "level": "B1-B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E02",
+            "name": "Taylor Swift - The End of an Era (Episode 2)",
+            "count": 50,
+            "dialogues": 869,
+            "level": "B1-B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E03",
+            "name": "Taylor Swift - The End of an Era (Episode 3)",
+            "count": 58,
+            "dialogues": 847,
+            "level": "B1-B2",
+            "duration": 49
+          },
+          {
+            "code": "S01E04",
+            "name": "Taylor Swift - The End of an Era (Episode 4)",
+            "count": 62,
+            "dialogues": 808,
+            "level": "B2",
+            "duration": 49
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1-B2",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 3216,
+        "duration": 185,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qheCyer8rj7B8tJC1anXlCFNrlf.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "aparece"
+          ],
+          "Taylor Swift": [
+            "aparece"
+          ]
+        },
+        "genres": [
+          "Documental"
+        ],
+        "releaseDate": "2025-12-12"
+      },
+      {
+        "title": "The Amazing Digital Circus",
+        "count": 207,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The Amazing Digital Circus (Episode 1)",
+            "count": 36,
+            "dialogues": 471,
+            "level": "C1",
+            "duration": 26
+          },
+          {
+            "code": "S01E02",
+            "name": "The Amazing Digital Circus (Episode 2)",
+            "count": 46,
+            "dialogues": 492,
+            "level": "C1",
+            "duration": 26
+          },
+          {
+            "code": "S01E03",
+            "name": "The Amazing Digital Circus (Episode 3)",
+            "count": 38,
+            "dialogues": 537,
+            "level": "C1",
+            "duration": 25
+          },
+          {
+            "code": "S01E04",
+            "name": "The Amazing Digital Circus (Episode 4)",
+            "count": 43,
+            "dialogues": 469,
+            "level": "B2",
+            "duration": 24
+          },
+          {
+            "code": "S01E05",
+            "name": "The Amazing Digital Circus (Episode 5)",
+            "count": 44,
+            "dialogues": 534,
+            "level": "C1",
+            "duration": 26
+          }
+        ],
+        "level": "C1",
+        "levelRange": [
+          "B2",
+          "C1"
+        ],
+        "rating": "TE",
+        "dialogues": 2503,
+        "duration": 127,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+        "genres": [
+          "Animación",
+          "Comedia",
+          "Drama",
+          "Ciencia ficción",
+          "Fantasía"
+        ],
+        "releaseDate": "2023-10-13"
+      },
+      {
+        "title": "The Great",
+        "count": 187,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The Great (Episode 1)",
+            "count": 82,
+            "dialogues": 879,
+            "level": "B2-C1",
+            "duration": 52
+          },
+          {
+            "code": "S01E02",
+            "name": "The Great (Episode 2)",
+            "count": 105,
+            "dialogues": 1007,
+            "level": "B2-C1",
+            "duration": 55
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": [
+          "B2-C1",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 1886,
+        "duration": 107,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2020-05-15"
+      },
+      {
+        "title": "A Good Girl's Guide to Murder",
+        "count": 175,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "A Good Girl's Guide to Murder (Episode 1)",
+            "count": 24,
+            "dialogues": 440,
+            "level": "B1-B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E02",
+            "name": "A Good Girl's Guide to Murder (Episode 2)",
+            "count": 33,
+            "dialogues": 524,
+            "level": "B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E03",
+            "name": "A Good Girl's Guide to Murder (Episode 3)",
+            "count": 40,
+            "dialogues": 474,
+            "level": "B2",
+            "duration": 43
+          },
+          {
+            "code": "S01E04",
+            "name": "A Good Girl's Guide to Murder (Episode 4)",
+            "count": 29,
+            "dialogues": 502,
+            "level": "B2",
+            "duration": 44
+          },
+          {
+            "code": "S01E05",
+            "name": "A Good Girl's Guide to Murder (Episode 5)",
+            "count": 28,
+            "dialogues": 573,
+            "level": "B1",
+            "duration": 50
+          },
+          {
+            "code": "S01E06",
+            "name": "A Good Girl's Guide to Murder (Episode 6)",
+            "count": 21,
+            "dialogues": 518,
+            "level": "B1",
+            "duration": 51
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 3031,
+        "duration": 275,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+        "realeza": {
+          "Emma Myers": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Crimen",
+          "Misterio"
+        ],
+        "releaseDate": "2024-07-10"
+      },
+      {
+        "title": "Margo's Got Money Troubles",
+        "count": 175,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Margo's Got Money Troubles (Episode 1)",
+            "count": 37,
+            "dialogues": 603,
+            "level": "B2",
+            "duration": 36
+          },
+          {
+            "code": "S01E02",
+            "name": "Margo's Got Money Troubles (Episode 2)",
+            "count": 46,
+            "dialogues": 599,
+            "level": "B2-C1",
+            "duration": 38
+          },
+          {
+            "code": "S01E03",
+            "name": "Margo's Got Money Troubles (Episode 3)",
+            "count": 55,
+            "dialogues": 666,
+            "level": "B2",
+            "duration": 42
+          },
+          {
+            "code": "S01E04",
+            "name": "Margo's Got Money Troubles (Episode 4)",
+            "count": 37,
+            "dialogues": 640,
+            "level": "B2",
+            "duration": 36
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2-C1"
+        ],
+        "rating": "TE",
+        "dialogues": 2508,
+        "duration": 152,
+        "aliases": [
+          "Margo's Got Money Troubles (Season 1)"
+        ],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "produce"
+          ],
+          "Elle Fanning": [
+            "actua",
+            "produce"
+          ],
+          "Michelle Pfeiffer": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "releaseDate": "2026-04-14"
+      },
+      {
+        "title": "Lucky",
+        "count": 168,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "Lucky (Episode 1)",
+            "count": 40,
+            "dialogues": 556,
+            "level": "B1-B2",
+            "duration": 48
+          },
+          {
+            "code": "S01E02",
+            "name": "Lucky (Episode 2)",
+            "count": 54,
+            "dialogues": 704,
+            "level": "B1-B2",
+            "duration": 48
+          },
+          {
+            "code": "S01E03",
+            "name": "Lucky (Episode 3)",
+            "count": 42,
+            "dialogues": 642,
+            "level": "B1-B2",
+            "duration": 46
+          },
+          {
+            "code": "S01E04",
+            "name": "Lucky (Episode 4)",
+            "count": 32,
+            "dialogues": 623,
+            "level": "B1",
+            "duration": 40
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": [
+          "B1",
+          "B1-B2"
+        ],
+        "rating": "TE",
+        "dialogues": 2525,
+        "duration": 182,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/mKrhRPB7rMvy0bIU1l1NYhgh1eI.jpg",
+        "realeza": {
+          "Anya Taylor-Joy": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "releaseDate": "2026-07-14"
+      },
+      {
+        "title": "Trumbo",
+        "count": 158,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Trumbo",
+            "count": 158,
+            "dialogues": 2261,
+            "level": "B2",
+            "duration": 124
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2261,
+        "duration": 124,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/saa1scU6UIBJi9bMEvLNzXXKnDD.jpg",
+        "realeza": {
+          "Adewale Akinnuoye-Agbaje": [
+            "actua"
+          ],
+          "Elle Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2015-10-27"
+      },
+      {
+        "title": "Wuthering Heights",
+        "count": 150,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Wuthering Heights",
+            "count": 150,
+            "dialogues": 1812,
+            "level": "B2-C1",
+            "duration": 136
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1812,
+        "duration": 136,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+        "realeza": {
+          "Margot Robbie": [
+            "actua",
+            "produce"
+          ]
+        },
+        "genres": [
+          "Romance",
+          "Drama",
+          "Historia"
+        ],
+        "releaseDate": "2026-02-11"
+      },
+      {
+        "title": "Mary Shelley",
+        "count": 139,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Mary Shelley",
+            "count": 139,
+            "dialogues": 1510,
+            "level": "B2-C1",
+            "duration": 120
+          }
+        ],
+        "level": "B2-C1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1510,
+        "duration": 120,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua",
+            "musica"
+          ]
+        },
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "releaseDate": "2017-08-06"
+      },
+      {
+        "title": "The Hate U Give",
+        "count": 129,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Hate U Give",
+            "count": 129,
+            "dialogues": 2537,
+            "level": "B1-B2",
+            "duration": 133
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 2537,
+        "duration": 133,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Crimen",
+          "Drama"
+        ],
+        "releaseDate": "2018-10-19"
+      },
+      {
+        "title": "The Last of Robin Hood",
+        "count": 126,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Last of Robin Hood",
+            "count": 126,
+            "dialogues": 1472,
+            "level": "B2",
+            "duration": 92
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1472,
+        "duration": 92,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6iL7iNCgyQqconH8CCTwdbEccZG.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Romance",
+          "Película de TV"
+        ],
+        "releaseDate": "2013-09-06"
+      },
+      {
+        "title": "Back to the Future I",
+        "count": 121,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Back to the Future I",
+            "count": 121,
+            "dialogues": 1776,
+            "level": "B2",
+            "duration": 116
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1776,
+        "duration": 116,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "genres": [
+          "Aventura",
+          "Comedia",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "1985-07-03"
+      },
+      {
+        "title": "The First Lady",
+        "count": 114,
+        "type": "series",
+        "episodes": [
+          {
+            "code": "S01E01",
+            "name": "The First Lady (Episode 1)",
+            "count": 35,
+            "dialogues": 962,
+            "level": "B2",
+            "duration": 56
+          },
+          {
+            "code": "S01E02",
+            "name": "The First Lady (Episode 2)",
+            "count": 79,
+            "dialogues": 988,
+            "level": "B2",
+            "duration": 55
+          }
+        ],
+        "level": "B2",
+        "levelRange": [
+          "B2",
+          "B2"
+        ],
+        "rating": "TE",
+        "dialogues": 1950,
+        "duration": 111,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jWBTRLWrUuqZWm7lcpAz7JndYzt.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Michelle Pfeiffer": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Familia"
+        ],
+        "releaseDate": "2022-04-17"
+      },
+      {
+        "title": "Matilda",
+        "count": 103,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Matilda",
+            "count": 103,
+            "dialogues": 1246,
+            "level": "B2",
+            "duration": 98
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1246,
+        "duration": 98,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+        "genres": [
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ],
+        "releaseDate": "1996-08-02"
+      },
+      {
+        "title": "Lost Girls",
+        "count": 101,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Lost Girls",
+            "count": 101,
+            "dialogues": 1308,
+            "level": "B2",
+            "duration": 95
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1308,
+        "duration": 95,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama",
+          "Misterio",
+          "Suspenso",
+          "Historia"
+        ],
+        "releaseDate": "2020-01-28"
+      },
+      {
+        "title": "The Twilight Saga I",
+        "count": 91,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga I",
+            "count": 91,
+            "dialogues": 1724,
+            "level": "B1-B2",
+            "duration": 122
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1724,
+        "duration": 122,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+        "realeza": {
+          "Hayley Williams": [
+            "musica"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua",
+            "musica"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2008-11-20"
+      },
+      {
+        "title": "The Ice Road II Vengeance",
+        "count": 77,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Ice Road II Vengeance",
+            "count": 77,
+            "dialogues": 1656,
+            "level": "B2",
+            "duration": 113
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1656,
+        "duration": 113,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+        "realeza": {
+          "Liam Neeson": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Acción",
+          "Suspenso",
+          "Drama"
+        ],
+        "releaseDate": "2025-06-27"
+      },
+      {
+        "title": "Young Ones",
+        "count": 73,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Young Ones",
+            "count": 73,
+            "dialogues": 1254,
+            "level": "B1-B2",
+            "duration": 100
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1254,
+        "duration": 100,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
+        "realeza": {
+          "Elle Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Western",
+          "Acción",
+          "Drama",
+          "Ciencia ficción"
+        ],
+        "releaseDate": "2014-06-28"
+      },
+      {
+        "title": "Cillian Murphy & Margot Robbie – Actors and Actors",
+        "count": 72,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Cillian Murphy & Margot Robbie – Actors and Actors",
+            "count": 72,
+            "dialogues": 1479,
+            "level": "B2",
+            "duration": 48
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1479,
+        "duration": 48,
+        "aliases": [],
+        "years": [
+          "2027"
+        ]
+      },
+      {
+        "title": "The Twilight Saga III Eclipse",
+        "count": 69,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga III Eclipse",
+            "count": 69,
+            "dialogues": 1492,
+            "level": "B1",
+            "duration": 124
+          }
+        ],
+        "level": "B1",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1492,
+        "duration": 124,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2010-06-23"
+      },
       {
         "title": "Absolution",
         "count": 65,
@@ -17562,6 +20657,198 @@
           "Misterio"
         ],
         "releaseDate": "2024-10-31"
+      },
+      {
+        "title": "Countdown",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Countdown",
+            "count": 61,
+            "dialogues": 1259,
+            "level": "B1-B2",
+            "duration": 90
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1259,
+        "duration": 90,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg",
+        "realeza": {
+          "Elizabeth Lail": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Terror",
+          "Suspenso"
+        ],
+        "releaseDate": "2019-10-24"
+      },
+      {
+        "title": "The Secret Life of Bees",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Secret Life of Bees",
+            "count": 61,
+            "dialogues": 1166,
+            "level": "B1-B2",
+            "duration": 114
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1166,
+        "duration": 114,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/40K8NpPgBqIDukExvG4yWPkYEvO.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Familia",
+          "Aventura",
+          "Drama"
+        ],
+        "releaseDate": "2008-09-17"
+      },
+      {
+        "title": "The Twilight Saga II New Moon",
+        "count": 61,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Twilight Saga II New Moon",
+            "count": 61,
+            "dialogues": 1622,
+            "level": "B2",
+            "duration": 131
+          }
+        ],
+        "level": "B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1622,
+        "duration": 131,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+        "realeza": {
+          "Dakota Fanning": [
+            "actua"
+          ],
+          "Kristen Stewart": [
+            "actua"
+          ],
+          "Peter Facinelli": [
+            "actua"
+          ],
+          "Robert Pattinson": [
+            "actua"
+          ],
+          "Taylor Lautner": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Drama",
+          "Romance"
+        ],
+        "releaseDate": "2009-11-18"
+      },
+      {
+        "title": "The Short History of the Long Road",
+        "count": 59,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "The Short History of the Long Road",
+            "count": 59,
+            "dialogues": 1072,
+            "level": "B1-B2",
+            "duration": 90
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1072,
+        "duration": 90,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/chTc0F8B9YOiwZDea5LJ8h2q2Qx.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/aRFgKZHFBEcrBHCgkAxqqvnr43n.jpg",
+        "realeza": {
+          "Sabrina Carpenter": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Drama"
+        ],
+        "releaseDate": "2019-04-27"
+      },
+      {
+        "title": "Eileen",
+        "count": 58,
+        "type": "movie",
+        "episodes": [
+          {
+            "name": "Eileen",
+            "count": 58,
+            "dialogues": 1517,
+            "level": "B1-B2",
+            "duration": 98
+          }
+        ],
+        "level": "B1-B2",
+        "levelRange": null,
+        "rating": "TE",
+        "dialogues": 1517,
+        "duration": 98,
+        "aliases": [],
+        "years": [
+          "2027"
+        ],
+        "posterUrl": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/original/sQCjcWPoAVuTvDJfBJitBlDstNU.jpg",
+        "realeza": {
+          "Thomasin McKenzie": [
+            "actua"
+          ]
+        },
+        "genres": [
+          "Suspenso",
+          "Crimen"
+        ],
+        "releaseDate": "2023-12-01"
       }
     ]
   },
@@ -17573,12 +20860,12 @@
     },
     {
       "year": "2024",
-      "words": 8831,
+      "words": 8832,
       "dialogues": 82538
     },
     {
       "year": "2025",
-      "words": 11018,
+      "words": 11019,
       "dialogues": 133371
     },
     {
@@ -17588,8 +20875,8 @@
     },
     {
       "year": "2027",
-      "words": 65,
-      "dialogues": 1251
+      "words": 5093,
+      "dialogues": 75314
     }
   ]
 }

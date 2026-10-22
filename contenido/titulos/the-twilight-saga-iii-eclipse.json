@@ -1,0 +1,54 @@
+{
+  "titulo": "The Twilight Saga III Eclipse",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 124,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 24021
+  },
+  "estreno": "2010-06-23",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Drama",
+    "Romance"
+  ],
+  "analisis": "",
+  "sinopsis": "Tercera entrega de la popular saga de vampiros basada en las novelas de Stephenie Meyer. Bella (Kristen Stewart) tendrá que elegir entre Edward (Robert Pattinson) y Jacob (Taylor Lautner). La ciudad de Seattle es devastada por una serie de misteriosos asesinatos que va en aumento, mientras una vampiresa busca venganza. Bella debe escoger entre su amor por Edward y su amistad con Jacob, consciente de que su decisión puede originar una batalla entre vampiros y licántropos. Rodeada de peligros y con su graduación acercándose, ahora se enfrenta a la decisión más importante de su vida... Dirige David Slade (30 Days of Night, Hard Candy).",
+  "poster": "https://image.tmdb.org/t/p/w500/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+    "https://image.tmdb.org/t/p/w780/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
+    "https://image.tmdb.org/t/p/w780/bvoznwOEe7uFixYfouxYsHynrkA.jpg",
+    "https://image.tmdb.org/t/p/w780/4hrb4AOgQL8sk5xGt6gVYUr5KKX.jpg",
+    "https://image.tmdb.org/t/p/w780/6DOHPP9cP3hFfoOSY2HEoVfKAs3.jpg",
+    "https://image.tmdb.org/t/p/w780/z6PjZRyiZjOLIp9Xa6jpWNcVqix.jpg"
+  ],
+  "realeza": {
+    "Dakota Fanning": [
+      "actua"
+    ],
+    "Kristen Stewart": [
+      "actua"
+    ],
+    "Peter Facinelli": [
+      "actua"
+    ],
+    "Robert Pattinson": [
+      "actua"
+    ],
+    "Taylor Lautner": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Twilight Saga III Eclipse (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Twilight Saga III Eclipse to improve the vocabulary in English.pdf"
+    ]
+  }
+}

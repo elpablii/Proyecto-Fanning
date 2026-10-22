@@ -1,0 +1,86 @@
+{
+  "titulo": "A Good Girl's Guide to Murder",
+  "tipo": "serie",
+  "clasificacion": "",
+  "tmdb": {
+    "tipo": "tv",
+    "id": 218342
+  },
+  "estreno": "2024-07-10",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "analisis": "",
+  "sinopsis": "Pip Fitz-Amobi, una mujer brillante, no está segura de si la colegiala Andie Bell fue asesinada por su amante Sal Singh hace cinco años. ¿Hasta dónde llegarán para proteger a Pip de saber la verdad si resulta que Sal Singh no es el asesino?",
+  "poster": "https://image.tmdb.org/t/p/w500/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+    "https://image.tmdb.org/t/p/w780/8H3KFYBklgxPiGsc8yWNWqGPZ9G.jpg",
+    "https://image.tmdb.org/t/p/w780/4ShMtprvdtho9ZDaSGLnRXQf5vx.jpg",
+    "https://image.tmdb.org/t/p/w780/8zLyVhEsH6SM9diX7CUUWcaRlk0.jpg",
+    "https://image.tmdb.org/t/p/w780/sxjlMKEwHyKK63eeE2vVQKgIjvY.jpg",
+    "https://image.tmdb.org/t/p/w780/reDaV9eiwu4w3FeS7KIMsEyfyEI.jpg"
+  ],
+  "realeza": {
+    "Emma Myers": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de A Good Girl's Guide to Murder (S01EP1-2) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de A Good Girl's Guide to Murder (S01EP3-4) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de A Good Girl's Guide to Murder (S01EP5-6) (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos Series/Dialogues from A Good Girl's Guide to Murder to improve the vocabulary in English (Season 1).pdf"
+    ]
+  },
+  "episodios": {
+    "S01E01": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 1)",
+      "titulo": "Episode 1",
+      "foto": "https://image.tmdb.org/t/p/w500/yWIUI4Qqac5oEfmHeXmQk0VuATB.jpg",
+      "sinopsis": "Pip elige un caso de homicidio para su proyecto escolar. Pero cuando empieza a investigar, descubre que para algunas personas era mejor dejarlo enterrado para siempre.",
+      "duracion": 43
+    },
+    "S01E02": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 2)",
+      "titulo": "Episode 2",
+      "foto": "https://image.tmdb.org/t/p/w500/vTuMceHI6Uxi6hVCTxFwquDKMxv.jpg",
+      "sinopsis": "Luego de entrevistar a las mejores amigas de Andie, Pip tiene una idea más clara de quién era la víctima, pero tras reorganizar fotos viejas empieza a comprender mejor todo.",
+      "duracion": 44
+    },
+    "S01E03": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 3)",
+      "titulo": "Episode 3",
+      "foto": "https://image.tmdb.org/t/p/w500/sEBwyQKWVwbw3SlP8JnpIzVBkRe.jpg",
+      "sinopsis": "Pip descubre por primera vez en su vida el lado oscuro cuando va a una fiesta clandestina. Y su siguiente pista la lleva a territorio aún más peligroso.",
+      "duracion": 43
+    },
+    "S01E04": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 4)",
+      "titulo": "Episode 4",
+      "foto": "https://image.tmdb.org/t/p/w500/zF4TRU2CgLRjchc2oWFgqp1NHYv.jpg",
+      "sinopsis": "Pip y Ravi siguen una nueva pista que los lleva lejos de Little Kilton. Allí, descubren una valiosa prueba... y una desagradable sorpresa.",
+      "duracion": 44
+    },
+    "S01E05": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 5)",
+      "titulo": "Episode 5",
+      "foto": "https://image.tmdb.org/t/p/w500/uBqP6OOmqp7fkDKpTVcvYsSq1KF.jpg",
+      "sinopsis": "Una impactante confesión arroja luz en la investigación. Antes de que Pip pueda decidir qué hacer, recibe otro mensaje amenazador.",
+      "duracion": 50
+    },
+    "S01E06": {
+      "nombre": "A Good Girl's Guide to Murder (Episode 6)",
+      "titulo": "Episode 6",
+      "foto": "https://image.tmdb.org/t/p/w500/37aueb8rEyPyouLinzokTiaja6j.jpg",
+      "sinopsis": "La policía hace un arresto, pero Pip no está segura de que el caso esté solucionado, así que va a visitar a la única persona que podría tener respuestas.",
+      "duracion": 51
+    }
+  }
+}

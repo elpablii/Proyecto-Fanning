@@ -1,0 +1,534 @@
+{
+  "title": "Back to the Future I",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.84,
+    "senales": {
+      "vocabulario": 3.94,
+      "dialogos": 3.33,
+      "temas": 4.31
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 9.3,
+        "A2": 7.6,
+        "B1": 10.2,
+        "B2": 37.7,
+        "C1": 13.5,
+        "C2": 21.7
+      },
+      "densidad": 6.8
+    },
+    "dialogos": {
+      "cobertura95": 3.22,
+      "ppm": 163.6
+    },
+    "temas": [
+      "científica y técnica"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inventor Doc Brown, regresar a 1985.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "https://image.tmdb.org/t/p/w780/2H2YYbn8wDzYXtak83Md6PAwMdp.jpg",
+      "https://image.tmdb.org/t/p/w780/pZCLGHynFPOv8dve6u9waxknLth.jpg",
+      "https://image.tmdb.org/t/p/w780/qskzmLTbarKnXDbo2HRj4NJ3vcW.jpg",
+      "https://image.tmdb.org/t/p/w780/hxSB02ksqnkXY4hPGAXqgO2fL01.jpg",
+      "https://image.tmdb.org/t/p/w780/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+  "vocabulary": [
+    {
+      "word": "Research facility (forma parcialmente no literal)",
+      "translation": "centro de investigación"
+    },
+    {
+      "word": "Clerical error (no literal)",
+      "translation": "error administrativo"
+    },
+    {
+      "word": "Buzzer blares (acotación)",
+      "translation": "suena el timbre"
+    },
+    {
+      "word": "Hook up (en sentido técnico)",
+      "translation": "conectar"
+    },
+    {
+      "word": "Tardies",
+      "translation": "retrasos"
+    },
+    {
+      "word": "Tardy slip for you",
+      "translation": "aquí tiene el justificante de retraso"
+    },
+    {
+      "word": "A nickel's worth of free advice",
+      "translation": "un consejo gratis"
+    },
+    {
+      "word": "Slacker",
+      "translation": "holgazán"
+    },
+    {
+      "word": "No McFly ever amounted to anything",
+      "translation": "ningún McFly ha llegado a ser alguien"
+    },
+    {
+      "word": "Hold it, fellas",
+      "translation": "un momento muchachos"
+    },
+    {
+      "word": "I'm cut out for music (frase no literal)",
+      "translation": "estoy hecho para la música"
+    },
+    {
+      "word": "Up to the",
+      "translation": "hasta el"
+    },
+    {
+      "word": "Lie out",
+      "translation": "acostarse, tumbarse"
+    },
+    {
+      "word": "The standard lecture (forma no literal)",
+      "translation": "el típico sermón"
+    },
+    {
+      "word": "I think the woman was born a nun (parcialmente no literal)",
+      "translation": "creo que esa mujer nació para ser monja"
+    },
+    {
+      "word": "Lightning struck",
+      "translation": "un rayo cayó"
+    },
+    {
+      "word": "Radio dispatcher (no literal)",
+      "translation": "operador de radio"
+    },
+    {
+      "word": "Tow (sustantivo)",
+      "translation": "grúa para remolque"
+    },
+    {
+      "word": "Wreck (sustantivo)",
+      "translation": "desastre"
+    },
+    {
+      "word": "I figured since they weren't due",
+      "translation": "pensé que, como no tenían fecha de vencimiento"
+    },
+    {
+      "word": "Get retyped",
+      "translation": "volver a escribir"
+    },
+    {
+      "word": "I'll run them on over",
+      "translation": "los llevaré"
+    },
+    {
+      "word": "Gullible",
+      "translation": "crédulo, ingenuo"
+    },
+    {
+      "word": "Got the place fixed up nice",
+      "translation": "dejé el lugar bien arreglado"
+    },
+    {
+      "word": "And all you got for me is lite beer?",
+      "translation": "¿Y lo único que tienes para mí es una cerveza light?"
+    },
+    {
+      "word": "Butthead",
+      "translation": "cabeza hueca, idiota"
+    },
+    {
+      "word": "Total (verbo en destrucción)",
+      "translation": "dejar hecho trizas"
+    },
+    {
+      "word": "Pouting over the car",
+      "translation": "enfadado por lo del auto"
+    },
+    {
+      "word": "Displacement",
+      "translation": "desplazamiento"
+    },
+    {
+      "word": "It made the flux dispersal",
+      "translation": "provocó la dispersión del fundente"
+    },
+    {
+      "word": "Creak (verbo aparte de crujir)",
+      "translation": "chirriar"
+    },
+    {
+      "word": "Keypad",
+      "translation": "teclado numérico"
+    },
+    {
+      "word": "When I came to (frase no literal)",
+      "translation": "cuando recuperé el conocimiento"
+    },
+    {
+      "word": "Flux capacitor (forma no literal)",
+      "translation": "condensador de flujo"
+    },
+    {
+      "word": "Breed (verbo no literal alusivo a plantas)",
+      "translation": "cultivar"
+    },
+    {
+      "word": "This is heavy-duty (frase no literal)",
+      "translation": "esto es algo serio"
+    },
+    {
+      "word": "Unleaded",
+      "translation": "sin plomo"
+    },
+    {
+      "word": "Kick (sustantivo no literal en física)",
+      "translation": "chispa, fuerza"
+    },
+    {
+      "word": "Sucker (en sentido denotativo)",
+      "translation": "cacharro, trasto"
+    },
+    {
+      "word": "Keep rolling there (no literal)",
+      "translation": "sigue así"
+    },
+    {
+      "word": "Rip off",
+      "translation": "plagiar"
+    },
+    {
+      "word": "In turn (adverbio)",
+      "translation": "a su vez"
+    },
+    {
+      "word": "A shoddy bomb casing",
+      "translation": "una carcasa de bomba de mala calidad"
+    },
+    {
+      "word": "Lead-lined",
+      "translation": "revestido/recubierto de plomo"
+    },
+    {
+      "word": "Roll (verbo en ciertos contextos)",
+      "translation": "enrollar"
+    },
+    {
+      "word": "Stall (verbo)",
+      "translation": "parar, calar"
+    },
+    {
+      "word": "Car blinker",
+      "translation": "intermitente del auto"
+    },
+    {
+      "word": "Cast your vote for a proven leader",
+      "translation": "vota por un lider de probada solvencia"
+    },
+    {
+      "word": "Jukebox",
+      "translation": "gramola, máquina de discos"
+    },
+    {
+      "word": "A tab (no literal)",
+      "translation": "la cuenta"
+    },
+    {
+      "word": "Get a load of this guy's life preserver (frase no literal)",
+      "translation": "fíjate en el salvavidas de este tipo"
+    },
+    {
+      "word": "Stand tall",
+      "translation": "mantén la cabeza en alto"
+    },
+    {
+      "word": "Peeping",
+      "translation": "mirón"
+    },
+    {
+      "word": "Hope chest (no literal)",
+      "translation": "baúl de los recuerdos"
+    },
+    {
+      "word": "He's in one of his moods (forma no literal)",
+      "translation": "está de mal humor"
+    },
+    {
+      "word": "Playpen",
+      "translation": "corralito, corral"
+    },
+    {
+      "word": "Comes from upbringing (no literal)",
+      "translation": "es cuestión de educación"
+    },
+    {
+      "word": "Disown (verbo)",
+      "translation": "desheredar"
+    },
+    {
+      "word": "Warbling",
+      "translation": "sonido, trino, gorjeo"
+    },
+    {
+      "word": "Fakery",
+      "translation": "montaje"
+    },
+    {
+      "word": "Sneak back",
+      "translation": "llevar a escondidas"
+    },
+    {
+      "word": "Fallout (en guerras o apocalipsis)",
+      "translation": "consecuencias"
+    },
+    {
+      "word": "Strike (verbo en tormentas)",
+      "translation": "caer (un rayo)"
+    },
+    {
+      "word": "Out of the question (frase no literal)",
+      "translation": "fuera de lugar, fuera de discusión"
+    },
+    {
+      "word": "Shape up (expresión)",
+      "translation": "ponerse las pilas"
+    },
+    {
+      "word": "Dreamboat",
+      "translation": "bombón"
+    },
+    {
+      "word": "Infatuated (adjetivo)",
+      "translation": "enamorado"
+    },
+    {
+      "word": "My mother has got the hots for me? (pregunta parcialmente no literal)",
+      "translation": "¿Mi mamá está enamorada de mí?"
+    },
+    {
+      "word": "Get your meat hooks off of me (frase no literal)",
+      "translation": "quítame las manos de encima"
+    },
+    {
+      "word": "I’m going to cut you a break (frase no literal)",
+      "translation": "te voy a dejar en paz"
+    },
+    {
+      "word": "Give her a break (frase no literal)",
+      "translation": "déjala en paz"
+    },
+    {
+      "word": "My density has popped me to you (parcialmente no literal)",
+      "translation": "mi densidad me ha traído hasta ti"
+    },
+    {
+      "word": "Ram (verbo)",
+      "translation": "embestir, arrollar, dar una paliza"
+    },
+    {
+      "word": "Lamp post",
+      "translation": "farola"
+    },
+    {
+      "word": "Outfit (verbo en sentido técnico)",
+      "translation": "equipar"
+    },
+    {
+      "word": "From the down of street",
+      "translation": "desde el final de la calle"
+    },
+    {
+      "word": "You wind up the car and release it",
+      "translation": "le das cuerda al auto y lo sueltas"
+    },
+    {
+      "word": "Wind-up mechanism twisting (acotación)",
+      "translation": "torcimiento del mecanismo de cuerda"
+    },
+    {
+      "word": "Instill (verbo)",
+      "translation": "inculcar, infundir"
+    },
+    {
+      "word": "She's tracked you down",
+      "translation": "te ha localizado"
+    },
+    {
+      "word": "Pick a fight (verbo parcialmente no literal)",
+      "translation": "buscar pelea"
+    },
+    {
+      "word": "I'm out of the count",
+      "translation": "ya no cuento"
+    },
+    {
+      "word": "Lows tonight in the upper 40°F",
+      "translation": "las mínimas esta noche rondarán los 8 °C"
+    },
+    {
+      "word": "You've given me something to shoot for (frase no literal)",
+      "translation": "me has dado un objetivo por el que luchar"
+    },
+    {
+      "word": "Backfire (verbo)",
+      "translation": "salir por la culata, resultar contraproducente, fracasar"
+    },
+    {
+      "word": "Weather-sensing equipment",
+      "translation": "equipo de detección meteorológica"
+    },
+    {
+      "word": "Swipe (verbo en algunos contextos)",
+      "translation": "sacar. Coger"
+    },
+    {
+      "word": "Liquor cabinet",
+      "translation": "armario/mueble de los licores"
+    },
+    {
+      "word": "Don't be such a square (frase no literal)",
+      "translation": "no seas tan aburrido"
+    },
+    {
+      "word": "Beat it, spook (expresión)",
+      "translation": "lárgate, espía"
+    },
+    {
+      "word": "Peckerwood (despectivo)",
+      "translation": "paleto"
+    },
+    {
+      "word": "Reefer addicts",
+      "translation": "adictos a la marihuana"
+    },
+    {
+      "word": "Scram (expresión)",
+      "translation": "lárgate"
+    },
+    {
+      "word": "I'm cutting in",
+      "translation": "yo me meto"
+    },
+    {
+      "word": "Oldie",
+      "translation": "vieja conocida"
+    },
+    {
+      "word": "This is a blues riff in B",
+      "translation": "este es un riff de blues en Si bemol"
+    },
+    {
+      "word": "Try and keep up",
+      "translation": "intenta seguir el ritmo"
+    },
+    {
+      "word": "Way down in",
+      "translation": "allá en"
+    },
+    {
+      "word": "Way back up in the woods among the evergreens",
+      "translation": "allá en lo profundo del bosque, entre los árboles de hoja perenne"
+    },
+    {
+      "word": "There stood a log cabin",
+      "translation": "ahí había una cabaña de madera"
+    },
+    {
+      "word": "Lay out (en algunos contextos)",
+      "translation": "dar una paliza"
+    },
+    {
+      "word": "Go easy on him (forma no literal)",
+      "translation": "sé indulgente con él"
+    },
+    {
+      "word": "The old man really came through (parcialmente no literal)",
+      "translation": "el viejo realmente cumplió"
+    },
+    {
+      "word": "Stand up to",
+      "translation": "hacer frente a"
+    },
+    {
+      "word": "Take it up! (expresión)",
+      "translation": "¡Adelante!"
+    },
+    {
+      "word": "Helicopter hovering (acotación)",
+      "translation": "helicóptero en vuelo estacionario"
+    },
+    {
+      "word": "Engine dying (acotación no literal)",
+      "translation": "el motor se apaga"
+    },
+    {
+      "word": "It's a little bumpy, you bet (frase no literal)",
+      "translation": "es un poco movido, ya lo creo"
+    },
+    {
+      "word": "Keep up",
+      "translation": "seguir el ritmo"
+    },
+    {
+      "word": "Sleepyhead",
+      "translation": "dormilón"
+    },
+    {
+      "word": "Quiet down",
+      "translation": "calmarse, callarse"
+    },
+    {
+      "word": "Wax (verbo aparte de encerar)",
+      "translation": "pulir"
+    },
+    {
+      "word": "Con (verbo aparte de estafar)",
+      "translation": "engañar"
+    },
+    {
+      "word": "Coat (no literal)",
+      "translation": "capa"
+    },
+    {
+      "word": "Waxed up",
+      "translation": "depilado"
+    },
+    {
+      "word": "Are you a sight for sore eyes?",
+      "translation": "¿Eres un regalo para la vista?"
+    },
+    {
+      "word": "Take the new truck for a spin",
+      "translation": "dar una vuelta con la camioneta nueva"
+    },
+    {
+      "word": "Bring her along",
+      "translation": "tráela contigo"
+    },
+    {
+      "word": "Something has got to be done about your kids",
+      "translation": "hay que hacer algo con respecto a tus hijos"
+    },
+    {
+      "word": "We better back up",
+      "translation": "será mejor que demos marcha atrás"
+    },
+    {
+      "word": "Get up to",
+      "translation": "llegar a"
+    }
+  ],
+  "count": 121,
+  "dialogues": 1776,
+  "duration": 116
+}

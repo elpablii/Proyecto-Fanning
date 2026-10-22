@@ -1,0 +1,567 @@
+{
+  "title": "The Hate U Give",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.49,
+    "senales": {
+      "vocabulario": 3.3,
+      "dialogos": 3.54,
+      "temas": 4.14
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 16.5,
+        "A2": 10.2,
+        "B1": 10.2,
+        "B2": 37.9,
+        "C1": 9.4,
+        "C2": 15.9
+      },
+      "densidad": 5.1
+    },
+    "dialogos": {
+      "cobertura95": 3.38,
+      "ppm": 168.1
+    },
+    "temas": [
+      "legal y judicial",
+      "crimen, drogas y calle"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Criada en un barrio azotado por la pobreza, una niña de 16 años llamada Starr ahora asiste a una escuela suburbana de preparación. Después de que ella sea testigo de cómo un oficial de policía le dispara a su mejor amiga desarmada, se debate entre sus dos mundos muy diferentes mientras intenta decir su verdad.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+      "https://image.tmdb.org/t/p/w780/5AijK8OxcTzuT8z6aEcc3kO96eG.jpg",
+      "https://image.tmdb.org/t/p/w780/oDgkQViStYhwMuMSyWRLN8O29xG.jpg",
+      "https://image.tmdb.org/t/p/w780/mBmX6wXQupOoboRSanDxmEuns7g.jpg",
+      "https://image.tmdb.org/t/p/w780/ngYvR8Rv7HS85OCbmcInm90ypLZ.jpg",
+      "https://image.tmdb.org/t/p/w780/zGK66OnFRaK4V214MUe4FpU6U8p.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+  "vocabulary": [
+    {
+      "word": "Hit off",
+      "translation": "llevarse bien"
+    },
+    {
+      "word": "Had your guards up at first (frase no literal)",
+      "translation": "al principio te mantuviste a la defensiva"
+    },
+    {
+      "word": "And you best bet we gonna get pulled over (forma no literal)",
+      "translation": "y puedes estar seguro de que nos van a detener"
+    },
+    {
+      "word": "Dashboard (significado literal)",
+      "translation": "tablero, panel de control"
+    },
+    {
+      "word": "Keep your hands posted",
+      "translation": "mantén las manos en alto"
+    },
+    {
+      "word": "Then off and off your head",
+      "translation": "entonces fuera, fuera de tu cabeza"
+    },
+    {
+      "word": "Pusher",
+      "translation": "traficante"
+    },
+    {
+      "word": "Raise (verbo en sentido religioso)",
+      "translation": "resucitar"
+    },
+    {
+      "word": "One true pairing (parcialmente no literal)",
+      "translation": "una combinación perfecta"
+    },
+    {
+      "word": "Get jumped (no literal)",
+      "translation": "ser atacado"
+    },
+    {
+      "word": "Everyone's college-bound",
+      "translation": "donde todos van/se preparan para ir a la universidad"
+    },
+    {
+      "word": "Flip a switch (verbo)",
+      "translation": "accionar un interruptor"
+    },
+    {
+      "word": "Those kicks are lit!",
+      "translation": "¡Esas zapatillas son lo máximo!"
+    },
+    {
+      "word": "No stank eyes",
+      "translation": "sin miradas de desprecio"
+    },
+    {
+      "word": "Spring a condom",
+      "translation": "sacar un condón"
+    },
+    {
+      "word": "You're gonna Taylor Swift this? (informal)",
+      "translation": "¿Vas a hacer lo mismo que a Taylor Swift?"
+    },
+    {
+      "word": "I'm gonna Beyonce his ass (informal)",
+      "translation": "le voy a dar una lección al estilo Beyoncé"
+    },
+    {
+      "word": "Dap (verbo)",
+      "translation": "saludar (con choque de manos)"
+    },
+    {
+      "word": "They come first all lost in the purp",
+      "translation": "todos perdidos en la oscuridad"
+    },
+    {
+      "word": "Every girl in here all laid and slayed",
+      "translation": "todas las chicas de aquí están súper guapas y arrasando"
+    },
+    {
+      "word": "Looking basic as hell",
+      "translation": "luciendo de lo más común y corriente"
+    },
+    {
+      "word": "When you limping out of here like a broke-down gazelle",
+      "translation": "cuando te vayas cojeando de aquí como una gacela lisiada"
+    },
+    {
+      "word": "There's hoes at my school, hoedom is universal (frase no literal)",
+      "translation": "en mi escuela hay chicas fáciles, eso es algo que pasa en todas partes"
+    },
+    {
+      "word": "Stink eye",
+      "translation": "mirada asesina"
+    },
+    {
+      "word": "Tag team (verbo)",
+      "translation": "hacer/formar equipo"
+    },
+    {
+      "word": "Bougie girls",
+      "translation": "chicas ricas"
+    },
+    {
+      "word": "Make kin",
+      "translation": "ser familia/pariente"
+    },
+    {
+      "word": "Rolling up on Denasia ass",
+      "translation": "ir a molestar a Denasia"
+    },
+    {
+      "word": "Look at them parting for you",
+      "translation": "mira cómo se abren para dejarte pasar"
+    },
+    {
+      "word": "Dimples",
+      "translation": "hoyuelos"
+    },
+    {
+      "word": "She turnt up",
+      "translation": "ella apareció"
+    },
+    {
+      "word": "Did I scuff you?",
+      "translation": "¿Te hice daño?, ¿Te hice un rasguño?"
+    },
+    {
+      "word": "Wild out",
+      "translation": "volverse loco"
+    },
+    {
+      "word": "That's messed up (expresión)",
+      "translation": "eso está muy mal"
+    },
+    {
+      "word": "School got you messed up (frase no literal)",
+      "translation": "la escuela te ha hecho perder la cabeza"
+    },
+    {
+      "word": "We were some badass (traducción aproximada)",
+      "translation": "éramos muy geniales"
+    },
+    {
+      "word": "Heathen",
+      "translation": "pagano"
+    },
+    {
+      "word": "Whooping (en audio)",
+      "translation": "sonido, ulular"
+    },
+    {
+      "word": "So many playa hatin' (informal)",
+      "translation": "hay tanta gente que odia a los que se divierten"
+    },
+    {
+      "word": "Forcefully",
+      "translation": "con fuerza"
+    },
+    {
+      "word": "Dash (sustantivo)",
+      "translation": "tablero"
+    },
+    {
+      "word": "You failed to signal a lane change",
+      "translation": "no señalaste el cambio de carril"
+    },
+    {
+      "word": "For falling to (no literal)",
+      "translation": "por no haber"
+    },
+    {
+      "word": "Look for a score (verbo)",
+      "translation": "buscar algo de acción"
+    },
+    {
+      "word": "License run",
+      "translation": "verificación de licencia"
+    },
+    {
+      "word": "Shots fired",
+      "translation": "se escucharon disparos"
+    },
+    {
+      "word": "Let it out",
+      "translation": "déjalo salir"
+    },
+    {
+      "word": "Shine your light",
+      "translation": "deja que brille tu luz"
+    },
+    {
+      "word": "Paid administrative leave",
+      "translation": "licencia administrative remunerada"
+    },
+    {
+      "word": "First-timer",
+      "translation": "es su primera vez"
+    },
+    {
+      "word": "Hot links (en parrilladas)",
+      "translation": "salchichas picantes"
+    },
+    {
+      "word": "Shooting death",
+      "translation": "muerte a tiros"
+    },
+    {
+      "word": "You all jittery and jumpy and shit",
+      "translation": "están todos nerviosos, inquietos y toda esa mierda"
+    },
+    {
+      "word": "Stir some shit up",
+      "translation": "armar un lío"
+    },
+    {
+      "word": "Stand tall (verbo)",
+      "translation": "mantenerse firme"
+    },
+    {
+      "word": "Trap (verbo)",
+      "translation": "atrapar"
+    },
+    {
+      "word": "Shooter",
+      "translation": "tirador"
+    },
+    {
+      "word": "He's gonna rope you right back in",
+      "translation": "te va a volver a atrapar enseguida"
+    },
+    {
+      "word": "In lockup",
+      "translation": "en cárcel/prisión"
+    },
+    {
+      "word": "Doing somebody else's time (frase no literal)",
+      "translation": "cumpliendo la condena de otra persona"
+    },
+    {
+      "word": "It ain't roping back in (frase no literal)",
+      "translation": "no es fácil volver a la vida normal"
+    },
+    {
+      "word": "Boast (verbo)",
+      "translation": "presumir"
+    },
+    {
+      "word": "We're pressing on anyway (frase no literal)",
+      "translation": "de todos modos, seguimos adelante"
+    },
+    {
+      "word": "Ride for each other",
+      "translation": "apoyarse mutuamente"
+    },
+    {
+      "word": "Get caught up",
+      "translation": "dejarse llevar"
+    },
+    {
+      "word": "Billion-dollar hustle",
+      "translation": "estafa de mil millones de dólares"
+    },
+    {
+      "word": "Ride through there",
+      "translation": "pasar por ahí"
+    },
+    {
+      "word": "Conveyor belt",
+      "translation": "cinta transportadora"
+    },
+    {
+      "word": "Eyewitness",
+      "translation": "testigo ocular, testigo presencial"
+    },
+    {
+      "word": "Clash (verbo aparte de chocar)",
+      "translation": "enfrentarse"
+    },
+    {
+      "word": "Bring forward",
+      "translation": "presentar (un cargo)"
+    },
+    {
+      "word": "On out",
+      "translation": "hasta el final"
+    },
+    {
+      "word": "Drop (verbo no alusivo a soltar y en sentido legal)",
+      "translation": "retirar (un cargo o denuncia)"
+    },
+    {
+      "word": "When this car rolled by",
+      "translation": "cuando este auto pasó"
+    },
+    {
+      "word": "School's out, protesting's in (parcialmente no literal)",
+      "translation": "se acabaron las clases, ahora toca protestar"
+    },
+    {
+      "word": "Put up (en redes sociales)",
+      "translation": "publicar"
+    },
+    {
+      "word": "Bump (verbo en sentido audiovisual)",
+      "translation": "saltar (una parte)"
+    },
+    {
+      "word": "Bring in money",
+      "translation": "generar ingresos"
+    },
+    {
+      "word": "Pull her (verbo en amor)",
+      "translation": "seducirla, conquistarla"
+    },
+    {
+      "word": "I'm scarred for life",
+      "translation": "estoy marcada de por vida"
+    },
+    {
+      "word": "Circle up",
+      "translation": "formar un círculo"
+    },
+    {
+      "word": "Greens (no literal en comida)",
+      "translation": "verduras"
+    },
+    {
+      "word": "Yam",
+      "translation": "ñame"
+    },
+    {
+      "word": "You hard head makes for a soft ass whooping (frase no literal)",
+      "translation": "tu terquedad te va a valer una buena paliza"
+    },
+    {
+      "word": "You coming close to getting your own (parcialmente no literal)",
+      "translation": "ya casi tienes el tuyo propio"
+    },
+    {
+      "word": "Until you came out to score? (pregunta no literal en pandillas)",
+      "translation": "¿Hasta que viniste a conseguir droga?"
+    },
+    {
+      "word": "Y'all get y'all stuff",
+      "translation": "recojan sus cosas"
+    },
+    {
+      "word": "Get up out the car",
+      "translation": "salgan del auto"
+    },
+    {
+      "word": "Three-pointer!",
+      "translation": "¡Tiro de tres!"
+    },
+    {
+      "word": "So I'm tripping?",
+      "translation": "¿Entonces estoy alucinando?"
+    },
+    {
+      "word": "Make him out to be a",
+      "translation": "hacerlo que se parezca a un"
+    },
+    {
+      "word": "Look away",
+      "translation": "apartar la mirada"
+    },
+    {
+      "word": "To have matching hair",
+      "translation": "tener el mismo color de pelo"
+    },
+    {
+      "word": "Outweigh (verbo)",
+      "translation": "superar (en peso)"
+    },
+    {
+      "word": "Breath quivers (acotación)",
+      "translation": "el aliento tiembla"
+    },
+    {
+      "word": "Jumping in some lame-ass cypher (frase no literal)",
+      "translation": "unirme a un cypher de mala muerte"
+    },
+    {
+      "word": "Side dish (en comida)",
+      "translation": "acompañamiento"
+    },
+    {
+      "word": "Whomp, whomp, whomp!",
+      "translation": "¡pum, pum, pum!"
+    },
+    {
+      "word": "It's a meal out of a box",
+      "translation": "es una comida que viene en una caja"
+    },
+    {
+      "word": "Cheesy (no alusivo a cursi y en comida)",
+      "translation": "con mucho queso"
+    },
+    {
+      "word": "Sprinkle (verbo)",
+      "translation": "espolvorear, esparcir"
+    },
+    {
+      "word": "What kinda plain-ass name is that?",
+      "translation": "¿Qué clase de nombre tan soso es ese?"
+    },
+    {
+      "word": "Run the license (verbo)",
+      "translation": "verificar la licencia"
+    },
+    {
+      "word": "Reach through",
+      "translation": "asomarse por"
+    },
+    {
+      "word": "Factual account (sustantivo no literal)",
+      "translation": "relato basado en hechos"
+    },
+    {
+      "word": "To crack (en pandillas)",
+      "translation": "por culpa del crack"
+    },
+    {
+      "word": "Clutch your purse",
+      "translation": "agarrar bien el bolso/cartera"
+    },
+    {
+      "word": "An ass whooping",
+      "translation": "una paliza"
+    },
+    {
+      "word": "Make a left up here",
+      "translation": "gira a la izquierda aquí arriba"
+    },
+    {
+      "word": "Light him up!",
+      "translation": "¡Dale duro!, ¡Dale caña!"
+    },
+    {
+      "word": "Striking shields (acotación)",
+      "translation": "choque de escudos"
+    },
+    {
+      "word": "You are unlawfully assembled",
+      "translation": "se encuentran reunidos de manera ilegal"
+    },
+    {
+      "word": "An unlawful assembly",
+      "translation": "una reunión ilegal"
+    },
+    {
+      "word": "Get in the back! (no literal)",
+      "translation": "¡Siéntate atrás!"
+    },
+    {
+      "word": "I'm going to snatch the life out of you",
+      "translation": "te voy a quitar la vida"
+    },
+    {
+      "word": "Punk ass",
+      "translation": "idiota"
+    },
+    {
+      "word": "Especially with King going down for setting the fire (no literal)",
+      "translation": "sobre todo ahora que King fue condenado por provocar el incendio"
+    },
+    {
+      "word": "Take down (en delitos)",
+      "translation": "detener"
+    },
+    {
+      "word": "Space it out a little bit more",
+      "translation": "deja un poco más de espacio"
+    },
+    {
+      "word": "Live up to",
+      "translation": "estar a la altura de"
+    },
+    {
+      "word": "One-sided",
+      "translation": "unilateral"
+    },
+    {
+      "word": "We bar kings (traducción aproximada)",
+      "translation": "en nuestros bares no entran los reyes"
+    },
+    {
+      "word": "They off'n us (traducción aproximada)",
+      "translation": "nos están echando"
+    },
+    {
+      "word": "You got a hold on me (frase no literal)",
+      "translation": "me tienes bien agarrado"
+    },
+    {
+      "word": "Deacon",
+      "translation": "diácono"
+    },
+    {
+      "word": "Bow down",
+      "translation": "inclinarse, someterse"
+    },
+    {
+      "word": "Never settling rich and melling Negus (traducción aproximada)",
+      "translation": "Negus, un licor que nunca se asienta, rico y meloso"
+    },
+    {
+      "word": "Heckle (verbo)",
+      "translation": "abuchear"
+    },
+    {
+      "word": "Shackle (verbo)",
+      "translation": "encadenar"
+    }
+  ],
+  "count": 129,
+  "dialogues": 2537,
+  "duration": 133
+}

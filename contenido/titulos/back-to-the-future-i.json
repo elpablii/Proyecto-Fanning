@@ -1,0 +1,36 @@
+{
+  "titulo": "Back to the Future I",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 116,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 105
+  },
+  "estreno": "1985-07-03",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "analisis": "",
+  "sinopsis": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inventor Doc Brown, regresar a 1985.",
+  "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "https://image.tmdb.org/t/p/w780/2H2YYbn8wDzYXtak83Md6PAwMdp.jpg",
+    "https://image.tmdb.org/t/p/w780/pZCLGHynFPOv8dve6u9waxknLth.jpg",
+    "https://image.tmdb.org/t/p/w780/qskzmLTbarKnXDbo2HRj4NJ3vcW.jpg",
+    "https://image.tmdb.org/t/p/w780/hxSB02ksqnkXY4hPGAXqgO2fL01.jpg",
+    "https://image.tmdb.org/t/p/w780/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg"
+  ],
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Back to the Future I (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Back to the Future I to improve the vocabulary in English.pdf"
+    ]
+  }
+}

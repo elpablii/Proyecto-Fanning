@@ -1,0 +1,284 @@
+{
+  "title": "The Short History of the Long Road",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.62,
+    "senales": {
+      "vocabulario": 3.82,
+      "dialogos": 2.88,
+      "temas": 4.08
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.1,
+        "A2": 10.7,
+        "B1": 11.2,
+        "B2": 30.2,
+        "C1": 19.6,
+        "C2": 21.2
+      },
+      "densidad": 5.5
+    },
+    "dialogos": {
+      "cobertura95": 3.09,
+      "ppm": 138.4
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Nola grew up living in a van with her father, Clint—two nomads against the world. When tragedy strikes, Nola must confront the reality of life on the road alone, learning to own her grief, her past, and her new destination.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/aRFgKZHFBEcrBHCgkAxqqvnr43n.jpg",
+      "https://image.tmdb.org/t/p/w780/zdR5hAx4GnBHDCn1lxicP53VeHX.jpg",
+      "https://image.tmdb.org/t/p/w780/rWuuiZpF214Y6LFvVSOjYOqIQmm.jpg",
+      "https://image.tmdb.org/t/p/w780/6Ph9PL2hhZiMAlazML2iwxa0bn4.jpg",
+      "https://image.tmdb.org/t/p/w780/rgpdnHAkONMT4O7dt94Fq92YhAb.jpg",
+      "https://image.tmdb.org/t/p/w780/3DSc74RUBXEZ6ucvzu9NvBFq7ho.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/chTc0F8B9YOiwZDea5LJ8h2q2Qx.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/aRFgKZHFBEcrBHCgkAxqqvnr43n.jpg",
+  "vocabulary": [
+    {
+      "word": "In the still",
+      "translation": "en la quietud"
+    },
+    {
+      "word": "Out of date",
+      "translation": "desactualizado"
+    },
+    {
+      "word": "She zigged and we zagged",
+      "translation": "ella se desvió hacia un lado y nosotros, hacia el otro"
+    },
+    {
+      "word": "Nub",
+      "translation": "protuberancia"
+    },
+    {
+      "word": "Clockwise",
+      "translation": "en sentido horario"
+    },
+    {
+      "word": "Converts",
+      "translation": "conversos"
+    },
+    {
+      "word": "Driveway",
+      "translation": "entrada para auto"
+    },
+    {
+      "word": "Steady",
+      "translation": "constante, tranquila"
+    },
+    {
+      "word": "Your namesake",
+      "translation": "tu homónimo"
+    },
+    {
+      "word": "In the wild (forma no literal)",
+      "translation": "en plena naturaleza"
+    },
+    {
+      "word": "Engine puttering (acotación)",
+      "translation": "ruido del motor"
+    },
+    {
+      "word": "Shame on them for letting them all go to waste (forma parcialmente no literal)",
+      "translation": "qué vergüenza que hayan dejado que todo eso se eche a perder"
+    },
+    {
+      "word": "Potluck",
+      "translation": "comida compartida"
+    },
+    {
+      "word": "Trespass (verbo en sentido legal)",
+      "translation": "entrar sin permiso (a una morada)"
+    },
+    {
+      "word": "Off the grid",
+      "translation": "fuera de la red"
+    },
+    {
+      "word": "Off the backs of (expresión)",
+      "translation": "a costa de"
+    },
+    {
+      "word": "That was quite a turnout today (frase no literal)",
+      "translation": "hoy hubo bastante gente"
+    },
+    {
+      "word": "I'm frightened of this",
+      "translation": "esto me da miedo"
+    },
+    {
+      "word": "Bounty (aparte de recompensa y en sentido religioso)",
+      "translation": "generosidad"
+    },
+    {
+      "word": "Chickens bocking",
+      "translation": "canto/cacareo de las gallinas/pollos"
+    },
+    {
+      "word": "We're in gear (frase no literal)",
+      "translation": "estamos en marcha"
+    },
+    {
+      "word": "Squint (verbo)",
+      "translation": "entrecerrar los ojos"
+    },
+    {
+      "word": "Squeeze through (verbo no literal)",
+      "translation": "pasar a través de"
+    },
+    {
+      "word": "Lumpfish",
+      "translation": "pez lumpo"
+    },
+    {
+      "word": "There's no keeping an octopus",
+      "translation": "no hay forma de controlar un pulpo"
+    },
+    {
+      "word": "Car whirring by (acotación)",
+      "translation": "se oye el ruido de un auto al pasar"
+    },
+    {
+      "word": "Fuel lines (no literal)",
+      "translation": "tubos de combustible"
+    },
+    {
+      "word": "Head gasket",
+      "translation": "junta de culata"
+    },
+    {
+      "word": "Hookup fee",
+      "translation": "tarifa de enganche"
+    },
+    {
+      "word": "Mileage",
+      "translation": "kilometraje"
+    },
+    {
+      "word": "Charmer",
+      "translation": "seductor"
+    },
+    {
+      "word": "Freaks",
+      "translation": "bichos raros"
+    },
+    {
+      "word": "It’s in shambles",
+      "translation": "está hecho un desastre"
+    },
+    {
+      "word": "Stand up to",
+      "translation": "enfrentarse, dar cara"
+    },
+    {
+      "word": "Scorch and scatter me",
+      "translation": "quémame y dispérsame"
+    },
+    {
+      "word": "Sprinkle",
+      "translation": "Molino"
+    },
+    {
+      "word": "I made it across",
+      "translation": "logré cruzar"
+    },
+    {
+      "word": "Tighten it up",
+      "translation": "aprétalo bien"
+    },
+    {
+      "word": "Res (simplificado de reserve)",
+      "translation": "reserva"
+    },
+    {
+      "word": "Plugs",
+      "translation": "bujías"
+    },
+    {
+      "word": "I tallied up all your hours",
+      "translation": "hice el recuento de todas tus horas"
+    },
+    {
+      "word": "Stripe",
+      "translation": "franja"
+    },
+    {
+      "word": "We're all squared up",
+      "translation": "ya estamos en paz, ya estamos todo en orden"
+    },
+    {
+      "word": "Jalopy",
+      "translation": "chaparro"
+    },
+    {
+      "word": "Just a shock of white blonde hair",
+      "translation": "solo una mata de cabello rubio claro"
+    },
+    {
+      "word": "You're his kid, though, through and through (parcialmente no literal)",
+      "translation": "pero eres su hijo, de pies a cabeza"
+    },
+    {
+      "word": "Today was a hell of a day (frase no literal)",
+      "translation": "hoy fue un día de locos"
+    },
+    {
+      "word": "Ticking calculator (acotación)",
+      "translation": "calculadora que hace tictac"
+    },
+    {
+      "word": "Bounce back from (no literal)",
+      "translation": "recuperarnos de eso"
+    },
+    {
+      "word": "She was skimming off the top",
+      "translation": "se estaba quedando con lo mejor"
+    },
+    {
+      "word": "The guy who owns the used car lot",
+      "translation": "el dueño del concesionario de autos usados"
+    },
+    {
+      "word": "I thought he was gonna laugh me off the lot",
+      "translation": "pensé que se iba a reír de mí y me iba a echar del lote"
+    },
+    {
+      "word": "It's hard to make anything stick (parcialmente no literal)",
+      "translation": "es difícil que algo se mantenga"
+    },
+    {
+      "word": "And a pop-up roof to boot (frase no literal)",
+      "translation": "y además, un techo elevable"
+    },
+    {
+      "word": "Must shave off a couple hundred at least",
+      "translation": "tengo que bajar al menos un par de cientos"
+    },
+    {
+      "word": "Engine rumbling (acotación)",
+      "translation": "rugido del motor"
+    },
+    {
+      "word": "You're all squared up here",
+      "translation": "aquí ya está todo en orden"
+    },
+    {
+      "word": "Laundromat",
+      "translation": "lavandería automática"
+    },
+    {
+      "word": "Drumming",
+      "translation": "redoble"
+    }
+  ],
+  "count": 59,
+  "dialogues": 1072,
+  "duration": 90
+}

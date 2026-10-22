@@ -1,0 +1,40 @@
+{
+  "titulo": "The Hate U Give",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 133,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 470044
+  },
+  "estreno": "2018-10-19",
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "analisis": "",
+  "sinopsis": "Criada en un barrio azotado por la pobreza, una niña de 16 años llamada Starr ahora asiste a una escuela suburbana de preparación. Después de que ella sea testigo de cómo un oficial de policía le dispara a su mejor amiga desarmada, se debate entre sus dos mundos muy diferentes mientras intenta decir su verdad.",
+  "poster": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+    "https://image.tmdb.org/t/p/w780/5AijK8OxcTzuT8z6aEcc3kO96eG.jpg",
+    "https://image.tmdb.org/t/p/w780/oDgkQViStYhwMuMSyWRLN8O29xG.jpg",
+    "https://image.tmdb.org/t/p/w780/mBmX6wXQupOoboRSanDxmEuns7g.jpg",
+    "https://image.tmdb.org/t/p/w780/ngYvR8Rv7HS85OCbmcInm90ypLZ.jpg",
+    "https://image.tmdb.org/t/p/w780/zGK66OnFRaK4V214MUe4FpU6U8p.jpg"
+  ],
+  "realeza": {
+    "Sabrina Carpenter": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Hate U Give (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Hate U Give to improve the vocabulary in English.pdf"
+    ]
+  }
+}

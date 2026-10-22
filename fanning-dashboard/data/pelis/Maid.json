@@ -14,9 +14,9 @@
         "A1": 9.6,
         "A2": 8.9,
         "B1": 9.1,
-        "B2": 34.4,
+        "B2": 34.5,
         "C1": 18.4,
-        "C2": 19.6
+        "C2": 19.4
       },
       "densidad": 8.6
     },
@@ -302,7 +302,7 @@
         },
         {
           "word": "Vape",
-          "translation": "cigarrilo electrónico"
+          "translation": "cigarrillo electrónico"
         },
         {
           "word": "Cage match",
@@ -1799,20 +1799,20 @@
       "level": "B2",
       "levelDetail": {
         "nivel": "B2",
-        "puntaje": 3.95,
+        "puntaje": 3.93,
         "senales": {
-          "vocabulario": 4.21,
+          "vocabulario": 4.18,
           "dialogos": 3.23,
-          "temas": 4.09
+          "temas": 4.06
         },
         "vocabulario": {
           "distribucion": {
             "A1": 6.0,
             "A2": 9.0,
             "B1": 12.5,
-            "B2": 36.2,
+            "B2": 37.7,
             "C1": 15.1,
-            "C2": 21.1
+            "C2": 19.6
           },
           "densidad": 8.6
         },
@@ -2038,7 +2038,7 @@
           "translation": "y acumulé algunas deudas"
         },
         {
-          "word": "Hope you don't mind me chiecking on you (no literal)",
+          "word": "Hope you don't mind me checking on you (no literal)",
           "translation": "espero que no te moleste que te eche un ojo"
         },
         {
@@ -2287,7 +2287,7 @@
           "translation": "me dejaron plantado"
         },
         {
-          "word": "Invoice (sustentivo no literal)",
+          "word": "Invoice (sustantivo no literal)",
           "translation": "factura"
         },
         {

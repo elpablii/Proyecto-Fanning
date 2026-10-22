@@ -19,6 +19,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
     "color": null
   },
+  "A Good Girl's Guide to Murder": {
+    "poster": "https://image.tmdb.org/t/p/w500/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
+    "color": "#57c7a0"
+  },
   "A Minecraft Movie": {
     "poster": "https://image.tmdb.org/t/p/w500/s0zDEtjM9DVshzK3T3kGfibqJy.jpg",
     "color": "#64aacb"
@@ -66,6 +70,10 @@
   "Babylon": {
     "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
     "color": "#e2813b"
+  },
+  "Back to the Future I": {
+    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "color": "#2f76ee"
   },
   "Barbie": {
     "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
@@ -120,6 +128,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
     "color": "#579cc7"
   },
+  "Countdown": {
+    "poster": "https://image.tmdb.org/t/p/w500/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg",
+    "color": null
+  },
   "Cuckoo": {
     "poster": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
     "color": "#c97f55"
@@ -135,6 +147,10 @@
   "Effie Gray": {
     "poster": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
     "color": "#5766c7"
+  },
+  "Eileen": {
+    "poster": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
+    "color": "#c78357"
   },
   "El Escuadrón Suicida": {
     "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg",
@@ -165,8 +181,8 @@
     "color": "#97e869"
   },
   "Euphoria": {
-    "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-    "color": "#5767c7"
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+    "color": "#c78057"
   },
   "Every Secret Thing": {
     "poster": "https://image.tmdb.org/t/p/w500/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg",
@@ -264,6 +280,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
     "color": "#e33b42"
   },
+  "Kick Buttowski": {
+    "poster": "https://image.tmdb.org/t/p/w500/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+    "color": "#eedb2f"
+  },
   "Kim Possible": {
     "poster": "https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
     "color": "#57a2c7"
@@ -308,9 +328,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
     "color": "#d4594a"
   },
+  "Lost Girls": {
+    "poster": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+    "color": "#576cc7"
+  },
   "Love Actually": {
     "poster": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
     "color": "#cb5a52"
+  },
+  "Lucky": {
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "color": "#ee382f"
   },
   "Maid": {
     "poster": "https://image.tmdb.org/t/p/w500/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
@@ -324,6 +352,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
     "color": null
   },
+  "Margo's Got Money Troubles": {
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "color": "#acee2f"
+  },
   "Marlowe": {
     "poster": "https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
     "color": "#daaa43"
@@ -335,6 +367,14 @@
   "Mary Queen of Scots": {
     "poster": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
     "color": "#eeaa2f"
+  },
+  "Mary Shelley": {
+    "poster": "https://image.tmdb.org/t/p/w500/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+    "color": null
+  },
+  "Matilda": {
+    "poster": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+    "color": "#d3926d"
   },
   "Michael": {
     "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
@@ -528,6 +568,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",
     "color": "#c78157"
   },
+  "Taylor Swift - The End of an Era": {
+    "poster": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
+    "color": "#ce8653"
+  },
   "Taylor Swift - The Eras Tour Film The Final Show": {
     "poster": "https://image.tmdb.org/t/p/w500/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
     "color": null
@@ -564,17 +608,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
     "color": "#40ccdd"
   },
+  "The Amazing Digital Circus": {
+    "poster": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+    "color": "#cc5279"
+  },
   "The Big Bang Theory": {
-    "poster": "https://image.tmdb.org/t/p/w500/7e6wbqMxfC5csompY4h6teOBZ4t.jpg",
-    "color": "#c78157"
+    "poster": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg",
+    "color": "#63accb"
   },
   "The Commuter": {
     "poster": "https://image.tmdb.org/t/p/w500/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
     "color": "#c78557"
   },
+  "The First Lady": {
+    "poster": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+    "color": "#d35c4b"
+  },
   "The Girl From Plainville": {
     "poster": "https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg",
     "color": "#c78857"
+  },
+  "The Great": {
+    "poster": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+    "color": "#c78657"
+  },
+  "The Hate U Give": {
+    "poster": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+    "color": "#c76a57"
+  },
+  "The Ice Road II Vengeance": {
+    "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+    "color": "#579fc7"
+  },
+  "The Last of Robin Hood": {
+    "poster": "https://image.tmdb.org/t/p/w500/6iL7iNCgyQqconH8CCTwdbEccZG.jpg",
+    "color": "#ede231"
   },
   "The Legend of Tarzan": {
     "poster": "https://image.tmdb.org/t/p/w500/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
@@ -616,9 +684,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
     "color": "#ee342f"
   },
+  "The Secret Life of Bees": {
+    "poster": "https://image.tmdb.org/t/p/w500/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg",
+    "color": "#efcf37"
+  },
+  "The Short History of the Long Road": {
+    "poster": "https://image.tmdb.org/t/p/w500/chTc0F8B9YOiwZDea5LJ8h2q2Qx.jpg",
+    "color": "#589dc7"
+  },
   "The Truman Show": {
     "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
     "color": "#579ac7"
+  },
+  "The Twilight Saga I": {
+    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+    "color": "#c77c57"
+  },
+  "The Twilight Saga II New Moon": {
+    "poster": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+    "color": "#c79857"
+  },
+  "The Twilight Saga III Eclipse": {
+    "poster": "https://image.tmdb.org/t/p/w500/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+    "color": "#57a1c7"
   },
   "The Vanishing of Sidney Hall": {
     "poster": "https://image.tmdb.org/t/p/w500/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
@@ -664,6 +752,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
     "color": "#5784c7"
   },
+  "Trumbo": {
+    "poster": "https://image.tmdb.org/t/p/w500/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+    "color": "#5797c7"
+  },
   "Unknown": {
     "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
     "color": "#57c7bc"
@@ -699,6 +791,14 @@
   "Work It": {
     "poster": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
     "color": "#c78257"
+  },
+  "Wuthering Heights": {
+    "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+    "color": "#c77c57"
+  },
+  "Young Ones": {
+    "poster": "https://image.tmdb.org/t/p/w500/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg",
+    "color": "#cf9d4e"
   },
   "Z for Zachariah": {
     "poster": "https://image.tmdb.org/t/p/w500/c7rdpZlviWAcOOx5bnzfqPPPNvq.jpg",

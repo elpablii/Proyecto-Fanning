@@ -5,9 +5,9 @@
     "nivel": "B2",
     "puntaje": 3.95,
     "senales": {
-      "vocabulario": 4.11,
+      "vocabulario": 4.1,
       "dialogos": 3.45,
-      "temas": 4.19
+      "temas": 4.18
     },
     "vocabulario": {
       "distribucion": {
@@ -15,8 +15,8 @@
         "A2": 7.2,
         "B1": 13.9,
         "B2": 29.3,
-        "C1": 19.1,
-        "C2": 23.9
+        "C1": 20.3,
+        "C2": 22.7
       },
       "densidad": 6.9
     },
@@ -260,7 +260,7 @@
       "translation": "un baúl"
     },
     {
-      "word": "No doorman or maitre d'will ever presume",
+      "word": "No doorman or maître d' will ever presume",
       "translation": "ningún portero ni maître se atreverá jamás a presumir"
     },
     {
@@ -652,7 +652,7 @@
       "translation": "y perdona nuestras ofensas"
     },
     {
-      "word": "No doorman or maître d'will ever mistake you again",
+      "word": "No doorman or maître d' will ever mistake you again",
       "translation": "ningún portero ni maître volverá a confundirte jamás"
     },
     {

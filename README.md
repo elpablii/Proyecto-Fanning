@@ -42,6 +42,8 @@ Ejemplo: agregar *Intensamente*, vista en 2024.
    ```
    python fanning.py imagenes "Intensamente" --id 150540
    ```
+   Si el título no está en TMDB (una entrevista, una radio de un videojuego), usa una imagen propia: guárdala en `fanning-dashboard/public/posters/` y pon en la ficha `"poster": "/posters/<archivo>.jpg"` (sirve igual para `"fondo"`). `pendientes` avisa si la ficha apunta a una imagen que todavía no está.
+
    También guarda la duración (en minutos). En las series trae además el título, la foto, la sinopsis y la duración de cada episodio. Si TMDB no tiene la duración, la página la estima con el último subtítulo y la muestra con «≈». Para completar las que falten en todas las fichas: `python scripts/metricas/duracion_tmdb.py`.
 
 4. **Actualizar la página**

@@ -125,6 +125,14 @@ def test_vocabulario_series_cabeceras():
     assert [x['episodio'] for x in e] == ['S01E08', 'S01E08', 'SP01'] and not avisos
 
 
+def test_vocabulario_cabecera_con_temporada():
+    lineas = ['Unknown words and phrases from Euphoria (Season 3', 'Episodes 1-2)', '', '',
+              'S03EP1: Ándale (1 words/phrases)', '', 'Your tab: tu cuenta', '',
+              'S03EP2: Otro (1 words/phrases)', '', 'Sketchy: sospechoso']
+    e, avisos = leer_vocabulario(lineas, 'Euphoria (S03EP1-2)')
+    assert [x['episodio'] for x in e] == ['S03E01', 'S03E02'] and not avisos
+
+
 if __name__ == '__main__':
     for nombre, f in list(globals().items()):
         if nombre.startswith('test_'):

@@ -1,0 +1,37 @@
+{
+  "titulo": "The Last of Robin Hood",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 92,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 214091
+  },
+  "estreno": "2013-09-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Película de TV"
+  ],
+  "analisis": "",
+  "sinopsis": "Errol Flynn, the swashbuckling Hollywood star and notorious ladies man, flouted convention all his life, but never more brazenly than in his last years when, swimming in vodka and unwilling to face his mortality, he undertook a liaison with an aspiring actress, Beverly Aadland. The two had a high-flying affair that spanned the globe and was enabled by the girl's fame-obsessed mother, Florence. It all came crashing to an end in October 1959, when events forced the relationship into the open, sparking an avalanche of publicity castigating Beverly and her mother - which only fed Florence's need to stay in the spotlight.",
+  "poster": "https://image.tmdb.org/t/p/w500/6iL7iNCgyQqconH8CCTwdbEccZG.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/ekp7za8WnuMbW3y6CT54BQ9tSQS.jpg",
+    "https://image.tmdb.org/t/p/w780/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg"
+  ],
+  "realeza": {
+    "Dakota Fanning": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de The Last of Robin Hood (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from The Last of Robin Hood to improve the vocabulary in English.pdf"
+    ]
+  }
+}

@@ -1,19 +1,19 @@
 {
   "title": "Sweetness in the Belly",
-  "level": "B1",
+  "level": "B1-B2",
   "levelDetail": {
-    "nivel": "B1",
-    "puntaje": 3.33,
+    "nivel": "B1-B2",
+    "puntaje": 3.36,
     "senales": {
-      "vocabulario": 3.24,
+      "vocabulario": 3.29,
       "dialogos": 3.32,
-      "temas": 3.68
+      "temas": 3.72
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 11.4,
+        "A1": 9.1,
         "A2": 6.8,
-        "B1": 22.8,
+        "B1": 25.1,
         "B2": 34.2,
         "C1": 11.4,
         "C2": 13.4
@@ -189,7 +189,7 @@
       "translation": "¡Voy delante!"
     },
     {
-      "word": "Your mother must ride in confort",
+      "word": "Your mother must ride in comfort",
       "translation": "tu madre debe ir cómoda"
     },
     {

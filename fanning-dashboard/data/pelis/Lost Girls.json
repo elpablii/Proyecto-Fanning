@@ -1,0 +1,451 @@
+{
+  "title": "Lost Girls",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.06,
+    "senales": {
+      "vocabulario": 4.16,
+      "dialogos": 3.78,
+      "temas": 4.15
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.0,
+        "A2": 9.0,
+        "B1": 8.3,
+        "B2": 30.4,
+        "C1": 13.1,
+        "C2": 29.1
+      },
+      "densidad": 7.7
+    },
+    "dialogos": {
+      "cobertura95": 3.57,
+      "ppm": 171.7
+    },
+    "temas": [
+      "militar y policial"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Cuando la hija de Mari Gilbert desaparece, la inacción policial lleva a que sea ella quien comience una investigación particular en la isla de Long Island en la que Shannan fue vista por última vez. Su búsqueda saca a la luz más de una docena de trabajadoras sexuales que han sido asesinadas",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+      "https://image.tmdb.org/t/p/w780/ziJ4bBiJYqKv5aGnxvWxpp6bTms.jpg",
+      "https://image.tmdb.org/t/p/w780/zHTyHo49HrBqYK6vSXjKP8fO0GK.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+  "vocabulary": [
+    {
+      "word": "Wake unto me",
+      "translation": "despiértame"
+    },
+    {
+      "word": "Dewdrops",
+      "translation": "gotas de rocío"
+    },
+    {
+      "word": "Rude",
+      "translation": "grosero, cruel"
+    },
+    {
+      "word": "Lulled",
+      "translation": "arropado"
+    },
+    {
+      "word": "List' while I woo thee (inglés antiguo)",
+      "translation": "escucha mientras te cortejo"
+    },
+    {
+      "word": "Gone are the cars of life's busy throng",
+      "translation": "ya no se ven los autos de la ajetreada multitud de la vida"
+    },
+    {
+      "word": "Awake unto me",
+      "translation": "despiértate para/por mi"
+    },
+    {
+      "word": "Machinery running (acotación)",
+      "translation": "maquinaria en funcionamiento"
+    },
+    {
+      "word": "A top salary",
+      "translation": "un salario muy alto"
+    },
+    {
+      "word": "You've got a salary cap that you enforce",
+      "translation": "tienes un tope salarial que debes respetar"
+    },
+    {
+      "word": "You can just go wild (frase no literal)",
+      "translation": "puedes hacer lo que se te antoje"
+    },
+    {
+      "word": "As soon as I get on the other side",
+      "translation": "en cuanto llegue al otro lado"
+    },
+    {
+      "word": "Phone snaps shut (acotación)",
+      "translation": "el celular se cierra de golpe"
+    },
+    {
+      "word": "She'd get a kick out of that (frase no literal)",
+      "translation": "eso le encantaría"
+    },
+    {
+      "word": "You're barking up the wrong flagpole (frase no literal)",
+      "translation": "estás buscando en el lugar equivocado"
+    },
+    {
+      "word": "Graft (verbo)",
+      "translation": "injertar, implanter"
+    },
+    {
+      "word": "She wasn't making any sense (frase no literal)",
+      "translation": "lo que decía no tenía ningún sentido"
+    },
+    {
+      "word": "Click off",
+      "translation": "detener (una grabación)"
+    },
+    {
+      "word": "I have been hung up on, dismissed",
+      "translation": "me han colgado el teléfono, me han ignorado"
+    },
+    {
+      "word": "Crack a window (verbo no literal)",
+      "translation": "abrir la ventana"
+    },
+    {
+      "word": "Pick up a scent (verbo no literal)",
+      "translation": "captar/detector un rastro"
+    },
+    {
+      "word": "Hold a press conference (verbo)",
+      "translation": "dar/organizar una conferencia de prensa"
+    },
+    {
+      "word": "After narrowly surving a vote of dismissal",
+      "translation": "tras sobrevivir por muy poco a un voto de destitución"
+    },
+    {
+      "word": "For staffing level issues",
+      "translation": "problemas relacionados con el nivel de dotación de personal"
+    },
+    {
+      "word": "They're skeletal",
+      "translation": "están esqueléticos"
+    },
+    {
+      "word": "Burlap",
+      "translation": "arpillera"
+    },
+    {
+      "word": "They're spaced evenly apart",
+      "translation": "están espaciados de manera uniforme"
+    },
+    {
+      "word": "When the units rolled up, she's a ghost (frase no literal)",
+      "translation": "cuando llegaron las unidades, ella ya se había esfumado"
+    },
+    {
+      "word": "Feisty",
+      "translation": "luchadora, energética"
+    },
+    {
+      "word": "Wayward girls",
+      "translation": "chicas rebeldes"
+    },
+    {
+      "word": "The latest backdrop",
+      "translation": "el escenario más reciente"
+    },
+    {
+      "word": "The choices you make eventually catch up with you (parcialmente no literal)",
+      "translation": "las decisiones que tomas, tarde o temprano, te pasan factura"
+    },
+    {
+      "word": "John (sustantivo común)",
+      "translation": "cliente"
+    },
+    {
+      "word": "Spook (verbo)",
+      "translation": "asustar"
+    },
+    {
+      "word": "Strip (en geografía)",
+      "translation": "tramo, franja"
+    },
+    {
+      "word": "At the beach-turned-burial-ground",
+      "translation": "en la playa convertida en cementerio"
+    },
+    {
+      "word": "I'm gonna raise more hell than you can handle (frase no literal)",
+      "translation": "voy a armar un lío mayor de lo que puedas soportar"
+    },
+    {
+      "word": "All her mom is good for is taking her money",
+      "translation": "lo único para lo que sirve su mamá es para quitarle el dinero"
+    },
+    {
+      "word": "Make some real bank (frase no literal)",
+      "translation": "ganar un montón de dinero"
+    },
+    {
+      "word": "Clammer",
+      "translation": "recogedor de almejas"
+    },
+    {
+      "word": "Who tipped them off?",
+      "translation": "¿Quién le dió el aviso?"
+    },
+    {
+      "word": "A crazy lady about to tear through Oak Beach",
+      "translation": "una mujer loca a punto de arrasar Oak Beach"
+    },
+    {
+      "word": "See you hauled away in handcuffs",
+      "translation": "verte a que te lleven esposado"
+    },
+    {
+      "word": "Outrage",
+      "translation": "indignación"
+    },
+    {
+      "word": "You nearly got shit-canned",
+      "translation": "casi te despiden"
+    },
+    {
+      "word": "Mismanage (verbo)",
+      "translation": "administrar mal"
+    },
+    {
+      "word": "It sounds like Shannan's running from her driver (parcialmente no literal)",
+      "translation": "parece que Shannan está huyendo de su chofer"
+    },
+    {
+      "word": "She's probably forced to get stoned, drunk",
+      "translation": "probablemente la obligan a drogarse y a emborracharse"
+    },
+    {
+      "word": "If you know so goddamned much?",
+      "translation": "¿Si sabes tanto, carajo?"
+    },
+    {
+      "word": "Fliers",
+      "translation": "folletos, volantes"
+    },
+    {
+      "word": "Be wary",
+      "translation": "ten cuidado"
+    },
+    {
+      "word": "The wayfarer they've been dreading",
+      "translation": "el viajero que tanto han estado temiendo"
+    },
+    {
+      "word": "Amber stood 4'11'' and weighed 100 pounds soaking wet",
+      "translation": "Amber medía 1,50 m y pesaba 45 kg, incluso mojada"
+    },
+    {
+      "word": "Chicken drumsticks",
+      "translation": "muslos de pollo"
+    },
+    {
+      "word": "Wryly",
+      "translation": "con ironía, con sarcasmo"
+    },
+    {
+      "word": "Dumping ground",
+      "translation": "vertedero"
+    },
+    {
+      "word": "Poke around",
+      "translation": "husmear"
+    },
+    {
+      "word": "Put up with",
+      "translation": "aguantar, soportar, tolerar"
+    },
+    {
+      "word": "I saw spools of burlap",
+      "translation": "ví bobinas de arpillera"
+    },
+    {
+      "word": "Landscaper",
+      "translation": "paisajista"
+    },
+    {
+      "word": "Mood",
+      "translation": "estado de ánimo"
+    },
+    {
+      "word": "It gets taped over automatically (en grabaciones)",
+      "translation": "se graba encima automáticamente"
+    },
+    {
+      "word": "In clear view",
+      "translation": "a la vista"
+    },
+    {
+      "word": "Bramble",
+      "translation": "zarzas"
+    },
+    {
+      "word": "Hyoid bones",
+      "translation": "huesos hioides"
+    },
+    {
+      "word": "Jaw plate",
+      "translation": "placa de mandíbula"
+    },
+    {
+      "word": "Thicket",
+      "translation": "espesura, matorral"
+    },
+    {
+      "word": "Platoon",
+      "translation": "pelotón"
+    },
+    {
+      "word": "A grid-pattern search",
+      "translation": "una búsqueda en cuadrícula"
+    },
+    {
+      "word": "Hampered",
+      "translation": "obstaculizado"
+    },
+    {
+      "word": "Wiry",
+      "translation": "fibroso"
+    },
+    {
+      "word": "You ever been marlin fishing? (pregunta parcialmente no literal)",
+      "translation": "¿Alguna vez has ido a pescar marlín?"
+    },
+    {
+      "word": "Tool around",
+      "translation": "dar vueltas por ahí"
+    },
+    {
+      "word": "Turn (someone) away",
+      "translation": "rechazar"
+    },
+    {
+      "word": "You're the head honcho",
+      "translation": "tú eres el jefe"
+    },
+    {
+      "word": "He’s a self-important blowhard",
+      "translation": "es un fanfarrón engreído"
+    },
+    {
+      "word": "She'd gone off running",
+      "translation": "se habpia ido corriendo"
+    },
+    {
+      "word": "Marsh",
+      "translation": "pantano"
+    },
+    {
+      "word": "Severed legs",
+      "translation": "piernas amputadas"
+    },
+    {
+      "word": "And nearly froze half to death (forma no literal)",
+      "translation": "y casi se muere de frío"
+    },
+    {
+      "word": "I was out working graveyards and doubles",
+      "translation": "estaba trabajando en turnos de noche y dobles"
+    },
+    {
+      "word": "You gave her away to foster care",
+      "translation": "la entregaste a una familia de acogida"
+    },
+    {
+      "word": "God-awful",
+      "translation": "horrible"
+    },
+    {
+      "word": "That saved a wretch like me",
+      "translation": "eso salvó a un desdichado como yo"
+    },
+    {
+      "word": "Over the streamlet",
+      "translation": "al otro lado del riachuelo"
+    },
+    {
+      "word": "He put his house up for sale",
+      "translation": "puso su casa en venta"
+    },
+    {
+      "word": "Upend (verbo)",
+      "translation": "poner patas arriba (una situación)"
+    },
+    {
+      "word": "I can't catch up to myself walking backwards",
+      "translation": "no puedo alcanzarme a mí mismo caminando hacia atrás"
+    },
+    {
+      "word": "I was stranded on a skiff",
+      "translation": "me quedé varado en una lancha"
+    },
+    {
+      "word": "I sent up a flare (parcialmente no literal)",
+      "translation": "lancé una bengala"
+    },
+    {
+      "word": "Staple gun",
+      "translation": "grapadora"
+    },
+    {
+      "word": "They are putting me out to pasture (frase no literal)",
+      "translation": "me están mandando al retiro"
+    },
+    {
+      "word": "Backhoe",
+      "translation": "retroexcavadora"
+    },
+    {
+      "word": "The thick brush and marsh",
+      "translation": "la espesa maleza y el pantano"
+    },
+    {
+      "word": "Rope this off right now!",
+      "translation": "¡Acordonen esto de inmediato!"
+    },
+    {
+      "word": "Cradle (aparte de cuna)",
+      "translation": "horquilla"
+    },
+    {
+      "word": "Let her through",
+      "translation": "déjenla pasar"
+    },
+    {
+      "word": "Been raging and angry",
+      "translation": "he estado furiosa y enojada"
+    },
+    {
+      "word": "You're missing, I'm haunted (frase no literal)",
+      "translation": "te extraño, no puedo dejar de pensar en ti"
+    },
+    {
+      "word": "I got so much wrong",
+      "translation": "me equivoqué en tantas cosas"
+    },
+    {
+      "word": "Wicked",
+      "translation": "malvado, perverso"
+    }
+  ],
+  "count": 101,
+  "dialogues": 1308,
+  "duration": 95
+}

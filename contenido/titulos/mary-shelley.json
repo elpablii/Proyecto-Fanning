@@ -1,0 +1,41 @@
+{
+  "titulo": "Mary Shelley",
+  "tipo": "pelicula",
+  "clasificacion": "",
+  "duracion": 120,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 332283
+  },
+  "estreno": "2017-08-06",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "analisis": "",
+  "sinopsis": "Será siempre recordada por ser la escritora que creó a Frankenstein. Criada por un filósofo de renombre (Stephen Dillane) en el Londres del siglo XVIII, Mary Wollstonecraft Godwin (Elle Fanning) es una adolescente soñadora decidida a dejar huella en el mundo. Un día conoce al brillante poeta Percy Shelley (Douglas Booth) con el que empezara una aventura amorosa marcada por la pasión y la tragedia, algo que transformará a Mary y la impulsará a escribir su obra maestra gótica.",
+  "poster": "https://image.tmdb.org/t/p/w500/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+    "https://image.tmdb.org/t/p/w780/dK6DZ8W68MM9Qd2dw6bIuvrvJpn.jpg",
+    "https://image.tmdb.org/t/p/w780/xYv8qWjxIlp44u72L75XLUUOvQu.jpg",
+    "https://image.tmdb.org/t/p/w780/ewnfGX5QrIQlDZnsiYMSIxjZlOT.jpg",
+    "https://image.tmdb.org/t/p/w780/sCJUf3w6aOce19Lzrwzsui24QPa.jpg",
+    "https://image.tmdb.org/t/p/w780/8heO11dcl2kvk0smN5bYO0n5hxI.jpg"
+  ],
+  "realeza": {
+    "Elle Fanning": [
+      "actua",
+      "musica"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Mary Shelley (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Mary Shelley to improve the vocabulary in English.pdf"
+    ]
+  }
+}

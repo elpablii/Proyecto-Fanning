@@ -1,0 +1,1003 @@
+{
+  "title": "A Good Girl's Guide to Murder",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.63,
+    "senales": {
+      "vocabulario": 3.69,
+      "dialogos": 3.53,
+      "temas": 3.92
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 12.7,
+        "A2": 6.9,
+        "B1": 11.0,
+        "B2": 34.1,
+        "C1": 15.6,
+        "C2": 19.6
+      },
+      "densidad": 5.8
+    },
+    "dialogos": {
+      "cobertura95": 3.39,
+      "ppm": 166.1
+    },
+    "temas": [
+      "crimen, drogas y calle"
+    ],
+    "rango": [
+      "B1",
+      "B2"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Pip Fitz-Amobi, una mujer brillante, no está segura de si la colegiala Andie Bell fue asesinada por su amante Sal Singh hace cinco años. ¿Hasta dónde llegarán para proteger a Pip de saber la verdad si resulta que Sal Singh no es el asesino?",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+      "https://image.tmdb.org/t/p/w780/8H3KFYBklgxPiGsc8yWNWqGPZ9G.jpg",
+      "https://image.tmdb.org/t/p/w780/4ShMtprvdtho9ZDaSGLnRXQf5vx.jpg",
+      "https://image.tmdb.org/t/p/w780/8zLyVhEsH6SM9diX7CUUWcaRlk0.jpg",
+      "https://image.tmdb.org/t/p/w780/sxjlMKEwHyKK63eeE2vVQKgIjvY.jpg",
+      "https://image.tmdb.org/t/p/w780/reDaV9eiwu4w3FeS7KIMsEyfyEI.jpg"
+    ],
+    "episodes": {
+      "S01E01": {
+        "name": "Episode 1",
+        "still_path": "https://image.tmdb.org/t/p/w500/yWIUI4Qqac5oEfmHeXmQk0VuATB.jpg",
+        "overview": "Pip elige un caso de homicidio para su proyecto escolar. Pero cuando empieza a investigar, descubre que para algunas personas era mejor dejarlo enterrado para siempre."
+      },
+      "S01E02": {
+        "name": "Episode 2",
+        "still_path": "https://image.tmdb.org/t/p/w500/vTuMceHI6Uxi6hVCTxFwquDKMxv.jpg",
+        "overview": "Luego de entrevistar a las mejores amigas de Andie, Pip tiene una idea más clara de quién era la víctima, pero tras reorganizar fotos viejas empieza a comprender mejor todo."
+      },
+      "S01E03": {
+        "name": "Episode 3",
+        "still_path": "https://image.tmdb.org/t/p/w500/sEBwyQKWVwbw3SlP8JnpIzVBkRe.jpg",
+        "overview": "Pip descubre por primera vez en su vida el lado oscuro cuando va a una fiesta clandestina. Y su siguiente pista la lleva a territorio aún más peligroso."
+      },
+      "S01E04": {
+        "name": "Episode 4",
+        "still_path": "https://image.tmdb.org/t/p/w500/zF4TRU2CgLRjchc2oWFgqp1NHYv.jpg",
+        "overview": "Pip y Ravi siguen una nueva pista que los lleva lejos de Little Kilton. Allí, descubren una valiosa prueba... y una desagradable sorpresa."
+      },
+      "S01E05": {
+        "name": "Episode 5",
+        "still_path": "https://image.tmdb.org/t/p/w500/uBqP6OOmqp7fkDKpTVcvYsSq1KF.jpg",
+        "overview": "Una impactante confesión arroja luz en la investigación. Antes de que Pip pueda decidir qué hacer, recibe otro mensaje amenazador."
+      },
+      "S01E06": {
+        "name": "Episode 6",
+        "still_path": "https://image.tmdb.org/t/p/w500/37aueb8rEyPyouLinzokTiaja6j.jpg",
+        "overview": "La policía hace un arresto, pero Pip no está segura de que el caso esté solucionado, así que va a visitar a la única persona que podría tener respuestas."
+      }
+    }
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/pVV62HbgLP7JsZv096XmjPZtjdP.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/qhWSPI34VHk3CkKitUL7OsxLzDK.jpg",
+  "episodes": [
+    {
+      "code": "S01E01",
+      "name": "A Good Girl's Guide to Murder (Episode 1)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.59,
+        "senales": {
+          "vocabulario": 3.52,
+          "dialogos": 3.63,
+          "temas": 3.79
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 12.5,
+            "B1": 25.0,
+            "B2": 25.0,
+            "C1": 4.2,
+            "C2": 25.0
+          },
+          "densidad": 5.5
+        },
+        "dialogos": {
+          "cobertura95": 3.53,
+          "ppm": 163.4
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Pulsating",
+          "translation": "vibrante"
+        },
+        {
+          "word": "Be eyes (verbo)",
+          "translation": "estar pendiente/atento"
+        },
+        {
+          "word": "Till",
+          "translation": "caja"
+        },
+        {
+          "word": "Getting him off",
+          "translation": "hacer que se vaya"
+        },
+        {
+          "word": "Posh crisps",
+          "translation": "papas fritas de lujo"
+        },
+        {
+          "word": "Starter (en restaurantes)",
+          "translation": "plato de entrada"
+        },
+        {
+          "word": "Extended Project Qualification (EPQ)",
+          "translation": "Calificación de Proyecto Extendido (literal), Proyecto de Investigación Independiente (no literal)"
+        },
+        {
+          "word": "Knock it loud",
+          "translation": "dale fuerte"
+        },
+        {
+          "word": "Communal brain cell",
+          "translation": "neurona comunitaria"
+        },
+        {
+          "word": "Nutmeg",
+          "translation": "nuez moscada"
+        },
+        {
+          "word": "Hairbands",
+          "translation": "diadema"
+        },
+        {
+          "word": "A teacher's salary only stretches so far",
+          "translation": "el sueldo de un profesor no da para mucho"
+        },
+        {
+          "word": "Stay beardy (parcialmente no literal)",
+          "translation": "mantén la barba"
+        },
+        {
+          "word": "Cara's really keen as well",
+          "translation": "Cara también está muy entusiasmada"
+        },
+        {
+          "word": "Chafe (verbo)",
+          "translation": "rozar, irritar, raspar"
+        },
+        {
+          "word": "Down the hatch (expresión)",
+          "translation": "¡Para adentro!, ¡Salud!"
+        },
+        {
+          "word": "Take a dump (verbo)",
+          "translation": "hacer caca"
+        },
+        {
+          "word": "A nosy parker",
+          "translation": "un entrometido"
+        },
+        {
+          "word": "She’s wasted",
+          "translation": "está ebria"
+        },
+        {
+          "word": "Lauren stormed off in tears",
+          "translation": "Lauren se fue furiosa, llorando"
+        },
+        {
+          "word": "At work (no literal)",
+          "translation": "en acción"
+        },
+        {
+          "word": "Thimbles",
+          "translation": "dedales"
+        },
+        {
+          "word": "Missing in Action (MIA)",
+          "translation": "desaparecido"
+        },
+        {
+          "word": "Stir everything up",
+          "translation": "causar un lío"
+        }
+      ],
+      "count": 24,
+      "dialogues": 440,
+      "duration": 43
+    },
+    {
+      "code": "S01E02",
+      "name": "A Good Girl's Guide to Murder (Episode 2)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.09,
+        "senales": {
+          "vocabulario": 4.14,
+          "dialogos": 3.86,
+          "temas": 4.3
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.1,
+            "A2": 6.1,
+            "B1": 3.0,
+            "B2": 39.4,
+            "C1": 27.3,
+            "C2": 18.2
+          },
+          "densidad": 6.3
+        },
+        "dialogos": {
+          "cobertura95": 3.69,
+          "ppm": 168.3
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Get wrong",
+          "translation": "equivocarse"
+        },
+        {
+          "word": "Spreadsheet",
+          "translation": "hoja de cálculo"
+        },
+        {
+          "word": "Future prospects (no literal)",
+          "translation": "perspectivas laborales"
+        },
+        {
+          "word": "Go rogue (verbo)",
+          "translation": "volverse rebelde"
+        },
+        {
+          "word": "Get fixated",
+          "translation": "obsesionarse"
+        },
+        {
+          "word": "Walk-in wardrobe",
+          "translation": "vestidor"
+        },
+        {
+          "word": "Umpire",
+          "translation": "árbitro (sustantivo), arbitrar (verbo)"
+        },
+        {
+          "word": "Sportsmanlike",
+          "translation": "deportista"
+        },
+        {
+          "word": "When she turned her beam of light onto you",
+          "translation": "cuando te iluminó con su haz de luz"
+        },
+        {
+          "word": "Dig up",
+          "translation": "desenterrar"
+        },
+        {
+          "word": "Head torch",
+          "translation": "linterna frontal"
+        },
+        {
+          "word": "Strap on, slow right down",
+          "translation": "abróchate el cinturón y reduce la velocidad"
+        },
+        {
+          "word": "Clown around (verbo)",
+          "translation": "hacer tonterías"
+        },
+        {
+          "word": "Creep (expresión)",
+          "translation": "qué raro"
+        },
+        {
+          "word": "Might go clubbing (parcialmente no literal)",
+          "translation": "tal vez salgamos a bailar"
+        },
+        {
+          "word": "Is she still oblivious?",
+          "translation": "¿Sigue sin darse cuenta?"
+        },
+        {
+          "word": "Thimbles",
+          "translation": "dedales"
+        },
+        {
+          "word": "The bottom feeders",
+          "translation": "los oportunistas, los que se aprovechan de los demás"
+        },
+        {
+          "word": "Flatworms and the tadpoles",
+          "translation": "los gusanos planos y los renacuajos"
+        },
+        {
+          "word": "The boatman and the damselflies",
+          "translation": "el barquero y las libélulas"
+        },
+        {
+          "word": "Gaze up towards the light",
+          "translation": "mirar hacia la luz"
+        },
+        {
+          "word": "You've been off having secret assignations",
+          "translation": "has estado teniendo citas secretas"
+        },
+        {
+          "word": "A stupid crush",
+          "translation": "un enamoramiento tonto"
+        },
+        {
+          "word": "Warn (something) off",
+          "translation": "alejar (a alguien)"
+        },
+        {
+          "word": "Fall out (en amistades o parejas)",
+          "translation": "pelearse"
+        },
+        {
+          "word": "We need to get the stakeout food right",
+          "translation": "tenemos que asegurarnos de que la comida para la vigilancia sea la adecuada"
+        },
+        {
+          "word": "Crisps (en inglés británico)",
+          "translation": "papas fritas"
+        },
+        {
+          "word": "Have a row (verbo)",
+          "translation": "tener una discusión"
+        },
+        {
+          "word": "A rainbow flick",
+          "translation": "un movimiento de arcoíris"
+        },
+        {
+          "word": "Cellar",
+          "translation": "bodega"
+        },
+        {
+          "word": "Avenging",
+          "translation": "vengadora, vengativa"
+        },
+        {
+          "word": "Screw (verbo en relaciones de pareja)",
+          "translation": "acostarse, tirarse"
+        },
+        {
+          "word": "He finally caught on",
+          "translation": "al final se dió cuenta"
+        }
+      ],
+      "count": 33,
+      "dialogues": 524,
+      "duration": 44
+    },
+    {
+      "code": "S01E03",
+      "name": "A Good Girl's Guide to Murder (Episode 3)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.11,
+        "senales": {
+          "vocabulario": 4.18,
+          "dialogos": 3.94,
+          "temas": 4.14
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 15.0,
+            "A2": 0.0,
+            "B1": 10.0,
+            "B2": 35.0,
+            "C1": 17.5,
+            "C2": 22.5
+          },
+          "densidad": 8.4
+        },
+        "dialogos": {
+          "cobertura95": 3.83,
+          "ppm": 163.8
+        },
+        "temas": [
+          "juego y apuestas",
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Try a-lot-what",
+          "translation": "prueba un montón de cosas"
+        },
+        {
+          "word": "And not to mention infamously debauched",
+          "translation": "y eso sin mencionar su notoria vida disoluta"
+        },
+        {
+          "word": "Five more sleeps",
+          "translation": "faltan cinco noches más"
+        },
+        {
+          "word": "Come on, Pip-squeak (traducción aproximada)",
+          "translation": "vamos, enanito"
+        },
+        {
+          "word": "Code-breaking game",
+          "translation": "juego de descifrado de códigos"
+        },
+        {
+          "word": "You can't just waltz up to some dealer (frase no literal)",
+          "translation": "no puedes simplemente irte a ver a cualquier traficante"
+        },
+        {
+          "word": "Rash",
+          "translation": "precipitado"
+        },
+        {
+          "word": "Fleece? The knit?",
+          "translation": "¿Polar? ¿El tejido de punto?"
+        },
+        {
+          "word": "Spill the tea (frase no literal)",
+          "translation": "cuenta todo"
+        },
+        {
+          "word": "Can't I just be trying to YOLO?",
+          "translation": "¿No podría ser simplemente que esté tratando de vivir el momento?"
+        },
+        {
+          "word": "She's way out of my league (frase no literal)",
+          "translation": "ella está muy por encima de mi nivel"
+        },
+        {
+          "word": "Go forth",
+          "translation": "salir"
+        },
+        {
+          "word": "You two off out?",
+          "translation": "¿Se van los dos?"
+        },
+        {
+          "word": "Knock back a few piña coladas",
+          "translation": "tómate unas cuantas piñas coladas"
+        },
+        {
+          "word": "I'll wingwoman you",
+          "translation": "te hare de compinche"
+        },
+        {
+          "word": "Timer",
+          "translation": "temporizador"
+        },
+        {
+          "word": "I got these mad shrooms off my dealer (parcialmente no literal)",
+          "translation": "le compré estas setas alucinantes a mi traficante"
+        },
+        {
+          "word": "I'll sort you out",
+          "translation": "te voy a resolver eso"
+        },
+        {
+          "word": "People'll take anything for a buzz",
+          "translation": "la gente se toma cualquier cosa con tal de sentirse bien"
+        },
+        {
+          "word": "Wreckhead",
+          "translation": "idiota, chafado"
+        },
+        {
+          "word": "Burner phone (parcialmente no literal)",
+          "translation": "celular desechable"
+        },
+        {
+          "word": "Loosen up",
+          "translation": "relajarse"
+        },
+        {
+          "word": "Creep",
+          "translation": "asqueroso"
+        },
+        {
+          "word": "Piss off",
+          "translation": "largarse"
+        },
+        {
+          "word": "Cockblocker (informal)",
+          "translation": "estorbo"
+        },
+        {
+          "word": "Walk (someone) back",
+          "translation": "acompañar de regreso"
+        },
+        {
+          "word": "Dimple",
+          "translation": "hoyuelo"
+        },
+        {
+          "word": "One of my signature no-alcohol cocktails",
+          "translation": "uno de mis cócteles sin alcohol más emblemáticos"
+        },
+        {
+          "word": "Get he scoop (verbo)",
+          "translation": "enterarse de la primicia"
+        },
+        {
+          "word": "Duvet",
+          "translation": "edredón"
+        },
+        {
+          "word": "Mock",
+          "translation": "simulación"
+        },
+        {
+          "word": "Minty lamb",
+          "translation": "cordero a la menta"
+        },
+        {
+          "word": "Chopping",
+          "translation": "cortar"
+        },
+        {
+          "word": "Upbeat tones",
+          "translation": "tonos alegres"
+        },
+        {
+          "word": "And slide down the drainpipe",
+          "translation": "y deslízate por la tubería de desagüe"
+        },
+        {
+          "word": "Make a run for it (verbo)",
+          "translation": "salir corriendo"
+        },
+        {
+          "word": "The old girl across the road said some youth was casing the joint",
+          "translation": "la anciana de enfrente dijo que un joven estaba tanteando el terreno"
+        },
+        {
+          "word": "How nice of you to care",
+          "translation": "qué lindo de tu parte que te preocupes"
+        },
+        {
+          "word": "Wouldn't mind a cuppa while I look around (forma no literal)",
+          "translation": "no me vendría mal una taza de té mientras echo un vistazo"
+        },
+        {
+          "word": "I might have wee'd myself",
+          "translation": "quizás me haya hecho pis encima"
+        }
+      ],
+      "count": 40,
+      "dialogues": 474,
+      "duration": 43
+    },
+    {
+      "code": "S01E04",
+      "name": "A Good Girl's Guide to Murder (Episode 4)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.02,
+        "senales": {
+          "vocabulario": 4.19,
+          "dialogos": 3.38,
+          "temas": 4.41
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 3.4,
+            "A2": 6.9,
+            "B1": 3.4,
+            "B2": 41.4,
+            "C1": 20.7,
+            "C2": 24.1
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 3.14,
+          "ppm": 174.1
+        },
+        "temas": [
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Burner phone (parcialmente no literal)",
+          "translation": "celular desechable"
+        },
+        {
+          "word": "Spliff",
+          "translation": "porro, canuto"
+        },
+        {
+          "word": "Tick list",
+          "translation": "lista de verificación"
+        },
+        {
+          "word": "Pothead",
+          "translation": "fumador de marihuana, fumón"
+        },
+        {
+          "word": "Assert (verbo)",
+          "translation": "afirmar, hacer valer, reivindicar, sostener, defender"
+        },
+        {
+          "word": "Forager",
+          "translation": "buscador, recolector"
+        },
+        {
+          "word": "I'll be off",
+          "translation": "me voy"
+        },
+        {
+          "word": "Bunk off",
+          "translation": "saltarse (una etapa o tarea o responsabilidad)"
+        },
+        {
+          "word": "Bunk (verbo)",
+          "translation": "compartir cama"
+        },
+        {
+          "word": "Razor-sharp insight as ever (frase no literal)",
+          "translation": "una visión tan aguda como siempre"
+        },
+        {
+          "word": "If they have been holed up in a posh hotel",
+          "translation": "si se han estado refugiando en un hotel de lujo"
+        },
+        {
+          "word": "You didn't take a proper look (parcialmente no literal)",
+          "translation": "no lo miraste con atención"
+        },
+        {
+          "word": "I blazed this bad boy up in the toilet (frase no literal)",
+          "translation": "me fumé este chido en el baño"
+        },
+        {
+          "word": "It just came to me like a flash of genius",
+          "translation": "se me ocurrió de repente, como un destello de genialidad"
+        },
+        {
+          "word": "Loads of sightings",
+          "translation": "un montón de avistamientos"
+        },
+        {
+          "word": "Sharpness",
+          "translation": "nitidez, agudeza"
+        },
+        {
+          "word": "Berries",
+          "translation": "bayas, frutos del bosque"
+        },
+        {
+          "word": "Storm (verbo)",
+          "translation": "irrumpir, asaltar"
+        },
+        {
+          "word": "I saw that bit",
+          "translation": "ya ví esa parte"
+        },
+        {
+          "word": "Streamers (en decoración)",
+          "translation": "serpentina"
+        },
+        {
+          "word": "I'm not sure who my money would be on, though, if you two came to blows (frase no literal)",
+          "translation": "aunque no estoy seguro de por quién apostaría si ustedes dos llegaran a las manos"
+        },
+        {
+          "word": "Andie must have been round your house a lot",
+          "translation": "Andie debe de haber ido mucho a tu casa"
+        },
+        {
+          "word": "Fend for ourselves (verbo)",
+          "translation": "valerse por nosotros mismos"
+        },
+        {
+          "word": "Wobbly",
+          "translation": "inestable, tambaleante"
+        },
+        {
+          "word": "Rough patch",
+          "translation": "mala racha, momento difícil"
+        },
+        {
+          "word": "He makes himself out to be (frase no literal)",
+          "translation": "se hace pasar por"
+        },
+        {
+          "word": "No one is lacing the punch",
+          "translation": "nadie le esté echando algo al ponche"
+        },
+        {
+          "word": "What dark wizaedry is this?",
+          "translation": "¿Qué tipo de magia oscura es esta?"
+        },
+        {
+          "word": "The straighteners",
+          "translation": "el alisador, las planchas para el cabello"
+        }
+      ],
+      "count": 29,
+      "dialogues": 502,
+      "duration": 44
+    },
+    {
+      "code": "S01E05",
+      "name": "A Good Girl's Guide to Murder (Episode 5)",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.07,
+        "senales": {
+          "vocabulario": 2.88,
+          "dialogos": 3.42,
+          "temas": 3.22
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 19.3,
+            "A2": 11.6,
+            "B1": 23.2,
+            "B2": 30.9,
+            "C1": 3.9,
+            "C2": 11.2
+          },
+          "densidad": 4.9
+        },
+        "dialogos": {
+          "cobertura95": 3.33,
+          "ppm": 162.3
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Poppers popping (acotación con traducción aproximada)",
+          "translation": "sonido de petardos"
+        },
+        {
+          "word": "Our part",
+          "translation": "nuestra participación"
+        },
+        {
+          "word": "Get my shit together",
+          "translation": "poner mis cosas en orden"
+        },
+        {
+          "word": "So tune in",
+          "translation": "así que no te lo pierdas"
+        },
+        {
+          "word": "You posted a video to draw them out",
+          "translation": "subiste un video para sacarlos de su escondite"
+        },
+        {
+          "word": "Stick together",
+          "translation": "mantener unido"
+        },
+        {
+          "word": "Congrats on the whole double-figures thing",
+          "translation": "felicidades por haber llegado a las dos cifras"
+        },
+        {
+          "word": "Messy",
+          "translation": "desordenado"
+        },
+        {
+          "word": "Faucet squeaks off (acotación)",
+          "translation": "el grifo se cierra con un chirrido"
+        },
+        {
+          "word": "Teepee",
+          "translation": "tipí"
+        },
+        {
+          "word": "Sheep dog",
+          "translation": "perro pastor"
+        },
+        {
+          "word": "Statuory rape",
+          "translation": "abuso sexual de menores"
+        },
+        {
+          "word": "He held it over me whenever he could",
+          "translation": "me lo echaba en cara cada vez que podía"
+        },
+        {
+          "word": "What we set out to do",
+          "translation": "lo que no habíamos propuesto"
+        },
+        {
+          "word": "Things are never that neat",
+          "translation": "las cosas nunca son tan sencillas"
+        },
+        {
+          "word": "Forthright",
+          "translation": "franco"
+        },
+        {
+          "word": "Smash up",
+          "translation": "romper, destrozar"
+        },
+        {
+          "word": "Ancient brick",
+          "translation": "ladrillos viejos Forerunner, precursor, antecesor"
+        },
+        {
+          "word": "Tutor (verbo)",
+          "translation": "dar clases particulares"
+        },
+        {
+          "word": "The cupboard is bare",
+          "translation": "la despensa/alacena está vacía"
+        },
+        {
+          "word": "Get off!",
+          "translation": "¡Suéltame!, ¡Quítate de encima!"
+        },
+        {
+          "word": "Go on up",
+          "translation": "sube"
+        },
+        {
+          "word": "Her grades has started slipping",
+          "translation": "sus notas han empezado a bajar"
+        },
+        {
+          "word": "Just tutoring",
+          "translation": "sólo clases particulares"
+        },
+        {
+          "word": "We limped on for a bit, but then she called it off (frase no literal)",
+          "translation": "seguimos adelante a duras penas por un rato, pero luego ella decidió dejarlo"
+        },
+        {
+          "word": "I pushed her off, she fell, hard",
+          "translation": "la empujé y se cayó de golpe"
+        },
+        {
+          "word": "Hit her head on the countertop",
+          "translation": "se golpeó la cabeza contra la encimera"
+        },
+        {
+          "word": "Steady clanking sound (acotación)",
+          "translation": "sonido constante de golpeteo metálico"
+        }
+      ],
+      "count": 28,
+      "dialogues": 573,
+      "duration": 50
+    },
+    {
+      "code": "S01E06",
+      "name": "A Good Girl's Guide to Murder (Episode 6)",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 2.98,
+        "senales": {
+          "vocabulario": 2.89,
+          "dialogos": 2.79,
+          "temas": 3.64
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 28.6,
+            "A2": 9.5,
+            "B1": 4.8,
+            "B2": 28.6,
+            "C1": 14.3,
+            "C2": 14.3
+          },
+          "densidad": 4.1
+        },
+        "dialogos": {
+          "cobertura95": 2.67,
+          "ppm": 164.7
+        },
+        "temas": [
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Smother (verbo)",
+          "translation": "asfixiar"
+        },
+        {
+          "word": "Slip away",
+          "translation": "apagarse, desvanecerse"
+        },
+        {
+          "word": "On hold",
+          "translation": "en suspenso"
+        },
+        {
+          "word": "I wanted to leave so badly",
+          "translation": "tenía tantas ganas de irme"
+        },
+        {
+          "word": "Harbor (verbo)",
+          "translation": "albergar, guardar, esconder"
+        },
+        {
+          "word": "You need to whisk it properly",
+          "translation": "tienes que batirlo bien"
+        },
+        {
+          "word": "You are the bee's knees (frase no literal)",
+          "translation": "eres lo máximo"
+        },
+        {
+          "word": "It makes me cross, though",
+          "translation": "aunque eso me molesta"
+        },
+        {
+          "word": "He was out by the",
+          "translation": "estaba cerca de/del"
+        },
+        {
+          "word": "In the back of it",
+          "translation": "en la parte de atrás"
+        },
+        {
+          "word": "I saw someone lurking about",
+          "translation": "ví a alguien merodeando por ahí"
+        },
+        {
+          "word": "Break-in",
+          "translation": "robo"
+        },
+        {
+          "word": "It all checked out",
+          "translation": "todo salió bien"
+        },
+        {
+          "word": "Fade in",
+          "translation": "aparecer gradualmente"
+        },
+        {
+          "word": "Pin this all on me",
+          "translation": "echarme toda la culpa"
+        },
+        {
+          "word": "To back it up (en investigaciones)",
+          "translation": "para respaldarlo (literal), como prueba (no literal)"
+        },
+        {
+          "word": "Some slimy little prick",
+          "translation": "un cabrón repugnante/asqueroso"
+        },
+        {
+          "word": "Lash out",
+          "translation": "enojarse, perder los estribos"
+        },
+        {
+          "word": "It's hitting you now, isn't it? (frase no literal)",
+          "translation": "ya te estás dando cuenta, ¿no?"
+        },
+        {
+          "word": "Topping",
+          "translation": "coberturas, ingredientes, acompañamientos"
+        },
+        {
+          "word": "Post-whateverism",
+          "translation": "pos lo que sea"
+        }
+      ],
+      "count": 21,
+      "dialogues": 518,
+      "duration": 51
+    }
+  ],
+  "count": 175,
+  "dialogues": 3031,
+  "duration": 275
+}

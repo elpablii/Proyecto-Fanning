@@ -1,0 +1,607 @@
+{
+  "title": "Mary Shelley",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.37,
+    "senales": {
+      "vocabulario": 4.69,
+      "dialogos": 3.51,
+      "temas": 4.55
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.3,
+        "A2": 2.2,
+        "B1": 8.2,
+        "B2": 32.7,
+        "C1": 16.0,
+        "C2": 33.6
+      },
+      "densidad": 9.2
+    },
+    "dialogos": {
+      "cobertura95": 3.59,
+      "ppm": 148.6
+    },
+    "temas": [
+      "inglés de época o antiguo",
+      "religión y lo sobrenatural"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Será siempre recordada por ser la escritora que creó a Frankenstein. Criada por un filósofo de renombre (Stephen Dillane) en el Londres del siglo XVIII, Mary Wollstonecraft Godwin (Elle Fanning) es una adolescente soñadora decidida a dejar huella en el mundo. Un día conoce al brillante poeta Percy Shelley (Douglas Booth) con el que empezara una aventura amorosa marcada por la pasión y la tragedia, algo que transformará a Mary y la impulsará a escribir su obra maestra gótica.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+      "https://image.tmdb.org/t/p/w780/dK6DZ8W68MM9Qd2dw6bIuvrvJpn.jpg",
+      "https://image.tmdb.org/t/p/w780/xYv8qWjxIlp44u72L75XLUUOvQu.jpg",
+      "https://image.tmdb.org/t/p/w780/ewnfGX5QrIQlDZnsiYMSIxjZlOT.jpg",
+      "https://image.tmdb.org/t/p/w780/sCJUf3w6aOce19Lzrwzsui24QPa.jpg",
+      "https://image.tmdb.org/t/p/w780/8heO11dcl2kvk0smN5bYO0n5hxI.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+  "vocabulary": [
+    {
+      "word": "Crow",
+      "translation": "cuervo"
+    },
+    {
+      "word": "Cast the burning stare (verbo)",
+      "translation": "posar su mirada ardiente"
+    },
+    {
+      "word": "Vex (verbo)",
+      "translation": "molestar"
+    },
+    {
+      "word": "So (no alusivo a “así que” o “y” o “entonces”)",
+      "translation": "tanto, así"
+    },
+    {
+      "word": "She has been tending to the house",
+      "translation": "ella se ha estado ocupando de la casa"
+    },
+    {
+      "word": "Go through the ledgers",
+      "translation": "revisar los libros de contabilidad"
+    },
+    {
+      "word": "Devote (verbo)",
+      "translation": "dedicarse"
+    },
+    {
+      "word": "Over-due",
+      "translation": "atrasado, vencido"
+    },
+    {
+      "word": "Fretting indistinctly (acotación no literal)",
+      "translation": "murmurando entre dientes, sin que se le entienda bien"
+    },
+    {
+      "word": "Defiance",
+      "translation": "rebeldía"
+    },
+    {
+      "word": "They are never long for this world",
+      "translation": "nunca duran mucho en este mundo"
+    },
+    {
+      "word": "Lunge (verbo)",
+      "translation": "abalanzar"
+    },
+    {
+      "word": "Talons",
+      "translation": "garras"
+    },
+    {
+      "word": "Ripe",
+      "translation": "maduro"
+    },
+    {
+      "word": "Milky (aparte de lácteo)",
+      "translation": "lechoso"
+    },
+    {
+      "word": "Scribbing away",
+      "translation": "escribiendo sin parar"
+    },
+    {
+      "word": "Esteemed writers",
+      "translation": "escritores de renombre/prestigio"
+    },
+    {
+      "word": "As bustling as",
+      "translation": "tan animado/bullicioso como"
+    },
+    {
+      "word": "By séance",
+      "translation": "por sesión (de espiritismo)"
+    },
+    {
+      "word": "Draw the eyes away (verbo no literal)",
+      "translation": "apartar la mirada"
+    },
+    {
+      "word": "Before a prayer had gushed",
+      "translation": "antes de que brotara una oración"
+    },
+    {
+      "word": "Wicked",
+      "translation": "malicioso, malvado, maligno"
+    },
+    {
+      "word": "Sounds like quite a catch (frase no literal)",
+      "translation": "parece una gran oportunidad"
+    },
+    {
+      "word": "Put these nameplates out",
+      "translation": "colocar estas placas identificativas"
+    },
+    {
+      "word": "Curdle (verbo)",
+      "translation": "cuajar"
+    },
+    {
+      "word": "Quicken (verbo)",
+      "translation": "acelerar"
+    },
+    {
+      "word": "Steal (someone) away",
+      "translation": "llevarse a alguien"
+    },
+    {
+      "word": "Wildered brain (no literal)",
+      "translation": "mente desconcertada"
+    },
+    {
+      "word": "Astonish (verbo)",
+      "translation": "sorprender, asombrar, maravillar"
+    },
+    {
+      "word": "Enrapture (verbo)",
+      "translation": "cautivar, embelesar, extasiar"
+    },
+    {
+      "word": "Coursers",
+      "translation": "corceles"
+    },
+    {
+      "word": "It longs to soar",
+      "translation": "anhela volar alto"
+    },
+    {
+      "word": "Springs",
+      "translation": "manantiales"
+    },
+    {
+      "word": "Wherefore",
+      "translation": "por qué"
+    },
+    {
+      "word": "Instinct with it (no literal)",
+      "translation": "imbuidas de ello"
+    },
+    {
+      "word": "Mingle (verbo)",
+      "translation": "mezclarse"
+    },
+    {
+      "word": "Are transfigured ever still (traducción aproximada)",
+      "translation": "¿Acaso los transfigurados permanecen alguna vez quietos?"
+    },
+    {
+      "word": "Pourest such music, that it might assuage",
+      "translation": "tanta música, que tal vez pueda calmar"
+    },
+    {
+      "word": "The rugged hearts",
+      "translation": "los corazones indomables"
+    },
+    {
+      "word": "Reverie",
+      "translation": "ensueño"
+    },
+    {
+      "word": "Protégé (en francés)",
+      "translation": "protegido"
+    },
+    {
+      "word": "Indomitable",
+      "translation": "inquebrantable"
+    },
+    {
+      "word": "I'm humbled by his praise",
+      "translation": "me siento honrado por sus elogios"
+    },
+    {
+      "word": "To take me on",
+      "translation": "para aceptarme"
+    },
+    {
+      "word": "And would gladly reimburse you for any time you might spare",
+      "translation": "y con mucho gusto te reembolsaría por cualquier tiempo que puedas dedicarme"
+    },
+    {
+      "word": "I feel duty bound to foster such ability",
+      "translation": "siento que es mi deber fomentar esa capacidad"
+    },
+    {
+      "word": "I would seek out the tutelage",
+      "translation": "buscaría la orientación"
+    },
+    {
+      "word": "Embody (verbo)",
+      "translation": "encarnar, personificar, consagrar"
+    },
+    {
+      "word": "Ménage à trois (en francés)",
+      "translation": "trío"
+    },
+    {
+      "word": "My sanctuary of sorts",
+      "translation": "mi pequeño refugio, por así decirlo"
+    },
+    {
+      "word": "Your embrace",
+      "translation": "tu abrazo"
+    },
+    {
+      "word": "Thunder rolling (acotación)",
+      "translation": "truenos retumbantes"
+    },
+    {
+      "word": "Erect (verbo en sentido denotativo)",
+      "translation": "levantar, construir"
+    },
+    {
+      "word": "Strike (someone) down",
+      "translation": "derrotar"
+    },
+    {
+      "word": "Despotic",
+      "translation": "despótico"
+    },
+    {
+      "word": "Covenant",
+      "translation": "pacto, alianza"
+    },
+    {
+      "word": "Music swells",
+      "translation": "la música va subiendo de intensidad"
+    },
+    {
+      "word": "Typeface",
+      "translation": "tipografía, tipo de letra"
+    },
+    {
+      "word": "Clasp (verbo)",
+      "translation": "abrazar"
+    },
+    {
+      "word": "Moonbeam",
+      "translation": "rayo de luna"
+    },
+    {
+      "word": "Impervious",
+      "translation": "inmune"
+    },
+    {
+      "word": "You're a stranger to scandal (parcialmente no literal)",
+      "translation": "no estás acostumbrado a los escándalos"
+    },
+    {
+      "word": "Bind (verbo en algunos contextos)",
+      "translation": "obligar"
+    },
+    {
+      "word": "Decay",
+      "translation": "declive, desvanecimiento"
+    },
+    {
+      "word": "Stifling (adjetivo)",
+      "translation": "sofocante"
+    },
+    {
+      "word": "We'll set off around the world",
+      "translation": "nos iremos de viaje por todo el mundo"
+    },
+    {
+      "word": "I don't feel up to much of anything",
+      "translation": "no tengo ganas de hacer casi nada"
+    },
+    {
+      "word": "Feats of wantonness",
+      "translation": "hazañas de desenfreno, actos de libertinaje"
+    },
+    {
+      "word": "Departed (en personas difuntas)",
+      "translation": "fallecido"
+    },
+    {
+      "word": "How dare anyone utter one word out of turn?",
+      "translation": "¿Cómo se atreve alguien a decir una sola palabra fuera de lugar?"
+    },
+    {
+      "word": "Which mistook wretchedness",
+      "translation": "que confundió la miseria"
+    },
+    {
+      "word": "Whoremonger",
+      "translation": "proxeneta"
+    },
+    {
+      "word": "Scare away",
+      "translation": "ahuyentar"
+    },
+    {
+      "word": "Warped",
+      "translation": "retorcido"
+    },
+    {
+      "word": "Wedlock",
+      "translation": "matrimonio"
+    },
+    {
+      "word": "Withstand (verbo)",
+      "translation": "soportar, resistir, aguantar"
+    },
+    {
+      "word": "Airy",
+      "translation": "etéreo, ligero"
+    },
+    {
+      "word": "All around me I see bliss",
+      "translation": "a mi alrededor veo felicidad por doquier"
+    },
+    {
+      "word": "Weary",
+      "translation": "cansado"
+    },
+    {
+      "word": "There's no question-making of thy body thou art quit and free (inglés antiguo)",
+      "translation": "no hay duda: de tu cuerpo te has liberado y eres libre"
+    },
+    {
+      "word": "Claret",
+      "translation": "clarete, vino tinto"
+    },
+    {
+      "word": "Unwise",
+      "translation": "imprudente"
+    },
+    {
+      "word": "A step up",
+      "translation": "un avance, un paso adelante"
+    },
+    {
+      "word": "Idienes",
+      "translation": "ociosidad"
+    },
+    {
+      "word": "Treatise",
+      "translation": "tratado"
+    },
+    {
+      "word": "Penchant",
+      "translation": "predilección, inclinación"
+    },
+    {
+      "word": "Overhear (verbo)",
+      "translation": "escuchar por casualidad"
+    },
+    {
+      "word": "A sweet scented courtier",
+      "translation": "un cortesano de aroma dulce"
+    },
+    {
+      "word": "Rightly",
+      "translation": "con toda la razón"
+    },
+    {
+      "word": "I have no quarrel with you",
+      "translation": "no tengo nada en contra de ti"
+    },
+    {
+      "word": "Scarcely",
+      "translation": "apenas"
+    },
+    {
+      "word": "Rainfall",
+      "translation": "precipitaciones"
+    },
+    {
+      "word": "Creditors",
+      "translation": "acreedores"
+    },
+    {
+      "word": "Are heaped",
+      "translation": "se amontonan"
+    },
+    {
+      "word": "Love itself shall slumber on",
+      "translation": "el amor mismo seguirá durmiendo"
+    },
+    {
+      "word": "Piper",
+      "translation": "gaitero"
+    },
+    {
+      "word": "Fireplace",
+      "translation": "chimenea"
+    },
+    {
+      "word": "The fire's warmth nursed her back to life",
+      "translation": "el calor del fuego la devolvió a la vida"
+    },
+    {
+      "word": "Gawk (verbo)",
+      "translation": "quedarse boquiabierto"
+    },
+    {
+      "word": "Prying eyes (no literal)",
+      "translation": "miradas indiscretas"
+    },
+    {
+      "word": "Before long I can coax it outside of you",
+      "translation": "en poco tiempo, pueda sacarlo de tu interior"
+    },
+    {
+      "word": "Tantamount to",
+      "translation": "equivalente a"
+    },
+    {
+      "word": "We will seek lodging elsewhere",
+      "translation": "buscaremos alojamiento en otro lugar"
+    },
+    {
+      "word": "Don't concern yourselves",
+      "translation": "no se preocupen"
+    },
+    {
+      "word": "Liven up",
+      "translation": "animar un poco"
+    },
+    {
+      "word": "Parlor",
+      "translation": "sala de estar/recepción"
+    },
+    {
+      "word": "Slips of paper",
+      "translation": "trozos de papel"
+    },
+    {
+      "word": "Tack them up",
+      "translation": "pegarlos, colgarlos"
+    },
+    {
+      "word": "Get littered",
+      "translation": "llenar con basura, ensuciar"
+    },
+    {
+      "word": "Stanza",
+      "translation": "estrofa"
+    },
+    {
+      "word": "Fearful blow",
+      "translation": "golpe terrible"
+    },
+    {
+      "word": "Unencompassed",
+      "translation": "no cuenta con, no está dotado"
+    },
+    {
+      "word": "Gaudy",
+      "translation": "llamativo"
+    },
+    {
+      "word": "I'm in awe of you",
+      "translation": "me tienes impresionado"
+    },
+    {
+      "word": "Revelry",
+      "translation": "juerga, jolgorio"
+    },
+    {
+      "word": "Dalliance",
+      "translation": "aventura pasajera, coqueteo"
+    },
+    {
+      "word": "Lapse",
+      "translation": "error, lapsus"
+    },
+    {
+      "word": "Pitiable",
+      "translation": "lamentable"
+    },
+    {
+      "word": "She sent down word",
+      "translation": "ella hizo llegar el mensaje"
+    },
+    {
+      "word": "Stumble (verbo)",
+      "translation": "tropezar"
+    },
+    {
+      "word": "Prance (verbo)",
+      "translation": "brincar"
+    },
+    {
+      "word": "Dreary",
+      "translation": "lúgubre, sombría"
+    },
+    {
+      "word": "My toils",
+      "translation": "mis esfuerzos"
+    },
+    {
+      "word": "Whom thou drivest from joy for no misdeed (inglés antiguo)",
+      "translation": "a quien privas de la alegría sin que haya cometido ninguna falta"
+    },
+    {
+      "word": "Bliss",
+      "translation": "felicidad"
+    },
+    {
+      "word": "I shall ascend my funeral pyre triumphantly",
+      "translation": "subiré triunfalmente a mi pira funeraria"
+    },
+    {
+      "word": "Exult (verbo)",
+      "translation": "regocijarse"
+    },
+    {
+      "word": "Bear children (verbo)",
+      "translation": "tener hijos, dar a luz a hijos"
+    },
+    {
+      "word": "I seethed with your monster's rage",
+      "translation": "me bullía por dentro la furia de tu monstruo"
+    },
+    {
+      "word": "I lusted for his revenge",
+      "translation": "anhelaba su venganza"
+    },
+    {
+      "word": "Our taste in judgement alike revolts",
+      "translation": "tanto nuestro gusto como nuestro juicio se rebelan"
+    },
+    {
+      "word": "His shop is stocking my work",
+      "translation": "su tienda tiene mis obras en stock"
+    },
+    {
+      "word": "Get a hold of it",
+      "translation": "conseguirlo"
+    },
+    {
+      "word": "Assert (verbo)",
+      "translation": "afirmar, hacer valer, reivindicar"
+    },
+    {
+      "word": "Plagiarist",
+      "translation": "plagiador"
+    },
+    {
+      "word": "I write a story lampooning",
+      "translation": "escribo un relato satírico sobre"
+    },
+    {
+      "word": "Recoil (verbo)",
+      "translation": "echarse atrás, retroceder"
+    },
+    {
+      "word": "Something volatile seethed within us",
+      "translation": "algo inestable bullía en nuestro interior"
+    },
+    {
+      "word": "You were soon borne away by the wave",
+      "translation": "la ola te arrastró enseguida"
+    }
+  ],
+  "count": 139,
+  "dialogues": 1510,
+  "duration": 120
+}

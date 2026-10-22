@@ -1,0 +1,551 @@
+{
+  "title": "The Last of Robin Hood",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.95,
+    "senales": {
+      "vocabulario": 4.27,
+      "dialogos": 3.05,
+      "temas": 4.15
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 7.9,
+        "A2": 10.3,
+        "B1": 9.5,
+        "B2": 28.6,
+        "C1": 18.3,
+        "C2": 25.4
+      },
+      "densidad": 8.6
+    },
+    "dialogos": {
+      "cobertura95": 2.75,
+      "ppm": 179.2
+    },
+    "temas": [
+      "cine y espectáculo",
+      "legal y judicial"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Errol Flynn, the swashbuckling Hollywood star and notorious ladies man, flouted convention all his life, but never more brazenly than in his last years when, swimming in vodka and unwilling to face his mortality, he undertook a liaison with an aspiring actress, Beverly Aadland. The two had a high-flying affair that spanned the globe and was enabled by the girl's fame-obsessed mother, Florence. It all came crashing to an end in October 1959, when events forced the relationship into the open, sparking an avalanche of publicity castigating Beverly and her mother - which only fed Florence's need to stay in the spotlight.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/ekp7za8WnuMbW3y6CT54BQ9tSQS.jpg",
+      "https://image.tmdb.org/t/p/w780/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/6iL7iNCgyQqconH8CCTwdbEccZG.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/xUHlMn4c79FnD6CAYlb6Tycnej3.jpg",
+  "vocabulary": [
+    {
+      "word": "The world is reeling",
+      "translation": "el mundo está en crisis"
+    },
+    {
+      "word": "His swashbuckling",
+      "translation": "su espíritu aventurero"
+    },
+    {
+      "word": "He died true to form (parcialmente no literal)",
+      "translation": "murió como era de esperarse"
+    },
+    {
+      "word": "Head over heels in love (frase no literal)",
+      "translation": "locamente enamorado"
+    },
+    {
+      "word": "Dab your eye (frase no literal)",
+      "translation": "sécate el ojo con un paño"
+    },
+    {
+      "word": "You'll get a kick out of this lodge (frase no literal)",
+      "translation": "te va a encantar esta cabaña"
+    },
+    {
+      "word": "Take pity (verbo)",
+      "translation": "tener compasión"
+    },
+    {
+      "word": "Smother (verbo)",
+      "translation": "sofocar, acabar"
+    },
+    {
+      "word": "We are forever sundered",
+      "translation": "estamos separados para siempre"
+    },
+    {
+      "word": "Wring (verbo)",
+      "translation": "retorcer"
+    },
+    {
+      "word": "I'll get that",
+      "translation": "yo me encargo de eso"
+    },
+    {
+      "word": "You come straight home afterwards",
+      "translation": "después te vas directo a casa"
+    },
+    {
+      "word": "Come round to the lodge",
+      "translation": "pasar por la cabaña"
+    },
+    {
+      "word": "Sprite (no alusivo a la bebida)",
+      "translation": "duendecillo"
+    },
+    {
+      "word": "You must be in the running (frase no literal)",
+      "translation": "seguro que estás entre los candidatos"
+    },
+    {
+      "word": "Get through something",
+      "translation": "terminar algo"
+    },
+    {
+      "word": "Mistake someone (verbo)",
+      "translation": "juzgar mal a alguien"
+    },
+    {
+      "word": "Soundstage",
+      "translation": "estudio de grabación"
+    },
+    {
+      "word": "Intrude (verbo)",
+      "translation": "interrumpir"
+    },
+    {
+      "word": "Lie awake (verbo)",
+      "translation": "quedarse despierto"
+    },
+    {
+      "word": "Question mark",
+      "translation": "signo de interrogación"
+    },
+    {
+      "word": "I go ahead and bloody well do it (frase no literal)",
+      "translation": "me lanzo y lo hago de una vez por todas"
+    },
+    {
+      "word": "Misrepresent (verbo)",
+      "translation": "tergiversar"
+    },
+    {
+      "word": "My so-called handicap",
+      "translation": "mi supuesta discapacidad"
+    },
+    {
+      "word": "The gutter press",
+      "translation": "la prensa sensacionalista"
+    },
+    {
+      "word": "He has a real swanky pad",
+      "translation": "tiene un departamento realmente elegante"
+    },
+    {
+      "word": "It'll put it down for the record permanently",
+      "translation": "así quedará registrado de manera permanente"
+    },
+    {
+      "word": "Those dried up old biddies",
+      "translation": "esas viejas resecas"
+    },
+    {
+      "word": "Snide remarks",
+      "translation": "comentarios sarcásticos"
+    },
+    {
+      "word": "You're growing on me (frase no literal)",
+      "translation": "cada vez me caes mejor"
+    },
+    {
+      "word": "Cheeky",
+      "translation": "pícaro, atrevido"
+    },
+    {
+      "word": "Just spit it out (frase no literal)",
+      "translation": "sólo dilo de una vez"
+    },
+    {
+      "word": "He asked us up to the lodge",
+      "translation": "nos invitó a subir a la cabaña"
+    },
+    {
+      "word": "Very gallantly",
+      "translation": "con gran caballerosidad"
+    },
+    {
+      "word": "A knock-out impersonation",
+      "translation": "una imitación espectacular"
+    },
+    {
+      "word": "Bumpy",
+      "translation": "agitado"
+    },
+    {
+      "word": "My protégée (en francés)",
+      "translation": "mi protegida"
+    },
+    {
+      "word": "She could be blackballed",
+      "translation": "podrían excluirla/vetarla"
+    },
+    {
+      "word": "Sport (informal y no alusivo al deporte)",
+      "translation": "amigo"
+    },
+    {
+      "word": "Show trial",
+      "translation": "juicio espectáculo"
+    },
+    {
+      "word": "Gold digger",
+      "translation": "cazafortunas"
+    },
+    {
+      "word": "Epitaph",
+      "translation": "epitafio"
+    },
+    {
+      "word": "Statuory rape",
+      "translation": "estupro de menores"
+    },
+    {
+      "word": "She can't act her way out of a paper bag (frase no literal)",
+      "translation": "no tiene ni la más mínima idea de cómo actuar"
+    },
+    {
+      "word": "Garbage heap",
+      "translation": "montón de basura"
+    },
+    {
+      "word": "The has-beens, the wannabes",
+      "translation": "los que ya no son lo que eran, los que quieren serlo"
+    },
+    {
+      "word": "Resent (verbo)",
+      "translation": "guardar rencor, enojarse"
+    },
+    {
+      "word": "Keep out",
+      "translation": "dejar fuera"
+    },
+    {
+      "word": "Blatantly (adverbio)",
+      "translation": "descaradamente"
+    },
+    {
+      "word": "Whom you've groomed so carefully",
+      "translation": "a quien has preparado con tanto esmero"
+    },
+    {
+      "word": "For both our sakes",
+      "translation": "por el bien de ambos"
+    },
+    {
+      "word": "Love match",
+      "translation": "matrimonio por amor"
+    },
+    {
+      "word": "Liaison",
+      "translation": "enlace, nexo"
+    },
+    {
+      "word": "Windup toy",
+      "translation": "juguete de cuerda"
+    },
+    {
+      "word": "Swelled heads",
+      "translation": "cabezonas, cabezas hinchadas"
+    },
+    {
+      "word": "You rap out a round rejoinder",
+      "translation": "suelas soltar una réplica contundente"
+    },
+    {
+      "word": "Blunt",
+      "translation": "tajante"
+    },
+    {
+      "word": "Penknife",
+      "translation": "navaja"
+    },
+    {
+      "word": "Superb mother",
+      "translation": "madre increíble/maravillosa"
+    },
+    {
+      "word": "A class A cunt",
+      "translation": "una perra de primera"
+    },
+    {
+      "word": "To hell of a day (frase no literal)",
+      "translation": "qué día más horrible"
+    },
+    {
+      "word": "They were the only thing that kept her going with him away",
+      "translation": "eran lo único que le daba fuerzas para seguir adelante mientras él estaba lejos"
+    },
+    {
+      "word": "They came down with dysentery (parcialmente no literal)",
+      "translation": "se enfermaron de disenteria"
+    },
+    {
+      "word": "I really got a hoot out of telling folks all about him",
+      "translation": "me divertí muchísimo contándoles a todos sobre él"
+    },
+    {
+      "word": "We clicked into our routine",
+      "translation": "nos adaptamos a nuestra rutina"
+    },
+    {
+      "word": "My pet mangoose",
+      "translation": "mi mangosta de compañía"
+    },
+    {
+      "word": "From the bowels of",
+      "translation": "de las entrañas de"
+    },
+    {
+      "word": "I'll go slip into something more dignified",
+      "translation": "voy a ponerme algo más decente"
+    },
+    {
+      "word": "They're a hard-headed lot",
+      "translation": "son un grupo de gente muy testaurda/terca"
+    },
+    {
+      "word": "Godless country",
+      "translation": "país ateo"
+    },
+    {
+      "word": "Tear down",
+      "translation": "derribar"
+    },
+    {
+      "word": "We're sort of a package deal",
+      "translation": "somos algo así como un paquete completo"
+    },
+    {
+      "word": "Goofball (informal)",
+      "translation": "tonto, memo"
+    },
+    {
+      "word": "Out and about",
+      "translation": "de paseo"
+    },
+    {
+      "word": "They're having a ball out there (frase no literal)",
+      "translation": "se están divirtiendo muchísimo ahí afuera"
+    },
+    {
+      "word": "In leaps and bounds (frase no literal)",
+      "translation": "a pasos agigantados"
+    },
+    {
+      "word": "Rascal",
+      "translation": "granuja"
+    },
+    {
+      "word": "Flask",
+      "translation": "frasco, matraz"
+    },
+    {
+      "word": "There's some notepaper",
+      "translation": "ahí hay papel para tomar notas"
+    },
+    {
+      "word": "Being of sound mind and body (frase no literal)",
+      "translation": "en pleno uso de mis facultades mentales y físicas"
+    },
+    {
+      "word": "So Errol splashed out",
+      "translation": "así que Errol se dio un gusto"
+    },
+    {
+      "word": "Tag along (aparte de acompañar)",
+      "translation": "ir con alguien"
+    },
+    {
+      "word": "Nail salon",
+      "translation": "salón de manicura"
+    },
+    {
+      "word": "It doesn't mean that you own him lock, stock and barrel (parcialmente no literal)",
+      "translation": "eso no significa que seas dueño de él por completo"
+    },
+    {
+      "word": "She could shed some new light",
+      "translation": "ella podría aportar nuevos datos"
+    },
+    {
+      "word": "At the helm",
+      "translation": "al mando"
+    },
+    {
+      "word": "I could use a nice stiff drink though",
+      "translation": "aunque me vendría bien un buen trago fuerte"
+    },
+    {
+      "word": "Den",
+      "translation": "sala de estar"
+    },
+    {
+      "word": "He hightailed it over to the mortuary",
+      "translation": "se fue a toda prisa a la funeraria"
+    },
+    {
+      "word": "He slipped the cat 200 smackers",
+      "translation": "le dió al gato 200 billetes"
+    },
+    {
+      "word": "Armchair",
+      "translation": "sillón"
+    },
+    {
+      "word": "I flicked on the lights",
+      "translation": "encendí las luces"
+    },
+    {
+      "word": "He was bloodless, gray, bloated",
+      "translation": "estaba pálido, gris y hinchado"
+    },
+    {
+      "word": "Cronies",
+      "translation": "compinches"
+    },
+    {
+      "word": "Just as pleased as punch (frase no literal)",
+      "translation": "no podría estar más contento"
+    },
+    {
+      "word": "Mortuary",
+      "translation": "funeraria"
+    },
+    {
+      "word": "Outing",
+      "translation": "salida, excursión"
+    },
+    {
+      "word": "Cramped",
+      "translation": "estrecho, pequeño"
+    },
+    {
+      "word": "Two-way mirror",
+      "translation": "espejo de doble cara"
+    },
+    {
+      "word": "Lie down",
+      "translation": "recostarse"
+    },
+    {
+      "word": "Our once-a-week round-up",
+      "translation": "nuestro resumen semanal"
+    },
+    {
+      "word": "I, for one, am fed to the teeth with all the drool (frase no literal)",
+      "translation": "yo, por mi parte, ya estoy harto hasta las narices de toda esa baboseada"
+    },
+    {
+      "word": "Roué",
+      "translation": "mujeriego, donjuán"
+    },
+    {
+      "word": "A teen hellcat",
+      "translation": "una adolescente rebelde"
+    },
+    {
+      "word": "As for the peg-legged scheming mother",
+      "translation": "en cuanto a la madre intrigante con una pierna de madera"
+    },
+    {
+      "word": "In the clink",
+      "translation": "en la cárcel"
+    },
+    {
+      "word": "It makes me so damned mad",
+      "translation": "me da un coraje de locos"
+    },
+    {
+      "word": "She's just grief-stricken",
+      "translation": "simplemente está desconsolada"
+    },
+    {
+      "word": "Throw herself into something",
+      "translation": "dedicarse de lleno a algo"
+    },
+    {
+      "word": "They just play up to you",
+      "translation": "sólo te están halagando"
+    },
+    {
+      "word": "Sleep it off",
+      "translation": "duerme/descansa un poco"
+    },
+    {
+      "word": "She's baying at the moon",
+      "translation": "esta aullando a la luna"
+    },
+    {
+      "word": "They hold her in juvenile hall",
+      "translation": "la tienen detenida en el centro de detención juvenil"
+    },
+    {
+      "word": "It'll never stand up in court",
+      "translation": "eso nunca se sostendrá ante un tribunal"
+    },
+    {
+      "word": "It's in Beverly's handwriting",
+      "translation": "está escrito con la letra de Beverly"
+    },
+    {
+      "word": "His estate",
+      "translation": "su patrimonio"
+    },
+    {
+      "word": "He needed to initial every page (parcialmente no literal)",
+      "translation": "tenía que poner sus iniciales en cada página"
+    },
+    {
+      "word": "A crackerjack attorney",
+      "translation": "un abogado de primera"
+    },
+    {
+      "word": "He doesn't think it's gonna hold up (parcialmente no literal)",
+      "translation": "no cree que vaya a funcionar"
+    },
+    {
+      "word": "File (verbo en sentido legal)",
+      "translation": "presentar"
+    },
+    {
+      "word": "Left us high and dry (frase no literal)",
+      "translation": "nos dejó en las estacada"
+    },
+    {
+      "word": "It's a slam dunk (frase no literal)",
+      "translation": "es pan comido"
+    },
+    {
+      "word": "When all the gutter versions are out there (frase no literal)",
+      "translation": "cuando ya están circulando todas las versiones sensacionalistas"
+    },
+    {
+      "word": "To set the record straight",
+      "translation": "para dejar las cosas claras"
+    },
+    {
+      "word": "All those people that are clucking their tongues at us (parcialmente no literal)",
+      "translation": "toda esa gente que nos está criticando"
+    },
+    {
+      "word": "Swashbuckler",
+      "translation": "aventurero, espadachín"
+    }
+  ],
+  "count": 126,
+  "dialogues": 1472,
+  "duration": 92
+}

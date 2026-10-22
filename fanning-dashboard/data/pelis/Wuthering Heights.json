@@ -1,0 +1,650 @@
+{
+  "title": "Wuthering Heights",
+  "level": "B2-C1",
+  "levelDetail": {
+    "nivel": "B2-C1",
+    "puntaje": 4.39,
+    "senales": {
+      "vocabulario": 4.48,
+      "dialogos": 4.2,
+      "temas": 4.39
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.8,
+        "A2": 3.4,
+        "B1": 10.9,
+        "B2": 28.5,
+        "C1": 13.6,
+        "C2": 34.8
+      },
+      "densidad": 8.3
+    },
+    "dialogos": {
+      "cobertura95": 4.3,
+      "ppm": 147.1
+    },
+    "temas": [
+      "religión y lo sobrenatural"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "La tragedia golpea cuando Heathcliff se enamora de Catherine Earnshaw, una mujer de una familia adinerada de la Inglaterra del siglo XVIII",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+      "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "https://image.tmdb.org/t/p/w780/q9HfulM3OCTCjTbR3X39HQrdMVp.jpg",
+      "https://image.tmdb.org/t/p/w780/xEc9tzMd1DETn0Zqv2psfBGO2pa.jpg",
+      "https://image.tmdb.org/t/p/w780/82PJ1y8CpNjYplX9jKQwDG5GzO9.jpg",
+      "https://image.tmdb.org/t/p/w780/2KArIXEUQbLuCYPnvPfQAZqnHpg.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
+  "vocabulary": [
+    {
+      "word": "Stiffy (sustantivo en sentido sugerente)",
+      "translation": "erección"
+    },
+    {
+      "word": "Ha’penny (expresión)",
+      "translation": "un centavo/penique"
+    },
+    {
+      "word": "What a frightful racquet",
+      "translation": "qué ruido tan espantoso"
+    },
+    {
+      "word": "Corned beef",
+      "translation": "carne en salmuera"
+    },
+    {
+      "word": "Only racing (no literal)",
+      "translation": "sólo corría"
+    },
+    {
+      "word": "She'd batter me around my head",
+      "translation": "me daría golpes en la cabeza"
+    },
+    {
+      "word": "Run wild (verbo no literal)",
+      "translation": "hacer lo que se le da la gana"
+    },
+    {
+      "word": "Bristly",
+      "translation": "erizado"
+    },
+    {
+      "word": "Be tiresome",
+      "translation": "ser pesado"
+    },
+    {
+      "word": "Nobody likes a sourpuss, as well as a fright",
+      "translation": "a nadie le caen bien los amargados, ni tampoco los que dan miedo"
+    },
+    {
+      "word": "Brooding music",
+      "translation": "música melancólica"
+    },
+    {
+      "word": "Get a move on (verbo)",
+      "translation": "espabilar, darse prisa, apurarse"
+    },
+    {
+      "word": "He's pissed up the wall again (frase no literal)",
+      "translation": "ya está enojado hasta las cejas otra vez"
+    },
+    {
+      "word": "Check his britches for soiling",
+      "translation": "revisa si tiene manchas en los pantalones"
+    },
+    {
+      "word": "One of the fits of charity",
+      "translation": "uno de los impulsos de caridad"
+    },
+    {
+      "word": "Sod",
+      "translation": "sinvergüenza, mocoso"
+    },
+    {
+      "word": "Wretch",
+      "translation": "desgraciado, miserable"
+    },
+    {
+      "word": "Household purse (no literal)",
+      "translation": "presupuesto familiar"
+    },
+    {
+      "word": "Badgered and sniped",
+      "translation": "acosado y criticado"
+    },
+    {
+      "word": "You are most heartily welcome here",
+      "translation": "te damos la más cordial bienvenida aquí"
+    },
+    {
+      "word": "Dunce (en inglés británico)",
+      "translation": "zoquete, tonto"
+    },
+    {
+      "word": "Peck (verbo)",
+      "translation": "picotear"
+    },
+    {
+      "word": "Temper (expresión)",
+      "translation": "tranquilo"
+    },
+    {
+      "word": "Rascal",
+      "translation": "granuja, sinvergüenza"
+    },
+    {
+      "word": "Turn back",
+      "translation": "dar marcha atrás"
+    },
+    {
+      "word": "Despair",
+      "translation": "desesperación"
+    },
+    {
+      "word": "If it spares you",
+      "translation": "si te lo permite"
+    },
+    {
+      "word": "A bachelor and his ward",
+      "translation": "un soltero y su pupila"
+    },
+    {
+      "word": "The plainest girl",
+      "translation": "la chica más sencilla"
+    },
+    {
+      "word": "Shockingly dull",
+      "translation": "increíblemente aburrido"
+    },
+    {
+      "word": "Snubbed",
+      "translation": "menospreciado"
+    },
+    {
+      "word": "Quarrel",
+      "translation": "pelea, discusión"
+    },
+    {
+      "word": "Feat",
+      "translation": "hazaña. proeza, logro"
+    },
+    {
+      "word": "Get down",
+      "translation": "agacharse"
+    },
+    {
+      "word": "Clamoring (acotación)",
+      "translation": "ruido de gente gritando"
+    },
+    {
+      "word": "Arsehole (en inglés británico)",
+      "translation": "idiota, imbécil"
+    },
+    {
+      "word": "Run-in",
+      "translation": "encontronazo"
+    },
+    {
+      "word": "Solicitor",
+      "translation": "abogado"
+    },
+    {
+      "word": "A cuff around the ear",
+      "translation": "un tirón de orejas"
+    },
+    {
+      "word": "My only restraint is you",
+      "translation": "mi único freno/obstáculo eres tú"
+    },
+    {
+      "word": "Spare the food (verbo)",
+      "translation": "desperdiciar la comida"
+    },
+    {
+      "word": "For his face has made acquaintance with the parlor room",
+      "translation": "porque su rostro ya se ha familiarizado con la sala de estar"
+    },
+    {
+      "word": "He's gambled it all away",
+      "translation": "se lo ha gastado todo en las apuestas"
+    },
+    {
+      "word": "I'll be spared the shame of it",
+      "translation": "así me ahorraré la vergüenza"
+    },
+    {
+      "word": "The drain in the yard is at overflow",
+      "translation": "el desagüe del patio está desbordado"
+    },
+    {
+      "word": "Pig scab",
+      "translation": "sarna porcina"
+    },
+    {
+      "word": "Further and further beyond the pale",
+      "translation": "cada vez más allá de los límites"
+    },
+    {
+      "word": "Ensue (verbo)",
+      "translation": "desatar, seguir"
+    },
+    {
+      "word": "Hatch (verbo)",
+      "translation": "idear, tramar"
+    },
+    {
+      "word": "Elope (verbo)",
+      "translation": "fugarse para casarse"
+    },
+    {
+      "word": "Sleeping draft",
+      "translation": "somnífero"
+    },
+    {
+      "word": "Précis (en francés)",
+      "translation": "preciso, exacto"
+    },
+    {
+      "word": "The most fearsome visage",
+      "translation": "el rostro más temible"
+    },
+    {
+      "word": "Ghastly pale",
+      "translation": "de una palidez espantosa"
+    },
+    {
+      "word": "Underline (verbo)",
+      "translation": "subrayar"
+    },
+    {
+      "word": "She'll be in clover (parcialmente no literal)",
+      "translation": "va a vivir como una reina"
+    },
+    {
+      "word": "She's already well past spinsterhood",
+      "translation": "ya hace mucho que dejó de ser solterona"
+    },
+    {
+      "word": "We can't have you blundering (frase no literal)",
+      "translation": "no podemos permitir que andes cometas errores"
+    },
+    {
+      "word": "Through and through (expresión)",
+      "translation": "de pies a cabeza, de principio a fin"
+    },
+    {
+      "word": "He's not quite out of the top drawer (parcialmente no literal)",
+      "translation": "aún no ha dejado de ser uno de los mejores"
+    },
+    {
+      "word": "He waited on hand and foot by both Linton and his ward (frase no literal)",
+      "translation": "tanto Linton como su pupilo lo atendían en todo lo que necesitaba"
+    },
+    {
+      "word": "Clamped to",
+      "translation": "apoyado sobre"
+    },
+    {
+      "word": "As smitten as",
+      "translation": "tan enamorado como"
+    },
+    {
+      "word": "How cross you look",
+      "translation": "qué enojado te ves"
+    },
+    {
+      "word": "Lily (sustantivo común)",
+      "translation": "lirio"
+    },
+    {
+      "word": "Harder (no alusivo a más difícil)",
+      "translation": "más fuerte"
+    },
+    {
+      "word": "Your doing",
+      "translation": "culpa tuya"
+    },
+    {
+      "word": "You're going to make yourself ill",
+      "translation": "te vas a enfermar"
+    },
+    {
+      "word": "We are all ill",
+      "translation": "todos estamos enfermos"
+    },
+    {
+      "word": "Slattern",
+      "translation": "desaliñado, desordenado"
+    },
+    {
+      "word": "Parlor",
+      "translation": "sala de estar"
+    },
+    {
+      "word": "Unwell",
+      "translation": "mal, enfermo, indispuesto"
+    },
+    {
+      "word": "I should be homesick (frase no literal)",
+      "translation": "debería sentir nostalgia"
+    },
+    {
+      "word": "Pliable",
+      "translation": "dócil, flexible"
+    },
+    {
+      "word": "Reassurance",
+      "translation": "tranquilidad, seguridad"
+    },
+    {
+      "word": "Beggars",
+      "translation": "mendigos"
+    },
+    {
+      "word": "Call (something) off",
+      "translation": "cancelar, suspender"
+    },
+    {
+      "word": "He made off with the horse",
+      "translation": "se llevó el caballo"
+    },
+    {
+      "word": "Put (something) off",
+      "translation": "posponer, aplazar"
+    },
+    {
+      "word": "Tighter (adjetivo comparativo)",
+      "translation": "más ajustado/apretado"
+    },
+    {
+      "word": "From the brush",
+      "translation": "del matorral"
+    },
+    {
+      "word": "Ward (en sentido no médico)",
+      "translation": "pupilo"
+    },
+    {
+      "word": "Ateliers",
+      "translation": "talleres"
+    },
+    {
+      "word": "It was no hardship",
+      "translation": "no fue nada difícil"
+    },
+    {
+      "word": "Contentment",
+      "translation": "satisfacción"
+    },
+    {
+      "word": "Periwinkle",
+      "translation": "azul perivinca"
+    },
+    {
+      "word": "A hanging",
+      "translation": "una horca"
+    },
+    {
+      "word": "Do you think they will do it in her skirts?",
+      "translation": "¿Crees que lo harán con ella usando faldas?"
+    },
+    {
+      "word": "Tubby little rascal",
+      "translation": "pequeño pícaro regordete"
+    },
+    {
+      "word": "Scold (verbo)",
+      "translation": "regañar"
+    },
+    {
+      "word": "To get by on",
+      "translation": "para arreglárselas"
+    },
+    {
+      "word": "Gamble away",
+      "translation": "desperdiciar en apuestas"
+    },
+    {
+      "word": "Garish",
+      "translation": "llamativo"
+    },
+    {
+      "word": "More tawdry geegaws to dangle about your person? (pregunta no literal)",
+      "translation": "¿Más chucherías de mal gusto para llevar colgadas por ahí?"
+    },
+    {
+      "word": "Begrudge (verbo)",
+      "translation": "quejarse, tener rencor"
+    },
+    {
+      "word": "And watch me grope for them",
+      "translation": "y mira cómo las busco a tientas"
+    },
+    {
+      "word": "In decoupage",
+      "translation": "con una técnica de decoupage"
+    },
+    {
+      "word": "I’m giddy",
+      "translation": "estoy emocionado"
+    },
+    {
+      "word": "I feel like a chit fresh out of the schoolroom",
+      "translation": "me siento como una chavita recién salida de la escuela"
+    },
+    {
+      "word": "Wicked trick",
+      "translation": "truco malicioso"
+    },
+    {
+      "word": "We must not get the mopes (frase no literal)",
+      "translation": "no debemos ponernos de mal humor"
+    },
+    {
+      "word": "To press it out of you",
+      "translation": "sacártelo a la fuerza"
+    },
+    {
+      "word": "Your fortune was most ill-gotten (parcialmente no literal)",
+      "translation": "tu fortuna fue obtenida de la manera más deshonesta"
+    },
+    {
+      "word": "Wicked temper (alusivo al humor de la persona)",
+      "translation": "mal genio"
+    },
+    {
+      "word": "Sparrow (sustantivo común)",
+      "translation": "gorrión"
+    },
+    {
+      "word": "Manger",
+      "translation": "pesebre"
+    },
+    {
+      "word": "He'll find your efforts greatly amusing (forma no literal)",
+      "translation": "tus esfuerzos le parecerán muy divertidos"
+    },
+    {
+      "word": "Quarrel (verbo)",
+      "translation": "pelearse"
+    },
+    {
+      "word": "Besotted",
+      "translation": "loca, enamorada"
+    },
+    {
+      "word": "She's hovering by the door",
+      "translation": "ella está parada junto a la puerta"
+    },
+    {
+      "word": "Shall I come and fetch you?",
+      "translation": "¿Te voy a buscar?"
+    },
+    {
+      "word": "I'm more than happy to oblige (frase no literal)",
+      "translation": "me da mucho gusto hacerlo"
+    },
+    {
+      "word": "Chastise (verbo)",
+      "translation": "castigar, regañar"
+    },
+    {
+      "word": "Rebuke",
+      "translation": "reprimenda"
+    },
+    {
+      "word": "Upbraid (verbo)",
+      "translation": "reprender"
+    },
+    {
+      "word": "Disregard (verbo)",
+      "translation": "dar importancia, prestar atención"
+    },
+    {
+      "word": "Side table",
+      "translation": "mesita auxiliar/de apoyo/de lado"
+    },
+    {
+      "word": "Grim",
+      "translation": "de mal gusto"
+    },
+    {
+      "word": "You will catch your death (frase no literal)",
+      "translation": "te vas a morir de frío"
+    },
+    {
+      "word": "You wretched shrew",
+      "translation": "maldita arpía"
+    },
+    {
+      "word": "Your restraint",
+      "translation": "tu moderación"
+    },
+    {
+      "word": "And let us both be damned",
+      "translation": "y que nos condenen a los dos"
+    },
+    {
+      "word": "Come unto me, all ye that labor and are heavy laden (inglés antiguo)",
+      "translation": "vengan a mí todos los que están fatigados y agobiados"
+    },
+    {
+      "word": "For I am meek and lowly in heart",
+      "translation": "porque soy manso y humilde de corazón"
+    },
+    {
+      "word": "Jest (verbo)",
+      "translation": "burlarse, bromear"
+    },
+    {
+      "word": "Sever (verbo)",
+      "translation": "cortar, interrumpir"
+    },
+    {
+      "word": "Mistake (verbo)",
+      "translation": "confundir"
+    },
+    {
+      "word": "Good-heartedness",
+      "translation": "bondad"
+    },
+    {
+      "word": "Untoward",
+      "translation": "inapropiado"
+    },
+    {
+      "word": "Foolishness",
+      "translation": "tonterías, estupideces"
+    },
+    {
+      "word": "You fiend",
+      "translation": "eres un demonio"
+    },
+    {
+      "word": "Squalid",
+      "translation": "precario, miserable"
+    },
+    {
+      "word": "Tear (something) out",
+      "translation": "arrancar"
+    },
+    {
+      "word": "I’m rough and unfeeling",
+      "translation": "soy rudo e insensible"
+    },
+    {
+      "word": "I will not stand for you weeping over that fiend",
+      "translation": "no voy a tolerar que llores por ese demonio"
+    },
+    {
+      "word": "Snip (verbo)",
+      "translation": "cortar, recortar"
+    },
+    {
+      "word": "Relent (verbo)",
+      "translation": "ceder"
+    },
+    {
+      "word": "Hold fast",
+      "translation": "mantente firme"
+    },
+    {
+      "word": "Tell her she can go hang for all I care",
+      "translation": "dile que, por lo que a mí respecta, puede irse al diablo"
+    },
+    {
+      "word": "Pull (someone) together",
+      "translation": "recomponerse"
+    },
+    {
+      "word": "Tableware",
+      "translation": "vajilla, artículos de mesa"
+    },
+    {
+      "word": "Won't you come sighing and wheedling back to me?",
+      "translation": "¿No volverás conmigo suspirando y suplicándome?"
+    },
+    {
+      "word": "Let us call a truce (parcialmente no literal)",
+      "translation": "hagamos una tregua"
+    },
+    {
+      "word": "Stand for",
+      "translation": "tolerar"
+    },
+    {
+      "word": "Revolting",
+      "translation": "repugnante"
+    },
+    {
+      "word": "Nelly has played traitor",
+      "translation": "Nelly se ha comportado como una traidora"
+    },
+    {
+      "word": "Theatrics",
+      "translation": "teatralidad"
+    },
+    {
+      "word": "Pretense",
+      "translation": "farsa"
+    },
+    {
+      "word": "Unutterable",
+      "translation": "indescriptible"
+    },
+    {
+      "word": "Haunt me then",
+      "translation": "pues entonces persígueme"
+    }
+  ],
+  "count": 150,
+  "dialogues": 1812,
+  "duration": 136
+}
