@@ -75,15 +75,21 @@ def papel(credito, en_reparto):
         credito.get('department'), 'equipo')
 
 
-def marcar_titulos(realeza):
-    lista, _, _ = F.cargar()
-    por_id = {}  # (tipo, id de TMDB) -> título; los episodios con id propio cuentan para su serie
+def titulos_por_id(lista):
+    """(tipo, id de TMDB) -> título; los episodios con id propio cuentan para su serie."""
+    por_id = {}
     for f in lista:
         if f.get('tmdb'):
             por_id[(f['tmdb']['tipo'], f['tmdb']['id'])] = f['titulo']
         for e in (f.get('episodios') or {}).values():
             if e.get('tmdb'):
                 por_id[(e['tmdb']['tipo'], e['tmdb']['id'])] = f['titulo']
+    return por_id
+
+
+def marcar_titulos(realeza):
+    lista, _, _ = F.cargar()
+    por_id = titulos_por_id(lista)
 
     hallado = {f['titulo']: {} for f in lista}
     for a in realeza:

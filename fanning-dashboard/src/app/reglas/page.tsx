@@ -196,7 +196,7 @@ export default function ReglasPage() {
       {/* Página de lectura: el fondo va más tenue */}
       <FondoAnimado paleta="reglas" fuerza={11} />
       <header className="max-w-6xl mx-auto mb-8 md:mb-12 space-y-6">
-        <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
+        <Link transitionTypes={['atras']} href="/" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
           <ArrowLeft className="w-4 h-4 mr-2" /> Volver al inicio
         </Link>
         <div className="relative overflow-hidden rounded-3xl border border-purple-500/20 bg-linear-to-br from-purple-500/15 via-gray-900/40 to-pink-500/10 p-6 sm:p-10 space-y-5">

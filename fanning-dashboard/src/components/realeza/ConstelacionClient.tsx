@@ -54,7 +54,7 @@ export default function ConstelacionClient({ estrellas, hilos }: { estrellas: Es
     <div className="min-h-screen text-gray-100 font-sans">
       <FondoAnimado paleta="constelacion" />
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
-        <Link href="/realeza" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
+        <Link transitionTypes={['atras']} href="/realeza" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al Salón del Trono
         </Link>
 

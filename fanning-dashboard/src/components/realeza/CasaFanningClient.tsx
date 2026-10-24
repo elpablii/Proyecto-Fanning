@@ -125,7 +125,7 @@ export default function CasaFanningClient({ hermanas, juntas, yaJuntas, hoy }: {
 
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
         <nav className="flex flex-wrap items-center justify-between gap-3 mb-8 text-sm font-medium">
-          <Link href="/realeza" className="inline-flex items-center text-gray-400 hover:text-white transition">
+          <Link transitionTypes={['atras']} href="/realeza" className="inline-flex items-center text-gray-400 hover:text-white transition">
             <ArrowLeft size={16} className="mr-2" /> Volver al Salón del Trono
           </Link>
           <Link href="/" className="text-gray-500 hover:text-white transition">Inicio</Link>
@@ -161,12 +161,12 @@ export default function CasaFanningClient({ hermanas, juntas, yaJuntas, hoy }: {
         </header>
 
         {/* ---------- Sus citas ---------- */}
-        {(dakota.artista.cita || elle.artista.cita) && (
+        {!!(dakota.artista.citas?.length || elle.artista.citas?.length) && (
           <div className="grid md:grid-cols-2 gap-6 mb-16">
-            {hermanas.map((h, lado) => h.artista.cita && (
+            {hermanas.map((h, lado) => h.artista.citas?.[0] && (
               <div key={h.artista.nombre} className={`rounded-2xl border ${TONO[lado].borde} bg-gray-950/50 p-5`}>
-                <CitaReal cita={h.artista.cita} color={TONO[lado].texto}
-                  href={(() => { const t = h.stats.titulos.find(x => x.title === h.artista.cita!.titulo); return t ? hrefTitulo(t) : undefined; })()} />
+                <CitaReal cita={h.artista.citas[0]} color={TONO[lado].texto}
+                  href={(() => { const t = h.stats.titulos.find(x => x.title === h.artista.citas![0].titulo); return t ? hrefTitulo(t) : undefined; })()} />
               </div>
             ))}
           </div>

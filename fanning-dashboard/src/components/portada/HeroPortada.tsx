@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { BookA, BookOpen, Calendar, Clapperboard, Crown, Gauge, Heart, Search } from 'lucide-react';
+import { Album, BookA, BookOpen, Calendar, CalendarHeart, Clapperboard, Crown, Gauge, Heart, Search } from 'lucide-react';
 import { tmdb } from '@/lib/tmdb';
 import { hrefArtista } from '@/lib/realeza';
 import RelojActual from '@/components/portada/RelojActual';
@@ -74,6 +74,12 @@ export default function HeroPortada({ posters, onBuscar }: { posters: string[]; 
           </Link>
           <Link href="/generos" className={`${BOTON} bg-violet-600/20 hover:bg-violet-600/40 text-violet-300 border-violet-500/30`}>
             <Clapperboard size={16} /> Géneros y Épocas
+          </Link>
+          <Link href="/album" className={`${BOTON} bg-emerald-500/15 hover:bg-emerald-500/30 text-emerald-200 border-emerald-300/30`}>
+            <Album size={16} /> Álbum Fanning
+          </Link>
+          <Link href="/calendario" className={`${BOTON} bg-pink-600/20 hover:bg-pink-600/40 text-pink-300 border-pink-500/30`}>
+            <CalendarHeart size={16} /> Calendario Real
           </Link>
           <button onClick={onBuscar} title="Buscar (Ctrl + K)" className={`${BOTON} bg-white/5 hover:bg-white/10 text-gray-200 border-white/10`}>
             <Search size={16} /> Buscar

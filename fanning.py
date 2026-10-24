@@ -129,6 +129,13 @@ def cmd_ids(args):
 def cmd_realeza(args):
     import realeza_tmdb
     correr(realeza_tmdb, *(['--rehacer'] if args.rehacer else []))
+    import personajes
+    correr(personajes)  # la Galería de Personajes usa los mismos créditos
+
+
+def cmd_personajes(args):
+    import personajes
+    correr(personajes)
 
 
 def cmd_citas(args):
@@ -244,6 +251,9 @@ def main():
     p = sub.add_parser('realeza', help='fotos de la Realeza y en qué títulos participa cada artista (TMDB)')
     p.add_argument('--rehacer', action='store_true', help='vuelve a pedir las fotos y las fechas de nacimiento')
     p.set_defaults(fn=cmd_realeza)
+
+    p = sub.add_parser('personajes', help='a quién interpreta cada artista de la Realeza en cada título (TMDB)')
+    p.set_defaults(fn=cmd_personajes)
 
     p = sub.add_parser('citas', help='verifica las citas de la Realeza contra los subtítulos y anota dónde están')
     p.set_defaults(fn=cmd_citas)

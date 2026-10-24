@@ -44,6 +44,8 @@ REALEZA = os.path.join(CARPETA, 'realeza.json')
 POSTERS = os.path.join(CARPETA, 'posters.json')
 # Lo planificado donde participa alguien de la Realeza, para el "Próximamente" de la página.
 PROXIMAMENTE = os.path.join(DATA, 'proximamente.json')
+# Las tandas planificadas tal como están en el txt, para el Álbum y el Calendario de la página.
+TANDAS_FUTURAS = os.path.join(DATA, 'tandas_futuras.json')
 REPORTE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'reporte_proyeccion.md')
 TXT = os.path.join(RAIZ, 'información para proyección 2027.txt')
 
@@ -823,6 +825,58 @@ def main():
         f.write('\n'.join(md) + '\n')
     print(f'Listo: {rel(REPORTE)}')
     escribir_proximamente(items, plan, tm, realeza)
+    escribir_tandas_futuras(cat, tm)
+
+
+def escribir_tandas_futuras(cat, tm):
+    """data/tandas_futuras.json: las tandas del txt que todavía no están en la línea de tiempo.
+
+    Van como están escritas (no la propuesta de reacomodo), con el póster de cada título: el de su
+    ficha si ya tiene, si no el de TMDB (guardado en datos_proyeccion/posters.json).
+    """
+    import fichas as F
+    linea = cargar(os.path.join(DATA, 'timeline.json'), {}).get('tandas', [])
+    hechas = {(t['numero'], t['parte']) for t in linea}
+    fichas, _, _ = F.cargar(estricto=False)
+    de_ficha = {normalizar(f['titulo']): f.get('poster') for f in fichas}
+    por_tmdb = {normalizar(n): n for n in tm}
+    posters = cargar(POSTERS, {})
+
+    def base(texto):
+        # "Kick Buttowski (Temp 1 EP 1-5)" -> "Kick Buttowski"; "(Part II)" es parte del nombre.
+        return re.sub(r'\s*\([^()]*\b(?:EP|Temp)\b[^()]*\)\s*$', '', texto, flags=re.I).strip()
+
+    def poster(nombre):
+        n = normalizar(nombre)
+        if de_ficha.get(n):
+            return de_ficha[n]
+        if nombre in posters:
+            return posters[nombre]
+        parecido = difflib.get_close_matches(n, list(por_tmdb), n=1, cutoff=0.85)
+        f = tm.get(por_tmdb[parecido[0]]) if parecido else None
+        posters[nombre] = None
+        if f and f.get('id'):
+            try:
+                from episodios_tmdb import tmdb, IMG
+                d = tmdb(f"{'movie' if f.get('tipo') == 'movie' else 'tv'}/{f['id']}")
+                posters[nombre] = IMG + d['poster_path'] if d and d.get('poster_path') else None
+            except (Exception, SystemExit) as e:   # sin clave o sin red: la lámina queda sin póster
+                print(f'  Pósters: no se pudo pedir {nombre} a TMDB ({e})')
+        return posters[nombre]
+
+    salida = []
+    for t in sorted((t for t in cat['tandas'] if t['fecha']), key=lambda t: (t['fecha'], t['parte'])):
+        if (t['numero'], t['parte'] or None) in hechas:
+            continue
+        salida.append({
+            'id': t['id'], 'numero': t['numero'], 'parte': t['parte'] or None, 'fecha': t['fecha'].isoformat(),
+            'porConfirmar': t['por_confirmar'],
+            'items': [{'texto': x, 'titulo': base(x), 'poster': poster(base(x))} for x in t['items']],
+        })
+    guardar(POSTERS, posters)
+    with open(TANDAS_FUTURAS, 'w', encoding='utf-8') as f:
+        json.dump(salida, f, ensure_ascii=False, indent=1)
+    print(f'Tandas futuras: {len(salida)} en {rel(TANDAS_FUTURAS)}')
 
 
 def escribir_proximamente(items, plan, tm, realeza):

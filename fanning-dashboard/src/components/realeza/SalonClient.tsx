@@ -1,7 +1,7 @@
 "use client";
 
 import Link from 'next/link';
-import { ArrowLeft, Crown, Heart, Sparkles, Stars } from 'lucide-react';
+import { ArrowLeft, Crown, Drama, Heart, Sparkles, Stars } from 'lucide-react';
 import { miles } from '@/lib/formato';
 import { agrupar, type IdGrupo } from '@/lib/realeza';
 import CartaReal, { type ArtistaSalon } from '@/components/realeza/CartaReal';
@@ -46,7 +46,7 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
       <Particulas />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
-        <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
+        <Link transitionTypes={['atras']} href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-6 text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al inicio
         </Link>
 
@@ -78,6 +78,10 @@ export default function SalonClient({ artistas, podio, titulosConRealeza, palabr
           <Link href="/realeza/casa-fanning"
             className="mt-6 ml-3 inline-flex items-center gap-2 rounded-full border border-pink-300/30 bg-pink-500/10 hover:bg-pink-500/20 text-pink-200 px-4 py-2 text-sm font-medium transition">
             <Heart size={16} aria-hidden /> La Casa Fanning
+          </Link>
+          <Link href="/realeza/personajes"
+            className="mt-6 ml-3 inline-flex items-center gap-2 rounded-full border border-amber-300/30 bg-amber-500/10 hover:bg-amber-500/20 text-amber-200 px-4 py-2 text-sm font-medium transition">
+            <Drama size={16} aria-hidden /> Galería de Personajes
           </Link>
         </header>
 

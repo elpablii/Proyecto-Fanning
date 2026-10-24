@@ -125,8 +125,10 @@ export function getDiccionario(): Diccionario {
 }
 
 // Por cada palabra del diccionario (mismo orden), las líneas de los subtítulos donde apareció:
-// [índice de título, episodio, segundo, texto]. Las genera scripts/metricas/contexto.py.
-export type FraseDiccionario = [number, string | null, number | null, string];
+// [índice de título, episodio, segundo, texto, inicio y fin de la entrada en el texto, veces que se
+// dice en el título o el episodio, 1 si no estaba tal cual y es una línea parecida].
+// Las genera scripts/metricas/contexto.py.
+export type FraseDiccionario = [number, string | null, number | null, string, number | null, number | null, number, 1?];
 
 export function getFrasesDiccionario(): FraseDiccionario[][] {
   return leer<FraseDiccionario[][]>('diccionario_frases.json') ?? [];
@@ -252,4 +254,37 @@ export function getTandasPorTitulo(): Map<string, TandasDeTitulo> {
     }
   }
   return mapa;
+}
+
+// Las tandas planificadas que todavía no están en la línea de tiempo, tal como están en el txt de
+// planificación (las escribe scripts/metricas/proyeccion.py). Las usan el Álbum y el Calendario.
+export interface ItemFuturo {
+  texto: string;              // como está en el txt: "Kick Buttowski (Temp 1 EP 1-5)"
+  titulo: string;             // sin los episodios: "Kick Buttowski"
+  poster: string | null;
+}
+
+export interface TandaFutura {
+  id: string;                 // "74", "100a"
+  numero: number;
+  parte: string | null;
+  fecha: string;              // "2027-01-14"
+  porConfirmar: boolean;
+  items: ItemFuturo[];
+}
+
+export function getTandasFuturas(): TandaFutura[] {
+  return leer<TandaFutura[]>('tandas_futuras.json') ?? [];
+}
+
+// A quién interpreta cada artista en cada título (python fanning.py personajes). "aparece" sin
+// personajes es una aparición como sí mismo (documentales, conciertos).
+export interface PapelPersonaje {
+  titulo: string;
+  personajes: string[];
+  papel: 'actua' | 'voz' | 'aparece';
+}
+
+export function getPersonajes(): Record<string, PapelPersonaje[]> {
+  return leer<Record<string, PapelPersonaje[]>>('personajes.json') ?? {};
 }

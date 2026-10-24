@@ -12,7 +12,7 @@ export interface Artista {
   foto?: string;
   nacimiento?: string;        // "1952-06-07"
   fallecimiento?: string;
-  cita?: CitaArtista;
+  citas?: CitaArtista[];      // la primera es la principal (su página, la Casa Fanning)
 }
 
 // Una línea de diálogo del artista, elegida a mano y verificada contra los subtítulos
@@ -195,13 +195,20 @@ function mcd(a: number, b: number): number {
   return b ? mcd(b, a % b) : a;
 }
 
-export function delDia<T extends Artista>(artistas: T[], hoy: string, conTitulos: (a: T) => boolean): T | null {
+// El número del día (días desde 1970), igual en el build y en el navegador.
+export function numeroDeDia(hoy: string): number {
   const [a, m, d] = hoy.split('-').map(Number);
-  const dia = Math.floor(Date.UTC(a, m - 1, d) / 86_400_000);
+  return Math.floor(Date.UTC(a, m - 1, d) / 86_400_000);
+}
+
+// Quién está de turno y cuántas veces le ha tocado antes (vuelta): a cada uno le toca una vez
+// cada turno.length días, así que con la vuelta sus citas se van turnando de a una.
+export function delDia<T extends Artista>(artistas: T[], hoy: string, conTitulos: (a: T) => boolean): { artista: T; vuelta: number } | null {
+  const dia = numeroDeDia(hoy);
   const cumpleaneros = artistas.filter(x => cumpleHoy(x, hoy));
   const turno = cumpleaneros.length ? cumpleaneros : artistas.filter(conTitulos);
   if (!turno.length) return null;
   // Un paso que no divida al total, para que el turno no se salte a nadie.
   const paso = [7, 11, 13, 17, 19, 23].find(p => mcd(p, turno.length) === 1) ?? 1;
-  return turno[(dia * paso) % turno.length];
+  return { artista: turno[(dia * paso) % turno.length], vuelta: Math.floor(dia / turno.length) };
 }

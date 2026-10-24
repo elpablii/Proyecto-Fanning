@@ -133,6 +133,37 @@ def test_vocabulario_cabecera_con_temporada():
     assert [x['episodio'] for x in e] == ['S03E01', 'S03E02'] and not avisos
 
 
+def test_agrupar_plurales_y_mismo_sentido():
+    import ranking
+    e = [{'word': 'Tenant', 'translation': 'inquilino'}, {'word': 'Tenants', 'translation': 'inquilinos'},
+         {'word': 'Despair (sustantivo)', 'translation': 'desesperación'}, {'word': 'Despair (verbo)', 'translation': 'desesperarse'},
+         {'word': 'Play (verbo)', 'translation': 'jugar'}, {'word': 'Play (sustantivo)', 'translation': 'obra'}]
+    g = ranking.agrupar(e)
+    assert g[0] == g[1] and g[2] == g[3] and g[4] != g[5]
+
+
+def test_contexto_terminaciones_regulares():
+    import contexto
+    subs = [(None, 10, 0, 'Relax. No one gets here till ten.'), (None, 20, 0, 'I relied on you, honey.')]
+    r = contexto.contextos(subs, [(None, 'Rely (verbo)'), (None, 'Hone (verbo)')])
+    assert len(r) == 1 and r[0][2] == 20 and r[0][3][r[0][4]:r[0][5]] == 'relied'
+
+
+def test_contexto_sigue_el_orden_del_vocabulario():
+    import contexto
+    lineas = ['I need some shrimp.', 'The ocean is huge.', 'Where is the lighthouse?', 'More shrimp, please!']
+    subs = [(None, n * 10, 0, t) for n, t in enumerate(lineas)]
+    r = contexto.contextos(subs, [(None, 'Ocean'), (None, 'Lighthouse'), (None, 'Shrimp')])
+    assert [x[2] for x in r] == [10, 20, 30] and r[2][6] == 2
+
+
+def test_contexto_frase_anotada_con_otras_palabras():
+    import contexto
+    subs = [(None, 0, 0, 'Hi.'), (None, 5, 0, 'She was with her friends at the mall.')]
+    r = contexto.contextos(subs, [(None, 'Maddy was with her friends'), (None, 'Purple elephants dance tonight')])
+    assert len(r) == 1 and r[0][3][r[0][4]:r[0][5]] == 'was with her friends' and r[0][7] == 1
+
+
 if __name__ == '__main__':
     for nombre, f in list(globals().items()):
         if nombre.startswith('test_'):

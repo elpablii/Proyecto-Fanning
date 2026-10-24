@@ -15,9 +15,39 @@
         "translation": "espeluznante"
       },
       {
+        "word": "Scratch (verbo)",
+        "count": 16,
+        "translation": "rascar"
+      },
+      {
         "word": "Break down",
-        "count": 14,
+        "count": 15,
         "translation": "romper, descomponer"
+      },
+      {
+        "word": "Come through",
+        "count": 13,
+        "translation": "pasar, venir"
+      },
+      {
+        "word": "Despair",
+        "count": 13,
+        "translation": "desesperación"
+      },
+      {
+        "word": "Yelp (verbo)",
+        "count": 13,
+        "translation": "quejarse"
+      },
+      {
+        "word": "Whoop (verbo)",
+        "count": 12,
+        "translation": "gritar"
+      },
+      {
+        "word": "Creep",
+        "count": 11,
+        "translation": "asqueroso (alusivo a alguien)"
       },
       {
         "word": "Rely (verbo)",
@@ -25,39 +55,9 @@
         "translation": "confiar, depender"
       },
       {
-        "word": "Come through",
-        "count": 10,
-        "translation": "pasar, venir"
-      },
-      {
-        "word": "Despair",
-        "count": 10,
-        "translation": "desesperación"
-      },
-      {
-        "word": "Get through",
-        "count": 10,
-        "translation": "pasar"
-      },
-      {
-        "word": "Landlord",
-        "count": 9,
-        "translation": "propietario, arrendador, terrateniente"
-      },
-      {
-        "word": "Snort (verbo)",
-        "count": 9,
-        "translation": "resoplar"
-      },
-      {
-        "word": "Wind up",
-        "count": 9,
-        "translation": "acabar, terminar"
-      },
-      {
-        "word": "Back up (en algunos contextos)",
-        "count": 8,
-        "translation": "retroceder, dar marcha atrás"
+        "word": "Rumble (verbo)",
+        "count": 11,
+        "translation": "retumbar"
       }
     ],
     "movieList": [
@@ -10220,7 +10220,7 @@
       {
         "word": "Crumble",
         "count": 2,
-        "translation": "desmoronarse, derrumbarse"
+        "translation": "desmoronar, derrumbarse"
       },
       {
         "word": "Diffuse (verbo)",
@@ -10231,6 +10231,11 @@
         "word": "Drop",
         "count": 2,
         "translation": "soltar, dejar caer, caer"
+      },
+      {
+        "word": "Fate",
+        "count": 2,
+        "translation": "destino, suerte"
       },
       {
         "word": "Flip",
@@ -10248,19 +10253,14 @@
         "translation": "bajar, descenderse"
       },
       {
+        "word": "Go on",
+        "count": 2,
+        "translation": "continúa, prosigue, sigue adelante"
+      },
+      {
         "word": "Hang (verbo)",
         "count": 2,
         "translation": "colgar, suspender, ahorcar"
-      },
-      {
-        "word": "Likable",
-        "count": 2,
-        "translation": "agradable, simpático"
-      },
-      {
-        "word": "On top of",
-        "count": 2,
-        "translation": "encima de"
       }
     ],
     "movieList": [
@@ -10452,13 +10452,13 @@
     "totalDialogues": 82538,
     "topWord": {
       "word": "Come through",
-      "count": 7,
+      "count": 8,
       "translation": "pasar (un lugar)"
     },
     "topList": [
       {
         "word": "Come through",
-        "count": 7,
+        "count": 8,
         "translation": "pasar (un lugar)"
       },
       {
@@ -10477,6 +10477,21 @@
         "translation": "resoplar"
       },
       {
+        "word": "Squeak (verbo)",
+        "count": 7,
+        "translation": "chillar, crujir, chirriar"
+      },
+      {
+        "word": "Catch (verbo)",
+        "count": 6,
+        "translation": "atrapar, atajar"
+      },
+      {
+        "word": "Ditch (verbo)",
+        "count": 6,
+        "translation": "abandonar, deshacerse de"
+      },
+      {
         "word": "Gasp (verbo)",
         "count": 6,
         "translation": "jadear, respirar hondo"
@@ -10487,24 +10502,9 @@
         "translation": "gruñir"
       },
       {
-        "word": "Squeak (verbo)",
+        "word": "Sniff (verbo)",
         "count": 6,
-        "translation": "chillar, crujir, chirriar"
-      },
-      {
-        "word": "Squeal (verbo)",
-        "count": 6,
-        "translation": "chillar, chirriar"
-      },
-      {
-        "word": "Stammer (verbo)",
-        "count": 6,
-        "translation": "tartamudear, balbucear"
-      },
-      {
-        "word": "Stand (verbo)",
-        "count": 6,
-        "translation": "pararse, ponerse de pie, soportar, tolerar"
+        "translation": "oler, esnifar"
       }
     ],
     "movieList": [
@@ -12473,11 +12473,26 @@
     "uniqueMovies": 63,
     "totalDialogues": 133371,
     "topWord": {
-      "word": "Creepy",
-      "count": 9,
-      "translation": "espeluznante"
+      "word": "Scratch (verbo)",
+      "count": 11,
+      "translation": "rascar, rayar, rasguñar, arañar"
     },
     "topList": [
+      {
+        "word": "Scratch (verbo)",
+        "count": 11,
+        "translation": "rascar, rayar, rasguñar, arañar"
+      },
+      {
+        "word": "Bid (verbo)",
+        "count": 9,
+        "translation": "ofertar, pujar"
+      },
+      {
+        "word": "Break down",
+        "count": 9,
+        "translation": "romper, descomponer"
+      },
       {
         "word": "Creepy",
         "count": 9,
@@ -12489,44 +12504,29 @@
         "translation": "confiar, depender"
       },
       {
-        "word": "Break down",
-        "count": 8,
-        "translation": "romper, descomponer"
-      },
-      {
         "word": "Thus (adverbio)",
-        "count": 6,
+        "count": 7,
         "translation": "así, de este modo, por lo tanto"
       },
       {
-        "word": "Apiece",
-        "count": 5,
-        "translation": "cada uno"
-      },
-      {
-        "word": "Bold",
-        "count": 5,
-        "translation": "audaz, atrevido"
-      },
-      {
         "word": "Crawl (verbo)",
-        "count": 5,
+        "count": 6,
         "translation": "arrastrarse"
       },
       {
-        "word": "Maid",
-        "count": 5,
-        "translation": "criada, sirvienta"
+        "word": "Doodle",
+        "count": 6,
+        "translation": "garabato, esbozo"
       },
       {
-        "word": "Narrow down",
-        "count": 5,
-        "translation": "reducir, estrechar, acotar, achicar"
+        "word": "Props",
+        "count": 6,
+        "translation": "atrezzo, accesorios"
       },
       {
-        "word": "Offspring",
-        "count": 5,
-        "translation": "descendencia"
+        "word": "Stuff (verbo)",
+        "count": 6,
+        "translation": "llenar, rellenar"
       }
     ],
     "movieList": [
@@ -15653,6 +15653,11 @@
         "translation": "propietario, arrendador, terrateniente"
       },
       {
+        "word": "Fool around",
+        "count": 6,
+        "translation": "tontear"
+      },
+      {
         "word": "Wind up",
         "count": 6,
         "translation": "acabar, terminar"
@@ -15661,6 +15666,16 @@
         "word": "Bug (verbo)",
         "count": 5,
         "translation": "molestar"
+      },
+      {
+        "word": "Bump",
+        "count": 5,
+        "translation": "bache"
+      },
+      {
+        "word": "Debriefing",
+        "count": 5,
+        "translation": "informe, sesión informativa"
       },
       {
         "word": "Fool (verbo)",
@@ -15680,22 +15695,7 @@
       {
         "word": "Layover",
         "count": 5,
-        "translation": "escala"
-      },
-      {
-        "word": "Outstanding",
-        "count": 5,
-        "translation": "destacado, sobresaliente, excelente"
-      },
-      {
-        "word": "Pull away",
-        "count": 5,
-        "translation": "alejarse"
-      },
-      {
-        "word": "Trim (verbo)",
-        "count": 5,
-        "translation": "recortar"
+        "translation": "escala, parada"
       }
     ],
     "movieList": [
@@ -19073,11 +19073,21 @@
     "uniqueMovies": 30,
     "totalDialogues": 75314,
     "topWord": {
-      "word": "Chomp (verbo)",
-      "count": 4,
-      "translation": "masticar/morder con fuerza"
+      "word": "Rumbling",
+      "count": 7,
+      "translation": "retumbante"
     },
     "topList": [
+      {
+        "word": "Rumbling",
+        "count": 7,
+        "translation": "retumbante"
+      },
+      {
+        "word": "Lingonberry",
+        "count": 5,
+        "translation": "arándano rojo"
+      },
       {
         "word": "Chomp (verbo)",
         "count": 4,
@@ -19089,9 +19099,14 @@
         "translation": "callejón sin salida"
       },
       {
-        "word": "Lingonberry",
-        "count": 4,
-        "translation": "arándano rojo"
+        "word": "A liability",
+        "count": 3,
+        "translation": "un lastre, un problema"
+      },
+      {
+        "word": "Creep",
+        "count": 3,
+        "translation": "asqueroso"
       },
       {
         "word": "Creepy",
@@ -19109,24 +19124,9 @@
         "translation": "barranco"
       },
       {
-        "word": "Junkie",
+        "word": "Jest",
         "count": 3,
-        "translation": "adicto, drogadicto"
-      },
-      {
-        "word": "Neat",
-        "count": 3,
-        "translation": "genial"
-      },
-      {
-        "word": "Preposterous",
-        "count": 3,
-        "translation": "absurdo, ridículo"
-      },
-      {
-        "word": "Put up with",
-        "count": 3,
-        "translation": "aguantar, soportar, tolerar"
+        "translation": "broma"
       }
     ],
     "movieList": [

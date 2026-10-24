@@ -43,9 +43,10 @@ Borra su ficha de `contenido/titulos/` y corre `actualizar.py --escribir`. Sus d
 La lista está en `contenido/realeza.json` (nombre, `reina` o `rey`, `rango` `supremo` o `platonico` y el id de TMDB). Para sumar a alguien, agrega un bloque y corre:
 ```
 python fanning.py realeza       # foto, nacimiento y en qué títulos participa (créditos de TMDB)
+python fanning.py personajes    # solo los personajes (realeza ya lo corre)
 python fanning.py actualizar
 ```
-Cada ficha queda con `"realeza": {"Margot Robbie": ["actua", "produce"]}`: quién participa y cómo, según todos sus créditos en TMDB (actuación, voz, apariciones como sí mismo, producción, música, guion, dirección). Ese campo se reescribe en cada corrida.
+Cada ficha queda con `"realeza": {"Margot Robbie": ["actua", "produce"]}`: quién participa y cómo, según todos sus créditos en TMDB (actuación, voz, apariciones como sí mismo, producción, música, guion, dirección). Ese campo se reescribe en cada corrida. Además deja `fanning-dashboard/data/personajes.json`, con el nombre de cada personaje que interpreta (para la Galería de Personajes, `/realeza/personajes`); lo escribe `personajes.py`.
 
 TMDB casi nunca registra las canciones que suenan en una película. Esas, y cualquier otra cosa que TMDB no sepa, van a mano en `"realeza_manual"` de la ficha, con el mismo formato:
 ```json
@@ -54,9 +55,12 @@ TMDB casi nunca registra las canciones que suenan en una película. Esas, y cual
 
 ### Citas
 
-Cada artista puede tener una cita (una línea de diálogo de su personaje), que la página muestra en su portada y en la Reina o Rey del día. Se escribe a mano en `contenido/realeza.json`, con el título exacto de la ficha:
+Cada artista puede tener varias citas (líneas de diálogo de sus personajes). La primera es la principal: la que muestran su página (con un botón "Otra cita" para ver las demás) y la Casa Fanning; la Reina o Rey del día las va rotando, una distinta cada vez que le toca. Se escriben a mano en `contenido/realeza.json`, con el título exacto de la ficha:
 ```json
-"cita": {"texto": "You guys ever think about dying?", "titulo": "Barbie", "personaje": "Barbie"}
+"citas": [
+  {"texto": "You guys ever think about dying?", "titulo": "Barbie", "personaje": "Barbie"},
+  {"texto": "We're bad guys. It's what we do.", "titulo": "Escuadrón Suicida", "personaje": "Harley Quinn"}
+]
 ```
 Los subtítulos no dicen quién habla, así que la frase se elige a mano. Después se corre `python fanning.py citas`, que confirma que la frase está en los subtítulos de ese título (sin importar mayúsculas ni puntuación) y anota `episodio` y `segundo`. Si no la encuentra, lo avisa y termina con error.
 Los papeles posibles son `actua`, `voz`, `aparece`, `musica` (canta, compone o es coautor de una canción que suena), `produce`, `escribe`, `dirige` y `equipo`.
@@ -111,14 +115,14 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 | `actualizar.py` | Cuenta y genera todo lo que lee la página. |
 | `buscar_ids_tmdb.py` | Busca el id de TMDB de las fichas que no lo tienen (`python fanning.py ids`). |
 | `posters_tmdb.py` / `episodios_tmdb.py` | Traen imágenes y sinopsis de TMDB a las fichas. La clave va en `fanning-dashboard/.env.local`. |
-| `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". |
+| `conteo.py` / `ranking.py` | Reglas de conteo y de "palabras más repetidas". `ranking.py` también decide qué entradas son la misma palabra (plurales, conjugaciones y traducciones en el mismo sentido); lo que no ve solo se corrige a mano en `contenido/agrupaciones.json` (`juntar` sinónimos, `separar` lo que se juntó por parecido). |
 | `nivel.py` + `datos_nivel/` | Nivel de inglés (MCER) de cada título y episodio. `datos_nivel/` tiene las listas CEFR-J y Octanove (con su licencia) y `temas.json`, las áreas especializadas, que se puede editar. Criterio en `Metodología/Criterio de nivel de inglés (MCER).txt`. `nivel_fijo` en una ficha fuerza un nivel a mano. |
 | `citas.py` | Verifica las citas de la Realeza contra los subtítulos (`python fanning.py citas`, ver "Citas"). |
 | `colores.py` | El color de cada título, sacado de su póster, para teñir su ficha (`python fanning.py colores`). La ficha puede traer `"color"` a mano, que manda. |
 | `origen_tmdb.py` | Géneros y fecha de estreno de cada título, desde TMDB (`python fanning.py origen`). Quedan en la ficha (`"generos"`, `"estreno"`) y se pueden corregir a mano. Los usa "Géneros y Épocas". |
 | `diccionario.py` | El Diccionario Fanning (`data/diccionario.json`): todas las palabras, agrupadas como en `ranking.py`, con sus títulos, la tanda en que se aprendieron y sus etiquetas; y `data/diccionario_frases.json`, la línea de los subtítulos de cada una (para la página de cada palabra). Lo corren `actualizar`, `tandas` y `contextos`. |
 | `etiquetas.py` | Convierte la nota del final de cada entrada ("(verbo)", "(frase no literal)") en etiquetas y contexto. Los nombres y definiciones están en `fanning-dashboard/src/lib/etiquetas.ts`. Solo, lista las notas que no reconoce: `python scripts/metricas/etiquetas.py`. |
-| `contexto.py` | La frase original: busca cada entrada del vocabulario en los subtítulos de su título (`data/contextos.json`). Lo corre `actualizar`; solo, relee todos los diálogos: `python fanning.py contextos`. |
+| `contexto.py` | La frase original: busca cada entrada del vocabulario en los subtítulos de su título (`data/contextos.json`), siguiendo el orden del vocabulario (si se dice varias veces, la vez que cae entre sus vecinas) y aceptando frases anotadas con otras palabras. Lo corre `actualizar`; solo, relee todos los diálogos: `python fanning.py contextos`. |
 | `verificar_dialogos.py` / `revisar_ortografia.py` | Revisiones: diálogos página por página, ortografía de los vocabularios. Escriben en `verificaciones/` (no se guarda en Git). |
 | `test_conteo.py` / `test_nivel.py` | Pruebas: `python fanning.py probar`. |
 
@@ -129,6 +133,6 @@ Un PDF de diálogos que es un episodio completo sin marcadores adentro se indica
 - una propuesta de reacomodo hecha por `planificador.py`;
 - la capacidad de los años siguientes.
 
-También deja `fanning-dashboard/data/proximamente.json`: lo planificado donde participa alguien de la Realeza (según el elenco de TMDB y `realeza_manual` de `ajustes.json`), que la página muestra como "Próximamente" en cada artista. Los pósters se piden a TMDB una vez y quedan en `datos_proyeccion/posters.json`. Hay que volver a correrlo cuando cambie el txt.
+También deja `fanning-dashboard/data/proximamente.json`: lo planificado donde participa alguien de la Realeza (según el elenco de TMDB y `realeza_manual` de `ajustes.json`), que la página muestra como "Próximamente" en cada artista. Los pósters se piden a TMDB una vez y quedan en `datos_proyeccion/posters.json`. Además deja `fanning-dashboard/data/tandas_futuras.json`: las tandas del txt que todavía no están en la línea de tiempo, tal como están escritas, con el póster de cada título (las usan el Álbum Fanning y el Calendario Real). Hay que volver a correrlo cuando cambie el txt.
 
 Las correcciones al txt van en `datos_proyeccion/ajustes.json`. El plan completo está en `PLAN_PROYECCIONES_2027.md`.

@@ -2,7 +2,7 @@
 
 import { useRef, useState, ViewTransition } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, BookOpen, CalendarClock, Clock, Crown, Film, GraduationCap, Heart, Layers, MessageSquare, Sparkles, Tv, Users } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, CalendarClock, Clock, Crown, Film, GraduationCap, Heart, Layers, MessageSquare, Quote, Sparkles, Tv, Users } from 'lucide-react';
 import { duracion, miles, porcentaje } from '@/lib/formato';
 import { tmdb } from '@/lib/tmdb';
 import {
@@ -118,6 +118,12 @@ export default function ArtistaClient({
 
   const hayTitulos = stats.titulos.length > 0;
 
+  // Sus citas: primero la principal; "Otra cita" pasa a la siguiente.
+  const citas = artista.citas ?? [];
+  const [nCita, setNCita] = useState(0);
+  const cita = citas[nCita % Math.max(citas.length, 1)];
+  const fichaCita = cita && stats.titulos.find(x => x.title === cita.titulo);
+
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100 font-sans relative overflow-x-hidden pb-20">
       {/* Fondo: su foto difuminada y la aurora de su grupo */}
@@ -131,7 +137,7 @@ export default function ArtistaClient({
 
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10">
         <nav className="flex flex-wrap items-center justify-between gap-3 mb-8 text-sm font-medium">
-          <Link href={`/realeza#${slug}`} className="inline-flex items-center text-gray-400 hover:text-white transition">
+          <Link transitionTypes={['atras']} href={`/realeza#${slug}`} className="inline-flex items-center text-gray-400 hover:text-white transition">
             <ArrowLeft size={16} className="mr-2" /> Volver al Salón del Trono
           </Link>
           <Link href="/" className="text-gray-500 hover:text-white transition">Inicio</Link>
@@ -193,10 +199,15 @@ export default function ArtistaClient({
           </Link>
         )}
 
-        {artista.cita && (
+        {cita && (
           <div className="mb-14 animate-fade-in">
-            <CitaReal cita={artista.cita} grande color={acento.texto}
-              href={(() => { const t = stats.titulos.find(x => x.title === artista.cita!.titulo); return t ? hrefTitulo(t) : undefined; })()} />
+            <CitaReal key={nCita} cita={cita} grande color={acento.texto} href={fichaCita ? hrefTitulo(fichaCita) : undefined} />
+            {citas.length > 1 && (
+              <button onClick={() => setNCita(n => n + 1)}
+                className="mx-auto mt-4 flex items-center gap-1.5 rounded-full border border-white/10 bg-white/[0.03] hover:bg-white/10 px-3 py-1.5 text-xs text-gray-300 transition">
+                <Quote size={12} aria-hidden /> Otra cita <span className="text-gray-500">({nCita % citas.length + 1}/{citas.length})</span>
+              </button>
+            )}
           </div>
         )}
 

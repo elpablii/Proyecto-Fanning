@@ -20,7 +20,7 @@ export default function MediaShell({ backdropUrl, rating, tipo, color, children 
 
   const volver = () => {
     if (window.history.length > 1 && document.referrer.includes(window.location.host)) router.back();
-    else router.push('/');
+    else router.push('/', { transitionTypes: ['atras'] });
   };
 
   return (

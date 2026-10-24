@@ -46,8 +46,10 @@ function Confeti() {
 
 export default function ReinaDelDia({ candidatos, hoy }: { candidatos: CandidatoDelDia[]; hoy: string }) {
   const hoyNavegador = useHoy(hoy);
-  const elegido = delDia(candidatos, hoyNavegador, a => a.titulos > 0);
-  if (!elegido) return null;
+  const turno = delDia(candidatos, hoyNavegador, a => a.titulos > 0);
+  if (!turno) return null;
+  const elegido = turno.artista;
+  const cita = elegido.citas?.length ? elegido.citas[turno.vuelta % elegido.citas.length] : null;
 
   const grupo = grupoDe(elegido);
   const estilo = ESTILO[grupo];
@@ -85,11 +87,11 @@ export default function ReinaDelDia({ candidatos, hoy }: { candidatos: Candidato
           </h2>
           <p className="text-gray-400 text-sm mt-1">{NOMBRE_RANGO[grupo]} del Proyecto Fanning</p>
           <Cumpleanos artista={elegido} hoy={hoyNavegador} className="mt-2 text-xs sm:text-sm" />
-          {elegido.cita && (
+          {cita && (
             <p className="mt-3 max-w-xl text-sm text-gray-200 italic line-clamp-2" lang="en"
-              title={`${elegido.cita.personaje}, en ${lugarCita(elegido.cita)}`}>
-              “{elegido.cita.texto}”
-              <span className="not-italic text-xs text-gray-500"> — {elegido.cita.personaje}</span>
+              title={`${cita.personaje}, en ${lugarCita(cita)}`}>
+              “{cita.texto}”
+              <span className="not-italic text-xs text-gray-500"> — {cita.personaje}</span>
             </p>
           )}
           <p className="mt-3 text-sm text-gray-300">

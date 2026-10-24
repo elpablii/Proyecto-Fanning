@@ -169,3 +169,34 @@ Nada de esto guarda qué palabras sé y cuáles no (ver la nota de la sección 4
 14. Pronunciación con la voz del navegador.
 15. Exportar lo filtrado a CSV o Anki.
 16. Búsqueda tolerante a errores ("creapy" encuentra "creepy").
+
+============================================================
+7. CALENDARIO REAL  (elegida el 24/10/2026)  [HECHO el 24/10/2026]
+============================================================
+El año en una sola vista: cumpleaños de la Realeza, Halloween y Navidad
+(contenido temático obligatorio) y las tandas proyectadas (una cada 13–14
+días). Sirve para ver qué cumpleaños cae cerca de qué tanda (regla flexible).
+[HECHO: /calendario, con los 12 meses, el detalle de cada día, "Lo que viene"
+y la lista de cumpleaños del año con su tanda más cercana]
+
+============================================================
+8. GALERÍA DE PERSONAJES  (elegida el 24/10/2026)  [HECHO el 24/10/2026]
+============================================================
+Cada artista de la Realeza con los personajes que interpretó en el proyecto
+(nombre del papel y foto), como cartas coleccionables. El nombre del papel
+sale del campo "character" del reparto de TMDB.
+[HECHO: /realeza/personajes, una carta por personaje (si es el mismo en varios
+títulos, una sola carta con todos), filtro por artista, buscador y orden por
+aparición. Los nombres los trae "python fanning.py personajes" (también corre
+dentro de "realeza") en data/personajes.json]
+
+============================================================
+9. ÁLBUM DE LÁMINAS  (elegida el 24/10/2026)  [HECHO el 24/10/2026]
+============================================================
+/album: el proyecto como álbum de láminas tipo Panini. Cada tanda es una página
+y cada título una lámina numerada (#001 Barbie), con rareza: brillante rosa
+(Amor Platónico), dorada (Rey Supremo) o plateada (resto de la Realeza).
+Secciones por ciclo con su avance, "Mis repetidas" (las series que entran en
+varias tandas) y las tandas planificadas de 2027 como espacios por pegar.
+Las láminas se voltean y muestran sus datos. Las tandas futuras salen de
+data/tandas_futuras.json, que escribe proyeccion.py.

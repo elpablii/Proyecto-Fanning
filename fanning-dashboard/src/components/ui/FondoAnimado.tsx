@@ -12,6 +12,8 @@ export const PALETAS = {
   ritmo: ['var(--color-cyan-500)', 'var(--color-pink-500)', 'var(--color-violet-500)'],
   fanning: ['var(--color-pink-500)', 'var(--color-rose-500)', 'var(--color-violet-500)'],
   generos: ['var(--color-violet-500)', 'var(--color-fuchsia-500)', 'var(--color-amber-500)'],
+  calendario: ['var(--color-pink-500)', 'var(--color-sky-500)', 'var(--color-amber-500)'],
+  album: ['var(--color-emerald-500)', 'var(--color-amber-500)', 'var(--color-rose-500)'],
   // Las fichas de artista, según su grupo de la Realeza
   supremos: ['var(--color-amber-500)', 'var(--color-yellow-500)', 'var(--color-orange-500)'],
   platonicos: ['var(--color-pink-500)', 'var(--color-fuchsia-500)', 'var(--color-rose-500)'],

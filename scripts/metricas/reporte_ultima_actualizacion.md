@@ -6,21 +6,20 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 
 | Métrica | Antes | Ahora |
 |---|---:|---:|
-| Palabras y frases | 37,549 | 37,650 |
-| Líneas de diálogo | 459,711 | 461,019 |
-| Títulos visibles | 203 | 204 |
+| Palabras y frases | 37,650 | 37,650 |
+| Líneas de diálogo | 461,019 | 461,019 |
+| Títulos visibles | 204 | 204 |
 | 2023: palabras / diálogos | 1,093 / 8,327 | 1,093 / 8,327 |
 | 2024: palabras / diálogos | 8,832 / 82,538 | 8,832 / 82,538 |
 | 2025: palabras / diálogos | 11,019 / 133,371 | 11,019 / 133,371 |
 | 2026: palabras / diálogos | 11,613 / 161,469 | 11,613 / 161,469 |
-| 2027: palabras / diálogos | 4,992 / 74,006 | 5,093 / 75,314 |
+| 2027: palabras / diálogos | 5,093 / 75,314 | 5,093 / 75,314 |
 
 ## Por título (solo los que cambiaron)
 
 | Título | Palabras antes | Palabras ahora | Diálogos antes | Diálogos ahora | Repetidas quitadas | Créditos excluidos |
 |---|---:|---:|---:|---:|---:|---:|
 | Gambito de Dama | 295 | 295 | 4222 | 4222 | 1 | 0 |
-| Lost Girls | — | 101 | — (nuevo) | 1308 | 0 | 0 |
 | Mary Queen of Scots | 223 | 223 | 1128 | 1128 | 2 | 0 |
 | Oppenheimer | 433 | 433 | 3708 | 3708 | 5 | 0 |
 | Tall Girl II | 97 | 97 | 1899 | 1899 | 1 | 0 |
@@ -28,14 +27,6 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 | The Amazing Digital Circus | 207 | 207 | 2503 | 2503 | 1 | 0 |
 | The Big Bang Theory | 5506 | 5506 | 56845 | 56845 | 226 | 261 |
 | The Wolf of Wall Street | 422 | 422 | 3255 | 3255 | 1 | 0 |
-
-## Nivel de inglés (MCER) que cambió
-
-Calculado por `nivel.py` (criterio en Metodología/Criterio de nivel de inglés (MCER).txt).
-
-| Título | Antes | Ahora | Vocabulario · Diálogos · Temas |
-|---|---|---|---|
-| Lost Girls | — | B2 | 4.16 · 3.78 · 4.15 |
 
 ## Avisos para revisar
 

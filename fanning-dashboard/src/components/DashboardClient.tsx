@@ -11,6 +11,7 @@ import SearchModal from '@/components/ui/SearchModal';
 import EvolucionComprension, { type TandaResumen } from '@/components/charts/EvolucionComprension';
 import ReinaDelDia, { type CandidatoDelDia } from '@/components/realeza/ReinaDelDia';
 import HeroPortada from '@/components/portada/HeroPortada';
+import PalabraDelDia from '@/components/portada/PalabraDelDia';
 import TarjetaMetrica, { TONOS, type PuntoSerie } from '@/components/portada/TarjetaMetrica';
 import { PortadaAnio, PortadaData } from '@/types/manifest';
 import { agrupar, hrefArtista, ordenGrupo } from '@/lib/realeza';
@@ -166,6 +167,7 @@ export default function DashboardClient({ portada, tandas, artistas, delDia, hoy
       )}
 
       <ReinaDelDia candidatos={delDia} hoy={hoy} />
+      <PalabraDelDia hoy={hoy} />
 
       <div className="mb-10 flex flex-wrap border-b border-gray-800 pb-4 gap-4">
         {availableYears.map((year) => (

@@ -288,7 +288,7 @@ export default function TimelineClient({ ciclos, tandas, hoy, realeza }: { ciclo
     <div className="min-h-screen text-gray-100 font-sans p-4 sm:p-6 md:p-8">
       <FondoAnimado paleta="timeline" />
       <header className="mb-10 max-w-5xl mx-auto border-b border-gray-800 pb-8">
-        <Link href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-4 text-sm font-medium">
+        <Link transitionTypes={['atras']} href="/" className="inline-flex items-center text-gray-400 hover:text-white transition mb-4 text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al Dashboard
         </Link>
         <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent flex items-center gap-3 brillo-titulo">

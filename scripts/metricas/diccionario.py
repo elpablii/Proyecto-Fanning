@@ -15,8 +15,9 @@ Formato: {"titulos": [{title, type}], "tandas": {número: [fecha, ciclo]},
           (los null del final se omiten)
 
 Aparte, data/diccionario_frases.json: por cada palabra (mismo orden), las líneas de los subtítulos
-donde apareció, [[índice de título, episodio | null, segundo | null, texto]], sacadas de
-data/contextos.json (ver contexto.py). Solo lo lee la página de cada palabra.
+donde apareció, [[índice de título, episodio | null, segundo | null, texto, inicio | null, fin | null,
+veces]], sacadas de data/contextos.json (ver contexto.py). Lo leen la página de cada palabra y la
+palabra del día.
 
 Lo corre `python fanning.py actualizar`; solo, es rápido: python scripts/metricas/diccionario.py
 """
@@ -61,9 +62,9 @@ def generar():
     manifest = _leer(os.path.join(DATA, 'manifest.json'), {})
     lista = (manifest.get('all') or {}).get('movieList', [])
     primera = primeras_tandas()
-    # (título, episodio, palabra) -> [segundo, texto]
-    frases_de = {(t, ep, w): [seg, txt] for t, lista_t in _leer(os.path.join(DATA, 'contextos.json'), {}).items()
-                 for ep, w, seg, txt in lista_t}
+    # (título, episodio, palabra) -> [segundo, texto, inicio, fin, veces]
+    frases_de = {(t, ep, w): resto for t, lista_t in _leer(os.path.join(DATA, 'contextos.json'), {}).items()
+                 for ep, w, *resto in lista_t}
 
     titulos, items, cuando = [], [], []
     for n, m in enumerate(lista):
@@ -80,14 +81,15 @@ def generar():
                           or (None, None, (m.get('years') or [None])[0]))
 
     grupos = ranking.agrupar(items)
+    for falta in ranking.agrupaciones_sin_uso(items):
+        print(f'  Aviso: contenido/agrupaciones.json nombra una traducción que no está en ningún vocabulario: "{falta}"')
     por_grupo = defaultdict(list)
     for k, g in enumerate(grupos):
         por_grupo[g].append(k)
 
     palabras, frases, tandas = [], [], {}
     for idx in por_grupo.values():
-        palabra, traduccion = ranking.representante(Counter(items[k]['word'] for k in idx),
-                                                    Counter(items[k]['translation'] for k in idx))
+        palabra, traduccion = ranking.representante(Counter((items[k]['word'], items[k]['translation']) for k in idx))
         # La primera vez: la tanda más antigua; las palabras sin tanda van al final.
         orden = sorted(idx, key=lambda k: (cuando[k][0] is None, cuando[k][0] or 0, items[k]['n']))
         tanda, fecha, anio = cuando[orden[0]]  # anio sin tanda: no se guarda (no hay fecha que mostrar)

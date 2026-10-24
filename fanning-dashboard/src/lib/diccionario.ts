@@ -5,11 +5,13 @@ import type { PalabraDiccionario } from '@/lib/data';
 // pervertido) lleva -2, -3... y el número más bajo es para la que se anotó más veces.
 // Se calcula igual en el servidor y en el navegador, a partir de la lista completa.
 
+const RESERVADAS = new Set(['datos', 'del-dia']);
+
 export function slugBase(palabra: string): string {
   const s = palabra.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/['’]/g, '').replace(/[^a-z0-9]+/g, '-').slice(0, 80).replace(/^-+|-+$/g, '');
-  // "datos" ya es la dirección de la lista completa (/diccionario/datos).
-  return !s ? 'palabra' : s === 'datos' ? 'datos-palabra' : s;
+  // "datos" y "del-dia" ya son direcciones: la lista completa y las candidatas a palabra del día.
+  return !s ? 'palabra' : RESERVADAS.has(s) ? `${s}-palabra` : s;
 }
 
 export function slugsDiccionario(palabras: PalabraDiccionario[]): string[] {

@@ -43,18 +43,10 @@ const plano = (t: string) => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g
 const palabrasDe = (t: string) => plano(t).split(/[^a-z0-9]+/).filter(Boolean);
 const VACIAS = new Set(['someone', 'something', 'somebody', 'the', 'and', 'you', 'your', 'that', 'this', 'with', 'for', 'have', 'are', 'was', 'his', 'her', 'its', 'not', 'but', 'they', 'them', 'what', 'from', 'out', 'all', 'just', 'get', 'got']);
 
-// La entrada resaltada dentro de la línea del subtítulo. Cada palabra puede venir conjugada
-// ("rely" -> "relied") y entre ellas puede haber signos o saltos de línea.
-function resaltar(texto: string, palabra: string): ReactNode {
-  const partes = palabrasDe(palabra).map(w => {
-    const raiz = w.length >= 4 && /[ey]$/.test(w) ? w.slice(0, -1) : w;
-    return w.length >= 4 ? `${raiz}[a-z]{0,4}` : raiz;
-  });
-  if (!partes.length) return texto;
-  const m = new RegExp(`(?<![a-z])${partes.join('[^a-z0-9]+(?:[a-z0-9]+[^a-z0-9]+){0,3}?')}(?![a-z])`).exec(plano(texto));
-  // plano() no cambia el largo del texto (las tildes se quitan de a una letra), así que las posiciones coinciden.
-  if (!m || plano(texto).length !== texto.length) return texto;
-  return <>{texto.slice(0, m.index)}<mark className="bg-emerald-400/25 text-emerald-100 rounded px-0.5">{texto.slice(m.index, m.index + m[0].length)}</mark>{texto.slice(m.index + m[0].length)}</>;
+// La entrada resaltada dentro de la línea del subtítulo (contexto.py guarda dónde quedó).
+function resaltar(texto: string, inicio: number | null, fin: number | null): ReactNode {
+  if (inicio === null || fin === null) return texto;
+  return <>{texto.slice(0, inicio)}<mark className="bg-emerald-400/25 text-emerald-100 rounded px-0.5">{texto.slice(inicio, fin)}</mark>{texto.slice(fin)}</>;
 }
 
 function Seccion({ titulo, icono: Icono, children }: { titulo: string; icono: typeof Quote; children: ReactNode }) {
@@ -112,7 +104,7 @@ export default async function PalabraPage({ params }: { params: Promise<{ slug: 
     <div className="min-h-screen text-gray-100 font-sans">
       <FondoAnimado paleta="diccionario" />
       <div className="relative max-w-4xl mx-auto px-4 sm:px-6 md:px-8 py-6 md:py-10 space-y-10">
-        <Link href="/diccionario" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
+        <Link transitionTypes={['atras']} href="/diccionario" className="inline-flex items-center text-gray-400 hover:text-white transition text-sm font-medium">
           <ArrowLeft size={16} className="mr-2" /> Volver al diccionario
         </Link>
 
@@ -155,7 +147,7 @@ export default async function PalabraPage({ params }: { params: Promise<{ slug: 
 
         <Seccion titulo="Dónde la escuché" icono={Quote}>
           <ol className="space-y-3">
-            {frases.map(([n, episodio, segundo, texto]) => {
+            {frases.map(([n, episodio, segundo, texto, inicio, fin, vecesEnTitulo, parecida]) => {
               const t = titulos[n];
               const poster = ficha(n)?.posterUrl;
               return (
@@ -166,10 +158,12 @@ export default async function PalabraPage({ params }: { params: Promise<{ slug: 
                       : <span className="block w-12 h-[4.5rem] rounded-md bg-gray-700" />}
                   </Link>
                   <div className="min-w-0">
-                    <blockquote className="text-lg text-gray-100 leading-snug">“{resaltar(texto, palabra)}”</blockquote>
+                    <blockquote lang="en" className="text-lg text-gray-100 leading-snug">“{resaltar(texto, inicio, fin)}”</blockquote>
                     <p className="text-xs text-gray-400 mt-2">
                       <Link href={hrefTitulo(t)} className="text-gray-200 font-semibold hover:underline">{t.title}</Link>
-                      {[episodio, segundo !== null ? minuto(segundo) : null].filter(Boolean).map(x => ` · ${x}`).join('')}
+                      {[episodio, segundo !== null ? minuto(segundo) : null, vecesEnTitulo > 1 ? `se dice ${vecesEnTitulo} veces` : null,
+                        parecida ? 'se anotó con otras palabras' : null]
+                        .filter(Boolean).map(x => ` · ${x}`).join('')}
                     </p>
                   </div>
                 </li>
@@ -249,7 +243,7 @@ export default async function PalabraPage({ params }: { params: Promise<{ slug: 
 
         <nav className="flex justify-between gap-3 pt-4 border-t border-white/10 text-sm">
           {anterior !== null ? (
-            <Link href={hrefPalabra(slugs[anterior])} className="inline-flex items-center gap-2 text-gray-400 hover:text-white min-w-0">
+            <Link transitionTypes={['atras']} href={hrefPalabra(slugs[anterior])} className="inline-flex items-center gap-2 text-gray-400 hover:text-white min-w-0">
               <ArrowLeft size={16} className="shrink-0" /> <span className="truncate">{palabras[anterior][0]}</span>
             </Link>
           ) : <span />}

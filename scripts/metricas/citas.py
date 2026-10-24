@@ -1,8 +1,9 @@
-"""Citas de la Realeza: una línea de diálogo de cada artista, verificada contra los subtítulos.
+"""Citas de la Realeza: líneas de diálogo de cada artista, verificadas contra los subtítulos.
 
-Cada cita se escribe a mano en contenido/realeza.json:
+Las citas se escriben a mano en contenido/realeza.json, en una lista (la primera es la principal:
+la de su página y la Casa Fanning; la Reina o Rey del día las va rotando):
 
-  "cita": {"texto": "You guys ever think about dying?", "titulo": "Barbie", "personaje": "Barbie"}
+  "citas": [{"texto": "You guys ever think about dying?", "titulo": "Barbie", "personaje": "Barbie"}, ...]
 
 "titulo" es el título de la ficha. Los PDFs de diálogos no dicen quién habla, así que la cita
 se elige a mano; este script solo confirma que la frase está en los subtítulos de ese título
@@ -61,29 +62,27 @@ def main():
     fichas = {f['titulo']: f for f in F.cargar(estricto=False)[0]}
     cache, problemas, listas = {}, [], 0
     for a in realeza:
-        cita = a.get('cita')
-        if not cita:
-            continue
-        ficha = fichas.get(cita.get('titulo'))
-        if not ficha:
-            problemas.append(f'{a["nombre"]}: "{cita.get("titulo")}" no es el título de ninguna ficha.')
-            continue
-        if a['nombre'] not in F.papeles_realeza(ficha):
-            problemas.append(f'{a["nombre"]}: no figura en la ficha de {ficha["titulo"]} (ver "realeza" y "realeza_manual").')
-        if ficha['titulo'] not in cache:
-            cache[ficha['titulo']] = subtitulos(ficha)
-        lugar = ubicar(cita['texto'], cache[ficha['titulo']])
-        if not lugar:
-            problemas.append(f'{a["nombre"]}: la cita no está en los subtítulos de {ficha["titulo"]}: "{cita["texto"]}"')
-            continue
-        episodio, segundo = lugar
-        cita.pop('episodio', None)
-        cita.pop('segundo', None)
-        if episodio:
-            cita['episodio'] = episodio
-        if segundo is not None:
-            cita['segundo'] = int(segundo)
-        listas += 1
+        for cita in a.get('citas') or []:
+            ficha = fichas.get(cita.get('titulo'))
+            if not ficha:
+                problemas.append(f'{a["nombre"]}: "{cita.get("titulo")}" no es el título de ninguna ficha.')
+                continue
+            if a['nombre'] not in F.papeles_realeza(ficha):
+                problemas.append(f'{a["nombre"]}: no figura en la ficha de {ficha["titulo"]} (ver "realeza" y "realeza_manual").')
+            if ficha['titulo'] not in cache:
+                cache[ficha['titulo']] = subtitulos(ficha)
+            lugar = ubicar(cita['texto'], cache[ficha['titulo']])
+            if not lugar:
+                problemas.append(f'{a["nombre"]}: la cita no está en los subtítulos de {ficha["titulo"]}: "{cita["texto"]}"')
+                continue
+            episodio, segundo = lugar
+            cita.pop('episodio', None)
+            cita.pop('segundo', None)
+            if episodio:
+                cita['episodio'] = episodio
+            if segundo is not None:
+                cita['segundo'] = int(segundo)
+            listas += 1
 
     with open(F.REALEZA, 'w', encoding='utf-8') as f:
         json.dump(realeza, f, ensure_ascii=False, indent=2)
@@ -92,7 +91,7 @@ def main():
     with open(os.path.join(DATA, 'realeza.json'), 'w', encoding='utf-8') as f:
         json.dump(realeza, f, ensure_ascii=False, indent=2)
 
-    sin_cita = [a['nombre'] for a in realeza if not a.get('cita')]
+    sin_cita = [a['nombre'] for a in realeza if not a.get('citas')]
     print(f'Citas verificadas: {listas}.')
     if sin_cita:
         print(f'Sin cita ({len(sin_cita)}): {", ".join(sin_cita)}.')
