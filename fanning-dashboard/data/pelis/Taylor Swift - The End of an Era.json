@@ -64,8 +64,16 @@
         "still_path": "https://image.tmdb.org/t/p/w500/gp2VA9PJA5N5yyqkWrfT4aAhc9t.jpg",
         "overview": "Taylor reflexiona sobre sus sets acústicos e invita al escenario a Travis Kelce y Sabrina Carpenter."
       },
-      "S01E05": {},
-      "S01E06": {}
+      "S01E05": {
+        "name": "Marjorie",
+        "still_path": "https://image.tmdb.org/t/p/w500/z0X5VM8gYW1Xg2qgWfCwy4BAiQN.jpg",
+        "overview": "Taylor revela cómo la familia inspiró la gira y resalta actuaciones, incluida la de Gracie Abrams."
+      },
+      "S01E06": {
+        "name": "Remember This Moment",
+        "still_path": "https://image.tmdb.org/t/p/w500/xw7P3AZRwV9gUTeNIFnknDdMNFR.jpg",
+        "overview": "Taylor reflexiona sobre el éxito y el impacto de The Eras Tour al dar su saludo final en Vancouver."
+      }
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
@@ -1365,8 +1373,7 @@
       ],
       "count": 60,
       "dialogues": 764,
-      "duration": 45,
-      "durationEstimated": true
+      "duration": 48
     },
     {
       "code": "S01E06",
@@ -1644,12 +1651,10 @@
       ],
       "count": 60,
       "dialogues": 729,
-      "duration": 47,
-      "durationEstimated": true
+      "duration": 50
     }
   ],
   "count": 337,
   "dialogues": 4709,
-  "duration": 277,
-  "durationEstimated": true
+  "duration": 283
 }

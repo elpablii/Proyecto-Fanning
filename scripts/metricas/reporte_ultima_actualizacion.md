@@ -7,13 +7,13 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 | Métrica | Antes | Ahora |
 |---|---:|---:|
 | Palabras y frases | 39,148 | 39,148 |
-| Líneas de diálogo | 480,191 | 481,947 |
+| Líneas de diálogo | 481,947 | 481,947 |
 | Títulos visibles | 210 | 210 |
 | 2023: palabras / diálogos | 1,093 / 8,327 | 1,093 / 8,327 |
 | 2024: palabras / diálogos | 8,832 / 82,538 | 8,832 / 82,538 |
 | 2025: palabras / diálogos | 11,019 / 133,371 | 11,019 / 133,371 |
 | 2026: palabras / diálogos | 11,613 / 161,469 | 11,613 / 161,469 |
-| 2027: palabras / diálogos | 6,591 / 94,486 | 6,591 / 96,242 |
+| 2027: palabras / diálogos | 6,591 / 96,242 | 6,591 / 96,242 |
 
 ## Por título (solo los que cambiaron)
 
@@ -21,7 +21,6 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 |---|---:|---:|---:|---:|---:|---:|
 | Gambito de Dama | 295 | 295 | 4222 | 4222 | 1 | 0 |
 | Mary Queen of Scots | 223 | 223 | 1128 | 1128 | 2 | 0 |
-| My Salinger Year | 79 | 79 | 0 | 1756 | 0 | 0 |
 | Oppenheimer | 433 | 433 | 3708 | 3708 | 5 | 0 |
 | Tall Girl II | 97 | 97 | 1899 | 1899 | 1 | 0 |
 | Taylor Swift The Eras Tour Film | 377 | 377 | 3378 | 3378 | 2 | 0 |

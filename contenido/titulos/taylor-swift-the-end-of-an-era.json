@@ -70,10 +70,18 @@
       "duracion": 49
     },
     "S01E05": {
-      "nombre": "Taylor Swift - The End of an Era (Episode 5)"
+      "nombre": "Taylor Swift - The End of an Era (Episode 5)",
+      "titulo": "Marjorie",
+      "foto": "https://image.tmdb.org/t/p/w500/z0X5VM8gYW1Xg2qgWfCwy4BAiQN.jpg",
+      "sinopsis": "Taylor revela cómo la familia inspiró la gira y resalta actuaciones, incluida la de Gracie Abrams.",
+      "duracion": 48
     },
     "S01E06": {
-      "nombre": "Taylor Swift - The End of an Era (Episode 6)"
+      "nombre": "Taylor Swift - The End of an Era (Episode 6)",
+      "titulo": "Remember This Moment",
+      "foto": "https://image.tmdb.org/t/p/w500/xw7P3AZRwV9gUTeNIFnknDdMNFR.jpg",
+      "sinopsis": "Taylor reflexiona sobre el éxito y el impacto de The Eras Tour al dar su saludo final en Vancouver.",
+      "duracion": 50
     }
   }
 }

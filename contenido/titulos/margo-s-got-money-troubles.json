@@ -77,16 +77,32 @@
       "duracion": 36
     },
     "S01E05": {
-      "nombre": "Margo's Got Money Troubles (Episode 5)"
+      "nombre": "Margo's Got Money Troubles (Episode 5)",
+      "titulo": "Flamingoes",
+      "foto": "https://image.tmdb.org/t/p/w500/vXK91CXm4lU7MYPgx2y5m7plQ4v.jpg",
+      "sinopsis": "Las Vegas, bebé.",
+      "duracion": 45
     },
     "S01E06": {
-      "nombre": "Margo's Got Money Troubles (Episode 6)"
+      "nombre": "Margo's Got Money Troubles (Episode 6)",
+      "titulo": "Grudge Match",
+      "foto": "https://image.tmdb.org/t/p/w500/YfUzyTTo6s8BYyvPw7oMvDeMT8.jpg",
+      "sinopsis": "Los planes para expandir el imperio digital de FantasmaHambriento se detienen cuando los secretos dividen a la familia de Margo.",
+      "duracion": 40
     },
     "S01E07": {
-      "nombre": "Margo's Got Money Troubles (Episode 7)"
+      "nombre": "Margo's Got Money Troubles (Episode 7)",
+      "titulo": "Lariat Takedown",
+      "foto": "https://image.tmdb.org/t/p/w500/953VktNxGcWDaVBPpN8C5dw59F.jpg",
+      "sinopsis": "Margo se enfrenta a Mark. Jinx y Susie tienen un día difícil.",
+      "duracion": 37
     },
     "S01E08": {
-      "nombre": "Margo's Got Money Troubles (Episode 8)"
+      "nombre": "Margo's Got Money Troubles (Episode 8)",
+      "titulo": "Lock and Load",
+      "foto": "https://image.tmdb.org/t/p/w500/pv5GdG1lkMqWDXPPA15OzwvFDvf.jpg",
+      "sinopsis": "Margo tiene su día en la corte.",
+      "duracion": 41
     }
   }
 }

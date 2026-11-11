@@ -65,10 +65,26 @@
         "still_path": "https://image.tmdb.org/t/p/w500/p3AUoI8HxDUTlhpzN0o7vAUjxeJ.jpg",
         "overview": "Surge un encuentro entre mundos cuando Margo hace nuevas amigas. Jinx se reencuentra con sus raíces en la lucha libre."
       },
-      "S01E05": {},
-      "S01E06": {},
-      "S01E07": {},
-      "S01E08": {}
+      "S01E05": {
+        "name": "Flamingoes",
+        "still_path": "https://image.tmdb.org/t/p/w500/vXK91CXm4lU7MYPgx2y5m7plQ4v.jpg",
+        "overview": "Las Vegas, bebé."
+      },
+      "S01E06": {
+        "name": "Grudge Match",
+        "still_path": "https://image.tmdb.org/t/p/w500/YfUzyTTo6s8BYyvPw7oMvDeMT8.jpg",
+        "overview": "Los planes para expandir el imperio digital de FantasmaHambriento se detienen cuando los secretos dividen a la familia de Margo."
+      },
+      "S01E07": {
+        "name": "Lariat Takedown",
+        "still_path": "https://image.tmdb.org/t/p/w500/953VktNxGcWDaVBPpN8C5dw59F.jpg",
+        "overview": "Margo se enfrenta a Mark. Jinx y Susie tienen un día difícil."
+      },
+      "S01E08": {
+        "name": "Lock and Load",
+        "still_path": "https://image.tmdb.org/t/p/w500/pv5GdG1lkMqWDXPPA15OzwvFDvf.jpg",
+        "overview": "Margo tiene su día en la corte."
+      }
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
@@ -1114,8 +1130,7 @@
       ],
       "count": 40,
       "dialogues": 693,
-      "duration": 43,
-      "durationEstimated": true
+      "duration": 45
     },
     {
       "code": "S01E06",
@@ -1348,8 +1363,7 @@
       ],
       "count": 49,
       "dialogues": 665,
-      "duration": 38,
-      "durationEstimated": true
+      "duration": 40
     },
     {
       "code": "S01E07",
@@ -1607,8 +1621,7 @@
       ],
       "count": 55,
       "dialogues": 517,
-      "duration": 35,
-      "durationEstimated": true
+      "duration": 37
     },
     {
       "code": "S01E08",
@@ -1946,12 +1959,10 @@
       ],
       "count": 75,
       "dialogues": 680,
-      "duration": 40,
-      "durationEstimated": true
+      "duration": 41
     }
   ],
   "count": 394,
   "dialogues": 5063,
-  "duration": 308,
-  "durationEstimated": true
+  "duration": 315
 }

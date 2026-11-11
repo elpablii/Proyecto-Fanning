@@ -225,16 +225,32 @@
       "duracion": 62
     },
     "S03E05": {
-      "nombre": "S03E05"
+      "nombre": "S03E05",
+      "titulo": "This Little Piggy",
+      "foto": "https://image.tmdb.org/t/p/w500/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
+      "sinopsis": "Ella nunca lo diría en voz alta, pero que Nate quedara en la ruina finalmente le dio a Cassie permiso para alcanzar sus sueños.",
+      "duracion": 61
     },
     "S03E06": {
-      "nombre": "S03E06"
+      "nombre": "S03E06",
+      "titulo": "Stand Still and See",
+      "foto": "https://image.tmdb.org/t/p/w500/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
+      "sinopsis": "Quizás cada error que Rue cometió la condujo al lugar correcto después de todo.",
+      "duracion": 60
     },
     "S03E07": {
-      "nombre": "S03E07"
+      "nombre": "S03E07",
+      "titulo": "Rain or Shine",
+      "foto": "https://image.tmdb.org/t/p/w500/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
+      "sinopsis": "Bajo una intensa presión financiera, Maddy planea cómo devolver a Cassie al centro de atención. Mientras tanto, Rue se obsesiona con la señal que Dios le dio.",
+      "duracion": 78
     },
     "S03E08": {
-      "nombre": "S03E08"
+      "nombre": "S03E08",
+      "titulo": "In God We Trust",
+      "foto": "https://image.tmdb.org/t/p/w500/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg",
+      "sinopsis": "Danger closes in on all sides as Rue's double-dealing finally reaches its breaking point. While the medical van speeds towards the border, Maddy and Cassie must band together – and Alamo is struck by a life-changing epiphany.",
+      "duracion": 93
     }
   }
 }

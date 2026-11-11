@@ -54,8 +54,16 @@
         "still_path": "https://image.tmdb.org/t/p/w500/3c5SVI3pK7zmCHNrNh0MbuxsFHl.jpg",
         "overview": "Conmovida por el número de víctimas que la Gran Depresión ha cobrado en el país, Eleanor presiona a Franklin para que actúe con más audacia y presiona para obtener una posición formal sin precedentes en la administración mientras ayuda a redactar su discurso inaugural. Después de la renuncia de Nixon, Jerry asume la presidencia y Betty se convierte en Primera Dama días antes de una importante cena de estado, que el personal de Jerry intenta cancelar. En los días previos a la toma de posesión de Barack, Michelle se enfrenta a la oposición de los miembros de su equipo de transición que planean disminuir su papel."
       },
-      "S01E03": {},
-      "S01E04": {}
+      "S01E03": {
+        "name": "please allow me",
+        "still_path": "https://image.tmdb.org/t/p/w500/jRedDcbIAH38OA9mUY2k4P4xsky.jpg",
+        "overview": "La joven Eleanor interrumpe de mala gana su educación progresiva en Londres para hacer su temido debut social como miembro de la prestigiosa familia Roosevelt de Nueva York, que incluye a su ambicioso primo, Franklin. En Michigan, la joven Betty, atrapada en un matrimonio abusivo, se ve perseguida por el famoso abogado Jerry. A medida que sube de rango en un bufete de abogados de Chicago, la joven Michelle conoce a un pasante de verano idealista y con inclinaciones políticas llamado Barack."
+      },
+      "S01E04": {
+        "name": "cracked pot",
+        "still_path": "https://image.tmdb.org/t/p/w500/jZp0LUXOkzevQJaq67gbNw5ohvH.jpg",
+        "overview": "Años antes de ingresar por primera vez a la Casa Blanca, Eleanor descubre las indiscreciones maritales de Franklin, que la empujan a socializar con mujeres más independientes y políticamente activas en los salones de la ciudad de Nueva York. Mientras Jerry asciende de rango en el Congreso, una lesión obstinada en el hombro lleva a Betty a buscar la ayuda de un médico, quien le receta analgésicos adictivos. Después de que la pequeña Sasha es llevada de urgencia al hospital con meningitis, Michelle promete hacer que el inadecuado sistema de atención médica de Chicago funcione para mejorarlo desde adentro."
+      }
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
@@ -878,8 +886,7 @@
       ],
       "count": 64,
       "dialogues": 841,
-      "duration": 57,
-      "durationEstimated": true
+      "duration": 58
     },
     {
       "code": "S01E04",
@@ -1125,12 +1132,10 @@
       ],
       "count": 52,
       "dialogues": 929,
-      "duration": 58,
-      "durationEstimated": true
+      "duration": 59
     }
   ],
   "count": 230,
   "dialogues": 3720,
-  "duration": 226,
-  "durationEstimated": true
+  "duration": 228
 }
