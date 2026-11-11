@@ -3,22 +3,22 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.7,
+    "puntaje": 3.73,
     "senales": {
-      "vocabulario": 3.67,
+      "vocabulario": 3.71,
       "dialogos": 3.36,
       "temas": 4.3
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 13.2,
-        "A2": 8.3,
-        "B1": 13.1,
-        "B2": 29.6,
-        "C1": 17.5,
-        "C2": 18.3
+        "A1": 12.6,
+        "A2": 8.5,
+        "B1": 12.9,
+        "B2": 30.0,
+        "C1": 17.6,
+        "C2": 18.4
       },
-      "densidad": 6.2
+      "densidad": 6.4
     },
     "dialogos": {
       "cobertura95": 3.43,
@@ -145,11 +145,15 @@
         "name": "Kitty Likes to Dance",
         "still_path": "https://image.tmdb.org/t/p/w500/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
         "overview": "Aunque podamos discrepar sobre qué es la verdad, todos sabemos cuándo estamos mintiendo."
-      }
+      },
+      "S03E05": {},
+      "S03E06": {},
+      "S03E07": {},
+      "S03E08": {}
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
   "episodes": [
     {
       "code": "S01E01",
@@ -5658,9 +5662,1395 @@
       "count": 62,
       "dialogues": 1043,
       "duration": 62
+    },
+    {
+      "code": "S03E05",
+      "name": "S03E05",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.21,
+        "senales": {
+          "vocabulario": 4.36,
+          "dialogos": 3.78,
+          "temas": 4.31
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 4.1,
+            "A2": 8.8,
+            "B1": 11.3,
+            "B2": 31.2,
+            "C1": 17.0,
+            "C2": 27.7
+          },
+          "densidad": 8.0
+        },
+        "dialogos": {
+          "cobertura95": 3.74,
+          "ppm": 158.0
+        },
+        "temas": [
+          "cine y espectáculo"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Flesh squelching (acotación)",
+          "translation": "sonido de carne aplastándose"
+        },
+        {
+          "word": "Go broke (verbo en sentido financiero)",
+          "translation": "quedarse en la ruina"
+        },
+        {
+          "word": "Clippers snipping (acotación)",
+          "translation": "sonido de tijeras cortando"
+        },
+        {
+          "word": "Within 24 hours of (frase no literal)",
+          "translation": "en las 24 horas siguientes a que"
+        },
+        {
+          "word": "Maddy worked her to the bone (parcialmente no literal)",
+          "translation": "Maddy la hizo trabajar hasta el agotamiento"
+        },
+        {
+          "word": "Poke it up",
+          "translation": "dale un empujoncito"
+        },
+        {
+          "word": "Kiss smacking (acotación)",
+          "translation": "beso con chasquido, sonido de beso"
+        },
+        {
+          "word": "Smacking (acotación)",
+          "translation": "chasquido"
+        },
+        {
+          "word": "Rubbing",
+          "translation": "fricción"
+        },
+        {
+          "word": "Gatherer",
+          "translation": "reoclector"
+        },
+        {
+          "word": "Wire (verbo en dinero)",
+          "translation": "transferir"
+        },
+        {
+          "word": "Be evicted",
+          "translation": "ser desalojado"
+        },
+        {
+          "word": "Be supportive (aparte de ser solidario)",
+          "translation": "ser comprensivo"
+        },
+        {
+          "word": "He's not a breadwinner, he's a bread loser",
+          "translation": "no es quien trae el pan a casa, es quien lo hace perder"
+        },
+        {
+          "word": "Footsteps thudding loudly (acotación parcialmente no literal)",
+          "translation": "pasos que resuenan con fuerza"
+        },
+        {
+          "word": "Electricity zapping (acotación)",
+          "translation": "descarga eléctrica"
+        },
+        {
+          "word": "You defending his sissy bitch ass now (despectivo)",
+          "translation": "ahora vas a defender a ese marica de mierda"
+        },
+        {
+          "word": "Dawg",
+          "translation": "amigo"
+        },
+        {
+          "word": "His crew of moronic fucking crackers",
+          "translation": "su pandilla de putos paletos idiotas"
+        },
+        {
+          "word": "Itty-bitty nobody",
+          "translation": "don nadie insignificante"
+        },
+        {
+          "word": "That I'm some small, tiny, itty-bitty nigga? (pregunta despectiva)",
+          "translation": "¿Que soy un negro pequeño, diminuto y minúsculo?"
+        },
+        {
+          "word": "You done fucking put your",
+          "translation": "ya terminaste de poner tu"
+        },
+        {
+          "word": "Ice pick thuds (acotación)",
+          "translation": "golpes de un picahielo"
+        },
+        {
+          "word": "Sponsorship",
+          "translation": "patrocinio"
+        },
+        {
+          "word": "You'd be set for life (parcialmente no literal)",
+          "translation": "estarías asegurado de por vida"
+        },
+        {
+          "word": "I'll bring home the bacon (frase no literal)",
+          "translation": "yo me encargaré de traer el pan a casa"
+        },
+        {
+          "word": "Misfortune abounds",
+          "translation": "las desgracias no dejan de sucederse"
+        },
+        {
+          "word": "Something about you gives me the heebie-jeebies (parcialmente no literal)",
+          "translation": "hay algo en ti que me pone los pelos de punta"
+        },
+        {
+          "word": "Power tool",
+          "translation": "herramienta eléctrica"
+        },
+        {
+          "word": "For me to bend over and spread my ass cheeks",
+          "translation": "que yo me incline y abra las nalgas"
+        },
+        {
+          "word": "But I'ma spread hers (en sentido sugerente)",
+          "translation": "pero yo voy a abrirle las piernas"
+        },
+        {
+          "word": "Wiretap (sustantivo)",
+          "translation": "escucha, micrófono"
+        },
+        {
+          "word": "Our drug mule",
+          "translation": "nuestro traficante de drogas"
+        },
+        {
+          "word": "Job's been filled (no literal)",
+          "translation": "el puesto ya se ha cubierto"
+        },
+        {
+          "word": "Doorman bulding",
+          "translation": "edificio con portero"
+        },
+        {
+          "word": "I've been approached by (frase no literal)",
+          "translation": "se me ha acercado, me han contactado"
+        },
+        {
+          "word": "My head is swirling",
+          "translation": "me da vueltas mi cabeza"
+        },
+        {
+          "word": "Defiance",
+          "translation": "desafio, rebeldía"
+        },
+        {
+          "word": "If idle talk will once be necessary",
+          "translation": "si alguna vez fuera necesario hablar por hablar"
+        },
+        {
+          "word": "Pinioned",
+          "translation": "maniatado"
+        },
+        {
+          "word": "Master’s court",
+          "translation": "corte de tu amo"
+        },
+        {
+          "word": "Nor once be chastised",
+          "translation": "ni ser reprendido ni una sola vez"
+        },
+        {
+          "word": "Dull",
+          "translation": "aburrido"
+        },
+        {
+          "word": "Hoist (someone) up",
+          "translation": "levantar"
+        },
+        {
+          "word": "Varletry",
+          "translation": "chusma"
+        },
+        {
+          "word": "Ditch (sustantivo)",
+          "translation": "zanja"
+        },
+        {
+          "word": "Stark naked",
+          "translation": "completamente desnuda"
+        },
+        {
+          "word": "And let the water-flies blow me into abhorring! (parcialmente no literal)",
+          "translation": "¡Y que las moscas de agua me hagan odiarlas!"
+        },
+        {
+          "word": "Gibbet",
+          "translation": "horca"
+        },
+        {
+          "word": "Applicant",
+          "translation": "solicitante"
+        },
+        {
+          "word": "She was holding it against me (frase no literal)",
+          "translation": "me lo estaba echando en cara"
+        },
+        {
+          "word": "Popping (acotación)",
+          "translation": "estallido"
+        },
+        {
+          "word": "Lay around",
+          "translation": "quedarse tirado/holgazaneando"
+        },
+        {
+          "word": "Lighter flicking (acotación)",
+          "translation": "chasquidos con el encendedor"
+        },
+        {
+          "word": "I know I'm overdue",
+          "translation": "sé que ya se me pasó el plazo"
+        },
+        {
+          "word": "Flesh ripping (acotación)",
+          "translation": "desgarro de carne"
+        },
+        {
+          "word": "I framed Magick",
+          "translation": "incriminé/inculpé a Magick"
+        },
+        {
+          "word": "I'm being framed",
+          "translation": "me están inculpando (literal), me están tendiendo una trampa (no literal)"
+        },
+        {
+          "word": "She ID'd the driver already",
+          "translation": "ya identificó al conductor"
+        },
+        {
+          "word": "Crackers (informal)",
+          "translation": "locos, chiflados"
+        },
+        {
+          "word": "Cassie fucks you over",
+          "translation": "Cassie te jode"
+        },
+        {
+          "word": "Busboy",
+          "translation": "ayudante de mesero"
+        },
+        {
+          "word": "I haven't really gotten to Jesus yet",
+          "translation": "la verdad es que todavía no he llegado a Jesús"
+        },
+        {
+          "word": "Spurs",
+          "translation": "espuelas"
+        },
+        {
+          "word": "I'm kind of parched",
+          "translation": "tengo un poco de sed"
+        },
+        {
+          "word": "Got me a sweet tooth (frase no literal)",
+          "translation": "me da antojo de dulces"
+        },
+        {
+          "word": "My mama had us move all over",
+          "translation": "mi mamá nos hacía mudarnos de un lado a otro"
+        },
+        {
+          "word": "It didn't really factor for me",
+          "translation": "no fue un factor importante para mí"
+        },
+        {
+          "word": "The cherry on top",
+          "translation": "la guinda del pastel"
+        },
+        {
+          "word": "Slim pickings",
+          "translation": "no hay mucho de qué elegir"
+        },
+        {
+          "word": "Overhead (sustantivo no literal)",
+          "translation": "gastos generales"
+        },
+        {
+          "word": "Busted-ass girls",
+          "translation": "chicas bien malotas"
+        },
+        {
+          "word": "Maiden name (no literal)",
+          "translation": "apellido de soltera"
+        },
+        {
+          "word": "I'm gonna be a household name (frase no literal)",
+          "translation": "voy a ser muy famosa"
+        },
+        {
+          "word": "That's what it takes to make it in this town (parcialmente no literal)",
+          "translation": "eso es lo que se necesita para triunfar en esta ciudad"
+        },
+        {
+          "word": "Hard-working girls",
+          "translation": "chicas muy trabajadoras"
+        },
+        {
+          "word": "Dirt crunching (acotación no literal)",
+          "translation": "sonido de pisadas sobre la tierra"
+        },
+        {
+          "word": "Scout (verbo)",
+          "translation": "buscar"
+        },
+        {
+          "word": "Horse chortling (acotación parcialmente no literal)",
+          "translation": "relincho de caballo"
+        },
+        {
+          "word": "Horse whinnying",
+          "translation": "relincho de caballo"
+        },
+        {
+          "word": "Hoofbeats thundering (acotación)",
+          "translation": "ruido atronador de cascos"
+        },
+        {
+          "word": "I know it grieved them",
+          "translation": "sé que eso les causó dolor"
+        },
+        {
+          "word": "I fell in with",
+          "translation": "me junté con"
+        },
+        {
+          "word": "Plunder (verbo)",
+          "translation": "saquear"
+        },
+        {
+          "word": "We rustled cattle (parcialmente no literal)",
+          "translation": "robamos Ganado"
+        },
+        {
+          "word": "And started them out on the trail",
+          "translation": "y los puso en marcha por el sendero"
+        },
+        {
+          "word": "Lightning struck",
+          "translation": "cayó un rayo"
+        },
+        {
+          "word": "Sinful deeds",
+          "translation": "actos pecaminosos"
+        },
+        {
+          "word": "Bolt of lightning",
+          "translation": "rayo"
+        }
+      ],
+      "count": 89,
+      "dialogues": 1113,
+      "duration": 61,
+      "durationEstimated": true
+    },
+    {
+      "code": "S03E06",
+      "name": "S03E06",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.83,
+        "senales": {
+          "vocabulario": 3.85,
+          "dialogos": 3.52,
+          "temas": 4.26
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 10.2,
+            "A2": 10.2,
+            "B1": 10.2,
+            "B2": 29.4,
+            "C1": 18.7,
+            "C2": 21.4
+          },
+          "densidad": 6.4
+        },
+        "dialogos": {
+          "cobertura95": 3.42,
+          "ppm": 163.2
+        },
+        "temas": [
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Way down",
+          "translation": "en/hasta lo más profundo"
+        },
+        {
+          "word": "Shortcake",
+          "translation": "pastelito"
+        },
+        {
+          "word": "Settlement (no alusivo a asentamiento)",
+          "translation": "pago, indemnización"
+        },
+        {
+          "word": "Vat",
+          "translation": "cuba"
+        },
+        {
+          "word": "Upbeat",
+          "translation": "alegre, animado"
+        },
+        {
+          "word": "Why they had to up and go to a whole new city",
+          "translation": "por qué tuvieron que empacarse y mudarse a una ciudad completamente nueva"
+        },
+        {
+          "word": "The new digs",
+          "translation": "la nueva casa, el nuevo lugar"
+        },
+        {
+          "word": "It's all the way in the back (frase no literal)",
+          "translation": "está bien al fondo"
+        },
+        {
+          "word": "One long con (parcialmente no literal)",
+          "translation": "una estafa a gran escala"
+        },
+        {
+          "word": "Stepping up to the plate (frase no literal)",
+          "translation": "dar la cara, asumir la responsabilidad"
+        },
+        {
+          "word": "Sample (verbo)",
+          "translation": "probar"
+        },
+        {
+          "word": "Faye had fallen madly in love",
+          "translation": "Faye se había enamorado locamente"
+        },
+        {
+          "word": "Mule (verbo)",
+          "translation": "hacer de mula"
+        },
+        {
+          "word": "Fair-skinned",
+          "translation": "de piel clara"
+        },
+        {
+          "word": "Get a picture (verbo)",
+          "translation": "tomar una foto"
+        },
+        {
+          "word": "Don't you try to fucking wiggle out of this (frase no literal)",
+          "translation": "ni se te ocurra intentar escabullirte de esto, carajo"
+        },
+        {
+          "word": "Some creepy crawly",
+          "translation": "algún bichito asqueroso"
+        },
+        {
+          "word": "Silverback",
+          "translation": "de espalda plateada"
+        },
+        {
+          "word": "Contentious",
+          "translation": "polémico"
+        },
+        {
+          "word": "To get down on his hands and knees",
+          "translation": "ponerse de rodillas y apoyarse en las manos"
+        },
+        {
+          "word": "Spare me (frase no literal)",
+          "translation": "no me vengas con esas"
+        },
+        {
+          "word": "Beads",
+          "translation": "cuentas"
+        },
+        {
+          "word": "Cracker (informal)",
+          "translation": "gringo"
+        },
+        {
+          "word": "Bolt (verbo)",
+          "translation": "atornillar"
+        },
+        {
+          "word": "How do I know that your pasty ass ain't gonna string me along?",
+          "translation": "¿Cómo sé que tu trasero pálido no me va a estar dando largas?"
+        },
+        {
+          "word": "It's one and done",
+          "translation": "es una vez y ya está"
+        },
+        {
+          "word": "Pasty",
+          "translation": "pálido"
+        },
+        {
+          "word": "Stay sharp (expresión)",
+          "translation": "mantente alerta"
+        },
+        {
+          "word": "Kisses smacking (acotación)",
+          "translation": "besos sonoros"
+        },
+        {
+          "word": "Lay the groundwork (verbo)",
+          "translation": "sentar las bases"
+        },
+        {
+          "word": "Take no offense",
+          "translation": "no te ofendas, no te lo tomes a mal"
+        },
+        {
+          "word": "Do I look like a wet pussy? (parcialmente no literal y despectivo)",
+          "translation": "¿Te parezco una perra mojada?"
+        },
+        {
+          "word": "You don't follow through (frase no literal)",
+          "translation": "no llevas las cosas a cabo"
+        },
+        {
+          "word": "Light clacking (acotación)",
+          "translation": "suave repiqueteo"
+        },
+        {
+          "word": "Picture's up!",
+          "translation": "¡Ya está la imagen!"
+        },
+        {
+          "word": "Roll sound",
+          "translation": "que suene el audio"
+        },
+        {
+          "word": "Speed (verbo)",
+          "translation": "acelerar"
+        },
+        {
+          "word": "Slate clacking (acotación)",
+          "translation": "ruido de la pizarra"
+        },
+        {
+          "word": "Jagger and I go way back (parcialmente no literal)",
+          "translation": "Jagger y yo nos conocemos desde hace mucho tiempo"
+        },
+        {
+          "word": "He's rolling with it though (frase no literal)",
+          "translation": "aunque se lo está tomando con calma"
+        },
+        {
+          "word": "Let's just let it roll (frase no literal)",
+          "translation": "dejemos que las cosas sigan su curso"
+        },
+        {
+          "word": "Unhinged",
+          "translation": "desquiciado"
+        },
+        {
+          "word": "I have all the dirt to shut Jagger... bars down (frase no literal)",
+          "translation": "tengo toda la información comprometedora necesaria para cerrarle el negocio a Jagger"
+        },
+        {
+          "word": "Hustler",
+          "translation": "pícaro"
+        },
+        {
+          "word": "Storyline",
+          "translation": "trama, historia"
+        },
+        {
+          "word": "Whine (verbo)",
+          "translation": "quejarse, lloriquear, gimotear"
+        },
+        {
+          "word": "Computer pad",
+          "translation": "panel de la computadora"
+        },
+        {
+          "word": "Risqué (adjetivo en francés)",
+          "translation": "arresgado"
+        },
+        {
+          "word": "Why don't you take a stab at it? (pregunta no literal)",
+          "translation": "¿Por qué no lo intentas?"
+        },
+        {
+          "word": "The DEA told me to go about business",
+          "translation": "la DEA me dijo que siguiera con lo mío"
+        },
+        {
+          "word": "Buld (someone) up (verbo frasal no literal en estado de ánimo)",
+          "translation": "apoyar, animar"
+        },
+        {
+          "word": "Carrier",
+          "translation": "transportador"
+        },
+        {
+          "word": "Fucking endangered?",
+          "translation": "¿En peligro de extinción, carajo?"
+        },
+        {
+          "word": "Fuck you, faggot, cocksucker! (despectivo)",
+          "translation": "¡Vete al carajo, maricón, chupapijas!"
+        },
+        {
+          "word": "Faggot (despectivo)",
+          "translation": "maricón"
+        },
+        {
+          "word": "She had a whole freak act with it (parcialmente no literal)",
+          "translation": "Hizo todo un espectáculo de locos con eso"
+        },
+        {
+          "word": "Curl up",
+          "translation": "acurrucarse, enroscarse"
+        },
+        {
+          "word": "Choke (someone) out",
+          "translation": "estrangular"
+        },
+        {
+          "word": "It's sizing you up",
+          "translation": "te está evaluando"
+        },
+        {
+          "word": "Wickedness",
+          "translation": "maldad"
+        },
+        {
+          "word": "Stupid ass car",
+          "translation": "qué auto más estúpido"
+        }
+      ],
+      "count": 61,
+      "dialogues": 955,
+      "duration": 58,
+      "durationEstimated": true
+    },
+    {
+      "code": "S03E07",
+      "name": "S03E07",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.72,
+        "senales": {
+          "vocabulario": 3.75,
+          "dialogos": 3.47,
+          "temas": 4.04
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 13.3,
+            "A2": 7.6,
+            "B1": 13.3,
+            "B2": 33.1,
+            "C1": 20.1,
+            "C2": 12.4
+          },
+          "densidad": 7.5
+        },
+        "dialogos": {
+          "cobertura95": 3.54,
+          "ppm": 149.7
+        },
+        "temas": [
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Lighter striking (acotación)",
+          "translation": "encendido del encendedor"
+        },
+        {
+          "word": "I don't usually do Blacks (parcialmente no literal)",
+          "translation": "usualmente no me dedico a los negros"
+        },
+        {
+          "word": "Knuckle",
+          "translation": "nudillos"
+        },
+        {
+          "word": "Hope they don't turn out like us",
+          "translation": "ojalá no terminen como nosotros"
+        },
+        {
+          "word": "Get you some of this (frase no literal)",
+          "translation": "prueba un poco de esto"
+        },
+        {
+          "word": "Trying to get on the inside now",
+          "translation": "ahora estoy tratando de meterme Adentro"
+        },
+        {
+          "word": "Thwacking (acotación)",
+          "translation": "golpes"
+        },
+        {
+          "word": "There's a hard left!",
+          "translation": "¡Hay una curva cerrada a la izquierda!"
+        },
+        {
+          "word": "Go frantic (verbo)",
+          "translation": "volverse loco"
+        },
+        {
+          "word": "You have to stay ahead of the pain",
+          "translation": "tienes que adelantarte al dolor"
+        },
+        {
+          "word": "Hope ain't gonna stroll along and mug yo ass (frase no literal)",
+          "translation": "la esperanza no va a venir por ahí a asaltarte"
+        },
+        {
+          "word": "To check in with his sponsees",
+          "translation": "para ponerse en contacto con sus ahijados"
+        },
+        {
+          "word": "Clip my large intestine",
+          "translation": "me cortaron un poco del intestina grueso"
+        },
+        {
+          "word": "Got you a whole new booty hole",
+          "translation": "te hice un agujero nuevo en el trasero"
+        },
+        {
+          "word": "Staples",
+          "translation": "grapas"
+        },
+        {
+          "word": "A tune-up",
+          "translation": "un arreglo"
+        },
+        {
+          "word": "Dawg (informal)",
+          "translation": "amigo"
+        },
+        {
+          "word": "Screen door (sustantivo parcialmente no literal)",
+          "translation": "puerta de malla"
+        },
+        {
+          "word": "Figurine",
+          "translation": "figurita"
+        },
+        {
+          "word": "You wanna push the envelope (frase no literal)",
+          "translation": "quieres ir más allá de los límites"
+        },
+        {
+          "word": "Storyline",
+          "translation": "historia"
+        },
+        {
+          "word": "Best of luck being a modern-day madam",
+          "translation": "mucha suerte en tu papel de madame de hoy en día"
+        },
+        {
+          "word": "Should beat your fucking ass",
+          "translation": "te merecerías una buena paliza"
+        },
+        {
+          "word": "Bitch (verbo)",
+          "translation": "quejarse"
+        },
+        {
+          "word": "Moan (verbo aparte de gemir o gimotear)",
+          "translation": "lloriquear"
+        },
+        {
+          "word": "Sweeping (adjetivo en música)",
+          "translation": "grandioso"
+        },
+        {
+          "word": "Blow that kiss (parcialmente no literal)",
+          "translation": "mándame un beso"
+        },
+        {
+          "word": "Tub squeaking (acotación)",
+          "translation": "chirrido de la tina"
+        },
+        {
+          "word": "Hanging around downtown",
+          "translation": "andando por el centro de la ciudad"
+        },
+        {
+          "word": "In platform double suede",
+          "translation": "con suela de plataforma doble de gamuza"
+        },
+        {
+          "word": "Who's that lounging in my chair",
+          "translation": "quién está ahí tirado en mi sillón"
+        },
+        {
+          "word": "Who's that casting dvious stares",
+          "translation": "quién es ese que lanza miradas sospechosas"
+        },
+        {
+          "word": "Cum (verbo en sentido sugerente y sexual)",
+          "translation": "correrse"
+        },
+        {
+          "word": "You might be the world's greatest fuck",
+          "translation": "quizás seas el mejor amante del mundo"
+        },
+        {
+          "word": "Passcode",
+          "translation": "código de acceso, contraseña"
+        },
+        {
+          "word": "Cassie is gonna come through",
+          "translation": "Cassie lo va a lograr"
+        },
+        {
+          "word": "She's working her fucking ass off (parcialmente no literal)",
+          "translation": "se está matando a trabajar"
+        },
+        {
+          "word": "A custom job",
+          "translation": "un trabajo a la medida"
+        },
+        {
+          "word": "12-gauge shotgun",
+          "translation": "escopeta calibre 12"
+        },
+        {
+          "word": "The last run (parcialmente no literal)",
+          "translation": "la última vuelta"
+        },
+        {
+          "word": "Your cries",
+          "translation": "tus gritos/llantos"
+        },
+        {
+          "word": "Drug mule",
+          "translation": "traficante de drogas"
+        },
+        {
+          "word": "Homestead",
+          "translation": "finca"
+        },
+        {
+          "word": "I'm getting a new booty",
+          "translation": "me voy a hacer un nuevo trasero"
+        },
+        {
+          "word": "Be redeemed",
+          "translation": "ser redimido"
+        },
+        {
+          "word": "We'll have fixed wing support giving us eyes on the van (parcialmente no literal)",
+          "translation": "contaremos con apoyo aéreo para vigilar la camioneta"
+        },
+        {
+          "word": "To be cognizant of that",
+          "translation": "estar al tanto de eso"
+        },
+        {
+          "word": "Gauze",
+          "translation": "gasa"
+        },
+        {
+          "word": "You go gunning",
+          "translation": "vas de caza"
+        },
+        {
+          "word": "And you fire till he's done in",
+          "translation": "y tú sigues disparando hasta que lo acabes de matar"
+        },
+        {
+          "word": "Mourners",
+          "translation": "dolientes"
+        },
+        {
+          "word": "I'm liable to knock you the fuck out",
+          "translation": "estoy a punto de dejarte noqueado, carajo"
+        },
+        {
+          "word": "She's no high climber (parcialmente no literal)",
+          "translation": "no es de las que llegan muy lejos"
+        },
+        {
+          "word": "Get your ass outta here (informal y despectivo)",
+          "translation": "lárgate de aquí"
+        },
+        {
+          "word": "You're walking like you booty stink (forma parcialmente no literal)",
+          "translation": "andas como si te oliera el trasero"
+        },
+        {
+          "word": "Wheel turning round and round",
+          "translation": "la rueda da vueltas y vueltas"
+        },
+        {
+          "word": "Bag unzipping (acotación)",
+          "translation": "se abre la cremallera de la bolsa"
+        },
+        {
+          "word": "That's fire (frase no literal)",
+          "translation": "eso sí que es genial"
+        },
+        {
+          "word": "A cute-ass baby",
+          "translation": "un bebé súper lindo"
+        },
+        {
+          "word": "Put (something) on",
+          "translation": "ponerse (algo)"
+        },
+        {
+          "word": "The big bad wolf got outsmarted (parcialmente no literal)",
+          "translation": "el lobo feroz fue burlado"
+        },
+        {
+          "word": "Rednecks",
+          "translation": "paletos"
+        },
+        {
+          "word": "Maybe you shit outta luck (parcialmente no literal)",
+          "translation": "quizás no tengas suerte"
+        },
+        {
+          "word": "Fuck over",
+          "translation": "hacer una mala jugada, hacer una jugada sucia"
+        },
+        {
+          "word": "Front (verbo)",
+          "translation": "prestar"
+        },
+        {
+          "word": "Give her some double-D's and a bath",
+          "translation": "dale unos senos de talla doble D y un baño"
+        },
+        {
+          "word": "I'll be standing on your side",
+          "translation": "estaré de tu lado"
+        },
+        {
+          "word": "Steer clear (verbo)",
+          "translation": "mantenerse alejado"
+        },
+        {
+          "word": "But you get shit done (frase no literal)",
+          "translation": "pero tú sí que haces las cosas"
+        },
+        {
+          "word": "Pent up",
+          "translation": "contenido, reprimido"
+        },
+        {
+          "word": "I even got Rue out there handling business",
+          "translation": "hasta logré que Rue saliera a ocuparse de los asuntos"
+        },
+        {
+          "word": "Tootsies",
+          "translation": "piececitos"
+        },
+        {
+          "word": "Belt sliding (acotación)",
+          "translation": "deslizamiento de la correa"
+        },
+        {
+          "word": "I think what you did was fucked up",
+          "translation": "creo que lo que hiciste estuvo muy mal"
+        },
+        {
+          "word": "Stretching",
+          "translation": "estiramiento"
+        },
+        {
+          "word": "You better be a good fuckin' shot",
+          "translation": "más te vale que seas un puto buen tirador"
+        },
+        {
+          "word": "Easy on that trigger",
+          "translation": "no aprietes tanto ese gatillo"
+        },
+        {
+          "word": "You get really mean (frase no literal)",
+          "translation": "te pones muy malhumorado"
+        },
+        {
+          "word": "Lighter flicking (acotación)",
+          "translation": "sonido del encendedor"
+        },
+        {
+          "word": "These fluffy",
+          "translation": "estas cosas tan esponjosas"
+        },
+        {
+          "word": "I'm gonna make you put Rue down like a dog",
+          "translation": "te voy a obligar a sacrificar a Rue como si fuera un perro"
+        },
+        {
+          "word": "I'm getting hard just thinking about it (parcialmente no literal)",
+          "translation": "solo de pensarlo ya me estoy excitando"
+        },
+        {
+          "word": "Locks clacking (acotación)",
+          "translation": "ruido de las cerraduras"
+        },
+        {
+          "word": "It's a steep price to pay",
+          "translation": "es un precio muy alto que pagar"
+        },
+        {
+          "word": "Live on",
+          "translation": "seguir vivo"
+        },
+        {
+          "word": "About time your ass wised up (frase no literal)",
+          "translation": "ya era hora de que te dieras cuenta"
+        },
+        {
+          "word": "Lift it up",
+          "translation": "levántalo"
+        },
+        {
+          "word": "Gulping softly (acotación parcialmente no literal)",
+          "translation": "tragando saliva en silencio"
+        }
+      ],
+      "count": 88,
+      "dialogues": 1176,
+      "duration": 77,
+      "durationEstimated": true
+    },
+    {
+      "code": "S03E08",
+      "name": "S03E08",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.63,
+        "senales": {
+          "vocabulario": 3.58,
+          "dialogos": 3.49,
+          "temas": 4.06
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.1,
+            "A2": 10.6,
+            "B1": 13.7,
+            "B2": 32.8,
+            "C1": 15.2,
+            "C2": 13.5
+          },
+          "densidad": 7.0
+        },
+        "dialogos": {
+          "cobertura95": 3.65,
+          "ppm": 141.9
+        },
+        "temas": [
+          "crimen, drogas y calle",
+          "militar y policial"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Rope zipping (acotación)",
+          "translation": "sonido de una cueda al deslizarse"
+        },
+        {
+          "word": "Hoofbeats thudding (acotación)",
+          "translation": "retumbar de los cascos"
+        },
+        {
+          "word": "Hurry your ass up and run!",
+          "translation": "¡Date prisa y corre de una vez!"
+        },
+        {
+          "word": "He fucking got me (frase no literal)",
+          "translation": "me la jugó carajo"
+        },
+        {
+          "word": "Sit your ass down! You got his ass",
+          "translation": "¡Siéntate de una vez! Ya lo tienes en tus manos"
+        },
+        {
+          "word": "All along",
+          "translation": "desde el principio"
+        },
+        {
+          "word": "Popping (acotación sonora)",
+          "translation": "sonido"
+        },
+        {
+          "word": "The upper hand",
+          "translation": "la ventaja"
+        },
+        {
+          "word": "I propose a 50/50 split of the load",
+          "translation": "propongo repartir la carga al 50/50"
+        },
+        {
+          "word": "Not that shit up in your head (parcialmente no literal)",
+          "translation": "no te llenes la cabeza con esas tonterías"
+        },
+        {
+          "word": "I don't want you fucking around too much",
+          "translation": "no quiero que andes hacienda tonterías"
+        },
+        {
+          "word": "Run yourself a nice Epsom salt bath",
+          "translation": "prepárate un buen baño con sal de Epsom"
+        },
+        {
+          "word": "You need stitching up",
+          "translation": "necesitas que te pongan puntos"
+        },
+        {
+          "word": "Shit all there (frase no literal)",
+          "translation": "no hay nada de nada ahí"
+        },
+        {
+          "word": "Kill the engine (verbo no literal)",
+          "translation": "apaga el motor"
+        },
+        {
+          "word": "The spirit of God was hovering over the face of the waters (parcialmente no literal)",
+          "translation": "el espíritu de Dios se movía sobre la superficie de las aguas"
+        },
+        {
+          "word": "A long, thin tapeworm hanging out of your ass",
+          "translation": "una lombriz solitaria larga y delgada que te sale del trasero"
+        },
+        {
+          "word": "Air wing has the eye (frase no literal)",
+          "translation": "la escuadrilla aérea está atenta"
+        },
+        {
+          "word": "You'd be constipated, not shitting your brains out",
+          "translation": "estarías estreñido, no cagándote a más no poder"
+        },
+        {
+          "word": "Surrender your weapons",
+          "translation": "entreguen sus armas"
+        },
+        {
+          "word": "Comply with the officers",
+          "translation": "siga con las instrucciones de los oficiales"
+        },
+        {
+          "word": "Spread out (expresión)",
+          "translation": "sepárense, dispersen"
+        },
+        {
+          "word": "Ledge",
+          "translation": "cornisa"
+        },
+        {
+          "word": "Step down from the roof!",
+          "translation": "¡Bajese del techo!"
+        },
+        {
+          "word": "Squelching (acotación)",
+          "translation": "chapoteo"
+        },
+        {
+          "word": "Whirring (acotación aparte de chirrido)",
+          "translation": "zumbido"
+        },
+        {
+          "word": "Pork chops and pussy's on me tonight",
+          "translation": "esta noche invito yo a las chuletas de cerdo y a las chicas"
+        },
+        {
+          "word": "Using the novel catching method",
+          "translation": "usando el nuevo método de captura"
+        },
+        {
+          "word": "Escaped convict",
+          "translation": "preso fugado"
+        },
+        {
+          "word": "Framing the proposal as a cornerstone",
+          "translation": "plantear la propuesta como una piedra angular"
+        },
+        {
+          "word": "A deadlocked race",
+          "translation": "una contienda reñida"
+        },
+        {
+          "word": "One of the most closely watched battleground states",
+          "translation": "uno de los estados clave más seguidos"
+        },
+        {
+          "word": "We got a runner down the alley!",
+          "translation": "¡Tenemos a alguien corriendo por el callejón!"
+        },
+        {
+          "word": "It's plain and simple",
+          "translation": "es así de sencillo"
+        },
+        {
+          "word": "To bring that shit across the seas to the dockworkers",
+          "translation": "para llevar esa porquería a través del mar hasta los estibadores"
+        },
+        {
+          "word": "Nonprofits",
+          "translation": "organizaciones sin fines de lucro"
+        },
+        {
+          "word": "There ain't no in between",
+          "translation": "no hay término medio"
+        },
+        {
+          "word": "My entreprenurial hat (no literal)",
+          "translation": "mi faceta como emprendedor"
+        },
+        {
+          "word": "Concept (verbo no alusivo a concepto)",
+          "translation": "crear, diseñar"
+        },
+        {
+          "word": "We just charge room and board",
+          "translation": "solo cobramos el alojamiento y la comida"
+        },
+        {
+          "word": "Lipstick capsule popping (acotación)",
+          "translation": "sonido de una cápsula de labial al abrirse"
+        },
+        {
+          "word": "Spooky",
+          "translation": "espeluznante"
+        },
+        {
+          "word": "But that felt like a worse omen",
+          "translation": "pero eso me pareció un mal presagio aún mayor"
+        },
+        {
+          "word": "Creepy",
+          "translation": "espeluznante"
+        },
+        {
+          "word": "Not that I'm without faults (frase no literal)",
+          "translation": "no es que no tenga defectos"
+        },
+        {
+          "word": "It's thumping",
+          "translation": "está retumbando"
+        },
+        {
+          "word": "Buss it open",
+          "translation": "ábrelo de una vez"
+        },
+        {
+          "word": "Buss it for a real player",
+          "translation": "dale un beso a un verdadero jugador"
+        },
+        {
+          "word": "Smurk (verbo)",
+          "translation": "sonreír"
+        },
+        {
+          "word": "Limber",
+          "translation": "ágil"
+        },
+        {
+          "word": "As she parted her pins",
+          "translation": "mientras separaba las piernas"
+        },
+        {
+          "word": "Staring up at Kitty's slit (despectivo)",
+          "translation": "mirando fijamente la raja de Kitty"
+        },
+        {
+          "word": "It still runs me",
+          "translation": "sigue mandándome"
+        },
+        {
+          "word": "Wanna let off some steam? (pregunta no literal)",
+          "translation": "¿Quieres desahogarte un poco?"
+        },
+        {
+          "word": "Lay off the merchandise",
+          "translation": "dejar de vender la mercancía"
+        },
+        {
+          "word": "White picket fences",
+          "translation": "cercas blancas de estacas"
+        },
+        {
+          "word": "Sit your monkey ass down (parcialmente no literal)",
+          "translation": "siéntate de una vez, idiota"
+        },
+        {
+          "word": "I ain't fucking with y'all",
+          "translation": "no estoy bromeando con ustedes"
+        },
+        {
+          "word": "Step up!",
+          "translation": "¡Ven aquí!"
+        },
+        {
+          "word": "I'll be right out",
+          "translation": "ya salgo"
+        },
+        {
+          "word": "And killed my Black ass stone dead",
+          "translation": "y haberme matado a mí, este negro, de un tiro"
+        },
+        {
+          "word": "Word is bond (expresión)",
+          "translation": "la palabra es ley"
+        },
+        {
+          "word": "So you got a score to settle",
+          "translation": "así que tienes una cuenta que saldar"
+        },
+        {
+          "word": "Sweet cheeks (forma de referirse a una chica)",
+          "translation": "guapita, cariño"
+        },
+        {
+          "word": "That's when we gonna draw (frase no literal en duelo de armas)",
+          "translation": "ahí es cuando vamos a sacar las armas"
+        },
+        {
+          "word": "Can I give you a ride home?",
+          "translation": "¿Te llevo a casa?"
+        },
+        {
+          "word": "Lead us in grace (verbo)",
+          "translation": "guiarnos en la oración de gracias"
+        },
+        {
+          "word": "Weighed down (adjetivo)",
+          "translation": "agobiado, abrumado"
+        },
+        {
+          "word": "Pour out",
+          "translation": "derramar"
+        },
+        {
+          "word": "Unfailing love",
+          "translation": "amor inquebrantable"
+        }
+      ],
+      "count": 70,
+      "dialogues": 998,
+      "duration": 90,
+      "durationEstimated": true
     }
   ],
-  "count": 1173,
-  "dialogues": 19034,
-  "duration": 1285
+  "count": 1481,
+  "dialogues": 23276,
+  "duration": 1571,
+  "durationEstimated": true
 }

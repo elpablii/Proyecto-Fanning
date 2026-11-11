@@ -6,14 +6,14 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 
 | Métrica | Antes | Ahora |
 |---|---:|---:|
-| Palabras y frases | 37,650 | 37,650 |
-| Líneas de diálogo | 461,019 | 461,019 |
-| Títulos visibles | 204 | 204 |
+| Palabras y frases | 39,148 | 39,148 |
+| Líneas de diálogo | 480,191 | 481,947 |
+| Títulos visibles | 210 | 210 |
 | 2023: palabras / diálogos | 1,093 / 8,327 | 1,093 / 8,327 |
 | 2024: palabras / diálogos | 8,832 / 82,538 | 8,832 / 82,538 |
 | 2025: palabras / diálogos | 11,019 / 133,371 | 11,019 / 133,371 |
 | 2026: palabras / diálogos | 11,613 / 161,469 | 11,613 / 161,469 |
-| 2027: palabras / diálogos | 5,093 / 75,314 | 5,093 / 75,314 |
+| 2027: palabras / diálogos | 6,591 / 94,486 | 6,591 / 96,242 |
 
 ## Por título (solo los que cambiaron)
 
@@ -21,6 +21,7 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 |---|---:|---:|---:|---:|---:|---:|
 | Gambito de Dama | 295 | 295 | 4222 | 4222 | 1 | 0 |
 | Mary Queen of Scots | 223 | 223 | 1128 | 1128 | 2 | 0 |
+| My Salinger Year | 79 | 79 | 0 | 1756 | 0 | 0 |
 | Oppenheimer | 433 | 433 | 3708 | 3708 | 5 | 0 |
 | Tall Girl II | 97 | 97 | 1899 | 1899 | 1 | 0 |
 | Taylor Swift The Eras Tour Film | 377 | 377 | 3378 | 3378 | 2 | 0 |
@@ -30,19 +31,9 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 
 ## Avisos para revisar
 
-- Euphoria: el episodio S03E05 tiene diálogos (1113) pero no vocabulario; sus líneas no se suman
-- Euphoria: el episodio S03E06 tiene diálogos (955) pero no vocabulario; sus líneas no se suman
-- Euphoria: el episodio S03E07 tiene diálogos (1176) pero no vocabulario; sus líneas no se suman
-- Euphoria: el episodio S03E08 tiene diálogos (998) pero no vocabulario; sus líneas no se suman
 - Lucky: el episodio S01E05 tiene diálogos (500) pero no vocabulario; sus líneas no se suman
 - Lucky: el episodio S01E06 tiene diálogos (754) pero no vocabulario; sus líneas no se suman
 - Lucky: el episodio S01E07 tiene diálogos (579) pero no vocabulario; sus líneas no se suman
-- Margo's Got Money Troubles: el episodio S01E05 tiene diálogos (693) pero no vocabulario; sus líneas no se suman
-- Margo's Got Money Troubles: el episodio S01E06 tiene diálogos (665) pero no vocabulario; sus líneas no se suman
-- Margo's Got Money Troubles: el episodio S01E07 tiene diálogos (517) pero no vocabulario; sus líneas no se suman
-- Margo's Got Money Troubles: el episodio S01E08 tiene diálogos (680) pero no vocabulario; sus líneas no se suman
-- Taylor Swift - The End of an Era: el episodio S01E05 tiene diálogos (764) pero no vocabulario; sus líneas no se suman
-- Taylor Swift - The End of an Era: el episodio S01E06 tiene diálogos (729) pero no vocabulario; sus líneas no se suman
 - The Amazing Digital Circus: el episodio S01E06 tiene diálogos (705) pero no vocabulario; sus líneas no se suman
 - The Amazing Digital Circus: el episodio S01E07 tiene diálogos (592) pero no vocabulario; sus líneas no se suman
 - The Amazing Digital Circus: el episodio S01E08 tiene diálogos (576) pero no vocabulario; sus líneas no se suman
@@ -89,8 +80,6 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 - The Big Bang Theory: el episodio S08E22 tiene diálogos (438) pero no vocabulario; sus líneas no se suman
 - The Big Bang Theory: el episodio S08E23 tiene diálogos (438) pero no vocabulario; sus líneas no se suman
 - The Big Bang Theory: el episodio S08E24 tiene diálogos (419) pero no vocabulario; sus líneas no se suman
-- The First Lady: el episodio S01E03 tiene diálogos (841) pero no vocabulario; sus líneas no se suman
-- The First Lady: el episodio S01E04 tiene diálogos (929) pero no vocabulario; sus líneas no se suman
 - The First Lady: el episodio S01E05 tiene diálogos (908) pero no vocabulario; sus líneas no se suman
 - The First Lady: el episodio S01E06 tiene diálogos (906) pero no vocabulario; sus líneas no se suman
 - The First Lady: el episodio S01E07 tiene diálogos (927) pero no vocabulario; sus líneas no se suman
@@ -105,34 +94,7 @@ Generado por `scripts/metricas/actualizar.py` a partir de las fichas y los PDFs.
 - The Great: el episodio S01E08 tiene diálogos (993) pero no vocabulario; sus líneas no se suman
 - The Great: el episodio S01E09 tiene diálogos (1035) pero no vocabulario; sus líneas no se suman
 - The Great: el episodio S01E10 tiene diálogos (923) pero no vocabulario; sus líneas no se suman
-- A Good Girl's Guide to Murder: falta "clasificacion" (se mostrará TE).
-- Back to the Future I: falta "clasificacion" (se mostrará TE).
-- Cillian Murphy & Margot Robbie – Actors and Actors: falta "clasificacion" (se mostrará TE).
 - Cillian Murphy & Margot Robbie – Actors and Actors: falta el id de TMDB ("tmdb"); sin él no se pueden actualizar póster ni fotos.
 - Cillian Murphy & Margot Robbie – Actors and Actors: falta la imagen de "poster"; guárdala en fanning-dashboard\public\posters\cillian-murphy-margot-robbie-actors-and-actors.jpg.
-- Countdown: falta "clasificacion" (se mostrará TE).
-- Eileen: falta "clasificacion" (se mostrará TE).
-- GTA San Andreas WCTR Radio: falta "clasificacion" (se mostrará TE).
 - GTA San Andreas WCTR Radio: falta el id de TMDB ("tmdb"); sin él no se pueden actualizar póster ni fotos.
 - GTA San Andreas WCTR Radio: falta la imagen de "poster"; guárdala en fanning-dashboard\public\posters\gta-san-andreas-wctr-radio.jpg.
-- Kick Buttowski: falta "clasificacion" (se mostrará TE).
-- Lost Girls: falta "clasificacion" (se mostrará TE).
-- Lucky: falta "clasificacion" (se mostrará TE).
-- Margo's Got Money Troubles: falta "clasificacion" (se mostrará TE).
-- Mary Shelley: falta "clasificacion" (se mostrará TE).
-- Matilda: falta "clasificacion" (se mostrará TE).
-- Taylor Swift - The End of an Era: falta "clasificacion" (se mostrará TE).
-- The Amazing Digital Circus: falta "clasificacion" (se mostrará TE).
-- The First Lady: falta "clasificacion" (se mostrará TE).
-- The Great: falta "clasificacion" (se mostrará TE).
-- The Hate U Give: falta "clasificacion" (se mostrará TE).
-- The Ice Road II Vengeance: falta "clasificacion" (se mostrará TE).
-- The Last of Robin Hood: falta "clasificacion" (se mostrará TE).
-- The Secret Life of Bees: falta "clasificacion" (se mostrará TE).
-- The Short History of the Long Road: falta "clasificacion" (se mostrará TE).
-- The Twilight Saga I: falta "clasificacion" (se mostrará TE).
-- The Twilight Saga II New Moon: falta "clasificacion" (se mostrará TE).
-- The Twilight Saga III Eclipse: falta "clasificacion" (se mostrará TE).
-- Trumbo: falta "clasificacion" (se mostrará TE).
-- Wuthering Heights: falta "clasificacion" (se mostrará TE).
-- Young Ones: falta "clasificacion" (se mostrará TE).

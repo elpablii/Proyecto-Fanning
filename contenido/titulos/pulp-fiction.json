@@ -1,0 +1,35 @@
+{
+  "titulo": "Pulp Fiction",
+  "tipo": "pelicula",
+  "clasificacion": "+18",
+  "duracion": 154,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 680
+  },
+  "analisis": "",
+  "sinopsis": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+  "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "https://image.tmdb.org/t/p/w780/cOGysF4SXauEKz18mFGmkZW6O2T.jpg",
+    "https://image.tmdb.org/t/p/w780/9pGM43a9VmXxwIxmhJoiDkcB2hT.jpg",
+    "https://image.tmdb.org/t/p/w780/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg",
+    "https://image.tmdb.org/t/p/w780/52StM7zDmcjeKxWkW55X5LtoLQi.jpg",
+    "https://image.tmdb.org/t/p/w780/eDMZmfnH50DDboUxTRnOYYpE9aY.jpg"
+  ],
+  "realeza": {
+    "Samuel L. Jackson": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Pulp Fiction (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Pulp Fiction to improve the vocabulary in English.pdf"
+    ]
+  }
+}

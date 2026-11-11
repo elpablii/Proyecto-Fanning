@@ -3,33 +3,34 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.98,
+    "puntaje": 4.12,
     "senales": {
-      "vocabulario": 4.03,
+      "vocabulario": 4.15,
       "dialogos": 3.84,
-      "temas": 4.1
+      "temas": 4.13
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 8.6,
-        "A2": 8.6,
-        "B1": 14.9,
-        "B2": 25.1,
-        "C1": 17.7,
-        "C2": 25.1
+        "A1": 8.4,
+        "A2": 8.2,
+        "B1": 13.8,
+        "B2": 27.3,
+        "C1": 16.6,
+        "C2": 25.8
       },
-      "densidad": 7.0
+      "densidad": 7.8
     },
     "dialogos": {
       "cobertura95": 3.77,
       "ppm": 160.5
     },
     "temas": [
-      "legal y judicial"
+      "legal y judicial",
+      "crimen, drogas y calle"
     ],
     "rango": [
       "B2",
-      "B2-C1"
+      "C1"
     ]
   },
   "englishAnalysis": "",
@@ -63,7 +64,11 @@
         "name": "Buddies",
         "still_path": "https://image.tmdb.org/t/p/w500/p3AUoI8HxDUTlhpzN0o7vAUjxeJ.jpg",
         "overview": "Surge un encuentro entre mundos cuando Margo hace nuevas amigas. Jinx se reencuentra con sus raíces en la lucha libre."
-      }
+      },
+      "S01E05": {},
+      "S01E06": {},
+      "S01E07": {},
+      "S01E08": {}
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
@@ -915,9 +920,1038 @@
       "count": 37,
       "dialogues": 640,
       "duration": 36
+    },
+    {
+      "code": "S01E05",
+      "name": "Margo's Got Money Troubles (Episode 5)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.69,
+        "senales": {
+          "vocabulario": 3.71,
+          "dialogos": 3.49,
+          "temas": 3.94
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 12.7,
+            "A2": 12.7,
+            "B1": 12.7,
+            "B2": 22.9,
+            "C1": 7.6,
+            "C2": 31.3
+          },
+          "densidad": 5.8
+        },
+        "dialogos": {
+          "cobertura95": 3.47,
+          "ppm": 156.6
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "Fuss (verbo)",
+          "translation": "hacer un berrinche, quejarse"
+        },
+        {
+          "word": "A bridal shower",
+          "translation": "una fiesta de despedida de soltera"
+        },
+        {
+          "word": "I'm still bottle training Bodhi",
+          "translation": "todavía le estoy enseñando a Bodhi a tomar del biberón"
+        },
+        {
+          "word": "I would like to catch a glimpse of you",
+          "translation": "me gustaría verte aunque sea un momento"
+        },
+        {
+          "word": "Bright and early",
+          "translation": "a primera hora de la mañana"
+        },
+        {
+          "word": "Smoosh (verbo)",
+          "translation": "aplastar"
+        },
+        {
+          "word": "Outbreal of political unrest",
+          "translation": "brote de disturbios politicos"
+        },
+        {
+          "word": "Stepmother-in-law",
+          "translation": "madrastra política"
+        },
+        {
+          "word": "It's like one big awesome pot of incestous family gumbo",
+          "translation": "es como una gran y increíble olla de gumbo de una familia incestuosa"
+        },
+        {
+          "word": "Clacking (acotación)",
+          "translation": "repiqueteo"
+        },
+        {
+          "word": "Sicko",
+          "translation": "pervertido"
+        },
+        {
+          "word": "Pump (verbo en maternidad)",
+          "translation": "sacar/extraer leche"
+        },
+        {
+          "word": "Go apeshit",
+          "translation": "volverse loco"
+        },
+        {
+          "word": "That brine shrimp eat",
+          "translation": "de las que se alimentan los camarones de salmuera"
+        },
+        {
+          "word": "Getting pulled on stage",
+          "translation": "que te saquen al escenario"
+        },
+        {
+          "word": "Poorhouse",
+          "translation": "asilo para pobres"
+        },
+        {
+          "word": "Cleavage",
+          "translation": "escote"
+        },
+        {
+          "word": "You got a little thing sticking out right here",
+          "translation": "tienes una cosita que se te sale justo aquí"
+        },
+        {
+          "word": "The shell-colored one",
+          "translation": "el de color concha"
+        },
+        {
+          "word": "Devote (verbo)",
+          "translation": "dedicar"
+        },
+        {
+          "word": "For getting a little bent out of shape (frase no literal)",
+          "translation": "por haberme enojado un poco"
+        },
+        {
+          "word": "Dependable",
+          "translation": "en la que se puede confiar"
+        },
+        {
+          "word": "My bride-to-be will have the scallops",
+          "translation": "mi futura esposa pedirá las vieiras"
+        },
+        {
+          "word": "Scallops",
+          "translation": "vieiras"
+        },
+        {
+          "word": "I'm performing my ablutions (parcialmente no literal)",
+          "translation": "me estoy haciendo las abluciones"
+        },
+        {
+          "word": "You put those milk machines to good use in a tight titty top or something (frase no literal)",
+          "translation": "aprovecha bien esas tetas con un top ajustado o algo así"
+        },
+        {
+          "word": "And hide the little dump lump in it",
+          "translation": "y esconde ahí ese pequeño montón de caca"
+        },
+        {
+          "word": "For having out tonight",
+          "translation": "por haber salido esta noche"
+        },
+        {
+          "word": "I knew you'd be good for a wild night out",
+          "translation": "sabía que con ti la pasaríamos bien en una noche de fiesta alocada"
+        },
+        {
+          "word": "Just pop him over",
+          "translation": "solo tráelo por aquí"
+        },
+        {
+          "word": "Just enjoying a baby-less pee",
+          "translation": "simplemente disfrutando de ir al baño sin el bebé"
+        },
+        {
+          "word": "Roomy",
+          "translation": "espacioso"
+        },
+        {
+          "word": "You and Dad banged in there",
+          "translation": "tú y papá se metieron ahí de un golpe"
+        },
+        {
+          "word": "In my gut (parcialmente no literal)",
+          "translation": "en mi interior"
+        },
+        {
+          "word": "An ass-licker of a song",
+          "translation": "una canción tan aduladora"
+        },
+        {
+          "word": "I'll have buffalo wings (parcialmente no literal)",
+          "translation": "voy a pedir alitas de pollo al estilo Buffalo"
+        },
+        {
+          "word": "Bone-in",
+          "translation": "con hueso"
+        },
+        {
+          "word": "Hunk",
+          "translation": "trozo, pedazo"
+        },
+        {
+          "word": "I peeked in today",
+          "translation": "hoy me asomé un rato"
+        },
+        {
+          "word": "I wanna dig into something big",
+          "translation": "quiero meterme de lleno en algo grande"
+        }
+      ],
+      "count": 40,
+      "dialogues": 693,
+      "duration": 43,
+      "durationEstimated": true
+    },
+    {
+      "code": "S01E06",
+      "name": "Margo's Got Money Troubles (Episode 6)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 4.0,
+        "senales": {
+          "vocabulario": 4.06,
+          "dialogos": 3.81,
+          "temas": 4.09
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 8.3,
+            "A2": 10.4,
+            "B1": 6.2,
+            "B2": 35.2,
+            "C1": 19.3,
+            "C2": 20.7
+          },
+          "densidad": 7.4
+        },
+        "dialogos": {
+          "cobertura95": 3.72,
+          "ppm": 161.9
+        },
+        "temas": [
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Moviegoers",
+          "translation": "cinéfilos"
+        },
+        {
+          "word": "Feed me memes and tinfoil and old-timey film strips",
+          "translation": "dame memes, papel de aluminio y tiras de película de las de antes"
+        },
+        {
+          "word": "Clacking",
+          "translation": "repiqueteo"
+        },
+        {
+          "word": "Creepy",
+          "translation": "espeluznante, inquietante"
+        },
+        {
+          "word": "It's like the sideshow freak",
+          "translation": "es como el artista de circo de segunda"
+        },
+        {
+          "word": "The pay-per-view",
+          "translation": "el evento de pago por visión"
+        },
+        {
+          "word": "Gimmick",
+          "translation": "truco, artimaña"
+        },
+        {
+          "word": "He'll be our go-to for stunts",
+          "translation": "él será nuestro especialista de confianza para las escenas de acción"
+        },
+        {
+          "word": "Bongs",
+          "translation": "pipas"
+        },
+        {
+          "word": "Persona",
+          "translation": "personaje"
+        },
+        {
+          "word": "Children whooping, screaming (acotación)",
+          "translation": "niños gritando y chillando"
+        },
+        {
+          "word": "Happiness is often a buy-in",
+          "translation": "la felicidad suele ser una cuestión de aceptación"
+        },
+        {
+          "word": "Grudge match",
+          "translation": "duelo de revancha, combate por rencilla"
+        },
+        {
+          "word": "I did leg things and hand stuff (parcialmente no literal)",
+          "translation": "hice ejercicios para las piernas y para las manos"
+        },
+        {
+          "word": "And single woman banter",
+          "translation": "y las bromas entre mujeres solteras"
+        },
+        {
+          "word": "But all of the pain hits and the fog lifts",
+          "translation": "pero todo el dolor se desvanece y la niebla se disipa"
+        },
+        {
+          "word": "Abide by",
+          "translation": "cumplir con"
+        },
+        {
+          "word": "That takes over in a nanosecond",
+          "translation": "que se apodera de ti en un nanosegundo"
+        },
+        {
+          "word": "Why's he filing now?",
+          "translation": "¿Por qué está presentando la solicitud ahora?"
+        },
+        {
+          "word": "I'll invoice you",
+          "translation": "te enviaré la factura"
+        },
+        {
+          "word": "Don't flake, go hard, debase",
+          "translation": "no te des por vencido, da todo de ti, humilla"
+        },
+        {
+          "word": "Big time nothing (traducción aproximada)",
+          "translation": "nada de nada, una gran nada"
+        },
+        {
+          "word": "Yelp (verbo)",
+          "translation": "quejarse"
+        },
+        {
+          "word": "Let's knock her back to her planet",
+          "translation": "vamos a mandarla de vuelta a su planeta"
+        },
+        {
+          "word": "Ragged",
+          "translation": "desaliñado"
+        },
+        {
+          "word": "Don't glob it",
+          "translation": "no lo hagas de cualquier manera"
+        },
+        {
+          "word": "Icicles",
+          "translation": "carámbanos"
+        },
+        {
+          "word": "We had root canals for that (parcialmente no literal)",
+          "translation": "para eso tenemos los tratamientos de conducto"
+        },
+        {
+          "word": "The tinsel goes on one strand at a time",
+          "translation": "el oropel se coloca de una hebra a la vez"
+        },
+        {
+          "word": "Strum (verbo)",
+          "translation": "rasguear"
+        },
+        {
+          "word": "A roll",
+          "translation": "una voltereta"
+        },
+        {
+          "word": "Nails razor sharp",
+          "translation": "uñas afiladas como cuchillas"
+        },
+        {
+          "word": "Call (someone) off",
+          "translation": "llamar"
+        },
+        {
+          "word": "Pull up to",
+          "translation": "acercarse a"
+        },
+        {
+          "word": "This one really blew up (en redes sociales)",
+          "translation": "este sí que se volvió viral"
+        },
+        {
+          "word": "He's teething",
+          "translation": "le están saliendo los dientes"
+        },
+        {
+          "word": "I haven't been out in forever (frase no literal)",
+          "translation": "hace un montón que no salgo"
+        },
+        {
+          "word": "Rosé (en tragos)",
+          "translation": "vino rosado"
+        },
+        {
+          "word": "That incel-looking USC fucker",
+          "translation": "ese cabrón de la Universidad del Sur de California, que parece un incel"
+        },
+        {
+          "word": "That is such a cop-out (frase no literal)",
+          "translation": "eso es una excusa muy fácil"
+        },
+        {
+          "word": "You were too chicken-shit",
+          "translation": "fuiste demasiado cobarde"
+        },
+        {
+          "word": "And a college dropout",
+          "translation": "y abandonó/dejó la universidad"
+        },
+        {
+          "word": "If you start to feel ganged up on, I'll jump in",
+          "translation": "si empiezas a sentir que te están acorralando, yo intervendré"
+        },
+        {
+          "word": "He's weeding out",
+          "translation": "está quitando las malas hierbas"
+        },
+        {
+          "word": "Rip off the Band-Aid",
+          "translation": "quítate la curita de un tirón"
+        },
+        {
+          "word": "Overtly",
+          "translation": "abiertamente"
+        },
+        {
+          "word": "If I got cornered",
+          "translation": "si me viera acorralado"
+        },
+        {
+          "word": "Step up",
+          "translation": "dar un paso adelante"
+        },
+        {
+          "word": "To fall into",
+          "translation": "en las que uno puede caer"
+        }
+      ],
+      "count": 49,
+      "dialogues": 665,
+      "duration": 38,
+      "durationEstimated": true
+    },
+    {
+      "code": "S01E07",
+      "name": "Margo's Got Money Troubles (Episode 7)",
+      "level": "B2-C1",
+      "levelDetail": {
+        "nivel": "B2-C1",
+        "puntaje": 4.47,
+        "senales": {
+          "vocabulario": 4.34,
+          "dialogos": 3.87,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 7.3,
+            "A2": 10.9,
+            "B1": 20.0,
+            "B2": 25.5,
+            "C1": 12.7,
+            "C2": 23.6
+          },
+          "densidad": 10.6
+        },
+        "dialogos": {
+          "cobertura95": 3.73,
+          "ppm": 166.5
+        },
+        "temas": [
+          "legal y judicial",
+          "médica y de salud"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Cock (expresión despectiva)",
+          "translation": "qué pedazo de idiota"
+        },
+        {
+          "word": "That little dick (despectivo)",
+          "translation": "ese pajarito"
+        },
+        {
+          "word": "He should be gelded (parcialmente no literal)",
+          "translation": "deberían castrarlo"
+        },
+        {
+          "word": "The coeds",
+          "translation": "las universitarias"
+        },
+        {
+          "word": "Counter (verbo)",
+          "translation": "oponerse"
+        },
+        {
+          "word": "A bluff (forma no literal)",
+          "translation": "un engaño, un montaje"
+        },
+        {
+          "word": "File for custody (verbo)",
+          "translation": "solicitar la custodia"
+        },
+        {
+          "word": "A rent-controlled storage unit?",
+          "translation": "¿Un almacén con renta controlada?"
+        },
+        {
+          "word": "A fuck pad",
+          "translation": "un lugar para tener sexo"
+        },
+        {
+          "word": "And breastfedding",
+          "translation": "y relacionado con la lactancia materna"
+        },
+        {
+          "word": "As in they can better provide for the child",
+          "translation": "es decir pueden mantener mejor al niño"
+        },
+        {
+          "word": "Affluence is a frame of mind",
+          "translation": "la riqueza es una actitud"
+        },
+        {
+          "word": "And they can fuck themselves raw",
+          "translation": "y que se jodan hasta que no les quede nada"
+        },
+        {
+          "word": "She needs to get a feel for you",
+          "translation": "necesita conocerte mejor"
+        },
+        {
+          "word": "Out of concerns for Margo's fitness as a parent",
+          "translation": "debido a las dudas sobre la capacidad de Margo para ser madre"
+        },
+        {
+          "word": "She already turned to me for funds (forma no literal)",
+          "translation": "ya me pidió dinero"
+        },
+        {
+          "word": "Girlie",
+          "translation": "marica, maricon"
+        },
+        {
+          "word": "I'm curious as to what's suddenly changed",
+          "translation": "tengo curiosidad por saber qué ha cambiado de repente"
+        },
+        {
+          "word": "Dumbass",
+          "translation": "idiota"
+        },
+        {
+          "word": "I feel he was a bit preyed upon, catfished",
+          "translation": "siento que lo aprovecharon un poco, que lo engañaron"
+        },
+        {
+          "word": "This goes on in academia today",
+          "translation": "esto sigue pasando hoy en día en el mundo académico"
+        },
+        {
+          "word": "Being targeted by",
+          "translation": "siendo blando de"
+        },
+        {
+          "word": "Don't you stand up on me",
+          "translation": "no te atrevas a llevarme la contraria"
+        },
+        {
+          "word": "I won't have you asserting some sort of toxic dominion",
+          "translation": "no voy a permitir que impongas algún tipo de dominio tóxico"
+        },
+        {
+          "word": "Stand up (aparte y no alusivo a ponerse de pie)",
+          "translation": "defenderse"
+        },
+        {
+          "word": "Prey upon",
+          "translation": "aprovecharse de"
+        },
+        {
+          "word": "Fully sexually baked",
+          "translation": "totalmente desarrolladas sexualmente"
+        },
+        {
+          "word": "Waving her snatty-ratty poon-muff (despectivo)",
+          "translation": "agitando su coño desaliñado y andrajoso"
+        },
+        {
+          "word": "She's just a chip off the old ratty-snatty block",
+          "translation": "es igual que su papá, un tipo desaliñado y desgarbado"
+        },
+        {
+          "word": "I just snapped (frase no literal)",
+          "translation": "simplemente perdí los estribos"
+        },
+        {
+          "word": "You got more with me than you thought you were signing up for (frase no literal)",
+          "translation": "conmigo te topaste con más de lo que pensabas cuando te comprometiste"
+        },
+        {
+          "word": "Everything I signed up for",
+          "translation": "todo lo que esperaba"
+        },
+        {
+          "word": "Step over, get your foot up!",
+          "translation": "¡Hazte a un lado! ¡Levanta el pie!"
+        },
+        {
+          "word": "Wailing",
+          "translation": "sonido, ulular"
+        },
+        {
+          "word": "Overnight",
+          "translation": "durante la noche"
+        },
+        {
+          "word": "For when his back went out",
+          "translation": "para cuando le fallara la espalda"
+        },
+        {
+          "word": "I was in charge of dosing them out to him",
+          "translation": "y yo me encargaba de dárselas"
+        },
+        {
+          "word": "He's been skimming them since Las Vegas",
+          "translation": "las ha estado tomando a medias desde Las Vegas"
+        },
+        {
+          "word": "Shoot (verbo en medicina)",
+          "translation": "inyectar"
+        },
+        {
+          "word": "I'm gonna get myself to a methadone clinic",
+          "translation": "voy a ir a una clínica de metadona"
+        },
+        {
+          "word": "By harboring a user drug",
+          "translation": "al albergar una droga de uso personal"
+        },
+        {
+          "word": "Security deposit (parcialmente no literal)",
+          "translation": "depósito de garantía"
+        },
+        {
+          "word": "Lariat takedown",
+          "translation": "derribo con lazo"
+        },
+        {
+          "word": "Preserved in amber.",
+          "translation": "conservado en ámbar"
+        },
+        {
+          "word": "It's a full (frase no literal)",
+          "translation": "es una habitación completa"
+        },
+        {
+          "word": "Canisters",
+          "translation": "recipientes, latas"
+        },
+        {
+          "word": "And air dusters, they can be inhaled for a rush",
+          "translation": "y los aerosoles de aire comprimido: se pueden inhalar para sentir un subidón"
+        },
+        {
+          "word": "Nutmeg",
+          "translation": "nuez moscada"
+        },
+        {
+          "word": "She's a walking contact high",
+          "translation": "es como un subidón pasivo andante"
+        },
+        {
+          "word": "Weight bell",
+          "translation": "cinturón de lastre"
+        },
+        {
+          "word": "Write up",
+          "translation": "redactar"
+        },
+        {
+          "word": "Full disclosure",
+          "translation": "transparencia total"
+        },
+        {
+          "word": "In a bit of disarray",
+          "translation": "un poco desordenado"
+        },
+        {
+          "word": "It's a diaper rash",
+          "translation": "es una dermatitis del pañal"
+        },
+        {
+          "word": "It's not discretionary",
+          "translation": "no es algo discrecional"
+        }
+      ],
+      "count": 55,
+      "dialogues": 517,
+      "duration": 35,
+      "durationEstimated": true
+    },
+    {
+      "code": "S01E08",
+      "name": "Margo's Got Money Troubles (Episode 8)",
+      "level": "C1",
+      "levelDetail": {
+        "nivel": "C1",
+        "puntaje": 4.9,
+        "senales": {
+          "vocabulario": 4.87,
+          "dialogos": 4.33,
+          "temas": 6
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.7,
+            "A2": 1.3,
+            "B1": 12.0,
+            "B2": 30.7,
+            "C1": 20.0,
+            "C2": 29.3
+          },
+          "densidad": 11.0
+        },
+        "dialogos": {
+          "cobertura95": 4.32,
+          "ppm": 155.4
+        },
+        "temas": [
+          "legal y judicial",
+          "crimen, drogas y calle"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "You've got them all by the balls (frase no literal)",
+          "translation": "los tienes a todos en tus manos"
+        },
+        {
+          "word": "Brawls",
+          "translation": "peleas"
+        },
+        {
+          "word": "Cliimbing stalls at concert halls",
+          "translation": "puestos de escalada en salas de conciertos"
+        },
+        {
+          "word": "To you they crawl, body sprawled",
+          "translation": "se arrastran hacia ti, con el cuerpo tendido"
+        },
+        {
+          "word": "Close calls, stand tall (frase no literal)",
+          "translation": "situaciones peligrosas, mantente firme"
+        },
+        {
+          "word": "He stands a pretty good chance (frase no literal)",
+          "translation": "tiene bastantes posibilidades"
+        },
+        {
+          "word": "To call off the dogs",
+          "translation": "retirar a los perros"
+        },
+        {
+          "word": "Play nice (verbo)",
+          "translation": "portarse bien"
+        },
+        {
+          "word": "Diffuse (someone) (verbo)",
+          "translation": "calmar"
+        },
+        {
+          "word": "Call (something) off",
+          "translation": "cancelar"
+        },
+        {
+          "word": "And you check any and all psychoses at the door",
+          "translation": "y deja todas y cada una de tus psicosis en la puerta"
+        },
+        {
+          "word": "Fat chance (expresión)",
+          "translation": "ni lo sueñes, ni en sueños"
+        },
+        {
+          "word": "Take up a hobby (parcialmente no literal)",
+          "translation": "buscar un pasatiempo"
+        },
+        {
+          "word": "Trigger (someone) (verbo)",
+          "translation": "provocar ansiedad"
+        },
+        {
+          "word": "It's not dispositive (parcialmente no literal)",
+          "translation": "no es determinante"
+        },
+        {
+          "word": "Confirm the hunky-dory of it all",
+          "translation": "confirmar de que todo está en orden"
+        },
+        {
+          "word": "Contempt",
+          "translation": "desprecio"
+        },
+        {
+          "word": "But how you get back up",
+          "translation": "sino cómo te levantas"
+        },
+        {
+          "word": "Pop back up",
+          "translation": "volver a levantarse"
+        },
+        {
+          "word": "My jaw is wired shut",
+          "translation": "tengo la mandíbula inmovilizada con alambre"
+        },
+        {
+          "word": "Don't construe my lack of animation (frase no literal)",
+          "translation": "no interpretes mi falta de entusiasmo"
+        },
+        {
+          "word": "Drop dead gorgeous",
+          "translation": "guapísima"
+        },
+        {
+          "word": "Scream queen fun",
+          "translation": "diversión al estilo de las reinas del terror"
+        },
+        {
+          "word": "It fucking adds up (frase no literal)",
+          "translation": "todo tiene sentido carajo"
+        },
+        {
+          "word": "Sell yourself short",
+          "translation": "subestimarte, menospreciarte"
+        },
+        {
+          "word": "Turning to",
+          "translation": "pasando a"
+        },
+        {
+          "word": "Margo Millet is psychologically fit",
+          "translation": "Margo Millet está en condiciones psicológicas adecuadas"
+        },
+        {
+          "word": "Petitioner",
+          "translation": "demandante, solicitante"
+        },
+        {
+          "word": "Fitness",
+          "translation": "aptitud"
+        },
+        {
+          "word": "They need ethical nurturing",
+          "translation": "necesitan que les inculquen valores éticos"
+        },
+        {
+          "word": "You couldn't put faces onto them (frase no literal)",
+          "translation": "no pudiste imaginar cómo eran"
+        },
+        {
+          "word": "The stakes",
+          "translation": "lo que había en juego"
+        },
+        {
+          "word": "It was a romp",
+          "translation": "fue pan comido"
+        },
+        {
+          "word": "It’s comprised",
+          "translation": "está formada"
+        },
+        {
+          "word": "Enraged music",
+          "translation": "música furiosa"
+        },
+        {
+          "word": "I want it on record that she launched at me",
+          "translation": "quiero que conste que fue ella quien se me echó encima"
+        },
+        {
+          "word": "Inflame him",
+          "translation": "provocarlo"
+        },
+        {
+          "word": "She drew a nasty judge",
+          "translation": "le tocó un juez desagradable"
+        },
+        {
+          "word": "You can't be strung out or show up (parcialmente no literal)",
+          "translation": "no puedes estar en las últimas ni presentarte"
+        },
+        {
+          "word": "Judgmental (adjetivo)",
+          "translation": "críticas, prejuiciosas"
+        },
+        {
+          "word": "Unflattering",
+          "translation": "poco halagadores"
+        },
+        {
+          "word": "I got a little ensemble (parcialmente no literal)",
+          "translation": "también me compré un conjunto pequeño"
+        },
+        {
+          "word": "Best to just, uh, brace you for this now",
+          "translation": "mejor te voy a, eh, preparar para esto ahora mismo"
+        },
+        {
+          "word": "Before the custody thing is settled",
+          "translation": "antes de que se resuelva el asunto de la custodia"
+        },
+        {
+          "word": "Fulfillment",
+          "translation": "cumplimiento"
+        },
+        {
+          "word": "I'll be artfully rendering",
+          "translation": "voy a plasmar con mucho arte"
+        },
+        {
+          "word": "Poon (despectivo)",
+          "translation": "coño, vagina"
+        },
+        {
+          "word": "I walked in on you naked (parcialmente no literal)",
+          "translation": "te sorprendí desnudo"
+        },
+        {
+          "word": "You just burst in",
+          "translation": "acabas de irrumpir"
+        },
+        {
+          "word": "I ad-libbed like",
+          "translation": "improvise algo así como"
+        },
+        {
+          "word": "Noodle (no literal)",
+          "translation": "tonto"
+        },
+        {
+          "word": "Locked and loaded (frase no literal)",
+          "translation": "preparado para la acción"
+        },
+        {
+          "word": "Margo's plight",
+          "translation": "la difícil situación de Margo"
+        },
+        {
+          "word": "Tender",
+          "translation": "tierno"
+        },
+        {
+          "word": "In re (expresión legal)",
+          "translation": "en el asunto"
+        },
+        {
+          "word": "Then nonsense has had its way (parcialmente no literal)",
+          "translation": "entonces, las tonterías se han salido con la suya"
+        },
+        {
+          "word": "This case has a stink",
+          "translation": "este caso huele mal"
+        },
+        {
+          "word": "The waft starts with you",
+          "translation": "el hedor viene de ti"
+        },
+        {
+          "word": "And just because people find what I do to be distasteful",
+          "translation": "y solo porque a la gente le parezca de mal gusto lo que hago"
+        },
+        {
+          "word": "We've got quite the collective here (frase no literal)",
+          "translation": "tenemos un grupo bastante interesante aquí"
+        },
+        {
+          "word": "I'm the step-grandfather",
+          "translation": "soy el abuel por parte de la pareja"
+        },
+        {
+          "word": "Demean (verbo)",
+          "translation": "menospreciar, deshonrar"
+        },
+        {
+          "word": "Jump up",
+          "translation": "levantarse de un salto"
+        },
+        {
+          "word": "This isn't a ring where you get to leap in off the turnbuckle",
+          "translation": "este no es un ring en el que puedas lanzarte desde el esquinero"
+        },
+        {
+          "word": "Which the petitioner disparages in his papers",
+          "translation": "que el peticionario menosprecia en sus escritos"
+        },
+        {
+          "word": "Coo (verbo aparte de arrullar)",
+          "translation": "emitir sonidos tiernos"
+        },
+        {
+          "word": "What's with the tears? Hay fever (parcialmente no literal)",
+          "translation": "¿Por qué lloras? Por la fiebre del heno"
+        },
+        {
+          "word": "My poor judgement has bestowed an incredible windfall (frase no literal)",
+          "translation": "mi falta de criterio me ha traído una ganancia inesperada increíble"
+        },
+        {
+          "word": "That was pretty badass (frase no literal)",
+          "translation": "eso sí que fue algo increíble"
+        },
+        {
+          "word": "I wasn't looking to cost Margo custody",
+          "translation": "no era mi intención quitarle la custodia a Margo"
+        },
+        {
+          "word": "Insulate someone (verbo)",
+          "translation": "proteger a alguien"
+        },
+        {
+          "word": "Beget (verbo)",
+          "translation": "engendrar"
+        },
+        {
+          "word": "Launch your ship into the wild, unknowable sea",
+          "translation": "lanza tu barco a la mar salvaje e insondable"
+        },
+        {
+          "word": "And maybe catch yourself a whale",
+          "translation": "y tal vez puedas pescar una ballena"
+        },
+        {
+          "word": "Sultry",
+          "translation": "sensual"
+        }
+      ],
+      "count": 75,
+      "dialogues": 680,
+      "duration": 40,
+      "durationEstimated": true
     }
   ],
-  "count": 175,
-  "dialogues": 2508,
-  "duration": 152
+  "count": 394,
+  "dialogues": 5063,
+  "duration": 308,
+  "durationEstimated": true
 }

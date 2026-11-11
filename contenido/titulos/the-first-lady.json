@@ -1,7 +1,7 @@
 {
   "titulo": "The First Lady",
   "tipo": "serie",
-  "clasificacion": "",
+  "clasificacion": "+18",
   "tmdb": {
     "tipo": "tv",
     "id": 99070
@@ -33,7 +33,8 @@
   },
   "pdfs": {
     "vocabulario": [
-      "Vocabularios/2027/Palabras desconocidas de The First Lady (EP 1-2) (lista definitiva).pdf"
+      "Vocabularios/2027/Palabras desconocidas de The First Lady (EP 1-2) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de The First Lady (EP 3-4) (lista definitiva).pdf"
     ],
     "dialogos": [
       "Diálogos/Diálogos Series/Dialogues from The First Lady to improve the vocabulary in English.pdf"
@@ -53,6 +54,12 @@
       "foto": "https://image.tmdb.org/t/p/w500/3c5SVI3pK7zmCHNrNh0MbuxsFHl.jpg",
       "sinopsis": "Conmovida por el número de víctimas que la Gran Depresión ha cobrado en el país, Eleanor presiona a Franklin para que actúe con más audacia y presiona para obtener una posición formal sin precedentes en la administración mientras ayuda a redactar su discurso inaugural. Después de la renuncia de Nixon, Jerry asume la presidencia y Betty se convierte en Primera Dama días antes de una importante cena de estado, que el personal de Jerry intenta cancelar. En los días previos a la toma de posesión de Barack, Michelle se enfrenta a la oposición de los miembros de su equipo de transición que planean disminuir su papel.",
       "duracion": 55
+    },
+    "S01E03": {
+      "nombre": "The First Lady (Episode 3)"
+    },
+    "S01E04": {
+      "nombre": "The First Lady (Episode 4)"
     }
   }
 }

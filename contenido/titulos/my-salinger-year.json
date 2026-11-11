@@ -1,0 +1,35 @@
+{
+  "titulo": "My Salinger Year",
+  "tipo": "pelicula",
+  "clasificacion": "+18",
+  "duracion": 101,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 619594
+  },
+  "analisis": "",
+  "sinopsis": "A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.",
+  "poster": "https://image.tmdb.org/t/p/w500/pyebSSBGw84cY2wsXEkWlseED7G.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/s661ZCXwC3cVIPlrrvo4bKOL7k3.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/s661ZCXwC3cVIPlrrvo4bKOL7k3.jpg",
+    "https://image.tmdb.org/t/p/w780/qyCFlYcxdgU4Dodfw4QWtK59Trk.jpg",
+    "https://image.tmdb.org/t/p/w780/2F5Mdy5TRiAU18e5fm3cfvzHTdB.jpg",
+    "https://image.tmdb.org/t/p/w780/nmuz6NdQN4SDX07J9nPAF9bsUnQ.jpg",
+    "https://image.tmdb.org/t/p/w780/oMXIPsVUbYCcNsdcXR4BPFpyeBR.jpg",
+    "https://image.tmdb.org/t/p/w780/xn4l4Zb0MCUeFl3cxUML2YAnSqb.jpg"
+  ],
+  "realeza": {
+    "Margaret Qualley": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de My Salinger Year (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from My Salinger Year to improve the vocabulary in English.pdf"
+    ]
+  }
+}

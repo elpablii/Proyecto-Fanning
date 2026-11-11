@@ -3,22 +3,22 @@
   "level": "B2",
   "levelDetail": {
     "nivel": "B2",
-    "puntaje": 3.91,
+    "puntaje": 3.77,
     "senales": {
-      "vocabulario": 3.99,
+      "vocabulario": 3.88,
       "dialogos": 3.11,
-      "temas": 4.21
+      "temas": 4.06
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 3.6,
-        "A2": 12.4,
-        "B1": 8.9,
-        "B2": 35.5,
-        "C1": 14.2,
-        "C2": 25.4
+        "A1": 7.9,
+        "A2": 11.4,
+        "B1": 8.8,
+        "B2": 34.8,
+        "C1": 12.8,
+        "C2": 24.3
       },
-      "densidad": 5.8
+      "densidad": 6.2
     },
     "dialogos": {
       "cobertura95": 3.2,
@@ -28,7 +28,7 @@
       "legal y judicial"
     ],
     "rango": [
-      "B2",
+      "B1-B2",
       "B2"
     ]
   },
@@ -53,7 +53,9 @@
         "name": "voices carry",
         "still_path": "https://image.tmdb.org/t/p/w500/3c5SVI3pK7zmCHNrNh0MbuxsFHl.jpg",
         "overview": "Conmovida por el número de víctimas que la Gran Depresión ha cobrado en el país, Eleanor presiona a Franklin para que actúe con más audacia y presiona para obtener una posición formal sin precedentes en la administración mientras ayuda a redactar su discurso inaugural. Después de la renuncia de Nixon, Jerry asume la presidencia y Betty se convierte en Primera Dama días antes de una importante cena de estado, que el personal de Jerry intenta cancelar. En los días previos a la toma de posesión de Barack, Michelle se enfrenta a la oposición de los miembros de su equipo de transición que planean disminuir su papel."
-      }
+      },
+      "S01E03": {},
+      "S01E04": {}
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
@@ -586,9 +588,549 @@
       "count": 79,
       "dialogues": 988,
       "duration": 55
+    },
+    {
+      "code": "S01E03",
+      "name": "The First Lady (Episode 3)",
+      "level": "B2",
+      "levelDetail": {
+        "nivel": "B2",
+        "puntaje": 3.72,
+        "senales": {
+          "vocabulario": 4.0,
+          "dialogos": 2.86,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 14.4,
+            "A2": 6.4,
+            "B1": 8.0,
+            "B2": 35.1,
+            "C1": 8.0,
+            "C2": 28.1
+          },
+          "densidad": 7.6
+        },
+        "dialogos": {
+          "cobertura95": 2.96,
+          "ppm": 146.8
+        },
+        "temas": []
+      },
+      "vocabulary": [
+        {
+          "word": "As graceful as",
+          "translation": "tan elegante como"
+        },
+        {
+          "word": "Upbeat",
+          "translation": "alegre"
+        },
+        {
+          "word": "Pin (someone) down",
+          "translation": "atrapar a alguien"
+        },
+        {
+          "word": "Set (someone) up",
+          "translation": "tender una trampa"
+        },
+        {
+          "word": "Welfare office",
+          "translation": "oficina de asistencia social"
+        },
+        {
+          "word": "From out Chicago way",
+          "translation": "de por aquí, de Chicago"
+        },
+        {
+          "word": "He was gone with the draft",
+          "translation": "se fue con el reclutamiento"
+        },
+        {
+          "word": "He's in the army now a blowing reveille",
+          "translation": "ahora está en el ejército y toca la diana"
+        },
+        {
+          "word": "He's the boogie woogie bugle boy",
+          "translation": "él es el chico de la trompeta/corneta del boogie- woogie"
+        },
+        {
+          "word": "Bugle",
+          "translation": "corneta"
+        },
+        {
+          "word": "Bring (someone) down",
+          "translation": "desanimar"
+        },
+        {
+          "word": "This sure is off the beaten path (frase no literal)",
+          "translation": "esto sí que está fuera de lo común"
+        },
+        {
+          "word": "Honk (verbo)",
+          "translation": "tocar la bocina"
+        },
+        {
+          "word": "What were you scrunching up your face for?",
+          "translation": "¿Por qué fruncías el ceño?"
+        },
+        {
+          "word": "She fancy now (frase no literal)",
+          "translation": "ahora está de moda"
+        },
+        {
+          "word": "A big-time law firm",
+          "translation": "un bufete de abogados de primer nivel"
+        },
+        {
+          "word": "You still rockin' those old slippers? (pregunta parcialmente no literal)",
+          "translation": "¿Todavía andas con esas viejas pantuflas?"
+        },
+        {
+          "word": "Use it up, wear it out",
+          "translation": "úsalo hasta que se acabe, gástalo hasta que se desgaste"
+        },
+        {
+          "word": "Make it do, or do without",
+          "translation": "haz que sirva, o prescinde de él"
+        },
+        {
+          "word": "Hardheaded (adjetivo)",
+          "translation": "terco, testarudo"
+        },
+        {
+          "word": "Pastries",
+          "translation": "pasteles"
+        },
+        {
+          "word": "Laid-back",
+          "translation": "relajado"
+        },
+        {
+          "word": "I was gonna be mentoring",
+          "translation": "iba a dar clases de mentoría"
+        },
+        {
+          "word": "Duck out",
+          "translation": "escaparse"
+        },
+        {
+          "word": "Slack off",
+          "translation": "holgazanear"
+        },
+        {
+          "word": "That all the partners are raving about?",
+          "translation": "¿Del que todos los socios están hablando maravillas?"
+        },
+        {
+          "word": "If you don't get those broke-ass shoes off my couch",
+          "translation": "si no te quitas esos zapatos de mala muerte de mi sofá"
+        },
+        {
+          "word": "Intently",
+          "translation": "con atención"
+        },
+        {
+          "word": "Red-line (verbo)",
+          "translation": "revisar minuciosamente"
+        },
+        {
+          "word": "I've been cooped up",
+          "translation": "he estado encerrado"
+        },
+        {
+          "word": "Bright and early tomorrow morning",
+          "translation": "mañana bien temprano"
+        },
+        {
+          "word": "With a keen intellect (forma no literal)",
+          "translation": "de gran inteligencia"
+        },
+        {
+          "word": "A plain child",
+          "translation": "una hija tan poco agraciada"
+        },
+        {
+          "word": "I pried the door open",
+          "translation": "abrí la puerta a la fuerza"
+        },
+        {
+          "word": "Stark naked",
+          "translation": "completamente desnudo"
+        },
+        {
+          "word": "Frightening (adjetivo)",
+          "translation": "aterrador, espantoso"
+        },
+        {
+          "word": "A cruel sort (no literal)",
+          "translation": "una persona cruel"
+        },
+        {
+          "word": "Sapphist (en orientación sexual)",
+          "translation": "lesbiana"
+        },
+        {
+          "word": "Burning the midnight oil, Howard? (pregunta no literal)",
+          "translation": "¿Estás trabajando hasta altas horas de la noche, Howard?"
+        },
+        {
+          "word": "I couldn't have sung your praises any louder (parcialmente no literal)",
+          "translation": "no podría haberte elogiado más"
+        },
+        {
+          "word": "I wouldn't have taken you for a cone guy (parcialmente no literal)",
+          "translation": "no te habría imaginado como un fanático de los conos"
+        },
+        {
+          "word": "Your environmentally friendly cone",
+          "translation": "tu cono ecológico"
+        },
+        {
+          "word": "Valedictory speech",
+          "translation": "discurso de despedida"
+        },
+        {
+          "word": "I get so many girls in this beat-up thing that they're just lining up",
+          "translation": "con este cacharro destartalado consigo a tantas chicas que ya se están haciendo fila"
+        },
+        {
+          "word": "Pitter-pat",
+          "translation": "golpeteo"
+        },
+        {
+          "word": "Cluster pearls",
+          "translation": "perlas en racimo"
+        },
+        {
+          "word": "I hope you're pleased",
+          "translation": "espero que estés contento"
+        },
+        {
+          "word": "How sorry I was",
+          "translation": "lo mucho que lo sentía"
+        },
+        {
+          "word": "I'm kinda on the fence (frase no literal)",
+          "translation": "no sé muy bien qué pensar"
+        },
+        {
+          "word": "Squealing (acotación)",
+          "translation": "chillidos"
+        },
+        {
+          "word": "He doesn't think you're half bad either",
+          "translation": "a él tampoco le pareces nada mal"
+        },
+        {
+          "word": "The hardest-loving person",
+          "translation": "la persona más cariñosa"
+        },
+        {
+          "word": "Clopping (acotación)",
+          "translation": "repiqueteo"
+        },
+        {
+          "word": "To attend this inane coming out party",
+          "translation": "para asistir a esta fiesta de presentación tan sin sentido"
+        },
+        {
+          "word": "My education was cruelly cut short",
+          "translation": "mi educación se vio cruelmente interrumpida"
+        },
+        {
+          "word": "Seems she has made quite the impression (parcialmente no literal)",
+          "translation": "parece que ha causado una gran impresión"
+        },
+        {
+          "word": "Frilly dress",
+          "translation": "vestido con volantes"
+        },
+        {
+          "word": "Accomplished spinster",
+          "translation": "soltera realizada"
+        },
+        {
+          "word": "Dreariest (adjetivo comparativo)",
+          "translation": "más lúgubre"
+        },
+        {
+          "word": "Mindless",
+          "translation": "sin sentido, irracional"
+        },
+        {
+          "word": "What have you got so far? (pregunta no literal)",
+          "translation": "¿Qué has logrado hasta ahora?"
+        },
+        {
+          "word": "I dabble a bit myself (frase no literal)",
+          "translation": "yo también escribo un poco por mi cuenta"
+        },
+        {
+          "word": "Your case prep",
+          "translation": "la preparación de tu caso"
+        },
+        {
+          "word": "I thought I'd at least run it by you (parcialmente no literal)",
+          "translation": "pensé que al menos te lo consultaría"
+        }
+      ],
+      "count": 64,
+      "dialogues": 841,
+      "duration": 57,
+      "durationEstimated": true
+    },
+    {
+      "code": "S01E04",
+      "name": "The First Lady (Episode 4)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.52,
+        "senales": {
+          "vocabulario": 3.56,
+          "dialogos": 3.14,
+          "temas": 4.0
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 9.6,
+            "A2": 15.4,
+            "B1": 9.6,
+            "B2": 32.7,
+            "C1": 15.4,
+            "C2": 17.3
+          },
+          "densidad": 5.6
+        },
+        "dialogos": {
+          "cobertura95": 3.34,
+          "ppm": 138.9
+        },
+        "temas": [
+          "legal y judicial",
+          "médica y de salud"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Steeple",
+          "translation": "campanario"
+        },
+        {
+          "word": "Welfare office",
+          "translation": "oficina de asistencia social"
+        },
+        {
+          "word": "I think that strikes just the right note (frase no literal)",
+          "translation": "creo que eso da justo en el clavo"
+        },
+        {
+          "word": "Draw up",
+          "translation": "elaborar"
+        },
+        {
+          "word": "The clock struck one",
+          "translation": "el reloj dió la una"
+        },
+        {
+          "word": "My little cubs",
+          "translation": "mis pequeños cachorritos"
+        },
+        {
+          "word": "You'll topple him over",
+          "translation": "lo vas a hacer caer"
+        },
+        {
+          "word": "And nursing (alusivo al tener hijos)",
+          "translation": "y en periodo de lactancia"
+        },
+        {
+          "word": "I will cut you both off without a cent",
+          "translation": "los dejaré a ambos sin un centavo"
+        },
+        {
+          "word": "An American buildup is already underway",
+          "translation": "ya se está llevando a cabo un refuerzo militar estadounidense"
+        },
+        {
+          "word": "Use up",
+          "translation": "agotar, consumir"
+        },
+        {
+          "word": "And take up some, what?",
+          "translation": "¿Y tomar un poco de qué?"
+        },
+        {
+          "word": "Spinal tap",
+          "translation": "punción lumbar"
+        },
+        {
+          "word": "Making a straight beeline to talk to me",
+          "translation": "dirigiéndose directamente hacia mí para hablarme"
+        },
+        {
+          "word": "Sentiment across the board demanded guarantees (parcialmente no literal)",
+          "translation": "el sentir general exigía garantías"
+        },
+        {
+          "word": "I've made a roast for you",
+          "translation": "te he preparado un asado"
+        },
+        {
+          "word": "Was it frightfully cold in Paris? (pregunta parcialmente no literal)",
+          "translation": "¿Hacía un frío terrible en París?"
+        },
+        {
+          "word": "Bitter (expresión)",
+          "translation": "qué amargura"
+        },
+        {
+          "word": "Have them blown off",
+          "translation": "que te las arranquen de un golpe"
+        },
+        {
+          "word": "Wretched",
+          "translation": "horrible, miserable"
+        },
+        {
+          "word": "The war didn't drag on to give you a leg up (parcialmente no literal)",
+          "translation": "la guerra no se prolongó para darte una ventaja"
+        },
+        {
+          "word": "He doesn't need a leg up (parcialmente no literal)",
+          "translation": "no necesita que le echen una mano"
+        },
+        {
+          "word": "Further (verbo)",
+          "translation": "promover, impulsar"
+        },
+        {
+          "word": "It's painted shut!",
+          "translation": "¡Está pintado y no se puede abrir!"
+        },
+        {
+          "word": "Enjoy away",
+          "translation": "disfrútalo a lo grande"
+        },
+        {
+          "word": "I'm pulling the needle through twice",
+          "translation": "estoy pasando la aguja dos veces"
+        },
+        {
+          "word": "Sounds itchy if you ask me",
+          "translation": "a mi me parece que pica"
+        },
+        {
+          "word": "That's so mean",
+          "translation": "eso es muy cruel"
+        },
+        {
+          "word": "The way the music just took me away",
+          "translation": "la forma en que la música me transportó"
+        },
+        {
+          "word": "Munchkin",
+          "translation": "pequeñín"
+        },
+        {
+          "word": "Sweetie pie (expresión)",
+          "translation": "cariñito"
+        },
+        {
+          "word": "Trained to navigate through a tangle of red tape",
+          "translation": "capacitados para lidiar con un laberinto de trámites burocráticos"
+        },
+        {
+          "word": "Tell off",
+          "translation": "regañar"
+        },
+        {
+          "word": "Head lawyer",
+          "translation": "jefe del departamento jurídico"
+        },
+        {
+          "word": "Let's get it crunk up on",
+          "translation": "vamos a darle caña"
+        },
+        {
+          "word": "Have fun up on, up in this dancery",
+          "translation": "diviértete aquí arriba, en este salón de baile"
+        },
+        {
+          "word": "I gotta steal her away",
+          "translation": "tengo que llevármela"
+        },
+        {
+          "word": "Handiwork",
+          "translation": "obra"
+        },
+        {
+          "word": "Sapphist salon!",
+          "translation": "¡Salón sáfico!"
+        },
+        {
+          "word": "Hell-bent",
+          "translation": "empeñado"
+        },
+        {
+          "word": "Akin to",
+          "translation": "similar a, parecido a"
+        },
+        {
+          "word": "You've been known to speak your mind as well (forma no literal)",
+          "translation": "también se sabe que tú dices lo que piensas"
+        },
+        {
+          "word": "I've become quite a liability it seems",
+          "translation": "parece que me he vuelto un verdadero lastre"
+        },
+        {
+          "word": "Why have you got your overcoat?",
+          "translation": "¿Poe qué llevas puesto el abrigo?"
+        },
+        {
+          "word": "Savor (verbo)",
+          "translation": "disfrutar"
+        },
+        {
+          "word": "Greater good",
+          "translation": "bien común"
+        },
+        {
+          "word": "Fudge",
+          "translation": "dulce de chocolate"
+        },
+        {
+          "word": "Mild sleeping pills",
+          "translation": "somníferos suaves"
+        },
+        {
+          "word": "I'd like to up the Darvon a notch or two",
+          "translation": "me gustaría aumentar la dosis de Darvon un poco más"
+        },
+        {
+          "word": "We can get that pain knocked out",
+          "translation": "podemos acabar con ese dolor"
+        },
+        {
+          "word": "I'm appreciative of your efforts",
+          "translation": "les agradezco sus esfuerzos"
+        },
+        {
+          "word": "You’re cut (no literal en selección de personas)",
+          "translation": "estás fuera"
+        }
+      ],
+      "count": 52,
+      "dialogues": 929,
+      "duration": 58,
+      "durationEstimated": true
     }
   ],
-  "count": 114,
-  "dialogues": 1950,
-  "duration": 111
+  "count": 230,
+  "dialogues": 3720,
+  "duration": 226,
+  "durationEstimated": true
 }

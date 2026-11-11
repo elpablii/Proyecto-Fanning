@@ -1,0 +1,759 @@
+{
+  "title": "Live by Night",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.07,
+    "senales": {
+      "vocabulario": 4.27,
+      "dialogos": 3.22,
+      "temas": 4.68
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 14.2,
+        "A2": 6.3,
+        "B1": 9.1,
+        "B2": 33.0,
+        "C1": 15.4,
+        "C2": 22.0
+      },
+      "densidad": 10.1
+    },
+    "dialogos": {
+      "cobertura95": 3.0,
+      "ppm": 172.7
+    },
+    "temas": [
+      "juego y apuestas",
+      "crimen, drogas y calle"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Un juego de la historia en la Era de la Prohibición y centrado alrededor de un grupo de individuos y sus tratos en el mundo de crimen organizado.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/8OCo2aJRWcdnzKkzqplP1V0sgYU.jpg",
+      "https://image.tmdb.org/t/p/w780/vClMoGPBTt2mh1NFthtBCZlwO2r.jpg",
+      "https://image.tmdb.org/t/p/w780/l9Z3eUQKF4v8KVLO5AoRll6Jyyy.jpg",
+      "https://image.tmdb.org/t/p/w780/55qPW3v1CTw5Ye5VFLjxuwfWdS8.jpg",
+      "https://image.tmdb.org/t/p/w780/qBAXfI4V6z7NkzO2fkP5bdfjzB8.jpg",
+      "https://image.tmdb.org/t/p/w780/sJhYEEBIB9OAN5rszi23rnYYkEN.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/8OCo2aJRWcdnzKkzqplP1V0sgYU.jpg",
+  "vocabulary": [
+    {
+      "word": "Huns",
+      "translation": "Hunos"
+    },
+    {
+      "word": "A good day was filled by sleep",
+      "translation": "un buen día lo pasé durmiendo"
+    },
+    {
+      "word": "Dunce",
+      "translation": "tonto"
+    },
+    {
+      "word": "Nice and easy (frase no literal)",
+      "translation": "con calma y sin prisas"
+    },
+    {
+      "word": "We made out pretty good",
+      "translation": "nos fue bastante bien"
+    },
+    {
+      "word": "For the stuff you've been pulling",
+      "translation": "para las cosas que has estado haciendo"
+    },
+    {
+      "word": "Wops (semidespectivo)",
+      "translation": "italianos de mala muerte"
+    },
+    {
+      "word": "Round up",
+      "translation": "reunir"
+    },
+    {
+      "word": "Mob (en sentido criminal)",
+      "translation": "mafia"
+    },
+    {
+      "word": "It was tit for tat",
+      "translation": "fue ojo por ojo"
+    },
+    {
+      "word": "A real swank place",
+      "translation": "un lugar realmente elegante"
+    },
+    {
+      "word": "Consorting",
+      "translation": "convivencia"
+    },
+    {
+      "word": "Who knowingly consorts with criminals",
+      "translation": "quien a sabiendas se asocia con delincuentes"
+    },
+    {
+      "word": "Shakedown",
+      "translation": "extorsión"
+    },
+    {
+      "word": "I rarely get over to",
+      "translation": "rara vez voy a"
+    },
+    {
+      "word": "Deputy superintendent",
+      "translation": "subsuperintendente"
+    },
+    {
+      "word": "I need to powder (en algunos contextos)",
+      "translation": "necesito retocarme el maquillaje"
+    },
+    {
+      "word": "Yarn",
+      "translation": "historia"
+    },
+    {
+      "word": "Overlook (verbo)",
+      "translation": "pasar por alto, descuidar"
+    },
+    {
+      "word": "We tat the lace",
+      "translation": "hicimos encaje de bolillos"
+    },
+    {
+      "word": "Icy",
+      "translation": "helado"
+    },
+    {
+      "word": "Can you spare two bits? (pregunta con traducción aproximada)",
+      "translation": "¿Me puedes dar dos monedas?"
+    },
+    {
+      "word": "Plague (verbo)",
+      "translation": "azotar, asolar"
+    },
+    {
+      "word": "I don't truck with gangsters (parcialmente no literal)",
+      "translation": "no me meto con los pandilleros"
+    },
+    {
+      "word": "You do soup jobs and stickups",
+      "translation": "haces chanchullos y atracos"
+    },
+    {
+      "word": "Puttana moll",
+      "translation": "chica de mala vida"
+    },
+    {
+      "word": "By day",
+      "translation": "durante el día"
+    },
+    {
+      "word": "I can clean myself up",
+      "translation": "puedo asearme yo mismo"
+    },
+    {
+      "word": "It would net us enough to get to California on",
+      "translation": "nos daría lo necesario para llegar a California"
+    },
+    {
+      "word": "Gear stick creaking (acotación)",
+      "translation": "crujido de la palanca de cambios"
+    },
+    {
+      "word": "Who pulled someone over",
+      "translation": "quien detuvo a alguien"
+    },
+    {
+      "word": "Arsehole (en inglés británico)",
+      "translation": "idiota, cabrón"
+    },
+    {
+      "word": "She just sold you down the river (frase no literal)",
+      "translation": "te acaba de traicionar"
+    },
+    {
+      "word": "Dead man's drive",
+      "translation": "camino del muerto"
+    },
+    {
+      "word": "Speech disability",
+      "translation": "discapacidad del habla"
+    },
+    {
+      "word": "His car went off the road and into the ocean",
+      "translation": "su auto se salió de la carretera y cayó al mar"
+    },
+    {
+      "word": "He dove in looking for them",
+      "translation": "se zambulló/lanzó al agua en busca de ellos"
+    },
+    {
+      "word": "Give chase (verbo)",
+      "translation": "perseguir"
+    },
+    {
+      "word": "He was struck by at least 14 rounds (frase no literal)",
+      "translation": "le alcanzaron al menos 14 balas"
+    },
+    {
+      "word": "Pining for a dead girl",
+      "translation": "anhelando/echando de menos a una chica muerta"
+    },
+    {
+      "word": "Three years served",
+      "translation": "tres años cumplidos"
+    },
+    {
+      "word": "He will long know the inside of the Charlestown prison",
+      "translation": "va a pasar mucho tiempo en la cárcel de Charlestown"
+    },
+    {
+      "word": "Unsaid",
+      "translation": "cosas sin decir"
+    },
+    {
+      "word": "The notion I was going to dispel for you",
+      "translation": "la idea que iba a desmentirte"
+    },
+    {
+      "word": "Row house",
+      "translation": "casa adosada"
+    },
+    {
+      "word": "Your liaisons",
+      "translation": "tus contactos"
+    },
+    {
+      "word": "Abetting armed robbery",
+      "translation": "complicidad en robo a mano armada"
+    },
+    {
+      "word": "We ran Albert White out of Boston",
+      "translation": "echamos a Albert White de Boston"
+    },
+    {
+      "word": "He's making a run to our rum",
+      "translation": "se está acercando a nuestro ron"
+    },
+    {
+      "word": "And get the narcotics running",
+      "translation": "y que empiecen a suministrar los narcóticos"
+    },
+    {
+      "word": "Equal partners",
+      "translation": "socios iguales"
+    },
+    {
+      "word": "Train hooting (acotación parcialmente no literal)",
+      "translation": "silbido del tren"
+    },
+    {
+      "word": "To make your own",
+      "translation": "para que lo hagas tú mismo"
+    },
+    {
+      "word": "A straight bamboozle",
+      "translation": "un engaño descarado, una estafa descarada"
+    },
+    {
+      "word": "Charm (verbo)",
+      "translation": "seducir, cautivar"
+    },
+    {
+      "word": "Spics (semidespectivo)",
+      "translation": "latinos"
+    },
+    {
+      "word": "Uppity coons (semidespectivo)",
+      "translation": "negros engreídos"
+    },
+    {
+      "word": "Fireplace",
+      "translation": "chimenea"
+    },
+    {
+      "word": "Ormino sprung a few leaks",
+      "translation": "Ormino tuvo algunas fugas"
+    },
+    {
+      "word": "Hooch",
+      "translation": "chupito"
+    },
+    {
+      "word": "Molasses",
+      "translation": "melazas"
+    },
+    {
+      "word": "None taken",
+      "translation": "no me ofende"
+    },
+    {
+      "word": "Why the last three supply runs were hit",
+      "translation": "por qué los últimos tres viajes de abastecimiento sufrieron ataques"
+    },
+    {
+      "word": "Somehow made their way into Albert White's speakeasies",
+      "translation": "de alguna manera lograron entrar a los bares clandestinos de Albert White"
+    },
+    {
+      "word": "I can bounce your head off the floor",
+      "translation": "puedo hacerte rebotar la cabeza contra el piso"
+    },
+    {
+      "word": "Put yourself on that train (forma no literal)",
+      "translation": "súbete a ese tren"
+    },
+    {
+      "word": "Overtake (verbo)",
+      "translation": "interceptar"
+    },
+    {
+      "word": "Reassure (verbo)",
+      "translation": "tranqulizar"
+    },
+    {
+      "word": "This will bring bloodshed (parcialmente no literal)",
+      "translation": "esto provocará un baño de sangre"
+    },
+    {
+      "word": "Some dago going through his fucking papers (semidespectivo)",
+      "translation": "el alguacil va a entrar y se va a encontrar a algún italiano hurgando entre sus malditos papeles"
+    },
+    {
+      "word": "It would be quite an upheaval for us",
+      "translation": "sería un gran cambio para nosotros"
+    },
+    {
+      "word": "Upside down",
+      "translation": "de cabeza"
+    },
+    {
+      "word": "Corner (verbo)",
+      "translation": "acaparar"
+    },
+    {
+      "word": "Bushwhack (verbo)",
+      "translation": "tender una emboscada"
+    },
+    {
+      "word": "He was living on the run in",
+      "translation": "vivía huyendo en"
+    },
+    {
+      "word": "A speak",
+      "translation": "un evento"
+    },
+    {
+      "word": "Get something from in there and put this shit out",
+      "translation": "saca algo de ahí y apaga esta mierda"
+    },
+    {
+      "word": "Get on the floor, get down!",
+      "translation": "¡Túmbate en el piso! ¡Al suelo!"
+    },
+    {
+      "word": "A lot of fucking juice (frase no literal)",
+      "translation": "un puto poder enorme"
+    },
+    {
+      "word": "They're inbreds with fourth grade educations",
+      "translation": "son endogámicos con estudios de cuarto grado"
+    },
+    {
+      "word": "Coloreds",
+      "translation": "personas de color"
+    },
+    {
+      "word": "Papists",
+      "translation": "papistas"
+    },
+    {
+      "word": "Stick up places (verbo)",
+      "translation": "atracar/asaltar lugares"
+    },
+    {
+      "word": "Bootlegger",
+      "translation": "contrabandista"
+    },
+    {
+      "word": "Be tarred",
+      "translation": "ser difamado"
+    },
+    {
+      "word": "To cut you in on 10% of the house take",
+      "translation": "darte un 10% de las ganancias de la casa"
+    },
+    {
+      "word": "My cut (en dinero)",
+      "translation": "mi parte"
+    },
+    {
+      "word": "Don't make a big thing of it",
+      "translation": "no le des tanta importancia"
+    },
+    {
+      "word": "Bump off",
+      "translation": "liquidar, eliminar"
+    },
+    {
+      "word": "Top-shelf, a-one",
+      "translation": "de primera, de lo mejorcito"
+    },
+    {
+      "word": "Put together",
+      "translation": "armar, establecer, preparar"
+    },
+    {
+      "word": "Chop the profit (verbo parcialmente no literal)",
+      "translation": "repartir la ganancia"
+    },
+    {
+      "word": "I got bagmen buying inspectors (parcialmente no literal)",
+      "translation": "tengo a unos recaudadores que sobornan a los inspectores"
+    },
+    {
+      "word": "For the long fucking haul",
+      "translation": "para el puto largo plazo"
+    },
+    {
+      "word": "Shoot up (en algunos contextos)",
+      "translation": "destrozar"
+    },
+    {
+      "word": "Letting some inbred shit pickers muscle us",
+      "translation": "dejando que unos cagones endogámicos nos intimiden"
+    },
+    {
+      "word": "Clerk",
+      "translation": "empleado"
+    },
+    {
+      "word": "If you're dim enough to",
+      "translation": "si eres tan tonto como para"
+    },
+    {
+      "word": "We're gonna rain bloody helfire down on you",
+      "translation": "vamos a hacer llover sobre ustedes un infierno sangriento"
+    },
+    {
+      "word": "Thought I'd save the trouble of hauling me in",
+      "translation": "pensé que así les ahorraría la molestia de tener que traerme aquí"
+    },
+    {
+      "word": "Not a one will come forward (forma no literal)",
+      "translation": "nadie se va a dar a conocer"
+    },
+    {
+      "word": "Get pushed out",
+      "translation": "echar, ser expulsado"
+    },
+    {
+      "word": "Kind that gets people off heroin",
+      "translation": "el que ayuda a la gente a dejar la heroína"
+    },
+    {
+      "word": "This one here is rat tricky",
+      "translation": "este de aquí es bastante complicado"
+    },
+    {
+      "word": "Peashooter",
+      "translation": "lanzaguisantes"
+    },
+    {
+      "word": "Banks going under (parcialmente no literal)",
+      "translation": "bancos en quiebra"
+    },
+    {
+      "word": "To shoot up my speaks (frase no literal)",
+      "translation": "para mejorar mis habilidades oratorias"
+    },
+    {
+      "word": "A hell of a job (no literal)",
+      "translation": "un trabajo increíble"
+    },
+    {
+      "word": "Tear off",
+      "translation": "arrancar, cortar"
+    },
+    {
+      "word": "Put (someone) down",
+      "translation": "acabar con alguien"
+    },
+    {
+      "word": "I got him before he got a shot off",
+      "translation": "lo atrapé antes de que pudiera disparar"
+    },
+    {
+      "word": "Seclusion",
+      "translation": "aislamiento"
+    },
+    {
+      "word": "Damnable business (frase no literal)",
+      "translation": "qué asunto tan detestable"
+    },
+    {
+      "word": "Fritter away",
+      "translation": "malgastar, desperdiciar"
+    },
+    {
+      "word": "Sheepfold",
+      "translation": "redil"
+    },
+    {
+      "word": "A house on our waterfront",
+      "translation": "una casa frente al mar"
+    },
+    {
+      "word": "Acquiesce (verbo)",
+      "translation": "aceptar (sin oponer resistencia)"
+    },
+    {
+      "word": "The casino gets voted down",
+      "translation": "si rechazan la propuesta del casino"
+    },
+    {
+      "word": "Me and you are on the hook for it (frase no literal)",
+      "translation": "tú y yo tendremos que cargar con las consecuencias"
+    },
+    {
+      "word": "Evil deeds",
+      "translation": "malas acciones"
+    },
+    {
+      "word": "Libidinous",
+      "translation": "libidinoso"
+    },
+    {
+      "word": "The flock's up threefold",
+      "translation": "el rebaño se ha triplicado"
+    },
+    {
+      "word": "More booze has been drunk",
+      "translation": "se ha bebido más alcohol"
+    },
+    {
+      "word": "Amenable",
+      "translation": "omitir"
+    },
+    {
+      "word": "Sinfulness",
+      "translation": "pecaminosidad"
+    },
+    {
+      "word": "Idle hands",
+      "translation": "manos ociosas"
+    },
+    {
+      "word": "To cast gambling as virtuous",
+      "translation": "presentar el juego como algo virtuoso"
+    },
+    {
+      "word": "Refrain (verbo)",
+      "translation": "abstenerse"
+    },
+    {
+      "word": "Holdings (en finanzas)",
+      "translation": "inversiones"
+    },
+    {
+      "word": "We aren't men to be muscled or conned",
+      "translation": "no somos hombres a los que se pueda intimidar ni engañar"
+    },
+    {
+      "word": "The vested interest",
+      "translation": "los intereses creados"
+    },
+    {
+      "word": "The landed white gentry",
+      "translation": "la aristocracia terrateniente blanca"
+    },
+    {
+      "word": "Carve off a strip",
+      "translation": "arrancar una franja"
+    },
+    {
+      "word": "Darkies",
+      "translation": "morenos, oscuros, negritos"
+    },
+    {
+      "word": "Racket",
+      "translation": "estafa"
+    },
+    {
+      "word": "Things swing back around (frase no literal)",
+      "translation": "las cosas vuelven a su curso"
+    },
+    {
+      "word": "As I've been thrusting my soul out to God?",
+      "translation": "¿Mientras he estado entregando mi alma a Dios?"
+    },
+    {
+      "word": "I felt certain again (parcialmente no literal)",
+      "translation": "volví a sentirme seguro"
+    },
+    {
+      "word": "Before you came along, that was a lock (frase no literal)",
+      "translation": "antes de que llegaras, eso era pan comido"
+    },
+    {
+      "word": "Repent (verbo)",
+      "translation": "arrepentirse"
+    },
+    {
+      "word": "Maybe he'll come out of it (frase no literal)",
+      "translation": "quizás se recupere"
+    },
+    {
+      "word": "Payoffs",
+      "translation": "pagos, ganancias"
+    },
+    {
+      "word": "She's got moxie",
+      "translation": "tiene agallas"
+    },
+    {
+      "word": "She was preyed upon (frase no literal)",
+      "translation": "se convirtió en víctima de un abuso"
+    },
+    {
+      "word": "More of a nance",
+      "translation": "más marica/afeminado"
+    },
+    {
+      "word": "That girl I was bent out of shape over the years (parcialmente no literal)",
+      "translation": "esa chica por la que estuve tan alterado durante años"
+    },
+    {
+      "word": "Don't make a big fucking thing out of it (frase no literal)",
+      "translation": "no le des tanta jodida importancia"
+    },
+    {
+      "word": "Be bugs (verbo no literal e informal)",
+      "translation": "volverse loco, estar loco"
+    },
+    {
+      "word": "That's a big fucking entourage",
+      "translation": "esa es una maldita comitiva enorme"
+    },
+    {
+      "word": "Settling down?",
+      "translation": "¿Te vas a establecer?"
+    },
+    {
+      "word": "Filly (informal)",
+      "translation": "chica"
+    },
+    {
+      "word": "Why didn't you clip her then? (pregunta parcialmente no literal)",
+      "translation": "¿Por qué no le cortaste el pelo entonces?"
+    },
+    {
+      "word": "Too much blowback (frase no literal)",
+      "translation": "habría dado demasiado de qué hablar"
+    },
+    {
+      "word": "You boxed out Albert",
+      "translation": "le hiciste un bloqueo a Albert"
+    },
+    {
+      "word": "A little piss corner",
+      "translation": "un rinconcito para hacer pis"
+    },
+    {
+      "word": "I've been through the books",
+      "translation": "he revisado los libros"
+    },
+    {
+      "word": "You made us a force down here (forma no literal)",
+      "translation": "nos convertiste en una fuerza importante aquí abajo"
+    },
+    {
+      "word": "Before you get a fucking pop in the mouth (parcialmente no literal)",
+      "translation": "antes de que te den un puto puñetazo en la boca"
+    },
+    {
+      "word": "And shaking down longshoremen",
+      "translation": "y extorsionando a los estibadores"
+    },
+    {
+      "word": "Your cunt girlfriend (despectivo)",
+      "translation": "tu puta novia"
+    },
+    {
+      "word": "Set aside",
+      "translation": "reservado"
+    },
+    {
+      "word": "We patched things up",
+      "translation": "nos reconciliamos"
+    },
+    {
+      "word": "Blow something (verbo en sentido negativo)",
+      "translation": "arruinar, cagar"
+    },
+    {
+      "word": "Fold up",
+      "translation": "doblar"
+    },
+    {
+      "word": "I don't think we got that kinda time",
+      "translation": "no creo que tengamos tanto tiempo"
+    },
+    {
+      "word": "Your simple wop bullshit",
+      "translation": "tus tonterías de italiano de pacotilla"
+    },
+    {
+      "word": "Shell casing",
+      "translation": "casquillo de bala"
+    },
+    {
+      "word": "Hunter us down",
+      "translation": "nos habrían dado caza"
+    },
+    {
+      "word": "To see old age (no literal)",
+      "translation": "llegar a la vejez"
+    },
+    {
+      "word": "The wreck",
+      "translation": "el accidente"
+    },
+    {
+      "word": "To drive off the bridge",
+      "translation": "salirse del puente"
+    },
+    {
+      "word": "Swim out",
+      "translation": "nadar hasta la orilla"
+    },
+    {
+      "word": "If I put my head up (parcialmente no literal)",
+      "translation": "si levantara la cabeza"
+    },
+    {
+      "word": "I just had to make do (frase no literal)",
+      "translation": "no me quedó más remedio que arreglármelas"
+    },
+    {
+      "word": "We had a laugh",
+      "translation": "nos reímos un rato"
+    },
+    {
+      "word": "Underfoot",
+      "translation": "bajo los pies"
+    },
+    {
+      "word": "We fished for red fin and snook",
+      "translation": "pescamos pez de aleta roja y róbalo"
+    }
+  ],
+  "count": 177,
+  "dialogues": 1748,
+  "duration": 129
+}

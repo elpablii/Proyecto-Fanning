@@ -1,7 +1,7 @@
 {
   "titulo": "Margo's Got Money Troubles",
   "tipo": "serie",
-  "clasificacion": "",
+  "clasificacion": "+18",
   "tmdb": {
     "tipo": "tv",
     "id": 245318
@@ -39,7 +39,9 @@
   "pdfs": {
     "vocabulario": [
       "Vocabularios/2027/Palabras desconocidas de Margo's Got Money Troubles (S01EP1-2) (lista definitiva).pdf",
-      "Vocabularios/2027/Palabras desconocidas de Margo's Got Money Troubles (S01EP3-4) (lista definitiva).pdf"
+      "Vocabularios/2027/Palabras desconocidas de Margo's Got Money Troubles (S01EP3-4) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Margo's Got Money Troubles (S01EP5-6) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Margo's Got Money Troubles (S01EP7-8) (lista definitiva).pdf"
     ],
     "dialogos": [
       "Diálogos/Diálogos Series/Dialogues from Margo's Got Money Troubles (Season 1).pdf"
@@ -73,6 +75,18 @@
       "foto": "https://image.tmdb.org/t/p/w500/p3AUoI8HxDUTlhpzN0o7vAUjxeJ.jpg",
       "sinopsis": "Surge un encuentro entre mundos cuando Margo hace nuevas amigas. Jinx se reencuentra con sus raíces en la lucha libre.",
       "duracion": 36
+    },
+    "S01E05": {
+      "nombre": "Margo's Got Money Troubles (Episode 5)"
+    },
+    "S01E06": {
+      "nombre": "Margo's Got Money Troubles (Episode 6)"
+    },
+    "S01E07": {
+      "nombre": "Margo's Got Money Troubles (Episode 7)"
+    },
+    "S01E08": {
+      "nombre": "Margo's Got Money Troubles (Episode 8)"
     }
   }
 }

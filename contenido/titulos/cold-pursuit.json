@@ -1,0 +1,35 @@
+{
+  "titulo": "Cold Pursuit",
+  "tipo": "pelicula",
+  "clasificacion": "+18",
+  "duracion": 119,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 438650
+  },
+  "analisis": "",
+  "sinopsis": "Nels (Liam Neeson) es un hombre honrado que vive en un pequeño pueblo donde todos lo admiran y le agradecen su trabajo como técnico de quitanieves, hasta el punto de concederle el premio al ciudadano del año. Nels es humilde y parece llevar una vida tranquila, pero un día le comunican la noticia de que su hijo ha muerto de sobredosis. Desde ese momento, Nels se da cuenta de que no conocía a su hijo y que todo no siempre es tan apacible como parece. Pero cuando empieza a tirar del hilo descubre toda una trama criminal detrás y decide tomarse la justicia por su mano. Armado con su quitanieves y con la única experiencia adquirida de haber leído novelas policiales, Nels perseguirá a los mafiosos que acabaron con la vida de su hijo, aunque sea lo último que haga. Remake de 'Uno tras otro', la cinta noruega dirigida por Hans Peter Molland, quien también se encarga de esta versión.",
+  "poster": "https://image.tmdb.org/t/p/w500/5RILVnOchQyL1LbcVzmabipdJfc.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+    "https://image.tmdb.org/t/p/w780/XAvFHWmWjBeJUQEHBbCcXvzdDZ.jpg",
+    "https://image.tmdb.org/t/p/w780/on5M4Zw1XrXfIPBduKvsuRDwv9O.jpg",
+    "https://image.tmdb.org/t/p/w780/1TFNPS8WKsijoBWs7PmTnP1PMiu.jpg",
+    "https://image.tmdb.org/t/p/w780/1OjgfTVfXushKmdcQ2Xxn9RbNte.jpg",
+    "https://image.tmdb.org/t/p/w780/7Wg6FOEvhduISlxSzSCutAl4lPq.jpg"
+  ],
+  "realeza": {
+    "Liam Neeson": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Cold Pursuit (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Cold Pursuit to improve the vocabulary in English.pdf"
+    ]
+  }
+}

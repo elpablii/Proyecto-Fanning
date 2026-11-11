@@ -1,0 +1,286 @@
+{
+  "title": "The Drama",
+  "level": "B1-B2",
+  "levelDetail": {
+    "nivel": "B1-B2",
+    "puntaje": 3.47,
+    "senales": {
+      "vocabulario": 3.52,
+      "dialogos": 3.02,
+      "temas": 4.02
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 10.9,
+        "A2": 5.2,
+        "B1": 10.4,
+        "B2": 35.2,
+        "C1": 20.8,
+        "C2": 17.4
+      },
+      "densidad": 2.8
+    },
+    "dialogos": {
+      "cobertura95": 2.82,
+      "ppm": 171.4
+    },
+    "temas": [
+      "crimen, drogas y calle"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Cuenta la historia de una pareja cuyo romance cambia radicalmente antes de su gran día.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "https://image.tmdb.org/t/p/w780/vc7TeZyKhBeVA4YI3z1KAeIXqGV.jpg",
+      "https://image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+      "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "https://image.tmdb.org/t/p/w780/gemH3TTDSI0tygKff4YCfBeOBLO.jpg",
+      "https://image.tmdb.org/t/p/w780/i3OyN8d2cdrDPxXnAiKsgPNrnZi.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+  "vocabulary": [
+    {
+      "word": "Quieten (verbo)",
+      "translation": "calmar, tranqulizarse"
+    },
+    {
+      "word": "Glitch (verbo no alusivo a la informática)",
+      "translation": "quedarse en blanco"
+    },
+    {
+      "word": "Just a weird, little freak",
+      "translation": "solo un bicho raro, un poco extraño"
+    },
+    {
+      "word": "Double down",
+      "translation": "mantenerse firme"
+    },
+    {
+      "word": "It always ends up backfiring on me",
+      "translation": "siempre termina saliéndome mal"
+    },
+    {
+      "word": "Clattering (aparte de traqueteo)",
+      "translation": "estruendo"
+    },
+    {
+      "word": "Allude (verbo)",
+      "translation": "aludir"
+    },
+    {
+      "word": "Licentious or langorous",
+      "translation": "lascivo o lánguido"
+    },
+    {
+      "word": "Endearing",
+      "translation": "entrañable"
+    },
+    {
+      "word": "Crawl up",
+      "translation": "trepar"
+    },
+    {
+      "word": "Performative",
+      "translation": "performativo"
+    },
+    {
+      "word": "Foil",
+      "translation": "papel aluminio"
+    },
+    {
+      "word": "A deal-breaker",
+      "translation": "un factor decisivo"
+    },
+    {
+      "word": "Crackheads",
+      "translation": "adictos al crack"
+    },
+    {
+      "word": "Sugarcoat (verbo)",
+      "translation": "endulzar"
+    },
+    {
+      "word": "Cut through (verbo frasal no literal)",
+      "translation": "atravesar"
+    },
+    {
+      "word": "Fuck around",
+      "translation": "andar con tonterías"
+    },
+    {
+      "word": "Don't bullshit us",
+      "translation": "no nos vengas con tonterías"
+    },
+    {
+      "word": "Why are we all ganging up on me today?",
+      "translation": "¿Por qué hoy todos se están metiendo conmigo?"
+    },
+    {
+      "word": "Don't pussy out on us now (frase no literal)",
+      "translation": "no te acobardes ahora"
+    },
+    {
+      "word": "I was really fucked-up back then (frase no literal)",
+      "translation": "en esa época estaba realmente mal"
+    },
+    {
+      "word": "Unnerving",
+      "translation": "inquietante"
+    },
+    {
+      "word": "Ears ringing (acotación)",
+      "translation": "zumbido en los oídos"
+    },
+    {
+      "word": "Settle down",
+      "translation": "establecerse, instalarse"
+    },
+    {
+      "word": "I'll do the maid",
+      "translation": "yo me encargaré de la limpieza"
+    },
+    {
+      "word": "I'll shoot ring bearer",
+      "translation": "voy a hacer el que lleve los anillos"
+    },
+    {
+      "word": "I'll get your full-length, back of dress",
+      "translation": "te voy a tomar una foto de cuerpo entero, desde la espalda del vestido"
+    },
+    {
+      "word": "A close-up",
+      "translation": "un primer plano"
+    },
+    {
+      "word": "I'm gonna get like a bunch of candids throughout (frase no literal)",
+      "translation": "voy a sacar un montón de fotos espontáneas durante todo el evento"
+    },
+    {
+      "word": "We're feeling like revved up",
+      "translation": "nos sentimos con muchas ganas"
+    },
+    {
+      "word": "Up on our feet",
+      "translation": "pongámonos de pie"
+    },
+    {
+      "word": "Caring",
+      "translation": "cariñoso"
+    },
+    {
+      "word": "Bling (expresión)",
+      "translation": "qué lujoso"
+    },
+    {
+      "word": "Dumbass",
+      "translation": "pendejo"
+    },
+    {
+      "word": "I don't like being slapped",
+      "translation": "no me gusta que me den una bofetada"
+    },
+    {
+      "word": "Shockingly",
+      "translation": "sorprendentemente"
+    },
+    {
+      "word": "Nudge (verbo)",
+      "translation": "dar un empujoncito"
+    },
+    {
+      "word": "Back out",
+      "translation": "echarse para atrás"
+    },
+    {
+      "word": "Egoless",
+      "translation": "libre de ego"
+    },
+    {
+      "word": "Rip off",
+      "translation": "arrancar (algo)"
+    },
+    {
+      "word": "Bring in",
+      "translation": "traer"
+    },
+    {
+      "word": "Scooch in",
+      "translation": "hacer un poco de espacio"
+    },
+    {
+      "word": "You a gearhead? (pregunta no literal)",
+      "translation": "¿Te gustan los autos?"
+    },
+    {
+      "word": "I have a Bluetti down below for power",
+      "translation": "tengo un Bluetti ahí abajo para generar energía"
+    },
+    {
+      "word": "Stumble around",
+      "translation": "tambalearse"
+    },
+    {
+      "word": "Egg (verbo)",
+      "translation": "incitar"
+    },
+    {
+      "word": "How layered and complex",
+      "translation": "qué Complejo y lleno de matices"
+    },
+    {
+      "word": "Carefree (sustantivo no literal)",
+      "translation": "despreocupado"
+    },
+    {
+      "word": "Meet-cute",
+      "translation": "encuentro romántico/fortuito"
+    },
+    {
+      "word": "Sweet in this weird kind of way",
+      "translation": "es lindo, de una forma un poco extraña"
+    },
+    {
+      "word": "Inside out (en sentido denotativo y literal)",
+      "translation": "del revés"
+    },
+    {
+      "word": "His tightening grip",
+      "translation": "su agarre cada vez más fuerte"
+    },
+    {
+      "word": "Choking up (acotación no literal)",
+      "translation": "con la voz entrecortada"
+    },
+    {
+      "word": "Be fancy-free to call the tune (frase no literal)",
+      "translation": "siéntete libre de elegir la melodía"
+    },
+    {
+      "word": "Loving-cup (parcialmente no literal)",
+      "translation": "copa de la amistas"
+    },
+    {
+      "word": "Stand your ground",
+      "translation": "no te eches atrás"
+    },
+    {
+      "word": "Be duty-bound",
+      "translation": "cumple con tu deber"
+    },
+    {
+      "word": "Mum's the word! (frase no literal)",
+      "translation": "¡No se lo digas a nadie!"
+    },
+    {
+      "word": "Sage",
+      "translation": "sabio"
+    }
+  ],
+  "count": 59,
+  "dialogues": 2116,
+  "duration": 105
+}

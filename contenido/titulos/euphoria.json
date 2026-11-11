@@ -13,7 +13,7 @@
   "analisis": "Euphoria presenta un vocabulario extremadamente contemporáneo, crudo y lleno de jerga (slang) adolescente estadounidense, especialmente AAVE (African American Vernacular English) y términos relacionados con drogas, sexualidad y salud mental. Es un desafío para el oyente debido a las interrupciones constantes, los murmullos y el alto uso de expresiones idiomáticas no literales. Ideal para quien busque entender el inglés de la calle y de la Generación Z.",
   "sinopsis": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
   "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-  "fondo": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
   "fotos": [
     "https://image.tmdb.org/t/p/w780/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
     "https://image.tmdb.org/t/p/w780/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
@@ -67,7 +67,9 @@
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP4-5) (lista definitiva).pdf",
       "Vocabularios/2025/Palabras desconocidas de Euphoria (S02EP6-8) (lista definitiva).pdf",
       "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP1-2) (lista definitiva).pdf",
-      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP3-4) (lista definitiva).pdf"
+      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP3-4) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP5-6) (lista definitiva).pdf",
+      "Vocabularios/2027/Palabras desconocidas de Euphoria (S03EP7-8) (lista definitiva).pdf"
     ],
     "dialogos": [
       "Diálogos/Diálogos Series/Dialogues from Euphoria in English (Season 1 + Special Episodes).pdf",
@@ -221,6 +223,18 @@
       "foto": "https://image.tmdb.org/t/p/w500/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
       "sinopsis": "Aunque podamos discrepar sobre qué es la verdad, todos sabemos cuándo estamos mintiendo.",
       "duracion": 62
+    },
+    "S03E05": {
+      "nombre": "S03E05"
+    },
+    "S03E06": {
+      "nombre": "S03E06"
+    },
+    "S03E07": {
+      "nombre": "S03E07"
+    },
+    "S03E08": {
+      "nombre": "S03E08"
     }
   }
 }

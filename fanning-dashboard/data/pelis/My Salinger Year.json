@@ -1,0 +1,364 @@
+{
+  "title": "My Salinger Year",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 3.69,
+    "senales": {
+      "vocabulario": 3.89,
+      "dialogos": 2.86,
+      "temas": 4.28
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 6.3,
+        "A2": 8.9,
+        "B1": 8.9,
+        "B2": 30.4,
+        "C1": 17.7,
+        "C2": 27.8
+      },
+      "densidad": 4.5
+    },
+    "dialogos": {
+      "cobertura95": 2.89,
+      "ppm": 152.6
+    },
+    "temas": []
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "A college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/s661ZCXwC3cVIPlrrvo4bKOL7k3.jpg",
+      "https://image.tmdb.org/t/p/w780/qyCFlYcxdgU4Dodfw4QWtK59Trk.jpg",
+      "https://image.tmdb.org/t/p/w780/2F5Mdy5TRiAU18e5fm3cfvzHTdB.jpg",
+      "https://image.tmdb.org/t/p/w780/nmuz6NdQN4SDX07J9nPAF9bsUnQ.jpg",
+      "https://image.tmdb.org/t/p/w780/oMXIPsVUbYCcNsdcXR4BPFpyeBR.jpg",
+      "https://image.tmdb.org/t/p/w780/xn4l4Zb0MCUeFl3cxUML2YAnSqb.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/pyebSSBGw84cY2wsXEkWlseED7G.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/s661ZCXwC3cVIPlrrvo4bKOL7k3.jpg",
+  "vocabulary": [
+    {
+      "word": "We're going paperless",
+      "translation": "vamos a quedarnos sin papel"
+    },
+    {
+      "word": "Phase out",
+      "translation": "eliminar gradualmente"
+    },
+    {
+      "word": "Typing (en escritura)",
+      "translation": "clases de mecanografía"
+    },
+    {
+      "word": "Oui, c'est très bien, ma chère (en francés)",
+      "translation": "sí, está muy bien, querida"
+    },
+    {
+      "word": "I'd stepped closer",
+      "translation": "me había acercado un poco más"
+    },
+    {
+      "word": "Godlike",
+      "translation": "divino"
+    },
+    {
+      "word": "A coveted job",
+      "translation": "un trabajo muy codiciado"
+    },
+    {
+      "word": "That's such a crock of shit",
+      "translation": "eso es una gran tontería"
+    },
+    {
+      "word": "Pre-emptive strike argument",
+      "translation": "argumento del ataque preventivo"
+    },
+    {
+      "word": "He was straightforward about",
+      "translation": "fue muy claro/franco respecto a"
+    },
+    {
+      "word": "Hangout",
+      "translation": "lugar de reunión"
+    },
+    {
+      "word": "Ways to hold her up or hold her down",
+      "translation": "formas de sostenerla o sujetarla"
+    },
+    {
+      "word": "Will she still be able to get around?",
+      "translation": "¿Podrá seguir moviéndose con normalidad?"
+    },
+    {
+      "word": "Will she be able to hold her ground?",
+      "translation": "¿Podrá mantenerse firme?"
+    },
+    {
+      "word": "Uncompelling",
+      "translation": "poco convincente"
+    },
+    {
+      "word": "It makes me sick (frase no literal)",
+      "translation": "me da asco"
+    },
+    {
+      "word": "Dictaphone (aparte de dictáfono)",
+      "translation": "grabadora"
+    },
+    {
+      "word": "At ease",
+      "translation": "a gusto"
+    },
+    {
+      "word": "Dungarees",
+      "translation": "petos"
+    },
+    {
+      "word": "No open-toed shoes",
+      "translation": "no se permiten los zapatos abiertos"
+    },
+    {
+      "word": "Verbatim",
+      "translation": "palabra por palabra"
+    },
+    {
+      "word": "I get a stupid grin on my face",
+      "translation": "se me dibuja una sonrisa tonta en la cara"
+    },
+    {
+      "word": "Earnest",
+      "translation": "sincero"
+    },
+    {
+      "word": "Gritty (en impacto emocional)",
+      "translation": "crudo"
+    },
+    {
+      "word": "Slush pile",
+      "translation": "pila de manuscritos no solicitados/rechazados"
+    },
+    {
+      "word": "With no referral",
+      "translation": "sin remisión"
+    },
+    {
+      "word": "On a trial basis (adverbio)",
+      "translation": "a modo de prueba"
+    },
+    {
+      "word": "Blatant",
+      "translation": "flagrante, evidente, descarado"
+    },
+    {
+      "word": "Scour (verbo)",
+      "translation": "recorrer"
+    },
+    {
+      "word": "Ushed in the writers (parcialmente no literal)",
+      "translation": "acompañábamos a los escritores a sus oficinas"
+    },
+    {
+      "word": "Fetched them water",
+      "translation": "les traíamos agua"
+    },
+    {
+      "word": "Bely (verbo)",
+      "translation": "ocultar"
+    },
+    {
+      "word": "Badly enough",
+      "translation": "con todas sus fuerzas, de verdad"
+    },
+    {
+      "word": "Bolster (verbo)",
+      "translation": "reforzar"
+    },
+    {
+      "word": "There he unforeseen",
+      "translation": "ahí lo impevisto"
+    },
+    {
+      "word": "Commencement reader",
+      "translation": "orador/ponente de la ceremonia de graduación"
+    },
+    {
+      "word": "Inn",
+      "translation": "posada, hostal"
+    },
+    {
+      "word": "Seeing your dead friends having their guts ripped out",
+      "translation": "ver cómo a tus amigos muertos les arrancan las tripas"
+    },
+    {
+      "word": "Pass along",
+      "translation": "transmitir"
+    },
+    {
+      "word": "Send the form letter and finish shredding",
+      "translation": "envía la carta tipo y termina de triturar los documentos"
+    },
+    {
+      "word": "We can get it over to",
+      "translation": "podemos enviárselo a"
+    },
+    {
+      "word": "Forlorn",
+      "translation": "desamparado, desolado"
+    },
+    {
+      "word": "It's a coming-of-age tale (no literal)",
+      "translation": "es una historia sobre el paso a la edad adulta"
+    },
+    {
+      "word": "Self-loathing",
+      "translation": "odio, desprecio, rechazo"
+    },
+    {
+      "word": "How strips them of their dignity",
+      "translation": "cómo les quita su dignidad"
+    },
+    {
+      "word": "Heater",
+      "translation": "calefactor, calentador"
+    },
+    {
+      "word": "By trickery",
+      "translation": "con engaños"
+    },
+    {
+      "word": "Uphold (verbo)",
+      "translation": "mantener, respetar, defender"
+    },
+    {
+      "word": "I kind of grew out of it (frase no literal)",
+      "translation": "en cierto modo ya lo superé"
+    },
+    {
+      "word": "Tip off",
+      "translation": "dar la pista, dar la primicia, dar la información"
+    },
+    {
+      "word": "Hit a home run",
+      "translation": "batear un jonrón"
+    },
+    {
+      "word": "And she came storming in here?",
+      "translation": "¿Y entró aquí furiosa?"
+    },
+    {
+      "word": "I'm taking you off",
+      "translation": "te voy a sacar de"
+    },
+    {
+      "word": "Fetch (verbo)",
+      "translation": "traer, buscar, ir a buscar"
+    },
+    {
+      "word": "Jittery",
+      "translation": "nervioso"
+    },
+    {
+      "word": "You are to meet with him beforehand and debrief him afterwards",
+      "translation": "debes reunirte con él antes y informarle sobre lo sucedido después"
+    },
+    {
+      "word": "I've widened the spine",
+      "translation": "he ensanchado el lomo"
+    },
+    {
+      "word": "Salinger is such stickler for details",
+      "translation": "Salinger es un verdadero perfeccionista en cuanto a los detalles"
+    },
+    {
+      "word": "Mock-up",
+      "translation": "maqueta"
+    },
+    {
+      "word": "Straightforward",
+      "translation": "claro, franco"
+    },
+    {
+      "word": "He seemed peeved",
+      "translation": "parecía molesto"
+    },
+    {
+      "word": "Most people don't give a flying hoot",
+      "translation": "a la mayoría de la gente no le importa un carajo"
+    },
+    {
+      "word": "Get right",
+      "translation": "hacerlo bien"
+    },
+    {
+      "word": "Revel (verbo)",
+      "translation": "divertirse"
+    },
+    {
+      "word": "Nonchalance",
+      "translation": "indiferencia"
+    },
+    {
+      "word": "Spade",
+      "translation": "pala, espada, pica"
+    },
+    {
+      "word": "And that soppy thing?",
+      "translation": "¿Y esa cosa tan cursi/sensiblera?"
+    },
+    {
+      "word": "Flip out",
+      "translation": "enojarse, enloquecer"
+    },
+    {
+      "word": "Unreadable",
+      "translation": "ilegible"
+    },
+    {
+      "word": "I get a stupid grin on my face",
+      "translation": "se me forma una sonrisa tonta en la cara"
+    },
+    {
+      "word": "The perfect sales pitch",
+      "translation": "el argumento de venta perfecto"
+    },
+    {
+      "word": "I'll pull my socks up (frase no literal)",
+      "translation": "me voy a poner las pilas"
+    },
+    {
+      "word": "There's only so long you can pay no mind to the burn inside",
+      "translation": "no puedes seguir ignorando ese dolor interior por mucho tiempo"
+    },
+    {
+      "word": "Holding up themself",
+      "translation": "mantenerse en pie por si mismo"
+    },
+    {
+      "word": "Step on",
+      "translation": "pisar"
+    },
+    {
+      "word": "Sanctum",
+      "translation": "santuario"
+    },
+    {
+      "word": "Than an old fogey like me",
+      "translation": "que un viejo chapado a la antigua como yo"
+    },
+    {
+      "word": "I'd get a bang out of the bastard",
+      "translation": "me divertiría un montón con ese cabrón"
+    },
+    {
+      "word": "Chestnut stuffing",
+      "translation": "relleno de castañas"
+    }
+  ],
+  "count": 79,
+  "dialogues": 1756,
+  "duration": 101
+}

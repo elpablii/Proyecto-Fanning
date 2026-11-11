@@ -1,0 +1,435 @@
+{
+  "title": "Cold Pursuit",
+  "level": "B2",
+  "levelDetail": {
+    "nivel": "B2",
+    "puntaje": 4.16,
+    "senales": {
+      "vocabulario": 4.19,
+      "dialogos": 3.34,
+      "temas": 5.42
+    },
+    "vocabulario": {
+      "distribucion": {
+        "A1": 8.5,
+        "A2": 6.3,
+        "B1": 12.7,
+        "B2": 35.2,
+        "C1": 15.9,
+        "C2": 21.5
+      },
+      "densidad": 8.5
+    },
+    "dialogos": {
+      "cobertura95": 3.31,
+      "ppm": 157.4
+    },
+    "temas": [
+      "crimen, drogas y calle",
+      "legal y judicial"
+    ]
+  },
+  "englishAnalysis": "",
+  "tmdb": {
+    "overview": "Nels (Liam Neeson) es un hombre honrado que vive en un pequeño pueblo donde todos lo admiran y le agradecen su trabajo como técnico de quitanieves, hasta el punto de concederle el premio al ciudadano del año. Nels es humilde y parece llevar una vida tranquila, pero un día le comunican la noticia de que su hijo ha muerto de sobredosis. Desde ese momento, Nels se da cuenta de que no conocía a su hijo y que todo no siempre es tan apacible como parece. Pero cuando empieza a tirar del hilo descubre toda una trama criminal detrás y decide tomarse la justicia por su mano. Armado con su quitanieves y con la única experiencia adquirida de haber leído novelas policiales, Nels perseguirá a los mafiosos que acabaron con la vida de su hijo, aunque sea lo último que haga. Remake de 'Uno tras otro', la cinta noruega dirigida por Hans Peter Molland, quien también se encarga de esta versión.",
+    "photos": [
+      "https://image.tmdb.org/t/p/w780/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+      "https://image.tmdb.org/t/p/w780/XAvFHWmWjBeJUQEHBbCcXvzdDZ.jpg",
+      "https://image.tmdb.org/t/p/w780/on5M4Zw1XrXfIPBduKvsuRDwv9O.jpg",
+      "https://image.tmdb.org/t/p/w780/1TFNPS8WKsijoBWs7PmTnP1PMiu.jpg",
+      "https://image.tmdb.org/t/p/w780/1OjgfTVfXushKmdcQ2Xxn9RbNte.jpg",
+      "https://image.tmdb.org/t/p/w780/7Wg6FOEvhduISlxSzSCutAl4lPq.jpg"
+    ]
+  },
+  "posterUrl": "https://image.tmdb.org/t/p/w500/5RILVnOchQyL1LbcVzmabipdJfc.jpg",
+  "backdropUrl": "https://image.tmdb.org/t/p/original/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+  "vocabulary": [
+    {
+      "word": "Just tuck it there",
+      "translation": "solo mételo ahí"
+    },
+    {
+      "word": "I'm no speech giver",
+      "translation": "no soy de los que dan discursos"
+    },
+    {
+      "word": "A trip of",
+      "translation": "un camino de"
+    },
+    {
+      "word": "Wilderness",
+      "translation": "naturaleza"
+    },
+    {
+      "word": "Pull it down",
+      "translation": "bájalo"
+    },
+    {
+      "word": "Your mettle",
+      "translation": "tu valía"
+    },
+    {
+      "word": "Latch clanging (acotación)",
+      "translation": "ruido de un pestillo al cerrarse"
+    },
+    {
+      "word": "Righteousness",
+      "translation": "justicia, rectitud"
+    },
+    {
+      "word": "I shall fear no evil",
+      "translation": "no temeré ningún mal"
+    },
+    {
+      "word": "Thou anointest my head (inglés antiguo)",
+      "translation": "tú me unges la cabeza"
+    },
+    {
+      "word": "My cup runneth over (inglés antiguo)",
+      "translation": "mi copa rebosa"
+    },
+    {
+      "word": "Sputter (verbo)",
+      "translation": "balbucear"
+    },
+    {
+      "word": "We're strolling down memory lane",
+      "translation": "estamos dando un paseo por el camino de los recuerdos"
+    },
+    {
+      "word": "Baking soda (sustantivo no literal)",
+      "translation": "bicarbonato de sodio"
+    },
+    {
+      "word": "An opium den",
+      "translation": "un fumadero de opio"
+    },
+    {
+      "word": "Tax the shit out of it",
+      "translation": "que le cobren impuestos a más no poder"
+    },
+    {
+      "word": "Cocksman",
+      "translation": "donjuán"
+    },
+    {
+      "word": "And advance in Kehoe law enforcement",
+      "translation": "y ascender en las fuerzas de seguridad de Kehoe"
+    },
+    {
+      "word": "Community policing",
+      "translation": "policía comunitaria"
+    },
+    {
+      "word": "Wherein",
+      "translation": "en el que, en donde"
+    },
+    {
+      "word": "So lighten up",
+      "translation": "así que relájate"
+    },
+    {
+      "word": "You wanna get your Dirty Harry on? (pregunta parcialmente no literal)",
+      "translation": "¿Te quieres poner en plan «Harry el Sucio»?"
+    },
+    {
+      "word": "Lace",
+      "translation": "encaje"
+    },
+    {
+      "word": "I'll throw in the veil at no extra charge (parcialmente no literal)",
+      "translation": "te regalaré el velo sin costo adicional"
+    },
+    {
+      "word": "That's what he goes by",
+      "translation": "así es como lo llaman"
+    },
+    {
+      "word": "Footsteps overhead (acotación)",
+      "translation": "pasos arriba"
+    },
+    {
+      "word": "Cashews",
+      "translation": "anacardos"
+    },
+    {
+      "word": "Grapefruit",
+      "translation": "pomelo"
+    },
+    {
+      "word": "Without breaking into hives (frase no literal)",
+      "translation": ""
+    },
+    {
+      "word": "Compose (verbo)",
+      "translation": "componer"
+    },
+    {
+      "word": "Overhead",
+      "translation": "arriba"
+    },
+    {
+      "word": "If you'd back down to the turnoff",
+      "translation": "si podrías retroceder hasta el desvío"
+    },
+    {
+      "word": "She'll skin you alive",
+      "translation": "te va a despellejar vivo"
+    },
+    {
+      "word": "A snot-nosed kid",
+      "translation": "un mocoso"
+    },
+    {
+      "word": "Whenever he had rough stuff to be done",
+      "translation": "cada vez que tenía que hacer trabajos pesados"
+    },
+    {
+      "word": "His go-to guy",
+      "translation": "su hombre de confianza"
+    },
+    {
+      "word": "Viking's a whole different breed (frase no literal)",
+      "translation": "viking es de otra categoría"
+    },
+    {
+      "word": "And rise",
+      "translation": "y flote"
+    },
+    {
+      "word": "She was skimming the till at a massage parlor",
+      "translation": "estaba robando dinero de la caja en un salón de masajes"
+    },
+    {
+      "word": "They sent to me to beat the shit out of her",
+      "translation": "me mandaron para que le diera una paliza"
+    },
+    {
+      "word": "The lady's got good timing",
+      "translation": "la señora tiene buen sentido del momento oportuno"
+    },
+    {
+      "word": "Keys (no literal en narcotráfico)",
+      "translation": "porciones, dosis, paquetes"
+    },
+    {
+      "word": "Turf",
+      "translation": "terreno, territorio"
+    },
+    {
+      "word": "All along",
+      "translation": "todo el tiempo, desde el principio"
+    },
+    {
+      "word": "Might kinda have a point there",
+      "translation": "quizás tenga algo de razón en eso"
+    },
+    {
+      "word": "The day they shook on their deal",
+      "translation": "el día en que sellaron su acuerdo con un apretón de manos"
+    },
+    {
+      "word": "When my dad kicked it (frase no literal)",
+      "translation": "cuando mi papa se fue de este mundo"
+    },
+    {
+      "word": "She backs right outta that door",
+      "translation": "sale de esa puerta dando marcha atrás"
+    },
+    {
+      "word": "The ball is completely in her court (frase no literal)",
+      "translation": "ahora todo depende de ella"
+    },
+    {
+      "word": "She could back out of that door no harm, no foul",
+      "translation": "podría salir por esa puerta sin que pasara nada, sin problemas"
+    },
+    {
+      "word": "Chirping (no alusivo a trino o graznido)",
+      "translation": "pitido"
+    },
+    {
+      "word": "There's 31 maids in the whole country worth banging",
+      "translation": "hay 31 sirvientas en todo el país con las que valga la pena acostarse"
+    },
+    {
+      "word": "Haven't gotten a thing out of him",
+      "translation": "no he podido sacarle ni una palabra"
+    },
+    {
+      "word": "Sign hanger",
+      "translation": "instalador de letreros"
+    },
+    {
+      "word": "A good rub out",
+      "translation": "un buen masaje"
+    },
+    {
+      "word": "Wingman",
+      "translation": "compañero de equipo"
+    },
+    {
+      "word": "Ice someone (verbo no literal)",
+      "translation": "acabar/matar a alguien"
+    },
+    {
+      "word": "Indians don't farm out their kills",
+      "translation": "los indígenas no delegan sus presas"
+    },
+    {
+      "word": "Cuts way down on the bullshit factor",
+      "translation": "reduce mucho el factor de tonterías"
+    },
+    {
+      "word": "Come again?",
+      "translation": "¿Cómo?"
+    },
+    {
+      "word": "Honor a deal (verbo)",
+      "translation": "cumplir con un acuerdo"
+    },
+    {
+      "word": "Step off the rug (verbo)",
+      "translation": "salir de la alfombra"
+    },
+    {
+      "word": "Dickweed (despectivo)",
+      "translation": "idiota, imbécil"
+    },
+    {
+      "word": "Hold the head",
+      "translation": "sujetar/sostener la cabeza"
+    },
+    {
+      "word": "None taken (expresión en algunos contextos)",
+      "translation": "no me ofende"
+    },
+    {
+      "word": "Grin",
+      "translation": "sonrisa"
+    },
+    {
+      "word": "It’s plastered",
+      "translation": "está estampada, se refleja"
+    },
+    {
+      "word": "All my pent up energy",
+      "translation": "toda mi energía acumulada"
+    },
+    {
+      "word": "Inbox",
+      "translation": "bandeja de entrada"
+    },
+    {
+      "word": "That honor was repaid with butchery",
+      "translation": "ese honor fue correspondido con una masacre"
+    },
+    {
+      "word": "Perks",
+      "translation": "ventajas"
+    },
+    {
+      "word": "Roll around",
+      "translation": "revolcar"
+    },
+    {
+      "word": "Buck like a bronco",
+      "translation": "brincar como un caballo salvaje"
+    },
+    {
+      "word": "Oomph",
+      "translation": "chispa, energía"
+    },
+    {
+      "word": "In effect and good to go (frase no literal)",
+      "translation": "en vigor y listo para funcionar"
+    },
+    {
+      "word": "Smack overdose",
+      "translation": "sobredosis de crack"
+    },
+    {
+      "word": "Just another saturday night sleeper",
+      "translation": "solo otra noche de sábado durmiendo hasta tarde"
+    },
+    {
+      "word": "Here's the kicker (frase no literal)",
+      "translation": "y aquí viene lo mejor"
+    },
+    {
+      "word": "Baggage monkey (parcialmente no literal)",
+      "translation": "mozo de equipaje"
+    },
+    {
+      "word": "Junkie",
+      "translation": "adicto, drogadicto"
+    },
+    {
+      "word": "Deed",
+      "translation": "acto, acción"
+    },
+    {
+      "word": "She had a root canal develop some problems (parcialmente no literal)",
+      "translation": "le surgieron algunos problemas con un tratamiento de conducto"
+    },
+    {
+      "word": "Those tepee asswipes",
+      "translation": "esos imbéciles de los tipis"
+    },
+    {
+      "word": "Alkies",
+      "translation": "alcohólicos"
+    },
+    {
+      "word": "Write up",
+      "translation": "redactar"
+    },
+    {
+      "word": "I always get read a story",
+      "translation": "siempre me leen un cuento"
+    },
+    {
+      "word": "Snow-pushers",
+      "translation": "quitanieves"
+    },
+    {
+      "word": "Rated load",
+      "translation": "carga nominal"
+    },
+    {
+      "word": "Attachment snow blowers",
+      "translation": "quitanieves acoplables"
+    },
+    {
+      "word": "Complimentary (no literal)",
+      "translation": "de cortesía, gratuito"
+    },
+    {
+      "word": "She scoots over",
+      "translation": "ella se hace un lado"
+    },
+    {
+      "word": "Main road could use a plow (frase no literal)",
+      "translation": "a la carretera principal le vendría bien una quitanieves"
+    },
+    {
+      "word": "A comfort",
+      "translation": "un consuelo"
+    },
+    {
+      "word": "Cabinet",
+      "translation": "armario"
+    },
+    {
+      "word": "Hack off your nose (parcialmente no literal)",
+      "translation": "cortar tu nariz"
+    },
+    {
+      "word": "Snow blower",
+      "translation": "quitanieves"
+    }
+  ],
+  "count": 96,
+  "dialogues": 1129,
+  "duration": 119
+}

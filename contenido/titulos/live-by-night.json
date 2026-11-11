@@ -1,0 +1,35 @@
+{
+  "titulo": "Live by Night",
+  "tipo": "pelicula",
+  "clasificacion": "+18",
+  "duracion": 129,
+  "tmdb": {
+    "tipo": "movie",
+    "id": 259695
+  },
+  "analisis": "",
+  "sinopsis": "Un juego de la historia en la Era de la Prohibición y centrado alrededor de un grupo de individuos y sus tratos en el mundo de crimen organizado.",
+  "poster": "https://image.tmdb.org/t/p/w500/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+  "fondo": "https://image.tmdb.org/t/p/original/8OCo2aJRWcdnzKkzqplP1V0sgYU.jpg",
+  "fotos": [
+    "https://image.tmdb.org/t/p/w780/8OCo2aJRWcdnzKkzqplP1V0sgYU.jpg",
+    "https://image.tmdb.org/t/p/w780/vClMoGPBTt2mh1NFthtBCZlwO2r.jpg",
+    "https://image.tmdb.org/t/p/w780/l9Z3eUQKF4v8KVLO5AoRll6Jyyy.jpg",
+    "https://image.tmdb.org/t/p/w780/55qPW3v1CTw5Ye5VFLjxuwfWdS8.jpg",
+    "https://image.tmdb.org/t/p/w780/qBAXfI4V6z7NkzO2fkP5bdfjzB8.jpg",
+    "https://image.tmdb.org/t/p/w780/sJhYEEBIB9OAN5rszi23rnYYkEN.jpg"
+  ],
+  "realeza": {
+    "Elle Fanning": [
+      "actua"
+    ]
+  },
+  "pdfs": {
+    "vocabulario": [
+      "Vocabularios/2027/Palabras desconocidas de Live by Night (lista definitiva).pdf"
+    ],
+    "dialogos": [
+      "Diálogos/Diálogos pelis 2027/Dialogues from Live by Night to improve the vocabulary in English.pdf"
+    ]
+  }
+}

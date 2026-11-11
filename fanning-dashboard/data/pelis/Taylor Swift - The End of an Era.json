@@ -3,22 +3,22 @@
   "level": "B1-B2",
   "levelDetail": {
     "nivel": "B1-B2",
-    "puntaje": 3.6,
+    "puntaje": 3.54,
     "senales": {
-      "vocabulario": 3.63,
+      "vocabulario": 3.59,
       "dialogos": 3.26,
-      "temas": 3.74
+      "temas": 3.65
     },
     "vocabulario": {
       "distribucion": {
-        "A1": 13.9,
-        "A2": 11.6,
-        "B1": 11.1,
-        "B2": 29.1,
-        "C1": 19.0,
-        "C2": 15.4
+        "A1": 14.9,
+        "A2": 13.1,
+        "B1": 11.0,
+        "B2": 28.8,
+        "C1": 17.8,
+        "C2": 14.4
       },
-      "densidad": 6.7
+      "densidad": 7.2
     },
     "dialogos": {
       "cobertura95": 2.98,
@@ -28,7 +28,7 @@
       "musical"
     ],
     "rango": [
-      "B1-B2",
+      "B1",
       "B2"
     ]
   },
@@ -63,7 +63,9 @@
         "name": "Thank You for the Lovely Bouquet",
         "still_path": "https://image.tmdb.org/t/p/w500/gp2VA9PJA5N5yyqkWrfT4aAhc9t.jpg",
         "overview": "Taylor reflexiona sobre sus sets acústicos e invita al escenario a Travis Kelce y Sabrina Carpenter."
-      }
+      },
+      "S01E05": {},
+      "S01E06": {}
     }
   },
   "posterUrl": "https://image.tmdb.org/t/p/w500/8qEyRXQMC3L77fjY924qcoxaaVs.jpg",
@@ -1087,9 +1089,567 @@
       "count": 62,
       "dialogues": 808,
       "duration": 49
+    },
+    {
+      "code": "S01E05",
+      "name": "Taylor Swift - The End of an Era (Episode 5)",
+      "level": "B1-B2",
+      "levelDetail": {
+        "nivel": "B1-B2",
+        "puntaje": 3.61,
+        "senales": {
+          "vocabulario": 3.77,
+          "dialogos": 3.15,
+          "temas": 3.73
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 6.7,
+            "A2": 18.3,
+            "B1": 13.3,
+            "B2": 30.0,
+            "C1": 20.0,
+            "C2": 11.7
+          },
+          "densidad": 7.9
+        },
+        "dialogos": {
+          "cobertura95": 2.95,
+          "ppm": 171.3
+        },
+        "temas": [
+          "musical"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "They just kind of linger",
+          "translation": "simplemente se quedan ahí, como sin irse"
+        },
+        {
+          "word": "Cold brew",
+          "translation": "café frío"
+        },
+        {
+          "word": "Spatchcocking a turkey",
+          "translation": "la técnica de abrir un pavo a la mitad"
+        },
+        {
+          "word": "We should get jazzy with the turkey",
+          "translation": "deberíamos darle un toque especial al pavo"
+        },
+        {
+          "word": "As cutthroat as",
+          "translation": "tan despiadada como"
+        },
+        {
+          "word": "Everybody was so locked in for my whole life",
+          "translation": "todos se mantuvieron tan al tanto de mi vida"
+        },
+        {
+          "word": "Band together",
+          "translation": "unirse"
+        },
+        {
+          "word": "You're gonna fire extinguish it",
+          "translation": "vas a apagar el fuego"
+        },
+        {
+          "word": "Read up on it (verbo frasal no literal)",
+          "translation": "informarse al respecto"
+        },
+        {
+          "word": "We can do back-to-back bridges",
+          "translation": "podemos hacer puentes uno tras otro"
+        },
+        {
+          "word": "Hearse",
+          "translation": "carro fúnebre"
+        },
+        {
+          "word": "I'm gonna chop up (en música)",
+          "translation": "voy a hacer un remix de entre"
+        },
+        {
+          "word": "Mastermind (verbo)",
+          "translation": "planear, organizar"
+        },
+        {
+          "word": "Mastermind (sustantivo)",
+          "translation": "genio"
+        },
+        {
+          "word": "Musical background",
+          "translation": "formación musical"
+        },
+        {
+          "word": "She was a music major out of college",
+          "translation": "se licenció en música en la universidad"
+        },
+        {
+          "word": "Performing out of New York",
+          "translation": "con sede en Nueva York"
+        },
+        {
+          "word": "I was gonna be quizzed",
+          "translation": "me iban a hacer preguntas"
+        },
+        {
+          "word": "Blow kissies",
+          "translation": "lanza/manda besitos"
+        },
+        {
+          "word": "Geek",
+          "translation": "fanático"
+        },
+        {
+          "word": "Entail (verbo)",
+          "translation": "implicar, conllevar, suponer, acarrear"
+        },
+        {
+          "word": "You are all things kindness and all things grace",
+          "translation": "eres todo bondad y todo Gracia"
+        },
+        {
+          "word": "Thank you for unretiring for us",
+          "translation": "gracias por volver a la actividad con nosotros"
+        },
+        {
+          "word": "Undertaking",
+          "translation": "desafío, reto"
+        },
+        {
+          "word": "Storyteller",
+          "translation": "narrador"
+        },
+        {
+          "word": "Shoot (verbo en cine)",
+          "translation": "grabar, filmar"
+        },
+        {
+          "word": "Cinematographer",
+          "translation": "cinematógrafo"
+        },
+        {
+          "word": "Do some wild card stuff (parcialmente no literal)",
+          "translation": "haz algo con los comodines"
+        },
+        {
+          "word": "Diving into the stage",
+          "translation": "sumergirse en el escenario"
+        },
+        {
+          "word": "A slamming screen door",
+          "translation": "el portazo de una puerta de malla"
+        },
+        {
+          "word": "Tap (verbo)",
+          "translation": "dar golpecitos"
+        },
+        {
+          "word": "And drag me headfirst, fearless",
+          "translation": "me arrastras de cabeza, sin miedo alguno"
+        },
+        {
+          "word": "And crafting a song",
+          "translation": "y componer una canción"
+        },
+        {
+          "word": "A kind of free-flowing state",
+          "translation": "una especie de estado de fluidez"
+        },
+        {
+          "word": "Hone (verbo)",
+          "translation": "perfeccionar"
+        },
+        {
+          "word": "You also look up to them",
+          "translation": "también tú los admiras"
+        },
+        {
+          "word": "Spiced wine",
+          "translation": "vino especiado"
+        },
+        {
+          "word": "Creepy",
+          "translation": "espeluznante"
+        },
+        {
+          "word": "Several overarching themes that are woven throughout",
+          "translation": "varios temas generales que se entrelazan a lo largo de toda la obra"
+        },
+        {
+          "word": "Of my storytelling",
+          "translation": "en que cuento mis historias"
+        },
+        {
+          "word": "Heartbreak",
+          "translation": "angustia, dolor"
+        },
+        {
+          "word": "Because I knew you stepping on the last train (parcialmente no literal)",
+          "translation": "porque te vi subir al último tren"
+        },
+        {
+          "word": "This is gonna pull me through my cold",
+          "translation": "esto me va a ayudar a superar este resfriado"
+        },
+        {
+          "word": "It's gonna send me off a cliff (parcialmente no literal)",
+          "translation": "me va a hacer caer por un precipicio"
+        },
+        {
+          "word": "Are we in the clear yet?",
+          "translation": "¿Ya estamos a salvo?"
+        },
+        {
+          "word": "Marjorie was kind of a wreck at times writing it",
+          "translation": "Marjorie estaba bastante deshecha a veces mientras lo escribía"
+        },
+        {
+          "word": "Would sort of break down, sometimes",
+          "translation": "a veces, hasta se derrumbaba"
+        },
+        {
+          "word": "Rip (someone) apart",
+          "translation": "partirle el corazón"
+        },
+        {
+          "word": "If I can make it through the tour",
+          "translation": "si logro terminar la gira"
+        },
+        {
+          "word": "Hold their phones up",
+          "translation": "levantar sus teléfonos"
+        },
+        {
+          "word": "Just this big rush fell over me (frase no literal)",
+          "translation": "de repente, sentí una gran oleada de emoción"
+        },
+        {
+          "word": "That smacked me in the face (frase no literal)",
+          "translation": "eso me tomó por sorpresa"
+        },
+        {
+          "word": "Frozen swims",
+          "translation": "brazadas congeladas"
+        },
+        {
+          "word": "The car ride back and up the stairs",
+          "translation": "el viaje de regreso en auto y subir las escaleras"
+        },
+        {
+          "word": "Backlogged dreams",
+          "translation": "sueños pendientes"
+        },
+        {
+          "word": "She'd also be really, really stoked",
+          "translation": "además, estaría muy, muy emocionada"
+        },
+        {
+          "word": "I'm just having a bit of a moment (frase no literal)",
+          "translation": "solo estoy pasando por un momento un poco complicado"
+        },
+        {
+          "word": "And that's what, is like, cracked me",
+          "translation": "y eso fue lo que, como que, me destrozó"
+        },
+        {
+          "word": "It cracked me wide open",
+          "translation": "me dejó completamente destrozado"
+        },
+        {
+          "word": "It has to be hitting you honey that",
+          "translation": "seguro que ya te estás dando cuenta, cariño, de que"
+        }
+      ],
+      "count": 60,
+      "dialogues": 764,
+      "duration": 45,
+      "durationEstimated": true
+    },
+    {
+      "code": "S01E06",
+      "name": "Taylor Swift - The End of an Era (Episode 6)",
+      "level": "B1",
+      "levelDetail": {
+        "nivel": "B1",
+        "puntaje": 3.25,
+        "senales": {
+          "vocabulario": 3.31,
+          "dialogos": 3.1,
+          "temas": 3.23
+        },
+        "vocabulario": {
+          "distribucion": {
+            "A1": 26.7,
+            "A2": 13.3,
+            "B1": 8.3,
+            "B2": 26.7,
+            "C1": 11.7,
+            "C2": 13.3
+          },
+          "densidad": 8.2
+        },
+        "dialogos": {
+          "cobertura95": 3.0,
+          "ppm": 163.2
+        },
+        "temas": [
+          "musical",
+          "deportiva"
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "Stretching 633 days",
+          "translation": "que duro 633 días"
+        },
+        {
+          "word": "And rocketing Swift",
+          "translation": "y catapultó a Swift"
+        },
+        {
+          "word": "Kick off",
+          "translation": "iniciar, comenzar, poner en marcha"
+        },
+        {
+          "word": "I'm just sort of bracing myself for",
+          "translation": "me estoy preparando, por así decirlo, para"
+        },
+        {
+          "word": "A bonding experience for, like",
+          "translation": "una experiencia que unió a, como dirían"
+        },
+        {
+          "word": "All at once",
+          "translation": "todas al mismo tiempo"
+        },
+        {
+          "word": "Timing",
+          "translation": "oportunidad, momento oportuno"
+        },
+        {
+          "word": "All lines up for this to go well",
+          "translation": "todo apunta a que esto va a salir bien"
+        },
+        {
+          "word": "Mesmerized and swept off my feet",
+          "translation": "hipnotizada y completamente cautivada"
+        },
+        {
+          "word": "I'm getting weird jitters",
+          "translation": "me están dando unos temblores raros"
+        },
+        {
+          "word": "Key (en música)",
+          "translation": "nota"
+        },
+        {
+          "word": "Eyelids",
+          "translation": "párpados"
+        },
+        {
+          "word": "I'm going to record that and just talk it through",
+          "translation": "voy a grabarlo y a explicarlo paso a paso"
+        },
+        {
+          "word": "I'm just gonna talk it through",
+          "translation": "sólo voy a explicarlo con calma"
+        },
+        {
+          "word": "In the background",
+          "translation": "en el fondo"
+        },
+        {
+          "word": "Upsetting situation",
+          "translation": "situación angustiante/perturbadora"
+        },
+        {
+          "word": "We're taking it in",
+          "translation": "lo estamos asimilando"
+        },
+        {
+          "word": "Holy mackerel (expresión)",
+          "translation": "¡Madre mía!, ¡Caramba!"
+        },
+        {
+          "word": "This is an unprecedented big",
+          "translation": "esto es algo sin precedentes"
+        },
+        {
+          "word": "Fest",
+          "translation": "fiesta"
+        },
+        {
+          "word": "The utmost respect",
+          "translation": "el mayor respeto"
+        },
+        {
+          "word": "Whoop (verbo)",
+          "translation": "gritar de alegría"
+        },
+        {
+          "word": "Buzzy",
+          "translation": "emocionado"
+        },
+        {
+          "word": "The tour will live on as probably the pinnacle, foremost important thing",
+          "translation": "la gira perdurará como, probablemente, el momento más culminante y lo más importante"
+        },
+        {
+          "word": "Joyriding down our road",
+          "translation": "dando una vuelta por nuestra calle"
+        },
+        {
+          "word": "Lay on the horn",
+          "translation": "toca la bocina/el claxon"
+        },
+        {
+          "word": "Change your mind (verbo)",
+          "translation": "cambiar de opinión"
+        },
+        {
+          "word": "Full chill",
+          "translation": "escalofrío total"
+        },
+        {
+          "word": "Age-old curse",
+          "translation": "maldición ancestral"
+        },
+        {
+          "word": "I'll keep up with our old friends",
+          "translation": "me mantendré en contacto con nuestros viejos amigos"
+        },
+        {
+          "word": "I'm getting full body sweats",
+          "translation": "me está dando sudoración por todo el cuerpo"
+        },
+        {
+          "word": "Gross",
+          "translation": "asqueroso"
+        },
+        {
+          "word": "To commune with each other",
+          "translation": "para estar en comunión unos con otros"
+        },
+        {
+          "word": "That compelled people to make such a big deal out of the Eras Tour",
+          "translation": "lo que llevó a la gente a darle tanta importancia a la gira Eras Tour"
+        },
+        {
+          "word": "Posivility rush",
+          "translation": "oleada/ola de positividad"
+        },
+        {
+          "word": "Black out",
+          "translation": "desmayarse"
+        },
+        {
+          "word": "Rush",
+          "translation": "oleada, ola"
+        },
+        {
+          "word": "It's really fulfilling, and her outreach",
+          "translation": "es realmente gratificante, y su labor de divulgación"
+        },
+        {
+          "word": "It stems from a hat",
+          "translation": "se remonta a un sombrero"
+        },
+        {
+          "word": "Scouring the crowd",
+          "translation": "buscando en la multitude"
+        },
+        {
+          "word": "You got the game on?",
+          "translation": "¿Estás viendo el partido?"
+        },
+        {
+          "word": "To grow back some of the things",
+          "translation": "recuperar algunas de las cosas"
+        },
+        {
+          "word": "You beat me to it",
+          "translation": "te me adelantaste"
+        },
+        {
+          "word": "Keep that on",
+          "translation": "no te lo quites"
+        },
+        {
+          "word": "Did they get a flag for that? (pregunta no literal en fútbol americano)",
+          "translation": "¿Les marcaron una falta por eso?"
+        },
+        {
+          "word": "Get this first down please",
+          "translation": "consigue este primer avance"
+        },
+        {
+          "word": "Showcase (verbo)",
+          "translation": "mostrar, exhibir"
+        },
+        {
+          "word": "I've been very in-the-moment",
+          "translation": "he estado viviendo muy el momento"
+        },
+        {
+          "word": "No harm would come to the tour",
+          "translation": "la gira no sufriría ningún daño"
+        },
+        {
+          "word": "Let’s fuck shit up",
+          "translation": "armemos un lío"
+        },
+        {
+          "word": "The crowds in stands went wild",
+          "translation": "el público en las gradas enloqueció"
+        },
+        {
+          "word": "Read off",
+          "translation": "leer en voz alta"
+        },
+        {
+          "word": "An age",
+          "translation": "una nueva etapa"
+        },
+        {
+          "word": "Crash through",
+          "translation": "derribar"
+        },
+        {
+          "word": "Snarling, angry bitterness, despondent, heartbroken, wistful theatrical magic",
+          "translation": "magia teatral llena de gruñidos, amargura furiosa, desánimo, desamor y nostalgia"
+        },
+        {
+          "word": "Unifying",
+          "translation": "unificador"
+        },
+        {
+          "word": "I'm right down to it",
+          "translation": "ya estoy en ello"
+        },
+        {
+          "word": "Disbelief",
+          "translation": "incredulidad"
+        },
+        {
+          "word": "Across our great divide (frase no literal)",
+          "translation": "a través de nuestra gran brecha"
+        },
+        {
+          "word": "Dappled with the flickers of light",
+          "translation": "salpicado por los destellos de luz"
+        }
+      ],
+      "count": 60,
+      "dialogues": 729,
+      "duration": 47,
+      "durationEstimated": true
     }
   ],
-  "count": 217,
-  "dialogues": 3216,
-  "duration": 185
+  "count": 337,
+  "dialogues": 4709,
+  "duration": 277,
+  "durationEstimated": true
 }
